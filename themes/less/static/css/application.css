@@ -5,6 +5,10 @@ body {
   text-align: center;
 }
 
+.main img {
+  width: 100%;
+}
+
 h1 {
   text-align: center;
 }
