@@ -1,8 +1,9 @@
 body {
-  font-family: "Work sans", sans-serif;
+  font-family: "Cousine", monospace;
+  font-weight: 100;
   width: 600px;
   margin: 0 auto;
-  text-align: center;
+  line-height: 1.25;
 }
 
 .main img {
@@ -10,5 +11,17 @@ body {
 }
 
 h1 {
-  text-align: center;
+  font-weight: normal;
+}
+
+.notes small {
+  margin-left: 20px;
+}
+
+.notes a, .home {
+  text-decoration: none;
+}
+
+li {
+  margin-bottom: 10px;
 }

@@ -1,5 +1,7 @@
 {{ define "main" }}
   <div class="main">
     {{.Content}}
+    {{ partial "notes.html" . }}
+    {{ partial "coffee.html" . }}
   </div>
 {{ end }}
