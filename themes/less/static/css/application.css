@@ -1,9 +1,12 @@
-@media (max-width: 640px) {
+@media only screen
+and (min-device-width : 375px)
+and (max-device-width : 667px) {
   body>header, .main {
     width: 100%;
   }
 }
-@media (min-width: 641px) {
+@media only screen
+and (min-width : 667px) {
   body>header, .main {
     width: 600px;
     margin: 0 auto;
@@ -15,11 +18,6 @@ body {
   font-family: "Cousine", monospace;
   font-weight: 100;
   line-height: 1.25;
-}
-
-.main {
-  width: 600px;
-  margin: 0 auto;
 }
 
 .main img {
