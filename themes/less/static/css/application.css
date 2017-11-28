@@ -35,10 +35,20 @@ b {
   margin-left: 20px;
 }
 
-.notes a, .home {
+li {
+  margin-bottom: 10px;
+}
+
+a {
+  margin-bottom: 3px;
+  border-bottom: 1px dotted;
   text-decoration: none;
 }
 
-li {
-  margin-bottom: 10px;
+header a {
+  border-bottom: 0;
+}
+
+a:visited, a {
+  color: #666;
 }
