@@ -9,7 +9,7 @@ and (max-device-width : 667px) {
 and (min-width : 667px) {
   body>header, .main {
     width: 600px;
-    margin: 0 auto;
+    margin-left: 30px;
   }
 }
 .emoji {
