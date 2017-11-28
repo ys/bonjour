@@ -12,6 +12,9 @@ and (min-width : 667px) {
     margin: 0 auto;
   }
 }
+.emoji {
+  font-family: arial;
+}
 
 body {
   margin: 0;
