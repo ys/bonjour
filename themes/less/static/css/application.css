@@ -15,7 +15,7 @@ and (min-width : 667px) {
 
 body {
   margin: 0;
-  font-family: "Cousine", monospace;
+  font-family: "Source Code Pro", monospace;
   font-weight: 100;
   line-height: 1.25;
 }
@@ -25,9 +25,12 @@ body {
 }
 
 h1 {
-  font-weight: normal;
+  font-weight: 200;
 }
 
+b {
+  font-weight: 400;
+}
 .notes small {
   margin-left: 20px;
 }
