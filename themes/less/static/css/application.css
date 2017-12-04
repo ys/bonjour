@@ -16,6 +16,16 @@ and (min-width : 667px) {
   font-family: arial;
 }
 
+figure {
+  margin-left: 0;
+  margin-bottom: 30px;
+}
+
+figure p {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
 body {
   margin: 0;
   font-family: "Source Code Pro", monospace;
