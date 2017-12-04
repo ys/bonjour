@@ -1,7 +1,7 @@
 <div class="notes">
   <h1 class="emoji">📋</h1>
   <ul class="notes">
-  {{ range (where .Site.RegularPages ".Type" "notes") }}
+  {{ range (.Site.RegularPages) }}
     <li>
       <a href="{{ .Permalink }}">{{ .Title }}</a><small>{{ dateFormat "Jan 2, 2006" .Date }}</small>
     </li>
