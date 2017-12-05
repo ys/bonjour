@@ -2,11 +2,9 @@
 <html>
   {{ partial "header" .}}
   <body>
-    <header>
-      <h1>{{ .Site.Title }}</h1>
-    </header>
      {{ block "main" . }}
       <!-- The part of the page that begins to differ between templates -->
     {{ end }}
+    {{ template "_internal/google_analytics.html" . }}
   </body>
 </html>
