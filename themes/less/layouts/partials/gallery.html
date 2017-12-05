@@ -1,7 +1,7 @@
 {{ if .pictures }}
-  <div class="main-carousel" data-flickity='{ "cellAlign": "center", "pageDots": false }'>
+  <div class="main-carousel" data-flickity='{ "bgLazyLoad": true, "cellAlign": "center", "pageDots": false }'>
     {{ range .pictures }}
-    <div class="carousel-cell" style="width: 100%; background: url('{{ . }}') no-repeat; background-size: contain; background-position: center"></div>
+    <div class="carousel-cell" data-flickity-bg-lazyload="{{ . }}"></div>
     {{ end }}
   </div>
 {{ end }}

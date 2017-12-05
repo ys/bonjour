@@ -110,3 +110,22 @@ a:visited, a {
   top: inherit;
   left: inherit;
 }
+.flickity-slider {
+  transform: none !important;
+}
+
+.carousel-cell {
+  left: 0 !important;
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+  width: 100%;
+  z-index: -1;
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.carousel-cell.is-selected {
+  opacity: 1;
+  z-index: 0
+}
