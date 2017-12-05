@@ -1,0 +1,7 @@
+{{ if .pictures }}
+  <div class="main-carousel" data-flickity='{ "cellAlign": "center", "pageDots": false }'>
+    {{ range .pictures }}
+    <div class="carousel-cell" style="width: 100%; background: url('{{ . }}') no-repeat; background-size: contain; background-position: center"></div>
+    {{ end }}
+  </div>
+{{ end }}

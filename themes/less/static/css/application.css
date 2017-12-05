@@ -65,3 +65,48 @@ header a {
 a:visited, a {
   color: #666;
 }
+
+.main-carousel {
+  height: 400px !important;
+  width: 100%;
+  position: relative;
+  margin-bottom: 60px;
+}
+.flickity-viewport {
+  height: 400px !important;
+}
+.carousel-cell {
+  height: 400px !important;
+}
+.flickity-prev-next-button {
+  width: 30px;
+  height: 30px;
+  background: transparent;
+}
+.flickity-prev-next-button:hover {
+  background: transparent;
+}
+/* arrow color */
+.flickity-prev-next-button .arrow {
+  fill: #666;
+}
+.flickity-prev-next-button.no-svg {
+  color: #666;
+}
+/* position outside */
+.flickity-prev-next-button.previous {
+  display: block;
+  position: absolute;
+  bottom: -60px;
+  right: 20px;
+  top: inherit;
+  left: inherit;
+}
+.flickity-prev-next-button.next {
+  display: block;
+  position: absolute;
+  bottom: -60px;
+  right: 0;
+  top: inherit;
+  left: inherit;
+}
