@@ -122,6 +122,7 @@ a:visited, a {
   z-index: -1;
   background-size: contain;
   background-repeat: no-repeat;
+  background-position: center;
   position: relative;
 }
 
