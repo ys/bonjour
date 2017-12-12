@@ -1,7 +1,8 @@
 ---
-title: "Sky"
+title: "Serie #1"
 date: 2017-12-12T18:50:59+01:00
 slug: "sky"
+tags: ["series"]
 pictures: ["/sky/1.jpg", "/sky/2.jpg", "/sky/3.jpg", "/sky/4.jpg", "/sky/5.jpg", "/sky/6.jpg", "/sky/7.jpg"]
 ---
 
