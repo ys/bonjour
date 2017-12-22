@@ -1,5 +1,5 @@
 ---
-title: "Eat trash, be free"
+title: "I like you too"
 date: 2017-10-26T22:57:50+02:00
 draft: false
 fullwidth: pink.jpg
