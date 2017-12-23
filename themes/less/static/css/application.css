@@ -130,3 +130,32 @@ a:visited, a {
   opacity: 1;
   z-index: 0
 }
+
+.photoset {
+  display: flex;
+  flex-direction: row;
+}
+
+.photoset figure:not(:last-child) {
+  margin-right: 10px;
+}
+.photoset figure:last-child {
+  margin-right: 0px;
+}
+.main { 
+  width: 100%;
+  margin: 0;
+}
+
+.main .fullwidth, .mainwander .fullwidth img {
+  width: 100% !important;
+  margin: 0;
+}
+
+.main :not(.fullwdith) {
+  max-width: 50rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+

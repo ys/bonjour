@@ -1,0 +1,9 @@
+{{ define "main" }}
+<div class="main wander">
+  <header>
+    <h1><a class="home emoji" href="/">🌲</a> > {{ .Title }}</h1>
+    <h4>{{ dateFormat "Jan 02, 2006" .Date }}</h4>
+  </header>
+  {{.Content}}
+</div>
+{{ end }}

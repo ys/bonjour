@@ -1,8 +1,9 @@
 {{ define "main" }}
+<div class="main">
+
 <header>
   <h1>{{ .Site.Title }}</h1>
 </header>
-  <div class="main">
     {{.Content}}
     {{ partial "notes.html" . }}
     {{ partial "coffee.html" . }}
