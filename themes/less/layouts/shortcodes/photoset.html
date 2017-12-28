@@ -1,3 +1,3 @@
-<div class="photoset">
+<div class="photoset {{ if .Get "max"}}max-{{ .Get "max" }}{{ end }}">
   {{.Inner}}
 </div>

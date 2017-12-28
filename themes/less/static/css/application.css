@@ -7,9 +7,26 @@ and (max-device-width : 667px) {
 }
 @media only screen
 and (min-width : 667px) {
-  body>header, .main {
-    width: 600px;
-    margin-left: 30px;
+  .main { 
+    width: 100%;
+    margin: 0;
+  }
+  
+  .main .fullwidth, .mainwander .fullwidth img {
+    width: 100% !important;
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .main > * {
+    margin-top: 1rem !important;
+    margin-bottom: 0 !important;
+  }
+  
+  .main > :not(.fullwidth) {
+    max-width: 58rem;
+
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 .emoji {
@@ -145,31 +162,20 @@ a:visited, a {
 }
 
 .photoset {
-  display: flex;
-  flex-direction: row;
+  margin-top: 1rem;
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(3, 1fr);
 }
 
-.photoset figure:not(:last-child) {
-  margin-right: 10px;
+.photoset.max-2 {
+  grid-template-columns: repeat(2, 1fr);
 }
-.photoset figure:last-child {
-  margin-right: 0px;
-}
-.main { 
-  width: 100%;
+
+.photoset figure {
   margin: 0;
 }
 
-.main .fullwidth, .mainwander .fullwidth img {
-  width: 100% !important;
-  margin-left: 0;
-  margin-right: 0;
-}
 
-.main > :not(.fullwidth) {
-  max-width: 50rem;
-  margin-left: auto;
-  margin-right: auto;
-}
 
 
