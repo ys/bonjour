@@ -1,40 +1,55 @@
-@media only screen
-and (min-device-width : 375px)
-and (max-device-width : 667px) {
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) {
   body>header, .main {
     width: 100%;
   }
+  .photoset {
+    margin-top: 1rem;
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: repeat(1, 1fr);
+  }
 }
-@media only screen
-and (min-width : 667px) {
-  .main { 
+
+@media only screen and (min-width: 667px) {
+  .main {
     width: 100%;
     margin: 0;
   }
-  
   .main .fullwidth, .mainwander .fullwidth img {
     width: 100% !important;
     margin-left: 0;
     margin-right: 0;
   }
-  .main > * {
+  .main>* {
     margin-top: 1rem !important;
     margin-bottom: 0 !important;
   }
-  
-  .main > :not(.fullwidth) {
+  .main> :not(.fullwidth) {
     max-width: 58rem;
-
     margin-left: auto;
     margin-right: auto;
   }
+  .photoset {
+    margin-top: 1rem;
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .photoset.max-2 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .photoset figure {
+    margin: 0;
+  }
 }
+
 .emoji {
   font-family: arial;
 }
 
 figure {
   margin-left: 0;
+  margin-right: 0;
   margin-bottom: 30px;
 }
 
@@ -42,6 +57,7 @@ figure p {
   margin-top: 10px;
   margin-bottom: 0;
 }
+
 html {
   margin: 0;
   padding: 0;
@@ -66,6 +82,7 @@ h1 {
 b {
   font-weight: 400;
 }
+
 .notes small {
   margin-left: 20px;
 }
@@ -83,12 +100,12 @@ a {
 header {
   padding-top: 30px;
 }
+
 header a {
   border-bottom: 0;
 }
 
 header h1 {
-
   margin-top: 0;
 }
 
@@ -102,28 +119,37 @@ a:visited, a {
   position: relative;
   margin-bottom: 60px;
 }
+
 .flickity-viewport {
   height: 100% !important;
 }
+
 .carousel-cell {
   height: 100% !important;
 }
+
 .flickity-prev-next-button {
   width: 30px;
   height: 30px;
   background: transparent;
 }
+
 .flickity-prev-next-button:hover {
   background: transparent;
 }
+
 /* arrow color */
+
 .flickity-prev-next-button .arrow {
   fill: #666;
 }
+
 .flickity-prev-next-button.no-svg {
   color: #666;
 }
+
 /* position outside */
+
 .flickity-prev-next-button.previous {
   display: block;
   position: absolute;
@@ -132,6 +158,7 @@ a:visited, a {
   top: inherit;
   left: inherit;
 }
+
 .flickity-prev-next-button.next {
   display: block;
   position: absolute;
@@ -140,6 +167,7 @@ a:visited, a {
   top: inherit;
   left: inherit;
 }
+
 .flickity-slider {
   transform: none !important;
 }
@@ -160,22 +188,3 @@ a:visited, a {
   opacity: 1;
   z-index: 0
 }
-
-.photoset {
-  margin-top: 1rem;
-  display: grid;
-  grid-gap: 1rem;
-  grid-template-columns: repeat(3, 1fr);
-}
-
-.photoset.max-2 {
-  grid-template-columns: repeat(2, 1fr);
-}
-
-.photoset figure {
-  margin: 0;
-}
-
-
-
-
