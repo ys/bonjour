@@ -38,19 +38,14 @@
   .photoset.max-2 {
     grid-template-columns: repeat(2, 1fr);
   }
-  .photoset figure {
-    margin: 0;
-  }
+}
+
+.photoset figure {
+  margin: 0;
 }
 
 .emoji {
   font-family: arial;
-}
-
-figure {
-  margin-left: 0;
-  margin-right: 0;
-  margin-bottom: 30px;
 }
 
 figure p {
