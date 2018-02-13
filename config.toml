@@ -3,3 +3,5 @@ languageCode = "en-us"
 title = "🌲 Vadrouilles & Co."
 theme = "less"
 googleAnalytics = "UA-33356575-1"
+[permalinks]
+  wanders = "/:slug"

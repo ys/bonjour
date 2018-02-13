@@ -4,8 +4,9 @@
 <header>
   <h1>{{ .Site.Title }}</h1>
 </header>
-    {{.Content}}
-    {{ partial "notes.html" . }}
-    {{ partial "coffee.html" . }}
+    <div class="description">
+      {{.Content}}
+    </div>
+    {{ partial "wanders.html" . }}
   </div>
 {{ end }}

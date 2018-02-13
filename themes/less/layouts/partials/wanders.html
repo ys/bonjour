@@ -1,0 +1,12 @@
+<div class="wanders">
+  {{ range where .Site.RegularPages ".Params.hidden" "!=" "true" }}
+    <div class="wander-tile">
+      <a href="{{ .Permalink }}">
+        <span class="date">{{ dateFormat "Jan 2, 2006" .Date }}</span>
+        <img src="{{ .Params.main_picture }}"/>
+        <span class="emoji">{{ .Params.country}}</span>
+        <span class="title">{{ .Title }}</span>
+      </a>
+    </div>
+  {{ end }}
+</div>
