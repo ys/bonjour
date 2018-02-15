@@ -3,10 +3,21 @@
     width: 100%;
   }
   .photoset {
-    margin-top: 1rem;
+    margin-top: 0;
     display: grid;
-    grid-gap: 1rem;
     grid-template-columns: repeat(1, 1fr);
+  }
+  figure {
+    margin-top: 1rem !important;
+  }
+  .wander header {
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+
+  .wander p {
+    margin-left: 1rem;
+    margin-right: 1rem;
   }
 }
 
@@ -98,9 +109,11 @@ a {
   border-bottom: 1px dotted;
   text-decoration: none;
 }
+
 a.emoji {
   border-bottom: 0;
 }
+
 .description {
   text-align: center;
   margin-top: 40px;
