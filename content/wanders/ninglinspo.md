@@ -1,6 +1,6 @@
 ---
 title: "Ninglinspo"
-date: 2017-10-25512:07:44+01:00
+date: 2017-10-25T12:07:44+01:00
 draft: false
 tags: ["wander", "🇧🇪"]
 slug: "ninglinspo"
