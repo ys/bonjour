@@ -2,7 +2,7 @@
 title: "South Lake Tahoe"
 date: 2018-02-11T12:07:44+01:00
 draft: false
-tags: ["wander"]
+tags: ["wander", "🇺🇸"]
 slug: "south-lake-tahoe"
 main_picture: "/wanders/tahoe/south-lake-tahoe-22.jpg"
 gear: ["📷 Fuji X100T", "📱 iPhone 6s"]

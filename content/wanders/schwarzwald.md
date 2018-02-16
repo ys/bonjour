@@ -2,7 +2,7 @@
 title: "Vadrouilles en Forêt Noire"
 date: 2018-02-05T12:07:44+01:00
 draft: false
-tags: ["wander"]
+tags: ["wander", "🇩🇪"]
 slug: "foret-noire"
 main_picture: "/wanders/schwarzwald/schwarzwald-32.jpg"
 country: "🇩🇪"
