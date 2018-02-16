@@ -7,9 +7,6 @@
     display: grid;
     grid-template-columns: repeat(1, 1fr);
   }
-  figure {
-    margin-top: 1rem !important;
-  }
   .wander header {
     margin-left: 1rem;
     margin-right: 1rem;
@@ -45,7 +42,6 @@
     margin-bottom: 25px;
   }
   .photoset {
-    margin-top: 1rem;
     display: grid;
     grid-gap: 1rem;
     grid-template-columns: repeat(3, 1fr);
@@ -62,6 +58,7 @@
 }
 
 figure {
+  margin-top: 1rem !important;
   margin: 0;
 }
 
