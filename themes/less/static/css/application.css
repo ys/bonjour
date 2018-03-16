@@ -16,6 +16,11 @@
     margin-left: 1rem;
     margin-right: 1rem;
   }
+  .geojson {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
+
 }
 
 @media only screen and (min-width: 667px) {
@@ -49,12 +54,15 @@
   .photoset.max-2 {
     grid-template-columns: repeat(2, 1fr);
   }
-
-  .wanders {
+  .wanders, .notes {
     margin-top: 1rem;
     display: grid;
     grid-gap: 1rem;
     grid-template-columns: repeat(2, 1fr);
+  }
+  .geojson {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
   }
 }
 
@@ -119,7 +127,7 @@ a.emoji {
   margin-top: 40px;
   margin-bottom: 40px;
 }
-.wanders {
+.wanders, .notes {
   border-top: 1px dotted;
   padding-top: 20px;
 }
@@ -222,4 +230,17 @@ a:visited, a {
 .carousel-cell.is-selected {
   opacity: 1;
   z-index: 0
+}
+
+/* This is about maps */
+
+#map {
+  height: 300px;
+}
+.leaflet-container {
+    background-color:rgba(255,0,0,0.0);
+}
+
+.geojson  dl {
+  text-align: center;
 }
