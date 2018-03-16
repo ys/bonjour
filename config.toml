@@ -3,5 +3,7 @@ languageCode = "en-us"
 title = "🌲 Vadrouilles & Co."
 theme = "less"
 googleAnalytics = "UA-114349967-1"
+disqusShortname = "vadrouilles"
 [permalinks]
   wanders = "/:slug"
+  notes = "/:slug"
