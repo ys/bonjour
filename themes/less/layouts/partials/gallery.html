@@ -1,7 +1,7 @@
-{{ if .pictures }}
+{{ if .Resources.GetMatch "gallery" }}
   <div class="main-carousel" data-flickity='{ "draggable": false,"bgLazyLoad": true, "cellAlign": "center", "pageDots": false }'>
-    {{ range .pictures }}
-    <div class="carousel-cell" data-flickity-bg-lazyload="{{ . }}" ></div>
+    {{ range .Resources.Match "gallery" }}
+    <div class="carousel-cell" data-flickity-bg-lazyload="{{ .Permalink }}" ></div>
     {{ end }}
   </div>
 {{ end }}
