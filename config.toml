@@ -1,11 +1,13 @@
 baseURL = "https://vadrouilles.co/"
-languageCode = "en-us"
+languageCode = "fr"
 title = "🌲 Vadrouilles & Co."
 theme = "less"
 googleAnalytics = "UA-114349967-1"
 disqusShortname = "vadrouilles-co"
+
 [permalinks]
   wanders = "/:slug"
   notes = "/:slug"
+
 [imaging]
   resampleFilter = "lanczos"
