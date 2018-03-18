@@ -2,7 +2,11 @@
   {{ range where (where .Site.RegularPages "Type" "wanders") ".Params.hidden" "!=" "true" }}
   <div class="wander-tile">
       <a href="{{ .Permalink }}">
-        <img src="{{ .Params.main_picture }}"/>
+        {{ $image := .Resources.GetMatch "main_picture" }}
+        {{ with $image }}
+          {{ $resized := $image.Resize "x500" }}
+          <img src="{{ $resized.Permalink }}"/>
+        {{ end }}
         <header>
           <span class="emoji">{{ .Params.country}}</span>
           <span class="title">{{ .Title }}</span>
