@@ -55,15 +55,18 @@
     grid-template-columns: repeat(2, 1fr);
   }
   .wanders, .notes {
-    margin-top: 1rem;
-    display: grid;
-    grid-gap: 1rem;
     grid-template-columns: repeat(2, 1fr);
   }
   .geojson {
     display: grid;
     grid-template-columns: 2fr 1fr;
   }
+}
+
+.wanders, .notes {
+  margin-top: 1rem;
+  display: grid;
+  grid-gap: 1rem;
 }
 
 figure {
