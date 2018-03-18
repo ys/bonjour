@@ -54,6 +54,9 @@
   .photoset.max-2 {
     grid-template-columns: repeat(2, 1fr);
   }
+  .photoset.always-2 {
+    grid-template-columns: repeat(2, 1fr);
+  }
   .wanders, .notes {
     grid-template-columns: repeat(2, 1fr);
   }
@@ -63,10 +66,16 @@
   }
 }
 
+.photoset.always-2 {
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(2, 1fr);
+}
+
 .wanders, .notes {
   margin-top: 1rem;
   display: grid;
-  grid-gap: 1rem;
+  grid-gap: 1.9rem 1rem;
 }
 
 figure {
@@ -89,7 +98,7 @@ html {
 }
 
 body {
-  color: #333;
+  color: #111;
   margin: 0;
   padding: 0;
   font-family: "Montserrat", sans-serif;
@@ -116,7 +125,7 @@ a {
   text-decoration: none;
 }
 
-h1, .wanders .title {
+h1, h4, .wanders .title {
   text-transform: uppercase;
   font-weight: 400;
 }
@@ -135,37 +144,22 @@ a.emoji {
   padding-top: 20px;
 }
 .wander-tile {
-  position: relative;
-  height: 300px;
   background-size: cover;
 }
 .wander-tile a {
   margin-bottom: 0;
   border-bottom: 0px;
-  font-size: 1.5rem;
   text-decoration: none;
+  width: 100%;
 }
 .wander-tile .title {
   margin-bottom: 3px;
-  color: white;
-  font-weight: 800;
 }
 
 .wander-tile header {
-  position: absolute;
-  bottom: 20px;
+  font-size: 1.3rem;
   text-align: center;
   width: 100%;
-}
-
-.wander-tile a:before {
-  content: '\A';
-  position: absolute;
-  width: 100%;
-  height:100%;
-  top:0;
-  left:0;
-  background:rgba(0,0,0,0.3);
 }
 
 .main > header {
@@ -177,7 +171,7 @@ header h1 {
 }
 
 a:visited, a {
-  color: #666;
+  color: #333;
 }
 
 /* This is the carousel */
