@@ -8,5 +8,4 @@ disqusShortname = "vadrouilles-co"
   wanders = "/:slug"
   notes = "/:slug"
 [imaging]
-  quality = 100
   resampleFilter = "lanczos"
