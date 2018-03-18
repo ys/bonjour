@@ -1,10 +1,11 @@
 <div class="wanders">
   {{ range where (where .Site.RegularPages "Type" "wanders") ".Params.hidden" "!=" "true" }}
-    <div class="wander-tile">
+  <div class="wander-tile" style="background-image:url({{ .Params.main_picture }});">
       <a href="{{ .Permalink }}">
-        <img src="{{ .Params.main_picture }}"/>
-        <span class="emoji">{{ .Params.country}}</span>
-        <span class="title">{{ .Title }}</span>
+        <header>
+          <span class="emoji">{{ .Params.country}}</span>
+          <span class="title">{{ .Title }}</span>
+        </header>
       </a>
     </div>
   {{ end }}
