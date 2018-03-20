@@ -5,8 +5,10 @@
     {{ $resized := $image.Resize "x500" }}
     <div class="wander-tile" style="background-image: url({{ $resized.Permalink }})">
         <header>
-          <span class="emoji">{{ .Params.country}}</span>
-          <span class="title">{{ .Title }}</span>
+          <h3>
+            <span class="emoji">{{ .Params.country}}</span>
+            <span class="title">{{ .Title }}</span>
+          </h3>
         </header>
     </div>
   </a>
