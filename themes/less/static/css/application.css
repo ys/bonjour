@@ -166,12 +166,12 @@ a.emoji {
   height: 100%;
   background-color: rgba(255, 255, 255, 0.8);
 }
-.wander-tile:hover:before {
+.wander-tile:hover:before, .wander-tile:active:before {
   visibility: visible;
   opacity: 1;
 }
 
-.wander-tile:hover header{
+.wander-tile:hover header, .wander-tile:active header {
   visibility: visible;
   opacity: 1;
 }
