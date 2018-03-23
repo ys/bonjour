@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div class="journal">
+<div class="list journal">
   {{ range where (where .Site.RegularPages "Type" "notes") ".Params.hidden" "!=" "true" }}
   <div class="note-tile">
     <a href="{{ .Permalink }}">

@@ -6,7 +6,7 @@ tags: ["wander", "🇺🇸"]
 slug: "south-lake-tahoe"
 main_picture: "south-lake-tahoe-22.jpg"
 gear: ["📷 Fuji X100T", "📱 iPhone 6s"]
-country: "🇺🇸"
+emoji: "🇺🇸"
 resources:
 - src: "south-lake-tahoe-22.jpg"
   name: "main_picture"

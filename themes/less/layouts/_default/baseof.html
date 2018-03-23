@@ -2,6 +2,9 @@
 <html>
   {{ partial "header" .}}
   <body>
+  <header class="main_header">
+    <h1><a href="/">{{ .Site.Title }}</a></h1>
+  </header>
      {{ block "main" . }}
       <!-- The part of the page that begins to differ between templates -->
     {{ end }}

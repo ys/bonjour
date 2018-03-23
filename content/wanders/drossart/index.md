@@ -5,7 +5,7 @@ draft: false
 tags: ["wander", "🇧🇪"]
 slug: "drossart"
 main_picture: "DSCF8808.jpg"
-country: "🇧🇪"
+emoji: "🇧🇪"
 gear: ["📷 Fuji X100T"]
 resources:
 - src: "DSCF8808.jpg"

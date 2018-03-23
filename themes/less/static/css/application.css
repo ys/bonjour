@@ -1,3 +1,77 @@
+/* Global */
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: #333;
+  margin: 0;
+  padding: 0;
+  font-family: 'Inconsolata', serif;
+  text-rendering: optimizeLegibility;
+  font-size: 1.2rem;
+  line-height: 1.52;
+}
+
+h1, h2, h3, h4 {
+  font-weight: 300;
+  font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+
+h1 {
+  font-size: 1.3rem;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+  position: relative;
+  text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
+  background-image: linear-gradient(to top, transparent, transparent 2px, #333 2px, #333 2.5px, transparent 2.5px);
+  transition: color 0.5s, background-image 0.5s linear;
+}
+
+a:visited, a:hover {
+  color: #666;
+  text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
+  background-image: linear-gradient(to top, transparent, transparent 2px, #666 2px, #666 2.5px, transparent 2.5px);
+}
+
+
+figure {
+  margin-top: 1rem !important;
+  margin: 0;
+}
+
+figure p {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+b {
+  font-weight: 400;
+}
+
+/* Helpers */
+
+.center {
+  text-align: center;
+}
+
+.emoji {
+  font-family: arial;
+}
+
+/* Grid */
+
+.photoset.always-2 {
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+/* Special for mobiles */
 @media only screen and (min-device-width: 375px) and (max-device-width: 667px) {
   body>header, .main {
     width: 100%;
@@ -23,6 +97,7 @@
 
 }
 
+/* Special for normal screens*/
 @media only screen and (min-width: 667px) {
   footer {
     height: 50px;
@@ -36,7 +111,13 @@
     margin-left: 0;
     margin-right: 0;
   }
-  .main> :not(.fullwidth) {
+  .main:not(.wander) {
+    max-width: 45rem;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+  .main.wander> :not(.fullwidth) {
     max-width: 58rem;
     margin-left: auto;
     margin-right: auto;
@@ -58,7 +139,7 @@
     grid-template-columns: repeat(2, 1fr);
   }
   .wanders, .notes {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(1, 1fr);
   }
   .geojson {
     display: grid;
@@ -66,90 +147,38 @@
   }
 }
 
-.photoset.always-2 {
-  display: grid;
-  grid-gap: 1rem;
-  grid-template-columns: repeat(2, 1fr);
+/* MAIN HEADER */
+
+.main_header {
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }
 
-.wanders, .notes {
+.main_header a {
+  border: 0;
+  color: #333;
+  background-image: none;
+  font-weight: 200;
+}
+
+/* INDEX LIST */
+
+.wanders {
   display: grid;
   padding-top: 1.3rem;
   grid-gap: 1.3rem 1.3rem;
 }
 
-figure {
-  margin-top: 1rem !important;
-  margin: 0;
-}
-
-.emoji {
-  font-family: arial;
-}
-
-figure p {
-  margin-top: 10px;
-  margin-bottom: 0;
-}
-
-html {
-  margin: 0;
-  padding: 0;
-}
-h1, h2, h3, h4 {
-  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-}
-
-body {
-  color: #111;
-  margin: 0;
-  padding: 0;
-  font-family: 'Amiri', serif;
-  text-rendering: optimizeLegibility;
-  font-size: 1.2rem;
-  line-height: 1.52;
-}
-
-.main img {
-  width: 100%;
-}
-
-b {
-  font-weight: 400;
-}
-
-.center {
-  text-align: center;
-}
-
-a {
-  margin-bottom: 3px;
-  border-bottom: 1px dotted;
-  text-decoration: none;
-}
-
-h1, h4, .wanders .title {
-  text-transform: uppercase;
-  font-weight: 400;
-}
-
-a.emoji {
-  border-bottom: 0;
-}
-
-.description {
-  text-align: center;
-  margin-top: 40px;
-  margin-bottom: 40px;
-}
 .wanders a {
   text-decoration: none;
   border-bottom: 0;
 }
+
 .wander-tile {
   position: relative;
   background-size: cover;
-  height: 300px;
+  height: 480px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -187,20 +216,41 @@ a.emoji {
   z-index: 1;
   font-size: 1.3rem;
   text-align: center;
+  margin-bottom: 0;
+}
+
+.wander-tile header {
+  text-shadow: none;
+}
+
+
+/* MAIN LAYOUT */
+
+.main img {
   width: 100%;
 }
 
-.main > header {
+.main header {
   text-align: center;
-  padding-top: 30px;
 }
 
-header h1 {
+.main header h1, .wanders .title {
+  text-transform: uppercase;
+}
+
+.main header h1 {
+  font-weight: 500;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+}
+
+.main header h4 {
   margin-top: 0;
+  font-size: 1.1rem;
 }
 
-a:visited, a {
-  color: #333;
+.main header {
+  margin-bottom: 3rem;
 }
 
 /* This is the carousel */
