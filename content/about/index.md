@@ -6,6 +6,8 @@ emoji: "👪"
 images: ["/us.jpg"]
 ---
 
+![](/us.jpg)
+
 Une famille de micro aventuriers.
 Au fil de nos week-ends et nos vacances, nous partons à la découverte du monde via de belles vadrouilles et autres pérégrinations.
 Si la journée commence par un café noir, on ne sait pas où elle nous mènera.

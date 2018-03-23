@@ -19,6 +19,21 @@ h1, h2, h3, h4 {
   font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 }
 
+footer {
+  margin: 1rem 0;
+  font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-weight: 100;
+  font-size: 0.8rem;
+  text-align: center;
+  color: #aaa;
+}
+
+footer a, footer a:visited {
+  padding-bottom: 2px;
+  color: #aaa;
+  background-image: linear-gradient(to top, transparent, transparent 2px, #aaa 2px, #aaa 2.5px, transparent 2.5px);
+}
+
 h1 {
   font-size: 1.3rem;
 }
