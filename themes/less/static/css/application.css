@@ -87,15 +87,17 @@ b {
 }
 
 /* Special for mobiles */
-@media only screen and (min-device-width: 375px) and (max-device-width: 667px) {
+@media only screen and (max-width: 667px) {
   body>header, .main {
     width: 100%;
   }
+
   .photoset {
     margin-top: 0;
     display: grid;
     grid-template-columns: repeat(1, 1fr);
   }
+
   .wander header {
     margin-left: 1rem;
     margin-right: 1rem;
@@ -105,11 +107,27 @@ b {
     margin-left: 1rem;
     margin-right: 1rem;
   }
+
   .geojson {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
   }
 
+  .wander-link {
+    margin-bottom: 40px;
+  }
+
+  .wander-tile header {
+    position: absolute !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    bottom: -110px;
+  }
+
+  .wander-tile .title {
+    text-transform: none !important;
+    font-weight: 200;
+  }
 }
 
 /* Special for normal screens*/
@@ -153,14 +171,66 @@ b {
   .photoset.always-2 {
     grid-template-columns: repeat(2, 1fr);
   }
-  .wanders, .notes {
-    grid-template-columns: repeat(1, 1fr);
-  }
   .geojson {
     display: grid;
     grid-template-columns: 2fr 1fr;
   }
+  .wander-tile:before {
+    transition: visibility 0.5s, opacity 0.5s linear;
+    visibility: hidden;
+    opacity: 0;
+    z-index: 0;
+    content: "\A";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.8);
+  }
+  .wander-tile:hover:before, .wander-tile:active:before {
+    visibility: visible;
+    opacity: 1;
+  }
 }
+
+/* TILES wander */
+.wander-link {
+  height: 0;
+  position: relative;
+  padding-bottom: 66.6%;
+}
+
+.wander-tile {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.wander-tile:hover header, .wander-tile:active header {
+  visibility: visible;
+  opacity: 1;
+}
+
+.wander-tile header {
+  opacity: 0;
+  visibility: hidden;
+  transition: visibility 0.5s, opacity 0.5s linear;
+  z-index: 1;
+  font-size: 1.3rem;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+
 
 /* MAIN HEADER */
 
@@ -181,6 +251,7 @@ b {
 
 .wanders {
   display: grid;
+  grid-template-columns: repeat(1, 1fr);
   padding-top: 1.3rem;
   grid-gap: 1.3rem 1.3rem;
 }
@@ -191,33 +262,8 @@ b {
 }
 
 .wander-tile {
-  position: relative;
   background-size: cover;
-  height: 480px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
-.wander-tile:before {
-  visibility: hidden;
-  opacity: 0;
-  transition: visibility 0.5s, opacity 0.5s linear;
-  z-index: 0;
-  content: "\A";
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(255, 255, 255, 0.8);
-}
-.wander-tile:hover:before, .wander-tile:active:before {
-  visibility: visible;
-  opacity: 1;
-}
-
-.wander-tile:hover header, .wander-tile:active header {
-  visibility: visible;
-  opacity: 1;
+  background-position: center;
 }
 
 .wander-tile .title {
@@ -225,19 +271,8 @@ b {
 }
 
 .wander-tile header {
-  opacity: 0;
-  visibility: hidden;
-  transition: visibility 0.5s, opacity 0.5s linear;
-  z-index: 1;
-  font-size: 1.3rem;
-  text-align: center;
-  margin-bottom: 0;
-}
-
-.wander-tile header {
   text-shadow: none;
 }
-
 
 /* MAIN LAYOUT */
 

@@ -1,6 +1,6 @@
 <div class="list wanders">
   {{ range where (where .Site.RegularPages "Type" "wanders") ".Params.hidden" "!=" "true" }}
-  <a href="{{ .Permalink }}">
+  <a class="wander-link" href="{{ .Permalink }}">
     {{ $image := .Resources.GetMatch "main_picture" }}
     {{ $resized := $image.Resize "x500" }}
     <div class="wander-tile" style="background-image: url({{ $resized.Permalink }})">
