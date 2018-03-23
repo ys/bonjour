@@ -4,7 +4,7 @@ date: 2017-12-23T12:07:44+01:00
 draft: false
 tags: ["wander", "🇫🇷"]
 slug: "groix"
-country: "🇫🇷"
+emoji: "🇫🇷"
 gear: ["📷 Fuji X100T", "📱 iPhone 6s"]
 resources:
 - name: "main_picture"

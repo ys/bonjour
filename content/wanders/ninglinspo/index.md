@@ -4,7 +4,7 @@ date: 2017-10-25T12:07:44+01:00
 draft: false
 tags: ["wander", "🇧🇪"]
 slug: "ninglinspo"
-country: "🇧🇪"
+emoji: "🇧🇪"
 gear: ["📷 Fuji X100T"]
 resources:
 - src: "DSCF8536.jpg"
