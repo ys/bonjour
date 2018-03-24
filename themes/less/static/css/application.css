@@ -1,10 +1,12 @@
 /* Global */
 html {
+  height: 100%;
   margin: 0;
   padding: 0;
 }
 
 body {
+  height: 100%;
   color: #333;
   margin: 0;
   padding: 0;
@@ -20,12 +22,16 @@ h1, h2, h3, h4 {
 }
 
 footer {
-  margin: 1rem 0;
   font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
   font-weight: 100;
   font-size: 0.8rem;
   text-align: center;
   color: #aaa;
+  position: relative;
+  margin-top: -50px; /* negative value of footer height */
+  height: 50px;
+  line-height: 50px;
+  clear:both;
 }
 
 footer a, footer a:visited {
@@ -78,6 +84,20 @@ b {
   font-family: arial;
 }
 
+.small {
+  font-size: 0.8rem;
+}
+
+/* Main wrapper */
+.wrapper {
+  min-height: 100%;
+  height: auto;
+}
+
+.main {
+  padding-bottom: 50px;
+}
+
 /* Grid */
 
 .photoset.always-2 {
@@ -108,11 +128,6 @@ b {
     margin-right: 1rem;
   }
 
-  .geojson {
-    display: grid;
-    grid-template-columns: repeat(1, 1fr);
-  }
-
   .wander-link {
     margin-bottom: 40px;
   }
@@ -132,14 +147,11 @@ b {
 
 /* Special for normal screens*/
 @media only screen and (min-width: 667px) {
-  footer {
-    height: 50px;
-  }
   .main {
     width: 100%;
     margin: 0;
   }
-  .main .fullwidth, .mainwander .fullwidth img {
+  .main .fullwidth, .main.wander .fullwidth img {
     width: 100% !important;
     margin-left: 0;
     margin-right: 0;
@@ -171,10 +183,6 @@ b {
   .photoset.always-2 {
     grid-template-columns: repeat(2, 1fr);
   }
-  .geojson {
-    display: grid;
-    grid-template-columns: 2fr 1fr;
-  }
   .wander-tile:before {
     transition: visibility 0.5s, opacity 0.5s linear;
     visibility: hidden;
@@ -190,6 +198,23 @@ b {
     visibility: visible;
     opacity: 1;
   }
+}
+
+/* Menu */
+.nav-item.active {
+}
+
+/* Notes tile */
+
+.note-tile {
+  font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-weight: 100;
+  color: #aaa;
+}
+
+.note-tile .title {
+ font-size: 1rem;
+ padding-bottom: 2px;
 }
 
 /* TILES wander */
@@ -236,8 +261,11 @@ b {
 
 .main_header {
   text-align: center;
-  margin-top: 2rem;
+  padding-top: 2rem;
   margin-bottom: 2rem;
+}
+.main_header h1 {
+  margin-top: 0;
 }
 
 .main_header a {
@@ -341,6 +369,20 @@ b {
 }
 
 /* position outside */
+.gallery {
+  position: relative;
+}
+.gallery .gear {
+  position: absolute;
+  bottom: -52px;
+  right: 50px;
+  font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-weight: 100;
+  font-size: 0.8rem;
+  text-align: right;
+  color: #aaa;
+
+}
 
 .flickity-prev-next-button.previous {
   display: block;
@@ -386,10 +428,24 @@ b {
 #map {
   height: 300px;
 }
+
 .leaflet-container {
     background-color:rgba(255,0,0,0.0);
 }
+.geojson {
+  margin-bottom: 1.5rem;
+}
 
-.geojson  dl {
+.geojson .info {
+  margin-top: 1rem;
+  font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-weight: 100;
+  font-size: 0.8rem;
   text-align: center;
+  color: #aaa;
+}
+.geojson .info a {
+  padding-bottom: 2px;
+  background-image: linear-gradient(to top, transparent, transparent 2px, #aaa 2px, #aaa 2.5px, transparent 2.5px);
+  color: #aaa;
 }

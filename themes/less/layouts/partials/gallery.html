@@ -1,7 +1,12 @@
 {{ if .Resources.GetMatch "gallery" }}
-  <div class="main-carousel" data-flickity='{ "draggable": false,"bgLazyLoad": true, "cellAlign": "center", "pageDots": false }'>
-    {{ range .Resources.Match "gallery" }}
-    <div class="carousel-cell" data-flickity-bg-lazyload="{{ .Permalink }}" ></div>
+  <div class="gallery">
+    <div class="main-carousel" data-flickity='{ "draggable": false,"bgLazyLoad": true, "cellAlign": "center", "pageDots": false }'>
+      {{ range .Resources.Match "gallery" }}
+      <div class="carousel-cell" data-flickity-bg-lazyload="{{ .Permalink }}" ></div>
+      {{ end }}
+    </div>
+    {{if .Params.gear }}
+      <p class="gear">{{ delimit .Params.gear " ● " }}</p>
     {{ end }}
   </div>
 {{ end }}

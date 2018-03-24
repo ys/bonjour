@@ -13,7 +13,7 @@
       var map = L.map('map', options).setView([data.features[0].properties.latitude, data.features[0].properties.longitude], 15);
       var style = {
         color: "#666",
-        weight: 3
+        weight: 1.5
 
       }
       L.geoJson(data, { style: style }).addTo(map);
@@ -22,7 +22,7 @@
 {{ define "main" }}
 <div class="main">
   <header>
-    <h1><a class="home emoji" href="/">⛺️</a> > {{ .Title }}</h1>
+    <h1>{{ .Params.emoji }} {{ .Title }}</h1>
     <h4>{{ dateFormat "Jan 02, 2006" .Date }}</h4>
   </header>
   {{ partial "gallery.html" . }}
@@ -32,15 +32,12 @@
     {{ range $info.features }}
       <div class="geojson">
         <div id="map"></div>
-        <dl>
-          <dt>Distance:</dt><dd>{{ math.Round (div .properties.distance 1000)}}km</dd>
-          <dt>See map:<dt><dd><a href="https://www.google.com/maps/@{{- .properties.latitude -}},{{- .properties.longitude -}},15z">Google Maps</a></dd>
-        </dl>
+        <div class="info">
+          <span>Distance: {{ math.Round (div .properties.distance 1000)}}km</span> •
+          <span>map: <a href="https://www.google.com/maps/@{{- .properties.latitude -}},{{- .properties.longitude -}},15z">Google Maps</a></span>
+        </div>
       </div>
     {{ end }}
-  {{ end }}
-  {{if .Params.gear }}
-    <p class="center"><i>Gear: </i>{{ delimit .Params.gear " ● " }}</p>
   {{ end }}
   {{ template "_internal/disqus.html" . }}
   </div>

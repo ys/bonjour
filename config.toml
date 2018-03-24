@@ -11,3 +11,26 @@ disqusShortname = "vadrouilles-co"
 
 [imaging]
   resampleFilter = "lanczos"
+
+[params.sections]
+
+notes = "Journal de bord"
+
+[[menu.main]]
+  name = "Aventures"
+  title = "Aventures"
+  weight = 1
+  identifier = "wanders"
+  url = "/"
+[[menu.main]]
+  name = "Journal"
+  title = "Journal de Bord"
+  weight = 2
+  identifier = "notes"
+  url = "/notes"
+[[menu.main]]
+  name = "About"
+  title = "Nous 3"
+  weight = 3
+  identifier = "about"
+  url = "/about"
