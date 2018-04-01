@@ -12,9 +12,12 @@ disqusShortname = "vadrouilles-co"
 [imaging]
   resampleFilter = "lanczos"
 
+[params]
+  mapbox = "pk.eyJ1IjoieWFubmljay1pbyIsImEiOiJjamY1NmR3NjMwNHkwMnBscDc2Nzl6b2ZwIn0.NbV8ywwFWfOH4T8DAN_tKw"
+
 [params.sections]
 
-notes = "Journal de bord"
+  notes = "Journal de bord"
 
 [[menu.main]]
   name = "Aventures"
