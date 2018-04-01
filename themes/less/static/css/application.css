@@ -239,6 +239,7 @@ b {
 
 /* TILES wander */
 .wander-link {
+  display: block;
   height: 0;
   padding-bottom: 66.6%;
   position: relative;
