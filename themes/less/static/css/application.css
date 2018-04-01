@@ -10,7 +10,6 @@ body {
   color: #333;
   margin: 0;
   padding: 0;
-  font-family: 'Inconsolata', serif;
   text-rendering: optimizeLegibility;
   font-size: 1.2rem;
   line-height: 1.52;
@@ -150,12 +149,15 @@ b {
     position: absolute !important;
     opacity: 1 !important;
     visibility: visible !important;
-    bottom: -110px;
+    bottom: -65px;
   }
 
   .wander-tile .title {
     text-transform: none !important;
     font-weight: 200;
+  }
+  .wanders {
+    grid-template-columns: repeat(1, 1fr);
   }
 }
 
@@ -212,6 +214,9 @@ b {
     visibility: visible;
     opacity: 1;
   }
+  .wanders {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
 /* Menu */
@@ -234,8 +239,8 @@ b {
 /* TILES wander */
 .wander-link {
   height: 0;
-  position: relative;
   padding-bottom: 66.6%;
+  position: relative;
 }
 
 .wander-tile {
@@ -266,7 +271,7 @@ b {
   z-index: 1;
   font-size: 1.3rem;
   text-align: center;
-  margin-bottom: 0;
+  margin-bottom: 0 !important;
 }
 
 
@@ -293,7 +298,6 @@ b {
 
 .wanders {
   display: grid;
-  grid-template-columns: repeat(1, 1fr);
   padding-top: 1.3rem;
   grid-gap: 1.3rem 1.3rem;
 }
