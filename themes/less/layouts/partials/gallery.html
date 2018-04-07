@@ -5,8 +5,10 @@
       <div class="carousel-cell" data-flickity-bg-lazyload="{{ .Permalink }}" ></div>
       {{ end }}
     </div>
+    <div class="gallery-nav">
     {{if .Params.gear }}
       <p class="gear">{{ delimit .Params.gear " • " }}</p>
     {{ end }}
+    </div>
   </div>
 {{ end }}

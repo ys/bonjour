@@ -1,52 +1,40 @@
 {{ define "js" }}
   {{ if .Params.geojson }}
-      var data = {{ .Params.geojson | readFile | safeJS }}
-      mapboxgl.accessToken = '{{ .Site.Params.mapbox }}';
-      var map = new mapboxgl.Map({
-        container: 'map',
-        interactive: false,
-        zoom: 14,
-        center: [data.features[0].properties.longitude, data.features[0].properties.latitude],
-        style: 'mapbox://styles/yannick-io/cjf56hdr50qs22rpbjbcjtpxu'
-      });
-      map.on('load', function () {
-        map.addLayer({
-          "id": "route",
-          "type": "line",
-          "paint": {
-              "line-color": "#D9541C",
-              "line-width": 1.5
-          },
-          "source": {
-            "type": "geojson",
-            "data": data
-          }
-        })
+    var data = {{ .Params.geojson | readFile | safeJS }}
+    mapboxgl.accessToken = '{{ .Site.Params.mapbox }}';
+    var map = new mapboxgl.Map({
+      container: 'map',
+      interactive: false,
+      zoom: 14,
+      center: [data.features[0].properties.longitude, data.features[0].properties.latitude],
+      style: 'mapbox://styles/yannick-io/cjf56hdr50qs22rpbjbcjtpxu'
+    });
+    map.on('load', function () {
+      map.addLayer({
+        "id": "route",
+        "type": "line",
+        "paint": {
+            "line-color": "#D9541C",
+            "line-width": 1.5
+        },
+        "source": {
+          "type": "geojson",
+          "data": data
+        }
+      })
 
-      });
+    });
   {{ end }}
 {{ end }}
 {{ define "main" }}
-<div class="main">
+<div class="main note">
   <header>
-    <h1>{{ .Params.emoji }} <a href="/notes">{{ .Title }}</a></h1>
+    <h1>{{ .Params.emoji }} {{ .Title }}</h1>
     <h4>{{ dateFormat "Jan 02, 2006" .Date }}</h4>
   </header>
   {{ partial "gallery.html" . }}
   {{.Content}}
-  {{ if .Params.geojson }}
-    {{ $info := getJSON .Params.geojson }}
-    {{ range $info.features }}
-      <div class="geojson">
-        <a href="https://www.google.com/maps/@{{- .properties.latitude -}},{{- .properties.longitude -}},15z">
-          <div id="map"></div>
-        </a>
-        <div class="info">
-          <span>Distance: {{ math.Round (div .properties.distance 1000)}}km</span>
-        </div>
-      </div>
-    {{ end }}
-  {{ end }}
+  {{ partial "geojson.html" . }}
   {{ template "_internal/disqus.html" . }}
   </div>
 {{ end }}

@@ -1,7 +1,7 @@
 ---
 title: "Domaine de la Berinzenne"
 slug: "berinzenne"
-date: 2017-12-23T12:07:44+01:00
+date: 2018-03-04T12:07:44+01:00
 draft: false
 emoji: "🗺"
 gear: ["📷 Canonet"]
@@ -12,3 +12,7 @@ resources:
 - src: "*.jpg"
   name: "gallery"
 ---
+
+C'est une des belles balades du pays de Spa.
+On apprécie y retourner de temps en temps.
+On avait fait l'anniversaire de Cloé là-bas il y a quelques années.

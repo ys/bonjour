@@ -88,6 +88,11 @@ b {
   font-size: 0.8rem;
 }
 
+.bold {
+  font-weight: 600;
+  color: #666;
+}
+
 /* Main wrapper */
 .wrapper {
   min-height: 100%;
@@ -150,12 +155,12 @@ b {
     position: absolute !important;
     opacity: 1 !important;
     visibility: visible !important;
-    bottom: -65px;
+    bottom: -50px;
+    font-size: 0.9rem !important;
   }
 
   .wander-tile .title {
     text-transform: none !important;
-    font-weight: 200;
   }
   .wanders {
     grid-template-columns: repeat(1, 1fr);
@@ -177,7 +182,6 @@ b {
     max-width: 45rem;
     margin-left: auto;
     margin-right: auto;
-    text-align: center;
   }
   .main.wander> :not(.fullwidth) {
     max-width: 58rem;
@@ -307,6 +311,7 @@ b {
 .wanders a {
   text-decoration: none;
   border-bottom: 0;
+  background-image: linear-gradient(to top, transparent, transparent 2px, #aaa 2px, #aaa 2.5px, transparent 2.5px);
 }
 
 .wander-tile {
@@ -330,6 +335,7 @@ b {
 
 .main header {
   text-align: center;
+  margin-bottom: 1.5rem;
 }
 
 .main header h1, .wanders .title {
@@ -338,26 +344,30 @@ b {
 
 .main header h1 {
   font-weight: 500;
-  margin-bottom: 1rem;
+  margin-bottom: 0rem;
   font-size: 1.5rem;
 }
 
 .main header h4 {
   margin-top: 0;
+  margin-bottom: 0;
+  color: #666;
   font-size: 1.1rem;
-}
-
-.main header {
-  margin-bottom: 3rem;
 }
 
 /* This is the carousel */
 
 .main-carousel {
-  height: calc(100vh - 180px) !important;
+  height: calc(100vh - 100px);
+  min-height: 500px;
+  max-height: 900px;
   width: 100%;
   position: relative;
-  margin-bottom: 60px;
+}
+.gallery-nav {
+  padding-left: 10px;
+  border-top: solid 1px #eee;
+  border-bottom: solid 1px #eee;
 }
 
 .flickity-viewport {
@@ -369,9 +379,12 @@ b {
 }
 
 .flickity-prev-next-button {
+  position: absolute;
+  top: auto;
   width: 30px;
   height: 30px;
   background: transparent;
+  bottom: -53px;
 }
 
 .flickity-prev-next-button:hover {
@@ -388,33 +401,31 @@ b {
   color: #666;
 }
 
-/* position outside */
-.gallery {
-  position: relative;
-}
-.gallery .gear {
-  position: absolute;
-  bottom: -40px;
-  right: 50px;
-  font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-  font-weight: 100;
-  font-size: 0.8rem;
-  text-align: right;
-  color: #aaa;
-}
-
 .flickity-prev-next-button.previous {
-  display: block;
-  position: absolute;
+  right: 20px;
+  left: auto;
 }
 
 .flickity-prev-next-button.next {
-  display: block;
-  position: absolute;
+  right: 0;
 }
 
 .flickity-slider {
   transform: none !important;
+}
+
+
+/* position outside */
+.gallery {
+  position: relative;
+  margin-bottom: 30px;
+}
+.gallery .gear {
+  text-align: left;
+  font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-weight: 100;
+  font-size: 0.8rem;
+  color: #666;
 }
 
 .carousel-cell {
@@ -464,11 +475,14 @@ b {
 }
 
 .geojson .info {
+  border-top: solid 1px #eee;
+  border-bottom: solid 1px #eee;
   margin-top: 1rem;
+  padding-left: 10px;
   font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
   font-weight: 100;
   font-size: 0.8rem;
-  text-align: center;
+  text-align: left;
   color: #aaa;
 }
 .geojson .info a {
