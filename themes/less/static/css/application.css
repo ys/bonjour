@@ -1,14 +1,17 @@
 /* Global */
 html {
+  height: 100%;
   margin: 0;
   padding: 0;
 }
 
 body {
+  height: 100%;
   color: #333;
   margin: 0;
   padding: 0;
-  font-family: 'Inconsolata', serif;
+  font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-weight: 300;
   text-rendering: optimizeLegibility;
   font-size: 1.2rem;
   line-height: 1.52;
@@ -16,16 +19,19 @@ body {
 
 h1, h2, h3, h4 {
   font-weight: 300;
-  font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 }
 
 footer {
-  margin: 1rem 0;
   font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
   font-weight: 100;
   font-size: 0.8rem;
   text-align: center;
   color: #aaa;
+  position: relative;
+  margin-top: -50px; /* negative value of footer height */
+  height: 50px;
+  line-height: 50px;
+  clear:both;
 }
 
 footer a, footer a:visited {
@@ -78,6 +84,39 @@ b {
   font-family: arial;
 }
 
+.small {
+  font-size: 0.8rem;
+}
+
+.bold {
+  font-weight: 600;
+  color: #666;
+}
+
+/* Main wrapper */
+.wrapper {
+  min-height: 100%;
+  height: auto;
+}
+
+.main {
+  padding-bottom: 50px;
+}
+
+.main_menu {
+  font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-weight: 100;
+  font-size: 0.8rem;
+  text-align: center;
+  color: #aaa;
+}
+
+.main_menu a, .main_menu a:visited {
+  padding-bottom: 2px;
+  color: #aaa;
+  background-image: linear-gradient(to top, transparent, transparent 2px, #aaa 2px, #aaa 2.5px, transparent 2.5px) !important;
+}
+
 /* Grid */
 
 .photoset.always-2 {
@@ -108,11 +147,6 @@ b {
     margin-right: 1rem;
   }
 
-  .geojson {
-    display: grid;
-    grid-template-columns: repeat(1, 1fr);
-  }
-
   .wander-link {
     margin-bottom: 40px;
   }
@@ -121,25 +155,25 @@ b {
     position: absolute !important;
     opacity: 1 !important;
     visibility: visible !important;
-    bottom: -110px;
+    bottom: -50px;
+    font-size: 0.9rem !important;
   }
 
   .wander-tile .title {
     text-transform: none !important;
-    font-weight: 200;
+  }
+  .wanders {
+    grid-template-columns: repeat(1, 1fr);
   }
 }
 
 /* Special for normal screens*/
 @media only screen and (min-width: 667px) {
-  footer {
-    height: 50px;
-  }
   .main {
     width: 100%;
     margin: 0;
   }
-  .main .fullwidth, .mainwander .fullwidth img {
+  .main .fullwidth, .main.wander .fullwidth img {
     width: 100% !important;
     margin-left: 0;
     margin-right: 0;
@@ -148,7 +182,6 @@ b {
     max-width: 45rem;
     margin-left: auto;
     margin-right: auto;
-    text-align: center;
   }
   .main.wander> :not(.fullwidth) {
     max-width: 58rem;
@@ -171,10 +204,6 @@ b {
   .photoset.always-2 {
     grid-template-columns: repeat(2, 1fr);
   }
-  .geojson {
-    display: grid;
-    grid-template-columns: 2fr 1fr;
-  }
   .wander-tile:before {
     transition: visibility 0.5s, opacity 0.5s linear;
     visibility: hidden;
@@ -190,13 +219,34 @@ b {
     visibility: visible;
     opacity: 1;
   }
+  .wanders {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Menu */
+.nav-item.active {
+}
+
+/* Notes tile */
+
+.note-tile {
+  font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-weight: 100;
+  color: #aaa;
+}
+
+.note-tile .title {
+ font-size: 1rem;
+ padding-bottom: 2px;
 }
 
 /* TILES wander */
 .wander-link {
+  display: block;
   height: 0;
-  position: relative;
   padding-bottom: 66.6%;
+  position: relative;
 }
 
 .wander-tile {
@@ -227,7 +277,7 @@ b {
   z-index: 1;
   font-size: 1.3rem;
   text-align: center;
-  margin-bottom: 0;
+  margin-bottom: 0 !important;
 }
 
 
@@ -236,8 +286,11 @@ b {
 
 .main_header {
   text-align: center;
-  margin-top: 2rem;
+  padding-top: 2rem;
   margin-bottom: 2rem;
+}
+.main_header h1 {
+  margin-top: 0;
 }
 
 .main_header a {
@@ -251,7 +304,6 @@ b {
 
 .wanders {
   display: grid;
-  grid-template-columns: repeat(1, 1fr);
   padding-top: 1.3rem;
   grid-gap: 1.3rem 1.3rem;
 }
@@ -259,6 +311,7 @@ b {
 .wanders a {
   text-decoration: none;
   border-bottom: 0;
+  background-image: linear-gradient(to top, transparent, transparent 2px, #aaa 2px, #aaa 2.5px, transparent 2.5px);
 }
 
 .wander-tile {
@@ -282,6 +335,7 @@ b {
 
 .main header {
   text-align: center;
+  margin-bottom: 1.5rem;
 }
 
 .main header h1, .wanders .title {
@@ -290,26 +344,30 @@ b {
 
 .main header h1 {
   font-weight: 500;
-  margin-bottom: 1rem;
+  margin-bottom: 0rem;
   font-size: 1.5rem;
 }
 
 .main header h4 {
   margin-top: 0;
+  margin-bottom: 0;
+  color: #666;
   font-size: 1.1rem;
-}
-
-.main header {
-  margin-bottom: 3rem;
 }
 
 /* This is the carousel */
 
 .main-carousel {
-  height: calc(100vh - 180px) !important;
+  height: calc(100vh - 100px);
+  min-height: 500px;
+  max-height: 900px;
   width: 100%;
   position: relative;
-  margin-bottom: 60px;
+}
+.gallery-nav {
+  padding-left: 10px;
+  border-top: solid 1px #eee;
+  border-bottom: solid 1px #eee;
 }
 
 .flickity-viewport {
@@ -321,9 +379,12 @@ b {
 }
 
 .flickity-prev-next-button {
+  position: absolute;
+  top: auto;
   width: 30px;
   height: 30px;
   background: transparent;
+  bottom: -53px;
 }
 
 .flickity-prev-next-button:hover {
@@ -340,28 +401,31 @@ b {
   color: #666;
 }
 
-/* position outside */
-
 .flickity-prev-next-button.previous {
-  display: block;
-  position: absolute;
-  bottom: -60px;
   right: 20px;
-  top: inherit;
-  left: inherit;
+  left: auto;
 }
 
 .flickity-prev-next-button.next {
-  display: block;
-  position: absolute;
-  bottom: -60px;
   right: 0;
-  top: inherit;
-  left: inherit;
 }
 
 .flickity-slider {
   transform: none !important;
+}
+
+
+/* position outside */
+.gallery {
+  position: relative;
+  margin-bottom: 30px;
+}
+.gallery .gear {
+  text-align: left;
+  font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-weight: 100;
+  font-size: 0.8rem;
+  color: #666;
 }
 
 .carousel-cell {
@@ -369,6 +433,7 @@ b {
   opacity: 0;
   transition: opacity 0.5s ease-in-out;
   width: 100%;
+  height: 400px;
   z-index: -1;
   background-size: contain;
   background-repeat: no-repeat;
@@ -385,11 +450,43 @@ b {
 
 #map {
   height: 300px;
-}
-.leaflet-container {
-    background-color:rgba(255,0,0,0.0);
+  width: 100%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
 }
 
-.geojson  dl {
-  text-align: center;
+#map canvas {
+  top: 0;
+  left: 0;
+}
+
+.geojson a {
+  display: block;
+  background-image: none;
+  width: 100%;
+  height: 300px;
+  position: relative;
+  margin-bottom: 1.5rem;
+}
+
+.mapboxgl-ctrl {
+  display: none;
+}
+
+.geojson .info {
+  border-top: solid 1px #eee;
+  border-bottom: solid 1px #eee;
+  margin-top: 1rem;
+  padding-left: 10px;
+  font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-weight: 100;
+  font-size: 0.8rem;
+  text-align: left;
+  color: #aaa;
+}
+.geojson .info a {
+  padding-bottom: 2px;
+  background-image: linear-gradient(to top, transparent, transparent 2px, #aaa 2px, #aaa 2.5px, transparent 2.5px);
+  color: #aaa;
 }

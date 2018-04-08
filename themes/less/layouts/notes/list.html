@@ -1,0 +1,15 @@
+{{ define "main" }}
+<div class="main journal">
+  <header>
+    <h1>{{ .Site.Params.sections.notes }}</h1>
+  </header>
+  {{ range where (where .Site.RegularPages "Type" "notes") ".Params.hidden" "!=" "true" }}
+  <div class="note-tile">
+    {{ .Params.emoji }}
+    <a class="title" href="{{ .Permalink }}">{{ .Title }}</a>
+    <span class="small date">{{ .Date.Format "2006-01-02" }}</span>
+  </div>
+  {{ end }}
+</div>
+{{ end }}
+

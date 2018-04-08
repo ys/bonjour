@@ -1,47 +1,40 @@
 {{ define "js" }}
   {{ if .Params.geojson }}
-      var data = {{ .Params.geojson | readFile | safeJS }}
-      var options = {
-        zoomControl: false,
-        boxZoom: false,
-        dragging: false,
-        doubleClickZoom: false,
-        attributionControl: false,
-        scrollWheelZoom: false,
-        touchZoom: false
-      }
-      var map = L.map('map', options).setView([data.features[0].properties.latitude, data.features[0].properties.longitude], 15);
-      var style = {
-        color: "#666",
-        weight: 3
+    var data = {{ .Params.geojson | readFile | safeJS }}
+    mapboxgl.accessToken = '{{ .Site.Params.mapbox }}';
+    var map = new mapboxgl.Map({
+      container: 'map',
+      interactive: false,
+      zoom: 14,
+      center: [data.features[0].properties.longitude, data.features[0].properties.latitude],
+      style: 'mapbox://styles/yannick-io/cjfp8z2h53ry82so1w3bw2coh'
+    });
+    map.on('load', function () {
+      map.addLayer({
+        "id": "route",
+        "type": "line",
+        "paint": {
+            "line-color": "#D9541C",
+            "line-width": 1.5
+        },
+        "source": {
+          "type": "geojson",
+          "data": data
+        }
+      })
 
-      }
-      L.geoJson(data, { style: style }).addTo(map);
+    });
   {{ end }}
 {{ end }}
 {{ define "main" }}
-<div class="main">
+<div class="main note">
   <header>
-    <h1><a class="home emoji" href="/">⛺️</a> > {{ .Title }}</h1>
+    <h1>{{ .Params.emoji }} {{ .Title }}</h1>
     <h4>{{ dateFormat "Jan 02, 2006" .Date }}</h4>
   </header>
-  {{ partial "gallery.html" (dict "pictures" .Params.pictures) }}
+  {{ partial "gallery.html" . }}
   {{.Content}}
-  {{ if .Params.geojson }}
-    {{ $info := getJSON .Params.geojson }}
-    {{ range $info.features }}
-      <div class="geojson">
-        <div id="map"></div>
-        <dl>
-          <dt>Distance:</dt><dd>{{ math.Round (div .properties.distance 1000)}}km</dd>
-          <dt>See map:<dt><dd><a href="https://www.google.com/maps/@{{- .properties.latitude -}},{{- .properties.longitude -}},15z">Google Maps</a></dd>
-        </dl>
-      </div>
-    {{ end }}
-  {{ end }}
-  {{if .Params.gear }}
-    <p class="center"><i>Gear: </i>{{ delimit .Params.gear " ● " }}</p>
-  {{ end }}
+  {{ partial "geojson.html" . }}
   {{ template "_internal/disqus.html" . }}
   </div>
 {{ end }}

@@ -11,3 +11,29 @@ disqusShortname = "vadrouilles-co"
 
 [imaging]
   resampleFilter = "lanczos"
+
+[params]
+  mapbox = "pk.eyJ1IjoieWFubmljay1pbyIsImEiOiJjamY1NmR3NjMwNHkwMnBscDc2Nzl6b2ZwIn0.NbV8ywwFWfOH4T8DAN_tKw"
+
+[params.sections]
+
+  notes = "Journal de bord"
+
+[[menu.main]]
+  name = "Aventures"
+  title = "Aventures"
+  weight = 1
+  identifier = "wanders"
+  url = "/"
+[[menu.main]]
+  name = "Journal"
+  title = "Journal de Bord"
+  weight = 2
+  identifier = "notes"
+  url = "/notes"
+[[menu.main]]
+  name = "About"
+  title = "Nous 3"
+  weight = 3
+  identifier = "about"
+  url = "/about"

@@ -1,0 +1,9 @@
+{{ $currentPage := . }}
+<div class="main_menu">
+{{ range $index, $element  := .Site.Menus.main }}
+  {{ if not (eq $index 0) }}
+  •
+  {{ end }}
+  <a class="nav-item{{if or ($currentPage.IsMenuCurrent "main" $element) ($currentPage.HasMenuCurrent "main" $element) }} active{{end}}" href="{{ $element.URL }}" title="{{ $element.Title }}">{{ $element.Name }}</a>
+{{ end }}
+</div>
