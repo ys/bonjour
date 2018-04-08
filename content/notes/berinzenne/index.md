@@ -2,7 +2,7 @@
 title: "Domaine de la Berinzenne"
 slug: "berinzenne"
 date: 2018-03-04T12:07:44+01:00
-draft: false
+draft: true
 emoji: "🗺"
 gear: ["📷 Canonet", "🎞 Lomography CN 400"]
 geojson: "/content/notes/berinzenne/berinzenne.geojson"
