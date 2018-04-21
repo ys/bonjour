@@ -9,7 +9,6 @@
   {{if .Params.gear }}
     <p class="center"><i>Gear: </i>{{ delimit .Params.gear " ● " }}</p>
   {{ end }}
-  {{ partial "geojson.html" . }}
   {{ template "_internal/disqus.html" . }}
 </div>
 {{ end }}
