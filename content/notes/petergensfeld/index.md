@@ -3,8 +3,8 @@ title: "Une balade de bon matin"
 date: 2018-04-19T09:07:44+01:00
 draft: false
 slug: "petergensfeld"
-emoji: "🇧🇪"
-gear: ["📷 Fuji X100T", "📱 iPhone 6s"]
+emoji: "🌅"
+gear: ["📷 Fuji X100T", "📱 iPhone X"]
 geojson: "/content/notes/petergensfeld/petergensfeld.geojson"
 zoom: 11.3
 resources:
