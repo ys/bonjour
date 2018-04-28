@@ -40,7 +40,6 @@
     {{- range first $last (.Scratch.Get "sizes") -}}
       (max-width: {{ . }}px) {{ sub . 40 }}px,
     {{end}}
-    <!-- This can also be 100vw -->
     {{- index (.Scratch.Get "sizes") (sub (len (.Scratch.Get "sizes")) 1) -}}px"
   alt="">
   {{ end }}
