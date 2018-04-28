@@ -5,7 +5,7 @@
     var map = new mapboxgl.Map({
       container: 'map',
       interactive: false,
-      zoom: 14,
+      zoom: {{ .Params.zoom | default 14 }},
       center: [data.features[0].properties.longitude, data.features[0].properties.latitude],
       style: 'mapbox://styles/yannick-io/cjfp8z2h53ry82so1w3bw2coh'
     });

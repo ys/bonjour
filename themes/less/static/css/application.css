@@ -173,22 +173,17 @@ b {
     width: 100%;
     margin: 0;
   }
-  .main .fullwidth, .main.wander .fullwidth img {
+  .main .fullwidth, .main .fullwidth img {
     width: 100% !important;
     margin-left: 0;
     margin-right: 0;
   }
-  .main:not(.wander) {
-    max-width: 45rem;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  .main.wander> :not(.fullwidth) {
+  .main> :not(.fullwidth) {
     max-width: 58rem;
     margin-left: auto;
     margin-right: auto;
   }
-  .main.wander p:not(.fullwidth) {
+  .main p:not(.fullwidth) {
     max-width: 45rem;
     margin-top: 25px;
     margin-bottom: 25px;
