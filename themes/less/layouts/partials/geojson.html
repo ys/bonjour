@@ -1,6 +1,6 @@
 {{ if .Params.geojson }}
   {{ $info := getJSON .Params.geojson }}
-  {{ range $info.features }}
+  {{ with (index $info.features 0) }}
     <div class="geojson">
       <a href="https://www.google.com/maps/@{{- .properties.latitude -}},{{- .properties.longitude -}},{{- $.Params.zoom | default 15 -}}z">
         <div id="map"></div>
