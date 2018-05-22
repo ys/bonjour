@@ -9,7 +9,7 @@
       {{ $image := .Resources.GetMatch "main_picture" }}
       {{if $image }}
       {{ $resized := $image.Resize "x500" }}
-         <a class="title bold" href="{{ .Permalink }}">
+         <a class="bold" href="{{ .Permalink }}">
            <img src="{{ $resized.Permalink }}"/>
         </a>
       {{end}}

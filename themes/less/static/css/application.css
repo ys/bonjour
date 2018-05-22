@@ -226,10 +226,12 @@ b {
 /* Notes tile */
 .list.journal {
   display: grid;
+  grid-gap: 1rem;
   grid-template-columns: repeat(3, 1fr);
 
 }
-.list.journal .note-tile {
+.list.journal .note-tile img {
+  max-width: 100%;
 }
 
 .note-tile {
