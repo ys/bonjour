@@ -93,6 +93,11 @@ b {
   color: #666;
 }
 
+.no-decoration {
+  text-decoration: none;
+  background-image: none !important;
+}
+
 /* Main wrapper */
 .wrapper {
   min-height: 100%;
@@ -224,6 +229,15 @@ b {
 }
 
 /* Notes tile */
+.list.journal {
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(3, 1fr);
+
+}
+.list.journal .note-tile img {
+  max-width: 100%;
+}
 
 .note-tile {
   font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
@@ -234,6 +248,10 @@ b {
 .note-tile .title {
  font-size: 1rem;
  padding-bottom: 2px;
+
+}
+.note-tile h4 {
+  margin-bottom: -10px !important;
 }
 
 /* TILES wander */
