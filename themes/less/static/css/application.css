@@ -224,6 +224,13 @@ b {
 }
 
 /* Notes tile */
+.list.journal {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+
+}
+.list.journal .note-tile {
+}
 
 .note-tile {
   font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;

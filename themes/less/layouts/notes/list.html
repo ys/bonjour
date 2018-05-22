@@ -1,15 +1,25 @@
 {{ define "main" }}
-<div class="main journal">
+<div class="main">
   <header>
     <h1>{{ .Site.Params.sections.notes }}</h1>
   </header>
-  {{ range where (where .Site.RegularPages "Type" "notes") ".Params.hidden" "!=" "true" }}
-  <div class="note-tile">
-    {{ .Params.emoji }}
-    <a class="title" href="{{ .Permalink }}">{{ .Title }}</a>
-    <span class="small date">{{ .Date.Format "2006-01-02" }}</span>
+  <div class="list journal">
+    {{ range where (where .Site.RegularPages "Type" "notes") ".Params.hidden" "!=" "true" }}
+    <div class="note-tile">
+      {{ $image := .Resources.GetMatch "main_picture" }}
+      {{if $image }}
+      {{ $resized := $image.Resize "x500" }}
+         <a class="title bold" href="{{ .Permalink }}">
+           <img src="{{ $resized.Permalink }}"/>
+        </a>
+      {{end}}
+      {{ .Params.emoji }}
+      <a class="title bold" href="{{ .Permalink }}">{{ .Title }}</a><br/>
+      <span class="small date">{{ .Date.Format "2006-01-02" }}</span>
+    </div>
+    {{ end }}
   </div>
-  {{ end }}
 </div>
+
 {{ end }}
 
