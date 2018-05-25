@@ -170,6 +170,9 @@ b {
   .wanders {
     grid-template-columns: repeat(1, 1fr);
   }
+  .list.journal {
+    grid-template-columns: repeat(1, 1fr);
+  }
 }
 
 /* Special for normal screens*/
@@ -222,6 +225,9 @@ b {
   .wanders {
     grid-template-columns: repeat(2, 1fr);
   }
+  .list.journal {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 
 /* Menu */
@@ -232,8 +238,6 @@ b {
 .list.journal {
   display: grid;
   grid-gap: 1rem;
-  grid-template-columns: repeat(3, 1fr);
-
 }
 .list.journal .note-tile img {
   max-width: 100%;
