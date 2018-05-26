@@ -2,10 +2,11 @@
 title: "Ninglinspo"
 date: 2017-10-25T12:07:44+01:00
 draft: false
-tags: ["wander", "🇧🇪"]
 slug: "ninglinspo"
 emoji: "🇧🇪"
 gear: ["📷 Fuji X100T"]
+categories:
+- "petites-vadrouilles"
 resources:
 - src: "DSCF8536.jpg"
   name: "main_picture"

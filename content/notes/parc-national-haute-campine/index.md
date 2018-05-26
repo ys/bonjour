@@ -2,9 +2,10 @@
 title: "Parc National de Haute Campine"
 date: 2017-11-13T12:07:44+01:00
 draft: false
-tags: ["wander", "🇧🇪"]
 slug: "parc-national-de-haute-campine"
 emoji: "🇧🇪"
+categories:
+- "petites-vadrouilles"
 gear: ["📷 Fuji X100T", "📱 iPhone 6s"]
 resources:
 - name: "main_picture"

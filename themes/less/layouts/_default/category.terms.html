@@ -1,0 +1,28 @@
+{{ define "main" }}
+<div class="main">
+  <header>
+    <h1>{{ $.Site.Params.titles.categories }}</h1>
+  </header>
+<div class="list journal">
+  {{ $data := .Data }}
+  {{ range $key, $value := .Data.Terms.Alphabetical }}
+    <div class="note-tile">
+        {{ $firstPage := (index $value.Pages 0) }}
+        {{ $image := ($firstPage.Resources.GetMatch "main_picture" | default (index $firstPage.Resources 0))  }}
+        {{if $image }}
+        {{ $resized := $image.Fill "500x400" }}
+           <a class="no-decoration" href="/{{ $data.Plural }}/{{ $value.Name | urlize }}">
+             <img src="{{ $resized.Permalink }}"/>
+          </a>
+        {{end}}
+        <header>
+          <h4>
+              <a class="title bold no-decoration" href="/{{ $data.Plural }}/{{ $value.Name | urlize }}">{{ index $.Site.Params.categories $value.Term }}</a><br/>
+          </h4>
+        </header>
+      </div>
+    {{ end }}
+
+  </div>
+</div>
+{{ end }}

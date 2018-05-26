@@ -4,6 +4,7 @@ title = "🌲 Vadrouilles & Co."
 theme = "less"
 googleAnalytics = "UA-114349967-1"
 disqusShortname = "vadrouilles-co"
+RemovePathAccents = true
 
 [permalinks]
   wanders = "/:slug"
@@ -16,9 +17,15 @@ disqusShortname = "vadrouilles-co"
   mapbox = "pk.eyJ1IjoieWFubmljay1pbyIsImEiOiJjamY1NmR3NjMwNHkwMnBscDc2Nzl6b2ZwIn0.NbV8ywwFWfOH4T8DAN_tKw"
   sizes = [ "2048" , "1024" , "512" ]
 
-[params.sections]
+[params.titles]
 
   notes = "Journal de bord"
+  categories = "Catégories"
+
+[params.categories]
+  
+  retour-a-la-terre = "Retour à la terre"
+  petites-vadrouilles = "Petites vadrouilles"
 
 [[menu.main]]
   name = "Aventures"

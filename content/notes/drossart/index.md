@@ -2,11 +2,12 @@
 title: "Porte de Drossart"
 date: 2017-11-02T12:07:44+01:00
 draft: false
-tags: ["wander", "🇧🇪"]
 slug: "drossart"
 main_picture: "DSCF8808.jpg"
 emoji: "🇧🇪"
 gear: ["📷 Fuji X100T"]
+categories:
+- "petites-vadrouilles"
 resources:
 - src: "DSCF8808.jpg"
   name: "main_picture"

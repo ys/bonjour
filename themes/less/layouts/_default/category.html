@@ -1,10 +1,10 @@
 {{ define "main" }}
 <div class="main">
   <header>
-    <h1>{{ .Site.Params.titles.notes }}</h1>
+    <h1>{{ index $.Site.Params.categories .Data.Term }}</h1>
   </header>
   <div class="list journal">
-    {{ range where (where .Site.RegularPages "Type" "notes") ".Params.hidden" "!=" "true" }}
+    {{ range .Data.Pages }}
     <div class="note-tile">
       {{ $image := .Resources.GetMatch "main_picture" | default (index .Resources 0) }}
       {{if $image }}
@@ -24,6 +24,5 @@
     {{ end }}
   </div>
 </div>
-
 {{ end }}
 

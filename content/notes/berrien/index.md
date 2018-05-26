@@ -5,7 +5,7 @@ draft: false
 slug: "berrien"
 emoji: "🏡"
 categories: 
-- "terre"
+- "retour-a-la-terre"
 resources:
 - src: "*.jpg"
 ---
@@ -20,7 +20,7 @@ On a écumé pas mal de sites d’immobiliers, j’ai même codé un fouilleur p
 
 Voilà c’est officiel, Tom ne fera pas sa 3ème maternelle en Belgique, cet été on va en Bretagne. *“La bretagne c’est bien pour les vacances!”*. Non on vient y vivre. *“Dommage, vous avez raté le sud la”*. Vraiment, j’ai vite chaud. *“Il pleut beaucoup en Bretagne”*. Tu sais d’où je viens? 
 
-J’ai vraiment hâte de ce changement. Je verrai moins ma famille et mes amis d’enfance. Mais comme un sage en short en jeans m’a dit un jour “ tu vis ta vie et pour ça je suis fier de toi”. Je paraphrase un peu parce que je n’ai pas de mémoire! J’ai hâte de recevoir ce sage là-bad! Internet me permet de garder le contact avec les amis! Je n’ai pas peur, je suis heureux.
+J’ai vraiment hâte de ce changement. Je verrai moins ma famille et mes amis d’enfance. Mais comme un sage en short en jeans m’a dit un jour “ tu vis ta vie et pour ça je suis fier de toi”. Je paraphrase un peu parce que je n’ai pas de mémoire! J’ai hâte de recevoir ce sage là-bas! Internet me permet de garder le contact avec les amis! Je n’ai pas peur, je suis heureux.
 
 J’ai hâte aussi de vous faire découvrir ce changement de vie. J’ai hâte de vivre ce changement de vie. Je suis fier de faire ce choix! Je suis heureux de vous manquer mais sachez que je ne suis pas loin et que vous êtes toujours les bienvenus!
 
