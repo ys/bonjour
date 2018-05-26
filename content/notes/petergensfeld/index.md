@@ -7,6 +7,8 @@ emoji: "🌅"
 gear: ["📷 Fuji X100T", "📱 iPhone X"]
 geojson: "/content/notes/petergensfeld/petergensfeld.geojson"
 zoom: 11.3
+categories:
+- "petites-vadrouilles"
 resources:
 - name: "main_picture"
   src: "petergensfeld-2.jpg"
