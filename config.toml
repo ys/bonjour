@@ -4,6 +4,7 @@ title = "🌲 Vadrouilles & Co."
 theme = "less"
 googleAnalytics = "UA-114349967-1"
 disqusShortname = "vadrouilles-co"
+RemovePathAccents = true
 
 [permalinks]
   wanders = "/:slug"
@@ -19,6 +20,10 @@ disqusShortname = "vadrouilles-co"
 [params.sections]
 
   notes = "Journal de bord"
+
+[params.categories]
+  
+  retour-a-la-terre = "Retour à la terre"
 
 [[menu.main]]
   name = "Aventures"
