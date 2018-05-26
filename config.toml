@@ -32,13 +32,13 @@ RemovePathAccents = true
   title = "Aventures"
   weight = 1
   identifier = "wanders"
-  url = "/"
+  url = "/aventures"
 [[menu.main]]
   name = "Journal"
   title = "Journal de Bord"
   weight = 2
   identifier = "notes"
-  url = "/notes"
+  url = "/journal"
 [[menu.main]]
   name = "About"
   title = "Nous 3"
