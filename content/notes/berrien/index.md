@@ -5,7 +5,7 @@ draft: false
 slug: "berrien"
 emoji: "🏡"
 categories: 
-- "terre"
+- "Retour à la terre"
 resources:
 - src: "*.jpg"
 ---
