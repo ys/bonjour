@@ -229,11 +229,6 @@ b {
     grid-template-columns: repeat(3, 1fr);
   }
 }
-
-/* Menu */
-.nav-item.active {
-}
-
 /* Notes tile */
 .list.journal {
   display: grid;
