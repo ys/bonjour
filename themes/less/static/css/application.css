@@ -311,7 +311,7 @@ b {
 
 .featured header {
   position: absolute;
-  bottom: 40px;
+  bottom: 30px;
   text-align: center;
   color: white;
   border: 0;
@@ -320,7 +320,7 @@ b {
 }
 
 .featured .flickity-page-dots {
-  bottom: 40px;
+  bottom: 20px;
   z-index: 1000;
 }
 .featured .flickity-page-dots .dot {

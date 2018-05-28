@@ -4,13 +4,13 @@
         <div class="gallery">
             <div class="main-carousel" data-flickity='{ "autoPlay": true, "resize": true, "setGallerySize": true, "wrapAround": true, "draggable": false,"bgLazyLoad": true, "cellAlign": "center", "pageDots": true }'>  
       {{ range where .Site.RegularPages ".Params.featured" "!=" nil }}
-        {{ $image := (.Resources.GetMatch "main_picture" | default (index .Resources 0))  }}
+        {{ $image := (.Resources.GetMatch "featured" | default (.Resources.GetMatch "main_picture") | default (index .Resources 0))  }}
         {{if $image }}
-          {{ $resized := $image.Fill "2000x1000" }}
+          {{ $resized := $image.Fill "928x500" }}
             <div class="carousel-cell" data-flickity-bg-lazyload="{{ $resized.Permalink }}" >
               <a href={{ .Permalink }}>
                 <header>
-                  <h1>{{ .Title }}</h1>
+                  <h1>{{ .Params.emoji }} {{ .Title }}</h1>
                 </header>
               </a>
             </div>
