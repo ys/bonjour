@@ -313,7 +313,7 @@ b {
   position: absolute;
   bottom: 30px;
   text-align: center;
-  color: white;
+  color: rgba(255, 255, 255, 0.9);
   border: 0;
   text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
   width: 100%;
@@ -328,7 +328,8 @@ b {
   opacity: 1 !important;
 }
 .featured .flickity-page-dots .dot.is-selected {
-  background: rgba(255, 255, 255, 0.9);
+  background: rgba(255, 255, 255, 0.8);
+  box-shadow: 1px 1px 3px rgba(0,0,0,0.6);
 }
 .featured .flickity-prev-next-button {
   display: none;
