@@ -22,6 +22,11 @@ RemovePathAccents = true
   notes = "Journal de bord"
   categories = "Catégories"
 
+[params.social]
+  email = "petites@vadrouilles.co"
+  domain = "Vadrouilles.co"
+  instagram = "yann_ck"
+
 [params.categories]
   
   retour-a-la-terre = "Retour à la terre"
