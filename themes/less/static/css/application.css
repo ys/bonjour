@@ -368,6 +368,9 @@ b {
   margin-bottom: 0;
   color: #666;
   font-size: 0.9rem;
+}
+
+.main header .date {
   font-style: italic;
 }
 
