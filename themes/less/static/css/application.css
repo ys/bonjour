@@ -11,17 +11,15 @@ body {
   margin: 0;
   padding: 0;
   font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-  font-family: 'Libre Baskerville';
   font-weight: 300;
   text-rendering: optimizeLegibility;
-  font-size: 1.0rem;
+  font-size: 1.2rem;
   line-height: 1.52;
 }
 
 h1, h2, h3, h4 {
   font-weight: 300;
   font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-
 }
 
 footer {
@@ -368,6 +366,9 @@ b {
   margin-bottom: 0;
   color: #666;
   font-size: 0.9rem;
+}
+
+.main header .date {
   font-style: italic;
 }
 
