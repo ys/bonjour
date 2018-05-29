@@ -26,5 +26,5 @@ Je vous suggère des livres comme [Simplicity Parenting](https://www.goodreads.c
 
 Tout cela pour m'amener à ce que je désire être, une personne heureuse et bonne envers mes semblables et mon monde. Je ne sais pas vivre aux extrêmes et je me considère plus comme un léger minimaliste. C'est ma vadrouille intérieure. 
 
-**Less is more. **
+**Less is more.**
 
