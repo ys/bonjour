@@ -11,14 +11,17 @@ body {
   margin: 0;
   padding: 0;
   font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-family: 'Libre Baskerville';
   font-weight: 300;
   text-rendering: optimizeLegibility;
-  font-size: 1.2rem;
+  font-size: 1.0rem;
   line-height: 1.52;
 }
 
 h1, h2, h3, h4 {
   font-weight: 300;
+  font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+
 }
 
 footer {
@@ -364,7 +367,12 @@ b {
   margin-top: 0;
   margin-bottom: 0;
   color: #666;
-  font-size: 1.1rem;
+  font-size: 0.9rem;
+  font-style: italic;
+}
+
+.main p {
+  text-align: justify;
 }
 
 /* This is the carousel */
