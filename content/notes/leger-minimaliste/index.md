@@ -16,7 +16,7 @@ Cela fait maintenant trois ans que je lis et m'intéresse au minimalisme, mobili
 
 J'ai commence par traquer [mon usage des apps](https://inthemoment.io), lire beaucoup de [livres](https://www.goodreads.com/yann_ck), me mettre a [méditer](http://headspace.com), et me désencombrer. Tout avec beaucoup de passion et de vigueur. Mes parents vous le diront, je n'ai pas une passion mais plusieurs par an plutôt. Ici, elles tiennent. Ces principes de vies et ces changements ont fait de moi ce que je suis aujourd'hui.
 
-J'ai envie de vous parler de tout ca maintenant que je me sens bien dans ma tête. J'ai pu apprendre à revivre mieux et à me sentir mieux... Comme dirait Dan Harris, [10% happier](https://www.amazon.fr/Comment-suis-devenu-plus-heureux/dp/2501098773). Je me sens mieux dans mon corps, que je n'acceptais pas. J'ai avancer sur les choses que je n'aime pas. Maintenant, je les accepte ou je les change. 
+J'ai envie de vous parler de tout ca maintenant que je me sens bien dans ma tête. J'ai pu apprendre à revivre mieux et à me sentir mieux... Comme dirait Dan Harris, [10% happier](https://www.amazon.fr/Comment-suis-devenu-plus-heureux/dp/2501098773). Je me sens mieux dans mon corps, que je n'acceptais pas. J'ai avancé sur les choses que je n'aime pas. Maintenant, je les accepte ou je les change. 
 
 Mais, vous me direz que ce n'est pas le minimalisme. C'est vrai. Mais mentalement, je n'arrive plus à séparer ces différents principes qui font de moi ce que je suis aujourd'hui.
 
