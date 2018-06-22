@@ -24,6 +24,8 @@ Moins de vêtements mais des vêtements qui durent. C'est un peu l'inverse des 2
 
 D'autres marques ont aussi une chouette ligne de conduite, entre [United by blue](https://unitedbyblue.com) qui organise des nettoyages de plages et de forêts. [Cotopaxi](https://cotopaxi.com) qui reverse une partie de ses revenus chaque année à des causes. Beaucoup d'autres marques suivent ce modèle via le [1% for the planet](https://www.onepercentfortheplanet.org).
 
+Un autre moyen de moins consommer est passé en achetant des habits en laine merino. Celle-ci sent moins et n'absorbe pas la transpiration comme le cotton. Je me retrouve donc à mettre mes habits plus longtemps et à faire moins de lessives. Cela passe par de simples gestes comme celui-ci aussi. En plus cela allège mes sacs lors de mes voyages car cela me permet de partir avec moins de vêtements.
+
 Au final, ce que je me rend compte, c'est que la seule manière d'avoir un impact sur les industries, c'est avec notre argent. Ne le mettez pas n'importe où.
 
 Vous pouvez aller regarder ces liens pour plus d'inspiration.
