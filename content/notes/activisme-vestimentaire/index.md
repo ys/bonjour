@@ -10,7 +10,7 @@ resources:
 - src: "*.jpg"
 ---
 
-{{< photo src="packing.jpg" >}}
+{{< photo src="activisme.jpg" >}}
 
 Consommer moins, consommer mieux. C'est un peu un des trucs qui me turlupine depuis que je me suis lancé dans le minimalisme et autres. Ca passe pas mal par ma garde robe. Elle débordait de T-shirts, de chemises et commençait à ne plus ressembler à rien.
 
@@ -27,11 +27,8 @@ Moins de vêtements mais des vêtements qui durent. C'est un peu l'inverse des 2
 
 D'autres marques ont aussi une chouette ligne de conduite, entre [United by blue](https://unitedbyblue.com) qui organise des nettoyages de plages et de forêts. [Cotopaxi](https://cotopaxi.com) qui reverse une partie de ses revenus chaque année à des causes. Beaucoup d'autres marques suivent ce modèle via le [1% for the planet](https://www.onepercentfortheplanet.org).
 
+Ces marques produisent aussi des documentaires assez utiles pour ouvrir les yeux! Je vous conseillerais le [Fair Trade de Patagonia](https://www.youtube.com/watch?v=Q1gIKo0kti4) et [Microplastics de Finisterre](https://finisterre.com/pages/microplastics)
+
 Un autre moyen de moins consommer est passé en achetant des habits en laine merino. Celle-ci sent moins et n'absorbe pas la transpiration comme le cotton. Je me retrouve donc à mettre mes habits plus longtemps et à faire moins de lessives. Cela passe par de simples gestes comme celui-ci aussi. En plus cela allège mes sacs lors de mes voyages car cela me permet de partir avec moins de vêtements.
 
 Au final, ce que je me rend compte, c'est que la seule manière d'avoir un impact sur les industries, c'est avec notre argent. Ne le mettez pas n'importe où.
-
-Vous pouvez aller regarder ces liens pour plus d'inspiration.
-
-- [Fair Trade de Patagonia](https://www.youtube.com/watch?v=Q1gIKo0kti4)
-- [Microplastics de Finisterre](https://finisterre.com/pages/microplastics)
