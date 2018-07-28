@@ -41,6 +41,6 @@
       (max-width: {{ . }}px) {{ sub . 40 }}px,
     {{end}}
     {{- index (.Scratch.Get "sizes") (sub (len (.Scratch.Get "sizes")) 1) -}}px"
-  alt="">
+  alt="" data-action="zoom">
   {{ end }}
 </figure>
