@@ -73,4 +73,15 @@ On se remet à la course. Les sentiers boueux et les petites routes. Encore un t
 {{< photoset max="3" >}}
   {{< photo src="IMG_1339.jpg" >}}
   {{< photo src="IMG_1345.jpg" >}}
+  {{< photo src="IMG_1341.jpg" >}}
+{{</ photoset >}}
+{{< photoset max="3" >}}
+  {{< photo src="IMG_1231.jpg" >}}
+  {{< photo src="IMG_1255.jpg" >}}
+  {{< photo src="IMG_1301.jpg" >}}
+{{</ photoset >}}
+{{< photoset max="3" >}}
+  {{< photo src="IMG_1315.jpg" >}}
+  {{< photo src="IMG_1316.jpg" >}}
+  {{< photo src="IMG_1345.jpg" >}}
 {{</ photoset >}}
