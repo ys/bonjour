@@ -7,6 +7,8 @@ emoji: "🏡"
 categories:
 - "retour-a-la-terre"
 resources:
+- src: "semaine-1.jpg"
+  name: "main_picture"
 - src: "*.jpg"
 --- 
 
@@ -35,7 +37,7 @@ Troisième rencontre, des amis des anciens propriétaires. Anglais eux aussi. Il
 
 Je me sens bien. On dirait une petite communauté. C’est chouette. Le hameau est petit, vite fait le tour. On croise petit à petit les gens. Des belles rencontres que j’ai hâte de voir grandir. 
 
-{{< photo src="semaine-1.jpg" >}}
+{{< photo src="main_picture" >}}
 
 *Petit aparté, je viens de tuer deux moustiques. Désolé pour leurs familles.*
 
@@ -51,37 +53,37 @@ On se remet à la course. Les sentiers boueux et les petites routes. Encore un t
 **Un petit florilège de ce que j'ai posté en story instagram**
 
 {{< photoset max="3" >}}
-  {{< photo src="IMG_1221.jpg" >}}
+  {{< photo src="IMG_1241.jpg" >}}
   {{< photo src="IMG_1239.jpg" >}}
   {{< photo src="IMG_1240.jpg" >}}
 {{</ photoset >}}
 {{< photoset max="3" >}}
-  {{< photo src="IMG_1241.jpg" >}}
+  {{< photo src="IMG_1263.jpg" >}}
   {{< photo src="IMG_1242.jpg" >}}
   {{< photo src="IMG_1254.jpg" >}}
 {{</ photoset >}}
 {{< photoset max="3" >}}
-  {{< photo src="IMG_1257.jpg" >}}
-  {{< photo src="IMG_1263.jpg" >}}
-  {{< photo src="IMG_1266.jpg" >}}
-{{</ photoset >}}
-{{< photoset max="3" >}}
   {{< photo src="IMG_1300.jpg" >}}
-  {{< photo src="IMG_1336.jpg" >}}
-  {{< photo src="IMG_1338.jpg" >}}
+  {{< photo src="IMG_1266.jpg" >}}
+  {{< photo src="IMG_1301.jpg" >}}
 {{</ photoset >}}
-{{< photoset max="3" >}}
-  {{< photo src="IMG_1339.jpg" >}}
+{{< photoset max="2" >}}
   {{< photo src="IMG_1345.jpg" >}}
   {{< photo src="IMG_1341.jpg" >}}
 {{</ photoset >}}
 {{< photoset max="3" >}}
-  {{< photo src="IMG_1231.jpg" >}}
+  {{< photo src="IMG_1257.jpg" >}}
+  {{< photo src="IMG_1336.jpg" >}}
+  {{< photo src="IMG_1338.jpg" >}}
+{{</ photoset >}}
+{{< photoset max="3" >}}
   {{< photo src="IMG_1255.jpg" >}}
-  {{< photo src="IMG_1301.jpg" >}}
+  {{< photo src="IMG_1221.jpg" >}}
+  {{< photo src="IMG_1339.jpg" >}}
 {{</ photoset >}}
 {{< photoset max="3" >}}
   {{< photo src="IMG_1315.jpg" >}}
   {{< photo src="IMG_1316.jpg" >}}
-  {{< photo src="IMG_1345.jpg" >}}
+    {{< photo src="IMG_1231.jpg" >}}
+
 {{</ photoset >}}
