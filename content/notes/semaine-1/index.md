@@ -29,7 +29,7 @@ Enfin sauf si tu ouvres ton compte au bar tabac, ce RIB la n’ouvre pas toutes 
 
 Première nuit, mal dormi, petit lit mais pas un bruit... même pas de fond. Réveil avec les oiseaux. Il fait beau. 
 
-Il fait souvent beau en fait. Bretagne terre de contes et légendes... une d’entre elles est la pluie. On la voit mais on voit aussi le soleil. Beaucoup mais c’est moi s étouffant quand tu peux jouer à cache cache dans ton verger ou ton potager. J’y ai même déjà mis la main dedans. Je connais rien mais j’aide et j’apprends. J’aime et j’apprends.
+Il fait souvent beau en fait. Bretagne terre de contes et légendes... une d’entre elles est la pluie. On la voit mais on voit aussi le soleil. Beaucoup mais c’est moins étouffant quand tu peux jouer à cache cache dans ton verger ou ton potager. J’y ai même déjà mis la main dedans. Je connais rien mais j’aide et j’apprends. J’aime et j’apprends.
 
 Le camion de déménagement arrive. On croise notre première autochtone... enfin elle est bruxelloise et vit ici depuis 3 ans. Le camion se vide vite merci les déménageurs.  
 Deuxième rencontre, notre voisin d’en face. un homme qui nous accueille simplement et sympathiquement.  
