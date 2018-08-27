@@ -4,6 +4,7 @@ date: 2018-05-25T09:07:44+01:00
 draft: false
 slug: "berrien"
 emoji: "🏡"
+featured: 1
 categories: 
 - "retour-a-la-terre"
 resources:

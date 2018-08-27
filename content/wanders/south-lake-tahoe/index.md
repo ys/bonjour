@@ -7,6 +7,7 @@ slug: "south-lake-tahoe"
 main_picture: "south-lake-tahoe-main.jpg"
 gear: ["📷 Fuji X100T", "📱 iPhone 6s"]
 emoji: "🇺🇸"
+featured: 1
 resources:
 - src: "*.jpg"
 - src: "south-lake-tahoe-22.jpg"

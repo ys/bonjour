@@ -6,10 +6,13 @@ draft: false
 emoji: "🌲"
 gear: ["📷 Fuji X100T"]
 zoom: 12
+featured: 1
 categories:
 - "petites-vadrouilles"
 geojson: "/content/notes/baraque-michel/baraque-michel.geojson"
 resources:
+- src: "featured.jpg"
+  name: "featured"
 - src: "*.jpg"
 ---
 

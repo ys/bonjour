@@ -300,6 +300,48 @@ b {
   margin-bottom: 0 !important;
 }
 
+/* FEATURED */
+.featured a {
+  display: block;
+  height: 100%;
+  width: 100%;
+  background: none;
+}
+.featured .gallery {
+  height: 500px;
+  margin-bottom: 0;
+}
+
+.featured header {
+  position: absolute;
+  bottom: 30px;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.9);
+  border: 0;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
+  width: 100%;
+}
+
+.featured .flickity-page-dots {
+  bottom: 20px;
+  z-index: 1000;
+}
+.featured .flickity-page-dots .dot {
+  background: rgba(255, 255, 255, 0.5);
+  opacity: 1 !important;
+}
+.featured .flickity-page-dots .dot.is-selected {
+  background: rgba(255, 255, 255, 0.8);
+  box-shadow: 1px 1px 3px rgba(0,0,0,0.6);
+}
+.featured .flickity-prev-next-button {
+  display: none;
+}
+
+.featured .gallery .main-carousel {
+  height: 500px;
+  min-height: 500px;
+}
 
 
 /* MAIN HEADER */
