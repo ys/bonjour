@@ -19,7 +19,7 @@
     <script src='https://api.mapbox.com/mapbox-gl-js/v0.44.1/mapbox-gl.js'></script>
     <script>
       $(function(){
-        mediumZoom(document.querySelectorAll('.wander img'), {margin: 20})
+        mediumZoom(document.querySelectorAll('[data-action="zoom"]'), {margin: 20})
         {{ block "js" . }}
         {{ end }}
       })
