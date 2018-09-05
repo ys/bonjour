@@ -209,10 +209,21 @@ b {
     margin-top: 25px;
     margin-bottom: 25px;
   }
+  .masonry {
+    column-count: 4;
+    column-gap: 1em;
+  }
+  .masonry figure { 
+    display: inline-block;
+    width: 100%;
+}
   .photoset {
     display: grid;
     grid-gap: 1rem;
     grid-template-columns: repeat(3, 1fr);
+  }
+  .photoset.max-4 {
+    grid-template-columns: repeat(4, 1fr);
   }
   .photoset.max-2 {
     grid-template-columns: repeat(2, 1fr);

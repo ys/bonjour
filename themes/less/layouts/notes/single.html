@@ -35,6 +35,9 @@
   {{ partial "gallery.html" . }}
   {{.Content}}
   {{ partial "geojson.html" . }}
+  {{if .Params.gear }}
+    <p class="center"><i>Gear: </i>{{ delimit .Params.gear " ● " }}</p>
+  {{ end }}
   {{ template "_internal/disqus.html" . }}
   </div>
 {{ end }}

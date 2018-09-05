@@ -7,7 +7,6 @@ disqusShortname = "vadrouilles-co"
 RemovePathAccents = true
 
 [permalinks]
-  wanders = "/:slug"
   notes = "/:slug"
 
 [imaging]
@@ -32,13 +31,12 @@ RemovePathAccents = true
   retour-a-la-terre = "Retour à la terre"
   petites-vadrouilles = "Petites vadrouilles"
   moi-meme = "Moi-même"
-
 [[menu.main]]
-  name = "Aventures"
-  title = "Aventures"
+  name = "Home"
+  title = "Home"
   weight = 1
-  identifier = "wanders"
-  url = "/aventures"
+  identifier = "gallery"
+  url = "/"
 [[menu.main]]
   name = "Journal"
   title = "Journal de Bord"
@@ -47,7 +45,7 @@ RemovePathAccents = true
   url = "/journal"
 [[menu.main]]
   name = "About"
-  title = "Nous 3"
+  title = "About me"
   weight = 3
   identifier = "about"
   url = "/about"
