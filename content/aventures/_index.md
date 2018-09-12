@@ -1,4 +1,0 @@
----
-type: wanders
-title: Aventures
----

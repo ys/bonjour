@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+          "longitude": -3.8911557197570805,
+          "latitude": 48.67102679457727,
+          "title": "Pointe de Penn-Al-Lann",
+          "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8911557197570805,
+          48.67102679457727
+        ]
+      }
+    }
+  ]
+}
