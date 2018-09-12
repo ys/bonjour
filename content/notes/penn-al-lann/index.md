@@ -22,7 +22,7 @@ Une petite plage à l’abris des gens et du vent, plus connue sous le nom de pl
 
 {{< photo src="penn-al-lann-8.jpg" class="fullwidth" >}}
 
-On y arrive par un petit chemin de randonnée, on pourrait aller jusque la pointe. Une brume digne de ce nom et le château du taureau à peine visible. Le phare va et vient à travers le brouillard. Une ambiance proche de ce que l'on voit dans les clichés du Pacific North West. 
+On y arrive par un petit chemin de randonnée, on pourrait aller jusque la pointe. Une brûme digne de ce nom et le château du Taureau à peine visible. Le phare va et vient à travers le brouillard. Une ambiance proche de ce que l'on voit dans les clichés du Pacific North West. 
 
 {{< photoset max="2" >}}
   {{< photo src="penn-al-lann-10.jpg" >}}
@@ -33,14 +33,14 @@ La marée descend et on peut accéder à une petite île à pied. On traverse pi
 
 {{< photo src="penn-al-lann-3.jpg" >}}
 
-La pêche à pied y bat son plein et nous donne envie de revenir avec un panier. Il nous faudra un outil pour le calibre mais c'est sur, On viendra les cueillir. Malgré le manque de soleil quelques personnes sont à l’eau on aimerait les rejoindre.
+La pêche à pied y bat son plein et nous donne envie de revenir avec un panier. Il nous faudra un outil pour le calibre mais c'est sûr, On viendra les cueillir. Malgré le manque de soleil quelques personnes sont à l’eau on aimerait les rejoindre.
 
 {{< photoset max="2" >}}
   {{< photo src="penn-al-lann-5.jpg" >}}
   {{< photo src="penn-al-lann-6.jpg" >}}
 {{< /photoset >}}
 
-On y revient un jour de soleil pour marcher le long du GR34. C'est un autre endroit. On voit l'autre rive, le chateau de l'ile noire et tout ce qui l'entoure.
-On marche jusque Carantec, on fait une boucle. On arrive du coté ostreicole. On decouvre les bassins a huitres et le materiel. Au bout, avant de repartir, une petite boutique ouverte, on y vend huitres de tous calibres et autres crustaces. La dame est mariee a un liegeois. Encore des belges. A croire que l'on compte envahir la region. Ces huitres sont delicieuses, surtout avec ce vin blanc. On y reviendra aussi.
+On y revient un jour de soleil pour marcher le long du GR34. C'est un autre endroit. On voit l'autre rive, le chateau de l'Île Noire et tout ce qui l'entoure.
+On marche jusque Carantec, on fait une boucle. On arrive du coté ostréicole. On découvre les bassins a huîtres et le matériel. Au bout, avant de repartir, une petite boutique ouverte, on y vend huîtres de tous calibres et autres crustacés. La dame est mariée a un liégeois. Encore des belges... À croire que l'on compte envahir la région. Ces huîtres sont délicieuses, surtout avec ce vin blanc. On y reviendra aussi.
 
 {{< photo src="penn-al-lann-7.jpg" class="vertical" >}}
