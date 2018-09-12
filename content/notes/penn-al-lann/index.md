@@ -9,7 +9,7 @@ categories:
 zoom: 11
 geojson: "/content/notes/penn-al-lann/penn-al-lann.geojson"
 resources:
-- src: "penn-al-lann-3.jpg"
+- src: "penn-al-lann-7.jpg"
   name: "main_picture"
 - src: "*.jpg"
 --- 
@@ -43,4 +43,4 @@ La pêche à pied y bat son plein et nous donne envie de revenir avec un panier.
 On y revient un jour de soleil pour marcher le long du GR34. C'est un autre endroit. On voit l'autre rive, le chateau de l'Île Noire et tout ce qui l'entoure.
 On marche jusque Carantec, on fait une boucle. On arrive du coté ostréicole. On découvre les bassins a huîtres et le matériel. Au bout, avant de repartir, une petite boutique ouverte, on y vend huîtres de tous calibres et autres crustacés. La dame est mariée a un liégeois. Encore des belges... À croire que l'on compte envahir la région. Ces huîtres sont délicieuses, surtout avec ce vin blanc. On y reviendra aussi.
 
-{{< photo src="penn-al-lann-7.jpg" class="vertical" >}}
+{{< photo src="main_picture" class="vertical" >}}
