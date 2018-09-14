@@ -101,6 +101,11 @@ b {
   color: #666;
 }
 
+.en {
+  font-style: italic;
+  color: #666;
+}
+
 .no-decoration {
   text-decoration: none;
   background-image: none !important;
@@ -131,15 +136,6 @@ b {
 }
 
 /* Grid */
-.translated {
-  display: grid;
-  grid-gap: 3rem;
-  grid-template-columns: repeat(2, 1fr);
-}
-.translated p:last-child {
-  font-style: italic;
-}
-
 .photoset.always-2 {
   display: grid;
   grid-gap: 1rem;
