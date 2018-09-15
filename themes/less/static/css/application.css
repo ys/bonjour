@@ -101,6 +101,11 @@ b {
   color: #666;
 }
 
+.en {
+  font-style: italic;
+  color: #666;
+}
+
 .no-decoration {
   text-decoration: none;
   background-image: none !important;
@@ -131,7 +136,6 @@ b {
 }
 
 /* Grid */
-
 .photoset.always-2 {
   display: grid;
   grid-gap: 1rem;
