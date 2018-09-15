@@ -23,7 +23,7 @@ Une petite plage à l’abris des gens et du vent, plus connue sous le nom de pl
 
 {{< translation language="en" >}}
 
-A small beach protected from eyes and wind, better known as Tahiti Beach.
+A small beach protected from eyes and wind, better known as Tahiti Beach. Near Carantec, famously known for the castle that inspired the Black Island from Hergé
 
 {{< /translation >}}
 
@@ -36,7 +36,7 @@ On y arrive par un petit chemin de randonnée, on pourrait aller jusque la point
 
 {{< translation language="en" >}}
 
-A small hiking trail bring you there, it can lead you to the headland. A really dense fog and the Taureau's castle barely visible. The lighthouse comes and goes through the fog. A moody day like the one you can see on the Pacific North West
+A small hiking trail brings you there, it can lead you to the headland. We have some really dense fog and the Taureau's castle barely visible. The lighthouse comes and goes through the fog. A moody day like the one you can see on the Pacific North West.
 
 {{< /translation >}}
 
@@ -49,7 +49,7 @@ La marée descend et on peut accéder à une petite île à pied. On traverse pi
 
 {{< translation language="en" >}}
 
-The tide is low and we can reach a small island without having wet feet. We cross barefoot and climb to the top. Making the tour and enjoying our time there. Leaving it before the rising tide.
+The tide is low, and we can reach a small island without having wet feet. We cross barefoot and climb to the top. Walking all around it and enjoying our time there. Leaving it before the rising tide.
 
 {{< /translation >}}
 
@@ -60,7 +60,7 @@ La pêche à pied y bat son plein et nous donne envie de revenir avec un panier.
 
 {{< translation language="en" >}}
 
-Shore fishing is going on and it makes us want to come back with a basket. We will need a tool to gauge but we know it, we will come forage some of those. It ain't a sunny day but a few folks are enjoying the water. This makes us want to jump right in.
+Shore fishing is going on, and it makes us wished we had a basket. We will need a tool to gauge the shells but we know it, we will be back to forage some of those. It ain't a sunny day, but a few folks are enjoying the water. This makes us want to jump right in.
 
 {{< /translation >}}
 
@@ -76,8 +76,8 @@ On marche jusque Carantec, on fait une boucle. On arrive du coté ostréicole. O
 
 {{< translation language="en" >}}
 
-We are back on a sunny day to enjoy some of the GR34 trail. It is another place, we can see the other side, the Black Island castle and all the surroundings.  
-We walk til Caranted, making a loop. We walk next to the oyster coast. Discovering the oysters' pools and all the equipment they need. At the end, a small shop is open. We get in. They sell oysters of all calibres and other sea food. The lady is married to a person from Liège. Looks like we are invading Brittany. Oysters are delightful, especially with this white wine. We will come back here too.
+We are back on a sunny day to enjoy some part of the GR34 hiking trail. It is another place, we can see the other side, the Black Island castle and all the surroundings.  
+We walk til Carantec, making a loop. We walk next to the oyster coast. Discovering the oysters' pools and all the equipment they need. At the end of the road, a small shop is open. We get in. They sell oysters of all calibers and other seafood. The waitress is married to a folk from Liège. Looks like we are invading Brittany. Oysters are delightful, especially with this white wine we got at the shop. We will come back here too.
 
 {{< /translation >}}
 
