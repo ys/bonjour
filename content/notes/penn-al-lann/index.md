@@ -10,7 +10,7 @@ zoom: 11
 geojson: "/content/notes/penn-al-lann/penn-al-lann.geojson"
 resources:
 - src: "penn-al-lann-7.jpg"
-  name: "main_picture"
+  name: "cover"
 - src: "*.jpg"
 --- 
 
@@ -81,4 +81,4 @@ We walk til Carantec, making a loop. We walk next to the oyster coast. Discoveri
 
 {{< /translation >}}
 
-{{< photo src="main_picture" class="vertical" >}}
+{{< photo src="cover" class="vertical" >}}

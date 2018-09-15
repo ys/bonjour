@@ -6,7 +6,7 @@
   <div class="list journal">
     {{ range .Data.Pages }}
     <div class="note-tile">
-      {{ $image := .Resources.GetMatch "main_picture" | default (index .Resources 0) }}
+      {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
       {{if $image }}
       {{ $resized := $image.Fill "500x400" }}
          <a class="no-decoration" href="{{ .Permalink }}">

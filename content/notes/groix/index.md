@@ -7,7 +7,7 @@ slug: "groix"
 emoji: "🇫🇷"
 gear: ["📷 Fuji X100T", "📱 iPhone 6s"]
 resources:
-- name: "main_picture"
+- name: "cover"
   src: "DSCF7297.jpg"
 - src: "*.jpg"
 ---

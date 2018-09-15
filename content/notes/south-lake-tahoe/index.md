@@ -4,13 +4,13 @@ date: 2018-02-11T12:07:44+01:00
 draft: false
 tags: ["wander", "🇺🇸"]
 slug: "south-lake-tahoe"
-main_picture: "south-lake-tahoe-main.jpg"
+cover: "south-lake-tahoe-main.jpg"
 gear: ["📷 Fuji X100T", "📱 iPhone 6s"]
 emoji: "🇺🇸"
 resources:
 - src: "*.jpg"
 - src: "south-lake-tahoe-22.jpg"
-  name: "main_picture"
+  name: "cover"
 ---
 
 {{< photo src="south-lake-tahoe-1.jpg" >}}
@@ -73,7 +73,7 @@ Dimanche, on embarque le chien d’un ami direction Pope beach. On se ballade le
 
 Le dernier jour, on entend que la neige doit arriver. On va visiter Emerald bay. On grimpe depuis South Lake Tahoe. Le froid s’accentue mais les vues et lieux traversés en valent la peine. Emerald bay abrite Fannette Island. Une petite île qui aurait dû abriter le corps du capitaine Dick Barter si celui-ci n’avait pas péri en mer. On y voit les ruines d’une Tea house où la propriétaire du domaine, sur la terre ferme, venait prendre le thé quotidiennement.
 
-{{< photo class="fullwidth" src="main_picture" >}}
+{{< photo class="fullwidth" src="cover" >}}
 
 {{< photoset max="3" >}}
   {{< photo src="south-lake-tahoe-24.jpg" >}}

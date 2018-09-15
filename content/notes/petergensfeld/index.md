@@ -10,7 +10,7 @@ zoom: 11.3
 categories:
 - "petites-vadrouilles"
 resources:
-- name: "main_picture"
+- name: "cover"
   src: "petergensfeld-2.jpg"
 - src: "*.jpg"
 ---
@@ -35,7 +35,7 @@ On se gare et on est parti. On rentre dans les bois après avoir traversé le vi
 
 Le soleil aurait du se lever. Le ciel est gris. On ne verra pas beaucoup ses rayons mais on est bien au calme. On ne croisera que deux personnes sur cette vadrouille. La forêt est nôtre.
 
-{{< photo class="fullwidth" src="main_picture" >}}
+{{< photo class="fullwidth" src="cover" >}}
 
 On croisera les ruines d'un petit hameau agricole qui fut déserté pour préserver les eaux du barrage de la Vesdre. Juste après cela, on rentre dans un paysage de fagnes à perte de vue que l'on ne fera que longer.
 

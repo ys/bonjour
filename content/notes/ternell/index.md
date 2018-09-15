@@ -9,7 +9,7 @@ categories:
 - "petites-vadrouilles"
 resources:
 - src: "DSCF8724.jpg"
-  name: "main_picture"
+  name: "cover"
 - src: "*.jpg"
 ---
 

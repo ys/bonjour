@@ -5,6 +5,7 @@ theme = "less"
 googleAnalytics = "UA-114349967-1"
 disqusShortname = "vadrouilles-co"
 RemovePathAccents = true
+timeout = 200000
 
 [permalinks]
   notes = "/:slug"
