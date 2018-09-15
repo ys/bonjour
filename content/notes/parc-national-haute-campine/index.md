@@ -8,7 +8,7 @@ categories:
 - "petites-vadrouilles"
 gear: ["📷 Fuji X100T", "📱 iPhone 6s"]
 resources:
-- name: "main_picture"
+- name: "cover"
   src: "DSCF7825.jpg"
 - src: "*.jpg"
 ---

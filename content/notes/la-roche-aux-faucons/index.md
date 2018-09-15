@@ -8,7 +8,7 @@ gear: ["📷 Fuji X100T"]
 categories:
 - "petites-vadrouilles"
 resources:
-- name: "main_picture"
+- name: "cover"
   src: "DSCF7905.jpg"
 - src: "*.jpg"
 ---

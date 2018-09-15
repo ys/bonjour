@@ -7,7 +7,7 @@ slug: "foret-noire"
 emoji: "🇩🇪"
 gear: ["📷 Fuji X100T", "📱 iPhone 6s"]
 resources:
-- name: "main_picture"
+- name: "cover"
   src: "schwarzwald-32.jpg"
 - src: "*.jpg"
 ---

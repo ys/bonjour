@@ -7,7 +7,7 @@ emoji: "🏡"
 categories:
 - "moi-meme"
 resources:
-- name: "main_picture"
+- name: "cover"
   src: "hello-world-4.jpg"
 - src: "*.jpg"
 --- 

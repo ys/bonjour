@@ -8,7 +8,7 @@ categories:
 - "retour-a-la-terre"
 resources:
 - src: "semaine-1.jpg"
-  name: "main_picture"
+  name: "cover"
 - src: "*.jpg"
 --- 
 
@@ -37,7 +37,7 @@ Troisième rencontre, des amis des anciens propriétaires. Anglais eux aussi. Il
 
 Je me sens bien. On dirait une petite communauté. C’est chouette. Le hameau est petit, vite fait le tour. On croise petit à petit les gens. Des belles rencontres que j’ai hâte de voir grandir. 
 
-{{< photo src="main_picture" >}}
+{{< photo src="cover" >}}
 
 *Petit aparté, je viens de tuer deux moustiques. Désolé pour leurs familles.*
 
