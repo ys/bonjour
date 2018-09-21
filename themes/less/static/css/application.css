@@ -229,6 +229,12 @@ b {
     margin-top: 25px;
     margin-bottom: 25px;
   }
+
+  .main div.en:not(.fullwidth) {
+    max-width: 45rem;
+    margin-top: 25px;
+    margin-bottom: 25px;
+  }
   
   .main.index > :not(.fullwidth) {
     max-width: 65rem;
