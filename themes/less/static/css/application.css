@@ -187,8 +187,24 @@ b {
   }
 }
 
+@media only screen and (min-width: 670px) and (max-width: 1199px) {
+  .masonry {
+    column-count: 3;
+    column-gap: 1.5em;
+  }
+  .masonry figure { 
+    display: inline-block;
+    width: 100%;
+    margin-top: 1.5em !important;
+  }
+  .main.index > :not(.fullwidth) {
+    max-width: 58rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
 /* Special for normal screens*/
-@media only screen and (min-width: 667px) {
+@media only screen and (min-width: 1200px) {
   .main {
     width: 100%;
     margin: 0;
@@ -213,21 +229,22 @@ b {
     margin-top: 25px;
     margin-bottom: 25px;
   }
+  
   .main.index > :not(.fullwidth) {
-    max-width: 80rem;
+    max-width: 65rem;
     margin-left: auto;
     margin-right: auto;
   }
   
   .masonry {
     column-count: 4;
-    column-gap: 2em;
+    column-gap: 1.5em;
   }
   .masonry figure { 
     display: inline-block;
     width: 100%;
-    margin-top: 2em !important;
-}
+    margin-top: 1.5em !important;
+  }
   .photoset {
     display: grid;
     grid-gap: 1rem;
