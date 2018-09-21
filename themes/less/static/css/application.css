@@ -213,9 +213,12 @@ b {
     margin-top: 25px;
     margin-bottom: 25px;
   }
-  .main.index {
+  .main.index > :not(.fullwidth) {
     max-width: 80rem;
+    margin-left: auto;
+    margin-right: auto;
   }
+  
   .masonry {
     column-count: 4;
     column-gap: 2em;
