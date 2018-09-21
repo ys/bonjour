@@ -213,6 +213,9 @@ b {
     margin-top: 25px;
     margin-bottom: 25px;
   }
+  .main.index {
+    max-width: 80rem;
+  }
   .masonry {
     column-count: 4;
     column-gap: 2em;
