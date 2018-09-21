@@ -215,11 +215,12 @@ b {
   }
   .masonry {
     column-count: 4;
-    column-gap: 1em;
+    column-gap: 2em;
   }
   .masonry figure { 
     display: inline-block;
     width: 100%;
+    margin-top: 2em !important;
 }
   .photoset {
     display: grid;
