@@ -1,5 +1,6 @@
 baseURL = "https://vadrouilles.co/"
 languageCode = "fr"
+defaultContentLanguage = "fr"
 title = "🌲 Vadrouilles & Co."
 theme = "less"
 googleAnalytics = "UA-114349967-1"
@@ -22,6 +23,38 @@ timeout = 200000
   notes = "Journal de bord"
   categories = "Catégories"
 
+[languages]
+[languages.fr]
+[languages.en]
+
+[languages.en.params.titles]
+
+  notes = "Logbook"
+  categories = "Categories"
+
+[languages.en.params.categories]
+  retour-a-la-terre = "Back to earth"
+  petites-vadrouilles = "Small wandering"
+  moi-meme = "Myself"
+
+[[languages.en.menu.main]]
+  name = "Home"
+  title = "Home"
+  weight = 1
+  identifier = "gallery"
+  url = "/en"
+[[languages.en.menu.main]]
+  name = "Logbook"
+  title = "Logbook"
+  weight = 2
+  identifier = "notes"
+  url = "/en/logbook"
+[[languages.en.menu.main]]
+  name = "About"
+  title = "About me"
+  weight = 3
+  identifier = "about"
+  url = "/en/about"
 [params.social]
   email = "petites@vadrouilles.co"
   domain = "Vadrouilles.co"
@@ -32,6 +65,7 @@ timeout = 200000
   retour-a-la-terre = "Retour à la terre"
   petites-vadrouilles = "Petites vadrouilles"
   moi-meme = "Moi-même"
+
 [[menu.main]]
   name = "Home"
   title = "Home"

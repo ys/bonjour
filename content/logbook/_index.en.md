@@ -1,0 +1,4 @@
+---
+type: notes
+title: Logbook
+---
