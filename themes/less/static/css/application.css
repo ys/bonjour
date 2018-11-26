@@ -347,12 +347,16 @@ b {
 /* MAIN HEADER */
 
 .main_header {
-  text-align: center;
-  padding-top: 2rem;
-  margin-bottom: 2rem;
+  margin: 0;
+  flex: auto;
+  flex-direction: row;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px dotted #ddd;
+  padding: 5px;
 }
 .main_header h1 {
-  margin-top: 0;
+  margin: 0 10px;
 }
 
 .main_header a {
