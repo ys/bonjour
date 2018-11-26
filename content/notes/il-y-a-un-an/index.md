@@ -70,7 +70,7 @@ Something I am so happy to have, like walking around our hamlet with the dog and
   {{< photo src="saint-samson-6.jpg" >}}
 {{< /photoset >}}
 
-Déménager signifie aussi être plus conscient des amitiés. J'étais un peu à coté de la plaque dans le passé. Maintenant, je me re connecte et j'écris plus à cause de la distance. Je dois encore me perfectionner. Mais la pratique est tout ce qui compte.
+Déménager signifie aussi être plus conscient des amitiés. J'étais un peu à côté de la plaque dans le passé. Maintenant, je me reconnecte et j'écris plus à cause de la distance. Je dois encore me perfectionner. Mais la pratique est tout ce qui compte.
 
 Ces 10 kms en bord de mer m'ont certainement fait penser beaucoup et rendu heureux. Je ne me suis jamais senti aussi bien. J'apprécie chaque minute de cette nouvelle vie, même les plus difficiles.
 
