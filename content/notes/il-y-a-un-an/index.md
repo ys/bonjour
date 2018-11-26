@@ -19,7 +19,7 @@ On était en bord de mer pour l'anniversaire de Cloé hier. À un moment, elle m
 
 {{< translation language="en" >}}
 
-We were walking by the sea for Cloé's birthday yesterday. At some point, she says something close to "If you had told me a year ago that I would be next to the sea for my next birthday, I wouldn't have believed you". And that sentence just triggered so many thoughts on my side.
+We were walking by the sea for Cloé's birthday yesterday. At some point, she said something close to "If you had told me a year ago that I would be next to the sea for my next birthday, I wouldn't have believed you." And that sentence just triggered so many thoughts on my side.
 
 {{< /translation >}}
 
@@ -34,7 +34,7 @@ Il y a un an, on ne savait même pas que cette maison existait. Elle ne savait p
 
 {{< translation language="en" >}}
 
-A year ago, we didn't even know that house existed. And the house didn't know us neither. We weren't even aware that our future would be in Finistère. We were still looking in Burgundy and Brittany back then. That winter holidays' day where I discovered Ty Lucie online was still in the future. We had no idea the fridge in this place sounded like a chicken from time to time. Nor that the heating pipes were making that unique noise when they heat or that the wood would "crack" while the pipes were heating. We had no idea an owl would be our neighbor and that it would say hello every night.
+A year ago, we didn't yet know that house existed. And the house didn't know us neither. We weren't aware that our future would be in Finistère. We were still looking in Burgundy and Brittany back then. That winter holidays' day where I discovered Ty Lucie online was still in the future. We had no idea the fridge in this place sounded like a chicken from time to time. Nor that the heating pipes were making that clunky noise when they heat or that the wood would "crack" while the pipes were heating. We had no idea an owl would be our neighbor and that it would say hello every night.
 
 {{< /translation >}}
 
@@ -46,22 +46,20 @@ Qui aurait cru, il y a un an, que je prendrais plaisir à remplir notre panier d
 
 Des choses simples me font tellement plaisir. Comme promener le chien dans le village et saluer les personnes... et elles vous répondent. Ces choses-là me font me sentir bien.
 
-
-
 {{< translation language="en" >}}
 
-We had no idea a magnificent fog would often greet us on the road to Tom's new school. No idea we would have cows as neighbors. That the nights would be pitch black and stars' watching would be part of our routine.
+We had no idea a wonderfully mystical fog would often greet us on the road to Tom's new school. No idea we would have cows as neighbors. That the nights would be pitch black and stars' watching would be part of our routine.
 
 {{< /translation >}}
 
 {{< translation language="en" >}}
 
-Who would have thought a year ago that I would find pleasure in filling the wood basket for our wood oven in the kitchen, splitting wood for kindling or even gardening. 
+Who would have thought a year ago that I would find pleasure in filling the wood basket for our wood oven in the kitchen, splitting wood for kindling or just gardening?
 
 {{< /translation >}}
 {{< translation language="en" >}}
 
-Something I am so happy to have, like walking around our hamlet with the dog and actually greeting folks and having them responding to you. This are some side changes that make me feel good
+I love walking around our hamlet with the dog and actually greeting folks and having a response. These are some side changes that make me feel good
 
 {{< /translation >}}
 
@@ -76,12 +74,12 @@ Ces 10 kms en bord de mer m'ont certainement fait penser beaucoup et rendu heure
 
 {{< translation language="en" >}}
 
-Moving means being more mindful about friendship. I was a bit off in the past and now, I reconnect and write more because of the distance. I still need to get better at this but practice, practice, practice.
+Moving means being more mindful about friendship. I was a bit off in the past and, now, I reconnect and write more because of the distance. I still need to get better at this but practice, practice, practice.
 
 {{< /translation >}}
 {{< translation language="en" >}}
 
-Those 10 kms by the sea sure triggered a lot of thoughts and happiness in myself. I never felt so content. I am enjoying every bit of this new life. Even the hard parts.
+Those 10 kilometers by the sea sure triggered a lot of thoughts and happiness in myself. I never felt so content. I am enjoying every bit of this new life. Including the hard parts.
 
 {{< /translation >}}
 {{< photoset max="2" >}}
