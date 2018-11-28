@@ -38,7 +38,7 @@ A year ago, we didn't yet know that house existed. And the house didn't know us 
 
 {{< /translation >}}
 
-{{< photo class="fullwidth" src="saint-samson-25.jpg" >}}
+{{< photo src="saint-samson-25.jpg" >}}
 
 On n'avait pas idée que ce magnifique brouillard se joindrait à nous sur le chemin de l'école de Tom. Aucune idée non plus que nous aurions des vaches comme voisines. Que les nuits seraient noires et que notre routine nocturne inclurait de regarder les étoiles.
 
