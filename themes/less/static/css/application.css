@@ -147,6 +147,11 @@ b {
     width: 100%;
   }
 
+  .main_header {
+    justify-content: center;
+    border-bottom: 0 !important;
+  }
+
   .photoset {
     margin-top: 0;
     display: grid;
@@ -191,7 +196,7 @@ b {
     column-count: 3;
     column-gap: 1.5em;
   }
-  .masonry figure { 
+  .masonry figure {
     display: inline-block;
     width: 100%;
     margin-top: 1.5em !important;
@@ -228,12 +233,12 @@ b {
     margin-top: 25px;
     margin-bottom: 25px;
   }
-  
+
   .masonry {
     column-count: 4;
     column-gap: 1.5em;
   }
-  .masonry figure { 
+  .masonry figure {
     display: inline-block;
     width: 100%;
     margin-top: 1.5em !important;
