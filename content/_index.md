@@ -8,6 +8,8 @@ images: [ "/sea.jpg" ]
 resources:
 - src: "*.jpg"
 ---
+> In every walk with Nature one receives far more than he seeks.  <small> - John Muir</small>
+
 {{< masonry>}}
   {{< photo src="pick-2.jpg" >}}
   {{< photo src="pick-98.jpg" >}}
