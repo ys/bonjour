@@ -8,11 +8,11 @@ categories:
 - "retour-a-la-terre"
 resources:
 - name: "cover"
-  src: "vivre-dehors-2.jpg"
+  src: "living-outdoor-3.jpg"
 - src: ".jpg"
 ---
 
-{{< photo class="vertical" src="vivre-dehors-3.jpg" >}}
+{{< photo src="cover" >}}
 
 Je ne me suis jamais senti autant connecté à Mère Nature. Cela fait maintenant quelques années que nos week-ends se passent dehors. Que ce soit pour une courte marche ou une journée à vadrouiller. Cela nous permet de nous sentir connecté, trouver la paix et découvrir les merveilleuses choses que la nature a à nous offrir. On a vadrouillé un peu partout en Belgique et nous avons adoré cela.
 
@@ -30,6 +30,13 @@ Since our move to Brittany, we have an even deeper connection with nature. We ca
 
 {{< /translation >}}
 
+<!-- more -->
+
+{{< photoset max="2" >}}
+  {{< photo src="living-outdoor.jpg" >}}
+  {{< photo src="living-outdoor-2.jpg" >}}
+{{< /photoset >}}
+
 La cueillette, ca nous connait. Depuis aout, on a fait notre propre liqueur, différentes confitures avec tous les fruits que nous trouvions et pour Noel, Cloé a même fait de magnifiques décorations avec ce que nous trouvions dehors. J'ai hâte d'en apprendre plus sur les plantes comestibles, la cueillette aux champignons et les fruits que la nature a à partager.
 
 Découvrir l'intérieur des terres, moins connue que la côte bretonne, est quelque chose que j'apprécie particulièrement. Pleine de surprises et de paysages variés et divers; des forêts, des rochers, des champs, des landes et autres
@@ -46,6 +53,11 @@ Discovering the inner land, less known that the Brittany coast, is something I p
 
 {{< /translation >}}
 
+{{< photoset max="2" >}}
+  {{< photo src="living-outdoor-4.jpg" >}}
+  {{< photo src="living-outdoor-8.jpg" >}}
+{{< /photoset >}}
+
 Vivre aussi près de la mer nous permet de payer une visite à la déesse des mers aussi souvent que notre corps nous réclame une bonne bouffée d'air saline. Je suis tombé amoureux de ces côtes sauvages et j'adore les photographier autant que possible. Je pense de plus en plus à nager dans ses eaux froides, même en hiver. J'espère aussi prendre le temps pour apprendre à surfer
 
 Nous avons cueilli de la nourriture dans les terres, mais la mer aussi peut donner. C'est vrai que cet été, elle a plutôt pris mes luntttes, mais c'était une offrande qui paie pour toutes les choses qu'elle donne. Nous devons encore nous améliorer pour la pêche à pied et les coquillages.
@@ -61,6 +73,8 @@ Living so close to the sea allows us to pay the goddess of the sea a visit every
 We found food in the inner land, but the sea also gives. It is true that this summer it took away my glasses, but that was a small tribute to pay for all the things it has to give. Harvesting shellfish and other things is something we still need to try more and master.
 
 {{< /translation >}}
+
+{{< photo src="living-outdoor-5.jpg" >}}
 
 Quelques rêves pour cette année nouvelle incluent de faire un hike de plusieurs jours en Bretagne ainsi que fouler plus de sentiers du GR34, connu comme étant le sentier des douaniers. Cette randonnée suit la côte et traverse tous les lieux sauvages du bord de mer.
 
