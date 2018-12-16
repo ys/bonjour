@@ -12,6 +12,7 @@ resources:
 
 {{< masonry>}}
   {{< photo src="pick-2.jpg" >}}
+  {{< photo src="pick-8.jpg" >}}
   {{< photo src="pick-98.jpg" >}}
   {{< photo src="pick-100.jpg" >}}
   {{< photo src="pick-33.jpg" >}}
@@ -24,7 +25,4 @@ resources:
   {{< photo src="pick-4.jpg" >}}
   {{< photo src="pick-5.jpg" >}}
   {{< photo src="pick-9.jpg" >}}
-  {{< photo src="pick-6.jpg" >}}
-  {{< photo src="pick-79.jpg" >}}
-  {{< photo src="pick-8.jpg" >}}
 {{< /masonry >}}

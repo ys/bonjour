@@ -106,6 +106,17 @@ b {
   color: #888;
 }
 
+.masonry {
+  column-count: 2;
+  column-gap: 0.5em;
+}
+.masonry figure {
+  display: inline-block;
+  width: 100%;
+  margin-top: 0.25em !important;
+}
+
+
 .no-decoration {
   text-decoration: none;
   background-image: none !important;
@@ -192,15 +203,6 @@ b {
 }
 
 @media only screen and (min-width: 670px) and (max-width: 1199px) {
-  .masonry {
-    column-count: 3;
-    column-gap: 1.5em;
-  }
-  .masonry figure {
-    display: inline-block;
-    width: 100%;
-    margin-top: 1.5em !important;
-  }
   .main.index > :not(.fullwidth) {
     max-width: 58rem;
     margin-left: auto;
@@ -234,15 +236,6 @@ b {
     margin-bottom: 25px;
   }
 
-  .masonry {
-    column-count: 4;
-    column-gap: 1.5em;
-  }
-  .masonry figure {
-    display: inline-block;
-    width: 100%;
-    margin-top: 1.5em !important;
-  }
   .photoset {
     display: grid;
     grid-gap: 1rem;
