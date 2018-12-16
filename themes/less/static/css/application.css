@@ -178,6 +178,9 @@ b {
     margin-left: 1rem;
     margin-right: 1rem;
   }
+  .main.index .masonry {
+    margin: 10px;
+  }
 
   .wander-link {
     margin-bottom: 40px;
@@ -191,15 +194,15 @@ b {
     font-size: 0.9rem !important;
   }
 
-  .list.journal .note-tile a {
-    display: block;
+  .list.journal .note-tile>a {
     width: 100%;
+    display: block;
   }
 
   .list.journal .note-tile img {
     display: block;
-    width: 400px;
     margin: 0 auto;
+    width: calc(100% - 20px);
   }
 
   .wander-tile .title {
