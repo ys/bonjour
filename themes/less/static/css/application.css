@@ -215,6 +215,9 @@ b {
     width: 80%;
     margin: 0 auto;
   }
+  .list.journal {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 /* Special for normal screens*/
 @media only screen and (min-width: 1000px) {
