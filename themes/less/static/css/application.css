@@ -106,6 +106,17 @@ b {
   color: #888;
 }
 
+.masonry {
+  column-count: 2;
+  column-gap: 0.5em;
+}
+.masonry figure {
+  display: inline-block;
+  width: 100%;
+  margin-top: 0.25em !important;
+}
+
+
 .no-decoration {
   text-decoration: none;
   background-image: none !important;
@@ -167,6 +178,9 @@ b {
     margin-left: 1rem;
     margin-right: 1rem;
   }
+  .main.index .masonry {
+    margin: 10px;
+  }
 
   .wander-link {
     margin-bottom: 40px;
@@ -180,35 +194,37 @@ b {
     font-size: 0.9rem !important;
   }
 
+  .list.journal .note-tile>a {
+    width: 100%;
+    display: block;
+  }
+
+  .list.journal .note-tile img {
+    display: block;
+    margin: 0 auto;
+    width: calc(100% - 20px);
+  }
+
   .wander-tile .title {
     text-transform: none !important;
   }
   .wanders {
     grid-template-columns: repeat(1, 1fr);
   }
-  .list.journal {
-    grid-template-columns: repeat(1, 1fr);
-  }
 }
 
-@media only screen and (min-width: 670px) and (max-width: 1199px) {
-  .masonry {
-    column-count: 3;
-    column-gap: 1.5em;
-  }
-  .masonry figure {
-    display: inline-block;
-    width: 100%;
-    margin-top: 1.5em !important;
-  }
+@media only screen and (min-width: 670px) and (max-width: 999px) {
   .main.index > :not(.fullwidth) {
     max-width: 58rem;
     margin-left: auto;
     margin-right: auto;
   }
+  .list.journal {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 /* Special for normal screens*/
-@media only screen and (min-width: 1200px) {
+@media only screen and (min-width: 1000px) {
   .main {
     width: 100%;
     margin: 0;
@@ -234,15 +250,6 @@ b {
     margin-bottom: 25px;
   }
 
-  .masonry {
-    column-count: 4;
-    column-gap: 1.5em;
-  }
-  .masonry figure {
-    display: inline-block;
-    width: 100%;
-    margin-top: 1.5em !important;
-  }
   .photoset {
     display: grid;
     grid-gap: 1rem;
