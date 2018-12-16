@@ -116,10 +116,27 @@ b {
   margin-top: 0.25em !important;
 }
 
-
 .no-decoration {
   text-decoration: none;
   background-image: none !important;
+}
+
+.list.journal {
+  display: grid;
+  grid: auto-flow dense / repeat(2, 50%);
+  place-itmes: center;
+}
+
+.list.journal .note-tile, .list.journal header {
+  margin: 30px;
+}
+
+.list.journal header {
+  margin-top: 80px;
+}
+
+.list.journal :nth-child(4n-1) {
+  grid-column: 2;
 }
 
 /* Main wrapper */
@@ -201,7 +218,6 @@ b {
 
   .list.journal .note-tile img {
     display: block;
-    margin: 0 auto;
     width: calc(100% - 20px);
   }
 
@@ -218,9 +234,6 @@ b {
     max-width: 58rem;
     margin-left: auto;
     margin-right: auto;
-  }
-  .list.journal {
-    grid-template-columns: repeat(3, 1fr);
   }
 }
 /* Special for normal screens*/
@@ -281,9 +294,6 @@ b {
   }
   .wanders {
     grid-template-columns: repeat(2, 1fr);
-  }
-  .list.journal {
-    grid-template-columns: repeat(3, 1fr);
   }
 }
 /* Notes tile */
