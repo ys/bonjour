@@ -116,7 +116,6 @@ b {
   margin-top: 0.25em !important;
 }
 
-
 .no-decoration {
   text-decoration: none;
   background-image: none !important;
@@ -169,11 +168,6 @@ b {
     grid-template-columns: repeat(1, 1fr);
   }
 
-  .wander header {
-    margin-left: 1rem;
-    margin-right: 1rem;
-  }
-
   .main p, .main blockquote {
     margin-left: 1rem;
     margin-right: 1rem;
@@ -182,34 +176,15 @@ b {
     margin: 10px;
   }
 
-  .wander-link {
-    margin-bottom: 40px;
-  }
-
-  .wander-tile header {
-    position: absolute !important;
-    opacity: 1 !important;
-    visibility: visible !important;
-    bottom: -50px;
-    font-size: 0.9rem !important;
-  }
-
   .list.journal .note-tile>a {
     width: 100%;
     display: block;
   }
 
-  .list.journal .note-tile img {
+  .list.journal img {
     display: block;
-    margin: 0 auto;
     width: calc(100% - 20px);
-  }
-
-  .wander-tile .title {
-    text-transform: none !important;
-  }
-  .wanders {
-    grid-template-columns: repeat(1, 1fr);
+    margin: 10px;
   }
 }
 
@@ -218,6 +193,27 @@ b {
     max-width: 58rem;
     margin-left: auto;
     margin-right: auto;
+  }
+  .list.journal {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    place-itmes: center;
+  }
+
+  .list.journal .note-tile, .list.journal header {
+    margin: 0 30px;
+  }
+  .list.journal {
+    margin-top: 20px;
+  }
+
+  .list.journal header {
+    margin-bottom: 40px;
+  }
+
+  .list.journal header p {
+    width: 80%;
+    margin: 0 auto;
   }
   .list.journal {
     grid-template-columns: repeat(3, 1fr);
@@ -264,26 +260,23 @@ b {
   .photoset.always-2 {
     grid-template-columns: repeat(2, 1fr);
   }
-  .wander-tile:before {
-    transition: visibility 0.5s, opacity 0.5s linear;
-    visibility: hidden;
-    opacity: 0;
-    z-index: 0;
-    content: "\A";
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(255, 255, 255, 0.8);
-  }
-  .wander-tile:hover:before, .wander-tile:active:before {
-    visibility: visible;
-    opacity: 1;
-  }
-  .wanders {
-    grid-template-columns: repeat(2, 1fr);
-  }
+
   .list.journal {
-    grid-template-columns: repeat(3, 1fr);
+    display: grid;
+    grid: auto-flow dense / repeat(2, 50%);
+    place-itmes: center;
+  }
+
+  .list.journal .note-tile, .list.journal header {
+    margin: 30px;
+  }
+
+  .list.journal header {
+    margin-top: 80px;
+  }
+
+  .list.journal :nth-child(4n-1) {
+    grid-column: 2;
   }
 }
 /* Notes tile */
@@ -308,45 +301,6 @@ b {
 }
 .note-tile h4 {
   margin-bottom: -10px !important;
-}
-
-/* TILES wander */
-.wander-link {
-  display: block;
-  height: 0;
-  padding-bottom: 66.6%;
-  position: relative;
-}
-
-.wander-tile {
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  z-index: 100;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
-
-
-.wander-tile:hover header, .wander-tile:active header {
-  visibility: visible;
-  opacity: 1;
-}
-
-.wander-tile header {
-  opacity: 0;
-  visibility: hidden;
-  transition: visibility 0.5s, opacity 0.5s linear;
-  z-index: 1;
-  font-size: 1.3rem;
-  text-align: center;
-  margin-bottom: 0 !important;
 }
 
 /* MAIN HEADER */
@@ -377,33 +331,6 @@ b {
   font-weight: 200;
 }
 
-/* INDEX LIST */
-
-.wanders {
-  display: grid;
-  padding-top: 1.3rem;
-  grid-gap: 1.3rem 1.3rem;
-}
-
-.wanders a {
-  text-decoration: none;
-  border-bottom: 0;
-  background-image: linear-gradient(to top, transparent, transparent 2px, #aaa 2px, #aaa 2.5px, transparent 2.5px);
-}
-
-.wander-tile {
-  background-size: cover;
-  background-position: center;
-}
-
-.wander-tile .title {
-  color: #111;
-}
-
-.wander-tile header {
-  text-shadow: none;
-}
-
 /* MAIN LAYOUT */
 
 .main img {
@@ -415,7 +342,7 @@ b {
   margin-bottom: 1.5rem;
 }
 
-.main header h1, .wanders .title {
+.main header h1 {
   text-transform: uppercase;
 }
 
@@ -429,7 +356,7 @@ b {
   margin-top: 0;
   margin-bottom: 0;
   color: #666;
-  font-size: 0.9rem;
+  font-size: 1.2rem;
 }
 
 .main header .date {
