@@ -191,26 +191,37 @@ b {
     font-size: 0.9rem !important;
   }
 
+  .list.journal .note-tile a {
+    display: block;
+    width: 100%;
+  }
+
+  .list.journal .note-tile img {
+    display: block;
+    width: 400px;
+    margin: 0 auto;
+  }
+
   .wander-tile .title {
     text-transform: none !important;
   }
   .wanders {
     grid-template-columns: repeat(1, 1fr);
   }
-  .list.journal {
-    grid-template-columns: repeat(1, 1fr);
-  }
 }
 
-@media only screen and (min-width: 670px) and (max-width: 1199px) {
+@media only screen and (min-width: 670px) and (max-width: 999px) {
   .main.index > :not(.fullwidth) {
     max-width: 58rem;
     margin-left: auto;
     margin-right: auto;
   }
+  .list.journal {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 /* Special for normal screens*/
-@media only screen and (min-width: 1200px) {
+@media only screen and (min-width: 1000px) {
   .main {
     width: 100%;
     margin: 0;
