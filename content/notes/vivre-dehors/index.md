@@ -60,7 +60,7 @@ Discovering the inner land, less known that the Brittany coast, is something I p
 
 Vivre aussi près de la mer nous permet de payer une visite à la déesse des mers aussi souvent que notre corps nous réclame une bonne bouffée d'air saline. Je suis tombé amoureux de ces côtes sauvages et j'adore les photographier autant que possible. Je pense de plus en plus à nager dans ses eaux froides, même en hiver. J'espère aussi prendre le temps pour apprendre à surfer
 
-Nous avons cueilli de la nourriture dans les terres, mais la mer aussi peut donner. C'est vrai que cet été, elle a plutôt pris mes luntttes, mais c'était une offrande qui paie pour toutes les choses qu'elle donne. Nous devons encore nous améliorer pour la pêche à pied et les coquillages.
+Nous avons cueilli de la nourriture dans les terres, mais la mer aussi peut donner. C'est vrai que cet été, elle a plutôt pris mes lunettes, mais c'était une offrande qui paie pour toutes les choses qu'elle donne. Nous devons encore nous améliorer pour la pêche à pied et les coquillages.
 
 {{< translation language="en" >}}
 
