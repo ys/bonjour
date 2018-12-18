@@ -5,6 +5,6 @@
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.52"
 [context.branch-deploy]
-  command = "hugo -b $DEPLOY_PRIME_URL -v"
+  command = "hugo --debug -b $DEPLOY_PRIME_URL"
 [context.branch-deploy.environment]
   HUGO_VERSION = "0.52"
