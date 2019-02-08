@@ -2,45 +2,6 @@
   {{ $media := $.Page.Resources }}
   {{ $original := $media.GetMatch (.Get "src") }}
   {{ if $original }}
-  {{ $width := $original.Width}}
-  {{ $sizes := $.Page.Site.Params.sizes}}
-
-  <!-- The actual srcset partial -->
-  <!-- Ranging to create the image sizes and strings -->
-  {{- range $i, $num := (seq (len $sizes)) -}}
-    {{- $imgSize := index $sizes $i -}}
-    {{- $intWidth := int $width -}}
-
-      {{- if ge (index $sizes $i) 10 -}}
-        {{- $img := ($original.Resize (printf "%sx Lanczos" $imgSize)) -}}
-
-        {{ $.Scratch.Add "imgs" (slice $img.RelPermalink) }}
-        {{ $.Scratch.Add "sizes" (slice $img.Width) }}
-        {{- $int2string := string $img.Width -}}
-        {{ $.Scratch.Add "string" (slice (printf "%s %sw" $img.RelPermalink $int2string)) }}
-
-      {{- else -}}
-        {{- $floatSize := float $imgSize -}}
-        {{- $newSize := (mul $intWidth $floatSize) -}}
-        {{- $int2string := string (math.Round $newSize) -}}
-        {{- $img := ($original.Resize (printf "%sx Lanczos" $int2string)) -}}
-
-        {{ $.Scratch.Add "imgs" (slice $img.RelPermalink) }}
-        {{ $.Scratch.Add "sizes" (slice $img.Width) }}
-        {{- $int2string := string $img.Width -}}
-        {{ $.Scratch.Add "string" (slice (printf "%s %sw" $img.RelPermalink $int2string)) }}
-      {{- end -}}
-  {{- end -}}
-
-  <img class=""
-  src="{{ $original.RelPermalink }}"
-  srcset="{{delimit (.Scratch.Get "string") ", " }}"
-  sizes="
-    {{- $last := sub (len (.Scratch.Get "sizes")) 1 -}}
-    {{- range first $last (.Scratch.Get "sizes") -}}
-      (max-width: {{ . }}px) {{ sub . 40 }}px,
-    {{end}}
-    {{- index (.Scratch.Get "sizes") (sub (len (.Scratch.Get "sizes")) 1) -}}px"
-  alt="" data-action="zoom">
+    <img class="" src="{{ $original.RelPermalink }}" alt="" data-action="zoom">
   {{ end }}
 </figure>
