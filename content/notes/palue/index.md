@@ -31,4 +31,4 @@ Une balade qui nous donne envie de revenir. On trouve un airbnb pour revenir lor
 A hike that makes us want to come back. We find an Airbnb to come during the biggest tides of the year. In two weeks, I cannot wait. The call of the sea, I guess.
 {{</ translation >}}
 
-{{< picture src="cover.jpg" classe"fullscreen" >}}
+{{< picture src="cover.jpg" classe"fullwidth" >}}
