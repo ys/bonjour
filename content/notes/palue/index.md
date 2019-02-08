@@ -13,6 +13,12 @@ Comme parfois, la météo n’était pas des plus clémentes. On arrive, on se g
 It wasn’t a sunny day. It happens. We park next to a van. A wetsuit is drying on it. We are at the right place. This beach is known for its surf. We pass by a German surfer here for a few days and having his car for a home. We walk down to the beach, crossing paths with a windsurfer running to the ocean. The call of the sea, I guess.
 {{</ translation >}}
 
+{{< photoset >}}
+  {{< photo src="_DSF2367.jpg" >}}
+  {{< photo src="_DSF2435.jpg" >}}
+  {{< photo src="_DSF2518.jpg" >}}
+{{</ photoset >}}
+
 On marche dans le sable pour rejoindre le GR34. Le chien s’amuse avec les algues et se fait un petit casse-croute. On grimpe sur les falaises et admire la vue. C’est magique et envoûtant. La force des vagues, la beauté de l’eau qui claque sur la falaise. Le va et vient des vagues le long de la plage. Le bruit de l’eau.
 
 {{< translation language="en" >}}
@@ -25,10 +31,12 @@ On grimpe encore et on se balade, on se perd dans les petits sentiers. Sur leurs
 We climb up more and wander around, we lose ourselves on the small paths. On their sides, small stone walls. We find a nice spot and stop to eat. We pass by small villages near the coast to get back to our car.
 {{</ translation >}}
 
+{{< photo src="_DSF2506.jpg" >}}
+
 Une balade qui nous donne envie de revenir. On trouve un airbnb pour revenir lors des plus grosses marées. C’est dans deux semaines. J’ai hâte. L’appel de la mer, je suppose.
 
 {{< translation language="en" >}}
 A hike that makes us want to come back. We find an Airbnb to come during the biggest tides of the year. In two weeks, I cannot wait. The call of the sea, I guess.
 {{</ translation >}}
 
-{{< photo src="cover.jpg" classe"fullwidth" >}}
+{{< photo src="cover.jpg" class="fullwidth" >}}
