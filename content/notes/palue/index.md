@@ -5,6 +5,8 @@ draft: false
 slug: "palue"
 emoji: "🌊"
 resources:
+- src: "cover.jpg"
+  name: "cover"
 - src: "*.jpg"
 ---
 Comme parfois, la météo n’était pas des plus clémentes. On arrive, on se gare, une combi de surf sèche sur le van à côté de nous. C’est sûr, on est au bon endroit. Cette plage est connue pour son surf. On croisera un allemand venu se poser quelques jours avec son break pour maison et la mer comme terrain de jeu. On descend vers la plage. On croise un véliplanchiste courant vers l’océan. L’appel de la mer, je suppose.
@@ -39,4 +41,4 @@ Une balade qui nous donne envie de revenir. On trouve un airbnb pour revenir lor
 A hike that makes us want to come back. We find an Airbnb to come during the biggest tides of the year. In two weeks, I cannot wait. The call of the sea, I guess.
 {{</ translation >}}
 
-{{< photo src="cover.jpg" class="fullwidth" >}}
+{{< photo src="cover" class="fullwidth" >}}
