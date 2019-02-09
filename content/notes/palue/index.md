@@ -4,6 +4,10 @@ date: 2019-02-08T16:13:56+01:00
 draft: false
 slug: "palue"
 emoji: "🌊"
+gear:
+- "📷 Fuji X-T20"
+categories:
+- "petites-vadrouilles"
 resources:
 - src: "cover.jpg"
   name: "cover"
@@ -35,10 +39,10 @@ We climb up more and wander around, we lose ourselves on the small paths. On the
 
 {{< photo src="_DSF2506.jpg" >}}
 
-Une balade qui nous donne envie de revenir. On trouve un airbnb pour revenir lors des plus grosses marées. C’est dans deux semaines. J’ai hâte. L’appel de la mer, je suppose.
+Une balade qui nous donne envie de revenir. On trouve un airbnb pour revenir lors des plus grosses marées. C’est dans une semaine. J’ai hâte. L’appel de la mer, je suppose.
 
 {{< translation language="en" >}}
-A hike that makes us want to come back. We find an Airbnb to come during the biggest tides of the year. In two weeks, I cannot wait. The call of the sea, I guess.
+A hike that makes us want to come back. We find an Airbnb to come during the biggest tides of the year. In a week, I cannot wait. The call of the sea, I guess.
 {{</ translation >}}
 
 {{< photo src="cover" class="fullwidth" >}}
