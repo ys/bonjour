@@ -45,7 +45,7 @@ On grimpe encore et on se balade, on se perd dans les petits sentiers. Sur leurs
 We climb up more and wander around, we lose ourselves on the small paths. On their sides, small stone walls. We find a nice spot and stop to eat. We pass by small villages near the coast to get back to our car.
 {{</ translation >}}
 
-{{< photo src="_DSF2435.jpg" >}}
+{{< photo src="_DSF2581.jpg" >}}
 
 Une balade qui nous donne envie de revenir. On trouve un airbnb pour revenir lors des plus grosses marées. C’est dans une semaine. J’ai hâte. L’appel de la mer, je suppose.
 
