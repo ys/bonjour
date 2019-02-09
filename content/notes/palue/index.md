@@ -2,7 +2,7 @@
 title: "Plage de la Palue - Crozon"
 date: 2019-02-08T16:13:56+01:00
 draft: false
-slug: "palue"
+slug: "la-palue"
 emoji: "🌊"
 gear:
 - "📷 Fuji X-T20"
