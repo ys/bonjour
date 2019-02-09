@@ -40,7 +40,7 @@ timeout = 200000
   url = "/"
 [[menu.main]]
   name = "Journal"
-  title = "Journal de Bord"
+  title = "Journal"
   weight = 2
   identifier = "notes"
   url = "/journal"
