@@ -13,7 +13,7 @@ resources:
   name: "cover"
 - src: "*.jpg"
 ---
-On continue les découvertes des chouettes lieux de la Bretagne. Cette région n'a toujours pas tout montré pas même 10% je pense. On adore continuer à la découvrir! On espère aussi faire de chouettes rencontres humaines cette année pour découvrir des lieux secrets. Cette fois-ci, c'est la plage de la Palue sur la presqu'île de Crozon. Un vrai petit coin de paradis sur terre encore une fois.
+On continue les découvertes des chouettes lieux de la Bretagne. Cette région n'a toujours pas tout montré, pas même 10% je pense. On adore continuer à la découvrir! On espère aussi faire de chouettes rencontres humaines cette année pour découvrir des lieux secrets. Cette fois-ci, c'est la plage de la Palue sur la presqu'île de Crozon. Un vrai petit coin de paradis sur terre encore une fois.
 
 {{< translation language="en" >}}
 We keep discovering new amazing places around Bretagne (Decided to stop translating this one after reading Jack Kerouac saying "breton"). We might have seen less than 10% now. We love those new discoveries. We hope also to meet some folks this year to see some secret spots only locals know about. This time, we went to la Palue on the Crozon peninsula. A piece of paradise down on earth. 
