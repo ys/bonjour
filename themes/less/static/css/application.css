@@ -367,6 +367,10 @@ b {
   text-align: justify;
 }
 
+.main.note h1, .main.note h2, .main.note h3, .main.note h4 {
+  text-align: center;
+}
+
 /* This is the carousel */
 
 .main-carousel {
