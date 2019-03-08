@@ -16,6 +16,8 @@ On avait décidé de ne pas partir bien loin. On voulait découvrir notre region
 
 <!-- more -->
 
+{{< photo src="14.jpg" >}}
+
 ## Carnac
 
 On démarre, dans les temps, direction Carnac. Il fait pas trop mauvais, on a du temps avant de pouvoir prendre possession de notre Airbnb. On décide de prendre de l’avance sur le planning et hop, on se retrouve à Carnac pour découvrir ses alignements. Je ne savais pas à quoi m’attendre, je pensais à une rangée de 1000 menhirs, j’avais tort. J’ai bien fait de ne pas faire de recherches avant. C’est impressionnant, une plaine pleine de magie. Comment? Pourquoi? Ils auraient pu nous laisser un mot pour expliquer tout ça. On pensait les faire en deux fois, en fait on a le temps, on continue de marcher. Certaines zones sont laissées aux moutons. Tom court entre les menhirs et cherche celui qui ferait sa taille. On le trouve. Il est temps de se diriger vers notre camp de base à Plouharnel.
