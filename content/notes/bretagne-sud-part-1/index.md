@@ -5,7 +5,7 @@ draft: false
 slug: "bretagne-sud-part-1"
 emoji: "⚓️"
 resources:
-- src: "9.jpg"
+- src: "4.jpg"
   name: "cover"
 - src: "*.jpg"
 ---
@@ -60,8 +60,8 @@ La Ria d’Etel nous est conseillée par notre hôte. On arrive en plein brouill
 {{< translation language="en" >}}The Ria of Etel has been one of those places we hadn’t plan to come. We arrive in a complete fog. A small island with a house on it is barely visible from the road. We cross a stone bridge, hike around the whole, quite small, island of Saint-Cado and the view is up to our imagination due to the fog. The house is a bit more visible now. Time for a good lunch break. We will come back in the sunny afternoon for a good hike along the Ria, between fields, pine forest and sea. A quite nice weather and Tom guiding us around. He asks us to ask him questions about all we are seeing. We ask him his usual “When do we arrive?”. He doesn’t know...{{</ translation >}}
 
 {{< photoset max="3" >}}
-  {{< photo src="1.jpg" >}}
   {{< photo src="2.jpg" >}}
+  {{< photo src="1.jpg" >}}
   {{< photo src="3.jpg" >}}
 {{</ photoset >}} 
 
