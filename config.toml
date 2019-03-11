@@ -8,8 +8,9 @@ RemovePathAccents = true
 timeout = 200000
 enableRobotsTXT = true
 canonifyURLs = true
-author = "Yannick Schutz"
 
+[author]
+  name = "Yannick Schutz"
 [permalinks]
   notes = "/:slug"
 
