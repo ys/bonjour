@@ -1,31 +1,3 @@
-{{ define "js" }}
-  {{ if .Params.geojson }}
-    var data = {{ .Params.geojson | readFile | safeJS }}
-    mapboxgl.accessToken = '{{ .Site.Params.mapbox }}';
-    var map = new mapboxgl.Map({
-      container: 'map',
-      interactive: false,
-      zoom: {{ .Params.zoom | default 14 }},
-      center: [data.features[0].properties.longitude, data.features[0].properties.latitude],
-      style: 'mapbox://styles/yannick-io/cjf56hdr50qs22rpbjbcjtpxu'
-    });
-    map.on('load', function () {
-      map.addLayer({
-        "id": "route",
-        "type": "line",
-        "paint": {
-            "line-color": "#D9541C",
-            "line-width": 1.5
-        },
-        "source": {
-          "type": "geojson",
-          "data": data
-        }
-      })
-
-    });
-  {{ end }}
-{{ end }}
 {{ define "main" }}
 <div class="main note">
   <header>
@@ -34,7 +6,6 @@
   </header>
   {{ partial "gallery.html" . }}
   {{.Content}}
-  {{ partial "geojson.html" . }}
   {{if .Params.gear }}
     <p class="center"><i>Gear: </i>{{ delimit .Params.gear " ● " }}</p>
   {{ end }}

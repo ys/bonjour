@@ -2,7 +2,6 @@
   <title>{{ .Params.emoji }} {{ .Title }} </title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
-  <link href='https://api.mapbox.com/mapbox-gl-js/v0.48.0/mapbox-gl.css' rel='stylesheet' />
   <link rel="stylesheet" href="/css/application.css">
   <link rel="icon" href="{{ "/favicon.ico" | absURL }}">
   <link rel="shortcut icon" href="{{ "/favicon.ico" | absURL }}">
@@ -13,4 +12,8 @@
   {{ template "_internal/google_news.html" . }}
   {{ template "_internal/schema.html" . }}
   {{ template "_internal/twitter_cards.html" . }}
+  {{ partial "seo_schema" . }}
+  <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>
+   <!-- the iolazy load library -->
+  <script src="/js/iolazy.min.js" defer></script>
 </head>
