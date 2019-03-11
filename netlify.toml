@@ -1,10 +1,10 @@
 [context.production.environment]
-  HUGO_VERSION = "0.52"
+  HUGO_VERSION = "0.54"
 [context.deploy-preview]
   command = "hugo -b $DEPLOY_PRIME_URL -v"
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.52"
+  HUGO_VERSION = "0.54"
 [context.branch-deploy]
   command = "hugo -b $DEPLOY_PRIME_URL -v"
 [context.branch-deploy.environment]
-  HUGO_VERSION = "0.52"
+  HUGO_VERSION = "0.54"
