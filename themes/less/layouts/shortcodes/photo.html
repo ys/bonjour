@@ -2,6 +2,6 @@
   {{ $media := $.Page.Resources }}
   {{ $original := $media.GetMatch (.Get "src") }}
   {{ if $original }}
-    <img class="" src="{{ $original.RelPermalink }}" alt="" data-action="zoom">
+    <img class="lazyload" data-src="{{ $original.RelPermalink }}" alt="" data-action="zoom">
   {{ end }}
 </figure>

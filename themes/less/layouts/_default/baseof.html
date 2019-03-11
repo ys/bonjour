@@ -18,6 +18,9 @@
     <script src="/js/medium-zoom.min.js"></script>
     <script src='https://api.mapbox.com/mapbox-gl-js/v0.48.0/mapbox-gl.js'></script>
     <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        new IOlazy();
+      });
       $(function(){
         mediumZoom(document.querySelectorAll('[data-action="zoom"]'), {margin: 20})
         {{ block "js" . }}
