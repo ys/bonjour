@@ -9,6 +9,9 @@ timeout = 200000
 enableRobotsTXT = true
 canonifyURLs = true
 
+[author]
+  name = "Yannick Schutz"
+  
 [permalinks]
   notes = "/:slug"
 
@@ -16,8 +19,10 @@ canonifyURLs = true
   resampleFilter = "lanczos"
 
 [params]
+
   mapbox = "pk.eyJ1IjoieWFubmljay1pbyIsImEiOiJjamY1NmR3NjMwNHkwMnBscDc2Nzl6b2ZwIn0.NbV8ywwFWfOH4T8DAN_tKw"
   sizes = [ "2048" , "1024" , "512" ]
+  tags = ["bretagne", "slow travel", "voyage", "slow life", "neorural", "photography", "photographies"]
 
 [params.titles]
 
