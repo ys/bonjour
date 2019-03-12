@@ -15,10 +15,16 @@
   {{ template "_internal/twitter_cards.html" . }}
   {{ partial "seo_schema" . }}
   <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>
-   <!-- the iolazy load library -->
-   {{ $jsFiles := resources.Match "js/**.js" }}
-   {{ with $jsFiles }}
-     {{ $js := . | resources.Concat "js/bundle.js" | minify | fingerprint }}
-     <script src="{{ $js.Permalink}}" defer></script>
+  {{ $.Scratch.Set "jslibs" slice }}
+  {{ $libs := slice "js/cash.min.js" "js/flickity.pkgd.min.js" "js/bg-lazyload.js" "js/medium-zoom.min.js" "js/iolazy.min.js" }}
+  {{ range $libs }}
+    {{ $.Scratch.Add "jslibs" (resources.Get . ) }}
+  {{ end }}
+  {{ $js := .Scratch.Get "jslibs" | resources.Concat "js/main.js" }}
+  {{ if .Site.IsServer }}
+    <script src="{{ $js.Permalink }}" defer></script>
+  {{ else }}
+    {{ $js := $js | minify | fingerprint }}
+    <script src="{{ $js.Permalink }}" integrity="{{ $js.Data.Integrity }}" defer></script>
   {{ end }}
 </head>
