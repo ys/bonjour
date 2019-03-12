@@ -17,12 +17,13 @@
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
     <script src="/js/medium-zoom.min.js"></script>
     <script>
-      $(function(){
-        disqusLazy({
-          shortname: "{{ .Site.DisqusShortname }}",
-          element: doc.getElementById("disqus-thread")
-         })
+      document.addEventListener("DOMContentLoaded", function () {
         new IOlazy();
+        disqusLazy({
+          shortname: {{ .Site.DisqusShortname }},
+          element: doc.getElementById("disqus-thread")
+         });
+        
         mediumZoom(document.querySelectorAll('[data-action="zoom"]'), {margin: 20})
       })
     </script>
