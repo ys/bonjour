@@ -1,5 +1,7 @@
 <head>
   <title>{{ .Params.emoji }} {{ .Title }} </title>
+  <meta name="Description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
   {{ $style := resources.Get "css/application.css" | minify | fingerprint }}
@@ -11,7 +13,6 @@
   {{ end -}}
   {{ partial "opengraph.html" . }}
   {{ template "_internal/google_news.html" . }}
-  {{ template "_internal/schema.html" . }}
   {{ template "_internal/twitter_cards.html" . }}
   {{ partial "seo_schema" . }}
   <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>
