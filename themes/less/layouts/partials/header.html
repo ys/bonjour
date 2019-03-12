@@ -15,5 +15,8 @@
   {{ partial "seo_schema" . }}
   <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>
    <!-- the iolazy load library -->
-  <script src="/js/iolazy.min.js" defer></script>
+   {{ $lazy := resources.Get "js/iolazy.min.js" }}
+   {{ $zoom := resources.Get "js/medium-zoom.min.js" }}
+   {{ $js := slice $lazy $zoom | resources.Concat "js/bundle.js" | minify | fingerprint }}
+  <script src="{{ $js.Permalink}}" defer></script>
 </head>
