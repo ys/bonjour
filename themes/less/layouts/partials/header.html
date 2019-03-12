@@ -16,7 +16,9 @@
   {{ partial "seo_schema" . }}
   <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>
    <!-- the iolazy load library -->
-   {{ $jsFiles := resources.Match "js/*.js" }}
-   {{ $js := $jsFiles | resources.Concat "js/bundle.js" | minify | fingerprint }}
-  <script src="{{ $js.Permalink}}" defer></script>
+   {{ $jsFiles := resources.Match "js/**.js" }}
+   {{ with $jsFiles }}
+     {{ $js := . | resources.Concat "js/bundle.js" | minify | fingerprint }}
+     <script src="{{ $js.Permalink}}" defer></script>
+  {{ end }}
 </head>
