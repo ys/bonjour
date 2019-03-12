@@ -17,13 +17,13 @@
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
     <script src="/js/medium-zoom.min.js"></script>
     <script>
-      document.addEventListener("DOMContentLoaded", function () {
-        new IOlazy();
-      });
       $(function(){
+        disqusLazy({
+          shortname: "{{ .Site.DisqusShortname }}",
+          element: doc.getElementById("disqus-thread")
+         })
+        new IOlazy();
         mediumZoom(document.querySelectorAll('[data-action="zoom"]'), {margin: 20})
-        {{ block "js" . }}
-        {{ end }}
       })
     </script>
     <script src="https://unpkg.com/flickity-bg-lazyload@1.0.0/bg-lazyload.js"></script>
