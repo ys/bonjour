@@ -2,7 +2,8 @@
   <title>{{ .Params.emoji }} {{ .Title }} </title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
-  <link rel="stylesheet" href="/css/application.css">
+  {{ $style := resources.Get "css/application.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $style.Permalink }}">
   <link rel="icon" href="{{ "/favicon.ico" | absURL }}">
   <link rel="shortcut icon" href="{{ "/favicon.ico" | absURL }}">
   {{ range .AlternativeOutputFormats -}}
