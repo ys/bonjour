@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  {{ partial "header" .}}
+  <body class="home">
+    <header class="main_header">
+      <h1><a href="/">{{ .Site.Title }}</a></h1>
+      {{ partial "main_menu" . }}
+    </header>
+    <div class="wrapper">
+      <div class="index main">
+        {{ .Content }}
+      </div>
+    </div>
+    {{ partial "footer" .}}
+    {{ template "_internal/google_analytics.html" . }}
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        new IOlazy();
+        mediumZoom(document.querySelectorAll('[data-action="zoom"]'), {margin: 20})
+        {{ block "js" . }}
+        {{ end }}
+      })
+    </script>
+  </body>
+</html>

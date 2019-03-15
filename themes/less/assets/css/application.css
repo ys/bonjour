@@ -29,7 +29,6 @@ footer {
   text-align: center;
   color: #aaa;
   position: relative;
-  margin-top: -50px; /* negative value of footer height */
   height: 50px;
   line-height: 50px;
   clear:both;
@@ -149,6 +148,34 @@ b {
   display: grid;
   grid-gap: 1rem;
   grid-template-columns: repeat(2, 1fr);
+}
+
+.home {
+  background-color: #C7EFCF;
+}
+
+.home .main_header {
+  flex-direction: column;
+  justify-content: center;
+  border-bottom: 0 !important;
+  font-size: 5.2em;
+  min-height: 100vh;
+}
+
+.home a, .home h1 {
+  text-shadow: 0 0 0  transparent !important;
+}
+
+.home .main_header h1 {
+  font-size: 1em;
+}
+
+.home .main_header h1 a {
+  font-weight: 700;
+}
+.home .wrapper {
+  padding-top: 40px;
+  background: white;
 }
 
 /* Special for mobiles */
