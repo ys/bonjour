@@ -4,6 +4,7 @@ date: 2018-12-15T09:07:44+01:00
 draft: false
 slug: "vivre-dehors"
 emoji: "🏞"
+tags: ["bretagne", "outside", "dehors", "neoruraux", "foraging", "organic", "food", "personal"]
 categories:
 - "retour-a-la-terre"
 resources:
