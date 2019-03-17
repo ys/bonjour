@@ -1,10 +1,10 @@
 ---
-title: "Road-trip en Bretagne Sud - Part 1"
+title: "Road trip en Bretagne Sud - Part 1"
 date: 2019-03-08T13:09:01+01:00
 draft: false
 slug: "bretagne-sud-part-1"
 emoji: "⚓️"
-tags: ["road trip", "photography", "bretagne", "Brittany", "surf", "beach", "tides", "marée", "mer"]
+tags: ["road trip", "photography", "bretagne", "Brittany", "surf", "beach", "tides", "marée", "mer", "morbihan", "quiberon", "carnac"]
 resources:
 - src: "4.jpg"
   name: "cover"
@@ -13,9 +13,9 @@ resources:
 
 On avait décidé de ne pas partir bien loin. On voulait découvrir notre region d’adoption. On veut voyager différemment, plus lentement. On ferait Carnac, Quiberon, la Pointe du Raz et Crozon. Un road trip en Bretagne sud. Facile et efficace. Du mystique, du sauvage et du classique à découvrir ou approfondir. 
 
-{{< translation language="en" >}}We decided we should have a staycation. We wanted to discover our new region. We definitively think about travelling differently, slower. For this time, the plan is Carnac, Quiberon, “La Pointe du Raz” and Crozon. A road trip across south of Brittany. Simple enough but also full of wonders. Mystic, Wild and classic places to discover or rediscover.{{</ translation >}}
-
 <!-- more -->
+
+{{< translation language="en" >}}We decided we should have a staycation. We wanted to discover our new region. We definitively think about travelling differently, slower. For this time, the plan is Carnac, Quiberon, “La Pointe du Raz” and Crozon. A road trip across south of Brittany. Simple enough but also full of wonders. Mystic, Wild and classic places to discover or rediscover.{{</ translation >}}
 
 {{< photo src="14.jpg" alt="light through waves" >}}
 
