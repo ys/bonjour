@@ -1,5 +1,5 @@
 ---
-title: "Road trip en Bretagne Sud - Part 1"
+title: "Road trip en Bretagne Sud - Carnac - Quiberon - Etel"
 date: 2019-03-08T13:09:01+01:00
 draft: false
 slug: "bretagne-sud-part-1"
