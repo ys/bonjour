@@ -4,6 +4,7 @@ date: 2019-03-19T22:23:24+01:00
 draft: false
 slug: "bretagne-sud-part-2"
 emoji: "⚓️"
+tags: [“bretagne”, “Brittany”, “crozon”, “road trip”, “photography”, “beach”, “plage”, “hiking”, “randonnée”, “voyage”, “trip”, “Finistère”, “maree”, “famille”, “tide”, “family”]
 resources:
 - src: "*.jpg"
 ---
@@ -31,7 +32,7 @@ On continue la découverte des plages le jour suivant, on remonte plus au nord. 
 
 {{< translation language="en" >}}We keep discovering more beaches the next day. Going more north, Concrete spikes from the Second World War are mind-blowing. We have to explain why those are here to Tom and bits of what was that war. We take a break up on Lost’March, and the wind is welcoming us. We watch all around us, and it is time to go back to the Airbnb. I decide to take a tour to “l’île Vierge” and get more of the GR34 done. Divers are getting ready for some fishing. I wait a bit, observe them then continue north. Escalation is quite good for the end of the day.  I have the sea and beautiful pink tones  just for myself.{{</ translation >}}
 
-## Crozon Nordw
+## Crozon Nord
 
 La pointe de la chèvre et son monument aux marins, on se doit d’aller le voir. On fait une belle boucle, croise pleins de gens et papotons un moment. Une belle journée, de beaux paysages et encore de l’aventure en plein pour le petit bout. On part vers Camaret pour voir la pointe de Pen’Hir et ses petits pois. On découvre aussi une falaise servant de mur d’escalade, avec un caillou marqué de mots au sens mystérieux. On finit notre vadrouille et on rentre se poser. 
 
