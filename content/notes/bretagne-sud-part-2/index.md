@@ -17,6 +17,8 @@ resources:
 
 Départ de notre premier QG en direction de notre camp de base à Crozon. On fait un crochet par la pointe du Raz. Une pause au dernier supermarché avant l’Amérique pour quelques provisions manquantes. Pour le reste, Cloé a eu la super idée de cuisiner des petits plats et les mettre dans des bocaux. La nourriture comme à la maison mais sans devoir cuisiner. Trop bien! 
 
+<!-- more -->
+
 {{< translation language="en" >}}Time to leave our first base camp for Crozon. We take a small detour for La Pointe du Raz. A quick break at the last supermarket before America for some missing groceries. For our meals, Cloé had the great idea to cook amazing dishes and store them in jars. Food just like home but without having to cook too much. What can we ask for!{{</ translation >}}
 
 ## Pointe du Raz
