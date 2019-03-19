@@ -8,13 +8,13 @@ tags: ["bretagne", "Brittany", "crozon", "road trip", "photography", "beach", "p
 description: "Direction Crozon. Un crochet par la pointe du Raz. Pause au dernier supermarché avant l’Amérique. Vadrouilles autour de la Palue, du Cap de la Chèvre et de Pen'Hir."
 resources:
 - name: "cover"
-  src: "cover.jpg"
+  src: "9.jpg"
 - src: "*.jpg"
 ---
 
 > Homme libre toujours tu chériras la mer
 
-{{< photo src="9.jpg" alt="waves at la Palue" >}}
+{{< photo src="cover" alt="waves at la Palue" >}}
 
 Départ de notre premier QG en direction de notre camp de base à Crozon. On fait un crochet par la pointe du Raz. Une pause au dernier supermarché avant l’Amérique pour quelques provisions manquantes. Pour le reste, Cloé a eu la super idée de cuisiner des petits plats et les mettre dans des bocaux. La nourriture comme à la maison mais sans devoir cuisiner. Trop bien! 
 
@@ -45,7 +45,7 @@ On reprend la route envieux de se poser et ne plus devoir prendre la voiture que
 
 On continue la découverte des plages le jour suivant, on remonte plus au nord. Les pointes en béton armé de la seconde guerre sont impressionnantes. On explique à Tom leur usage et un peu de cette guerre. On se pose sur la pointe de Lost’March et le vent nous accueille. On admire la vue, on redescend. Une nouvelle boucle jusque [notre base](https://abnb.me/f1bPhdebcV). Je repars avant le coucher voir l’île Vierge et encore manger un bout de [GR34](https://www.mongr.fr/sentier/3/gr-34-le-plus-maritime-des-sentiers-de-grande-randonnee). Des plongeurs s’apprêtent à partir pêcher. Je les observe un peu. Je n’attend pas qu’ils rentrent à l’eau et continue mon tour vers le nord. De la chouette dénivelée de fin de journée m’attend. Des belles teintes rosées aussi. Cette mer n’est quasi rien que à moi. 
 
-{{< photo src="cover" class="fullwidth" alt="Coucher de soleil a la Palue" >}}
+{{< photo src="cover.jpg" class="fullwidth" alt="Coucher de soleil a la Palue" >}}
 
 {{< translation language="en" >}}We keep discovering more beaches the next day. Going more north, Concrete spikes from the Second World War are mind-blowing. We have to explain why those are here to Tom and bits of what was that war. We take a break up on Lost’March, and the wind is welcoming us. We watch all around us, and it is time to go back to the [Airbnb](https://abnb.me/f1bPhdebcV). I decide to take a tour to "l’île Vierge" and get more of the [GR34](https://www.mongr.fr/sentier/3/gr-34-le-plus-maritime-des-sentiers-de-grande-randonnee) done. Divers are getting ready for some fishing. I wait a bit, observe them then continue north. Escalation is quite good for the end of the day.  I have the sea and beautiful pink tones  just for myself.{{</ translation >}}
 
