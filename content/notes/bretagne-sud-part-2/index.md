@@ -37,10 +37,9 @@ On reprend la route envieux de se poser et ne plus devoir prendre la voiture que
 
 {{< translation language="en" >}}We take the car. Hopefully, it is gonna be the last time for a few days. We hope we can walk most of the peninsula. We are a kilometer away from la Palue. We will go there to admire the sunset. Weather is good. The trails are muddy, but we don’t care. That’s why we have walking boots. On the beach, we are looking for small treasures. The most beautiful rocks, shells, pieces of wood, whatever. It is high tide, waves are playing with us. We sit on the remaining parts of a bunker watching the sun going away. The dog runs back and forth all around us. It is a perfect time for him and for us.{{</ translation >}}
 
-{{< photoset max="3" >}}
-  {{< photo src="1.jpg" alt="Surfer entering the sea" >}}
+{{< photoset max="2" >}}
   {{< photo src="3.jpg" alt="Surfer at sunset" >}}
-  {{< photo src="7.jpg" alt="Just the sea" >}}
+  {{< photo src="1.jpg" alt="Surfer entering the sea" >}}
 {{</ photoset >}} 
 
 On continue la découverte des plages le jour suivant, on remonte plus au nord. Les pointes en béton armé de la seconde guerre sont impressionnantes. On explique à Tom leur usage et un peu de cette guerre. On se pose sur la pointe de Lost’March et le vent nous accueille. On admire la vue, on redescend. Une nouvelle boucle jusque notre base. Je repars avant le coucher voir l’île Vierge et encore manger un bout de GR34. Des plongeurs s’apprêtent à partir pêcher. Je les observe un peu. Je n’attend pas qu’ils rentrent à l’eau et continue mon tour vers le nord. De la chouette dénivelée de fin de journée m’attend. Des belles teintes rosées aussi. Cette mer n’est quasi rien que à moi. 
