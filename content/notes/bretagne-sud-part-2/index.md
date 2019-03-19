@@ -25,9 +25,9 @@ Départ de notre premier QG en direction de notre camp de base à Crozon. On fai
 
 On se gare et on traverse le "centre commercial de la pointe du Raz". Boucle autour de la pointe, vue sur l’océan de tous les côtés. On aperçoit le phare. On avance et je pense voir le sentier du GR qui continue, on descend, on fait de l’escalade, ce n’était finalement pas là, on remonte. Ca reste une belle aventure pour Tom. Perso, je n’étais pas en reste avec un chien qui voulait sauter au bout de la laisse. On finit la boucle avec une vue d’enfer sur la baie des trépassés. Pourquoi ce nom? Je vous laisse deviner.
 
-{{< translation language="en" >}}We park and cross the shopping mall part of la Pointe du Raz. We make a loop around the Pointe, fantastic view of the ocean wherever we look. We see the lighthouse. We keep walking, I think the GR trail is around there. We climb down, this wasn’t the trail. Oopsie. We go back up. That was some excellent adventure time for Tom. For me, I had to keep a jumping dog on a leash, kind of an adventure too. We close the loop with a fantastic view of the bay of the dead. Why that name? I will let you guess.{{</ translation >}}
-
 {{< photo src="8.jpg" class="vertical" alt="Tom et Cloe" >}}
+
+{{< translation language="en" >}}We park and cross the shopping mall part of la Pointe du Raz. We make a loop around the Pointe, fantastic view of the ocean wherever we look. We see the lighthouse. We keep walking, I think the GR trail is around there. We climb down, this wasn’t the trail. Oopsie. We go back up. That was some excellent adventure time for Tom. For me, I had to keep a jumping dog on a leash, kind of an adventure too. We close the loop with a fantastic view of the bay of the dead. Why that name? I will let you guess.{{</ translation >}}
 
 ## Crozon sud
 
