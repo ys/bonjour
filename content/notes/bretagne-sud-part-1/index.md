@@ -5,6 +5,7 @@ draft: false
 slug: "bretagne-sud-part-1"
 emoji: "⚓️"
 tags: ["road trip", "photography", "bretagne", "Brittany", "surf", "beach", "tides", "marée", "mer", "morbihan", "quiberon", "carnac", "local", "vacances", "famille", "holiday", "family"]
+description: "On avait décidé de ne pas partir bien loin. On voulait découvrir notre region d’adoption. On veut voyager différemment, plus lentement. On ferait Carnac, Quiberon, la Pointe du Raz et Crozon. Un road trip en Bretagne sud. Facile et efficace. Du mystique, du sauvage et du classique à découvrir ou approfondir."
 resources:
 - src: "4.jpg"
   name: "cover"
