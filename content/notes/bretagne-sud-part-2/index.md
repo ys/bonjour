@@ -31,9 +31,9 @@ On se gare et on traverse le "centre commercial de la pointe du Raz". Boucle aut
 
 ## Crozon sud
 
-{{< photo src="5.jpg" alt="trésors de plage" >}}
-
 On reprend la route envieux de se poser et ne plus devoir prendre la voiture quelques jours. On compte bien tout faire à pied sur la presqu’île. On est à 1km de la plage de la Palue. On va y admirer le coucher de soleil. Il fait bon. Les sentiers sont boueux mais on s’en moque, on a nos chaussures de randonnée pour cela. Arrivée sur la plage, on cherche des trésors. Les plus beaux galets, plumes, coquillages et bois flottés. La mer est haute, les vagues nous jouent des tours. On va se poser sur les restes d’un bunker et on admire le soleil couchant. Le chien court dans tous les sens et en profite un max. C’est génial pour lui et et pour nous.
+
+{{< photo src="5.jpg" alt="trésors de plage" >}}
 
 {{< translation language="en" >}}We take the car. Hopefully, it is gonna be the last time for a few days. We hope we can walk most of the peninsula. We are a kilometer away from la Palue. We will go there to admire the sunset. Weather is good. The trails are muddy, but we don’t care. That’s why we have walking boots. On the beach, we are looking for small treasures. The most beautiful rocks, shells, pieces of wood, whatever. It is high tide, waves are playing with us. We sit on the remaining parts of a bunker watching the sun going away. The dog runs back and forth all around us. It is a perfect time for him and for us.{{</ translation >}}
 
