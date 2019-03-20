@@ -18,7 +18,7 @@ resources:
 
 *N'oubliez pas de lire la [première partie](https://vadrouilles.co/bretagne-sud-part-1) - Don't forget to read the [first part](https://vadrouilles.co/bretagne-sud-part-1)*
 
-Départ de notre premier QG en direction de notre camp de base à Crozon. On fait un crochet par la pointe du Raz. Une pause au dernier supermarché avant l’Amérique pour quelques provisions manquantes. Pour le reste, Cloé a eu la super idée de cuisiner des petits plats et les mettre dans des bocaux. La nourriture comme à la maison mais sans devoir cuisiner. Trop bien! 
+Départ de notre premier QG en direction de notre camp de base à Crozon. On fait un crochet par la pointe du Raz. Une pause au dernier supermarché avant l’Amérique pour quelques provisions manquantes. Pour le reste, Cloé a eu la super idée de cuisiner des petits plats et les mettre dans des bocaux. La nourriture comme à la maison mais sans devoir cuisiner. Trop bien!
 
 <!-- more -->
 
@@ -34,16 +34,16 @@ On se gare et on traverse le "centre commercial de la pointe du Raz". Boucle aut
 
 ## Crozon sud
 
-On reprend la route envieux de se poser et ne plus devoir prendre la voiture quelques jours. On compte bien tout faire à pied sur la presqu’île. On est à 1km de la plage de [la Palue](http://www.glisse29.com/la-palue), spot de surf assez connu en Bretagne. On va y admirer le coucher de soleil. Il fait bon. Les sentiers sont boueux mais on s’en moque, on a nos chaussures de randonnée pour cela. Arrivée sur la plage, on cherche des trésors. Les plus beaux galets, plumes, coquillages et bois flottés. La mer est haute, les vagues nous jouent des tours. On va se poser sur les restes d’un bunker et on admire le soleil couchant. Le chien court dans tous les sens et en profite un max. C’est génial pour lui et et pour nous.
+On reprend la route envieux de se poser et ne plus devoir prendre la voiture quelques jours. On compte bien tout faire à pied sur la presqu’île. On est à 1km de la plage de [la Palue](https://vadrouilles.co/la-palue/), spot de surf assez connu en Bretagne. On va y admirer le coucher de soleil. Il fait bon. Les sentiers sont boueux mais on s’en moque, on a nos chaussures de randonnée pour cela. Arrivée sur la plage, on cherche des trésors. Les plus beaux galets, plumes, coquillages et bois flottés. La mer est haute, les vagues nous jouent des tours. On va se poser sur les restes d’un bunker et on admire le soleil couchant. Le chien court dans tous les sens et en profite un max. C’est génial pour lui et et pour nous.
 
 {{< photo src="5.jpg" alt="trésors de plage" >}}
 
-{{< translation language="en" >}}We take the car. Hopefully, it is gonna be the last time for a few days. We hope we can walk most of the peninsula. We are a kilometer away from [la Palue](http://www.glisse29.com/la-palue), a pretty well know Breton's Surf spot. We will go there to admire the sunset. Weather is good. The trails are muddy, but we don’t care. That’s why we have walking boots. On the beach, we are looking for small treasures. The most beautiful rocks, shells, pieces of wood, whatever. It is high tide, waves are playing with us. We sit on the remaining parts of a bunker watching the sun going away. The dog runs back and forth all around us. It is a perfect time for him and for us.{{</ translation >}}
+{{< translation language="en" >}}We take the car. Hopefully, it is gonna be the last time for a few days. We hope we can walk most of the peninsula. We are a kilometer away from [la Palue](https://vadrouilles.co/la-palue/), a pretty well know Breton's Surf spot. We will go there to admire the sunset. Weather is good. The trails are muddy, but we don’t care. That’s why we have walking boots. On the beach, we are looking for small treasures. The most beautiful rocks, shells, pieces of wood, whatever. It is high tide, waves are playing with us. We sit on the remaining parts of a bunker watching the sun going away. The dog runs back and forth all around us. It is a perfect time for him and for us.{{</ translation >}}
 
 {{< photoset max="2" >}}
   {{< photo src="3.jpg" alt="Surfer at sunset" >}}
   {{< photo src="1.jpg" alt="Surfer entering the sea" >}}
-{{</ photoset >}} 
+{{</ photoset >}}
 
 On continue la découverte des plages le jour suivant, on remonte plus au nord. Les pointes en béton armé de la seconde guerre sont impressionnantes. On explique à Tom leur usage et un peu de cette guerre. On se pose sur la pointe de Lost’March et le vent nous accueille. On admire la vue, on redescend. Une nouvelle boucle jusque [notre base](https://abnb.me/f1bPhdebcV). Je repars voir l'Ile Vierge avant le coucher de soleil. Comme une envie d'encore marcher un bout de [GR34](https://www.mongr.fr/sentier/3/gr-34-le-plus-maritime-des-sentiers-de-grande-randonnee). Des plongeurs s’apprêtent à partir pêcher. Je les observe un peu. Je n’attend pas qu’ils rentrent à l’eau et continue mon tour vers le nord. Du chouette dénivelée de fin de journée m’attend. Des belles teintes rosées aussi. Et cette vue, elle n'est rien qu'à moi.
 
@@ -54,11 +54,11 @@ On continue la découverte des plages le jour suivant, on remonte plus au nord. 
 {{< photoset max="2" >}}
   {{< photo src="2.jpg" alt="plage de l’Île vierge" >}}
   {{< photo src="4.jpg" alt="pêcheurs de l’île vierge" >}}
-{{</ photoset >}} 
+{{</ photoset >}}
 
 ## Crozon Nord
 
-La pointe de la chèvre et son monument aux marins, on se doit d’aller le voir. On fait une belle boucle, croise pleins de gens et papotons un moment. Une belle journée, de beaux paysages et encore de l’aventure en plein pour le petit bout. On part vers Camaret pour voir la pointe de Pen’Hir et ses petits pois. On découvre aussi une falaise servant de [mur d’escalade](https://www.grimper.com/site-escalade-pen-hir), avec un caillou marqué de mots au sens mystérieux. On finit notre vadrouille et on rentre se poser. 
+La pointe de la chèvre et son monument aux marins, on se doit d’aller le voir. On fait une belle boucle, croise pleins de gens et papotons un moment. Une belle journée, de beaux paysages et encore de l’aventure en plein pour le petit bout. On part vers Camaret pour voir la pointe de Pen’Hir et ses petits pois. On découvre aussi une falaise servant de [mur d’escalade](https://www.grimper.com/site-escalade-pen-hir), avec un caillou marqué de mots au sens mystérieux. On finit notre vadrouille et on rentre se poser.
 
 {{< translation language="en" >}}The Pointe de la chèvre and the seamen’s memorial are something we can’t miss. We hike around, we cross path with many people, talk with some. This is a beautiful day, nice landscapes and more adventure for our little one. Let’s go to Camaret to see the pointe of Pen’Hir and its small peas. We discover a cliff over the sea that is also a [climbing spot](https://www.grimper.com/site-escalade-pen-hir). Even an intriguing rock with words written on it. We end the trail and go back home for a good rest.{{</ translation >}}
 
