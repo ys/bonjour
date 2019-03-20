@@ -1,10 +1,11 @@
 ---
-title: "Road trip en Bretagne Sud - Part 1"
+title: "Road trip en Bretagne Sud - Carnac - Quiberon - Etel"
 date: 2019-03-08T13:09:01+01:00
 draft: false
 slug: "bretagne-sud-part-1"
 emoji: "⚓️"
 tags: ["road trip", "photography", "bretagne", "Brittany", "surf", "beach", "tides", "marée", "mer", "morbihan", "quiberon", "carnac", "local", "vacances", "famille", "holiday", "family"]
+description: "On avait décidé de ne pas partir bien loin. Un voyage plus lent. Carnac, Quiberon, Etel. Découvrir notre regiol d'adoption."
 resources:
 - src: "4.jpg"
   name: "cover"
