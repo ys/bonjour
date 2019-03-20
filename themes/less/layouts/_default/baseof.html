@@ -16,9 +16,7 @@
     <script>
       document.addEventListener("DOMContentLoaded", function () {
         new IOlazy();
-      });
-      $(function(){
-        mediumZoom(document.querySelectorAll('[data-action="zoom"]'), {margin: 20})
+        mediumZoom(document.querySelectorAll('[data-action="zoom"]'), {margin: 20});
         {{ block "js" . }}
         {{ end }}
       })
