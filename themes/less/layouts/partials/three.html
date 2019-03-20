@@ -1,0 +1,23 @@
+<div class="three">
+  {{ range first 3 . }}
+  <div class="tile">
+    {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
+    {{if $image }}
+    {{ $resized := $image.Fill "500x300" }}
+        <a class="no-decoration" href="{{ .Permalink }}">
+          <img src="{{ $resized.Permalink }}"/>
+      </a>
+    {{end}}
+    <h4>
+        {{ .Params.emoji }}
+        <a class="title bold no-decoration" href="{{ .Permalink }}">{{ .Title }}</a><br/>
+    </h4>
+    <p>
+      <a class="title no-decoration" href="{{ .Permalink }}">
+        {{ with .Description }}{{ truncate 100 . }}{{ else }}{{if .IsPage}}{{ truncate 100 .Summary }}{{ end }}{{ end }}
+      </a>
+    </p>
+    <span class="small date">{{ .Date.Format "2006-01-02" }}</span>
+  </div>
+  {{ end }}
+</div>
