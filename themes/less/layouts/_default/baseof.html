@@ -4,7 +4,7 @@
   <body>
     <div class="wrapper">
       <header class="main_header">
-        <div><a href="/">{{ .Site.Title }}</a></div>
+        <span class="title"><a href="/">{{ .Site.Title }}</a></span>
         {{ partial "main_menu" . }}
       </header>
       {{ block "main" . }}
