@@ -1,4 +1,3 @@
-/* Global */
 html {
   height: 100%;
   margin: 0;
@@ -139,6 +138,7 @@ b {
 }
 
 .main_menu a, .main_menu a:visited {
+  text-transform: uppercase;
   padding-bottom: 2px;
   background-image: linear-gradient(to top, transparent, transparent 2px, #aaa 2px, #aaa 2.5px, transparent 2.5px) !important;
 }
@@ -177,8 +177,6 @@ b {
   max-height: 100vh;
 }
 .home footer {
-  position: fixed;
-  bottom: 0;
   text-align: center;
   width: 100%;
   color: #333;
@@ -212,6 +210,10 @@ b {
   display: flex;
   justify-content: space-between;
   margin-top: 40px;
+}
+
+.home .main, .list.journal {
+  background-color: white;
 }
 
 .three .tile {
@@ -256,7 +258,6 @@ b {
   .main.index .masonry {
     margin: 10px;
   }
-
   .list.journal .note-tile>a {
     width: 100%;
     display: block;
