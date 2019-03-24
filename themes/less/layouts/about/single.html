@@ -5,22 +5,29 @@
     </header>
     {{.Content}}
 
-    <div class="contact">
-      <h4>Contact</h4>
-      <form name="contact" method="POST" data-netlify="true">
-        <p>
-        <label>Your Name: <input type="text" name="name" /></label>
+    <form class="boilerform" name="contact" netlify-honeypot="bot-field" method="POST" data-netlify="true">
+      <fieldset class="c-form">
+        <legend class="c-form__heading">Contactez-moi</legend>
+
+        <p class="hidden" style="display: none;">
+          <label>Don’t fill this out if you're human: </label><input name="bot-field" />
         </p>
-        <p>
-        <label>Your Email: <input type="email" name="email" /></label>
-        </p>
-        <p>
-        <label>Message: <textarea name="message"></textarea></label>
-        </p>
-        <p>
-        <button type="submit">Send</button>
-        </p>
-      </form>
-    </div>
+        <div class="c-form__row">
+          <label class="c-label">Your Name</label>
+          <input class="c-input-field" type="text" name="name" />
+        </div>
+        <div class="c-form__row">
+          <label class="c-label">Your Email</label>
+          <input class="c-input-field" type="email" name="email" />
+        </div>
+        <div class="c-form__row">
+          <label class="c-label">Message</label>
+          <textarea class="c-input-field c-input-field--multiline" name="message"></textarea>
+        </div>
+        <div class="c-form__row">
+          <button type="submit" class="c-button">Send message</button>
+        </div>
+      </fieldset>
+    </form>
   </div>
 {{ end }}

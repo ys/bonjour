@@ -208,7 +208,8 @@ b {
   font-weight: 700;
 }
 .home .main_menu {
-  font-size: 0.2em;
+  font-size: 1.2rem;
+  font-weight: 200;
 }
 .home .three {
   background-color: white;
@@ -344,6 +345,11 @@ b {
     margin-bottom: 25px;
   }
 
+  .main .boilerform {
+    width: 45rem !important;
+    margin: 0 auto;
+  }
+
   .photoset {
     display: grid;
     grid-gap: 1rem;
@@ -361,16 +367,13 @@ b {
 
   .list.journal {
     display: grid;
+    padding-top: 50px;
     grid: auto-flow dense / repeat(2, 50%);
     place-itmes: center;
   }
 
   .list.journal .note-tile, .list.journal header {
     margin: 30px;
-  }
-
-  .list.journal header {
-    margin-top: 80px;
   }
 
   .list.journal :nth-child(4n-1) {
@@ -609,4 +612,56 @@ b {
   padding-bottom: 2px;
   background-image: linear-gradient(to top, transparent, transparent 2px, #aaa 2px, #aaa 2.5px, transparent 2.5px);
   color: #aaa;
+}
+
+/* FORM */
+.c-form {
+  display: block;
+  border: none;
+  margin: 0;
+  width: 100%;
+}
+form {
+  margin: 0;
+}
+
+.c-form__heading {
+  display: block;
+  width: 100%;
+  font-size: 2rem;
+  line-height: 1.2;
+  border-bottom: 1px solid #ccc;
+  padding: 0 0 5px 0;
+  margin: 0 0 10px 0;
+}
+
+.c-form__row {
+  padding-top: 20px;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.c-button {
+  margin-top: 20px;
+}
+
+input, textarea {
+  border-radius: 0;
+  height: 20px;
+  font-size: 1rem;
+}
+textarea {
+  height: 60px;
+}
+
+button {
+  font-size: 1rem;
+  max-width: 150px;
+  padding: 1em 1em;
+  color: rgba(0, 0, 0, 0.80); /* rgba supported */
+  border: none rgba(0, 0, 0, 0);  /*IE9 + everything else*/
+  background-color: #E6E6E6;
+  text-decoration: none;
+  border-radius: 2px;
 }
