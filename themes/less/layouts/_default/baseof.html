@@ -3,10 +3,13 @@
   {{ partial "header" .}}
   <body>
     <div class="wrapper">
-      <header class="main_header">
-        <span class="title"><a href="/">{{ .Site.Title }}</a></span>
-        {{ partial "main_menu" . }}
-      </header>
+      {{ block "header" . }}
+        {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
+        <header {{ with $image }}style="background-image: url('{{ .Permalink }}')"{{ end }} class="hero_header">
+          {{ partial "main_menu" . }}
+          <h1><a href="/">{{ .Site.Title }}</a></h1>
+        </header>
+      {{ end }}
       {{ block "main" . }}
         <!-- The part of the page that begins to differ between templates -->
       {{ end }}
@@ -14,13 +17,6 @@
     {{ partial "footer" .}}
     {{ template "_internal/google_analytics.html" . }}
     <script>
-      var elem = document.querySelector('.list.journal');
-var infScroll = new InfiniteScroll( elem, {
-    // options
-    path: '.pagination__next',
-    append: '.post',
-    history: false,
-});
       document.addEventListener("DOMContentLoaded", function () {
         new IOlazy();
       });

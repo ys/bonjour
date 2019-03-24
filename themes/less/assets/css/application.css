@@ -150,20 +150,8 @@ b {
   grid-template-columns: repeat(2, 1fr);
 }
 
-.home {
-}
-
-.home:before {
-  content: ' ';
-  display: block;
-  position: fixed;
-  left: 0;
-  top: 0;
+.hero_header {
   width: 100%;
-  height: 100%;
-  z-index: -1000;
-  opacity: 0.6;
-  background-image: url('/background.jpg');
   background-repeat: no-repeat;
   background-position: 50% 0;
   -ms-background-size: cover;
@@ -171,49 +159,34 @@ b {
   -moz-background-size: cover;
   -webkit-background-size: cover;
   background-size: cover;
-}
-.home {
-  min-height: 100vh;
-  max-height: 100vh;
-}
-.home footer {
-  text-align: center;
-  width: 100%;
-  color: #333;
-}
-.home footer a {
-  color: #333;
-}
-
-.home .main_header {
   flex-direction: column;
   justify-content: center;
   border-bottom: 0 !important;
-  margin-top: 70px;
-  margin-bottom: 70px;
+  padding-top: 70px;
+  padding-bottom: 70px;
 }
 
-.home a, .home h1 {
+.hero_header a, .hero_header h1 {
   text-shadow: 0 0 0  transparent !important;
 }
 
-.home .main_header h1 {
+.hero_header h1 {
   margin-top:0;
   margin-bottom: 0px;
   font-size: 1em;
 }
 
-.home .main_header h1 a {
+.hero_header h1 a {
   font-weight: 700;
 }
-.home .main_menu {
+.hero_header .main_menu {
   font-size: 1.2rem;
   font-weight: 200;
 }
-.home .main_menu a {
+.hero_header .main_menu a {
   text-transform: uppercase;
 }
-.home .three {
+.hero_header .three {
   background-color: white;
   margin-left: auto;
   margin-right: auto;
@@ -222,7 +195,7 @@ b {
   margin-top: 40px;
 }
 
-.home .main, .list.journal {
+.list.journal {
   background-color: white;
 }
 
@@ -251,6 +224,11 @@ b {
   }
 
   .main_header {
+    justify-content: center;
+    border-bottom: 0 !important;
+  }
+
+  .hero_header {
     justify-content: center;
     border-bottom: 0 !important;
   }
@@ -381,7 +359,7 @@ b {
   .list.journal :nth-child(4n-1) {
     grid-column: 2;
   }
-  .home .main_header {
+  .hero_header {
     font-size: 5.2em;
   }
   .home .three {
@@ -434,6 +412,29 @@ b {
 }
 
 .main_header a {
+  border: 0;
+  color: #333;
+  background-image: none;
+  font-weight: 200;
+}
+
+.hero_header {
+  margin: 0;
+  height: 4em;
+  flex: auto;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #333;
+  padding: 15px 0 ;
+}
+
+.hero_header > .title {
+  margin: 0;
+  margin-right: 20px;
+}
+
+.hero_header a {
   border: 0;
   color: #333;
   background-image: none;
