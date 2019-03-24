@@ -1,6 +1,6 @@
 <div class="main">
   <div class="list journal">
-    {{ range where (where .Site.RegularPages "Type" "notes") ".Params.hidden" "!=" "true" }}
+    {{ range (.Paginator 50).Pages }}
     <div class="note-tile">
       {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
       {{if $image }}
@@ -22,4 +22,5 @@
     </header>
     {{ end }}
   </div>
+  {{ template "_internal/pagination.html" . }}
 </div>

@@ -14,6 +14,13 @@
     {{ partial "footer" .}}
     {{ template "_internal/google_analytics.html" . }}
     <script>
+      var elem = document.querySelector('.list.journal');
+var infScroll = new InfiniteScroll( elem, {
+    // options
+    path: '.pagination__next',
+    append: '.post',
+    history: false,
+});
       document.addEventListener("DOMContentLoaded", function () {
         new IOlazy();
       });

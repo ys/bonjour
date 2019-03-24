@@ -189,6 +189,8 @@ b {
   flex-direction: column;
   justify-content: center;
   border-bottom: 0 !important;
+  margin-top: 70px;
+  margin-bottom: 70px;
 }
 
 .home a, .home h1 {
@@ -196,12 +198,16 @@ b {
 }
 
 .home .main_header h1 {
-  margin-top: 10%;
+  margin-top:0;
+  margin-bottom: 0px;
   font-size: 1em;
 }
 
 .home .main_header h1 a {
-  font-weight: 700;
+  font-weight: 400;
+}
+.home .main_menu {
+  font-size: 0.2em;
 }
 .home .three {
   background-color: white;

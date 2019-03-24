@@ -13,6 +13,7 @@
   {{ template "_internal/twitter_cards.html" . }}
   {{ partial "seo" . }}
   <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>
+  <script src="https://unpkg.com/infinite-scroll@3/dist/infinite-scroll.pkgd.min.js"></script>
   {{ $.Scratch.Set "jslibs" slice }}
   {{ $libs := slice "js/cash.min.js" "js/flickity.pkgd.min.js" "js/bg-lazyload.js" "js/medium-zoom.min.js" "js/iolazy.min.js" }}
   {{ range $libs }}
