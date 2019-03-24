@@ -139,7 +139,6 @@ b {
 }
 
 .main_menu a, .main_menu a:visited {
-  text-transform: uppercase;
   padding-bottom: 2px;
   background-image: linear-gradient(to top, transparent, transparent 2px, #aaa 2px, #aaa 2.5px, transparent 2.5px) !important;
 }
@@ -210,6 +209,9 @@ b {
 .home .main_menu {
   font-size: 1.2rem;
   font-weight: 200;
+}
+.home .main_menu a {
+  text-transform: uppercase;
 }
 .home .three {
   background-color: white;
