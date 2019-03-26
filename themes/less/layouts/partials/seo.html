@@ -1,4 +1,4 @@
-<title>{{ .Params.emoji }} {{ with .Params.seotitle }}{{ . }}{{ else }}{{ with .Title }}{{ . }}{{ end }}{{ end }} </title>
+<title>{{ .Params.emoji }} {{ with .Params.seotitle }}{{ . }}{{ else }}{{ with .Title }}{{ . }} - {{ $.Site.Title }}{{ end }}{{ end }} </title>
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
 <meta name="keywords" content="{{ if isset .Params "tags" }}{{ range .Params.tags }}{{ . }},{{ end }}{{ end }}">
 <link rel="canonical" href="{{ .Permalink }}">
