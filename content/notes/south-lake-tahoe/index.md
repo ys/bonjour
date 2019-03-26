@@ -6,7 +6,7 @@ tags: ["wander", "🇺🇸"]
 slug: "south-lake-tahoe"
 cover: "south-lake-tahoe-main.jpg"
 gear: ["📷 Fuji X100T", "📱 iPhone 6s"]
-tags: ["nevada", "randonnée", "nature", "foret", "montagnes", "voyages", "USA", "lac", "tahoe", "amis"]
+tags: ["nevada", "randonnée", "nature", "foret", "montagnes", "voyages", "USA", "lac", "tahoe", "amis"v]
 emoji: "🇺🇸"
 resources:
 - src: "*.jpg"
