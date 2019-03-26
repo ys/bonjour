@@ -152,6 +152,8 @@ b {
 
 .hero_header {
   width: 100%;
+  min-height: 45vh;
+  overflow: hidden;
   background-repeat: no-repeat;
   background-position: 50% 0;
   -ms-background-size: cover;
@@ -162,8 +164,8 @@ b {
   flex-direction: column;
   justify-content: center;
   border-bottom: 0 !important;
-  padding-top: 70px;
-  padding-bottom: 70px;
+  margin: 0;
+  padding: 0;
 }
 
 .hero_header a, .hero_header h1 {
@@ -223,15 +225,22 @@ b {
     width: 100%;
   }
 
+  .hero_header {
+    width: 100%;
+    min-height: 5vh;
+    justify-content: center;
+    border-bottom: 0 !important;
+  }
+
+  .hero_header h1 {
+    font-size: 2rem;
+  }
+
   .main_header {
     justify-content: center;
     border-bottom: 0 !important;
   }
 
-  .hero_header {
-    justify-content: center;
-    border-bottom: 0 !important;
-  }
 
   .photoset {
     margin-top: 0;
