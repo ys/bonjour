@@ -34,6 +34,9 @@ canonifyURLs = true
   domain = "Vadrouilles.co"
   instagram = "yann_ck"
 
+[taxonomies]
+  categories = "categories"
+
 [params.categories]
 
   retour-a-la-terre = "Retour à la terre"
