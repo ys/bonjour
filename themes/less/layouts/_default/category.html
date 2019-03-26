@@ -1,7 +1,7 @@
 {{ define "main" }}
 <div class="main">
   <header>
-    <h1>{{ index $.Site.Params.categories .Data.Term }}</h1>
+    <h1>{{ .Data.Params.title }}</h1>
   </header>
   <div class="list journal">
     {{ range (.Paginator 50).Pages }}

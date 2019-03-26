@@ -34,14 +34,6 @@ canonifyURLs = true
   domain = "Vadrouilles.co"
   instagram = "yann_ck"
 
-[taxonomies]
-  categories = "categories"
-
-[params.categories]
-
-  retour-a-la-terre = "Retour à la terre"
-  petites-vadrouilles = "Petites vadrouilles"
-  moi-meme = "Moi-même"
 [[menu.main]]
   name = "Journal"
   title = "Journal de Bord"
