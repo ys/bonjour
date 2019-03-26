@@ -2,6 +2,7 @@
 title: "Plage de la Palue - Crozon"
 date: 2019-02-08T16:13:56+01:00
 draft: false
+tags: ["randonnée", "plage", "Palue", "crozon", "bretagne", "finistere", "france", "surf", "falaises", famille", "hike", "trail", "gr34"]
 slug: "la-palue"
 emoji: "🌊"
 gear:

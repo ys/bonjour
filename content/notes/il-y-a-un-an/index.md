@@ -4,6 +4,8 @@ slug: "il-y-a-un-an"
 date: 2018-11-26T19:07:44+01:00
 draft: false
 emoji: "🌤"
+tags: ["retrospective", "changement de vie", "neoruraux", "exode rural", "france", "finistere", "monts d'Arrée", "Bretagne", "campagne", "ocean", "slow life", "rural exodus", "life change"]
+
 gear: ["📷 Fuji X-T20"]
 categories:
 - "retour-a-la-terre"

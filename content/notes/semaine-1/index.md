@@ -4,6 +4,7 @@ date: 2018-07-27T21:07:44+01:00
 draft: false
 slug: "semaine-1"
 emoji: "🏡"
+tags: ["retrospective", "changement de vie", "neoruraux", "exode rural", "france", "finistere", "monts d'Arrée", "Bretagne", "campagne", "ocean", "slow life", "rural exodus", "life change"]
 categories:
 - "retour-a-la-terre"
 resources:

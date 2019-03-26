@@ -3,6 +3,7 @@ title: "Ninglinspo"
 date: 2017-10-25T12:07:44+01:00
 draft: false
 slug: "ninglinspo"
+tags: ["randonnée", "sentiers", "aywaille", "famille", "sortie", "Belgique", "foret", "nature"]
 emoji: "🇧🇪"
 gear: ["📷 Fuji X100T"]
 categories:
