@@ -16,12 +16,23 @@
     </div>
     {{ partial "footer" .}}
     {{ template "_internal/google_analytics.html" . }}
+    <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>
+    {{ $.Scratch.Set "jslibs" slice }}
+    {{ $libs := slice "js/flickity.pkgd.min.js" "js/bg-lazyload.js" "js/medium-zoom.min.js" "js/iolazy.min.js" }}
+    {{ range $libs }}
+      {{ $.Scratch.Add "jslibs" (resources.Get . ) }}
+    {{ end }}
+    {{ $js := .Scratch.Get "jslibs" | resources.Concat "js/main.js" }}
+    {{ if .Site.IsServer }}
+      <script src="{{ $js.Permalink }}"></script>
+    {{ else }}
+      {{ $js := $js | minify | fingerprint }}
+      <script src="{{ $js.Permalink }}" integrity="{{ $js.Data.Integrity }}"></script>
+    {{ end }}
     <script>
       document.addEventListener("DOMContentLoaded", function () {
         new IOlazy();
-      });
-      $(function(){
-        mediumZoom(document.querySelectorAll('[data-action="zoom"]'), {margin: 20})
+        mediumZoom(document.querySelectorAll('[data-action="zoom"]'), {margin: 20});
         {{ block "js" . }}
         {{ end }}
       })
