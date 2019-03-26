@@ -4,6 +4,7 @@ date: 2017-11-30T12:07:44+01:00
 draft: false
 slug: "la-roche-aux-faucons"
 emoji: "🇧🇪"
+tags: ["randonnée", "balade", "roche aux faucons", "esneux", "Liege", "famille", "nature", "sentiers", "foret"]
 gear: ["📷 Fuji X100T"]
 categories:
 - "petites-vadrouilles"

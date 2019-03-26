@@ -3,6 +3,7 @@ title: "48°24'41.2\"N 3°46'15.2\"W"
 date: 2018-05-25T09:07:44+01:00
 draft: false
 slug: "berrien"
+tags: ["achat", "campagne", "exode rural", "neoruraux", "finistere", "france", "expat", "nouvelle vie", "slow life"]
 emoji: "🏡"
 categories: 
 - "retour-a-la-terre"

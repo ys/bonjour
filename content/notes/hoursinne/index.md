@@ -3,6 +3,7 @@ title: "Les bois de Hoursinne"
 slug: "hoursinne"
 date: 2018-04-29T12:07:44+01:00
 draft: false
+tags: ["balade", "fagnes", "belgique", "ardennes", "famille", "randonnée", "amis", "slow life"]
 emoji: "🌲"
 gear: ["📷 Fuji X100T", "📷 Fuji X-T2"]
 geojson: "/content/notes/hoursinne/hoursinne.geojson"
