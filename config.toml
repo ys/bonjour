@@ -1,5 +1,5 @@
 baseURL = "https://vadrouilles.co/"
-languageCode = "fr"
+  languageCode = "fr"
 title = "🌊 Vadrouilles & Co."
 theme = "less"
 googleAnalytics = "UA-114349967-1"
@@ -22,7 +22,7 @@ canonifyURLs = true
 
   mapbox = "pk.eyJ1IjoieWFubmljay1pbyIsImEiOiJjamY1NmR3NjMwNHkwMnBscDc2Nzl6b2ZwIn0.NbV8ywwFWfOH4T8DAN_tKw"
   sizes = [ "2048" , "1024" , "512" ]
-  tags = ["bretagne", "slow travel", "voyage", "slow life", "neorural", "photography", "photographies"]
+  tags = ["exode rurale", "bretagne", "slow travel", "voyage", "slow life", "neorural", "photography", "photographies"]
 
 [params.titles]
 
