@@ -4,6 +4,7 @@ date: 2017-10-20T12:07:44+01:00
 draft: false
 slug: "ternell"
 emoji: "🇧🇪"
+tags: ["balade", "fagnes", "belgique", "eupen", "biere", "pause gourmande", "ardennes", "famille", "randonnée"]
 gear: ["📷 Fuji X100T"]
 categories:
 - "petites-vadrouilles"

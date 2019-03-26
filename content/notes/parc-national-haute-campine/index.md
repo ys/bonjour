@@ -4,6 +4,7 @@ date: 2017-11-13T12:07:44+01:00
 draft: false
 slug: "parc-national-de-haute-campine"
 emoji: "🇧🇪"
+tags: ["randonnée", "parc national", "sentiers", "nature", "foret", "limbourg", "belgique", "famille", "sortie"]
 categories:
 - "petites-vadrouilles"
 gear: ["📷 Fuji X100T", "📱 iPhone 6s"]

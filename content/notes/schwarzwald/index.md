@@ -2,7 +2,7 @@
 title: "Vadrouilles en Forêt Noire"
 date: 2018-02-05T12:07:44+01:00
 draft: false
-tags: ["wander", "🇩🇪"]
+tags: ["foret noire", "randonnée", "sentiers", "famille", "vacances", "lune de miel", "nature", "foret", "road trip", "marche", "lacs"]
 slug: "foret-noire"
 emoji: "🇩🇪"
 gear: ["📷 Fuji X100T", "📱 iPhone 6s"]
