@@ -4,7 +4,7 @@ date: 2018-12-15T09:07:44+01:00
 draft: false
 slug: "vivre-dehors"
 emoji: "🏞"
-tags: ["bretagne", "outside", "dehors", "neoruraux", "foraging", "organic", "food", "personal"]
+tags: ["retrospective", "changement de vie", "neoruraux", "exode rural", "france", "finistere", "monts d'Arrée", "Bretagne", "campagne", "ocean", "slow life", "rural exodus", "life change", "foraging", "cueillette"]
 categories:
 - "retour-a-la-terre"
 resources:

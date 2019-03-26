@@ -3,6 +3,7 @@ title: "Une balade de bon matin"
 date: 2018-04-19T09:07:44+01:00
 draft: false
 slug: "petergensfeld"
+tags: ["fagnes", "randonnée", "sentiers", "belgique", "eupen", "ostbelgien", "Allemagne", "couple", "balade", "matin"]
 emoji: "🌅"
 gear: ["📷 Fuji X100T", "📱 iPhone X"]
 geojson: "/content/notes/petergensfeld/petergensfeld.geojson"

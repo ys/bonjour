@@ -2,6 +2,7 @@
 title: "Le premier mois à Berrien"
 date: 2018-08-31T08:07:44+01:00
 draft: false
+tags: ["retrospective", "changement de vie", "neoruraux", "exode rural", "france", "finistere", "monts d'Arrée", "Bretagne", "campagne", "ocean", "slow life", "rural exodus", "life change"]
 slug: "le-premier-mois"
 emoji: "🏡"
 categories:

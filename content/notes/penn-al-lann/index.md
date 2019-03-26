@@ -4,6 +4,7 @@ date: 2018-09-11T21:07:44+01:00
 draft: false
 slug: "penn-al-lann"
 emoji: "🌊"
+tags: ["randonnée", "gr34", "sentiers", "trail", "hike", "coast", "mer", "carantec", "Morlaix", "finistere", "bretagne", "france", "famille"]
 categories:
 - "petites-vadrouilles"
 zoom: 11

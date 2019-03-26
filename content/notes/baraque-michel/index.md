@@ -4,6 +4,7 @@ slug: "baraque-michel"
 date: 2018-05-05T10:07:44+02:00
 draft: false
 emoji: "🌲"
+tags: ["balade", "fagnes", "belgique", "baraque michel", "caillebotis", "ardennes", "famille", "randonnée"]
 gear: ["📷 Fuji X100T"]
 zoom: 12
 categories:

@@ -3,6 +3,7 @@ title: "Une semaine au bout de l'île"
 date: 2017-12-23T12:07:44+01:00
 draft: false
 tags: ["wander", "🇫🇷"]
+tags: ["vacances", "famille", "ile", "groix", "slow life", "slow tourism", "velo", "randonnée", "découverte", "mer", "falaises", "sentiers"]
 slug: "groix"
 emoji: "🇫🇷"
 gear: ["📷 Fuji X100T", "📱 iPhone 6s"]

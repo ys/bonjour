@@ -3,6 +3,7 @@ title: "Porte de Drossart"
 date: 2017-11-02T12:07:44+01:00
 draft: false
 slug: "drossart"
+tags: ["balade", "fagnes", "belgique", "ardennes", "famille", "randonnée"]
 cover: "DSCF8808.jpg"
 emoji: "🇧🇪"
 gear: ["📷 Fuji X100T"]
