@@ -14,7 +14,7 @@
     </h4>
     <p>
       <a class="title no-decoration" href="{{ .Permalink }}">
-     {{ .Summary | replaceRE "(?ms)(<figure.*</figure>)" "" | safeHTML | truncate 100 }}
+        {{ with .Description }}{{ . }} {{else}}{{ .Summary | replaceRE "(?ms)(<(figure|blockquote).*</(figure|blockquote)>)" "" | safeHTML | truncate 100 }}{{ end }}
       </a>
     </p>
   </div>
