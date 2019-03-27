@@ -137,16 +137,6 @@ b {
   color: #666;
 }
 
-.masonry {
-  column-count: 2;
-  column-gap: 0.5em;
-}
-.masonry figure {
-  display: inline-block;
-  width: 100%;
-  margin-top: 0.25em !important;
-}
-
 .no-decoration {
   text-decoration: none;
   background-image: none !important;
@@ -166,11 +156,6 @@ b {
   font-weight: 100;
   font-size: 0.8rem;
   text-align: center;
-}
-
-.main_menu a, .main_menu a:visited {
-  padding-bottom: 2px;
-  background-image: linear-gradient(to top, transparent, transparent 2px, #aaa 2px, #aaa 2.5px, transparent 2.5px) !important;
 }
 
 /* Grid */
@@ -216,9 +201,6 @@ b {
   margin-top: 40px;
 }
 
-.list.journal {
-  background-color: white;
-}
 
 .three .tile {
   display: flex;
@@ -241,8 +223,19 @@ b {
 }
 /* Special for mobiles */
 @media only screen and (max-width: 667px) {
-  body>header, .main {
+  body>header, .main , .boilerform {
     width: 100%;
+  }
+  .three {
+    flex-direction: column;
+  }
+  .three .tile {
+    width: 100%;
+    margin: 20px 0;
+    padding: 0;
+  }
+  .three .tile p, .three .tile h3 {
+    margin: 10px;
   }
 
   .hero_header {
@@ -253,6 +246,7 @@ b {
   }
 
   .hero_header h1 {
+    font-size: 2.8rem;
   }
 
   .main_header {
