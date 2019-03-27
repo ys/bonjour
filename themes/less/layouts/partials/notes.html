@@ -11,11 +11,12 @@
       {{end}}
     </div>
     <header>
-      <h4>
+      <h3>
           {{ .Params.emoji }}
           <a class="title bold no-decoration" href="{{ .Permalink }}">{{ .Title }}</a><br/>
-      </h4>
-      <span class="small date">{{ .Date.Format "2006-01-02" }}</span>
+      </h3>
+      <h4>{{ .Params.subtitle }}</h4>
+      <span class="date">{{ .Date.Format "2006-01-02" }}</span>
       <p>
       {{ .Summary | replaceRE "(?ms)(<figure.*</figure>)" "" | safeHTML | truncate 200 }}
       </p>

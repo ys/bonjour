@@ -1,6 +1,6 @@
 baseURL = "https://vadrouilles.co/"
   languageCode = "fr"
-title = "🌊 Vadrouilles & Co."
+title = "Vadrouilles & Co."
 theme = "less"
 googleAnalytics = "UA-114349967-1"
 disqusShortname = "vadrouilles-co"
@@ -8,6 +8,11 @@ RemovePathAccents = true
 timeout = 200000
 enableRobotsTXT = true
 canonifyURLs = true
+
+[[related.indices]]
+  name = "categories"
+  weight =  1 # We don't really need this, but omitting it would disable the indice.
+  includeNewer = true
 
 [author]
   name = "Yannick Schutz"

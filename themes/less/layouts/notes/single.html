@@ -1,6 +1,6 @@
 {{ define "header" }}
   <header class="main_header">
-    <span class="title">
+    <span class="title serif">
       <a href="/">{{ .Site.Title }}</a>
     </span>
     {{ partial "main_menu" . }}
@@ -9,13 +9,15 @@
 {{ define "main" }}
 <div class="main note">
   <header>
-    <h1>{{ .Params.emoji }} {{ .Title }}</h1>
-    <h4>{{ dateFormat "Jan 02, 2006" .Date }}</h4>
+    <h1 class="medium">{{ .Params.emoji }} {{ .Title }}</h1>
+    <h3>{{ .Params.subtitle }}</h3>
+    <span class="date t12">{{ dateFormat "Jan 02, 2006" .Date }}</span>
   </header>
   {{ partial "gallery.html" . }}
   {{.Content}}
   {{if .Params.gear }}
-    <p class="center"><i>Gear: </i>{{ delimit .Params.gear " ● " }}</p>
+    <p class="center t12"><i>Gear: </i>{{ delimit .Params.gear " ● " }}</p>
   {{ end }}
+  {{ partial "three.html" (.Site.RegularPages.Related . | first 3) }}
   </div>
 {{ end }}

@@ -2,6 +2,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
   {{ $style := resources.Get "css/application.css" | minify | fingerprint }}
+  <link href="https://fonts.googleapis.com/css?family=Crimson+Text" rel="stylesheet">
   <link rel="stylesheet" href="{{ $style.Permalink }}">
   <link rel="icon" href="{{ "/favicon.ico" | absURL }}">
   <link rel="shortcut icon" href="{{ "/favicon.ico" | absURL }}">
