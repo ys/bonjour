@@ -1,7 +1,6 @@
-{{ define "main" }}
 <div class="main">
   <div class="list journal">
-    {{ range where (where .Site.RegularPages "Type" "notes") ".Params.hidden" "!=" "true" }}
+    {{ range (.Paginator 50).Pages }}
     <div class="note-tile">
       {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
       {{if $image }}
@@ -12,18 +11,17 @@
       {{end}}
     </div>
     <header>
-      <h4>
+      <h3>
           {{ .Params.emoji }}
           <a class="title bold no-decoration" href="{{ .Permalink }}">{{ .Title }}</a><br/>
-      </h4>
-      <span class="small date">{{ .Date.Format "2006-01-02" }}</span>
+      </h3>
+      <h4>{{ .Params.subtitle }}</h4>
+      <span class="date">{{ .Date.Format "2006-01-02" }}</span>
       <p>
       {{ .Summary | replaceRE "(?ms)(<figure.*</figure>)" "" | safeHTML | truncate 200 }}
       </p>
     </header>
     {{ end }}
   </div>
+  {{ template "_internal/pagination.html" . }}
 </div>
-
-{{ end }}
-

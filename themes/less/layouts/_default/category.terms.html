@@ -2,6 +2,7 @@
 <div class="main">
   <div class="list journal">
   {{ range .Pages }}
+  {{ if isset .Params "title" }}
     <div class="note-tile">
       {{ $firstPage := (index .Pages 0) }}
       {{ $image := ($firstPage.Resources.GetMatch "cover" | default (index $firstPage.Resources 0))  }}
@@ -18,6 +19,7 @@
       </h4>
       <p>{{ .Params.description }}</p>
     </header>
+  {{ end }}
   {{ end }}
 
   </div>
