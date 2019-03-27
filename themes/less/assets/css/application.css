@@ -191,25 +191,24 @@ b {
   text-transform: uppercase;
 }
 .three {
-  border-top: 1px solid #343434;
-  border-bottom: 1px solid #343434;
   background-color: white;
-  margin-left: auto;
-  margin-right: auto;
+  border-bottom: 1px solid #343434;
+  border-top: 1px solid #343434;
   display: flex;
   justify-content: space-between;
+  margin-left: auto;
+  margin-right: auto;
   margin-top: 40px;
 }
 
-
 .three .tile {
   display: flex;
-  justify-content: space-between;
   flex-direction: column;
   height: 100%;
-  width: 30%;
-  padding: 10px;
+  justify-content: space-between;
   margin: 10px;
+  padding: 10px;
+  width: 30%;
 }
 .three .tile h4 {
   margin-bottom: 5px;
@@ -456,94 +455,6 @@ b {
 
 .main.note h1, .main.note h2, .main.note h3, .main.note h4 {
   text-align: center;
-}
-
-/* This is the carousel */
-
-.main-carousel {
-  height: calc(100vh - 100px);
-  min-height: 500px;
-  max-height: 900px;
-  width: 100%;
-  position: relative;
-}
-.gallery-nav {
-  padding-left: 10px;
-  border-top: solid 1px #eee;
-  border-bottom: solid 1px #eee;
-}
-
-.flickity-viewport {
-  height: 100% !important;
-}
-
-.carousel-cell {
-  height: 100% !important;
-}
-
-.flickity-prev-next-button {
-  position: absolute;
-  top: auto;
-  width: 30px;
-  height: 30px;
-  background: transparent;
-  bottom: -53px;
-}
-
-.flickity-prev-next-button:hover {
-  background: transparent;
-}
-
-/* arrow color */
-
-.flickity-prev-next-button .arrow {
-  fill: #666;
-}
-
-.flickity-prev-next-button.no-svg {
-  color: #666;
-}
-
-.flickity-prev-next-button.previous {
-  right: 20px;
-  left: auto;
-}
-
-.flickity-prev-next-button.next {
-  right: 0;
-}
-
-.flickity-slider {
-  transform: none !important;
-}
-
-
-/* position outside */
-.gallery {
-  position: relative;
-  margin-bottom: 30px;
-}
-.gallery .gear {
-  text-align: left;
-  font-weight: 100;
-}
-
-.carousel-cell {
-  left: 0 !important;
-  opacity: 0;
-  transition: opacity 0.5s ease-in-out;
-  width: 100%;
-  height: 400px;
-  z-index: -1;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
-  position: relative;
-}
-
-.carousel-cell.is-selected {
-  opacity: 1;
-  z-index: 0
 }
 
 /* FORM */
