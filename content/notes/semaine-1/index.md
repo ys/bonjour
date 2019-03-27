@@ -6,7 +6,7 @@ slug: "semaine-1"
 emoji: "🏡"
 tags: ["retrospective", "changement de vie", "neoruraux", "exode rural", "france", "finistere", "monts d'Arrée", "Bretagne", "campagne", "ocean", "slow life", "rural exodus", "life change"]
 categories:
-- "retour-a-la-terre"
+- journal 
 resources:
 - src: "semaine-1.jpg"
   name: "cover"

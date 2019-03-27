@@ -8,7 +8,8 @@ cover: "DSCF8808.jpg"
 emoji: "🇧🇪"
 gear: ["📷 Fuji X100T"]
 categories:
-- "petites-vadrouilles"
+- vadrouilles
+- belgique
 resources:
 - src: "DSCF8808.jpg"
   name: "cover"

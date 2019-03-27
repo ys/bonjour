@@ -2,12 +2,14 @@
 title: "South Lake Tahoe"
 date: 2018-02-11T12:07:44+01:00
 draft: false
-tags: ["wander", "🇺🇸"]
 slug: "south-lake-tahoe"
 cover: "south-lake-tahoe-main.jpg"
 gear: ["📷 Fuji X100T", "📱 iPhone 6s"]
 tags: ["nevada", "randonnée", "nature", "foret", "montagnes", "voyages", "USA", "lac", "tahoe", "amis"]
 emoji: "🇺🇸"
+categories:
+- vadrouilles
+- etats-unis
 resources:
 - src: "*.jpg"
 - src: "south-lake-tahoe-22.jpg"

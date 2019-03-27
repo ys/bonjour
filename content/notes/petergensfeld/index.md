@@ -6,10 +6,9 @@ slug: "petergensfeld"
 tags: ["fagnes", "randonnée", "sentiers", "belgique", "eupen", "ostbelgien", "Allemagne", "couple", "balade", "matin"]
 emoji: "🌅"
 gear: ["📷 Fuji X100T", "📱 iPhone X"]
-geojson: "/content/notes/petergensfeld/petergensfeld.geojson"
-zoom: 11.3
 categories:
-- "petites-vadrouilles"
+- vadrouilles
+- belgique
 resources:
 - name: "cover"
   src: "petergensfeld-2.jpg"

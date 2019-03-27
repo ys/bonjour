@@ -8,7 +8,7 @@ tags: ["retrospective", "changement de vie", "neoruraux", "exode rural", "france
 
 gear: ["📷 Fuji X-T20"]
 categories:
-- "retour-a-la-terre"
+- journal
 resources:
 - src: "saint-samson.jpg"
   name: "cover"

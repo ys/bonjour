@@ -6,6 +6,9 @@ tags: ["foret noire", "randonnée", "sentiers", "famille", "vacances", "lune de 
 slug: "foret-noire"
 emoji: "🇩🇪"
 gear: ["📷 Fuji X100T", "📱 iPhone 6s"]
+categories:
+- vadrouilles
+- allemagne
 resources:
 - name: "cover"
   src: "schwarzwald-32.jpg"

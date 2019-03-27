@@ -6,7 +6,7 @@ slug: "berrien"
 tags: ["achat", "campagne", "exode rural", "neoruraux", "finistere", "france", "expat", "nouvelle vie", "slow life"]
 emoji: "🏡"
 categories: 
-- "retour-a-la-terre"
+- journal
 resources:
 - src: "*.jpg"
 ---
