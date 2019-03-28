@@ -1,8 +1,14 @@
 ---
-title: "Road Trip en Bretagne Sud - Pointe du Raz - Crozon"
+title: "Road Trip en Bretagne Sud"
+subtitle: "Pointe du Raz - Crozon"
+seotitle: "Road Trip en Bretagne Sud - Pointe du Raz - Crozon"
 date: 2019-03-19T22:23:24+01:00
 draft: false
 slug: "bretagne-sud-part-2"
+categories:
+- vadrouilles
+- france
+- bretagne
 emoji: "⚓️"
 tags: ["bretagne", "Brittany", "crozon", "road trip", "photography", "beach", "plage", "hiking", "randonnée", "voyage", "trip", "Finistère", "maree", "famille", "tide", "family"]
 description: "Direction Crozon. Un crochet par la pointe du Raz. Pause au dernier supermarché avant l’Amérique. Vadrouilles autour de la Palue, du Cap de la Chèvre et de Pen'Hir."

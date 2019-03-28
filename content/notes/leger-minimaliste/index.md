@@ -6,7 +6,7 @@ slug: "leger-minimaliste"
 emoji: "🧘🏼‍♂️"
 tags: ["minimaliste", "mindfulness", "pleine conscience", "zen", "simplicité", "famille", "enfants"]
 categories:
-- "moi-meme"
+- journal
 resources:
 - src: "*.jpg"
 --- 

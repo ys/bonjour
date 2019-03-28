@@ -7,7 +7,8 @@ emoji: "🇧🇪"
 tags: ["balade", "fagnes", "belgique", "eupen", "biere", "pause gourmande", "ardennes", "famille", "randonnée"]
 gear: ["📷 Fuji X100T"]
 categories:
-- "petites-vadrouilles"
+- vadrouilles
+- belgique
 resources:
 - src: "DSCF8724.jpg"
   name: "cover"

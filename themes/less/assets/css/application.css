@@ -1,4 +1,3 @@
-/* Global */
 html {
   height: 100%;
   margin: 0;
@@ -7,42 +6,54 @@ html {
 
 body {
   height: 100%;
-  color: #333;
+  color: #343434;
+  font-size: 1.2rem;
+  font-weight: 300;
   margin: 0;
   padding: 0;
   font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-  font-weight: 300;
   text-rendering: optimizeLegibility;
-  font-size: 1.2rem;
   line-height: 1.52;
 }
 
-h1, h2, h3, h4 {
+a, a:visited {
+  color: #343434;
+}
+
+h1.large {
+  font-size: 5.0rem;
+}
+h1 {
+  font-size: 3.7rem;
+}
+h2, h1.medium {
+  font-size: 2.8rem;
+}
+h3 {
+  font-size: 2.1rem;
+}
+h4 {
+  font-size: 1.6rem;
+}
+
+h1, h2, h3, h4, .serif {
+  margin: 0;
   font-weight: 300;
-  font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 }
 
 footer {
-  font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
   font-weight: 100;
-  font-size: 0.8rem;
   text-align: center;
-  color: #aaa;
   position: relative;
-  margin-top: -50px; /* negative value of footer height */
   height: 50px;
+  background-color: white;
   line-height: 50px;
   clear:both;
 }
 
 footer a, footer a:visited {
   padding-bottom: 2px;
-  color: #aaa;
   background-image: linear-gradient(to top, transparent, transparent 2px, #aaa 2px, #aaa 2.5px, transparent 2.5px);
-}
-
-h1 {
-  font-size: 1.3rem;
 }
 
 blockquote {
@@ -54,7 +65,6 @@ blockquote {
 
 a {
   text-decoration: none;
-  color: #333;
   position: relative;
   text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
   background-image: linear-gradient(to top, transparent, transparent 2px, #333 2px, #333 2.5px, transparent 2.5px);
@@ -62,7 +72,6 @@ a {
 }
 
 a:visited, a:hover {
-  color: #666;
   text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
   background-image: linear-gradient(to top, transparent, transparent 2px, #666 2px, #666 2.5px, transparent 2.5px);
 }
@@ -92,28 +101,40 @@ b {
   font-family: arial;
 }
 
-.small {
-  font-size: 0.8rem;
+.t09 {
+  font-size: 0.9rem;
+}
+
+.t12 {
+  font-size: 1.2rem;
+}
+
+.t16 {
+  font-size: 1.6rem;
+}
+.t21 {
+  font-size: 2.1rem;
+}
+.t28 {
+  font-size: 2.8rem;
+}
+.t37 {
+  font-size: 3.7rem;
+}
+.t50 {
+  font-size: 5.0rem;
+}
+.t67 {
+  font-size: 6.7rem;
 }
 
 .bold {
   font-weight: 600;
-  color: #666;
 }
 
 .en {
   font-style: italic;
-  color: #888;
-}
-
-.masonry {
-  column-count: 2;
-  column-gap: 0.5em;
-}
-.masonry figure {
-  display: inline-block;
-  width: 100%;
-  margin-top: 0.25em !important;
+  color: #666;
 }
 
 .no-decoration {
@@ -132,16 +153,9 @@ b {
 }
 
 .main_menu {
-  font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
   font-weight: 100;
   font-size: 0.8rem;
   text-align: center;
-  color: #aaa;
-}
-
-.main_menu a, .main_menu a:visited {
-  padding-bottom: 2px;
-  background-image: linear-gradient(to top, transparent, transparent 2px, #aaa 2px, #aaa 2.5px, transparent 2.5px) !important;
 }
 
 /* Grid */
@@ -151,10 +165,87 @@ b {
   grid-template-columns: repeat(2, 1fr);
 }
 
+.hero_header {
+  width: 100%;
+  min-height: 45vh;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-position: 50% 0;
+  -ms-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+  flex-direction: column;
+  justify-content: center;
+  border-bottom: 0 !important;
+  margin: 0;
+  padding: 0;
+}
+
+.hero_header a, .hero_header h1 {
+  text-shadow: 0 0 0  transparent !important;
+}
+
+.hero_header .main_menu a {
+  text-transform: uppercase;
+}
+.three {
+  background-color: white;
+  border-bottom: 1px solid #343434;
+  border-top: 1px solid #343434;
+  display: flex;
+  justify-content: space-between;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+}
+
+.three .tile {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: space-between;
+  margin: 10px;
+  padding: 10px;
+  width: 30%;
+}
+.three .tile h4 {
+  margin-bottom: 5px;
+}
+.three .tile img {
+  width: 100%;
+}
+.three .tile p {
+  margin: 0;
+  padding: 0;
+}
 /* Special for mobiles */
 @media only screen and (max-width: 667px) {
-  body>header, .main {
+  body>header, .main , .boilerform {
     width: 100%;
+  }
+  .three {
+    flex-direction: column;
+  }
+  .three .tile {
+    width: 100%;
+    margin: 20px 0;
+    padding: 0;
+  }
+  .three .tile p, .three .tile h3 {
+    margin: 10px;
+  }
+
+  .hero_header {
+    width: 100%;
+    min-height: 5vh;
+    justify-content: center;
+    border-bottom: 0 !important;
+  }
+
+  .hero_header h1 {
+    font-size: 2.8rem;
   }
 
   .main_header {
@@ -175,7 +266,6 @@ b {
   .main.index .masonry {
     margin: 10px;
   }
-
   .list.journal .note-tile>a {
     width: 100%;
     display: block;
@@ -186,39 +276,14 @@ b {
     width: calc(100% - 20px);
     margin: 10px;
   }
-}
-
-@media only screen and (min-width: 670px) and (max-width: 999px) {
-  .main.index > :not(.fullwidth) {
-    max-width: 58rem;
-    margin-left: auto;
-    margin-right: auto;
+  .home .three {
+    flex-direction: column;
   }
-  .list.journal {
-    display: grid;
-    grid-template-columns: repeat(1, 1fr);
-    place-itmes: center;
-  }
-
-  .list.journal .note-tile, .list.journal header {
-    margin: 0 30px;
-  }
-  .list.journal {
-    margin-top: 20px;
-  }
-
-  .list.journal header {
-    margin-bottom: 40px;
-  }
-
-  .list.journal header p {
-    width: 80%;
-    margin: 0 auto;
-  }
-  .list.journal {
-    grid-template-columns: repeat(3, 1fr);
+  .home .three .tile {
+    width: calc(100vw - 40px);
   }
 }
+
 /* Special for normal screens*/
 @media only screen and (min-width: 1000px) {
   .main {
@@ -231,19 +296,24 @@ b {
     margin-right: 0;
   }
   .main > :not(.fullwidth) {
-    max-width: 58rem;
+    max-width: 74rem;
     margin-left: auto;
     margin-right: auto;
   }
 
   .main > .vertical {
-    max-width: 27rem;
+    max-width: 37rem;
   }
 
   .main p:not(.fullwidth), .main blockquote:not(.fullwidth) {
     max-width: 45rem;
     margin-top: 25px;
     margin-bottom: 25px;
+  }
+
+  .main .boilerform {
+    width: 45rem !important;
+    margin: 0 auto;
   }
 
   .photoset {
@@ -263,22 +333,24 @@ b {
 
   .list.journal {
     display: grid;
+    padding-top: 50px;
     grid: auto-flow dense / repeat(2, 50%);
     place-itmes: center;
   }
 
   .list.journal .note-tile, .list.journal header {
     margin: 30px;
-  }
-
-  .list.journal header {
-    margin-top: 80px;
+    justify-self: center;
   }
 
   .list.journal :nth-child(4n-1) {
     grid-column: 2;
   }
+  .home .three {
+    flex-direction: row;
+  }
 }
+
 /* Notes tile */
 .list.journal {
   display: grid;
@@ -289,18 +361,13 @@ b {
 }
 
 .note-tile {
-  font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
   font-weight: 100;
-  color: #aaa;
 }
 
 .note-tile .title {
  font-size: 1rem;
  padding-bottom: 2px;
 
-}
-.note-tile h4 {
-  margin-bottom: -10px !important;
 }
 
 /* MAIN HEADER */
@@ -316,17 +383,39 @@ b {
   max-width: 58rem;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 20px;
+  margin-top: 5px;
+  margin-bottom: 20px;
 }
 
-.main_header h1 {
+.main_header > .title {
   margin: 0;
   margin-right: 20px;
 }
 
 .main_header a {
   border: 0;
-  color: #333;
+  background-image: none;
+  font-weight: 200;
+}
+
+.hero_header {
+  margin: 0;
+  height: 4em;
+  flex: auto;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #333;
+  padding: 15px 0 ;
+}
+
+.hero_header > .title {
+  margin: 0;
+  margin-right: 20px;
+}
+
+.hero_header a {
+  border: 0;
   background-image: none;
   font-weight: 200;
 }
@@ -349,17 +438,14 @@ b {
 .main header h1 {
   font-weight: 500;
   margin-bottom: 0rem;
-  font-size: 1.5rem;
 }
 
 .main header h4 {
   margin-top: 0;
   margin-bottom: 0;
-  color: #666;
-  font-size: 1.2rem;
 }
 
-.main header .date {
+.date {
   font-style: italic;
 }
 
@@ -371,138 +457,51 @@ b {
   text-align: center;
 }
 
-/* This is the carousel */
-
-.main-carousel {
-  height: calc(100vh - 100px);
-  min-height: 500px;
-  max-height: 900px;
-  width: 100%;
-  position: relative;
-}
-.gallery-nav {
-  padding-left: 10px;
-  border-top: solid 1px #eee;
-  border-bottom: solid 1px #eee;
-}
-
-.flickity-viewport {
-  height: 100% !important;
-}
-
-.carousel-cell {
-  height: 100% !important;
-}
-
-.flickity-prev-next-button {
-  position: absolute;
-  top: auto;
-  width: 30px;
-  height: 30px;
-  background: transparent;
-  bottom: -53px;
-}
-
-.flickity-prev-next-button:hover {
-  background: transparent;
-}
-
-/* arrow color */
-
-.flickity-prev-next-button .arrow {
-  fill: #666;
-}
-
-.flickity-prev-next-button.no-svg {
-  color: #666;
-}
-
-.flickity-prev-next-button.previous {
-  right: 20px;
-  left: auto;
-}
-
-.flickity-prev-next-button.next {
-  right: 0;
-}
-
-.flickity-slider {
-  transform: none !important;
-}
-
-
-/* position outside */
-.gallery {
-  position: relative;
-  margin-bottom: 30px;
-}
-.gallery .gear {
-  text-align: left;
-  font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-  font-weight: 100;
-  font-size: 0.8rem;
-  color: #666;
-}
-
-.carousel-cell {
-  left: 0 !important;
-  opacity: 0;
-  transition: opacity 0.5s ease-in-out;
-  width: 100%;
-  height: 400px;
-  z-index: -1;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
-  position: relative;
-}
-
-.carousel-cell.is-selected {
-  opacity: 1;
-  z-index: 0
-}
-
-/* This is about maps */
-
-#map {
-  height: 300px;
-  width: 100%;
-  position: absolute;
-  top: 0;
-  bottom: 0;
-}
-
-#map canvas {
-  top: 0;
-  left: 0;
-}
-
-.geojson a {
+/* FORM */
+.c-form {
   display: block;
-  background-image: none;
+  border: none;
+  margin: 0;
   width: 100%;
-  height: 300px;
-  position: relative;
-  margin-bottom: 1.5rem;
+}
+form {
+  margin: 0;
 }
 
-.mapboxgl-ctrl {
-  display: none;
+.c-form__heading {
+  display: block;
+  width: 100%;
+  line-height: 1.2;
+  border-bottom: 1px solid #ccc;
+  padding: 0 0 5px 0;
+  margin: 0 0 10px 0;
 }
 
-.geojson .info {
-  border-top: solid 1px #eee;
-  border-bottom: solid 1px #eee;
-  margin-top: 1rem;
-  padding-left: 10px;
-  font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-  font-weight: 100;
-  font-size: 0.8rem;
-  text-align: left;
-  color: #aaa;
+.c-form__row {
+  padding-top: 20px;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
 }
-.geojson .info a {
-  padding-bottom: 2px;
-  background-image: linear-gradient(to top, transparent, transparent 2px, #aaa 2px, #aaa 2.5px, transparent 2.5px);
-  color: #aaa;
+
+.c-button {
+  margin-top: 20px;
+}
+
+input, textarea {
+  border-radius: 0;
+  height: 20px;
+}
+textarea {
+  height: 60px;
+}
+
+button {
+  max-width: 200px;
+  padding: 1em 1em;
+  color: rgba(0, 0, 0, 0.80); /* rgba supported */
+  border: none rgba(0, 0, 0, 0);  /*IE9 + everything else*/
+  background-color: #E6E6E6;
+  text-decoration: none;
+  border-radius: 2px;
 }

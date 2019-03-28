@@ -1,29 +1,11 @@
 ---
 title: "Vadrouilles & Co."
-description: "Des vadrouilles mais pas que."
+seotitle: "Vadrouilles & Co. - Des tranches de vie et d'aventure en famille"
+description: "La vie d'une famille partie vivre plus lentement dans les Monts d'Arrée. Des photos, des vadrouilles, de la slow life. Une vie plus proche de la nature et plus authentique."
 date: 2017-10-26T22:57:50+02:00
 draft: false
-emoji: "🌲"
-tags: ["bretagne", "slow travel", "voyage", "slow life", "neorural", "photographie", "photography"]
-images: [ "/sea.jpg" ]
+emoji: "🌊"
+tags: ["bretagne", "slow travel", "rural exodus", "voyage", "slow life", "neorural", "photographie", "photography"]
 resources:
 - src: "*.jpg"
 ---
-> In every walk with Nature one receives far more than he seeks.  <small> - John Muir</small>
-
-{{< masonry>}}
-  {{< photo src="pick-2.jpg" >}}
-  {{< photo src="pick-8.jpg" >}}
-  {{< photo src="pick-98.jpg" >}}
-  {{< photo src="pick-100.jpg" >}}
-  {{< photo src="pick-33.jpg" >}}
-  {{< photo src="pick-10.jpg" >}}
-  {{< photo src="pick-3.jpg" >}}
-  {{< photo src="pick-107.jpg" >}}
-  {{< photo src="pick-83.jpg" >}}
-  {{< photo src="pick-7.jpg" >}}
-  {{< photo src="pick.jpg" >}}
-  {{< photo src="pick-4.jpg" >}}
-  {{< photo src="pick-5.jpg" >}}
-  {{< photo src="pick-9.jpg" >}}
-{{< /masonry >}}

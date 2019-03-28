@@ -8,7 +8,8 @@ tags: ["balade", "fagnes", "belgique", "baraque michel", "caillebotis", "ardenne
 gear: ["📷 Fuji X100T"]
 zoom: 12
 categories:
-- "petites-vadrouilles"
+- vadrouilles
+- belgique
 geojson: "/content/notes/baraque-michel/baraque-michel.geojson"
 resources:
 - src: "*.jpg"

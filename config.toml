@@ -1,6 +1,6 @@
 baseURL = "https://vadrouilles.co/"
-languageCode = "fr"
-title = "🌲 Vadrouilles & Co."
+  languageCode = "fr"
+title = "Vadrouilles & Co."
 theme = "less"
 googleAnalytics = "UA-114349967-1"
 disqusShortname = "vadrouilles-co"
@@ -8,6 +8,11 @@ RemovePathAccents = true
 timeout = 200000
 enableRobotsTXT = true
 canonifyURLs = true
+
+[[related.indices]]
+  name = "categories"
+  weight =  1 # We don't really need this, but omitting it would disable the indice.
+  includeNewer = true
 
 [author]
   name = "Yannick Schutz"
@@ -22,7 +27,7 @@ canonifyURLs = true
 
   mapbox = "pk.eyJ1IjoieWFubmljay1pbyIsImEiOiJjamY1NmR3NjMwNHkwMnBscDc2Nzl6b2ZwIn0.NbV8ywwFWfOH4T8DAN_tKw"
   sizes = [ "2048" , "1024" , "512" ]
-  tags = ["bretagne", "slow travel", "voyage", "slow life", "neorural", "photography", "photographies"]
+  tags = ["exode rurale", "bretagne", "slow travel", "voyage", "slow life", "neorural", "photography", "photographies"]
 
 [params.titles]
 
@@ -34,26 +39,21 @@ canonifyURLs = true
   domain = "Vadrouilles.co"
   instagram = "yann_ck"
 
-[params.categories]
-
-  retour-a-la-terre = "Retour à la terre"
-  petites-vadrouilles = "Petites vadrouilles"
-  moi-meme = "Moi-même"
-[[menu.main]]
-  name = "Home"
-  title = "Home"
-  weight = 1
-  identifier = "gallery"
-  url = "/"
 [[menu.main]]
   name = "Journal"
   title = "Journal de Bord"
-  weight = 2
+  weight = 1
   identifier = "notes"
-  url = "/journal"
+  url = "/"
 [[menu.main]]
   name = "About"
   title = "About me"
   weight = 3
   identifier = "about"
   url = "/about"
+[[menu.main]]
+  name = "Instagram"
+  title = "About me"
+  weight = 4
+  identifier = "insta"
+  url = "https://instagram.com/yann_ck"

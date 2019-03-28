@@ -7,7 +7,8 @@ emoji: "🇧🇪"
 tags: ["randonnée", "balade", "roche aux faucons", "esneux", "Liege", "famille", "nature", "sentiers", "foret"]
 gear: ["📷 Fuji X100T"]
 categories:
-- "petites-vadrouilles"
+- vadrouilles
+- belgique
 resources:
 - name: "cover"
   src: "DSCF7905.jpg"

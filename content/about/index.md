@@ -1,11 +1,10 @@
 ---
+title: "About"
 date: 2017-10-26T22:57:50+02:00
 draft: false
-images: [ "/sea.jpg" ]
+type: "about"
 emoji: "👪"
 ---
-{{< photo src="us.jpg" >}}
-
 
 Hello, je m'appelle Yannick.
 

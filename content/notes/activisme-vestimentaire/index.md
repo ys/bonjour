@@ -7,7 +7,7 @@ emoji: "👕"
 tags: ["écologie", "b-corp", "mode", "habillage", "vêtements", "consommation", "responsable", "engagé", "slow fashion", "consommacteur"]
 description: "Consommer moins, consommer mieux. C'est un peu un des trucs qui me turlupine depuis que je me suis lancé dans le minimalisme et autres. Ca passe pas mal par ma garde robe. Elle débordait de T-shirts, de chemises et commençait à ne plus ressembler à rien."
 categories: 
-- "moi-meme"
+- "journal"
 resources:
 - src: "*.jpg"
 ---
