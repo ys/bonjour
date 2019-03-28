@@ -1,26 +1,28 @@
 <div class="main">
   <div class="list journal">
-    {{ range (.Paginator 50).Pages }}
+    {{ range (.Paginate (where .Pages "Type" "notes") 50).Pages }}
     <div class="note-tile">
       {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
       {{if $image }}
-      {{ $resized := $image.Fill "500x300" }}
+      {{ $resized := $image.Fill "450x300" }}
          <a class="no-decoration" href="{{ .Permalink }}">
            <img src="{{ $resized.Permalink }}"/>
         </a>
       {{end}}
     </div>
-    <header>
-      <h3>
-          {{ .Params.emoji }}
-          <a class="title bold no-decoration" href="{{ .Permalink }}">{{ .Title }}</a><br/>
-      </h3>
-      <h4>{{ .Params.subtitle }}</h4>
-      <span class="date">{{ .Date.Format "2006-01-02" }}</span>
-      <p>
-      {{ .Summary | replaceRE "(?ms)(<figure.*</figure>)" "" | safeHTML | truncate 200 }}
-      </p>
-    </header>
+    <div class="note-header">
+      <header>
+        <h3>
+            {{ .Params.emoji }}
+            <a class="title bold no-decoration" href="{{ .Permalink }}">{{ .Title }}</a><br/>
+        </h3>
+        <h4>{{ .Params.subtitle }}</h4>
+        <span class="date">{{ .Date.Format "2006-01-02" }}</span>
+        <p>
+          {{ with .Description }}{{ . }} {{else}}{{ .Summary | replaceRE "(?ms)(<(figure|blockquote).*</(figure|blockquote)>)" "" | safeHTML | truncate 200 }}{{ end }}
+        </p>
+      </header>
+    </div>
     {{ end }}
   </div>
   {{ template "_internal/pagination.html" . }}

@@ -18,7 +18,7 @@
     {{ template "_internal/google_analytics.html" . }}
     <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>
     {{ $.Scratch.Set "jslibs" slice }}
-    {{ $libs := slice "js/flickity.pkgd.min.js" "js/bg-lazyload.js" "js/medium-zoom.min.js" "js/iolazy.min.js" }}
+    {{ $libs := slice "js/lazysizes.min.js" "js/medium-zoom.min.js" "js/iolazy.min.js" }}
     {{ range $libs }}
       {{ $.Scratch.Add "jslibs" (resources.Get . ) }}
     {{ end }}

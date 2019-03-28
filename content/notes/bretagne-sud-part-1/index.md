@@ -11,7 +11,7 @@ categories:
 - bretagne
 emoji: "⚓️"
 tags: ["road trip", "photography", "bretagne", "Brittany", "surf", "beach", "tides", "marée", "mer", "morbihan", "quiberon", "carnac", "local", "vacances", "famille", "holiday", "family"]
-description: "On avait décidé de ne pas partir bien loin. Un voyage plus lent. Carnac, Quiberon, Etel. Découvrir notre regiol d'adoption."
+description: "On avait décidé de ne pas partir bien loin. Un voyage plus lent. Carnac, Quiberon, Etel. Découvrir notre region d'adoption."
 resources:
 - src: "4.jpg"
   name: "cover"

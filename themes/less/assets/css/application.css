@@ -338,9 +338,14 @@ b {
     place-itmes: center;
   }
 
-  .list.journal .note-tile, .list.journal header {
+  .list.journal .note-tile, .list.journal .note-header {
     margin: 30px;
-    justify-self: center;
+  }
+  .list.journal .note-header {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
   }
 
   .list.journal :nth-child(4n-1) {
