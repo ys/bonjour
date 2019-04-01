@@ -4,6 +4,9 @@ date: 2019-04-01T22:52:12+02:00
 draft: false
 slug: "ne-jamais-cesser-d-apprendre"
 emoji: "📷"
+tags: [apprendre, photographie, workshop, aventure, passion, investissement, self-esteem, artisanat, creation, inspiration, changement]
+categories:
+- journal
 resources:
 - src: "*.jpg"
 ---
