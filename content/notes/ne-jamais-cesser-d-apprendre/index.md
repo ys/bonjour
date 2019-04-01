@@ -19,7 +19,7 @@ J’ai toujours été attiré par la photographie, je suis passé d’un reflex 
 Avec le temps et les vadrouilles, j’ai commencé a toujours avoir un appareil avec moi. A me plaire à prendre de plus en plus de photos. Et cette année, j’ai décidé d’apprendre pour autre chose que le boulot. J’avais envie de devenir meilleur en photo. J’ai donc commencé des formations en ligne. J’ai commencé par un cours reprenant toutes les bases sur [Udemy](https://www.udemy.com/photography-masterclass-complete-guide-to-photography/). Un bon rappel pour certains morceaux et des passages qui renforcent les bases connues ou amènent de nouvelles connaissances.
 
 {{< photoset max="2" >}}
-  {{< photo src=“3.jpg” >}}
+  {{< photo src="3.jpg" >}}
   {{< photo src="4.jpg" >}}
 {{</ photoset >}}
 
@@ -30,4 +30,4 @@ Et c’est ainsi que ce mois-ci, je me retrouve à m’inscrire pour un [worksho
 
 D’ailleurs, rappelez moi de vous parler de pourquoi j'ai de plus en plus de coupures sur les mains. Mais ca sera pour plus tard.
 
-{{< Photo src=“5.jpg” >}}
+{{< photo src="5.jpg" >}}
