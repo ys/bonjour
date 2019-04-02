@@ -1,6 +1,6 @@
 ---
 title: "Ne jamais cesser d’apprendre"
-date: 2019-04-01T22:52:12+02:00
+date: 2019-04-02T12:52:12+02:00
 draft: false
 slug: "ne-jamais-cesser-d-apprendre"
 emoji: "📷"
