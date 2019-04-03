@@ -4,24 +4,23 @@ date: 2017-10-26T22:57:50+02:00
 draft: false
 type: "about"
 emoji: "👪"
+resources:
+- src: "*.jpg"
+- src: "cover.jpg"
+  name: "cover"
 ---
 
-Hello, je m'appelle Yannick.
 
-J'adore vadrouiller et découvrir les coins de nature, qu'ils soient proches ou non. Je pense que l'aventure peut se vivre près de chez soi ou loin.
+Bienvenue sur Vadrouiles & Co., le coin où Yannick prend le temps et apprécie partager avec vous ses aventures. 
 
-J'aime notre planète et j'ai décidé de la protéger du mieux que je peux.
+Après avoir vécu en ville pendant une douzaine d'années, nous avons décidé avec Cloé et Tom de nous exiler dans le Finistère et de vivre plus lentement dans les monts d'Arrée. 
 
-Etre dehors, c'est ma thérapie.
+Nous y découvrons la région, sa faune, sa flore et comment se débrouiller quand Internet est lent. Nous cultivons nos légumes, élevons nos poules, notre chien et notre chat. Nous profitons aussi le plus possible de ce que cette magnifique région peut nous offrir. Entre terre et mer, suivez-nous dans ces aventures.
 
-{{< translation language="en" >}}
+Un grand changement et un plein d'inspiration, venant des quatre coins du monde, m'a permis de vivre plus lentement et de pouvoir me reconnecter avec la nature. Je vous parlerai de ma première coupure avec une hache et de mes nouveaux hobbys. 
 
-Hello, I am Yannick.
+J'essayerai de vous inspirer en partageant avec vous notre vie plus simple et plus authentique. Mon but en plus de partager sera sans doute de vous inspirer un petit peu et de vous faire voir que la nature à besoin de nous.
 
-I love to wander and discover tids and bits of nature. Close or far, I don't mind. Adventure can be lived next door or next continent.
+En espérant que vous trouverez ce que vous êtes venus chercher. Sinon, en esperant que vous ayez au moins été un minimum inspiré. N'hésitez pas à laisser un petit mot et **rendez-vous dehors!**
 
-I love our planet and decided to do my best to be kind with her.
-
-Being outside is my therapy.
-
-{{</ translation >}}
+{{< photo src="1.jpg" >}}
