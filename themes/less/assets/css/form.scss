@@ -3,7 +3,18 @@
   display: block;
   border: none;
   margin: 0;
+  padding: 0;
   width: 100%;
+}
+.boilerform {
+  width: 45rem !important;
+  margin: 0 auto;
+  @media only screen and (max-width: 667px) {
+    max-width: calc(100vw - 20px);
+    > * {
+      margin: 0;
+    }
+  }
 }
 form {
   margin: 0;
@@ -15,7 +26,7 @@ form {
   line-height: 1.2;
   border-bottom: 1px solid #ccc;
   padding: 0 0 5px 0;
-  margin: 0 0 10px 0;
+  margin-bottom: 10px;
 }
 
 .c-form__row {
