@@ -1,8 +1,13 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
-  {{ $style := resources.Get "css/application.css" | minify | fingerprint }}
-  <link rel="stylesheet" href="{{ $style.Permalink }}">
+  {{ $style := resources.Get "css/application.scss" | toCSS }}
+  {{ if .Site.IsServer }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}">
+  {{ else }}
+    {{ $style := $style | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}">
+  {{ end }}
   <link rel="icon" href="{{ "/favicon.ico" | absURL }}">
   <link rel="shortcut icon" href="{{ "/favicon.ico" | absURL }}">
   {{ range .AlternativeOutputFormats -}}

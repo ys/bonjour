@@ -1,0 +1,48 @@
+/* FORM */
+.c-form {
+  display: block;
+  border: none;
+  margin: 0;
+  width: 100%;
+}
+form {
+  margin: 0;
+}
+
+.c-form__heading {
+  display: block;
+  width: 100%;
+  line-height: 1.2;
+  border-bottom: 1px solid #ccc;
+  padding: 0 0 5px 0;
+  margin: 0 0 10px 0;
+}
+
+.c-form__row {
+  padding-top: 20px;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.c-button {
+  margin-top: 20px;
+}
+
+input, textarea {
+  border-radius: 0;
+  height: 20px;
+}
+textarea {
+  height: 60px;
+}
+
+button {
+  max-width: 200px;
+  padding: 1em 1em;
+  color: rgba(0, 0, 0, 0.80); /* rgba supported */
+  border: none rgba(0, 0, 0, 0);  /*IE9 + everything else*/
+  background-color: #E6E6E6;
+  text-decoration: none;
+  border-radius: 2px;
+}
