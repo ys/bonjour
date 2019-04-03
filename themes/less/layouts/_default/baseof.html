@@ -5,7 +5,7 @@
     <div class="wrapper">
       {{ block "header" . }}
         {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
-        <header {{ with $image }}style="background-image: url('{{ .Permalink }}')"{{ end }} class="hero_header">
+        <header {{ with $image }}style="background: linear-gradient( rgba(255, 255, 255, 0.45), rgba(255, 255, 255, 0.45)), url('{{ .Permalink }}') no-repeat 50% 0 / cover"{{ end }} class="hero_header">
           {{ partial "main_menu" . }}
           <h1><a href="/">{{ .Site.Title }}</a></h1>
         </header>
@@ -15,7 +15,7 @@
       {{ end }}
     </div>
     {{ partial "footer" .}}
-    {{ template "_internal/google_analytics.html" . }}
+    {{ partial "gtag.html" . }}
     <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>
     {{ $.Scratch.Set "jslibs" slice }}
     {{ $libs := slice "js/lazysizes.min.js" "js/medium-zoom.min.js" "js/iolazy.min.js" }}

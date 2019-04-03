@@ -7,6 +7,8 @@
   ],
   "scripts": {
     "gulp": "gulp",
+    "build-images": "gulp img:build",
+    "start": "hugo serve --appendPort=false -b $(curl http://127.0.0.1:4040/api/tunnels | jq '.tunnels[0].public_url' -r)",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Yannick Schutz",
