@@ -6,6 +6,8 @@ type: "about"
 emoji: "👪"
 resources:
 - src: "*.jpg"
+- src: "cover.jpg"
+  name: "cover"
 ---
 
 
