@@ -23,4 +23,5 @@ I love to wander and discover tids and bits of nature. Close or far, I don't min
 I love our planet and decided to do my best to be kind with her.
 
 Being outside is my therapy.
+
 {{</ translation >}}

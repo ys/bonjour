@@ -9,3 +9,4 @@ tags: ["bretagne", "slow travel", "rural exodus", "voyage", "slow life", "neorur
 resources:
 - src: "*.jpg"
 ---
+

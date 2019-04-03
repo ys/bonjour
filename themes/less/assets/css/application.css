@@ -93,6 +93,10 @@ b {
 
 /* Helpers */
 
+.italic {
+  font-style: italic !important;
+}
+
 .center {
   text-align: center;
 }
@@ -132,8 +136,8 @@ b {
   font-weight: 600;
 }
 
-.en {
-  font-style: italic;
+p.en p {
+  font-style: italic !important;
   color: #666;
 }
 
@@ -167,10 +171,10 @@ b {
 
 .hero_header {
   width: 100%;
-  min-height: 45vh;
+  min-height: 30.9vw;
   overflow: hidden;
   background-repeat: no-repeat;
-  background-position: 50% 0;
+  background-position: top 50% left 0, top 50% right 0;
   -ms-background-size: cover;
   -o-background-size: cover;
   -moz-background-size: cover;
@@ -290,11 +294,13 @@ b {
     width: 100%;
     margin: 0;
   }
+
   .main .fullwidth, .main .fullwidth img {
     width: 100% !important;
     margin-left: 0;
     margin-right: 0;
   }
+
   .main > :not(.fullwidth) {
     max-width: 74rem;
     margin-left: auto;
@@ -333,7 +339,6 @@ b {
 
   .list.journal {
     display: grid;
-    padding-top: 50px;
     grid: auto-flow dense / repeat(2, 50%);
     place-itmes: center;
   }
@@ -412,6 +417,7 @@ b {
   align-items: center;
   border-bottom: 1px solid #333;
   padding: 15px 0 ;
+  margin-bottom: 80px;
 }
 
 .hero_header > .title {
