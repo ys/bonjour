@@ -1,0 +1,148 @@
+@import "helpers";
+@import "form";
+@import "main_header";
+@import "hero_header";
+@import "three";
+@import "photos";
+@import "journal";
+
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100%;
+  color: #343434;
+  font-size: 1.2rem;
+  font-weight: 300;
+  margin: 0;
+  padding: 0;
+  font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  text-rendering: optimizeLegibility;
+  line-height: 1.52;
+}
+
+a {
+  color: #343434;
+  text-decoration: none;
+  position: relative;
+  text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
+  background-image: linear-gradient(to top, transparent, transparent 2px, #333 2px, #333 2.5px, transparent 2.5px);
+  transition: color 0.5s, background-image 0.5s linear;
+  &:visited, &:hover {
+    text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
+    background-image: linear-gradient(to top, transparent, transparent 2px, #666 2px, #666 2.5px, transparent 2.5px);
+  }
+}
+
+h1.large {
+  font-size: 5.0rem;
+}
+h1 {
+  font-size: 3.7rem;
+}
+h2, h1.medium {
+  font-size: 2.8rem;
+}
+h3 {
+  font-size: 2.1rem;
+}
+h4 {
+  font-size: 1.6rem;
+}
+
+h1, h2, h3, h4 {
+  margin: 0;
+  font-weight: 300;
+  text-align: center;
+}
+
+header {
+  text-align: center;
+}
+
+footer {
+  font-weight: 100;
+  text-align: center;
+  position: relative;
+  height: 50px;
+  background-color: white;
+  line-height: 50px;
+  clear:both;
+  a, a:visited {
+    padding-bottom: 2px;
+  }
+}
+
+blockquote {
+  font-style: italic;
+  border-left: 3px solid #333;
+  padding-left: 20px;
+  margin-left: -23px;
+}
+
+b {
+  font-weight: 400;
+}
+p.en p {
+  font-style: italic !important;
+  color: #666;
+}
+
+p {
+  text-align: justify;
+}
+img {
+  width: 100%;
+}
+
+/* Main wrapper */
+.wrapper {
+  min-height: 100%;
+  height: auto;
+}
+
+.main_menu {
+  font-weight: 100;
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+.main {
+  width: 100%;
+  padding-bottom: 50px;
+  margin: 0;
+  @media only screen and (max-width: 667px) {
+    p, blockquote, header {
+      margin-left: 1rem;
+      margin-right: 1rem;
+    }
+  }
+  @media only screen and (min-width: 1000px) {
+    .fullwidth, .fullwidth img {
+      width: 100% !important;
+      margin-left: 0;
+      margin-right: 0;
+    }
+
+    > :not(.fullwidth) {
+      max-width: 74rem;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    > .vertical {
+      max-width: 37rem;
+    }
+
+    p, blockquote {
+      max-width: 45rem !important;
+      margin-top: 25px;
+      margin-bottom: 25px;
+    }
+
+  }
+}
+

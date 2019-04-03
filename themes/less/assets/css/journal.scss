@@ -1,0 +1,31 @@
+/* Notes tile */
+.list.journal {
+  display: grid;
+  grid-gap: 1rem;
+  place-itmes: center;
+  @media only screen and (min-width: 1000px) {
+    grid: auto-flow dense / repeat(2, 50%);
+
+    :nth-child(4n-1) {
+      grid-column: 2;
+    }
+
+    .note-tile, .note-header {
+      margin: 30px;
+    }
+
+    .note-header {
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+  }
+  @media only screen and (max-width: 667px) {
+    img {
+      display: block;
+      width: calc(100% - 20px);
+      margin: 10px;
+    }
+  }
+}
