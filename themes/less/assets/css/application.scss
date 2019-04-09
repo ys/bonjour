@@ -1,3 +1,16 @@
+@font-face {
+  font-family: "quattro";
+  src: url("/fonts/quattro-regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "quattro";
+  src: url("/fonts/quattro-italic.woff2") format("woff2");
+  font-weight: normal;
+  font-style: italic;
+}
+@import url('https://fonts.googleapis.com/css?family=Sorts+Mill+Goudy');
 @import "helpers";
 @import "form";
 @import "main_header";
@@ -19,7 +32,7 @@ body {
   font-weight: 300;
   margin: 0;
   padding: 0;
-  font-family:  -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-family: "quattro", -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
   text-rendering: optimizeLegibility;
   line-height: 1.52;
 }
@@ -55,8 +68,9 @@ h4 {
 
 h1, h2, h3, h4 {
   margin: 0;
-  font-weight: 300;
   text-align: center;
+  font-weight: 300;
+  font-family:  "Sorts Mill Goudy", serif;
 }
 
 header {
@@ -92,7 +106,6 @@ p.en p {
 }
 
 p {
-  text-align: justify;
 }
 img {
   width: 100%;
