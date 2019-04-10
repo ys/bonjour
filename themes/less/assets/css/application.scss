@@ -12,7 +12,7 @@
   font-display: swap;
   font-style: italic;
 }
-@import url('https://fonts.googleapis.com/css?family=Sorts+Mill+Goudy');
+@import url('https://fonts.googleapis.com/css?family={{ replace .Site.Params.titleFont " " "+" }}');
 @import "helpers";
 @import "form";
 @import "main_header";
@@ -72,7 +72,7 @@ h1, h2, h3, h4 {
   margin: 0;
   text-align: center;
   font-weight: 300;
-  font-family:  "Sorts Mill Goudy", serif;
+  font-family:  "{{ .Site.Params.titleFont }}", serif;
 }
 
 header {
