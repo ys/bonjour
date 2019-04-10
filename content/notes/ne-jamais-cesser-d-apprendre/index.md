@@ -11,9 +11,7 @@ resources:
 - src: "*.jpg"
 ---
 
-{{< photo src="2.jpg" >}}
-
-Depuis quelques années, j’ai décidé d’investir en moi-même. Avant, toutes mes passions étaient liées à mon métier. Tout l'apprentissage aussi. Il me faut apprendre constamment. La technologie d'une part et les « soft skills » qui traitent plus des relations humaines que de la technique d'autre part. J’ai donc appris à mieux communiquer, mieux comprendre les personnes et mieux gérer le stress. C’est effectivement utile au quotidien. 
+Depuis quelques années, j’ai décidé d’investir en moi-même. Avant, toutes mes passions étaient liées à mon métier. Tout l'apprentissage aussi. Il me faut apprendre constamment. La technologie d'une part et les « soft skills » qui traitent plus des relations humaines que de la technique d'autre part. J’ai donc appris à mieux communiquer, mieux comprendre les personnes et mieux gérer le stress. C’est effectivement utile au quotidien.
 
 J'étais lassé de n’apprendre que pour mon gagne pain. Il me manquait quelque chose. J'ai alors commencé à m'intéresser à mon moi. Minimalisme, pleine conscience et écologie. Ces sujets me suivent encore aujourd’hui et me définissent principalement. Tout cela ne se faisait que dans ma tête. J’ai toujours été plus intellectuel que manuel. C’est un fait... Mon père serait fier de savoir que je sais me servir de mes deux mains maintenant. Que dirait-il de savoir que je pense à investir dans une scie circulaire...
 
@@ -27,7 +25,7 @@ Avec le temps et les vadrouilles, l'appareil était toujours avec moi. Je prenai
 {{</ photoset >}}
 
 
-Ce n'était pas assez. Il manquait quelque chose dans cette théorie. J’aime beaucoup les gens passionnés. J’adore apprendre de gens qui exaltent leur passion. Qui sont comme possédés par celle-ci. J’ai découvert le boulot de [Alex Strohl](http://www.alexstrohl.com). Il avait sorti un [premier workshop](https://workshop.alexstrohl.com), une vraie révélation! Il transmet sa passion de la photo d’aventure et retranscrit cela d’une manière qui me parle. Il n’a pas fallu longtemps avant qu’il ne sorte un [second en été](http://summer.alexstrohl.com). 
+Ce n'était pas assez. Il manquait quelque chose dans cette théorie. J’aime beaucoup les gens passionnés. J’adore apprendre de gens qui exaltent leur passion. Qui sont comme possédés par celle-ci. J’ai découvert le boulot de [Alex Strohl](http://www.alexstrohl.com). Il avait sorti un [premier workshop](https://workshop.alexstrohl.com), une vraie révélation! Il transmet sa passion de la photo d’aventure et retranscrit cela d’une manière qui me parle. Il n’a pas fallu longtemps avant qu’il ne sorte un [second en été](http://summer.alexstrohl.com).
 
 Il a décidé de faire une série de workshops avec d’autres photographes. Son premier était avec un photographe que j’admire, [Finn Beales](https://www.madebyfinn.com) ([Le workshop](https://finnxstrohl.com). Son travail tant professionnel que personnel m’a toujours inspiré. Raconter une histoire. Raconter sa vie en images. Raconter mon histoire. Raconter ma vie en images. J'attend avec impatience les suivants.
 
