@@ -20,8 +20,6 @@ resources:
 
 > Homme libre toujours tu chériras la mer
 
-{{< photo src="cover" alt="waves at la Palue" >}}
-
 *N'oubliez pas de lire la [première partie](https://vadrouilles.co/bretagne-sud-part-1) - Don't forget to read the [first part](https://vadrouilles.co/bretagne-sud-part-1)*
 
 Départ de notre premier QG en direction de notre camp de base à Crozon. On fait un crochet par la pointe du Raz. Une pause au dernier supermarché avant l’Amérique pour quelques provisions manquantes. Pour le reste, Cloé a eu la super idée de cuisiner des petits plats et les mettre dans des bocaux. La nourriture comme à la maison mais sans devoir cuisiner. Trop bien!

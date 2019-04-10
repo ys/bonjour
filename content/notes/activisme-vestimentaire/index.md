@@ -6,21 +6,19 @@ slug: "activisme-vestimentaire"
 emoji: "👕"
 tags: ["écologie", "b-corp", "mode", "habillage", "vêtements", "consommation", "responsable", "engagé", "slow fashion", "consommacteur"]
 description: "Consommer moins, consommer mieux. C'est un peu un des trucs qui me turlupine depuis que je me suis lancé dans le minimalisme et autres. Ca passe pas mal par ma garde robe. Elle débordait de T-shirts, de chemises et commençait à ne plus ressembler à rien."
-categories: 
+categories:
 - "journal"
 resources:
 - src: "*.jpg"
 ---
 
-{{< photo src="activisme.jpg" >}}
-
 Consommer moins, consommer mieux. C'est un peu un des trucs qui me turlupine depuis que je me suis lancé dans le minimalisme et autres. Ca passe pas mal par ma garde robe. Elle débordait de T-shirts, de chemises et commençait à ne plus ressembler à rien.
 
 > Fabriquer les meilleurs produits en causant le moindre impact environnemental, utiliser le monde des affaires pour inspirer et mettre en place des solutions à la crise environnementale.
 
-C'est ce qu'on peut lire sur le site de [Patagonia](https://eu.patagonia.com/). Un des pionniers en terme d'activisme environnemental. C'est un peu à cause d'eux et de mon envie de voyager léger que j'ai commencé à réduire ma garde robe. Ne plus garder que des pièces que j'adore et qui ne font au final pas de mal à la planète. 
+C'est ce qu'on peut lire sur le site de [Patagonia](https://eu.patagonia.com/). Un des pionniers en terme d'activisme environnemental. C'est un peu à cause d'eux et de mon envie de voyager léger que j'ai commencé à réduire ma garde robe. Ne plus garder que des pièces que j'adore et qui ne font au final pas de mal à la planète.
 
-J'ai découvert ensuite [Finisterre](https://finisterre.com) qui est récemment devenu une [B Corp](https://www.bcorporation.net) Européenne. Etre une B Corp implique d'avoir un impact social et environnemental positif. Cela implique aussi une certaine transparence que beaucoup d'entreprises n'ont pas.   
+J'ai découvert ensuite [Finisterre](https://finisterre.com) qui est récemment devenu une [B Corp](https://www.bcorporation.net) Européenne. Etre une B Corp implique d'avoir un impact social et environnemental positif. Cela implique aussi une certaine transparence que beaucoup d'entreprises n'ont pas.
 En plus de consommer mieux, je consomme local. Une partie de leur production est faite ici en Europe. Ce qui ne l'est pas est fait de manière tout autant responsable.
 
 Comme vous le savez peut-être, j'aime assez les sacs aussi et là aussi Patagonia aide mais des marques plus locales ont aussi de superbes alternatives. J'ai par exemple craqué pour le "camera insert" de [Home of Millican](https://www.homeofmillican.com).
