@@ -124,6 +124,17 @@ img {
   font-size: 0.8rem;
   text-align: center;
 }
+.site-title {
+  @media only screen and (max-width: 667px) {
+    display: none;
+  }
+  @media only screen and (min-width: 1000px) {
+    color: #f8f8f8;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+  }
+}
 
 .main {
   width: 100%;
