@@ -5,9 +5,9 @@
     <div class="wrapper">
       {{ block "header" . }}
         {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
-        <header {{ with $image }}style="background: linear-gradient( rgba(255, 255, 255, 0.45), rgba(255, 255, 255, 0.45)), url('{{ .Permalink }}') no-repeat 50% 0 / cover"{{ end }} class="hero_header">
+        <header {{ with $image }}style="background: linear-gradient( rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url('{{ .Permalink }}') no-repeat 50% 0 / cover"{{ end }} class="hero_header">
           {{ partial "main_menu" . }}
-          <h1><a href="/">{{ .Site.Title }}</a></h1>
+          <h1><a href="/">{{ .Title }}</a></h1>
         </header>
       {{ end }}
       {{ block "main" . }}

@@ -1,18 +1,14 @@
 {{ define "header" }}
-  <header class="main_header">
-    <span class="title serif">
-      <a href="/">{{ .Site.Title }}</a>
-    </span>
+  {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
+  <header {{ with $image }}style="background: linear-gradient( rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url('{{ .Permalink }}') no-repeat 60% 0 / cover"{{ end }} class="hero_header">
     {{ partial "main_menu" . }}
+    <h1><a href="/">{{ .Params.emoji}} {{ .Title }}</a></h1>
+    <h3>{{ .Params.subtitle }}</h3>
+    <span class="date t12">{{ dateFormat "Jan 02, 2006" .Date }}</span>
   </header>
 {{ end }}
 {{ define "main" }}
 <div class="main note">
-  <header>
-    <h1 class="medium">{{ .Params.emoji }} {{ .Title }}</h1>
-    <h3>{{ .Params.subtitle }}</h3>
-    <span class="date t12">{{ dateFormat "Jan 02, 2006" .Date }}</span>
-  </header>
   {{ partial "gallery.html" . }}
   {{.Content}}
   {{if .Params.gear }}
