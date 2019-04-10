@@ -4,9 +4,13 @@
     <div class="note-tile">
       {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
       {{if $image }}
-      {{ $resized := $image.Fill "450x300" }}
-         <a class="no-decoration" href="{{ .Permalink }}">
-           <img src="{{ $resized.Permalink }}"/>
+        {{ $resized := $image.Fill "450x300" }}
+        {{ $mini := $image.Fill "45x30" }}
+        <a class="no-decoration" href="{{ .Permalink }}">
+          <img class="lazyload"
+               src="{{ $mini.RelPermalink }}"
+               data-src="{{ $resized.RelPermalink }}"
+               alt="{{ .Title }}" />
         </a>
       {{end}}
     </div>
