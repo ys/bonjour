@@ -11,7 +11,7 @@ categories:
 - bretagne
 - vanlife
 tags: ["bretagne", "Brittany", "vanlife", "road trip", "photography", "plage", "hiking", "randonnée", "voyage", "trip", "Finistère", "famille", "slowlife", "kerlouan", "saint-pabu"]
-description: "Un week-end d'anniversaire, une première expérience en van. Des découvertes en Bretagne Nord, des couchers de soleil, des repas entre amis et de la slowlife! La belle vie en gros."
+description: "Un week-end d'anniversaire, une première expérience en van. Des découvertes en Bretagne Nord, des couchers de soleil, des repas entre amis et de la slowlife!"
 emoji: "🚐"
 resources:
 - src: "15.jpg"
@@ -26,7 +26,9 @@ Cela faisait un moment qu'on en parlait. Avec Cloé, on rêve de vanlife avec un
   {{< photo src="3.jpg" alt="vue du van sur la route" >}}
 {{</ photoset >}}
 
-Vendredi, on part chercher Tom à la sortie de l'école. On a chargé notre voiture avec les affaires du week-end. On décolle pour Morlaix. On arrive au garage Volkswagen. La personne de [Black sheep van](https://www.blacksheep-van.com) nous y attend, il nous explique la totale. Je vois la tête de Cloé changer quand il annonce que c'est une automatique. Je n'ai toujours pas de permis et j'ai confiance en elle. Cela ne me fait ni chaud ni froid. Elle s'en accommodera bien vite d'ailleurs.
+## Vendredi
+
+On part chercher Tom à la sortie de l'école. On a chargé notre voiture avec les affaires du week-end. On décolle pour Morlaix. On arrive au garage Volkswagen. La personne de [Black sheep van](https://www.blacksheep-van.com) nous y attend, il nous explique la totale. Je vois la tête de Cloé changer quand il annonce que c'est une automatique. Je n'ai toujours pas de permis et j'ai confiance en elle. Cela ne me fait ni chaud ni froid. Elle s'en accommodera bien vite d'ailleurs.
 
 {{< photoset max="2" >}}
   {{< photo src="16.jpg" alt="Tom kiffe le van" >}}
@@ -57,6 +59,8 @@ On découvre la cuisine dans le van, on monte le poptop et on se met à l'aise. 
   {{< photo src="12.jpg" alt="Mais il rechauffe bien Cloe" >}}
 {{</ photoset >}}
 
+## Samedi
+
 Premier matin, encore des premières fois. Petit déjeuner, café. On part se balader et s'adonner à un de nos nouveaux passe-temps en balade, du [geocaching](https://www.geocaching.com/play). Une activité parfaite pour ceux qui aiment marcher et se balader avec des enfants. La chasse au trésor est finie, on rentre au van. 
 
 {{< photoset max="2" >}}
@@ -78,6 +82,8 @@ On se quitte et on reprend la route. Tout se range facilement, en même temps, o
   {{< photo src="2.jpg" alt="Cloe et Oggy" >}}
   {{< photo src="7.jpg" alt="Cloe boit un cafe" >}}
 {{</ photoset >}}
+
+## Dimanche
 
 Kerlouan et ses environs ne nous déçoit pas. On y reviendra. On pose le van sur un parking et on descend sur les plages. On remonte et on va parker le van sur une autre découverte de park4night. on mange face à la mer et on part à l'aventure dans les rochers. Ca escalade et ca évite les petites zones d'eau. On finira les pieds au sec. C'est déjà dimanche. On décide de ne pas rentrer trop tard parce qu'on aime aussi rentrer chez nous après un chouette week-end. On prendra bien sûr la route touristique pour rentrer. 
 
