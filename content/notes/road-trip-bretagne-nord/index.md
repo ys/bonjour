@@ -47,7 +47,7 @@ On découvre la cuisine dans le van, on monte le poptop et on se met à l'aise. 
 
 {{< photoset max="2" >}}
   {{< photo src="21.jpg" alt="Cloe au soleil couchant" >}}
-  {{< photo src="22.jpg" alt="Tom pris en photo au couche" >}}
+  {{< photo src="1-2.jpg" alt="Tom pris en photo au couche" >}}
 {{</ photoset >}}
 
 
