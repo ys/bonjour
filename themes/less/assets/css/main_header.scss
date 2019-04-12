@@ -4,25 +4,38 @@
   flex-direction: row;
   display: flex;
   align-items: center;
-  border-bottom: 1px solid #333;
-  padding: 15px 0 ;
-  max-width: 58rem;
+  justify-content: center;
+  border-bottom: 1px solid #f8f8f8;
+  background-color: #f8f8f8;
+  padding: 30px 10px ;
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 5px;
-  margin-bottom: 20px;
   @media only screen and (max-width: 667px) {
     justify-content: center;
     border-bottom: 0 !important;
   }
    > .title {
     margin: 0;
+    position: absolute;
+    top: 20px;
+    left: 50px;
     margin-right: 20px;
+    font-size: 1.6rem;
   }
 
   a {
     border: 0;
     background-image: none;
     font-weight: 200;
+  }
+}
+.note-title {
+  max-width: 58rem;
+  text-align: center;
+  margin: 0 auto;
+  h1 a {
+    border: 0;
+    background-image: none;
   }
 }

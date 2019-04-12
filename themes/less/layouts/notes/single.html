@@ -1,12 +1,3 @@
-{{ define "header" }}
-  {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
-  <header {{ with $image }}style="background: linear-gradient( rgba(20, 20, 20, 0.50), rgba(20, 20, 20, 0.50)), url('{{ .Permalink }}') no-repeat 50% / cover"{{ end }} class="hero_header">
-    {{ partial "main_menu" . }}
-    <h1><a href="/">{{ .Params.emoji}} {{ .Title }}</a></h1>
-    <h3>{{ .Params.subtitle }}</h3>
-    <span class="date t12">{{ dateFormat "Jan 02, 2006" .Date }}</span>
-  </header>
-{{ end }}
 {{ define "main" }}
 <div class="main note">
   {{ partial "gallery.html" . }}
