@@ -22,15 +22,15 @@ resources:
 Cela faisait un moment qu'on en parlait. Avec Cloé, on rêve de vanlife avec un grand V. Pour mes 35 ans, Elle m'offre une virée en Volkswagen California. Un très bon moyen de tester sans trop se mouiller me direz-vous.
 
 {{< photoset max="2" >}}
-  {{< photo src="3.jpg" alt="vue du van sur la route" >}}
   {{< photo src="4.jpg" alt="Cloe au volant" >}}
+  {{< photo src="3.jpg" alt="vue du van sur la route" >}}
 {{</ photoset >}}
 
 Vendredi, on part chercher Tom à la sortie de l'école. On a chargé notre voiture avec les affaires du week-end. On décolle pour Morlaix. On arrive au garage Volkswagen. La personne de [Black sheep van](https://www.blacksheep-van.com) nous y attend, il nous explique la totale. Je vois la tête de Cloé changer quand il annonce que c'est une automatique. Je n'ai toujours pas de permis et j'ai confiance en elle. Cela ne me fait ni chaud ni froid. Elle s'en accommodera bien vite d'ailleurs.
 
 {{< photoset max="2" >}}
-  {{< photo src="19.jpg" alt="Cloe prend une photo de Tom" >}}
   {{< photo src="16.jpg" alt="Tom kiffe le van" >}}
+  {{< photo src="19.jpg" alt="Cloe prend une photo de Tom" >}} 
 {{</ photoset >}}
 
 Une fois le van chargé, on se met en route vers le Saint-Graal du vanlifer. Un spot parfait en bord de plage tranquille et au calme. Un lieu parfait où savourer la vie et profiter de cette première soirée. On est dans le coin de Saint-Pabu. Lieu découvert via un mix de [park4night](https://www.park4night.com) et de conseils de [Grégory](https://gregorymignard.com) 
