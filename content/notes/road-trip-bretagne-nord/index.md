@@ -21,14 +21,14 @@ resources:
 
 Cela faisait un moment qu'on en parlait. Avec Cloé, on rêve de vanlife avec un grand V. Pour mes 35 ans, Elle m'offre une virée en Volkswagen California. Un très bon moyen de tester sans trop se mouiller me direz-vous.
 
-{{< photoset >}}
+{{< photoset max="2" >}}
   {{< photo src="3.jpg" alt="vue du van sur la route" >}}
   {{< photo src="4.jpg" alt="Cloe au volant" >}}
 {{</ photoset >}}
 
 Vendredi, on part chercher Tom à la sortie de l'école. On a chargé notre voiture avec les affaires du week-end. On décolle pour Morlaix. On arrive au garage Volkswagen. La personne de [Black sheep van](https://www.blacksheep-van.com) nous y attend, il nous explique la totale. Je vois la tête de Cloé changer quand il annonce que c'est une automatique. Je n'ai toujours pas de permis et j'ai confiance en elle. Cela ne me fait ni chaud ni froid. Elle s'en accommodera bien vite d'ailleurs.
 
-{{< photoset >}}
+{{< photoset max="2" >}}
   {{< photo src="19.jpg" alt="Cloe prend une photo de Tom" >}}
   {{< photo src="16.jpg" alt="Tom kiffe le van" >}}
 {{</ photoset >}}
@@ -45,7 +45,7 @@ Pas de chance, le spot a déjà un gargantuesque camping-car qui prend une place
 
 On découvre la cuisine dans le van, on monte le poptop et on se met à l'aise. Le premier repas est un succès. Je sors faire quelques photos de nuit du van. C'est déjà l'heure de se coucher. Tom est surexcité. On dort au dessus tous les deux et Cloé seule en bas. Une première nuit où l'on cherche sa place. Quand on fait quasi 2 mètres, rien n'est simple. 21h30, on est couché et un camping-car arrive et se pose de l'autre côté. Décidément, ce lieu a du succès. 
 
-{{< photoset >}}
+{{< photoset max="2" >}}
   {{< photo src="21.jpg" alt="Cloe au soleil couchant" >}}
   {{< photo src="22.jpg" alt="Tom pris en photo au couche" >}}
 {{</ photoset >}}
@@ -59,7 +59,7 @@ On découvre la cuisine dans le van, on monte le poptop et on se met à l'aise. 
 
 Premier matin, encore des premières fois. Petit déjeuner, café. On part se balader et s'adonner à un de nos nouveaux passe-temps en balade, du [geocaching](https://www.geocaching.com/play). Une activité parfaite pour ceux qui aiment marcher et se balader avec des enfants. La chasse au trésor est finie, on rentre au van. 
 
-{{< photoset >}}
+{{< photoset max="2" >}}
   {{< photo src="18.jpg" alt="Plage sous la brume matinale" >}}
   {{< photo src="5.jpg" alt="Marcheurs sur la plage au matin" >}}
 {{</ photoset >}}
@@ -84,4 +84,4 @@ Kerlouan et ses environs ne nous déçoit pas. On y reviendra. On pose le van su
 Les leçons de ce week-end, vivre lentement, profiter, improviser et prévoir l'imprévu. 
 
 {{< photo src="17.jpg" alt="plage" >}}
-{{< photo src="20.jpg" alt="Ruine en bord de plage" >}}
+{{< photo src="20.jpg" class="fullwidth" alt="Ruine en bord de plage" >}}
