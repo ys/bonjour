@@ -19,7 +19,7 @@
       <span></span>
     </header>
     {{ if eq .Type "notes"  }}
-    <div style="width: 100%; height: calc(100vh - 50px); background: url('{{ $image.Permalink }}') no-repeat 50% / cover"></div>
+      <div class="note-img" style="background: url('{{ $image.Permalink }}') no-repeat 50% / cover"></div>
       <div class="note-title">
         <h1><a href="/">{{ .Params.emoji}} {{ .Title }}</a></h1>
         <h3>{{ .Params.subtitle }}</h3>

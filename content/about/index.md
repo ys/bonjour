@@ -6,9 +6,10 @@ type: "about"
 emoji: "👪"
 resources:
 - src: "*.jpg"
-- src: "cover.jpg"
+- src: "1.jpg"
   name: "cover"
 ---
+
 
 <h2 style="margin-top:100px;margin-bottom:100px">Bienvenue sur Vadrouiles & Co.</h2>
 
@@ -24,7 +25,6 @@ J'essayerai de vous inspirer en partageant avec vous notre vie plus simple et pl
 
 En espérant que vous trouverez ce que vous êtes venus chercher. Sinon, en esperant que vous ayez au moins été un minimum inspiré. N'hésitez pas à [laisser un petit mot](#contact) et **rendez-vous dehors!**
 
-{{< photo src="1.jpg" >}}
-
+{{< photo src="cover" >}}
 <br style="margin: 30px">
 

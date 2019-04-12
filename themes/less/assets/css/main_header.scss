@@ -5,8 +5,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  border-bottom: 1px solid #f8f8f8;
-  background-color: #f8f8f8;
+  background-color: $white-text;
   padding: 30px 10px ;
   width: 100%;
   margin-left: auto;
@@ -29,6 +28,11 @@
     background-image: none;
     font-weight: 200;
   }
+}
+.note-img {
+  width: 100%;
+  margin: 0 auto;
+  height: 38rem;
 }
 .note-title {
   max-width: 58rem;
