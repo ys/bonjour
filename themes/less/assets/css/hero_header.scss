@@ -47,5 +47,16 @@
   .main_menu a {
     text-transform: uppercase;
   }
+  .main_menu ul {
+    display: flex;
+    li:not(:first-of-type)::before {
+      content: "•";
+      Margin: 0 10px;
+    }
+  }
+  .main_menu li {
+    list-style-type: none;
+  }
+
 }
 

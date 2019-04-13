@@ -15,8 +15,17 @@
       <span class="title serif">
         <a href="/">{{ .Site.Title }}</a>
       </span>
-      {{ partial "main_menu" . }}
-      <span></span>
+
+      <div>
+        <input id="burger" type="checkbox" />
+
+        <label for="burger">
+          <span></span>
+          <span></span>
+          <span></span>
+        </label>
+        {{ partial "main_menu" . }}
+      </div>
     </header>
     {{ if eq .Type "notes"  }}
       <div class="note-img" style="background: url('{{ $image.Permalink }}') no-repeat 50% / cover"></div>
