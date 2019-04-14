@@ -15,8 +15,7 @@
       <span class="title serif">
         <a href="/">{{ .Site.Title }}</a>
       </span>
-
-      <div>
+      <div class="menu">
         <input id="burger" type="checkbox" />
 
         <label for="burger">
@@ -24,7 +23,9 @@
           <span></span>
           <span></span>
         </label>
+
         {{ partial "main_menu" . }}
+        {{ partial "social_icons" . }}
       </div>
     </header>
     {{ if eq .Type "notes"  }}

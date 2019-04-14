@@ -39,22 +39,17 @@ canonifyURLs = true
   email = "petites@vadrouilles.co"
   domain = "Vadrouilles.co"
   instagram = "vadrouilles.co"
+  twitter = "yann_ck"
 
 [[menu.main]]
-  name = "Journal"
+  name = "Journal de Bord"
   title = "Journal de Bord"
   weight = 1
   identifier = "notes"
   url = "/"
 [[menu.main]]
-  name = "About"
+  name = "A propos"
   title = "About me"
   weight = 3
   identifier = "about"
   url = "/about"
-[[menu.main]]
-  name = "Instagram"
-  title = "About me"
-  weight = 4
-  identifier = "insta"
-  url = "https://instagram.com/vadrouilles.co"
