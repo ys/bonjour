@@ -1,6 +1,5 @@
 .main_header {
   margin: 0;
-  height: 20px;
   flex: auto;
   position: fixed;
   z-index: 6;
@@ -31,7 +30,6 @@
     flex-direction: row;
     display: flex;
     align-items: center;
-    a { margin: 0; padding: 0; }
     svg {
       margin: 0 10px;
     }
