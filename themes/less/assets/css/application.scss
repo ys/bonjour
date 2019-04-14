@@ -1,3 +1,6 @@
+$onyx: #313638;
+$white-text: #F8F8F8;
+
 @font-face {
   font-family: "quattro";
   src: url("/fonts/quattro-regular.woff2") format("woff2");
@@ -16,6 +19,7 @@
 @import "helpers";
 @import "form";
 @import "main_header";
+@import "burger";
 @import "hero_header";
 @import "three";
 @import "photos";
@@ -29,7 +33,7 @@ html {
 
 body {
   height: 100%;
-  color: #343434;
+  color: $onyx;
   font-size: 1.2rem;
   font-weight: 300;
   margin: 0;
@@ -38,17 +42,20 @@ body {
   text-rendering: optimizeLegibility;
   line-height: 1.52;
 }
+.about {
+  margin-top: 100px;
+}
 
 a {
-  color: #343434;
+  color: $onyx;
   text-decoration: none;
   position: relative;
   text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
-  background-image: linear-gradient(to top, transparent, transparent 2px, #333 2px, #333 2.5px, transparent 2.5px);
+  background-image: linear-gradient(to top, transparent, transparent 2px, $onyx 2px, $onyx 2.5px, transparent 2.5px);
   transition: color 0.5s, background-image 0.5s linear;
   &:visited, &:hover {
     text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
-    background-image: linear-gradient(to top, transparent, transparent 2px, #666 2px, #666 2.5px, transparent 2.5px);
+    background-image: linear-gradient(to top, transparent, transparent 2px, $onyx 2px, $onyx 2.5px, transparent 2.5px);
   }
 }
 
@@ -84,17 +91,21 @@ footer {
   text-align: center;
   position: relative;
   height: 50px;
-  background-color: white;
+  background-color: $onyx;
+  color: $white-text;
   line-height: 50px;
   clear:both;
   a, a:visited {
+    color: $white-text;
     padding-bottom: 2px;
+    text-shadow: -1px -1px 0 $onyx, 1px -1px 0 $onyx, -1px 1px 0 $onyx, 1px 1px 0 $onyx;
+    background-image: linear-gradient(to top, transparent, transparent 2px, #f8f8f8 2px, #f8f8f8 2.5px, transparent 2.5px);
   }
 }
 
 blockquote {
   font-style: italic;
-  border-left: 3px solid #333;
+  border-left: 3px solid $onyx;
   padding-left: 20px;
   margin-left: -23px;
 }
@@ -129,7 +140,7 @@ img {
     display: none;
   }
   @media only screen and (min-width: 1000px) {
-    color: #f8f8f8;
+    color: $white-text;
     position: absolute;
     top: 10px;
     left: 10px;
@@ -168,7 +179,6 @@ img {
       margin-top: 25px;
       margin-bottom: 25px;
     }
-
   }
 }
 

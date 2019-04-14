@@ -1,5 +1,5 @@
 .hero_header {
-  color: #F8f8f8;
+  color: $white-text;
   -moz-background-size: cover;
   -ms-background-size: cover;
   -o-background-size: cover;
@@ -38,7 +38,7 @@
     border: 0;
     background-image: none;
     font-weight: 200;
-    color: #F8f8f8;
+    color: $white-text;
   }
   a, h1 {
     text-shadow: 0 0 0  transparent !important;
@@ -47,5 +47,16 @@
   .main_menu a {
     text-transform: uppercase;
   }
+  .main_menu ul {
+    display: flex;
+    li:not(:first-of-type)::before {
+      content: "•";
+      Margin: 0 10px;
+    }
+  }
+  .main_menu li {
+    list-style-type: none;
+  }
+
 }
 
