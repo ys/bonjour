@@ -28,6 +28,7 @@ canonifyURLs = true
   sizes = [ "2048" , "1024" , "512" ]
   tags = ["exode rurale", "bretagne", "slow travel", "voyage", "slow life", "neorural", "photography", "photographies"]
   titleFont = "Neuton"
+#   heroHeader = true
 
 [params.titles]
 

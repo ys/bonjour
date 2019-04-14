@@ -1,28 +1,66 @@
 .main_header {
   margin: 0;
   flex: auto;
+  position: fixed;
+  z-index: 6;
   flex-direction: row;
   display: flex;
   align-items: center;
-  border-bottom: 1px solid #333;
-  padding: 15px 0 ;
-  max-width: 58rem;
+  justify-content: center;
+  background-color: $white-text;
+  padding: 30px 10px ;
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 5px;
-  margin-bottom: 20px;
   @media only screen and (max-width: 667px) {
     justify-content: center;
     border-bottom: 0 !important;
   }
    > .title {
     margin: 0;
+    position: absolute;
+    top: 10px;
+    left: 50px;
     margin-right: 20px;
+    font-size: 1.6rem;
+  @media only screen and (min-width: 667px) {
+    top: 20px;
+  }
   }
 
   a {
     border: 0;
     background-image: none;
     font-weight: 200;
+  }
+  @media only screen and (min-width: 667px) {
+    .main_menu ul {
+      display: flex;
+      margin: 0;
+      li:not(:first-of-type)::before {
+        content: "•";
+        Margin: 0 10px;
+      }
+    }
+  }
+  .main_menu li {
+    list-style-type: none;
+    a {
+      text-transform: uppercase;
+    }
+  }
+}
+.note-img {
+  width: 100%;
+  margin: 0 auto;
+  height: 38rem;
+}
+.note-title {
+  max-width: 58rem;
+  text-align: center;
+  margin: 0 auto;
+  h1 a {
+    border: 0;
+    background-image: none;
   }
 }
