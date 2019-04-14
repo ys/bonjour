@@ -5,6 +5,10 @@ figure {
     margin-top: 10px;
     margin-bottom: 0;
   }
+  @media only screen and (max-width: 812px) {
+    margin-top: 0.5rem !important;
+    margin-bottom: 0;
+  }
 }
 
 .photoset {
@@ -14,18 +18,16 @@ figure {
   &.always-2 {
     grid-template-columns: repeat(2, 1fr);
   }
-  @media only screen and (max-width: 667px) {
+  @media only screen and (max-width: 812px) {
     margin-top: 0;
-    display: grid;
-    grid-template-columns: repeat(1, 1fr);
+    margin-bottom: 0;
+    grid-gap: 0.5rem;
   }
-  @media only screen and (min-width: 667px) {
-    &.max-4 {
-      grid-template-columns: repeat(4, 1fr);
-    }
-    &.max-2 {
-      grid-template-columns: repeat(2, 1fr);
-    }
+  &.max-4 {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  &.max-2 {
+    grid-template-columns: repeat(2, 1fr);
   }
 }
 

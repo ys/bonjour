@@ -155,8 +155,8 @@ img {
   width: 100%;
   padding-bottom: 50px;
   margin: 0;
-  @media only screen and (max-width: 667px) {
-    p, blockquote, header {
+  @media only screen and (max-width: 812px) {
+    > * {
       margin-left: 1rem;
       margin-right: 1rem;
     }
