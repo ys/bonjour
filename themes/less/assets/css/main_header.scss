@@ -23,12 +23,12 @@
     left: 50px;
     margin-right: 20px;
     font-size: 1.6rem;
-  @media only screen and (min-width: 667px) {
-    top: 20px;
-  }
+    @media only screen and (min-width: 667px) {
+      top: 20px;
+    }
   }
 
-  a {
+  a, a:hover, a:visited {
     border: 0;
     background-image: none;
     font-weight: 200;
