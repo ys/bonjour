@@ -42,13 +42,13 @@ canonifyURLs = true
   twitter = "yann_ck"
 
 [[menu.main]]
-  name = "Journal"
+  name = "Journal de Bord"
   title = "Journal de Bord"
   weight = 1
   identifier = "notes"
   url = "/"
 [[menu.main]]
-  name = "About"
+  name = "A propos"
   title = "About me"
   weight = 3
   identifier = "about"

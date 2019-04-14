@@ -1,5 +1,6 @@
 .main_header {
   margin: 0;
+  height: 20px;
   flex: auto;
   position: fixed;
   z-index: 6;
@@ -18,6 +19,7 @@
     }
   }
   background-color: $white-text;
+  border-bottom: 1px solid #E8E8E8;
   padding: 30px 10px ;
   width: 100%;
   margin-left: auto;
@@ -29,6 +31,7 @@
     flex-direction: row;
     display: flex;
     align-items: center;
+    a { margin: 0; padding: 0; }
     svg {
       margin: 0 10px;
     }
