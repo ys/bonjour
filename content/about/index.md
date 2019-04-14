@@ -10,8 +10,7 @@ resources:
   name: "cover"
 ---
 
-
-<h2 style="margin-top:100px;margin-bottom:100px">Bienvenue sur Vadrouiles & Co.</h2>
+<h2 style="padding-top:130px;padding-bottom:50px;">Bienvenue sur Vadrouiles & Co.</h2>
 
 Je suis un apprenti photographe, micro activiste amoureux de mère nature, qui adore partager. Père d'un aventurier en herbe, je m'efforce de lui transmettre des valeurs et d'essayer de rendre ce monde un rien meilleur.
 

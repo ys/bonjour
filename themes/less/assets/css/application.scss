@@ -42,6 +42,9 @@ body {
   text-rendering: optimizeLegibility;
   line-height: 1.52;
 }
+.about {
+  margin-top: 100px;
+}
 
 a {
   color: $onyx;
@@ -176,7 +179,6 @@ img {
       margin-top: 25px;
       margin-bottom: 25px;
     }
-
   }
 }
 
