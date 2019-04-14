@@ -52,8 +52,16 @@
     display: none;
     > ul {
       text-align: center;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      margin: 0;
+      padding: 0;
+      padding-top: 20px;
       > li {
         opacity: 0;
+        padding: 0;
         transition: .5s;
         transition-delay: 0s;
         > a {
@@ -61,7 +69,7 @@
           text-transform: uppercase;
           color: $onyx;
           display: block;
-          padding: 30px;
+          padding: 20px;
         }
       }
     }
