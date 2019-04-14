@@ -19,7 +19,7 @@
   }
   background-color: $white-text;
   border-bottom: 1px solid #E8E8E8;
-  padding: 30px 10px ;
+  padding: 20px 10px;
   width: 100%;
   margin-left: auto;
   margin-right: auto;
@@ -35,6 +35,7 @@
     }
   }
   @media only screen and (max-width: 812px) {
+    padding: 30px 10px;
     justify-content: center;
   }
    > .title {
@@ -44,7 +45,7 @@
     left: 40px;
     font-size: 1.6rem;
     @media only screen and (min-width: 812px) {
-      top: 20px;
+      top: 12px;
     }
   }
 
