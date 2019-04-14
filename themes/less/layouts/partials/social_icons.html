@@ -1,0 +1,37 @@
+<div class="social">
+  {{ with .Site.Params.social.instagram }}
+    <a href="https://instagram.com/{{ . }}">
+      <svg width="20" height="20">
+        <image xlink:href="/icons/instagram.svg" width="20" height="20"/>
+      </svg>
+    </a>
+  {{ end }}
+  {{ with .Site.Params.social.twitter }}
+    <a href="https://twitter.com/{{ . }}">
+      <svg width="20" height="20">
+        <image xlink:href="/icons/twitter.svg" width="20" height="20"/>
+      </svg>
+    </a>
+  {{ end }}
+  {{ with .Site.Params.social.youtube }}
+    <a href="https://youtube.com/{{ . }}">
+      <svg width="20" height="20">
+        <image xlink:href="/icons/youtube.svg" width="20" height="20"/>
+      </svg>
+    </a>
+  {{ end }}
+  {{ with .Site.Params.social.facebook }}
+    <a href="https://facebook.com/{{ . }}">
+      <svg width="20" height="20">
+        <image xlink:href="/icons/facebook.svg" width="20" height="20"/>
+      </svg>
+    </a>
+  {{ end }}
+  {{ with .Site.Params.social.vsco }}
+    <a href="https://vsco.com/{{ . }}">
+      <svg width="20" height="20">
+        <image xlink:href="/icons/vsco.svg" width="20" height="20"/>
+      </svg>
+    </a>
+  {{ end }}
+</div>

@@ -44,6 +44,18 @@
       transform: rotate(-405deg);
     }
   }
+  input ~ .social {
+    z-index: 3;
+    transition: .5s;
+    transition-delay: .5s;
+    overflow: hidden;
+    display: none;
+  }
+  input:checked ~ .social {
+    display: flex;
+    transition-delay: 0s;
+    padding-top: 20px;
+  }
   input ~ nav {
     z-index: 3;
     transition: .5s;
