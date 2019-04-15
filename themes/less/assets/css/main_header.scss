@@ -7,12 +7,17 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+  @media only screen and (max-width: 812px) {
+    padding: 10px;
+    flex-direction: column;
+    justify-content: center;
+  }
   .menu {
-    width: 100%;
+    flex: 1;
     flex-direction: row;
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
     @media only screen and (max-width: 812px) {
       flex-direction: column;
     }
@@ -27,6 +32,9 @@
     @media only screen and (max-width: 812px) {
       display: none;
     }
+    @media only screen and (min-width: 812px) {
+      margin-right: 30px;
+    }
     flex-direction: row;
     display: flex;
     align-items: center;
@@ -34,15 +42,8 @@
       margin: 0 10px;
     }
   }
-  @media only screen and (max-width: 812px) {
-    padding: 30px 10px;
-    justify-content: center;
-  }
    > .title {
     margin: 0;
-    position: absolute;
-    top: 10px;
-    left: 40px;
     font-size: 1.6rem;
     @media only screen and (min-width: 812px) {
       top: 12px;
@@ -58,6 +59,7 @@
     .main_menu ul {
       display: flex;
       margin: 0;
+      padding: 0;
       li:not(:first-of-type)::before {
         content: "•";
         Margin: 0 10px;
