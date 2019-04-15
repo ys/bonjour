@@ -36,6 +36,8 @@
       margin-right: 30px;
     }
     flex-direction: row;
+    flex: 1;
+    justify-content: flex-end;
     display: flex;
     align-items: center;
     svg {
@@ -44,9 +46,12 @@
     }
   }
    > .title {
+    flex: 1;
     margin: 0;
     margin-left: 30px;
     font-size: 1.6rem;
+    display: flex;
+    justify-content: flex-start;
     @media only screen and (min-width: 812px) {
       top: 12px;
     }
@@ -60,6 +65,7 @@
   @media only screen and (min-width: 812px) {
     .main_menu ul {
       display: flex;
+      justify-content: center;
       margin: 0;
       padding: 0;
       li:not(:first-of-type)::before {
