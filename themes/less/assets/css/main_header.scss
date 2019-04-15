@@ -24,7 +24,7 @@
   }
   background-color: $white-text;
   border-bottom: 1px solid #E8E8E8;
-  padding: 20px 10px;
+  padding: 20px 0px;
   width: 100%;
   margin-left: auto;
   margin-right: auto;
@@ -39,11 +39,13 @@
     display: flex;
     align-items: center;
     svg {
-      margin: 0 10px;
+      margin: 0;
+      margin-left: 10px;
     }
   }
    > .title {
     margin: 0;
+    margin-left: 30px;
     font-size: 1.6rem;
     @media only screen and (min-width: 812px) {
       top: 12px;
