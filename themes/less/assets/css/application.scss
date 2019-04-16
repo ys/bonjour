@@ -99,7 +99,7 @@ footer {
   color: $white-text;
   line-height: 50px;
   clear:both;
-  a, a:visited {
+  a, a:visited, a:hover {
     color: $white-text;
     padding-bottom: 2px;
     text-shadow: -1px -1px 0 $onyx, 1px -1px 0 $onyx, -1px 1px 0 $onyx, 1px 1px 0 $onyx;
