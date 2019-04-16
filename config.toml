@@ -1,5 +1,6 @@
-baseURL = "https://vadrouilles.co/"
 languageCode = "fr"
+DefaultContentLanguage = "fr"
+defaultContentLanguageInSubdir = true
 title = "Vadrouilles & Co."
 theme = "less"
 googleAnalytics = "UA-114349967-1"
@@ -53,3 +54,33 @@ canonifyURLs = true
   weight = 3
   identifier = "about"
   url = "/about"
+[[languages.en.menu.main]]
+  name = "Notebook"
+  title = "Journal de Bord"
+  weight = 1
+  identifier = "notes"
+  url = "/en"
+[[languages.en.menu.main]]
+  name = "About"
+  title = "About me"
+  weight = 3
+  identifier = "about"
+  url = "/en/about"
+
+[languages]
+  [languages.en]
+    weight = 1
+    baseURL = "https://en.vadrouilles.co/"
+  [languages.fr]
+    weight = 2
+    baseURL = "https://vadrouilles.co/"
+[[redirects]]
+  from = "https://en.vadrouilles.co/*"
+  to = "/en/:splat"
+  status = 200
+  force = false
+[[redirects]]
+  from = "https://vadrouilles.co/*"
+  to = "/fr/:splat"
+  status = 200
+  force = false
