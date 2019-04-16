@@ -8,8 +8,8 @@
         {{ $mini := $image.Fill "45x30" }}
         <a class="no-decoration" href="{{ .Permalink }}">
           <img class="lazyload"
-               src="{{ $mini.RelPermalink }}"
-               data-src="{{ $resized.RelPermalink }}"
+               src="{{ $mini.Permalink }}"
+               data-src="{{ $resized.Permalink }}"
                alt="{{ .Title }}" />
         </a>
       {{end}}
