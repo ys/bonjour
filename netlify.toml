@@ -21,3 +21,13 @@
   for = "*.css" # css files too
   [headers.values]
     Cache-Control = "public, max-age=31536000"
+[[redirects]]
+  from = "https://en.vadrouilles.co/*"
+  to = "/en/:splat"
+  status = 200
+  force = false
+[[redirects]]
+  from = "https://vadrouilles.co/*"
+  to = "/fr/:splat"
+  status = 200
+  force = false
