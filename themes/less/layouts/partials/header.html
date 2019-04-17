@@ -12,8 +12,14 @@
     </header>
   {{ else }}
     <header class="main_header">
-      <span class="title quattro">
-        <a href="/">{{ .Site.Title }}</a>
+      <span class="title serif">
+        <a href="/">
+          {{ if .Site.Params.hasLogo }}
+            <img src="/logo.svg" />
+          {{ else }}
+            {{ .Site.Title }}
+          {{ end }}
+        </a>
       </span>
 
       <input id="burger" type="checkbox" />

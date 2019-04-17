@@ -52,6 +52,7 @@
     font-size: 1.6rem;
     display: flex;
     justify-content: flex-start;
+    a img { width: inherit; height: 20px}
     @media only screen and (min-width: 812px) {
       top: 12px;
     }

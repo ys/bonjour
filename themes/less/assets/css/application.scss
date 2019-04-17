@@ -1,19 +1,5 @@
 $onyx: #313638;
 $white-text: #F8F8F8;
-@font-face {
-  font-family: "quattro";
-  src: url("/fonts/quattro-regular.woff2") format("woff2");
-  font-weight: normal;
-  font-display: swap;
-  font-style: normal;
-}
-@font-face {
-  font-family: "quattro";
-  src: url("/fonts/quattro-italic.woff2") format("woff2");
-  font-weight: normal;
-  font-display: swap;
-  font-style: italic;
-}
 
 @import url('https://fonts.googleapis.com/css?family={{ replace .Site.Params.titleFont " " "+" }}');
 @import url('https://fonts.googleapis.com/css?family={{ replace .Site.Params.bodyFont " " "+" }}');
@@ -30,10 +16,6 @@ html {
   height: 100%;
   margin: 0;
   padding: 0;
-}
-
-.quattro {
-  font-family: "quattro";
 }
 
 svg {
