@@ -32,6 +32,9 @@ canonifyURLs = true
   bodyFont = "Cormorant Garamond"
 #   heroHeader = true
 
+[taxonomy]
+  category = "categories"
+
 [params.titles]
 
   notes = "Journal de bord"
