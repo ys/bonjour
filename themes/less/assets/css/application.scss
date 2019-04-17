@@ -1,6 +1,5 @@
 $onyx: #313638;
 $white-text: #F8F8F8;
-
 @font-face {
   font-family: "quattro";
   src: url("/fonts/quattro-regular.woff2") format("woff2");
@@ -15,7 +14,9 @@ $white-text: #F8F8F8;
   font-display: swap;
   font-style: italic;
 }
+
 @import url('https://fonts.googleapis.com/css?family={{ replace .Site.Params.titleFont " " "+" }}');
+@import url('https://fonts.googleapis.com/css?family={{ replace .Site.Params.bodyFont " " "+" }}');
 @import "helpers";
 @import "form";
 @import "main_header";
@@ -31,6 +32,10 @@ html {
   padding: 0;
 }
 
+.quattro {
+  font-family: "quattro";
+}
+
 svg {
   fill: $onyx;
 }
@@ -42,7 +47,7 @@ body {
   font-weight: 300;
   margin: 0;
   padding: 0;
-  font-family: "quattro", -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-family:  "{{ .Site.Params.bodyFont }}", serif;
   text-rendering: optimizeLegibility;
   line-height: 1.52;
 }
@@ -83,7 +88,11 @@ h1, h2, h3, h4 {
   margin: 0;
   text-align: center;
   font-weight: 300;
-  font-family:  "{{ .Site.Params.titleFont }}", serif;
+  font-family:  "{{ .Site.Params.titleFont }}", -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+
+.main_menu, footer {
+  font-family:  "{{ .Site.Params.titleFont }}", -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 }
 
 header {
