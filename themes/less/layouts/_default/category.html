@@ -1,7 +1,9 @@
 {{ define "main" }}
 <div class="main">
-  <header>
-    <h1>{{ .Data.Params.title }}</h1>
+</div>
+<div class="main">
+  <header style="margin-top:50px;">
+    <h1>{{ .Params.title }}</h1>
   </header>
   <div class="list journal">
     {{ range (.Paginator 50).Pages }}
@@ -14,12 +16,11 @@
         </a>
       {{end}}
     </div>
-    <header>
+    <header class="note-header">
       <h4>
           {{ .Params.emoji }}
           <a class="title bold no-decoration" href="{{ .Permalink }}">{{ .Title }}</a><br/>
       </h4>
-      <span class="small date">{{ .Date.Format "2006-01-02" }}</span>
       <p>
       {{ .Summary | replaceRE "(?ms)(<figure.*</figure>)" "" | safeHTML | truncate 200 }}
       </p>

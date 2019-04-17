@@ -1,27 +1,28 @@
 {{ define "main" }}
 <div class="main">
-  <div class="list journal">
-  {{ range .Pages }}
-  {{ if isset .Params "title" }}
-    <div class="note-tile">
-      {{ $firstPage := (index .Pages 0) }}
-      {{ $image := ($firstPage.Resources.GetMatch "cover" | default (index $firstPage.Resources 0))  }}
-      {{if $image }}
-      {{ $resized := $image.Fill "500x400" }}
-        <a class="no-decoration" href="{{ .Permalink }}">
-          <img src="{{ $resized.Permalink }}"/>
-        </a>
-      {{end}}
-    </div>
-    <header>
-      <h4>
-        <a class="title bold no-decoration" href="{{ .Permalink }}">{{ .Params.title }}</a><br/>
-      </h4>
-      <p>{{ .Params.description }}</p>
-    </header>
-  {{ end }}
-  {{ end }}
-
+</div>
+<div class="main">
+<div class="list journal">
+{{ range .Pages }}
+{{ if isset .Params "title" }}
+  <div class="note-tile">
+    {{ $firstPage := (index .Pages 0) }}
+    {{ $image := ($firstPage.Resources.GetMatch "cover" | default (index $firstPage.Resources 0))  }}
+    {{if $image }}
+    {{ $resized := $image.Fill "500x400" }}
+      <a class="no-decoration" href="{{ .Permalink }}">
+        <img src="{{ $resized.Permalink }}"/>
+      </a>
+    {{end}}
   </div>
+  <header class="note-header">
+    <h4>
+      <a class="title bold no-decoration" href="{{ .Permalink }}">{{ .Params.title }}</a><br/>
+    </h4>
+    <p>{{ .Params.description }}</p>
+  </header>
+{{ end }}
+{{ end }}
+</div>
 </div>
 {{ end }}
