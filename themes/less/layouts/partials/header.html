@@ -1,7 +1,7 @@
 {{ block "header" . }}
   {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
   {{ if .Site.Params.heroHeader }}
-    <span class="site-title">{{ .Site.Title }}</span>
+    <span class="quattro site-title">{{ .Site.Title }}</span>
     <header {{ with $image }}style="background: linear-gradient( rgba(20, 20, 20, 0.60), rgba(20, 20, 20, 0.60)), url('{{ .Permalink }}') no-repeat 50% / cover"{{ end }} class="hero_header">
       {{ partial "main_menu" . }}
       <h1><a href="/">{{ .Params.emoji}} {{ .Title }}</a></h1>
@@ -12,7 +12,7 @@
     </header>
   {{ else }}
     <header class="main_header">
-      <span class="title serif">
+      <span class="title quattro">
         <a href="/">{{ .Site.Title }}</a>
       </span>
 

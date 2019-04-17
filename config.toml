@@ -27,7 +27,8 @@ canonifyURLs = true
   mapbox = "pk.eyJ1IjoieWFubmljay1pbyIsImEiOiJjamY1NmR3NjMwNHkwMnBscDc2Nzl6b2ZwIn0.NbV8ywwFWfOH4T8DAN_tKw"
   sizes = [ "2048" , "1024" , "512" ]
   tags = ["exode rurale", "bretagne", "slow travel", "voyage", "slow life", "neorural", "photography", "photographies"]
-  titleFont = "Neuton"
+  titleFont = "Raleway"
+  bodyFont = "Cormorant Garamond"
 #   heroHeader = true
 
 [params.titles]
