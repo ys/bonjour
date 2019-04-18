@@ -29,7 +29,8 @@ canonifyURLs = true
   tags = ["exode rurale", "bretagne", "slow travel", "voyage", "slow life", "neorural", "photography", "photographies"]
   hasLogo = true
   titleFont = "Raleway"
-  bodyFont = "Cormorant Garamond"
+  bodyFont = "PT Serif"
+
 #   heroHeader = true
 
 [taxonomies]
