@@ -1,6 +1,6 @@
 <div class="main">
   <div class="list journal">
-    {{ range (.Paginate (where .Pages "Type" "notes") 50).Pages }}
+    {{ range (.Paginate (where .Pages "Type" "posts") 50).Pages }}
     <div class="note-tile">
       {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
       {{if $image }}

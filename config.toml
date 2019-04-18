@@ -18,7 +18,7 @@ canonifyURLs = true
   name = "Yannick Schutz"
 
 [permalinks]
-  notes = "/:slug"
+  posts = "/:slug"
 
 [imaging]
   resampleFilter = "lanczos"
@@ -37,7 +37,7 @@ canonifyURLs = true
 
 [params.titles]
 
-  notes = "Journal de bord"
+  posts = "Journal de bord"
   categories = "Catégories"
 
 [params.social]
@@ -50,7 +50,7 @@ canonifyURLs = true
   name = "Journal de Bord"
   title = "Journal de Bord"
   weight = 1
-  identifier = "notes"
+  identifier = "posts"
   url = "/"
 [[menu.main]]
   name = "A propos"
