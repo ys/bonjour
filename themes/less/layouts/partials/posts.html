@@ -1,7 +1,7 @@
 <div class="main">
   <div class="list journal">
-    {{ range (.Paginate (where .Pages "Type" "notes") 50).Pages }}
-    <div class="note-tile">
+    {{ range (.Paginate (where .Pages "Type" "posts") 50).Pages }}
+    <div class="post-tile">
       {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
       {{if $image }}
         {{ $resized := $image.Fill "450x300" }}
@@ -14,7 +14,7 @@
         </a>
       {{end}}
     </div>
-    <div class="note-header">
+    <div class="post-header">
       <header>
         <h3>
             {{ .Params.emoji }}

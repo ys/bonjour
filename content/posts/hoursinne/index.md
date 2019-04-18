@@ -6,10 +6,8 @@ draft: false
 tags: ["balade", "fagnes", "belgique", "ardennes", "famille", "randonnée", "amis", "slow life"]
 emoji: "🌲"
 gear: ["📷 Fuji X100T", "📷 Fuji X-T2"]
-geojson: "/content/notes/hoursinne/hoursinne.geojson"
 categories:
 - vadrouilles
-- belgique
 resources:
 - src: "*.jpg"
 ---

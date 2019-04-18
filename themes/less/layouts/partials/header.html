@@ -5,7 +5,7 @@
     <header {{ with $image }}style="background: linear-gradient( rgba(20, 20, 20, 0.60), rgba(20, 20, 20, 0.60)), url('{{ .Permalink }}') no-repeat 50% / cover"{{ end }} class="hero_header">
       {{ partial "main_menu" . }}
       <h1><a href="/">{{ .Params.emoji}} {{ .Title }}</a></h1>
-      {{ if eq .Type "notes"  }}
+      {{ if eq .Type "posts"  }}
         <h3>{{ .Params.subtitle }}</h3>
         <span class="date t12">{{ dateFormat "Jan 02, 2006" .Date }}</span>
       {{ end }}
@@ -32,9 +32,9 @@
       {{ partial "main_menu" . }}
       {{ partial "social_icons" . }}
     </header>
-    {{ if eq .Type "notes"  }}
-      <div class="note-img" style="background: url('{{ $image.Permalink }}') no-repeat 50% / cover"></div>
-      <div class="note-title">
+    {{ if eq .Type "posts"  }}
+      <div class="post-img" style="background: url('{{ $image.Permalink }}') no-repeat 50% / cover"></div>
+      <div class="post-title">
         <h1><a href="/">{{ .Params.emoji}} {{ .Title }}</a></h1>
         <h3>{{ .Params.subtitle }}</h3>
         <span class="date t12">{{ dateFormat "Jan 02, 2006" .Date }}</span>

@@ -7,7 +7,7 @@
   </header>
   <div class="list journal">
     {{ range (.Paginator 50).Pages }}
-    <div class="note-tile">
+    <div class="post-tile">
       {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
       {{if $image }}
       {{ $resized := $image.Fill "500x300" }}
@@ -16,7 +16,7 @@
         </a>
       {{end}}
     </div>
-    <header class="note-header">
+    <header class="post-header">
       <h4>
           {{ .Params.emoji }}
           <a class="title bold no-decoration" href="{{ .Permalink }}">{{ .Title }}</a><br/>
