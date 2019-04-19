@@ -57,23 +57,29 @@ h1 {
   font-size: 3.7rem;
 }
 h2, h1.medium {
-  font-size: 2.8rem;
+  font-size: 2.1rem;
+  font-weight: 600;
 }
 h3 {
-  font-size: 2.1rem;
+  font-size: 1.6rem;
+  text-transform: uppercase;
 }
 h4 {
   font-size: 1.6rem;
+  font-weight: 400;
+}
+h5 {
+  font-size: 1.6rem;
 }
 
-h1, h2, h3, h4 {
+h1, h2, h3, h4, h5 {
   margin: 0;
   text-align: center;
-  font-weight: 300;
+  font-weight: 400;
   font-family:  "{{ .Site.Params.titleFont }}", -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 }
 
-.date, .main_menu, footer {
+.date, .main_menu, footer, .title{
   font-family:  "{{ .Site.Params.titleFont }}", -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 }
 

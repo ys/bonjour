@@ -12,7 +12,7 @@
     </header>
   {{ else }}
     <header class="main_header">
-      <span class="title serif">
+      <span class="title">
         <a href="/">
           {{ if .Site.Params.hasLogo }}
             <img src="/logo.svg" />
@@ -35,7 +35,7 @@
     {{ if eq .Type "posts"  }}
       <div class="post-img" style="background: url('{{ $image.Permalink }}') no-repeat 50% / cover"></div>
       <div class="post-title">
-        <h1><a href="/">{{ .Params.emoji}} {{ .Title }}</a></h1>
+        <h1 class="medium"><a href="/">{{ .Params.emoji}} {{ .Title }}</a></h1>
         <h3>{{ .Params.subtitle }}</h3>
         <span class="date t12">{{ dateFormat "Jan 02, 2006" .Date }}</span>
       </div>
