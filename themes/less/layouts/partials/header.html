@@ -33,12 +33,12 @@
       {{ partial "social_icons" . }}
     </header>
     {{ if eq .Type "posts"  }}
-      <div class="post-img" style="background: url('{{ $image.Permalink }}') no-repeat 50% / cover"></div>
-      <div class="post-title">
-        <h1 class="medium"><a href="/">{{ .Params.emoji}} {{ .Title }}</a></h1>
-        <h3>{{ .Params.subtitle }}</h3>
-        <span class="date t12">{{ dateFormat "Jan 02, 2006" .Date }}</span>
-      </div>
+    <div class="post-img" style="background: url('{{ $image.Permalink }}') no-repeat 50% / cover"></div>
+    <div class="post-title">
+      <h1 class="medium"><a href="/">{{ .Params.emoji}} {{ .Title }}</a></h1>
+      <h3>{{ .Params.subtitle }}</h3>
+      <span class="date t12">{{ dateFormat "January 02, 2006" .Date }}</span>
+    </div>
     {{ end }}
   {{ end }}
 {{ end }}
