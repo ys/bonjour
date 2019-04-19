@@ -1,8 +1,33 @@
 /* Notes tile */
+.list.grid {
+  display: grid;
+  grid-gap: 1.5rem;
+  margin-top: 60px;
+  place-itmes: center;
+  grid: auto-flow dense / repeat(4, 1fr);
+  grid-column: 4;
+  @media only screen and (max-width: 667px) {
+    grid: auto-flow dense / repeat(2, 1fr);
+    grid-column: 2;
+  }
+  .post-header {
+    text-align: left;
+    h3 {
+      text-align: left;
+      font-size: 1.2rem;
+    }
+    .category {
+      text-align: left;
+      font-family: $sans-serif;
+      font-size: 0.9rem;
+      opacity: 0.8;
+      text-transform: uppercase;
+    }
+  }
+}
 .list.journal {
   display: grid;
   grid-gap: 1rem;
-  place-itmes: center;
   margin-top: 40px;
   @media only screen and (min-width: 1000px) {
     grid: auto-flow dense / repeat(2, 50%);

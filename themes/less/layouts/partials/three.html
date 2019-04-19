@@ -1,10 +1,11 @@
-<div class="three">
-  {{ range first 3 . }}
+<div class="three-wrapper">
+  <div class="three">
+  {{ range first 4 . }}
   <div class="tile">
     {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
     {{if $image }}
-      {{ $resized := $image.Fill "500x300" }}
-      {{ $mini := $image.Fill "50x30" }}
+      {{ $resized := $image.Fill "400x500" }}
+      {{ $mini := $image.Fill "40x50" }}
       <a class="no-decoration" href="{{ .Permalink }}">
         <img class="lazyload"
               src="{{ $mini.RelPermalink }}"
@@ -12,10 +13,12 @@
               alt="{{ .Title }}" />
       </a>
     {{end}}
-    <h4 class="t12">
-        {{ .Params.emoji }}
-        <a class="title bold no-decoration" href="{{ .Permalink }}">{{ .Title }}</a><br/>
-    </h4>
+    <h3 class="t12">
+      <a class="title bold no-decoration" href="{{ .Permalink }}">
+        {{ .Params.emoji }} {{ .Title }}
+      </a>
+    </h3>
   </div>
   {{ end }}
+</div>
 </div>

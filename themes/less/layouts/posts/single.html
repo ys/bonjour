@@ -6,5 +6,5 @@
     <p class="center t12"><i>Gear: </i>{{ delimit .Params.gear " ● " }}</p>
   {{ end }}
 </div>
-{{ partial "three.html" (.Site.RegularPages.Related . | first 3) }}
+{{ partial "three.html" (.Site.RegularPages.Related . ) }}
 {{ end }}
