@@ -13,7 +13,7 @@
         </a>
       {{end}}
       <header class="post-header">
-        {{ range .Params.categories }}
+        {{ range first 1 .Params.categories }}
         <span class="category">{{ . }}</span>
         {{ end }}
         <h3>
