@@ -1,13 +1,14 @@
 /* Notes tile */
 .list {
   .grid {
+    margin-top: 80px;
     &.two {
       display: grid;
       grid-gap: 3rem;
       grid: auto-flow dense / repeat(2, 1fr);
       @media only screen and (max-width: 667px) {
-        grid: auto-flow dense / repeat(2, 1fr);
-        grid-column: 2;
+        grid: auto-flow dense / repeat(1, 1fr);
+        grid-column: 1;
       }
     }
     &.three {
@@ -15,8 +16,8 @@
       grid-gap: 3rem;
       grid: auto-flow dense / repeat(3, 1fr);
       @media only screen and (max-width: 667px) {
-        grid: auto-flow dense / repeat(2, 1fr);
-        grid-column: 2;
+        grid: auto-flow dense / repeat(1, 1fr);
+        grid-column: 1;
       }
     }
     &.four {
@@ -24,11 +25,10 @@
       grid-gap: 3rem;
       grid: auto-flow dense / repeat(4, 1fr);
       @media only screen and (max-width: 667px) {
-        grid: auto-flow dense / repeat(2, 1fr);
-        grid-column: 2;
+        grid: auto-flow dense / repeat(1, 1fr);
+        grid-column: 1;
       }
     }
-    margin-top: 60px;
   }
   .post-header {
     text-align: left;

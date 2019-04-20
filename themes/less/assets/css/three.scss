@@ -1,12 +1,15 @@
 .three-wrapper {
   width: 100%;
-  background-color: $white-text;
+  background-color: $white-background;
 }
 .three {
   max-width: 74rem;
   display: grid;
   grid-gap: 1.5rem;
-  margin-top: 60px;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  padding-top: 40px;
+  padding-bottom: 40px;
   grid: auto-flow dense / repeat(4, 1fr);
   grid-column: 4;
   @media only screen and (max-width: 667px) {
