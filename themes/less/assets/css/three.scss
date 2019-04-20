@@ -16,9 +16,14 @@
   margin: 0 auto;
   .tile {
     margin-top: 20px;
+    margin-bottom: 30px;
     h3 {
       text-align: left;
-      margin-bottom: 5px;
+    }
+    h4 {
+      text-align: left;
+      opacity: 0.8;
+      font-size: 1.2rem;
     }
     img {
       width: 100%;

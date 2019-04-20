@@ -1,11 +1,10 @@
 /* Notes tile */
 .list.grid {
   display: grid;
-  grid-gap: 1.5rem;
+  grid-gap: 3rem;
   margin-top: 60px;
   place-itmes: center;
-  grid: auto-flow dense / repeat(4, 1fr);
-  grid-column: 4;
+  grid: auto-flow dense / repeat(3, 1fr);
   @media only screen and (max-width: 667px) {
     grid: auto-flow dense / repeat(2, 1fr);
     grid-column: 2;
