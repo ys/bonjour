@@ -19,6 +19,7 @@ canonifyURLs = true
 
 [permalinks]
   posts = "/:slug"
+  categories = "/:slug"
 
 [imaging]
   resampleFilter = "lanczos"

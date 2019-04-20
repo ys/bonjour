@@ -32,10 +32,10 @@ On part chercher Tom à la sortie de l'école. On a chargé notre voiture avec l
 
 {{< photoset max="2" >}}
   {{< photo src="16.jpg" alt="Tom kiffe le van" >}}
-  {{< photo src="19.jpg" alt="Cloe prend une photo de Tom" >}} 
+  {{< photo src="19.jpg" alt="Cloe prend une photo de Tom" >}}
 {{</ photoset >}}
 
-Une fois le van chargé, on se met en route vers le Saint-Graal du vanlifer. Un spot parfait en bord de plage tranquille et au calme. Un lieu parfait où savourer la vie et profiter de cette première soirée. On est dans le coin de Saint-Pabu. Lieu découvert via un mix de [park4night](https://www.park4night.com) et de conseils de [Grégory](https://gregorymignard.com) 
+Une fois le van chargé, on se met en route vers le Saint-Graal du vanlifer. Un spot parfait en bord de plage tranquille et au calme. Un lieu parfait où savourer la vie et profiter de cette première soirée. On est dans le coin de Saint-Pabu. Lieu découvert via un mix de [park4night](https://www.park4night.com) et de conseils de [Grégory](https://gregorymignard.com)
 
 {{< photoset >}}
   {{< photo src="13.jpg" alt="heure doree sur la plage" >}}
@@ -43,9 +43,9 @@ Une fois le van chargé, on se met en route vers le Saint-Graal du vanlifer. Un 
   {{< photo src="23.jpg" alt="heure doree sur la plage" >}}
 {{</ photoset >}}
 
-Pas de chance, le spot a déjà un gargantuesque camping-car qui prend une place. Il nous reste deux places. Ouf. On ne sera pas seul, cela rassure quand même pour la première nuit. On arrive à temps pour l'heure dorée. La plage se voile d'un ton magnifique doré et rosé. On descend sur la plage et on se laisse vivre. 
+Pas de chance, le spot a déjà un gargantuesque camping-car qui prend une place. Il nous reste deux places. Ouf. On ne sera pas seul, cela rassure quand même pour la première nuit. On arrive à temps pour l'heure dorée. La plage se voile d'un ton magnifique doré et rosé. On descend sur la plage et on se laisse vivre.
 
-On découvre la cuisine dans le van, on monte le poptop et on se met à l'aise. Le premier repas est un succès. Je sors faire quelques photos de nuit du van. C'est déjà l'heure de se coucher. Tom est surexcité. On dort au dessus tous les deux et Cloé seule en bas. Une première nuit où l'on cherche sa place. Quand on fait quasi 2 mètres, rien n'est simple. 21h30, on est couché et un camping-car arrive et se pose de l'autre côté. Décidément, ce lieu a du succès. 
+On découvre la cuisine dans le van, on monte le poptop et on se met à l'aise. Le premier repas est un succès. Je sors faire quelques photos de nuit du van. C'est déjà l'heure de se coucher. Tom est surexcité. On dort au dessus tous les deux et Cloé seule en bas. Une première nuit où l'on cherche sa place. Quand on fait quasi 2 mètres, rien n'est simple. 21h30, on est couché et un camping-car arrive et se pose de l'autre côté. Décidément, ce lieu a du succès.
 
 {{< photoset max="2" >}}
   {{< photo src="21.jpg" alt="Cloe au soleil couchant" >}}
@@ -61,7 +61,7 @@ On découvre la cuisine dans le van, on monte le poptop et on se met à l'aise. 
 
 ## Samedi
 
-Premier matin, encore des premières fois. Petit déjeuner, café. On part se balader et s'adonner à un de nos nouveaux passe-temps en balade, du [geocaching](https://www.geocaching.com/play). Une activité parfaite pour ceux qui aiment marcher et se balader avec des enfants. La chasse au trésor est finie, on rentre au van. 
+Premier matin, encore des premières fois. Petit déjeuner, café. On part se balader et s'adonner à un de nos nouveaux passe-temps en balade, du [geocaching](https://www.geocaching.com/play). Une activité parfaite pour ceux qui aiment marcher et se balader avec des enfants. La chasse au trésor est finie, on rentre au van.
 
 {{< photoset max="2" >}}
   {{< photo src="18.jpg" alt="Plage sous la brume matinale" >}}
@@ -85,9 +85,9 @@ On se quitte et on reprend la route. Tout se range facilement, en même temps, o
 
 ## Dimanche
 
-Kerlouan et ses environs ne nous déçoit pas. On y reviendra. On pose le van sur un parking et on descend sur les plages. On remonte et on va parker le van sur une autre découverte de park4night. on mange face à la mer et on part à l'aventure dans les rochers. Ca escalade et ca évite les petites zones d'eau. On finira les pieds au sec. C'est déjà dimanche. On décide de ne pas rentrer trop tard parce qu'on aime aussi rentrer chez nous après un chouette week-end. On prendra bien sûr la route touristique pour rentrer. 
+Kerlouan et ses environs ne nous déçoit pas. On y reviendra. On pose le van sur un parking et on descend sur les plages. On remonte et on va parker le van sur une autre découverte de park4night. on mange face à la mer et on part à l'aventure dans les rochers. Ca escalade et ca évite les petites zones d'eau. On finira les pieds au sec. C'est déjà dimanche. On décide de ne pas rentrer trop tard parce qu'on aime aussi rentrer chez nous après un chouette week-end. On prendra bien sûr la route touristique pour rentrer.
 
-Les leçons de ce week-end, vivre lentement, profiter, improviser et prévoir l'imprévu. 
+Les leçons de ce week-end, vivre lentement, profiter, improviser et prévoir l'imprévu.
 
 {{< photo src="17.jpg" alt="plage" >}}
 {{< photo src="20.jpg" class="fullwidth" alt="Ruine en bord de plage" >}}
