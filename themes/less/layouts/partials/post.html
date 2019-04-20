@@ -1,0 +1,18 @@
+<div class="post-tile">
+  {{ $image := .post.Resources.GetMatch "cover" | default (index (.post.Resources.ByType "image") 0) }}
+  {{if $image }}
+  {{ $resized := $image.Fill (print .size " Center") }}
+      <a class="no-decoration" href="{{ .post.Permalink }}">
+        <img src="{{ $resized.Permalink }}"/>
+    </a>
+  {{end}}
+  <header class="post-header">
+    {{ range first 1 .post.Params.categories }}
+    <span class="category">{{ . }}</span>
+    {{ end }}
+    <h3>
+        {{ .post.Params.emoji }}
+        <a class="title bold no-decoration" href="{{ .post.Permalink }}">{{ .post.Title }}</a><br/>
+    </h3>
+  </header>
+</div>
