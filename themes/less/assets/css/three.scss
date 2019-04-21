@@ -12,9 +12,10 @@
   padding-bottom: 40px;
   grid: auto-flow dense / repeat(4, 1fr);
   grid-column: 4;
-  @media only screen and (max-width: 667px) {
+  @media only screen and (max-width: 812px) {
     grid: auto-flow dense / repeat(2, 1fr);
     grid-column: 2;
+    padding: 1rem;
   }
   margin: 0 auto;
   .tile {
