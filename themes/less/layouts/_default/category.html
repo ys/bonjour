@@ -5,17 +5,17 @@
   <div class="list">
     <div class="grid two">
     {{ range first 2 (.Paginator 50).Pages }}
-      {{ partial "post.html" (dict "post" . "size" "500x401")}}
+      {{ partial "post.html" (dict "post" . "horizontal" "true")}}
     {{ end }}
     </div>
     <div class="grid three">
     {{ range first 3 (after 2 (.Paginator 50).Pages) }}
-      {{ partial "post.html" (dict "post" . "size" "400x500")}}
+      {{ partial "post.html" (dict "post" .)}}
     {{ end }}
     </div>
     <div class="grid four">
     {{ range after 5 (.Paginator 50).Pages }}
-      {{ partial "post.html" (dict "post" . "size" "400x501")}}
+      {{ partial "post.html" (dict "post" .)}}
     {{ end }}
     </div>
   </div>

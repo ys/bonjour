@@ -1,5 +1,5 @@
-<div class="three-wrapper">
-  <div class="three">
+<div class="related-wrapper">
+  <div class="related">
   {{ range first 4 . }}
   <div class="tile">
     {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
