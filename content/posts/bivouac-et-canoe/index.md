@@ -1,8 +1,9 @@
 ---
 title: "bivouac & canoë"
+subtitle: "Un week-end au bord de la Loire"
 date: 2019-04-22T17:37:39+02:00
 draft: false
-tags: []
+tags: ["bivouac", "canoe", "photo", "workshop", "loire", "rencontres", "tipi", "micro-aventure", "aventure", "vanlife", "slowlife"]
 categories:
 - vadrouilles
 slug: "bivouac-et-canoe"
@@ -12,8 +13,6 @@ resources:
 - src:  "cover.jpg"
   name: "cover"
 ---
-
-## Un week-end au bord de la Loire
 
 Vendredi, 9h30, J'attend [Grégory](https://gregorymignard.com) sur le parking de la biocoop. Aujourd'hui, je suis leur auto-stoppeur. On part vers la Loire pour passer un week-end en canoë. Leur California se gare, passé les salutations, on se met en route. Quelques heures de route, le temps de papoter sur des sujets variés. Un petit crochet pour déposer sa petite famille chez ses parents, on récupère [Jérémy](https://www.djisupertramp.com) à la gare. On part chasser la pizza et un lieu pour poser le van pour la nuit. On trouvera un super spot près d'un étang, mais on ratera de peu une belle lumière. 
 
