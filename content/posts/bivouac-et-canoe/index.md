@@ -23,7 +23,7 @@ Vendredi, 9h30, J'attend [Grégory](https://gregorymignard.com) sur le parking d
 
 {{< photo src="16.jpg" alt="l'etang pour une nuit" >}}
 {{< photoset max="2" >}}
-  {{< photo src="18.jpg" alt="Yvon le van" >}}
+  {{< photo src="23.jpg" alt="Yvon le van" >}}
   {{< photo src="21.jpg" alt="Jeremy la vanne" >}}
 {{</ photoset >}}
 
@@ -33,22 +33,15 @@ Cette première nuit est placée clairement sous le signe de la simplicité. Bon
 
 Peu avant le lever du soleil, on est déjà levé. Une première heure dorée de capturée et en route pour le camp de base de [destination H2o](https://www.destinationh2o.fr). Une chouette petite plage, un lac et des tipis qui se montent. Son camp est monté, démonté pour chaque week-end et varie en fonction de la demande, des grands ou petits tipis. Ici, ce week-end, il y aura un enterrement de vie de jeune homme. Nous on attend les autres personnes pour le workshop photo organisé par [Captain Yvon](https://captainyvon.fr), Grégory et Jérémy. Un groupe équilibré et varié, moitié hommes, moitié femmes, de tous niveaux. 
 
-{{< photoset max="2" >}}
-  {{< photo src="14.jpg" alt="les pagaies" >}}
-  {{< photo src="9.jpg" alt="Aurelie qui pagaie" >}}
-{{</ photoset >}}
+{{< photo src="9.jpg" class="vertical" alt="Aurelie qui pagaie" >}}
 
-{{< photoset max="2" >}}
+{{< photoset max="3" >}}
+  {{< photo src="14.jpg" alt="les pagaies" >}}
   {{< photo src="10.jpg" alt="Gregory" >}}
   {{< photo src="13.jpg" alt="Jeremy" >}}
 {{</ photoset >}}
 
 On charge les sacs, emballés dans des drybags, dans les kayaks. On les attache à la remorque et on démarre. Petites explications de [Joris](https://instagram.com/jorisadventures) notre guide en arrivant. Et on met les canoës à l'eau. Je suis à l'arrière et je dois diriger notre embarcation. Pas facile au début. On se prend pas mal de berges et pourtant c'est assez large. [Aurélie](https://www.instagram.com/aurel_baroude/) ne m'en tiendra pas rigueur. On rira bien d'ailleurs dans nos galères. Au final, on commence à mieux gérer.
-
-{{< photoset max="2" >}}
-  {{< photo src="20.jpg" alt="canoe sur la Loire" >}}
-  {{< photo src="19.jpg" alt="Jeremy sur la Loire" >}}
-{{</ photoset >}}
 
 {{< photoset max="3" >}}
   {{< photo src="8.jpg" alt="couper du bois pour le feu" >}}
