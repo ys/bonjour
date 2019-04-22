@@ -1,0 +1,29 @@
+{{ $postScratch := newScratch }}
+<div class="post-tile">
+  {{ $image := .post.Resources.GetMatch "cover" | default (index (.post.Resources.ByType "image") 0) }}
+  {{ if isset . "horizontal" }}
+    {{ $postScratch.Set "coverSize" "500x400 center" }}
+  {{ else }}
+    {{ $postScratch.Set "coverSize" "400x500 center" }}
+  {{ end }}
+  {{ $web := $image.Fill ($postScratch.Get "coverSize") }}
+  {{ $mobile := $image.Fill "400x500 center" }}
+  {{if $image }}
+    <a class="no-decoration" href="{{ .post.Permalink }}">
+      <picture>
+        <source type="image/jpg" media="(min-width: 821px)" srcset="{{ $web.Permalink }}">
+        <source type="image/jpg" media="(max-width: 821px)" srcset="{{ $mobile.Permalink }}">
+        <img src="{{ $web.Permalink }}" style="width: 100%;">
+      </picture>
+    </a>
+  {{end}}
+  <header class="post-header">
+    {{ range first 1 .post.Params.categories }}
+    <span class="category">{{ . }}</span>
+    {{ end }}
+    <h3>
+        {{ .post.Params.emoji }}
+        <a class="title bold no-decoration" href="{{ .post.Permalink }}">{{ .post.Title }}</a><br/>
+    </h3>
+  </header>
+</div>
