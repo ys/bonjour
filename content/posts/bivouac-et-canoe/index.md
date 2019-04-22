@@ -51,10 +51,9 @@ On charge les sacs, emballés dans des drybags, dans les kayaks. On les attache 
 
 La Loire est vraiment un fleuve magnifique. Il reste assez sauvage et on ne verra que peu de maisons sur les passages que nous ferons. De plusieurs dizaines de mètres de largeur, on passe à beaucoup moins sur certains passages. C'est surtout dans ces passages courts que je fonce dans les berges. j'appréhendais la profondeur mais une fois dedans, je me rend compte que en général, on voit le fond. Et si on ne le voit pas, je suis quand même à l'aise. Vaincre ses peurs est vraiment jubilatoire.
 
-{{< photoset max="3" >}}
+{{< photoset max="2" >}}
   {{< photo src="20.jpg" alt="heure doree" >}}
   {{< photo src="19.jpg" alt="heure doree" >}}
-  {{< photo src="4.jpg" alt="heure doree" >}}
 {{</ photoset >}}
 
 On arrive au lieu de bivouac. On a transporté dans les canoës toute la nourriture, les couchages et le tipi. On peut transporter jusque 400kg par embarcation. Le tipi se monte facilement, le feu se prépare. On papote, le workshop continue avec de chouettes discussions. Ca ne sent pas le cours donné mais vraiment un moment partagé. Ce concept de workshop mélangé à une micro aventure est vraiment un format qui me plait. On capture dans nos boîtiers quelques rayons de soleil au moment de l'heure dorée, Joris nous sert de modèle. L'heure bleue s'en suit et pendant ce temps, notre guide nous prépare un bon petit repas cuit au feu. Ca me conforte aussi dans mon envie d'avoir un brasero dans notre jardin. On continuera à échanger et photographier la nuit. 
