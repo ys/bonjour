@@ -1,17 +1,21 @@
-.three-wrapper {
+.related-wrapper {
   width: 100%;
-  background-color: $white-text;
+  background-color: $white-background;
 }
-.three {
+.related {
   max-width: 74rem;
   display: grid;
   grid-gap: 1.5rem;
-  margin-top: 60px;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  padding-top: 40px;
+  padding-bottom: 40px;
   grid: auto-flow dense / repeat(4, 1fr);
   grid-column: 4;
-  @media only screen and (max-width: 667px) {
+  @media only screen and (max-width: 812px) {
     grid: auto-flow dense / repeat(2, 1fr);
     grid-column: 2;
+    padding: 1rem;
   }
   margin: 0 auto;
   .tile {
