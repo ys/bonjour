@@ -36,8 +36,8 @@ Peu avant le lever du soleil, on est déjà levé. Une première heure dorée de
 {{< photo src="9.jpg" class="vertical" alt="Aurelie qui pagaie" >}}
 
 {{< photoset max="3" >}}
-  {{< photo src="14.jpg" alt="les pagaies" >}}
   {{< photo src="10.jpg" alt="Gregory" >}}
+  {{< photo src="14.jpg" alt="les pagaies" >}}
   {{< photo src="13.jpg" alt="Jeremy" >}}
 {{</ photoset >}}
 
@@ -51,7 +51,7 @@ On charge les sacs, emballés dans des drybags, dans les kayaks. On les attache 
 
 La Loire est vraiment un fleuve magnifique. Il reste assez sauvage et on ne verra que peu de maisons sur les passages que nous ferons. De plusieurs dizaines de mètres de largeur, on passe à beaucoup moins sur certains passages. C'est surtout dans ces passages courts que je fonce dans les berges. j'appréhendais la profondeur mais une fois dedans, je me rend compte que en général, on voit le fond. Et si on ne le voit pas, je suis quand même à l'aise. Vaincre ses peurs est vraiment jubilatoire.
 
-{{< photoset max="2" >}}
+{{< photoset max="3" >}}
   {{< photo src="20.jpg" alt="heure doree" >}}
   {{< photo src="19.jpg" alt="heure doree" >}}
   {{< photo src="4.jpg" alt="heure doree" >}}
