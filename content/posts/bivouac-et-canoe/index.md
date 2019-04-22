@@ -3,9 +3,13 @@ title: "bivouac & canoë"
 subtitle: "Un week-end au bord de la Loire"
 date: 2019-04-22T17:37:39+02:00
 draft: false
+description: "Une micro-aventure canoë bivouac sur les bords de Loire en mode workshop photo avec Captain Yvon et Destination H2o"
 tags: ["bivouac", "canoe", "photo", "workshop", "loire", "rencontres", "tipi", "micro-aventure", "aventure", "vanlife", "slowlife"]
 categories:
 - vadrouilles
+- france
+- loire
+- micro-aventure
 slug: "bivouac-et-canoe"
 emoji: "🛶"
 resources:
