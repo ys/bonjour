@@ -183,10 +183,26 @@ img {
       max-width: 37rem;
     }
 
-    p, blockquote {
+    p, blockquote, .micropost {
       max-width: 45rem !important;
       margin-top: 25px;
       margin-bottom: 25px;
+    }
+    .microposts {
+      margin-top: 100px;
+    }
+    .micropost {
+      .date {
+        font-size: 1.2rem;
+        padding-bottom: 0;
+        font-weight: 600;
+      }
+      margin: 30px auto;
+      font-style: italic;
+      p { margin: 10px 0 20px 0;}
+      a {
+        font-style: normal;
+      }
     }
   }
 }

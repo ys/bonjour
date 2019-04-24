@@ -1,15 +1,15 @@
 {{ define "main" }}
 <div class="main">
 </div>
-<div class="main">
-  <div class="list journal">
-    {{ range (.Paginator 50).Pages }}
-      <div class="micropost">
-        <span class="date">{{ dateFormat "January 02, 2006" .Date }}</span>
-        {{ .Content }}
-      </div>
-    {{ end }}
+  <div class="main">
+    <div class="list microposts">
+      {{ range (.Paginator 50).Pages }}
+        <div class="micropost">
+          <span class="date">{{ dateFormat "January 02, 2006" .Date }}</span>
+          {{ .Content }}
+        </div>
+      {{ end }}
+    </div>
+    {{ template "_internal/pagination.html" . }}
   </div>
-  {{ template "_internal/pagination.html" . }}
-</div>
 {{ end }}
