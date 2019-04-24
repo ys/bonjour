@@ -19,6 +19,7 @@ canonifyURLs = true
 
 [permalinks]
   posts = "/:slug"
+  categories = "/:slug"
 
 [imaging]
   resampleFilter = "lanczos"
@@ -27,9 +28,8 @@ canonifyURLs = true
   mapbox = "pk.eyJ1IjoieWFubmljay1pbyIsImEiOiJjamY1NmR3NjMwNHkwMnBscDc2Nzl6b2ZwIn0.NbV8ywwFWfOH4T8DAN_tKw"
   sizes = [ "2048" , "1024" , "512" ]
   tags = ["exode rurale", "bretagne", "slow travel", "voyage", "slow life", "neorural", "photography", "photographies"]
-  hasLogo = true
-  titleFont = "Raleway"
-  bodyFont = "PT Serif"
+  titleFont = "Source Sans Pro"
+  bodyFont = "EB Garamond"
 
 #   heroHeader = true
 
@@ -48,11 +48,17 @@ canonifyURLs = true
   twitter = "yann_ck"
 
 [[menu.main]]
+  name = "Vadrouilles"
+  title = "Vadrouilles"
+  weight = 1
+  identifier = "vadrouilles"
+  url = "/vadrouilles/"
+[[menu.main]]
   name = "Journal de Bord"
   title = "Journal de Bord"
-  weight = 1
-  identifier = "posts"
-  url = "/"
+  weight = 2
+  identifier = "journal"
+  url = "/journal/"
 [[menu.main]]
   name = "A propos"
   title = "About me"

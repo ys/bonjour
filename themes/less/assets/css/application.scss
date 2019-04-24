@@ -1,5 +1,8 @@
+$serif: "{{ .Site.Params.bodyFont }}", serif;
+$sans-serif: "{{ .Site.Params.titleFont }}", -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 $onyx: #313638;
-$white-text: #F8F8F8;
+$white-text: #FAFAFA;
+$white-background: #F3F3F3;
 
 @import url('https://fonts.googleapis.com/css?family={{ replace .Site.Params.titleFont " " "+" }}');
 @import url('https://fonts.googleapis.com/css?family={{ replace .Site.Params.bodyFont " " "+" }}');
@@ -29,7 +32,7 @@ body {
   font-weight: 300;
   margin: 0;
   padding: 0;
-  font-family:  "{{ .Site.Params.bodyFont }}", serif;
+  font-family:  $serif;
   text-rendering: optimizeLegibility;
   line-height: 1.52;
 }
@@ -51,30 +54,41 @@ a {
 }
 
 h1.large {
-  font-size: 5.0rem;
-}
-h1 {
   font-size: 3.7rem;
 }
-h2, h1.medium {
+h1 {
   font-size: 2.8rem;
 }
-h3 {
+h2, h1.medium {
   font-size: 2.1rem;
+  font-weight: 600;
+}
+h3 {
+  font-size: 1.6rem;
+  text-transform: uppercase;
 }
 h4 {
   font-size: 1.6rem;
+  font-weight: 400;
+}
+h5 {
+  font-size: 1.6rem;
+}
+.post h2 {
+  font-size: 1.6rem;
+  text-transform: uppercase;
+  margin: 20px 0;
 }
 
-h1, h2, h3, h4 {
+h1, h2, h3, h4, h5 {
   margin: 0;
   text-align: center;
-  font-weight: 300;
-  font-family:  "{{ .Site.Params.titleFont }}", -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-weight: 400;
+  font-family: $sans-serif;
 }
 
-.date, .main_menu, footer {
-  font-family:  "{{ .Site.Params.titleFont }}", -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+.date, .main_menu, footer, .title{
+  font-family:  $sans-serif;
 }
 
 header {
@@ -176,4 +190,3 @@ img {
     }
   }
 }
-
