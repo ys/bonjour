@@ -1,3 +1,3 @@
 ---
-url: "/daily"
+url: "/inspiration"
 ---

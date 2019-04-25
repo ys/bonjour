@@ -60,11 +60,11 @@ canonifyURLs = true
   identifier = "journal"
   url = "/journal/"
 [[menu.main]]
-  name = "Daily"
-  title = "Daily"
+  name = "Inspiration"
+  title = "Inspiration"
   weight = 3
-  identifier = "daily"
-  url = "/daily/"
+  identifier = "inspiration"
+  url = "/inspiration/"
 [[menu.main]]
   name = "A propos"
   title = "About me"
