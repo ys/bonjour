@@ -5,7 +5,7 @@ $white-text: #FAFAFA;
 $white-background: #F3F3F3;
 
 @import url('https://fonts.googleapis.com/css?family={{ replace .Site.Params.titleFont " " "+" }}');
-@import url('https://fonts.googleapis.com/css?family={{ replace .Site.Params.bodyFont " " "+" }}');
+@import url('https://fonts.googleapis.com/css?family={{ replace .Site.Params.bodyFont " " "+" }}:400,400i,600');
 @import "helpers";
 @import "form";
 @import "main_header";
@@ -183,10 +183,26 @@ img {
       max-width: 37rem;
     }
 
-    p, blockquote {
+    p, blockquote, .micropost {
       max-width: 45rem !important;
       margin-top: 25px;
       margin-bottom: 25px;
+    }
+    .microposts {
+      margin-top: 100px;
+    }
+    .micropost {
+      .date {
+        font-size: 1.2rem;
+        padding-bottom: 0;
+      }
+      margin: 30px auto;
+      font-style: italic;
+      p { margin: 10px 0 20px 0;}
+      a {
+        font-style: normal;
+        font-weight: 800;
+      }
     }
   }
 }
