@@ -1,19 +1,25 @@
 {{ block "header" . }}
   {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
   {{ if .Site.Params.heroHeader }}
-    <span class="site-title">{{ .Site.Title }}</span>
+    <span class="quattro site-title">{{ .Site.Title }}</span>
     <header {{ with $image }}style="background: linear-gradient( rgba(20, 20, 20, 0.60), rgba(20, 20, 20, 0.60)), url('{{ .Permalink }}') no-repeat 50% / cover"{{ end }} class="hero_header">
       {{ partial "main_menu" . }}
       <h1><a href="/">{{ .Params.emoji}} {{ .Title }}</a></h1>
-      {{ if eq .Type "notes"  }}
+      {{ if eq .Type "posts"  }}
         <h3>{{ .Params.subtitle }}</h3>
         <span class="date t12">{{ dateFormat "Jan 02, 2006" .Date }}</span>
       {{ end }}
     </header>
   {{ else }}
     <header class="main_header">
-      <span class="title serif">
-        <a href="/">{{ .Site.Title }}</a>
+      <span class="title">
+        <a href="/">
+          {{ if .Site.Params.hasLogo }}
+            <img src="/logo.svg" />
+          {{ else }}
+            {{ .Site.Title }}
+          {{ end }}
+        </a>
       </span>
 
       <input id="burger" type="checkbox" />
@@ -26,13 +32,13 @@
       {{ partial "main_menu" . }}
       {{ partial "social_icons" . }}
     </header>
-    {{ if eq .Type "notes"  }}
-      <div class="note-img" style="background: url('{{ $image.Permalink }}') no-repeat 50% / cover"></div>
-      <div class="note-title">
-        <h1><a href="/">{{ .Params.emoji}} {{ .Title }}</a></h1>
-        <h3>{{ .Params.subtitle }}</h3>
-        <span class="date t12">{{ dateFormat "Jan 02, 2006" .Date }}</span>
-      </div>
+    {{ if eq .Type "posts"  }}
+    <div class="post-img" style="background: url('{{ $image.Permalink }}') no-repeat 50% / cover"></div>
+    <div class="post-title">
+      <h1 class="medium">{{ .Params.emoji}} {{ .Title }}</h1>
+      <h3>{{ .Params.subtitle }}</h3>
+      <span class="date t12">{{ dateFormat "January 02, 2006" .Date }}</span>
+    </div>
     {{ end }}
   {{ end }}
 {{ end }}

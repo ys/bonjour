@@ -1,30 +1,23 @@
 {{ define "main" }}
 <div class="main">
-  <header>
-    <h1>{{ .Data.Params.title }}</h1>
-  </header>
-  <div class="list journal">
-    {{ range (.Paginator 50).Pages }}
-    <div class="note-tile">
-      {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
-      {{if $image }}
-      {{ $resized := $image.Fill "500x300" }}
-         <a class="no-decoration" href="{{ .Permalink }}">
-           <img src="{{ $resized.Permalink }}"/>
-        </a>
-      {{end}}
-    </div>
-    <header>
-      <h4>
-          {{ .Params.emoji }}
-          <a class="title bold no-decoration" href="{{ .Permalink }}">{{ .Title }}</a><br/>
-      </h4>
-      <span class="small date">{{ .Date.Format "2006-01-02" }}</span>
-      <p>
-      {{ .Summary | replaceRE "(?ms)(<figure.*</figure>)" "" | safeHTML | truncate 200 }}
-      </p>
-    </header>
+</div>
+<div class="main">
+  <div class="list">
+    <div class="grid two">
+    {{ range first 2 (.Paginator 50).Pages }}
+      {{ partial "post.html" (dict "post" . "horizontal" "true")}}
     {{ end }}
+    </div>
+    <div class="grid three">
+    {{ range first 3 (after 2 (.Paginator 50).Pages) }}
+      {{ partial "post.html" (dict "post" .)}}
+    {{ end }}
+    </div>
+    <div class="grid four">
+    {{ range after 5 (.Paginator 50).Pages }}
+      {{ partial "post.html" (dict "post" .)}}
+    {{ end }}
+    </div>
   </div>
   {{ template "_internal/pagination.html" . }}
 </div>

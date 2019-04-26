@@ -1,10 +1,10 @@
 {{ define "main" }}
-<div class="main note">
+<div class="main post">
   {{ partial "gallery.html" . }}
   {{.Content}}
   {{if .Params.gear }}
     <p class="center t12"><i>Gear: </i>{{ delimit .Params.gear " ● " }}</p>
   {{ end }}
 </div>
-{{ partial "three.html" (.Site.RegularPages.Related . | first 3) }}
+{{ partial "three.html" (.Site.RegularPages.Related . ) }}
 {{ end }}

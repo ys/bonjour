@@ -1,7 +1,7 @@
 <div class="main">
   <div class="list journal">
-    {{ range (.Paginate (where .Pages "Type" "notes") 50).Pages }}
-    <div class="note-tile">
+    {{ range first 4 (where .Pages "Type" "posts") }}
+    <div class="post-tile">
       {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
       {{if $image }}
         {{ $resized := $image.Fill "450x300" }}
@@ -14,14 +14,13 @@
         </a>
       {{end}}
     </div>
-    <div class="note-header">
+    <div class="post-header">
       <header>
-        <h3>
+        <h4>
             {{ .Params.emoji }}
             <a class="title bold no-decoration" href="{{ .Permalink }}">{{ .Title }}</a><br/>
-        </h3>
-        <h4>{{ .Params.subtitle }}</h4>
-        <span class="date">{{ .Date.Format "2006-01-02" }}</span>
+        </h4>
+        <h5>{{ .Params.subtitle }}</h5>
         <p>
           {{ with .Description }}{{ . }} {{else}}{{ .Summary | replaceRE "(?ms)(<(figure|blockquote).*</(figure|blockquote)>)" "" | safeHTML | truncate 200 }}{{ end }}
         </p>
@@ -29,5 +28,4 @@
     </div>
     {{ end }}
   </div>
-  {{ template "_internal/pagination.html" . }}
 </div>

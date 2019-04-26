@@ -8,7 +8,7 @@
   align-items: center;
   justify-content: space-between;
   @media only screen and (max-width: 812px) {
-    padding: 10px;
+    padding: 10px 0;
     flex-direction: column;
     justify-content: center;
   }
@@ -23,7 +23,7 @@
     }
   }
   background-color: $white-text;
-  border-bottom: 1px solid #E8E8E8;
+  border-bottom: 1px solid #F1F1F1;
   padding: 20px 0px;
   width: 100%;
   margin-left: auto;
@@ -52,8 +52,12 @@
     font-size: 1.6rem;
     display: flex;
     justify-content: flex-start;
+    a img { width: inherit; height: 20px}
     @media only screen and (min-width: 812px) {
       top: 12px;
+    }
+    @media only screen and (max-width: 812px) {
+      margin-left: 0;
     }
   }
 
@@ -81,15 +85,15 @@
     }
   }
 }
-.note-img {
+.post-img {
   width: 100%;
   margin: 0 auto;
   height: 38rem;
 }
-.note-title {
+.post-title {
   max-width: 58rem;
   text-align: center;
-  margin: 0 auto;
+  margin: 20px auto;
   h1 a {
     border: 0;
     background-image: none;

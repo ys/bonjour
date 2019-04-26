@@ -1,6 +1,7 @@
 {{ define "main" }}
   <div class="main description">
+    <h1>{{ .Site.Title }}</h1>
     {{ .Content }}
   </div>
-  {{ partial "notes" .}}
+  {{ partial "posts" .}}
 {{ end }}
