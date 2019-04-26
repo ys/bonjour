@@ -4,12 +4,12 @@
   <div class="tile">
     {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
     {{if $image }}
-      {{ $resized := $image.Fill "400x500" }}
-      {{ $mini := $image.Fill "40x50" }}
+      {{ $resized := $image.Fill "400x500 center" }}
+      {{ $mini := $image.Fill "40x50 center" }}
       <a class="no-decoration" href="{{ .Permalink }}">
         <img class="lazyload"
-              src="{{ $mini.RelPermalink }}"
-              data-src="{{ $resized.RelPermalink }}"
+              src="{{ $mini.Permalink }}"
+              data-src="{{ $resized.Permalink }}"
               alt="{{ .Title }}" />
       </a>
     {{end}}

@@ -122,7 +122,8 @@ blockquote {
 b {
   font-weight: 400;
 }
-p.en p {
+p.en {
+  text-align: center;
   font-style: italic !important;
   color: #666;
 }
@@ -188,21 +189,21 @@ img {
       margin-top: 25px;
       margin-bottom: 25px;
     }
-    .microposts {
-      margin-top: 100px;
+  }
+  .microposts {
+    margin-top: 100px;
+  }
+  .micropost {
+    .date {
+      font-size: 1.2rem;
+      padding-bottom: 0;
     }
-    .micropost {
-      .date {
-        font-size: 1.2rem;
-        padding-bottom: 0;
-      }
-      margin: 30px auto;
-      font-style: italic;
-      p { margin: 10px 0 20px 0;}
-      a {
-        font-style: normal;
-        font-weight: 800;
-      }
+    margin: 30px auto;
+    font-style: italic;
+    p { margin: 10px 0 20px 0;}
+    a {
+      font-style: normal;
+      font-weight: 800;
     }
   }
 }
