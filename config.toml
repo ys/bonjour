@@ -1,6 +1,5 @@
 languageCode = "fr"
 DefaultContentLanguage = "fr"
-defaultContentLanguageInSubdir = true
 title = "Vadrouilles & Co."
 theme = "less"
 googleAnalytics = "UA-114349967-1"
@@ -72,23 +71,11 @@ canonifyURLs = true
   weight = 4
   identifier = "about"
   url = "/about"
-[[languages.en.menu.main]]
-  name = "Notebook"
-  title = "Journal de Bord"
-  weight = 1
-  identifier = "notes"
-  url = "/en"
-[[languages.en.menu.main]]
-  name = "About"
-  title = "About me"
-  weight = 3
-  identifier = "about"
-  url = "/en/about"
 
 [languages]
   [languages.en]
-    weight = 1
-    baseURL = "https://en.vadrouilles.co/"
-  [languages.fr]
     weight = 2
-    baseURL = "https://vadrouilles.co/"
+    languageName = "English"
+  [languages.fr]
+    weight = 1
+    languageName = "Français"
