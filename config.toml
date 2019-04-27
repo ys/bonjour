@@ -1,5 +1,5 @@
-baseURL = "https://vadrouilles.co/"
 languageCode = "fr"
+DefaultContentLanguage = "fr"
 title = "Vadrouilles & Co."
 theme = "less"
 googleAnalytics = "UA-114349967-1"
@@ -71,3 +71,11 @@ canonifyURLs = true
   weight = 4
   identifier = "about"
   url = "/about"
+
+[languages]
+  [languages.en]
+    weight = 2
+    languageName = "English"
+  [languages.fr]
+    weight = 1
+    languageName = "Français"
