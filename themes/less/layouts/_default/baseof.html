@@ -12,7 +12,7 @@
     {{ partial "gtag.html" . }}
     <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>
     {{ $.Scratch.Set "jslibs" slice }}
-    {{ $libs := slice "js/lazysizes.min.js" "js/medium-zoom.min.js" "js/iolazy.min.js" }}
+    {{ $libs := slice "js/lazysizes.min.js" "js/medium-zoom.min.js" "js/iolazy.min.js" "js/main.js" }}
     {{ range $libs }}
       {{ $.Scratch.Add "jslibs" (resources.Get . ) }}
     {{ end }}
@@ -23,13 +23,5 @@
       {{ $js := $js | minify | fingerprint }}
       <script src="{{ $js.Permalink }}" integrity="{{ $js.Data.Integrity }}"></script>
     {{ end }}
-    <script>
-      document.addEventListener("DOMContentLoaded", function () {
-        new IOlazy();
-        mediumZoom(document.querySelectorAll('[data-action="zoom"]'), {margin: 20});
-        {{ block "js" . }}
-        {{ end }}
-      })
-    </script>
   </body>
 </html>
