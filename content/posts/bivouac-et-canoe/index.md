@@ -46,7 +46,7 @@ On charge les sacs, emballés dans des drybags, dans les kayaks. On les attache 
 {{< photoset max="3" >}}
   {{< photo src="8.jpg" alt="couper du bois pour le feu" >}}
   {{< photo src="12.jpg" alt="Bois coupe" >}}
-  {{< photo src="5.jpg" alt="le feu" >}}
+  {{< photo src="4.jpg" alt="le feu" >}}
 {{</ photoset >}}
 
 La Loire est vraiment un fleuve magnifique. Il reste assez sauvage et on ne verra que peu de maisons sur les passages que nous ferons. De plusieurs dizaines de mètres de largeur, on passe à beaucoup moins sur certains passages. C'est surtout dans ces passages courts que je fonce dans les berges. j'appréhendais la profondeur mais une fois dedans, je me rend compte que en général, on voit le fond. Et si on ne le voit pas, je suis quand même à l'aise. Vaincre ses peurs est vraiment jubilatoire.
