@@ -41,7 +41,7 @@ Peu avant le lever du soleil, on est déjà levé. Une première heure dorée de
   {{< photo src="13.jpg" alt="Jeremy" >}}
 {{</ photoset >}}
 
-On charge les sacs, emballés dans des drybags, dans les kayaks. On les attache à la remorque et on démarre. Petites explications de [Joris](https://instagram.com/jorisadventures) notre guide en arrivant. Et on met les canoës à l'eau. Je suis à l'arrière et je dois diriger notre embarcation. Pas facile au début. On se prend pas mal de berges et pourtant c'est assez large. [Aurélie](https://www.instagram.com/aurel_baroude/) ne m'en tiendra pas rigueur. On rira bien d'ailleurs dans nos galères. Au final, on commence à mieux gérer.
+On charge les sacs, emballés dans des drybags, dans les canoës. On les attache à la remorque et on démarre. Petites explications de [Joris](https://instagram.com/jorisadventures) notre guide en arrivant. Et on met les canoës à l'eau. Je suis à l'arrière et je dois diriger notre embarcation. Pas facile au début. On se prend pas mal de berges et pourtant c'est assez large. [Aurélie](https://www.instagram.com/aurel_baroude/) ne m'en tiendra pas rigueur. On rira bien d'ailleurs dans nos galères. Au final, on commence à mieux gérer.
 
 {{< photoset max="3" >}}
   {{< photo src="8.jpg" alt="couper du bois pour le feu" >}}
