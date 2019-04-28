@@ -21,7 +21,7 @@ canonifyURLs = true
 [permalinks]
   posts = "/:slug"
   categories = "/:slug"
-  microposts = "/inspiration/:slug"
+  microposts = "/inspiration/:year-:month-:day"
 
 [imaging]
   resampleFilter = "lanczos"
