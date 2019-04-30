@@ -193,6 +193,11 @@ img {
   .microposts {
     margin-top: 100px;
   }
+  .micropost:first-child {
+    .date {
+      border-top: 0 !important;
+    }
+  }
   .micropost {
     .date {
       font-style: normal;
