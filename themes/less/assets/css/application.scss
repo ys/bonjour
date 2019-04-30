@@ -114,7 +114,7 @@ footer {
 
 blockquote {
   font-style: italic;
-  border-left: 3px solid $onyx;
+  border-left: 3px solid rgba(0,0,0,0.3);
   padding-left: 20px;
   margin-left: -23px;
 }
@@ -218,7 +218,7 @@ img {
     p { margin: 10px 0 20px 0;}
     a {
       font-style: normal;
-      font-weight: 800;
+      font-weight: 600;
     }
   }
 }
