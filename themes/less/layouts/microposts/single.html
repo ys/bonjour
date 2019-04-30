@@ -1,0 +1,12 @@
+{{ define "main" }}
+<div class="main">
+</div>
+  <div class="main">
+    <div class="list microposts">
+      <div class="micropost">
+        <span class="date">{{ dateFormat "January 02, 2006" .Date }}</span>
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+{{ end }}
