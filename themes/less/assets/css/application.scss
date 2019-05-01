@@ -1,5 +1,5 @@
 $serif: "{{ .Site.Params.bodyFont }}", serif;
-$sans-serif: "{{ .Site.Params.titleFont }}", -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+$sans-serif: -apple-system, BlinkMacSystemFont ,"{{ .Site.Params.titleFont }}", system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 $onyx: #313638;
 $white-text: #FAFAFA;
 $white-background: #F3F3F3;
@@ -114,7 +114,7 @@ footer {
 
 blockquote {
   font-style: italic;
-  border-left: 3px solid $onyx;
+  border-left: 3px solid rgba(0,0,0,0.3);
   padding-left: 20px;
   margin-left: -23px;
 }
@@ -218,7 +218,7 @@ img {
     p { margin: 10px 0 20px 0;}
     a {
       font-style: normal;
-      font-weight: 800;
+      font-weight: 600;
     }
   }
 }
