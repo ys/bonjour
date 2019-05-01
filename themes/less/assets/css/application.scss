@@ -1,5 +1,5 @@
 $serif: "{{ .Site.Params.bodyFont }}", serif;
-$sans-serif: "{{ .Site.Params.titleFont }}", -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+$sans-serif: -apple-system, BlinkMacSystemFont ,"{{ .Site.Params.titleFont }}", system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 $onyx: #313638;
 $white-text: #FAFAFA;
 $white-background: #F3F3F3;
@@ -114,7 +114,7 @@ footer {
 
 blockquote {
   font-style: italic;
-  border-left: 3px solid $onyx;
+  border-left: 3px solid rgba(0,0,0,0.3);
   padding-left: 20px;
   margin-left: -23px;
 }
@@ -193,16 +193,32 @@ img {
   .microposts {
     margin-top: 100px;
   }
+  .micropost:first-child {
+    .date {
+      border-top: 0 !important;
+    }
+  }
   .micropost {
     .date {
-      font-size: 1.2rem;
-      padding-bottom: 0;
+      font-style: normal;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      border-top: 1px solid rgba(0,0,0,0.1);
+      display: block;
+      color: rgba(0,0,0,0.3);
+      padding-bottom: 1rem;
+      padding-top: 2rem;
+      @media only screen and (min-width: 1000px) {
+        margin-left: -4rem;
+        margin-right: -4rem;
+      }
     }
     margin: 30px auto;
     p { margin: 10px 0 20px 0;}
     a {
       font-style: normal;
-      font-weight: 800;
+      font-weight: 600;
     }
   }
 }
