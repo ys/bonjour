@@ -2,6 +2,7 @@
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
 <meta name="keywords" content="{{ if isset .Params "tags" }}{{ range .Params.tags }}{{ . }},{{ end }}{{ end }}">
 <link rel="canonical" href="{{ .Permalink }}">
+<meta name="p:domain_verify" content="{{ .Site.Params.pinterestVerify }}"/>
 <script type="application/ld+json">
 {
     "@context" : "http://schema.org",
