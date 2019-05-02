@@ -14,7 +14,7 @@ slug: "bivouac-and-canoe"
 emoji: "🛶"
 resources:
 - src: "*.jpg"
-- src:  "15.jpg"
+- src:  "6.jpg"
   name: "cover"
 ---
 
