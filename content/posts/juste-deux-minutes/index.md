@@ -1,9 +1,9 @@
 ---
 title: "Juste deux minutes"
-subtitle: ""
+subtitle: "Des plages, des habitudes, des sourires"
 date: 2019-05-04T15:38:06+02:00
 draft: false
-tags: []
+tags: ["environement", "plage", "nettoyage", "ecologie", "leave no trace", "volontariat", "petits gestes"]
 categories:
 - journal
 slug: "juste-deux-minutes"
@@ -13,8 +13,6 @@ resources:
 - src:  "cover.jpg"
   name: "cover"
 ---
-
-## Des plages, des habitudes, un sourire
 
 Ce sont les petits gestes qui comptent pour aider l'humain à avancer. Il en faut des gros, c'est sur. Mais il nous faut aussi des petits gestes. Comme disait la compagnie Créole, c'est bon pour le moral. Et vous savez ce qui aide le plus à avancer? Positiver. Les émotions sont contagieuses et je préfère en partager des positives que des négatives lorsqu'on en vient à notre planète.
 
