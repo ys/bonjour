@@ -1,6 +1,6 @@
 ---
 title: "Juste deux minutes"
-subtitle: "Des plages, des habitudes, des sourires"
+subtitle: "Des plages, des habitudes et des sourires"
 date: 2019-05-04T15:38:06+02:00
 draft: false
 tags: ["environement", "plage", "nettoyage", "ecologie", "leave no trace", "volontariat", "petits gestes"]
