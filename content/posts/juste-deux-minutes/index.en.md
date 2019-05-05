@@ -6,6 +6,7 @@ draft: false
 tags: ["environment", "beach", "clean", "ecology", "leave no trace", "volunteering"]
 categories:
 - journal
+description: "Small actions are what's helping folks. Two minutes are enough, let's clean our beaches"
 slug: "just-two-minutes"
 emoji: "🌍"
 resources:
