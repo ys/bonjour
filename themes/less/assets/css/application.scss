@@ -190,9 +190,6 @@ img {
       margin-bottom: 25px;
     }
   }
-  .microposts {
-    margin-top: 100px;
-  }
   .micropost:first-child {
     .date {
       border-top: 0 !important;
@@ -200,6 +197,7 @@ img {
   }
   .micropost {
     .date {
+      text-align: left;
       font-style: normal;
       font-weight: 700;
       text-transform: uppercase;
