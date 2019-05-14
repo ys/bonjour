@@ -4,8 +4,8 @@ $onyx: #313638;
 $white-text: #FAFAFA;
 $white-background: #F3F3F3;
 
-@import url('https://fonts.googleapis.com/css?family={{ replace .Site.Params.titleFont " " "+" }}');
-@import url('https://fonts.googleapis.com/css?family={{ replace .Site.Params.bodyFont " " "+" }}:400,400i,600');
+@import url('https://fonts.googleapis.com/css?display=swap&family={{ replace .Site.Params.titleFont " " "+" }}');
+@import url('https://fonts.googleapis.com/css?display=swap&family={{ replace .Site.Params.bodyFont " " "+" }}:400,400i,600');
 @import "helpers";
 @import "form";
 @import "main_header";
