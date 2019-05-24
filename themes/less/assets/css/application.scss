@@ -28,6 +28,7 @@ hr {
     content: "•••";
     font-size: 2rem;
     text-align: center;
+    color: $onyx;
     width: 100%;
   }
 }
@@ -195,7 +196,7 @@ img {
       max-width: 37rem;
     }
 
-    p, blockquote, .micropost {
+    p, blockquote, ul, ol, .micropost {
       max-width: 45rem !important;
       margin-top: 25px;
       margin-bottom: 25px;
