@@ -21,6 +21,17 @@ html {
   padding: 0;
 }
 
+hr {
+  border: 0;
+  text-align: center;
+  &::after {
+    content: "•••";
+    font-size: 2rem;
+    text-align: center;
+    width: 100%;
+  }
+}
+
 svg {
   fill: $onyx;
 }
