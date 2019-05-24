@@ -2,12 +2,12 @@
 <div class="post-tile">
   {{ $image := .post.Resources.GetMatch "cover" | default (index (.post.Resources.ByType "image") 0) }}
   {{ if isset . "horizontal" }}
-    {{ $postScratch.Set "coverSize" "500x400 center" }}
+    {{ $postScratch.Set "coverSize" "600x400 center" }}
   {{ else }}
-    {{ $postScratch.Set "coverSize" "400x500 center" }}
+    {{ $postScratch.Set "coverSize" "400x600 center" }}
   {{ end }}
   {{ $web := $image.Fill ($postScratch.Get "coverSize") }}
-  {{ $mobile := $image.Fill "400x500 center" }}
+  {{ $mobile := $image.Fill "400x600 center" }}
   {{if $image }}
     <a class="no-decoration" href="{{ .post.Permalink }}">
       <picture>
