@@ -4,8 +4,8 @@
     <div class="post-tile">
       {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
       {{if $image }}
-        {{ $resized := $image.Fill "450x300" }}
-        {{ $mini := $image.Fill "45x30" }}
+        {{ $resized := $image.Fill "600x400" }}
+        {{ $mini := $image.Fill "60x40" }}
         <a class="no-decoration" href="{{ .Permalink }}">
           <img class="lazyload"
                src="{{ $mini.Permalink }}"
