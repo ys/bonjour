@@ -23,7 +23,7 @@ J’ai aussi eu l’occasion de prendre le vélo pour amener et aller rechercher
 
 <hr/>
 
-Le printemps, c’est aussi le renouveau des balades. On a pu aller faire 10km dans les Roc’h. Une balade de 10ans comme on dit à Tom, un kilomètre par an. Il était fier, nous aussi. 
+Le printemps, c’est aussi le renouveau des balades. On a pu aller faire 10km dans les Roc’h. Une balade de 10 ans comme on dit à Tom, un kilomètre par an. Il était fier, nous aussi. 
 
 C’est vrai que l’on se balade toute l’année. Qu’il pleuve ou pas. Mais c’est carrément plus agréable de pouvoir se poser et pique niquer en cours de balade. Ça permet de rallonger le temps passé dans ces magnifiques lieux de Bretagne. Toujours aussi agréable de vivre là où d’autres vont en vacances.
 
@@ -50,11 +50,10 @@ La balade est principalement en bord de route dans sa seconde partie. Ce qui est
   {{< photo src="7.jpg" alt="cloe" >}}
 {{</ photoset >}}
 
-Oggy a attrapé une sorte de conjonctivite durant la balade. Pas très agréable pour lui. Mais, il a juste adoré se rouler dans les hautes herbes pour frotter son œil. Il a du courir trop vite. Quelle flèche cet animal. Encore heureux qu’il écoute de mieux en mieux. Il était détaché la plupart du temps quand on était pas sur la route. Même si il file parfois loin, il revient toujours et nous cherche si il ne nous voit pas.
+Oggy a attrapé une sorte de conjonctivite durant la balade. Pas très agréable pour lui. Mais, il a juste adoré se rouler dans les hautes herbes pour frotter son œil. Il a sans doute dû courir trop vite. Quelle flèche cet animal. Encore heureux qu’il écoute de mieux en mieux. Il était détaché la plupart du temps quand on était pas sur la route. Même si il file parfois loin, il revient toujours et nous cherche si il ne nous voit pas.
 
 Ces 10km étaient vraiment agréables sous ce soleil de printemps. Même si comme à mon habitude, j’ai fini avec des coups de soleil. J’ai hâte de découvrir d’autres endroits pour d’aussi belles boucles. 
 J’ai aussi hâte de revenir sur les roc’h au coucher du soleil et à l’heure bleue.
-
 
 
 {{< photoset max="2" >}}
