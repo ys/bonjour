@@ -94,6 +94,10 @@
   max-width: 58rem;
   text-align: center;
   margin: 20px auto;
+  @media only screen and (max-width: 812px) {
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
   h1 a {
     border: 0;
     background-image: none;
