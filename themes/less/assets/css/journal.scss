@@ -32,9 +32,15 @@
   }
   .post-header {
     text-align: left;
+    h4 {
+      text-transform: uppercase
+    }
     h3 {
       text-align: left;
       font-size: 1.2rem;
+    }
+    h5 {
+      opacity: 0.7;
     }
     .category {
       text-align: left;
