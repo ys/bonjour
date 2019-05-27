@@ -10,10 +10,12 @@ timeout = 200000
 enableRobotsTXT = true
 canonifyURLs = true
 
+[related]
+  includeNewer = true
+
 [[related.indices]]
   name = "categories"
   weight =  1 # We don't really need this, but omitting it would disable the indice.
-  includeNewer = true
 
 [author]
   name = "Yannick Schutz"
