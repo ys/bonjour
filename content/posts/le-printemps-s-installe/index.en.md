@@ -6,6 +6,7 @@ date: 2019-05-25T11:59:34+02:00
 draft: false
 tags: ["monts d'arrée", "wandering", "hike", "spring", "family", "bretagne", "finistère"]
 categories:
+- bretagne
 - vadrouilles
 - france
 - finistere
@@ -17,7 +18,7 @@ resources:
   name: "cover"
 ---
 
-It is already the end of may. Time flies. The garden is alive. The vegetables garden can start again now that the Ice saints are behind us. We cannot wait to eat our own vegetable again. Pierre, our neighbor, offered us a spot in his greenhouse for our tomatoes. Tom starts to climb again in the trees and finds new hidden spots. We started to grill again, I mean we never really stopped. We also have new garden furnitures. What a pleasure to spend so much time outside. 
+It is already the end of may. Time flies. The garden is alive. The vegetables garden can start again now that the Ice saints are behind us. We cannot wait to eat our own vegetable again. Pierre, our neighbor, offered us a spot in his greenhouse for our tomatoes. Tom starts to climb again in the trees and finds new hidden spots. We started to grill again, I mean we never really stopped. We also have new garden furnitures. What a pleasure to spend so much time outside.
 
 I also had a few occasions when I could ride my bike and bring Tom to school. Small country side roads are amazing even if it is never really flat and it kills me for now. I need more practice. Let's check on this later.
 
@@ -36,7 +37,7 @@ It is true that we wander all year long. Rainy or not. But it is way nicer when 
 We arrive at the parking that is almost full. It is already 10AM. Two ladies are getting their horses ready for a ride.
 The first part of the hike starts at the parking next to Roc'h Trevezel. We climb it and go south. We won't go to the top today, it is already too crowded. We have a 360 view that is just fantastic. We can almost see the sea. On one side, small villages and the typical hedgerow from the center of Brittany. On the other side, the lake of Saint-Michel and the Yeun Elez. We still need to discover that last one.
 
-It is almost noon. We enjoy the walk but it is time to eat. We found a big rock that we could climb. Oggy stays and watch, good boy. That rock was the home of a strange bottle under a stone. Looked like some home made alcohol left there just in case. We had a ham sandwich with a view. Perfect moment worth a three Michelin stars. 
+It is almost noon. We enjoy the walk but it is time to eat. We found a big rock that we could climb. Oggy stays and watch, good boy. That rock was the home of a strange bottle under a stone. Looked like some home made alcohol left there just in case. We had a ham sandwich with a view. Perfect moment worth a three Michelin stars.
 
 {{< photo src="2.jpg" alt="on grimpe pour le repas" >}}
 

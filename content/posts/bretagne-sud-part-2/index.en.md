@@ -6,9 +6,9 @@ date: 2019-03-19T22:23:24+01:00
 draft: false
 slug: "south-of-bretagne-part-2"
 categories:
+- bretagne
 - vadrouilles
 - france
-- bretagne
 emoji: "⚓️"
 tags: ["bzh", "Brittany", "crozon", "road trip", "photography", "beach", "hiking", "trip", "Finistère", "tide", "family"]
 description: "Let's go to Crozon. A quick stop at the pointe du Raz. Groceries at the last supermarket before the USA.  lndering around Palue, from the Cap de la Chèvre to Pen'Hir."

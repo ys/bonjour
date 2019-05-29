@@ -7,6 +7,7 @@ slug: "foret-noire"
 emoji: "🇩🇪"
 gear: ["📷 Fuji X100T", "📱 iPhone 6s"]
 categories:
+- foret-noire
 - vadrouilles
 - allemagne
 resources:

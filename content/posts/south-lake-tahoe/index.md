@@ -8,6 +8,7 @@ gear: ["📷 Fuji X100T", "📱 iPhone 6s"]
 tags: ["nevada", "randonnée", "nature", "foret", "montagnes", "voyages", "USA", "lac", "tahoe", "amis"]
 emoji: "🇺🇸"
 categories:
+- californie
 - vadrouilles
 - etats-unis
 resources:

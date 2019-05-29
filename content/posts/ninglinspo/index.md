@@ -7,8 +7,8 @@ tags: ["randonnée", "sentiers", "aywaille", "famille", "sortie", "Belgique", "f
 emoji: "🇧🇪"
 gear: ["📷 Fuji X100T"]
 categories:
-- vadrouilles
 - belgique
+- vadrouilles
 resources:
 - src: "DSCF8536.jpg"
   name: "cover"
