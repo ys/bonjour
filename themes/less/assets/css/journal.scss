@@ -52,7 +52,7 @@
   display: grid;
   grid-gap: 1rem;
   margin-top: 40px;
-  @media only screen and (min-width: 1000px) {
+  @media only screen and (min-width: 812px) {
     grid: auto-flow dense / repeat(2, 50%);
 
     :nth-child(4n-1) {
