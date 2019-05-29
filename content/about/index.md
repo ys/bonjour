@@ -1,9 +1,9 @@
 ---
-title: "About"
+title: "A propos & contact"
+description: "Photographe de petites aventures, micro activiste amoureux de plein air adorant partager."
 date: 2017-10-26T22:57:50+02:00
 draft: false
 type: "about"
-emoji: "👪"
 resources:
 - src: "*.jpg"
 - src: "1.jpg"
