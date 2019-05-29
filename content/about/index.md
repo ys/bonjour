@@ -12,7 +12,7 @@ resources:
 
 <h2 style="padding-top:130px;padding-bottom:50px;">Bienvenue sur Vadrouiles & Co.</h2>
 
-Hello, je suis photographe de petites aventures simples, un micro activiste amoureux de plein air adorant partager. Père d'un aventurier-escaladeur en herbe, je m'efforce de lui transmettre des valeurs et d'essayer de rendre ce monde un rien meilleur.
+Hello, je suis photographe de petites aventures, micro activiste amoureux de plein air adorant partager. Père d'un aventurier-escaladeur en herbe, je m'efforce de lui transmettre des valeurs et d'essayer de rendre ce monde un rien meilleur.
 
 Après avoir vécu en ville pendant une douzaine d'années, nous avons décidé avec Cloé et Tom de nous expatrier dans le Finistère et de vivre plus lentement dans les monts d'Arrée.
 

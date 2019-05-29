@@ -50,7 +50,7 @@
 }
 .list.journal {
   display: grid;
-  grid-gap: 1rem;
+  grid-gap: 2rem;
   margin-top: 40px;
   @media only screen and (min-width: 812px) {
     grid: auto-flow dense / repeat(2, 50%);
@@ -60,7 +60,8 @@
     }
 
     .post-tile, .post-header {
-      margin: 30px;
+      margin-top: 30px;
+      margin-bottom: 30px;
     }
 
     .post-header {
