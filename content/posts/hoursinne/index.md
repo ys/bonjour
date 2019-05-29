@@ -7,6 +7,7 @@ tags: ["balade", "fagnes", "belgique", "ardennes", "famille", "randonnée", "ami
 emoji: "🌲"
 gear: ["📷 Fuji X100T", "📷 Fuji X-T2"]
 categories:
+- belgique
 - vadrouilles
 resources:
 - src: "*.jpg"

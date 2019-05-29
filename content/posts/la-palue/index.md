@@ -11,9 +11,9 @@ emoji: "🌊"
 gear:
 - "📷 Fuji X-T20"
 categories:
+- bretagne
 - vadrouilles
 - france
-- bretagne
 resources:
 - src: "cover.jpg"
   name: "cover"

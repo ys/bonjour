@@ -6,9 +6,9 @@ draft: false
 description: "Une micro-aventure canoë bivouac sur les bords de Loire en mode workshop photo avec Captain Yvon et Destination H2o"
 tags: ["bivouac", "canoe", "photo", "workshop", "loire", "rencontres", "tipi", "micro-aventure", "aventure", "vanlife", "slowlife"]
 categories:
+- loire
 - vadrouilles
 - france
-- loire
 - micro-aventure
 slug: "bivouac-et-canoe"
 emoji: "🛶"
@@ -18,7 +18,7 @@ resources:
   name: "cover"
 ---
 
-Vendredi, 9h30, J'attend [Grégory](https://gregorymignard.com) sur le parking de la biocoop. Aujourd'hui, je suis leur auto-stoppeur. On part vers la Loire pour passer un week-end en canoë. Leur California se gare, passé les salutations, on se met en route. Quelques heures de route, le temps de papoter sur des sujets variés. Un petit crochet pour déposer sa petite famille chez ses parents, on récupère [Jérémy](https://www.djisupertramp.com) à la gare. On part chasser la pizza et un lieu pour poser le van pour la nuit. On trouvera un super spot près d'un étang, mais on ratera de peu une belle lumière. 
+Vendredi, 9h30, J'attend [Grégory](https://gregorymignard.com) sur le parking de la biocoop. Aujourd'hui, je suis leur auto-stoppeur. On part vers la Loire pour passer un week-end en canoë. Leur California se gare, passé les salutations, on se met en route. Quelques heures de route, le temps de papoter sur des sujets variés. Un petit crochet pour déposer sa petite famille chez ses parents, on récupère [Jérémy](https://www.djisupertramp.com) à la gare. On part chasser la pizza et un lieu pour poser le van pour la nuit. On trouvera un super spot près d'un étang, mais on ratera de peu une belle lumière.
 
 
 {{< photo src="16.jpg" alt="l'etang pour une nuit" >}}
@@ -27,11 +27,11 @@ Vendredi, 9h30, J'attend [Grégory](https://gregorymignard.com) sur le parking d
   {{< photo src="21.jpg" alt="Jeremy la vanne" >}}
 {{</ photoset >}}
 
-Cette première nuit est placée clairement sous le signe de la simplicité. Bon petit repas, lieu sympa et discussions super. Une première heure bleue, quelques photos et pas mal de rires. Couché pas trop tard pour ne pas manquer le lever de soleil le lendemain. Chacun dans son sac et on éteint la lumière. 
+Cette première nuit est placée clairement sous le signe de la simplicité. Bon petit repas, lieu sympa et discussions super. Une première heure bleue, quelques photos et pas mal de rires. Couché pas trop tard pour ne pas manquer le lever de soleil le lendemain. Chacun dans son sac et on éteint la lumière.
 
 {{< photo src="17.jpg" alt="cabane sur le lac" >}}
 
-Peu avant le lever du soleil, on est déjà levé. Une première heure dorée de capturée et en route pour le camp de base de [destination H2o](https://www.destinationh2o.fr). Une chouette petite plage, un lac et des tipis qui se montent. Son camp est monté, démonté pour chaque week-end et varie en fonction de la demande, des grands ou petits tipis. Ici, ce week-end, il y aura un enterrement de vie de jeune homme. Nous on attend les autres personnes pour le workshop photo organisé par [Captain Yvon](https://captainyvon.fr), Grégory et Jérémy. Un groupe équilibré et varié, moitié hommes, moitié femmes, de tous niveaux. 
+Peu avant le lever du soleil, on est déjà levé. Une première heure dorée de capturée et en route pour le camp de base de [destination H2o](https://www.destinationh2o.fr). Une chouette petite plage, un lac et des tipis qui se montent. Son camp est monté, démonté pour chaque week-end et varie en fonction de la demande, des grands ou petits tipis. Ici, ce week-end, il y aura un enterrement de vie de jeune homme. Nous on attend les autres personnes pour le workshop photo organisé par [Captain Yvon](https://captainyvon.fr), Grégory et Jérémy. Un groupe équilibré et varié, moitié hommes, moitié femmes, de tous niveaux.
 
 {{< photo src="9.jpg" class="vertical" alt="Aurelie qui pagaie" >}}
 
@@ -56,7 +56,7 @@ La Loire est vraiment un fleuve magnifique. Il reste assez sauvage et on ne verr
   {{< photo src="19.jpg" alt="heure doree" >}}
 {{</ photoset >}}
 
-On arrive au lieu de bivouac. On a transporté dans les canoës toute la nourriture, les couchages et le tipi. On peut transporter jusque 400kg par embarcation. Le tipi se monte facilement, le feu se prépare. On papote, le workshop continue avec de chouettes discussions. Ca ne sent pas le cours donné mais vraiment un moment partagé. Ce concept de workshop mélangé à une micro aventure est vraiment un format qui me plait. On capture dans nos boîtiers quelques rayons de soleil au moment de l'heure dorée, Joris nous sert de modèle. L'heure bleue s'en suit et pendant ce temps, notre guide nous prépare un bon petit repas cuit au feu. Ca me conforte aussi dans mon envie d'avoir un brasero dans notre jardin. On continuera à échanger et photographier la nuit. 
+On arrive au lieu de bivouac. On a transporté dans les canoës toute la nourriture, les couchages et le tipi. On peut transporter jusque 400kg par embarcation. Le tipi se monte facilement, le feu se prépare. On papote, le workshop continue avec de chouettes discussions. Ca ne sent pas le cours donné mais vraiment un moment partagé. Ce concept de workshop mélangé à une micro aventure est vraiment un format qui me plait. On capture dans nos boîtiers quelques rayons de soleil au moment de l'heure dorée, Joris nous sert de modèle. L'heure bleue s'en suit et pendant ce temps, notre guide nous prépare un bon petit repas cuit au feu. Ca me conforte aussi dans mon envie d'avoir un brasero dans notre jardin. On continuera à échanger et photographier la nuit.
 
 {{< photoset max="2" >}}
   {{< photo src="3.jpg" alt="heure bleue et Joris" >}}
