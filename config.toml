@@ -1,7 +1,7 @@
 baseURL = "https://vadrouilles.co/"
 languageCode = "fr"
 DefaultContentLanguage = "fr"
-title = "Vadrouilles & Co."
+title = "Vadrouilles"
 theme = "less"
 googleAnalytics = "UA-114349967-1"
 disqusShortname = "vadrouilles-co"
@@ -31,7 +31,7 @@ canonifyURLs = true
 [params]
   mapbox = "pk.eyJ1IjoieWFubmljay1pbyIsImEiOiJjamY1NmR3NjMwNHkwMnBscDc2Nzl6b2ZwIn0.NbV8ywwFWfOH4T8DAN_tKw"
   sizes = [ "2048" , "1024" , "512" ]
-  tags = ["exode rurale", "bretagne", "slow travel", "voyage", "slow life", "neorural", "photography", "photographies"]
+  tags = ["famille", "exode rurale", "bretagne", "slow travel", "voyage", "slow life", "neorural", "photography", "photographies"]
   titleFont = "Source Sans Pro"
   bodyFont = "EB Garamond"
   pinterestVerify = "fd6b8a37d3208b2c605434cf2ce71ac3"
