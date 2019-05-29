@@ -6,9 +6,9 @@ slug: "road-trip-bretagne-nord"
 subtitle: "Premier week-end en van"
 seotitle: "Road Trip en Bretagne Nord - Week-end en Van"
 categories:
+- bretagne
 - vadrouilles
 - france
-- bretagne
 - vanlife
 tags: ["bretagne", "Brittany", "vanlife", "road trip", "photography", "plage", "hiking", "randonnée", "voyage", "trip", "Finistère", "famille", "slowlife", "kerlouan", "saint-pabu"]
 description: "Un week-end d'anniversaire, une première expérience en van. Des découvertes en Bretagne Nord, des couchers de soleil, des repas entre amis et de la slowlife!"

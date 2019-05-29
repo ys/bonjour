@@ -6,9 +6,9 @@ slug: "penn-al-lann"
 emoji: "🌊"
 tags: ["hiking", "gr34", "trail", "hike", "coast", "carantec", "Morlaix", "finistere", "bretagne", "france", "family"]
 categories:
+- bretagne
 - vadrouilles
 - france
-- bretagne
 description: "A small beach protected from the wind and people, better known as Tahiti beach."
 resources:
 - src: "penn-al-lann-7.jpg"

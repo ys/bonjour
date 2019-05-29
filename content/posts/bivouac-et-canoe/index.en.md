@@ -6,9 +6,9 @@ draft: false
 description: "A microadventure with a canoe and bivouac on the Loire with Captain Yvon and Destination H2o"
 tags: ["bivouac", "canoe", "photo", "workshop", "loire", "meetings", "tipi", "microadventure", "adventure", "vanlife", "slowlife"]
 categories:
+- loire
 - vadrouilles
 - france
-- loire
 - micro-aventure
 slug: "bivouac-and-canoe"
 emoji: "🛶"
@@ -30,7 +30,7 @@ This first night is all about simplicity. a good simple meal, a nice spot and gr
 
 {{< photo src="17.jpg" alt="cabin on the lake" >}}
 
-We are already awake a bit before sunrise. A first golden hour's shot and on our way to the basecamp of  [destination H2o](https://www.destinationh2o.fr). The basecamp is a cool small beach, a lake and a few tipis getting built. The tipis are built and unbuilt everytime those are needed. They have small and larger tipis and they mount only what is needed. This weekend, the setup is for a bachelor party, a giant escape game is ready for them. And us, we are waiting for the other people to arrive. The photo workshop is organized by [Captain Yvon](https://captainyvon.fr), Grégory et Jérémy. The group is cool, half women, half men, beginners and confirmed. 
+We are already awake a bit before sunrise. A first golden hour's shot and on our way to the basecamp of  [destination H2o](https://www.destinationh2o.fr). The basecamp is a cool small beach, a lake and a few tipis getting built. The tipis are built and unbuilt everytime those are needed. They have small and larger tipis and they mount only what is needed. This weekend, the setup is for a bachelor party, a giant escape game is ready for them. And us, we are waiting for the other people to arrive. The photo workshop is organized by [Captain Yvon](https://captainyvon.fr), Grégory et Jérémy. The group is cool, half women, half men, beginners and confirmed.
 
 {{< photo src="9.jpg" class="vertical" alt="Aurelie" >}}
 
@@ -48,7 +48,7 @@ We load the canoes with the bags on the truck. Bags are in drybags. We lock the 
   {{< photo src="4.jpg" alt="the fire" >}}
 {{</ photoset >}}
 
-The river is really amazing. It is still quite wild and we won't see a lot of houses or people around. Sometimes it is larger than 10 meters. During those times, I am more at ease to avoid hitting the border. When it is way tighter, I still hit those sometimes. I was scared of deep waters but once in the water, I realized it is not that bad and I often see the sand at the bottom of the river. And even if I don't see it, I feel way better. Figthing your fears feels good. 
+The river is really amazing. It is still quite wild and we won't see a lot of houses or people around. Sometimes it is larger than 10 meters. During those times, I am more at ease to avoid hitting the border. When it is way tighter, I still hit those sometimes. I was scared of deep waters but once in the water, I realized it is not that bad and I often see the sand at the bottom of the river. And even if I don't see it, I feel way better. Figthing your fears feels good.
 
 {{< photoset max="2" >}}
   {{< photo src="20.jpg" alt="golden hour" >}}

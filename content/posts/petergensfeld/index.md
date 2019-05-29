@@ -7,8 +7,8 @@ tags: ["fagnes", "randonnée", "sentiers", "belgique", "eupen", "ostbelgien", "A
 emoji: "🌅"
 gear: ["📷 Fuji X100T", "📱 iPhone X"]
 categories:
-- vadrouilles
 - belgique
+- vadrouilles
 resources:
 - name: "cover"
   src: "petergensfeld-2.jpg"

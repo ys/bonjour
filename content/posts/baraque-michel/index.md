@@ -7,8 +7,8 @@ emoji: "🌲"
 tags: ["balade", "fagnes", "belgique", "baraque michel", "caillebotis", "ardennes", "famille", "randonnée"]
 gear: ["📷 Fuji X100T"]
 categories:
-- vadrouilles
 - belgique
+- vadrouilles
 resources:
 - src: "*.jpg"
 ---
