@@ -1,16 +1,23 @@
 .main_header {
   margin: 0;
-  flex: auto;
   position: fixed;
   z-index: 6;
-  flex-direction: row;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
+
   @media only screen and (max-width: 812px) {
     padding: 10px 0;
-    flex-direction: column;
-    justify-content: center;
+  }
+  .wrapped {
+    flex: auto;
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    @media only screen and (max-width: 812px) {
+      padding: 0;
+      margin-top: 5px;
+      flex-direction: column;
+      justify-content: center;
+    }
   }
   .menu {
     flex: 1;
@@ -32,9 +39,6 @@
     @media only screen and (max-width: 812px) {
       display: none;
     }
-    @media only screen and (min-width: 812px) {
-      margin-right: 30px;
-    }
     flex-direction: row;
     flex: 1;
     justify-content: flex-end;
@@ -45,15 +49,15 @@
       margin-left: 10px;
     }
   }
-   > .title {
+    .title {
     flex: 1;
     margin: 0;
-    margin-left: 30px;
     font-size: 1.6rem;
     display: flex;
     justify-content: flex-start;
-    a img { width: inherit; height: 20px}
+    a img { width: inherit; height: 25px}
     @media only screen and (min-width: 812px) {
+      margin-top: 5px;
       top: 12px;
     }
     @media only screen and (max-width: 812px) {
@@ -67,6 +71,12 @@
     font-weight: 200;
   }
   @media only screen and (min-width: 812px) {
+
+    .wrapped {
+      margin: 0 auto;
+      width: 75rem;
+
+    }
     .main_menu ul {
       display: flex;
       justify-content: center;

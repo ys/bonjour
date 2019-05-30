@@ -12,6 +12,7 @@
     </header>
   {{ else }}
     <header class="main_header">
+      <div class="wrapped">
       <span class="title">
         <a href="/">
           {{ if .Site.Params.hasLogo }}
@@ -31,6 +32,7 @@
       </label>
       {{ partial "main_menu" . }}
       {{ partial "social_icons" . }}
+      </div>
     </header>
     {{ if eq .Type "posts"  }}
     <div class="post-img" style="background: url('{{ $image.Permalink }}') no-repeat 50% / cover"></div>
