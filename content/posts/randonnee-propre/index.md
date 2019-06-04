@@ -1,7 +1,7 @@
 ---
 title: "Petit guide de la randonnée propre"
 subtitle: "Et autres civilités pour la nature"
-date: 2019-06-02T15:38:06+02:00
+date: 2019-06-05T07:38:06+02:00
 draft: false
 description: "Comment randonner plus proprement et autres astuces lors de vos sorties nature."
 tags: ["environement", "plage", "nettoyage", "ecologie", "leave no trace", "forêt propre", "journée mondiale de l'environnement", "volontariat", "petits gestes"]
