@@ -77,6 +77,31 @@ canonifyURLs = true
   identifier = "about"
   url = "/about"
 
+[[languages.en.menu.main]]
+  name = "Wanders"
+  title = "Wanders"
+  weight = 1
+  identifier = "vadrouilles"
+  url = "/en/vadrouilles/"
+[[languages.en.menu.main]]
+  name = "Logbook"
+  title = "Logbook"
+  weight = 2
+  identifier = "journal"
+  url = "/en/journal/"
+[[languages.en.menu.main]]
+  name = "Inspiration"
+  title = "Inspiration"
+  weight = 3
+  identifier = "inspiration"
+  url = "/inspiration/"
+[[languages.en.menu.main]]
+  name = "About me"
+  title = "About me"
+  weight = 4
+  identifier = "about"
+  url = "/en/about"
+
 [languages]
   [languages.en]
     weight = 2
