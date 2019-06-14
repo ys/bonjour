@@ -16,13 +16,13 @@ resources:
 
 En déménageant, on s'était dit qu'on aurait un jour des poules. L'idée d'avoir des œufs frais nous plaisait vraiment. Alors on a commencé à se renseigner, à lire un peu en ligne. Le web est une source fabuleuse d'information, on trouve tout ce qu'il nous faut. 
 
-## Combien de poules?
+## 🐔 Combien de poules?
 
 Il faut savoir qu'une poule seule déprime. Donc, il en faut toujours au moins deux. Après, cela dépend de votre terrain. On suggère environ 10m2 par poule.
 
 Nous avons donc commencé par deux poules. Je vous présente Nuggets et Cocotte. Noms choisis par Tom comme vous pouvez le deviner. J'aurais choisi Chicken et Nuggets. On les a trouvées chez [magasin vert](https://www.magasin-point-vert.fr/conseils/tout-savoir-sur-poules). 
 
-## Quel vous faut-il pour les poules?
+## 📝 Quel vous faut-il pour les poules?
 
 Un poulailler bien sûr et un enclos. Au minimum. Après, il vous faut aussi une mangeoire et un endroit pour boire. On a trouvé notre bonheur chez [Farmili](https://www.farmili.com) pour le poulailler. C'était un peu plus cher qu'ailleurs mais il nous plaisait bien et semblait bien plus solide. Vous pouvez passer par la case DIY si vous êtes suffisamment bons. Le poulailler doit avoir un pondoir et un perchoir. Après, sa taille dépendra du nombre de poules que vous pensez adopter. Le nôtre nous permet d'avoir jusque 4 poules. On pense à peut-être en adopter d'autres mais on verra. 
 
@@ -35,7 +35,7 @@ Dans les petits accessoires utiles:
 - Des boîtes pour les garder
 - Un crayon ou feutre pour la date. Ca n'est pas imprimé par défaut. 
 
-## Combien de temps?
+## ⏱ Combien de temps?
 
 Une fois par semaine environ, on nettoie le tout. On enlève les crottes, remplace la paille souillée, remplace la sciure et voilà. Rien de plus simple. C'est ici que vous aurez besoin des gants. 
 
@@ -43,7 +43,7 @@ Penser à remplir la mangeoire et remplacer l'eau pour qu'elles se sentent bien.
 
 Le matin, on va ouvrir le poulailler pour qu'elles puissent se balader dans l'enclos. Le soir, on les rentre. Bien souvent, elles sont déjà dans le poulailler et on referme juste la porte pour éviter l'entrée des nuisibles. 
 
-## Trucs et astuces
+## 💡 Trucs et astuces
 
 - Le poulailler ne doit pas être en plein soleil. 
 - Éviter d'orienter l'entrée du poulailler au nord pour éviter les vents froids
@@ -53,7 +53,7 @@ Le matin, on va ouvrir le poulailler pour qu'elles puissent se balader dans l'en
 - Elles ont besoin de bien se nourrir et boire sinon elles ne pondent pas.
 - Elles mangent des bouts de coquilles d'huîtres ou d'œufs pour avoir des coquilles bien solides.
 
-## Des liens
+## 🔗 Des liens
 - [Poules pondeuses](http://poulespondeuses.com/elevage-poules-pondeuses/) - Une vraie source intarissable.
 - [Le guide farmili](https://www.farmili.com/content/8-introduction-a-l-elevage-de-la-poule) - Encore plein d'info
 - [Des poules dans mon jardin](https://amzn.to/2F9TLFs) Rien ne remplace le papier. Ca se lit au jardin avec plaisir. 
