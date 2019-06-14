@@ -3,8 +3,10 @@ title: "Des œufs frais tous les jours"
 subtitle: "L'histoire de Cocotte et Nuggets"
 date: 2019-06-14T21:55:23+02:00
 draft: false
-tags: []
+description: "Le petit guide simple pour partager son terrain avec des petites poules."
+tags: ["poules", "slowlife", "œufs", "neoruraux", "campagne"]
 categories:
+- jardin
 - journal
 slug: "avoir-des-poules"
 emoji: "🐓"
