@@ -10,7 +10,7 @@ slug: "avoir-des-poules"
 emoji: "🐓"
 resources:
 - src: "*.jpg"
-- src:  "cover.jpg"
+- src:  "8.jpg"
   name: "cover"
 ---
 
@@ -22,11 +22,25 @@ Il faut savoir qu'une poule seule déprime. Donc, il en faut toujours au moins d
 
 Nous avons donc commencé par deux poules. Je vous présente Nuggets et Cocotte. Noms choisis par Tom comme vous pouvez le deviner. J'aurais choisi Chicken et Nuggets. On les a trouvées chez [magasin vert](https://www.magasin-point-vert.fr/conseils/tout-savoir-sur-poules). 
 
+{{< photoset max="3" >}}
+  {{< photo src="5.jpg" alt="Nuggets" >}}
+  {{< photo src="7.jpg" alt="le poulailler" >}}
+  {{< photo src="6.jpg" alt="Cocotte" >}}
+{{</ photoset >}}
+
+
 ## 📝 Quel vous faut-il pour les poules?
 
 Un poulailler bien sûr et un enclos. Au minimum. Après, il vous faut aussi une mangeoire et un endroit pour boire. On a trouvé notre bonheur chez [Farmili](https://www.farmili.com) pour le poulailler. C'était un peu plus cher qu'ailleurs mais il nous plaisait bien et semblait bien plus solide. Vous pouvez passer par la case DIY si vous êtes suffisamment bons. Le poulailler doit avoir un pondoir et un perchoir. Après, sa taille dépendra du nombre de poules que vous pensez adopter. Le nôtre nous permet d'avoir jusque 4 poules. On pense à peut-être en adopter d'autres mais on verra. 
 
 On a installé une clôture de châtaignier autour de nos framboisiers histoire qu'elles puissent picorer. Elles semblent plutôt heureuses et moi ça m'a permis de sortir de ma zone de comfort, car comme vous le savez ou pas, je ne suis pas très bricolo, en installant les poteaux, mesurant le tout et plantant la cloture. Pour finir, la fixer aux poteaux et tout ça. Un vrai plaisir.
+
+{{< photoset max="3" >}}
+  {{< photo src="3.jpg" alt="Tom" >}}
+  {{< photo src="4.jpg" alt="la main de Tom" >}}
+  {{< photo src="2.jpg" alt="Tom" >}}
+{{</ photoset >}}
+
 
 Dans les petits accessoires utiles: 
 - Une paire de gants pour nettoyer le tout
@@ -59,3 +73,5 @@ Le matin, on va ouvrir le poulailler pour qu'elles puissent se balader dans l'en
 - [Des poules dans mon jardin](https://amzn.to/2F9TLFs) Rien ne remplace le papier. Ca se lit au jardin avec plaisir. 
 
 Si vous avez des questions n'hésitez pas, si vous avez des suggestions n'hésitez pas non plus. 
+
+{{< photo src="1.jpg" class="vertical" >}}
