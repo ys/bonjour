@@ -10,11 +10,14 @@ resources:
   name: "cover"
 ---
 
-<h1 style="margin-top: 80px"> 💰 A vendre - 1300€</h1>
+<h1 style="margin-top: 80px"> 💰 A vendre</h1>
 
 - 📸 Fuji X-t20
 - Fujifilm 35mm 2.0 R WR + filtre UV Gobe
 - Fujifilm 16-55 2.8 R LM WR + filtre UV Gobe 
+
+## prix: 1300€
+
 
 {{< photo src="cover" >}}
 {{< photoset max="3" >}}
