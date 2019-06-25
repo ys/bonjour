@@ -1,5 +1,6 @@
 $serif: "{{ .Site.Params.bodyFont }}", serif;
-$sans-serif: -apple-system, BlinkMacSystemFont ,"{{ .Site.Params.titleFont }}", system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+$title: "{{ .Site.Params.titleFont }}", $serif;
+$sans-serif: -apple-system, BlinkMacSystemFont ,"{{ .Site.Params.sansSerifFont }}", system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 $onyx: #313638;
 $white-text: #FAFAFA;
 $white-background: #F3F3F3;
@@ -93,10 +94,12 @@ h1, h2, h3, h4, h5 {
   margin: 0;
   text-align: center;
   font-weight: 400;
-  font-family: $sans-serif;
+  font-family: $title;
 }
-
-.date, .main_menu, footer, .title{
+.title {
+  font-family: $title;
+}
+.date, .main_menu, footer{
   font-family:  $sans-serif;
 }
 
