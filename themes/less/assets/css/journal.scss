@@ -1,35 +1,4 @@
 /* Notes tile */
-.list {
-  .grid {
-    &.two {
-      display: grid;
-      grid-gap: 3rem;
-      grid: auto-flow dense / repeat(2, 1fr);
-      @media only screen and (max-width: 667px) {
-        grid: auto-flow dense / repeat(1, 1fr);
-        grid-column: 1;
-      }
-    }
-    &.three {
-      display: grid;
-      grid-gap: 3rem;
-      grid: auto-flow dense / repeat(3, 1fr);
-      @media only screen and (max-width: 667px) {
-        grid: auto-flow dense / repeat(1, 1fr);
-        grid-column: 1;
-      }
-    }
-    &.four {
-      display: grid;
-      grid-gap: 3rem;
-      grid: auto-flow dense / repeat(4, 1fr);
-      @media only screen and (max-width: 667px) {
-        grid: auto-flow dense / repeat(1, 1fr);
-        grid-column: 1;
-      }
-    }
-  }
-}
 .list.journal {
   display: grid;
   row-gap: 3rem;
@@ -50,8 +19,11 @@
       opacity: 0.7;
     }
     .category {
+      a {
+        color: var(--onyx);
+      }
       text-align: left;
-      font-family: $sans-serif;
+      font-family: var(--sans-serif-font);
       margin: 0;
       padding: 0;
     }

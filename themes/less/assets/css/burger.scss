@@ -22,7 +22,7 @@
       margin-top: -1px;
       left: 0;
       display: block;
-      background: $onyx;
+      background: var(--onyx);
       transition: .5s;
     }
     span:first-child {
@@ -84,7 +84,7 @@
         > a {
           text-decoration: none;
           text-transform: uppercase;
-          color: $onyx;
+          color: var(--onyx);
           display: block;
           padding: 20px;
         }

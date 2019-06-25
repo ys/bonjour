@@ -1,9 +1,11 @@
-$serif: "{{ .Site.Params.bodyFont }}", serif;
-$title: "{{ .Site.Params.titleFont }}", $serif;
-$sans-serif: -apple-system, BlinkMacSystemFont ,"{{ .Site.Params.sansSerifFont }}", system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-$onyx: #313638;
-$white-text: #FAFAFA;
-$white-background: #F3F3F3;
+:root {
+  --serif-font: "{{ .Site.Params.bodyFont }}", serif;
+  --title-font: "{{ .Site.Params.titleFont }}", var(--serif-font);
+  --sans-serif-font: -apple-system, BlinkMacSystemFont ,"{{ .Site.Params.sansSerifFont }}", system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  --onyx: #313638;
+  --white-text: #FAFAFA;
+  --white-background: #F3F3F3;
+}
 
 @import url('https://fonts.googleapis.com/css?display=swap&family={{ replace .Site.Params.titleFont " " "+" }}');
 @import url('https://fonts.googleapis.com/css?display=swap&family={{ replace .Site.Params.bodyFont " " "+" }}:400,400i,600');
@@ -29,37 +31,37 @@ hr {
     content: "•••";
     font-size: 2rem;
     text-align: center;
-    color: $onyx;
+    color: var(--onyx);
     width: 100%;
   }
 }
 
 svg {
-  fill: $onyx;
+  fill: var(--onyx);
 }
 
 body {
   height: 100%;
-  color: $onyx;
+  color: var(--onyx);
   font-size: 1.2rem;
   font-weight: 300;
   margin: 0;
   padding: 0;
-  font-family:  $serif;
+  font-family:  var(--serif-font);
   text-rendering: optimizeLegibility;
   line-height: 1.52;
 }
 
 a {
-  color: $onyx;
+  color: var(--onyx);
   text-decoration: none;
   position: relative;
   text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
-  background-image: linear-gradient(to top, transparent, transparent 2px, $onyx 2px, $onyx 2.5px, transparent 2.5px);
+  background-image: linear-gradient(to top, transparent, transparent 2px, var(--onyx) 2px, var(--onyx) 2.5px, transparent 2.5px);
   transition: color 0.5s, background-image 0.5s linear;
   &:visited, &:hover {
     text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
-    background-image: linear-gradient(to top, transparent, transparent 2px, $onyx 2px, $onyx 2.5px, transparent 2.5px);
+    background-image: linear-gradient(to top, transparent, transparent 2px, var(--onyx) 2px, var(--onyx) 2.5px, transparent 2.5px);
   }
 }
 
@@ -94,13 +96,13 @@ h1, h2, h3, h4, h5 {
   margin: 0;
   text-align: center;
   font-weight: 400;
-  font-family: $title;
+  font-family: var(--title-font);
 }
 .title {
-  font-family: $title;
+  font-family: var(--title-font);
 }
 .date, .main_menu, footer{
-  font-family:  $sans-serif;
+  font-family:  var(--sans-serif-font);
 }
 
 header {
@@ -112,14 +114,14 @@ footer {
   text-align: center;
   position: relative;
   height: 50px;
-  background-color: $onyx;
-  color: $white-text;
+  background-color: var(--onyx);
+  color: var(--white-text);
   line-height: 50px;
   clear:both;
   a, a:visited, a:hover {
-    color: $white-text;
+    color: var(--white-text);
     padding-bottom: 2px;
-    text-shadow: -1px -1px 0 $onyx, 1px -1px 0 $onyx, -1px 1px 0 $onyx, 1px 1px 0 $onyx;
+    text-shadow: -1px -1px 0 var(--onyx), 1px -1px 0 var(--onyx), -1px 1px 0 var(--onyx), 1px 1px 0 var(--onyx);
     background-image: linear-gradient(to top, transparent, transparent 2px, #f8f8f8 2px, #f8f8f8 2.5px, transparent 2.5px);
   }
 }
@@ -162,7 +164,7 @@ img {
     display: none;
   }
   @media only screen and (min-width: 1000px) {
-    color: $white-text;
+    color: var(--white-text);
     position: absolute;
     top: 10px;
     left: 10px;
