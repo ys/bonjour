@@ -48,9 +48,6 @@ body {
   text-rendering: optimizeLegibility;
   line-height: 1.52;
 }
-.about {
-  margin-top: 100px;
-}
 
 a {
   color: $onyx;
@@ -170,6 +167,7 @@ img {
 }
 
 .main {
+
   width: 100%;
   padding-bottom: 50px;
   margin: 0;
@@ -180,6 +178,8 @@ img {
     }
   }
   @media only screen and (min-width: 1000px) {
+    padding-top: 150px;
+
     .fullwidth, .fullwidth img {
       width: 100% !important;
       margin-left: 0;

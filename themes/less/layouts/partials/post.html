@@ -1,30 +1,31 @@
 {{ $postScratch := newScratch }}
 <div class="post-tile">
   {{ $image := .post.Resources.GetMatch "cover" | default (index (.post.Resources.ByType "image") 0) }}
-  {{ if isset . "horizontal" }}
-    {{ $postScratch.Set "coverSize" "600x400 center" }}
-  {{ else }}
-    {{ $postScratch.Set "coverSize" "400x600 center" }}
-  {{ end }}
+  {{ $postScratch.Set "coverSize" "600x400 center" }}
   {{ $web := $image.Fill ($postScratch.Get "coverSize") }}
   {{ $mobile := $image.Fill "400x600 center" }}
   {{ $mini := $image.Fill "60x40" }}
   {{if $image }}
-    <a class="no-decoration" href="{{ .post.Permalink }}">
-      <picture>
-        <source class="lazyload" srcset="{{ $mini.Permalink }}" type="image/jpg" media="(min-width: 821px)" data-srcset="{{ $web.Permalink }}">
-        <source class="lazyload" srcset="{{ $mini.Permalink }}" type="image/jpg" media="(max-width: 821px)" data-srcset="{{ $mobile.Permalink }}">
-        <img src="{{ $web.Permalink }}" style="width: 100%;">
-      </picture>
-    </a>
+    <div class="post-thumb">
+      <a class="no-decoration" href="{{ .post.Permalink }}">
+        <picture>
+          <source class="lazyload" srcset="{{ $mini.Permalink }}" type="image/jpg" media="(min-width: 821px)" data-srcset="{{ $web.Permalink }}">
+          <source class="lazyload" srcset="{{ $mini.Permalink }}" type="image/jpg" media="(max-width: 821px)" data-srcset="{{ $mobile.Permalink }}">
+          <img src="{{ $web.Permalink }}" style="width: 100%;">
+        </picture>
+      </a>
+    </div>
   {{end}}
-  <header class="post-header">
+  <div class="post-header">
     {{ range first 1 .post.Params.categories }}
-    <span class="category">{{ . }}</span>
+      <span class="category">{{ . }}</span>
     {{ end }}
-    <h3>
+    <h3 class="title">
         {{ .post.Params.emoji }}
         <a class="title bold no-decoration" href="{{ .post.Permalink }}">{{ .post.Title }}</a><br/>
     </h3>
-  </header>
+    <p>
+      {{ .post.Summary | replaceRE "(?ms)(<(figure|blockquote).*</(figure|blockquote)>)" "" | safeHTML | truncate 200 }}
+    </p>
+  </div>
 </div>
