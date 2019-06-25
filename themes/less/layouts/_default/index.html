@@ -1,10 +1,10 @@
 {{ define "main" }}
   <div class="main">
     <div class="list journal">
-      {{ range first 11 (where .Pages "Type" "posts") }}
-        {{ partial "post.html" (dict "post" . "horizontal" "true")}}
+    {{ range $index, $post := first 11 (where .Pages "Type" "posts") }}
+      {{ partial "post.html" (dict "post" $post "index" $index "ctx" $)}}
+    {{ end }}
 
-      {{ end }}
     </div>
   </div>
 

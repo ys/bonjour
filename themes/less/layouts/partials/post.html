@@ -1,7 +1,13 @@
 {{ $postScratch := newScratch }}
 <div class="post-tile">
   {{ $image := .post.Resources.GetMatch "cover" | default (index (.post.Resources.ByType "image") 0) }}
-  {{ $postScratch.Set "coverSize" "600x400 center" }}
+  {{ if (eq .index 1) }}
+    {{ $size := "900x600" }}
+    {{ $postScratch.Set "coverSize" (printf "%s center" $size)}}
+  {{ else }}
+    {{ $size := "600x400" }}
+    {{ $postScratch.Set "coverSize" (printf "%s center" $size)}}
+  {{ end }}
   {{ $web := $image.Fill ($postScratch.Get "coverSize") }}
   {{ $mobile := $image.Fill "600x400 center" }}
   {{ $mini := $image.Fill "60x40" }}
@@ -17,9 +23,12 @@
     </div>
   {{end}}
   <div class="post-header">
-    {{ range first 1 .post.Params.categories }}
-      <span class="category">{{ . }}</span>
-    {{ end }}
+      <span class="category">
+        {{ range first 1 .post.Params.categories }}
+        <a class="no-decoration" href="/{{ . }}">{{ . }}</a>
+        {{ end }} -
+        {{ .post.Date.Day }} {{ index .ctx.Site.Data.mois (printf "%d" .post.Date.Month) }} {{ .post.Date.Year }}
+      </span>
     <h3 class="title">
         {{ .post.Params.emoji }}
         <a class="title bold no-decoration" href="{{ .post.Permalink }}">{{ .post.Title }}</a><br/>
