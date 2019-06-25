@@ -31,7 +31,7 @@ Nous avons donc commencé par deux poules. Je vous présente Nuggets et Cocotte.
 {{</ photoset >}}
 
 
-## 📝 Quel vous faut-il pour les poules?
+## 📝 Que vous faut-il pour les poules?
 
 Un poulailler bien sûr et un enclos. Au minimum. Après, il vous faut aussi une mangeoire et un endroit pour boire. On a trouvé notre bonheur chez [Farmili](https://www.farmili.com) pour le poulailler. C'était un peu plus cher qu'ailleurs mais il nous plaisait bien et semblait bien plus solide. Vous pouvez passer par la case DIY si vous êtes suffisamment bons. Le poulailler doit avoir un pondoir et un perchoir. Après, sa taille dépendra du nombre de poules que vous pensez adopter. Le nôtre nous permet d'avoir jusque 4 poules. On pense à peut-être en adopter d'autres mais on verra. 
 
