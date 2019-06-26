@@ -35,6 +35,12 @@
   margin-left: auto;
   margin-right: auto;
   .social {
+    svg {
+      transition: all .4s ease-in-out;
+      &:hover {
+        fill: var(--accent);
+      }
+    }
     @media only screen and (max-width: 812px) {
       display: none;
     }
@@ -54,7 +60,7 @@
     font-size: 1.6rem;
     display: flex;
     justify-content: flex-start;
-    a img { width: inherit; height: 25px}
+    a img { width: inherit; height: 25px; color: var(--onyx);}
     @media only screen and (min-width: 812px) {
       margin-top: 5px;
       top: 12px;
@@ -64,10 +70,18 @@
     }
   }
 
-  a, a:hover, a:visited {
+  a, a:visited {
     border: 0;
     background-image: none;
-    font-weight: 200;
+    color: var(--onyx);
+    font-weight: 300;
+  }
+  a:hover {
+    background-image: none;
+    border: 0;
+    color: var(--accent);
+
+
   }
   @media only screen and (min-width: 812px) {
 

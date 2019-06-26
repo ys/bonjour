@@ -3,9 +3,11 @@
   --title-font: "{{ .Site.Params.titleFont }}", var(--serif-font);
   --sans-serif-font: -apple-system, BlinkMacSystemFont ,"{{ .Site.Params.sansSerifFont }}", system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
   --onyx: #313638;
+  --accent: #527277;
   --white-text: #FAFAFA;
   --white-background: #F3F3F3;
   --max-width: 74rem;
+  --light-gray: rgba(0,0,0,0.3)
 }
 
 @import url('https://fonts.googleapis.com/css?display=swap&family={{ replace .Site.Params.titleFont " " "+" }}');
@@ -54,15 +56,16 @@ body {
 }
 
 a {
-  color: var(--onyx);
+  color: var(--accent);
   text-decoration: none;
   position: relative;
   text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
-  background-image: linear-gradient(to top, transparent, transparent 2px, var(--onyx) 2px, var(--onyx) 2.5px, transparent 2.5px);
+  background-image: linear-gradient(to top, transparent, transparent 2px, var(--accent) 2px, var(--accent) 2.5px, transparent 2.5px);
   transition: color 0.5s, background-image 0.5s linear;
-  &:visited, &:hover {
+  &:hover {
+    color: var(--accent);
     text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
-    background-image: linear-gradient(to top, transparent, transparent 2px, var(--onyx) 2px, var(--onyx) 2.5px, transparent 2.5px);
+    background-image: linear-gradient(to top, transparent, transparent 2px, var(--accent) 2px, var(--accent) 2.5px, transparent 2.5px);
   }
 }
 
@@ -129,7 +132,7 @@ footer {
 
 blockquote {
   font-style: italic;
-  border-left: 3px solid rgba(0,0,0,0.3);
+  border-left: 3px solid var(--accent);
   padding-left: 20px;
   margin-left: -23px;
 }

@@ -4,6 +4,14 @@
   row-gap: 4rem;
   column-gap: 2rem;
 
+  .post-thumb picture {
+    transition: filter .4s ease-in-out, -webkit-filter .4s ease-in-out;
+    filter: brightness(100%);
+
+  }
+  .post-thumb picture:hover {
+    filter: brightness(80%);
+  }
   .post-header {
     margin: 0 1rem;
     text-align: left;
@@ -14,15 +22,14 @@
     h3.title {
       text-align: left;
       font-size: 1.8rem;
+      a { color: var(--onyx); }
+      a:hover { color: var(--accent); }
     }
     h5 {
       text-align: left;
       opacity: 0.7;
     }
     .category {
-      a {
-        color: var(--onyx);
-      }
       text-align: left;
       font-family: var(--sans-serif-font);
       margin: 0;
