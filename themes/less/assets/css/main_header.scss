@@ -73,7 +73,7 @@
 
     .wrapped {
       margin: 0 auto;
-      width: 75rem;
+      width: var(--max-width);
 
     }
     .main_menu ul {

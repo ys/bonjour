@@ -5,6 +5,7 @@
   --onyx: #313638;
   --white-text: #FAFAFA;
   --white-background: #F3F3F3;
+  --max-width: 74rem;
 }
 
 @import url('https://fonts.googleapis.com/css?display=swap&family={{ replace .Site.Params.titleFont " " "+" }}');
@@ -195,7 +196,7 @@ img {
     }
 
     > :not(.fullwidth) {
-      max-width: 74rem;
+      max-width: var(--max-width);
       margin-left: auto;
       margin-right: auto;
     }

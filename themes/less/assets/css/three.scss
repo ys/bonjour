@@ -3,7 +3,7 @@
   background-color: var(--white-background);
 }
 .related {
-  max-width: 74rem;
+  max-width: var(--max-width);
   display: grid;
   grid-gap: 1.5rem;
   margin-top: 80px;
