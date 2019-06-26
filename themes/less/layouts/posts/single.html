@@ -1,4 +1,16 @@
 {{ define "main" }}
+{{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
+<div class="post-img" style="background: url('{{ $image.Permalink }}') no-repeat 50% / cover"></div>
+<div class="post-title">
+  <span class="category">
+    {{ range first 1 .Params.categories }}
+    <a class="no-decoration" href="/{{ . }}">{{ . }}</a>
+    {{ end }} ↠
+    {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+  </span>
+  <h1 class="medium">{{ .Params.emoji}} {{ .Title }}</h1>
+  <h3>{{ .Params.subtitle }}</h3>
+</div>
 <div class="main post">
   {{ if .IsTranslated }}
     {{ range .Translations }}

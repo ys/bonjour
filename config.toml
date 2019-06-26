@@ -32,10 +32,12 @@ canonifyURLs = true
   mapbox = "pk.eyJ1IjoieWFubmljay1pbyIsImEiOiJjamY1NmR3NjMwNHkwMnBscDc2Nzl6b2ZwIn0.NbV8ywwFWfOH4T8DAN_tKw"
   sizes = [ "2048" , "1024" , "512" ]
   tags = ["famille", "exode rurale", "bretagne", "slow travel", "voyage", "slow life", "neorural", "photography", "photographies"]
-  titleFont = "Source Sans Pro"
+  sansSerifFont = "Source Sans Pro"
+  titleFont = "Crimson Text"
   bodyFont = "Poly"
   pinterestVerify = "fd6b8a37d3208b2c605434cf2ce71ac3"
   hasLogo = true
+  accentColor = "#6CB0C1"
 #   heroHeader = true
 
 [taxonomies]
