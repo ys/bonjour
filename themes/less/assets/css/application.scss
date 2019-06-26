@@ -2,12 +2,12 @@
   --serif-font: "{{ .Site.Params.bodyFont }}", serif;
   --title-font: "{{ .Site.Params.titleFont }}", var(--serif-font);
   --sans-serif-font: -apple-system, BlinkMacSystemFont ,"{{ .Site.Params.sansSerifFont }}", system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-  --onyx: #313638;
-  --accent: {{ .Site.Params.accentColor }};
-  --white-text: #FAFAFA;
-  --white-background: #F3F3F3;
-  --max-width: 74rem;
-  --light-gray: rgba(0,0,0,0.3)
+  --onyx: {{ with .Site.Params.onyxColor }}{{ . }}{{ else }}#313638{{ end }};
+  --accent: {{ with .Site.Params.accentColor }}{{ . }}{{ else }}var(--onyx){{ end }};
+  --white-text: {{ with .Site.Params.whiteTextColor }}{{ . }}{{ else }}#FAFAFA{{ end }};
+  --white-background: {{ with .Site.Params.whiteBackgroundColor }}{{ . }}{{ else }}#F3F3F3{{ end }};
+  --light-gray: {{ with .Site.Params.lightGrayColor }}{{ . }}{{ else }}rgba(0,0,0,0.5){{ end }};
+  --max-width: {{ with .Site.Params.bodyMaxWidth }}{{ . }}{{ else }}74rem{{ end }};
 }
 
 @import url('https://fonts.googleapis.com/css?display=swap&family={{ replace .Site.Params.titleFont " " "+" }}');
@@ -81,7 +81,6 @@ h2, h1.medium {
 }
 h3 {
   font-size: 1.6rem;
-  text-transform: capitalize;
 }
 h4 {
   font-size: 1.6rem;
@@ -92,7 +91,6 @@ h5 {
 }
 .post h2 {
   font-size: 1.6rem;
-  text-transform: uppercase;
   margin: 20px 0;
 }
 
@@ -103,7 +101,9 @@ h1, h2, h3, h4, h5 {
   font-family: var(--title-font);
 }
 .title {
+  color: var(--onyx);
   font-family: var(--title-font);
+  text-shadow: none !important;
 }
 .date, .main_menu, footer{
   font-family:  var(--sans-serif-font);
@@ -227,12 +227,10 @@ img {
     .date {
       text-align: left;
       font-style: normal;
-      font-weight: 700;
-      text-transform: uppercase;
       letter-spacing: 0.05em;
       border-top: 1px solid rgba(0,0,0,0.1);
       display: block;
-      color: rgba(0,0,0,0.3);
+      color: var(--light-gray);
       padding-bottom: 1rem;
       padding-top: 2rem;
       @media only screen and (min-width: 1000px) {
