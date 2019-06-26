@@ -2,6 +2,7 @@
 title: "A propos & contact"
 description: "Photographe de petites aventures, micro activiste amoureux de plein air adorant partager."
 date: 2017-10-26T22:57:50+02:00
+slug: "a-propos"
 draft: false
 type: "about"
 resources:

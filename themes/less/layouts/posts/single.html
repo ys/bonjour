@@ -4,7 +4,7 @@
 <div class="post-title">
   <span class="category">
     {{ range first 1 .Params.categories }}
-    <a class="no-decoration" href="/{{ . }}">{{ . }}</a>
+    <a class="no-decoration" href="{{ . | absLangURL }}">{{ . }}</a>
     {{ end }} ↠
     {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
   </span>

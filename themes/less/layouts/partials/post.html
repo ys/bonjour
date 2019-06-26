@@ -25,7 +25,7 @@
   <div class="post-header">
       <span class="category">
         {{ range first 1 .post.Params.categories }}
-        <a class="no-decoration" href="/{{ . }}">{{ . }}</a>
+        <a class="no-decoration" href="{{ .  | absLangURL }}">{{ . }}</a>
         {{ end }} ↠
         {{ .post.Date.Day }} {{ index .ctx.Site.Data.mois (printf "%d" .post.Date.Month) }} {{ .post.Date.Year }}
       </span>

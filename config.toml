@@ -54,37 +54,37 @@ canonifyURLs = true
   instagram = "vadrouilles.co"
   twitter = "yann_ck"
 
-[[menu.main]]
+[[languages.fr.menu.main]]
   name = "Vadrouilles"
   title = "Vadrouilles"
   weight = 1
   identifier = "vadrouilles"
   url = "/vadrouilles/"
-[[menu.main]]
+[[languages.fr.menu.main]]
   name = "Journal de Bord"
   title = "Journal de Bord"
   weight = 2
   identifier = "journal"
   url = "/journal/"
-[[menu.main]]
+[[languages.fr.menu.main]]
   name = "Inspiration"
   title = "Inspiration"
   weight = 3
   identifier = "inspiration"
   url = "/inspiration/"
-[[menu.main]]
+[[languages.fr.menu.main]]
   name = "A propos"
   title = "About me"
   weight = 4
   identifier = "about"
-  url = "/about"
+  url = "/a-propos"
 
 [[languages.en.menu.main]]
   name = "Wanders"
   title = "Wanders"
   weight = 1
   identifier = "vadrouilles"
-  url = "/en/vadrouilles/"
+  url = "/en/wanders/"
 [[languages.en.menu.main]]
   name = "Logbook"
   title = "Logbook"
