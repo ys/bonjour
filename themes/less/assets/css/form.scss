@@ -43,6 +43,10 @@ form {
 input, textarea {
   border-radius: 0;
   height: 20px;
+  padding: 10px;
+  margin-top: 20px;
+  font-size: 1.3rem;
+  font-family: var(--serif-font);
 }
 textarea {
   height: 60px;
