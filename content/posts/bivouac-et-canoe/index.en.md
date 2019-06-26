@@ -1,5 +1,5 @@
 ---
-Bivouac & Canoe"
+title: "Bivouac & Canoe"
 subtitle: "A weekend on the Loire"
 date: 2019-04-22T17:37:39+02:00
 draft: false
