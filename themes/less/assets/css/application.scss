@@ -3,7 +3,7 @@
   --title-font: "{{ .Site.Params.titleFont }}", var(--serif-font);
   --sans-serif-font: -apple-system, BlinkMacSystemFont ,"{{ .Site.Params.sansSerifFont }}", system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
   --onyx: #313638;
-  --accent: #527277;
+  --accent: {{ .Site.Params.accentColor }};
   --white-text: #FAFAFA;
   --white-background: #F3F3F3;
   --max-width: 74rem;
