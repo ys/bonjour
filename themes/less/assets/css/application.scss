@@ -178,13 +178,17 @@ img {
   padding-bottom: 50px;
 
   margin: 0;
+
   @media only screen and (max-width: 812px) {
+    &:not(.post) {
+      padding-top: 6rem;
+    }
     > * {
       margin-left: 1rem;
       margin-right: 1rem;
     }
   }
-  @media only screen and (min-width: 1000px) {
+  @media only screen and (min-width: 812px) {
     &:not(.post) {
       padding-top: 12rem;
     }
