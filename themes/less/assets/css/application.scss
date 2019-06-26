@@ -175,6 +175,7 @@ img {
 
   width: 100%;
   padding-bottom: 50px;
+
   margin: 0;
   @media only screen and (max-width: 812px) {
     > * {
@@ -183,7 +184,9 @@ img {
     }
   }
   @media only screen and (min-width: 1000px) {
-    padding-top: 150px;
+    & not(.post) {
+      padding-top: 150px;
+    }
 
     .fullwidth, .fullwidth img {
       width: 100% !important;
