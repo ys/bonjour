@@ -12,9 +12,10 @@
 }
 
 .category {
+  font-weight: 500;
   font-size: 0.9rem;
-  font-weight: 700;
   text-transform: capitalize;
+  font-family: var(--sans-serif-font);
   letter-spacing: 0.05em;
   color: var(--light-gray);
   a {
@@ -41,6 +42,10 @@
 
 .emoji {
   font-family: arial;
+}
+
+.sans-serif {
+  font-family: var(--sans-serif-font);
 }
 
 .t09 {

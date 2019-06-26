@@ -38,7 +38,7 @@ canonifyURLs = true
   pinterestVerify = "fd6b8a37d3208b2c605434cf2ce71ac3"
   hasLogo = true
   accentColor = "#6CB0C1"
-#   heroHeader = true
+  arrow = "✧"
 
 [taxonomies]
   category = "categories"

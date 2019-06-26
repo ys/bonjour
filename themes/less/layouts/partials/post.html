@@ -24,17 +24,17 @@
   {{end}}
   <div class="post-header">
       <span class="category">
+        {{ .post.Params.emoji }}
         {{ range first 1 .post.Params.categories }}
         <a class="no-decoration" href="{{ .  | absLangURL }}">{{ . }}</a>
-        {{ end }} ↠
+        {{ end }} {{ .ctx.Site.Params.arrow }}
         {{ .post.Date.Day }} {{ index .ctx.Site.Data.mois (printf "%d" .post.Date.Month) }} {{ .post.Date.Year }}
       </span>
     <h3 class="title">
-        {{ .post.Params.emoji }}
         <a class="title bold no-decoration" href="{{ .post.Permalink }}">{{ .post.Title }}</a><br/>
     </h3>
     <p>
-      {{ .post.Summary | replaceRE "(?ms)(<(figure|blockquote).*</(figure|blockquote)>)" "" | safeHTML | truncate 200 }}
+      {{ .post.Summary | replaceRE "(?ms)(<(figure|blockquote).*</(figure|blockquote)>)" "" | safeHTML | truncate 120 }}
     </p>
   </div>
 </div>
