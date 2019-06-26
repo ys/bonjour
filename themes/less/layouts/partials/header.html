@@ -4,7 +4,8 @@
       <span class="title">
         <a href="/">
           {{ if .Site.Params.hasLogo }}
-            <img src="/logo.svg" />
+            <img alt="logo" src="/logo.svg" />
+            <label aria-hidden="true" style="display: none">{{ .Site.Title }}</label>
           {{ else }}
             {{ .Site.Title }}
           {{ end }}
