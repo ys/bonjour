@@ -1,7 +1,11 @@
 {{ define "main" }}
-  <div class="main description">
-    <h1>{{ .Site.Title }}</h1>
-    {{ .Content }}
+  <div class="main">
+    <div class="list journal">
+    {{ range $index, $post := first 11 (where .Pages "Type" "posts") }}
+      {{ partial "post.html" (dict "post" $post "index" $index "ctx" $)}}
+    {{ end }}
+
+    </div>
   </div>
-  {{ partial "posts" .}}
+
 {{ end }}

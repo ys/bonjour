@@ -1,23 +1,9 @@
 {{ define "main" }}
 <div class="main">
-</div>
-<div class="main">
-  <div class="list">
-    <div class="grid two">
-    {{ range first 2 (.Paginator 50).Pages }}
-      {{ partial "post.html" (dict "post" . "horizontal" "true")}}
+  <div class="list journal">
+    {{ range $index, $post := (.Paginator 50).Pages }}
+      {{ partial "post.html" (dict "post" $post "index" $index "ctx" $)}}
     {{ end }}
-    </div>
-    <div class="grid three">
-    {{ range first 3 (after 2 (.Paginator 50).Pages) }}
-      {{ partial "post.html" (dict "post" .)}}
-    {{ end }}
-    </div>
-    <div class="grid four">
-    {{ range after 5 (.Paginator 50).Pages }}
-      {{ partial "post.html" (dict "post" .)}}
-    {{ end }}
-    </div>
   </div>
   {{ template "_internal/pagination.html" . }}
 </div>
