@@ -185,8 +185,8 @@ img {
     }
   }
   @media only screen and (min-width: 1000px) {
-    & not(.post) {
-      padding-top: 150px;
+    &:not(.post) {
+      padding-top: 12rem;
     }
 
     .fullwidth, .fullwidth img {

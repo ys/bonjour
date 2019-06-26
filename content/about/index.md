@@ -10,7 +10,7 @@ resources:
   name: "cover"
 ---
 
-<h2 style="padding-top:130px;padding-bottom:50px;">Bienvenue sur Vadrouiles & Co.</h2>
+<h2 style="padding-bottom:50px;">Bienvenue sur Vadrouiles & Co.</h2>
 
 Hello, je suis photographe de petites aventures, micro activiste amoureux de plein air adorant partager. Père d'un aventurier-escaladeur en herbe, je m'efforce de lui transmettre de bonnes valeurs et d'essayer de rendre ce monde un rien meilleur.
 
