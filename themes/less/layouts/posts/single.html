@@ -3,13 +3,14 @@
 <div class="post-img" style="background: url('{{ $image.Permalink }}') no-repeat 50% / cover"></div>
 <div class="post-title">
   <span class="category">
+    {{ .Params.emoji}}
     {{ range first 1 .Params.categories }}
     <a class="no-decoration" href="/{{ . }}">{{ . }}</a>
-    {{ end }} ↠
+    {{ end }} {{ .Site.Params.arrow }}
     {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
   </span>
-  <h1 class="medium">{{ .Params.emoji}} {{ .Title }}</h1>
-  <h3>{{ .Params.subtitle }}</h3>
+  <h1 class="t28">{{ .Title }}</h1>
+  <h3 class="t18 sans-serif">{{ .Params.subtitle }}</h3>
 </div>
 <div class="main post">
   {{ if .IsTranslated }}
