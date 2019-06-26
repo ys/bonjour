@@ -1,5 +1,5 @@
 ---
-title: "le printemps s'installe"
+title: "Le printemps s'installe"
 subtitle: "Potager et balade dans les Roc'hs"
 description: "Fin mai, le jardin se réveille. Les légumes sortent. Et nous on recommence les balades dans les monts d'Arrée."
 date: 2019-05-25T11:59:34+02:00
