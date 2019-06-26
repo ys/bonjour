@@ -26,7 +26,7 @@
       <span class="category">
         {{ range first 1 .post.Params.categories }}
         <a class="no-decoration" href="/{{ . }}">{{ . }}</a>
-        {{ end }} ↠
+        {{ end }} {{ .ctx.Site.Params.arrow }}
         {{ .post.Date.Day }} {{ index .ctx.Site.Data.mois (printf "%d" .post.Date.Month) }} {{ .post.Date.Year }}
       </span>
     <h3 class="title">

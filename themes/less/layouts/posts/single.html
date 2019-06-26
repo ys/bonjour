@@ -5,7 +5,7 @@
   <span class="category">
     {{ range first 1 .Params.categories }}
     <a class="no-decoration" href="/{{ . }}">{{ . }}</a>
-    {{ end }} ↠
+    {{ end }} {{ .Site.Params.arrow }}
     {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
   </span>
   <h1 class="medium">{{ .Params.emoji}} {{ .Title }}</h1>
