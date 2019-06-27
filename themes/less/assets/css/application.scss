@@ -1,16 +1,22 @@
 :root {
   --serif-font: "{{ .Site.Params.bodyFont }}", serif;
   --title-font: "{{ .Site.Params.titleFont }}", var(--serif-font);
-  --sans-serif-font: -apple-system, BlinkMacSystemFont ,"{{ .Site.Params.sansSerifFont }}", system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  --sans-serif-font: {{ with .Site.Params.sansSerifFontFamily }}{{ . }}{{ else }}"{{ .Site.Params.sansSerifFont }}",-apple-system, BlinkMacSystemFont, system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif{{ end }};
   --onyx: {{ with .Site.Params.onyxColor }}{{ . }}{{ else }}#313638{{ end }};
   --accent: {{ with .Site.Params.accentColor }}{{ . }}{{ else }}var(--onyx){{ end }};
   --white-text: {{ with .Site.Params.whiteTextColor }}{{ . }}{{ else }}#FAFAFA{{ end }};
   --white-background: {{ with .Site.Params.whiteBackgroundColor }}{{ . }}{{ else }}#F3F3F3{{ end }};
   --light-gray: {{ with .Site.Params.lightGrayColor }}{{ . }}{{ else }}rgba(0,0,0,0.5){{ end }};
   --max-width: {{ with .Site.Params.bodyMaxWidth }}{{ . }}{{ else }}74rem{{ end }};
+
+  --menu-font: var(--sans-serif-font);
+  --subtitle-font: var(--sans-serif-font);
+  --categories-font: var(--sans-serif-font);
+  --date-font: var(--sans-serif-font);
 }
 
 @import url('https://fonts.googleapis.com/css?display=swap&family={{ replace .Site.Params.titleFont " " "+" }}');
+@import url('https://fonts.googleapis.com/css?display=swap&family={{ replace .Site.Params.sansSerifFont " " "+" }}');
 @import url('https://fonts.googleapis.com/css?display=swap&family={{ replace .Site.Params.bodyFont " " "+" }}:400,400i,600');
 @import "helpers";
 @import "form";
@@ -160,7 +166,7 @@ img {
 
 .main_menu {
   font-weight: 100;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   text-align: center;
 }
 .site-title {
