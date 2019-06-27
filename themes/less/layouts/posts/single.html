@@ -15,7 +15,7 @@
 <div class="main post">
   {{ if .IsTranslated }}
     {{ range .Translations }}
-    <p class="translation en">
+    <p class="italic center">
       <a href="{{ .Permalink }}">{{ T "also_available" }} {{ .Language.LanguageName }}</a>
     </p>
     {{ end}}

@@ -16,7 +16,7 @@
 }
 
 @import url('https://fonts.googleapis.com/css?display=swap&family={{ replace .Site.Params.titleFont " " "+" }}');
-@import url('https://fonts.googleapis.com/css?display=swap&family={{ replace .Site.Params.sansSerifFont " " "+" }}');
+@import url('https://fonts.googleapis.com/css?display=swap&family={{ replace .Site.Params.sansSerifFont " " "+" }}:300');
 @import url('https://fonts.googleapis.com/css?display=swap&family={{ replace .Site.Params.bodyFont " " "+" }}:400,400i,600');
 @import "helpers";
 @import "form";
@@ -26,6 +26,7 @@
 @import "three";
 @import "photos";
 @import "journal";
+@import "post";
 
 html {
   height: 100%;
@@ -53,7 +54,7 @@ body {
   height: 100%;
   color: var(--onyx);
   font-size: 1.2rem;
-  font-weight: 300;
+  font-weight: 400;
   margin: 0;
   padding: 0;
   font-family:  var(--serif-font);
@@ -83,7 +84,6 @@ h1 {
 }
 h2, h1.medium {
   font-size: 2.1rem;
-  font-weight: 600;
 }
 h3 {
   font-size: 1.6rem;
@@ -94,10 +94,6 @@ h4 {
 }
 h5 {
   font-size: 1.6rem;
-}
-.post h2 {
-  font-size: 1.6rem;
-  margin: 20px 0;
 }
 
 h1, h2, h3, h4, h5 {
@@ -146,14 +142,7 @@ blockquote {
 b {
   font-weight: 400;
 }
-p.en {
-  text-align: center;
-  font-style: italic !important;
-  color: #666;
-}
 
-p {
-}
 img {
   width: 100%;
 }
