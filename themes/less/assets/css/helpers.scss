@@ -11,8 +11,11 @@
   font-style: italic !important;
 }
 
+.center {
+  text-align: center;
+}
+
 .category {
-  font-weight: 500;
   font-size: 0.9rem;
   text-transform: capitalize;
   font-family: var(--sans-serif-font);
@@ -28,7 +31,7 @@
 
 .date {
   font-size: 0.9rem;
-  font-weight: 400;
+  font-weight: 300;
   font-style: italic;
   letter-spacing: 0.05em;
   color: rgba(0,0,0,0.3);

@@ -9,13 +9,13 @@
     {{ end }} {{ .Site.Params.arrow }}
     {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
   </span>
-  <h1 class="t28">{{ .Title }}</h1>
-  <h3 class="t18 sans-serif">{{ .Params.subtitle }}</h3>
+  <h1 class="t37">{{ .Title }}</h1>
+  <h3 class="t16 sans-serif">{{ .Params.subtitle }}</h3>
 </div>
 <div class="main post">
   {{ if .IsTranslated }}
     {{ range .Translations }}
-    <p class="translation en">
+    <p class="italic center">
       <a href="{{ .Permalink }}">{{ T "also_available" }} {{ .Language.LanguageName }}</a>
     </p>
     {{ end}}

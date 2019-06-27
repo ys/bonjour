@@ -23,9 +23,10 @@ form {
 .c-form__heading {
   display: block;
   width: 100%;
+  font-size: 2.8rem;
   line-height: 1.2;
-  border-bottom: 1px solid var(--onyx);
   padding: 0 0 5px 0;
+  border-bottom: solid 1px var(--onyx);
   margin-bottom: 10px;
 }
 
@@ -47,17 +48,24 @@ input, textarea {
   margin-top: 20px;
   font-size: 1.3rem;
   font-family: var(--serif-font);
+  border: solid 1px var(--onyx);
 }
 textarea {
   height: 60px;
 }
 
 button {
-  max-width: 200px;
-  padding: 1em 1em;
-  color: rgba(0, 0, 0, 0.80); /* rgba supported */
-  border: none rgba(0, 0, 0, 0);  /*IE9 + everything else*/
-  background-color: #E6E6E6;
+  font-family: var(--serif-font);
+  max-width: 130px;
+  padding: 0.8em 0.8em;
+  color: var(--white-text); /* rgba supported */
+  border: none;
+  background-color: var(--accent);
   text-decoration: none;
-  border-radius: 2px;
+  border-radius: 3px;
+  transition: filter 0.5s, background-image 0.5s linear;
+  &:hover {
+    cursor: pointer;
+    filter: brightness(80%);
+  }
 }
