@@ -54,7 +54,7 @@ body {
   height: 100%;
   color: var(--onyx);
   font-size: 1.2rem;
-  font-weight: 400;
+  font-weight: 300;
   margin: 0;
   padding: 0;
   font-family:  var(--serif-font);
@@ -90,7 +90,7 @@ h3 {
 }
 h4 {
   font-size: 1.6rem;
-  font-weight: 400;
+  font-weight: 300;
 }
 h5 {
   font-size: 1.6rem;
@@ -99,7 +99,7 @@ h5 {
 h1, h2, h3, h4, h5 {
   margin: 0;
   text-align: center;
-  font-weight: 400;
+  font-weight: 300;
   font-family: var(--title-font);
 }
 .title {
@@ -140,7 +140,7 @@ blockquote {
 }
 
 b {
-  font-weight: 400;
+  font-weight: 600;
 }
 
 img {
