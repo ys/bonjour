@@ -1,10 +1,11 @@
 ---
 title: "Rando avec marmots"
-subtitle: ""
+subtitle: "Trucs et astuces pour parents nature"
 date: 2019-07-02T21:39:32+02:00
 draft: false
-tags: []
+tags: ["famille", "randonnée", "marmots", "nature", "marche", "enfants"]
 categories:
+- marmots
 - journal
 slug: "rando-avec-marmots"
 emoji: "🧒"
@@ -13,8 +14,6 @@ resources:
 - src:  "cover.jpg"
   name: "cover"
 ---
-
-## Conseils pour les parents nature
 
 Cela fait maintenant 5 ans que l'on se balade dans la nature avec notre petit bout. Peu importe la saison, on aime sortir et prendre l'air. Ce n'est pas toujours facile et motiver un petit garçon de 5 ans, cela peut être une aventure en soi. Je me suis dit que avec la sortie de la [newsletter des marmots](https://www.lesothers.com/marmots), il était temps de vous donner mes petites astuces et conseils pour des vadrouilles pleines de plaisir avec vos chérubins. 
 
