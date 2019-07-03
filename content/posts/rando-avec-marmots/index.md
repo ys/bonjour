@@ -19,6 +19,9 @@ Cela fait maintenant 5 ans que l'on se balade dans la nature avec notre petit bo
 
 <hr/>
 
+
+{{< photo src="6.jpg" alt="Tom et Cloe planifient" >}}
+
 ## Avant le départ
 
 Préparez vous à chausser vos bottillons et partons à l'aventure. 
@@ -33,11 +36,15 @@ Partagez le tracé de la balade, personnellement, j'adore lui montrer ce que l'o
 
 Un dernier point important, prenez des chaussures adaptées. Une bonne paire peut faire votre vadrouille comme une mauvaise peut la tuer. Pas besoin de surinvestir, une bonne [petite paire de chez decathlon](https://www.decathlon.fr/ch-mh500-mid-wtp-jr-marron-id_8343067.html) fera l'affaire.
 
+{{< photo src="4.jpg" alt="dans les herbes" >}}
+
+
 ## En route les marmots
 
-Durant la balade, n'hésitez pas à faire pas mal de pauses. Leurs petites jambes travaillent plus que les vôtres. Cela permet de sortir les snacks, les gourdes et de vider les vessies. S'il fait chaud, une pause à l'ombre permet de bien souffler. Ce que vous ressentez est décuplé chez eux. 
+Durant la balade, n'hésitez pas à faire pas mal de pauses. Leurs petites jambes travaillent plus que les vôtres. Cela permet de sortir les snacks, les gourdes et de vider les vessies. S'il fait chaud, une pause à l'ombre permet de bien souffler. Ce que vous ressentez est décuplé chez eux. N'hésitez pas non plus de sortir des sentiers battus, l'aventure sera encore plus forte pour eux.
 
-Privilégiez des balades courtes au début. Ne le faites pas pour manger le plus de kilomètres. Profitez en pour ralentir, observer, partager et apprendre. Un des autres points super important pour nous, les faire jouer un maximum durant la balade. Des jeux classiques d'observation permettent de distraire leur esprit qui doit tout le temps être en ébullition. Dans nos jeux favoris:
+Privilégiez des balades courtes au début. Ne le faites pas pour manger le plus de kilomètres. Profitez en pour ralentir, observer, partager et apprendre. Un des autres points super important pour nous, les faire jouer un maximum durant la balade. Des jeux classiques d'observation permettent de distraire leur esprit qui doit tout le temps être en ébullition. 
+Dans nos jeux favoris:
 
 - Repérer 5 sortes d'oiseaux
 - Ramasser des cailloux aux formes étranges
@@ -46,7 +53,18 @@ Privilégiez des balades courtes au début. Ne le faites pas pour manger le plus
 - Trouver un baton de marche
 - Trouver la feuille de l'arbre annoncé
 
+
+{{< photo src="5.jpg" alt="observation" >}}
+
+
 Aussi, depuis quelques temps, nous avons commencé à chercher des géocaches avec Tom. Installer l'application de [geocaching](https://www.geocaching.com/play), trouvez des lieux proches de chez vous et incorporez les dans vos marches. Mieux encore, certains font des caches sur une boucle de randonnée. Cela permet de passer de cache en cache et de ne pas voir les kilomètres passer. Je pense que plus jeune, cela n'aurait pas marché. Maintenant, la chasse au trésor est vraiment un must! Elle nous permet d'augmenter les distances sans le remarquer.
+
+
+{{< photo src="2.jpg" alt="le randonneur" >}}
+{{< photoset max="2" >}}
+  {{< photo src="3.jpg" alt="en vadrouille" >}}
+  {{< photo src="1.jpg" alt="en vadrouille" >}}
+{{< /photoset >}}
 
 Pour les longueurs de marches, beaucoup parlent de 1km par année de l'enfant. On a commencé comme cela et maintenant, il adore quand on marche "plus que son âge". C'est comme un challenge pour lui, son petit trophée de vadrouille. Preparez-vous à répondre à "C'était une balade de quel âge ?" 
 
