@@ -10,7 +10,7 @@ module.exports = {
       content: [
         '**/*.html',
       ],
-      whitelist: ["medium-zoom--open"]
+      whitelist: [/always-/, /max-/, "medium-zoom--open", "fullwidth", "vertical"]
     },
   },
 }
