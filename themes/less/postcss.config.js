@@ -9,7 +9,8 @@ module.exports = {
     '@fullhuman/postcss-purgecss': {
       content: [
         '**/*.html',
-      ]
+      ],
+      whitelist: ["medium-zoom--open"]
     },
   },
 }
