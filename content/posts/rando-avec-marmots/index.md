@@ -1,6 +1,7 @@
 ---
 title: "Rando avec marmots"
 subtitle: "Trucs et astuces pour parents nature"
+seotitle: "Astuces pour randonner avec ses enfants"
 date: 2019-07-02T21:39:32+02:00
 draft: false
 tags: ["famille", "randonnée", "marmots", "nature", "marche", "enfants"]
