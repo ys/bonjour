@@ -8,7 +8,7 @@ module.exports = {
     },
     '@fullhuman/postcss-purgecss': {
       content: [
-        'public/**/*.html',
+        '**/*.html',
       ]
     },
   },
