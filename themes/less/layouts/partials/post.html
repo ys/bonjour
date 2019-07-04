@@ -2,7 +2,7 @@
 <div class="post-tile">
   {{ $image := .post.Resources.GetMatch "cover" | default (index (.post.Resources.ByType "image") 0) }}
   {{ if (eq .index 0) }}
-    {{ $size := "900x600" }}
+    {{ $size := "1200x800" }}
     {{ $postScratch.Set "coverSize" (printf "%s center" $size)}}
   {{ else }}
     {{ $size := "600x400" }}
