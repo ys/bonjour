@@ -5,7 +5,7 @@ seotitle: "Astuces pour randonner avec ses marmots - Vadrouilles"
 date: 2019-07-05T01:39:32+02:00
 description: "Quelques astuces pour partir en vadrouilles avec vos enfants. C'est pas bien compliqué et cela rend tout plus agréable pour vous et pour eux"
 draft: false
-tags: ["famille", "randonnée", "marmots", "nature", "marche", "enfants"]
+tags: ["famille", "randonnée", "marmots", "nature", "marche", "enfants", "astuces", "trucs", "slowlife", "ralentir", "balades"]
 categories:
 - marmots
 - journal
