@@ -1,7 +1,7 @@
 ---
 title: "Rando avec marmots"
 subtitle: "Trucs et astuces pour parents nature"
-seotitle: "Astuces pour randonner avec ses enfants - Vadrouilles"
+seotitle: "Astuces pour randonner avec ses marmots - Vadrouilles"
 date: 2019-07-05T01:39:32+02:00
 description: "Quelques astuces pour partir en vadrouilles avec vos enfants. C'est pas bien compliqué et cela rend tout plus agréable pour vous et pour eux"
 draft: false
