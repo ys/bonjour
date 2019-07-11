@@ -31,15 +31,15 @@ Paolo Cogneti est un de ces auteurs qui sortent des livres que je dévore. C'est
 
 ## [Indian Creek Chronicles: A winter alone in the Wilderness](https://amzn.to/32pV8d9) par Pete Fromm
 
-Un des premiers bouquins de nature writing que j'ai lu. L'histoire d'un étudiant qui passe l'hiver dans une tente. Son job sera de surveiller des œufs de saumons qui doivent just survivre à cet hiver. Une belle histoire de l'homme face à la solitude dans la nature. Je vous le recommande vivement. Une histoire pleine d'aventures, de petits moments de stress et de vie simple dans une tente. Des moments d'ennuis et de choix. Un livre plein d'humour et de sincérité. Ce bouquin m'a donné envie de moi aussi passé un hiver dans le grand froid des Rocheuses. Je comprend que cela soit un des premiers romans de la collection [Gallmeister](https://www.gallmeister.fr).
+Un des premiers bouquins de nature writing que j'ai lu. L'histoire d'un étudiant qui passe l'hiver dans une tente. Son job sera de surveiller des œufs de saumons qui doivent just survivre à cet hiver. Une belle histoire de l'homme face à la solitude dans la nature. Je vous le recommande vivement. Une histoire pleine d'aventures, de petits moments de stress et de vie simple dans une tente. Des moments d'ennuis et de choix. Un livre plein d'humour et de sincérité. Ce bouquin m'a donné envie, de moi aussi, passer un hiver dans le grand froid des Rocheuses. Je comprend que cela soit un des premiers romans de la collection [Gallmeister](https://www.gallmeister.fr).
 
-Il y a [une suite](https://amzn.to/2NNpgvs) où il est père et espère emmener ses enfants. Je vous le conseille aussi bien que un peu moins bien que ce premier opus. Il avait mis la barre assez haute. Sachant qu'en plus ces deux romans dépeignent sa vie.
+Il y a [une suite](https://amzn.to/2NNpgvs) où l'auteur est devenu père et espère emmener ses enfants avec lui dans une cabane pour surveiller des oeufs de poissons à nouveau dans le fin fond du Montana. Je vous le conseille aussi bien que un peu moins bien que ce premier opus. Il avait mis la barre assez haute.
 
 ## [The Dharma Bums](https://amzn.to/2XWJDdM) par Jack Kerouac
 
 En partie spirituel, en partie nature. Une expérience bouddhiste où l'on suit l'alter ego de Kerouac, Ray Smith, entre la montagne et les clubs de jazz. On ne sait pas si toute l'histoire est vraie mais elle est clairement inspirée de sa vie. J'adore l'insouciance de cette génération et la beauté de leurs choix de vie. Ils étaient la contre culture de l'époque.
 
-J'adore la plupart des histoires de Kerouac. J'aime son écriture et le mélange d'expérience personnelle mixée à la fiction. Il est amusant aussi de savoir que Kerouac est issue d'une famille Bretonne qui vivait dans le village de Huelgoat, petit bourg à 5 minutes en voiture de notre domicile. Il semblerait qu'il y ait une plaque en son honneur dans le village. Je devrais aller la chercher.
+J'adore la plupart des histoires de Kerouac. J'aime son écriture et le mélange d'expériences personnelles mixées à la fiction. Il est amusant aussi de savoir que Kerouac est issue d'une famille Bretonne qui vivait dans le village de Huelgoat, petit bourg à 5 minutes en voiture de notre domicile. Il semblerait qu'il y ait une plaque en son honneur dans le village. Je devrais aller la chercher.
 
 ## Et vous?
 
