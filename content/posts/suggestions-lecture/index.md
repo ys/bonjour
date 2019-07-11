@@ -43,4 +43,4 @@ J'adore la plupart des histoires de Kerouac. J'aime son écriture et le mélange
 
 ## Et vous?
 
-J'adorerais entendre quels sont vos coups de cœurs du moment. N'hésitez pas à les partager avec moi.
+J'adorerais entendre quels sont vos coups de cœurs du moment. N'hésitez pas à les partager avec moi. D'ailleurs, je m'en vais lire et me reposer jusque début septembre! Au plaisir de vous croiser pour papoter!
