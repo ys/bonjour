@@ -2,7 +2,7 @@
 title: "A few books worth a look"
 subtitle: "Your summer reading list"
 date: 2019-07-11T20:00:22+02:00
-draft: false
+draft: true
 tags: ["reading", "book", "nature", "adventure", "stories", "nature writing", "suggestions"]
 categories:
 - books
