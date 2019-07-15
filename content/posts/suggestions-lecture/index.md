@@ -23,17 +23,23 @@ J’ai une habitude qui tient, c’est la lecture. Quasi quotidienne, elle me pe
 
 Voici trois bouquins que j’ai vraiment apprécié.
 
+{{< photo src="4.jpg" alt="les huit montagnes" >}}
+
 ## [Les huit montagnes](https://amzn.to/2XWw3Xx) par Paolo Cotnetti
 
 Une super lecture recommandée par [Martin Dellicour](http://www.martindellicour.be). Une histoire d'amitié dans les montagnes italiennes. Une amitié qui évolue autour de vieilles pierres et de moments dans les montagnes. C'est aussi une histoire de solitude. Une histoire de père et fils, d'une certaine manière. Une histoire de deux garçons devenus hommes. Pour ceux qui me connaissent, cette lecture a plutôt fait mouche. J'ai adoré le style d'écriture. Son histoire pleine de contrastes, entre les hommes, la ville et la montagne, le passé et le présent. Ses souvenirs, sa vie. C'est un texte splendide récompensé du prix Médicis en 2017.
 
 Paolo Cogneti est un de ces auteurs qui sortent des livres que je dévore. C'est une lecture simple mais pleine de vie. Je vous conseille aussi une autre histoire de Paolo Cognetti, [le garçon sauvage](https://amzn.to/32oJlLR). L'histoire prend aussi place dans les montagnes italiennes. Il a sorti [un nouveau roman](https://amzn.to/2Jsun02) que je n'ai pas encore eu le temps de lire. Il sera sans doute dans mes lectures de l'été.
 
+{{< photo src="1.jpg" alt="Indian Creek" >}}
+
 ## [Indian Creek Chronicles: A winter alone in the Wilderness](https://amzn.to/32pV8d9) par Pete Fromm
 
 Un des premiers bouquins de nature writing que j'ai lu. L'histoire d'un étudiant qui passe l'hiver dans une tente. Son job sera de surveiller des œufs de saumons qui doivent just survivre à cet hiver. Une belle histoire de l'homme face à la solitude dans la nature. Je vous le recommande vivement. Une histoire pleine d'aventures, de petits moments de stress et de vie simple dans une tente. Des moments d'ennuis et de choix. Un livre plein d'humour et de sincérité. Ce bouquin m'a donné envie, de moi aussi, passer un hiver dans le grand froid des Rocheuses. Je comprend que cela soit un des premiers romans de la collection [Gallmeister](https://www.gallmeister.fr).
 
 Il y a [une suite](https://amzn.to/2NNpgvs) où l'auteur est devenu père et espère emmener ses enfants avec lui dans une cabane pour surveiller des oeufs de poissons à nouveau dans le fin fond du Montana. Je vous le conseille aussi bien que un peu moins bien que ce premier opus. Il avait mis la barre assez haute.
+
+{{< photo src="3.jpg" alt="Dharma Bums" >}}
 
 ## [The Dharma Bums](https://amzn.to/2XWJDdM) par Jack Kerouac
 
