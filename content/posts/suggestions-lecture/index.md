@@ -1,6 +1,7 @@
 ---
 title: "Un peu de lecture"
 subtitle: "Quelques livres pour l'été"
+seotitle: "Suggestions lecture nature & Aventure"
 date: 2019-07-11T20:00:22+02:00
 draft: false
 tags: ["lecture", "livre", "nature", "aventure", "histoires", "récits", "nature writing", "bouquin", "suggestions"]
@@ -8,7 +9,7 @@ categories:
 - lecture
 - journal
 description: "Des suggestions lectures que vous soyez à la montagne ou sous les cocotiers"
-slug: "suggestions-lecture"
+slug: "suggestions-lecture-nature-aventure"
 emoji: "📚"
 resources:
 - src: "*.jpg"
