@@ -4,7 +4,7 @@
   {{ if .Site.IsServer }}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
   {{ else }}
-    {{ $style := $style | minify | fingerprint }}
+    {{ $style := $style | resources.PostCSS | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
   {{ end }}
   <link rel="icon" href="{{ "/favicon.ico" | absURL }}">
