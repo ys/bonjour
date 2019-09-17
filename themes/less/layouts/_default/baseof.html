@@ -10,6 +10,7 @@
     </div>
     {{ partial "footer" .}}
     {{ partial "gtag.html" . }}
+    <script src="https://assets.digitalclimatestrike.net/widget.js" async></script>
     <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>
     {{ $.Scratch.Set "jslibs" slice }}
     {{ $libs := slice "js/lazysizes.min.js" "js/medium-zoom.min.js" "js/iolazy.min.js" "js/main.js" }}
