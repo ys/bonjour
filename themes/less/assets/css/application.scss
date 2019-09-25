@@ -117,17 +117,18 @@ header {
 
 footer {
   font-weight: 100;
-  text-align: center;
+  text-align: right;
   position: relative;
   height: 50px;
-  background-color: var(--onyx);
-  color: var(--white-text);
+  background-color: var(--white-background);
+  color: var(--onyx);
   line-height: 50px;
+  padding: 0 20px;
   clear:both;
   a, a:visited, a:hover {
-    color: var(--white-text);
+    color: var(--onyx);
     padding-bottom: 2px;
-    text-shadow: -1px -1px 0 var(--onyx), 1px -1px 0 var(--onyx), -1px 1px 0 var(--onyx), 1px 1px 0 var(--onyx);
+    text-shadow: -1px -1px 0 var(--white-background), 1px -1px 0 var(--white-background), -1px 1px 0 var(--white-background), 1px 1px 0 var(--white-background);
     background-image: linear-gradient(to top, transparent, transparent 2px, #f8f8f8 2px, #f8f8f8 2.5px, transparent 2.5px);
   }
 }
