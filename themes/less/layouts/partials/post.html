@@ -8,7 +8,7 @@
     {{ $size := "600x400" }}
     {{ $postScratch.Set "coverSize" (printf "%s center" $size)}}
   {{ end }}
-  {{ $web := $image.Fill ($postScratch.Get "coverSize") }}
+  {{ $web := $image.Fill ($postScratch.Get "coverSize") }} 
   {{ $mini := $image.Fill "60x40" }}
   {{if $image }}
     <div class="post-thumb">
