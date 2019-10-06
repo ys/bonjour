@@ -1,7 +1,7 @@
 [context.production.environment]
   HUGO_VERSION = "0.58.3"
 [context.deploy-preview]
-  command = "hugo -F -b $DEPLOY_PRIME_URL -v"
+  command = "hugo --templateMetrics -F -b $DEPLOY_PRIME_URL -v"
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.57.2"
 [context.branch-deploy]
