@@ -4,12 +4,24 @@ date: 2018-06-22T09:07:44+01:00
 draft: false
 slug: "activisme-vestimentaire"
 emoji: "👕"
-tags: ["écologie", "b-corp", "mode", "habillage", "vêtements", "consommation", "responsable", "engagé", "slow fashion", "consommacteur"]
+tags:
+  [
+    "écologie",
+    "b-corp",
+    "mode",
+    "habillage",
+    "vêtements",
+    "consommation",
+    "responsable",
+    "engagé",
+    "slow fashion",
+    "consommacteur",
+  ]
 description: "Consommer moins, consommer mieux. C'est un peu un des trucs qui me turlupine depuis que je me suis lancé dans le minimalisme et autres. Ca passe pas mal par ma garde robe. Elle débordait de T-shirts, de chemises et commençait à ne plus ressembler à rien."
 categories:
-- "journal"
+  - journal
 resources:
-- src: "*.jpg"
+  - src: "*.jpg"
 ---
 
 Consommer moins, consommer mieux. C'est un peu un des trucs qui me turlupine depuis que je me suis lancé dans le minimalisme et autres. Ca passe pas mal par ma garde robe. Elle débordait de T-shirts, de chemises et commençait à ne plus ressembler à rien.

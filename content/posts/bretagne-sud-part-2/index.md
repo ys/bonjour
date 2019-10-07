@@ -6,21 +6,33 @@ date: 2019-03-19T22:23:24+01:00
 draft: false
 slug: "bretagne-sud-part-2"
 categories:
-- bretagne
-- vadrouilles
-- france
+  - france
+  - vadrouilles
 emoji: "⚓️"
-tags: ["bretagne", "bzh", "crozon", "road trip", "plage", "randonnée", "voyage", "trip", "Finistère", "maree", "famille"]
+tags:
+  [
+    "bretagne",
+    "bzh",
+    "crozon",
+    "road trip",
+    "plage",
+    "randonnée",
+    "voyage",
+    "trip",
+    "Finistère",
+    "maree",
+    "famille",
+  ]
 description: "Direction Crozon. Un crochet par la pointe du Raz. Pause au dernier supermarché avant l’Amérique. Vadrouilles autour de la Palue, du Cap de la Chèvre et de Pen'Hir."
 resources:
-- name: "cover"
-  src: "9.jpg"
-- src: "*.jpg"
+  - name: "cover"
+    src: "9.jpg"
+  - src: "*.jpg"
 ---
 
 > Homme libre toujours tu chériras la mer
 
-*N'oubliez pas de lire la [première partie](https://vadrouilles.co/bretagne-sud-part-1)*
+_N'oubliez pas de lire la [première partie](https://vadrouilles.co/bretagne-sud-part-1)_
 
 Départ de notre premier QG en direction de notre camp de base à Crozon. On fait un crochet par la pointe du Raz. Une pause au dernier supermarché avant l’Amérique pour quelques provisions manquantes. Pour le reste, Cloé a eu la super idée de cuisiner des petits plats et les mettre dans des bocaux. La nourriture comme à la maison mais sans devoir cuisiner. Trop bien!
 
@@ -39,8 +51,8 @@ On reprend la route envieux de se poser et ne plus devoir prendre la voiture que
 {{< photo src="5.jpg" alt="trésors de plage" >}}
 
 {{< photoset max="2" >}}
-  {{< photo src="3.jpg" alt="Surfer at sunset" >}}
-  {{< photo src="1.jpg" alt="Surfer entering the sea" >}}
+{{< photo src="3.jpg" alt="Surfer at sunset" >}}
+{{< photo src="1.jpg" alt="Surfer entering the sea" >}}
 {{</ photoset >}}
 
 On continue la découverte des plages le jour suivant, on remonte plus au nord. Les pointes en béton armé de la seconde guerre sont impressionnantes. On explique à Tom leur usage et un peu de cette guerre. On se pose sur la pointe de Lostmarc'h et le vent nous accueille. On admire la vue, on redescend. Une nouvelle boucle jusque [notre base](https://abnb.me/f1bPhdebcV). Je repars voir l'Ile Vierge avant le coucher de soleil. Comme une envie d'encore marcher un bout de [GR34](https://www.mongr.fr/sentier/3/gr-34-le-plus-maritime-des-sentiers-de-grande-randonnee). Des plongeurs s’apprêtent à partir pêcher. Je les observe un peu. Je n’attend pas qu’ils rentrent à l’eau et continue mon tour vers le nord. Du chouette dénivelée de fin de journée m’attend. Des belles teintes rosées aussi. Et cette vue, elle n'est rien qu'à moi.
@@ -48,8 +60,8 @@ On continue la découverte des plages le jour suivant, on remonte plus au nord. 
 {{< photo src="cover.jpg" class="fullwidth" alt="Coucher de soleil a la Palue" >}}
 
 {{< photoset max="2" >}}
-  {{< photo src="2.jpg" alt="plage de l’Île vierge" >}}
-  {{< photo src="4.jpg" alt="pêcheurs de l’île vierge" >}}
+{{< photo src="2.jpg" alt="plage de l’Île vierge" >}}
+{{< photo src="4.jpg" alt="pêcheurs de l’île vierge" >}}
 {{</ photoset >}}
 
 ## Crozon Nord
@@ -59,4 +71,3 @@ La pointe de la chèvre et son monument aux marins, on se doit d’aller le voir
 {{< photo src="10.jpg" alt="Cloe et Pen’Hir" >}}
 
 Une semaine déjà, ça passe vite. On a envie de rentrer et on a vraiment aimé cette semaine. Comme quoi, un road trip derrière chez soi, c'est aussi dépaysant que de partir à l'autre bout de la terre. On retiendra ces grosses marrées, ces 50km environ de randonnée avec Tom et surtout le fait que l'on a encore tout à découvrir dans notre nouvelle région.
-
