@@ -6,22 +6,33 @@ date: 2019-03-19T22:23:24+01:00
 draft: false
 slug: "south-of-bretagne-part-2"
 categories:
-- bretagne
-- vadrouilles
-- france
+  - france
+  - vadrouilles
 emoji: "⚓️"
-tags: ["bzh", "Brittany", "crozon", "road trip", "photography", "beach", "hiking", "trip", "Finistère", "tide", "family"]
+tags:
+  [
+    "bzh",
+    "Brittany",
+    "crozon",
+    "road trip",
+    "photography",
+    "beach",
+    "hiking",
+    "trip",
+    "Finistère",
+    "tide",
+    "family",
+  ]
 description: "Let's go to Crozon. A quick stop at the pointe du Raz. Groceries at the last supermarket before the USA.  lndering around Palue, from the Cap de la Chèvre to Pen'Hir."
 resources:
-- name: "cover"
-  src: "9.jpg"
-- src: "*.jpg"
+  - name: "cover"
+    src: "9.jpg"
+  - src: "*.jpg"
 ---
 
 > Homme libre toujours tu chériras la mer
 
-*Don't forget to read the [first part](https://vadrouilles.co/en/south-of-bretagne-part-1)*
-
+_Don't forget to read the [first part](https://vadrouilles.co/en/south-of-bretagne-part-1)_
 
 Time to leave our first base camp for Crozon. We take a small detour for La Pointe du Raz. A quick break at the last supermarket before America for some missing groceries. For our meals, Cloé had the great idea to cook amazing dishes and store them in jars. Food just like home but without having to cook too much. What can we ask for!
 
@@ -38,17 +49,16 @@ We take the car. Hopefully, it is gonna be the last time for a few days. We hope
 {{< photo src="5.jpg" alt="trésors de plage" >}}
 
 {{< photoset max="2" >}}
-  {{< photo src="3.jpg" alt="Surfer at sunset" >}}
-  {{< photo src="1.jpg" alt="Surfer entering the sea" >}}
+{{< photo src="3.jpg" alt="Surfer at sunset" >}}
+{{< photo src="1.jpg" alt="Surfer entering the sea" >}}
 {{</ photoset >}}
 
-
-We keep discovering more beaches the next day. Going more north, Concrete spikes from the Second World War are mind-blowing. We have to explain why those are here to Tom and bits of what was that war. We take a break up on Lostmarc'h, and the wind is welcoming us. We watch all around us, and it is time to go back to the [Airbnb](https://abnb.me/f1bPhdebcV). I decide to take a tour to "l’île Vierge" and get more of the [GR34](https://www.mongr.fr/sentier/3/gr-34-le-plus-maritime-des-sentiers-de-grande-randonnee) done. Divers are getting ready for some fishing. I wait a bit, observe them then continue north. Got some nice steep path for the end of the day.  I have the sea and beautiful pink tones just for myself.
+We keep discovering more beaches the next day. Going more north, Concrete spikes from the Second World War are mind-blowing. We have to explain why those are here to Tom and bits of what was that war. We take a break up on Lostmarc'h, and the wind is welcoming us. We watch all around us, and it is time to go back to the [Airbnb](https://abnb.me/f1bPhdebcV). I decide to take a tour to "l’île Vierge" and get more of the [GR34](https://www.mongr.fr/sentier/3/gr-34-le-plus-maritime-des-sentiers-de-grande-randonnee) done. Divers are getting ready for some fishing. I wait a bit, observe them then continue north. Got some nice steep path for the end of the day. I have the sea and beautiful pink tones just for myself.
 
 {{< photo src="cover.jpg" class="fullwidth" alt="Coucher de soleil a la Palue" >}}
 {{< photoset max="2" >}}
-  {{< photo src="2.jpg" alt="plage de l’Île vierge" >}}
-  {{< photo src="4.jpg" alt="pêcheurs de l’île vierge" >}}
+{{< photo src="2.jpg" alt="plage de l’Île vierge" >}}
+{{< photo src="4.jpg" alt="pêcheurs de l’île vierge" >}}
 {{</ photoset >}}
 
 ## Crozon Nord

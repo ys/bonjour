@@ -5,22 +5,33 @@ seotitle: "Astuces pour randonner avec ses enfants - Vadrouilles"
 date: 2019-07-05T01:39:32+02:00
 description: "Quelques astuces pour partir en vadrouilles avec vos enfants. C'est pas bien compliqué et cela rend tout plus agréable pour vous et pour eux"
 draft: false
-tags: ["famille", "randonnée", "marmots", "nature", "marche", "enfants", "astuces", "trucs", "slowlife", "ralentir", "balades"]
+tags:
+  [
+    "famille",
+    "randonnée",
+    "marmots",
+    "nature",
+    "marche",
+    "enfants",
+    "astuces",
+    "trucs",
+    "slowlife",
+    "ralentir",
+    "balades",
+  ]
 categories:
-- marmots
-- journal
+  - journal
 slug: "astuces-rando-avec-enfants"
 emoji: "🧒"
 resources:
-- src: "*.jpg"
-- src:  "cover.jpg"
-  name: "cover"
+  - src: "*.jpg"
+  - src: "cover.jpg"
+    name: "cover"
 ---
 
 Cela fait maintenant 5 ans que l'on se balade dans la nature avec notre petit bout. Peu importe la saison, on aime sortir et prendre l'air. Ce n'est pas toujours facile et motiver un petit garçon de 5 ans, cela peut être une aventure en soi. Je me suis dit qu'avec la sortie de la [newsletter des marmots](https://www.lesothers.com/marmots), il était temps de vous donner mes petites astuces et conseils pour des vadrouilles pleines de plaisir avec vos chérubins.
 
 <hr/>
-
 
 {{< photo src="6.jpg" alt="Tom et Cloe planifient" >}}
 
@@ -40,7 +51,6 @@ Un dernier point important, prenez des chaussures adaptées. Une bonne paire peu
 
 {{< photo src="4.jpg" alt="dans les herbes" >}}
 
-
 ## En route les marmots
 
 Durant la balade, n'hésitez pas à faire pas mal de pauses. Leurs petites jambes travaillent plus que les vôtres. Cela permet de sortir les snacks, les gourdes et de vider les vessies. S'il fait chaud, une pause à l'ombre permet de bien souffler. Ce que vous ressentez est décuplé chez eux. N'hésitez pas non plus de sortir des sentiers battus, l'aventure sera encore plus forte pour eux.
@@ -55,9 +65,7 @@ Dans nos jeux favoris:
 - Trouver un baton de marche
 - Trouver la feuille de l'arbre annoncé
 
-
 {{< photo src="5.jpg" alt="observation" >}}
-
 
 Aussi, depuis quelques temps, nous avons commencé à chercher des géocaches avec Tom. Installer l'application de [geocaching](https://www.geocaching.com/play), trouvez des lieux proches de chez vous et incorporez les dans vos marches. Mieux encore, certains font des caches sur une boucle de randonnée. Cela permet de passer de cache en cache et de ne pas voir les kilomètres passer. Je pense que plus jeune, cela n'aurait pas marché. Maintenant, la chasse au trésor est vraiment un must! Elle nous permet d'augmenter les distances sans le remarquer.
 
@@ -67,9 +75,8 @@ Pour les plus jeunes, vous pouvez vous limiter à des tours poussettes friendly.
 
 Le but est toujours de s'amuser et de prendre l'air. Trouvez un équilibre et profitez. Découvrez ensemble. Observez la nature et vos marmots. On a toujours quelque chose à apprendre de eux.
 
-
 {{< photo src="2.jpg" alt="le randonneur" >}}
 {{< photoset max="2" >}}
-  {{< photo src="3.jpg" alt="en vadrouille" >}}
-  {{< photo src="1.jpg" alt="en vadrouille" >}}
+{{< photo src="3.jpg" alt="en vadrouille" >}}
+{{< photo src="1.jpg" alt="en vadrouille" >}}
 {{< /photoset >}}

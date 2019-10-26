@@ -5,26 +5,41 @@ seotitle: "Plage de la Palue - Crozon"
 
 date: 2019-02-08T16:13:56+01:00
 draft: false
-tags: ["randonnée", "plage", "Palue", "crozon", "bretagne", "finistere", "france", "surf", "falaises", famille", "hike", "trail", "gr34"]
+tags:
+  [
+    "randonnée",
+    "plage",
+    "Palue",
+    "crozon",
+    "bretagne",
+    "finistere",
+    "france",
+    "surf",
+    "falaises",
+    famille",
+    "hike",
+    "trail",
+    "gr34",
+  ]
 slug: "la-palue"
 emoji: "🌊"
 gear:
-- "📷 Fuji X-T20"
+  - "📷 Fuji X-T20"
 categories:
-- bretagne
-- vadrouilles
-- france
+  - france
+  - vadrouilles
 resources:
-- src: "cover.jpg"
-  name: "cover"
-- src: "*.jpg"
+  - src: "cover.jpg"
+    name: "cover"
+  - src: "*.jpg"
 ---
+
 On continue les découvertes des chouettes lieux de la Bretagne. Cette région n'a toujours pas tout montré, pas même 10% je pense. On adore continuer à la découvrir! On espère aussi faire de chouettes rencontres humaines cette année pour découvrir des lieux secrets. Cette fois-ci, c'est la plage de la Palue sur la presqu'île de Crozon. Un vrai petit coin de paradis sur terre encore une fois.
 
 {{< photoset >}}
-  {{< photo src="_DSF2367.jpg" >}}
-  {{< photo src="_DSF2435.jpg" >}}
-  {{< photo src="_DSF2518.jpg" >}}
+{{< photo src="_DSF2367.jpg" >}}
+{{< photo src="_DSF2435.jpg" >}}
+{{< photo src="_DSF2518.jpg" >}}
 {{</ photoset >}}
 
 Comme parfois, la météo n’était pas des plus clémentes. On arrive, on se gare, une combi de surf sèche sur le van à côté de nous. C’est sûr, on est au bon endroit. Cette plage est connue pour son surf. On croisera un allemand venu se poser quelques jours avec son break pour maison et la mer comme terrain de jeu. On descend vers la plage. On croise un véliplanchiste courant vers l’océan. L’appel de la mer, je suppose.
