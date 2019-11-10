@@ -1,14 +1,14 @@
-baseURL = "https://vadrouilles.co/"
+# baseURL = "https://vadrouilles.co/"
 languageCode = "fr"
 DefaultContentLanguage = "fr"
 title = "Vadrouilles"
-theme = "less"
+theme = "lesstwo"
 googleAnalytics = "UA-114349967-1"
 disqusShortname = "vadrouilles-co"
 RemovePathAccents = true
 timeout = 200000
 enableRobotsTXT = true
-canonifyURLs = true
+canonifyURLs = false
 
 [related]
   includeNewer = true

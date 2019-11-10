@@ -1,0 +1,59 @@
+.hero_header {
+  color: var(--white-text);
+  -moz-background-size: cover;
+  -ms-background-size: cover;
+  -o-background-size: cover;
+  -webkit-background-size: cover;
+  align-items: center;
+  background-position: top 50% left 0, top 50% right 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-bottom: 0 !important;
+  display: flex;
+  flex-direction: column;
+  flex: auto;
+  justify-content: center;
+  margin: 0;
+  margin-bottom: 100px;
+  min-height: 40vw;
+  overflow: hidden;
+  padding: 15px 0 ;
+  width: 100%;
+  @media only screen and (max-width: 667px) {
+    width: 100%;
+    min-height: 5vh;
+    justify-content: center;
+    border-bottom: 0 !important;
+
+    h1 {
+      font-size: 2.8rem;
+    }
+  }
+  > .title {
+    margin: 0;
+    margin-right: 20px;
+  }
+
+  a {
+    border: 0;
+    background-image: none;
+    font-weight: 200;
+    color: var(--white-text);
+  }
+  a, h1 {
+    text-shadow: 0 0 0  transparent !important;
+  }
+
+  .main_menu ul {
+    display: flex;
+    li:not(:first-of-type)::before {
+      content: "•";
+      Margin: 0 10px;
+    }
+  }
+  .main_menu li {
+    list-style-type: none;
+  }
+
+}
+

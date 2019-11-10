@@ -1,0 +1,8 @@
+<figure {{ with .Get "class"}}class="{{ . }}"{{ end }}>
+  {{ $media := $.Page.Resources }}
+  {{ $original := $media.GetMatch (.Get "src") }}
+  {{ if $original }}
+    {{ $resized := $original.Resize "x100" }}
+    <img class="lazyload" src="{{ $resized.Permalink }}" data-src="{{ $original.Permalink }}" {{ with .Get "alt" }}alt="{{ . }}"{{ end }} data-action="zoom">
+  {{ end }}
+</figure>

@@ -1,0 +1,15 @@
+{{ block "header" . }}
+  <header class="py-10 flex flex-col items-center">
+    <span class="py-5">
+      <a href="/">
+        {{ if .Site.Params.hasLogo }}
+          <img class="h-8" alt="logo" src="/logo.svg" />
+          <label aria-hidden="true" style="display: none">{{ .Site.Title }}</label>
+        {{ else }}
+          {{ .Site.Title }}
+        {{ end }}
+      </a>
+    </span>
+    {{ partial "main_menu" . }}
+  </header>
+{{ end }}

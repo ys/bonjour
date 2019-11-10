@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <div class="main">
+    <div class="list microposts">
+      {{ range (.Paginator 50).Pages }}
+        <div class="micropost">
+          <h2 class="date">{{ dateFormat "January 02, 2006" .Date }}</h2>
+          {{ .Content }}
+        </div>
+      {{ end }}
+    </div>
+    {{ template "_internal/pagination.html" . }}
+  </div>
+{{ end }}

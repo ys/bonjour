@@ -1,0 +1,10 @@
+{{ define "main" }}
+  {{ range (.Paginate (.Site.RegularPages) 10).Pages }}
+    {{ if eq .Type "posts"}}
+      {{ partial "post.html" . }}
+    {{ else if eq .Type "microposts" }}
+      {{ partial "micropost" .  }}
+    {{ end }}
+  {{ end }}
+  {{ template "_internal/pagination.html" . }}
+{{ end }}

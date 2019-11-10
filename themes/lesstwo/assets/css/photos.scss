@@ -1,0 +1,33 @@
+figure {
+  margin-top: 1rem !important;
+  margin: 0;
+  p {
+    margin-top: 10px;
+    margin-bottom: 0;
+  }
+  @media only screen and (max-width: 812px) {
+    margin-top: 0.5rem !important;
+    margin-bottom: 0;
+  }
+}
+
+.photoset {
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(3, 1fr);
+  &.always-2 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  @media only screen and (max-width: 812px) {
+    margin-top: 0;
+    margin-bottom: 0;
+    grid-gap: 0.5rem;
+  }
+  &.max-4 {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  &.max-2 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+

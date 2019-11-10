@@ -1,0 +1,43 @@
+.related-wrapper {
+  width: 100%;
+  background-color: var(--white-background);
+}
+.related {
+  max-width: var(--max-width);
+  display: grid;
+  grid-gap: 1.5rem;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  grid: auto-flow dense / repeat(3, 1fr);
+  grid-column: 3;
+  @media only screen and (max-width: 812px) {
+    grid: auto-flow dense / repeat(2, 1fr);
+    grid-column: 2;
+    padding: 1rem;
+  }
+  margin: 0 auto;
+  .tile {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    h3 {
+      text-align: left;
+    }
+    h4 {
+      text-align: left;
+      opacity: 0.8;
+      font-size: 1.2rem;
+    }
+    img {
+      width: 100%;
+    }
+  }
+  @media only screen and (max-width: 667px) {
+    .tile {
+      p, h3 {
+        margin: 10px 0;
+      }
+    }
+  }
+}

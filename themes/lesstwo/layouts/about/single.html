@@ -1,0 +1,30 @@
+{{ define "main" }}
+  <div class="main">
+    {{.Content}}
+
+    <form id="contact" class="boilerform" name="contact" netlify-honeypot="bot-field" method="POST" data-netlify="true">
+      <fieldset class="c-form">
+        <legend class="c-form__heading">Contactez-moi</legend>
+
+        <p class="hidden" style="display: none;">
+          <label>Don’t fill this out if you're human: </label><input name="bot-field" />
+        </p>
+        <div class="c-form__row">
+          <label class="c-label">Votre Nom</label>
+          <input class="c-input-field" type="text" name="name" />
+        </div>
+        <div class="c-form__row">
+          <label class="c-label">Votre Email</label>
+          <input class="c-input-field" type="email" name="email" />
+        </div>
+        <div class="c-form__row">
+          <label class="c-label">Message</label>
+          <textarea class="c-input-field c-input-field--multiline" name="message"></textarea>
+        </div>
+        <div class="c-form__row">
+          <button type="submit" class="t12 c-button">Envoyer</button>
+        </div>
+      </fieldset>
+    </form>
+  </div>
+{{ end }}

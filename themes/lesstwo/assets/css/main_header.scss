@@ -1,0 +1,132 @@
+.medium-zoom--open .main_header {
+  display: none;
+}
+.main_header {
+  margin: 0;
+  position: fixed;
+  z-index: 6;
+
+  @media only screen and (max-width: 812px) {
+    padding: 10px 0;
+  }
+  .wrapped {
+    flex: auto;
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    @media only screen and (max-width: 812px) {
+      padding: 0;
+      margin-top: 5px;
+      flex-direction: column;
+      justify-content: center;
+    }
+  }
+  .menu {
+    flex: 1;
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    @media only screen and (max-width: 812px) {
+      flex-direction: column;
+    }
+  }
+  background-color: rgba(255,255,255,0.95);
+  padding: 20px 0px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  .social {
+    svg {
+      transition: all .4s ease-in-out;
+      &:hover {
+        fill: var(--accent);
+      }
+    }
+    @media only screen and (max-width: 812px) {
+      display: none;
+    }
+    flex-direction: row;
+    flex: 1;
+    justify-content: flex-end;
+    display: flex;
+    align-items: center;
+    svg {
+      margin: 0;
+      margin-left: 10px;
+    }
+  }
+    .title {
+    flex: 1;
+    margin: 0;
+    font-size: 1.6rem;
+    display: flex;
+    justify-content: flex-start;
+    a img { width: inherit; height: 25px; color: var(--onyx);}
+    @media only screen and (min-width: 812px) {
+      margin-top: 5px;
+      top: 12px;
+    }
+    @media only screen and (max-width: 812px) {
+      margin-left: 0;
+    }
+  }
+
+  a, a:visited {
+    border: 0;
+    background-image: none;
+    color: var(--onyx);
+    font-weight: 300;
+  }
+  a:hover {
+    background-image: none;
+    border: 0;
+    color: var(--accent);
+
+
+  }
+  @media only screen and (min-width: 812px) {
+
+    .wrapped {
+      margin: 0 auto;
+      width: var(--max-width);
+
+    }
+    .main_menu ul {
+      display: flex;
+      justify-content: center;
+      margin: 0;
+      padding: 0;
+      li:not(:first-of-type)::before {
+        content: "•";
+        Margin: 0 10px;
+      }
+    }
+  }
+  .main_menu li {
+    list-style-type: none;
+  }
+}
+.post-img {
+  width: 100%;
+  margin: 0 auto;
+  height: 38rem;
+}
+.post-title {
+  max-width: 58rem;
+  text-align: center;
+  margin: 4rem auto;
+  @media only screen and (max-width: 812px) {
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+  h1 a {
+    border: 0;
+    background-image: none;
+  }
+  h3 {
+    text-transform: inherit;
+    opacity: 0.7;
+  }
+}
