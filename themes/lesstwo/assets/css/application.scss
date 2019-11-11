@@ -37,8 +37,9 @@
     background-image: linear-gradient(to top, transparent, transparent 2px
     , var(--accent) 2px, var(--accent) 2.5px, transparent 2.5px);
   }
-}
 
+}
+@import "photos";
 // Expand Hugo templates
 
 .pagination {

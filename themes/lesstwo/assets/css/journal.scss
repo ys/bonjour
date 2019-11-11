@@ -1,79 +1,9 @@
 /* Notes tile */
-.list.journal {
-  max-width: 48rem;
-  display: grid;
-  row-gap: 4rem;
-  column-gap: 2rem;
+.post-thumb picture {
+  transition: filter .4s ease-in-out, -webkit-filter .4s ease-in-out;
+  filter: brightness(100%);
 
-  .post-thumb picture {
-    transition: filter .4s ease-in-out, -webkit-filter .4s ease-in-out;
-    filter: brightness(100%);
-
-  }
-  .post-thumb picture:hover {
-    filter: brightness(80%);
-  }
-  .post-header {
-    margin: 0 1rem;
-    text-align: left;
-    .category {
-      text-align: left;
-    }
-    h3.title {
-      text-align: left;
-      font-size: 1.6rem;
-      a { color: var(--onyx); }
-      a:hover { color: var(--accent); }
-    }
-    h5 {
-      text-align: left;
-      opacity: 0.7;
-    }
-    .category {
-      text-align: left;
-      font-family: var(--sans-serif-font);
-      margin: 0;
-      padding: 0;
-    }
-    p {
-      margin: 0;
-      padding: 0;
-    }
-  }
-
-  @media only screen and (min-width: 812px) {
-    .post-thumb {
-      margin-bottom: 3rem;
-      picture {
-        overflow: hidden;
-        padding-top: 63%;
-        position: relative;
-        height: auto;
-        width: 100%;
-        display: block;
-        img, source {
-          position: absolute;
-          top: 0;
-          left: 0;
-        }
-      }
-    }
-    .post-header {
-      display: grid;
-      grid-gap: 1rem;
-      grid-template-columns: 1fr;
-      .category {
-        grid-column: 1 / 2;
-        grid-row: 1 / 2;
-      }
-      .title {
-        grid-column: 1 / 2;
-        grid-row: 2 / 3;
-      }
-      p {
-        grid-column: 1 / 2;
-        grid-row: 3 / 4;
-      }
-    }
-  }
+}
+.post-thumb picture:hover {
+  filter: brightness(80%);
 }

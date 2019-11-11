@@ -1,24 +1,27 @@
 {{ define "main" }}
-<div>
-  <span>
+<header class="text-center pb-10">
+  <span class="text-gray-500">
     {{ .Params.emoji}}
     {{ range first 1 .Params.categories }}
-    <a href="/{{ . }}">{{ . }}</a>
+      <a href="/{{ . }}">{{ . }}</a>
     {{ end }} {{ .Site.Params.arrow }}
     {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
   </span>
-  <h1>{{ .Title }}</h1>
-  <h3>{{ .Params.subtitle }}</h3>
-</div>
-<div>
-  {{ if .IsTranslated }}
-    {{ range .Translations }}
-    <p>
-      <a href="{{ .Permalink }}">{{ T "also_available" }} {{ .Language.LanguageName }}</a>
-    </p>
-    {{ end }}
+  <h1 class="text-3xl">{{ .Title }}</h1>
+  <h3 class="text-xl text-gray-700">{{ .Params.subtitle }}</h3>
+</header>
+{{ if .IsTranslated }}
+  {{ range .Translations }}
+  <div class="text-center italic pb-10">
+    <a class="link" href="{{ .Permalink }}">{{ T "also_available" }} {{ .Language.LanguageName }}</a>
+  </div>
   {{ end }}
+{{ end }}
+<div class="post">
   {{.Content}}
 </div>
+
+<!--
 {{ partial "three.html" (.Site.RegularPages.Related . ) }}
+-->
 {{ end }}

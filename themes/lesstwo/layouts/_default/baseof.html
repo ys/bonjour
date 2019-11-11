@@ -5,7 +5,9 @@
     {{ partial "header" . }}
     <div class="container max-w-xl mx-auto">
       {{ block "main" . }}
-    {{ end }}
+      {{ end }}
+    </div>
+
     {{ partial "footer" .}}
     {{ partial "gtag.html" . }}
     <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>
