@@ -1,9 +1,10 @@
 {{ $media := $.Page.Resources }}
 {{ $original := $media.GetMatch (.Get "src") }}
 {{ if $original }}
-  {{ $resized := $original.Resize "x100" }}
+  {{ $mobile := $original.Resize "600x" }}
+  {{ $mini := $original.Resize "100x" }}
   <picture class="{{ if .Parent }}{{ else }}{{ if eq (.Get "class") "vertical" }}{{ else }}my-4 md:-mx-10{{ end }}{{ end }}" {{ with .Get "alt" }}alt="{{ . }}"{{ end }}>
-    <source class="lazyload" srcset="{{ $original.Permalink }}" type="image/jpg" data-srcset="{{ $original.Permalink }}" data-action="zoom" data-src="{{ $original.Permalink }}">
-    <img src="{{ $resized.Permalink }}" style="width: 100%" class="w-100">
+    <source class="lazyload" srcset="{{ $mini.Permalink }}" type="image/jpg" data-srcset="{{ $original.Permalink }}" data-action="zoom" data-src="{{ $original.Permalink }}">
+    <img src="{{ $mobile.Permalink }}" style="width: 100%" class="w-100">
   </picture>
 {{ end }}
