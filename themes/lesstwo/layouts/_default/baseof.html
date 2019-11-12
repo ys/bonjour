@@ -3,9 +3,11 @@
   {{ partial "head" .}}
   <body class="leading-relaxed">
     {{ partial "header" . }}
-    <div class="container w-screen md:max-w-xl mdmx-auto">
-      {{ block "main" . }}
-      {{ end }}
+    <div class="container w-screen md:max-w-xl mx-auto">
+      <div class="mx-4 md:mx-0">
+        {{ block "main" . }}
+        {{ end }}
+      </div>
     </div>
 
     {{ partial "footer" .}}
