@@ -37,9 +37,54 @@
     background-image: linear-gradient(to top, transparent, transparent 2px
     , var(--accent) 2px, var(--accent) 2.5px, transparent 2.5px);
   }
-
 }
-@import "photos";
+
+.photoset {
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(3, 1fr);
+  &.always-2 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  &.max-4 {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  &.max-2 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+hr {
+  display: block;
+  border: 0;
+  text-align: center;
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+  height: 20px;
+  &::after {
+    margin: 1rem 0;
+    height: 20px;
+    display: block;
+    content: "•••";
+    font-size: 2rem;
+    text-align: center;
+    color: var(--onyx);
+    width: 100%;
+  }
+}
+
+.post {
+  h1 {
+   @apply text-2xl font-semibold text-gray-900
+  }
+  h2 {
+   @apply text-xl text-gray-700 font-semibold
+  }
+  ul {
+   @apply list-disc list-inside my-8
+  }
+}
+
 // Expand Hugo templates
 
 .pagination {

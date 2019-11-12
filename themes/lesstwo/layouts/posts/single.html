@@ -1,5 +1,7 @@
 {{ define "main" }}
 <header class="text-center pb-10">
+  <h1 class="text-3xl">{{ .Title }}</h1>
+  <h3 class="text-xl text-gray-700">{{ .Params.subtitle }}</h3>
   <span class="text-gray-500">
     {{ .Params.emoji}}
     {{ range first 1 .Params.categories }}
@@ -7,8 +9,6 @@
     {{ end }} {{ .Site.Params.arrow }}
     {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
   </span>
-  <h1 class="text-3xl">{{ .Title }}</h1>
-  <h3 class="text-xl text-gray-700">{{ .Params.subtitle }}</h3>
 </header>
 {{ if .IsTranslated }}
   {{ range .Translations }}
