@@ -1,14 +1,18 @@
-<div class="mb-10">
-  <div class="float-right text-gray-500">
-    {{ .Params.emoji }}
-    {{ range first 1 .Params.categories }}
-      <a href="/{{ . }}">{{ . }}</a>
-    {{ end }} {{ .Site.Params.arrow }}
-    {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
-  </div>
-  <h3 class="-ml-10 text-lg font-semibold mb-4 text-gray-700">
-    <a href="{{ .Permalink }}">{{ .Title }}</a><br/>
-  </h3>
+<div class="mb-10 mx-4 md:mx-0">
+
+
+  <header class="flex flex-col md:flex-row md:justify-between">
+    <h3 class="md:-ml-10 ml-0 md:mb-4 text-lg font-semibold text-gray-700 date">
+      <a href="{{ .Permalink }}">{{ .Title }}</a><br/>
+    </h3>
+    <div class="md:mb-0 mb-4 text-gray-500">
+      {{ .Params.emoji }}
+      {{ range first 1 .Params.categories }}
+        <a href="/{{ . }}">{{ . }}</a>
+      {{ end }} {{ .Site.Params.arrow }}
+      {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+    </div>
+  </header>
   {{ $postScratch := newScratch }}
   {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
   {{ $size := "1200x800" }}
