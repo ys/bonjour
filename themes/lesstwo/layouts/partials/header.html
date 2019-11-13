@@ -10,6 +10,13 @@
         {{ end }}
       </a>
     </span>
+    <input id="burger" class="hidden" type="checkbox" />
+
+    <label class="fixed h-6 w-5 bg-gray-100 top-0 right-0 mt-2 mr-2 z-10" for="burger">
+      <span class="absolute top-0 w-full h-1 bg-gray-900 block left-0"></span>
+      <span class="mt-2 absolute top-0 w-full h-1 bg-gray-900 block left-0"></span>
+      <span class="mt-4 absolute top-0 w-full h-1 bg-gray-900 block left-0"></span>
+    </label>
     {{ partial "main_menu" . }}
   </header>
 {{ end }}
