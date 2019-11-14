@@ -39,7 +39,6 @@
   }
 }
 
-@import "burger";
 
 .photoset {
   display: grid;
@@ -64,14 +63,8 @@ hr {
   margin-bottom: 3rem;
   height: 20px;
   &::after {
-    margin: 1rem 0;
-    height: 20px;
-    display: block;
-    content: "•••";
-    font-size: 2rem;
-    text-align: center;
-    color: var(--onyx);
-    width: 100%;
+    @apply my-4 mx-0 h-4 block text-4xl text-gray-600 w-full;
+    content: "…";
   }
 }
 

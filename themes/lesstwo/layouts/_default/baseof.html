@@ -2,9 +2,9 @@
 <html lang="{{ .Site.LanguageCode }}">
   {{ partial "head" .}}
   <body class="leading-relaxed">
-    {{ partial "header" . }}
     <div class="container w-screen md:max-w-xl mx-auto">
       <div class="mx-4 md:mx-0">
+        {{ partial "header" . }}
         {{ block "main" . }}
         {{ end }}
       </div>

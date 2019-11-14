@@ -1,5 +1,6 @@
 {{ define "main" }}
-  {{ range (.Paginate (.Site.RegularPages) 10).Pages }}
+  {{ $paginator := (.Paginate (.Site.RegularPages) 10) }}
+  {{ range $paginator.Pages }}
     {{ if eq .Type "posts"}}
       {{ partial "post.html" . }}
     {{ else if eq .Type "microposts" }}

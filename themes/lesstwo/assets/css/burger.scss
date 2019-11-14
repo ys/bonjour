@@ -6,26 +6,14 @@ input + label {
 label:hover {
   cursor: pointer;
 }
-input:checked + label {
-  @apply z-20;
-  span {
-    @apply opacity-0;
-  }
-  span:first-child {
-    @apply opacity-100 mt-4;
-    transform: rotate(405deg);
-  }
-  span:last-child {
-    @apply top-0 opacity-100;
-    transform: rotate(-405deg);
-  }
+input:checked + label::after {
+  content: "-";
+
 }
 input ~ nav {
-  @apply z-10 overflow-hidden hidden;
   transition: .5s;
   transition-delay: .5s;
   > ul {
-    @apply text-center w-full flex flex-col;
     justify-content: space-between;
     margin: 0;
     padding: 0;
@@ -45,7 +33,7 @@ input ~ nav {
   }
 }
 input:checked ~ nav {
-  @apply block h-full fixed top-0 left-0 w-screen bg-gray-100;
+  @apply visible;
   transition-delay: 0s;
   > ul {
     @apply block;
