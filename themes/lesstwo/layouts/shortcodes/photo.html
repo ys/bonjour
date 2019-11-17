@@ -4,7 +4,7 @@
   {{ $mobile := $original.Resize "600x" }}
   {{ $mini := $original.Resize "100x" }}
   <picture class="block {{ if .Parent }}{{ else }}{{ if eq (.Get "class") "vertical" }}{{ else }}my-4 md:-mx-10{{ end }}{{ end }}" {{ with .Get "alt" }}alt="{{ . }}"{{ end }}>
-    <source class="lazyload" srcset="{{ $mini.Permalink }}" type="image/jpg" data-srcset="{{ $original.Permalink }}" data-action="zoom" data-src="{{ $original.Permalink }}">
-    <img src="{{ $mobile.Permalink }}" style="width: 100%" class="w-100">
+    <source class="lazyload" srcset="{{ $mini.Permalink }}" type="image/jpg" data-srcset="{{ $original.Permalink }}" data-src="{{ $original.Permalink }}">
+    <img data-action="zoom" data-zoom-src="{{ $original.Permalink}}" src="{{ $mobile.Permalink }}" style="width: 100%" class="w-100">
   </picture>
 {{ end }}
