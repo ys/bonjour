@@ -1,25 +1,13 @@
-<div>
+<div class="rounded bg-gray-200 flex justify-around flex-row md:-mx-10 mt-10 p-4">
+  {{ range first 2 . }}
   <div>
-  {{ range first 3 . }}
-  <div>
-    {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
-    {{if $image }}
-      {{ $resized := $image.Fill "600x400 center" }}
-      {{ $mini := $image.Fill "60x40 center" }}
-      <a href="{{ .Permalink }}">
-        <img class="lazyload"
-              src="{{ $mini.Permalink }}"
-              data-src="{{ $resized.Permalink }}"
-              alt="{{ .Title }}" />
-      </a>
-    {{end}}
-    <h3>
-      <a href="{{ .Permalink }}">
-        {{ .Params.emoji }} {{ .Title }}
+    <h3 class="mb-4">
+      {{ .Params.emoji }}
+      <a class="link-gray-900" href="{{ .Permalink }}">
+        {{ .Title }}
       </a>
     </h3>
-    <h4>{{ .Params.subtitle }}</h4>
+    <span class="text-xs text-gray-500">{{ .Params.subtitle }}</span>
   </div>
   {{ end }}
-</div>
 </div>

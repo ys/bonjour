@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
   {{ partial "head" .}}
-  <body class="leading-relaxed">
+  <body class="font-serif leading-relaxed">
     <div class="container w-screen md:max-w-xl mx-auto">
       <div class="mx-4 md:mx-0">
         {{ partial "header" . }}
@@ -20,10 +20,10 @@
     {{ end }}
     {{ $js := .Scratch.Get "jslibs" | resources.Concat "js/main.js" }}
     {{ if .Site.IsServer }}
-      <script src="{{ $js.Permalink }}"></script>
+      <script src="{{ $js.RelPermalink }}"></script>
     {{ else }}
       {{ $js := $js | minify | fingerprint }}
-      <script src="{{ $js.Permalink }}" integrity="{{ $js.Data.Integrity }}"></script>
+      <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}"></script>
     {{ end }}
   </body>
 </html>

@@ -1,7 +1,7 @@
 {{ define "main" }}
 <header class="text-center pb-10">
   <h1 class="text-3xl">
-    {{ dateFormat "January 02, 2006" .Date }}
+    {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
   </h1>
 </header>
 <div class="post">

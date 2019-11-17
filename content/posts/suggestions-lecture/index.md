@@ -29,13 +29,17 @@ resources:
 
 C'est l'été, vous êtes en vacances. Vous ne savez pas quoi lire. Laissez moi vous aider.
 
+{{< photo src="cover" >}}
+
 J’ai une habitude qui tient, c’est la lecture. Quasi quotidienne, elle me permet en fin de journée de me détendre. Mes lectures sont souvent liées à la nature. Il y a quelques années c’était plutôt des bouquins techniques. J'ai eu envie de partager quelques uns de mes coups de cœur avec vous. J'aime pas mal de bouquins donc attendez vous à en voir plus. Si vous voulez me suivre sur [goodreads](https://www.goodreads.com/vadrouilles), je me suis fixé comme challenge de lire 35 livres cette année.
+
+<hr/>
 
 Voici trois bouquins que j’ai vraiment apprécié.
 
 {{< photo src="4.jpg" alt="les huit montagnes" >}}
 
-## [Les huit montagnes](https://amzn.to/2XWw3Xx) par Paolo Cotnetti
+## [Les huit montagnes](https://amzn.to/2XWw3Xx) par Paolo Cognetti
 
 Une super lecture recommandée par [Martin Dellicour](http://www.martindellicour.be). Une histoire d'amitié dans les montagnes italiennes. Une amitié qui évolue autour de vieilles pierres et de moments dans les montagnes. C'est aussi une histoire de solitude. Une histoire de père et fils, d'une certaine manière. Une histoire de deux garçons devenus hommes. Pour ceux qui me connaissent, cette lecture a plutôt fait mouche. J'ai adoré le style d'écriture. Son histoire pleine de contrastes, entre les hommes, la ville et la montagne, le passé et le présent. Ses souvenirs, sa vie. C'est un texte splendide récompensé du prix Médicis en 2017.
 

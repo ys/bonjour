@@ -1,9 +1,0 @@
-/* Notes tile */
-.post-thumb picture {
-  transition: filter .4s ease-in-out, -webkit-filter .4s ease-in-out;
-  filter: brightness(100%);
-
-}
-.post-thumb picture:hover {
-  filter: brightness(80%);
-}

@@ -31,7 +31,7 @@
   {{end}}
   <div>
     <p class="">
-      {{ .Summary | replaceRE "(?ms)(<(figure|blockquote).*</(figure|blockquote)>)" "" | safeHTML | truncate 200 }}
+      {{ .Summary | replaceRE "(?ms)(<(picture|blockquote).*</(picture|blockquote)>)" "" | safeHTML | truncate 200 }}
     </p>
     <div>
     {{ if .Truncated }}
