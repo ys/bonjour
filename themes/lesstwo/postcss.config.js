@@ -1,11 +1,6 @@
 module.exports = {
-  plugins: {
-    tailwindcss: {},
-    autoprefixer: {
-      browsers: [
-        "last 2 versions",
-        "Explorer >= 8",
-      ]
-    },
-  },
-}
+  plugins: [
+    require("tailwindcss")("./themes/lesstwo/tailwind.config.js"),
+    require("autoprefixer")
+  ]
+};

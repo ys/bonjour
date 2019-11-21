@@ -1,24 +1,18 @@
 @tailwind base;
 
+@import url({{ with .Site.Params.fontsUrl}}{{ . }}{{ end }});
+
 @tailwind components;
 
 @tailwind utilities;
 
 :root {
-  --serif-font: "{{ .Site.Params.bodyFont }}", serif;
-  --title-font: "{{ .Site.Params.titleFont }}", var(--serif-font);
-  --sans-serif-font: {{ with .Site.Params.sansSerifFontFamily }}{{ . }}{{ else }}"{{ .Site.Params.sansSerifFont }}",-apple-system, BlinkMacSystemFont, system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif{{ end }};
   --onyx: {{ with .Site.Params.onyxColor }}{{ . }}{{ else }}#313638{{ end }};
   --accent: {{ with .Site.Params.accentColor }}{{ . }}{{ else }}var(--onyx){{ end }};
   --white-text: {{ with .Site.Params.whiteTextColor }}{{ . }}{{ else }}#FAFAFA{{ end }};
   --white-background: {{ with .Site.Params.whiteBackgroundColor }}{{ . }}{{ else }}#F3F3F3{{ end }};
   --light-gray: {{ with .Site.Params.lightGrayColor }}{{ . }}{{ else }}rgba(0,0,0,0.5){{ end }};
   --max-width: {{ with .Site.Params.bodyMaxWidth }}{{ . }}{{ else }}74rem{{ end }};
-
-  --menu-font: var(--sans-serif-font);
-  --subtitle-font: var(--sans-serif-font);
-  --categories-font: var(--sans-serif-font);
-  --date-font: var(--sans-serif-font);
 }
 
 .link-gray-900 {
@@ -27,8 +21,8 @@
   position: relative;
   text-shadow: -1px -1px 0 theme('colors.gray.200'), 1px -1px 0 theme('colors.gray.200'), -1px 1px 0 theme('colors.gray.200'), 1px
   1px 0 theme('colors.gray.200');
-  background-image: linear-gradient(to top, transparent, transparent 2px,
-  theme('colors.gray.900') 2px, theme('colors.gray.900') 2.5px, transparent 2.5px);
+  background-image: linear-gradient(to top, transparent, transparent 3px,
+  theme('colors.gray.900') 3px, theme('colors.gray.900') 2.5px, transparent 2.5px);
   transition: color 0.5s, background-image 0.5s linear;
   &:hover {
     color: theme('colors.gray.900');
@@ -80,10 +74,10 @@ hr {
 .post {
   @apply mb-10;
   h1 {
-   @apply my-6 text-2xl font-semibold text-gray-900 block
+   @apply my-6 text-2xl font-semibold text-gray-900 block font-sans
   }
   h2 {
-   @apply my-6 text-xl text-gray-700 font-semibold block
+   @apply my-6 text-xl text-gray-700 font-semibold block font-sans
   }
   ul {
    @apply list-disc list-inside my-8

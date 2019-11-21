@@ -1,25 +1,21 @@
 {{ define "main" }}
-<header class="text-center pb-10">
+<header class="text-center pb-10 font-sans">
   <h1 class="text-3xl">{{ .Title }}</h1>
   <h3 class="text-xl text-gray-700">{{ .Params.subtitle }}</h3>
   <span class="text-gray-500">
-    {{ .Params.emoji}}
-    {{ range first 1 .Params.categories }}
-      <a href="/{{ . }}">{{ . }}</a>
-    {{ end }} {{ .Site.Params.arrow }}
-    {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+    {{ .Params.emoji}} {{ range first 1 .Params.categories }}
+    <a href="/{{ . }}">{{ . }}</a>
+    {{ end }}
+    {{ .Site.Params.arrow }} {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
   </span>
 </header>
-{{ if .IsTranslated }}
-  {{ range .Translations }}
-  <div class="text-center italic pb-10">
-    <a class="link" href="{{ .Permalink }}">{{ T "also_available" }} {{ .Language.LanguageName }}</a>
-  </div>
-  {{ end }}
-{{ end }}
+{{ if .IsTranslated }} {{ range .Translations }}
+<div class="text-center italic pb-10">
+  <a class="link" href="{{ .Permalink }}">{{ T "also_available" }} {{ .Language.LanguageName }}</a>
+</div>
+{{ end }} {{ end }}
 <div class="post">
   {{.Content}}
 </div>
 
-{{ partial "three.html" (.Site.RegularPages.Related . ) }}
-{{ end }}
+{{ partial "three.html" (.Site.RegularPages.Related . ) }} {{ end }}
