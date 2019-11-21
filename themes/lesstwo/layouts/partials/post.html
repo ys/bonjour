@@ -21,7 +21,7 @@
   {{if $image }}
   <div class="my-6">
       <a href="{{ .Permalink }}">
-        <picture class="md:-mx-10 block shadow">
+        <picture class="md:-mx-10 block shadow-lg">
           <source class="lazyload" srcset="{{ $mini.Permalink }}" type="image/jpg" media="(min-width: 821px)" data-srcset="{{ $web.Permalink }}">
           <source class="lazyload" srcset="{{ $mini.Permalink }}" type="image/jpg" media="(max-width: 821px)" data-srcset="{{ $mobile.Permalink }}">
           <img src="{{ $web.Permalink }}" style="width: 100%;">

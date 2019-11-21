@@ -21,12 +21,6 @@
   --date-font: var(--sans-serif-font);
 }
 
-.shadow {
--webkit-box-shadow: 0px 0px 20px -6px rgba(0,0,0,0.75);
--moz-box-shadow: 0px 0px 20px -6px rgba(0,0,0,0.75);
-box-shadow: 0px 0px 20px -6px rgba(0,0,0,0.75);
-}
-
 .link-gray-900 {
   color: theme('colors.gray.900');
   text-decoration: none;
