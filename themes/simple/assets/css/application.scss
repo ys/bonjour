@@ -74,10 +74,10 @@ hr {
 .post {
   @apply mb-10;
   h1 {
-   @apply my-6 text-2xl font-semibold text-gray-900 block font-sans
+   @apply my-6 font-semibold text-gray-900 block font-sans
   }
   h2 {
-   @apply my-6 text-xl text-gray-700 font-semibold block font-sans
+   @apply my-6 text-gray-600 font-semibold block font-sans
   }
   ul {
    @apply list-disc list-inside my-8
