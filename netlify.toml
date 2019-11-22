@@ -8,6 +8,8 @@
   command = "hugo -F -b $DEPLOY_PRIME_URL -v"
 [context.branch-deploy.environment]
   HUGO_VERSION = "0.58.3"
+[dev]
+  command = "hugo serve -b https://code.yannickschutz.com:8888"
 
 [[headers]]
   for = "*.js" # js files should be set this way

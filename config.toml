@@ -1,14 +1,14 @@
-baseURL = "https://vadrouilles.co/"
+# baseURL = "https://vadrouilles.co/"
 languageCode = "fr"
 DefaultContentLanguage = "fr"
 title = "Vadrouilles"
-theme = "less"
+theme = "simple"
 googleAnalytics = "UA-114349967-1"
 disqusShortname = "vadrouilles-co"
 RemovePathAccents = true
 timeout = 200000
 enableRobotsTXT = true
-canonifyURLs = true
+canonifyURLs = false
 
 [related]
   includeNewer = true
@@ -23,7 +23,7 @@ canonifyURLs = true
 [permalinks]
   posts = "/:slug"
   categories = "/:slug"
-  microposts = "/inspiration/:year-:month-:day"
+  microposts = "/:year-:month-:day"
 
 [imaging]
   resampleFilter = "lanczos"
@@ -32,9 +32,8 @@ canonifyURLs = true
   mapbox = "pk.eyJ1IjoieWFubmljay1pbyIsImEiOiJjamY1NmR3NjMwNHkwMnBscDc2Nzl6b2ZwIn0.NbV8ywwFWfOH4T8DAN_tKw"
   sizes = [ "2048" , "1024" , "512" ]
   tags = ["famille", "exode rurale", "bretagne", "slow travel", "voyage", "slow life", "neorural", "photography", "photographies"]
-  sansSerifFont = "Noto Sans HK"
-  titleFont = "Crimson Text"
-  bodyFont = "Poly"
+  serifFont = "freight-text-pro"
+  fontsUrl = "https://use.typekit.net/cmn1adl.css"
   pinterestVerify = "fd6b8a37d3208b2c605434cf2ce71ac3"
   hasLogo = true
   accentColor = "#6CB0C1"
@@ -51,28 +50,23 @@ canonifyURLs = true
 
 [params.social]
   email = "petites@vadrouilles.co"
-  domain = "Vadrouilles.co"
+  domain = "vadrouilles.co"
   instagram = "vadrouilles.co"
   twitter = "yann_ck"
+  vsco = "yann_ck"
 
 [[menu.main]]
   name = "Vadrouilles"
   title = "Vadrouilles"
-  weight = 1
+  weight = 2
   identifier = "vadrouilles"
   url = "/vadrouilles/"
 [[menu.main]]
-  name = "Journal de Bord"
-  title = "Journal de Bord"
-  weight = 2
+  name = "Journal"
+  title = "Journal"
+  weight = 1
   identifier = "journal"
-  url = "/journal/"
-[[menu.main]]
-  name = "Inspiration"
-  title = "Inspiration"
-  weight = 3
-  identifier = "inspiration"
-  url = "/inspiration/"
+  url = "/"
 [[menu.main]]
   name = "A propos"
   title = "About me"

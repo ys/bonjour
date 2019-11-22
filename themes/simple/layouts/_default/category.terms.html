@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div class="main">
+  <div class="list">
+  {{ range .Pages }}
+  {{ if isset .Params "title" }}
+    <div class="post-tile">
+      {{ $firstPage := (index .Pages 0) }}
+      {{ $image := ($firstPage.Resources.GetMatch "cover" | default (index $firstPage.Resources 0))  }}
+      {{if $image }}
+      {{ $resized := $image.Fill "400x500" }}
+        <a class="no-decoration" href="{{ .Permalink }}">
+          <img src="{{ $resized.Permalink }}"/>
+        </a>
+      {{end}}
+      <header class="post-header">
+        <h3>
+          <a class="title bold no-decoration" href="{{ .Permalink }}">{{ .Params.title }}</a><br/>
+        </h3>
+      </header>
+    </div>
+  {{ end }}
+  {{ end }}
+  </div>
+</div>
+{{ end }}

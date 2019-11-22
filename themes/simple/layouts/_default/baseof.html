@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  {{ partial "head" .}}
+  <body class="font-serif leading-relaxed text-base">
+    <div class="container w-screen md:max-w-xl mx-auto">
+      <div class="mx-4 md:mx-0 text-gray-700">
+        {{ partial "header" . }} {{ block "main" . }} {{ end }}
+      </div>
+    </div>
+
+    {{ partial "footer" .}} {{ partial "gtag.html" . }}
+    <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>
+    {{ $.Scratch.Set "jslibs" slice }} {{ $libs := slice "js/lazysizes.min.js" "js/medium-zoom.min.js" "js/iolazy.min.js" "js/main.js" }} {{ range $libs }} {{ $.Scratch.Add "jslibs" (resources.Get . ) }} {{ end }} {{ $js := .Scratch.Get "jslibs" | resources.Concat "js/main.js" }} {{ if .Site.IsServer }}
+    <script src="{{ $js.RelPermalink }}"></script>
+    {{ else }} {{ $js := $js | minify | fingerprint }}
+    <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}"></script>
+    {{ end }}
+  </body>
+</html>

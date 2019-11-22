@@ -1,0 +1,43 @@
+<div class="mb-10">
+  <header class="flex flex-col md:flex-row md:justify-between font-sans">
+    <h3 class=" ml-0 md:mb-4  font-semibold text-gray-800 date">
+      <a href="{{ .Permalink }}">{{ .Title }}</a><br/>
+    </h3>
+  </header>
+  {{ $postScratch := newScratch }}
+  {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
+  {{ $size := "1200x800" }}
+  {{ $postScratch.Set "coverSize" (printf "%s center" $size)}}
+  {{ $web := $image.Fill ($postScratch.Get "coverSize") }}
+  {{ $mobile := $image.Fill "600x400 center" }}
+  {{ $mini := $image.Fill "60x40" }}
+  {{if $image }}
+  <div class="my-6">
+      <a href="{{ .Permalink }}">
+        <picture class="md:-mx-10 block shadow-lg">
+          <source class="lazyload" srcset="{{ $mini.Permalink }}" type="image/jpg" media="(min-width: 821px)" data-srcset="{{ $web.Permalink }}">
+          <source class="lazyload" srcset="{{ $mini.Permalink }}" type="image/jpg" media="(max-width: 821px)" data-srcset="{{ $mobile.Permalink }}">
+          <img src="{{ $web.Permalink }}" style="width: 100%;">
+        </picture>
+      </a>
+    </div>
+  {{end}}
+  <div>
+    <p class="text-gray-700">
+      {{ .Summary | replaceRE "(?ms)(<(picture|blockquote).*</(picture|blockquote)>)" "" | safeHTML | truncate 200 }}
+    </p>
+    <div>
+    {{ if .Truncated }}
+        <a class="link" href="{{ .RelPermalink }}">Lire tout…</a>
+    {{ end }}
+    </div>
+  </div>
+    <div class="capitalize text-sm text-gray-500 text-right">
+      {{ .Params.emoji }}
+      {{ range first 1 .Params.categories }}
+        <a href="/{{ . }}">{{ . }}</a>
+      {{ end }} {{ .Site.Params.arrow }}
+      {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+    </div>
+</div>
+<hr/>

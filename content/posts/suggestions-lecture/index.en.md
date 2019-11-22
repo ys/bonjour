@@ -2,7 +2,6 @@
 title: "A few books worth a look"
 subtitle: "Your summer reading list"
 date: 2019-07-15T10:00:22+02:00
-draft: true
 tags:
   [
     "reading",
@@ -26,9 +25,15 @@ resources:
 
 It is summer time, you wanna read something but you don't know what. Don't worry, I got you covered.
 
+{{< photo src="cover" >}}
+
 I really enjoy reading books lately. It is often somehow related to nature when it is not a technical book. and I wanted to share a quick few recommendations with y'all. I love books so expect more of these. I challenged myself to read 35 books and keep track on [goodreads](https://www.goodreads.com/vadrouilles).
 
+<hr/>
+
 Here are three good recommendations.
+
+{{< photo src="4.jpg" alt="les huit montagnes" >}}
 
 ## [The eight mountains](https://amzn.to/32l2uhH) by Paolo Cognetti
 
@@ -37,12 +42,16 @@ It is also a good story around loneliness. And a story about a father and a son,
 
 I would also suggest another one by Paolo Cognetti, the [wild boy](https://amzn.to/30nu4JA). The story also takes place in the Italian mountains.
 
+{{< photo src="1.jpg" alt="Indian creek" >}}
+
 ## [Indian Creek Chronicles: A winter alone in the Wilderness](https://amzn.to/2G7RwTx) by Pete Fromm
 
 One of the first nature writing book I read. The story of a student spending its whole winter in a tent. His only job is to watch after salmon's eggs that need to survive through the winter.
 
 Another great story of man vs the loneliness of wilderness. Highly recommended. There is [a sequel](https://amzn.to/2xOpI1D) to this one where he is now a father. And hoped to bring his kids with him.
 Both are true stories.
+
+{{< photo src="3.jpg" alt="The Dharma Bums" >}}
 
 ## [The Dharma Bums](https://amzn.to/2GaveAn) by Jack Kerouac
 

@@ -1,0 +1,101 @@
+@tailwind base;
+
+@import url({{ with .Site.Params.fontsUrl}}{{ . }}{{ end }});
+
+@tailwind components;
+
+@tailwind utilities;
+
+:root {
+  --onyx: {{ with .Site.Params.onyxColor }}{{ . }}{{ else }}#313638{{ end }};
+  --accent: {{ with .Site.Params.accentColor }}{{ . }}{{ else }}var(--onyx){{ end }};
+  --white-text: {{ with .Site.Params.whiteTextColor }}{{ . }}{{ else }}#FAFAFA{{ end }};
+  --white-background: {{ with .Site.Params.whiteBackgroundColor }}{{ . }}{{ else }}#F3F3F3{{ end }};
+  --light-gray: {{ with .Site.Params.lightGrayColor }}{{ . }}{{ else }}rgba(0,0,0,0.5){{ end }};
+  --max-width: {{ with .Site.Params.bodyMaxWidth }}{{ . }}{{ else }}74rem{{ end }};
+}
+
+.link-gray-900 {
+  color: theme('colors.gray.900');
+  text-decoration: none;
+  position: relative;
+  text-shadow: -1px -1px 0 theme('colors.gray.200'), 1px -1px 0 theme('colors.gray.200'), -1px 1px 0 theme('colors.gray.200'), 1px
+  1px 0 theme('colors.gray.200');
+  background-image: linear-gradient(to top, transparent, transparent 2px,
+  theme('colors.gray.900') 2px, theme('colors.gray.900') 2.5px, transparent 2.5px);
+  transition: color 0.5s, background-image 0.5s linear;
+  &:hover {
+    color: theme('colors.gray.900');
+    text-shadow: -1px -1px 0 theme('colors.gray.200'), 1px -1px 0 theme('colors.gray.200'), -1px 1px 0 theme('colors.gray.200'), 1p
+    x 1px 0 theme('colors.gray.200');
+    background-image: linear-gradient(to top, transparent, transparent 2px
+    , theme('colors.gray.900') 2px, theme('colors.gray.900') 2.5px, transparent 2.5px);
+  }
+}
+
+.link, .post a, .content a {
+  color: var(--accent);
+  text-decoration: none;
+  position: relative;
+  text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px
+  1px 0 white;
+  background-image: linear-gradient(to top, transparent, transparent 2px,
+  var(--accent) 2px, var(--accent) 2.5px, transparent 2.5px);
+  transition: color 0.5s, background-image 0.5s linear;
+  &:hover {
+    color: var(--accent);
+    text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1p
+    x 1px 0 white;
+    background-image: linear-gradient(to top, transparent, transparent 2px
+    , var(--accent) 2px, var(--accent) 2.5px, transparent 2.5px);
+  }
+}
+
+
+.photoset {
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(3, 1fr);
+  &.always-2 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  &.max-4 {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  &.max-2 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+hr {
+  @apply block mt-6 mb-10 border-b border-gray-200 w-2/4 mx-auto;
+}
+
+.post {
+  @apply mb-10;
+  h1 {
+   @apply my-6 font-semibold text-gray-900 block font-sans
+  }
+  h2 {
+   @apply my-6 text-gray-600 font-semibold block font-sans
+  }
+  ul {
+   @apply list-disc list-inside my-8
+  }
+}
+
+// Expand Hugo templates
+
+.pagination {
+  @apply flex flex-row items-center justify-center py-10
+}
+
+.pagination li {
+  @apply p-2
+}
+.pagination li.active {
+    @apply bg-gray-200 rounded px-4 py-2
+}
+.pagination li.disabled {
+    @apply opacity-25
+}

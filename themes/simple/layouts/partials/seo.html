@@ -1,0 +1,36 @@
+<title>{{ .Params.emoji }} {{ with .Params.seotitle }}{{ . }}{{ else }}{{ with .Title }}{{ . }} - {{ $.Site.Title }}{{ end }}{{ end }} </title>
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+<meta name="keywords" content="{{ if isset .Params "tags" }}{{ range .Params.tags }}{{ . }},{{ end }}{{ end }}">
+<link rel="canonical" href="{{ .Permalink }}">
+<meta name="p:domain_verify" content="{{ .Site.Params.pinterestVerify }}"/>
+<script type="application/ld+json">
+{
+    "@context" : "http://schema.org",
+    "@type" : "BlogPosting",
+    "mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "{{ .Site.BaseURL }}"
+    },
+    "articleSection" : "{{ .Section }}",
+    "name" : "{{ .Title }}",
+    "headline" : "{{ .Title }}",
+    "description" : "{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}",
+    "inLanguage" : "en-US",
+    "availableLanguage": {
+      "@type": "Language",
+      "name": ["French","English"]
+    },
+    "image" : "{{- $images := $.Resources.ByType "image" -}}{{- $featured := $images.GetMatch "*feature*" -}}{{- $featured := cond (ne $featured nil) $featured ($images.GetMatch "{*cover*,*thumbnail*}") -}}{{- with $featured -}}{{ $featured.Permalink }}{{ else -}}{{- with $.Site.Params.images -}}{{ index . 0 | absURL }}{{ end }}{{ end }}",
+    "author" : "{{ range .Site.Author }}{{ . }}{{ end }}",
+    "creator" : "{{ range .Site.Author }}{{ . }}{{ end }}",
+    "publisher": "{{ range .Site.Author }}{{ . }}{{ end }}",
+    "accountablePerson" : "{{ range .Site.Author }}{{ . }}{{ end }}",
+    "copyrightHolder" : "{{ range .Site.Author }}{{ . }}{{ end }}",
+    "copyrightYear" : "{{ .Date.Format "2006" }}",
+    "datePublished": "{{ .Date }}",
+    "dateModified" : "{{ .Date }}",
+    "url" : "{{ .Permalink }}",
+    "wordCount" : "{{ .WordCount }}",
+    "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }}"Blog" ]
+}
+</script>
