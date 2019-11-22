@@ -1,6 +1,6 @@
 {{ define "main" }}
 <header class="text-center pb-10 font-sans">
-  <h1 class="text-3xl">
+  <h1 class="text-xl">
     {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
   </h1>
 </header>

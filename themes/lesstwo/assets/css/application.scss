@@ -21,8 +21,8 @@
   position: relative;
   text-shadow: -1px -1px 0 theme('colors.gray.200'), 1px -1px 0 theme('colors.gray.200'), -1px 1px 0 theme('colors.gray.200'), 1px
   1px 0 theme('colors.gray.200');
-  background-image: linear-gradient(to top, transparent, transparent 3px,
-  theme('colors.gray.900') 3px, theme('colors.gray.900') 2.5px, transparent 2.5px);
+  background-image: linear-gradient(to top, transparent, transparent 2px,
+  theme('colors.gray.900') 2px, theme('colors.gray.900') 2.5px, transparent 2.5px);
   transition: color 0.5s, background-image 0.5s linear;
   &:hover {
     color: theme('colors.gray.900');
