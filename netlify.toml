@@ -1,13 +1,13 @@
 [context.production.environment]
-  HUGO_VERSION = "0.58.3"
+  HUGO_VERSION = "0.59.1"
 [context.deploy-preview]
-  command = "hugo -F -b $DEPLOY_PRIME_URL -v"
+  command = "hugo -F -v"
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.57.2"
+  HUGO_VERSION = "0.59.1"
 [context.branch-deploy]
-  command = "hugo -F -b $DEPLOY_PRIME_URL -v"
+  command = "hugo -F  -v"
 [context.branch-deploy.environment]
-  HUGO_VERSION = "0.58.3"
+  HUGO_VERSION = "0.59.1"
 [dev]
   command = "hugo serve -b https://code.yannickschutz.com:8888"
 
