@@ -1,10 +1,10 @@
 {{ define "main" }}
-<header class="text-center pb-10 font-sans">
-  <h1 class="text-xl">
+<header class="mb-4 font-sans">
+  <h1 class="font-semibold">
     {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
   </h1>
 </header>
-<div class="post">
+<div class="post text-gray-700">
   {{ .Content }}
 </div>
 {{ end }}
