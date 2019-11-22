@@ -5,9 +5,9 @@ date: 2017-10-26T22:57:50+02:00
 draft: false
 type: "about"
 resources:
-- src: "*.jpg"
-- src: "1.jpg"
-  name: "cover"
+  - src: "*.jpg"
+  - src: "1.jpg"
+    name: "cover"
 ---
 
 <h2 style="padding-bottom:20px;">Bienvenue sur Vadrouiles & Co.</h2>
@@ -27,4 +27,3 @@ En espérant que vous trouverez ce que vous êtes venus chercher. Sinon, en esp�
 <hr/>
 
 N'hésitez pas à laisser un message pour toute collaboration, projet, idée ou commentaire.
-
