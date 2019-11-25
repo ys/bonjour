@@ -9,9 +9,6 @@ module.exports = {
       xl: "1200px"
     },
     extend: {
-      fontFamily: {
-        serif: ["freight-text-pro", ...defaultTheme.fontFamily.serif]
-      },
       fontSize: {
         xs: "1rem",
         sm: "1.125rem",

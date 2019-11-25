@@ -1,18 +1,18 @@
 @tailwind base;
 
-@import url({{ with .Site.Params.fontsUrl}}{{ . }}{{ end }});
+@import url('https://fonts.googleapis.com/css?display=swap&family={{ replace .Site.Params.serifFont " " "+" }}:400,400i,600');
 
 @tailwind components;
 
 @tailwind utilities;
 
 :root {
-  --onyx: {{ with .Site.Params.onyxColor }}{{ . }}{{ else }}#313638{{ end }};
   --accent: {{ with .Site.Params.accentColor }}{{ . }}{{ else }}var(--onyx){{ end }};
-  --white-text: {{ with .Site.Params.whiteTextColor }}{{ . }}{{ else }}#FAFAFA{{ end }};
-  --white-background: {{ with .Site.Params.whiteBackgroundColor }}{{ . }}{{ else }}#F3F3F3{{ end }};
-  --light-gray: {{ with .Site.Params.lightGrayColor }}{{ . }}{{ else }}rgba(0,0,0,0.5){{ end }};
-  --max-width: {{ with .Site.Params.bodyMaxWidth }}{{ . }}{{ else }}74rem{{ end }};
+  --serif-text: {{ with .Site.Params.serifFont}}{{ . }}{{ else }}theme("fontFamily.serif"){{ end }};
+}
+
+.font-serif {
+  font-family: var(--serif-text), theme("fontFamily.serif") !important;
 }
 
 .link-gray-900 {
