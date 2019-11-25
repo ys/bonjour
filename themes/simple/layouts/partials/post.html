@@ -1,7 +1,7 @@
 <div class="mb-10">
   <header class="flex flex-col md:flex-row md:justify-between font-sans">
     <h3 class=" ml-0 md:mb-4  font-semibold text-gray-800 date">
-      <a href="{{ .Permalink }}">{{ .Title }}</a><br/>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a><br/>
     </h3>
   </header>
   {{ $postScratch := newScratch }}
@@ -13,11 +13,11 @@
   {{ $mini := $image.Fill "60x40" }}
   {{if $image }}
   <div class="my-6">
-      <a href="{{ .Permalink }}">
+      <a href="{{ .RelPermalink }}">
         <picture class="md:-mx-10 block shadow-lg">
-          <source class="lazyload" srcset="{{ $mini.Permalink }}" type="image/jpg" media="(min-width: 821px)" data-srcset="{{ $web.Permalink }}">
-          <source class="lazyload" srcset="{{ $mini.Permalink }}" type="image/jpg" media="(max-width: 821px)" data-srcset="{{ $mobile.Permalink }}">
-          <img src="{{ $web.Permalink }}" style="width: 100%;">
+          <source class="lazyload" srcset="{{ $mini.RelPermalink }}" type="image/jpg" media="(min-width: 821px)" data-srcset="{{ $web.RelPermalink }}">
+          <source class="lazyload" srcset="{{ $mini.RelPermalink }}" type="image/jpg" media="(max-width: 821px)" data-srcset="{{ $mobile.RelPermalink }}">
+          <img src="{{ $web.RelPermalink }}" style="width: 100%;">
         </picture>
       </a>
     </div>

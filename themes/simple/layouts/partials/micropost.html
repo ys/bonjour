@@ -1,6 +1,6 @@
 <div>
   <header class="ml-0 mb-4 font-sans font-semibold text-gray-800 date">
-    <a href="{{ .Permalink }}">
+    <a href="{{ .RelPermalink }}">
       {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
     </a>
   </header>
