@@ -6,18 +6,14 @@
   </header>
   {{ $postScratch := newScratch }}
   {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
-  {{ $size := "1200x800" }}
-  {{ $postScratch.Set "coverSize" (printf "%s center" $size)}}
-  {{ $web := $image.Fill ($postScratch.Get "coverSize") }}
-  {{ $mobile := $image.Fill "600x400 center" }}
-  {{ $mini := $image.Fill "60x40" }}
   {{if $image }}
-  <div class="my-6">
+    {{ $web := $image.Fill "1200x800" }}
+    {{ $mini := $image.Fill "60x40" }}
+    <div class="my-6">
       <a href="{{ .RelPermalink }}">
         <picture class="md:-mx-10 block shadow-lg">
-          <source class="lazyload" srcset="{{ $mini.RelPermalink }}" type="image/jpg" media="(min-width: 821px)" data-srcset="{{ $web.RelPermalink }}">
-          <source class="lazyload" srcset="{{ $mini.RelPermalink }}" type="image/jpg" media="(max-width: 821px)" data-srcset="{{ $mobile.RelPermalink }}">
-          <img src="{{ $web.RelPermalink }}" style="width: 100%;">
+          <source class="lazyload" srcset="{{ $mini.RelPermalink }}" type="web/jpg" media="(min-width: 821px)" data-srcset="{{ $web.RelPermalink }}">
+          <img src="{{ $mini.RelPermalink }}" data-src="{{ $web.RelPermalink }}" class="w-full lazyload">
         </picture>
       </a>
     </div>
