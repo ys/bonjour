@@ -3,7 +3,7 @@
 {{ if $original }}
   {{ $mobile := $original.Resize "600x" }}
   {{ $mini := $original.Resize "100x" }}
-  <picture class="block shadow-lg {{ if .Parent }}{{ else }}{{ if eq (.Get "class") "vertical" }}{{ else }}my-4 md:-mx-10{{ end }}{{ end }}" {{ with .Get "alt" }}alt="{{ . }}"{{ end }}>
+  <picture class="block shadow-lg {{ if .Parent }}{{ else }}my-6 {{ if eq (.Get "class") "vertical" }}mx-auto w-2/3{{ else }}md:-mx-10{{ end }}{{ end }}" {{ with .Get "alt" }}alt="{{ . }}"{{ end }}>
   <source class="lazyload" srcset="{{ $mini.RelPermalink }}" type="image/jpg" data-srcset="{{ $original.RelPermalink }}" data-src="{{ $original.RelPermalink }}">
   <img data-action="zoom" width="{{ $original.Width }}" height="{{ $original.Height }}" src="{{ $mini.RelPermalink }}" data-zoom-src="{{ $original.RelPermalink}}" data-src="{{ $original.RelPermalink }}" style="width: 100%" class="w-100 lazyload">
   </picture>
