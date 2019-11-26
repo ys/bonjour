@@ -20,4 +20,4 @@ Nous y découvrons la région, sa faune, sa flore et comment se débrouiller qua
 
 En espérant que vous trouverez ce que vous êtes venus chercher. Sinon, en espérant que vous ayez au moins été un minimum inspiré. N'hésitez pas à [laisser un petit mot](mailto:petites@vadrouilles.co) et **rendez-vous dehors!**
 
-{{< photo src="cover" >}}
+{{< photo src="cover" alt="Tom et moi" caption="Merci à Jehanne pour la photo">}}
