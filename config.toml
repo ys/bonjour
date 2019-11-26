@@ -9,6 +9,7 @@ RemovePathAccents = true
 timeout = 200000
 enableRobotsTXT = true
 canonifyURLs = false
+disableKinds = ["taxonomyTerm"]
 
 [related]
   includeNewer = true
