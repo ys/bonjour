@@ -43,11 +43,6 @@ disableKinds = ["taxonomyTerm"]
 [taxonomies]
   category = "categories"
 
-[params.titles]
-
-  posts = "Journal de bord"
-  categories = "Catégories"
-
 [params.social]
   email = "petites@vadrouilles.co"
   domain = "vadrouilles.co"
