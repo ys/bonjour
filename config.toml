@@ -9,6 +9,7 @@ RemovePathAccents = true
 timeout = 200000
 enableRobotsTXT = true
 canonifyURLs = false
+disableKinds = ["taxonomyTerm"]
 
 [related]
   includeNewer = true
@@ -41,11 +42,6 @@ canonifyURLs = false
 
 [taxonomies]
   category = "categories"
-
-[params.titles]
-
-  posts = "Journal de bord"
-  categories = "Catégories"
 
 [params.social]
   email = "petites@vadrouilles.co"

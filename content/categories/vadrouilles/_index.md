@@ -1,5 +1,6 @@
 ---
-title: "Vadrouilles"
-seotitle: "Aventures, Vadrouilles et découvertes - Vadrouilles"
-description: "Des vadrouilles, des aventures et micro aventures. En France, Belgique et ailleurs dans le monde."
+slug: "vadrouilles"
+title: "Petites aventures & Micro activisme - Vadrouilles"
+seotitle: "Petites aventures & Micro activisme - Vadrouilles"
+description: "Photographe de petites aventures, micro activiste amoureux de plein air adorant partager."
 ---
