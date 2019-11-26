@@ -87,14 +87,14 @@ hr {
 // Expand Hugo templates
 
 .pagination {
-  @apply flex flex-row items-center justify-center py-10 font-sans
+  @apply flex flex-row items-center justify-center py-10 font-sans text-xs
 }
 
 .pagination li {
   @apply p-2
 }
 .pagination li.active {
-    @apply bg-gray-200 rounded px-4 py-2
+    @apply bg-gray-200 rounded px-4 py-2 text-sm
 }
 .pagination li.disabled {
     @apply opacity-25
