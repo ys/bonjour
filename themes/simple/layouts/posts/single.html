@@ -11,7 +11,7 @@
 <div class="post text-gray-700">
   {{.Content}}
 </div>
-<span class="text-sm text-gray-500 capitalize text-right block">
+<span class="text-xs font-sans text-gray-500 capitalize text-right block">
   {{ .Params.emoji}} {{ range first 1 .Params.categories }}
   <a href="/{{ . }}">{{ . }}</a>
   {{ end }} {{ .Site.Params.arrow }} {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
