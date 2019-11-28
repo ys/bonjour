@@ -4,6 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
     append: 'article',
     debug: true,
     hideNav: '.pagination',
+    status: '.page-load-status'
 
   })
   new LazyLoad({
