@@ -82,6 +82,11 @@ hr {
   ul {
    @apply list-disc list-inside my-8
   }
+  blockquote {
+    @apply border-l-4 italic pl-2 -ml-2 my-4 py-2;
+    color: var(--accent);
+    border-color: var(--accent);
+  }
 }
 
 // Expand Hugo templates
