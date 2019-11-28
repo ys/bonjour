@@ -8,4 +8,9 @@
     {{ .Content }}
   </div>
 </div>
-<hr />
+<span class="text-xs font-sans text-gray-500 capitalize text-right block">
+  {{ .Params.emoji}} {{ range first 1 .Params.categories }}
+  <a href="/{{ . }}">{{ . }}</a>
+  {{ end }} {{ .Site.Params.arrow }} {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+</span>
+<hr/>

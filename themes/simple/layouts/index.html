@@ -1,8 +1,10 @@
 {{ define "main" }}
   {{ $paginator := (.Paginate (.Site.RegularPages) 10) }}
   {{ range $paginator.Pages }}
-    {{ if eq .Type "posts"}}
+    {{ if and (eq .Type "posts") (in .Params.categories "vadrouilles") }}
       {{ partial "post.html" . }}
+    {{ else if eq .Type "posts" }}
+      {{ partial "fullpost.html" . }}
     {{ else if eq .Type "microposts" }}
       {{ partial "micropost" .  }}
     {{ end }}
