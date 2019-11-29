@@ -79,14 +79,9 @@ hr {
    @apply list-disc list-inside my-8
   }
 }
-.content {
+.content, .post {
   blockquote {
-    @apply font-sans leading-snug text-teal-600 text-center italic text-lg pl-2 -ml-2 my-4 py-2;
-  }
-}
-.post {
-  blockquote {
-    @apply font-sans leading-snug text-teal-600 text-center italic text-2xl pl-2 -ml-2 my-4 py-2;
+    @apply font-sans leading-snug text-teal-600 text-center italic pl-2 -ml-2 my-2;
   }
 }
 
