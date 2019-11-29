@@ -16,16 +16,14 @@
 }
 
 .link-gray-900 {
-  color: theme('colors.gray.900');
-  text-decoration: none;
-  position: relative;
+  @apply text-gray-800 no-underline relative;
   text-shadow: -1px -1px 0 theme('colors.gray.200'), 1px -1px 0 theme('colors.gray.200'), -1px 1px 0 theme('colors.gray.200'), 1px
   1px 0 theme('colors.gray.200');
   background-image: linear-gradient(to top, transparent, transparent 2px,
   theme('colors.gray.900') 2px, theme('colors.gray.900') 2.5px, transparent 2.5px);
   transition: color 0.5s, background-image 0.5s linear;
   &:hover {
-    color: theme('colors.gray.900');
+    @apply text-gray-900 no-underline relative;
     text-shadow: -1px -1px 0 theme('colors.gray.200'), 1px -1px 0 theme('colors.gray.200'), -1px 1px 0 theme('colors.gray.200'), 1p
     x 1px 0 theme('colors.gray.200');
     background-image: linear-gradient(to top, transparent, transparent 2px
@@ -34,20 +32,18 @@
 }
 
 .link, .post a, .content a {
-  color: var(--accent);
-  text-decoration: none;
-  position: relative;
+  @apply text-teal-600 no-underline relative;
   text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px
   1px 0 white;
   background-image: linear-gradient(to top, transparent, transparent 2px,
-  var(--accent) 2px, var(--accent) 2.5px, transparent 2.5px);
+  theme('colors.teal.600') 2px, theme('colors.teal.600') 2.5px, transparent 2.5px);
   transition: color 0.5s, background-image 0.5s linear;
   &:hover {
-    color: var(--accent);
+    @apply text-teal-700 no-underline relative;
     text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1p
     x 1px 0 white;
     background-image: linear-gradient(to top, transparent, transparent 2px
-    , var(--accent) 2px, var(--accent) 2.5px, transparent 2.5px);
+    , theme('colors.teal.700') 2px, theme('colors.teal.700') 2.5px, transparent 2.5px);
   }
 }
 
@@ -81,6 +77,9 @@ hr {
   }
   ul {
    @apply list-disc list-inside my-8
+  }
+  blockquote {
+    @apply font-sans leading-snug text-teal-600 text-center italic text-2xl pl-2 -ml-2 my-4 py-2;
   }
 }
 
