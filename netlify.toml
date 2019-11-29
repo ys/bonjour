@@ -1,0 +1,23 @@
+[context.production.environment]
+  HUGO_VERSION = "0.60.0"
+[context.deploy-preview]
+  command = "hugo -v"
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.60.0"
+[context.branch-deploy]
+  command = "hugo -v"
+[context.branch-deploy.environment]
+  HUGO_VERSION = "0.60.0"
+
+[[headers]]
+  for = "*.js" # js files should be set this way
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"
+[[headers]]
+  for = "*.jpg" # css files too
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"
+[[headers]]
+  for = "*.css" # css files too
+  [headers.values]
+    Cache-Control = "public, max-age=31536000"
