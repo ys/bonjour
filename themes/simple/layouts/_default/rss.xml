@@ -12,9 +12,9 @@
     {{ with .OutputFormats.Get "RSS" }}
         {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{ end }}
-    {{ range first 5 (where (where .Site.RegularPages "Type" "posts") ".Params.hidden" "!=" "true") }}
+    {{ range first 5 (where .Site.RegularPages ".Params.hidden" "!=" "true") }}
       <item>
-        <title>{{ .Title }}</title>
+        <title>{{ with .Title }}{{ . }}{{ else}}{{ .Date.Format "2006 Jan 02" | safeHTML }}{{ end }}</title>
         <link>{{ .Permalink }}</link>
         <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
         {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
