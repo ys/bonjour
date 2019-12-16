@@ -71,4 +71,4 @@ Je me réjouis de le refaire avec Cloé, Tom et notre petite dernière. Pourquoi
 
 {{< photo src="2.jpg" alt="symbole du parc" >}}
 
-*Vous pouvez la retrouver dans [le guide de la microaventure](https://www.lesothers.com/guide-microaventure-france) par les others*
+*Vous pouvez retrouver cette randonnée dans [le guide de la microaventure](https://www.lesothers.com/guide-microaventure-france) par les others*
