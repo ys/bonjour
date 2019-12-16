@@ -20,7 +20,7 @@ resources:
   name: "cover"
 ---
 
-{{< photo src="1" alt="vue du parking" >}}
+{{< photo src="1.jpg" alt="vue du parking" >}}
 
 Il est 6h30 du matin, on démarre pour le parking. Ce parking se remplit vite. Une garde nous a dit que pour avoir une chance d’y avoir une place, il fallait être la avant 8h. On a une bonne heure, ca va le faire.
 
@@ -31,9 +31,9 @@ Arrêt boulangerie pour les sandwichs, une dame se sert son pain en attendant qu
 On fait chauffer l’eau, on moud les grains, un bon café est nécessaire. Un petit déj copieux, pour nous préparer à cette randonnée, sera bien vite englouti. Il faut des forces, il paraît que ça grimpe. On a pris pas mal de dénivelée avec Tom cette semaine-là, cela ne nous fait pas peur. Nous avons surtout hâte. Seul bémol, on ne pourra pas passer le refuge avec Oggy. Le parc est interdit aux animaux. On fera donc un aller-retour.
 
 {{< photoset max="3" >}}
-  {{< photo src="3" alt="cloe" >}}
-  {{< photo src="4" alt="Cloe et Tom" >}}
-  {{< photo src="5" alt="Tom" >}}
+  {{< photo src="3.jpg" alt="cloe" >}}
+  {{< photo src="4.jpg" alt="Cloe et Tom" >}}
+  {{< photo src="5.jpg" alt="Tom" >}}
 {{</ photoset >}}
 
 La vue depuis Edgar est déjà un vrai plaisir. On se met calmement en route jusqu’un plateau magnifique où paissent des vaches. Une vue splendide avant de s’engoufrer dans les bois et suivre les cairns pour ne pas se perdre. En fait, on peut simplement suivre les randonneurs, ces chemins sont bien fréquentés en été. Beaucoup admirent ce petit bout de 5 ans qui les dépasse en montée, les salue et sourit.
@@ -41,10 +41,11 @@ La vue depuis Edgar est déjà un vrai plaisir. On se met calmement en route jus
 
 Une fois sorti de la forêt, la vue est fantastique et le restera jusqu’aux lacs. On grimpe pour atteindre le premier des lacs, le Lac Roumassot relié par une cascade au second, le Lac du Miey. Une fois celui-ci passé, il ne faut pas beaucoup de temps pour arriver au majestueux Lac Gentau et son refuge. On arrive en même temps qu’un troupeau de moutons guidé par son patou, le chien qui guide et surveille le troupeau. Il nous passera autour, c’est un souvenir plutôt magique et impressionant. Le patou vient jouer avec Oggy au passage. Une fois cette marée de laine passée, on se pose dans la plaine, face à Jean-Pierre, pour casser la croute. Des chevaux courent pour s’abreuver au lac.
 
-{{< photo src="6" class="vertical" >}}
-{{< photoset max="2" >}}
-  {{< photo src="7" alt="moutons" >}}
-  {{< photo src="8" alt="moutons" >}}
+{{< photo src="6.jpg" class="vertical" >}}
+
+{{< photoset >}}
+  {{< photo src="7.jpg" alt="moutons" >}}
+  {{< photo src="8.jpg" alt="moutons" >}}
 {{</ photoset >}}
 
 
@@ -53,11 +54,13 @@ On voit des gens replier leurs tentes ou se préparer pour un petit tour dans le
 
 C’est parti, je passe le refuge, remplit ma gourde et grimpe pour pénétrer dans le parc National. Je laisse les lacs d’Ayous pour une succession de magnifiques petits lacs. Je croise des gens bien mieux équipés que moi pour observer la faune. Peut-être une autre fois. La flore et le paysage me suffisent pour cette fois. Un vrai plaisir que de marcher le pas léger dans un pareil lieu. Une fois le lac Bersau passé, je commence ma redescente vers le plateau. Je me sens tel un bouquetin sautant de caillou en caillou, dévalant la pente avec une aisance qui m’était jusqu’alors inconnue. Je verrai plusieurs personnes s’y essayer et tomber.
 
+
 {{< photo src="cover" alt="refuge d'ayous" >}}
+
 {{< photoset max="3" >}}
-  {{< photo src="10" alt="vue de la vallée" >}}
-  {{< photo src="11" alt="Jean Pierre" >}}
-  {{< photo src="12" alt="des marcheurs" >}}
+  {{< photo src="10.jpg" alt="vue de la vallée" >}}
+  {{< photo src="11.jpg" alt="Jean Pierre" >}}
+  {{< photo src="12.jpg" alt="des marcheurs" >}}
 {{</ photoset >}}
 
 

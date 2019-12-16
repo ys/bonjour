@@ -78,6 +78,9 @@ hr {
   ul {
    @apply list-disc list-inside my-8
   }
+  p {
+    @apply my-4
+  }
 }
 .content, .post {
   blockquote {
