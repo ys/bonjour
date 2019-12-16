@@ -1,6 +1,6 @@
 ---
 title: "Tour des lacs d’Ayous"
-subtitle: ""
+subtitle: "Des moutons, un patou et de bien beaux paysages"
 date: 2019-12-15T18:24:44+01:00
 draft: false
 tags: 
