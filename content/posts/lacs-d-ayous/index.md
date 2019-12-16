@@ -43,7 +43,7 @@ Une fois sorti de la forêt, la vue est fantastique et le restera jusqu’aux la
 
 {{< photo src="6.jpg" class="vertical" >}}
 
-{{< photoset >}}
+{{< photoset max="2" >}}
   {{< photo src="7.jpg" alt="moutons" >}}
   {{< photo src="8.jpg" alt="moutons" >}}
 {{</ photoset >}}
@@ -69,6 +69,6 @@ Arrivé en bas, les jambes sentent la pente et je fais moins le fier. Encore heu
 
 Je me réjouis de le refaire avec Cloé, Tom et notre petite dernière. Pourquoi ne pas dormir au pied du refuge, plonger dans le lac au petit matin et repartir. Cette randonée mérite d’être refaite.
 
-{{< photo src="2" alt="symbole du parc" >}}
+{{< photo src="2.jpg" alt="symbole du parc" >}}
 
 *Vous pouvez la retrouver dans [le guide de la microaventure](https://www.lesothers.com/guide-microaventure-france) par les others*
