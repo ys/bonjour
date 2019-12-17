@@ -3,8 +3,6 @@ languageCode = "fr"
 DefaultContentLanguage = "fr"
 title = "Vadrouilles"
 theme = "simple"
-googleAnalytics = "UA-114349967-1"
-disqusShortname = "vadrouilles-co"
 RemovePathAccents = true
 timeout = 200000
 enableRobotsTXT = true
@@ -30,13 +28,11 @@ disableKinds = ["taxonomyTerm"]
   resampleFilter = "lanczos"
 
 [params]
-  mapbox = "pk.eyJ1IjoieWFubmljay1pbyIsImEiOiJjamY1NmR3NjMwNHkwMnBscDc2Nzl6b2ZwIn0.NbV8ywwFWfOH4T8DAN_tKw"
   sizes = [ "2048" , "1024" , "512" ]
   tags = ["famille", "exode rurale", "bretagne", "slow travel", "voyage", "slow life", "neorural", "photography", "photographies"]
   serifFont = "Baskervville"
   pinterestVerify = "fd6b8a37d3208b2c605434cf2ce71ac3"
   hasLogo = true
-  accentColor = "#6CB0C1"
   arrow = "✧"
   footer = "48°24'41.2\"N 3°46'15.2\"W"
 

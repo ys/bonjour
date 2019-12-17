@@ -8,7 +8,7 @@
       </div>
     </div>
 
-    {{ partial "footer" .}} {{ partial "gtag.html" . }}
+    {{ partial "footer" .}}
     <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>
     {{ $.Scratch.Set "jslibs" slice }} {{ $libs := slice "js/medium-zoom.min.js" "js/lazyload.min.js" "js/main.js" }} {{ range $libs }} {{ $.Scratch.Add "jslibs" (resources.Get . ) }} {{ end }} {{ $js := .Scratch.Get "jslibs" | resources.Concat "js/main.js" }} {{ if .Site.IsServer }}
     <script src="{{ $js.RelPermalink }}"></script>
