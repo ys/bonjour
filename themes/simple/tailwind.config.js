@@ -1,6 +1,12 @@
 const defaultTheme = require("tailwindcss/defaultTheme");
 
 module.exports = {
+  plugins: [require("tailwindcss-dark-mode")()],
+  variants: {
+    backgroundColor: ['dark', 'dark-hover', 'dark-group-hover'],
+    borderColor: ['dark', 'dark-focus', 'dark-focus-within'],
+    textColor: ['dark', 'dark-hover', 'dark-active']
+  },
   theme: {
     screens: {
       sm: "577px",
@@ -20,6 +26,5 @@ module.exports = {
         "4xl": "4rem"
       }
     }
-  },
-  variants: {}
+  }
 };
