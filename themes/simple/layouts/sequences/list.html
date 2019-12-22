@@ -1,0 +1,5 @@
+{{ define "main" }}
+  {{ range (.Paginator 1).Pages }}
+    {{ partial "sequence.html" . }}
+  {{ end }}
+{{ end }}
