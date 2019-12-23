@@ -15,6 +15,10 @@ module.exports = {
       xl: "1200px"
     },
     extend: {
+      colors: {
+        dark: "#2d2f34",
+        darker: "#1F2023"
+      },
       fontSize: {
         xs: "1rem",
         sm: "1.125rem",
