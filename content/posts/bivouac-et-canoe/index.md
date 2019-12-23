@@ -18,8 +18,8 @@ tags:
     "vanlife",
     "slowlife",
   ]
+place: "France"
 categories:
-  - france
   - vadrouilles
 slug: "bivouac-et-canoe"
 emoji: "🛶"

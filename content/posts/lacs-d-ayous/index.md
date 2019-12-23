@@ -12,6 +12,7 @@ tags:
 - plein air
 - ossau
 - marche
+place: "France"
 categories:
 - vadrouilles
 slug: "lacs-d-ayous"

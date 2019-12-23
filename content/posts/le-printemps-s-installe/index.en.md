@@ -14,8 +14,8 @@ tags:
     "bretagne",
     "finistère",
   ]
+place: "France"
 categories:
-  - france
   - vadrouilles
 slug: "spring-is-here"
 emoji: "🌱"

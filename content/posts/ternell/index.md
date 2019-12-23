@@ -16,9 +16,9 @@ tags:
     "famille",
     "randonnée",
   ]
+place: "Belgique"
 gear: ["📷 Fuji X100T"]
 categories:
-  - belgique
   - vadrouilles
 resources:
   - src: "DSCF8724.jpg"

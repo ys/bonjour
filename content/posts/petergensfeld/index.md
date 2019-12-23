@@ -6,8 +6,8 @@ slug: "petergensfeld"
 tags: ["fagnes", "randonnée", "sentiers", "belgique", "eupen", "ostbelgien", "Allemagne", "couple", "balade", "matin"]
 emoji: "🌅"
 gear: ["📷 Fuji X100T", "📱 iPhone X"]
+place: "Belgique"
 categories:
-- belgique
 - vadrouilles
 resources:
 - name: "cover"

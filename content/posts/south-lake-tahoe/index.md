@@ -19,8 +19,8 @@ tags:
     "amis",
   ]
 emoji: "🇺🇸"
+place: "Etats-Unis"
 categories:
-  - etats-unis
   - vadrouilles
 resources:
   - src: "*.jpg"

@@ -6,8 +6,8 @@ slug: "ninglinspo"
 tags: ["randonnée", "sentiers", "aywaille", "famille", "sortie", "Belgique", "foret", "nature"]
 emoji: "🇧🇪"
 gear: ["📷 Fuji X100T"]
+place: "Belgique"
 categories:
-- belgique
 - vadrouilles
 resources:
 - src: "DSCF8536.jpg"

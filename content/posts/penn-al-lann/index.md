@@ -17,8 +17,8 @@ tags:
     "france",
     "famille",
   ]
+place: "France"
 categories:
-  - france
   - vadrouilles
 description: "Une petite plage à l’abris des gens et du vent, plus connue sous le nom de plage de Tahiti."
 resources:

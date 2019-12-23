@@ -2,8 +2,8 @@
 title: "Une semaine au bout de l'île"
 date: 2017-12-23T12:07:44+01:00
 draft: false
+place: "France"
 categories:
-  - france
   - vadrouilles
 tags:
   [

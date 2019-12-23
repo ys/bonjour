@@ -6,8 +6,8 @@ draft: false
 emoji: "🌲"
 tags: ["balade", "fagnes", "belgique", "baraque michel", "caillebotis", "ardennes", "famille", "randonnée"]
 gear: ["📷 Fuji X100T"]
+place: "Belgique"
 categories:
-- belgique
 - vadrouilles
 resources:
 - src: "*.jpg"

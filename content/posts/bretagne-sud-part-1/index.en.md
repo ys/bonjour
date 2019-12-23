@@ -5,8 +5,8 @@ seotitle: "Road trip in south of Bretagne - Carnac - Quiberon - Etel"
 date: 2019-03-08T13:09:01+01:00
 draft: false
 slug: "south-of-bretagne-part-1"
+place: "France"
 categories:
-- france
 - vadrouilles
 emoji: "⚓️"
 tags: ["road trip", "photography", "bretagne", "Brittany", "surf", "beach", "tides", "morbihan", "quiberon", "carnac", "local", "slowlife", "holiday", "family"]

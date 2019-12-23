@@ -17,8 +17,8 @@ tags:
     "foret",
   ]
 gear: ["📷 Fuji X100T"]
+place: "Belgique"
 categories:
-  - belgique
   - vadrouilles
 resources:
   - name: "cover"

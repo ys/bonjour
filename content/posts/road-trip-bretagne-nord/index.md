@@ -6,8 +6,8 @@ slug: "road-trip-bretagne-nord"
 subtitle: "Premier week-end en van"
 seotitle: "Road Trip en Bretagne Nord - Week-end en Van"
 categories:
-  - france
   - vadrouilles
+place: "France"
 tags:
   [
     "bretagne",

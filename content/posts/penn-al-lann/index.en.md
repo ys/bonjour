@@ -18,8 +18,8 @@ tags:
     "france",
     "family",
   ]
+place: "France"
 categories:
-  - france
   - vadrouilles
 description: "A small beach protected from the wind and people, better known as Tahiti beach."
 resources:

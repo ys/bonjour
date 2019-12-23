@@ -5,8 +5,8 @@ seotitle: "Road Trip in south of Bretagne - Pointe du Raz - Crozon"
 date: 2019-03-19T22:23:24+01:00
 draft: false
 slug: "south-of-bretagne-part-2"
+place: "France"
 categories:
-  - france
   - vadrouilles
 emoji: "⚓️"
 tags:

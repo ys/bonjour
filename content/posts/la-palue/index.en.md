@@ -24,8 +24,8 @@ slug: "la-palue"
 emoji: "🌊"
 gear:
   - "📷 Fuji X-T20"
+place: "France"
 categories:
-  - france
   - vadrouilles
 resources:
   - src: "cover.jpg"

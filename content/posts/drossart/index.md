@@ -7,8 +7,8 @@ tags: ["balade", "fagnes", "belgique", "ardennes", "famille", "randonnée"]
 cover: "DSCF8808.jpg"
 emoji: "🇧🇪"
 gear: ["📷 Fuji X100T"]
+place: "Belgique"
 categories:
-- belgique
 - vadrouilles
 resources:
 - src: "DSCF8808.jpg"
