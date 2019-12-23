@@ -1,5 +1,5 @@
 {{ define "main" }}
-  {{ with first .Pages }}
+  {{ range (first 1 .Pages) }}
     {{ partial "sequence.html" . }}
   {{ end }}
 {{ end }}
