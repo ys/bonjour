@@ -1,10 +1,10 @@
 <div>
-  <header class="ml-0 mb-4 font-sans font-semibold text-black date">
+  <header class="ml-0 mb-4 font-sans font-semibold text-black dark:text-gray-100 date">
     <a href="{{ .RelPermalink }}">
       {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
     </a>
   </header>
-  <div class="content text-gray-900">
+  <div class="content">
     {{ .Content }}
   </div>
 </div>
