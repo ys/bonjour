@@ -1,10 +1,10 @@
 {{ block "header" . }}
 <header class="py-10 flex flex-col items-left">
   <span class="py-5">
-    <a href="/">
+    <a class="text-gray-900 dark:text-gray-100 logo" href="/">
       {{ if .Site.Params.hasLogo }}
-      <img class="logo h-8" alt="logo" src="/logo.svg" />
-      <label aria-hidden="true" style="display: none">{{ .Site.Title }}</label>
+        {{ readFile "/static/logo.svg" | safeHTML}}
+        <label aria-hidden="true" style="display: none">{{ .Site.Title }}</label>
       {{ else }} {{ .Site.Title }} {{ end }}
     </a>
   </span>

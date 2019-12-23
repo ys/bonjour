@@ -19,46 +19,38 @@
   @apply text-gray-900 no-underline relative;
   text-shadow: -1px -1px 0 theme('colors.gray.200'), 1px -1px 0 theme('colors.gray.200'), -1px 1px 0 theme('colors.gray.200'), 1px
   1px 0 theme('colors.gray.200');
-  background-image: linear-gradient(to top, transparent, transparent 2px,
-  theme('colors.gray.900') 2px, theme('colors.gray.900') 2.5px, transparent 2.5px);
+  background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.gray.900') 2px, theme('colors.gray.900') 2.5px, transparent 2.5px);
   transition: color 0.5s, background-image 0.5s linear;
   &:hover {
     @apply text-black no-underline relative;
     text-shadow: -1px -1px 0 theme('colors.gray.200'), 1px -1px 0 theme('colors.gray.200'), -1px 1px 0 theme('colors.gray.200'), 1p
     x 1px 0 theme('colors.gray.200');
-    background-image: linear-gradient(to top, transparent, transparent 2px
-    , theme('colors.black') 2px, theme('colors.900') 2.5px, transparent 2.5px);
+    background-image: linear-gradient(to top, transparent, transparent 2px , theme('colors.black') 2px, theme('colors.900') 2.5px, transparent 2.5px);
   }
 }
 
 .mode-dark {
-  .dark\:link-gray-200 {
-    @apply text-gray-200 no-underline relative;
-    text-shadow: -1px -1px 0 theme('colors.gray.900'), 1px -1px 0 theme('colors.gray.900'), -1px 1px 0 theme('colors.gray.900'), 1px
-    1px 0 theme('colors.gray.900');
-    background-image: linear-gradient(to top, transparent, transparent 2px,
-    theme('colors.gray.100') 2px, theme('colors.gray.200') 2.5px, transparent 2.5px);
-    transition: color 0.5s, background-image 0.5s linear;
-    &:hover {
-      @apply text-gray-300 no-underline relative;
-      text-shadow: -1px -1px 0 theme('colors.gray.900'), 1px -1px 0 theme('colors.gray.900'), -1px 1px 0 theme('colors.gray.900'), 1p
-      x 1px 0 theme('colors.gray.900');
-      background-image: linear-gradient(to top, transparent, transparent 2px
-      , theme('colors.gray.100') 2px, theme('colors.200') 2.5px, transparent 2.5px);
+  .post, .content {
+    h2 {
+      @apply text-gray-400;
+    }
+    blockquote {
+      @apply bg-gray-800;
+      a {
+        text-shadow: -1px -1px 0 theme('colors.gray.800'), 1px -1px 0 theme('colors.gray.800'), -1px 1px 0 theme('colors.gray.800'), 1px 1px 0 theme('colors.gray.800');
+        background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.blue.200') 2px, theme('colors.blue.200') 2.5px, transparent 2.5px);
+      }
     }
   }
   .link, .post a, .content a {
     @apply text-blue-500 no-underline relative;
-    text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px
-    1px 0 black;
-    background-image: linear-gradient(to top, transparent, transparent 2px,
-    theme('colors.blue.200') 2px, theme('colors.blue.200') 2.5px, transparent 2.5px);
+    text-shadow: -1px -1px 0 theme('colors.gray.900'), 1px -1px 0 theme('colors.gray.900'), -1px 1px 0 theme('colors.gray.900'), 1px 1px 0 theme('colors.gray.900');
+    background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.blue.200') 2px, theme('colors.blue.200') 2.5px, transparent 2.5px);
     transition: color 0.5s, background-image 0.5s linear;
     &:hover {
       @apply text-blue-600 no-underline relative;
       text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
-      background-image: linear-gradient(to top, transparent, transparent 2px
-      , theme('colors.blue.300') 2px, theme('colors.blue.300') 2.5px, transparent 2.5px);
+      background-image: linear-gradient(to top, transparent, transparent 2px , theme('colors.blue.300') 2px, theme('colors.blue.300') 2.5px, transparent 2.5px);
     }
   }
 }
@@ -67,18 +59,19 @@
   @apply text-blue-500 no-underline relative;
   text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px
   1px 0 white;
-  background-image: linear-gradient(to top, transparent, transparent 2px,
-  theme('colors.blue.500') 2px, theme('colors.blue.500') 2.5px, transparent 2.5px);
+  background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.blue.500') 2px, theme('colors.blue.500') 2.5px, transparent 2.5px);
   transition: color 0.5s, background-image 0.5s linear;
   &:hover {
     @apply text-blue-600 no-underline relative;
-    text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1p
-    x 1px 0 white;
+    text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
     background-image: linear-gradient(to top, transparent, transparent 2px
     , theme('colors.blue.600') 2px, theme('colors.blue.600') 2.5px, transparent 2.5px);
   }
 }
 
+.logo svg {
+  @apply fill-current h-8;
+}
 
 .photoset {
   display: grid;
@@ -113,12 +106,15 @@ hr {
   p {
     @apply my-4
   }
-}
-.content, .post {
   blockquote {
-    @apply font-sans leading-snug text-blue-500 text-center italic pl-2 -ml-2 my-2;
+    @apply font-sans leading-snug text-blue-500 text-center italic pl-2 -ml-2 my-2 bg-gray-200 p-4 rounded;
+    a {
+      text-shadow: -1px -1px 0 theme('colors.gray.200'), 1px -1px 0 theme('colors.gray.200'), -1px 1px 0 theme('colors.gray.200'), 1px 1px 0 theme('colors.gray.200');
+      background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.blue.200') 2px, theme('colors.blue.200') 2.5px, transparent 2.5px);
+    }
   }
 }
+
 
 // Expand Hugo templates
 
