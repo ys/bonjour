@@ -19,15 +19,42 @@
   @apply text-gray-900 no-underline relative;
   text-shadow: -1px -1px 0 theme('colors.gray.200'), 1px -1px 0 theme('colors.gray.200'), -1px 1px 0 theme('colors.gray.200'), 1px
   1px 0 theme('colors.gray.200');
-  background-image: linear-gradient(to top, transparent, transparent 2px,
-  theme('colors.gray.900') 2px, theme('colors.gray.900') 2.5px, transparent 2.5px);
+  background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.gray.900') 2px, theme('colors.gray.900') 2.5px, transparent 2.5px);
   transition: color 0.5s, background-image 0.5s linear;
   &:hover {
     @apply text-black no-underline relative;
     text-shadow: -1px -1px 0 theme('colors.gray.200'), 1px -1px 0 theme('colors.gray.200'), -1px 1px 0 theme('colors.gray.200'), 1p
     x 1px 0 theme('colors.gray.200');
-    background-image: linear-gradient(to top, transparent, transparent 2px
-    , theme('colors.black') 2px, theme('colors.900') 2.5px, transparent 2.5px);
+    background-image: linear-gradient(to top, transparent, transparent 2px , theme('colors.black') 2px, theme('colors.900') 2.5px, transparent 2.5px);
+  }
+}
+
+.mode-dark {
+  .post, .content {
+    h2 {
+      @apply text-gray-400;
+    }
+    .medium-zoom-overlay {
+      @apply bg-dark;
+    }
+    blockquote {
+      @apply bg-dark;
+      a {
+        text-shadow: -1px -1px 0 theme('colors.dark'), 1px -1px 0 theme('colors.dark'), -1px 1px 0 theme('colors.dark'), 1px 1px 0 theme('colors.dark');
+        background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.blue.200') 2px, theme('colors.blue.200') 2.5px, transparent 2.5px);
+      }
+    }
+  }
+  .link, .post a, .content a {
+    @apply text-blue-500 no-underline relative;
+    text-shadow: -1px -1px 0 theme('colors.gray.900'), 1px -1px 0 theme('colors.gray.900'), -1px 1px 0 theme('colors.gray.900'), 1px 1px 0 theme('colors.gray.900');
+    background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.blue.200') 2px, theme('colors.blue.200') 2.5px, transparent 2.5px);
+    transition: color 0.5s, background-image 0.5s linear;
+    &:hover {
+      @apply text-blue-600 no-underline relative;
+      text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
+      background-image: linear-gradient(to top, transparent, transparent 2px , theme('colors.blue.300') 2px, theme('colors.blue.300') 2.5px, transparent 2.5px);
+    }
   }
 }
 
@@ -35,18 +62,19 @@
   @apply text-blue-500 no-underline relative;
   text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px
   1px 0 white;
-  background-image: linear-gradient(to top, transparent, transparent 2px,
-  theme('colors.blue.500') 2px, theme('colors.blue.500') 2.5px, transparent 2.5px);
+  background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.blue.500') 2px, theme('colors.blue.500') 2.5px, transparent 2.5px);
   transition: color 0.5s, background-image 0.5s linear;
   &:hover {
     @apply text-blue-600 no-underline relative;
-    text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1p
-    x 1px 0 white;
+    text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
     background-image: linear-gradient(to top, transparent, transparent 2px
     , theme('colors.blue.600') 2px, theme('colors.blue.600') 2.5px, transparent 2.5px);
   }
 }
 
+.logo svg {
+  @apply fill-current h-8;
+}
 
 .photoset {
   display: grid;
@@ -70,7 +98,7 @@ hr {
 .post, .content {
   @apply mb-10;
   h1 {
-   @apply my-6 pt-2 font-semibold text-gray-900 block font-sans
+   @apply my-6 pt-2 font-semibold block font-sans
   }
   h2 {
    @apply my-6 pt-2 text-gray-600 font-semibold block font-sans
@@ -81,12 +109,15 @@ hr {
   p {
     @apply my-4
   }
-}
-.content, .post {
   blockquote {
-    @apply font-sans leading-snug text-blue-500 text-center italic pl-2 -ml-2 my-2;
+    @apply font-sans leading-snug text-blue-500 text-center italic pl-2 -ml-2 my-2 bg-gray-200 p-4 rounded;
+    a {
+      text-shadow: -1px -1px 0 theme('colors.gray.200'), 1px -1px 0 theme('colors.gray.200'), -1px 1px 0 theme('colors.gray.200'), 1px 1px 0 theme('colors.gray.200');
+      background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.blue.200') 2px, theme('colors.blue.200') 2.5px, transparent 2.5px);
+    }
   }
 }
+
 
 // Expand Hugo templates
 
@@ -98,8 +129,12 @@ hr {
   @apply p-2
 }
 .pagination li.active {
-    @apply bg-gray-200 rounded px-4 py-2 text-sm
+  @apply bg-gray-200 rounded px-4 py-2 text-sm
 }
+.mode-dark .pagination li.active {
+  @apply bg-dark rounded px-4 py-2 text-sm
+}
+
 .pagination li.disabled {
     @apply opacity-25
 }

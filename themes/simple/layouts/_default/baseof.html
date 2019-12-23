@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
   {{ partial "head" .}}
-  <body class="font-serif leading-relaxed text-base">
+  <body class="font-serif leading-relaxed text-base text-darker dark:bg-darker dark:text-gray-100">
     <div class="container w-screen md:max-w-xl lg:max-w-2xl mx-auto">
-      <div class="mx-4 md:mx-0 text-gray-900">
+      <div class="mx-4 md:mx-0">
         {{ partial "header" . }} {{ block "main" . }} {{ end }}
       </div>
     </div>
