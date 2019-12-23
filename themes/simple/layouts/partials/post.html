@@ -7,7 +7,7 @@
   {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
   {{if $image }}
     {{ $web := $image.Fill "1200x800" }}
-    {{ $mini := $image.Fill "60x40" }}
+    {{ $mini := $image.Fill "60x40 Box" }}
     <div class="my-6">
       <a href="{{ .RelPermalink }}" aria-label="{{ .Title }}">
         <picture class="md:-mx-10 block shadow-lg">
@@ -19,7 +19,6 @@
   {{end}}
   <div>
     <p>
-      {{ .Summary | replaceRE "(?ms)(<(picture|blockquote).*</(picture|blockquote)>)" "" | safeHTML | truncate 200 }}
     </p>
     <div>
     {{ if .Truncated }}
