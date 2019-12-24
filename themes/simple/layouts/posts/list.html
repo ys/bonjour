@@ -1,6 +1,0 @@
-{{ define "main" }}
-  {{ range (.Paginator 10).Pages }}
-    {{ partialCached "post.html" . .Params.slug .Lang }}
-  {{ end }}
-  {{ template "_internal/pagination.html" . }}
-{{ end }}

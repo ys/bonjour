@@ -4,7 +4,7 @@
       <a href="{{ .RelPermalink }}" aria-label="{{ .Title }}">{{ .Title }}</a><br/>
     </h3>
   </header>
-  {{ $image := .Resources.GetMatch "cover" | default (index (.Resources.ByType "image") 0) }}
+  {{ $image := .Resources.GetMatch "cover" }}
   {{if $image }}
     {{ $web := $image.Fill "1200x800" }}
     {{ $mini := $image.Fill "60x40 Box" }}
@@ -19,6 +19,7 @@
   {{end}}
   <div>
     <p>
+      {{ .Summary | truncate 200 | safeHTML }}
     </p>
     <div>
     {{ if .Truncated }}
@@ -28,9 +29,8 @@
   </div>
     <div class="font-sans capitalize text-xs text-gray-600 dark:text-gray-500 text-right">
       {{ .Params.emoji }}
-      {{ range first 1 .Params.categories }}
-        <a href="/{{ . }}">{{ . }}</a>
-      {{ end }} {{ .Site.Params.arrow }}
+      {{ .Params.place }}
+      {{ .Site.Params.arrow }}
       {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
     </div>
 </div>

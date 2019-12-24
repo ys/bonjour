@@ -1,5 +1,4 @@
-{{ $media := $.Page.Resources }}
-{{ $original := $media.GetMatch (.Get "src") }}
+{{ $original := $.Page.Resources.GetMatch (.Get "src") }}
 {{ if $original }}
   {{ $mobile := $original.Resize "600x" }}
   {{ $mini := $original.Resize "40x Box" }}
