@@ -26,13 +26,12 @@ resources:
   - src: "*.jpg"
   - src: "south-lake-tahoe-22.jpg"
     name: "cover"
+summary: "Mon boulot me permet de voyager, d’habitude je vois San Francisco. Cette fois-ci, l’avion atterrit à Reno. Je découvre une autre Amérique. On prend un bus direction South Lake Tahoe. J’ai l’impression d’être dans un de ces romans du Midwest où les gens voyagent en car. On arrive au bord du lac au crépuscule, on ne fait que le distinguer."
 ---
 
 {{< photo src="south-lake-tahoe-1.jpg" >}}
 
 Mon boulot me permet de voyager, d’habitude je vois San Francisco. Cette fois-ci, l’avion atterrit à Reno. Je découvre une autre Amérique. On prend un bus direction South Lake Tahoe. J’ai l’impression d’être dans un de ces romans du Midwest où les gens voyagent en car. On arrive au bord du lac au crépuscule, on ne fait que le distinguer.
-
-<!--more-->
 
 {{< photoset max="2" >}}
 {{< photo src="south-lake-tahoe-2.jpg" >}}

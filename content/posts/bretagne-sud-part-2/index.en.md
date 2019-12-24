@@ -28,6 +28,7 @@ resources:
   - name: "cover"
     src: "9.jpg"
   - src: "*.jpg"
+summary: "Time to leave our first base camp for Crozon. We take a small detour for La Pointe du Raz. A quick break at the last supermarket before America for some missing groceries. For our meals, Cloé had the great idea to cook amazing dishes and store them in jars. Food just like home but without having to cook too much. What can we ask for!"
 ---
 
 > Homme libre toujours tu chériras la mer
@@ -35,9 +36,6 @@ resources:
 _Don't forget to read the [first part](https://vadrouilles.co/en/south-of-bretagne-part-1)_
 
 Time to leave our first base camp for Crozon. We take a small detour for La Pointe du Raz. A quick break at the last supermarket before America for some missing groceries. For our meals, Cloé had the great idea to cook amazing dishes and store them in jars. Food just like home but without having to cook too much. What can we ask for!
-
-
-<!--more-->
 
 ## Pointe du Raz
 

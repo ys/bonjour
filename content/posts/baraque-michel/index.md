@@ -7,6 +7,7 @@ emoji: "🌲"
 tags: ["balade", "fagnes", "belgique", "baraque michel", "caillebotis", "ardennes", "famille", "randonnée"]
 gear: ["📷 Fuji X100T"]
 place: "Belgique"
+summary: "Cela fait quelques temps que l'on regarde cette balade. On a souvent fait la fagne de Pôleur. Tom adore les parties recouvertes de caillebotis. Cette balade autour de la Baraque Michel sera en partie sur caillebotis, en partie dans les fagnes et dans les bois."
 categories:
 - vadrouilles
 resources:
@@ -16,8 +17,6 @@ resources:
 {{< photo src="baraque-michel-2.jpg" >}}
 
 Cela fait quelques temps que l'on regarde cette balade. On a souvent fait la fagne de Pôleur. Tom adore les parties recouvertes de caillebotis. Cette balade autour de la Baraque Michel sera en partie sur caillebotis, en partie dans les fagnes et dans les bois.
-
-<!--more-->
 
 {{< photo src="baraque-michel-3.jpg" >}}
 

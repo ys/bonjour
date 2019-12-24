@@ -11,13 +11,12 @@ resources:
 - name: "cover"
   src: "hello-world-4.jpg"
 - src: "*.jpg"
---- 
+summary: "Aujourd'hui, je viens de manger notre première pomme. Ca vous fait un truc quand elle vient de chez vous. Votre production donne ses fruits. C'est assez fou, on les a pas planté. Merci les anciens propriétaires mais quand même. Enfin je mens, j'en ai déjà mangé mais c'était de la compote en fait. Ca fait quand même plus quelque chose quand tu croques dedans."
+---
 
 {{< photo src="hello-world.jpg" >}}
 
 Aujourd'hui, je viens de manger notre première pomme. Ca vous fait un truc quand elle vient de chez vous. Votre production donne ses fruits. C'est assez fou, on les a pas planté. Merci les anciens propriétaires mais quand même. Enfin je mens, j'en ai déjà mangé mais c'était de la compote en fait. Ca fait quand même plus quelque chose quand tu croques dedans.
-
-<!--more-->
 
 Un lot de choses se sont passées. Certaines que je vous raconterai d'autres pas. Mais c'est fou le nombre de premières que j'ai eu en étant ici. En une journée, mes premières bottes en tant qu'adulte, j'ai acheté ma première clef à bougie et la bougie qui allait avec, je l'ai changée et ai réparé la tondeuse grâce à cela. J'ai aussi le lendemain tondu pendant une heure trente, et en fait c'était relaxant de se vider la tête.
 

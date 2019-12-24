@@ -32,11 +32,10 @@ resources:
   - src: "15.jpg"
     name: "cover"
   - src: "*.jpg"
+summary: "Cela faisait un moment qu'on en parlait. Avec Cloé, on rêve de vanlife avec un grand V. Pour mes 35 ans, Elle m'offre une virée en Volkswagen California. Un très bon moyen de tester sans trop se mouiller me direz-vous."
 ---
 
 Cela faisait un moment qu'on en parlait. Avec Cloé, on rêve de vanlife avec un grand V. Pour mes 35 ans, Elle m'offre une virée en Volkswagen California. Un très bon moyen de tester sans trop se mouiller me direz-vous.
-
-<!--more-->
 
 {{< photoset max="2" >}}
 {{< photo src="4.jpg" alt="Cloe au volant" >}}

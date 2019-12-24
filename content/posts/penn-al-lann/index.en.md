@@ -26,6 +26,7 @@ resources:
   - src: "penn-al-lann-7.jpg"
     name: "cover"
   - src: "*.jpg"
+summary: "A small beach protected from eyes and wind, better known as Tahiti Beach. Near Carantec, famously known for the castle that inspired the Black Island from Hergé"
 ---
 
 > 48°27’42.436"N, 3°48’52.736"O
@@ -33,8 +34,6 @@ resources:
 {{< photo src="penn-al-lann-2.jpg" >}}
 
 A small beach protected from eyes and wind, better known as Tahiti Beach. Near Carantec, famously known for the castle that inspired the Black Island from Hergé
-
-<!--more-->
 
 {{< photo src="penn-al-lann-8.jpg" class="fullwidth" >}}
 

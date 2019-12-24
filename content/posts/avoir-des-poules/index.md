@@ -4,6 +4,7 @@ subtitle: "L'histoire de Cocotte et Nuggets"
 date: 2019-06-14T21:55:23+02:00
 draft: false
 description: "Le petit guide simple pour partager son terrain avec des petites poules."
+summary: "En déménageant, on s'était dit qu'on aurait un jour des poules. L'idée d'avoir des œufs frais nous plaisait vraiment. Alors on a commencé à se renseigner, à lire un peu en ligne. Le web est une source fabuleuse d'information, on trouve tout ce qu'il nous faut."
 tags: ["poules", "slowlife", "œufs", "neoruraux", "campagne"]
 categories:
   - journal
@@ -16,9 +17,6 @@ resources:
 ---
 
 En déménageant, on s'était dit qu'on aurait un jour des poules. L'idée d'avoir des œufs frais nous plaisait vraiment. Alors on a commencé à se renseigner, à lire un peu en ligne. Le web est une source fabuleuse d'information, on trouve tout ce qu'il nous faut.
-
-
-<!--more-->
 
 
 ## 🐔 Combien de poules?
