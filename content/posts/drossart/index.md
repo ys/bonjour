@@ -20,6 +20,8 @@ resources:
 
 Lors de notre dernière balade au Signal de Botrange, nous passons devant la porte de Drossart, on y voit des voitures et on se dit que l’on doit y revenir. Voici chose faite. Plusieurs balades au départ allant de 2 à 8km sont possibles. On a environ deux heures devant nous, on choisit celle de 4km. Suivons les rectangles verts.
 
+<!-- more -->
+
 {{< photoset >}}
   {{< photo src="DSCF8777.jpg" >}}
   {{< photo src="DSCF8778.jpg" >}}

@@ -33,6 +33,8 @@ C'est l'été, vous êtes en vacances. Vous ne savez pas quoi lire. Laissez moi 
 
 J’ai une habitude qui tient, c’est la lecture. Quasi quotidienne, elle me permet en fin de journée de me détendre. Mes lectures sont souvent liées à la nature. Il y a quelques années c’était plutôt des bouquins techniques. J'ai eu envie de partager quelques uns de mes coups de cœur avec vous. J'aime pas mal de bouquins donc attendez vous à en voir plus. Si vous voulez me suivre sur [goodreads](https://www.goodreads.com/vadrouilles), je me suis fixé comme challenge de lire 35 livres cette année.
 
+<!-- more -->
+
 <hr/>
 
 Voici trois bouquins que j’ai vraiment apprécié.

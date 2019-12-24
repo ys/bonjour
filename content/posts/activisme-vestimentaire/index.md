@@ -26,6 +26,8 @@ resources:
 
 Consommer moins, consommer mieux. C'est un peu un des trucs qui me turlupine depuis que je me suis lancé dans le minimalisme et autres. Ca passe pas mal par ma garde robe. Elle débordait de T-shirts, de chemises et commençait à ne plus ressembler à rien.
 
+<!-- more -->
+
 > Fabriquer les meilleurs produits en causant le moindre impact environnemental, utiliser le monde des affaires pour inspirer et mettre en place des solutions à la crise environnementale.
 
 C'est ce qu'on peut lire sur le site de [Patagonia](https://eu.patagonia.com/). Un des pionniers en terme d'activisme environnemental. C'est un peu à cause d'eux et de mon envie de voyager léger que j'ai commencé à réduire ma garde robe. Ne plus garder que des pièces que j'adore et qui ne font au final pas de mal à la planète.

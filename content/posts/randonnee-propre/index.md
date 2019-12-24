@@ -17,6 +17,8 @@ resources:
 
 La Terre va mal, ce n'est plus à questionner. On en est responsable. Maintenant, plusieurs choix s'offrent à nous. Ne rien faire, cela semble sans doute idiot. Se plaindre de ce qui a été fait, pas mieux. Critiquer ceux qui ne sont pas parfaits, cela n'aide sans doute pas. La meilleure solution est d'agir. Personne n'est parfait. Nous ne pensons pas l'être. Mais une chose est sûre, on fait notre part. 
 
+<!-- more -->
+
 Je pourrais vous parler de nos choix de vie, des choix au quotidien ou autres actions. Mais aujourd'hui pour la journée de l'environnement, j'ai plutôt envie de vous parler de nettoyer la nature. Que ce soit sur la plage ou dans les forêts. Comme vous le savez, on partage notre vie avec un petit bout de 5 ans que nous avons décidé de sensibiliser pour ne pas qu'il soit aveugle face à tout cela. On a donc mis en place quelques petites choses qui facilitent un micro activisme au quotidien et en vadrouille. 
 
 <hr/>

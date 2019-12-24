@@ -36,6 +36,9 @@ _Don't forget to read the [first part](https://vadrouilles.co/en/south-of-bretag
 
 Time to leave our first base camp for Crozon. We take a small detour for La Pointe du Raz. A quick break at the last supermarket before America for some missing groceries. For our meals, Cloé had the great idea to cook amazing dishes and store them in jars. Food just like home but without having to cook too much. What can we ask for!
 
+
+<!-- more -->
+
 ## Pointe du Raz
 
 We park and cross the shopping mall part of la Pointe du Raz. We make a loop around the Pointe, fantastic view of the ocean wherever we look. We see the lighthouse. We keep walking, I think the GR trail is around there. We climb down, this wasn’t the trail. Oopsie. We go back up. That was some excellent adventure time for Tom. For me, I had to keep a jumping dog on a leash, kind of an adventure too. We close the loop with a fantastic view of the bay of the dead. Why that name? I will let you guess.

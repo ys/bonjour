@@ -17,6 +17,8 @@ resources:
 
 Cela fait quelques temps que l'on regarde cette balade. On a souvent fait la fagne de Pôleur. Tom adore les parties recouvertes de caillebotis. Cette balade autour de la Baraque Michel sera en partie sur caillebotis, en partie dans les fagnes et dans les bois.
 
+<!-- more -->
+
 {{< photo src="baraque-michel-3.jpg" >}}
 
 On démarre en passant près du pré où nous avons fait des bonhommes de neige cette hiver. Le vent de face est rafraichissant mais j'espère qu'il ne durera pas trop pour Tom.

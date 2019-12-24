@@ -35,6 +35,8 @@ resources:
 
 We keep discovering new amazing places around Bretagne (Decided to stop translating this one after reading Jack Kerouac saying "breton"). We might have seen less than 10% now. We love those new discoveries. We hope also to meet some folks this year to see some secret spots only locals know about. This time, we went to la Palue on the Crozon peninsula. A piece of paradise down on earth.
 
+<!-- more -->
+
 {{< photoset >}}
 {{< photo src="_DSF2367.jpg" >}}
 {{< photo src="_DSF2435.jpg" >}}

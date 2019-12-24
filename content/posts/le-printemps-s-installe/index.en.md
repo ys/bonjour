@@ -27,6 +27,8 @@ resources:
 
 It is already the end of may. Time flies. The garden is alive. The vegetables garden can start again now that the Ice saints are behind us. We cannot wait to eat our own vegetable again. Pierre, our neighbor, offered us a spot in his greenhouse for our tomatoes. Tom starts to climb again in the trees and finds new hidden spots. We started to grill again, I mean we never really stopped. We also have new garden furnitures. What a pleasure to spend so much time outside.
 
+<!-- more -->
+
 I also had a few occasions when I could ride my bike and bring Tom to school. Small country side roads are amazing even if it is never really flat and it kills me for now. I need more practice. Let's check on this later.
 
 <hr/>

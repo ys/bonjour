@@ -30,6 +30,8 @@ resources:
 
 On est arrivé là un peu par hasard. On avait prévu de faire le Ninglinspo ce jour là mais apparement on était pas les seuls. Une petite recherche pour voir si une belle balade à la roche aux faucons est faisable et nous voilà en route.
 
+<!-- more -->
+
 {{< photo src="DSCF7863.jpg" >}}
 
 On a l’impression de se garer chez les gens en y arrivant. Ce n’est pas le cas. On traverse, passe le long d’une maison et on se lance sur les bords de la falaise. Une vue assez impressionnante sur la vallée où serpente l’Ourthe s’offre à nous. J'avais déjà entrevu la roche depuis le Ravel mais le paysage depuis la falaise est bien plus impressionnant.

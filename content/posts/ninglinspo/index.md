@@ -19,6 +19,8 @@ resources:
 
 Ce n'était pas notre première tentative de l'année pour la célèbre balade du Ninglinspo. La fois précédente due à son succès, nous n'avions pu profiter de la balade car le parking et les bords de routes débordaient de voitures. Il est vrai que depuis quelques années, ce cours d'eau fait le plaisir de plus en plus de personnes. Grâce à cette notoriété, des aménagements ont eu lieu, principalement des poubelles et la rénovation des ponts. Cela n'empêche pas de retrouver pas mal de déchets en dehors des dites poubelles. Cela n'enlève heureusement rien à la beauté des lieux.
 
+<!-- more -->
+
 {{< photoset max="2" >}}
   {{< photo src="DSCF8537.jpg" >}}
   {{< photo src="DSCF8540.jpg" >}}

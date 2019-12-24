@@ -15,6 +15,8 @@ resources:
 
 C'est une belle après-midi de printemps, on est invité chez Anne et Martin à l'orée du bois. Après avoir chassé les tritons dans leur mare, on décide d'aller faire une petite balade en forêt.
 
+<!-- more -->
+
 {{< photo src="hoursinne-1.jpg" >}}
 
 La lumière est belle, la journée aussi. Martin se plait a faire rêver Tom en lui racontant la forêt, ses animaux et ses raccourcis. On est bien dans les bois et décidons de détacher leur chien. Il flaire quelque chose, ce n'était pas prévu et on le voit filer comme si il était possédé. Martin part à travers bois après lui. On patiente un moment, Tom s'amuse à soulever des bois plus lourds que lui et faire aller ses gros muscles.

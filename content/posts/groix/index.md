@@ -31,6 +31,8 @@ resources:
 
 Pour nos vacances, On trouve un airbnb sur une petite île bretonne. On se dit qu'on ne va pas passer des mois à se décider, on le loue et en trente minutes nous voici prêts. Les vacances ne viendront que quelques mois plus tard, nous permettant de prévoir tous les petits détails: la traversée en bateau, les étapes pour ne pas se fatiguer trop avec un petit bout, avoir un porte vélo pour profiter de l'île en deux roues, ...
 
+<!-- more -->
+
 {{< photo class="fullwidth" src="DSCF7216.jpg" >}}
 
 Nous roulons jusque Lorient et embarquons la voiture sur le ferry. Nous pouvons monter sur le pont et profiter de la traversée, l'île grandit et nous débarquons, notre maison se trouve au bout de l'île. Nous sommes effectivement la dernière maison avant le phare.

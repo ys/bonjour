@@ -34,6 +34,8 @@ resources:
 
 Cela fait déjà une semaine que nous avons pris la route. On signe les papiers de la maison et on démarre cette nouvelle vie. À la moitié de la route, Cloé le sent bien, on le fera d'une traite. La nuit n’était pas tombée. Ils nous avaient laissé un matelas et un lit. Juste ce qu’il nous fallait en attendant les déménageurs qui viendraient deux jours plus tard. Les clés étaient prêtes et nous attendaient.
 
+<!-- more -->
+
 Une nouvelle aventure. S’inscrire à la mairie. Ah non, c’était juste changer le nom du compteur d’eau. En fait, on s’inscrit nulle part. Enfin si, au consulat pour moi. Prouver qu’on habite ici? Une facture d’électricité à notre nom... facile! Enfin si tu as ton RIB. Le RIB est roi en fait. Ce papier avec un IBAN qui commence par FR. C’est le saint Graal de la France. Ton passe partout.
 
 Enfin sauf si tu ouvres ton compte au bar tabac, ce RIB la n’ouvre pas toutes les portes... on attend toujours pour ouvrir ces portes... mais parfois un IBAN SEPA ça suffit... Merci la simplicité. Mais je m’égare...
