@@ -2,7 +2,7 @@
   {{ $paginator := (.Paginate (.Site.RegularPages) 10) }}
   {{ range $paginator.Pages }}
     {{ if eq .Type "posts"}}
-      {{ partialCached "post.html" . .Params.slug .Lang   }}
+      {{ partialCached "post.html" . .Params.slug .Lang }}
     {{ else if eq .Type "microposts" }}
       {{ partial "micropost" . }}
     {{ end }}

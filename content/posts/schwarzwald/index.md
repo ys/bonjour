@@ -30,6 +30,8 @@ resources:
 
 Après le stress d'un mariage, nous avions envie de nous reconnecter un peu avec la nature. Nous décidons de partir visiter le nord de la forêt. Quelques recherches et réservations et nous voilà partis. Depuis Liège, il faut compter 4h de route. C'est sans compter sur une autoroute fermée qui nous rajoutera trois heures de trajet et un PV. Rien qui ne puisse entâcher le moral.
 
+<!-- more -->
+
 {{< photoset max="2" >}}
 {{< photo src="schwarzwald-1.jpg" >}}
 {{< photo src="schwarzwald-2.jpg" >}}
