@@ -13,7 +13,7 @@ resources:
 
 Depuis quelques années, j’ai décidé d’investir en moi-même. Avant, toutes mes passions étaient liées à mon métier. Tout l'apprentissage aussi. Il me faut apprendre constamment. La technologie d'une part et les « soft skills » qui traitent plus des relations humaines que de la technique d'autre part. J’ai donc appris à mieux communiquer, mieux comprendre les personnes et mieux gérer le stress. C’est effectivement utile au quotidien.
 
-<!-- more -->
+<!--more-->
 
 J'étais lassé de n’apprendre que pour mon gagne pain. Il me manquait quelque chose. J'ai alors commencé à m'intéresser à mon moi. Minimalisme, pleine conscience et écologie. Ces sujets me suivent encore aujourd’hui et me définissent principalement. Tout cela ne se faisait que dans ma tête. J’ai toujours été plus intellectuel que manuel. C’est un fait... Mon père serait fier de savoir que je sais me servir de mes deux mains maintenant. Que dirait-il de savoir que je pense à investir dans une scie circulaire...
 

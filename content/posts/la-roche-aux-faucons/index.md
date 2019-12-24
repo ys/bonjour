@@ -30,7 +30,7 @@ resources:
 
 On est arrivé là un peu par hasard. On avait prévu de faire le Ninglinspo ce jour là mais apparement on était pas les seuls. Une petite recherche pour voir si une belle balade à la roche aux faucons est faisable et nous voilà en route.
 
-<!-- more -->
+<!--more-->
 
 {{< photo src="DSCF7863.jpg" >}}
 

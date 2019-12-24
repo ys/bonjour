@@ -17,7 +17,7 @@ resources:
 
 The small things are usually what's helping folks to move forward. We definitively need big rocks also. But we need the small ones too. And to move forward, you know what helps the most? Positivism. Emotions are contagious. I'd rather share positive thoughts over negative thoughts when it comes to our Planet.
 
-<!-- more -->
+<!--more-->
 
 So, we decided to teach Tom those small actions. He needs to get that the Earth has a lot of issues and that it is our fault. He also needs to know that he can have a positive impact on our magnificent planet, even if he is only five.
 

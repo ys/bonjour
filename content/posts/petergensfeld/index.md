@@ -22,7 +22,7 @@ resources:
 
 Le soleil dort encore mais nous sommes déjà en route. Notre petit bout n'est pas là, on décide de se lever aux aurores et de commencer la saison des balades en force. [Une balade 16km](https://www.ostbelgien.eu/fr/fiche/hiking/balades-21-petergesfeld) nous attend, la météo est au beau fixe et on compte bien se dégourdir les jambes.
 
-<!-- more -->
+<!--more-->
 
 On décide de choisir une des [balades de rêves](https://www.ostbelgien.eu/fr/randonnee/excursions-d-une-journee/balades-de-reve) proposées par l'office du tourisme des cantons de l'est. Elles sont bien renseignées ce qui nous permet de partir sans aucun souci.
 

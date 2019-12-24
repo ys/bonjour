@@ -13,7 +13,7 @@ resources:
 
 Cela fait maintenant trois ans que je lis et m'intéresse au minimalisme, mobilier et mental. Je me suis rendu compte que mes possessions me possédaient. Et que à cause d'elles, je n'étais pas toujours présent et pas toujours heureux. J'ai compris que les réseaux sociaux le plus souvent me rendaient malheureux et que donc au final ces évolutions ne me permettaient pas de vivre.
 
-<!-- more -->
+<!--more-->
 
 J'ai commence par traquer [mon usage des apps](https://inthemoment.io), lire beaucoup de [livres](https://www.goodreads.com/yann_ck), me mettre a [méditer](http://headspace.com), et me désencombrer. Tout avec beaucoup de passion et de vigueur. Mes parents vous le diront, je n'ai pas une passion mais plusieurs par an plutôt. Ici, elles tiennent. Ces principes de vies et ces changements ont fait de moi ce que je suis aujourd'hui.
 

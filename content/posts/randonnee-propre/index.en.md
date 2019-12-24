@@ -17,7 +17,7 @@ resources:
 
 Earth is in trouble, no way to question this. We are responsible for it. Now, we have multiple choices. Doing nothing, sounds probably stupid. Complaining about the past, not better. Criticizing people trying but having green gaps, this won't help. The best solution is to act. No one is perfect. We don't think we are but at least we are doing our part.
 
-<!-- more -->
+<!--more-->
 
 I could talk about our life's choices, our everyday choices or others actions. But today, for the World environment day, I wanna talk about nature's cleaning. It could be forest or beach. As you know, we have a little 5 years old adventurer. We decided to make him aware of the situation. We also have a set of random micro activism daily and while we wander.
 

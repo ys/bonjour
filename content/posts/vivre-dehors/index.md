@@ -17,7 +17,7 @@ Je ne me suis jamais senti autant connecté à Mère Nature. Cela fait maintenan
 
 Depuis notre déménagement en Bretagne, nous avons une connection encore plus profonde avec la nature. Même durant la pause de midi, on peut partir pour une balade à travers champs. On passe aussi beaucoup plus de temps au jardin. La pluie ne nous arrête pas du tout, elle nous permet simplement de découvrir les choses différement. La terre est magnifique sous le soleil mais pas seulement.
 
-<!-- more -->
+<!--more-->
 
 {{< photoset max="2" >}}
   {{< photo src="living-outdoor.jpg" >}}

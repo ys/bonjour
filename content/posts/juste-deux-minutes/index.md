@@ -26,7 +26,7 @@ resources:
 
 Ce sont les petits gestes qui comptent pour aider l'humain à avancer. Il en faut des gros, c'est sur. Mais il nous faut aussi des petits gestes. Comme disait la compagnie Créole, c'est bon pour le moral. Et vous savez ce qui aide le plus à avancer? Positiver. Les émotions sont contagieuses et je préfère en partager des positives que des négatives lorsqu'on en vient à notre planète.
 
-<!-- more -->
+<!--more-->
 
 Alors, on apprend les petits gestes à Tom. Il a besoin de comprendre que la terre va mal, et que c'est de notre faute. Il a aussi besoin de savoir, déjà à cinq ans, qu'il peut avoir un impact positif sur notre belle planète.
 

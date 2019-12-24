@@ -15,7 +15,7 @@ resources:
 
 C'est une belle après-midi de printemps, on est invité chez Anne et Martin à l'orée du bois. Après avoir chassé les tritons dans leur mare, on décide d'aller faire une petite balade en forêt.
 
-<!-- more -->
+<!--more-->
 
 {{< photo src="hoursinne-1.jpg" >}}
 

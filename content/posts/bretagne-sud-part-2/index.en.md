@@ -37,7 +37,7 @@ _Don't forget to read the [first part](https://vadrouilles.co/en/south-of-bretag
 Time to leave our first base camp for Crozon. We take a small detour for La Pointe du Raz. A quick break at the last supermarket before America for some missing groceries. For our meals, Cloé had the great idea to cook amazing dishes and store them in jars. Food just like home but without having to cook too much. What can we ask for!
 
 
-<!-- more -->
+<!--more-->
 
 ## Pointe du Raz
 

@@ -18,7 +18,7 @@ Aujourd’hui, mon père me voit arriver portant un t-shirt [Finisterre](https:/
 Cela fait deux ans environs que nous avons commencé à mûrir cette idée de partir. Ou? On hésitait. On a d’abord pensé à la Bourgogne, c’est beau et c’est bien situé. On avait envie de changement, de quitter la ville. Une sorte de retour à la terre, certains pourraient dire. 
 
 
-<!-- more -->
+<!--more-->
 
 
 On a écumé pas mal de sites d’immobiliers, j’ai même codé un fouilleur pour quelques sites reconnus! L’an passé, on part à Groix et là, grosse révélation, on étend les recherches à la Bretagne. On descendra visiter quelques maisons des deux côtés et on finit par trouver notre futur chez nous. Un terrain qui nous permet ce retour à la terre, un hameau dans un village de moins de 1000 habitants. Je n’ai jamais connu ça. Mais j’ai hâte.

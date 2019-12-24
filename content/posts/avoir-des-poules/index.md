@@ -18,7 +18,7 @@ resources:
 En déménageant, on s'était dit qu'on aurait un jour des poules. L'idée d'avoir des œufs frais nous plaisait vraiment. Alors on a commencé à se renseigner, à lire un peu en ligne. Le web est une source fabuleuse d'information, on trouve tout ce qu'il nous faut.
 
 
-<!-- more -->
+<!--more-->
 
 
 ## 🐔 Combien de poules?

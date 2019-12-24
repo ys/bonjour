@@ -31,7 +31,7 @@ resources:
 
 Friday, 9:30AM, I am waiting for [Grégory](https://gregorymignard.com) on the parking lot next to a supermarket. Today, I am their hitchhiker. We are leaving for a weekend canoeing the Loire. Their van stops, I jump in, let's get on the road. A few hours on the road leave us space to talk about a lot of things. A quick stop by Grégory's parents to drop the family. Time to go pick up [Jérémy](https://djisupertramp.com) at the railway station. We have to hunt some pizzas and a spot for the night. We stop next to a pond missing an amazing light by a few minutes.
 
-<!-- more -->
+<!--more-->
 
 {{< photo src="16.jpg" alt="our pond for a night" >}}
 {{< photoset max="2" >}}
