@@ -13,13 +13,12 @@ resources:
 - src: "saint-samson.jpg"
   name: "cover"
 - src: "*.jpg"
+summary: "On était en bord de mer pour l'anniversaire de Cloé hier. À un moment, elle me dit quelque chose du genre: 'Si tu m'avais dit y'a un an que je fêterais mon anniversaire en marchant le long de la mer, je t'aurais ri au nez.' Cette phrase a juste déclenché un flux de pensées."
 ---
 
 {{< photo class="vertical" src="saint-samson-23.jpg" >}}
 
 On était en bord de mer pour l'anniversaire de Cloé hier. À un moment, elle me dit quelque chose du genre: "Si tu m'avais dit y'a un an que je fêterais mon anniversaire en marchant le long de la mer, je t'aurais ri au nez." Cette phrase a juste déclenché un flux de pensées.
-
-<!--more-->
 
 {{< photoset max="2" >}}
   {{< photo src="saint-samson-9.jpg" >}}

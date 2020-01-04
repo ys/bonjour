@@ -17,13 +17,14 @@ tags:
     "foret",
   ]
 gear: ["📷 Fuji X100T"]
+place: "Belgique"
 categories:
-  - belgique
   - vadrouilles
 resources:
   - name: "cover"
     src: "DSCF7905.jpg"
   - src: "*.jpg"
+summary: "On est arrivé là un peu par hasard. On avait prévu de faire le Ninglinspo ce jour là mais apparement on était pas les seuls. Une petite recherche pour voir si une belle balade à la roche aux faucons est faisable et nous voilà en route."
 ---
 
 {{< photo class="fullwidth" src="DSCF7905.jpg" >}}

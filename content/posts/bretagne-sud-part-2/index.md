@@ -5,8 +5,8 @@ seotitle: "Road Trip en Bretagne Sud - Pointe du Raz - Crozon"
 date: 2019-03-19T22:23:24+01:00
 draft: false
 slug: "bretagne-sud-part-2"
+place: "France"
 categories:
-  - france
   - vadrouilles
 emoji: "⚓️"
 tags:
@@ -28,6 +28,7 @@ resources:
   - name: "cover"
     src: "9.jpg"
   - src: "*.jpg"
+summary: "Départ de notre premier QG en direction de notre camp de base à Crozon. On fait un crochet par la pointe du Raz. Une pause au dernier supermarché avant l’Amérique pour quelques provisions manquantes. Pour le reste, Cloé a eu la super idée de cuisiner des petits plats et les mettre dans des bocaux. La nourriture comme à la maison mais sans devoir cuisiner. Trop bien!"
 ---
 
 > Homme libre toujours tu chériras la mer
@@ -35,8 +36,6 @@ resources:
 _N'oubliez pas de lire la [première partie](https://vadrouilles.co/bretagne-sud-part-1)_
 
 Départ de notre premier QG en direction de notre camp de base à Crozon. On fait un crochet par la pointe du Raz. Une pause au dernier supermarché avant l’Amérique pour quelques provisions manquantes. Pour le reste, Cloé a eu la super idée de cuisiner des petits plats et les mettre dans des bocaux. La nourriture comme à la maison mais sans devoir cuisiner. Trop bien!
-
-<!-- more -->
 
 ## Pointe du Raz
 

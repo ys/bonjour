@@ -11,12 +11,11 @@ resources:
 - name: "cover"
   src: "living-outdoor-3.jpg"
 - src: ".jpg"
+summary: "I never felt so connected to Mother Earth. It has been a few years now that most of our weekends are spent outside. We go out for a walk or wander for the whole day. It allows us to feel connected, find peace and discover amazing things nature has to give. We wandered across Belgium and loved every bit."
 ---
 I never felt so connected to Mother Earth. It has been a few years now that most of our weekends are spent outside. We go out for a walk or wander for the whole day. It allows us to feel connected, find peace and discover amazing things nature has to give. We wandered across Belgium and loved every bit.
 
 Since our move to Brittany, we have an even deeper connection with nature. We can go for a nice walk across the fields during lunch and we spend way more time in our garden. Rain doesn't stop us at all, it just allows us to discover things differently. Land is beautiful under the sun but not only.
-
-<!-- more -->
 
 {{< photoset max="2" >}}
   {{< photo src="living-outdoor.jpg" >}}

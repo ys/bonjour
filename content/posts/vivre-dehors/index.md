@@ -11,13 +11,12 @@ resources:
 - name: "cover"
   src: "living-outdoor-3.jpg"
 - src: ".jpg"
+summary: "Je ne me suis jamais senti autant connecté à Mère Nature. Cela fait maintenant quelques années que nos week-ends se passent dehors. Que ce soit pour une courte marche ou une journée à vadrouiller. Cela nous permet de nous sentir connecté, trouver la paix et découvrir les merveilleuses choses que la nature a à nous offrir. On a vadrouillé un peu partout en Belgique et nous avons adoré cela."
 ---
 
 Je ne me suis jamais senti autant connecté à Mère Nature. Cela fait maintenant quelques années que nos week-ends se passent dehors. Que ce soit pour une courte marche ou une journée à vadrouiller. Cela nous permet de nous sentir connecté, trouver la paix et découvrir les merveilleuses choses que la nature a à nous offrir. On a vadrouillé un peu partout en Belgique et nous avons adoré cela.
 
 Depuis notre déménagement en Bretagne, nous avons une connection encore plus profonde avec la nature. Même durant la pause de midi, on peut partir pour une balade à travers champs. On passe aussi beaucoup plus de temps au jardin. La pluie ne nous arrête pas du tout, elle nous permet simplement de découvrir les choses différement. La terre est magnifique sous le soleil mais pas seulement.
-
-<!-- more -->
 
 {{< photoset max="2" >}}
   {{< photo src="living-outdoor.jpg" >}}

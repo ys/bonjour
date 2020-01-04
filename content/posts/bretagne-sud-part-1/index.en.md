@@ -5,8 +5,8 @@ seotitle: "Road trip in south of Bretagne - Carnac - Quiberon - Etel"
 date: 2019-03-08T13:09:01+01:00
 draft: false
 slug: "south-of-bretagne-part-1"
+place: "France"
 categories:
-- france
 - vadrouilles
 emoji: "⚓️"
 tags: ["road trip", "photography", "bretagne", "Brittany", "surf", "beach", "tides", "morbihan", "quiberon", "carnac", "local", "slowlife", "holiday", "family"]
@@ -16,11 +16,10 @@ resources:
 - src: "4.jpg"
   name: "cover"
 - src: "*.jpg"
+summary: "We decided we should have a staycation. We wanted to discover our new region. We definitively think about travelling differently, slower. For this time, the plan is Carnac, Quiberon, “La Pointe du Raz” and Crozon. A road trip across south of Brittany. Simple enough but also full of wonders. Mystic, Wild and classic places to discover or rediscover."
 ---
 
 We decided we should have a staycation. We wanted to discover our new region. We definitively think about travelling differently, slower. For this time, the plan is Carnac, Quiberon, “La Pointe du Raz” and Crozon. A road trip across south of Brittany. Simple enough but also full of wonders. Mystic, Wild and classic places to discover or rediscover.
-
-<!-- more -->
 
 {{< photo src="14.jpg" alt="light through waves" >}}
 

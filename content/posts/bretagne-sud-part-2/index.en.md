@@ -5,8 +5,8 @@ seotitle: "Road Trip in south of Bretagne - Pointe du Raz - Crozon"
 date: 2019-03-19T22:23:24+01:00
 draft: false
 slug: "south-of-bretagne-part-2"
+place: "France"
 categories:
-  - france
   - vadrouilles
 emoji: "⚓️"
 tags:
@@ -28,6 +28,7 @@ resources:
   - name: "cover"
     src: "9.jpg"
   - src: "*.jpg"
+summary: "Time to leave our first base camp for Crozon. We take a small detour for La Pointe du Raz. A quick break at the last supermarket before America for some missing groceries. For our meals, Cloé had the great idea to cook amazing dishes and store them in jars. Food just like home but without having to cook too much. What can we ask for!"
 ---
 
 > Homme libre toujours tu chériras la mer

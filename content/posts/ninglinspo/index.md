@@ -6,13 +6,14 @@ slug: "ninglinspo"
 tags: ["randonnée", "sentiers", "aywaille", "famille", "sortie", "Belgique", "foret", "nature"]
 emoji: "🇧🇪"
 gear: ["📷 Fuji X100T"]
+place: "Belgique"
 categories:
-- belgique
 - vadrouilles
 resources:
 - src: "DSCF8536.jpg"
   name: "cover"
 - src: "*.jpg"
+summary: "Ce n'était pas notre première tentative de l'année pour la célèbre balade du Ninglinspo. La fois précédente due à son succès, nous n'avions pu profiter de la balade car le parking et les bords de routes débordaient de voitures. Il est vrai que depuis quelques années, ce cours d'eau fait le plaisir de plus en plus de personnes."
 ---
 
 {{< photo src="DSCF8536.jpg" >}}

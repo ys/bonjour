@@ -1,8 +1,6 @@
-{{ $media := $.Page.Resources }}
-{{ $original := $media.GetMatch (.Get "src") }}
+{{ $original := $.Page.Resources.GetMatch (.Get "src") }}
 {{ if $original }}
-  {{ $mobile := $original.Resize "600x" }}
-  {{ $mini := $original.Resize "100x" }}
+  {{ $mini := $original.Resize "40x Box" }}
   <figure>
     <picture class="block shadow-lg {{ if .Parent }}{{ else }}my-6 {{ if eq (.Get "class") "vertical" }}mx-auto w-2/3{{ else }}md:-mx-10{{ end }}{{ end }}" {{ with .Get "alt" }}alt="{{ . }}"{{ end }}>
       <source class="lazyload"

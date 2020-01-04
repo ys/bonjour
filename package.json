@@ -9,7 +9,8 @@
     "build": "hugo",
     "gulp": "gulp",
     "build-images": "gulp img:build",
-    "dev": "hugo serve --disableFastRender -p $PORT",
+    "debug": "rm -rf public/* resources/_gen && hugo --templateMetrics --templateMetricsHints",
+    "dev": "hugo serve -p $PORT",
     "start": "hugo serve --disableFastRender --appendPort=false -b $(curl http://127.0.0.1:4040/api/tunnels | jq '.tunnels[0].public_url' -r)",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
