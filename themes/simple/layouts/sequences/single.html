@@ -3,14 +3,14 @@
   {{if $image }}
     {{ $mini := $image.Fill "x40" }}
     <div class="my-6">
-      <picture class="md:-mx-10 block shadow-lg">
+      <picture class="{{ if gt $image.Height $image.Width }}mx-auto w-2/3{{ else }}md:-mx-10{{ end }} block shadow-lg">
         <source class="lazyload" srcset="{{ $mini.RelPermalink }}" type="web/jpg" media="(min-width: 821px)" data-srcset="{{ $image.RelPermalink }}">
         <img alt="{{ .Title }} cover" src="{{ $mini.RelPermalink }}" data-src="{{ $image.RelPermalink }}" class="w-full lazyload">
       </picture>
     </div>
   {{end}}
-  <div class="text-center">
-  {{ .Content }}
+  <div class="content text-center">
+    {{ .Content }}
   </div>
 <nav class="flex bold text-lg py-6 justify-center w-full">
   {{ with .NextInSection }}
