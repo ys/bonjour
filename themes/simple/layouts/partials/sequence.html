@@ -1,0 +1,21 @@
+{{ $image := (index (.Resources.ByType "image") 0) }}
+{{if $image }}
+  {{ $mini := $image.Fill "x40" }}
+  <div class="my-6">
+    <a href="{{ .RelPermalink }}" aria-label="{{ .Title }}">
+      <picture class="{{ if gt $image.Height $image.Width }}mx-auto w-2/3{{ else }}md:-mx-10{{ end }} block shadow-lg">
+        <source class="lazyload" srcset="{{ $mini.RelPermalink }}" type="web/jpg" media="(min-width: 821px)" data-srcset="{{ $image.RelPermalink }}">
+        <img alt="{{ .Title }} cover" src="{{ $mini.RelPermalink }}" data-src="{{ $image.RelPermalink }}" class="w-full lazyload">
+      </picture>
+    </a>
+  </div>
+{{end}}
+<div class="content text-center">
+{{ .Content }}
+</div>
+
+{{ with .PrevInSection }}
+<nav class="flex bold text-lg py-6 justify-center w-full">
+  <a class="link" href="{{ .RelPermalink }}">Next</a>
+</nav>
+{{ end }}
