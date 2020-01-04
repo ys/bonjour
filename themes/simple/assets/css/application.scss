@@ -38,7 +38,6 @@
       @apply bg-dark;
     }
     blockquote {
-      @apply bg-dark;
       a {
         text-shadow: -1px -1px 0 theme('colors.dark'), 1px -1px 0 theme('colors.dark'), -1px 1px 0 theme('colors.dark'), 1px 1px 0 theme('colors.dark');
         background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.blue.200') 2px, theme('colors.blue.200') 2.5px, transparent 2.5px);
@@ -110,7 +109,10 @@ hr {
     @apply my-4
   }
   blockquote {
-    @apply font-sans leading-snug text-blue-500 text-center italic pl-2 -ml-2 my-2 bg-gray-200 p-4 rounded;
+    @screen md {
+      @apply -mx-24;
+    }
+    @apply font-sans leading-snug text-blue-500 text-center italic text-2xl;
     a {
       text-shadow: -1px -1px 0 theme('colors.gray.200'), 1px -1px 0 theme('colors.gray.200'), -1px 1px 0 theme('colors.gray.200'), 1px 1px 0 theme('colors.gray.200');
       background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.blue.200') 2px, theme('colors.blue.200') 2.5px, transparent 2.5px);
