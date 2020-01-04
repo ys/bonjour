@@ -1,3 +1,6 @@
+---
+date: 2020-01-04 07:27:33 +0200
+---
 # Finir l'année sur un beau coucher de soleil
 
 On a pu profiter d'une éclaircie pour rejoindre la côte et arriver pour l'heure dorée.
