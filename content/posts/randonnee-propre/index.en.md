@@ -13,7 +13,8 @@ resources:
 - src: "*.jpg"
 - src:  "cover.jpg"
   name: "cover"
---- 
+summary: "Earth is in trouble, no way to question this. We are responsible for it. Now, we have multiple choices. Doing nothing, sounds probably stupid. Complaining about the past, not better. Criticizing people trying but having green gaps, this won't help. The best solution is to act."
+---
 
 Earth is in trouble, no way to question this. We are responsible for it. Now, we have multiple choices. Doing nothing, sounds probably stupid. Complaining about the past, not better. Criticizing people trying but having green gaps, this won't help. The best solution is to act. No one is perfect. We don't think we are but at least we are doing our part.
 
@@ -23,7 +24,7 @@ I could talk about our life's choices, our everyday choices or others actions. B
 
 Choosing to leave with less trash and have a trash bag when we are wandering allow us to not pollute more. Don't even leave things you think are natural. A banana peal or orange peal has nothing to do in the forest or on the beach. Respect the outdoors like it was your house, because it kind of is your house. Repeat "Leave no trace" five times before leaving and every time you pick something of your bag.
 
-Having a trash bag allow you especially to pick up trash left by others. This is free and if we all do it, soon trails and beaches are gonna be cleaner. Bye bye to plastic bottles, cigarettes butts, tissues and other trash that people leave on the go. 
+Having a trash bag allow you especially to pick up trash left by others. This is free and if we all do it, soon trails and beaches are gonna be cleaner. Bye bye to plastic bottles, cigarettes butts, tissues and other trash that people leave on the go.
 
 ## Where should I start?
 
@@ -31,7 +32,7 @@ Having a trash bag allow you especially to pick up trash left by others. This is
 
 You don't need much. Just remember to have a trash bag in your bag. Don't hesitate to have some pair of gloves also just to pick whatever you find.
 
-If you feel lonely, bring friends, join an event. If you don't have friends and don't know where to find those events, follow groups like [Surfers against Sewage](https://www.sas.org.uk), [Trash free trails](https://www.trashfreetrails.org) or [Surfrider](https://www.surfrider.org/volunteer) 
+If you feel lonely, bring friends, join an event. If you don't have friends and don't know where to find those events, follow groups like [Surfers against Sewage](https://www.sas.org.uk), [Trash free trails](https://www.trashfreetrails.org) or [Surfrider](https://www.surfrider.org/volunteer)
 
 ## TL;DR
 

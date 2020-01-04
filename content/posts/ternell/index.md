@@ -16,14 +16,15 @@ tags:
     "famille",
     "randonnée",
   ]
+place: "Belgique"
 gear: ["📷 Fuji X100T"]
 categories:
-  - belgique
   - vadrouilles
 resources:
   - src: "DSCF8724.jpg"
     name: "cover"
   - src: "*.jpg"
+summary: "Suite à une invitation de Pascal, nous décidons d'aller nous balader entre amis avec une ribambelle d'enfants à la maison Ternell. Nous avions découvert cet endroit dans une super liste de balades dans les cantons de l'est en Belgique. Nous avions fait une boucle de 8km la dernière fois. Ici étant plus nombreux, nous avons préféré faire la boucle de 4km."
 ---
 
 Suite à une invitation de Pascal, nous décidons d'aller nous balader entre amis avec une ribambelle d'enfants à la maison Ternell. Nous avions découvert cet endroit dans une super [liste de balades dans les cantons de l'est](https://www.eastbelgium.com/fr/randonnee/excursions-d-une-journee/balades-de-reve) en Belgique. Nous avions fait une boucle de 8km la dernière fois. Ici étant plus nombreux, nous avons préféré faire la boucle de 4km.

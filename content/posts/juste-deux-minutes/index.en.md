@@ -13,6 +13,7 @@ resources:
 - src: "*.jpg"
 - src:  "cover.jpg"
   name: "cover"
+summary: "The small things are usually what's helping folks to move forward. We definitively need big rocks also. But we need the small ones too. And to move forward, you know what helps the most? Positivism. Emotions are contagious. I'd rather share positive thoughts over negative thoughts when it comes to our Planet."
 ---
 
 The small things are usually what's helping folks to move forward. We definitively need big rocks also. But we need the small ones too. And to move forward, you know what helps the most? Positivism. Emotions are contagious. I'd rather share positive thoughts over negative thoughts when it comes to our Planet.

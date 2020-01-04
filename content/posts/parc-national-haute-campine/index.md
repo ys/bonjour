@@ -6,13 +6,14 @@ slug: "parc-national-de-haute-campine"
 emoji: "🇧🇪"
 tags: ["randonnée", "parc national", "sentiers", "nature", "foret", "limbourg", "belgique", "famille", "sortie"]
 categories:
-- belgique
 - vadrouilles
+place: "Belgique"
 gear: ["📷 Fuji X100T", "📱 iPhone 6s"]
 resources:
 - name: "cover"
   src: "DSCF7825.jpg"
 - src: "*.jpg"
+summary: "Nous entendons toujours parler des parcs nationaux Américains. J’étais loin de me douter que mon plat pays accueillait lui aussi un parc avec ses rangers. Il se situe dans la province du Limbourg, du côté flamand. Le parc national de la Haute Campine s’étend sur plus de 5700 ha de forêts et de bruyères."
 ---
 
 {{< photo src="DSCF7831.jpg" >}}

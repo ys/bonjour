@@ -6,13 +6,14 @@ slug: "petergensfeld"
 tags: ["fagnes", "randonnée", "sentiers", "belgique", "eupen", "ostbelgien", "Allemagne", "couple", "balade", "matin"]
 emoji: "🌅"
 gear: ["📷 Fuji X100T", "📱 iPhone X"]
+place: "Belgique"
 categories:
-- belgique
 - vadrouilles
 resources:
 - name: "cover"
   src: "petergensfeld-2.jpg"
 - src: "*.jpg"
+summary: "Le soleil dort encore mais nous sommes déjà en route. Notre petit bout n'est pas là, on décide de se lever aux aurores et de commencer la saison des balades en force. Une balade 16km nous attend, la météo est au beau fixe et on compte bien se dégourdir les jambes."
 ---
 
 {{< photoset max="2" >}}

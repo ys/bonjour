@@ -3,7 +3,7 @@ title: "Tour des lacs d’Ayous"
 subtitle: "Des moutons, un patou et de bien beaux paysages"
 date: 2019-12-15T18:24:44+01:00
 draft: false
-tags: 
+tags:
 - randonnée
 - pyrénées
 - vacances
@@ -12,10 +12,12 @@ tags:
 - plein air
 - ossau
 - marche
+place: "France"
 categories:
 - vadrouilles
 slug: "lacs-d-ayous"
 emoji: "⛰"
+summary: "Il est 6h30 du matin, on démarre pour le parking. Ce parking se remplit vite. Une garde nous a dit que pour avoir une chance d’y avoir une place, il fallait être là avant 8h. On a une bonne heure, ça va le faire."
 resources:
 - src: "*.jpg"
 - src:  "cover.jpg"
@@ -25,7 +27,6 @@ resources:
 {{< photo src="1.jpg" alt="vue du parking" >}}
 
 Il est 6h30 du matin, on démarre pour le parking. Ce parking se remplit vite. Une garde nous a dit que pour avoir une chance d’y avoir une place, il fallait être là avant 8h. On a une bonne heure, ça va le faire.
-
 
 Arrêt boulangerie, une dame n'hésite pas à se servir en attendant que la boulangère fasse nos sandwichs. Sans gêne. Apparement, elle va au même parking que nous. Une course poursuite sur les petites routes entre Arudy et Laruns s’entame. Cloé passe en mode Fast and Furious. Il semblerait que les places soient hautement convoitées et amènent les gens à perdre toute civilité. 8h05, arrivée à la barrière du parking, le garde nous laisse monter. C’est fait on est passé, on aura l’avant dernière place. Merci Karma.
 

@@ -2,8 +2,8 @@
 title: "Une semaine au bout de l'île"
 date: 2017-12-23T12:07:44+01:00
 draft: false
+place: "France"
 categories:
-  - france
   - vadrouilles
 tags:
   [
@@ -27,6 +27,7 @@ resources:
   - name: "cover"
     src: "DSCF7297.jpg"
   - src: "*.jpg"
+summary: "Pour nos vacances, On trouve un airbnb sur une petite île bretonne. On se dit qu'on ne va pas passer des mois à se décider, on le loue et en trente minutes nous voici prêts. Les vacances ne viendront que quelques mois plus tard, nous permettant de prévoir tous les petits détails: la traversée en bateau, les étapes pour ne pas se fatiguer trop avec un petit bout, avoir un porte vélo pour profiter de l'île en deux roues, ..."
 ---
 
 Pour nos vacances, On trouve un airbnb sur une petite île bretonne. On se dit qu'on ne va pas passer des mois à se décider, on le loue et en trente minutes nous voici prêts. Les vacances ne viendront que quelques mois plus tard, nous permettant de prévoir tous les petits détails: la traversée en bateau, les étapes pour ne pas se fatiguer trop avec un petit bout, avoir un porte vélo pour profiter de l'île en deux roues, ...

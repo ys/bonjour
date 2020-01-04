@@ -5,8 +5,8 @@ seotitle: "Road trip en Bretagne Sud - Carnac - Quiberon - Etel"
 date: 2019-03-08T13:09:01+01:00
 draft: false
 slug: "bretagne-sud-part-1"
+place: "France"
 categories:
-  - france
   - vadrouilles
 emoji: "⚓️"
 tags:
@@ -34,11 +34,10 @@ resources:
   - src: "4.jpg"
     name: "cover"
   - src: "*.jpg"
+summary: "On avait décidé de ne pas partir bien loin. On voulait découvrir notre region d’adoption. On veut voyager différemment, plus lentement. On ferait Carnac, Quiberon, la Pointe du Raz et Crozon. Un road trip en Bretagne sud. Facile et efficace. Du mystique, du sauvage et du classique à découvrir ou approfondir."
 ---
 
 On avait décidé de ne pas partir bien loin. On voulait découvrir notre region d’adoption. On veut voyager différemment, plus lentement. On ferait Carnac, Quiberon, la Pointe du Raz et Crozon. Un road trip en Bretagne sud. Facile et efficace. Du mystique, du sauvage et du classique à découvrir ou approfondir.
-
-<!-- more -->
 
 {{< photo src="14.jpg" alt="light through waves" >}}
 
