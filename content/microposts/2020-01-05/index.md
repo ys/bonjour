@@ -1,7 +1,11 @@
 ---
 date: 2020-01-04 14:01:01 +0200
 title: Des goals et des amishs
+resources:
+- src: "*.jpg"
 ---
+
+{{< photo src="cover.jpg" alt="cabane du jardin" >}}
 
 J’ai fini 2019 en lisant [Digital Minimalism](https://www.amazon.fr/Digital-Minimalism-Living-Better-Technology/dp/0241341132) par Cal Newport. Cela conclut vraiment bien l’année sur ma façon de vouloir revoir mon utilisation des nouvelles technologies et spécialement de celui dans ma poche.
 
