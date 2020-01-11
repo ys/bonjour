@@ -4,7 +4,7 @@
   <h3 class="text-gray-600 dark:text-gray-400">{{ .Params.subtitle }}</h3>
   {{ if .IsTranslated }} {{ range .Translations }}
   <div class="pt-6 font-sans text-sm font-light ">
-    <a class="link" href="{{ .Permalink }}">{{ T "also_available" }} {{ .Language.LanguageName }}</a>
+    <a class="link" href="{{ .RelPermalink }}">{{ T "also_available" }} {{ .Language.LanguageName }}</a>
   </div>
   {{ end }} {{ end }}
 </header>
