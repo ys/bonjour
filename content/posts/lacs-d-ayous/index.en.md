@@ -49,7 +49,7 @@ Once we get off the wood, the panorama is breathless and will stay that way til 
 {{</ photoset >}}
 
 
-We see people packing their tent and getting ready to continue their hike or just wandering around the lake. We chat with a couple that arrived via the pic the day before. It is their day off. They described vividly the rest of the loop. It will bring Cloé to convince me to finish it alone while she take walk back with Tom and Oggy. We take a look at the map, we should arrive about the same time where we saw the cows.
+We see people packing their tent. They are getting ready to continue their hike or to wander around the lake. We chat with a couple that arrived via the pic the day before. It is their day off. They described vividly the rest of the loop. It will bring Cloé to convince me to finish it alone while she take walk back with Tom and Oggy. We take a look at the map, we should arrive about the same time where we saw the cows.
 
 Let's go, I leave the refuge behind me after filling my water bottle. Time to climb the steep path into the National park. After the Ayous lakes, you get a set of smaller beautiful lakes. I pass next to many people with binoculars watching birds. I will think about it for next time. The beauty of the nature and landscapes is enough for me this time. I walk faster alone and it is a real pleasure to be there feeling like an ibex jumping from rock to rock. After Bersau lake, time to go down with an ease that surprise me. 
 
