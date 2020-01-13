@@ -31,7 +31,7 @@ Il est 6h30 du matin, on démarre pour le parking. Ce parking se remplit vite. U
 Arrêt boulangerie, une dame n'hésite pas à se servir en attendant que la boulangère fasse nos sandwichs. Sans gêne. Apparement, elle va au même parking que nous. Une course poursuite sur les petites routes entre Arudy et Laruns s’entame. Cloé passe en mode Fast and Furious. Il semblerait que les places soient hautement convoitées et amènent les gens à perdre toute civilité. 8h05, arrivée à la barrière du parking, le garde nous laisse monter. C’est fait on est passé, on aura l’avant dernière place. Merci Karma.
 
 
-On fait chauffer l’eau, on moud les grains, un bon café est nécessaire. Un petit déj copieux, pour nous préparer à cette randonnée, sera bien vite englouti. Il faut des forces, il paraît que ça grimpe. On a pris pas mal de dénivelé avec Tom cette semaine-là, cela ne nous fait pas peur. Nous avons surtout hâte. Seul bémol, on ne pourra pas passer le refuge avec Oggy. Le parc est interdit aux cheins. On fera donc un aller-retour.
+On fait chauffer l’eau, on moud les grains, un bon café est nécessaire. Un petit déj copieux, pour nous préparer à cette randonnée, sera bien vite englouti. Il faut des forces, il paraît que ça grimpe. On a pris pas mal de dénivelé avec Tom cette semaine-là, cela ne nous fait pas peur. Nous avons surtout hâte. Seul bémol, on ne pourra pas passer le refuge avec Oggy. Le parc est interdit aux chiens. On fera donc un aller-retour.
 
 {{< photoset max="3" >}}
   {{< photo src="3.jpg" alt="cloe" >}}
@@ -74,4 +74,4 @@ Je me réjouis de le refaire avec Cloé, Tom et notre petite dernière. Pourquoi
 
 {{< photo src="2.jpg" alt="symbole du parc" >}}
 
-*Vous pouvez retrouver cette randonnée dans [le guide de la microaventure](https://www.lesothers.com/guide-microaventure-france) par les others*
+*Vous pouvez retrouver cette randonnée dans [le guide de la microaventure](https://www.lesothers.com/guide-microaventure-france) par Les Others*
