@@ -46,29 +46,47 @@ disableKinds = ["taxonomyTerm"]
   twitter = "yann_ck"
   vsco = "yann_ck"
 
-[[menu.main]]
-  name = "Vadrouilles"
-  title = "Vadrouilles"
-  weight = 2
-  identifier = "vadrouilles"
-  url = "/vadrouilles/"
-[[menu.main]]
-  name = "Journal"
-  title = "Journal"
-  weight = 1
-  identifier = "journal"
-  url = "/"
-[[menu.main]]
-  name = "A propos"
-  title = "About me"
-  weight = 4
-  identifier = "about"
-  url = "/about"
 
 [languages]
   [languages.en]
     weight = 2
     languageName = "English"
+    [[languages.en.menu.main]]
+      name = "Wanders"
+      title = "Vadrouilles"
+      weight = 2
+      identifier = "vadrouilles"
+      url = "/en/vadrouilles/"
+    [[languages.en.menu.main]]
+      name = "Journal"
+      title = "Journal"
+      weight = 1
+      identifier = "journal"
+      url = "/en"
+    [[languages.en.menu.main]]
+      name = "About"
+      title = "About me"
+      weight = 4
+      identifier = "about"
+      url = "/en/about"
   [languages.fr]
     weight = 1
     languageName = "Français"
+    [[menu.main]]
+      name = "Vadrouilles"
+      title = "Vadrouilles"
+      weight = 2
+      identifier = "vadrouilles"
+      url = "/vadrouilles/"
+    [[menu.main]]
+      name = "Journal"
+      title = "Journal"
+      weight = 1
+      identifier = "journal"
+      url = "/"
+    [[menu.main]]
+      name = "A propos"
+      title = "About me"
+      weight = 4
+      identifier = "about"
+      url = "/about"
