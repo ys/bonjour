@@ -69,24 +69,36 @@ disableKinds = ["taxonomyTerm"]
       weight = 4
       identifier = "about"
       url = "/en/about"
+    [[languages.en.menu.main]]
+      name = "Français"
+      title = "francais"
+      weight = 4
+      identifier = "francais"
+      url = "/"
   [languages.fr]
     weight = 1
     languageName = "Français"
-    [[menu.main]]
+    [[languages.fr.menu.main]]
       name = "Vadrouilles"
       title = "Vadrouilles"
       weight = 2
       identifier = "vadrouilles"
       url = "/vadrouilles/"
-    [[menu.main]]
+    [[languages.fr.menu.main]]
       name = "Journal"
       title = "Journal"
       weight = 1
       identifier = "journal"
       url = "/"
-    [[menu.main]]
+    [[languages.fr.menu.main]]
       name = "A propos"
       title = "About me"
       weight = 4
       identifier = "about"
       url = "/about"
+    [[languages.fr.menu.main]]
+      name = "English"
+      title = "english"
+      weight = 4
+      identifier = "english"
+      url = "/en"
