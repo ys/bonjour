@@ -25,9 +25,9 @@ resources:
 
 {{< photo src="1.jpg" alt="vue du parking" >}}
 
-It's 6:30 am, time to get to the parking lot. That parking can get full pretty quickly. A guard told us that we needed to be there before 8am if we wanted to get in. We have a full tank and an hour of drive, we should be all good.
+It's 6:30 am, time to get to the parking lot. That parking lot can get full pretty quickly. A guard told us that we needed to be there before 8am if we wanted to get in. We have a full tank and an hour drive ahead of us, we should be all good.
 
-Stop at the bakery. A lady grabs her bread while the waitress is preparing our sandwiches, Shameless. Apparently, she's heading to the same place than us. A race on the small mountain roads between Arudy and Laruns is on! Cloé is full Fast and Furious! It looks like that parking lot has highly demanded spots and people stop playing by the rules to get there. 8:05am, we get to the gate. The guard let us go. We made it, they closed the gate a car behind us. Thanks Karma!
+Stop at the bakery. A lady grabs her bread while the waitress is preparing our sandwiches, Shameless. Apparently, she's heading to the same place as us. A race on the small mountain roads between Arudy and Laruns is on! Cloé is full Fast and Furious! Looks like parking spots are in high-demand and people have stopped playing by the rules to get a spot for themselves. 8:05am, we get to the gate. The guard let us go. We made it, they closed the gate a car behind us. Thanks Karma!
 
 Time to grind the beans and get the water hot. A good coffee is mandatory to start the day. A good breakfast will be served to get ready for the hike. You need energy to get up there they said. Looks like the path will be steep. We already got some altitude change during the week with Tom. It doesn't scare us. We are excited! Only downside, we won't be able to continue after the refuge with Oggy. You are not allowed to enter the national park with dogs. It is going to be a round trip.
 
@@ -37,9 +37,9 @@ Time to grind the beans and get the water hot. A good coffee is mandatory to sta
   {{< photo src="5.jpg" alt="Tom" >}}
 {{</ photoset >}}
 
-From Edgar, we already have a scenic view. We start slowly up to a wonderful plateau with cows roaming freely. A great place right before entering the woods and following the cairns to not get lost. Actually, you can just follow people, it is summer and many folks had the same idea. People are cheering that little 5 years old bud that pass next to them.
+From Edgar, we already have a scenic view. We start slowly up to a wonderful plateau with cows roaming freely. A great place right before entering the woods and following the cairns to not get lost. Actually, you can just follow people, it is summer and many folks had the same idea. People are cheering on the 5 year old as he passes by.
 
-Once we get off the wood, the panorama is breathless and will stay that way til the lakes. We get to the first one, the Roumassot lake connected to the second, Miey lake, via a waterfall. After that one, it doesn't take us long to get to the wonderful Gentau Lake and its refge. We arive at the same time than a flock of sheeps led by a shepherd's dog they call a "patou". That white flow of woold surrounding s will be an amazing memory we won't forget. The dog will come to us and play with Oggy a little bit. Once we are wool free again, we will stop near the lake facing Jean-Pierre, the pic du midi d'Ossau. Time to eat our sandwiches. Horses will run next to us to the lake for a little sip. 
+Once we exit the woods, the panorama is breathtaking and stays that way until we reach the lakes. We get to the first one, the Roumassot lake connected to the second, Miey lake, via a waterfall. After that one, it doesn't take us long to get to the wonderful Gentau Lake and its refuge. We arrive at the same time than a flock of sheeps led by a shepherd's dog they call a "patou". We'll never forget that white ball of fluff who walked around us. The dog will come to us and play with Oggy a little bit. Once we are wool free again, we will stop near the lake facing Jean-Pierre, the pic du midi d'Ossau. Time to eat our sandwiches. Horses will run next to us to the lake for a little sip. 
 
 {{< photo src="6.jpg" class="vertical" >}}
 
