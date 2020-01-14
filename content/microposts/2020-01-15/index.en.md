@@ -3,7 +3,7 @@ date: 2020-01-15 07:03:03 +0200
 title: 2020, Less is more
 ---
 
-Less social networks to start the year. As I said, I read Cal Newport’s last book on Digital minimalism and then early yesterday, I read a [blog post](https://thefocuscourse.com/digital-declutter-kickoff/) on the Focus Course on them doing a digital declutter. I was like « Why not » and there it goes, I uninstall Instagram and Twitter from iPad and iPhone. Then install [NextDns](https://nextdns.io) and block all those pesky attention stealers of social networks.
+Less social networks to start the year. As I said, I read Cal Newport’s last book on Digital minimalism and then early yesterday, I read a [blog post](https://thefocuscourse.com/doing-a-digital-declutter/) on the Focus Course on them doing a digital declutter. I was like « Why not » and there it goes, I uninstall Instagram and Twitter from iPad and iPhone. Then install [NextDns](https://nextdns.io) and block all those pesky attention stealers of social networks.
 
 I am starting a 30 days of « No social network ». We will see how it goes. You can still reach me via Email, I would be happy to chat. I was wondering if there was a way to get Twitter/Instagram DMs as emails. If you know a solution, ping me at hello@yannickschutz.com . If you prefer, ask me my postal address and I will happily start a letter exchange with you. That sounds way more personal and mindful than a quick Twitter DM.
 

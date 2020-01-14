@@ -3,7 +3,7 @@ date: 2020-01-15 07:03:03 +0200
 title: 2020, Less is more
 ---
 
-Moins de réseaux sociaux pour commencer l’année! Comme je vous l’ai dit, j’ai lu Digital Minimalism de Cal Newport pour finir/commencer l’année. Hier, je sis tombé sur un [blog post](https://thefocuscourse.com/digital-declutter-kickoff/) de « the focus course » sur leur disette numérique qu’ils ont lancé hier. Je me suis dit pourquoi pas, et c’est ainsi que ça a commencé. J’ai désinstallé Instagram et Twitter de mon iPad et iPhone. Puis, j’ai installé [NextDns](https://nextdns.io) et bloqué tous ces voleurs d’attention de réseaux sociaux.
+Moins de réseaux sociaux pour commencer l’année! Comme je vous l’ai dit, j’ai lu Digital Minimalism de Cal Newport pour finir/commencer l’année. Hier, je sis tombé sur un [blog post](https://thefocuscourse.com/doing-a-digital-declutter/) de « the focus course » sur leur disette numérique qu’ils ont lancé hier. Je me suis dit pourquoi pas, et c’est ainsi que ça a commencé. J’ai désinstallé Instagram et Twitter de mon iPad et iPhone. Puis, j’ai installé [NextDns](https://nextdns.io) et bloqué tous ces voleurs d’attention de réseaux sociaux.
 
 Je commence donc 30 jours sans réseaux sociaux. On verra bien comment cela se passe. Vous pouvez toujours me contacter par email. Je serai heureux d’avoir de longs échanges avec vous! Je me demandais aussi si il existait un outil pour avoir les messages privés de Twitter et Instagram par emails. Si vous connaissez un plan, hésitez pas, hello@yannickschutz.com! Si vous préférez, demandez moi mon adresse et envoyez moi une lettre. Cela semble tellement plus personnel que un DM sur Twitter.
 
