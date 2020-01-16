@@ -1,5 +1,5 @@
 ---
-date: 2020-01-15 07:03:03 +0200
+date: 2020-01-16 07:03:03 +0200
 title: Un mois de disette
 resources:
 - src: "*.jpg"
@@ -13,6 +13,6 @@ NextDNS est une app assez géniale pour votre vie privée et votre santé numér
 
 J’espère que vous ne me tiendrez pas rigueur de ce genre de sjets. Si cela peut rendre votre vie 1% meilleure, je suis entièrement pour. Je suis un supporter du minimalisme, de la consommation responsable et de la pleine conscience depuis un bon moment. Mais j’ai du mal à avoir une bonne hygiène numérique, donc voilà. Tout ceci fait de moi une personne meilleure qui se soucie des autres et de mère Nature. C’est ce qui me pousse à vous le partager. J’espère que cela vous aidera aussi et que vous apprécierez.
 
-Chose importante, si vous partez dans une disette numérique, pensez à ce que vous allez faire à la place. 
+Chose importante, si vous partez dans une disette numérique, pensez à ce que vous allez faire à la place.
 
 {{< photo src="fr.jpg" alt="main et buts" class="vertical">}}
