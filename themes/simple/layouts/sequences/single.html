@@ -14,10 +14,10 @@
   </div>
 <nav class="flex bold text-lg py-6 justify-center w-full">
   {{ with .NextInSection }}
-    <a class="link mx-8 " href="{{ .RelPermalink }}">Next</a>
+    <a class="link mx-8 " href="{{ .RelPermalink }}">{{ T "next" }}</a>
   {{ end }}
   {{ with .PrevInSection }}
-    <a class="mx-8 link" href="{{ .RelPermalink }}">Previous</a>
+    <a class="mx-8 link" href="{{ .RelPermalink }}">{{ T "previous" }}</a>
   {{ end }}
 </nav>
 {{ end }}
