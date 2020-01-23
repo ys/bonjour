@@ -9,7 +9,7 @@
   {{ end }}
   <link rel="icon" href="{{ "/favicon.ico" | absURL }}">
   <link rel="shortcut icon" href="{{ "/favicon.ico" | absURL }}">
-  {{ range .AlternativeOutputFormats -}}
+  {{ with .OutputFormats.Get "jsonfeed" }}
     <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .RelPermalink | safeURL }}" title="{{ $.Site.Title }}">
   {{ end -}}
   {{ partial "opengraph.html" . }}
