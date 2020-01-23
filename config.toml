@@ -9,6 +9,16 @@ enableRobotsTXT = true
 canonifyURLs = false
 disableKinds = ["taxonomyTerm"]
 
+[outputFormats.jsonfeed]
+  mediaType = "application/json"
+  baseName = "feed"
+  isPlainText = true
+
+[outputs]
+  home = [ "html", "rss", "jsonfeed" ]
+  section = [ "html", "rss", "jsonfeed" ]
+  page = [ "html" ]
+
 [related]
   includeNewer = true
 
@@ -28,7 +38,9 @@ disableKinds = ["taxonomyTerm"]
   resampleFilter = "lanczos"
 
 [params]
+  mainSections = [ "posts", "microposts" ]
   sizes = [ "2048" , "1024" , "512" ]
+  description = "Photographe de petites aventures, micro activiste amoureux de plein air adorant partager."
   tags = ["famille", "exode rurale", "bretagne", "slow travel", "voyage", "slow life", "neorural", "photography", "photographies"]
   serifFont = "Baskervville"
   pinterestVerify = "fd6b8a37d3208b2c605434cf2ce71ac3"
