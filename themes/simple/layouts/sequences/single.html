@@ -5,7 +5,7 @@
     <div class="my-6">
       <picture class="{{ if gt $image.Height $image.Width }}mx-auto w-2/3{{ else }}md:-mx-10{{ end }} block shadow-lg">
         <source class="lazyload" srcset="{{ $mini.RelPermalink }}" type="web/jpg" media="(min-width: 821px)" data-srcset="{{ $image.RelPermalink }}">
-        <img alt="{{ .Title }} cover" src="{{ $mini.RelPermalink }}" data-src="{{ $image.RelPermalink }}" class="w-full lazyload">
+        <img data-action="zoom" alt="{{ .Title }} cover" src="{{ $mini.RelPermalink }}" data-src="{{ $image.RelPermalink }}" class="w-full lazyload">
       </picture>
     </div>
   {{end}}
