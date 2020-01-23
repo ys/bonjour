@@ -5,8 +5,6 @@
       {{ partialCached "post.html" . .Params.slug .Lang }}
     {{ else if eq .Type "microposts" }}
       {{ partial "micropost" . }}
-    {{ else if eq .Type "sequences" }}
-      {{ partial "sequence" . }}
     {{ end }}
   {{ end }}
   {{ template "_internal/pagination.html" . }}
