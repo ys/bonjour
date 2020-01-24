@@ -79,6 +79,12 @@ disableKinds = ["taxonomyTerm"]
       identifier = "journal"
       url = "/en"
     [[languages.en.menu.main]]
+      name = "sequences"
+      title = "sequences"
+      weight = 3
+      identifier = "sequences"
+      url = "/en/sequences"
+    [[languages.en.menu.main]]
       name = "About"
       title = "About me"
       weight = 4
@@ -99,6 +105,12 @@ disableKinds = ["taxonomyTerm"]
       weight = 1
       identifier = "journal"
       url = "/"
+    [[menu.main]]
+      name = "Sequences"
+      title = "Sequences"
+      weight = 3
+      identifier = "sequences"
+      url = "/sequences"
     [[menu.main]]
       name = "A propos"
       title = "About me"
