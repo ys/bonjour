@@ -9,6 +9,29 @@ enableRobotsTXT = true
 canonifyURLs = false
 disableKinds = ["taxonomyTerm"]
 
+[params]
+  mainSections = [ "posts", "microposts" ]
+  sizes = [ "2048" , "1024" , "512" ]
+  description = "Photographe de petites aventures, micro activiste amoureux de plein air adorant partager."
+  tags = ["famille", "exode rurale", "bretagne", "slow travel", "voyage", "slow life", "neorural", "photography", "photographies"]
+  adobeFontURL = "https://use.typekit.net/cmn1adl.css"
+  serifFont = "calluna"
+  sansFont = "futura-pt"
+  pinterestVerify = "fd6b8a37d3208b2c605434cf2ce71ac3"
+  hasLogo = true
+  arrow = "✧"
+  footer = "48°24'41.2\"N 3°46'15.2\"W"
+[params.fathom]
+  host = "logs.vadrouilles.co"
+  siteID = "UJYRI"
+
+[params.social]
+  email = "petites@vadrouilles.co"
+  domain = "vadrouilles.co"
+  instagram = "vadrouilles.co"
+  twitter = "yann_ck"
+  vsco = "yann_ck"
+
 [outputFormats.jsonfeed]
   mediaType = "application/json"
   baseName = "feed"
@@ -37,30 +60,8 @@ disableKinds = ["taxonomyTerm"]
 [imaging]
   resampleFilter = "lanczos"
 
-[params]
-  mainSections = [ "posts", "microposts" ]
-  sizes = [ "2048" , "1024" , "512" ]
-  description = "Photographe de petites aventures, micro activiste amoureux de plein air adorant partager."
-  tags = ["famille", "exode rurale", "bretagne", "slow travel", "voyage", "slow life", "neorural", "photography", "photographies"]
-  serifFont = "Baskervville"
-  pinterestVerify = "fd6b8a37d3208b2c605434cf2ce71ac3"
-  hasLogo = true
-  arrow = "✧"
-  footer = "48°24'41.2\"N 3°46'15.2\"W"
-[params.fathom]
-  host = "logs.vadrouilles.co"
-  siteID = "UJYRI"
-
 [taxonomies]
   category = "categories"
-
-[params.social]
-  email = "petites@vadrouilles.co"
-  domain = "vadrouilles.co"
-  instagram = "vadrouilles.co"
-  twitter = "yann_ck"
-  vsco = "yann_ck"
-
 
 [languages]
   [languages.en]
