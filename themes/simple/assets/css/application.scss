@@ -1,6 +1,6 @@
 @tailwind base;
 
-@import url('https://fonts.googleapis.com/css?display=swap&family={{ replace .Site.Params.serifFont " " "+" }}:400,400i,600');
+@import url('{{ .Site.Params.adobeFontURL }}');
 
 @tailwind components;
 
@@ -9,10 +9,15 @@
 :root {
   --accent: {{ with .Site.Params.accentColor }}{{ . }}{{ else }}var(--onyx){{ end }};
   --serif-text: {{ with .Site.Params.serifFont}}{{ . }}{{ else }}theme("fontFamily.serif"){{ end }};
+  --sans-text: {{ with .Site.Params.sansFont}}{{ . }}{{ else }}theme("fontFamily.sans"){{ end }};
 }
 
 .font-serif {
   font-family: var(--serif-text), theme("fontFamily.serif") !important;
+}
+
+.font-sans {
+  font-family: var(--sans-text), theme("fontFamily.sans") !important;
 }
 
 .link-gray-900 {
@@ -97,10 +102,12 @@ hr {
 .post, .content {
   @apply mb-10;
   h1 {
-   @apply my-6 pt-2 font-semibold block font-sans
+    @apply my-6 pt-2 font-semibold block;
+    font-family: var(--sans-text), theme("fontFamily.sans") !important;
   }
   h2 {
-   @apply my-6 pt-2 text-gray-600 font-semibold block font-sans
+   @apply my-6 pt-2 text-gray-600 font-semibold block;
+  font-family: var(--sans-text), theme("fontFamily.sans") !important;
   }
   ul {
    @apply list-disc list-inside my-8
@@ -112,7 +119,8 @@ hr {
     @screen md {
       @apply -mx-24;
     }
-    @apply font-sans leading-snug text-blue-500 text-center italic text-2xl;
+    @apply leading-snug text-blue-500 text-center font-bold text-xl;
+    font-family: var(--sans-text), theme("fontFamily.sans") !important;
     a {
       text-shadow: -1px -1px 0 theme('colors.gray.200'), 1px -1px 0 theme('colors.gray.200'), -1px 1px 0 theme('colors.gray.200'), 1px 1px 0 theme('colors.gray.200');
       background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.blue.200') 2px, theme('colors.blue.200') 2.5px, transparent 2.5px);
@@ -124,7 +132,8 @@ hr {
 // Expand Hugo templates
 
 .pagination {
-  @apply flex flex-row items-center justify-center py-10 font-sans text-xs
+  @apply flex flex-row items-center justify-center py-10 text-xs;
+  font-family: var(--sans-text), theme("fontFamily.sans") !important;
 }
 
 .pagination li {
@@ -138,7 +147,7 @@ hr {
 }
 
 .pagination li.disabled {
-    @apply opacity-25
+  @apply opacity-25
 }
 .twitter-tweet {
   @apply mx-auto my-10
