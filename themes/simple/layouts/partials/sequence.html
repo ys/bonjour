@@ -1,6 +1,6 @@
 {{ $image := (index (.Resources.ByType "image") 0) }}
 {{if $image }}
-  {{ $mini := $image.Fill "x40" }}
+  {{ $mini := $image.Resize "40x Box" }}
   <div class="my-6">
     <a href="{{ .RelPermalink }}" aria-label="{{ .Title }}">
       <picture class="{{ if gt $image.Height $image.Width }}mx-auto w-2/3{{ else }}md:-mx-10{{ end }} block shadow-lg">
