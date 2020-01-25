@@ -6,7 +6,7 @@
   },
   "routes": [
     {
-      "source": "**/*.@(jpg|jpeg|gif|png)",
+      "src": "**/*.@(jpg|jpeg|gif|png)",
       "headers": { "Cache-Control": "public,max-age=31536000,immutable" }
     }
   ]
