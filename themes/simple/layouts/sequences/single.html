@@ -1,0 +1,23 @@
+{{ define "main" }}
+  {{ $image := (index (.Resources.ByType "image") 0) }}
+  {{if $image }}
+    {{ $mini := $image.Resize "40x Box" }}
+    <div class="my-6">
+      <picture class="{{ if gt $image.Height $image.Width }}mx-auto w-2/3{{ else }}md:-mx-10{{ end }} block shadow-lg">
+        <source class="lazyload" srcset="{{ $mini.RelPermalink }}" type="web/jpg" media="(min-width: 821px)" data-srcset="{{ $image.RelPermalink }}">
+        <img data-action="zoom" alt="{{ .Title }} cover" src="{{ $mini.RelPermalink }}" data-src="{{ $image.RelPermalink }}" class="w-full lazyload">
+      </picture>
+    </div>
+  {{end}}
+  <div class="content text-center">
+    {{ .Content }}
+  </div>
+<nav class="flex bold text-lg py-6 justify-center w-full">
+  {{ with .NextInSection }}
+    <a class="link mx-8 " href="{{ .RelPermalink }}">{{ T "next" }}</a>
+  {{ end }}
+  {{ with .PrevInSection }}
+    <a class="mx-8 link" href="{{ .RelPermalink }}">{{ T "previous" }}</a>
+  {{ end }}
+</nav>
+{{ end }}

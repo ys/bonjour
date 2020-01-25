@@ -14,8 +14,8 @@ tags:
     "bretagne",
     "finistère",
   ]
+place: "France"
 categories:
-  - france
   - vadrouilles
 slug: "spring-is-here"
 emoji: "🌱"
@@ -23,6 +23,7 @@ resources:
   - src: "*.jpg"
   - src: "9.jpg"
     name: "cover"
+summary: "It is already the end of may. Time flies. The garden is alive. The vegetables garden can start again now that the Ice saints are behind us. We cannot wait to eat our own vegetable again. Pierre, our neighbor, offered us a spot in his greenhouse for our tomatoes. Tom starts to climb again in the trees and finds new hidden spots. We started to grill again, I mean we never really stopped. We also have new garden furnitures. What a pleasure to spend so much time outside."
 ---
 
 It is already the end of may. Time flies. The garden is alive. The vegetables garden can start again now that the Ice saints are behind us. We cannot wait to eat our own vegetable again. Pierre, our neighbor, offered us a spot in his greenhouse for our tomatoes. Tom starts to climb again in the trees and finds new hidden spots. We started to grill again, I mean we never really stopped. We also have new garden furnitures. What a pleasure to spend so much time outside.

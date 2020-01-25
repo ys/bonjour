@@ -9,6 +9,7 @@ categories:
 - journal
 resources:
 - src: "*.jpg"
+summarry: "Depuis quelques années, j’ai décidé d’investir en moi-même. Avant, toutes mes passions étaient liées à mon métier. Tout l'apprentissage aussi. Il me faut apprendre constamment. La technologie d'une part et les « soft skills » qui traitent plus des relations humaines que de la technique d'autre part. J’ai donc appris à mieux communiquer, mieux comprendre les personnes et mieux gérer le stress. C’est effectivement utile au quotidien."
 ---
 
 Depuis quelques années, j’ai décidé d’investir en moi-même. Avant, toutes mes passions étaient liées à mon métier. Tout l'apprentissage aussi. Il me faut apprendre constamment. La technologie d'une part et les « soft skills » qui traitent plus des relations humaines que de la technique d'autre part. J’ai donc appris à mieux communiquer, mieux comprendre les personnes et mieux gérer le stress. C’est effectivement utile au quotidien.

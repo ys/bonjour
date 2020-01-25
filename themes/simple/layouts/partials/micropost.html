@@ -1,10 +1,11 @@
+
 <article>
-  <header class="ml-0 mb-4 font-sans font-semibold text-gray-800 date">
+  <header class="ml-0 mb-4 font-sans font-semibold text-black dark:text-gray-100 date">
     <a href="{{ .RelPermalink }}">
-      {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+      {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }} {{ with .Title }} - {{ . }}{{ end }}
     </a>
   </header>
-  <div class="content post text-gray-700">
+  <div class="content">
     {{ .Content }}
   </div>
 <hr />

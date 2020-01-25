@@ -1,7 +1,10 @@
-<footer class="text-center w-full p-10 text-gray-700 font-sans font-light text-xs">
+<footer class="text-center w-full p-10 text-gray-600 dark:text-gray-400 font-sans font-light text-xs">
   <span class="mr-2">
-    {{ $.Site.Params.footer }}
+    <a href="/sequences">
+      {{ $.Site.Params.footer }}
+    </a>
   </span>
+  <a class="link theme-switcher mr-2">Switch theme</a>
   {{ with .Site.Params.social.instagram }}
   <a class="mr-2" href="https://instagram.com/{{ . }}">📷 Instagram</a>
   {{ end }} {{ with .Site.Params.social.twitter }}

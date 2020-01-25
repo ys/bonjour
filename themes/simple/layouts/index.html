@@ -1,12 +1,11 @@
 {{ define "main" }}
   <div class="posts">
-    {{ $paginator := (.Paginate (.Site.RegularPages) 10) }}
-    {{ range $paginator.Pages }}
-      {{ if eq .Type "posts"}}
-        {{ partial "post.html" . }}
-      {{ else if eq .Type "microposts" }}
-        {{ partial "micropost" .  }}
-      {{ end }}
+  {{ $paginator := (.Paginate (.Site.RegularPages) 10) }}
+  {{ range $paginator.Pages }}
+    {{ if eq .Type "posts"}}
+      {{ partialCached "post.html" . .Params.slug .Lang }}
+    {{ else if eq .Type "microposts" }}
+      {{ partial "micropost" . }}
     {{ end }}
   </div>
   <div class=" page-load-status flex justify-center">

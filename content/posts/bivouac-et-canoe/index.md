@@ -18,8 +18,8 @@ tags:
     "vanlife",
     "slowlife",
   ]
+place: "France"
 categories:
-  - france
   - vadrouilles
 slug: "bivouac-et-canoe"
 emoji: "🛶"
@@ -27,11 +27,11 @@ resources:
   - src: "*.jpg"
   - src: "6.jpg"
     name: "cover"
+summary: "Vendredi, 9h30, J'attend [Grégory](https://gregorymignard.com) sur le parking de la biocoop. Aujourd'hui, je suis leur auto-stoppeur. On part vers la Loire pour passer un week-end en canoë. Leur California se gare, passé les salutations, on se met en route. Quelques heures de route, le temps de papoter sur des sujets variés."
+
 ---
 
 Vendredi, 9h30, J'attend [Grégory](https://gregorymignard.com) sur le parking de la biocoop. Aujourd'hui, je suis leur auto-stoppeur. On part vers la Loire pour passer un week-end en canoë. Leur California se gare, passé les salutations, on se met en route. Quelques heures de route, le temps de papoter sur des sujets variés. Un petit crochet pour déposer sa petite famille chez ses parents, on récupère [Jérémy](https://www.djisupertramp.com) à la gare. On part chasser la pizza et un lieu pour poser le van pour la nuit. On trouvera un super spot près d'un étang, mais on ratera de peu une belle lumière.
-
-<!-- more -->
 
 {{< photo src="16.jpg" alt="l'etang pour une nuit" >}}
 {{< photoset max="2" >}}
