@@ -2,6 +2,11 @@
 
 @import url('https://fonts.googleapis.com/css?display=swap&family={{ replace .Site.Params.serifFont " " "+" }}:400,400i,600');
 
+@font-face {
+  font-family: Self Modern;
+  font-weight: 400;
+  src: url(/self-modern_text_trial.otf) format("otf");
+}
 @tailwind components;
 
 @tailwind utilities;
@@ -12,7 +17,7 @@
 }
 
 .font-serif {
-  font-family: var(--serif-text), theme("fontFamily.serif") !important;
+  font-family: "Self Modern", var(--serif-text), theme("fontFamily.serif") !important;
 }
 
 .link-gray-900 {
