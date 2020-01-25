@@ -4,15 +4,10 @@
       "HUGO_VERSION": "0.62.2"
     }
   },
-  "static": {
-    "headers": [
-      {
-        "source": "**/*.@(jpg|jpeg|gif|png)",
-        "headers": [{
-          "key": "Cache-Control",
-          "value": "public,max-age=31536000,immutable"
-        }]
-      }
-    ]
-  }
+  "routes": [
+    {
+      "source": "**/*.@(jpg|jpeg|gif|png)",
+      "headers": { "Cache-Control": "public,max-age=31536000,immutable" }
+    }
+  ]
 }
