@@ -30,6 +30,7 @@
     "gulp": "^4.0.2",
     "gulp-babel": "^8.0.0",
     "gulp-imagemin": "^5.0.3",
+    "imagemin-jpeg-recompress": "^6.0.0",
     "imagemin-mozjpeg": "^8.0.0",
     "netlify-cli": "^2.25.0",
     "now": "^16.7.0",
