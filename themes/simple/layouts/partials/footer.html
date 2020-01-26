@@ -1,18 +1,16 @@
 <footer class="text-center w-full p-10 text-gray-700 dark:text-gray-400 font-sans font-light text-xs">
-  <span class="mr-2">
-    <a href="/sequences">
-      {{ $.Site.Params.footer }}
-    </a>
-  </span>
-  <a class="link theme-switcher mr-2">Switch theme</a>
+  <a class="py-2 mr-2" href="/sequences">
+    {{ $.Site.Params.footer }}
+  </a>
+  <a class="py-2 link theme-switcher mr-2">Switch theme</a>
   {{ with .Site.Params.social.instagram }}
-  <a class="mr-2" href="https://instagram.com/{{ . }}">📷 Instagram</a>
+  <a class="py-2 mr-2" href="https://instagram.com/{{ . }}">📷 Instagram</a>
   {{ end }} {{ with .Site.Params.social.twitter }}
-  <a class="mr-2" href="https://twitter.com/{{ . }}">🐥 Twitter</a>
+  <a class="py-2 mr-2" href="https://twitter.com/{{ . }}">🐥 Twitter</a>
   {{ end }} {{ with .Site.Params.social.youtube }}
-  <a class="mr-2" href="https://youtube.com/{{ . }}">🎥 Youtube</a>
+  <a class="py-2 mr-2" href="https://youtube.com/{{ . }}">🎥 Youtube</a>
   {{ end }} {{ with .Site.Params.social.vsco }}
-  <a class="mr-2" href="https://vsco.com/{{ . }}">📷 VSCO</a>
+  <a class="py-2 mr-2" href="https://vsco.com/{{ . }}">📷 VSCO</a>
   {{ end }}
-  <a href="mailto:{{ $.Site.Params.social.email }}">✉️ {{ $.Site.Params.social.domain }}</a>
+  <a class="py-2" href="mailto:{{ $.Site.Params.social.email }}">✉️ {{ $.Site.Params.social.domain }}</a>
 </footer>
