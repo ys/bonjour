@@ -2,12 +2,11 @@
 {{ if $original }}
   {{ $mini := $original.Resize "40x Box" }}
   <figure>
-    <picture class="block shadow-lg {{ if .Parent }}{{ else }}my-6 {{ if eq (.Get "class") "vertical" }}mx-auto w-2/3{{ else }}md:-mx-10{{ end }}{{ end }}" {{ with .Get "alt" }}alt="{{ . }}"{{ end }}>
+    <picture class="block shadow-lg {{ if .Parent }}{{ else }}my-6 {{ if eq (.Get "class") "vertical" }}mx-auto w-2/3{{ else }}md:-mx-10{{ end }}{{ end }}" alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{.Get "src" }}{{ end }}">
       <source class="lazyload"
               srcset="{{ $mini.RelPermalink }}"
               type="image/jpg"
-              data-srcset="{{ $original.RelPermalink }}"
-              data-src="{{ $original.RelPermalink }}">
+              data-srcset="{{ $original.RelPermalink }}" >
       <img data-action="zoom"
           width="{{ $original.Width }}"
           height="{{ $original.Height }}"
