@@ -19,7 +19,7 @@
   {{/* set the sizes attribute to (min-width: 35em) 1200px, 100vw unless overridden in shortcode */}}
 
   <figure>
-    <picture class="block relative shadow-lg {{ if .Parent }}{{ else }}my-6 {{ if eq (.Get "class") "vertical" }}mx-auto w-2/3{{ else }}md:-mx-10{{ end }}{{ end }} img" style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover">
+    <picture class="block relative shadow-lg {{ if .Parent }}{{ else }}my-6 {{ if gt $src.Height $src.Width }}mx-auto w-2/3{{ else }}md:-mx-10{{ end }}{{ end }} img" style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover">
       <svg class="m-0 h-auto w-full" width="{{ $src.Width }}" height="{{ $src.Height }}" aria-hidden="true"></svg>
       <img
         loading="lazy"
@@ -36,8 +36,7 @@
           {{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
         {{ end }}'
         data-src="{{ $src.RelPermalink }}"
-        width="{{ $src.Width }}" height="{{ $src.Height }}"
-        {{ with .Get "alt" }}alt='{{.}}'{{ end }}>
+        width="{{ $src.Width }}" height="{{ $src.Height }}">
       <noscript>
         <img
           loading="lazy"
@@ -54,8 +53,7 @@
             {{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
           {{ end }}'
           src="{{ $src.RelPermalink }}"
-          width="{{ $src.Width }}" height="{{ $src.Height }}"
-          {{ with .Get "alt" }}alt='{{.}}'{{ end }}>
+          width="{{ $src.Width }}" height="{{ $src.Height }}">
       </noscript>
     </picture>
     {{ with .Get "caption" }}
