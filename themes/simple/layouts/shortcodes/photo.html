@@ -13,6 +13,7 @@
           src="{{ $mini.RelPermalink }}"
           data-zoom-src="{{ $original.RelPermalink}}"
           data-src="{{ $original.RelPermalink }}"
+          alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{.Get "src" }}{{ end }}"
           class="w-full lazyload">
     </picture>
     {{ with .Get "caption" }}
