@@ -4,7 +4,7 @@
     <a alt="{{.Site.Title}} home" class="logo text-accent-500 dark:text-accent-500" href="{{ "/" | relLangURL }}">
       {{ if .Site.Params.hasLogo }}
         {{ readFile "/static/logo.svg" | safeHTML}}
-        <label aria-hidden="true" style="display: none">{{ .Site.Title }}</label>
+        <span aria-hidden="true" style="display: none">{{ .Site.Title }}</span>
       {{ else }} {{ .Site.Title }} {{ end }}
     </a>
   </span>
