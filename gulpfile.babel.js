@@ -10,7 +10,7 @@ gulp.task("img:build",  () =>
               imagemin.optipng(),
               imagemin.svgo(),
               imageminJpegRecompress(),
-              mozjpeg({ quality: 85, progressive: true }),
+              mozjpeg({ quality: 80, progressive: true }),
             ]))
       .pipe(gulp.dest("content"))
 );
