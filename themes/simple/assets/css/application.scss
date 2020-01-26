@@ -152,3 +152,7 @@ hr {
 .twitter-tweet {
   @apply mx-auto my-10
 }
+
+.no-js img.lazyload {
+  display: none;
+}
