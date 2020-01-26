@@ -1,6 +1,7 @@
 import gulp from "gulp";
 import imagemin from "gulp-imagemin";
 import mozjpeg from "imagemin-mozjpeg";
+import imageminJpegRecompress from "imagemin-jpeg-recompress";
 
 gulp.task("img:build",  () =>
     gulp.src(["content/**/*.{jpg,png,gif,svg}"])
@@ -8,7 +9,8 @@ gulp.task("img:build",  () =>
               imagemin.gifsicle(),
               imagemin.optipng(),
               imagemin.svgo(),
-              mozjpeg({ quality: 85, progressive: true }),
+              imageminJpegRecompress(),
+              mozjpeg({ quality: 80, progressive: true }),
             ]))
       .pipe(gulp.dest("content"))
 );
