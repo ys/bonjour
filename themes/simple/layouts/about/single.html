@@ -1,5 +1,23 @@
 {{ define "main" }}
 <div class="post">
+  <ul>
+  {{ with .Site.Params.social.instagram }}
+  <li>
+  📷
+  <a class="mr-2" href="https://instagram.com/{{ . }}">Instagram</a>
+  </li>
+  {{ end }} {{ with .Site.Params.social.twitter }}
+  <li>
+  🐥
+  <a class="mr-2" href="https://twitter.com/{{ . }}">Twitter</a>
+  </li>
+  {{ end }} {{ with .Site.Params.social.vsco }}
+  <li>
+  📷
+  <a class="mr-2" href="https://vsco.com/{{ . }}">VSCO</a>
+  </li>
+  {{ end }}
+  </ul>
   {{.Content}}
 </div>
 {{ end }}

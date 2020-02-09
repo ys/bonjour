@@ -1,10 +1,7 @@
 {{ $currentPage := . }}
 <nav class="pb-6 pt-2 w-full font-sans font-semibold">
-  <ul class="flex flex-wrap flex-row justify-left">
     {{ range $index, $element  := .Site.Menus.main }}
-      <li class="px-2 text-gray-500 dark:text-gray-600 text-xs font-light uppercase ">
-        <a class=" {{if or ($currentPage.IsMenuCurrent "main" $element) ($currentPage.HasMenuCurrent "main" $element) }} active{{end}}" href="{{ $element.URL }}" title="{{ $element.Title }}">{{ $element.Name }}</a>
-      </li>
+      <a class="mr-2 {{if or ($currentPage.IsMenuCurrent "main" $element) ($currentPage.HasMenuCurrent "main" $element) }}{{end}}" href="{{ $element.URL }}" title="{{ $element.Title }}">{{ $element.Name }}</a>
     {{ end }}
   </ul>
 </nav>
