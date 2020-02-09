@@ -13,13 +13,12 @@ resources:
 - src: "saint-samson.jpg"
   name: "cover"
 - src: "*.jpg"
+summary: "We were walking by the sea for Cloé's birthday yesterday. At some point, she said something close to 'If you had told me a year ago that I would be next to the sea for my next birthday, I wouldn't have believed you.' And that sentence just triggered so many thoughts on my side."
 ---
 
 {{< photo class="vertical" src="saint-samson-23.jpg" >}}
 
 We were walking by the sea for Cloé's birthday yesterday. At some point, she said something close to "If you had told me a year ago that I would be next to the sea for my next birthday, I wouldn't have believed you." And that sentence just triggered so many thoughts on my side.
-
-<!--more-->
 
 {{< photoset max="2" >}}
   {{< photo src="saint-samson-9.jpg" >}}

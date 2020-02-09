@@ -17,14 +17,15 @@ tags:
     "france",
     "famille",
   ]
+place: "France"
 categories:
-  - france
   - vadrouilles
 description: "Une petite plage à l’abris des gens et du vent, plus connue sous le nom de plage de Tahiti."
 resources:
   - src: "penn-al-lann-7.jpg"
     name: "cover"
   - src: "*.jpg"
+summary: "Une petite plage à l’abris des gens et du vent, plus connue sous le nom de plage de Tahiti."
 ---
 
 > 48°27’42.436"N, 3°48’52.736"O
@@ -32,8 +33,6 @@ resources:
 {{< photo src="penn-al-lann-2.jpg" >}}
 
 Une petite plage à l’abris des gens et du vent, plus connue sous le nom de plage de Tahiti.
-
-<!--more-->
 
 {{< photo src="penn-al-lann-8.jpg" class="fullwidth" >}}
 

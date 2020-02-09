@@ -11,7 +11,8 @@ resources:
 - name: "cover"
   src: "hello-world-4.jpg"
 - src: "*.jpg"
---- 
+summary: "Aujourd'hui, je viens de manger notre première pomme. Ca vous fait un truc quand elle vient de chez vous. Votre production donne ses fruits. C'est assez fou, on les a pas planté. Merci les anciens propriétaires mais quand même. Enfin je mens, j'en ai déjà mangé mais c'était de la compote en fait. Ca fait quand même plus quelque chose quand tu croques dedans."
+---
 
 {{< photo src="hello-world.jpg" >}}
 

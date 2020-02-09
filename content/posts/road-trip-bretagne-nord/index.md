@@ -6,8 +6,8 @@ slug: "road-trip-bretagne-nord"
 subtitle: "Premier week-end en van"
 seotitle: "Road Trip en Bretagne Nord - Week-end en Van"
 categories:
-  - france
   - vadrouilles
+place: "France"
 tags:
   [
     "bretagne",
@@ -32,6 +32,7 @@ resources:
   - src: "15.jpg"
     name: "cover"
   - src: "*.jpg"
+summary: "Cela faisait un moment qu'on en parlait. Avec Cloé, on rêve de vanlife avec un grand V. Pour mes 35 ans, Elle m'offre une virée en Volkswagen California. Un très bon moyen de tester sans trop se mouiller me direz-vous."
 ---
 
 Cela faisait un moment qu'on en parlait. Avec Cloé, on rêve de vanlife avec un grand V. Pour mes 35 ans, Elle m'offre une virée en Volkswagen California. Un très bon moyen de tester sans trop se mouiller me direz-vous.

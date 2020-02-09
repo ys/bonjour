@@ -4,9 +4,9 @@
     {{ if and (eq .Type "posts") (in .Params.categories "vadrouilles") }}
       {{ partial "post.html" . }}
     {{ else if eq .Type "posts" }}
-      {{ partial "fullpost.html" . }}
+      {{ partialCached "fullpost.html" . .Params.slug .Lang }}
     {{ else if eq .Type "microposts" }}
-      {{ partial "micropost" .  }}
+      {{ partial "micropost" . }}
     {{ end }}
   {{ end }}
   {{ template "_internal/pagination.html" . }}

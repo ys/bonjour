@@ -9,6 +9,7 @@
     "build": "hugo",
     "gulp": "gulp",
     "build-images": "gulp img:build",
+    "debug": "rm -rf public/* resources/_gen && hugo --templateMetrics --templateMetricsHints",
     "dev": "hugo serve -p $PORT",
     "start": "hugo serve --disableFastRender --appendPort=false -b $(curl http://127.0.0.1:4040/api/tunnels | jq '.tunnels[0].public_url' -r)",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,8 +17,8 @@
   "author": "Yannick Schutz",
   "license": "MIT",
   "dependencies": {
-    "@fullhuman/postcss-purgecss": "^1.2.0",
-    "autoprefixer": "^9.6.0",
+    "@fullhuman/postcss-purgecss": "^1.3.0",
+    "autoprefixer": "^9.7.3",
     "babel": "^6.23.0",
     "babel-core": "^6.26.3",
     "babel-plugin-syntax-object-rest-spread": "^6.13.0",
@@ -26,15 +27,18 @@
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-es2015": "^6.24.1",
     "babel-register": "^6.26.0",
-    "gulp": "^4.0.0",
+    "gulp": "^4.0.2",
     "gulp-babel": "^8.0.0",
     "gulp-imagemin": "^5.0.3",
+    "imagemin-jpeg-recompress": "^6.0.0",
     "imagemin-mozjpeg": "^8.0.0",
-    "netlify-cli": "^2.11.4",
-    "now": "^16.6.0",
-    "postcss": "^7.0.17",
+    "netlify-cli": "^2.25.0",
+    "now": "^16.7.0",
+    "postcss": "^7.0.25",
     "postcss-cli": "^6.1.3",
     "tailwind": "^4.0.0",
-    "tailwindcss": "^1.1.3"
-  }
+    "tailwindcss": "^1.1.4",
+    "tailwindcss-dark-mode": "^1.1.1"
+  },
+  "devDependencies": {}
 }

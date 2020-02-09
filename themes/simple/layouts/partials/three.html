@@ -1,13 +1,13 @@
-<div class="rounded bg-gray-200 flex justify-around flex-row md:-mx-10 mt-10 p-4">
+<div class="rounded dark:bg-gray-800 bg-gray-200 flex justify-around flex-row md:-mx-10 mt-10 p-4">
   {{ range first 2 . }}
   <div>
     <h3 class="mb-4 font-sans">
       {{ .Params.emoji }}
-      <a class="link-gray-900" href="{{ .Permalink }}">
+      <a class="text-gray-900 dark:text-gray-300" href="{{ .Permalink }}">
         {{ .Title }}
       </a>
     </h3>
-    <span class="text-xs text-gray-600">{{ .Params.subtitle }}</span>
+    <span class="text-xs text-gray-700 dark:text-gray-400">{{ .Params.subtitle }}</span>
   </div>
   {{ end }}
 </div>

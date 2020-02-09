@@ -1,17 +1,17 @@
 {{ define "main" }}
 <header class="mb-6 font-sans">
-  <h1 class="font-semibold text-black">{{ .Title }}</h1>
-  <h3 class="text-gray-600">{{ .Params.subtitle }}</h3>
+  <h1 class="font-semibold">{{ .Title }}</h1>
+  <h3 class="text-gray-700 dark:text-gray-400">{{ .Params.subtitle }}</h3>
   {{ if .IsTranslated }} {{ range .Translations }}
   <div class="pt-6 font-sans text-sm font-light ">
-    <a class="link" href="{{ .Permalink }}">{{ T "also_available" }} {{ .Language.LanguageName }}</a>
+    <a class="link" href="{{ .RelPermalink }}">{{ T "also_available" }} {{ .Language.LanguageName }}</a>
   </div>
   {{ end }} {{ end }}
 </header>
-<div class="post text-gray-900">
+<div class="post">
   {{.Content}}
 </div>
-<span class="text-xs font-sans text-gray-600 capitalize text-right block">
+<span class="text-xs font-mono dark:text-gray-500 text-gray-700 capitalize text-right block">
   {{ .Params.emoji}} {{ range first 1 .Params.categories }}
   <a href="/{{ . }}">{{ . }}</a>
   {{ end }} {{ .Site.Params.arrow }} {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}

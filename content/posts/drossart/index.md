@@ -7,13 +7,14 @@ tags: ["balade", "fagnes", "belgique", "ardennes", "famille", "randonnée"]
 cover: "DSCF8808.jpg"
 emoji: "🇧🇪"
 gear: ["📷 Fuji X100T"]
+place: "Belgique"
 categories:
-- belgique
 - vadrouilles
 resources:
 - src: "DSCF8808.jpg"
   name: "cover"
 - src: "*.jpg"
+summary: "Lors de notre dernière balade au Signal de Botrange, nous passons devant la porte de Drossart, on y voit des voitures et on se dit que l’on doit y revenir. Voici chose faite. Plusieurs balades au départ allant de 2 à 8km sont possibles. On a environ deux heures devant nous, on choisit celle de 4km. Suivons les rectangles verts."
 ---
 
 {{< photo class="fullwidth" src="DSCF8808.jpg" >}}
