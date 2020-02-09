@@ -1,4 +1,5 @@
 ---
+slug: "vadrouilles"
 title: "Tiny adventures & Micro activism - Vadrouilles"
 seotitle: "Tiny adventures & Micro activism - Vadrouilles"
 description: "Tiny adventures & micro activism from an outdoors' lover"
