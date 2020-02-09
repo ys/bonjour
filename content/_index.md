@@ -1,7 +1,7 @@
 ---
 title: "Petites aventures & Micro activisme - Vadrouilles"
 seotitle: "Petites aventures & Micro activisme - Vadrouilles"
-description: "Photographe de petites aventures, micro activiste amoureux de plein air."
+description: "Petites aventures & micro activisme d'un amoureux du plein air."
 date: 2017-10-26T22:57:50+02:00
 draft: false
 type: index

@@ -1,5 +1,7 @@
 ---
 title: "About"
+seotitle: "Who am I? - Vadrouilles"
+description: "Simple stories teller and shared moments. Outdoors lover and micro activist"
 date: 2017-10-26T22:57:50+02:00
 draft: false
 type: "about"

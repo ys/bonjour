@@ -1,6 +1,7 @@
 ---
 title: "A propos"
-description: "Photographe de petites aventures, micro activiste amoureux de plein air adorant partager."
+seotitle: "Qui suis-je - Vadrouilles"
+description: "Conteur d'histoires simples et de moments partagés. Amoureux de plein air et micro activiste"
 date: 2017-10-26T22:57:50+02:00
 draft: false
 type: "about"
