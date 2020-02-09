@@ -31,6 +31,7 @@ module.exports = {
         darker: "#1F2023"
       },
       fontSize: {
+        xxs: ".8rem",
         xs: "1rem",
         sm: "1.125rem",
         base: "1.25rem",
