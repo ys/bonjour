@@ -1,21 +1,25 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
-  {{ partial "head" .}}
-  <body class="font-serif leading-relaxed text-base text-darker dark:bg-darker dark:text-gray-100">
+  <head>
+    {{ partialCached "shared_head.html" . }}
+    {{ partial "opengraph.html" . }}
+    {{ template "_internal/google_news.html" . }}
+    {{ template "_internal/twitter_cards.html" . }}
+    {{ partial "seo" . }}
+  </head>
+  <body class="font-serif leading-relaxed text-sm md:text-base text-darker dark:bg-darker dark:text-gray-100">
     <div class="container w-screen md:max-w-xl lg:max-w-2xl mx-auto">
       <div class="mx-4 md:mx-0">
         {{ partial "header" . }} {{ block "main" . }} {{ end }}
       </div>
     </div>
 
-    {{ partial "footer" . }}
-    {{ partial "fathom" . }}
+    {{ partial "footer" . }} {{ partial "fathom" . }}
     <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>
     {{ $.Scratch.Set "jslibs" slice }} {{ $libs := slice "js/infinite-scroll.js" "js/medium-zoom.min.js" "js/lazyload.min.js" "js/main.js" }} {{ range $libs }} {{ $.Scratch.Add "jslibs" (resources.Get . ) }} {{ end }} {{ $js := .Scratch.Get "jslibs" | resources.Concat "js/main.js" }} {{ if .Site.IsServer }}
     <script src="{{ $js.RelPermalink }}"></script>
     {{ else }} {{ $js := $js | minify | fingerprint "sha512"}}
     <script src="{{ $js.RelPermalink }}"></script>
     {{ end }}
-
   </body>
 </html>

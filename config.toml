@@ -1,4 +1,4 @@
-# baseURL = "https://vadrouilles.co/"
+baseURL = "https://vadrouilles.co/"
 languageCode = "fr"
 DefaultContentLanguage = "fr"
 title = "Vadrouilles"
@@ -15,8 +15,9 @@ disableKinds = ["taxonomyTerm"]
   description = "Photographe de petites aventures, micro activiste amoureux de plein air adorant partager."
   tags = ["famille", "exode rurale", "bretagne", "slow travel", "voyage", "slow life", "neorural", "photography", "photographies"]
   adobeFontURL = "https://use.typekit.net/cmn1adl.css"
-  serifFont = "calluna"
-  sansFont = "proxima-nova"
+  serifFont = "ibm-plex-serif"
+  sansFont = "ibm-plex-sans"
+  monoFont = "ibm-plex-mono"
   pinterestVerify = "fd6b8a37d3208b2c605434cf2ce71ac3"
   hasLogo = true
   arrow = "✧"

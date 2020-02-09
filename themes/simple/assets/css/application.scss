@@ -10,8 +10,12 @@
   --accent: {{ with .Site.Params.accentColor }}{{ . }}{{ else }}var(--onyx){{ end }};
   --serif-text: {{ with .Site.Params.serifFont}}{{ . }}{{ else }}theme("fontFamily.serif"){{ end }};
   --sans-text: {{ with .Site.Params.sansFont}}{{ . }}{{ else }}theme("fontFamily.sans"){{ end }};
+  --mono-text: {{ with .Site.Params.monoFont}}{{ . }}{{ else }}theme("fontFamily.mono"){{ end }};
 }
 
+.font-mono {
+  font-family: var(--mono-text), theme("fontFamily.mono") !important;
+}
 .font-serif {
   font-family: var(--serif-text), theme("fontFamily.serif") !important;
 }
@@ -106,7 +110,7 @@ hr {
     font-family: var(--sans-text), theme("fontFamily.sans") !important;
   }
   h2 {
-   @apply my-6 pt-2 text-gray-600 font-semibold block;
+   @apply my-6 pt-2 text-gray-700 font-semibold block;
   font-family: var(--sans-text), theme("fontFamily.sans") !important;
   }
   ul {
@@ -152,6 +156,7 @@ hr {
 .twitter-tweet {
   @apply mx-auto my-10
 }
+
 
 .dot-flashing {
   position: relative;
@@ -200,3 +205,6 @@ hr {
   }
 }
 
+.no-js img.lazyload {
+  display: none;
+}

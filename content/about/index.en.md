@@ -21,7 +21,7 @@ We are discovering the region, its fauna and flora. and How to deal with a slow 
 
 This big change and random inspiration allowed me to live a fully, simpler life. I was able to reconnect with nature. I will tell you all about my first axe cut and my new hobbies.
 
-My goal is to inspire you by sharing moments of our simpler and more authentic life. 
+My goal is to inspire you by sharing moments of our simpler and more authentic life.
 
 I hope that you will enjoy your time here. Don't hesitate to leave me a not. And **let's meet outdoors**
 
