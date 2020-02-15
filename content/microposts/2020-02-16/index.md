@@ -1,5 +1,5 @@
 ---
-date: 2020-02-16T15:18:24+01:00
+date: 2020-02-16T15:18:42+01:00
 ---
 
 Voilà, j’ai passé un mois loin des réseaux sociaux. Pour faire quoi me demanderez-vous. J’avais de grands goals et je pense que cet électrochoc m’a permis d’en accomplir certains. 
