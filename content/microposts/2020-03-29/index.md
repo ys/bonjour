@@ -5,7 +5,7 @@ resources:
 - src: "*.jpg"
 ---
 
-{{< photo src="cover" alt="mandala nature">}}
+{{< photo src="DSCF3681.jpg" alt="mandala nature">}}
 
 **Mandala**: n.m. *Dans le tantrisme hindou et bouddhique, diagramme symbolique représentant l'évolution et l'involution de l'univers par rapport à un point central.*
 
@@ -46,7 +46,7 @@ Les mandalas, alignements et autres créations natures me rappellent fortement [
 
 {{< photo src="DSCF3707.jpg" alt="mandala nature">}}
 
-{{< photo src="DSCF3681.jpg" alt="mandala nature">}}
+{{< photo src="cover" alt="mandala nature">}}
 
 **Un grand merci à Gaetane et Marina, maitresses à l'école de Berrien.**
 
