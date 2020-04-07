@@ -28,6 +28,7 @@ Après avoir vu de plus en plus de monde faire son propre pain, dont une super r
 
 {{< photo src="alain.JPG" alt="le levain" >}}
 
-J’ai aussi pris le temps de lire, même si mon cerveau est au ralenti un petit peu. Pris le temps de faire du café mais surtout pris le temps de perdre mon temps, pris le temps de m’ennuyer. Et cela faisait du bien. Et vous, qu’avez vous décidé de faire autrement en ces temps?
+J’ai aussi pris le temps de lire, même si mon cerveau est au ralenti un petit peu. Pris le temps de faire du café mais surtout pris le temps de perdre mon temps, pris le temps de m’ennuyer. Et cela faisait du bien. 
 
+Et vous, qu’avez vous décidé de faire autrement en ces temps? Hésite pas à venir m'en parler sur [Twitter](https://twitter.com/yann_ck) 🐥
  
