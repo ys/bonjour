@@ -5,8 +5,6 @@ resources:
 - src: "*.jpg"
 ---
 
-# Apprendre à la maison
-
 Cela fait maintenant presque un mois que Tom est confiné. Comme beaucoup de petits de son âge , il a commencé a recevoir des mails pour l'apprentissage à domicile. Ses deux maitresses ont énormément d'idées et aident vraiment pour l'apprentissage. Hors des exercices de base, on a eu droit à de chouettes défis variés allant du mandala à la création d'oeuvres en utilisant ce que l'on voulait. On a eu de supers supports en ligne tel que [lalilo](https://www.lalilo.com) ou [Calcul@Tice](https://calculatice.ac-lille.fr/). Vraiment, juste avec cela, l'école est top. 
 
 Je me suis rendu vite compte qu'il fallait varier les supports et les façons de faire. Si je devais transmettre une seule chose à mes enfants, c'est la curiosité, l'envie d'apprendre, l'envie de comprendre. Et pour cela, en ces temps nouveaux, on a commencé à trouver de chouettes solutions. Histoire d'apprendre en s'amusant ou sans s'en rendre compte.
