@@ -13,11 +13,6 @@ J'ai grandi en n'aimant pas le café, j'ai toujours apprécié les patisseries a
 
 Vite, je commence à chercher où aller boire un meilleur cappuccino que ceux de Starbuck. Je vivais alors à Bruxelles. C'est là que j'ai découvert la troisième vague du café en occident. Tout cela grâce à [Or Coffee](https://orcoffee.be). Bossant de n'importe où, je commence à y passer trop de temps. Ni une, ni deux, je finis avec un [Aeropress](https://aeropress.com) à la maison. Un beau début. Je goûte toutes sortes de cafés, tout ce que l'on me propose dans les coffee shops de Bruxelles.
 
-{{< photoset always="2" >}}
-{{< photo src="2.jpg" alt="grains" >}}
-{{< photo src="1.jpg" alt="cup" >}}
-{{</ photoset >}}
-
 ## Matériel pour un bon drip maison
 
 Pour pouvoir en boire avec Cloé, je passe au [v60 de Hario](https://www.maxicoffee.com/hario-v60-verre-transparent-tasses-p-5567.html). Un kit avec [moulin Hario](https://www.maxicoffee.com/moulin-cafe-manuel-hario-skerton-plus-p-80037.html) et une [balance Hario](https://www.maxicoffee.com/balance-chronometre-hario-p-5463.html), elle aussi. Depuis, j'ai testé l'espresso à la maison, le Kalita, et sans doute beaucoup trop de manières de faire mon café. 
@@ -36,9 +31,12 @@ J'ai la chance de pouvoir visiter les États-Unis grâce à mon boulot et je ram
 
 Ces derniers temps, je varie entre [Mok](https://mokcoffee.be) et [The Barn](https://thebarn.de) qui sont deux valeurs sûres qui livrent rapidement. Je n'aime pas manquer de grains :) Je prend souvent un kilo du poor boy blend de Mok qui bien équilibré pour un coût moindre que les paquets de 250g que je prend en parallèle en général. J'ai longtemps favorisé les cafés éthiopiens mais ces derniers temps, mon favori est un Kenya AA. 
 
-<br/>
-
 Tout ceci nous amène à notre début de printemps 2020. Le début du beau temps me fait refaire du coldbrew maison. Chaque matin, quelques tasses de slow coffee au v60 aussi. Je me suis dit alors que partager ma recette vous aiderait sans doute. 
+
+{{< photoset always="2" >}}
+{{< photo src="2.jpg" alt="grains" >}}
+{{< photo src="1.jpg" alt="cup" >}}
+{{</ photoset >}}
 
 ## Recette de Coldbrew
 
