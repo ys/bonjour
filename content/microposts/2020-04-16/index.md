@@ -24,7 +24,7 @@ Pour pouvoir en boire avec Cloé, je passe au [v60 de Hario](https://www.maxicof
 
 Aujourd'hui, j'utilise principalement le v60 avec maintenant un moulin de chez [Baratza Virtuoso](https://www.maxicoffee.com/moulin-cafe-virtuoso-baratza-offre-cadeaux-p-6756.html) qui me suit depuis plus de 5 ans.
 
-J'ai un kit spécial van et camping aussi. Mais cela sera sans doute pour une autre histoire. Cela a été une longue recherche pour un encombrement minimum qui me satisfait quand même.
+J'ai un kit spécial van et camping aussi. Mais cela sera sans doute pour une autre histoire. Cela a été une longue recherche pour un encombrement minimum et un café qui me satisfait quand même.
 
 ## Les brûleries
 
