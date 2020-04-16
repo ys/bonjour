@@ -116,6 +116,10 @@ hr {
   ul {
    @apply list-disc list-inside my-8
   }
+
+  ol {
+   @apply list-decimal list-inside my-8
+  }
   p {
     @apply my-4
   }
