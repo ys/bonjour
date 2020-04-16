@@ -5,11 +5,18 @@ resources:
 - src: "*.jpg"
 ---
 
+{{< photo src="cover.jpg" alt="Cloe et le café" >}}
+
 ## Petite histoire toute personnelle du café
 
 J'ai grandi en n'aimant pas le café, j'ai toujours apprécié les patisseries au moka mais pas le café lui même. Rien de bien spécial en soi. Puis comme beaucoup de jeunes, j'ai été happé par le marketing de la sirène à double queue de Starbuck. Les boissons que je commence à apprécier n'ont de café que le nom. C'était principalement des desserts sucrés. Beaucoup de chantilly, de sucre et d'arômes. 
 
 Vite, je commence à chercher où aller boire un meilleur cappuccino que ceux de Starbuck. Je vivais alors à Bruxelles. C'est là que j'ai découvert la troisième vague du café en occident. Tout cela grâce à [Or Coffee](https://orcoffee.be). Bossant de n'importe où, je commence à y passer trop de temps. Ni une, ni deux, je finis avec un [Aeropress](https://aeropress.com) à la maison. Un beau début. Je goûte toutes sortes de cafés, tout ce que l'on me propose dans les coffee shops de Bruxelles.
+
+{{< photoset always="2" >}}
+{{< photo src="2.jpg" alt="grains" >}}
+{{< photo src="1.jpg" alt="cup" >}}
+{{</ photoset >}}
 
 ## Matériel pour un bon drip maison
 
@@ -39,7 +46,6 @@ J'utilise, en général, la [bouteille coldbrew Hario](https://www.maxicoffee.co
 
 - 50g de café en grains
 - 700ml d'eau à température ambiante
-
 
 1. Moudre le café comme pour un chemex.
 2. Mettre le café dans le filtre
