@@ -106,11 +106,11 @@ hr {
 .post, .content {
   @apply mb-10;
   h1 {
-    @apply my-6 pt-2 font-semibold block;
+    @apply my-6 pt-2 text-lg font-semibold block;
     font-family: var(--serif-text), theme("fontFamily.serif") !important;
   }
   h2 {
-   @apply my-6 pt-2 text-gray-700 font-semibold block;
+   @apply my-6 pt-2 text-gray-700 text-lg font-semibold block;
   font-family: var(--serif-text), theme("fontFamily.serif") !important;
   }
   ul {
