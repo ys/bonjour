@@ -1,16 +1,26 @@
-<footer class="text-center w-full p-10 text-gray-700 dark:text-gray-400 font-mono font-light text-xs">
-  <a class="mr-2" href="/sequences">
-    {{ $.Site.Params.footer }}
-  </a>
-  <a class=" link theme-switcher mr-2">Switch theme</a>
-  {{ with .Site.Params.social.instagram }}
-  <a class="mr-2" href="https://instagram.com/{{ . }}">📷 Instagram</a>
-  {{ end }} {{ with .Site.Params.social.twitter }}
-  <a class="mr-2" href="https://twitter.com/{{ . }}">🐥 Twitter</a>
-  {{ end }} {{ with .Site.Params.social.youtube }}
-  <a class="mr-2" href="https://youtube.com/{{ . }}">🎥 Youtube</a>
-  {{ end }} {{ with .Site.Params.social.vsco }}
-  <a class="mr-2" href="https://vsco.com/{{ . }}">📷 VSCO</a>
-  {{ end }}
-  <a class="" href="mailto:{{ $.Site.Params.social.email }}">✉️ {{ $.Site.Params.social.domain }}</a>
+<footer class="bg-accent-200 dark:bg-accent-700  w-full p-10 text-gray-700 dark:text-gray-400 font-mono font-light text-xs flex justify-around">
+  <div class="w-1/3">
+    <span class="font-serif font-semibold block text-lg">{{ .Site.Title }}</span>
+    <span class="mb-3 italic block">{{ .Site.Params.baseline }}</span>
+    <span>{{ .Site.Params.description }}</span>
+    <span class="mt-2 font-serif font-semibold block text-lg">Location</span>
+    <a class="mr-2" href="/sequences">
+      {{ $.Site.Params.footer }}
+    </a>
+  </div>
+  <div class="w-1/3">
+    <span class="font-serif font-semibold block text-lg">Social</span>
+    {{ with .Site.Params.social.instagram }}
+    <a class="block p-1" href="https://instagram.com/{{ . }}">📷 Instagram</a>
+    {{ end }} {{ with .Site.Params.social.twitter }}
+    <a class="block p-1" href="https://twitter.com/{{ . }}">🐥 Twitter</a>
+    {{ end }} {{ with .Site.Params.social.youtube }}
+    <a class="block p-1" href="https://youtube.com/{{ . }}">🎥 Youtube</a>
+    {{ end }} {{ with .Site.Params.social.vsco }}
+    <a class="block p-1" href="https://vsco.com/{{ . }}">📷 VSCO</a>
+    {{ end }}
+    <a class="block" href="mailto:{{ $.Site.Params.social.email }}">✉️ {{ $.Site.Params.social.domain }}</a>
+    <span class="mt-2 font-serif font-semibold block text-lg">Random</span>
+    <a class="theme-switcher mr-2">💡 Switch theme</a>
+  </div>
 </footer>
