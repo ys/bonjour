@@ -3,7 +3,7 @@
   <h1 class="text-lg font-semibold">{{ .Title }}</h1>
   <h3 class="text-gray-700 dark:text-gray-400">{{ .Params.subtitle }}</h3>
   {{ if .IsTranslated }} {{ range .Translations }}
-  <div class="pt-6 font-sans text-sm font-light ">
+  <div class="pt-6 font-mono text-sm font-light ">
     <a class="link" href="{{ .RelPermalink }}">{{ T "also_available" }} {{ .Language.LanguageName }}</a>
   </div>
   {{ end }} {{ end }}

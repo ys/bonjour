@@ -22,9 +22,7 @@
       {{ .Summary | truncate 200 | safeHTML }}
     </p>
     <div>
-    {{ if .Truncated }}
-        <a class="uppercase text-xs font-sans link font-semibold" href="{{ .RelPermalink }}">Lire tout…</a>
-    {{ end }}
+      <a class="uppercase text-xs font-mono link font-semibold" href="{{ .RelPermalink }}">Lire tout</a>
     </div>
   </div>
     <div class="font-mono capitalize text-xs text-gray-700 dark:text-gray-500 text-right">
