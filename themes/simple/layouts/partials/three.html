@@ -1,6 +1,6 @@
-<div class="rounded dark:bg-gray-800 bg-gray-200 flex justify-around flex-row md:-mx-10 mt-10 p-4">
+<div class="rounded dark:bg-gray-800 bg-gray-200 flex justify-around flex-col md:flex-row md:-mx-10 my-10 p-4">
   {{ range first 2 . }}
-  <div>
+  <div class="">
     <h3 class="mb-4 font-serif">
       {{ .Params.emoji }}
       <a class="text-gray-900 dark:text-gray-300" href="{{ .Permalink }}">
