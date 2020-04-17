@@ -1,10 +1,10 @@
 {{ define "main" }}
-<header class="mb-4 font-sans text-black dark:text-gray-100">
-  <h1 class="font-semibold">
+<header class="mb-4 font-serif text-black dark:text-gray-100">
+  <h1 class="text-lg font-semibold">
     {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }} {{ with .Title }} - {{ . }}{{ end }}
   </h1>
   {{ if .IsTranslated }} {{ range .Translations }}
-  <div class="pt-6 font-sans text-sm font-light ">
+  <div class="pt-6 font-mono text-xs font-light ">
     <a class="link" href="{{ .RelPermalink }}">{{ T "also_available" }} {{ .Language.LanguageName }}</a>
   </div>
   {{ end }} {{ end }}
