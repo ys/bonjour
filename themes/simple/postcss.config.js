@@ -6,7 +6,7 @@ module.exports = {
     require("autoprefixer"),
     require("@fullhuman/postcss-purgecss")({
       content: [
-        themeDir + "../public/**/*.html"
+        themeDir + "../../public/**/*.html"
       ]
     })
   ]
