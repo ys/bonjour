@@ -26,6 +26,7 @@ disableKinds = ["taxonomyTerm"]
 [params.fathom]
   host = "logs.vadrouilles.co"
   siteID = "UJYRI"
+  trackDomain = "vadrouilles.co"
 
 [params.social]
   email = "petites@vadrouilles.co"
