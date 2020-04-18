@@ -16,6 +16,17 @@ module.exports = {
     },
     extend: {
       colors: {
+        sunray: {
+          100: '#FDF8EE',
+          200: '#FBECD5',
+          300: '#F8E1BC',
+          400: '#F2CB8A',
+          500: '#EDB458',
+          600: '#D5A24F',
+          700: '#8E6C35',
+          800: '#6B5128',
+          900: '#47361A',
+        },
         accent: {
           100: '#EEF4F4',
           200: '#D3E4E4',
