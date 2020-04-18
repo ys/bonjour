@@ -1,6 +1,6 @@
 {{ define "main" }}
 <header class="text-center mb-6 font-serif">
-  <h1 class="text-2xl font-medium text-black dark:text-gray-100">
+  <h1 class="text-2xl font-medium text-{{ with .Params.color }}{{ . }}-600{{ else }}gray-900{{ end }} dark:text-{{ with .Params.color }}{{ . }}-500{{ else }}gray-100{{ end }}">
     <a href="{{ .RelPermalink }}">
       {{ .Title }}
     </a>
@@ -14,7 +14,7 @@
   <a class="link" href="{{ .RelPermalink }}">{{ T "also_available" }} {{ .Language.LanguageName }}</a>
 </div>
 {{ end }} {{ end }}
-<div class="post">
+<div class="post content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
   {{.Content}}
 </div>
 <span class="text-xs font-mono dark:text-gray-500 text-gray-700 capitalize text-right block">

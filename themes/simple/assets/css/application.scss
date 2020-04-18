@@ -33,7 +33,7 @@
   }
 }
 
-$colors: teal, accent, sunray;
+$colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, sunray;
 @each $color in $colors {
   .mode-dark {
     .post.content-#{$color} a {
