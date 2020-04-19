@@ -6,7 +6,7 @@ module.exports = {
       content: [
         themeDir + "../../public/**/*.html"
       ],
-      whitelistPatterns: [
+      whitelistPatternsChildren: [
        /mode-dark/
       ]
     }),
