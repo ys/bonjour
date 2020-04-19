@@ -5,6 +5,9 @@ module.exports = {
     require("@fullhuman/postcss-purgecss")({
       content: [
         themeDir + "../../public/**/*.html"
+      ],
+      whitelistPatterns: [
+       /mode-dark/
       ]
     }),
     require("tailwindcss")(themeDir + "tailwind.config.js"),
