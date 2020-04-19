@@ -1,13 +1,17 @@
 {{ block "header" . }}
-<header class="font-serif pb-10 pt-10 flex flex-col items-left">
-  <span class="pt-6 pb-2">
-    <a alt="{{.Site.Title}} home" class="logo text-accent-500 dark:text-accent-500" href="{{ "/" | relLangURL }}">
-      {{ if .Site.Params.hasLogo }}
-        {{ readFile "/static/logo.svg" | safeHTML}}
-        <span aria-hidden="true" style="display: none">{{ .Site.Title }}</span>
-      {{ else }} {{ .Site.Title }} {{ end }}
-    </a>
-  </span>
-  {{ partial "main_menu" . }}
-</header>
+<div class="container w-screen md:max-w-xl lg:max-w-2xl mx-auto">
+  <div class="mx-4 md:mx-0">
+    <header class="font-serif pb-10 pt-10 flex flex-col items-left">
+      <span class="pt-6 pb-2">
+        <a alt="{{.Site.Title}} home" class="logo {{ with .Params.color }}text-{{ . }}-500{{ else }}text-accent-500{{ end }}" href="{{ "/" | relLangURL }}">
+          {{ if .Site.Params.hasLogo }}
+            {{ readFile "/static/logo.svg" | safeHTML}}
+            <span aria-hidden="true" style="display: none">{{ .Site.Title }}</span>
+          {{ else }} {{ .Site.Title }} {{ end }}
+        </a>
+      </span>
+      {{ partial "main_menu" . }}
+    </header>
+  </div>
+</div>
 {{ end }}

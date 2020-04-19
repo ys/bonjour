@@ -15,7 +15,7 @@ disableKinds = ["taxonomyTerm"]
   baseline = "n.f. (de vadrouiller) - Promenade, balade, le plus souvent sans but"
   description = "Photographe de petites aventures, micro activiste amoureux de plein air adorant partager."
   tags = ["famille", "exode rurale", "bretagne", "slow travel", "voyage", "slow life", "neorural", "photography", "photographies"]
-  fontURL = "https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;600&family=IBM+Plex+Sans:wght@300;600&family=IBM+Plex+Serif:wght@300;600&display=swap"
+  fontURL = "https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300&family=IBM+Plex+Sans:wght@300&family=IBM+Plex+Serif:wght@300;400;500;600&display=swap"
   serifFont = "IBM Plex Serif"
   sansFont = "IBM Plex Sans"
   monoFont = "IBM Plex Mono"
@@ -26,6 +26,7 @@ disableKinds = ["taxonomyTerm"]
 [params.fathom]
   host = "logs.vadrouilles.co"
   siteID = "UJYRI"
+  trackDomain = "vadrouilles.co"
 
 [params.social]
   email = "petites@vadrouilles.co"

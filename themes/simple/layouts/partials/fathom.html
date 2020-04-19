@@ -10,7 +10,7 @@
 	m.parentNode.insertBefore(o,m)
 })(document, window, '//{{.Site.Params.fathom.host }}/tracker.js', 'fathom');
 fathom('set', 'siteId', '{{ .Site.Params.fathom.siteID }}');
-if (window.location.hostname === 'vadrouilles.co') {
+if (window.location.hostname === '{{ .Site.Params.fathom.trackDomain }}') {
   fathom('trackPageview');
 }
 </script>

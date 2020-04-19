@@ -1,5 +1,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-{{ $style := resources.Get "css/application.scss" | resources.ExecuteAsTemplate "main.css" . | toCSS | resources.PostCSS }} {{ if .Site.IsServer }}
+{{ $style := resources.Get "css/application.scss" | resources.ExecuteAsTemplate "main.css" . | toCSS | resources.PostCSS }}
+{{ if .Site.IsServer }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
 {{ else }} {{ $style := $style | minify | fingerprint | resources.PostProcess }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}" />

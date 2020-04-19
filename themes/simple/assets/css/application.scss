@@ -23,65 +23,53 @@
 .font-sans {
   font-family: var(--sans-text), theme("fontFamily.sans") !important;
 }
-
 .link-gray-900 {
   @apply text-gray-900 no-underline relative;
-  text-shadow: -1px -1px 0 theme('colors.gray.200'), 1px -1px 0 theme('colors.gray.200'), -1px 1px 0 theme('colors.gray.200'), 1px
-  1px 0 theme('colors.gray.200');
   background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.gray.900') 2px, theme('colors.gray.900') 2.5px, transparent 2.5px);
   transition: color 0.5s, background-image 0.5s linear;
   &:hover {
     @apply text-black no-underline relative;
-    text-shadow: -1px -1px 0 theme('colors.gray.200'), 1px -1px 0 theme('colors.gray.200'), -1px 1px 0 theme('colors.gray.200'), 1p
-    x 1px 0 theme('colors.gray.200');
     background-image: linear-gradient(to top, transparent, transparent 2px , theme('colors.black') 2px, theme('colors.900') 2.5px, transparent 2.5px);
   }
 }
 
-.mode-dark {
-  .post, .content {
-    h2 {
-      @apply text-gray-400;
-    }
-    .medium-zoom-overlay {
-      @apply bg-dark;
-    }
-    blockquote {
-      a {
-        text-shadow: -1px -1px 0 theme('colors.dark'), 1px -1px 0 theme('colors.dark'), -1px 1px 0 theme('colors.dark'), 1px 1px 0 theme('colors.dark');
-        background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.accent.200') 2px, theme('colors.accent.200') 2.5px, transparent 2.5px);
+$colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, sunray;
+@each $color in $colors {
+  .mode-dark {
+    .post.content-#{$color} a {
+      @apply text-#{$color}-400 no-underline relative;
+      background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.#{$color}.400') 2px, theme('colors.#{$color}.400') 2.5px, transparent 2.5px);
+      transition: color 0.5s, background-image 0.5s linear;
+      &:hover {
+        @apply text-#{$color}-200 no-underline relative;
+        background-image: linear-gradient(to top, transparent, transparent 2px , theme('colors.#{$color}.300') 2px, theme('colors.#{$color}.300') 2.5px, transparent 2.5px);
       }
     }
-  }
-  .link, .post a, .content a {
-    @apply text-accent-400 no-underline relative;
-    text-shadow: -1px -1px 0 theme('colors.gray.900'), 1px -1px 0 theme('colors.gray.900'), -1px 1px 0 theme('colors.gray.900'), 1px 1px 0 theme('colors.gray.900');
-    background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.accent.400') 2px, theme('colors.accent.400') 2.5px, transparent 2.5px);
+	}
+  .post.content-#{$color} a {
+    @apply text-#{$color}-500 no-underline relative;
+    background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.#{$color}.500') 2px, theme('colors.#{$color}.500') 2.5px, transparent 2.5px);
     transition: color 0.5s, background-image 0.5s linear;
     &:hover {
-      @apply text-accent-600 no-underline relative;
-      text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
-      background-image: linear-gradient(to top, transparent, transparent 2px , theme('colors.accent.300') 2px, theme('colors.accent.300') 2.5px, transparent 2.5px);
+      @apply text-#{$color}-600 no-underline relative;
+      background-image: linear-gradient(to top, transparent, transparent 2px , theme('colors.#{$color}.600') 2px, theme('colors.#{$color}.500') 2.5px, transparent 2.5px);
     }
   }
 }
 
-.link, .post a, .content a {
+.link, .content a {
   @apply text-accent-500 no-underline relative;
-  text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px
-  1px 0 white;
   background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.accent.500') 2px, theme('colors.accent.500') 2.5px, transparent 2.5px);
   transition: color 0.5s, background-image 0.5s linear;
   &:hover {
     @apply text-accent-600 no-underline relative;
-    text-shadow: -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white, 1px 1px 0 white;
     background-image: linear-gradient(to top, transparent, transparent 2px
     , theme('colors.accent.600') 2px, theme('colors.accent.600') 2.5px, transparent 2.5px);
   }
 }
 
 .logo svg {
-  @apply fill-current h-8;
+  @apply fill-current;
 }
 
 .photoset {
@@ -110,8 +98,8 @@ hr {
     font-family: var(--serif-text), theme("fontFamily.serif") !important;
   }
   h2 {
-   @apply my-6 pt-2 text-gray-700 text-lg font-semibold block;
-  font-family: var(--serif-text), theme("fontFamily.serif") !important;
+    @apply my-6 pt-2 text-gray-700 text-lg font-semibold block;
+    font-family: var(--serif-text), theme("fontFamily.serif") !important;
   }
   ul {
    @apply list-disc list-inside my-8
@@ -130,12 +118,35 @@ hr {
     @apply leading-snug text-accent-500 text-center font-bold text-xl;
     font-family: var(--serif-text), theme("fontFamily.serif") !important;
     a {
-      text-shadow: -1px -1px 0 theme('colors.gray.200'), 1px -1px 0 theme('colors.gray.200'), -1px 1px 0 theme('colors.gray.200'), 1px 1px 0 theme('colors.gray.200');
       background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.accent.200') 2px, theme('colors.accent.200') 2.5px, transparent 2.5px);
     }
   }
 }
 
+.mode-dark {
+  .post, .content {
+    h2, h3, h1, h4 {
+      @apply text-gray-300;
+    }
+    .medium-zoom-overlay {
+      @apply bg-dark;
+    }
+    blockquote {
+      a {
+        background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.accent.200') 2px, theme('colors.accent.200') 2.5px, transparent 2.5px);
+      }
+    }
+  }
+  .link, .content a {
+    @apply text-accent-400 no-underline relative;
+    background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.accent.400') 2px, theme('colors.accent.400') 2.5px, transparent 2.5px);
+    transition: color 0.5s, background-image 0.5s linear;
+    &:hover {
+      @apply text-accent-600 no-underline relative;
+      background-image: linear-gradient(to top, transparent, transparent 2px , theme('colors.accent.300') 2px, theme('colors.accent.300') 2.5px, transparent 2.5px);
+    }
+  }
+}
 
 // Expand Hugo templates
 
