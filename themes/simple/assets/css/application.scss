@@ -69,7 +69,7 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, sunray;
 }
 
 .logo svg {
-  @apply fill-current h-8;
+  @apply fill-current;
 }
 
 .photoset {
