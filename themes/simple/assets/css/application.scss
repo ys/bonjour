@@ -61,7 +61,7 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, sunray;
 .mode-dark {
   .post, .content {
     h2, h3, h1, h4 {
-      @apply text-gray-200;
+      @apply text-gray-200 !important;
     }
     .medium-zoom-overlay {
       @apply bg-dark;
@@ -124,8 +124,8 @@ hr {
     font-family: var(--serif-text), theme("fontFamily.serif") !important;
   }
   h2 {
-   @apply my-6 pt-2 text-gray-700 text-lg font-semibold block;
-  font-family: var(--serif-text), theme("fontFamily.serif") !important;
+    @apply my-6 pt-2 text-gray-700 text-lg font-semibold block;
+    font-family: var(--serif-text), theme("fontFamily.serif") !important;
   }
   ul {
    @apply list-disc list-inside my-8
