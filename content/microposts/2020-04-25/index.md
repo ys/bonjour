@@ -3,6 +3,7 @@ title: "🪓 Se chauffer, plusieures fois"
 date: 2020-04-25 05:01:01 +0200
 resources:
 - src: "*.jpg"
+color: green
 ---
 
 {{< photo src="cover.jpg" alt="hache" >}}
