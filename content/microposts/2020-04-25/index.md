@@ -5,6 +5,8 @@ resources:
 - src: "*.jpg"
 ---
 
+{{< photo src="cover.jpg" alt="hache" >}}
+
 Ty Lucie a deux foyers à bois. Un dans le salon et une magnifique cuisinière à bois qui chauffe aussi l'eau de chauffage dans la cuisine. On a donc besoin de buches assez souvent. Ajoutez à cela, le barbecue que l'on fait souvent au bois et un brasero pour cuire et profitez d'un petit feu dehors. Un des outils qui me semblait indispensable était une bonne hache. 
 
 Un rapide tour d'horizon et quelques demandes autour de moi et me voilà propriétaire d'une [hache de chez Gränsfors Bruk](https://www.gransforsbruk.com/en/product/gransfors-small-forest-axe/) (Si vous savez comment le prononcer, dites le moi). Cette Small forest est une hache à tout faire. De la découpe fine à la coupe de petits arbres. Je l'utilise non stop depuis plus de deux ans. 
