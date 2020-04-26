@@ -1,6 +1,6 @@
 ---
-title: "🪓 heat, multiple times"
-date: 2020-04-25 05:01:01 +0200
+title: "🪓 heating, multiple times"
+date: 2020-04-26 05:01:01 +0200
 resources:
 - src: "*.jpg"
 color: green
