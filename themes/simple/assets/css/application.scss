@@ -46,6 +46,9 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, sunray;
       }
     }
 	}
+  .post.content-#{$color} blockquote {
+    @apply text-#{$color}-500;
+  }
   .post.content-#{$color} a {
     @apply text-#{$color}-500 no-underline relative;
     background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.#{$color}.500') 2px, theme('colors.#{$color}.500') 2.5px, transparent 2.5px);
