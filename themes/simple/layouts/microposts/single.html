@@ -1,21 +1,21 @@
 {{ define "main" }}
+<header class="ml-0 mb-4 font-serif text-center date">
+{{ if .Title }}
+  <h1 class="text-2xl font-medium text-{{ with .Params.color }}{{ . }}-600{{ else }}gray-900{{ end }} dark:text-{{ with .Params.color }}{{ . }}-500{{ else }}gray-100{{ end }}">
+    <a href="{{ .RelPermalink }}">
+      {{ .Title }}
+    </a>
+  </h1>
+  <h2 class="text-lg font-normal text-gray-600">{{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }} </h2>
+{{ else }}
+  <h1 class="text-2xl font-medium text-{{ with .Params.color }}{{ . }}{{ else }}gray{{ end }}-900 dark:text-{{ with .Params.color }}{{ . }}{{ else }}gray{{ end }}-100">
+    <a href="{{ .RelPermalink }}">
+      {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+    </a>
+  </h1>
+{{ end }}
+</header>
 <div class="content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
-  <header class="ml-0 mb-4 font-serif text-center date">
-  {{ if .Title }}
-    <h1 class="text-2xl font-medium text-{{ with .Params.color }}{{ . }}-600{{ else }}gray-900{{ end }} dark:text-{{ with .Params.color }}{{ . }}-500{{ else }}gray-100{{ end }}">
-      <a href="{{ .RelPermalink }}">
-        {{ .Title }}
-      </a>
-    </h1>
-    <h2 class="text-lg font-normal text-gray-600">{{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }} </h2>
-  {{ else }}
-    <h1 class="text-2xl font-medium text-{{ with .Params.color }}{{ . }}{{ else }}gray{{ end }}-900 dark:text-{{ with .Params.color }}{{ . }}{{ else }}gray{{ end }}-100">
-      <a href="{{ .RelPermalink }}">
-        {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
-      </a>
-    </h1>
-  {{ end }}
-  </header>
   {{ if .IsTranslated }} {{ range .Translations }}
   <div class="pt-6 font-mono text-xs font-light ">
     <a href="{{ .RelPermalink }}">{{ T "also_available" }} {{ .Language.LanguageName }}</a>
