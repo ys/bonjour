@@ -46,7 +46,7 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, sunray;
       }
     }
 	}
-  .content-#{$color} blockquote {
+  .content-#{$color} .post blockquote {
     @apply text-#{$color}-500;
   }
   .content-#{$color} a {
