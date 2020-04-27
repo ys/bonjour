@@ -36,7 +36,7 @@
 $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, sunray;
 @each $color in $colors {
   .mode-dark {
-    .post.content-#{$color} a {
+    .content-#{$color} a {
       @apply text-#{$color}-400 no-underline relative;
       background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.#{$color}.400') 2px, theme('colors.#{$color}.400') 2.5px, transparent 2.5px);
       transition: color 0.5s, background-image 0.5s linear;
@@ -46,10 +46,10 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, sunray;
       }
     }
 	}
-  .post.content-#{$color} blockquote {
+  .content-#{$color} .post blockquote {
     @apply text-#{$color}-500;
   }
-  .post.content-#{$color} a {
+  .content-#{$color} a {
     @apply text-#{$color}-500 no-underline relative;
     background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.#{$color}.500') 2px, theme('colors.#{$color}.500') 2.5px, transparent 2.5px);
     transition: color 0.5s, background-image 0.5s linear;
