@@ -15,13 +15,13 @@
   </h1>
 {{ end }}
 </header>
-<div class="content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
+<div class="mb-10 content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
   {{ if .IsTranslated }} {{ range .Translations }}
   <div class="pt-6 font-mono text-xs font-light ">
     <a href="{{ .RelPermalink }}">{{ T "also_available" }} {{ .Language.LanguageName }}</a>
   </div>
   {{ end }} {{ end }}
-  <div class="post">
+  <div class="post ">
     {{ .Content }}
   </div>
 </div>
