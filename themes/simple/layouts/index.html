@@ -4,7 +4,7 @@
     {{ if eq .Type "posts"}}
       {{ partialCached "post.html" . .Params.slug .Lang }}
     {{ else if eq .Type "microposts" }}
-      {{ partial "micropost" . }}
+      {{ partialCached "micropost" . .RelPermalink .Lang }}
     {{ end }}
   {{ end }}
   {{ template "_internal/pagination.html" . }}
