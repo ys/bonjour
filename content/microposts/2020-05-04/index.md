@@ -105,3 +105,5 @@ Cette dernière recommandation du jour est aussi la plus récente addition dans 
 Ce bouquin est une série de portraits à travers le monde de personnes faisant perdurer des traditions, des artisans modernes et autres. Le tout enrobé de belles photos! Faire perdurer ces traditions, se reconnecter à la nature et au passé, Je ne pouvais pas trouver mieux.
 
 [Lien du livre](https://gestalten.com/collections/stay-inspired/products/new-traditional)
+
+En attendant, allez voir tout ça et partagez moi vos favoris sur [🐥 Twitter](https://twitter.com/yann_ck).
