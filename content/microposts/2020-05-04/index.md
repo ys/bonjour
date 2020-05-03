@@ -1,7 +1,10 @@
 ---
 date: 2020-05-04T14:15:24+02:00
-title:  Pause Lecture `
-1
+title:  Pause Lecture #1
+resources:
+- src: "*.jpg"
+color: blue
+---
 
 Dimanche lecture et inspiration. Je viens de recevoir un livre inspirant à souhait. Notre maison se remplit petit à petit de livres nourrissants notre changement de vie, notre ralentissement et nos projets futurs.
 
