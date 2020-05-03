@@ -96,23 +96,21 @@ hr {
 
 .post, .content {
   @apply mb-10;
-  header {
-    @apply my-6;
+  h3 {
+    @apply mb-6 text-gray-700 uppercase;
     font-family: var(--serif-text), theme("fontFamily.serif") !important;
-    h2 {
-     @apply mb-2 pt-2 text-gray-700 text-lg font-semibold block;
-    }
-    h3 {
-      @apply text-gray-700 uppercase;
-    }
   }
+  
   h1 {
     @apply my-6 pt-2 text-lg font-semibold block;
     font-family: var(--serif-text), theme("fontFamily.serif") !important;
   }
   h2 {
-    @apply my-6 pt-2 text-gray-700 text-lg font-semibold block;
+    @apply mt-6 pt-2 text-gray-700 text-lg font-semibold block;
     font-family: var(--serif-text), theme("fontFamily.serif") !important;
+  }
+  h2 + p {
+    @apply mt-6;
   }
   ul {
    @apply list-disc list-inside my-8
