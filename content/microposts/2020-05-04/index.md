@@ -6,8 +6,6 @@ resources:
 color: blue
 ---
 
-# Pause Lecture #1
-
 Dimanche lecture et inspiration. Je viens de recevoir un livre inspirant à souhait. Notre maison se remplit petit à petit de livres nourrissants notre changement de vie, notre ralentissement et nos projets futurs.
 
 J'avais envie d'en partager trois qui m'ont vraiment plus ces derniers temps. Ce ne sont pas des romans mais bien des livres à laisser trainer sur une table basse, à feuilleter quand l'envie vous en prend. Entre magnifiques photos, textes inspirants et autres ressources, ces livres nous permettent de nous échapper. C'est plutôt bienvenu durant cette quarantaine.
