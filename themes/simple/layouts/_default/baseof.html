@@ -2,6 +2,9 @@
 <html lang="{{ .Site.LanguageCode }}">
   <head>
     {{ partialCached "shared_head.html" . }}
+    {{ with .OutputFormats.Get "jsonfeed" }}
+      <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .RelPermalink | safeURL }}" title="{{ $.Site.Title }}" />
+    {{ end -}}
     {{ partial "opengraph.html" . }}
     {{ template "_internal/google_news.html" . }}
     {{ template "_internal/twitter_cards.html" . }}
