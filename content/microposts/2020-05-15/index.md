@@ -48,3 +48,6 @@ Cet [essai sur medium](https://medium.com/@the_jennitaur/how-to-do-nothing-57e10
 
 Je médite depuis un bout de temps. C'est souvent par vagues. Je dois avouer que j'y reviens toujours car cela me permet de me recentrer. Cloé le remarque quand j'arrête trop longtemps. C'est une sorte de drogue pour moi, comme mon café du matin. Je sais que cela m'aide à être vraiment plus calme et plus présent. 
 
+Maintenant qu'on est déconfiné, ceux-ci vont continuer de m'accompagner. Ça serait bête de s'arrêter là. 
+
+J'espère que vous aussi vous aviez des choses qui vous ont aidé à supporter ce confinement! Prenez du temps pour vous, pour ceux que vous aimez et parlez de ce qui ne va pas!
