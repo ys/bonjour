@@ -97,7 +97,7 @@ hr {
 .post, .content {
   @apply mb-10;
   h3 {
-    @apply mb-6 text-gray-700 uppercase;
+    @apply mb-6 text-gray-700 uppercase font-semibold;
     font-family: var(--serif-text), theme("fontFamily.serif") !important;
   }
   
