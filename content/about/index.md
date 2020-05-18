@@ -1,7 +1,7 @@
 ---
 title: "A propos"
 seotitle: "Qui suis-je - Vadrouilles"
-description: "Conteur d'histoires simples et de moments partagés. Amoureux de plein air et micro activiste"
+description: "Conteur d'histoires simples, Amoureux de plein air et micro activiste"
 date: 2017-10-26T22:57:50+02:00
 draft: false
 type: "about"
@@ -11,13 +11,9 @@ resources:
     name: "cover"
 ---
 
-<h2 style="padding-bottom:20px;">Bienvenue sur Vadrouiles & Co.</h2>
+Hello, je suis un petit conteur d'histoires simples, micro activiste et amoureux de plein air adorant partager.
 
-Hello, je suis photographe de petites aventures, micro activiste amoureux de plein air adorant partager. Père d'un aventurier-escaladeur en herbe, je m'efforce de lui transmettre de bonnes valeurs et d'essayer de rendre ce monde un rien meilleur.
-
-Après avoir vécu en ville pendant une douzaine d'années, nous avons décidé avec Cloé et Tom de nous expatrier dans le Finistère et de vivre plus lentement dans les monts d'Arrée.
-
-Nous y découvrons la région, sa faune, sa flore et comment se débrouiller quand Internet est lent. Nous cultivons nos légumes, élevons nos poules, notre chien et notre chat. Nous profitons aussi le plus possible de ce que cette magnifique région peut nous offrir. Entre terre et mer, suivez-nous au fil de nos péripéties.
+Nous sommes dans le Finistère, entre terre et mer. Nous y menons une vie simple, un jardin, des poules et du bon temps. Une vie plus simple en accord avec mère Nature. Nous défendons notre planète au mieux et prenons soin d'elle. 
 
 En espérant que vous trouverez ce que vous êtes venus chercher. Sinon, en espérant que vous ayez au moins été un minimum inspiré. N'hésitez pas à [laisser un petit mot](mailto:petites@vadrouilles.co) et **rendez-vous dehors!**
 

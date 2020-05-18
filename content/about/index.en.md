@@ -12,16 +12,9 @@ resources:
   name: "cover"
 ---
 
-<h2 style="padding-top:130px;padding-bottom:50px;">Welcome to Vadrouiles & Co.</h2>
+Hello, I am a little adventures' photographer. Micro activist loving the outdoor. For me sharing is caring.
 
-
-Hello, I am a little adventures' photographer. Micro activist loving the outdoor. For me sharing is caring. Dad of a climber/adventurer to be. I do my best to share my values and make this planet a better place.
-
-We left the city after 12 years to move to the country side of Finistère and live slowly in the Monts d'Arrée.
-
-We are discovering the region, its fauna and flora. and How to deal with a slow internet. We are growing vegetables, having chickens, a dog and a cat. We are enjoying this place as much as we can. Between land and sea, follow our adventures.
-
-This big change and random inspiration allowed me to live a fully, simpler life. I was able to reconnect with nature. I will tell you all about my first axe cut and my new hobbies.
+We are living a simple live in Finistère, Bretagne. A garden, chickens and some good times. A simpler live connected to mother Earth. We are fighting for our planet and taking care of her as much as we can.
 
 My goal is to inspire you by sharing moments of our simpler and more authentic life.
 
