@@ -1,6 +1,6 @@
 ---
 date: 2020-05-18T20:55:05+02:00
-title: Les essentiels du confinement
+title: Les essentiels du (dé)confinement
 resources:
 - src: "*.jpg"
 ---
@@ -15,7 +15,7 @@ Oui, aussi simple que cela. Pas de coiffeur, donc cheveux qui poussent et qui re
 
 {{< photo src="2.jpg" alt="totebook et stylo" >}}
 
-C'est une pratique que j'ai commencé depuis un moment. D'abord par souci de productivité en adoptant le bullet journalling. J'en garde une version minimale qui marche pour moi et qui est plus un aide mémoire que un outil de productivité à l'heure actuelle. J'écris aussi tous les jours mes états d'âme et des notes sur mes journées. Le soir, je confie, soit au journal, soit à Tom, les 3 choses positives de ma journée. Quelle que soit la journée, je finis toujours par trouver des petits moments de joie, de quiétude ou d'amusement. Cette partie là m'a vraiment aider durant ces temps où le moral pouvait être une vraie girouette. 
+C'est une pratique que j'ai commencé depuis un moment. D'abord par souci de productivité en adoptant le bullet journaling. J'en garde une version minimale qui marche pour moi et qui est plus un aide mémoire qu'un outil de productivité à l'heure actuelle. J'écris aussi tous les jours mes états d'âme et des notes sur mes journées. Le soir, je confie, soit au journal, soit à Tom, les 3 choses positives de ma journée. Quelle que soit la journée, je finis toujours par trouver des petits moments de joie, de quiétude ou d'amusement. Cette partie là m'a vraiment aidé durant ces temps où le moral pouvait être une vraie girouette. 
 
 * Mon journal du moment: Le [totebook](https://www.studioneat.com/products/totebook) de Studio Neat. Plus fin qu'un Moleskine ou un leuchtturm1917, son papier est vraiment agréable et le dot plutôt qu'un quadrillage est parfait pour ma pratique.
 * Stylo du moment: Le [Mark One](https://www.studioneat.com/products/markone) de Studio Neat. Il tient bien en main, tout en métal. Une pointe 0.6 bien plaisante sur le papier.
@@ -39,7 +39,7 @@ Je me réjouis de lire leur [prochain volume](https://shop.beside.media/fr/colle
 
 {{< photo src="3.jpg" alt="kindle" >}}
 
-Je suis venu sur ce livre après lecture de bouquins sur le digital minimalism. Et bien je n'ai pas été déçu. En fait, ce livre n'est clairement pas un how-to classique. C'est en fait un super livre qui parle de comment ne rien faire est un acte fort. Prendre soin de soi, faire attention à notre attention, le droit de refuser, le devoir de refuser, du biorégionalisme et surtout beaucoup d'histoires d'oiseaux. Tant de choses que l'on ne s'attend pas à voir si on vient pour une aide à la déconnexion. Un livre bien recherché, bien écrit. On en resort un peu changé et on a envie de se poser et de regarder. On revoit son approche de la productivité à tout prix et on respire un peu. Un traité au droit de vivre pleinement.
+Je suis venu sur ce livre après lecture de bouquins sur le digital minimalism. Et bien je n'ai pas été déçu. En fait, ce livre n'est clairement pas un how-to classique. C'est en fait un super livre qui parle de comment ne rien faire est un acte fort. Prendre soin de soi, faire attention à notre attention, le droit de refuser, le devoir de refuser, du biorégionalisme et surtout beaucoup d'histoires d'oiseaux. Tant de choses que l'on ne s'attend pas à voir si on vient pour une aide à la déconnexion. Un livre bien recherché, bien écrit. On en ressort un peu changé et on a envie de se poser et de regarder. On revoit son approche de la productivité à tout prix et on respire un peu. Un traité au droit de vivre pleinement.
 
 > Our very idea of productivity is premised on the idea of producing something new, whereas we do not tend to see maintenance and care as productive in the same way
 
