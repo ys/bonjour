@@ -1,7 +1,6 @@
 ---
 date: 2020-05-25T19:48:15+02:00
-title: 
-seotitle: 
+title: Pour over sur glace
 resources:
 - src: "*.jpg"
 ---
