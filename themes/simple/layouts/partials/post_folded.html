@@ -30,11 +30,11 @@
       <a class="uppercase text-xs font-mono link font-semibold" href="{{ .RelPermalink }}">Lire tout</a>
     </div>
   </div>
-    <div class="font-mono capitalize text-xs text-gray-700 dark:text-gray-500 text-right">
-      {{ .Params.emoji }}
-      {{ .Params.place }}
-      {{ .Site.Params.arrow }}
-      {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
-    </div>
+  <div class="font-mono capitalize text-xs text-gray-700 dark:text-gray-500 text-right">
+    {{ .Params.emoji }}
+    {{ .Params.place }}
+    {{ .Site.Params.arrow }}
+    {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+  </div>
 </div>
 <hr/>

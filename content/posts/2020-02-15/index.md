@@ -1,6 +1,9 @@
 ---
 date: 2020-02-15T14:18:42+01:00
-slug: "2020-02-15"
+title: "Fin de disette"
+slug: "fin-de-disette"
+aliases:
+  - "2020-02-15"
 categories:
   - journal
 ---

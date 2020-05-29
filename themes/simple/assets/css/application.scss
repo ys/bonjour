@@ -71,6 +71,12 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, sunray;
   }
 }
 
+.micropost {
+  blockquote {
+    @apply leading-snug text-accent-500 text-center font-bold font-normal;
+  }
+}
+
 .logo svg {
   @apply fill-current;
 }
