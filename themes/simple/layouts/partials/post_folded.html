@@ -1,0 +1,40 @@
+<div class="mb-10">
+  <header class="text-center font-serif">
+    <h2 class="text-2xl font-medium text-black dark:text-gray-100">
+      <a href="{{ .RelPermalink }}">
+        {{ .Title }}
+      </a>
+    </h2>
+    {{ with .Params.subtitle }}
+    <h3 class="text-lg font-normal text-gray-600 dark:text-gray-400">{{ . }}</h3>
+    {{ end }}
+  </header>
+  {{ $image := .Resources.GetMatch "cover" }}
+  {{if $image }}
+    {{ $web := $image.Fill "1200x800" }}
+    {{ $mini := $image.Fill "60x40 Box" }}
+    <div class="my-6">
+      <a href="{{ .RelPermalink }}" aria-label="{{ .Title }}">
+        <picture class="md:-mx-10 block shadow-lg">
+          <source class="lazyload" srcset="{{ $mini.RelPermalink }}" type="web/jpg" media="(min-width: 821px)" data-srcset="{{ $web.RelPermalink }}">
+          <img alt="{{ .Title }} cover" src="{{ $mini.RelPermalink }}" data-src="{{ $web.RelPermalink }}" class="w-full lazyload">
+        </picture>
+      </a>
+    </div>
+  {{end}}
+  <div>
+    <p>
+      {{ .Summary | truncate 200 | safeHTML }}
+    </p>
+    <div>
+      <a class="uppercase text-xs font-mono link font-semibold" href="{{ .RelPermalink }}">Lire tout</a>
+    </div>
+  </div>
+    <div class="font-mono capitalize text-xs text-gray-700 dark:text-gray-500 text-right">
+      {{ .Params.emoji }}
+      {{ .Params.place }}
+      {{ .Site.Params.arrow }}
+      {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+    </div>
+</div>
+<hr/>
