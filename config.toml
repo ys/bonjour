@@ -10,6 +10,7 @@ canonifyURLs = false
 disableKinds = ["taxonomyTerm"]
 
 [params]
+  unfolded_category = "journal"
   mainSections = [ "posts", "microposts" ]
   sizes = [ "2048" , "1024" , "512" ]
   baseline = "n.f. (de vadrouiller) - Promenade, balade, le plus souvent sans but"

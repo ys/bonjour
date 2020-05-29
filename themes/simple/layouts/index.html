@@ -1,8 +1,8 @@
 {{ define "main" }}
   {{ $paginator := (.Paginate (.Site.RegularPages) 10) }}
   {{ range $paginator.Pages }}
-    {{ if eq .Type "posts"}}
-      {{ partialCached "post.html" . .Params.slug .Lang }}
+    {{ if and (eq .Type "posts") }}
+      {{ partialCached "post" . .RelPermalink .Lang }}
     {{ else if eq .Type "microposts" }}
       {{ partialCached "micropost" . .RelPermalink .Lang }}
     {{ end }}

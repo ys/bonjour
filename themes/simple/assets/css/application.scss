@@ -100,7 +100,7 @@ hr {
     @apply mb-6 text-gray-700 uppercase font-semibold;
     font-family: var(--serif-text), theme("fontFamily.serif") !important;
   }
-  
+
   h1 {
     @apply my-6 pt-2 text-lg font-semibold block;
     font-family: var(--serif-text), theme("fontFamily.serif") !important;
@@ -118,6 +118,9 @@ hr {
 
   ol {
    @apply list-decimal list-inside my-8
+  }
+  li p {
+    @apply inline my-0
   }
   p {
     @apply my-4
