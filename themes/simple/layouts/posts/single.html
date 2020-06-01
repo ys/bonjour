@@ -1,5 +1,5 @@
 {{ define "main" }}
-<header class="text-center mb-6 font-serif">
+<header class=" mb-6 font-serif">
   <h1 class="text-2xl font-medium text-{{ with .Params.color }}{{ . }}-600{{ else }}gray-900{{ end }} dark:text-{{ with .Params.color }}{{ . }}-500{{ else }}gray-100{{ end }}">
     <a href="{{ .RelPermalink }}">
       {{ with .Title }}
@@ -9,7 +9,7 @@
       {{ end }}
     </a>
   </h1>
-  <h2 class="text-lg font-normal text-gray-600 dark:text-gray-400">
+  <h2 class="text-sm font-mono text-gray-600 dark:text-gray-400">
   {{ with .Params.subtitle }}
     {{ . }}
   {{ else }}

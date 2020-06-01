@@ -2,8 +2,8 @@
 <div class="container w-screen md:max-w-xl lg:max-w-2xl mx-auto">
   <div class="mx-4 md:mx-0">
     <header class="font-serif pb-10 pt-10 flex flex-col items-left">
-      <span class="pt-6 pb-2">
-        <a alt="{{.Site.Title}} home" class="logo {{ with .Params.color }}text-{{ . }}-500{{ else }}text-accent-500{{ end }}" href="{{ "/" | relLangURL }}">
+      <span class="pt-6 pb-2 ">
+        <a alt="{{.Site.Title}} home" class="logo w-1/3 block p-4 {{ with .Params.Color }}text-{{ . }}-100 {{ else }}text-white dark:text-darker{{ end }} {{ with .Params.color }}bg-{{ . }}-500{{ else }}bg-accent-500{{ end }}" href="{{ "/" | relLangURL }}">
           {{ if .Site.Params.hasLogo }}
             {{ readFile "/static/logo.svg" | safeHTML}}
             <span aria-hidden="true" style="display: none">{{ .Site.Title }}</span>
