@@ -2,12 +2,20 @@
 <header class="text-center mb-6 font-serif">
   <h1 class="text-2xl font-medium text-{{ with .Params.color }}{{ . }}-600{{ else }}gray-900{{ end }} dark:text-{{ with .Params.color }}{{ . }}-500{{ else }}gray-100{{ end }}">
     <a href="{{ .RelPermalink }}">
-      {{ .Title }}
+      {{ with .Title }}
+        {{ . }}
+      {{ else }}
+        {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+      {{ end }}
     </a>
   </h1>
+  <h2 class="text-lg font-normal text-gray-600 dark:text-gray-400">
   {{ with .Params.subtitle }}
-  <h2 class="text-lg font-normal text-gray-600 dark:text-gray-400">{{ . }}</h2>
+    {{ . }}
+  {{ else }}
+    {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
   {{ end }}
+  </h2>
 </header>
 <div class="mb-10 content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
   {{ if .IsTranslated }} {{ range .Translations }}
@@ -21,7 +29,8 @@
   <span class="text-xs font-mono dark:text-gray-500 text-gray-700 capitalize text-right block">
     {{ .Params.emoji}} {{ range first 1 .Params.categories }}
     <a href="/{{ . }}">{{ . }}</a>
-    {{ end }} {{ .Site.Params.arrow }} {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+    {{ end }}
+    {{ .Site.Params.arrow }} {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
   </span>
 </div>
-{{ partial "three.html" (.Site.RegularPages.Related . ) }} {{ end }}
+{{ end }}
