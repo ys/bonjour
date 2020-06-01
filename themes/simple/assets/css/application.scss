@@ -195,3 +195,8 @@ hr {
 .no-js img.lazyload {
   display: none;
 }
+
+.menu li:not(:last-child) ::after {
+  @apply ml-4;
+  content: "◦";
+}
