@@ -3,7 +3,7 @@ date: 2020-05-25T19:48:15+02:00
 slug: "recette-cafe-glace"
 aliases:
   - "2020-05-25"
-title: ☕️🧊
+title: ☕️🧊 Café sur glace
 resources:
   - src: "*.jpg"
 categories:
