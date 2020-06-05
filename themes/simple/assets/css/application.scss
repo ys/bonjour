@@ -197,6 +197,8 @@ hr {
 }
 
 .menu li:not(:last-child) ::after {
-  @apply ml-4;
-  content: "◦";
+  @screen md {
+    @apply ml-4;
+    content: "◦";
+  }
 }
