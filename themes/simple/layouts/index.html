@@ -1,5 +1,5 @@
 {{ define "main" }}
-  {{ $paginator := (.Paginate (.Site.RegularPages) 10) }}
+  {{ $paginator := (.Paginate (.Site.RegularPages) 5) }}
   {{ range $paginator.Pages }}
     {{ if and (eq .Type "posts") }}
       {{ partialCached "post" . .RelPermalink .Lang }}
