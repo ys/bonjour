@@ -1,6 +1,6 @@
 {{ define "main" }}
-<header class=" mb-6 font-serif">
-  <h1 class="text-2xl font-medium text-{{ with .Params.color }}{{ . }}-600{{ else }}gray-900{{ end }} dark:text-{{ with .Params.color }}{{ . }}-500{{ else }}gray-100{{ end }}">
+<header class=" mb-6 ">
+  <h1 class="text-xl font-serif font-medium text-{{ with .Params.color }}{{ . }}-600{{ else }}gray-900{{ end }} dark:text-{{ with .Params.color }}{{ . }}-500{{ else }}gray-100{{ end }}">
     <a href="{{ .RelPermalink }}">
       {{ with .Title }}
         {{ . }}
@@ -9,7 +9,7 @@
       {{ end }}
     </a>
   </h1>
-  <h2 class="text-sm font-mono text-gray-600 dark:text-gray-400">
+  <h2 class="text-gray-600 dark:text-gray-400">
   {{ with .Params.subtitle }}
     {{ . }}
   {{ else }}
@@ -19,14 +19,14 @@
 </header>
 <div class="mb-10 content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
   {{ if .IsTranslated }} {{ range .Translations }}
-  <div class="pt-6 font-mono text-xs font-light ">
+  <div class="font-mono text-sm italic font-light ">
     <a href="{{ .RelPermalink }}">{{ T "also_available" }} {{ .Language.LanguageName }}</a>
   </div>
   {{ end }} {{ end }}
   <div class="post">
     {{.Content}}
   </div>
-  <span class="text-xs font-mono dark:text-gray-500 text-gray-700 capitalize text-right block">
+  <span class="text-sm font-mono dark:text-gray-500 text-gray-700 capitalize text-right block">
     {{ .Params.emoji}} {{ range first 1 .Params.categories }}
     <a href="/{{ . }}">{{ . }}</a>
     {{ end }}

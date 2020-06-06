@@ -1,9 +1,9 @@
 {{ $currentPage := . }}
-<nav class="menu pb-6 pt-2 w-full font-mono font-semibold">
-  <ul class="flex flex-wrap flex-row justify-left">
+<nav class="mt-4 pt-4 border-t flex justify-around block menu font-medium">
+  <ul class="flex flex-wrap flex-row">
     {{ range $index, $element  := .Site.Menus.main }}
-      <li class="pr-4 text-gray-800 dark:text-gray-200 text-xs uppercase font-normal">
-        <a class=" {{if or ($currentPage.IsMenuCurrent "main" $element) ($currentPage.HasMenuCurrent "main" $element) }} active{{end}}" href="{{ $element.URL }}" title="{{ $element.Title }}">{{ $element.Name }}</a>
+      <li class="pr-2 text-gray-600 dark:text-gray-200">
+        <a class=" {{if or ($currentPage.IsMenuCurrent "main" $element) ($currentPage.HasMenuCurrent "main" $element) }} text-gray-800{{end}}" href="{{ $element.URL }}" title="{{ $element.Title }}">{{ $element.Name }}</a>
       </li>
     {{ end }}
   </ul>

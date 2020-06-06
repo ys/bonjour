@@ -6,6 +6,10 @@
 
 @tailwind utilities;
 
+html {
+  font-size: 18px;
+}
+
 :root {
   --accent: {{ with .Site.Params.accentColor }}{{ . }}{{ else }}var(--onyx){{ end }};
   --serif-text: {{ with .Site.Params.serifFont}}{{ . }}{{ else }}theme("fontFamily.serif"){{ end }};
@@ -103,27 +107,27 @@ hr {
 .post, .content {
   @apply mb-10;
   h3 {
-    @apply mb-6 text-gray-700 uppercase font-semibold;
+    @apply mt-4 text-gray-700 uppercase font-semibold;
     font-family: var(--serif-text), theme("fontFamily.serif") !important;
   }
 
   h1 {
-    @apply my-6 pt-2 text-lg font-semibold block;
+    @apply mt-4 text-lg font-semibold block;
     font-family: var(--serif-text), theme("fontFamily.serif") !important;
   }
   h2 {
-    @apply mt-6 pt-2 text-gray-700 text-lg font-semibold block;
+    @apply mt-4 text-gray-700 text-lg font-semibold block;
     font-family: var(--serif-text), theme("fontFamily.serif") !important;
   }
   h2 + p {
-    @apply mt-6;
+    @apply mt-4;
   }
   ul {
-   @apply list-disc list-inside my-8
+   @apply list-disc list-inside my-4
   }
 
   ol {
-   @apply list-decimal list-inside my-8
+   @apply list-decimal list-inside my-4
   }
   li p {
     @apply inline my-0
@@ -198,7 +202,7 @@ hr {
 
 .menu li:not(:last-child) ::after {
   @screen md {
-    @apply ml-4;
+    @apply ml-2;
     content: "◦";
   }
 }

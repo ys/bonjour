@@ -1,7 +1,7 @@
 {{ define "main" }}
 <div class="mb-10 content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
   {{ if .IsTranslated }} {{ range .Translations }}
-  <div class="pt-6 font-mono text-xs font-light ">
+  <div class="pt-6 font-mono text-sm font-light ">
     <a href="{{ .RelPermalink }}">{{ T "also_available" }} {{ .Language.LanguageName }}</a>
   </div>
   {{ end }} {{ end }}
@@ -9,7 +9,7 @@
     {{ .Content }}
   </div>
 </div>
-  <div class="font-mono capitalize text-xs text-gray-700 dark:text-gray-500 text-right mb-10">
+  <div class="font-mono capitalize text-sm text-gray-700 dark:text-gray-500 text-right mb-10">
     {{ with .Title }}
       {{ .Params.emoji }}
       {{ . }}

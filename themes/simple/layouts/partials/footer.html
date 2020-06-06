@@ -1,4 +1,6 @@
-<footer class="bg-gray-200 dark:bg-gray-700  w-full p-10 text-gray-700 dark:text-gray-400 font-mono font-light text-xs flex justify-around md:flex-row flex-col">
+<footer class="bg-gray-200 dark:bg-gray-700  w-full p-10 text-gray-700 dark:text-gray-400 font-mono font-light text-sm ">
+
+  <div class="w-full md:flex-row flex-col justify-around flex">
   <div class="md:w-1/3">
     <span class="font-serif font-semibold block text-lg">{{ .Site.Title }}</span>
     <span class="mb-3 italic block">{{ .Site.Params.baseline }}</span>
@@ -23,4 +25,6 @@
     <span class="mt-2 font-serif font-semibold block text-lg">Random</span>
     <a class="theme-switcher mr-2">💡 Switch theme</a>
   </div>
+  </div>
+  {{ partial "main_menu" . }}
 </footer>
