@@ -19,7 +19,6 @@ function get(req: NowRequest, res: NowResponse) {
     });
   } else {
 		res.setHeader("Link", '<https://${req.headers.host}/api/micropub>; rel="micropub"')
-		)
     res.send({})
   }
 }
