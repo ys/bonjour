@@ -11,6 +11,8 @@ categories:
   - journal
 ---
 
+{{< photo src="cover.jpg" alt="Yannick et Tom" >}}
+
 J'ai lu des livres d'océan, de marées, de surf. J'ai admiré les vagues de Tehaupoo et me suis quasi brûlé les pieds sur son sable. J'ai observé depuis la côte ces hommes et femmes domptant les vagues. Je m'y suis vu. J'en ai rêvé. Encore plus depuis que nous sommes installé si prêt de la mer. J'ai finalement enfilé cette seconde peau de néoprène. Mis de la crème solaire sur le nez, le visage et la nuque. Et je suis rentré à l'eau avec cette board de 8 pieds. 
 
 Tout a commencé samedi matin avec Cloé qui m'annonce que l'après-midi, Tom et moi avons notre premier cours au Dossen, avec l'[école de surf du Léon](https://ecole-surf-leon.com). Je suis nerveux mais surtout excité et impatient. Cette combinaison, je viens de la recevoir. Elle est comme neuve et je ne l'ai enfilée que une fois à la maison pour l'essayer. Est-ce que j'aurais voulu attendre plus? Il est vrai que cela fait deux ans que j'attend ce moment.
