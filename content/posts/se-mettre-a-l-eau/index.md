@@ -9,6 +9,7 @@ resources:
   - src: "*.jpg"
 categories:
   - journal
+color: blue
 ---
 
 {{< photo src="cover.jpg" alt="Yannick et Tom" >}}
