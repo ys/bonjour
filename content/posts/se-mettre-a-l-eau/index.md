@@ -28,4 +28,4 @@ Aujourd'hui, mercredi, les conditions sont top. J'ai dit au boulot que je prenai
 Tom progresse aussi super bien. Malgré que je n'ai pas mes lunettes je le vois glisser tranquillement debout sur sa planche. Il se retourne, je distingue un sourire de loin et je lui répond, en tendant le pouce vers le haut. Quels moments. Je n'ai qu'une hâte, y retourner. Cinq leçons de prévues et j'imagine déjà la suite. 
 
 
-{{< video src="plouf.mov" alt="Plouf" >}}
+{{< video src="plouf.mov" alt="Plouf" vertical="yes" >}}
