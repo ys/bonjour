@@ -1,0 +1,13 @@
+{{/* get file that matches the filename as specified as src="" in shortcode */}}
+{{ $src := .Page.Resources.GetMatch (printf "*%s*" (.Get "src")) }}
+
+{{ if $src }}
+<figure>
+    <video src="$src.RelPermalink" class="block relative shadow-lg {{ if .Parent }}{{ else }}my-6 {{ if .Get "vertical" }}mx-auto w-2/3{{ else }}md:-mx-10{{ end }}{{ end }} img" autoplay muted loop>      
+    {{ with .Get "caption" }}
+      <figcaption class="text-center italic -mt-4 font-mono text-sm dark:text-gray-300 text-gray-500 ">
+        {{ . }}
+      </figcaption>
+    {{ end }}
+  </figure>
+{{ end }}
