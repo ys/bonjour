@@ -5,6 +5,15 @@ aliases:
   - "2020-06-24"
 title: "Se mettre à l'eau"
 subtitle: "Une histoire de nose et de tail."
+tags:
+  - surf
+  - ecole
+  - Bretagne
+  - Finistère
+  - Léon
+  - enfants
+  - apprentissage
+  - glisse
 resources:
   - src: "*.jpg"
   - src: "*.mov"
