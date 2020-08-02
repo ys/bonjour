@@ -1,8 +1,8 @@
 ---
-date: 2020-06-28T12:48:15+02:00
+date: 2020-08-01T12:48:15+02:00
 slug: "lecture-surf"
 aliases:
-  - "2020-06-30"
+  - "2020-08-01"
 title: "Un peu de lecture salée"
 tags:
   - surf
@@ -18,7 +18,7 @@ color: blue
 ---
 
 
-J'adore [lire]({{< ref "/suggestions-lecture" >}}). Je voyage beaucoup par la simple lecture. Je me motive à faire et me surpasser rien qu'en lisant. J'ai lu de chouettes livres sur [le surf avant de m'y mettre]({{< ref "/se-mettre-a-l-eau" >}}). Ces livres m'ont poussé à l'eau. Je me suis dit que vous faire une petite note sur deux de mes favoris vous ferait plaisir. L'été approche, on a tous besoin d'un bouquin à mettre dans le sac pour ces vacances au jardin. 
+J'adore [lire]({{< ref "/suggestions-lecture" >}}). Je voyage beaucoup par la simple lecture. Je me motive à faire et me surpasser rien qu'en lisant. J'ai lu de chouettes livres sur [le surf avant de m'y mettre]({{< ref "/se-mettre-a-l-eau" >}}). Ces livres m'ont poussé à l'eau. Je me suis dit que vous faire une petite note sur deux de mes favoris vous ferait plaisir. C'est l'été, on a tous besoin d'un bouquin à mettre dans le sac pour ces vacances au jardin. 
 
 ## [In waves](https://www.librairiesindependantes.com/product/9782203192393/) - AJ Dungo
 
