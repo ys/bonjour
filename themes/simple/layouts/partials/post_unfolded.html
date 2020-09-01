@@ -1,7 +1,7 @@
 <div class="post_item">
-  <header class="ml-0 mb-6 date">
+  <header class="ml-0 md:-ml-4 mb-6 date">
     {{ if .Title }}
-    <h2 class="text-xl  font-semibold text-accent-700 dark:text-gray-100">
+    <h2 class="text-xl font-semibold text-accent-700 dark:text-gray-100">
       <a href="{{ .RelPermalink }}">
         {{ .Title }}
       </a>
@@ -9,8 +9,6 @@
     <h3 class="text-gray-600">
     {{ with .Params.subtitle }}
       {{ . }}
-    {{ else }}
-      {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
     {{ end }}
     </h3>
     {{ else }}
@@ -23,6 +21,14 @@
   </header>
   <div class="content">
     {{ .Content }}
+  </div>
+  <div class="font-mono capitalize text-sm text-gray-700 dark:text-gray-500 text-right">
+    {{ .Params.emoji }}
+    {{ .Params.emoji}} {{ range first 1 .Params.categories }}
+    <a href="/{{ . }}">{{ . }}</a>
+    {{ end }}
+    {{ .Site.Params.arrow }}
+    {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
   </div>
 </div>
 <hr />
