@@ -1,7 +1,7 @@
 <div class="post_item">
   <header class="ml-0 mb-6 date">
     {{ if .Title }}
-    <h2 class="text-xl font-serif font-semibold text-accent-700 dark:text-gray-100">
+    <h2 class="text-xl  font-semibold text-accent-700 dark:text-gray-100">
       <a href="{{ .RelPermalink }}">
         {{ .Title }}
       </a>
@@ -14,7 +14,7 @@
     {{ end }}
     </h3>
     {{ else }}
-    <h2 class="text-xl font-serif font-semibold text-gray-700 dark:text-gray-100">
+    <h2 class="text-xl  font-semibold text-gray-700 dark:text-gray-100">
       <a href="{{ .RelPermalink }}">
         {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
       </a>

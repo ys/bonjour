@@ -25,7 +25,7 @@ html {
 }
 
 .font-sans {
-  font-family: var(--sans-text), theme("fontFamily.sans") !important;
+  font-family: theme("fontFamily.sans") !important;
 }
 .link-gray-900 {
   @apply text-gray-900 no-underline relative;

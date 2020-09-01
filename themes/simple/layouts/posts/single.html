@@ -1,6 +1,6 @@
 {{ define "main" }}
 <header class=" mb-6 ">
-  <h1 class="text-xl font-serif font-medium text-{{ with .Params.color }}{{ . }}-600{{ else }}gray-700{{ end }} dark:text-{{ with .Params.color }}{{ . }}-500{{ else }}gray-100{{ end }}">
+  <h1 class="text-xl  font-medium text-{{ with .Params.color }}{{ . }}-600{{ else }}gray-700{{ end }} dark:text-{{ with .Params.color }}{{ . }}-500{{ else }}gray-100{{ end }}">
     <a href="{{ .RelPermalink }}">
       {{ with .Title }}
         {{ . }}
