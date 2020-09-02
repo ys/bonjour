@@ -23,7 +23,6 @@
     {{ .Content }}
   </div>
   <div class="font-mono capitalize text-sm text-gray-700 dark:text-gray-500 text-right">
-    {{ .Params.emoji }}
     {{ .Params.emoji}} {{ range first 1 .Params.categories }}
     <a href="/{{ . }}">{{ . }}</a>
     {{ end }}
