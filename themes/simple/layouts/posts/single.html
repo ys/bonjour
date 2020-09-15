@@ -1,16 +1,16 @@
 {{ define "main" }}
-<header class="md:-ml-4 mb-6 ">
-  <h1 class="text-xl  font-medium text-{{ with .Params.color }}{{ . }}-600{{ else }}gray-700{{ end }} dark:text-{{ with .Params.color }}{{ . }}-500{{ else }}gray-100{{ end }}">
-      {{ with .Title }}
-        {{ . }}
-      {{ else }}
-        {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
-      {{ end }}
+<header class="mb-6 ">
+  <h1 class="text-xl  font-normal text-darker dark:text-gray-100">
+    {{ with .Title }}
+    {{ . }}
+    {{ else }}
+    {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+    {{ end }}
   </h1>
   <h2 class="text-gray-600 dark:text-gray-400">
-  {{ with .Params.subtitle }}
+    {{ with .Params.subtitle }}
     {{ . }}
-  {{ end }}
+    {{ end }}
   </h2>
 </header>
 <div class="mb-10 content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
