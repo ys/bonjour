@@ -26,7 +26,7 @@ Avec boites et factures
 
 {{< photo src="IMG_6997.jpg" >}}
 {{< photoset max="3">}}
-{{< photo src="IMG_6998.jpg" >}}
-{{< photo src="IMG_6999.jpg">}}
-{{< photo src="IMG_7001.jpg" >}}
-{{</ photoset >}}a
+{{< photo src="IMG_0383.jpg" >}}
+{{< photo src="IMG_0384.jpg">}}
+{{< photo src="IMG_0385.jpg" >}}
+{{</ photoset >}}
