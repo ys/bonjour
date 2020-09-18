@@ -3,7 +3,7 @@ title: "A vendre - Fuji XT-3 + 23mm 2.0 + 56mm 1.2"
 date: 2020-09-12T22:57:50+02:00
 draft: false
 type: "about"
-slug: "/xt-3
+slug: "/xt-3"
 resources:
   - src: "*.jpg"
 ---
