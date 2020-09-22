@@ -1,14 +1,14 @@
 {{ block "header" . }}
-<div class="container w-screen md:max-w-xl lg:max-w-2xl mx-auto">
+<div class="container w-screen md:max-w-xl lg:max-w-xl mx-auto">
   <div class="mx-4 md:mx-0">
     <header class="pb-4 mb-4 ">
       <a alt="{{.Site.Title}} home"
-        class="font-sans text-2xl w-2/3 logo block py-8 {{ with .Params.Color }}text-{{ . }}-700 {{ else }}text-accent-700 {{ end }} "
+        class="font text-3xl font-normal w-2/3 logo block py-8 {{ with .Params.Color }}text-{{ . }}-700 {{ else }}text-accent-700 {{ end }} "
         href="{{ "/" | relLangURL }}">
         {{ if .Site.Params.hasLogo }}
         {{ readFile "/static/logo.svg" | safeHTML}}
         <span aria-hidden="true" style="display: none">{{ .Site.Title }}</span>
-        {{ else }} {{ .Site.Title }} {{ end }}
+        {{ else }} {{ .Site.Params.emoji }} {{ end }}
       </a>
     </header>
   </div>

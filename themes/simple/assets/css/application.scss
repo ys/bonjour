@@ -1,5 +1,45 @@
 @tailwind base;
 
+@font-face {
+  font-family: "ia-writer-duo";
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  src: url("/iAWriterDuoS-Regular.eot") format("OpenType"),
+       url("/iAWriterDuoS-Regular.woff") format("woff"),
+       url("/iAWriterDuoS-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "ia-writer-duo";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 700;
+  src: url("/iAWriterDuoS-Bold.eot") format("OpenType"),
+       url("/iAWriterDuoS-Bold.woff") format("woff"),
+       url("/iAWriterDuoS-Bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "ia-writer-duo";
+  font-display: swap;
+  font-style: italic;
+  src: url("/iAWriterDuoS-Italic.eot") format("OpenType"),
+       url("/iAWriterDuoS-Italic.woff") format("woff"),
+       url("/iAWriterDuoS-Italic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "ia-writer-duo";
+  font-display: swap;
+  font-style: italic;
+  font-weight: 700;
+  src: url("/iAWriterDuoS-BoldItalic.eot") format("OpenType"),
+       url("/iAWriterDuoS-BoldItalic.woff") format("woff"),
+       url("/iAWriterDuoS-BoldItalic.woff2") format("woff2");
+}
+
+
 @import url('{{ .Site.Params.fontURL }}');
 
 @tailwind components;
@@ -7,7 +47,7 @@
 @tailwind utilities;
 
 html {
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.5;
 }
 
@@ -15,14 +55,11 @@ html {
   --accent: {{ with .Site.Params.accentColor }}{{ . }}{{ else }}var(--onyx){{ end }};
   --serif-text: {{ with .Site.Params.serifFont}}{{ . }}{{ else }}theme("fontFamily.serif"){{ end }};
   --sans-text: {{ with .Site.Params.sansFont}}{{ . }}{{ else }}theme("fontFamily.sans"){{ end }};
-  --mono-text: {{ with .Site.Params.monoFont}}{{ . }}{{ else }}theme("fontFamily.mono"){{ end }};
+  --mono-text: "ia-writer-duo";
 }
 
 .font-mono {
   font-family: var(--mono-text), theme("fontFamily.mono") !important;
-}
-.font-serif {
-  font-family: var(--serif-text), theme("fontFamily.serif") !important;
 }
 
 .font-sans {
@@ -107,21 +144,24 @@ hr {
 
 .post, .content {
   @apply mb-10;
+  li::before {
+    content: "• ";
+  }
   h3 {
-    @apply mt-4 text-gray-700 uppercase font-semibold;
+    @apply mt-4 text-gray-700 uppercase font-normal;
   }
 
   h1 {
-    @apply mt-4 text-lg font-semibold block;
+    @apply mt-4 text-lg font-normal block;
   }
   h2 {
-    @apply mt-4 text-gray-700 text-lg font-semibold block;
+    @apply mt-4 text-gray-700 text-lg font-normal block;
   }
   h2 + p {
     @apply mt-4;
   }
   ul {
-   @apply list-disc list-inside my-4
+   @apply list-inside my-4
   }
 
   ol {
@@ -134,11 +174,10 @@ hr {
     @apply my-4
   }
   blockquote {
-    font-family: var(--sans-text), theme("fontFamily.sans") !important;
     @screen md {
-      @apply -mx-24;
+      @apply -mx-8;
     }
-    @apply leading-snug text-accent-700  font-bold text-xl;
+    @apply leading-snug text-accent-700  font-normal text-xl py-4;
     a {
       background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.accent.200') 2px, theme('colors.accent.200') 2.5px, transparent 2.5px);
     }
@@ -173,8 +212,7 @@ hr {
 // Expand Hugo templates
 
 .pagination {
-  @apply flex flex-row items-center justify-center py-10 text-xs;
-  font-family: var(--sans-text), theme("fontFamily.sans") !important;
+  @apply flex flex-row items-center justify-center py-10 text-sm;
 }
 
 .pagination li {

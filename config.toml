@@ -21,7 +21,8 @@ disableKinds = ["taxonomyTerm"]
   sansFont = "IBM Plex Sans"
   monoFont = "IBM Plex Mono"
   pinterestVerify = "fd6b8a37d3208b2c605434cf2ce71ac3"
-  hasLogo = true
+  hasLogo = false
+  emoji = "🌊"
   arrow = "✧"
   footer = "48°24'41.2\"N 3°46'15.2\"W"
 [params.fathom]
