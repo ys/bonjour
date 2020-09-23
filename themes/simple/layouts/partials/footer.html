@@ -2,16 +2,16 @@
 
   <div class="w-full md:flex-row flex-col justify-around flex">
   <div class="md:w-1/3">
-    <span class=" font-semibold block text-lg">{{ .Site.Title }}</span>
+    <span class=" font-bold block text-lg">{{ .Site.Title }}</span>
     <span class="mb-3 italic block">{{ .Site.Params.baseline }}</span>
     <span>{{ .Site.Params.description }}</span>
-    <span class="mt-2  font-semibold block text-lg">Location</span>
+    <span class="mt-2  font-bold block text-lg">Location</span>
     <a class="mr-2" href="/sequences">
       {{ $.Site.Params.footer }}
     </a>
   </div>
   <div class="md:w-1/3">
-    <span class=" font-semibold block text-lg">Social</span>
+    <span class=" font-bold block text-lg">Social</span>
     {{ with .Site.Params.social.instagram }}
     <a class="block p-1" href="https://instagram.com/{{ . }}">📷 Instagram</a>
     {{ end }} {{ with .Site.Params.social.twitter }}
@@ -22,7 +22,7 @@
     <a class="block p-1" href="https://vsco.com/{{ . }}">📷 VSCO</a>
     {{ end }}
     <a class="block" href="mailto:{{ $.Site.Params.social.email }}">✉️ {{ $.Site.Params.social.domain }}</a>
-    <span class="mt-2  font-semibold block text-lg">Random</span>
+    <span class="mt-2  font-bold block text-lg">Random</span>
     <a class="theme-switcher mr-2">💡 Switch theme</a>
   </div>
   </div>
