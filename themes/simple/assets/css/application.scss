@@ -152,10 +152,10 @@ hr {
   }
 
   h1 {
-    @apply mt-4 text-lg font-normal block;
+    @apply mt-4 font-bold block;
   }
   h2 {
-    @apply mt-4 text-gray-700 text-lg font-normal block;
+    @apply mt-4 text-gray-600 font-bold block;
   }
   h2 + p {
     @apply mt-4;
