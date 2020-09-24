@@ -242,3 +242,9 @@ hr {
     content: "◦";
   }
 }
+.grid::after {
+    content: "";
+    display: block;
+    flex-grow: 10;
+		outline: 2px solid #fff;
+}
