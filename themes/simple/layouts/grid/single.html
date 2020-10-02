@@ -1,34 +1,21 @@
 {{ define "main" }}
   {{ with .Resources.ByType "image" }}
-     <ul class="grid md:-mx-32 flex flex-wrap relative content-start pb-16">
+     <ul class="grid md:-mx-32 ">
        {{ range . }}
-         <li class="h-64 flex-grow relative">
+         <li class="item">
 
           {{ $lqipw := default "20x" }}
-          {{ $smallw := default "800x" }}
-          {{ $largew := default "1500x" }}
-
-          {{/* resize the src image to the given sizes */}}
 
           {{ $lqip := .Resize $lqipw }}
-          {{ $small := .Resize $smallw }}
-          {{ $large := .Resize $largew }}
 
           <img
             loading="lazy"
-            class="p-1 lazyload lazy max-h-full min-h-full min-w-full block w-auto object-cover" 
+            class="p-1 lazyload" 
             data-action="zoom"
-            data-zoom-src="{{ .RelPermalink}}"
-            data-sizes="auto"
-            data-srcset='
-            {{ if ge .Width "800" }}
-              {{ with $small.RelPermalink }}{{.}} 800w{{ end }}
-            {{ end }}
-            {{ if ge .Width "1500" }}
-              {{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
-            {{ end }}'
-            data-src="{{ .RelPermalink }}"
-            width="{{ .Width }}" height="{{ .Height }}"/>
+            src="{{ $lqip.RelPermalink }}"
+            data-zoom-src="{{ .RelPermalink }}"
+            width="{{ $src.Width }}" height="{{ $src.Height }}"
+            data-src="{{ .RelPermalink }}"/>
          </li>
        {{ end }}
      </ul>
