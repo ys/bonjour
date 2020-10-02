@@ -12,9 +12,11 @@
             loading="lazy"
             class="p-1 lazyload" 
             data-action="zoom"
-            src="{{ $lqip.RelPermalink }}"
+            src="{{ .RelPermalink }}"
             data-zoom-src="{{ .RelPermalink }}"
             width="{{ .Width }}" height="{{ .Height }}"
+            data-sizes="auto"
+            data-srcset='{{ .RelPermalink }} 1500w'
             data-src="{{ .RelPermalink }}"/>
          </li>
        {{ end }}
