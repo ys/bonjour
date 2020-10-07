@@ -1,7 +1,6 @@
 ---
-title: "Petites aventures & Micro activisme - Vadrouilles"
-seotitle: "Petites aventures & Micro activisme - Vadrouilles"
-description: "Petites aventures & micro activisme d'un amoureux du plein air."
+title: "Petites histoires & Micro activisme"
+description: "Des histoires simples, du micro activisme et une bonne tasse de café."
 date: 2017-10-26T22:57:50+02:00
 draft: false
 type: index
