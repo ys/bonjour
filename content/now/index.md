@@ -9,7 +9,7 @@ resources:
 ---
 {{< photo src="now.jpg" alt="Instax de roscoff" >}}
 
-Cela fait quelques semaines que je fais du surf de façon régulière, enfin disons que j'apprend à faire du surf de façon régulière.
+Cela fait quelques semaines que je fais du surf de façon régulière, enfin disons que j'apprends à faire du surf de façon régulière.
 J'étais bien dans ma combi 3/2 jusque cette semaine. Là, je suis enrhumé. J'ai donc commandé des chaussons et une combi 5/4.
 C'est assez passionant comme sport. Je pense que mes yeux se sont habitués à l'eau salée dedans. Mon nez aussi, ca permet de bien déboucher.
 Même si parfois l'eau ne ressort que une heure plus tard.
@@ -26,7 +26,7 @@ Si tu te demandes à quoi cela ressemble, va voir [@meganshootsfilm](https://ins
 
 Pour la photo argentique, j'en parle dans [cet article](/un-ete-en-36-poses) mais le leica m6 me faisait rêver depuis des années. Je pense être venu au Fuji x100 à cause de ce boîtier et du côté nostalgique qu'il comblait pour moi.
 
-Je me lasse de Instagram énormément. J'adore les rencontres que j'y fait mais le format me déplait, encore plus quand je découvre comme mon feed est moche en mode dark... Je pense à recréer soit des stories sur [Exposure](https://vadrouilles.exposure.co/), le dépoussiérer, ou simplement poster des stories photos ici. Comme j'aime avoir mon propre site avec son flux RSS, j'aimerais posséder ce lieu où je poste des photos aussi, j'ai tenté ca [ici](https://photos.vadrouilles.co). Je me demande aussi de l'intérêt de garder ce nom de domaine ou d'utiliser simplement yannickschutz.com. Si vous avez un avis, hésitez pas.
+Je me lasse de Instagram énormément. J'adore les rencontres que j'y fais mais le format me déplait, encore plus quand je découvre comme mon feed est moche en mode dark... Je pense à recréer soit des stories sur [Exposure](https://vadrouilles.exposure.co/), le dépoussiérer, ou simplement poster des stories photos ici. Comme j'aime avoir mon propre site avec son flux RSS, j'aimerais posséder ce lieu où je poste des photos aussi, j'ai tenté ca [ici](https://photos.vadrouilles.co). Je me demande aussi de l'intérêt de garder ce nom de domaine ou d'utiliser simplement yannickschutz.com. Si vous avez un avis, hésitez pas.
 
 Voilà voilà.
 
