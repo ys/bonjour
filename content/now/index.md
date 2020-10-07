@@ -1,7 +1,7 @@
 ---
 title: "Maintenant"
 description: "Ce que je fais, quii m'intéresse et me tracasse."
-date: 2020-10-07T22:57:50+02:00
+date: 2020-10-07T12:57:50+02:00
 draft: false
 type: "about"
 resources:
