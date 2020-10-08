@@ -25,6 +25,6 @@ Used to say Abraham Lincoln. But I ain't as good as he was. Or at least, I wasn'
 
 My axe had a few hits on the bevel. I had to do a bit more than just re sharpen it. I had to remove those with a file. Andrew from Misc. Adventures was kind enough to directly jump on it and make a short video about this task. I don't think I was the only one in this case but I love to think I was. Same day, the video got published. A DM and he wished me luck. I will tell you how it went.
 
-In the mean time, please go check those videos and tell me what you thought of them on [🐥 Twitter](https://twitter.com/yann_ck) or [📸 Instagram](https://instagram.com/vadrouilles.co)
+In the mean time, please go check those videos and tell me what you thought of them on [🐥 Twitter](https://twitter.com/bonjouryannick) or [📸 Instagram](https://instagram.com/yannickschutz.com)
 
 _P.S.: It went ok. It wasn't super easy but I am happy with the result._

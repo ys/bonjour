@@ -29,7 +29,7 @@ It is summer time, you wanna read something but you don't know what. Don't worry
 
 {{< photo src="cover" >}}
 
-I really enjoy reading books lately. It is often somehow related to nature when it is not a technical book. and I wanted to share a quick few recommendations with y'all. I love books so expect more of these. I challenged myself to read 35 books and keep track on [goodreads](https://www.goodreads.com/vadrouilles).
+I really enjoy reading books lately. It is often somehow related to nature when it is not a technical book. and I wanted to share a quick few recommendations with y'all. I love books so expect more of these. I challenged myself to read 35 books and keep track on [goodreads](https://www.goodreads.com/bonjouryannick).
 
 <hr/>
 

@@ -1,13 +1,15 @@
 {
   "build": {
     "env": {
-      "HUGO_VERSION": "0.69.0"
+      "HUGO_VERSION": "0.76.2"
     }
   },
   "routes": [
     {
       "src": "(.*).(jpg|jpeg|gif|png)",
-      "headers": { "Cache-Control": "public,max-age=31536000,immutable" }
+      "headers": {
+        "Cache-Control": "public,max-age=31536000,immutable"
+      }
     }
   ]
 }

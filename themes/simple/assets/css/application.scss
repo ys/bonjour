@@ -39,9 +39,6 @@
        url("/iAWriterDuoS-BoldItalic.woff2") format("woff2");
 }
 
-
-@import url('{{ .Site.Params.fontURL }}');
-
 @tailwind components;
 
 @tailwind utilities;

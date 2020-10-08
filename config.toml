@@ -1,7 +1,7 @@
-baseURL = "https://vadrouilles.co/"
+baseURL = "https://yannickschutz.com/"
 languageCode = "fr"
 DefaultContentLanguage = "fr"
-title = "Vadrouilles"
+title = "Bonjour Yannick"
 theme = "simple"
 RemovePathAccents = true
 timeout = 200000
@@ -13,29 +13,25 @@ disableKinds = ["taxonomyTerm"]
   unfolded_category = "journal"
   mainSections = [ "posts", "microposts" ]
   sizes = [ "2048" , "1024" , "512" ]
-  baseline = "n.f. (de vadrouiller) - Promenade, balade, le plus souvent sans but"
+  baseline = "n.m. (de bon et jour) - salutation dont on se sert pendant la journée quand on aborde quelqu'un"
   description = "J'aime bien notre planète et j'raconte des histoires. Les gens diraient que je suis plutôt chouette."
   tags = ["famille", "exode rurale", "bretagne", "voyage", "slow life", "photographies", "tranches de vie", "vie lente"]
-  fontURL = "https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300&family=IBM+Plex+Sans:wght@300&family=IBM+Plex+Serif:wght@300;400;500;600&display=swap"
-  serifFont = "IBM Plex Serif"
-  sansFont = "IBM Plex Sans"
-  monoFont = "IBM Plex Mono"
   pinterestVerify = "fd6b8a37d3208b2c605434cf2ce71ac3"
   hasLogo = false
   emoji = "🌊"
   arrow = "✧"
   footer = "48°24'41.2\"N 3°46'15.2\"W"
 [params.fathom]
-  host = "logs.vadrouilles.co"
+  host = "logs.yannickschutz.com"
   siteID = "UJYRI"
-  trackDomain = "vadrouilles.co"
+  trackDomain = "yannickschutz.com"
 
 [params.social]
-  email = "petites@vadrouilles.co"
-  domain = "vadrouilles.co"
-  instagram = "vadrouilles.co"
-  twitter = "yann_ck"
-  vsco = "yann_ck"
+  email = "hello@yannickschutz.com"
+  domain = "yannickschutz.com"
+  instagram = "bonjouryannick"
+  twitter = "bonjouryannick"
+  vsco = "bonjouryannick"
 
 [outputFormats.jsonfeed]
   mediaType = "application/json"
@@ -105,10 +101,23 @@ disableKinds = ["taxonomyTerm"]
       weight = 1
       identifier = "journal"
       url = "/"
+    [[menu.main]]
+      name = "Bonjour, la lettre"
+      title = "Bonjour, la lettre"
+      weight = 7
+      identifier = "bonjour"
+      url = "/bonjour/"
+    [[menu.main]]
+      name = "Now"
+      title = "Now"
+      weight = 8
+      url = "/now/"
 
     [[menu.main]]
       name = "A propos"
       title = "About me"
-      weight = 3
+      weight = 9
       identifier = "about"
-      url = "/about"
+      url = "/about/"
+[markup.goldmark.renderer]
+unsafe= true

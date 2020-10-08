@@ -55,4 +55,4 @@ Ce bouquin est une série de portraits à travers le monde de personnes faisant 
 
 [Lien du livre](https://gestalten.com/collections/stay-inspired/products/new-traditional)
 
-En attendant, allez voir tout ça et partagez moi vos favoris sur [🐥 Twitter](https://twitter.com/yann_ck).
+En attendant, allez voir tout ça et partagez moi vos favoris sur [🐥 Twitter](https://twitter.com/bonjouryannick).
