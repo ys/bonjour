@@ -1,25 +1,32 @@
 {{ define "main" }}
   {{ with .Resources.ByType "image" }}
-     <ul class="grid md:-mx-32 ">
+     <div class="flex flex-wrap items-start md:-mx-64 mb-10">
        {{ range . }}
-         <li class="item">
+  {{ $lqipw := default "20x" }}
+  {{ $smallw := default "800x" }}
+  {{ $largew := default "1500x" }}
 
-          {{ $lqipw := default "20x" }}
+  {{/* resize the src image to the given sizes */}}
 
-          {{ $lqip := .Resize $lqipw }}
+  {{ $lqip := .Resize $lqipw }}
+  {{ $small := .Resize $smallw }}
+  {{ $large := .Resize $largew }}
 
-          <img
-            loading="lazy"
-            class="p-1 lazyload" 
-            data-action="zoom"
-            src="{{ .RelPermalink }}"
-            data-zoom-src="{{ .RelPermalink }}"
-            width="{{ .Width }}" height="{{ .Height }}"
-            data-sizes="auto"
-            data-srcset='{{ .RelPermalink }} 1500w'
-            data-src="{{ .RelPermalink }}"/>
-         </li>
+  {{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
+  {{/* set the sizes attribute to (min-width: 35em) 1200px, 100vw unless overridden in shortcode */}}
+
+    <picture class="m-1 flex-grow h-64 relative" style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover">
+      <img
+        loading="lazy"
+        class="lazyload max-h-full min-h-full min-w-full w-auto block object-cover"
+        data-action="zoom"
+        data-zoom-src="{{ .RelPermalink}}"
+        data-sizes="auto"
+        data-srcset='{{ .RelPermalink }} 1000w'
+        data-src="{{ .RelPermalink }}"
+        width="{{ .Width }}" height="{{ .Height }}">
+    </picture>
        {{ end }}
-     </ul>
+     </div>
    {{ end }}
 {{ end }}
