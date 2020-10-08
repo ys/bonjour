@@ -25,6 +25,6 @@ Disait Abraham Lincoln. Je ne suis pas de la trempe d'un ancien président. Mais
 
 Ma hache a quelques coups dans la lame, je vais devoir faire un peu plus que la ré-affuter. Il me faut éliminer ces coups. Andrew de Misc. Adventures a été super chouette et m'a dit qu'il allait faire un petit épisode bonus juste pour m'expliquer comment faire. Je pense ne pas être le seul dans ce cas. Bien que j'aime à le penser. Le jour même, une nouvelle petite vidéo! Il me souhaite bonne chance. Je vous dirai comment cela s'est passé.
 
-En attendant, allez voir tout ça et dites moi ce que vous en pensez sur [🐥 Twitter](https://twitter.com/yann_ck) ou [📸 Instagram](https://instagram.com/vadrouilles.co)
+En attendant, allez voir tout ça et dites moi ce que vous en pensez sur [🐥 Twitter](https://twitter.com/bonjouryannick) ou [📸 Instagram](https://instagram.com/bonjouryannick)
 
 _P.S.: Tout s'est bien passé. C'était pas simple mais je suis content pour une première._

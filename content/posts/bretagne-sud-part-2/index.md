@@ -33,7 +33,7 @@ summary: "Départ de notre premier QG en direction de notre camp de base à Croz
 
 > Homme libre toujours tu chériras la mer
 
-_N'oubliez pas de lire la [première partie](https://vadrouilles.co/bretagne-sud-part-1)_
+_N'oubliez pas de lire la [première partie](https://yannickschutz.com/bretagne-sud-part-1)_
 
 Départ de notre premier QG en direction de notre camp de base à Crozon. On fait un crochet par la pointe du Raz. Une pause au dernier supermarché avant l’Amérique pour quelques provisions manquantes. Pour le reste, Cloé a eu la super idée de cuisiner des petits plats et les mettre dans des bocaux. La nourriture comme à la maison mais sans devoir cuisiner. Trop bien!
 
@@ -45,7 +45,7 @@ On se gare et on traverse le "centre commercial de la pointe du Raz". Boucle aut
 
 ## Crozon sud
 
-On reprend la route envieux de se poser et ne plus devoir prendre la voiture quelques jours. On compte bien tout faire à pied sur la presqu’île. On est à 1km de la plage de [la Palue](https://vadrouilles.co/la-palue/), spot de surf assez connu en Bretagne. On va y admirer le coucher de soleil. Il fait bon. Les sentiers sont boueux mais on s’en moque, on a nos chaussures de randonnée pour cela. Arrivée sur la plage, on cherche des trésors. Les plus beaux galets, plumes, coquillages et bois flottés. La mer est haute, les vagues nous jouent des tours. On va se poser sur les restes d’un bunker et on admire le soleil couchant. Le chien court dans tous les sens et en profite un max. C’est génial pour lui et et pour nous.
+On reprend la route envieux de se poser et ne plus devoir prendre la voiture quelques jours. On compte bien tout faire à pied sur la presqu’île. On est à 1km de la plage de [la Palue](https://yannickschutz.com/la-palue/), spot de surf assez connu en Bretagne. On va y admirer le coucher de soleil. Il fait bon. Les sentiers sont boueux mais on s’en moque, on a nos chaussures de randonnée pour cela. Arrivée sur la plage, on cherche des trésors. Les plus beaux galets, plumes, coquillages et bois flottés. La mer est haute, les vagues nous jouent des tours. On va se poser sur les restes d’un bunker et on admire le soleil couchant. Le chien court dans tous les sens et en profite un max. C’est génial pour lui et et pour nous.
 
 {{< photo src="5.jpg" alt="trésors de plage" >}}
 

@@ -1,6 +1,6 @@
 ---
 title: "About"
-seotitle: "Who am I? - Vadrouilles"
+seotitle: "Who am I? - Bonjour Yannick"
 description: "Some tiny stories, micro activism and a cup of black coffee"
 date: 2017-10-26T22:57:50+02:00
 draft: false

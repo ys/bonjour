@@ -33,7 +33,7 @@ summary: "Time to leave our first base camp for Crozon. We take a small detour f
 
 > Homme libre toujours tu chériras la mer
 
-_Don't forget to read the [first part](https://vadrouilles.co/en/south-of-bretagne-part-1)_
+_Don't forget to read the [first part](https://yannickschutz.com/en/south-of-bretagne-part-1)_
 
 Time to leave our first base camp for Crozon. We take a small detour for La Pointe du Raz. A quick break at the last supermarket before America for some missing groceries. For our meals, Cloé had the great idea to cook amazing dishes and store them in jars. Food just like home but without having to cook too much. What can we ask for!
 
@@ -45,7 +45,7 @@ We park and cross the shopping mall part of la Pointe du Raz. We make a loop aro
 
 ## Crozon sud
 
-We take the car. Hopefully, it is gonna be the last time for a few days. We hope we can walk most of the peninsula. We are a kilometer away from [la Palue](https://vadrouilles.co/la-palue/), a pretty well know Breton's Surf spot. We will go there to admire the sunset. Weather is good. The trails are muddy, but we don’t care. That’s why we have walking boots. On the beach, we are looking for small treasures. The most beautiful rocks, shells, pieces of wood, whatever. It is high tide, waves are playing with us. We sit on the remaining parts of a bunker watching the sun going away. The dog runs back and forth all around us. It is a perfect time for him and for us.
+We take the car. Hopefully, it is gonna be the last time for a few days. We hope we can walk most of the peninsula. We are a kilometer away from [la Palue](https://yannickschutz.com/la-palue/), a pretty well know Breton's Surf spot. We will go there to admire the sunset. Weather is good. The trails are muddy, but we don’t care. That’s why we have walking boots. On the beach, we are looking for small treasures. The most beautiful rocks, shells, pieces of wood, whatever. It is high tide, waves are playing with us. We sit on the remaining parts of a bunker watching the sun going away. The dog runs back and forth all around us. It is a perfect time for him and for us.
 
 {{< photo src="5.jpg" alt="trésors de plage" >}}
 

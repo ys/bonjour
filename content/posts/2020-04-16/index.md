@@ -76,4 +76,4 @@ Chaque matin, même rituel, je fais couler deux tasses de café pour moi et Clo�
 7. Se poser
 8. Apprécier.
 
-Voilà, vous savez tout. Quelle est votre façon de faire favorite? Votre café favori? Qu'est ce que vous voudriez savoir d'autre? Dites moi [tout sur Twitter](https://twitter.com/yann_ck) 🐥!
+Voilà, vous savez tout. Quelle est votre façon de faire favorite? Votre café favori? Qu'est ce que vous voudriez savoir d'autre? Dites moi [tout sur Twitter](https://twitter.com/bonjouryannick) 🐥!

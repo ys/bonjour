@@ -21,7 +21,7 @@ Hier, j'essayais de te faire rire et d'être positif. Demain aussi en fait.
 
 J'ai des tendances minimalistes, un besoin de questionnement constant et aussi, j'aime bien raconter des histoires. C'est ce qui me différencie de mon chien.	En gros, j'essaye d'être un bon exemple pour mon fils. Et ça, c'est déjà pas mal.
 
-Si tu penses que c'est pas mal aussi, [laisse un petit mot](mailto:petites@vadrouilles.co) et **on se voit dehors!**
+Si tu penses que c'est pas mal aussi, [laisse un petit mot](mailto:petites@yannickschutz.com) et **on se voit dehors!**
 
 {{< photo src="cover" alt="Tom et moi" caption="Merci à Jehanne pour la photo">}}
 

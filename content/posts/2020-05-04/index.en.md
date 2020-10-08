@@ -56,4 +56,4 @@ This book is a serie of portraits from around the world. People keeping traditio
 
 [Link to the book](https://gestalten.com/collections/stay-inspired/products/new-traditional)
 
-Go read all of that, share your favorites with me and come tell me about them on [🐥 Twitter](https://twitter.com/yann_ck).
+Go read all of that, share your favorites with me and come tell me about them on [🐥 Twitter](https://twitter.com/bonjouryannick).

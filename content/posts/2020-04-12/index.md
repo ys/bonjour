@@ -36,4 +36,4 @@ En fait, France TV a de superbes autres vidéos. Cette semaine, nous avons déco
 
 Dans l'apprentissage imprévu, comme beaucoup, nous avons acheté Animal Crossing. Cloé et moi sommes de grands fans de la série. On y jouait à notre rencontre, on y joue toujours. Et là, vous allez me dire: "Des jeux vidéos pour les enfants, non!". Mais en fait, j'ai appris énormément sur les poissons, insectes et fossiles dans ce jeu. Tom commence à reconnaitre les papillons du jardin grâce à ce jeu. Et pareil pour les poissons. Je vous le conseille totalement!.
 
-Et vous, ça se passe comment chez vous? [Dites le moi sur Twitter](https://twitter.com/yann_ck) 🐥!
+Et vous, ça se passe comment chez vous? [Dites le moi sur Twitter](https://twitter.com/bonjouryannick) 🐥!
