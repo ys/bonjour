@@ -108,3 +108,5 @@ disableKinds = ["taxonomyTerm"]
       weight = 3
       identifier = "about"
       url = "/about"
+[markup.goldmark.renderer]
+unsafe= true
