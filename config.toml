@@ -1,4 +1,4 @@
-baseURL = "https://vadrouilles.co/"
+baseURL = "https://yannickschutz.com/"
 languageCode = "fr"
 DefaultContentLanguage = "fr"
 title = "Vadrouilles"
@@ -28,14 +28,14 @@ disableKinds = ["taxonomyTerm"]
 [params.fathom]
   host = "logs.vadrouilles.co"
   siteID = "UJYRI"
-  trackDomain = "vadrouilles.co"
+  trackDomain = "yannickschutz.com"
 
 [params.social]
-  email = "petites@vadrouilles.co"
-  domain = "vadrouilles.co"
-  instagram = "vadrouilles.co"
-  twitter = "yann_ck"
-  vsco = "yann_ck"
+  email = "hello@yannickschutz.com"
+  domain = "yannickschutz.com"
+  instagram = "bonjouryannick"
+  twitter = "bonjouryannick"
+  vsco = "bonjouryannick"
 
 [outputFormats.jsonfeed]
   mediaType = "application/json"
