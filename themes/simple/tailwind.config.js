@@ -8,6 +8,9 @@ module.exports = {
     textColor: ['dark', 'dark-hover', 'dark-active']
   },
   theme: {
+     minHeight: {
+       '1/2': '50%'
+    },
     screens: {
       sm: "577px",
       md: "768px",

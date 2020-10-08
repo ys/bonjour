@@ -101,10 +101,23 @@ disableKinds = ["taxonomyTerm"]
       weight = 1
       identifier = "journal"
       url = "/"
+    [[menu.main]]
+      name = "Bonjour, la lettre"
+      title = "Bonjour, la lettre"
+      weight = 7
+      identifier = "bonjour"
+      url = "/bonjour/"
+    [[menu.main]]
+      name = "Now"
+      title = "Now"
+      weight = 8
+      url = "/now/"
 
     [[menu.main]]
       name = "A propos"
       title = "About me"
-      weight = 3
+      weight = 9
       identifier = "about"
-      url = "/about"
+      url = "/about/"
+[markup.goldmark.renderer]
+unsafe= true
