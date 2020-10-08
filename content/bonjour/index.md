@@ -1,5 +1,5 @@
 ---
-title: "Bonjour"
+title: "Bonjour, la lettre"
 description: "Un petit moment d'échappement dans votre boîte mail"
 date: 2020-10-07T12:57:50+02:00
 draft: false
@@ -11,7 +11,7 @@ resources:
 
 {{< photo src="cover.jpg" alt="aloha" >}}
 
-## 💌 Bonjour
+## 💌 Bonjour, la lettre
 
 *C'est quoi?* Une newsletter écrite et envoyée avec amour par moi-même.
 
