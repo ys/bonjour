@@ -10,7 +10,7 @@
 		"author": { "name": "{{ .Site.Author.name }}" },
 		{{ end }}
 			"items": [
-      {{ range $i, $e := first 10 (where .Data.Pages ".Params.hidden" "!=" "true") }}
+      {{ range $i, $e := first 10 (where (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) ".Params.hidden" "!=" "true") }}
 			{{ if $i }}, {{ end }}
 				{
 					"id": "{{ .Permalink }}",
