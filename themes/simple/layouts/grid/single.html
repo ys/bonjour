@@ -1,0 +1,32 @@
+{{ define "main" }}
+  {{ with .Resources.ByType "image" }}
+     <div class="flex flex-wrap items-start md:-mx-64 mb-10">
+       {{ range . }}
+  {{ $lqipw := default "20x" }}
+  {{ $smallw := default "800x" }}
+  {{ $largew := default "1500x" }}
+
+  {{/* resize the src image to the given sizes */}}
+
+  {{ $lqip := .Resize $lqipw }}
+  {{ $small := .Resize $smallw }}
+  {{ $large := .Resize $largew }}
+
+  {{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
+  {{/* set the sizes attribute to (min-width: 35em) 1200px, 100vw unless overridden in shortcode */}}
+
+    <picture class="m-1 flex-grow h-64 relative" style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover">
+      <img
+        loading="lazy"
+        class="lazyload max-h-full min-h-full min-w-full w-auto block object-cover"
+        data-action="zoom"
+        data-zoom-src="{{ .RelPermalink}}"
+        data-sizes="auto"
+        data-srcset='{{ .RelPermalink }} 1000w'
+        data-src="{{ .RelPermalink }}"
+        width="{{ .Width }}" height="{{ .Height }}">
+    </picture>
+       {{ end }}
+     </div>
+   {{ end }}
+{{ end }}
