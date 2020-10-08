@@ -10,11 +10,5 @@
       "destination": "https://yannickschutz.com/$1",
       "statusCode": 301
     }
-  ],
-  "routes": [
-    {
-      "src": "(.*).(jpg|jpeg|gif|png)",
-      "headers": { "Cache-Control": "public,max-age=31536000,immutable" }
-    }
   ]
 }
