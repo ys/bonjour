@@ -4,6 +4,13 @@
       "HUGO_VERSION": "0.69.0"
     }
   },
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://yannickschutz.com/$1",
+      "statusCode": 301
+    }
+  ],
   "routes": [
     {
       "src": "(.*).(jpg|jpeg|gif|png)",
