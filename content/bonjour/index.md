@@ -29,4 +29,4 @@ N'hésite pas à laisser ton email.
 <a class=link" href="https://tinyletter.com" target="_blank">powered by TinyLetter</a>
 </form>
 
-*Promis je ne revend pas tes données et je ne te spammerai pas. Je déteste cela*
+*Promis je ne revends pas tes données et je ne te spammerai pas. Je déteste cela*
