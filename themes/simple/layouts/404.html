@@ -1,5 +1,8 @@
 {{ define "main" }}
-<span class="text-lg text-red-500">
-  Oops this page doesn't exist
-</span>
+<div class="flex m-32 align-center flex-col">
+  <h2 class="block text-semibold text-sm text-center m-6">Page not found</h2>
+<p class="text-lg text-center block text-accent-700">
+{{ .Site.Params.text_404 }}
+</p>
+</div>
 {{ end }}

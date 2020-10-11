@@ -10,6 +10,7 @@ canonifyURLs = false
 disableKinds = ["taxonomyTerm"]
 
 [params]
+  text_404 = "Perdu? Cliquez sur la vague"
   unfolded_category = "journal"
   mainSections = [ "posts", "microposts" ]
   sizes = [ "2048" , "1024" , "512" ]
