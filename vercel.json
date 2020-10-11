@@ -4,6 +4,9 @@
       "HUGO_VERSION": "0.76.2"
     }
   },
+  "redirects": [
+    { "source": "/index.xml", "destination": "/feed.json" }
+  ],
   "routes": [
     {
       "src": "(.*).(jpg|jpeg|gif|png)",
