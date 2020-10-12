@@ -9,11 +9,11 @@ jobs:
         uses: actions/checkout@master
       - name: Tinify Images
         uses: namoscato/action-tinify@v1
-          with:
-            api_key: ${{ secrets.TINIFY_API_KEY }}
-            github_token: ${{ secrets.GITHUB_TOKEN }}
-            resize_width: 3000
-            resize_height: 3000
+        with:
+          api_key: ${{ secrets.TINIFY_API_KEY }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          resize_width: 3000
+          resize_height: 3000
       - name: Compress Images
         uses: calibreapp/image-actions@master
         with:
