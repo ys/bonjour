@@ -71,10 +71,10 @@ disableKinds = ["taxonomyTerm"]
     languageName = "English"
     [[languages.en.menu.main]]
       name = "Wanders"
-      title = "Vadrouilles"
+      title = "Stories"
       weight = 2
-      identifier = "vadrouilles"
-      url = "/en/vadrouilles/"
+      identifier = "stories"
+      url = "/en/stories/"
     [[languages.en.menu.main]]
       name = "Journal"
       title = "Journal"
@@ -91,11 +91,11 @@ disableKinds = ["taxonomyTerm"]
     weight = 1
     languageName = "Français"
     [[menu.main]]
-      name = "Vadrouilles"
-      title = "Vadrouilles"
+      name = "Stories"
+      title = "Stories"
       weight = 2
-      identifier = "vadrouilles"
-      url = "/vadrouilles/"
+      identifier = "stories"
+      url = "/stories/"
     [[menu.main]]
       name = "Journal"
       title = "Journal"

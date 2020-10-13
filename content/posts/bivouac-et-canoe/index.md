@@ -20,7 +20,7 @@ tags:
   ]
 place: "France"
 categories:
-  - vadrouilles
+  - stories
 slug: "bivouac-et-canoe"
 emoji: "🛶"
 resources:

@@ -19,7 +19,7 @@ tags:
 gear: ["📷 Fuji X100T"]
 place: "Belgique"
 categories:
-  - vadrouilles
+  - stories
 resources:
   - name: "cover"
     src: "DSCF7905.jpg"
