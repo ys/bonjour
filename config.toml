@@ -91,7 +91,7 @@ disableKinds = ["taxonomyTerm"]
     weight = 1
     languageName = "Français"
     [[menu.main]]
-      name = "stories"
+      name = "Stories"
       title = "Stories"
       weight = 2
       identifier = "stories"
