@@ -1,11 +1,13 @@
 ---
 title: "Surf à la Torche"
 subtitle: "Planches de surf, fin de journée et chien patient"
+summary: "Profiter d'une journée en van pour aller se poser sur un des spots mythiques de Bretagne. La pointe de la Torche ne déçoit pas."
 date: 2020-09-23T22:57:50+02:00
 draft: false
 slug: "/surf-torche"
 categories:
   - vadrouilles
+place: "la Torche"
 emoji: "🏄‍♂️"
 resources:
   - src: "*.jpg"
@@ -15,7 +17,6 @@ resources:
 
 {{< photo large="please" src="cover" alt="surfers" >}}
 
-Profiter d'une journée en van pour aller se poser sur un des spots mythiques de Bretagne. La pointe de la Torche ne déçoit pas.
 
 {{<photo src="14.jpg" alt="surfers dans l'eau">}}
 {{< photoset max="2">}}
