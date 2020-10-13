@@ -9,17 +9,17 @@ resources:
   - src: "*.jpg"
 ---
 
-{{< photo src="02.jpg" >}}
+{{< photo large="please" src="02.jpg" >}}
 
+{{<photo src="14.jpg" >}}
 {{< photoset max="2">}}
 {{< photo src="15.jpg" >}}
 {{< photo src="18.jpg" >}}
 {{</photoset >}}
-{{<photo src="14.jpg" >}}
 {{<photo src="16.jpg" >}}
+{{<photo src="25.jpg" >}}
 {{< photoset max="2">}}
 {{< photo src="19.jpg" >}}
 {{< photo src="23.jpg" >}}
 {{</photoset >}}
-{{<photo src="25.jpg" >}}
 {{<photo src="35.jpg" >}}
