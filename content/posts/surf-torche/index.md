@@ -7,9 +7,11 @@ categories:
   - story
 resources:
   - src: "*.jpg"
+  - src: "02.jpg"
+    name: "cover"
 ---
 
-{{< photo large="please" src="02.jpg" >}}
+{{< photo large="please" src="cover" >}}
 
 {{<photo src="14.jpg" >}}
 {{< photoset max="2">}}
