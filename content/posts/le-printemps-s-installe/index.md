@@ -16,7 +16,7 @@ tags:
   ]
 place: "France"
 categories:
-  - vadrouilles
+  - stories
 slug: "le-printemps-s-installe"
 emoji: "🌱"
 resources:

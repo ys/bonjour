@@ -13,7 +13,7 @@ tags:
 - walking
 place: "France"
 categories:
-- vadrouilles
+- stories
 slug: "ayous-lakes"
 emoji: "⛰"
 summary: "It is 6:30 am, time to get to the parking lot. That parking can get full pretty quickly. A guard told us that we needed to be there before 8am if we wanted to get in. We have a full tank and an hour of drive, we should be all good."
@@ -39,7 +39,7 @@ Time to grind the beans and get the water hot. A good coffee is mandatory to sta
 
 From Edgar, we already have a scenic view. We start slowly up to a wonderful plateau with cows roaming freely. A great place right before entering the woods and following the cairns to not get lost. Actually, you can just follow people, it is summer and many folks had the same idea. People are cheering on the 5 year old as he passes by.
 
-Once we exit the woods, the panorama is breathtaking and stays that way until we reach the lakes. We get to the first one, the Roumassot lake connected to the second, Miey lake, via a waterfall. After that one, it doesn't take us long to get to the wonderful Gentau Lake and its refuge. We arrive at the same time than a flock of sheeps led by a shepherd's dog they call a "patou". We'll never forget that white ball of fluff who walked around us. The dog will come to us and play with Oggy a little bit. Once we are wool free again, we will stop near the lake facing Jean-Pierre, the pic du midi d'Ossau. Time to eat our sandwiches. Horses will run next to us to the lake for a little sip. 
+Once we exit the woods, the panorama is breathtaking and stays that way until we reach the lakes. We get to the first one, the Roumassot lake connected to the second, Miey lake, via a waterfall. After that one, it doesn't take us long to get to the wonderful Gentau Lake and its refuge. We arrive at the same time than a flock of sheeps led by a shepherd's dog they call a "patou". We'll never forget that white ball of fluff who walked around us. The dog will come to us and play with Oggy a little bit. Once we are wool free again, we will stop near the lake facing Jean-Pierre, the pic du midi d'Ossau. Time to eat our sandwiches. Horses will run next to us to the lake for a little sip.
 
 {{< photo src="6.jpg" class="vertical" >}}
 
@@ -51,7 +51,7 @@ Once we exit the woods, the panorama is breathtaking and stays that way until we
 
 We see people packing their tent. They are getting ready to continue their hike or to wander around the lake. We chat with a couple that arrived via the pic the day before. It is their day off. They described vividly the rest of the loop. It will bring Cloé to convince me to finish it alone while she take walk back with Tom and Oggy. We take a look at the map, we should arrive about the same time where we saw the cows.
 
-Let's go, I leave the refuge behind me after filling my water bottle. Time to climb the steep path into the National park. After the Ayous lakes, you get a set of smaller beautiful lakes. I pass next to many people with binoculars watching birds. I will think about it for next time. The beauty of the nature and landscapes is enough for me this time. I walk faster alone and it is a real pleasure to be there feeling like an ibex jumping from rock to rock. After Bersau lake, time to go down with an ease that surprise me. 
+Let's go, I leave the refuge behind me after filling my water bottle. Time to climb the steep path into the National park. After the Ayous lakes, you get a set of smaller beautiful lakes. I pass next to many people with binoculars watching birds. I will think about it for next time. The beauty of the nature and landscapes is enough for me this time. I walk faster alone and it is a real pleasure to be there feeling like an ibex jumping from rock to rock. After Bersau lake, time to go down with an ease that surprise me.
 
 
 {{< photo src="cover" alt="refuge d'ayous" >}}

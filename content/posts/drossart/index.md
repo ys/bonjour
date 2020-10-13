@@ -9,7 +9,7 @@ emoji: "🇧🇪"
 gear: ["📷 Fuji X100T"]
 place: "Belgique"
 categories:
-- vadrouilles
+- stories
 resources:
 - src: "DSCF8808.jpg"
   name: "cover"
