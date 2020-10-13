@@ -2,9 +2,24 @@
 title: "Surf à la Torche"
 date: 2020-09-23T22:57:50+02:00
 draft: false
-type: "grid"
+slug: "/surf-torche"
+categories:
+  - story
 resources:
   - src: "*.jpg"
-  - src: "1.jpg"
-    name: "cover"
 ---
+
+{{< photo src="02.jpg" >}}
+
+{{< photoset max="2">}}
+{{< photo src="15.jpg" >}}
+{{< photo src="18.jpg" >}}
+{{</photoset >}}
+{{<photo src="14.jpg" >}}
+{{<photo src="16.jpg" >}}
+{{< photoset max="2">}}
+{{< photo src="19.jpg" >}}
+{{< photo src="23.jpg" >}}
+{{</photoset >}}
+{{<photo src="25.jpg" >}}
+{{<photo src="35.jpg" >}}
