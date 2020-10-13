@@ -1,3 +1,7 @@
+{{ $link := .RelPermalink }}
+{{ if .Params.exposure }}
+  {{ $link = printf "%s%s" .Site.Params.exposure_url  .Slug }}
+{{ end }}
 <div class="mb-10">
   <header>
     <h2 class="font-bold text-darker dark:text-gray-100">
@@ -14,7 +18,7 @@
   {{ $web := $image.Fill "1200x800" }}
   {{ $mini := $image.Fill "60x40 Box" }}
   <div class="my-6">
-    <a href="{{ .RelPermalink }}" aria-label="{{ .Title }}">
+    <a href="{{ $link }}" aria-label="{{ .Title }}">
       <picture class="md:-mx-10 block shadow-lg">
         <source class="lazyload" srcset="{{ $mini.RelPermalink }}" type="web/jpg" media="(min-width: 821px)"
           data-srcset="{{ $web.RelPermalink }}">
@@ -29,7 +33,7 @@
       {{ .Summary | truncate 200 | safeHTML }}
     </p>
     <div>
-      <a class="text-sm font-mono link font-bold" href="{{ .RelPermalink }}">Lire tout</a>
+      <a class="text-sm font-mono link font-bold" href="{{ $link }}">Lire tout</a>
     </div>
   </div>
   <div class="font-mono capitalize text-sm text-gray-700 dark:text-gray-500 text-right">

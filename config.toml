@@ -10,6 +10,7 @@ canonifyURLs = false
 disableKinds = ["taxonomyTerm"]
 
 [params]
+  exposure_url = "https://bonjouryannick.exposure.co"
   text_404 = "Perdu? Cliquez sur la vague"
   unfolded_category = "journal"
   mainSections = [ "posts", "microposts" ]
