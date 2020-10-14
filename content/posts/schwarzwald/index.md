@@ -21,7 +21,7 @@ emoji: "🇩🇪"
 gear: ["📷 Fuji X100T", "📱 iPhone 6s"]
 place: "Allemagne"
 categories:
-  - vadrouilles
+  - stories
 resources:
   - name: "cover"
     src: "schwarzwald-32.jpg"

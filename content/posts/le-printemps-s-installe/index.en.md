@@ -16,7 +16,7 @@ tags:
   ]
 place: "France"
 categories:
-  - vadrouilles
+  - stories
 slug: "spring-is-here"
 emoji: "🌱"
 resources:

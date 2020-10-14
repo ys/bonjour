@@ -8,7 +8,7 @@ emoji: "🌲"
 gear: ["📷 Fuji X100T", "📷 Fuji X-T2"]
 place: "Belgique"
 categories:
-- vadrouilles
+- stories
 resources:
 - src: "*.jpg"
 summary: "C'est une belle après-midi de printemps, on est invité chez Anne et Martin à l'orée du bois. Après avoir chassé les tritons dans leur mare, on décide d'aller faire une petite balade en forêt."

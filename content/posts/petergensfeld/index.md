@@ -8,7 +8,7 @@ emoji: "🌅"
 gear: ["📷 Fuji X100T", "📱 iPhone X"]
 place: "Belgique"
 categories:
-- vadrouilles
+- stories
 resources:
 - name: "cover"
   src: "petergensfeld-2.jpg"

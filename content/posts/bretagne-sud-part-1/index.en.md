@@ -7,7 +7,7 @@ draft: false
 slug: "south-of-bretagne-part-1"
 place: "France"
 categories:
-- vadrouilles
+- stories
 emoji: "⚓️"
 tags: ["road trip", "photography", "bretagne", "Brittany", "surf", "beach", "tides", "morbihan", "quiberon", "carnac", "local", "slowlife", "holiday", "family"]
 description: "On avait décidé de ne pas partir bien loin. Un voyage plus lent. Carnac, Quiberon, Etel. Découvrir notre region d'adoption."
