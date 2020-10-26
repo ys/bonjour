@@ -1,7 +1,7 @@
 const defaultTheme = require("tailwindcss/defaultTheme");
 
 module.exports = {
-  plugins: [require("tailwindcss-dark-mode")()],
+  plugins: [require("tailwindcss-dark-mode")(),require('@tailwindcss/typography'),],
   variants: {
     backgroundColor: ['dark', 'dark-hover', 'dark-group-hover'],
     borderColor: ['dark', 'dark-focus', 'dark-focus-within'],
