@@ -1,44 +1,5 @@
 @tailwind base;
 
-@font-face {
-  font-family: "ia-writer-duo";
-  font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-  src: url("/iAWriterDuoS-Regular.eot") format("OpenType"),
-       url("/iAWriterDuoS-Regular.woff") format("woff"),
-       url("/iAWriterDuoS-Regular.woff2") format("woff2");
-}
-
-@font-face {
-  font-family: "ia-writer-duo";
-  font-style: normal;
-  font-display: swap;
-  font-weight: 700;
-  src: url("/iAWriterDuoS-Bold.eot") format("OpenType"),
-       url("/iAWriterDuoS-Bold.woff") format("woff"),
-       url("/iAWriterDuoS-Bold.woff2") format("woff2");
-}
-
-@font-face {
-  font-family: "ia-writer-duo";
-  font-display: swap;
-  font-style: italic;
-  src: url("/iAWriterDuoS-Italic.eot") format("OpenType"),
-       url("/iAWriterDuoS-Italic.woff") format("woff"),
-       url("/iAWriterDuoS-Italic.woff2") format("woff2");
-}
-
-@font-face {
-  font-family: "ia-writer-duo";
-  font-display: swap;
-  font-style: italic;
-  font-weight: 700;
-  src: url("/iAWriterDuoS-BoldItalic.eot") format("OpenType"),
-       url("/iAWriterDuoS-BoldItalic.woff") format("woff"),
-       url("/iAWriterDuoS-BoldItalic.woff2") format("woff2");
-}
-
 @tailwind components;
 
 @tailwind utilities;
