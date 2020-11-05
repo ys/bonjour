@@ -8,6 +8,8 @@ resources:
   - src: "*.jpg"
 ---
 
+{{< photo src="cover.jpg" alt="la mer" >}}
+
 
 J'ai plein de choses dans mes placards dont je ne fais rien. Je serai heureux de vous les envoyer si vous en avez l'utilité.
 
@@ -31,3 +33,6 @@ Si ils vous intéressent, [envoyez moi un mail](mailto:hello@yannickschutz.com).
 
 Voilà c'est déjà ca!
 
+Bonne journée,
+
+Yannick
