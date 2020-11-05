@@ -3,7 +3,7 @@ title: "Juste des trucs à donner"
 description: "Cela remplit ma maison et je n'en fait rien"
 date: 2020-110-02T22:57:50+02:00
 draft: false
-type: "a-donner"
+type: "about"
 resources:
   - src: "*.jpg"
 ---
@@ -24,9 +24,9 @@ Si ils vous intéressent, [envoyez moi un mail](mailto:hello@yannickschutz.com).
 - [Standart](https://standartmag.com) 18, 19, 20
 - [Like the wind](https://www.likethewindmagazine.com) 19
 - [Hope Valley Journal](https://www.hopevalleyjournal.co.uk) 3
-- Offscreen 21, 22
-- Ernest 5, 7, 8
-- Ethos 1, 2, 3, 4, 5, 6
+- [Offscreen](https://offscreenmag.com) 21, 22
+- [Ernest](https://www.ernestjournal.co.uk) 5, 7, 8
+- [Ethos](https://ethos-magazine.com) 1, 2, 3, 4, 5, 6
 
 
 Voilà c'est déjà ca!
