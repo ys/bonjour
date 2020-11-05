@@ -1,6 +1,6 @@
 ---
 title: "Juste des trucs à donner"
-description: "Cela remplit ma maison et je n'en fait rien"
+description: "Cela remplit ma maison et je n'en fais rien"
 date: 2020-110-02T22:57:50+02:00
 draft: false
 type: "about"
