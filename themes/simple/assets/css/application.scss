@@ -5,15 +5,19 @@
 @tailwind utilities;
 
 html {
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.5;
 }
 
 :root {
   --accent: {{ with .Site.Params.accentColor }}{{ . }}{{ else }}var(--onyx){{ end }};
-  --serif-text: {{ with .Site.Params.serifFont}}{{ . }}{{ else }}theme("fontFamily.serif"){{ end }};
-  --sans-text: {{ with .Site.Params.sansFont}}{{ . }}{{ else }}theme("fontFamily.sans"){{ end }};
+  --serif-text: {{ with .Site.Params.font.serif}}{{ . }}{{ else }}theme("fontFamily.serif"){{ end }};
+  --sans-text: {{ with .Site.Params.font.sans}}{{ . }}{{ else }}theme("fontFamily.sans"){{ end }};
   --mono-text: "ia-writer-duo";
+}
+
+.font-serif {
+  font-family: var(--serif-text), theme("fontFamily.serif") !important;
 }
 
 .font-mono {

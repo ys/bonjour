@@ -7,5 +7,7 @@
       {{ partialCached "micropost" . .RelPermalink .Lang }}
     {{ end }}
   {{ end }}
+  <div class="font-sans">
   {{ template "_internal/pagination.html" . }}
+  </div>
 {{ end }}
