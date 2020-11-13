@@ -11,6 +11,7 @@ tags:
   - olympus
 categories:
   - journal
+emoji: "📸"
 resources:
   - src: "*.jpg"
 ---
