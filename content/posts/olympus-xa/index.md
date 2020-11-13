@@ -8,6 +8,7 @@ tags:
   - analogique
   - 35mm
   - photo
+  - olympus
 categories:
   - journal
 resources:
@@ -33,20 +34,14 @@ Il faut faire attention si celui-ci vous intéresse, Olympus en a sorti toute un
   {{< photo src="6.jpg" alt="olympous xa example" >}}
 {{</ photoset >}}
 
-Je ne suis pas le seul à apprécier cet appareil, [Matt Day](https://www.mattdayphoto.com) a une super review sur youtube de l'appareil que je vous conseille. Il a sur son instagram pas mal de photos au XA aussi, mais bon faut chercher, il mixe de tout. Si vous voulez un review un rien plus technique, allez chez [Ken Rockwell](https://www.kenrockwell.com/olympus/xa.htm). Ou un plus bel exemple à la réunion chez les [carnets de traverse](https://www.carnets-de-traverse.com/blog/photos-de-voyage-olympus-xa-la-reunion).
+Je ne suis pas le seul à apprécier cet appareil, [Matt Day](https://www.mattdayphoto.com) a une super review sur youtube de l'appareil que je vous conseille. Il a sur son instagram pas mal de photos au XA aussi, mais bon faut chercher, il mixe de tout. Vous pouvez toujours regarder [#olympusxa](https://www.instagram.com/explore/tags/olympusxa/). Si vous voulez un review un rien plus technique, allez chez [Ken Rockwell](https://www.kenrockwell.com/olympus/xa.htm). Ou un plus bel exemple sur le terrain à la réunion chez les [carnets de traverse](https://www.carnets-de-traverse.com/blog/photos-de-voyage-olympus-xa-la-reunion).
 
 {{< youtube w2-jlXUzEco >}}
 	
-
-Je pense que selon les vacances, voyages et autres possibilités, c'est vraiment un super appareil qui ne prend pas de place. Il se fait oublier totalement tant dans la poche que lors de la prise de vue. C'est un véritable atout pour moi qui aime partir avec un sac unique pour tout à la semaine.
-
+C'est à mes yeux un super compagnon de voyages. Il se fait oublier totalement tant dans la poche que lors de la prise de vue. C'est un véritable atout pour moi qui aime partir avec un sac unique pour tout à la semaine, le gain de place est fou. Parfait si vous voulez garder la main sur les réglages mais avoir la taille d'un point and shoot. Mon premier coup de coeur photo de l'année. J'en ai eu d'autres dont je vous parlerai plus tard.
+	
 
 {{< photo src="4.jpg" alt="beach xa" >}}
-	
-
-Je ne suis pas le seul à apprécier cet appareil, regardez ce [hashtag instagram](https://www.instagram.com/explore/tags/olympusxa/)
-	
-Sincèrement, un super appareil si vous voulez garder la main sur les réglages mais avoir la taille d'un point and shoot. Mon premier coup de coeur photo de l'année. J'en ai eu d'autres dont je vous parlerai plus tard.
 	
 Et vous, c'est quoi votre petit coup de coeur photo de l'année? Quel est votre appareil de tous les jours? [Dites moi tout sur Twitter](https://twitter.com/bonjouryannick). 
 	
