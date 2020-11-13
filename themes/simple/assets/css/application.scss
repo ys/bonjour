@@ -1,58 +1,23 @@
 @tailwind base;
 
-@font-face {
-  font-family: "ia-writer-duo";
-  font-display: swap;
-  font-style: normal;
-  font-weight: 400;
-  src: url("/iAWriterDuoS-Regular.eot") format("OpenType"),
-       url("/iAWriterDuoS-Regular.woff") format("woff"),
-       url("/iAWriterDuoS-Regular.woff2") format("woff2");
-}
-
-@font-face {
-  font-family: "ia-writer-duo";
-  font-style: normal;
-  font-display: swap;
-  font-weight: 700;
-  src: url("/iAWriterDuoS-Bold.eot") format("OpenType"),
-       url("/iAWriterDuoS-Bold.woff") format("woff"),
-       url("/iAWriterDuoS-Bold.woff2") format("woff2");
-}
-
-@font-face {
-  font-family: "ia-writer-duo";
-  font-display: swap;
-  font-style: italic;
-  src: url("/iAWriterDuoS-Italic.eot") format("OpenType"),
-       url("/iAWriterDuoS-Italic.woff") format("woff"),
-       url("/iAWriterDuoS-Italic.woff2") format("woff2");
-}
-
-@font-face {
-  font-family: "ia-writer-duo";
-  font-display: swap;
-  font-style: italic;
-  font-weight: 700;
-  src: url("/iAWriterDuoS-BoldItalic.eot") format("OpenType"),
-       url("/iAWriterDuoS-BoldItalic.woff") format("woff"),
-       url("/iAWriterDuoS-BoldItalic.woff2") format("woff2");
-}
-
 @tailwind components;
 
 @tailwind utilities;
 
 html {
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.5;
 }
 
 :root {
   --accent: {{ with .Site.Params.accentColor }}{{ . }}{{ else }}var(--onyx){{ end }};
-  --serif-text: {{ with .Site.Params.serifFont}}{{ . }}{{ else }}theme("fontFamily.serif"){{ end }};
-  --sans-text: {{ with .Site.Params.sansFont}}{{ . }}{{ else }}theme("fontFamily.sans"){{ end }};
+  --serif-text: {{ with .Site.Params.font.serif}}{{ . }}{{ else }}theme("fontFamily.serif"){{ end }};
+  --sans-text: {{ with .Site.Params.font.sans}}{{ . }}{{ else }}theme("fontFamily.sans"){{ end }};
   --mono-text: "ia-writer-duo";
+}
+
+.font-serif {
+  font-family: var(--serif-text), theme("fontFamily.serif") !important;
 }
 
 .font-mono {
@@ -63,12 +28,10 @@ html {
   font-family: theme("fontFamily.sans") !important;
 }
 .link-gray-900 {
-  @apply text-gray-900 no-underline relative;
-  background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.gray.900') 2px, theme('colors.gray.900') 2.5px, transparent 2.5px);
+  @apply text-gray-900 underline relative;
   transition: color 0.5s, background-image 0.5s linear;
   &:hover {
-    @apply text-black no-underline relative;
-    background-image: linear-gradient(to top, transparent, transparent 2px , theme('colors.black') 2px, theme('colors.900') 2.5px, transparent 2.5px);
+    @apply text-black underline relative;
   }
 }
 
@@ -76,37 +39,30 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, sunray;
 @each $color in $colors {
   .mode-dark {
     .content-#{$color} a {
-      @apply text-#{$color}-400 no-underline relative;
-      background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.#{$color}.400') 2px, theme('colors.#{$color}.400') 2.5px, transparent 2.5px);
+      @apply text-#{$color}-700 underline relative;
       transition: color 0.5s, background-image 0.5s linear;
       &:hover {
-        @apply text-#{$color}-200 no-underline relative;
-        background-image: linear-gradient(to top, transparent, transparent 2px , theme('colors.#{$color}.300') 2px, theme('colors.#{$color}.300') 2.5px, transparent 2.5px);
+        @apply text-#{$color}-200 underline relative;
       }
     }
 	}
   .content-#{$color} .post blockquote {
-    @apply text-#{$color}-500;
+    @apply text-#{$color}-700;
   }
   .content-#{$color} a {
-    @apply text-#{$color}-500 no-underline relative;
-    background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.#{$color}.500') 2px, theme('colors.#{$color}.500') 2.5px, transparent 2.5px);
+    @apply text-#{$color}-700 underline relative;
     transition: color 0.5s, background-image 0.5s linear;
     &:hover {
-      @apply text-#{$color}-600 no-underline relative;
-      background-image: linear-gradient(to top, transparent, transparent 2px , theme('colors.#{$color}.600') 2px, theme('colors.#{$color}.500') 2.5px, transparent 2.5px);
+      @apply text-#{$color}-600 underline relative;
     }
   }
 }
 
 .link, .content a, .post a {
-  @apply text-accent-700 no-underline relative;
-  background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.accent.500') 2px, theme('colors.accent.500') 2.5px, transparent 2.5px);
+  @apply text-accent-700 underline relative;
   transition: color 0.5s, background-image 0.5s linear;
   &:hover {
-    @apply text-accent-600 no-underline relative;
-    background-image: linear-gradient(to top, transparent, transparent 2px
-    , theme('colors.accent.600') 2px, theme('colors.accent.600') 2.5px, transparent 2.5px);
+    @apply text-accent-600 underline relative;
   }
 }
 
@@ -176,7 +132,7 @@ hr {
     }
     @apply leading-snug text-accent-700  font-normal text-xl py-4;
     a {
-      background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.accent.200') 2px, theme('colors.accent.200') 2.5px, transparent 2.5px);
+      @apply underline;
     }
   }
 }
@@ -191,17 +147,15 @@ hr {
     }
     blockquote {
       a {
-        background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.accent.200') 2px, theme('colors.accent.200') 2.5px, transparent 2.5px);
       }
+      @apply underline;
     }
   }
   .link, .content a {
-    @apply text-accent-400 no-underline relative;
-    background-image: linear-gradient(to top, transparent, transparent 2px, theme('colors.accent.400') 2px, theme('colors.accent.400') 2.5px, transparent 2.5px);
+    @apply text-accent-400 underline relative;
     transition: color 0.5s, background-image 0.5s linear;
     &:hover {
-      @apply text-accent-600 no-underline relative;
-      background-image: linear-gradient(to top, transparent, transparent 2px , theme('colors.accent.300') 2px, theme('colors.accent.300') 2.5px, transparent 2.5px);
+      @apply text-accent-600 underline relative;
     }
   }
 }
@@ -240,3 +194,4 @@ hr {
   }
 }
 
+.medium-zoom-image--opened { object-fit: contain !important; }

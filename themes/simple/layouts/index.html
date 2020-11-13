@@ -1,5 +1,5 @@
 {{ define "main" }}
-  {{ $paginator := (.Paginate (.Site.RegularPages) 5) }}
+  {{ $paginator := (.Paginate (.Site.RegularPages) 6) }}
   {{ range $paginator.Pages }}
     {{ if and (eq .Type "posts") }}
       {{ partialCached "post" . .RelPermalink .Lang }}
@@ -7,5 +7,7 @@
       {{ partialCached "micropost" . .RelPermalink .Lang }}
     {{ end }}
   {{ end }}
+  <div class="font-sans">
   {{ template "_internal/pagination.html" . }}
+  </div>
 {{ end }}

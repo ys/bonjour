@@ -26,7 +26,7 @@ gear:
   - "📷 Fuji X-T20"
 place: "France"
 categories:
-  - vadrouilles
+  - stories
 resources:
   - src: "cover.jpg"
     name: "cover"

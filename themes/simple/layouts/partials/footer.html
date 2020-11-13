@@ -1,4 +1,4 @@
-<footer class="bg-gray-200 dark:bg-gray-700  w-full p-10 text-gray-700 dark:text-gray-400 font-mono font-light text-sm ">
+<footer class="bg-gray-200 dark:bg-gray-700  w-full p-10 text-gray-700 dark:text-gray-400 font-sans font-light text-sm ">
 
   <div class="w-full md:flex-row flex-col justify-around flex">
   <div class="md:w-1/3">
@@ -21,7 +21,7 @@
     {{ end }} {{ with .Site.Params.social.vsco }}
     <a class="block p-1" href="https://vsco.com/{{ . }}">📷 VSCO</a>
     {{ end }}
-    <a class="block" href="mailto:{{ $.Site.Params.social.email }}">✉️ {{ $.Site.Params.social.domain }}</a>
+    <a class="block p-1" href="mailto:{{ $.Site.Params.social.email }}">✉️ {{ $.Site.Params.social.domain }}</a>
     <span class="mt-2  font-bold block text-lg">Random</span>
     <a class="theme-switcher mr-2">💡 Switch theme</a>
   </div>

@@ -15,14 +15,14 @@
 </header>
 <div class="mb-10 content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
   {{ if .IsTranslated }} {{ range .Translations }}
-  <div class="font-mono text-sm italic font-light ">
+  <div class="font-sans text-sm italic font-light ">
     <a href="{{ .RelPermalink }}">{{ T "also_available" }} {{ .Language.LanguageName }}</a>
   </div>
   {{ end }} {{ end }}
   <div class="post">
     {{.Content}}
   </div>
-  <span class="text-sm font-mono dark:text-gray-500 text-gray-700 capitalize text-right block">
+  <span class="text-sm font-sans dark:text-gray-500 text-gray-700 capitalize text-right block">
     {{ .Params.emoji}} {{ range first 1 .Params.categories }}
     <a href="/{{ . }}">{{ . }}</a>
     {{ end }}

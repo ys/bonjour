@@ -19,7 +19,7 @@ tags:
   ]
 place: "France"
 categories:
-  - vadrouilles
+  - stories
 description: "Une petite plage à l’abris des gens et du vent, plus connue sous le nom de plage de Tahiti."
 resources:
   - src: "penn-al-lann-7.jpg"
