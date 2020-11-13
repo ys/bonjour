@@ -30,10 +30,6 @@ Il faut faire attention si celui-ci vous intéresse, Olympus en a sorti toute un
 
 {{< photo src="3.jpg" alt="beach xa" >}}
 	
-{{< photoset max="2" >}}
-  {{< photo src="5.jpg" alt="olympous xa example" >}}
-  {{< photo src="6.jpg" alt="olympous xa example" >}}
-{{</ photoset >}}
 
 Je ne suis pas le seul à apprécier cet appareil, [Matt Day](https://www.mattdayphoto.com) a une super review sur youtube de l'appareil que je vous conseille. Il a sur son instagram pas mal de photos au XA aussi, mais bon faut chercher, il mixe de tout. Vous pouvez toujours regarder [#olympusxa](https://www.instagram.com/explore/tags/olympusxa/). Si vous voulez un review un rien plus technique, allez chez [Ken Rockwell](https://www.kenrockwell.com/olympus/xa.htm). Ou un plus bel exemple sur le terrain à la réunion chez les [carnets de traverse](https://www.carnets-de-traverse.com/blog/photos-de-voyage-olympus-xa-la-reunion).
 
