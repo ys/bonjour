@@ -1,7 +1,7 @@
 ---
 title: "Olympus XA"
 subtitle: "Petit mais costaud"
-date: 2019-11-13T17:37:39+02:00
+date: 2020-11-13T17:37:39+02:00
 draft: false
 description: "Petite review totalement subjective de mon Olympus XA"
 tags:
