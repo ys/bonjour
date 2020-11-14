@@ -3,6 +3,7 @@ title: "Bonjour Olympus XA"
 subtitle: "Petit mais costaud"
 date: 2020-11-13T17:37:39+02:00
 draft: false
+slug: "olympus-xa"
 description: "Petite review totalement subjective de mon Olympus XA"
 tags:
   - analogique
