@@ -1,5 +1,5 @@
 ---
-title: "Olympus XA"
+title: "Bonjour Olympus XA"
 subtitle: "Petit mais costaud"
 date: 2020-11-13T17:37:39+02:00
 draft: false
@@ -35,7 +35,7 @@ Je ne suis pas le seul à apprécier cet appareil, [Matt Day](https://www.mattda
 
 {{< youtube w2-jlXUzEco >}}
 	
-C'est à mes yeux un super compagnon de voyages. Il se fait oublier totalement tant dans la poche que lors de la prise de vue. C'est un véritable atout pour moi qui aime partir avec un sac unique pour tout à la semaine, le gain de place est fou. Parfait si vous voulez garder la main sur les réglages mais avoir la taille d'un point and shoot. Mon premier coup de coeur photo de l'année. J'en ai eu d'autres dont je vous parlerai plus tard.
+C'est à mes yeux un super compagnon de voyages. Parfait appareil pour documenter sa vie et ces petits moments. Il se fait oublier totalement tant dans la poche que lors de la prise de vue. C'est un véritable atout pour moi qui aime partir avec un sac unique pour tout à la semaine, le gain de place est fou. Parfait si vous voulez garder la main sur les réglages mais avoir la taille d'un point and shoot. Mon premier coup de coeur photo de l'année. J'en ai eu d'autres dont je vous parlerai plus tard.
 	
 
 {{< photo src="4.jpg" alt="beach xa" >}}
