@@ -3,7 +3,7 @@
   <div class="mx-4 md:mx-0">
     <header class="pb-4 mb-4 ">
       <a alt="{{.Site.Title}} home"
-        class="font text-3xl font-normal w-2/3 logo block py-8 {{ with .Params.Color }}text-{{ . }}-700 {{ else }}text-accent-700 {{ end }} "
+        class="font text-3xl font-normal h-16 w-1/2 logo block pt-8 {{ with .Params.Color }}text-{{ . }}-700 {{ else }}text-gray-800 {{ end }} "
         href="{{ "/" | relLangURL }}">
         {{ if .Site.Params.hasLogo }}
         {{ readFile "/static/logo.svg" | safeHTML}}
