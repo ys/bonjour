@@ -15,7 +15,7 @@
   {{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
   {{/* set the sizes attribute to (min-width: 35em) 1200px, 100vw unless overridden in shortcode */}}
 
-    <picture class="m-1 flex-grow h-64 relative" style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover">
+    <picture class="m-2 flex-grow h-64 relative" style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover">
       <img
         loading="lazy"
         class="lazyload max-h-full min-h-full min-w-full w-auto block object-cover"
