@@ -18,8 +18,9 @@ Cela fait trois mois que je n'avais pas utilisé mon Fuji XT-3. Je l'ai donc rev
 J'ai investi dans un peu de matos argentique et je ne vais pas reprendre de numérique pour le moment. Un iPhone X suffira pour la partie numérique.
 
 Mon matos actuel:
+- Olympus XA 35mm f2.8
 - Leica m6 avec un Summarit-m 35mm f2.5
-- Nikonos V avec son 35mm f.2
+- Nikonos V avec son 35mm f2.0
 
 J'ai envie de faire des photos à l'eau d'où le "besoin" de ce Nikonos. J'en ai deux en fait mais un n'a pas encore toutes ses pièces et je compte les tester pour voir.
 Si tu te demandes à quoi cela ressemble, va voir [@meganshootsfilm](https://instagram.com/meganshootsfilm) ou cette [video](https://vimeo.com/123379414) de Brooks Sterling pour mieux comprendre.
