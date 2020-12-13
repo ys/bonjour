@@ -14,13 +14,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           resize_width: 3000
           resize_height: 3000
-      
-  build-optimize:
-    name: calibreapp/image-actions
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repo
-        uses: actions/checkout@master
       - name: Compress Images
         uses: calibreapp/image-actions@master
         with:
