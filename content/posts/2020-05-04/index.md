@@ -19,9 +19,10 @@ Dimanche lecture et inspiration. Je viens de recevoir un livre inspirant à souh
 
 J'avais envie d'en partager trois qui m'ont vraiment plus ces derniers temps. Ce ne sont pas des romans mais bien des livres à laisser trainer sur une table basse, à feuilleter quand l'envie vous en prend. Entre magnifiques photos, textes inspirants et autres ressources, ces livres nous permettent de nous échapper. C'est plutôt bienvenu durant cette quarantaine.
 
-## FForest
-
-### Being, doing and making in nature
+<div class="flex flex-col items-start">
+<h2 class="flex-none">FForest</h2>
+<h3 class="flex-none">Being, doing and making in nature</h3>
+</div>
 
 Je vous ai déjà parlé brièvement de [Fforest](https://coldatnight.co.uk), lors du post sur les mandalas. Ce lieu de retraite en Angleterre que nous n'avons jamais visité nous inspire.
 
@@ -31,9 +32,10 @@ Dans ce livre, ils célèbrent le temps passé dans la nature. Que ce soit en fo
 
 [Lien du livre](https://fforest.bigcartel.com/product/fforest-being-doing-making-in-nature)
 
-## Farmlife
-
-### From farm to table and new country culture
+<div class="flex flex-col items-start">
+<h2 class="flex-none">Farmlife</h2>
+<h3 class="flex-none">From farm to table and new country culture</h3>
+</div>
 
 Gestalten fait partie de ces maisons d'éditions qui sort livre sur livre que je pourrais laisser trainer chez moi.
 
@@ -43,9 +45,11 @@ Celui-ci parle de ces nouveaux cultivateurs. Cette génération qui m'inspire ta
 
 [Lien du livre](https://gestalten.com/products/farmlife)
 
-## The new traditional
+<div class="flex flex-col items-start">
+<h2 class="flex-none">The new traditional</h2>
+<h3 class="flex-none">Heritage, craftmanship, and local identity</h3>
+</div>
 
-### Heritage, craftmanship, and local identity
 
 Cette dernière recommandation du jour est aussi la plus récente addition dans ma bibliothèque. Encore une pépite éditée par Gestalten en collaboration avec [Beside](https://beside.media). Si vous ne connaissez pas Beside, c'est en gros un des meilleurs magazines papier et en ligne pour moi. Du moins, il est 100% aligné avec ma vision de la reconnection de l'homme et la nature. Un abonnement que j'attend avec impatience et un flux RSS que je dévore.
 

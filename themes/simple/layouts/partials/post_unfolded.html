@@ -19,8 +19,10 @@
     </h2>
     {{ end }}
   </header>
-  <div class="content">
-    {{ .Content }}
+  <div class=" content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
+    <div class="post">
+      {{ .Content }}
+    </div>
   </div>
   <div class="font-sans capitalize text-sm text-gray-700 dark:text-gray-500 text-right">
     {{ .Params.emoji}} {{ range first 1 .Params.categories }}
