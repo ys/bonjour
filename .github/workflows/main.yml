@@ -1,8 +1,7 @@
 name: Compress images
 on: pull_request
 jobs:
-  build-tinify:
-    name: namoscato/tinify
+  process_images:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repo
