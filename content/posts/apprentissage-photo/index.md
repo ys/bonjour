@@ -29,7 +29,7 @@ J'avais regardé [son workshop chez Wildist](https://www.wildist.co/product/the-
 
 ## Workshop photo de Joe Greer
 
-{{< photo src="joe.jpg" alt="joe" >}}
+{{< photo src="ioe.jpg" alt="joe" >}}
 
 Je suis en train de regarder le [workshop Storytelling de Joe Greer](https://moment.8ocm68.net/rkjWR) produit par Moment. Ce n'est pas un workshop technique, mais on suit Joe dans un road trip et il explique son approche de la photo, sa façon de raconter des histoires en photos. Si vous ne connaissez pas Joe Greer, Il vit aux Etats-Unis, shoote principalement à l'argentique. Il est une des raisons pour lesquelles je voulais tant un Leica. Beaucoup d'autres raisons aussi j'avoue. Je le suis depuis un moment et c'est juste fabuleux. Son [Instagram](https://www.instagram.com/ioegreer/) est une vraie mine.  Sa façon de shooter la vie quotidienne est vraiment super inspirante. Je vous conseille ce workshop! Enfin, je me répète. Je ne vois pas pourquoi je mettrais une recommandation que je ne recommende pas.
 
