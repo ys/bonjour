@@ -41,4 +41,4 @@ Enfin, un workshop technique sur l'argentique. [Son workshop](https://moment.8oc
 
 Voilà, c'est tout pour cette fois. Trois recommendations, une purement sur le storytelling, un mix et une pure sur la technique argentique. De quoi vous satisfaire tous. En photo, comme partout, il n'y a pas de destination, juste un voyage. Nous sommes faits pour apprendre toute notre vie qu'on le veuille ou non. Donc autant le vouloir!
 
-*Les liens moments sont sponsorisés.*
+*Ce post contient des liens sponsorisés.*
