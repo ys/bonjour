@@ -4,8 +4,9 @@ jobs:
   process_images:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@master
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
       - name: Tinify Images
         uses: namoscato/action-tinify@v1
         with:
