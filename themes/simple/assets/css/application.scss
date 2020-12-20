@@ -106,21 +106,21 @@ hr {
     content: "• ";
   }
   h3 {
-    @apply mt-4 text-gray-900 uppercase font-normal py-1 px-2 inline;
+    @apply mt-8 text-gray-900 uppercase font-normal py-1 px-2 inline;
   }
 
   h1 {
     @apply mt-4 font-bold block;
   }
   h2 {
-    @apply mt-4 text-gray-900 py-1 px-2 font-bold inline;
+    @apply mt-8 text-gray-900 py-1 px-2 font-bold inline;
 
     a {
       @apply text-gray-900;
     }
   }
   h2 + p {
-    @apply mt-4;
+    @apply mt-8;
   }
   ul {
    @apply list-inside my-4
@@ -133,7 +133,7 @@ hr {
     @apply inline my-0
   }
   p {
-    @apply my-4
+    @apply my-6
   }
   blockquote {
     @screen md {

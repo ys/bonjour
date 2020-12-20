@@ -5,6 +5,8 @@ summary: "Profiter d'une journée en van pour aller se poser sur un des spots my
 date: 2020-09-23T22:57:50+02:00
 draft: false
 slug: "/surf-torche"
+camera: "Olympus XA"
+film: "Kodak Gold 200"
 categories:
   - vadrouilles
 place: "la Torche"

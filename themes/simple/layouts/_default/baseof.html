@@ -10,7 +10,7 @@
     {{ template "_internal/twitter_cards.html" . }}
     {{ partial "seo" . }}
   </head>
-  <body class="antialiased font-sans leading-relaxed font-light text-normal text-gray-700 dark:text-gray-100 {{ with .Params.color }}bg-{{ . }}-100{{ end }} dark:bg-darker">
+  <body class="antialiased font-sans leading-relaxed font-light text-normal text-darker dark:text-gray-100 {{ with .Params.color }}bg-{{ . }}-100{{ end }} dark:bg-darker">
     {{ partial "header" . }}
     <div class="container w-screen md:max-w-xl lg:max-w-xl mx-auto min-h-1/2">
       <div class="mx-4 md:mx-0">
