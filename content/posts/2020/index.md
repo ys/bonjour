@@ -35,7 +35,7 @@ Le mois de mars sera pour beaucoup le mois du confinement. Nous, c'était un moi
 On profitera du déconfinement pour échanger le California pour un fourgon un peu plus gros, Merci les Mignard! [On le rodera en partant vers les Vosges](https://yannickschutz.com/un-ete-en-36-poses/). Elles deviendront un running gag quotidien. On s'avance vers elles mais on ne les rejoindra jamais. On se balade en Champagne au final. C'est bien aussi, le Lac du Der est une chouette découverte, on dort à côté des caves et on remplit le coffre. On ira même voir le village de ce bon vieux général de Gaulle. On ne montera pas voir la croix de Lorraine. Car il faut payer pour se balader à ses pieds, la nature à assez à offrir sans cela. On adore ce nouveau van, on est plus à l'aise tous les 4 et le chien dedans. On rentre en passant par la Loire, encore une histoire de vin. Un bon Bourgueil bio qu'on a déjà liquidé. On revient en bord de mer, elle nous a manqué. On se rend compte que ce Finistère, on l'a bien adopté. Il nous gagne et on l'adore. On aura la visite de la famille et de quelques amis sur l'été. On partagera notre amour de notre nouveau chez nous avec eux. Cela ne fait que renforcer cette connection avec cette Finis terra. 
 
 
-{{< photo src="cover.jpg" alt="la mer" >}}
+{{< photo src="cover" alt="la mer" >}}
 
 ## Homme libre toujours tu cheriras la mer
 
