@@ -30,8 +30,8 @@
       {{ end }}
     {{ else }}
     {{ .Params.emoji}} {{ range first 1 .Params.categories }}
+      <a href="/{{ . }}">{{ . }}</a>
     {{ end }}
-    <a href="/{{ . }}">{{ . }}</a>
     {{ end }}
     {{ .Site.Params.arrow }} {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
   </span>
