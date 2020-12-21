@@ -22,7 +22,7 @@ resources:
 {{< photo src="IMG_5014.jpg" alt="ios de nouvel an" >}}
 {{</ photoset >}}
 
-Elle a commencé par une petite baignade du 1er janvier avec des amis. Elle a aussi commencé sans mon fidèle compagnon de début d'année qui était en réparation. Donc j'ai passé un début d'année sans appareil numérique. Elle a d'ailleurs surtout commencée par [un mois de disette numérique](https://yannickschutz.com/un-mois-de-disette/), ce qui veut dire que mon téléphone était principalement un appareil photo. Ce changement assurera le rythme de l'année, une année plus calme, proche de la terre et ralentie. Beaucoup de questions, quelques réponses. 
+Elle a commencé par une petite baignade du 1er janvier avec des amis. Elle a aussi commencé sans mon fidèle compagnon de début d'année qui était en réparation. Donc j'ai passé un début d'année sans appareil numérique. Elle a d'ailleurs surtout commencée par [un mois de disette numérique](https://yannickschutz.com/un-mois-de-disette/), ce qui veut dire que mon téléphone était principalement un appareil photo. Ce changement assurera le rythme de l'année, une année plus calme, proche de la terre et ralentie. Beaucoup de questions, quelques réponses. Un autre gros changement aussi juste avant la naissance de Louise, j'ai enfin réussi mon permis de conduire, tut tut.
 
 ## Rencontre et confinement
 
@@ -32,11 +32,17 @@ Le mois de mars sera pour beaucoup le mois du confinement. Nous, c'était un moi
 
 ## Un été en van
 
-On profitera du déconfinement pour échanger le California pour un fourgon un peu plus gros, Merci les Mignard! [On le rodera en partant vers les Vosges](https://yannickschutz.com/un-ete-en-36-poses/). Elles deviendront un running gag quotidien. On s'avance vers elles mais on ne les rejoindra jamais. On se balade en Champagne au final. C'est bien aussi, le Lac du Der est une chouette découverte, on dort à côté des caves et on remplit le coffre. On ira même voir le village de ce bon vieux général de Gaulle. On ne montera pas voir la croix de Lorraine. Car il faut payer pour se balader à ses pieds, la nature à assez à offrir sans cela. On adore ce nouveau van, on est plus à l'aise tous les 4 et le chien dedans. On rentre en passant par la Loire, encore une histoire de vin. Un bon Bourgueil bio qu'on a déjà liquidé. On revient en bord de mer, elle nous a manqué. On se rend compte que ce Finistère, on l'a bien adopté. Il nous gagne et on l'adore. On aura la visite de la famille et de quelques amis sur l'été. On leur fera partager notre amour de notre nouveau chez nous. Cela ne fait que renforcer cette connection avec cette Finis terra. 
+On profitera du déconfinement pour échanger le California pour un fourgon un peu plus gros, Merci les Mignard! [On le rodera en partant vers les Vosges](https://yannickschutz.com/un-ete-en-36-poses/). Elles deviendront un running gag quotidien. On s'avance vers elles mais on ne les rejoindra jamais. On se balade en Champagne au final. C'est bien aussi, le Lac du Der est une chouette découverte, on dort à côté des caves et on remplit le coffre. On ira même voir le village de ce bon vieux général de Gaulle. On ne montera pas voir la croix de Lorraine. Car il faut payer pour se balader à ses pieds, la nature à assez à offrir sans cela. On adore ce nouveau van, on est plus à l'aise tous les 4 et le chien dedans. On rentre en passant par la Loire, encore une histoire de vin. Un bon Bourgueil bio qu'on a déjà liquidé. On revient en bord de mer, elle nous a manqué. On se rend compte que ce Finistère, on l'a bien adopté. Il nous gagne et on l'adore. On aura la visite de la famille et de quelques amis sur l'été. On partagera notre amour de notre nouveau chez nous avec eux. Cela ne fait que renforcer cette connection avec cette Finis terra. 
+
+
+{{< photo src="cover.jpg" alt="la mer" >}}
 
 ## Homme libre toujours tu cheriras la mer
 
 En juin, avec Tom [on commence le surf](https://yannickschutz.com/se-mettre-a-l-eau/). Finalement! On adore, un vrai moment père fils. Même si en fait on ne se voit quasi pas durant les leçons. On reprendra à l'automne. L'été passe trop vite, pas le temps de prendre une leçon. On est pas encore reconfiné alors on en profite. Chaque week-end, à l'eau. On progresse, je tiens debout, je commence à tourner. JB et Jean-Phi de l'[école de surf du Léon](https://www.ecole-surf-leon.com) y sont pour beaucoup, merci les gars. Je m'entraîne à mieux me lever, je lis, je regarde. J'ai une planche en vue. Deux combis. Je craque pour un Nikonos. Je demande de l'aide à [Greg](https://gregorymignard.com) pour me sentir plus à l'aise dans l'eau. Hâte de reprendre tout cela où je l'ai laissé. L'océan est vraiment ma révélation du Finistère et de l'année. Une sacrée connection.
+
+
+{{< photo src="surf.jpg" alt="surf" >}}
 
 ## Fin du numérique
 
@@ -45,6 +51,16 @@ Avoir été sans le X-T3 au début d'année m'a fait me questionner beaucoup sur
 ## Début du projet
 
 Si on a bougé dans le Finistère, c'est aussi parce qu'on avait un projet. Qui se peaufine petit à petit. La seconde moitié de 2020 a été aussi le moment où tout est devenu réel. Nous sommes passés devant le notaire pour l'achat d'un terrain d'un hectare qui pourra accueillir nos deux projets. Un projet d'éco cabane et de ferme de fleurs dans les monts d'Arrée. On vous en dira plus l'an prochain. Mais vous pouvez déjà suivre et comprendre ce qui se passe en vous abonnant au [compte instagram de Ty Lucie](https://instagram.com/ty.lucie).
+
+
+{{< photo src="12.jpg" alt="potager" >}}
+
+{{< photoset max="2">}}
+{{< photo src="11.jpg" alt="potager" >}}
+{{< photo src="13.jpg" alt="potager" >}}
+{{</ photoset >}}
+
+
 
 ## Ensuite
 
