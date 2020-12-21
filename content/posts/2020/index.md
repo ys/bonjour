@@ -7,6 +7,7 @@ tags: []
 categories:
 - journal
 slug: "2020"
+color: sunray
 emoji: "😷"
 resources:
 - src: "*.jpg"
@@ -51,9 +52,6 @@ Avoir été sans le X-T3 au début d'année m'a fait me questionner beaucoup sur
 ## Début du projet
 
 Si on a bougé dans le Finistère, c'est aussi parce qu'on avait un projet. Qui se peaufine petit à petit. La seconde moitié de 2020 a été aussi le moment où tout est devenu réel. Nous sommes passés devant le notaire pour l'achat d'un terrain d'un hectare qui pourra accueillir nos deux projets. Un projet d'éco cabane et de ferme de fleurs dans les monts d'Arrée. On vous en dira plus l'an prochain. Mais vous pouvez déjà suivre et comprendre ce qui se passe en vous abonnant au [compte instagram de Ty Lucie](https://instagram.com/ty.lucie).
-
-
-{{< photo src="12.jpg" alt="potager" >}}
 
 {{< photoset max="2">}}
 {{< photo src="11.jpg" alt="potager" >}}
