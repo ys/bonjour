@@ -1,6 +1,6 @@
 ---
 title: "Ah 2020"
-subtitle: ""
+subtitle: "Port du masque requis"
 date: 2020-12-21T14:24:02+01:00
 draft: false
 tags: []
@@ -14,13 +14,19 @@ resources:
   name: "cover"
 ---
 
-## Port du masque requis
-
 2020, quelle année! J'ai commencé une rétro un peu sur [ma petite lettre #7](https://tinyletter.com/bonjouryannick/letters/bonjour-7). Chaque année, j'aime revenir sur mon année, que ce soit ici ou dans un carnet. Puis revenir sur mon année en photos pour en faire un joli bouquin pour la bibliothèque. Cette année est assez particulière, il faut bien l'avouer. 
 
-Elle a commencée sans mon fidèle compagnon de début d'année qui était en réparation. Donc j'ai passé un début d'année sans appareil numérique. Elle a d'ailleurs surtout commencée par [un mois de disette numérique](https://yannickschutz.com/un-mois-de-disette/), ce qui veut dire que mon téléphone était principalement un appareil photo. Ce changement assurera le rythme de l'année, une année plus calme, proche de la terre et ralentie. Beaucoup de questions, quelques réponses. 
+
+{{< photoset max="2">}}
+{{< photo src="IMG_5006.jpg" alt="ios de nouvel an" >}}
+{{< photo src="IMG_5014.jpg" alt="ios de nouvel an" >}}
+{{</ photoset >}}
+
+Elle a commencé par une petite baignade du 1er janvier avec des amis. Elle a aussi commencé sans mon fidèle compagnon de début d'année qui était en réparation. Donc j'ai passé un début d'année sans appareil numérique. Elle a d'ailleurs surtout commencée par [un mois de disette numérique](https://yannickschutz.com/un-mois-de-disette/), ce qui veut dire que mon téléphone était principalement un appareil photo. Ce changement assurera le rythme de l'année, une année plus calme, proche de la terre et ralentie. Beaucoup de questions, quelques réponses. 
 
 ## Rencontre et confinement
+
+{{< photo src="DSCF3347.jpg" alt="pied louise" >}}
 
 Le mois de mars sera pour beaucoup le mois du confinement. Nous, c'était un mois magique. On sort de la maternité le 2 mars et l'on se retrouve vite confiné à 4. On a de la chance, notre maison a un beau jardin comme vous avez sans doute déjà vu. On y passera pas mal de temps. On fera des tours de jardin en poussette pour faire dormir Louise et profiter du soleil. On installe enfin une serre sur le terrain et on se laisse vivre. J'ai eu la chance d'avoir un congé paternité de 4 mois sur l'année. Tom reçoit ses leçons par e-mail et on a des jeux et [défis à réaliser](https://yannickschutz.com/mandala-du-dimanche/). On essayera de planter avec Tom, mais c'est surtout ce que Cloé plantera qui réussira.
 
