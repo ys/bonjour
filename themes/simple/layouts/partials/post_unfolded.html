@@ -6,7 +6,7 @@
         {{ .Title }}
       </a>
     </h2>
-    <h3 class="text-gray-600">
+    <h3 class="text-gray-600 dark:text-gray-300">
       {{ with .Params.subtitle }}
       {{ . }}
       {{ end }}
@@ -24,7 +24,7 @@
       {{ .Content }}
     </div>
   </div>
-  <div class="font-sans capitalize text-sm text-gray-700 dark:text-gray-500 md:text-right">
+  <div class="font-sans capitalize text-sm text-gray-700 dark:text-gray-300 md:text-right">
     {{ .Params.emoji}} {{ range first 1 .Params.categories }}
     <a href="/{{ . }}">{{ . }}</a>
     {{ end }}

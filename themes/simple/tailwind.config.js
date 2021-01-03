@@ -1,12 +1,8 @@
 const defaultTheme = require("tailwindcss/defaultTheme");
 
 module.exports = {
-  plugins: [require("tailwindcss-dark-mode")(),require('@tailwindcss/typography'),],
-  variants: {
-    backgroundColor: ['dark', 'dark-hover', 'dark-group-hover'],
-    borderColor: ['dark', 'dark-focus', 'dark-focus-within'],
-    textColor: ['dark', 'dark-hover', 'dark-active']
-  },
+  darkMode: "media",
+  plugins: [require('@tailwindcss/typography'),],
   theme: {
      minHeight: {
        '1/2': '50%'
@@ -19,6 +15,17 @@ module.exports = {
     },
     extend: {
       colors: {
+        teal: {
+          100: '#e6fffa',
+          200: '#b2f5ea',
+          300: '#81e6d9',
+          400: '#4fd1c5',
+          500: '#38b2ac',
+          600: '#319795',
+          700: '#2c7a7b',
+          800: '#285e61',
+          900: '#234e52',
+        },
         sunray: {
           100: '#FDF8EE',
           200: '#FBECD5',

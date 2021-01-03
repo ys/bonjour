@@ -21,7 +21,6 @@ disableKinds = ["taxonomyTerm"]
   hasLogo = true
   emoji = "🌊"
   arrow = "✧"
-  footer = "48°24'41.2\"N 3°46'15.2\"W"
 [params.font]
   default = true
   url = "https://use.typekit.net/mke5doh.css"
@@ -74,12 +73,6 @@ disableKinds = ["taxonomyTerm"]
     weight = 2
     languageName = "English"
     [[languages.en.menu.main]]
-      name = "Wanders"
-      title = "Stories"
-      weight = 2
-      identifier = "stories"
-      url = "/en/stories/"
-    [[languages.en.menu.main]]
       name = "Journal"
       title = "Journal"
       weight = 1
@@ -94,12 +87,6 @@ disableKinds = ["taxonomyTerm"]
   [languages.fr]
     weight = 1
     languageName = "Français"
-    [[menu.main]]
-      name = "Stories"
-      title = "Stories"
-      weight = 2
-      identifier = "stories"
-      url = "/stories/"
     [[menu.main]]
       name = "Journal"
       title = "Journal"
@@ -118,11 +105,5 @@ disableKinds = ["taxonomyTerm"]
       weight = 8
       url = "/now/"
 
-    [[menu.main]]
-      name = "A propos"
-      title = "About me"
-      weight = 9
-      identifier = "about"
-      url = "/about/"
 [markup.goldmark.renderer]
 unsafe= true
