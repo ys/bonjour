@@ -6,10 +6,15 @@ module.exports = {
       content: [
         themeDir + "../../public/**/*.html"
       ],
-      whitelistPatternsChildren: [
-       /mode-dark/,
-        /post/
-      ]
+      options: {
+        safelist: [
+          /content-/,
+          /post/,
+          /photoset/,
+          /always/,
+          /max/
+        ]
+      }
     }),
     require("tailwindcss")(themeDir + "tailwind.config.js"),
     require("autoprefixer")
