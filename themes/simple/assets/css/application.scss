@@ -49,7 +49,7 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, sunray;
 }
 
 .link, .content a, .post a {
-  @apply text-accent-700 underline relative;
+  @apply text-accent-600 underline relative;
   transition: color 0.5s, background-image 0.5s linear;
   &:hover {
     @apply text-accent-600 underline relative;
@@ -58,7 +58,7 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, sunray;
 
 .micropost {
   blockquote {
-    @apply leading-snug text-accent-700  font-bold font-normal;
+    @apply leading-snug text-accent-600  font-bold font-normal;
   }
 }
 
@@ -124,7 +124,7 @@ hr {
     @screen md {
       @apply -mx-8;
     }
-    @apply leading-snug text-accent-700  font-normal text-xl py-4;
+    @apply leading-snug text-accent-600  font-normal text-xl py-4;
     a {
       @apply underline;
     }
