@@ -15,9 +15,6 @@ resources:
   name: "cover"
 ---
 
-**Extrait de mon journal papier**
-
-
 {{< photo large="please" src="1.jpg" alt="moi" >}}
 
 On a commencé l'année d'une belle manière avec Grégory. Rendez-vous 8h au Dossen qu'on s'était dit. On ressort la combi 5/4 qui n'a pas encore eu le temps de bien servir avec le confinement. Première Dawn Patrol pour moi, première nage avec des palmes, premier roll au Nikonos V. C'était une Portra 400, de chez Kodak. Comme si il fallait vraiment le préciser. On verra si j'ai réussi quoi que ce soit. Il fallait le tester, je ne savais même pas si il tiendrait le coup dans l'eau. La pellicule en est resortie intacte et non humide
@@ -36,3 +33,4 @@ Ah oui, j'oubliais, il faut encore une fois du courage. Quand tu enlèves ta com
 
 Pour le résultat du Nikonos, faudra attendre encore un peu. Je viens d'envoyer le film à développer. L'attente est dure mais vaudra je l'espère le coup. Le début d'une belle série.
 
+*Ce post est extrait de mon journal papier*
