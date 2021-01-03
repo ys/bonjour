@@ -6,12 +6,12 @@ module.exports = {
       content: [
         themeDir + "../../public/**/*.html"
       ],
-      safelistPatternsChildren: [
+      safelist: [
        /mode-dark/,
        /post/,
        /photoset/,
-        /always/,
-        /max/
+       /always/,
+       /max/
       ]
     }),
     require("tailwindcss")(themeDir + "tailwind.config.js"),
