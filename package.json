@@ -18,8 +18,8 @@
   "license": "MIT",
   "dependencies": {
     "@fullhuman/postcss-purgecss": "^1.3.0",
-    "@tailwindcss/typography": "^0.2.0",
-    "autoprefixer": "^9.7.3",
+    "@tailwindcss/typography": "^0.3.1",
+    "autoprefixer": "^10.1.0",
     "babel": "^6.23.0",
     "babel-core": "^6.26.3",
     "babel-plugin-syntax-object-rest-spread": "^6.13.0",
@@ -35,12 +35,11 @@
     "imagemin-mozjpeg": "^8.0.0",
     "netlify-cli": "^2.25.0",
     "now": "^19.0.0",
-    "postcss": "^7.0.25",
-    "postcss-cli": "^6.1.3",
+    "postcss": "^8.2.2",
+    "postcss-cli": "^8.3.1",
     "tailwind": "^4.0.0",
-    "tailwindcss": "^1.1.4",
+    "tailwindcss": "^2.0.2",
     "tailwindcss-dark-mode": "^1.1.1",
     "vercel": "^20.1.2"
-  },
-  "devDependencies": {}
+  }
 }
