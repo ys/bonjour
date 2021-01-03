@@ -162,7 +162,7 @@ hr {
   @apply p-2
 }
 .pagination li.active {
-  @apply bg-gray-200 rounded px-4 py-2 text-sm
+  @apply bg-gray-200 dark:text-gray-900 rounded px-4 py-2 text-sm
 }
 .mode-dark .pagination li.active {
   @apply bg-dark rounded px-4 py-2 text-sm
