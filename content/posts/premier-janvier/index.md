@@ -33,4 +33,4 @@ Ah oui, j'oubliais, il faut encore une fois du courage. Quand tu enlèves ta com
 
 Pour le résultat du Nikonos, faudra attendre encore un peu. Je viens d'envoyer le film à développer. L'attente est dure mais vaudra je l'espère le coup. Le début d'une belle série.
 
-*Ce post est extrait de mon journal papier*
+*Ce post est extrait de mon journal papier & les photos sont de [Grégory](https://gregorymignard.com)*
