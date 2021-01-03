@@ -10,7 +10,7 @@
     "gulp": "gulp",
     "build-images": "gulp img:build",
     "debug": "rm -rf public/* resources/_gen && hugo --templateMetrics --templateMetricsHints",
-    "dev": "hugo serve -p $PORT",
+    "dev": "hugo serve --disableFastRender -p $PORT",
     "start": "hugo serve --disableFastRender --appendPort=false -b $(curl http://127.0.0.1:4040/api/tunnels | jq '.tunnels[0].public_url' -r)",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -39,7 +39,6 @@
     "postcss-cli": "^8.3.1",
     "tailwind": "^4.0.0",
     "tailwindcss": "^2.0.2",
-    "tailwindcss-dark-mode": "^1.1.1",
-    "vercel": "^20.1.2"
+    "vercel": "^21.0.1"
   }
 }

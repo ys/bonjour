@@ -30,35 +30,20 @@ html {
 
 $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, sunray;
 @each $color in $colors {
-  .mode-dark {
-    .content-#{$color} .post h2 , .content-#{$color} .post h3 {
-      @apply bg-#{$color}-200;
-      a {
-        @apply text-gray-100;
-      }
-    }
-    .content-#{$color} .post a {
-      @apply text-#{$color}-200 underline relative;
-      transition: color 0.5s, background-image 0.5s linear;
-      &:hover {
-        @apply text-#{$color}-200 underline relative;
-      }
-    }
-	}
   .content-#{$color} .post blockquote {
-    @apply text-#{$color}-700;
+    @apply text-#{$color}-600 dark:text-#{$color}-200;
   }
   .content-#{$color} .post a{
-    @apply text-#{$color}-700 underline relative;
+    @apply text-#{$color}-600 dark:text-#{$color}-200 underline relative;
     transition: color 0.5s, background-image 0.5s linear;
     &:hover {
-      @apply text-#{$color}-600 underline relative;
+      @apply text-#{$color}-600 dark:text-#{$color}-200 underline relative;
     }
   }
   .content-#{$color} .post h2, .content-#{$color} .post h3 {
-    @apply bg-#{$color}-200;
+    @apply bg-#{$color}-200 dark:bg-#{$color}-600;
     a {
-      @apply text-gray-900;
+      @apply text-gray-900 dark:text-gray-100;
     }
   }
 }
@@ -146,26 +131,24 @@ hr {
   }
 }
 
-.mode-dark {
-  .post, .content {
-    h2, h3, h1, h4 {
-      @apply text-gray-100;
-    }
-    .medium-zoom-overlay {
-      @apply bg-dark;
-    }
-    blockquote {
-      a {
-      }
-      @apply underline;
-    }
+.post, .content {
+  h2, h3, h1, h4 {
+    @apply dark:text-gray-100;
   }
-  .link, .content a {
-    @apply text-accent-400 underline relative;
-    transition: color 0.5s, background-image 0.5s linear;
-    &:hover {
-      @apply text-accent-600 underline relative;
+  .medium-zoom-overlay {
+    @apply dark:bg-dark;
+  }
+  blockquote {
+    a {
     }
+    @apply underline;
+  }
+}
+.link, .content a {
+  @apply dark:text-accent-400 underline relative;
+  transition: color 0.5s, background-image 0.5s linear;
+  &:hover {
+    @apply dark:text-accent-500 underline relative;
   }
 }
 
