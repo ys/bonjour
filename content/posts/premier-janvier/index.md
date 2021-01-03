@@ -34,3 +34,5 @@ Clairement, un moment que j'attendais depuis un bon bout de temps. Quoi de plus 
 
 Ah oui, j'oubliais, il faut encore une fois du courage. Quand tu enlèves ta combi, que tu as la peau humide et que l'air est toujours sous zéro. J'avais prévu un coup de boost, un thermo de café bien chaud m'attendait. Le poncho aussi était indispensable à ce moment-là.
 
+Pour le résultat du Nikonos, faudra attendre encore un peu. Je viens d'envoyer le film à développer. L'attente est dure mais vaudra je l'espère le coup. Le début d'une belle série.
+
