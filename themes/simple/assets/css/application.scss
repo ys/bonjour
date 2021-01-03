@@ -32,13 +32,13 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, sunray;
 @each $color in $colors {
   .mode-dark {
     .content-#{$color} .post h2 , .content-#{$color} .post h3 {
-      @apply bg-#{$color}-700;
+      @apply bg-#{$color}-200;
       a {
         @apply text-gray-100;
       }
     }
     .content-#{$color} .post a {
-      @apply text-#{$color}-700 underline relative;
+      @apply text-#{$color}-200 underline relative;
       transition: color 0.5s, background-image 0.5s linear;
       &:hover {
         @apply text-#{$color}-200 underline relative;
