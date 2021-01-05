@@ -1,6 +1,8 @@
 <div>
-  <div class="micropost content text-small">
-    {{ .Content }}
+  <div class="content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
+    <div class="micropost post text-small">
+      {{ .Content }}
+    </div>
   </div>
   <div class="font-sans capitalize text-sm text-gray-700 dark:text-gray-500 text-right">
     <a href={{ .RelPermalink }}>

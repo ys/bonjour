@@ -1,12 +1,12 @@
 ---
-title: Sequence 0005
+title: 0005
 date: 2020-03-19 07:27:33 +0200
 resources:
   - src: "*.jpg"
 ---
 {{< photo src="cover.jpg" alt="couche" >}}
 
-# Confinement jour 4
+## Confinement jour 4
 
 Tout le monde reste chez soi, on endigue la propagation du virus. Mais en même temps, on se pose plein de questions, on se demande quoi faire, comment tirer profit de ce temps retrouvé.
 
