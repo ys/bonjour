@@ -1,11 +1,15 @@
-<div>
-  <div class="content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
-    <div class="micropost post text-small">
-      {{ .Content }}
-    </div>
+{{ define "main" }}
+<div class="mb-10 content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
+  {{ if .IsTranslated }} {{ range .Translations }}
+  <div class="pt-6 font-sans text-sm font-light ">
+    <a href="{{ .RelPermalink }}">{{ T "also_available" }} {{ .Language.LanguageName }}</a>
   </div>
-  <div class="font-sans capitalize text-sm text-gray-700 dark:text-gray-500 text-right">
-    <a href={{ .RelPermalink }}>
+  {{ end }} {{ end }}
+  <div class="note post text-small">
+    {{ .Content }}
+  </div>
+</div>
+  <div class="font-sans capitalize text-sm text-gray-700 dark:text-gray-500 text-right mb-10">
     {{ with .Params.emoji }}
       {{ . }}
     {{ else }}
@@ -16,7 +20,5 @@
     {{ .Title }}
     {{ .Site.Params.arrow }}
     {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }} {{ .Date.Hour }}:{{ .Date.Minute }}
-    </a>
-  </div>
 </div>
-<hr />
+{{ end }}

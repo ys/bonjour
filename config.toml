@@ -12,7 +12,7 @@ disableKinds = ["taxonomyTerm"]
 [params]
   text_404 = "Perdu? Cliquez sur la vague"
   unfolded_category = "journal"
-  mainSections = [ "posts", "microposts" ]
+  mainSections = [ "posts" ]
   sizes = [ "2048" , "1024" , "512" ]
   baseline = "n.m. (de bon et jour) - salutation dont on se sert pendant la journée quand on aborde quelqu'un"
   description = "J'aime bien notre planète et j'raconte des histoires. Les gens diraient que je suis plutôt chouette."
@@ -60,7 +60,7 @@ disableKinds = ["taxonomyTerm"]
 [permalinks]
   posts = "/:slug"
   categories = "/:slug"
-  microposts = "/:year-:month-:day"
+  notes = "/notes/:year-:month-:day"
 
 [imaging]
   resampleFilter = "lanczos"
