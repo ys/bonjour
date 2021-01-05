@@ -88,11 +88,17 @@ disableKinds = ["taxonomyTerm"]
     weight = 1
     languageName = "Français"
     [[menu.main]]
-      name = "Journal"
-      title = "Journal"
+      name = "🏠"
+      title = "🏠"
       weight = 1
       identifier = "journal"
       url = "/"
+    [[menu.main]]
+      name = "Notes"
+      title = "Notes"
+      weight = 2
+      identifier = "notes"
+      url = "/notes"
     [[menu.main]]
       name = "Bonjour, la lettre"
       title = "Bonjour, la lettre"
