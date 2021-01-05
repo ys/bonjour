@@ -1,13 +1,14 @@
 {{ define "main" }}
-  {{ $paginator := (.Paginate (.Site.RegularPages) 6) }}
-  {{ range $paginator.Pages }}
-    {{ if and (eq .Type "posts") }}
-      {{ partialCached "post" . .RelPermalink .Lang }}
-    {{ else if eq .Type "microposts" }}
-      {{ partialCached "micropost" . .RelPermalink .Lang }}
-    {{ end }}
-  {{ end }}
-  <div class="font-sans">
+{{ $paginator := (.Paginate (where .Site.Pages "Type" "posts") 6) }}
+
+{{ range $paginator.Pages }}
+{{ if and (eq .Type "posts") }}
+{{ partialCached "post" . .RelPermalink .Lang }}
+{{ else if eq .Type "microposts" }}
+{{ partialCached "micropost" . .RelPermalink .Lang }}
+{{ end }}
+{{ end }}
+<div class="font-sans">
   {{ template "_internal/pagination.html" . }}
-  </div>
+</div>
 {{ end }}
