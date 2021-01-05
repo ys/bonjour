@@ -1,7 +1,10 @@
 ---
 title: Sequence 0004
 date: 2020-02-09 07:27:33 +0200
+resources:
+  - src: "*.jpg"
 ---
+{{< photo src="cover.jpg" alt="couche" >}}
 
 # Le cèdre est mort
 

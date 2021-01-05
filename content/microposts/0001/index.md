@@ -1,7 +1,12 @@
 ---
 title: Sequence 0001
 date: 2020-01-04 07:27:33 +0200
+resources:
+  - src: "*.jpg"
 ---
+
+{{< photo src="IMG_5006.jpg" alt="couche" >}}
+
 # Finir l'année sur un beau coucher de soleil
 
 On a pu profiter d'une éclaircie pour rejoindre la côte et arriver pour l'heure dorée.

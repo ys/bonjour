@@ -1,7 +1,10 @@
 ---
 title: Sequence 0002
 date: 2020-01-06 07:27:33 +0200
+resources:
+  - src: "*.jpg"
 ---
+{{< photo src="APC_0049.jpg" alt="couche" >}}
 
 # S'émerveiller tous les jours
 
