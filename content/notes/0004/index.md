@@ -1,5 +1,5 @@
 ---
-title: 0004
+title: "0004"
 date: 2020-02-09 07:27:33 +0200
 resources:
   - src: "*.jpg"
