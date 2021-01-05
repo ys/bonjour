@@ -1,12 +1,8 @@
 {{ define "main" }}
-{{ $paginator := (.Paginate (where .Site.Pages "Type" "posts") 6) }}
+{{ $paginator := (.Paginate (where .Site.RegularPages "Type" "posts") 5) }}
 
 {{ range $paginator.Pages }}
-{{ if and (eq .Type "posts") }}
-{{ partialCached "post" . .RelPermalink .Lang }}
-{{ else if eq .Type "microposts" }}
-{{ partialCached "micropost" . .RelPermalink .Lang }}
-{{ end }}
+  {{ partialCached "post" . .RelPermalink .Lang }}
 {{ end }}
 <div class="font-sans">
   {{ template "_internal/pagination.html" . }}
