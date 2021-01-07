@@ -4,6 +4,11 @@ const colors = require('tailwindcss/colors');
 module.exports = {
   darkMode: "media",
   plugins: [require('@tailwindcss/typography'),],
+  variants: {
+    extend: {
+      typography: ["dark"],
+    }
+  },
   theme: {
     extend: {
       colors: {
