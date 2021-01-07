@@ -24,12 +24,13 @@
     </a>
   </div>
   {{end}}
-  <div>
+  <div class="post">
     <p>
       {{ .Summary | truncate 200 | safeHTML }}
     </p>
-    <div class="mb-6">
-      <a class="text-sm font-sans text-accent-700 dark:text-accent-300 no-underline font-bold" href="{{ .RelPermalink }}">➤ Lire tout</a>
+    <div class="mb-4">
+      <a class="text-sm font-serif text-accent-700 dark:text-accent-300 no-underline font-bold"
+        href="{{ .RelPermalink }}">➤ Lire tout</a>
     </div>
   </div>
   <div class="font-sans capitalize text-sm text-gray-700 dark:text-gray-300 md:text-right">
