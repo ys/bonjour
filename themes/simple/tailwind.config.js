@@ -4,15 +4,6 @@ module.exports = {
   darkMode: "media",
   plugins: [require('@tailwindcss/typography'),],
   theme: {
-     minHeight: {
-       '1/2': '50%'
-    },
-    screens: {
-      sm: "577px",
-      md: "768px",
-      lg: "992px",
-      xl: "1200px"
-    },
     extend: {
       colors: {
         teal: {
