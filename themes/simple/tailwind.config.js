@@ -1,31 +1,22 @@
 const defaultTheme = require("tailwindcss/defaultTheme");
+const colors = require('tailwindcss/colors');
 
 module.exports = {
   darkMode: "media",
   plugins: [require('@tailwindcss/typography'),],
+  variants: {
+    extend: {
+      typography: ["dark"],
+    }
+  },
   theme: {
-     minHeight: {
-       '1/2': '50%'
-    },
-    screens: {
-      sm: "577px",
-      md: "768px",
-      lg: "992px",
-      xl: "1200px"
-    },
     extend: {
       colors: {
-        teal: {
-          100: '#e6fffa',
-          200: '#b2f5ea',
-          300: '#81e6d9',
-          400: '#4fd1c5',
-          500: '#38b2ac',
-          600: '#319795',
-          700: '#2c7a7b',
-          800: '#285e61',
-          900: '#234e52',
-        },
+        teal: colors.teal,
+        orange: colors.orange,
+        amber: colors.amber,
+        bluegray: colors.blueGray,
+        rose: colors.rose,
         sunray: {
           100: '#FDF8EE',
           200: '#FBECD5',

@@ -16,7 +16,7 @@ html {
   --mono-text: "ia-writer-duo";
 }
 
-.font-serif {
+.font-serif, .sm\:font-serif, .md\:font-serif, .lg\:font-serif {
   font-family: var(--serif-text), theme("fontFamily.serif") !important;
 }
 
@@ -28,7 +28,7 @@ html {
   font-family: theme("fontFamily.sans") !important;
 }
 
-$colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, sunray;
+$colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, sunray, rose, amber;
 @each $color in $colors {
   .content-#{$color} .post blockquote {
     @apply text-#{$color}-600 dark:text-#{$color}-200;
@@ -87,6 +87,9 @@ hr {
 
 .post {
   @apply mb-10;
+  p, ul, ol {
+    @apply font-serif leading-relaxed text-base md:text-lg;
+  }
   li::before {
     content: "• ";
   }

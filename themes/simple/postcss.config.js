@@ -1,7 +1,8 @@
 const themeDir = __dirname + "/";
 
-module.exports = {
-  plugins: [
+plugins = []
+if (process.env.HUGO_ENVIRONMENT === 'production') {
+  plugins = [
     require("@fullhuman/postcss-purgecss")({
       content: [
         themeDir + "../../public/**/*.html"
@@ -15,8 +16,10 @@ module.exports = {
           /max/
         ]
       }
-    }),
-    require("tailwindcss")(themeDir + "tailwind.config.js"),
-    require("autoprefixer")
-  ]
+    })]
+}
+plugins.push(require("tailwindcss")(themeDir + "tailwind.config.js"))
+plugins.push(require("autoprefixer"))
+module.exports = {
+  plugins: plugins
 };
