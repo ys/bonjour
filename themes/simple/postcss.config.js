@@ -11,6 +11,7 @@ module.exports = {
       ],
       options: {
         safelist: [
+          /max-w-xl/
         ]
       }
     }) : null
