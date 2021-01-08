@@ -9,11 +9,6 @@ if (process.env.HUGO_ENVIRONMENT === 'production') {
       ],
       options: {
         safelist: [
-          /content-/,
-          /post/,
-          /photoset/,
-          /always/,
-          /max/
         ]
       }
     })]
