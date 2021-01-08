@@ -22,9 +22,9 @@ disableKinds = ["taxonomyTerm"]
   emoji = "🌊"
   arrow = "✧"
 [params.font]
-  default = true
+  default = false
   url = "https://use.typekit.net/mke5doh.css"
-  serif = "ff-meta-serif-web-pro"
+  serif = "kansasnew"
 [params.fathom]
   host = "logs.yannickschutz.com"
   siteID = "UJYRI"
