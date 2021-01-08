@@ -9,6 +9,9 @@ enableRobotsTXT = true
 canonifyURLs = false
 disableKinds = ["taxonomyTerm"]
 
+[build]
+  writeStats = true
+
 [params]
   text_404 = "Perdu? Cliquez sur la vague"
   unfolded_category = "life"
