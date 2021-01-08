@@ -1,9 +1,11 @@
 const themeDir = __dirname + "/";
 
-plugins = []
-if (process.env.HUGO_ENVIRONMENT === 'production') {
-  plugins = [
-    require("@fullhuman/postcss-purgecss")({
+module.exports = {
+  plugins: [
+    require("tailwindcss")(themeDir + "tailwind.config.js"),
+    require("autoprefixer"),
+    process.env.HUGO_ENVIRONMENT === 'production'
+    ?  require("@fullhuman/postcss-purgecss")({
       content: [
         themeDir + "../../public/**/*.html"
       ],
@@ -11,10 +13,6 @@ if (process.env.HUGO_ENVIRONMENT === 'production') {
         safelist: [
         ]
       }
-    })]
-}
-plugins.push(require("tailwindcss")(themeDir + "tailwind.config.js"))
-plugins.push(require("autoprefixer"))
-module.exports = {
-  plugins: plugins
+    }) : null
+  ]
 };
