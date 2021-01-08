@@ -1,6 +1,6 @@
 {{ define "main" }}
   {{ range (.Paginator 10).Pages }}
-    {{ partialCached "note.html" . .RelPermalink .Lang}}
+    {{ partialCached "journal.html" . .RelPermalink .Lang}}
   {{ end }}
   {{ template "_internal/pagination.html" . }}
 {{ end }}

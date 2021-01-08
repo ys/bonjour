@@ -82,7 +82,7 @@ disableKinds = ["taxonomyTerm"]
 [permalinks]
   posts = "/:slug"
   categories = "/:slug"
-  notes = "/notes/:year-:month-:day"
+  journal = "/journal/:year-:month-:day"
 
 [imaging]
   resampleFilter = "lanczos"
@@ -119,7 +119,7 @@ disableKinds = ["taxonomyTerm"]
       name = "Journal"
       title = "Journal"
       weight = 2
-      identifier = "notes"
+      identifier = "journal"
       url = "/journal"
     [[menu.main]]
       name = "Bonjour, la lettre"
