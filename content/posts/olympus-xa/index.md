@@ -34,7 +34,9 @@ Attention, si celui-ci vous intéresse, Olympus en a sorti quelques uns dont le 
 
 Je ne suis pas le seul à apprécier cet appareil, [Matt Day](https://www.mattdayphoto.com) a une super review sur youtube de l'appareil que je vous conseille. Il a sur son instagram pas mal de photos au XA aussi, mais bon faut chercher, il mixe de tout. Vous pouvez toujours regarder [#olympusxa](https://www.instagram.com/explore/tags/olympusxa/). Si vous voulez un review un rien plus technique, allez chez [Ken Rockwell](https://www.kenrockwell.com/olympus/xa.htm). Ou un plus bel exemple sur le terrain à la réunion chez [carnets de traverse](https://www.carnets-de-traverse.com/blog/photos-de-voyage-olympus-xa-la-reunion).
 
-{{< youtube w2-jlXUzEco >}}
+<a href="https://youtu.be/w2-jlXUzEco">
+{{< photo src="mattday.jpg" alt="mattday" caption="Click to watch on Youtube" no-zoom="no" >}}
+</a>
 
 C'est à mes yeux un super compagnon de voyages mais aussi de la vie de tous les jours. Parfait appareil pour documenter sa vie et nos petits moments, j'en suis pleinement satisfait. Il se fait oublier tant dans la poche que lors de la prise de vue. Ce petit format est un véritable atout pour le peut de place qu'il prend dans mon sac à dos de voyage. Parfait si vous voulez garder la main sur les réglages mais avoir la taille d'un point and shoot. Mon premier coup de coeur photo de l'année. J'en ai eu d'autres dont je vous parlerai plus tard.
 
