@@ -1,7 +1,9 @@
 {
   "build": {
     "env": {
-      "HUGO_VERSION": "0.76.2"
+      "HUGO_VERSION": "0.80.0",
+      "HUGO_ENVIRONMENT": "production"
+
     }
   },
   "redirects": [],
