@@ -6,7 +6,7 @@ slug: "ne-jamais-cesser-d-apprendre"
 emoji: "📷"
 tags: [apprendre, photographie, workshop, microaventure, aventure, passion, investissement, self-esteem, artisanat, creation, inspiration, changement]
 categories:
-- journal
+- life
 resources:
 - src: "*.jpg"
 summarry: "Depuis quelques années, j’ai décidé d’investir en moi-même. Avant, toutes mes passions étaient liées à mon métier. Tout l'apprentissage aussi. Il me faut apprendre constamment. La technologie d'une part et les « soft skills » qui traitent plus des relations humaines que de la technique d'autre part. J’ai donc appris à mieux communiquer, mieux comprendre les personnes et mieux gérer le stress. C’est effectivement utile au quotidien."

@@ -6,7 +6,7 @@ draft: false
 description: "How to hike cleaner and other tips for your outdoors' wanders"
 tags: ["environment", "beach", "cleaning", "ecology", "leave no trace", "clean forest", "World environment day", "acts"]
 categories:
-- journal
+- life
 slug: "clean-hiking"
 emoji: "🗺"
 resources:

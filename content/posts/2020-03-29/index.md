@@ -7,7 +7,7 @@ slug: "mandala-du-dimanche"
 aliases:
   - "2020-03-29"
 categories:
-  - journal
+  - life
 ---
 
 {{< photo src="DSCF3681.jpg" alt="mandala nature">}}

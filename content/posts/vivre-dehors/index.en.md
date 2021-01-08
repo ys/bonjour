@@ -6,7 +6,7 @@ slug: "living-outside"
 emoji: "🏞"
 tags: ["retrospective", "neorural","france", "finistere", "monts d'Arrée", "Bretagne", "campagne", "ocean", "slow life", "rural exodus", "life change", "foraging"]
 categories:
-- journal
+- life
 resources:
 - name: "cover"
   src: "living-outdoor-3.jpg"

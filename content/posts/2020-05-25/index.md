@@ -8,7 +8,7 @@ emoji: "☕️🧊"
 resources:
   - src: "*.jpg"
 categories:
-  - journal
+  - life
 ---
 
 Le printemps s'est bien installé, le soleil est de retour. La saison des pieds nus a commencé. Avec celle-ci, une de mes habitudes de beau temps. Une technique proche du coldbrew mais beaucoup plus rapide. Le Japanese iced coffee. Je ne suis pas sur du nom mais c'est souvent sur une telle dénomination que je l'ai vu. Perso, j'appelle cela le "pour over on ice". Ca fait un peu plus Disney on Ice.

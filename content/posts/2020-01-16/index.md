@@ -7,7 +7,7 @@ title: Un mois de disette
 resources:
   - src: "*.jpg"
 categories:
-  - journal
+  - life
 ---
 
 Moins de réseaux sociaux pour commencer l’année! Comme je vous l’ai dit, j’ai lu Digital Minimalism de Cal Newport pour finir/commencer l’année. Hier, je suis tombé sur un [blog post](https://thefocuscourse.com/doing-a-digital-declutter/) de « the focus course » sur leur disette numérique qu’ils ont lancé hier. Je me suis dit pourquoi pas, et c’est ainsi que ça a commencé. J’ai désinstallé Instagram et Twitter de mon iPad et iPhone. Puis, j’ai installé [NextDns](https://nextdns.io) et bloqué tous ces voleurs d’attention de réseaux sociaux.

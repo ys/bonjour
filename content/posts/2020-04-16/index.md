@@ -5,7 +5,7 @@ date: 2020-04-16 07:03:03 +0200
 resources:
   - src: "*.jpg"
 categories:
-  - journal
+  - life
 slug: "pause-cafe"
 aliases:
   - "2020-04-16"

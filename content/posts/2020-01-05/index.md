@@ -7,7 +7,7 @@ aliases:
 resources:
   - src: "*.jpg"
 categories:
-  - journal
+  - life
 ---
 
 {{< photo src="cover.jpg" alt="cabane du jardin" >}}

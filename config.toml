@@ -11,7 +11,7 @@ disableKinds = ["taxonomyTerm"]
 
 [params]
   text_404 = "Perdu? Cliquez sur la vague"
-  unfolded_category = "journal"
+  unfolded_category = "life"
   mainSections = [ "posts" ]
   sizes = [ "2048" , "1024" , "512" ]
   baseline = "n.m. (de bon et jour) - salutation dont on se sert pendant la journée quand on aborde quelqu'un"
@@ -95,10 +95,10 @@ disableKinds = ["taxonomyTerm"]
     weight = 2
     languageName = "English"
     [[languages.en.menu.main]]
-      name = "Journal"
-      title = "Journal"
+      name = "🏠"
+      title = "🏠"
       weight = 1
-      identifier = "journal"
+      identifier = "posts"
       url = "/en"
     [[languages.en.menu.main]]
       name = "About"
@@ -113,14 +113,14 @@ disableKinds = ["taxonomyTerm"]
       name = "🏠"
       title = "🏠"
       weight = 1
-      identifier = "journal"
+      identifier = "posts"
       url = "/"
     [[menu.main]]
-      name = "Notes"
-      title = "Notes"
+      name = "Journal"
+      title = "Journal"
       weight = 2
       identifier = "notes"
-      url = "/notes"
+      url = "/journal"
     [[menu.main]]
       name = "Bonjour, la lettre"
       title = "Bonjour, la lettre"

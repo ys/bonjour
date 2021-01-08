@@ -5,7 +5,7 @@ date: 2020-12-21T14:24:02+01:00
 draft: false
 tags: []
 categories:
-- journal
+- life
 slug: "2020"
 color: sunray
 emoji: "😷"
@@ -15,7 +15,7 @@ resources:
   name: "cover"
 ---
 
-2020, quelle année! J'ai commencé une rétro un peu dans [ma petite lettre #7](https://tinyletter.com/bonjouryannick/letters/bonjour-7). Chaque année, j'aime revenir sur mon année, que ce soit ici ou dans un carnet. Puis revenir sur mon année en photos pour en faire un joli bouquin pour la bibliothèque. Cette année est assez particulière, il faut bien l'avouer. 
+2020, quelle année! J'ai commencé une rétro un peu dans [ma petite lettre #7](https://tinyletter.com/bonjouryannick/letters/bonjour-7). Chaque année, j'aime revenir sur mon année, que ce soit ici ou dans un carnet. Puis revenir sur mon année en photos pour en faire un joli bouquin pour la bibliothèque. Cette année est assez particulière, il faut bien l'avouer.
 
 
 {{< photoset max="2">}}
@@ -29,11 +29,11 @@ Elle a commencé par une petite baignade du 1er janvier avec des amis. Elle a au
 
 {{< photo src="DSCF3347.jpg" alt="pied louise" >}}
 
-Le mois de mars sera pour beaucoup le mois du confinement. Nous, c'était un mois magique. On sort de la maternité le 2 mars et l'on se retrouve vite confiné à 4. On a de la chance, notre maison a un beau jardin comme vous l'avez sans doute déjà vu. On y passera pas mal de temps. On fera des tours de jardin en poussette pour faire dormir Louise et profiter du soleil. On installe enfin une serre sur le terrain et on se laisse vivre. On essayera de planter avec Tom, mais c'est surtout ce que Cloé plantera qui réussira. J'ai eu la chance d'avoir un congé paternité de 4 mois sur l'année. Tom reçoit ses leçons par e-mail et on a des jeux et [défis à réaliser](https://yannickschutz.com/mandala-du-dimanche/). 
+Le mois de mars sera pour beaucoup le mois du confinement. Nous, c'était un mois magique. On sort de la maternité le 2 mars et l'on se retrouve vite confiné à 4. On a de la chance, notre maison a un beau jardin comme vous l'avez sans doute déjà vu. On y passera pas mal de temps. On fera des tours de jardin en poussette pour faire dormir Louise et profiter du soleil. On installe enfin une serre sur le terrain et on se laisse vivre. On essayera de planter avec Tom, mais c'est surtout ce que Cloé plantera qui réussira. J'ai eu la chance d'avoir un congé paternité de 4 mois sur l'année. Tom reçoit ses leçons par e-mail et on a des jeux et [défis à réaliser](https://yannickschutz.com/mandala-du-dimanche/).
 
 ## Un été en van
 
-On profitera du déconfinement pour échanger le California pour un fourgon un peu plus gros, Merci les Mignard! [On le rodera en partant vers les Vosges](https://yannickschutz.com/un-ete-en-36-poses/). Elles deviendront un running gag quotidien. On s'avance vers elles mais on ne les rejoindra jamais. On se balade en Champagne au final. C'est bien aussi, le Lac du Der est une chouette découverte, on dort à côté des caves et on remplit le coffre. On ira même voir le village de ce bon vieux général de Gaulle. On ne montera pas voir la croix de Lorraine. Car il faut payer pour se balader à ses pieds, la nature à assez à offrir sans cela. On adore ce nouveau van, on est plus à l'aise tous les 4 avec le chien dedans. On rentre en passant par la Loire, encore une histoire de vin. Un bon Bourgueil bio qu'on a déjà liquidé. On revient en bord de mer, elle nous a manqué. On se rend compte que ce Finistère, on l'a bien adopté. Il nous gagne et on l'adore. On aura la visite de la famille et de quelques amis sur l'été. On partagera notre amour de notre nouveau chez nous avec eux. Cela ne fait que renforcer cette connection avec cette Finis terra. 
+On profitera du déconfinement pour échanger le California pour un fourgon un peu plus gros, Merci les Mignard! [On le rodera en partant vers les Vosges](https://yannickschutz.com/un-ete-en-36-poses/). Elles deviendront un running gag quotidien. On s'avance vers elles mais on ne les rejoindra jamais. On se balade en Champagne au final. C'est bien aussi, le Lac du Der est une chouette découverte, on dort à côté des caves et on remplit le coffre. On ira même voir le village de ce bon vieux général de Gaulle. On ne montera pas voir la croix de Lorraine. Car il faut payer pour se balader à ses pieds, la nature à assez à offrir sans cela. On adore ce nouveau van, on est plus à l'aise tous les 4 avec le chien dedans. On rentre en passant par la Loire, encore une histoire de vin. Un bon Bourgueil bio qu'on a déjà liquidé. On revient en bord de mer, elle nous a manqué. On se rend compte que ce Finistère, on l'a bien adopté. Il nous gagne et on l'adore. On aura la visite de la famille et de quelques amis sur l'été. On partagera notre amour de notre nouveau chez nous avec eux. Cela ne fait que renforcer cette connection avec cette Finis terra.
 
 
 {{< photo src="cover" alt="la mer" >}}
@@ -46,7 +46,7 @@ En juin, avec Tom [on commence le surf](https://yannickschutz.com/se-mettre-a-l-
 
 ## Fin du numérique
 
-Avoir été sans le X-T3 au début d'année m'a fait beaucoup me questionner sur son utilité. Je ne suis après tout pas un photographe professionnel et je fais ceci pour le plaisir. Et l'argentique m'amène le plus de plaisir. Cette année aura été l'année du retour à l'argentique. J'ai investi dans un beau Leica M6 et un [Olympus XA](https://yannickschutz.com/olympus-xa/) qui sont devenu mes compagnons de tous les jours. Essais de différents labos, sortir le scanner, puis le revendre. Un projet de scans à la maison en court d'aboutissement. On peaufine le tout sur l'année. Quel plaisir de revenir à mes premiers amours en photo. Cela va bien avec mon envie de ralentir, d'être plus intentionnel.  
+Avoir été sans le X-T3 au début d'année m'a fait beaucoup me questionner sur son utilité. Je ne suis après tout pas un photographe professionnel et je fais ceci pour le plaisir. Et l'argentique m'amène le plus de plaisir. Cette année aura été l'année du retour à l'argentique. J'ai investi dans un beau Leica M6 et un [Olympus XA](https://yannickschutz.com/olympus-xa/) qui sont devenu mes compagnons de tous les jours. Essais de différents labos, sortir le scanner, puis le revendre. Un projet de scans à la maison en court d'aboutissement. On peaufine le tout sur l'année. Quel plaisir de revenir à mes premiers amours en photo. Cela va bien avec mon envie de ralentir, d'être plus intentionnel.
 
 ## Début du projet
 
@@ -60,6 +60,6 @@ Si on a bougé dans le Finistère, c'est aussi parce qu'on avait un projet. Ce p
 
 ## Ensuite
 
-En gros, 2020 a planté plein de graines que nous récolterons en 2021 et au delà. J'ai hâte. Plein de petits projets en tête. Des projets photo, des projets Bretons, des projets d'écriture. Le besoin de retourner à l'océan et cette connection à la terre ne font que s'intensifier. Comme le disait Greg dans [sa rétro](https://gregorymignard.com/2020/), 2020 nous a permis petit à petit de devenir de meilleurs êtres humains chaque jour. On adapte notre consommation, on agit localement comme on le peut et on aligne nos paroles et nos actes. Au final, bien qu'elle fut chaotique de tous les côtés, on a réussi à en tirer le meilleur et la rendre belle malgré tout. 
+En gros, 2020 a planté plein de graines que nous récolterons en 2021 et au delà. J'ai hâte. Plein de petits projets en tête. Des projets photo, des projets Bretons, des projets d'écriture. Le besoin de retourner à l'océan et cette connection à la terre ne font que s'intensifier. Comme le disait Greg dans [sa rétro](https://gregorymignard.com/2020/), 2020 nous a permis petit à petit de devenir de meilleurs êtres humains chaque jour. On adapte notre consommation, on agit localement comme on le peut et on aligne nos paroles et nos actes. Au final, bien qu'elle fut chaotique de tous les côtés, on a réussi à en tirer le meilleur et la rendre belle malgré tout.
 
 On se revoit l'an prochain les amis, prenez soin de vous durant ces vacances et profitez de vos proches en faisant attention!

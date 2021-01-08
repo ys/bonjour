@@ -19,7 +19,7 @@ tags:
   ]
 summary: "Consommer moins, consommer mieux. C'est un peu un des trucs qui me turlupine depuis que je me suis lancé dans le minimalisme et autres. Ca passe pas mal par ma garde robe. Elle débordait de T-shirts, de chemises et commençait à ne plus ressembler à rien."
 categories:
-  - journal
+  - life
 resources:
   - src: "*.jpg"
 ---

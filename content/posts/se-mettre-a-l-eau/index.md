@@ -17,7 +17,7 @@ tags:
 resources:
   - src: "*.jpg"
 categories:
-  - journal
+  - life
 color: blue
 ---
 

@@ -3,14 +3,14 @@ title: "Apprendre encore et toujours"
 subtitle: "Photo argentique et storytelling"
 date: 2020-12-11T21:36:20+01:00
 draft: false
-tags: 
+tags:
 - photo
 - argentique
 - workshop
 - apprentisage
 - film
 categories:
-- journal
+- life
 slug: "apprentissage-photo-argentique"
 emoji: "📷"
 resources:

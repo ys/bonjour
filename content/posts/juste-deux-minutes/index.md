@@ -15,7 +15,7 @@ tags:
     "petits gestes",
   ]
 categories:
-  - journal
+  - life
 slug: "juste-deux-minutes"
 emoji: "🌍"
 resources:

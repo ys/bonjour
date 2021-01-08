@@ -21,7 +21,7 @@ tags:
     "life change",
   ]
 categories:
-  - journal
+  - life
 resources:
   - src: "semaine-1.jpg"
     name: "cover"

@@ -7,7 +7,7 @@ title: Journée palindrome
 resources:
   - src: "*.jpg"
 categories:
-  - journal
+  - life
 ---
 
 Je repense aux moments où l’on allait encore sur Internet, une sorte de voyage vers la toile qui est maintenant omniprésente. Pourquoi me direz-vous? Ce [super article de Beside](https://beside.media/fr/le-camp-dinternet/). Je repense à mon premier business, revente de feuilles de trucs et astuces de Jeuxvideo.com. Jamais déclaré aux impôts, j’avais 12 ans max. Ca n’a pas duré bien longtemps et je repense nostalgiquement à ces années de début d’ADSL. C’est fou comme cela me parait une éternité. Je pense à Tom qui n’a jamais connu de monde sans Internet. Je ne sais pas à quoi cela doit ressembler pour lui.

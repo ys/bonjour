@@ -6,7 +6,7 @@ slug: "leger-minimaliste"
 emoji: "🧘🏼‍♂️"
 tags: ["minimaliste", "mindfulness", "pleine conscience", "zen", "simplicité", "famille", "enfants"]
 categories:
-- journal
+- life
 resources:
 - src: "*.jpg"
 summary: "Cela fait maintenant trois ans que je lis et m'intéresse au minimalisme, mobilier et mental. Je me suis rendu compte que mes possessions me possédaient. Et que à cause d'elles, je n'étais pas toujours présent et pas toujours heureux. J'ai compris que les réseaux sociaux le plus souvent me rendaient malheureux et que donc au final ces évolutions ne me permettaient pas de vivre."
