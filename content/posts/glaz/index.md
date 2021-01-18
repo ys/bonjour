@@ -30,13 +30,13 @@ Glaz, c'est aussi le début d'un projet perso. Cela sera le nom de mes photos da
 
 {{< photo src="41.jpeg" alt="silhouette glaz" >}}
 {{< photo src="43.jpeg" alt="glaz" >}}
-{{< photo src="64.jpeg" alt="glaz" >}}
+{{< photo large="yes" src="64.jpeg" alt="glaz" >}}
 
 {{< photoset always="2" >}}
 {{< photo src="66.jpeg" alt="glaz" >}}
 {{< photo src="53.jpeg" alt="glaz" >}}
 {{</ photoset >}}
 {{< photo src="71.jpeg" alt="glaz" >}}
-{{< photo full="true" src="73.jpeg" alt="glaz" >}}
+{{< photo large="true" src="73.jpeg" alt="glaz" >}}
 {{< photo src="75.jpeg" alt="glaz" >}}
 {{< photo src="72.jpeg" alt="glaz" >}}
