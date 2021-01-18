@@ -1,7 +1,7 @@
 ---
 title: "Glaz"
 subtitle: "Nikonos V & Kodak Portra 400"
-date: 2021-01-18T21:55:23+02:00
+date: 2021-01-18T12:55:23+02:00
 draft: false
 description: ""
 tags: ["nikonos", "film", "nikonosproject", "dawn patrol", "kodak portra"]
