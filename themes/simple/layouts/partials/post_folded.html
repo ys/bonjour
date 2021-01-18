@@ -29,7 +29,7 @@
       {{ .Summary | truncate 200 | safeHTML }}
     </p>
     <div class="mb-4">
-      <a class="text-sm font-serif {{ with .Params.color }}text-{{ . }}-700 dark:text-{{.}}-300{{ else }}text-accent-700 dark:text-accent-300{{end}} no-underline font-bold"
+      <a class="text-sm font-serif {{ with .Params.color }}text-{{ . }}-700 dark:text-{{ . }}-300{{ else }}text-accent-700 dark:text-accent-300{{ end }} no-underline font-bold"
         href="{{ .RelPermalink }}">➤ Lire tout</a>
     </div>
   </div>
