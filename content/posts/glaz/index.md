@@ -8,6 +8,7 @@ tags: ["nikonos", "film", "nikonosproject", "dawn patrol", "kodak portra"]
 categories:
   - vadrouilles
 slug: "nikonos-glaz"
+color: "blue"
 emoji: "🌊"
 resources:
   - src: "*.jpg"
@@ -17,14 +18,13 @@ resources:
 
 {{< photo full="true" src="cover" alt="glaz" >}}
 
-Glaz, c'est une couleur qui n'existe pas en français. 
+Glaz, c'est une couleur qui n'existe pas en français.  
 Glaz, c'est le bleu de la mer.  
 Glaz, c'est un mélange de bleu, de vert et de gris.  
 Glaz, c'est une couleur qui est changeante.  
 Glaz, c'est un bleu canard, si tu n'as pas d'imagination.  
 
-Glaz, c'est aussi la couleur de la nature.
-
+Glaz, c'est aussi la couleur de la nature.  
 Glaz, c'est la couleur que la Kodak Portra m'a donné ce matin là.  
 Glaz, c'est aussi le début d'un projet perso. Cela sera le nom de mes photos dans l'eau.
 
