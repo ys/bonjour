@@ -25,7 +25,7 @@ Glaz, c'est un bleu canard, si tu n'as pas d'imagination.
 
 Glaz, c'est aussi la couleur de la nature.
 
-Glaz, c'est la couleur que la Kodak Portra m'a donné ce matin là.
+Glaz, c'est la couleur que la Kodak Portra m'a donné ce matin là.  
 Glaz, c'est aussi le début d'un projet perso. Cela sera le nom de mes photos dans l'eau.
 
 {{< photo src="41.jpeg" alt="silhouette glaz" >}}
