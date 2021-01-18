@@ -12,7 +12,7 @@ color: "blue"
 emoji: "🌊"
 resources:
   - src: "*.jpg"
-  - src: "65.jpeg"
+  - src: "cover.jpeg"
     name: "cover"
 ---
 
@@ -32,6 +32,8 @@ Glaz, c'est le nom de mes photos à l'eau.
 {{< photo src="41.jpeg" alt="silhouette glaz" >}}
 {{< photo src="43.jpeg" alt="glaz" >}}
 {{< photo large="yes" src="64.jpeg" alt="glaz" >}}
+
+{{< photo src="65.jpeg" alt="glaz" >}}
 
 {{< photoset always="2" >}}
 {{< photo src="66.jpeg" alt="glaz" >}}
