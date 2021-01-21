@@ -29,15 +29,15 @@
         data-action="zoom"
         {{ end }}
         data-zoom-src="{{ $src.RelPermalink}}"
-        data-sizes="auto"
-        data-srcset='
+        sizes="auto"
+        srcset='
         {{ if ge $src.Width "800" }}
           {{ with $small.RelPermalink }}{{.}} 800w{{ end }}
         {{ end }}
         {{ if ge $src.Width "1500" }}
           {{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
         {{ end }}'
-        data-src="{{ $src.RelPermalink }}"
+        src="{{ $src.RelPermalink }}"
         width="{{ $src.Width }}" height="{{ $src.Height }}">
     </picture>
     {{ with .Get "caption" }}
