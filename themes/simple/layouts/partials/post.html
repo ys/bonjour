@@ -1,0 +1,5 @@
+{{ if not (in .Params.categories .Site.Params.unfolded_category) }}
+  {{ partialCached "post_folded" . .RelPermalink .Lang }}
+{{ else }}
+  {{ partialCached "post_unfolded" . .RelPermalink .Lang }}
+{{ end }}

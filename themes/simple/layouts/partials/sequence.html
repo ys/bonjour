@@ -1,0 +1,70 @@
+{{/* get file that matches the filename as specified as src="" in shortcode */}}
+{{ $src := (index (.Resources.ByType "image") 0) }}
+
+{{ if $src }}
+
+  {{/* set image sizes, these are hardcoded for now, x dictates that images are resized to this width */}}
+
+  {{ $lqipw := default "20x" }}
+  {{ $smallw := default "800x" }}
+  {{ $largew := default "1500x" }}
+
+  {{/* resize the src image to the given sizes */}}
+
+  {{ $lqip := $src.Resize $lqipw }}
+  {{ $small := $src.Resize $smallw }}
+  {{ $large := $src.Resize $largew }}
+
+  {{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
+  {{/* set the sizes attribute to (min-width: 35em) 1200px, 100vw unless overridden in shortcode */}}
+
+  <div class="my-6">
+    <a href="{{ .RelPermalink }}" aria-label="{{ .Title }}">
+      <picture class="relative {{ if gt $src.Height $src.Width }}mx-auto w-2/3{{ else }}md:-mx-10{{ end }} block shadow-lg img" style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover">
+        <svg class="m-0 h-auto w-full" width="{{ $src.Width }}" height="{{ $src.Height }}" aria-hidden="true"></svg>
+        <img
+          loading="lazy"
+          alt="{{ with .Title }}{{ . }}{{ end }}"
+          class="m-0 h-auto w-full absolute top-0 left-0 lazyload"
+          data-action="zoom"
+          data-zoom-src="{{ $src.RelPermalink}}"
+          data-sizes="auto"
+          data-srcset='
+          {{ if ge $src.Width "800" }}
+            {{ with $small.RelPermalink }}{{.}} 800w{{ end }}
+          {{ end }}
+          {{ if ge $src.Width "1500" }}
+            {{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
+          {{ end }}'
+          data-src="{{ $src.RelPermalink }}"
+          width="{{ $src.Width }}" height="{{ $src.Height }}">
+        <noscript>
+          <img
+            loading="lazy"
+            alt="{{ with .Title }}{{ . }}{{ end }}"
+            class="m-0 h-auto w-full absolute top-0 left-0 lazyload"
+            data-action="zoom"
+            data-zoom-src="{{ $src.RelPermalink}}"
+            srcset='
+            {{ if ge $src.Width "800" }}
+              {{ with $small.RelPermalink }}{{.}} 800w{{ end }}
+            {{ end }}
+            {{ if ge $src.Width "1500" }}
+              {{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
+            {{ end }}'
+            src="{{ $src.RelPermalink }}"
+            width="{{ $src.Width }}" height="{{ $src.Height }}">
+        </noscript>
+      </picture>
+    </a>
+  </div>
+{{end}}
+<div class="content ">
+{{ .Content }}
+</div>
+
+{{ with .PrevInSection }}
+<nav class="flex bold text-lg py-6 justify-center w-full">
+  <a class="link" href="{{ .RelPermalink }}">{{ T "previous" }}</a>
+</nav>
+{{ end }}

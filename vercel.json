@@ -1,0 +1,21 @@
+{
+  "build": {
+    "env": {
+      "HUGO_VERSION": "0.80.0",
+      "HUGO_ENVIRONMENT": "production"
+
+    }
+  },
+  "redirects": [],
+  "headers": [
+    {
+      "source": "(.*).(jpg|jpeg|gif|png)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public,max-age=31536000,immutable"
+        }
+      ]
+    }
+  ]
+}

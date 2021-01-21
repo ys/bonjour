@@ -1,0 +1,8 @@
+node_modules
+resources
+public
+
+# Local Netlify folder
+.netlify
+.now
+.vercel

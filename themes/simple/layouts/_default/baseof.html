@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    {{ partialCached "shared_head.html" . }}
+    {{ with .OutputFormats.Get "jsonfeed" }}
+      <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .RelPermalink | safeURL }}" title="{{ $.Site.Title }}" />
+    {{ end -}}
+    {{ partial "opengraph.html" . }}
+    {{ template "_internal/google_news.html" . }}
+    {{ template "_internal/twitter_cards.html" . }}
+    {{ partial "seo" . }}
+  </head>
+  <body class="antialiased font-sans font-light text-normal text-darker dark:text-gray-100 {{ with .Params.color }}bg-{{ . }}-100 dark:bg-{{.}}-900{{ else }} dark:bg-darker{{end}}">
+    {{ partial "header" . }}
+    <div class="container w-screen md:max-w-xl lg:max-w-xl mx-auto min-h-1/2">
+      <div class="mx-4 md:mx-0">
+        {{ block "main" . }}
+        {{ end }}
+      </div>
+    </div>
+
+    {{ partial "footer" . }}
+    {{ partial "fathom" . }}
+    <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=IntersectionObserver"></script>
+    {{ $.Scratch.Set "jslibs" slice }} {{ $libs := slice "js/medium-zoom.min.js" "js/lazyload.min.js" "js/main.js" }} {{ range $libs }} {{ $.Scratch.Add "jslibs" (resources.Get . ) }} {{ end }} {{ $js := .Scratch.Get "jslibs" | resources.Concat "js/main.js" }} {{ if .Site.IsServer }}
+    <script src="{{ $js.RelPermalink }}"></script>
+    {{ else }} {{ $js := $js | minify | fingerprint "sha512"}}
+    <script src="{{ $js.RelPermalink }}"></script>
+    {{ end }}
+  </body>
+</html>

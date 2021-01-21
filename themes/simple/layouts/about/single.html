@@ -1,0 +1,7 @@
+{{ define "main" }}
+<div class="mb-10 content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
+  <div class="post">
+    {{.Content}}
+  </div>
+</div>
+{{ end }}

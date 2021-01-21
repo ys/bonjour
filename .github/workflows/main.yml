@@ -1,0 +1,20 @@
+name: Compress images
+on: pull_request
+jobs:
+  process_images:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+      - name: Tinify Images
+        uses: namoscato/action-tinify@v1
+        with:
+          api_key: ${{ secrets.TINIFY_API_KEY }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          resize_width: 3000
+          resize_height: 3000
+      - name: Compress Images
+        uses: calibreapp/image-actions@master
+        with:
+          githubToken: ${{ secrets.GITHUB_TOKEN }}

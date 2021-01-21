@@ -1,0 +1,192 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+html {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+:root {
+  --accent: {{ with .Site.Params.accentColor }}{{ . }}{{ else }}var(--onyx){{ end }};
+  --serif-text: {{ with .Site.Params.font.serif}}{{ . }}{{ else }}theme("fontFamily.serif"){{ end }};
+  --sans-text: {{ with .Site.Params.font.sans}}{{ . }}{{ else }}theme("fontFamily.sans"){{ end }};
+  --mono-text: "ia-writer-duo";
+}
+
+.font-serif, .sm\:font-serif, .md\:font-serif, .lg\:font-serif {
+  font-family: var(--serif-text), theme("fontFamily.serif") !important;
+}
+
+.font-mono {
+  font-family: var(--mono-text), theme("fontFamily.mono") !important;
+}
+
+.font-sans {
+  font-family: theme("fontFamily.sans") !important;
+}
+
+$colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, sunray, rose, amber;
+@each $color in $colors {
+  .content-#{$color} .post blockquote {
+    @apply text-#{$color}-600 dark:text-#{$color}-200;
+  }
+  .content-#{$color} .post a{
+    @apply text-#{$color}-600 dark:text-#{$color}-200 underline relative;
+    transition: color 0.5s, background-image 0.5s linear;
+    &:hover {
+      @apply text-#{$color}-600 dark:text-#{$color}-200 underline relative;
+    }
+  }
+  .content-#{$color} .post h2, .content-#{$color} .post h3 {
+    @apply bg-#{$color}-200 dark:bg-#{$color}-600;
+    a {
+      @apply text-gray-900 dark:text-gray-100;
+    }
+  }
+}
+
+.link, .content a, .post a {
+  @apply text-accent-600 underline relative;
+  transition: color 0.5s, background-image 0.5s linear;
+  &:hover {
+    @apply text-accent-600 underline relative;
+  }
+}
+
+.note {
+  blockquote {
+    @apply leading-snug text-accent-600  font-bold font-normal;
+  }
+}
+
+.logo svg {
+  @apply fill-current;
+}
+
+.photoset {
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(3, 1fr);
+  &.always-2 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  &.max-4 {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  &.max-2 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+hr {
+  @apply block mt-6 mb-10 border-b border-gray-200 w-2/4 mx-auto;
+}
+
+.post {
+  @apply mb-10;
+  p, ul, ol {
+    @apply font-serif leading-relaxed text-base md:text-lg;
+  }
+  li::before {
+    content: "• ";
+  }
+  h3 {
+    @apply mt-8 text-gray-900 uppercase font-normal py-1 px-2 inline;
+  }
+
+  h1 {
+    @apply mt-4 font-bold block;
+  }
+  h2 {
+    @apply mt-8 text-gray-900 py-1 px-2 font-bold inline;
+
+    a {
+      @apply text-gray-900;
+    }
+  }
+  h2 + p {
+    @apply mt-8;
+  }
+  ul {
+   @apply list-inside my-4
+  }
+
+  ol {
+   @apply list-decimal list-inside my-4
+  }
+  li p {
+    @apply inline my-0
+  }
+  p {
+    @apply my-6
+  }
+  blockquote {
+    @screen md {
+      @apply -mx-8;
+    }
+    @apply leading-snug text-accent-600  font-normal text-xl py-4;
+    a {
+      @apply underline;
+    }
+  }
+}
+
+.post, .content {
+  h2, h3, h1, h4 {
+    @apply dark:text-gray-100;
+  }
+  .medium-zoom-overlay {
+    @apply dark:bg-dark;
+  }
+  blockquote {
+    a {
+    }
+    @apply underline;
+  }
+}
+.link, .content a {
+  @apply dark:text-accent-400 underline relative;
+  transition: color 0.5s, background-image 0.5s linear;
+  &:hover {
+    @apply dark:text-accent-500 underline relative;
+  }
+}
+
+// Expand Hugo templates
+
+.pagination {
+  @apply flex flex-row items-center justify-center py-10 text-sm;
+}
+
+.pagination li {
+  @apply p-2
+}
+.pagination li.active {
+  @apply bg-gray-200 dark:text-gray-900 rounded px-4 py-2 text-sm
+}
+.mode-dark .pagination li.active {
+  @apply bg-dark rounded px-4 py-2 text-sm
+}
+
+.pagination li.disabled {
+  @apply opacity-25
+}
+.twitter-tweet {
+  @apply mx-auto my-10
+}
+
+.no-js img.lazyload {
+  display: none;
+}
+
+.menu li:not(:last-child) ::after {
+  @screen md {
+    @apply ml-2;
+    content: "◦";
+  }
+}
+
+.medium-zoom-image--opened { object-fit: contain !important; }

@@ -1,0 +1,10 @@
+{{ define "main" }}
+{{ $paginator := (.Paginate (where .Site.RegularPages "Type" "posts") 5) }}
+
+{{ range $paginator.Pages }}
+  {{ partialCached "post" . .RelPermalink .Lang }}
+{{ end }}
+<div class="font-sans">
+  {{ template "_internal/pagination.html" . }}
+</div>
+{{ end }}

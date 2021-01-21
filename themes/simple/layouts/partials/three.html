@@ -1,0 +1,19 @@
+<div class="rounded dark:bg-gray-800 bg-gray-200 flex justify-around flex-col md:flex-row md:-mx-10 my-10 p-4">
+  {{ range first 2 . }}
+  <div class="">
+    <h3 class="mb-4 ">
+      {{ .Params.emoji }}
+      <a class="text-gray-900 dark:text-gray-300" href="{{ .Permalink }}">
+        {{ .Title }}
+      </a>
+    </h3>
+    <span class="text-sm text-gray-700 dark:text-gray-400">
+      {{ with .Params.subtitle }}
+        {{ . }}
+      {{ else }}
+        {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+      {{ end }}
+    </span>
+  </div>
+  {{ end }}
+</div>

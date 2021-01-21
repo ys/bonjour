@@ -1,0 +1,10 @@
+{{ $currentPage := . }}
+<nav class="mt-4 pt-4 border-t flex justify-around block menu font-medium">
+  <ul class="flex flex-wrap flex-row">
+    {{ range $index, $element  := .Site.Menus.main }}
+      <li class="pr-2 text-gray-600 dark:text-gray-200">
+        <a class=" {{if or ($currentPage.IsMenuCurrent "main" $element) ($currentPage.HasMenuCurrent "main" $element) }} text-gray-800{{end}}" href="{{ $element.URL }}" title="{{ $element.Title }}">{{ $element.Name }}</a>
+      </li>
+    {{ end }}
+  </ul>
+</nav>

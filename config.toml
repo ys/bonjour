@@ -1,0 +1,140 @@
+baseURL = "https://yannickschutz.com/"
+languageCode = "fr"
+DefaultContentLanguage = "fr"
+title = "Bonjour Yannick"
+theme = "simple"
+RemovePathAccents = true
+timeout = 200000
+enableRobotsTXT = true
+canonifyURLs = false
+disableKinds = ["taxonomyTerm"]
+
+[build]
+  writeStats = true
+
+[params]
+  text_404 = "Perdu? Cliquez sur la vague"
+  unfolded_category = "life"
+  mainSections = [ "posts" ]
+  sizes = [ "2048" , "1024" , "512" ]
+  baseline = "n.m. (de bon et jour) - salutation dont on se sert pendant la journée quand on aborde quelqu'un"
+  description = "J'aime bien notre planète et j'raconte des histoires. Les gens diraient que je suis plutôt chouette."
+  tags = ["famille", "bretagne", "voyage", "slow life", "photographies", "tranches de vie", "vie lente"]
+  pinterestVerify = "fd6b8a37d3208b2c605434cf2ce71ac3"
+  hasLogo = true
+  emoji = "🌊"
+  arrow = "✧"
+[params.font]
+  default = false
+  url = "https://use.typekit.net/mke5doh.css"
+  serif = "kansasnew"
+[params.fathom]
+  host = "logs.yannickschutz.com"
+  siteID = "UJYRI"
+  trackDomain = "yannickschutz.com"
+
+[params.social]
+  email = "hello@yannickschutz.com"
+  domain = "yannickschutz.com"
+  instagram = "bonjouryannick"
+  twitter = "bonjouryannick"
+  vsco = "bonjouryannick"
+
+[privacy]
+  [privacy.disqus]
+    disable = false
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = true
+  [privacy.instagram]
+    disable = false
+    simple = true
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = true
+  [privacy.vimeo]
+    disable = false
+    enableDNT = true
+    simple = true
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true
+
+[outputFormats.jsonfeed]
+  mediaType = "application/json"
+  baseName = "feed"
+  isPlainText = true
+
+[outputs]
+  home = [ "html", "rss", "jsonfeed" ]
+  section = [ "html", "rss", "jsonfeed" ]
+  page = [ "html" ]
+
+[related]
+  includeNewer = true
+
+[[related.indices]]
+  name = "categories"
+  weight =  1 # We don't really need this, but omitting it would disable the indice.
+
+[author]
+  name = "Yannick Schutz"
+
+[permalinks]
+  posts = "/:slug"
+  categories = "/:slug"
+  journal = "/journal/:year-:month-:day"
+
+[imaging]
+  resampleFilter = "lanczos"
+
+[taxonomies]
+  category = "categories"
+
+[languages]
+  [languages.en]
+    weight = 2
+    languageName = "English"
+    [[languages.en.menu.main]]
+      name = "🏠"
+      title = "🏠"
+      weight = 1
+      identifier = "posts"
+      url = "/en"
+    [[languages.en.menu.main]]
+      name = "About"
+      title = "About me"
+      weight = 3
+      identifier = "about"
+      url = "/en/about"
+  [languages.fr]
+    weight = 1
+    languageName = "Français"
+    [[menu.main]]
+      name = "🏠"
+      title = "🏠"
+      weight = 1
+      identifier = "posts"
+      url = "/"
+    [[menu.main]]
+      name = "Journal"
+      title = "Journal"
+      weight = 2
+      identifier = "journal"
+      url = "/journal"
+    [[menu.main]]
+      name = "Bonjour, la lettre"
+      title = "Bonjour, la lettre"
+      weight = 7
+      identifier = "bonjour"
+      url = "/bonjour/"
+    [[menu.main]]
+      name = "Now"
+      title = "Now"
+      weight = 8
+      url = "/now/"
+
+[markup.goldmark.renderer]
+unsafe= true
