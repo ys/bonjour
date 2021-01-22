@@ -35,7 +35,9 @@
   </div>
   <div class="font-sans capitalize text-sm text-gray-700 dark:text-gray-300 md:text-right">
     {{ .Params.emoji }}
-    {{ .Params.place }}
+    {{ range first 1 .Params.categories }}
+    <a href="/{{ . }}">{{ . }}</a>
+    {{ end }}
     {{ .Site.Params.arrow }}
     {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
   </div>

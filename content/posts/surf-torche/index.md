@@ -7,8 +7,9 @@ draft: false
 slug: "/surf-torche"
 camera: "Olympus XA"
 film: "Kodak Gold 200"
+color: sunray
 categories:
-  - vadrouilles
+  - series
 place: "la Torche"
 emoji: "🏄‍♂️"
 resources:

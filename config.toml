@@ -14,7 +14,7 @@ disableKinds = ["taxonomyTerm"]
 
 [params]
   text_404 = "Perdu? Cliquez sur la vague"
-  unfolded_category = "life"
+  folded_categories = ["series", "stories"]
   mainSections = [ "posts" ]
   sizes = [ "2048" , "1024" , "512" ]
   baseline = "n.m. (de bon et jour) - salutation dont on se sert pendant la journée quand on aborde quelqu'un"

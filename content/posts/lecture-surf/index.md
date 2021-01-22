@@ -13,7 +13,7 @@ tags:
 resources:
   - src: "*.jpg"
 categories:
-  - life
+  - books
 color: indigo
 ---
 

@@ -17,7 +17,7 @@ tags:
     "suggestions",
   ]
 categories:
-  - life
+  - books
 description: "Des suggestions lectures que vous soyez à la montagne ou sous les cocotiers"
 slug: "suggestions-lecture-nature-aventure"
 emoji: "📚"

@@ -6,7 +6,7 @@ draft: false
 description: ""
 tags: ["nikonos", "film", "nikonosproject", "dawn patrol", "kodak portra"]
 categories:
-  - vadrouilles
+  - series
 slug: "nikonos-glaz"
 color: "cascade"
 emoji: "🌊"

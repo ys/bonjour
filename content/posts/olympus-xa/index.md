@@ -11,7 +11,7 @@ tags:
   - photo
   - olympus
 categories:
-  - life
+  - analog
 emoji: "📸"
 resources:
   - src: "*.jpg"

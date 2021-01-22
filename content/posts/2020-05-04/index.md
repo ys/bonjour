@@ -10,7 +10,7 @@ resources:
     name: "cover"
 color: sunray
 categories:
-  - life
+  - books
 ---
 
 {{< photo src="cover" alt="books" >}}
