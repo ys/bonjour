@@ -1,12 +1,12 @@
 {{ if not .Params.hideSubscribe }}
-<div class="bg-accent-200 dark:bg-gray-500  w-full p-10 text-gray-700 dark:text-gray-400 font-sans font-light text-sm ">
-<div class="container md:max-w-xl w-screen md:max-w-xl lg:max-w-xl mx-auto">
-  <form class="py-6 flex flex-col items-center" action="https://tinyletter.com/bonjouryannick" method="post" target="popupwindow"
+<div class="bg-accent-200 md:max-w-xl w-screen md:max-w-xl lg:max-w-xl dark:bg-gray-500  w-full p-10 text-gray-700 dark:text-gray-400 font-sans font-light text-sm ">
+<div class="container mx-auto">
+  <form class="flex flex-col items-center" action="https://tinyletter.com/bonjouryannick" method="post" target="popupwindow"
     onsubmit="window.open('https://tinyletter.com/bonjouryannick', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
     <label class="block " for="tlemail">
       Si tu aimes ce que tu as lu, j'aime écrire un peu toutes les deux semaines sur tout et rien.
     </label>
-    <div class="mx-auto">
+    <div class="sm:flex sm:flex-col mx-auto">
     <input type="text" class="inline shadow appearance-none border rounded mt-6 mr-4 py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" name="email" id="tlemail" />
     <input type="hidden" value="1" name="embed" /><input class="bg-accent-600 hover:bg-accent-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline" type="submit" value="Abonne toi" />
     </div>
