@@ -14,7 +14,7 @@ resources:
   - src: "*.jpg"
 categories:
   - life
-color: blue
+color: indigo
 ---
 
 

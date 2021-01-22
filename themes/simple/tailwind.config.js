@@ -12,11 +12,35 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        indigo: colors.indigo,
         teal: colors.teal,
         orange: colors.orange,
         amber: colors.amber,
         bluegray: colors.blueGray,
         rose: colors.rose,
+        bluewhale: {
+          50: '#F2F4F6',
+          100: '#E6E9EC',
+          200: '#BFC9D0',
+          300: '#99A8B3',
+          400: '#4D677B',
+          500: '#002642',
+          600: '#00223B',
+          700: '#001D32',
+          800: '#001728',
+          900: '#001320'
+        },
+        cascade: {
+          100: '#F4F7F6',
+          200: '#E4ECE9',
+          300: '#D4E0DC',
+          400: '#B3C8C1',
+          500: '#93B1A7',
+          600: '#849F96',
+          700: '#6E857D',
+          800: '#586A64',
+          900: '#485752'
+        },
         sunray: {
           100: '#FDF8EE',
           200: '#FBECD5',

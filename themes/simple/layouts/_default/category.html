@@ -2,5 +2,5 @@
   {{ range (.Paginator 10).Pages }}
     {{ partialCached "post.html" . .RelPermalink .Lang }}
   {{ end }}
-  {{ template "_internal/pagination.html" . }}
+  {{ partial "pagination.html" . }}
 {{ end }}

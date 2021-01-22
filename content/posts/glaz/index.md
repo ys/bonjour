@@ -8,7 +8,7 @@ tags: ["nikonos", "film", "nikonosproject", "dawn patrol", "kodak portra"]
 categories:
   - vadrouilles
 slug: "nikonos-glaz"
-color: "blue"
+color: "cascade"
 emoji: "🌊"
 resources:
   - src: "*.jpg"
@@ -27,7 +27,7 @@ Glaz, c'est un bleu canard, si tu n'as pas d'imagination.
 Glaz, c'est aussi la couleur de la nature.  
 Glaz, c'est la couleur que la Kodak Portra m'a donné ce matin là.  
 Glaz, c'est aussi le début d'un projet perso.  
-Glaz, c'est le nom de mes photos à l'eau.
+Glaz, c'est le nom de mes photos à l'eau.  
 
 {{< photo src="41.jpeg" alt="silhouette glaz" >}}
 {{< photo src="43.jpeg" alt="glaz" >}}

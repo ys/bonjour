@@ -1,0 +1,22 @@
+{{ if (and .Site.Params.tinyletter.username (not .Params.hideSubscribe)) }}
+<div class="bg-accent-200 dark:bg-gray-500  w-full px-10 py-20 text-gray-700 dark:text-gray-400 font-sans font-light text-sm ">
+  <div class="container mx-auto">
+    <form class="flex flex-col items-center" action="https://tinyletter.com/{{ .Site.Params.tinyletter.username }}"
+      method="post" target="popupwindow"
+      onsubmit="window.open('https://tinyletter.com/{{ .Site.Params.tinyletter.username }}', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+      <h2 class="text-lg font-sans font-semibold ">{{ .Site.Params.tinyletter.title }}</h2>
+      <label class="block py-4" for="tlemail">
+        {{.Site.Params.tinyletter.message}}
+      </label>
+      <div class="space-y-4 md:space-y-0 md:space-x-4 flex flex-col md:flex-row justify-between md:justify-around items-center md:items-start mt-4">
+        <input type="text"
+          class="inline shadow appearance-none border rounded py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+          name="email" id="tlemail" />
+        <input type="hidden" value="1" name="embed" /><input
+          class="bg-accent-600 hover:bg-accent-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
+          type="submit" value="Abonne toi" />
+      </div>
+    </form>
+  </div>
+</div>
+{{ end}}
