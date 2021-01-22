@@ -32,6 +32,10 @@ disableKinds = ["taxonomyTerm"]
   host = "logs.yannickschutz.com"
   siteID = "UJYRI"
   trackDomain = "yannickschutz.com"
+[params.tinyletter]
+  username = "bonjouryannick"
+  title = "Ma petite lettre"
+  message = "Si tu aimes ce que tu as lu, j'envoie une petite lettre sur tout et rien toutes les deux semaines."
 
 [params.social]
   email = "hello@yannickschutz.com"
