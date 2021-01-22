@@ -5,6 +5,6 @@
   {{ partialCached "post" . .RelPermalink .Lang }}
 {{ end }}
 <div class="font-sans">
-  {{ template "_internal/pagination.html" . }}
+  {{ partial "pagination.html" . }}
 </div>
 {{ end }}
