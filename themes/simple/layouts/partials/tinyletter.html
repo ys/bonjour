@@ -1,5 +1,5 @@
 {{ if (and .Site.Params.tinyletter.username (not .Params.hideSubscribe)) }}
-<div class="bg-accent-200 dark:bg-gray-500  w-full p-10 text-gray-700 dark:text-gray-400 font-sans font-light text-sm ">
+<div class="bg-accent-200 dark:bg-gray-500  w-full px-10 py-20 text-gray-700 dark:text-gray-400 font-sans font-light text-sm ">
   <div class="container mx-auto">
     <form class="flex flex-col items-center" action="https://tinyletter.com/{{ .Site.Params.tinyletter.username }}"
       method="post" target="popupwindow"
