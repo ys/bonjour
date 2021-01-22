@@ -28,7 +28,7 @@ html {
   font-family: theme("fontFamily.sans") !important;
 }
 
-$colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, sunray, rose, amber;
+$colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, bluewhale, sunray, rose, amber;
 @each $color in $colors {
   .content-#{$color} .post blockquote {
     @apply text-#{$color}-600 dark:text-#{$color}-200;
@@ -48,13 +48,13 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, sunray, r
   }
 }
 
-.link, .content a, .post a {
-  @apply text-accent-600 underline relative;
-  transition: color 0.5s, background-image 0.5s linear;
-  &:hover {
-    @apply text-accent-600 underline relative;
-  }
-}
+// .link, .content a, .post a {
+//   @apply text-accent-600 underline relative;
+//   transition: color 0.5s, background-image 0.5s linear;
+//   &:hover {
+//     @apply text-accent-600 underline relative;
+//   }
+// }
 
 .note {
   blockquote {
