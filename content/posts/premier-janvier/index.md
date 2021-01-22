@@ -7,7 +7,7 @@ tags: []
 categories:
 - life
 slug: "premier-janvier"
-color: blue
+color: indigo
 emoji: "🌊"
 resources:
 - src: "*.jpg"

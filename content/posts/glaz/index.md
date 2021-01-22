@@ -8,7 +8,7 @@ tags: ["nikonos", "film", "nikonosproject", "dawn patrol", "kodak portra"]
 categories:
   - vadrouilles
 slug: "nikonos-glaz"
-color: "blue"
+color: "indigo"
 emoji: "🌊"
 resources:
   - src: "*.jpg"

@@ -18,7 +18,7 @@ resources:
   - src: "*.jpg"
 categories:
   - life
-color: blue
+color: indigo
 ---
 
 {{< photo src="cover.jpg" alt="Yannick et Tom" >}}
