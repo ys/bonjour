@@ -1,7 +1,7 @@
 {{ block "header" . }}
 <div class="container w-screen md:max-w-xl lg:max-w-xl mx-auto">
   <div class="mx-4 md:mx-0">
-    <header class="pb-4 mb-4 ">
+    <header class="py-6">
       <a alt="{{.Site.Title}} home"
          class="font text-3xl font-normal h-16 md:w-1/2 logo block pt-8 {{ with .Params.Color }} dark:text-{{ .}}-200 text-{{ . }}-700 {{ else }}text-gray-800 dark:text-gray-100{{ end }} "
         href="{{ "/" | relLangURL }}">
