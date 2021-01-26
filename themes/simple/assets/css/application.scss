@@ -94,14 +94,14 @@ hr {
     content: "• ";
   }
   h3 {
-    @apply mt-8 text-gray-900 uppercase font-normal py-1 px-2 inline;
+    @apply text-xl mt-8 text-gray-900 uppercase font-normal py-1 px-2 inline;
   }
 
   h1 {
     @apply mt-4 font-bold block;
   }
   h2 {
-    @apply mt-8 text-gray-900 py-1 px-2 font-bold inline;
+    @apply text-xl mt-8 text-gray-900 py-1 px-2 font-bold inline;
 
     a {
       @apply text-gray-900;
