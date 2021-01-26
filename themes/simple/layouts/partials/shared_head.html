@@ -1,10 +1,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-{{ if .Site.Params.font.default }}
-{{ else if .Site.Params.font.url }}
+{{ if .Site.Params.font.url }}
 <link rel="preload" href="{{ .Site.Params.font.url }}" />
-{{ else }}
-{{ $fontstyle := resources.Get "css/fonts.scss" | resources.ExecuteAsTemplate "fonts.css" . | toCSS | resources.PostCSS }}
-<link rel="preload" href="{{ $fontstyle.RelPermalink }}" />
 {{ end }}
 {{ $style := resources.Get "css/application.scss" | resources.ExecuteAsTemplate "main.css" . | toCSS | resources.PostCSS }}
 {{ if .Site.IsServer }}

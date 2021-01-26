@@ -11,21 +11,6 @@ html {
 
 :root {
   --accent: {{ with .Site.Params.accentColor }}{{ . }}{{ else }}var(--onyx){{ end }};
-  --serif-text: {{ with .Site.Params.font.serif}}{{ . }}{{ else }}theme("fontFamily.serif"){{ end }};
-  --sans-text: {{ with .Site.Params.font.sans}}{{ . }}{{ else }}theme("fontFamily.sans"){{ end }};
-  --mono-text: "ia-writer-duo";
-}
-
-.font-serif, .sm\:font-serif, .md\:font-serif, .lg\:font-serif {
-  font-family: var(--serif-text), theme("fontFamily.serif") !important;
-}
-
-.font-mono {
-  font-family: var(--mono-text), theme("fontFamily.mono") !important;
-}
-
-.font-sans {
-  font-family: theme("fontFamily.sans") !important;
 }
 
 $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, bluewhale, sunray, rose, amber;
@@ -47,14 +32,6 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, 
     }
   }
 }
-
-// .link, .content a, .post a {
-//   @apply text-accent-600 underline relative;
-//   transition: color 0.5s, background-image 0.5s linear;
-//   &:hover {
-//     @apply text-accent-600 underline relative;
-//   }
-// }
 
 .note {
   blockquote {
@@ -88,7 +65,7 @@ hr {
 .post {
   @apply mb-10;
   p, ul, ol {
-    @apply font-serif leading-relaxed text-base md:text-lg;
+    @apply leading-relaxed text-base md:text-lg;
   }
   li::before {
     content: "• ";
