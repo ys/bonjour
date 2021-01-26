@@ -1,5 +1,5 @@
 ---
-title: "Firs of January 2021"
+title: "First of January 2021"
 subtitle: "Nikonos at sunrise"
 date: 2021-01-01T14:24:02+01:00
 draft: false
