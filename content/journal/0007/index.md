@@ -5,6 +5,7 @@ date: 2021-01-07 21:27:33 +0200
 resources:
   - src: "*.jpg"
 ---
+
 {{< photo src="cover.jpg" alt="terrain" regular="true" >}}
 
 On est propriétaire terrien. Nous avons signé aujourd'hui. Une belle parcelle de 8400m2 pour de jolis projets.
