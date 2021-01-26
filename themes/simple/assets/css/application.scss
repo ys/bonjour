@@ -13,7 +13,7 @@ html {
   --accent: {{ with .Site.Params.accentColor }}{{ . }}{{ else }}var(--onyx){{ end }};
   --serif-text: {{ with .Site.Params.font.serif}}{{ . }}{{ else }}theme("fontFamily.serif"){{ end }};
   --sans-text: {{ with .Site.Params.font.sans}}{{ . }}{{ else }}theme("fontFamily.sans"){{ end }};
-  --mono-text: "ia-writer-duo";
+  --mono-text: "ia-writer-quattro";
 }
 
 .font-serif, .sm\:font-serif, .md\:font-serif, .lg\:font-serif {
