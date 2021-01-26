@@ -17,9 +17,9 @@ resources:
   - src: "*.jpg"
 ---
 
-{{< photo alt="olympus XA" src="cover.jpg" >}}
-
 Nous sommes en 2020, Macron compare les gens qui ne veulent pas de la 5G aux Amishs et moi, c'est fait, j'ai revendu tout mon matos numérique. Quel lien entre moi et les Amishs? Aucune idée mais ça faisait une intro un rien connectée à une actualité déconnectée. C'est une année assez étrange. Mais c'est l'année où j'ai décider d'abandonner mon matos photo numérique.
+
+{{< photo alt="olympus XA" src="cover.jpg" >}}
 
 Depuis quelques mois, ce petit Olympus XA m'accompagne quasi partout. Il a vu passer les films cet été et tient bien dans ma poche. C'est un mini rangefinder et non un point and shoot comme sa taille pourrait vous le faire croire. Il est polyvalent avec son ouverture à 2.8 sur son 35mm. Il est mignon et plus petit que mon iPhone. Il ne demande que deux piles et les consomme lentement. Il date de la fin des années 70 mais ne fait pas son âge. En gros, ce petit appareil avec priorité à tout pour plaire.
 
