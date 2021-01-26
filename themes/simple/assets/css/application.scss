@@ -24,8 +24,8 @@ html {
   font-family: var(--mono-text), theme("fontFamily.mono") !important;
 }
 
-.font-sans {
-  font-family: theme("fontFamily.sans") !important;
+.font-sans, .sm\:font-sans, .md\:font-sans, .lg\:font-sans {
+  font-family: var(--sans-text), theme("fontFamily.sans") !important;
 }
 
 $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, bluewhale, sunray, rose, amber;
@@ -88,7 +88,7 @@ hr {
 .post {
   @apply mb-10;
   p, ul, ol {
-    @apply font-serif leading-relaxed text-base md:text-lg;
+    @apply leading-relaxed text-base md:text-lg;
   }
   li::before {
     content: "• ";
