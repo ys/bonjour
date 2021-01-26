@@ -10,7 +10,20 @@ module.exports = {
     }
   },
   theme: {
+    fontFamily: {
+      sans: ['neue-haas-unica', 'sans-serif'],
+    },
     extend: {
+      typography: {
+        DEFAULT: {
+          css: {
+            img: {
+              marginTop: 0,
+              marginBottom: 0
+            }
+          }
+        }
+      },
       colors: {
         indigo: colors.indigo,
         teal: colors.teal,

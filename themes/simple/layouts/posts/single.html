@@ -7,7 +7,7 @@
     {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
     {{ end }}
   </h1>
-  <h2 class="text-gray-600 dark:text-gray-300">
+  <h2 class="italic text-gray-600 dark:text-gray-300">
     {{ with .Params.subtitle }}
     {{ . }}
     {{ end }}
