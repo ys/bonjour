@@ -3,33 +3,29 @@ title: "Maintenant"
 description: "Ce que je fais, qui m'intéresse et me tracasse."
 date: 2020-10-07T12:57:50+02:00
 draft: false
-color: rose
+color: sunray
 type: "about"
 resources:
   - src: "*.jpg"
 ---
 {{< photo src="now.jpg" alt="Instax de roscoff" >}}
 
-Cela fait quelques semaines que je fais du surf de façon régulière, enfin disons que j'apprends à faire du surf de façon régulière.
-J'étais bien dans ma combi 3/2 jusque cette semaine. Là, je suis enrhumé. J'ai donc commandé des chaussons et une combi 5/4.
-C'est assez passionant comme sport. Je pense que mes yeux se sont habitués à l'eau salée dedans. Mon nez aussi, ca permet de bien déboucher.
-Même si parfois l'eau ne ressort que une heure plus tard.
-
-Cela fait trois mois que je n'avais pas utilisé mon Fuji XT-3. Je l'ai donc revendu. Il me reste le 23mm f2.0, si il t'intéresse, ping moi sur les Twitter.
-J'ai investi dans un peu de matos argentique et je ne vais pas reprendre de numérique pour le moment. Un iPhone X suffira pour la partie numérique.
+Cela fait maintenant quelques années que je suis dans le coin. Un breton d'adoption. 
+Je suis amoureux de l'océan et de la nature. Ces derniers temps, je ne fais plus que de la photo argentique. J'ai mon iPhone 12 mini pour tout ce qui est numérique. Je charge principalement de la Kodak Portra 400 dans mes appareils. J'aime de plus en plus la Kodak Tri-X 400. J'ai eu beaucoup de plaisir sur quelques rolls.
 
 Mon matos actuel:
-- Olympus XA 35mm f2.8
-- Leica m6 avec un Summarit-m 35mm f2.5
-- Nikonos V avec son 35mm f2.0
+- Leica M6 avec un Voigtlander Nokton Classic 35mm 1.4
+- Nikonos V avec son 35mm
 
-J'ai envie de faire des photos à l'eau d'où le "besoin" de ce Nikonos. J'en ai deux en fait mais un n'a pas encore toutes ses pièces et je compte les tester pour voir.
-Si tu te demandes à quoi cela ressemble, va voir [@meganshootsfilm](https://instagram.com/meganshootsfilm) ou cette [video](https://vimeo.com/123379414) de Brooks Sterling pour mieux comprendre.
+J'ai à moitié cassé mon Olympus XA. Cela me rend triste. J'en reprendrai sans doute un bientôt. C'est top pour l'été.
 
-Pour la photo argentique, j'en parle dans [cet article](/un-ete-en-36-poses) mais le leica m6 me faisait rêver depuis des années. Je pense être venu au Fuji x100 à cause de ce boîtier et du côté nostalgique qu'il comblait pour moi.
+J'ai commencé à faire de la [photo dans l'eau](/nikonos-glaz) armé de palmes et du Nikonos. C'est une petite drogue cette eau salée. Cette année je pense bien finir avec une longboard à moi pour continuer à surfer même sans l'école. Je vais dans l'eau dès que je peux.
 
-Je me lasse de Instagram énormément. J'adore les rencontres que j'y fais mais le format me déplait, encore plus quand je découvre comme mon feed est moche en mode dark... Je pense à recréer soit des stories sur [Exposure](https://vadrouilles.exposure.co/), le dépoussiérer, ou simplement poster des stories photos ici. Comme j'aime avoir mon propre site avec son flux RSS, j'aimerais posséder ce lieu où je poste des photos aussi, j'ai tenté ca [ici](https://yannickschutz.com/portfolio). Si vous avez un avis, hésitez pas.
+J'ai acheté du matos pour scanner moi-même. Donc en gros j'ai un Fuji X-T30 juste pour scanner des négatifs. Je pense faire un article là-dessus assez vite aussi.
 
-Voilà voilà.
+J'écris [une petite lettre](/bonjour) sur tout et rien toutes les deux semaines. Cela me permet d'écrire de manière régulière. C'est un vrai petit plaisir! Je n'ai pas beaucoup de lecteurs mais ils me répondent. Donc en gros, cela me rend heureux.
 
-*Cette page a été écrite le 2020.10.06. Si tu veux en savoir plus sur la page /now, [suis ceci](https://nownownow.com/about).*
+Je continue à me remettre en forme pour mieux surfer. Petit à petit le sport revient dans ma vie. C'est un plaisir. Cela fait aussi 27 jours que je n'ai pas bu d'alcool, cela ne me manque pas du tout en ce moment. Plus de sodas depuis 5 ans aussi. Une vie un rien plus saine et toujours aussi con dans ma tête. 
+
+
+*Cette page a été écrite le 2021.01.26. Si tu veux en savoir plus sur la page /now, [suis ceci](https://nownownow.com/about).*
