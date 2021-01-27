@@ -16,7 +16,7 @@ html {
 $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, bluewhale, sunray, rose, amber;
 @each $color in $colors {
   .content-#{$color} .post blockquote {
-    @apply text-#{$color}-600 dark:text-#{$color}-200;
+    @apply leading-snug pl-6 -ml-6 border-l-4 border-#{$color}-500 font-normal;
   }
   .content-#{$color} .post a{
     @apply text-#{$color}-600 dark:text-#{$color}-200 underline relative;
@@ -32,13 +32,6 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, 
     }
   }
 }
-
-.note {
-  blockquote {
-    @apply leading-snug text-accent-600  font-bold font-normal;
-  }
-}
-
 .logo svg {
   @apply fill-current;
 }
@@ -100,15 +93,6 @@ hr {
   p {
     @apply my-6
   }
-  blockquote {
-    @screen md {
-      @apply -mx-8;
-    }
-    @apply leading-snug text-accent-600  font-normal text-xl py-4;
-    a {
-      @apply underline;
-    }
-  }
 }
 
 .post, .content {
@@ -117,11 +101,6 @@ hr {
   }
   .medium-zoom-overlay {
     @apply dark:bg-dark;
-  }
-  blockquote {
-    a {
-    }
-    @apply underline;
   }
 }
 .link, .content a {
