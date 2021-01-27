@@ -12,26 +12,11 @@
 			"items": [
       {{ range $i, $e := first 10 (where .RegularPages ".Params.hidden" "!=" "true") }}
 			{{ if $i }}, {{ end }}
-				{
-					"id": "{{ .Permalink }}",
-					"title": "{{ .Title }}",
-					"summary": {{ .Summary | jsonify }},
-          "content_html": "{{ replace .Content "\n" "\\n" | replaceRE "\"" "\\\"" | replaceRE "\t" "\\t"}}",
-          "content_text": "{{ .Plain }}",
-					"url": "{{ .Permalink }}",
 					{{- $images := .Resources.ByType "image" -}}
 					{{- $featured := $images.GetMatch "*feature*" -}}
 					{{- $featured := cond (ne $featured nil) $featured ($images.GetMatch "{*cover*,*thumbnail*}") -}}
-					{{- with $featured -}}
-										"image": "{{ .Permalink }}"
-					{{ else -}}
-										"image": "{{ (index $images 0).Permalink }}"
-					{{ end }}
-          {{ with .Params.tags }}
-					"tags": ["{{ delimit . "," }}"],
-          {{ end }}
-					"date_published": {{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | jsonify }}
-				}
+					{{- $featured := cond (ne $featured nil) $featured (index $images 0) -}}
+			  {{ ((dict "id" .Permalink "title" .Title "summary" .Summary "tags" .Params.tags "date_published" (.Date.Format "Mon, 03 Jan 2006 15:04:05 -0700" ) "content_html" .Content "content_text" .Plain "url" .Permalink "image" $featured.Permalink) | jsonify ) }}
 			{{ end }}
     ]
 }
