@@ -15,6 +15,11 @@ html {
 
 $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, bluewhale, sunray, rose, amber;
 @each $color in $colors {
+  .zoom-#{$color} {
+    .medium-zoom-overlay {
+      @apply bg-#{$color}-200 dark:bg-#{$color}-700;
+    }
+  }
   .content-#{$color} .post blockquote {
     @apply leading-snug pl-6 -ml-6 border-l-4 border-#{$color}-500 font-normal;
   }
