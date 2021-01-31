@@ -1,0 +1,28 @@
+
+{{ $src := .Page.Resources.GetMatch (printf "*%s*" (.Get "src")) }}
+
+{{ if $src }}
+
+  {{ $lqipw := default "20x" }}
+  {{ $lqip := $src.Resize $lqipw }}
+  <figure>
+    <picture class="block relative {{ if .Get "no-shadow" }} {{ else}}shadow-lg{{end}} {{ if .Parent }}{{ else }}my-6 {{ if gt $src.Height $src.Width }}mx-auto w-2/3{{ else }}{{ if .Get "large" }}md:-mx-32{{ else if .Get "regular" }}{{ else }}md:-mx-10{{ end }}{{ end }}{{ end }} img" >
+      <svg class="m-0 h-auto w-full" width="{{ $src.Width }}" height="{{ $src.Height }}" aria-hidden="true"></svg>
+      <img
+        loading="lazy"
+        alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "src" }}{{ end }}"
+        class="m-0 h-auto w-full absolute top-0 left-0 lazyload"
+        {{ if not (.Get "no-zoom") }}
+        data-action="zoom"
+        {{ end }}
+        data-zoom-src="{{ $src.RelPermalink}}"
+        src="{{ $src.RelPermalink }}"
+        width="{{ $src.Width }}" height="{{ $src.Height }}">
+    </picture>
+    {{ with .Get "caption" }}
+      <figcaption class="text-center italic -mt-4 font-sans text-sm dark:text-gray-300 text-gray-500 ">
+        {{ . }}
+      </figcaption>
+    {{ end }}
+  </figure>
+{{ end }}
