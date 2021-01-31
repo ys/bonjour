@@ -8,7 +8,7 @@ categories:
 - analog
 slug: "workflow-argentique"
 emoji: "🎞"
-color: teal
+color: amber
 resources:
 - src: "*.jpg"
 - src:  "cover.jpg"
@@ -24,7 +24,7 @@ Pour cette recette, il vous faudra:
 - Un labo sympa
 - Un ordinateur
 - Lightroom Classic avec en option Negative Lab Pro
-- Une appli pour vos photos "développées", Google photos, photos.app, tout autre photo de votre choix qui catalogue bien.
+- Une appli pour vos photos "développées", Google photos, photos.app, tout autre app photo de votre choix qui catalogue bien.
 
 Ceci n'est que mon workflow actuel, elle n'engage que moi et marche pour le moment. Comme disent les américains, vos kilomètres peuvent varier. Cette recette va évoluer pour moi bientôt car je viens de commencer à scanner mes négatifs moi-même.
 
