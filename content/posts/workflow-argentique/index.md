@@ -23,7 +23,7 @@ Pour cette recette, il vous faudra:
 - Des sujets à photographier, intéressants ou non
 - Un labo sympa
 - Un ordinateur
-- Lightroom Classic avec en option Negative Lab Pro
+- Lightroom Classic avec en option [Negative Lab Pro](https://www.negativelabpro.com)
 - Une appli pour vos photos "développées", Google photos, photos.app, tout autre app photo de votre choix qui catalogue bien.
 
 Ceci n'est que mon workflow actuel, elle n'engage que moi et marche pour le moment. Comme disent les américains, vos kilomètres peuvent varier. Cette recette va évoluer pour moi bientôt car je viens de commencer à scanner mes négatifs moi-même.
@@ -62,7 +62,7 @@ J'ai un backup complet de ce disque aussi vers [Backblaze B2](https://backblaze.
 ## Traitement de la photo et ajout d'informations
 
 - Importez dans Lightroom Classic. Pourquoi cet outil? Il permet de facilement travailler les images et de les enrichir de métadonnées (Les métadonnées sont des données sur les données, comme l'information de l'appareil, du type de prise de vue, sa géolocalisation, etc)
-- Via l'outil de métadonnées des photos, ajoutez les informations du film, de l'appareil utilisé et tout ce qui vous semble nécessaire. Si vous utilisez [Negative Lab Pro](https://www.negativelabpro.com/) (ci-après nommé NLP), il ajoute des métadonnées spécifiques pour l'argentique (type de film, type de développement, type de scan, infos de l'appareil argentique et autres joyeusetés)
+- Via l'outil de métadonnées des photos, ajoutez les informations du film, de l'appareil utilisé et tout ce qui vous semble nécessaire. Si vous utilisez Negative Lab Pro (ci-après nommé NLP), il ajoute des métadonnées spécifiques pour l'argentique (type de film, type de développement, type de scan, infos de l'appareil argentique et autres joyeusetés)
 - Sélectionnez vos favorites dans le lot
 - Retravaillez légèrement (ou non) vos favorites. Il n'y a pas de honte à modifier une photo argentique.
 - Exportez les photos en laissant NLP écraser les données [EXIF](https://fr.wikipedia.org/wiki/Exchangeable_image_file_format) par les siennes et dans un format JPEG qui ne soit pas extrêmement encombrant.
