@@ -34,7 +34,7 @@ Ceci n'est que mon workflow actuel, elle n'engage que moi et marche pour le mome
 - Une fois le bac à oeufs rempli ou lors d'un excès de zèle, amenez ou envoyez vos pellicules à votre labo favori. Je peux vous conseiller [Nation Photo](https://nationphoto.com) ou [Mori Film Lab](https://morifilmlab.com). 
 - Une fois envoyé, patientez jusqu'à réception des fichiers ou du lien de téléchargement. Il se peut que le temps s'étende à l'infini une fois l'envoi fait. Vous venez de comprendre la relativité du temps. Merci Albert Einstein.
 
-### Laissez reposer sur votre stockage local
+## Laissez reposer sur votre stockage local
 
 - Laissez reposer le temps de l'arrivée des scans sur votre ordinateur. 
 - Une fois arrivés, utilisez votre outil favori pour les télécharger et rangez les dans un dossier de votre choix. 
@@ -46,7 +46,7 @@ C'est personnel, je pensais ajouter l'appareil mais ça allait devenir long.
 En gros `Daily` est mon disque dur du quotidien. [Un SSD de 1To de chez Sandisk](https://www.digit-photo.com/SANDISK-Disque-Dur-SSD-Extreme-Portable-1Tb-V2-USB-3-1-rSANDISKSDSSDE611T0.html).
 ```
 
-### Petites élucubrations autour du backup
+## Petites élucubrations autour du backup
 
 - Une fois cette copie en local, préparez votre disque de backup favori. Si vous n'en n'avez pas, prenez un NAS ou un simple disque USB selon vos besoin. 
 - Faites une seconde copie vers les internets, une copie qui ne reste pas chez vous au cas où. Si vous avez un NAS, il supporte sans doute pas mal de destinations connues telles que Amazon S3, Backblaze ou autre provider de votre choix.
@@ -58,7 +58,7 @@ Sur un NAS que je n'allume que mensuellement, une copie complète via `rsync` de
 J'ai un backup complet de ce disque aussi vers [Backblaze B2](https://backblaze.com) en utilisant [Arq](https://arqbackup.com) sur mac.  
 ```
 
-### Traitement de la photo et ajout d'informations
+## Traitement de la photo et ajout d'informations
 
 - Importez dans Lightroom Classic. Pourquoi cet outil? Il permet de facilement travailler les images et de les enrichir de métadonnées (Les métadonnées sont des données sur les données, comme l'information de l'appareil, du type de prise de vue, sa géolocalisation, etc)
 - Via l'outil de métadonnées des photos, ajoutez les informations du film, de l'appareil utilisé et tout ce qui vous semble nécessaire. Si vous utilisez [Negative Lab Pro](https://www.negativelabpro.com/) (ci-après nommé NLP), il ajoute des métadonnées spécifiques pour l'argentique (type de film, type de développement, type de scan, infos de l'appareil argentique et autres joyeusetés)
@@ -78,7 +78,7 @@ Mon export fait en général 3000px sur le long côté.
 
 *Certes, Negative Lab pro a un certain coût, mais il est fait par un seul passionné et je m'en sert aussi pour convertir mes scans fait au DSLR.*
 
-### Emballer les photos et les stocker pour vos partages
+## Emballer les photos et les stocker pour vos partages
 
 - Une fois votre sélection exportée, ajoutez là à votre outil de gestion de photos préféré (Mes exemples seront liés à Photos.app)
 - Créez y des smart albums par appareil et par film, même si ceux-ci ne seront pas partagés sur votre dumbphone.
