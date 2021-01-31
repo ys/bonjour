@@ -41,7 +41,7 @@ Ceci n'est que mon workflow actuel, elle n'engage que moi et marche pour le mome
 - Une fois arrivés, utilisez votre outil favori pour les télécharger et rangez les dans un dossier de votre choix.
 
 {{% note %}}
-En local, j'utilise une arborescence du type `/Volumes/Daily/Photos/scans/2021/2021-01-10-description-pellicule`.  
+En local, j'utilise une arborescence du type `scans/2021/2021-01-10-description-pellicule`.  
 En gros chaque roll est dans un dossier avec une petite description des photos et le type de pellicule utilisée.  
 C'est personnel, je pensais ajouter l'appareil mais ça allait devenir long.  
 En gros `Daily` est mon disque dur du quotidien. [Un SSD de 1To de chez Sandisk](https://www.digit-photo.com/SANDISK-Disque-Dur-SSD-Extreme-Portable-1Tb-V2-USB-3-1-rSANDISKSDSSDE611T0.html).
@@ -54,7 +54,9 @@ En gros `Daily` est mon disque dur du quotidien. [Un SSD de 1To de chez Sandisk]
 - Ne négligez pas les backups, même si au final c'est comme les avocats. On consulte avant d'en avoir besoin en espérant ne jamais les utiliser. Ou les assurances comme vous préférez.
 
 {{% note %}}
-Je suis un peu parano et j'ai donc en local `/Volumes/Daily/Photos/2021` & `/Volumes/Backup/Photos/2021`. Sur deux disques séparés.  
+Je suis un peu parano et j'ai donc en local sur deux disques séparés.
+- `/Volumes/Daily/Photos/2021` 
+- `/Volumes/Backup/Photos/2021`  
 Sur un NAS que je n'allume que mensuellement, une copie complète via `rsync` de `/Volumes/Backup/Photos`.  
 J'ai un backup complet de ce disque aussi vers [Backblaze B2](https://backblaze.com) en utilisant [Arq](https://arqbackup.com) sur mac.
 {{%/ note %}}
