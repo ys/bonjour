@@ -8,7 +8,7 @@ categories:
 - analog
 slug: "workflow-argentique"
 emoji: "🎞"
-color: amber
+color: bluewhale
 resources:
 - src: "*.jpg"
 - src: "*.png"
