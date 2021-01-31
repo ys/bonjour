@@ -8,6 +8,7 @@ categories:
 - analog
 slug: "workflow-argentique"
 emoji: "🎞"
+color: teal
 resources:
 - src: "*.jpg"
 - src:  "cover.jpg"
