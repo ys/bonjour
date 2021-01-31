@@ -49,9 +49,8 @@
       "ul"
     ],
     "classes": [
-      "-mt-16",
+      "-mt-15",
       "-mt-4",
-      "absolute",
       "active",
       "align-center",
       "always-2",
@@ -134,7 +133,6 @@
       "justify-between",
       "lazyload",
       "leading-tight",
-      "left-0",
       "lg:max-w-xl",
       "logo",
       "m-0",
@@ -224,7 +222,6 @@
       "text-teal-700",
       "text-white",
       "text-xs",
-      "top-0",
       "w-2/3",
       "w-auto",
       "w-full",
