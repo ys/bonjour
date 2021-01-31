@@ -1,9 +1,18 @@
 ---
-title: "Mon workflow photo argentique"
-subtitle: "Recette de la pellicule jusqu'à votre post le plus liké"
+title: "Comment trier, ranger et traiter vos scans"
+subtitle: "Petit manuel à l'attention du photographe argentique ordonné"
 date: 2021-01-31T12:24:02+01:00
 draft: false
-tags: []
+tags: 
+- lightroom
+- argentique
+- pellicule
+- traitement
+- photo
+- film
+- "negative lab pro"
+- mac
+- ios
 categories:
 - analog
 slug: "workflow-argentique"
