@@ -56,6 +56,9 @@ hr {
 }
 
 .post {
+  code {
+    @apply w-full break-words my-6;
+  }
   @apply mb-10;
   p, ul, ol {
     @apply leading-relaxed text-base md:text-lg;
