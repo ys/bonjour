@@ -1,5 +1,5 @@
 ---
-title: "Comment trier, ranger et traiter vos scans"
+title: "Comment trier, ranger et annoter vos scans"
 subtitle: "Petit manuel numérique à l'attention du photographe argentique ordonné"
 date: 2021-01-31T12:24:02+01:00
 draft: false
@@ -18,7 +18,7 @@ categories:
 slug: "workflow-argentique"
 emoji: "🎞"
 color: bluewhale
-summary: "Comment ranger, trier, annoter vos scans reçus par votre lab. Un petit guide utile présentant mon workflow actuel. Quels sont les outils que j'utilise? Mes trucs et astuces?"
+summary: "Petit manuel numérique à l'attention du photographe argentique ordonné. Vous venez de recevoir de nouveaux scans de votre labo préféré. Un petit guide utile présentant mon workflow actuel. Quels sont les outils que j'utilise? Mes trucs et astuces?"
 resources:
 - src: "*.jpg"
 - src: "*.png"
