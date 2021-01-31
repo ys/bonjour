@@ -22,7 +22,7 @@ summary: "Petit manuel numérique à l'attention du photographe argentique ordon
 resources:
 - src: "*.jpg"
 - src: "*.png"
-- src:  "cover.jpg"
+- src:  "lightroom.png"
   name: "cover"
 ---
 
@@ -84,7 +84,7 @@ J'ai un backup complet de ce disque aussi vers [Backblaze B2](https://backblaze.
 - Retravaillez légèrement (ou non) vos favorites. Il n'y a pas de honte à modifier une photo argentique.
 - Exportez les photos en laissant NLP écraser les données [EXIF](https://fr.wikipedia.org/wiki/Exchangeable_image_file_format) par les siennes et dans un format JPEG qui ne soit pas extrêmement encombrant.
 
-{{< photo src="lightroom.png" no-shadow="true" no-lqip="true" caption="smart-collections et metadata" >}}
+{{< photo src="cover" no-shadow="true" no-lqip="true" caption="smart-collections et metadata" >}}
 
 {{% note %}}
 J'ai personnellement des "smart collections" par appareil et film dans Lightroom. D'où l'utilité du bon remplissage de ces métadonnées. Cela me permet de voir en un clin d'oeil les différentes photos prises au Portra ou Tri-X.  
