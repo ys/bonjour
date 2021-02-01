@@ -1,28 +1,18 @@
 
-<footer class="bg-gray-200 dark:bg-gray-700  w-full p-10 text-gray-700 dark:text-gray-200 font-sans font-light text-sm ">
-
-  <div class="w-full md:flex-row flex-col justify-around flex">
-    <div class="md:w-1/3">
-      <span class=" font-bold block text-lg">{{ .Site.Title }}</span>
-      <span class="mb-3 italic block">{{ .Site.Params.baseline }}</span>
-      <span>{{ .Site.Params.description }}</span>
-    </div>
-    <div class="md:w-1/3">
-      <span class=" font-bold block text-lg">Social</span>
+<footer class="container md:max-w-xl mx-auto p-10 text-gray-700 dark:text-gray-200 font-sans font-light text-sm ">
+    <div class="text-right">
       {{ with .Site.Params.social.instagram }}
-      <a class="block p-1" href="https://instagram.com/{{ . }}">📷 Instagram</a>
+      <a class="p-1" href="https://instagram.com/{{ . }}">📷 Instagram</a>
       {{ end }}
       {{ with .Site.Params.social.twitter }}
-      <a class="block p-1" href="https://twitter.com/{{ . }}">🐥 Twitter</a>
+      <a class="p-1" href="https://twitter.com/{{ . }}">🐥 Twitter</a>
       {{ end }}
       {{ with .Site.Params.social.youtube }}
-      <a class="block p-1" href="https://youtube.com/{{ . }}">🎥 Youtube</a>
+      <a class="p-1" href="https://youtube.com/{{ . }}">🎥 Youtube</a>
       {{ end }}
       {{ with .Site.Params.social.vsco }}
-      <a class="block p-1" href="https://vsco.com/{{ . }}">📷 VSCO</a>
+      <a class="p-1" href="https://vsco.com/{{ . }}">📷 VSCO</a>
       {{ end }}
-      <a class="block p-1" href="mailto:{{ $.Site.Params.social.email }}">✉️ {{ $.Site.Params.social.domain }}</a>
+      <a class="p-1" href="mailto:{{ $.Site.Params.social.email }}">✉️ {{ $.Site.Params.social.domain }}</a>
     </div>
-  </div>
-  {{ partial "main_menu" . }}
 </footer>

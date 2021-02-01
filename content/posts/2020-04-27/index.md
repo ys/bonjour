@@ -1,5 +1,6 @@
 ---
-title: "🪓 Se chauffer, plusieurs fois"
+title: "Se chauffer, plusieurs fois"
+emoji: "🪓"
 date: 2020-04-27 05:01:01 +0200
 slug: "du-bois"
 aliases:

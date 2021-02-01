@@ -1,5 +1,6 @@
 ---
-title: ☕️ Pause café
+title: Pause café
+emoji: ☕️
 color: sunray
 date: 2020-04-16 07:03:03 +0200
 resources:

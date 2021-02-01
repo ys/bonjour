@@ -8,3 +8,5 @@ tags: ["bretagne", "slow travel", "rural exodus", "voyage", "finistere", "monts 
 resources:
 - src: "*.jpg"
 ---
+
+Toute une série d'articles sur des sujets divers et variés allant de la photo au café en passant par la randonnée, la lecture et de la philosophie personnelle de vie.

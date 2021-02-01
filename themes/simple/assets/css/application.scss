@@ -59,12 +59,15 @@ hr {
 }
 
 .post {
+  p {
+    @apply font-body;
+  }
   code {
     @apply w-full break-words my-6;
   }
   @apply mb-10;
   p, ul, ol {
-    @apply leading-relaxed text-base md:text-lg;
+    @apply leading-relaxed text-base md:text-lg font-serif;
   }
   li::before {
     content: "• ";

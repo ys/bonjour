@@ -1,5 +1,6 @@
 ---
-title: "🪓 Heating, multiple times"
+title: "Heating, multiple times"
+emoji: "🪓"
 date: 2020-04-27 05:01:01 +0200
 resources:
   - src: "*.jpg"
