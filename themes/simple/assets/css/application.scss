@@ -59,8 +59,11 @@ hr {
 }
 
 .post {
-  p {
+  p, ul, ol {
     @apply font-body;
+  }
+  h1, h2, h3, h4 {
+    @apply font-display;
   }
   code {
     @apply w-full break-words my-6;
@@ -77,10 +80,10 @@ hr {
   }
 
   h1 {
-    @apply mt-4 font-bold block;
+    @apply mt-4 font-semibold block;
   }
   h2 {
-    @apply text-xl mt-8 text-gray-900 py-1 px-2 font-bold inline;
+    @apply text-xl mt-8 text-gray-900 py-1 px-2 font-semibold inline;
 
     a {
       @apply text-gray-900;

@@ -120,12 +120,18 @@ disableKinds = ["taxonomyTerm"]
       name = "🏠"
       title = "🏠"
       weight = 1
-      identifier = "posts"
+      identifier = "home"
       url = "/"
+    [[menu.main]]
+      name = "Articles"
+      title = "Articles"
+      weight = 2
+      identifier = "posts"
+      url = "/posts"
     [[menu.main]]
       name = "Journal"
       title = "Journal"
-      weight = 2
+      weight = 3
       identifier = "journal"
       url = "/journal"
     [[menu.main]]
