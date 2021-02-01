@@ -57,6 +57,14 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, 
 hr {
   @apply block mt-6 mb-10 border-b border-gray-200 w-2/4 mx-auto;
 }
+.home {
+  p:first-child {
+    @apply text-2xl mb-8;
+  }
+  p, ul, ol {
+    @apply leading-relaxed text-base md:text-lg font-body mb-6;
+  }
+}
 
 .post {
   p, ul, ol {
@@ -70,7 +78,7 @@ hr {
   }
   @apply mb-10;
   p, ul, ol {
-    @apply leading-relaxed text-base md:text-lg font-serif;
+    @apply leading-relaxed text-base md:text-lg font-body;
   }
   li::before {
     content: "• ";
@@ -115,8 +123,8 @@ hr {
     @apply dark:bg-dark;
   }
 }
-.link, .content a {
-  @apply dark:text-accent-400 underline relative;
+.link, .with-links a, .content a {
+  @apply dark:text-accent-400 italic underline relative;
   transition: color 0.5s, background-image 0.5s linear;
   &:hover {
     @apply dark:text-accent-500 underline relative;

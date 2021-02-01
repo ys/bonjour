@@ -1,17 +1,14 @@
 
 <footer class="container md:max-w-xl mx-auto p-10 text-gray-700 dark:text-gray-200 font-sans font-light text-sm ">
-    <div class="text-right">
+    <div class="text-center">
       {{ with .Site.Params.social.instagram }}
-      <a class="p-1" href="https://instagram.com/{{ . }}">📷 Instagram</a>
+      <a class="p-1" href="https://instagram.com/{{ . }}">Instagram</a> •
       {{ end }}
       {{ with .Site.Params.social.twitter }}
-      <a class="p-1" href="https://twitter.com/{{ . }}">🐥 Twitter</a>
-      {{ end }}
-      {{ with .Site.Params.social.youtube }}
-      <a class="p-1" href="https://youtube.com/{{ . }}">🎥 Youtube</a>
+      <a class="p-1" href="https://twitter.com/{{ . }}">Twitter</a> •
       {{ end }}
       {{ with .Site.Params.social.vsco }}
-      <a class="p-1" href="https://vsco.com/{{ . }}">📷 VSCO</a>
+      <a class="p-1" href="https://vsco.com/{{ . }}">VSCO</a> •
       {{ end }}
       <a class="p-1" href="mailto:{{ $.Site.Params.social.email }}">✉️ {{ $.Site.Params.social.domain }}</a>
     </div>
