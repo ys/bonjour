@@ -1,10 +1,10 @@
 {{ block "header" . }}
 <div class="container w-screen md:max-w-xl lg:max-w-xl mx-auto">
   <div class="mx-4 md:mx-0">
-    <header class="py-8 grid grid-cols-2 opacity-100 hover:opacity-100 transition ease-in-out duration-500">
+    <header class="pt-8 md:py-8 grid grid-cols-2 opacity-100 hover:opacity-100 transition ease-in-out duration-500">
       <div class="content-start flex flex-col w-full">
         <a alt="{{.Site.Title}} home"
-          class="w-1/2 font-normal logo block {{ with .Params.Color }} dark:text-{{ .}}-200 text-{{ . }}-600 {{ else }}text-gray-800 dark:text-gray-100{{ end }} "
+          class="w-full md:w-1/2 font-normal logo block {{ with .Params.Color }} dark:text-{{ .}}-200 text-{{ . }}-600 {{ else }}text-gray-800 dark:text-gray-100{{ end }} "
           href="{{ "/" | relLangURL }}">
           {{ if .Site.Params.hasLogo }}
           {{ readFile "/static/logo2.svg" | safeHTML}}

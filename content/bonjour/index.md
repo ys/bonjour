@@ -6,14 +6,13 @@ draft: false
 type: "about"
 resources:
   - src: "*.jpg"
+  - src: "cover.jpg"
+    name: cover
 menu:
   main:
     weight: 3
-linktitle: Bonjour, la lettre
+linktitle: la lettre
 ---
-
-
-{{< photo src="cover.jpg" alt="aloha" >}}
 
 ## 💌 Bonjour, la lettre
 

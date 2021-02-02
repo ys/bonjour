@@ -11,6 +11,6 @@ resources:
   name: "cover"
 ---
 
-bonjour yannick, c'est des [articles](/posts), des [photos](/portfolio) et une [newsletter](/bonjour).
+Bonjour Yannick, c'est des [articles](/posts), des [photos](/portfolio) et une [newsletter](/bonjour).
 
 

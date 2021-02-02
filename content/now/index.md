@@ -7,12 +7,13 @@ color: sunray
 type: "about"
 resources:
   - src: "*.jpg"
+  - src: "now.jpg"
+    name: "cover"
 menu:
   main:
     weight: 4
 linktitle: Maintenant
 ---
-{{< photo src="now.jpg" alt="Instax de roscoff" >}}
 
 Cela fait maintenant quelques années que je suis dans le coin. Un breton d'adoption.
 Je suis amoureux de l'océan et de la nature. Ces derniers temps, je ne fais plus que de la photo argentique. J'ai mon iPhone 12 mini pour tout ce qui est numérique. Je charge principalement de la Kodak Portra 400 dans mes appareils. J'aime de plus en plus la Kodak Tri-X 400. J'ai eu beaucoup de plaisir sur quelques rolls.

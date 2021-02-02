@@ -1,6 +1,6 @@
 {{ define "main" }}
   {{ with .Resources.ByType "image" }}
-     <div class="grid grid-cols-2 items-center gap-16 md:-mx-64 mb-10">
+     <div class="grid grid-cols-1 md:grid-cols-2 items-center gap-4 md:-mx-64 mb-10">
        {{ range . }}
   {{ $lqipw := default "20x" }}
   {{ $smallw := default "800x" }}

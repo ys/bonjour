@@ -52,28 +52,21 @@ hr {
 }
 
 .post {
-  p, ul, ol {
-    @apply font-body;
-  }
+  @apply mb-10;
   h1, h2, h3, h4 {
-    @apply font-display;
+    @apply font-display dark:text-gray-100;
+  }
+  p, ul, ol {
+    @apply font-body leading-relaxed text-base md:text-lg font-body;
   }
   code {
     @apply w-full break-words my-6;
-  }
-  @apply mb-10;
-  p, ul, ol {
-    @apply leading-relaxed text-base md:text-lg font-body;
   }
   li::before {
     content: "• ";
   }
   h3 {
     @apply text-xl mt-8 text-gray-900 uppercase font-normal py-1 px-2 inline;
-  }
-
-  h1 {
-    @apply mt-4 font-semibold block;
   }
   h2 {
     @apply text-xl mt-8 text-gray-900 py-1 px-2 font-semibold inline;
@@ -97,12 +90,6 @@ hr {
   }
   p {
     @apply my-6
-  }
-}
-
-.post, .content {
-  h2, h3, h1, h4 {
-    @apply dark:text-gray-100;
   }
   .medium-zoom-overlay {
     @apply dark:bg-dark;
