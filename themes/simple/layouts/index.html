@@ -11,8 +11,8 @@
 <div class="my-4">
   {{ $image := .Resources.GetMatch "cover" }}
   {{if $image }}
-  {{ $web := $image.Fill "500x" }}
-  {{ $mini := $image.Fill "20x Box" }}
+  {{ $web := $image.Resize "500x" }}
+  {{ $mini := $image.Resize "20x" }}
   <div class="mb-2">
     <a href="{{ .RelPermalink }}" aria-label="{{ .Title }}">
       <picture class="block shadow-lg">
