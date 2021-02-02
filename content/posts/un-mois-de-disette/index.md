@@ -4,6 +4,8 @@ aliases:
   - "2020-01-16"
 slug: "un-mois-de-disette"
 title: Un mois de disette
+subtitle: Désinstaller les réseaux sociaux, reconnecter le reste
+emoji: ⛔️
 resources:
   - src: "*.jpg"
 categories:

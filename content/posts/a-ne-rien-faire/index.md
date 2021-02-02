@@ -1,10 +1,12 @@
 ---
 title: A ne rien faire
+subtitle: Se poser, respirer, ralentir
+emoji: 🧘🏻‍♂️
 date: 2020-04-07 07:03:03 +0200
 resources:
   - src: "*.jpg"
 categories:
-  - life
+  - confinement
 slug: "a-ne-rien-faire"
 aliases:
   - "2020-04-07"

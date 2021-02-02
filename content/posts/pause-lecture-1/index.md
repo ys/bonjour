@@ -1,6 +1,8 @@
 ---
 date: 2020-05-04T14:15:24+02:00
-title: Pause Lecture #1
+title: Pause Lecture
+subtitle: "Des grands livres inspirants"
+emoji: 📚
 slug: "pause-lecture-1"
 aliases:
   - "2020-05-04"

@@ -1,6 +1,8 @@
 ---
 date: 2020-05-18T20:55:05+02:00
 title: Les essentiels du (dé)confinement
+subtitle: Des livres, du café et de l'espace
+emoji: 😍
 slug: "essentiel-deconfinement"
 aliases:
   - "2020-05-18"

@@ -1,5 +1,7 @@
 ---
 title: Mandala du dimanche
+subtitle: Des fleurs plein la table
+emoji: 💐
 date: 2020-03-29 07:03:03 +0200
 resources:
   - src: "*.jpg"
@@ -7,7 +9,7 @@ slug: "mandala-du-dimanche"
 aliases:
   - "2020-03-29"
 categories:
-  - life
+  - confinement
 ---
 
 {{< photo src="DSCF3681.jpg" alt="mandala nature">}}

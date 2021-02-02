@@ -2,7 +2,7 @@
 title: Un été en 36 poses
 date: 2020-09-02T07:38:06+02:00
 draft: false
-description: "Photographie argentique, soleil et petits instants"
+subtitle: "Photographie argentique, soleil et petits instants"
 tags: ["photographie", "argentique", "reflexion", "document your day", "lent", "35mm", "film"]
 categories:
 - life

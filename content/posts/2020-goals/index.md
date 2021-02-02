@@ -1,6 +1,8 @@
 ---
 date: 2020-01-05 05:01:01 +0200
-title: Des goals et des amishs
+title: Goals 2020
+subtitle: De la disette, des amishs et du ralentissement
+emoji: 🏮
 slug: "2020-goals"
 aliases:
   - "2020-01-05"

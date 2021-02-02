@@ -1,11 +1,13 @@
 ---
 title: Apprendre à la maison
+subtitle: "L'école en plein confinement"
+emoji: 🏫
 color: teal
 date: 2020-04-12 07:03:03 +0200
 resources:
   - src: "*.jpg"
 categories:
-  - life
+  - confinement
 slug: "apprendre-a-la-maison"
 aliases:
   - "2020-04-12"

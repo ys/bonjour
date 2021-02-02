@@ -1,6 +1,6 @@
 ---
 title: "Glaz"
-subtitle: "Nikonos V & Kodak Portra 400"
+subtitle: "Projet photo au Nikonos V"
 date: 2021-01-18T12:55:23+02:00
 draft: false
 description: ""

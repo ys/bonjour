@@ -1,6 +1,8 @@
 ---
 date: 2020-02-02 07:03:03 +0200
 slug: "journee-palindrome"
+subtitle: Cela aurait pu être une newsletter
+emoji: 📰
 aliases:
   - "2020-02-02"
 title: Journée palindrome

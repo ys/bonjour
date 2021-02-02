@@ -1,12 +1,13 @@
 ---
 title: Pause café
+subtitle: Ralentir le temps d'une tasse
 emoji: ☕️
 color: sunray
 date: 2020-04-16 07:03:03 +0200
 resources:
   - src: "*.jpg"
 categories:
-  - life
+  - cafe
 slug: "pause-cafe"
 aliases:
   - "2020-04-16"

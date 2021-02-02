@@ -1,13 +1,15 @@
 ---
 date: 2020-03-24 07:03:03 +0200
 title: Nettoyage de printemps
+subtitle: Retour au jardin et aux petits plaisirs
+emoji: 🧼
 slug: "nettoyage-de-printemps"
 aliases:
   - "2020-03-24"
 resources:
   - src: "*.jpg"
 categories:
-  - life
+  - confinement
 ---
 
 Ca y est, le soleil est de retour dans notre Finistère. On a enfin pu sortir le barbecue, griller quelques saucisses et boire une boisson houblonnée au soleil. C’est officiel, c’est le printemps. En plus, on a passé le 20 mars donc clairement, bye bye l’hiver.

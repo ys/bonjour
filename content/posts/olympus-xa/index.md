@@ -1,6 +1,6 @@
 ---
 title: "Bonjour Olympus XA"
-subtitle: "Petit mais costaud"
+subtitle: "Un appareil petit mais costaud"
 date: 2020-11-13T17:37:39+02:00
 draft: false
 slug: "olympus-xa"

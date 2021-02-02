@@ -4,6 +4,8 @@ slug: "lecture-surf"
 aliases:
   - "2020-08-01"
 title: "Un peu de lecture salée"
+subtitle: "Deux lectures qui vous donneront envie d'eau"
+emoji: 📚
 tags:
   - surf
   - livre
