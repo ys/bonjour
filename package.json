@@ -6,7 +6,7 @@
     "gulp"
   ],
   "scripts": {
-    "build": "hugo -b ${BASE_URL:-$VERCEL_URL}",
+    "build": "hugo -b https://${BASE_URL:-$VERCEL_URL}",
     "gulp": "gulp",
     "build-images": "gulp img:build",
     "debug": "rm -rf public/* resources/_gen && hugo --templateMetrics --templateMetricsHints",
