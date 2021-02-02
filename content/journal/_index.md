@@ -9,7 +9,7 @@ resources:
 - src: "*.jpg"
 menu:
   main:
-    weight: 2
+    weight: 4
 linktitle: "Journal"
 ---
 
