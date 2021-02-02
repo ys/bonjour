@@ -124,10 +124,10 @@ hr {
   }
 }
 .link, .with-links a, .content a {
-  @apply dark:text-accent-400 italic underline relative;
+  @apply dark:text-accent-400 text-accent-600 italic underline relative;
   transition: color 0.5s, background-image 0.5s linear;
   &:hover {
-    @apply dark:text-accent-500 underline relative;
+    @apply dark:text-accent-500 text-accent-500 underline relative;
   }
 }
 
