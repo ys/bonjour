@@ -7,4 +7,9 @@ resources:
   - src: "*.jpg"
   - src: "1.jpg"
     name: "cover"
+menu:
+  main:
+    weight: 3
+linktitle: "Photos"
+---
 ---

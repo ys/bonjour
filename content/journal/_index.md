@@ -9,8 +9,8 @@ resources:
 - src: "*.jpg"
 menu:
   main:
-    weight: 1
-linktitle: "Articles"
+    weight: 2
+linktitle: "Journal"
 ---
 
-Toute une série d'articles sur des sujets divers et variés allant de la photo au café en passant par la randonnée, la lecture et de la philosophie personnelle de vie.
+Des notes du quotidien, des anecdotes et autres moments de vie

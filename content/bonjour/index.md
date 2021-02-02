@@ -6,6 +6,10 @@ draft: false
 type: "about"
 resources:
   - src: "*.jpg"
+menu:
+  main:
+    weight: 3
+linktitle: Bonjour, la lettre
 ---
 
 

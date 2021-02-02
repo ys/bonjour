@@ -100,50 +100,9 @@ disableKinds = ["taxonomyTerm"]
   [languages.en]
     weight = 2
     languageName = "English"
-    [[languages.en.menu.main]]
-      name = "Posts"
-      title = "Posts"
-      weight = 1
-      identifier = "posts"
-      url = "/en/posts"
-    [[languages.en.menu.main]]
-      name = "Journal"
-      title = "Journal"
-      weight = 2
-      identifier = "journal"
-      url = "/en/journal"
-    [[languages.en.menu.main]]
-      name = "About"
-      title = "About me"
-      weight = 3
-      identifier = "about"
-      url = "/en/about"
   [languages.fr]
     weight = 1
     languageName = "Français"
-    [[menu.main]]
-      name = "Articles"
-      title = "Articles"
-      weight = 2
-      identifier = "posts"
-      url = "/posts"
-    [[menu.main]]
-      name = "Journal"
-      title = "Journal"
-      weight = 3
-      identifier = "journal"
-      url = "/journal"
-    [[menu.main]]
-      name = "Bonjour, la lettre"
-      title = "Bonjour, la lettre"
-      weight = 7
-      identifier = "bonjour"
-      url = "/bonjour/"
-    [[menu.main]]
-      name = "Now"
-      title = "Now"
-      weight = 8
-      url = "/now/"
 
 [markup.goldmark.renderer]
 unsafe= true
