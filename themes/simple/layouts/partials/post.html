@@ -1,5 +1,1 @@
-{{ if (intersect .Params.categories .Site.Params.folded_categories)}}
   {{ partialCached "post_folded" . .RelPermalink .Lang }}
-{{ else }}
-  {{ partialCached "post_unfolded" . .RelPermalink .Lang }}
-{{ end }}

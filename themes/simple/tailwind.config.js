@@ -10,10 +10,11 @@ module.exports = {
     }
   },
   theme: {
-    fontFamily: {
-      sans: ['neue-haas-unica', 'sans-serif'],
-    },
     extend: {
+      fontFamily: {
+        display: ['ff-meta-web-pro', 'sans-serif'],
+        body: ['ff-meta-serif-web-pro', 'serif'],
+      },
       typography: {
         DEFAULT: {
           css: {

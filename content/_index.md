@@ -7,5 +7,10 @@ type: index
 tags: ["bretagne", "slow travel", "rural exodus", "voyage", "finistere", "monts d'Arree", "slow life", "neorural", "photographie"]
 resources:
 - src: "*.jpg"
+- src: "cover.jpg"
+  name: "cover"
 ---
+
+Bonjour Yannick, c'est des [articles](/posts), des [photos](/portfolio) et une [newsletter](/bonjour).
+
 

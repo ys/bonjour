@@ -7,10 +7,15 @@ color: sunray
 type: "about"
 resources:
   - src: "*.jpg"
+  - src: "now.jpg"
+    name: "cover"
+menu:
+  main:
+    weight: 4
+linktitle: Maintenant
 ---
-{{< photo src="now.jpg" alt="Instax de roscoff" >}}
 
-Cela fait maintenant quelques années que je suis dans le coin. Un breton d'adoption. 
+Cela fait maintenant quelques années que je suis dans le coin. Un breton d'adoption.
 Je suis amoureux de l'océan et de la nature. Ces derniers temps, je ne fais plus que de la photo argentique. J'ai mon iPhone 12 mini pour tout ce qui est numérique. Je charge principalement de la Kodak Portra 400 dans mes appareils. J'aime de plus en plus la Kodak Tri-X 400. J'ai eu beaucoup de plaisir sur quelques rolls.
 
 Mon matos actuel:
@@ -25,7 +30,7 @@ J'ai acheté du matos pour scanner moi-même. Donc en gros j'ai un Fuji X-T30 ju
 
 J'écris [une petite lettre](/bonjour) sur tout et rien toutes les deux semaines. Cela me permet d'écrire de manière régulière. C'est un vrai petit plaisir! Je n'ai pas beaucoup de lecteurs mais ils me répondent. Donc en gros, cela me rend heureux.
 
-Je continue à me remettre en forme pour mieux surfer. Petit à petit le sport revient dans ma vie. C'est un plaisir. Cela fait aussi 27 jours que je n'ai pas bu d'alcool, cela ne me manque pas du tout en ce moment. Plus de sodas depuis 5 ans aussi. Une vie un rien plus saine et toujours aussi con dans ma tête. 
+Je continue à me remettre en forme pour mieux surfer. Petit à petit le sport revient dans ma vie. C'est un plaisir. Cela fait aussi 27 jours que je n'ai pas bu d'alcool, cela ne me manque pas du tout en ce moment. Plus de sodas depuis 5 ans aussi. Une vie un rien plus saine et toujours aussi con dans ma tête.
 
 
 *Cette page a été écrite le 2021.01.26. Si tu veux en savoir plus sur la page /now, [suis ceci](https://nownownow.com/about).*

@@ -1,6 +1,7 @@
 ---
 date: 2020-06-26T12:48:15+02:00
 slug: "se-mettre-a-l-eau"
+emoji: 🏄‍♂️
 aliases:
   - "2020-06-26"
 title: "Se mettre à l'eau"
