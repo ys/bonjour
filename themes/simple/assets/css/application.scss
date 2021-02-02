@@ -39,21 +39,6 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, 
   @apply fill-current;
 }
 
-.photoset {
-  display: grid;
-  grid-gap: 1rem;
-  grid-template-columns: repeat(3, 1fr);
-  &.always-2 {
-    grid-template-columns: repeat(2, 1fr);
-  }
-  &.max-4 {
-    grid-template-columns: repeat(4, 1fr);
-  }
-  &.max-2 {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
 hr {
   @apply block mt-6 mb-10 border-b border-gray-200 w-2/4 mx-auto;
 }
@@ -124,8 +109,7 @@ hr {
   }
 }
 .link, .with-links a, .content a {
-  @apply dark:text-accent-400 text-accent-600 italic underline relative;
-  transition: color 0.5s, background-image 0.5s linear;
+  @apply dark:text-accent-400 text-accent-600 italic underline relative transition duration-500 ease-in-out;
   &:hover {
     @apply dark:text-accent-500 text-accent-500 underline relative;
   }
@@ -149,17 +133,6 @@ hr {
 }
 .twitter-tweet {
   @apply mx-auto my-10
-}
-
-.no-js img.lazyload {
-  display: none;
-}
-
-.menu li:not(:last-child) ::after {
-  @screen md {
-    @apply ml-2;
-    content: "◦";
-  }
 }
 
 .medium-zoom-image--opened { object-fit: contain !important; }
