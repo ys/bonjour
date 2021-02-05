@@ -10,6 +10,8 @@ categories:
 slug: "nikonos-glaz"
 color: "cascade"
 emoji: "🌊"
+camera: Nikonos V
+film: Kodak Portra 400
 resources:
   - src: "*.jpg"
   - src: "cover.jpeg"
