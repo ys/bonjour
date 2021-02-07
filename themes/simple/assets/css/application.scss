@@ -40,7 +40,11 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, 
 }
 
 hr {
-  @apply block mt-6 mb-10 border-b border-gray-200 w-2/4 mx-auto;
+  &:after {
+    content:"⁎ ⁎ ⁎ ";
+    @apply block mx-auto text-center;
+  }
+  @apply block mt-6 border-none mb-10 mx-auto;
 }
 .home {
   p:first-child {
