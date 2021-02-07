@@ -1,5 +1,6 @@
 ---
 date: 2021-01-16 07:27:33 +0200
+newsletter: true
 tags: 
 - la lettre
 emoji: 💌
