@@ -8,14 +8,11 @@
       <label class="block py-4" for="tlemail">
         {{.Site.Params.tinyletter.message}}
       </label>
-      <div
-        class="space-y-4 md:space-y-0 md:space-x-4 flex flex-col md:flex-row justify-between md:justify-around items-center md:items-start mt-4">
-        <input type="text"
-          class="inline shadow appearance-none border rounded-sm py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+      <div class="mt-4">
+        <input type="hidden" value="1" name="embed" />
+        <input type="text" class=" m-0 rounded-none appearance-none rounded-l-sm py-2 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
           name="email" id="tlemail" />
-        <input type="hidden" value="1" name="embed" /><input
-          class="bg-accent-500 hover:bg-accent-600 transition duration-500 ease-in-out text-white font-bold py-2 px-4 rounded-sm focus:outline-none focus:shadow-outline cursor-pointer"
-          type="submit" value="Abonne toi" />
+        <input class="bg-accent-500 rounded-none hover:bg-accent-600 transition duration-500 ease-in-out text-white font-bold py-2 m-0 ml-0 appearance-none px-4 rounded-r-sm focus:outline-none focus:shadow-outline cursor-pointer" type="submit" value="Abonne toi" />
       </div>
     </form>
   </div>

@@ -18,21 +18,7 @@
           <span aria-hidden="true" style="display: none">{{ .Site.Title }}</span>
           {{ end }}
         </a>
-      <div>
-        {{ $currentPage := . }}
-        <nav class="text-right font-normal">
-          <ul class="flex flex-wrap flex-col uppercase text-xs">
-            {{ range .Site.Menus.main }}
-            <li class="pr-2 text-gray-600 dark:text-gray-200">
-              <a class="{{ with $currentPage.Params.Color }}hover:text-{{ . }}-600 {{ else }}hover:text-accent-600{{ end }} transition ease-in-out duration-200 " href="{{ .URL }}" title="{{ .Title }}">
-                {{ .Name }}
-              </a>
-            </li>
-            {{ end }}
-          </ul>
-        </nav>
-
-      </div>
+        {{ partial "main_menu" . }}
     </header>
   </div>
 </div>
