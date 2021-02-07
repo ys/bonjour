@@ -2,6 +2,7 @@
 title: "0008"
 color: "bluewhale"
 date: 2021-01-26 10:27:33 +0200
+emoji: ☺️
 resources:
   - src: "*.jpg"
 ---

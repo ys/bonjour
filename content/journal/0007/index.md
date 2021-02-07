@@ -2,6 +2,7 @@
 title: "0007"
 color: "green"
 date: 2021-01-07 21:27:33 +0200
+emoji: 👨‍🌾
 resources:
   - src: "*.jpg"
 ---
