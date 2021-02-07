@@ -1,26 +1,15 @@
 {{ define "main" }}
 <header class="mb-6 ">
   <span class="text-sm font-sans dark:text-gray-300 text-gray-700 capitalize mb-2 block">
-    {{ if .Params.camera }}
-    📷 {{ .Params.camera }}
-    {{ with .Params.film }}
-    - {{ . }}
-    {{ end }}
-    {{ else }}
     {{ .Params.emoji}}&nbsp;&nbsp;
-      {{ range first 1 .Params.categories }}
-    <a href="/{{ . }}">{{ . }}</a>
-    {{ end }}
+    {{ range first 1 .Params.categories }}
+      <a href="/{{ . }}">{{ . }}</a>
     {{ end }}
     {{ .Site.Params.arrow }}
     {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
   </span>
   <h1 class="md:-ml-8 text-3xl font-bold text-darker dark:text-gray-100 mb-2">
-    {{ with .Title }}
-    {{ . }}
-    {{ else }}
-    {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
-    {{ end }}
+    {{ .Title }}
   </h1>
   <h2 class="italic text-gray-600 dark:text-gray-300">
     {{ with .Params.subtitle }}
@@ -29,11 +18,6 @@
   </h2>
 </header>
 <div class="mb-10 content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
-  {{ if .IsTranslated }} {{ range .Translations }}
-  <div class="font-sans text-sm italic font-light ">
-    <a href="{{ .RelPermalink }}">{{ T "also_available" }} {{ .Language.LanguageName }}</a>
-  </div>
-  {{ end }} {{ end }}
   <div class="post">
     {{.Content}}
   </div>
