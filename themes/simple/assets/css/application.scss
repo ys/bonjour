@@ -62,7 +62,7 @@ hr {
   code {
     @apply w-full break-words my-6;
   }
-  li::before {
+  ul li::before {
     content: "• ";
   }
   h3 {
