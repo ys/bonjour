@@ -2,6 +2,7 @@
 date: 2021-01-30 07:27:33 +0200
 tags: 
 - la lettre
+newsletter: true
 emoji: 💌
 color: pink
 title: "Bonjour la lettre #10"

@@ -1,4 +1,5 @@
 ---
+newsletter: true
 date: 2020-10-10 07:27:33 +0200
 tags: 
 - la lettre

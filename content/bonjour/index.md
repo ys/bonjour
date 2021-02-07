@@ -1,9 +1,10 @@
 ---
 title: "Bonjour, la lettre"
+emoji: 💌
 description: "Un petit moment d'échappement dans votre boîte mail"
 date: 2020-10-07T12:57:50+02:00
 draft: false
-type: "about"
+type: "newsletter"
 resources:
   - src: "*.jpg"
   - src: "cover.jpg"
@@ -14,7 +15,6 @@ menu:
 linktitle: la lettre
 ---
 
-## 💌 Bonjour, la lettre
 
 *C'est quoi?* Une newsletter écrite et envoyée avec amour par moi-même.
 
