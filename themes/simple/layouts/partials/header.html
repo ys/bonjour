@@ -1,19 +1,12 @@
 {{ block "header" . }}
-<div class="container w-screen md:max-w-xl lg:max-w-xl mx-auto">
+<div class="container w-screen md:max-w-xl mx-auto">
   <div class="mx-4 md:mx-0">
     <header class="items-center py-6 md:py-8 grid grid-cols-2 opacity-100 hover:opacity-100 transition ease-in-out duration-500">
         <a alt="{{.Site.Title}} website homepage link"
           class="flex flex-col items-center w-full md:w-1/2 font-normal logo block text-gray-800 dark:text-gray-100"
           href="{{ "/" | relLangURL }}">
-          <span class="text-8xl mb-4">
-            {{ with .Params.emoji }}
-              {{ .}}
-            {{ else }}
-              {{ .Site.Params.emoji }}
-            {{ end }}
-          </span>
           {{ if .Site.Params.hasLogo }}
-          {{ readFile "/static/logo.svg" | safeHTML}}
+          {{ readFile "/static/logo2.svg" | safeHTML}}
 
           <span aria-hidden="true" style="display: none">{{ .Site.Title }}</span>
           {{ end }}

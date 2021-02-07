@@ -1,6 +1,6 @@
 ---
-title: "Glaz"
-subtitle: "Projet photo au Nikonos V"
+title: "Glaz - Nikonos V"
+subtitle: "Un projet, une couleur"
 date: 2021-01-18T12:55:23+02:00
 draft: false
 description: ""

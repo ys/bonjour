@@ -1,6 +1,7 @@
 {{ define "main" }}
   {{ range (.Paginator 10).Pages }}
-    {{ partialCached "journal.html" . .RelPermalink .Lang}}
+  {{ partial "single" . }}
+  <hr class="mt-24 mb-64" />
   {{ end }}
   {{ partial "pagination.html" . }}
 {{ end }}
