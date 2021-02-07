@@ -1,6 +1,6 @@
 {{ define "main" }}
 <header class="mb-6 ">
-  <h1 class="text-2xl font-bold text-darker dark:text-gray-100">
+  <h1 class="text-3xl font-bold text-darker dark:text-gray-100">
     {{ with .Title }}
     {{ . }}
     {{ else }}
@@ -35,5 +35,7 @@
     {{ end }}
     {{ .Site.Params.arrow }} {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
   </span>
+
+  </p>
 </div>
 {{ end }}
