@@ -1,8 +1,8 @@
 <script src="https://cdn.usefathom.com/script.js" data-site="{{ .Site.Params.fathom.siteID }}" data-honor-dnt="true" defer></script>
-{{ $.Scratch.Set "jslibs" slice }} {{ $libs := slice "js/medium-zoom.min.js" "js/lazyload.min.js" "js/main.js" }} {{
-range $libs }} {{ $.Scratch.Add "jslibs" (resources.Get . ) }} {{ end }} {{ $js := .Scratch.Get "jslibs" |
-resources.Concat "js/main.js" }} {{ if .Site.IsServer }}
-<script src="{{ $js.RelPermalink }}"></script>
+{{ $.Scratch.Set "jslibs" slice }} 
+{{ $libs := slice "js/medium-zoom.min.js" "js/lazyload.min.js" "js/main.js" }} 
+{{ range $libs }} {{ $.Scratch.Add "jslibs" (resources.Get . ) }} {{ end }} {{ $js := .Scratch.Get "jslibs" | resources.Concat "js/main.js" }} {{ if .Site.IsServer }}
+  <script src="{{ $js.RelPermalink }}"></script>
 {{ else }} {{ $js := $js | minify | fingerprint "sha512"}}
-<script src="{{ $js.RelPermalink }}"></script>
+  <script src="{{ $js.RelPermalink }}"></script>
 {{ end }}
