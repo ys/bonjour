@@ -1,5 +1,7 @@
 ---
-title: "Petite sélection de photos"
+title: "Random"
+emoji: 😻
+subtitle: "Petite sélection de photos"
 date: 2020-09-23T22:57:50+02:00
 resources:
   - src: "*.jpg"
