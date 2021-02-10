@@ -7,4 +7,6 @@
 <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
 {{ else }} {{ $style := $style | minify | fingerprint | resources.PostProcess }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
-{{ end }} <link rel="icon" href="{{ "/favicon.svg" | absURL }}"> <link rel="shortcut icon" href="{{ "/favicon.svg | absURL }}">
+{{ end }}
+<link rel="icon" href="{{ "/favicon.svg" | absURL }}">
+<link rel="shortcut icon" href="{{ "/favicon.svg" | absURL }}">
