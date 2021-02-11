@@ -1,0 +1,4 @@
+---
+collection: "read"
+type: "books"
+---
