@@ -1,5 +1,5 @@
 ---
-title: "Bored and Brilliant
+title: "Bored and Brilliant"
 subtitle: "How Spacing Out Can Unlock Your Most Productive & Creative Self"
 author: "Manoush Zomorodi"
 isbn: ""
