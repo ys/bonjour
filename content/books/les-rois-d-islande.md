@@ -1,5 +1,5 @@
 ---
-title: "'Les Rois d''Islande'"
+title: "Les Rois d'Islande"
 author: "Einar Már Guðmundsson"
 isbn: ""
 isbn13: ""

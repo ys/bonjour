@@ -1,5 +1,6 @@
 ---
-title: "The Buddha Walks into a Bar . . .: A Guide to Life for a New Generation"
+title: "The Buddha Walks into a Bar..."
+subtitle: "A Guide to Life for a New Generation"
 author: "Lodro Rinzler"
 isbn: ""
 isbn13: ""

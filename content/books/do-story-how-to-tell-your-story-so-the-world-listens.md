@@ -1,5 +1,5 @@
 ---
-title: "Do/ Story/: How to Tell Your Story So the World Listens"
+title: "Do Story: How to Tell Your Story So the World Listens"
 author: "Bobette Buster"
 isbn: "1907974059"
 isbn13: "9781907974052"

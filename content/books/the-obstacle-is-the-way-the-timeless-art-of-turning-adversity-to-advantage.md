@@ -1,5 +1,6 @@
 ---
-title: "The Obstacle Is the Way: The Timeless Art of Turning Adversity to Advantage"
+title: "The Obstacle Is the Way"
+subtitle: "The Timeless Art of Turning Adversity to Advantage"
 author: "Ryan Holiday"
 isbn: ""
 isbn13: ""

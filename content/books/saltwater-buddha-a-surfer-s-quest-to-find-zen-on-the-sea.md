@@ -1,5 +1,6 @@
 ---
-title: "'Saltwater Buddha: A Surfer''s Quest to Find Zen on the Sea'"
+title: "Saltwater Buddha"
+subtitle: "A Surfer's Quest to Find Zen on the Sea"
 author: "Jaimal Yogis"
 isbn: ""
 isbn13: ""

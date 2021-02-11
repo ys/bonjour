@@ -1,5 +1,6 @@
 ---
-title: "Utopia for Realists: How We Can Build the Ideal World"
+title: "Utopia for Realists"
+subtitle: "How We Can Build the Ideal World"
 author: "Rutger Bregman"
 isbn: ""
 isbn13: ""

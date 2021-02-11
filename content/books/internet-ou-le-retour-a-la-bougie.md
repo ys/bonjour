@@ -3,7 +3,7 @@ title: "Internet ou le retour à la bougie"
 author: "Hervé Krief"
 isbn: ""
 isbn13: ""
-rating: 4
+rating: 3
 pages: 96
 read: "2019-02-23"
 added: "2019-02-23"

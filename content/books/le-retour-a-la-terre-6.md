@@ -1,5 +1,6 @@
 ---
-title: "Les métamorphoses (Le retour à la terre, #6)"
+title: "Le retour à la terre #6"
+subtitle: "Les métamorphoses"
 author: "Manu Larcenet"
 isbn: "2205067664"
 isbn13: "9782205067668"

@@ -1,5 +1,6 @@
 ---
-title: "Digital Minimalism: Choosing a Focused Life in a Noisy World"
+title: "Digital Minimalism"
+subtitle: "Choosing a Focused Life in a Noisy World"
 author: "Cal Newport"
 isbn: "0525536515"
 isbn13: "9780525536512"

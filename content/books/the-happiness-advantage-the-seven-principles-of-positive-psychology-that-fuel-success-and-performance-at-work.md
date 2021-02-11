@@ -1,9 +1,10 @@
 ---
-title: "The Happiness Advantage: The Seven Principles of Positive Psychology that Fuel Success and Performance at Work"
+title: "The Happiness Advantage"
+subtitle: "The Seven Principles of Positive Psychology that Fuel Success and Performance at Work"
 author: "Shawn Achor"
 isbn: ""
 isbn13: ""
-rating: 5
+rating: 4
 pages: 258
 read: "2016-01-10"
 added: "2015-12-15"

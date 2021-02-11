@@ -1,5 +1,6 @@
 ---
-title: "You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life"
+title: "You Are a Badass"
+subtitle: "How to Stop Doubting Your Greatness and Start Living an Awesome Life"
 author: "Jen Sincero"
 isbn: "0762447699"
 isbn13: "9780762447695"

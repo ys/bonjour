@@ -3,7 +3,7 @@ title: "La désobéissance civile"
 author: "Henry David Thoreau"
 isbn: ""
 isbn13: ""
-rating: 5
+rating: 4
 pages: 22
 read: "2018-04-07"
 added: "2018-03-02"

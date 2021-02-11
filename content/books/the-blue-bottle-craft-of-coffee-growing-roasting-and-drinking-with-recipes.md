@@ -3,7 +3,7 @@ title: "The Blue Bottle Craft of Coffee: Growing, Roasting, and Drinking, with R
 author: "James Freeman"
 isbn: ""
 isbn13: ""
-rating: 4
+rating: 3
 pages: 240
 read: "2014-09-27"
 added: "2014-04-01"

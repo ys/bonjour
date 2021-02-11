@@ -3,7 +3,7 @@ title: "The Big Tiny: A Built-It-Myself Memoir"
 author: "Dee  Williams"
 isbn: "0399166173"
 isbn13: "9780399166174"
-rating: 4
+rating: 3
 pages: 304
 read: "2017-01-22"
 added: "2016-12-27"

@@ -1,9 +1,10 @@
 ---
-title: "'The Manual: A Philosopher''s Guide to Life (Stoic Philosophy Book 1)'"
+title: "The Manual"
+subtitle: "A Philosopher's Guide to Life"
 author: "Epictetus"
 isbn: ""
 isbn13: ""
-rating: 4
+rating: 3
 pages: 66
 read: "2020-01-21"
 added: "2020-01-20"

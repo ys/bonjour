@@ -1,5 +1,6 @@
 ---
-title: "Celui qui part (Les vieux fourneaux, #3)"
+title: "Les vieux fourneaux #3"
+subtitle: "Celui qui part"
 author: "Wilfrid Lupano"
 isbn: "2505063524"
 isbn13: "9782505063520"

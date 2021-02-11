@@ -8,4 +8,3 @@ pages: 211
 read: "2019-02-14"
 added: "2019-02-14"
 ---
-Je m’attendais à autre chose. Prendre un livre sans rien connaître et se sentir bête tout du long! Je suis sur que c’est un bon livre pour d’autres... je me ferai conseiller. Déconseillé aux néophytes de la décroissance

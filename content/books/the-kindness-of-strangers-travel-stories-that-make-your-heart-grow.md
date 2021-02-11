@@ -1,9 +1,10 @@
 ---
-title: "The Kindness of Strangers: Travel Stories That Make Your Heart Grow"
+title: "The Kindness of Strangers"
+subtitle: "Travel Stories That Make Your Heart Grow"
 author: "Fearghal O'Nuallain"
 isbn: ""
 isbn13: ""
-rating: 4
+rating: 3
 pages: 278
 read: "2019-03-18"
 added: "2019-03-10"

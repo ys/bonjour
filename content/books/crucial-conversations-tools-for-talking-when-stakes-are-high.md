@@ -1,5 +1,6 @@
 ---
-title: "Crucial Conversations: Tools for Talking When Stakes Are High"
+title: "Crucial Conversations"
+subtitle: "Tools for Talking When Stakes Are High"
 author: "Kerry Patterson"
 isbn: "0071401946"
 isbn13: "9780071401944"

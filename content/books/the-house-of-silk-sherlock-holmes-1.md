@@ -1,5 +1,5 @@
 ---
-title: "The House of Silk (Sherlock Holmes #1)"
+title: "The House of Silk"
 author: "Anthony Horowitz"
 isbn: ""
 isbn13: ""

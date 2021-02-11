@@ -1,5 +1,6 @@
 ---
-title: "The Courage to Be Disliked: How to Free Yourself, Change your Life and Achieve Real Happiness"
+title: "The Courage to Be Disliked"
+subtitle: "How to Free Yourself, Change your Life and Achieve Real Happiness"
 author: "Ichiro Kishimi"
 isbn: "176063073X"
 isbn13: "9781760630737"

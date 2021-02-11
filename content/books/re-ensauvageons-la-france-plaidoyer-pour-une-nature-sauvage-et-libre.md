@@ -1,5 +1,6 @@
 ---
-title: "Ré-ensauvageons la France : Plaidoyer pour une nature sauvage et libre"
+title: "Ré-ensauvageons la France"
+subtitle: "Plaidoyer pour une nature sauvage et libre"
 author: "Gilbert Cochet"
 isbn: "233009616X"
 isbn13: "9782330096168"

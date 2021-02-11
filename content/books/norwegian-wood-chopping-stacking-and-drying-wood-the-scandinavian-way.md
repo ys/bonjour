@@ -1,5 +1,6 @@
 ---
-title: "Norwegian Wood: Chopping, Stacking, and Drying Wood the Scandinavian Way"
+title: "Norwegian Wood" 
+subtitle: "Chopping, Stacking, and Drying Wood the Scandinavian Way"
 author: "Lars Mytting"
 isbn: "1419717987"
 isbn13: "9781419717987"

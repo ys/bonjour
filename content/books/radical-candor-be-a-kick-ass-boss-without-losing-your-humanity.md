@@ -1,5 +1,6 @@
 ---
-title: "Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity"
+title: "Radical Candor"
+subtitle: "Be a Kick-Ass Boss Without Losing Your Humanity"
 author: "Kim Malone Scott"
 isbn: ""
 isbn13: ""

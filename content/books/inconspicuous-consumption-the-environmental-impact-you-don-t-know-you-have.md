@@ -1,5 +1,6 @@
 ---
-title: "'Inconspicuous Consumption: The Environmental Impact You Don''t Know You Have'"
+title: "Inconspicuous Consumption"
+subtitle: "The Environmental Impact You Don't Know You Have"
 author: "Tatiana Schlossberg"
 isbn: "1538747081"
 isbn13: "9781538747087"

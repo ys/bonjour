@@ -3,7 +3,7 @@ title: "The Longing for Less: Living with Minimalism"
 author: "Kyle Chayka"
 isbn: "163557210X"
 isbn13: "9781635572100"
-rating: 4
+rating: 3
 pages: 272
 read: "2020-02-12"
 added: "2020-02-02"

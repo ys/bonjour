@@ -1,5 +1,5 @@
 ---
-title: "'Éloge de l''énergie vagabonde'"
+title: "Éloge de l'énergie vagabonde"
 author: "Sylvain Tesson"
 isbn: "2266178741"
 isbn13: "9782266178747"

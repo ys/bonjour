@@ -1,5 +1,6 @@
 ---
-title: "'L''Arabe du futur 3 : Une jeunesse au Moyen-Orient, 1985-1987'"
+title: "L'Arabe du futur 3"
+subtitle: "Une jeunesse au Moyen-Orient, 1985-1987"
 author: "Riad Sattouf"
 isbn: "2370730943"
 isbn13: "9782370730947"

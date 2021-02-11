@@ -1,9 +1,10 @@
 ---
-title: "'You Can Buy Happiness (and It''s Cheap): How One Woman Radically Simplified Her Life and How You Can Too'"
+title: "You Can Buy Happiness (and It's Cheap)"
+subtitle: "How One Woman Radically Simplified Her Life and How You Can Too"
 author: "Tammy  Strobel"
 isbn: ""
 isbn13: ""
-rating: 5
+rating: 3
 pages: 226
 read: "2017-07-25"
 added: "2017-05-11"

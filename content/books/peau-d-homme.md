@@ -1,5 +1,5 @@
 ---
-title: "'Peau d''homme'"
+title: "Peau d'homme"
 author: "Hubert"
 isbn: "2344010645"
 isbn13: "9782344010648"

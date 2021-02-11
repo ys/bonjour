@@ -1,5 +1,6 @@
 ---
-title: "Le déluge (Le retour à la terre, #4)"
+title: "Le retour à la terre #4"
+subtitle: "Le déluge"
 author: "Manu Larcenet"
 isbn: "2205058142"
 isbn13: "9782205058147"

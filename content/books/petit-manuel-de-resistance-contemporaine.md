@@ -3,7 +3,7 @@ title: "Petit manuel de résistance contemporaine"
 author: "Cyril Dion"
 isbn: ""
 isbn13: ""
-rating: 5
+rating: 4
 pages: 96
 read: "2019-01-29"
 added: "2019-01-19"

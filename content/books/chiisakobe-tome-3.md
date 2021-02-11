@@ -1,5 +1,5 @@
 ---
-title: "Chiisakobé, tome 3"
+title: "Chiisakobé #3"
 author: "Minetarō Mochizuki"
 isbn: "2353480837"
 isbn13: "9782353480838"

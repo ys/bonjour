@@ -1,5 +1,6 @@
 ---
-title: "Méditer, Jour Après Jour: 25 Leçons Pour Vivre En Pleine Conscience"
+title: "Méditer, Jour Après Jour"
+subtitle: "25 Leçons Pour Vivre En Pleine Conscience"
 author: "Christophe André"
 isbn: "2913366376"
 isbn13: "9782913366374"

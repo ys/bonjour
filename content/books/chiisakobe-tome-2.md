@@ -1,5 +1,5 @@
 ---
-title: "Chiisakobé, tome 2"
+title: "Chiisakobé #2"
 author: "Minetarō Mochizuki"
 isbn: "2353480829"
 isbn13: "9782353480821"

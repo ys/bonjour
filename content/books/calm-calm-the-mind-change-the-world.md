@@ -1,9 +1,10 @@
 ---
-title: "Calm: Calm the Mind. Change the World"
+title: "Calm" 
+subtitle: "Calm the Mind. Change the World"
 author: "Michael Acton Smith"
 isbn: "0241201950"
 isbn13: "9780241201954"
-rating: 5
+rating: 3
 pages: 224
 read: "2016-02-18"
 added: "2016-02-18"

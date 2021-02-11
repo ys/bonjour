@@ -1,9 +1,10 @@
 ---
-title: "'S''enfuir. Récit d''un otage'"
+title: "S'enfuir"
+subtitle: "Récit d'un otage"
 author: "Guy Delisle"
 isbn: ""
 isbn13: ""
-rating: 5
+rating: 4
 pages: 432
 read: "2016-10-26"
 added: "2016-10-25"

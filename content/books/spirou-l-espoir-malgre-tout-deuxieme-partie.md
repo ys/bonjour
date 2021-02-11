@@ -1,5 +1,5 @@
 ---
-title: "'Spirou - l''espoir malgré tout (Deuxième partie)'"
+title: "Spirou - l'espoir malgré tout (Deuxième partie)"
 author: "Émile Bravo"
 isbn: ""
 isbn13: "9791034731626"

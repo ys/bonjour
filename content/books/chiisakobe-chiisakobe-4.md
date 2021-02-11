@@ -1,5 +1,5 @@
 ---
-title: "Chiisakobé (Chiisakobé, #4)"
+title: "Chiisakobé #4"
 author: "Minetarō Mochizuki"
 isbn: ""
 isbn13: ""

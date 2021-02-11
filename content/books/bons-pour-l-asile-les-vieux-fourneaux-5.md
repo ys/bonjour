@@ -1,5 +1,6 @@
 ---
-title: "'Bons pour l''asile (Les vieux fourneaux #5)'"
+title: "Les vieux fourneaux #5"
+subtitle: "Bons pour l'asile"
 author: "Wilfrid Lupano"
 isbn: ""
 isbn13: "9782505071419"

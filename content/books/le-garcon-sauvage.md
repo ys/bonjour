@@ -8,4 +8,4 @@ pages: 144
 read: "2018-02-21"
 added: "2018-02-20"
 ---
-Une belle histoire de vie dans les Alpes pleine de références
+Une belle histoire de vie dans les Alpes
