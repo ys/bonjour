@@ -6,8 +6,7 @@ draft: false
 color: sunray
 resources:
   - src: "*.jpg"
-menu:
-  main:
-    weight: 4
 linktitle: Lectures
 ---
+
+La plupart des livres que j'ai lu ces dernières années.
