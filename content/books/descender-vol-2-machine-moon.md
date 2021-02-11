@@ -1,0 +1,11 @@
+---
+title: "Descender, Vol. 2: Machine Moon"
+author: "Jeff Lemire"
+isbn: "1632156768"
+isbn13: "9781632156761"
+rating: 5
+pages: 116
+read: "2016-12-27"
+added: "2016-12-27"
+---
+
