@@ -85,7 +85,7 @@ disableKinds = ["taxonomyTerm"]
 [permalinks]
   posts = "/:slug"
   series = "/:slug"
-  categories = "/:slug"
+  categories = "/c/:slug"
   journal = "/journal/:year-:month-:day"
 
 [imaging]
