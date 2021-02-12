@@ -1,5 +1,5 @@
 ---
-title: "How to Break Up with Your Phone
+title: "How to Break Up with Your Phone"
 subtitle: "The 30-Day Plan to Take Back Your Life"
 author: "Catherine Price"
 isbn: "039958112X"
