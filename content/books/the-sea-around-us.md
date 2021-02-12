@@ -1,5 +1,5 @@
 ---
-title: "The Sea Around Us"
+title: "La mer autour de nous"
 author: "Rachel Carson"
 isbn: "0195069978"
 isbn13: "9780195069976"

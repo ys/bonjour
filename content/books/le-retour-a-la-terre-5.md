@@ -1,5 +1,5 @@
 ---
-title: "Le retour à la terre - Volume 5" 
+title: "Le retour à la terre #5"
 subtitle: "Revolutions"
 author: "Manu Larcenet"
 isbn: ""

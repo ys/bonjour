@@ -1,5 +1,5 @@
 ---
-title: "'Butcher''s Crossing'"
+title: "Butcher's Crossing"
 author: "John  Williams"
 isbn: "1590171985"
 isbn13: "9781590171981"

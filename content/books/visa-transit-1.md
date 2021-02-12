@@ -1,5 +1,5 @@
 ---
-title: "Visa Transit - 1"
+title: "Visa Transit #1"
 author: "Nicolas de Crécy"
 isbn: ""
 isbn13: ""

@@ -1,8 +1,8 @@
 ---
 title: "Astrophysics for People in a Hurry"
 author: "Neil deGrasse Tyson"
-isbn: ""
-isbn13: ""
+isbn: "0393609405"
+isbn13: "9780393609400"
 rating: 4
 pages: 222
 read: "2017-08-21"
