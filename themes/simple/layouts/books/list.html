@@ -15,10 +15,14 @@
     </h2>
     <h3 class="text-gray-800 dark:text-gray-300">{{ .Params.author }}</h3>
     <div class="text-right tracking-tight text-xs text-gray-700 dark:text-gray-300 uppercase">
+      {{ if .Params.reading }}
+      {{ T "reading" }}
+      {{ else }}
       {{ .Params.read }}
+      {{ end }}
     </div>
     <div>
-      {{ strings.Repeat .Params.rating "★" }}
+      {{ with .Params.rating }}{{ strings.Repeat . "★" }}{{end}}
     </div>
   </div>
   {{ end }}
