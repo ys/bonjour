@@ -8,7 +8,7 @@ color: pink
 title: "Bonjour la lettre #2"
 ---
 
-<img class="tl-email-image" data-id="3875150" height="424" src="https://gallery.tinyletterapp.com/a0d8b178d0758f62b0c01a8cd9fc5d00a4997449/images/148a749b-bad5-4390-830c-9b6acb229114.jpeg" style="width: 640px; max-width: 640px;" width="640"/>
+<img class="tl-email-image" data-id="3875150" height="424" src="https://gallery.tinyletterapp.com/a0d8b178d0758f62b0c01a8cd9fc5d00a4997449/images/148a749b-bad5-4390-830c-9b6acb229114.jpeg" width="640"/>
 
 Bonjour, et surtout bienvenue. C'est Yannick, vous m'avez peut-être vu parler de café, de bouquins et autres joyeusetés sur les réseaux sociaux. Sinon, vous pouvez vous rattraper sur <a href="https://yannickschutz.com/">yannickschutz.com</a>. J'aurais du me présenter un peu plus la première fois. Mais nous y voilà.
 

@@ -5,7 +5,7 @@
 @tailwind utilities;
 
 html {
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.5;
 }
 
@@ -48,20 +48,20 @@ hr {
 }
 .home {
   p:first-child {
-    @apply text-2xl mb-8;
+    @apply text-xl mb-8;
   }
   p, ul, ol {
-    @apply leading-relaxed text-base md:text-lg font-body mb-6;
+    @apply leading-relaxed text-base mb-6;
   }
 }
 
 .post {
   @apply mb-10;
   h1, h2, h3, h4 {
-    @apply font-display dark:text-gray-100;
+    @apply dark:text-gray-100;
   }
   p, ul, ol {
-    @apply font-body leading-relaxed text-base md:text-xl font-body;
+    @apply leading-relaxed text-base ;
   }
   code {
     @apply w-full break-words my-6;

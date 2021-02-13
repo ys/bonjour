@@ -8,7 +8,7 @@ color: pink
 title: "Bonjour la lettre #10"
 ---
 
-<img class="tl-email-image" data-id="4034518" height="426" src="https://gallery.tinyletterapp.com/a0d8b178d0758f62b0c01a8cd9fc5d00a4997449/images/09f5e0a3-e222-4c27-82bb-a6fc6ddd93c6.jpeg" style="width: 640px; max-width: 640px;" width="640"/>
+<img class="tl-email-image" data-id="4034518" height="426" src="https://gallery.tinyletterapp.com/a0d8b178d0758f62b0c01a8cd9fc5d00a4997449/images/09f5e0a3-e222-4c27-82bb-a6fc6ddd93c6.jpeg" width="640"/>
 
 Cette semaine, je suis tombé sur une vidéo de <a href="https://www.youtube.com/channel/UCopwCE5bVtffQif8IFkbUuw">Matt Day</a> qui est un photographe argentique. Il est pas mal actif sur Youtube. C'est assez drôle parce que en fait <a href="https://www.youtube.com/watch?v=IvRhi0udkEg">il interviewe un photographe</a> qui vient de sortir un bouquin qui traîne dans mes meilleurs livres photos à la maison. Ce photographe, c'est Jason Lee.
 

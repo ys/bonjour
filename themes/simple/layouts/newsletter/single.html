@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{ partial "cover.html" . }}
-<h1 class="text-3xl font-body text-darker dark:text-gray-100">{{ .Params.emoji }} {{ .Title }}</h1>
+<h1 class="font-bold text-xl text-darker dark:text-gray-100">{{ .Params.emoji }} {{ .Title }}</h1>
 <div class="mb-10 content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
   <div class="post">
     {{.Content}}
@@ -8,12 +8,12 @@
   <h2 class="text-xl font-semibold text-darker dark:text-gray-100">Lisez la dernière</h2>
   {{ range first 1 (where (where .Site.RegularPages "Type" "journal") ".Params.newsletter" true)  }}
 <div class="py-4">
-  <div class="font-sans tracking-tight text-xs text-gray-700 dark:text-gray-300 uppercase">
+  <div class=" tracking-tight text-xs text-gray-700 dark:text-gray-300 uppercase">
     {{ .Params.emoji }}
     {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
   </div>
-  <header class="font-body">
-    <h3 class="text-3xl text-darker dark:text-gray-100">
+  <header class="">
+    <h3 class="text-xl text-darker dark:text-gray-100">
       <a href="{{ .RelPermalink }}">
         {{ .Summary | truncate 45 }}
       </a>

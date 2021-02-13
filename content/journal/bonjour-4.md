@@ -8,7 +8,7 @@ color: pink
 title: "Bonjour la lettre #4"
 ---
 
-<img class="tl-email-image" data-id="3899518" height="424" src="https://gallery.tinyletterapp.com/a0d8b178d0758f62b0c01a8cd9fc5d00a4997449/images/c5e92792-cbdb-43b0-a17c-4e6db4917b2e.jpeg" style="width: 640px; max-width: 640px;" width="640"/>
+<img class="tl-email-image" data-id="3899518" height="424" src="https://gallery.tinyletterapp.com/a0d8b178d0758f62b0c01a8cd9fc5d00a4997449/images/c5e92792-cbdb-43b0-a17c-4e6db4917b2e.jpeg"  width="640"/>
 
 Bonjour à vous tous. Merci de continuer à lire cette petite lettre. Moi c'est Yannick, j'ai jamais vraiment été doué de mes mains... Mis à part pour taper sur un clavier ou avec un pad de super nintendo. Mais depuis, j'essaye et je m'améliore. Pas pour rien que je dise que le futur est digital. J'aime l'ambiguïté francophone liée à ce terme, les doigts ou numérique? Enfin voilà. J'avais envie de vous parler de faire. Oui faire, comme les anglais disent "makers gonna make".
 
