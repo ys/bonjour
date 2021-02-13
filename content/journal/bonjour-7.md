@@ -8,7 +8,7 @@ color: pink
 title: "Bonjour la lettre #7"
 ---
 
-<img class="tl-email-image" data-id="3966962" height="424" src="https://gallery.tinyletterapp.com/a0d8b178d0758f62b0c01a8cd9fc5d00a4997449/images/8020395a-b777-429b-b51e-d440488412c1.jpeg" style="width: 640px; max-width: 640px;" width="640"/>
+<img class="tl-email-image" data-id="3966962" height="424" src="https://gallery.tinyletterapp.com/a0d8b178d0758f62b0c01a8cd9fc5d00a4997449/images/8020395a-b777-429b-b51e-d440488412c1.jpeg" width="640"/>
 
 Bienvenue dans cette dernière petite lettre écrite de l'année écrite par Yannick. Si vous ne vous rappelez pas de lui, c'est le gars qui parle de photo, café et autres joyeusetés mais qui est surtout en train de consommer beaucoup trop de bûches de Noël en ce moment. Y'a qu'une saison pour cela. Et puis <a href="https://www.goodreads.com/user/year_in_books/2020/3062737">cela permet de finir 2020 en beauté</a>.
 

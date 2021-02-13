@@ -8,7 +8,7 @@ color: pink
 title: "Bonjour la lettre #6"
 ---
 
-<img alt="Souvenir de San Francisco 2011" class="tl-email-image" data-id="3944474" height="424" src="https://gallery.tinyletterapp.com/a0d8b178d0758f62b0c01a8cd9fc5d00a4997449/images/68be0b89-b2fe-44e2-b36e-9855119c3eb5.jpg" style="width: 640px; max-width: 640px;" width="640"/>
+<img alt="Souvenir de San Francisco 2011" class="tl-email-image" data-id="3944474" height="424" src="https://gallery.tinyletterapp.com/a0d8b178d0758f62b0c01a8cd9fc5d00a4997449/images/68be0b89-b2fe-44e2-b36e-9855119c3eb5.jpg" width="640"/>
 
 Merci de prendre le temps de lire ma petite lettre. Moi, c'est Yannick et j'ai beaucoup trop de passions. Elles vont, elles viennent. C'est la vie. Certaines restent depuis un bon moment.Certaines sont un peu honteuses et c'est de celles-ci que j'ai envie de vous parler aujourd'hui. C'est toujours un plaisir de partager des choses un peu gênantes avec vous.
 

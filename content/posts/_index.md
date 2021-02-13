@@ -10,7 +10,7 @@ resources:
 menu:
   main:
     weight: 1
-linktitle: "Articles"
+linktitle: "Écrits"
 ---
 
 Toute une série d'articles sur des sujets divers et variés allant de la photo au café en passant par la randonnée, la lecture et de la philosophie personnelle de vie.

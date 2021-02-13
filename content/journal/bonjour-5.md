@@ -10,7 +10,7 @@ title: "Bonjour la lettre #5"
 
 *Cette newsletter vous est envoyée par Yannick, il ne l’a pas écrite sur papier, mais il aurait pu.*
 
-<img class="tl-email-image" data-id="3920310" height="423" src="https://gallery.tinyletterapp.com/a0d8b178d0758f62b0c01a8cd9fc5d00a4997449/images/6f9cd288-b8ca-4ae5-81e7-8510ea01ac98.jpeg" style="width: 640px; max-width: 640px;" width="640"/>
+<img class="tl-email-image" data-id="3920310" height="423" src="https://gallery.tinyletterapp.com/a0d8b178d0758f62b0c01a8cd9fc5d00a4997449/images/6f9cd288-b8ca-4ae5-81e7-8510ea01ac98.jpeg" width="640"/>
 
 Halloween est derrière vous, Noël arrive tout doucement. Il est temps de sortir les décorations, de couper le sapin et tout ça. Si le gouvernement le permet. Mariah Carey remonte dans le nombre d’écoutes Spotify comme chaque année. Je recommence aussi à écouter des albums de Noël, car j’adore cela. Mais vous n’êtes pas venus pour ça, n’est-ce pas.
 

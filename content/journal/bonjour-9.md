@@ -7,7 +7,7 @@ emoji: 💌
 color: pink
 title: "Bonjour la lettre #9"
 ---
-<img class="tl-email-image" data-id="4012730" height="427" src="https://gallery.tinyletterapp.com/a0d8b178d0758f62b0c01a8cd9fc5d00a4997449/images/10ac65bb-c902-404b-a9e8-5cfac540f0e6.jpeg" style="width: 640px; max-width: 640px;" width="640"/>
+<img class="tl-email-image" data-id="4012730" height="427" src="https://gallery.tinyletterapp.com/a0d8b178d0758f62b0c01a8cd9fc5d00a4997449/images/10ac65bb-c902-404b-a9e8-5cfac540f0e6.jpeg" width="640"/>
 
 2021 est au final 2020 + 1. On arrive au nouveau couvre-feu français, on confine à travers l'Europe. En gros, on est bien parti pour une année aussi étrange. Donc, je vous le dis, apprenez à vivre et briller dans les contraintes. C'est difficile mais c'est essentiel pour votre bonheur. Enfin, je vous force pas hein. Je suis pas là pour ça. Mais je tenais juste à le dire.
 

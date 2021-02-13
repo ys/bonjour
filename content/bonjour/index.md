@@ -11,7 +11,7 @@ resources:
     name: cover
 menu:
   main:
-    weight: 3
+    weight: 4
 linktitle: la lettre
 ---
 

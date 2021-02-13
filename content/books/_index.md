@@ -6,6 +6,9 @@ draft: false
 color: sunray
 resources:
   - src: "*.jpg"
+menu: 
+  main:
+    weight: 3
 linktitle: Lectures
 ---
 

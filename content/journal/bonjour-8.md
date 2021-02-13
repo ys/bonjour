@@ -8,7 +8,7 @@ color: pink
 title: "Bonjour la lettre #8"
 ---
 
-<img class="tl-email-image" data-id="3986422" height="424" src="https://gallery.tinyletterapp.com/a0d8b178d0758f62b0c01a8cd9fc5d00a4997449/images/d70e5488-12e6-480a-bce8-c2cacbca1d2c.jpeg" style="width: 640px; max-width: 640px;" width="640"/>
+<img class="tl-email-image" data-id="3986422" height="424" src="https://gallery.tinyletterapp.com/a0d8b178d0758f62b0c01a8cd9fc5d00a4997449/images/d70e5488-12e6-480a-bce8-c2cacbca1d2c.jpeg" width="640"/>
 
 Bonne année à vous, j'espère que les fêtes se sont bien passées pour vous! Au fait, si tu es nouveau ici, moi c'est Yannick, celui-là même qui était couché avant minuit le 31. J'écris ça plutôt avec de l'espoir car là, on est le 30. J'écris cette lettre à l'avance. Prévoyant le petit gars.
 
