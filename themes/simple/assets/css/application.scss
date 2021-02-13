@@ -58,7 +58,7 @@ hr {
 .post {
   @apply mb-10;
   h1, h2, h3, h4 {
-    @apply font-display dark:text-gray-100;
+    @apply dark:text-gray-100;
   }
   p, ul, ol {
     @apply leading-relaxed text-base ;

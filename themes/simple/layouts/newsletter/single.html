@@ -8,7 +8,7 @@
   <h2 class="text-xl font-semibold text-darker dark:text-gray-100">Lisez la dernière</h2>
   {{ range first 1 (where (where .Site.RegularPages "Type" "journal") ".Params.newsletter" true)  }}
 <div class="py-4">
-  <div class="font-sans tracking-tight text-xs text-gray-700 dark:text-gray-300 uppercase">
+  <div class=" tracking-tight text-xs text-gray-700 dark:text-gray-300 uppercase">
     {{ .Params.emoji }}
     {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
   </div>

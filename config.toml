@@ -22,10 +22,6 @@ disableKinds = ["taxonomyTerm"]
   hasLogo = true
   emoji = "🌊"
   arrow = "—"
-[params.font]
-  default = false
-  url = "https://use.typekit.net/mke5doh.css"
-  sans = "neue-haas-unica"
 [params.fathom]
   siteID = "OIPUYMFX"
 [params.tinyletter]

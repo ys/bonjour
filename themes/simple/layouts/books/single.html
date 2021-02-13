@@ -1,6 +1,6 @@
 {{ define "main" }}
 <header class="mb-6 ">
-  <span class="text-sm font-sans dark:text-gray-300 text-gray-700 capitalize mb-2 block">
+  <span class="text-sm dark:text-gray-300 text-gray-700 capitalize mb-2 block">
 
     {{ with .Params.rating }}{{ strings.Repeat . "★" }}{{end}}
     {{ .Site.Params.arrow }}

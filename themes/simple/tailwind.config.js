@@ -79,10 +79,6 @@ module.exports = {
       dark: "#2d2f34",
       darker: "#1F2023"
     },
-      fontFamily: {
-        display: ['ff-meta-web-pro', 'sans-serif'],
-        body: ['ff-meta-serif-web-pro', 'serif'],
-      },
       typography: {
         DEFAULT: {
           css: {
