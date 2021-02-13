@@ -1,6 +1,6 @@
 <div>
   {{ $current := . }}
-  <nav class="md:absolute md:right-4 md:top-4 text-right font-normal">
+  <nav class="md:fixed md:opacity-50 md:hover:opacity-100 transition duration-400 ease-in-out md:right-4 md:top-4 text-right font-normal">
     <ul class="flex flex-wrap flex-col uppercase text-xs">
       {{ range .Site.Menus.main }}
         {{ $active := or ($current.IsMenuCurrent "nav" .) ($current.HasMenuCurrent "nav" .) }}
