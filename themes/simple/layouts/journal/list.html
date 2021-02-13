@@ -1,7 +1,7 @@
 {{ define "main" }}
   {{ range (.Paginator 10).Pages }}
-  {{ partial "single" . }}
-  <hr class="mt-24 mb-64" />
+    {{ partial "journal-entry" . }}
+    <hr class="my-24" />
   {{ end }}
   {{ partial "pagination.html" . }}
 {{ end }}

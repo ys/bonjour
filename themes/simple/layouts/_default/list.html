@@ -13,7 +13,7 @@
     {{ partial (printf "%s-item" .Type ) . }}
   {{ else }}
     <div class="py-4">
-      <div class="font-sans tracking-tight text-xs text-gray-700 dark:text-gray-300 uppercase">
+      <div class="tracking-tight text-xs text-gray-700 dark:text-gray-300 uppercase">
         {{ .Params.emoji }}
         {{ with .Params.categories }}
           {{ range first 1 . }}
@@ -37,7 +37,7 @@
   {{ end }}
 
 {{ end }}
-<div class="font-sans">
+<div class="">
   {{ partial "pagination.html" . }}
 </div>
 </div>

@@ -6,6 +6,7 @@
     {{ .Content }}
   </div>
 
+  <div class="mb-8">
   {{ range sort .RegularPages ".Params.added" "desc" }}
   <div class="gap-2 relative py-2 grid grid-cols-5 text-xs">
     <h2 class="col-span-2 font-semibold text-darker dark:text-gray-100">
@@ -26,5 +27,6 @@
     </div>
   </div>
   {{ end }}
+  </div>
 
   {{ end }}

@@ -9,7 +9,7 @@ resources:
 menu: 
   main:
     weight: 3
-linktitle: Lectures
+linktitle: Lire
 ---
 
 La plupart des livres que j'ai lu ces dernières années.

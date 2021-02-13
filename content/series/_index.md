@@ -2,7 +2,7 @@
 title: "Petites collections de moments"
 menu:
   main:
-    weight: 2
+    weight: 3
 linktitle: "Photos"
 ---
 
