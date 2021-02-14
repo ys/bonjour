@@ -7,6 +7,6 @@ isbn13: ""
 rating: 3
 pages: 226
 read: "2017-07-25"
-added: "2017-05-11"
+date: "2017-05-11"
 ---
 Nice reading about downsizing and Tammy’s own experience!<br/>I especially liked the micro actions parts at the end of every chapters!

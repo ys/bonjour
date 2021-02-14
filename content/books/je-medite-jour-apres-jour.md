@@ -7,6 +7,6 @@ isbn13: ""
 rating: 3
 pages: 
 read: "2017-05-19"
-added: "2017-05-19"
+date: "2017-05-19"
 ---
 

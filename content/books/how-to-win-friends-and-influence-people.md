@@ -6,7 +6,7 @@ isbn13: ""
 rating: 3
 pages: 288
 read: "2015-06-14"
-added: "2014-12-07"
+date: "2014-12-07"
 ---
 
 A classic
