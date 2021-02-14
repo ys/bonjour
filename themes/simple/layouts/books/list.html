@@ -8,7 +8,9 @@
 
   <div class="mb-8">
   {{ range .RegularPages.GroupByDate "2006" }}
-  <h2 class="my-4 text-xl font-bold">{{ .Key }}</h2>
+  <header class="my-4 flex flex-row justify-between">
+  <h2 class="text-xl font-bold">{{ .Key }}</h2><span class="text-sm opacity-30 text-right font-light">{{ len .Pages}}</span>
+  </header>
   {{ range .Pages }}
   <div class="gap-2 relative py-2 grid grid-cols-4 text-xs">
     <h2 class="col-span-2 font-semibold text-darker dark:text-gray-100">
