@@ -11,6 +11,9 @@ resources:
   name: "cover"
 ---
 
-Bonjour Yannick, c'est des [articles](/posts), des [photos](/series) et une [newsletter](/bonjour).
+Bonjour Yannick, c'est des [articles](/posts), des [photos](/series), des [livres](/books) et une [petite lettre](/bonjour) qui part toutes les deux semaines.
 
+J'essaye d'y écrire régulièrement sur des sujets qui me tiennent à coeur allant de la 📷 au ☕️ en passant par la lecture, le micro activisme, le respect de notre 🌍 et notre vie en Bretagne.
+
+N'hésitez pas à m'écrire si vous avez des suggestions ou retours. Ou tout simplement si l'envie vous en dit. 
 
