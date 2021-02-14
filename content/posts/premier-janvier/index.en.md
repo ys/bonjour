@@ -17,7 +17,7 @@ resources:
 
 We started the year right with Grégory. Meeting at 8am at the Dossen, we said. Time to grab the [5/4 wetsuit](https://srface.com/shop/mens-wetsuit/?currency=EUR). I had not much time to try it before thanks to lockdown. This is my first dawn patrol. This is also my first swin with fins and my first roll with the [Nikonos V](https://www.nikonosproject.com). I loaded a Kodak Portra 400. Like it mattered at all. We shall see if I can get anything decent. I had to test it, I didn't even knew if it was leakproof in the ocean. The roll came out dry, so I get it is.
 
-{{< photo large="please" src="1.jpg" alt="moi" >}}
+{{< photo src="1.jpg" alt="moi" >}}
 
 You need to be brave multiple times for such a good moment. First, you need to get out of bed in the morning fresh air at 6:30 am. And as always, when I have to wake up early, the night was weird. I woke up at 2, 3 then 4am. Classic Yannick fearing to miss the alarm. Actually, I was right this time cause I set it up for the day after... Second, you need to put on your wetsuit when the temperature feels like freezing. I was already cold in my jacket. My fingers were numb even without being in the water. I try to put on the hood that Greg brought me. I was close to puke. Fuck it, let's go without it.
 
