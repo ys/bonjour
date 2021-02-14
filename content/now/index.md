@@ -42,3 +42,5 @@ Ce site est statique et fait avec [Hugo](https://gohugo.io). Il est hébergé ch
 Ce site n'envoie pas les infos de ses utilisateurs chez les gros gras du web. Il utilise [Fathom](https://usefathom.com/ref/NLCJTH) qui respecte votre vie privée. 
 
 Tout le contenu est copyrighté mais n'hésitez pas à demander si vous voulez le réutiliser, on trouvera un moyen.
+
+**Contact:** [hello@yannickschutz.com](mailto://hello@yannickschutz.com)
