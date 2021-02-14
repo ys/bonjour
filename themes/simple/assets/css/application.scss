@@ -22,7 +22,7 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, 
     @apply my-4 md:-mx-6 -ml-4 px-4 md:pr-6 py-1 md:pl-6 border-l-4 border-#{$color}-500 bg-gray-100 dark:bg-gray-900;
   }
   .content-#{$color} .post a{
-    @apply text-#{$color}-600 dark:text-#{$color}-200 underline relative;
+    @apply font-semibold text-#{$color}-600 dark:text-#{$color}-200 underline relative;
     transition: color 0.5s, background-image 0.5s linear;
     &:hover {
       @apply text-#{$color}-600 dark:text-#{$color}-200 underline relative;
@@ -68,6 +68,7 @@ hr {
   }
   ul li::before {
     content: "• ";
+    @apply opacity-30;
   }
   h3 {
     @apply text-xl mt-8 text-gray-900 uppercase font-normal py-1 px-2 inline;
@@ -100,7 +101,7 @@ hr {
   }
 }
 .link, .with-links a, .content a {
-  @apply dark:text-accent-400 text-accent-600 italic underline relative transition duration-500 ease-in-out;
+  @apply font-semibold dark:text-accent-400 text-accent-600 italic underline relative transition duration-500 ease-in-out;
   &:hover {
     @apply dark:text-accent-500 text-accent-500 underline relative;
   }
