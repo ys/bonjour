@@ -8,7 +8,7 @@ color: pink
 title: "Bonjour la lettre #1"
 ---
 
-<img class="tl-email-image" data-id="3852286" height="424" src="https://gallery.tinyletterapp.com/a0d8b178d0758f62b0c01a8cd9fc5d00a4997449/images/d7716c9d-31b2-420f-aa69-8308884ab159.jpg" style="width: 640px; max-width: 640px;" width="640"/>
+<img class="tl-email-image" data-id="3852286" height="424" src="https://gallery.tinyletterapp.com/a0d8b178d0758f62b0c01a8cd9fc5d00a4997449/images/d7716c9d-31b2-420f-aa69-8308884ab159.jpg" width="640"/>
 
 C'est une première, un retour aux choses simples. Une envie d'écrire, une envie de partager. Je ne sais pas vraiment où je vais mais ce qui a bien, c'est que vous y venez avec moi. J'ai recommencé cette année à écrire des longs mails à des potes. Quand tu bouges dans le centre Finistère depuis la Belgique, en fait tu es plutôt loin. Puis y'a eu le confinement cette année qui a encore réduit le nombre de gens que l'on croisait. On finissait par saluer les vaches en balade. 
 

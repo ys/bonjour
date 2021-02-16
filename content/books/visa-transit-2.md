@@ -6,6 +6,6 @@ isbn13: ""
 rating: 4
 pages:
 read: "2020-12-08"
-added: "2020-12-08"
+date: "2020-12-08"
 ---
 

@@ -6,6 +6,6 @@ isbn13: "9782070129256"
 rating: 4
 pages: 271
 read: "2018-05-29"
-added: "2018-05-21"
+date: "2018-05-21"
 ---
 Un beau récit de solitude!

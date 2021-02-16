@@ -6,6 +6,6 @@ isbn13: "9782070382583"
 rating: 3
 pages: 297
 read: "2017-12-13"
-added: "2017-12-14"
+date: "2017-12-14"
 ---
 Les rocheuses et l’ouest vu par un collège boy

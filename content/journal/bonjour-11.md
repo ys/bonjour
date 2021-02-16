@@ -8,8 +8,6 @@ color: pink
 title: "Bonjour la lettre #11 - Des livres, du CSV et Mowgli"
 ---
 
-Bonjour,
-
 C'est l'histoire d'un gars qui se rend compte que Amazon détient Goodreads depuis 2013. Il le savait déjà en fait mais l'avait astucieusement oublié. Dans l'optique d'avoir la main mise sur ces données, il se dit qu'il doit faire quelque chose.
 
 Je ne sais pas vous mais moi dernièrement, j'aime bien posséder mes données. J'ai fermé mon compte Facebook entre autre en ce début d'année. Et j'en suis plutôt content.

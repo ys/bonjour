@@ -1,5 +1,5 @@
 <h3 class="text-xl text-center font-semibold">{{ T "recent" }}</h3>
-<div class="grid grid-rows-3 md:grid-rows-1 md:grid-cols-3 gap-8 md:-mx-32 p-4">
+<div class="grid grid-rows-3 md:grid-rows-1 md:grid-cols-3 gap-8 p-4">
 
 {{ range (first 3 (where .Site.RegularPages "Type" "posts")) }}
 <div class="my-4">
@@ -24,11 +24,6 @@
         {{ .Title }}
       </a>
     </h2>
-    <h3 class="mx-2 italic font-body text-sm text-gray-600 dark:text-gray-300">
-      {{ with .Params.subtitle }}
-      {{ . }}
-      {{ end }}
-    </h3>
   </header>
 </div>
 {{ end }}

@@ -7,6 +7,6 @@ isbn13: "9780804137386"
 rating: 4
 pages: 260
 read: "2019-01-21"
-added: "2017-05-07"
+date: "2017-05-07"
 ---
 A lot of good reminders and tips on how to focus on the essential. Parts are a bit cheesy but still a real good book

@@ -22,13 +22,12 @@ Glaz, c'est un mélange de bleu, de vert et de gris.
 Glaz, c'est une couleur qui est changeante.  
 Glaz, c'est un bleu canard, si tu n'as pas d'imagination.  
 
-{{< photo full="true" src="cover" alt="glaz" >}}
-
 Glaz, c'est aussi la couleur de la nature.  
 Glaz, c'est la couleur que la Kodak Portra m'a donné ce matin là.  
 Glaz, c'est aussi le début d'un projet perso.  
 Glaz, c'est le nom de mes photos à l'eau.  
 
+{{< photo full="true" src="cover" alt="glaz" >}}
 {{< photo src="41.jpeg" alt="silhouette glaz" >}}
 {{< photo src="43.jpeg" alt="glaz" >}}
 {{< photo large="yes" src="64.jpeg" alt="glaz" >}}

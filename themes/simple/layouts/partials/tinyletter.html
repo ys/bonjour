@@ -1,18 +1,18 @@
 {{ if (and .Site.Params.tinyletter.username (not .Params.hideSubscribe)) }}
 <div
-  class="bg-accent-200 dark:bg-accent-800  w-full px-10 py-20 text-gray-700 dark:text-gray-200 font-display font-light text-base">
-  <div class="container mx-auto md:max-w-xl">
+  class="bg-accent-200 dark:bg-accent-800  w-full px-4 mx:px-0 py-12 text-gray-700 dark:text-gray-200 font-display font-light text-base">
+  <div class="container mx-auto md:max-w-lg">
     <form class="flex flex-col items-center"
       action="https://buttondown.email/api/emails/embed-subscribe/{{ .Site.Params.tinyletter.username }}" method="post"
       target="popupwindow"
       onsubmit="window.open('https://buttondown.email/{{ .Site.Params.tinyletter.username }}', 'popupwindow')"
       class="embeddable-buttondown-form">
-      <h2 class="text-lg font-sans font-semibold ">{{ .Site.Params.tinyletter.title }}</h2>
+      <h2 class="text-lg  font-semibold ">{{ .Site.Params.tinyletter.title }}</h2>
       <label for="bd-email">
         {{.Site.Params.tinyletter.message}}
       </label>
       <div
-        class="mt-4 border-4 rounded-sm  bg-white border-accent-500 hover:border-accent-600 tranistion duration-500 ease-in-out">
+        class="mt-4 border-2 w-full flex flex-row justify-between rounded-sm  bg-white border-accent-500 hover:border-accent-600 tranistion duration-500 ease-in-out">
         <input
           class=" m-0 pl-2 rounded-none appearance-none  py-2 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
           type="email" name="email" id="bd-email" />

@@ -1,16 +1,5 @@
 <header class="mb-6 ">
-  <span class="text-sm font-sans dark:text-gray-300 text-gray-700 capitalize mb-2 block">
-    {{ with .Params.emoji }}
-      {{ . }}
-    {{ else }}
-      {{ partial "emoji" . }}
-    {{ end }}
-    {{ .Site.Params.arrow }}
-    <a href="{{ .RelPermalink }}">
-    {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
-    </a>
-  </span>
-  <h1 class="text-3xl font-bold text-darker dark:text-gray-100 mb-2">
+  <h1 class="text-xl font-bold text-darker dark:text-gray-100 ">
     {{ .Title }}
   </h1>
   <h2 class="italic text-gray-600 dark:text-gray-300">

@@ -7,6 +7,6 @@ isbn13: "9780241201954"
 rating: 3
 pages: 224
 read: "2016-02-18"
-added: "2016-02-18"
+date: "2016-02-18"
 ---
 I had a smile on my face all the time

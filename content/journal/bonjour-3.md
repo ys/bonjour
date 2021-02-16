@@ -8,7 +8,7 @@ color: pink
 title: "Bonjour la lettre #3"
 ---
 
-<img class="tl-email-image" data-id="3888110" height="424" src="https://gallery.tinyletterapp.com/a0d8b178d0758f62b0c01a8cd9fc5d00a4997449/images/720df066-d202-4ee2-8557-9c724af721b8.jpeg" style="width: 640px; max-width: 640px;" width="640"/>
+<img class="tl-email-image" data-id="3888110" height="424" src="https://gallery.tinyletterapp.com/a0d8b178d0758f62b0c01a8cd9fc5d00a4997449/images/720df066-d202-4ee2-8557-9c724af721b8.jpeg" width="640"/>
 
 Hello à tous. Merci de toujours lire cette petite lettre. Aujourd'hui, je voulais vous présenter mon côté qui se préoccupe de la planète. Ce Yannick là se trouve cool et se considère comme un micro activiste.  Parce que sans Terre, y'a plus de Terriens. Pas bête l'animal.  
 

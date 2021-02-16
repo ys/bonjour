@@ -1,13 +1,18 @@
 {{ define "main" }}
 
 <header>
-  <h1 class="font-body text-3xl text-darker dark:text-gray-100">{{.Title}}</h1>
+  <h1 class="text-xl font-bold text-darker dark:text-gray-100">{{.Title}}</h1>
   <div class="post">
     {{ .Content }}
   </div>
 
-  {{ range sort .RegularPages ".Params.added" "desc" }}
-  <div class="gap-2 relative py-2 grid grid-cols-5 text-xs">
+  <div class="mb-8">
+  {{ range .RegularPages.GroupByDate "2006" }}
+  <header class="my-4 flex flex-row justify-between">
+  <h2 class="text-xl font-bold">{{ .Key }}</h2><span class="text-sm opacity-30 text-right font-light">{{ len .Pages}}</span>
+  </header>
+  {{ range .Pages }}
+  <div class="gap-2 relative py-2 grid grid-cols-4 text-xs">
     <h2 class="col-span-2 font-semibold text-darker dark:text-gray-100">
       <a href="{{.RelPermalink}}">
         {{ .Params.Title }}
@@ -18,13 +23,12 @@
       {{ if .Params.reading }}
       {{ T "reading" }}
       {{ else }}
-      {{ .Params.read }}
-      {{ end }}
-    </div>
-    <div>
       {{ with .Params.rating }}{{ strings.Repeat . "★" }}{{end}}
+      {{ end }}
     </div>
   </div>
   {{ end }}
+  {{ end }}
+  </div>
 
   {{ end }}

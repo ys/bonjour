@@ -6,6 +6,6 @@ isbn13: ""
 rating: 4
 pages: 96
 read: "2019-01-29"
-added: "2019-01-19"
+date: "2019-01-19"
 ---
 Il est temps de reprendre nos histoires en main!
