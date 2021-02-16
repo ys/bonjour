@@ -23,12 +23,12 @@ Glaz, it is a mix of blue, green and grey.
 Glaz, it is an always changing color.  
 Glaz, it is blue pigeon, if you lack imagination.  
 
-{{< photo full="true" src="cover" alt="glaz" >}}
-
 Glaz, it is also the color of nature.  
 Glaz, it is the color that the Kodak Portra gave me that morning.  
 Glaz, it is the beginning of a new project.  
 Glaz, it is the name of my watershots.  
+
+{{< photo full="true" src="cover" alt="glaz" >}}
 
 {{< photo src="41.jpeg" alt="silhouette glaz" >}}
 {{< photo src="43.jpeg" alt="glaz" >}}
