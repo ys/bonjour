@@ -19,7 +19,7 @@
   {{/* set the sizes attribute to (min-width: 35em) 1200px, 100vw unless overridden in shortcode */}}
 
   <figure>
-    <picture class="block relative {{ if .Get "no-shadow" }} {{ else}}shadow-lg{{end}} {{ if .Parent }}{{ else }} my-6 {{ if gt $src.Height $src.Width }}mx-auto w-2/3{{ else }}{{ if .Get "large" }}md:-mx-32{{ else if .Get "regular" }}{{ else }}md:-mx-16{{ end }}{{ end }}{{ end }} img" {{ if .Get "no-lqip" }} {{ else }}style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover"{{ end }}>
+    <picture class="block relative {{ if .Get "no-shadow" }} {{ else}}shadow-lg{{end}} {{ if .Parent }}{{ else }} my-6 {{ if gt $src.Height $src.Width }}mx-auto w-2/3{{ end }}{{ end }} img" {{ if .Get "no-lqip" }} {{ else }}style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover"{{ end }}>
       <img
         loading="lazy"
         alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "src" }}{{ end }}"
