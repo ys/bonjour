@@ -2,7 +2,8 @@
 emoji: 📱
 title: Un iPhone plus apaisé
 date: 2021-02-18T13:57:50+02:00
-slug: "/iphone-apaise"
+aliases: 
+- "/iphone-apaise"
 resources:
 - src: "*.jpg"
 ---
