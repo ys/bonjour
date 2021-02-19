@@ -1,7 +1,0 @@
-{{ define "main" }}
-  {{ range (.Paginator 10).Pages }}
-    {{ partial "journal-entry" . }}
-    <hr class="my-24" />
-  {{ end }}
-  {{ partial "pagination.html" . }}
-{{ end }}

@@ -1,5 +1,6 @@
 ---
-title: "Petites collections de moments"
+title: "📷 Des moments"
+description: "Des histoires simples, des photos, des livres & une bonne tasse de café."
 menu:
   main:
     weight: 3

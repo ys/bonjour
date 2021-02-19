@@ -1,7 +1,7 @@
 ---
 title: "Un peu de lecture"
 subtitle: "Quelques livres pour l'été"
-seotitle: "Suggestions lecture nature & Aventure"
+seotitle: "Suggestions lecture nature & Aventure - Bonjour Yannick"
 date: 2019-07-11T20:00:22+02:00
 draft: false
 tags:

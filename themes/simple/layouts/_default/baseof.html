@@ -1,26 +1,29 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
-  <head>
-    {{ partialCached "shared_head.html" . }}
-    {{ with .OutputFormats.Get "jsonfeed" }}
-      <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .RelPermalink | safeURL }}" title="{{ $.Site.Title }}" />
-    {{ end -}}
-    {{ partial "opengraph.html" . }}
-    {{ template "_internal/google_news.html" . }}
-    {{ template "_internal/twitter_cards.html" . }}
-    {{ partial "seo" . }}
-  </head>
-  <body class="text-base antialiased font-sans font-light text-normal text-darker dark:text-gray-100 dark:bg-darker">
-    {{ partial "header" . }}
-    <div class="container w-screen md:pt-8 md:max-w-xl  mx-auto min-h-1/2">
-      <div class="mx-4 md:mx-0">
-        {{ block "main" . }}
-        {{ end }}
-      </div>
-    </div>
 
-    {{ partial "tinyletter" . }}
-    {{ partial "footer" . }}
-    {{ partial "js" . }}
-  </body>
+<head>
+  {{ partialCached "shared_head.html" . }}
+  {{ with .OutputFormats.Get "jsonfeed" }}
+  <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .RelPermalink | safeURL }}" title="{{ $.Site.Title }}" />
+  {{ end -}}
+  {{ partial "opengraph.html" . }}
+  {{ template "_internal/google_news.html" . }}
+  {{ template "_internal/twitter_cards.html" . }}
+  {{ partial "seo" . }}
+</head>
+
+<body class="text-base leading-relaxed antialiased font-sans font-normal text-darker dark:text-gray-100 dark:bg-darker">
+  {{ partial "header" . }}
+  <div class="container w-screen md:pt-8 md:max-w-xl lg:max-w-2xl  mx-auto min-h-1/2">
+    <div class="mx-4 md:mx-0">
+      {{ block "main" . }}
+      {{ end }}
+    </div>
+  </div>
+
+  {{ partial "tinyletter" . }}
+  {{ partial "footer" . }}
+  {{ partial "js" . }}
+</body>
+
 </html>
