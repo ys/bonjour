@@ -1,10 +1,6 @@
 ---
 categories:
-<<<<<<< HEAD:content/posts/bonjour-4.md
 - lettre
-=======
-- journal
->>>>>>> d9e165a... Journal refactoring:content/journal/bonjour-4.md
 date: 2020-11-07 07:27:33 +0200
 newsletter: true
 tags:

@@ -1,8 +1,5 @@
 ---
-<<<<<<< HEAD:content/posts/2020-02-09/index.md
 emoji: 🌲
-=======
->>>>>>> d9e165a... Journal refactoring:content/links/2020-02-09/index.md
 title: "Le cèdre est mort"
 categories:
 - journal

@@ -1,8 +1,5 @@
 ---
-<<<<<<< HEAD:content/posts/2020-03-19/index.md
 emoji: 🏡
-=======
->>>>>>> d9e165a... Journal refactoring:content/links/2020-03-19/index.md
 title: "Confinement jour 4"
 categories:
 - journal

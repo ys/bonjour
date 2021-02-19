@@ -1,8 +1,5 @@
 ---
-<<<<<<< HEAD:content/posts/2020-01-04/index.md
 emoji: 🌄
-=======
->>>>>>> d9e165a... Journal refactoring:content/links/2020-01-04/index.md
 title: "Finir l'année sur un beau coucher de soleil"
 categories:
 - journal
