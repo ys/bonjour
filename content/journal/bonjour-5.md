@@ -1,7 +1,9 @@
 ---
+categories:
+- journal
 date: 2020-11-21 07:27:33 +0200
 newsletter: true
-tags: 
+tags:
 - la lettre
 emoji: 💌
 color: pink

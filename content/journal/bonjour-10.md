@@ -1,6 +1,8 @@
 ---
+categories:
+- journal
 date: 2021-01-30 07:27:33 +0200
-tags: 
+tags:
 - la lettre
 newsletter: true
 emoji: 💌
@@ -15,7 +17,7 @@ Cette semaine, je suis tombé sur une vidéo de <a href="https://www.youtube.com
 Je ne sais pas si vous avez vu cette série de tweet sur des marques qui font de tout et de rien? Ca va un peu comme ceci:
 
 ```
-moi: je voudrais un stylo 4 couleurs. 
+moi: je voudrais un stylo 4 couleurs.
 bic: ok
 moi: je cherche aussi une planche à voile et un briquet, vous me conseillez d’aller où ?
 bic: alors, vous allez rire mais...

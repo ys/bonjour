@@ -1,6 +1,8 @@
 ---
 title: "Log entries"
 description: "Some tiny stories, micro activism and a cup of black coffee"
+categories:
+- journal
 date: 2017-10-26T22:57:50+02:00
 draft: false
 type: index

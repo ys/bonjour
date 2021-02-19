@@ -1,4 +1,6 @@
 ---
+categories:
+- journal
 date: 2021-02-13 07:27:33 +0200
 tags:
 - la lettre

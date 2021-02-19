@@ -3,12 +3,14 @@ emoji: 💻
 title: Petit article pour les devs et autres intéressés du code
 subtitle: Comment ce petit site passe de mes mains aux vôtres?
 description: Workflow et technologies derrière yannickschutz.com
+categories:
+- journal
 date: 2021-02-16T18:57:50+02:00
 resources:
 - src: "*.png"
 ---
 
-Parfois, je me dis que un petit article sur le derrière de ce site pourrait vous intéresser. Alors, voilà j'écris sur cela. Car en fait, je suis plutôt fier de ce petit bout de code que je vous partage. 
+Parfois, je me dis que un petit article sur le derrière de ce site pourrait vous intéresser. Alors, voilà j'écris sur cela. Car en fait, je suis plutôt fier de ce petit bout de code que je vous partage.
 
 J'ai commencé il y a environ 3 ans. Je voulais quelque chose de statique et de simple. Je me suis alors dirigé vers le framework [Hugo](https://gohugo.io). C'est un framework écrit en Go pour ceux qui connaissent. Il permet de facilement créer des sites et des petits blogs. J'ai commencé par faire pas mal de CSS, etc. Tout ça pour avoir un truc propre qui était perso mais avait des fonctionnalités d'affichages qu'on retrouve dans des sites comme [Exposure](https://exposure.co). Je voulais pouvoir raconter des histoires avec des images. Les plus pour moi de Hugo, c'était de pouvoir écrire en Markdown et avoir le thème dans un dossier séparé.
 
