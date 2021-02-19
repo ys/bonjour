@@ -1,8 +1,5 @@
 ---
-<<<<<<< HEAD:content/posts/202-01-22/index.md
-emoji: 🐎
-=======
->>>>>>> d9e165a... Journal refactoring:content/links/202-01-22/index.md
+emoji: "🐎"
 title: "Les embouteillages sur la départementale"
 categories:
 - journal

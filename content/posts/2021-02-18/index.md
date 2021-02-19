@@ -4,14 +4,9 @@ title: Un iPhone plus apaisé
 categories:
 - journal
 date: 2021-02-18T13:57:50+02:00
-<<<<<<< HEAD:content/posts/2021-02-18/index.md
 slug: "/iphone-apaise"
 aliases:
 - "/journal/2021-02-18"
-=======
-aliases:
-- "/iphone-apaise"
->>>>>>> d9e165a... Journal refactoring:content/journal/2021-02-18/index.md
 resources:
 - src: "*.jpg"
 ---
