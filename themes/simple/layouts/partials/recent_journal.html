@@ -1,5 +1,5 @@
 <div class="pt-4 pb-8">
-  {{ range (first 5 (where .Site.RegularPages "Type" "journal")) }}
+  {{ range (first 5 (where .Site.RegularPages "Type" "posts")) }}
     <div class="py-4">
       <div class=" tracking-tight text-xs text-gray-700 dark:text-gray-300 uppercase">
         {{ .Params.emoji }} {{ .Title }} {{.Site.Params.arrow}}
