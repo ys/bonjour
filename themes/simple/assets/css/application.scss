@@ -52,7 +52,7 @@ hr {
     @apply text-lg mb-8;
   }
   p, ul, ol {
-    @apply leading-relaxed text-base mb-6;
+    @apply mb-6;
   }
 }
 
@@ -60,9 +60,6 @@ hr {
   @apply mb-10;
   h1, h2, h3, h4 {
     @apply dark:text-gray-100;
-  }
-  p, ul, ol {
-    @apply leading-relaxed text-base ;
   }
   code {
     @apply w-full break-words my-6;
