@@ -15,11 +15,7 @@
     <div class="py-4">
       <div class="tracking-tight text-xs text-gray-700 dark:text-gray-300 uppercase">
         {{ .Params.emoji }}
-        {{ with .Params.categories }}
-          {{ range first 1 . }}
-            <a href="/{{ . }}">{{ . }}</a>
-          {{ end }}
-        {{ end }}
+        {{ partial "category-link" . }}
         {{ .Site.Params.arrow }}
         {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
       </div>
