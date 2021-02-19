@@ -372,14 +372,14 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
 
 										self.items[i] = [];
 										self.thumbnails[i] = [];
-										self.tmps[i] = self.galleries[i].getElementsByTagName('a');
+										self.tmps[i] = self.galleries[i].getElementsByTagName('img');
 
 										self.tmps[i] = Array.prototype.slice.call(self.tmps[i]);
 
 										if (self.tmps[i].length > 0) {
 												for (var l = 0; l < self.tmps[i].length; l++) {
 
-														var src = self.tmps[i][l].getAttribute('href');
+														var src = self.tmps[i][l].getAttribute('data-zoom-src');
 														if (/(.gif|.jpe?g|.png|.bmp)/.test(src.toLowerCase())) {
 																self.thumbnails[i].push(self.tmps[i][l]);
 														}
@@ -442,11 +442,12 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
 								// Addition to check for data-size attribute so you don't have
 								// to load every high-resolution image if unnecessary 
 								if (node.getAttribute('data-size')) {
-										var size = node.getAttribute('data-size').split('x');
+								        var width = node.getAttribute('width');
+								        var height = node.getAttribute('height');
 										self.items[galleryIndex][i] = {
 												src: src,
-												w: parseInt(size[0], 10),
-												h: parseInt(size[1], 10),
+												w: parseInt(width, 10),
+												h: parseInt(height, 10),
 												title: title,
 												author: author
 										};
@@ -516,7 +517,7 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
 								for (var i = 0; i < self.thumbnails[galleryIndex].length; i++) {
 
 										var node = self.thumbnails[galleryIndex][i];
-										var src = self.thumbnails[galleryIndex][i].getAttribute('href');
+										var src = self.thumbnails[galleryIndex][i].getAttribute('data-zoom-src');
 										var title = self.thumbnails[galleryIndex][i].getAttribute('data-caption');
 										var author = self.thumbnails[galleryIndex][i].getAttribute('data-author');
 
