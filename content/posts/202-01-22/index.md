@@ -1,4 +1,5 @@
 ---
+emoji: 🐎
 title: "Les embouteillages sur la départementale"
 categories:
 - journal

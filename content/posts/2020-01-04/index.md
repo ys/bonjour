@@ -1,4 +1,5 @@
 ---
+emoji: 🌄
 title: "Finir l'année sur un beau coucher de soleil"
 categories:
 - journal

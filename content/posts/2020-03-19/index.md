@@ -1,4 +1,5 @@
 ---
+emoji: 🏡
 title: "Confinement jour 4"
 categories:
 - journal

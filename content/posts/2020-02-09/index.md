@@ -1,4 +1,5 @@
 ---
+emoji: 🌲
 title: "Le cèdre est mort"
 categories:
 - journal

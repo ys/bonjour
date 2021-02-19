@@ -1,4 +1,5 @@
 ---
+emoji: 😍
 title: "S'émerveiller tous les jours"
 categories:
 - journal
