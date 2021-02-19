@@ -1,6 +1,10 @@
 ---
 categories:
+<<<<<<< HEAD:content/posts/bonjour-8.md
 - lettre
+=======
+- journal
+>>>>>>> d9e165a... Journal refactoring:content/journal/bonjour-8.md
 date: 2021-01-02 07:27:33 +0200
 newsletter: true
 tags:

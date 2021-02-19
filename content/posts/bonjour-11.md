@@ -1,6 +1,10 @@
 ---
 categories:
+<<<<<<< HEAD:content/posts/bonjour-11.md
 - lettre
+=======
+- journal
+>>>>>>> d9e165a... Journal refactoring:content/journal/bonjour-11.md
 date: 2021-02-13 07:27:33 +0200
 tags:
 - la lettre

@@ -1,6 +1,10 @@
 ---
 categories:
+<<<<<<< HEAD:content/posts/bonjour-6.md
 - lettre
+=======
+- journal
+>>>>>>> d9e165a... Journal refactoring:content/journal/bonjour-6.md
 date: 2020-12-05 07:27:33 +0200
 newsletter: true
 tags:

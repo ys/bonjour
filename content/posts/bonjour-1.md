@@ -1,7 +1,11 @@
 ---
 newsletter: true
 categories:
+<<<<<<< HEAD:content/posts/bonjour-1.md
 - lettre
+=======
+- journal
+>>>>>>> d9e165a... Journal refactoring:content/journal/bonjour-1.md
 date: 2020-10-10 07:27:33 +0200
 tags:
 - la lettre
