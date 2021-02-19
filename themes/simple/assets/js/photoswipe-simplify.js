@@ -441,7 +441,7 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
 
 								// Addition to check for data-size attribute so you don't have
 								// to load every high-resolution image if unnecessary 
-								if (node.getAttribute('data-size')) {
+								if (node.getAttribute('width')) {
 								        var width = node.getAttribute('width');
 								        var height = node.getAttribute('height');
 										self.items[galleryIndex][i] = {
@@ -486,7 +486,7 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
 								var gallery = document.querySelector('.pswp--active');
 								if (gallery) {
 
-										var thumbnail = gallery.querySelectorAll('.pswp--item')[index].getElementsByTagName('img')[0],
+										var thumbnail = gallery.querySelectorAll('.pswp--item')[index],
 										    pageYScroll = window.pageYOffset || document.documentElement.scrollTop,
 										    rect = thumbnail.getBoundingClientRect();
 										return { x: rect.left, y: rect.top + pageYScroll, w: rect.width };
