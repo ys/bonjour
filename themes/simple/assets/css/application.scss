@@ -307,3 +307,7 @@ hr {
 .pswp__error-msg a {
   color: #CCC;
   text-decoration: underline; }
+
+.pswp__ui {
+  @apply hidden;
+}

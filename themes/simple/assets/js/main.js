@@ -8,10 +8,10 @@ document.addEventListener("DOMContentLoaded", function () {
     zoomEl: false,
     shareEl: false,
     counterEl: false,
-    shareButtons: [],
     fullscreenEl: false,
     closeEl: false,
     captionEl: false,
+    arrowEl: false,
     barsSize: { top: 44, bottom: 44, left: 44, right: 44 }
   });
 })
