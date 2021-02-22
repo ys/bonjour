@@ -23,7 +23,7 @@
       <img
         loading="lazy"
         alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "src" }}{{ end }}"
-        class="m-0 h-auto w-full lazyload"
+        class="cursor-pointer m-0 h-auto w-full lazyload"
         {{ if not (.Get "no-zoom") }}
         data-action="zoom"
         {{ end }}
