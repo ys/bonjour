@@ -1,15 +1,35 @@
-
 <footer class="container   md:max-w-lg mx-auto p-10 text-gray-400 dark:text-gray-500  text-sm ">
-    <div class="text-center">
+  <div class="text-center">
+    <ul class="flex flex-row justify-around">
+      {{ range .Site.Menus.footer }}
+      <li class="pr-2 text-gray-600 dark:text-gray-200">
+        <a class="hover:text-accent-600 transition ease-in-out duration-200 " href="{{ .URL }}" title="{{ .Title }}">
+          {{ .Name }}
+        </a>
+      </li>
+      {{ end }}
       {{ with .Site.Params.social.instagram }}
-      <a class="p-1" href="https://instagram.com/{{ . }}">Instagram</a> •
+      <li class="pr-2  text-gray-600 dark:text-gray-200">
+        <a class="p-1 hover:text-accent-600 transition ease-in-out duration-200"
+          href="https://instagram.com/{{ . }}">Instagram</a>
+      </li>
       {{ end }}
       {{ with .Site.Params.social.twitter }}
-      <a class="p-1" href="https://twitter.com/{{ . }}">Twitter</a> •
+      <li class="pr-2  text-gray-600 dark:text-gray-200">
+        <a class="p-1 hover:text-accent-600 transition ease-in-out duration-200"
+          href="https://twitter.com/{{ . }}">Twitter</a>
+      </li>
       {{ end }}
       {{ with .Site.Params.social.vsco }}
-      <a class="p-1" href="https://vsco.com/{{ . }}">VSCO</a> •
+      <li class="pr-2  text-gray-600 dark:text-gray-200">
+        <a class="p-1 hover:text-accent-600 transition ease-in-out duration-200"
+          href="https://vsco.com/{{ . }}">VSCO</a>
+      </li>
       {{ end }}
-      <a class="p-1" href="mailto:{{ $.Site.Params.social.email }}">✉️ {{ $.Site.Params.social.domain }}</a>
-    </div>
+      <li class="pr-2  text-gray-600 dark:text-gray-200">
+        <a class="p-1 hover:text-accent-600 transition ease-in-out duration-200"
+          href="mailto:{{ $.Site.Params.social.email }}">Email</a>
+      </li>
+    </ul>
+  </div>
 </footer>
