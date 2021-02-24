@@ -35,18 +35,28 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, 
       @apply text-gray-900 dark:text-gray-100;
     }
   }
+  .content-#{$color} hr.line {
+    @apply border-#{$color}-500;
+
+  }
 }
 .logo svg {
   @apply fill-current;
 }
 
 hr {
-  &:after {
-    content:"⁎ ⁎ ⁎ ";
-    @apply block mx-auto text-center;
+  &:not(.line) {
+    &:after {
+      content:"⁎ ⁎ ⁎ ";
+      @apply block mx-auto text-center;
+    }
+    @apply block mt-6 border-none mb-10 mx-auto;
   }
-  @apply block mt-6 border-none mb-10 mx-auto;
+  &.line {
+    @apply block mt-6 border mb-10 mx-auto w-1/2;
+  }
 }
+
 .home {
   p:first-child {
     @apply text-lg mb-8;
@@ -99,7 +109,7 @@ hr {
   }
 }
 .link, .with-links a, .content a {
-  @apply font-semibold dark:text-accent-400 text-accent-600 italic underline relative transition duration-500 ease-in-out;
+  @apply font-semibold dark:text-accent-400 text-accent-600 underline relative transition duration-500 ease-in-out;
   &:hover {
     @apply dark:text-accent-500 text-accent-500 underline relative;
   }
