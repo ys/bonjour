@@ -1,4 +1,7 @@
 {{ define "main" }}
+{{ if .Params.showtitle }}
+{{ partial "article_header" . }}
+{{ end }}
 {{ partial "cover.html" . }}
 <div class="mb-10 content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
   <div class="post">
