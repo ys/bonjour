@@ -23,7 +23,7 @@ disableKinds = ["taxonomyTerm"]
   emoji = "🌊"
   arrow = "—"
 [params.fathom]
-  excluded = "vercel.app,mini.local,localhost"
+  domain = "yannickschutz.com"
   siteID = "OIPUYMFX"
 [params.tinyletter]
   username = "bonjouryannick"
