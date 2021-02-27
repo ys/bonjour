@@ -1,6 +1,6 @@
 <h3 class="my-6 text-xl font-bold text-center">{{ T "recent-books" }}</h3>
 <div class="mb-8">
-  {{ range first 3 (where .Site.RegularPages "Type" "books") }}
+  {{ range first 3 (sort (where .Site.RegularPages "Type" "books") ".Params.read" "desc")}}
   <div class="py-4">
     <div class="tracking-tight text-xs text-gray-700 dark:text-gray-300 uppercase">
       📚
