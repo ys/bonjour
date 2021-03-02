@@ -3,21 +3,22 @@
 
 <header>
   <h1 class="text-xl font-bold text-darker dark:text-gray-100">{{.Title}}</h1>
-  <div class="post">
-    {{ .Content }}
-  </div>
+</header>
+<div class="post">
+  {{ .Content }}
+</div>
 
-  <div class="mb-10">
-    {{ range $paginator.Pages }}
-    {{ if templates.Exists ( printf "partials/%s-item.html" .Type ) }}
-    {{ partial (printf "%s-item" .Type ) . }}
-    {{ else }}
-    {{ partial "title" . }}
-    {{ end }}
-
-    {{ end }}
-    <div class="">
-      {{ partial "pagination.html" . }}
-    </div>
-  </div>
+<div class="mb-10">
+  {{ range $paginator.Pages }}
+  {{ if templates.Exists ( printf "partials/%s-item.html" .Type ) }}
+  {{ partial (printf "%s-item" .Type ) . }}
+  {{ else }}
+  {{ partial "title" . }}
   {{ end }}
+
+  {{ end }}
+  <div class="">
+    {{ partial "pagination.html" . }}
+  </div>
+</div>
+{{ end }}

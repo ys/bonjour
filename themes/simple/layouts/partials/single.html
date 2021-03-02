@@ -3,10 +3,12 @@
   <div class="post">
     {{.Content}}
   </div>
+  {{ if .Params.serie }}
+    {{ partial "serie" . }}
+  {{ end }}
   {{ partial "article_footer" . }}
   <div class="pt-8">
     <hr class="" />
-
     {{ partial "recent_posts" . }}
   </div>
 </div>

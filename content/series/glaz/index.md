@@ -8,6 +8,7 @@ tags: ["nikonos", "film", "nikonosproject", "dawn patrol", "kodak portra"]
 slug: "nikonos-glaz"
 color: "cascade"
 emoji: "🌊"
+serie: true
 camera: Nikonos V
 film: Kodak Portra 400
 resources:
@@ -27,18 +28,3 @@ Glaz, c'est la couleur que la Kodak Portra m'a donné ce matin là.
 Glaz, c'est aussi le début d'un projet perso.  
 Glaz, c'est le nom de mes photos à l'eau.  
 
-{{< photo full="true" src="cover" alt="glaz" >}}
-{{< photo src="41.jpeg" alt="silhouette glaz" >}}
-{{< photo src="43.jpeg" alt="glaz" >}}
-{{< photo large="yes" src="64.jpeg" alt="glaz" >}}
-
-{{< photo src="65.jpeg" alt="glaz" >}}
-
-{{< photoset always="2" >}}
-{{< photo src="66.jpeg" alt="glaz" >}}
-{{< photo src="53.jpeg" alt="glaz" >}}
-{{</ photoset >}}
-{{< photo src="71.jpeg" alt="glaz" >}}
-{{< photo large="true" src="73.jpeg" alt="glaz" >}}
-{{< photo src="75.jpeg" alt="glaz" >}}
-{{< photo src="72.jpeg" alt="glaz" >}}

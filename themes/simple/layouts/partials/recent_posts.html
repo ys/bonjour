@@ -1,6 +1,8 @@
-<h3 class="text-xl text-center font-semibold">{{ T "youmightlike" }}</h3>
-<div class="pt-4 pb-8">
-  {{ range (first 3 (.Site.RegularPages.Related .)) }}
-  {{ partial "title" . }}
-  {{ end }}
-</div>
+{{ with (first 3 (.Site.RegularPages.Related .))}}
+  <h3 class="text-xl text-center font-semibold">{{ T "youmightlike" }}</h3>
+  <div class="pt-4 pb-8">
+    {{ range  . }}
+      {{ partial "title" . }}
+    {{ end }}
+  </div>
+{{ end }}
