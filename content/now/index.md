@@ -14,8 +14,12 @@ menu:
     weight: 5
 linktitle: Maintenant
 ---
+Bonjour, moi c'est Yannick. 
 
-Cela fait maintenant quelques années que je suis dans le coin. Un breton d'adoption.
+J'aime raconter des histoires et prendre des photos.
+J'aime assez notre planète aussi, je suis plutôt un micro activiste.
+
+Cela fait maintenant quelques années que je suis dans le Finistère. Un breton d'adoption.
 Je suis amoureux de l'océan et de la nature. Ces derniers temps, je ne fais plus que de la photo argentique. J'ai mon iPhone 12 mini pour tout ce qui est numérique. Je charge principalement de la Kodak Portra 400 dans mes appareils. J'aime de plus en plus la Kodak Tri-X 400. J'ai eu beaucoup de plaisir sur quelques rolls.
 
 Mon matos actuel:

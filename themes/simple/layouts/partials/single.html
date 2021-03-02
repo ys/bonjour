@@ -3,22 +3,10 @@
   <div class="post">
     {{.Content}}
   </div>
-  <span class="text-sm  dark:text-gray-300 text-gray-700 capitalize mb-2 block">
-    {{ with .Params.emoji }}
-      {{ . }}
-    {{ else }}
-      {{ partial "emoji" . }}
-    {{ end }}
-    {{ .Site.Params.arrow }}
-    <a href="{{ .RelPermalink }}">
-    {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
-    </a>
-  </span>
-  <span class="text-sm  dark:text-gray-300 text-gray-700 capitalize mb-2 block">
-  </span>
-  <span class="text-sm  dark:text-gray-300 text-gray-700 capitalize mb-2 block">
-    {{ if .Params.camera }}
-    📷 {{ .Params.camera }} {{ with .Params.film }}{{ $.Site.Params.arrow }} {{ . }} {{ end }}
-    {{ end }}
-  </span>
+  {{ partial "article_footer" . }}
+  <div class="pt-8">
+    <hr class="" />
+
+    {{ partial "recent_posts" . }}
+  </div>
 </div>

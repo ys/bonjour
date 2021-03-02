@@ -1,30 +1,6 @@
-<h3 class="text-xl text-center font-semibold">{{ T "recent" }}</h3>
-<div class="grid grid-rows-3 md:grid-rows-1 md:grid-cols-3 gap-8 p-4">
-
-{{ range (first 3 (where .Site.RegularPages "Type" "posts")) }}
-<div class="my-4">
-  {{ $image := .Resources.GetMatch "cover" }}
-  {{if $image }}
-  {{ $web := $image.Resize "500x" }}
-  {{ $mini := $image.Resize "20x" }}
-  <div class="mb-2">
-    <a href="{{ .RelPermalink }}" aria-label="{{ .Title }}">
-      <picture class="block shadow-lg">
-        <source class="lazyload" srcset="{{ $mini.RelPermalink }}" type="web/jpg" media="(min-width: 821px)"
-          data-srcset="{{ $web.RelPermalink }}">
-        <img alt="{{ .Title }} cover" src="{{ $mini.RelPermalink }}" data-src="{{ $web.RelPermalink }}"
-          class="w-full lazyload">
-      </picture>
-    </a>
-  </div>
-  {{end}}
-  <header class="text-center">
-    <h2 class="text-lg font-semibold font-display text-darker dark:text-gray-100">
-      <a href="{{ .RelPermalink }}">
-        {{ .Title }}
-      </a>
-    </h2>
-  </header>
-</div>
-{{ end }}
+<h3 class="text-xl text-center font-semibold">{{ T "youmightlike" }}</h3>
+<div class="pt-4 pb-8">
+  {{ range (first 3 (.Site.RegularPages.Related .)) }}
+  {{ partial "title" . }}
+  {{ end }}
 </div>

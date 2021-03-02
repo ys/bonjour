@@ -12,6 +12,7 @@ disableKinds = ["taxonomyTerm"]
   writeStats = true
 
 [params]
+  mainTitle = "👋 Yannick"
   text_404 = "Perdu? Cliquez sur la vague"
   mainSections = [ "posts", "series" ]
   sizes = [ "2048" , "1024" , "512" ]
@@ -19,11 +20,11 @@ disableKinds = ["taxonomyTerm"]
   description = "J'aime bien notre planète et j'raconte des histoires. Les gens diraient que je suis plutôt chouette."
   tags = ["famille", "bretagne", "voyage", "slow life", "photographies", "tranches de vie", "vie lente"]
   pinterestVerify = "fd6b8a37d3208b2c605434cf2ce71ac3"
-  hasLogo = true
+  hasLogo = false
   emoji = "🌊"
   arrow = "—"
 [params.fathom]
-  excluded = "vercel.app,mini.local,localhost"
+  domain = "yannickschutz.com"
   siteID = "OIPUYMFX"
 [params.tinyletter]
   username = "bonjouryannick"

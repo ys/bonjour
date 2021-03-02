@@ -1,6 +1,6 @@
-<script src="https://cdn.usefathom.com/script.js" data-site="{{ .Site.Params.fathom.siteID }}" data-excluded-domains="{{ .Site.Params.fathom.excluded }}" data-honor-dnt="true" defer></script>
+<script src="https://cdn.usefathom.com/script.js" data-site="{{ .Site.Params.fathom.siteID }}" data-included-domains="{{ .Site.Params.fathom.ddomain }}" data-honor-dnt="true" defer></script>
 {{ $.Scratch.Set "jslibs" slice }}
-{{ $libs := slice "js/medium-zoom.min.js" "js/lazyload.min.js" "js/main.js" }}
+{{ $libs := slice "js/photoswipe.js" "js/photoswipe-ui-default.js" "js/photoswipe-simplify.js" "js/lazyload.min.js" "js/main.js" }}
 {{ range $libs }} {{ $.Scratch.Add "jslibs" (resources.Get . ) }} {{ end }} {{ $js := .Scratch.Get "jslibs" | resources.Concat "js/main.js" }} {{ if .Site.IsServer }}
   <script src="{{ $js.RelPermalink }}"></script>
 {{ else }} {{ $js := $js | minify | fingerprint "sha512"}}

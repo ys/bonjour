@@ -18,12 +18,13 @@
   {{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
   {{/* set the sizes attribute to (min-width: 35em) 1200px, 100vw unless overridden in shortcode */}}
 
-  <figure>
-    <picture class="block relative {{ if .Get "no-shadow" }} {{ else}}shadow-lg{{end}} {{ if .Parent }}{{ else }} my-6 {{ if gt $src.Height $src.Width }}mx-auto w-2/3{{ end }}{{ end }} img" {{ if .Get "no-lqip" }} {{ else }}style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover"{{ end }}>
+  <figure class="{{ if .Parent }}{{ else }} my-6 {{end}}">
+    <picture class="block relative {{ if .Get "no-shadow" }} {{ else}}shadow-lg{{end}} {{ if gt $src.Height $src.Width }} mx-auto w-2/3{{ else }}md:-mx-16{{ end }} img"
+      {{ if .Get "no-lqip" }} {{ else }}style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover"{{ end }}>
       <img
         loading="lazy"
         alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "src" }}{{ end }}"
-        class="m-0 h-auto w-full lazyload"
+        class="cursor-pointer m-0 h-auto w-full lazyload"
         {{ if not (.Get "no-zoom") }}
         data-action="zoom"
         {{ end }}
@@ -40,7 +41,7 @@
         width="{{ $src.Width }}" height="{{ $src.Height }}">
     </picture>
     {{ with .Get "caption" }}
-      <figcaption class="text-center italic -mt-15 text-sm dark:text-gray-300 text-gray-500 ">
+      <figcaption class="text-center italic -mt-18 text-sm dark:text-gray-300 text-gray-500 ">
         {{ . }}
       </figcaption>
     {{ end }}
