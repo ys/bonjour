@@ -3,7 +3,7 @@
 <div class="mb-10 content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
   <div  data-pswp class="post">
     {{ $images := .Resources.ByType "image" }}
-    {{ $src := $images.GetMatch "*" }}
+    {{ $src := $images.GetMatch "*full*" }}
     {{ partial "photo" $src }}
   </div>
 <span class="text-sm  dark:text-gray-300 text-gray-700 capitalize mb-2 block">
