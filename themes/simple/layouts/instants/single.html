@@ -1,0 +1,31 @@
+{{ define "main" }}
+{{ partial "article_header" . }}
+<div class="mb-10 content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
+  <div  data-pswp class="post">
+    {{ $images := .Resources.ByType "image" }}
+    {{ $src := $images.GetMatch "*instant*" }}
+    {{ partial "photo" $src }}
+  </div>
+<span class="text-sm  dark:text-gray-300 text-gray-700 capitalize mb-2 block">
+  {{ with $src.Exif }}
+  Tags:
+  {{ range $k, $v := .Tags }}
+  TAG: {{ $k }}: {{ $v }}
+  {{ end }}
+  {{ end }}
+</span>
+<span class="text-sm  dark:text-gray-300 text-gray-700 mb-2 block">
+  {{ T "email-sharing" }}<a class="link" href="mailto:{{.Site.Params.social.email}}?subject=About {{.Title}} - {{ .Permalink }}">{{.Site.Params.social.email}}</a>
+</span>
+</div>
+<ul class="pagination">
+  <li class="page-item{{ if not .PrevInSection }} disabled{{ end }}">
+    <a {{ if .PrevInSection }}href="{{ .PrevInSection.URL }}" {{ end }} class="page-link" aria-label="Previous"><span
+        aria-hidden="true">←</span></a>
+  </li>
+  <li class="page-item{{ if not .NextInSection }} disabled{{ end }}">
+    <a {{ if .NextInSection }}href="{{ .NextInSection.URL }}" {{ end }} class="page-link" aria-label="Next"><span
+        aria-hidden="true">→</span></a>
+  </li>
+</ul>
+{{ end }}

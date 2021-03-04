@@ -1,0 +1,55 @@
+{{ define "main" }}
+{{ $paginator := (.Paginate .RegularPages 30) }}
+
+<header>
+  <h1 class="text-xl font-bold text-darker dark:text-gray-100">{{.Title}}</h1>
+</header>
+<div class="post">
+  {{ .Content }}
+</div>
+
+<div class="mb-10 md:-mx-32 grid gap-8 md:grid-cols-3 sm:grid-cols-1">
+  {{ range $paginator.Pages }}
+    {{ $images := .Resources.ByType "image" }}
+    {{ $src := $images.GetMatch "*instant*" }}
+    {{ if $src }}
+
+    {{/* set image sizes, these are hardcoded for now, x dictates that images are resized to this width */}}
+
+    {{ $lqipw := default "30x40" }}
+    {{ $smallw := default "300x400" }}
+    {{ $largew := default "600x800" }}
+
+    {{/* resize the src image to the given sizes */}}
+
+    {{ $lqip := $src.Fill $lqipw }}
+    {{ $small := $src.Fill $smallw }}
+    {{ $large := $src.Fill $largew }}
+
+    {{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
+    {{/* set the sizes attribute to (min-width: 35em) 1200px, 100vw unless overridden in shortcode */}}
+    <article class="flex flex-col text-center">
+      <a href="{{ .RelPermalink }}">
+        <picture
+          class="block relative mt-2 aspect-w-3 aspect-h-4"
+          style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover">
+          <img loading="lazy" class="m-0 h-auto w-full lazyload" alt="cover {{ .Title}}" data-action="zoom"
+            data-zoom-src="{{ $large.RelPermalink}}" sizes="auto" srcset='
+              {{ if ge $src.Width "400" }}
+                {{ with $small.RelPermalink }}{{.}} 400w{{ end }}
+              {{ end }}
+              {{ if ge $src.Width "800" }}
+                {{ with $large.RelPermalink }}, {{.}} 800w {{ end }}
+              {{ end }}' src="{{ $large.RelPermalink }}" width="{{ $large.Width }}" height="{{ $large.Height }}">
+        </picture>
+        <h2 class="font-bold text-sm mt-2 text-gray-400 uppercase">{{.Title}}</h2>
+      </a>
+    </article>
+    {{ end }}
+
+  {{ end }}
+  <div class="">
+    {{ partial "pagination.html" . }}
+  </div>
+</div>
+{{ end }}
