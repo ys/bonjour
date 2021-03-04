@@ -11,7 +11,7 @@
 <div class="mb-10 md:-mx-32 grid gap-8 md:grid-cols-3 sm:grid-cols-1">
   {{ range $paginator.Pages }}
     {{ $images := .Resources.ByType "image" }}
-    {{ $src := $images.GetMatch "*instant*" }}
+    {{ $src := $images.GetMatch "*" }}
     {{ if $src }}
 
     {{/* set image sizes, these are hardcoded for now, x dictates that images are resized to this width */}}
