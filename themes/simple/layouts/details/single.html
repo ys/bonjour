@@ -5,22 +5,10 @@
     {{ $images := .Resources.ByType "image" }}
     {{ $src := $images.GetMatch "*full*" }}
     {{ partial "photo" $src }}
+    {{ .Content }}
   </div>
-<span class="text-sm  dark:text-gray-300 text-gray-700 capitalize mb-2 block">
-  📷
-</span>
-<span class="text-sm  dark:text-gray-300 text-gray-700 mb-2 block">
-  {{ T "email-sharing" }}<a class="link" href="mailto:{{.Site.Params.social.email}}?subject=About {{.Title}} - {{ .Permalink }}">{{.Site.Params.social.email}}</a>
-</span>
+  {{ partial "article_camera" . }}
+  {{ partial "article_signature" . }}
 </div>
-<ul class="pagination">
-  <li class="page-item{{ if not .PrevInSection }} disabled{{ end }}">
-    <a {{ if .PrevInSection }}href="{{ .PrevInSection.URL }}" {{ end }} class="page-link" aria-label="Previous"><span
-        aria-hidden="true">←</span></a>
-  </li>
-  <li class="page-item{{ if not .NextInSection }} disabled{{ end }}">
-    <a {{ if .NextInSection }}href="{{ .NextInSection.URL }}" {{ end }} class="page-link" aria-label="Next"><span
-        aria-hidden="true">→</span></a>
-  </li>
-</ul>
+{{ partial "article_navigation" . }}
 {{ end }}

@@ -1,5 +1,7 @@
 ---
 title: "Intro"
+camera: "Olympus XA"
+film: "Kodak Portra 400"
 description: "Un détail d'une photo par semaine, dans ta boîte mail"
 date: 2021-02-28T12:57:50+02:00
 resources:
