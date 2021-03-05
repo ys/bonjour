@@ -1,0 +1,14 @@
+{{ $paginator := (.Paginate .RegularPages 25) }}
+<div class="mb-10">
+  {{ range $paginator.Pages }}
+  {{ if templates.Exists ( printf "partials/%s-item.html" .Type ) }}
+  {{ partial (printf "%s-item" .Type ) . }}
+  {{ else }}
+  {{ partial "title" . }}
+  {{ end }}
+
+  {{ end }}
+  <div class="">
+    {{ partial "pagination.html" . }}
+  </div>
+</div>

@@ -1,5 +1,4 @@
 {{ define "main" }}
-{{ $paginator := (.Paginate .RegularPages 25) }}
 
 <header>
   <h1 class="text-xl font-bold text-darker dark:text-gray-100">{{.Title}}</h1>
@@ -8,17 +7,9 @@
   {{ .Content }}
 </div>
 
-<div class="mb-10">
-  {{ range $paginator.Pages }}
-  {{ if templates.Exists ( printf "partials/%s-item.html" .Type ) }}
-  {{ partial (printf "%s-item" .Type ) . }}
-  {{ else }}
-  {{ partial "title" . }}
-  {{ end }}
-
-  {{ end }}
-  <div class="">
-    {{ partial "pagination.html" . }}
-  </div>
-</div>
+{{ if .Params.grid }}
+  {{ partial "list_grid" . }}
+{{ else }}
+  {{ partial "list_titles" . }}
+{{ end }}
 {{ end }}

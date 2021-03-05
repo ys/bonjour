@@ -1,8 +1,4 @@
-<span class="text-sm  dark:text-gray-300 text-gray-700 capitalize mb-2 block">
-  {{ if .Params.camera }}
-  📷 {{ .Params.camera }} {{ with .Params.film }}{{ $.Site.Params.arrow }} {{ . }} {{ end }}
-  {{ end }}
-</span>
+{{ partial "article_camera" . }}
 <span class="text-sm  dark:text-gray-300 text-gray-700 capitalize mb-2 block">
   {{ with .Params.emoji }}
     {{ . }}
@@ -15,6 +11,4 @@
     {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
   </a>
 </span>
-<span class="text-sm  dark:text-gray-300 text-gray-700 mb-2 block">
-  {{ T "email-sharing" }}<a class="link" href="mailto:{{.Site.Params.social.email}}?subject=About {{.Title}} - {{ .Permalink }}">{{.Site.Params.social.email}}</a>
-</span>
+{{ partial "article_signature" . }}

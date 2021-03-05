@@ -2,8 +2,11 @@ const defaultTheme = require("tailwindcss/defaultTheme");
 const colors = require('tailwindcss/colors');
 
 module.exports = {
-  darkMode: "class",
-  plugins: [require('@tailwindcss/typography'), require('@tailwindcss/line-clamp'),],
+  darkMode: "media",
+  plugins: [
+    require('@tailwindcss/typography'),
+    require('@tailwindcss/line-clamp'),
+    require('@tailwindcss/aspect-ratio'),],
   variants: {
     extend: {
       typography: ["dark"],
