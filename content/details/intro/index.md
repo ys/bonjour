@@ -1,5 +1,6 @@
 ---
 title: "Intro"
+hideSubscribe: true
 camera: "Olympus XA"
 film: "Kodak Portra 400"
 description: "Un détail d'une photo par semaine, dans ta boîte mail"
@@ -22,6 +23,9 @@ Tout sera archivé ici, et visible en haute définition. Vous retrouverez tout s
 
 Comme pour le reste de ce site, je n'ai pas voulu mettre de système de commentaire. Je laisse mon email, vous savez y répondre. J'aime les conversations simples et je préfère essayer d'oublier la vanité du nombre possible de commentaire sur chaque photo. J'espère que vous n'hésiterez pas à cliquer et m'envoyer un mail. 
 
+
+{{< letter account="detail" msg="Detail, une photo par semaine. Inscris-toi!" >}}
+
 ***
 
 Avec les réseaux sociaux, on consomme les photos comme on mange une frite. Entre deux activités, rapidement et sans vraiment y payer l'attention que la photo mérite. On suit des centaines de personnes et on ne fait pas vraiment attention à elles. On ne peut pas se blâmer réelement. Notre attention est prise d'assaut par ces réseaux . Ils sont armés de designers et d'algorithmes qui nous abbreuvent de plus et toujours plus. Les temps changent et on vieillit. On a envie de consommer différement. Un grand retour du slow depuis quelques années, slow ceci, slow celà. Prendre le temps de faire les choses mais aussi prendre le temps de regarder, d'observer. Comme lorsque l'on s'arrête le long d'un chemin et qu'on fixe un oiseau au loin pendant quelques minutes.
@@ -31,3 +35,5 @@ Ces plaisirs de la vie réelle, transposés sur des médias plus lents du web, p
 J'espère que cela vous plaira et que cette façon de faire ne vous bloquera pas. J'ai hâte de vous partager ces détails. Je ne sais pas encore du tout ce qui s'y trouvera. Du numérique de l'an passé, de l'argentique d'il y a 10 ans, la photo d'hier? On verra bien, cela me permet aussi de revisiter des années de backup! 
 
 Si vous êtes prêt, n'hésitez pas à vous inscrire! L'aventure commence bientôt. Cette première série s'arrêtera pour que la grille soit belle en 3 colonnes. C'est juste un petit souci personnel! Sachant que ce post d'intro en fait partie, on part sur du 2, 5, 8, 11, 14, 17 ou 20 posts sans doute! Soyez prêt!
+
+{{< letter account="detail" msg="Detail, la newsletter. c'est ici!" >}}
