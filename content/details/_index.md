@@ -1,5 +1,6 @@
 ---
 title: Détail
+grid: true
 ---
 
 Une série hors du temps de moments pris et captés.  

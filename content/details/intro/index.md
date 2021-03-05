@@ -8,7 +8,7 @@ resources:
   - src: "full.jpg"
     name: "full"
   - src: "detail.jpg"
-    name: "detail"
+    name: "cover"
 ---
 
 C'est quand la dernière fois que vous avez pris le temps d'observer?  
