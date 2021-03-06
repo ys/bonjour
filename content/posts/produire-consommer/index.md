@@ -1,7 +1,7 @@
 ---
 title: "Produire et consommer"
 subtitle: "Histoire d'une dualité linguistique"
-date: 2021-03-05T12:24:02+01:00
+date: 2021-03-06T12:24:02+01:00
 draft: false
 tags: 
 
@@ -9,7 +9,7 @@ categories:
 - journal
 slug: "produire-consommer"
 emoji: "🤷🏼‍♂️"
-color: sunray
+color: cascade
 resources:
 - src: "*.jpg"
 - src: "cover.jpeg"
