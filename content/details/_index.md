@@ -2,6 +2,10 @@
 title: Détail
 hideSubscribe: true
 grid: true
+menu:
+  main:
+    weight: 4
+linktitle: "👀 Détail, une newsletter"
 ---
 
 Une série hors du temps de moments pris et captés.  

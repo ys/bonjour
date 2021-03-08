@@ -3,6 +3,10 @@ title: Détail
 emoji: 👀
 hideSubscribe: true
 grid: true
+menu:
+  main:
+    weight: 4
+linktitle: "👀 Detail, a newsletter"
 ---
 
 A timeless serie of captured moments. Simple life moments and details to discover. We often lose ourselves in details, but when it comes to photos, it is surprisingly often the opposite.  
