@@ -4,7 +4,7 @@ hideSubscribe: true
 grid: true
 menu:
   main:
-    weight: 4
+    weight: 5
 linktitle: "👀 Détail, une newsletter"
 ---
 
