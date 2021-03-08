@@ -15,7 +15,9 @@ resources:
 C'est quand la dernière fois que vous avez pris le temps de regarder, mais regarder vraiment?  
 D'observer un détail, juste une petite pièce d'un plus grand puzzle. Vous arrêter dessus et vous y plonger.  
 
-"Détail", c'est mon humble essai à un retour à une certaine lenteur. C'est une newsletter, chaque semaine dans votre boîte mail. Cette lettre contiendra uniquement un détail d'une photo, c'est tout. Est-ce que ce détail vous donnera envie de prendre le temps d'observer toute la photo? Si c'est le cas, vous cliquez pour arriver sur la photo. Si cela se trouve, vous passerez votre chemin et cela sera aussi bien comme cela. Un moment loin des likes et des commentaires des divers réseaux sociaux. Un retour aux choses simples et sans prises de tête. Pas de flux infini, pas de pubs, pas d'interférences. Un e-mail, une photo, un point c'est tout.
+"Détail", c'est mon humble essai à un retour à une certaine lenteur. C'est une newsletter, chaque semaine dans votre boîte mail. Cette lettre contiendra uniquement un détail d'une photo, c'est tout. Est-ce que ce détail vous donnera envie de prendre le temps d'observer toute la photo? Si c'est le cas, vous cliquez pour arriver sur la photo. Si cela se trouve, vous passerez votre chemin et cela sera aussi bien comme cela.
+
+Un web plus lent, plus pull que push. Le plaisir de moins faire, le bonheur retrouver de petits moments du quotidien. Voilà à quoi j'aspire.Un moment loin des likes et des commentaires des divers réseaux sociaux. Un retour aux choses simples et sans prises de tête. Pas de flux infini, pas de pubs, pas d'interférences. Un e-mail, une photo, un point c'est tout.
 
 Tout sera archivé ici, et visible en haute définition. Vous retrouverez tout sur la page de [détail](/details). Un peu de javascript pour le zoom et une grille simple et personnelle. La photo sera zoomable pour que vous puissiez y observer les moindres détails. Vous pourrez aussi me répondre par mail pour me parler des détails que vous avez vu, ce qui vous a plu ou non.
 
@@ -25,9 +27,9 @@ Comme pour le reste de ce site, je n'ai pas voulu mettre de système de commenta
 
 ***
 
-Avec les réseaux sociaux, on consomme les photos comme on mange une frite. On suit des centaines de personnes et on ne fait plus vraiment attention ni aux photos, ni aux personnes. On ne peut pas se blâmer réellement. Les réseaux sont armés de designers et d'algorithmes qui ont besoin de notre attention. Les temps changent et on vieillit, moi en tout cas. J'ai envie de consommer et de partager différement. Prendre le temps de faire les choses mais aussi prendre le temps de regarder, d'observer. Prendre le temps de s'arrêter.
+Avec les réseaux sociaux, on consomme les photos comme on mange une frite. On suit des centaines de personnes et on ne fait plus vraiment attention ni aux photos, ni aux personnes. On ne peut pas se blâmer réellement. Les réseaux sont armés de designers et d'algorithmes qui ont besoin de notre attention. 
 
-Un web plus lent, plus pull que push. Le plaisir de moins faire, le bonheur retrouver de petits moments du quotidien. Voilà à quoi j'aspire. Je ne blâme pas les réseaux, ils ont énormément de positif et permettent de reconnecter ou connecter des personnes. J'en fais partie. Je suis de cette génération rencontre sur internet. Mais selon les types de comportements, les réseaux peuvent accentuer et faciliter certains soucis. J'ai une personnalité plutôt addictive. Un verre de vin, sert moi un second. Une photo sur Instagram, voilà deux heures que je doomscrolle. 
+Je ne blâme pas les réseaux, ils ont énormément de positif et permettent de reconnecter ou connecter des personnes. Je suis de cette génération rencontre sur internet. Les réseaux peuvent accentuer certains types de comportements. J'ai une personnalité plutôt addictive. Un verre de vin, sert moi un second. Une photo sur Instagram, voilà deux heures que je doomscrolle. 
 
 Cet essai est encore une fois pour moi une sorte de thérapie. Vouloir vous partager mes photos par email pour me détacher des réseaux. Tout comme la non présence de commentaires qui me permet de me détacher de votre avis, en quelque sorte. J'aime toujours votre avis, mais je n'en veux pas comme d'une métrique quelconque sur la place publique, c'est compliqué. Je veux partager quelque chose de plus réel et de plus asynchrone.
 
