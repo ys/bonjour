@@ -1,5 +1,6 @@
 ---
 title: "Intro"
+emoji: 👀
 hideSubscribe: true
 camera: "Olympus XA"
 film: "Kodak Portra 400"

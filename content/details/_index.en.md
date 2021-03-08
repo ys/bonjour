@@ -1,5 +1,6 @@
 ---
 title: Détail
+emoji: 👀
 hideSubscribe: true
 grid: true
 ---
