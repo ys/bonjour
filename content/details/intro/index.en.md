@@ -27,7 +27,7 @@ Like the rest of this website, I didn't want to include a comments system. My em
 
 With social networks, we watch pictures like we eat some fries. We follow hundred of people and don't pay enough attention to the pictures nor the people. We can't really blame ourselves for this. They are armed with an army of developers and designers and crazy algorithms who crave for our attention. 
 
-I don't blame the social networks, they have a huge positive impact too. They allow us to connect and reconnect. I actually met my partner online. But social networks can also accentuate or facilitate some behaviors. I personally have a kind of addictive personality. A glass of wine? Make it two. A picture on Instagram, oops, I have been doom scrolling for two hours.
+I don't blame social networks, they have a huge positive impact too. They allow us to connect and reconnect. I actually met my partner online. But social networks can also accentuate or facilitate some behaviors. I personally have a kind of addictive personality. A glass of wine? Make it two. A picture on Instagram, oops, I have been doom scrolling for two hours.
 
 This is just a simple experiment for me. Kind of a therapy actually. Wanting to share by email to detach myself from the networks. Like the lack of comments here allowing me to detach myself from your opinions, sort of. I still love your opinion but I don't want it as a vanity metric. I wanna share something more real more asynchronous.
 
