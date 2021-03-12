@@ -13,9 +13,6 @@ slug: "/bonjour-12"
 
 ![](https://buttondown.s3.us-west-2.amazonaws.com/images/e3ce87de-3122-4d38-8d68-f5424cce88f8.jpeg) 
 
-
-Bonjour,
-
 J'ai toujours adoré trainer sur internet, c'est une source plutôt intarissable d'informations. J'y suis depuis des années, j'ai eu des CDs pour me connecter avec un modem 56k, etc. Le bon vieux temps comme dirait l'autre. Et je repensais d'ailleurs à ce bon vieux temps en me promenant sur des blogs et autres ressources où les gens ne pensent pas en termes d'algorithme Instagram ou Google. Un monde non infesté de trackers divers et variés. 
 
 Je ne sais pas si vous êtes attirés par ce web-là, mais pour moi le côté indépendant du web me plaît beaucoup. Les gens mettent du coeur dans leurs pages, dans leurs mots, et dans ce qu'ils partagent. Ces gens le font pour le plaisir. Ils s'en foutent de ce que tu penses enfin pas tous mais certains. Et ce web me refait aussi penser à cet article de [Sylvain qui fait de l'ordi](https://jefaisdelordi.com/2021/02/04/quand-est-ce-quon-sait-quon-est-photographe/)
