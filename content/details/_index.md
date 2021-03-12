@@ -3,9 +3,9 @@ title: Détail
 hideSubscribe: true
 grid: true
 menu:
-  main:
+  footer:
     weight: 5
-linktitle: "👀 Détail, une newsletter"
+linktitle: "👀"
 ---
 
 Une série hors du temps de moments pris et captés.  
