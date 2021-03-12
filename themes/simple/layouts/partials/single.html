@@ -1,14 +1,22 @@
 {{ partial "article_header" . }}
-<div data-pswp class="mb-10 content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
+<div data-pswp class="mb-10 font-ffserif content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
   <div  class="post">
     {{.Content}}
   </div>
+  {{ if eq .Type "newsletter" }}
+    <h2 class="text-xl font-semibold text-darker dark:text-gray-100">Lisez la dernière</h2>
+    {{ range first 1 (where .Site.RegularPages ".Params.newsletter" true)  }}
+      {{ partial "title" . }}
+    {{ end }}
+  {{ end }}
   {{ if .Params.serie }}
     {{ partial "serie" . }}
   {{ end }}
-  {{ partial "article_footer" . }}
-  <div class="pt-8">
-    <hr class="" />
-    {{ partial "recent_posts" . }}
-  </div>
+  {{ if (in .Site.Params.showFooter .Type) }}
+    {{ partial "article_footer" . }}
+    <div class="pt-8">
+      <hr class="" />
+      {{ partial "recent_posts" . }}
+    </div>
+  {{ end }}
 </div>

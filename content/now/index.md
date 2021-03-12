@@ -28,6 +28,8 @@ Mon matos actuel:
 
 J'ai à moitié cassé mon Olympus XA. Cela me rend triste. J'en reprendrai sans doute un bientôt. C'est top pour l'été.
 
+{{< photo src="cover" alt="yannick" >}}
+
 J'ai commencé à faire de la [photo dans l'eau](/nikonos-glaz) armé de palmes et du Nikonos. C'est une petite drogue cette eau salée. Cette année je pense bien finir avec une longboard à moi pour continuer à surfer même sans l'école. Je vais dans l'eau dès que je peux.
 
 J'ai acheté du matos pour scanner moi-même. Donc en gros j'ai un Fuji X-T30 juste pour scanner des négatifs. Je pense faire un article là-dessus assez vite aussi.
