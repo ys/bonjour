@@ -76,6 +76,12 @@ disableKinds = ["taxonomyTerm"]
 [[related.indices]]
   name = "categories"
   weight =  1 # We don't really need this, but omitting it would disable the indice.
+[[related.indices]]
+  name = "camera"
+  weight =  4 # We don't really need this, but omitting it would disable the indice.
+[[related.indices]]
+  name = "film"
+  weight =  4 # We don't really need thisfilm but omitting it would disable the indice.
 
 [author]
   name = "Yannick Schutz"

@@ -1,12 +1,14 @@
 {{ partial "article_header" . }}
 <div class="mb-10 content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
-  <div class="post">
+  <div  data-pswp class="post">
     {{.Content}}
   </div>
+  {{ if .Params.serie }}
+    {{ partial "serie" . }}
+  {{ end }}
   {{ partial "article_footer" . }}
   <div class="pt-8">
-    <hr class="line" />
-
+    <hr class="" />
     {{ partial "recent_posts" . }}
   </div>
 </div>

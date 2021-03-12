@@ -9,6 +9,7 @@ categories:
   - series
 slug: "nikonos-glaz"
 color: "cascade"
+serie: true
 emoji: "🌊"
 resources:
   - src: "*.jpg"

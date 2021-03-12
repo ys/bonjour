@@ -63,7 +63,7 @@ hr {
 
 .home {
   p:first-child {
-    @apply text-lg mb-8;
+    @apply text-lg md:text-xl mb-8;
   }
   p, ul, ol {
     @apply mb-6;
@@ -86,7 +86,7 @@ hr {
     @apply font-bold text-3xl mt-8 text-gray-900 font-normal py-1;
   }
   h2 {
-    @apply text-2xl mt-8 text-gray-900 py-1 font-semibold;
+    @apply text-2xl mt-8 dark:text-gray-100 text-gray-900 py-1 font-semibold;
 
     a {
       @apply text-gray-900;
@@ -96,7 +96,7 @@ hr {
     @apply mt-8;
   }
   h3 {
-    @apply text-xl mt-8 text-gray-900 font-normal py-1;
+    @apply text-xl mt-8 text-gray-900 dark:text-gray-100 font-normal py-1;
   }
   ul {
    @apply list-inside my-4
