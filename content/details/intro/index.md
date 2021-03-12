@@ -6,6 +6,7 @@ camera: "Olympus XA"
 film: "Kodak Portra 400"
 description: "Une photo par semaine, dans ta boîte mail"
 date: 2021-02-28T12:57:50+02:00
+color: "cascade"
 resources:
   - src: "full.jpg"
     name: "cover"
@@ -22,7 +23,7 @@ Un web plus lent, plus pull que push. Le plaisir de moins faire, le bonheur retr
 
 Comme pour le reste de ce site, je n'ai pas voulu mettre de système de commentaire. Je laisse mon email, vous pouvez m'y répondre. J'aime les conversations simples et je préfère essayer d'oublier la vanité du nombre possible de commentaire sur chaque photo. J'espère que vous n'hésiterez pas à cliquer et m'envoyer un mail.
 
-{{< letter account="detail" msg="Detail, une photo par semaine. Inscris-toi!" >}}
+{{< letter account="detail" accent="cascade" msg="Detail, une photo par semaine. Inscris-toi!" >}}
 
 ***
 
@@ -34,4 +35,4 @@ Cet essai est encore une fois pour moi une sorte de thérapie. Vouloir vous part
 
 Si vous êtes prêt, n'hésitez pas à vous inscrire! L'aventure commence bientôt. Cette première série s'arrêtera pour que la grille soit belle en 3 colonnes. C'est juste un petit souci personnel! Sachant que ce post d'intro en fait partie, on part sur du 2, 5, 8, 11, 14, 17 ou 20 posts sans doute! Soyez prêt!
 
-{{< letter account="detail" msg="Detail, la newsletter. c'est ici!" >}}
+{{< letter account="detail" accent="cascade" msg="Detail, la newsletter. c'est ici!" >}}
