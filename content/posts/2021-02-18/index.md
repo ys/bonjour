@@ -11,7 +11,7 @@ resources:
 - src: "*.jpg"
 ---
 
-Dans [C'est quoi un smartphone apaisé](https://jefaisdelordi.com/2021/01/21/cest-quoi-un-smartphone-apaise/), Sylvain nous parle du concept d' object apaisé.
+Dans [C'est quoi un smartphone apaisé](https://jefaisdelordi.com/2021/01/21/cest-quoi-un-smartphone-apaise/), Sylvain nous parle nous parle du concept d' object apaisé.
 
 > Penser un objet “apaisé”, c’est donc penser toute la chaîne de fabrication, depuis les matières premières jusqu’au produit fini, puis ensuite à la vie et la fin de vie de l’objet, qui doit durer le plus longtemps possible, voir se transmettre de génération en génération. Comme une montre suisse.
 

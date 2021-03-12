@@ -1,11 +1,4 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-{{ $fontstyle := resources.Get "css/fonts.scss" | resources.ExecuteAsTemplate "font.css" . | toCSS | resources.PostCSS }}
-{{ if .Site.IsServer }}
-<link rel="stylesheet" href="{{ $fontstyle.RelPermalink }}" />
-{{ else }} {{ $fontstyle := $fontstyle | minify | fingerprint | resources.PostProcess }}
-<link rel="stylesheet" href="{{ $fontstyle.RelPermalink }}" />
-{{ end }}
-
 {{ $style := resources.Get "css/application.scss" | resources.ExecuteAsTemplate "main.css" . | toCSS | resources.PostCSS }}
 {{ if .Site.IsServer }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
