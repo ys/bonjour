@@ -4,7 +4,7 @@ emoji: 👀
 hideSubscribe: true
 camera: "Olympus XA"
 film: "Kodak Portra 400"
-description: "A picture's detail per week in your mailbox"
+description: "A picture per week in your mailbox"
 date: 2021-02-28T12:57:50+02:00
 resources:
   - src: "full.jpg"
