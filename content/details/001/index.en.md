@@ -2,7 +2,8 @@
 title: "001 — Sur les bords du GR34"
 slug: "001"
 emoji: 👀
-hideSubscribe: true
+letter: detail
+lettertitle: "👀 Detail, a picture per week in your mailbox. Subscribe!"
 camera: "Leica M6"
 film: "Kodak Portra 400"
 description: "A picture per week in your mailbox"
