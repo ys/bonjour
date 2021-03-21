@@ -4,9 +4,9 @@ emoji: 👀
 hideSubscribe: true
 grid: true
 menu:
-  main:
+  footer:
     weight: 4
-linktitle: "Détail"
+linktitle: "👀 Detail"
 ---
 
 A timeless serie of captured moments. Simple life moments and details to discover. We often lose ourselves in details, but when it comes to photos, it is surprisingly often the opposite.  
