@@ -1,5 +1,5 @@
 ---
-title: "001 -- Sur les bords du GR34"
+title: "001 — Sur les bords du GR34"
 slug: "001"
 emoji: 👀
 hideSubscribe: true
