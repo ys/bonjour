@@ -1,23 +1,33 @@
-{{ if (and .Site.Params.tinyletter.username (not .Params.hideSubscribe)) }}
-<div class="bg-accent-200 dark:bg-accent-800  w-full px-4 mx:px-0 py-12 text-gray-700 dark:text-gray-200 text-base">
+{{ $username := .Site.Params.tinyletter.username }}
+{{ $title := .Site.Params.tinyletter.title }}
+{{ $message := .Site.Params.tinyletter.message }}
+{{ $color := "accent" }}
+{{ if .Params.letter }}
+  {{ $username = .Params.letter }}
+  {{ $title = .Params.lettertitle }}
+  {{ $message = .Params.lettermessage }}
+  {{ $color = .Params.color }}
+{{ end }}
+{{ if (and $username (not .Params.hideSubscribe)) }}
+<div class="bg-{{ $color }}-200 dark:bg-{{ $color }}-800  w-full px-4 mx:px-0 py-12 text-gray-700 dark:text-gray-200 text-base">
   <div class="container mx-auto md:max-w-lg">
     <form class="flex flex-col items-center"
-      action="https://buttondown.email/api/emails/embed-subscribe/{{ .Site.Params.tinyletter.username }}" method="post"
+      action="https://buttondown.email/api/emails/embed-subscribe/{{ $username }}" method="post"
       target="popupwindow"
-      onsubmit="window.open('https://buttondown.email/{{ .Site.Params.tinyletter.username }}', 'popupwindow')"
+      onsubmit="window.open('https://buttondown.email/{{ $username }}', 'popupwindow')"
       class="embeddable-buttondown-form">
-      <h2 class="text-lg  font-semibold ">{{ .Site.Params.tinyletter.title }}</h2>
+      <h2 class="text-lg  font-semibold ">{{ $title }}</h2>
       <label for="bd-email">
-        {{.Site.Params.tinyletter.message}}
+        {{$message}}
       </label>
       <div
-        class="mt-4 border-2 w-full flex flex-row justify-between overflow-hidden rounded-sm  bg-white border-accent-500 hover:border-accent-600 tranistion duration-500 ease-in-out">
+        class="mt-4 border-2 w-full flex flex-row justify-between overflow-hidden rounded-sm  bg-white border-{{$color}}-500 hover:border-{{$color}}-600 tranistion duration-500 ease-in-out">
         <input
           class=" m-0 rounded-none appearance-none  py-2 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
           type="email" name="email" id="bd-email" />
         <input type="hidden" value="1" name="embed" />
         <input
-          class="bg-accent-500 rounded-none hover:bg-accent-600 transition duration-500 ease-in-out text-white font-bold py-2 m-0 -ml-4 md:ml-0 appearance-none px-4 focus:outline-none focus:shadow-outline cursor-pointer"
+          class="bg-{{$color}}-500 rounded-none hover:bg-{{$color}}-600 transition duration-500 ease-in-out text-white font-bold py-2 m-0 -ml-4 md:ml-0 appearance-none px-4 focus:outline-none focus:shadow-outline cursor-pointer"
           type="submit" value="{{ T "subscribe" }}" />
       </div>
     </form>
