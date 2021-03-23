@@ -10,7 +10,7 @@ resources:
   name: "cover"
 ---
 
-Bonjour Yannick, c'est des [articles](/posts), des [photos](/series), des [livres](/books) et une [petite lettre](/bonjour) qui part toutes les deux semaines.
+👋 Yannick aime [écrire](/posts), prendre des [photos](/series), lire des [livres](/books) et envoyer une [petite lettre](/bonjour) qui part toutes les deux semaines et [une photo par semaine](/details).
 
 J'essaye d'y écrire régulièrement sur des sujets qui me tiennent à coeur allant de la 📷 au ☕️ en passant par la lecture, le micro activisme, le respect de notre 🌍 et notre vie en Bretagne.
 
