@@ -1,5 +1,5 @@
 ---
-title: "🖊 Écrire"
+title: "Des histoires"
 description: "Des histoires simples, des photos, des livres & une bonne tasse de café."
 date: 2017-10-26T22:57:50+02:00
 draft: false
@@ -7,7 +7,7 @@ type: index
 resources:
 - src: "*.jpg"
 menu:
-  main:
+  footer:
     weight: 1
 linktitle: "Écrire"
 ---

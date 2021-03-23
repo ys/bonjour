@@ -1,9 +1,9 @@
 ---
-title: "📷 Des moments"
+title: "Des moments"
 description: "Des histoires simples, des photos, des livres & une bonne tasse de café."
 grid: true
 menu:
-  main:
+  footer:
     weight: 3
 linktitle: "Photos"
 ---

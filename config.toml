@@ -12,7 +12,7 @@ disableKinds = ["taxonomyTerm"]
   writeStats = true
 
 [params]
-  mainTitle = "👋 Yannick"
+  footer = "👋 Yannick"
   text_404 = "Perdu? Cliquez sur la vague"
   mainSections = [ "posts", "series" ]
   showFooter = ["posts", "series"]
@@ -42,7 +42,6 @@ sans = "ff-meta-web-pro"
   domain = "yannickschutz.com"
   instagram = "bonjouryannick"
   twitter = "bonjouryannick"
-  vsco = "bonjouryannick"
 
 [privacy]
   [privacy.disqus]

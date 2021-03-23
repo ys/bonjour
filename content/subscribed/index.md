@@ -10,7 +10,7 @@ resources:
   - src: "*.jpg"
 menu:
   footer:
-    weight: 1
+    weight: 4
 ---
 
 <span class="text-gray-500">*Mis à jour le 24 Février 2021*</span>

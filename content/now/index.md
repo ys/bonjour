@@ -10,7 +10,7 @@ resources:
   - src: "now.jpg"
     name: "cover"
 menu:
-  main:
+  footer:
     weight: 5
 linktitle: Maintenant
 ---

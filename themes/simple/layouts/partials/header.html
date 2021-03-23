@@ -1,26 +1,4 @@
 {{ block "header" . }}
-<div class="container w-screen md:max-w-lg mx-auto">
-  <div class="mx-4 md:mx-0">
-    <header class="md:opacity-40 hover:opactity-100 transform duration-500 ease-in-out md:fixed md:top-4 md:right-4 justify-between py-6 md:py-0 flex md:flex-col flex-row md:items-end opacity-100 hover:opacity-100 transition ease-in-out duration-500">
-      {{ if .Site.Params.hasLogo }}
-            
-        <a alt="{{.Site.Title}} website homepage link"
-          class="md:pb-4 w-32 h-16 font-normal logo block text-gray-800 dark:text-gray-100"
-          href="{{ "/" | relLangURL }}">
-          {{ readFile "/static/logo2.svg" | safeHTML}}
-          <span aria-hidden="true" style="display: none">{{ .Site.Title }}</span>
-        </a>
-      {{ else }}
-          <h1 class="md:pb-4 text-xl font-bold">
-            <a alt="{{.Site.Title}} website homepage link"
-              class="md:pb-4 text-gray-800 dark:text-gray-100"
-              href="{{ "/" | relLangURL }}">
-              {{.Site.Params.maintitle}}
-            </a>
-          </h1>
-      {{ end }}
-      {{ partial "main_menu" . }}
-    </header>
-  </div>
+<div class="container mx-auto md:max-w-xl">
 </div>
 {{ end }}
