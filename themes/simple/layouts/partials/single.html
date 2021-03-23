@@ -13,6 +13,7 @@
     {{ partial "serie" . }}
   {{ end }}
   {{ if (in .Site.Params.showFooter .Type) }}
+  <hr class="line"/>
     {{ partial "article_footer" . }}
     <div class="pt-8">
       <hr class="" />
