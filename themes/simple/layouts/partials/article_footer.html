@@ -11,6 +11,4 @@
     {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
   </a>
 </span>
-<span class="text-sm text-right font-sans dark:text-gray-300 text-gray-700 my-4 block">
-  {{ T "email-sharing" }}<a class="link" href="mailto:{{.Site.Params.social.email}}?subject=About {{.Title}} - {{ .Permalink }}">{{.Site.Params.social.email}}</a>
-</span>
+{{ partial "article_signature" . }}
