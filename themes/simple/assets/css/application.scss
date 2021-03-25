@@ -16,11 +16,7 @@ html {
 $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, bluewhale, sunray, rose, amber;
 @each $color in $colors {
   .content-#{$color} .post blockquote {
-<<<<<<< HEAD
     @apply leading-snug pl-4  border-l-4 border-#{$color}-500 font-normal italic;
-=======
-    @apply leading-snug pl-4 border-l-4 border-#{$color}-500 italic;
->>>>>>> bf812902 (Blockquote)
   }
   .content-#{$color} .note {
     @apply my-4 md:-mx-6 -ml-4 px-4 md:pr-6 py-1 md:pl-6 border-l-4 border-#{$color}-500 bg-gray-100 dark:bg-gray-900;
