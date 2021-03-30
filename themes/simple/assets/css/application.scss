@@ -11,6 +11,7 @@ html {
 
 :root {
   --accent: {{ with .Site.Params.accentColor }}{{ . }}{{ else }}var(--onyx){{ end }};
+  --gap: 8px;
 }
 
 $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, bluewhale, sunray, rose, amber;
@@ -118,6 +119,13 @@ hr {
   &:hover {
     @apply dark:text-accent-500 text-accent-500 underline relative;
   }
+}
+
+.mgrid img {
+  width: calc(100% - var(--gap, 0px));
+  height: calc(100% - var(--gap, 0px));
+  left: calc(var(--gap, 0px) * 0.5);
+  top: calc(var(--gap, 0px) * 0.5);
 }
 
 // Expand Hugo templates

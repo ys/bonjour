@@ -16,54 +16,92 @@
   {{ end }}
   {{ $rows = $rows | append (slice $columns) }}
 {{ end }}
-{{ $rows }}
-<div class="md:-mx-32 gap-4 flex flex-wrap justify-end">
+<div class="mgrid md:-mx-48 gap-4 flex flex-wrap justify-end">
 {{ range $rows}}
-  {{ range . }}
-  <div class="flex flex-col min-h-full inherit">
-      {{ $images := slice }}
+  {{ $columns := . }}
+  {{ $width := 0 }}
+  {{ range $columns }}
+    {{ $subwidth := 0 }}
+    {{ range . }}
+      {{ $subwidth =  add $subwidth (div (float .Height) .Width) }}
+    {{ end }}
+    {{ $width = add $width (div 1.0 $subwidth) }}
+  {{ end }}
+  {{ range $columns }}
       {{ $div := 0 }}
       {{ range . }}
-        {{ $src := $.Page.Resources.GetMatch (printf "*%s*" (trim . " ")) }}
-        {{ if $src }}
-          {{ $images = $images | append $src }}
-          {{ $div = add $div (div (float $src.Height) $src.Width) }}
-        {{ end }}
+        {{ $div = add $div (div (float .Height) .Width) }}
       {{ end }}
-      {{ range $images }}
-          {{ $dimension := div (div (mul 100.0 .Height ) .Width) $div }}
-          {{ if (eq (len $images) 1) }}
-          {{ $dimension = div (div (mul 100.0 .Height ) .Width) $div }}
-          {{ end }}
-          {{ $lqipw := default "20x" }}
-          {{ $smallw := default "800x" }}
-          {{ $largew := default "1500x" }}
-          {{ $lqip := .Resize $lqipw }}
-          {{ $small := .Resize $smallw }}
-          {{ $large := .Resize $largew }}
-          <picture style="flex: 1 0  {{ $dimension -}}%; padding-bottom: {{(div (mul 100.0 .Height ) .Width) -}}%" class="relative "
-                style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover">
+      {{ $colwidth := div (div 1.0 $div) $width }}
+      {{ $images := . }}
+      {{ if (eq (len $columns) 1) }}
+        <div class="flex flex-col min-h-full inherit" style="flex: 1 0 {{ mul 100.0 $colwidth -}}%">
+          {{ range $images }}
+              {{ $lqipw := default "20x" }}
+              {{ $smallw := default "800x" }}
+              {{ $largew := default "1500x" }}
+              {{ $lqip := .Resize $lqipw }}
+              {{ $small := .Resize $smallw }}
+              {{ $large := .Resize $largew }}
+              <picture style="padding-bottom: {{(div (mul 100.0 .Height ) .Width) -}}%" class="relative "
+                    style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover">
 
-              <img
-                loading="lazy"
-                alt=""
-                class="cursor-pointer object-cover lazy absolute top-0 left-0 w-full h-full"
-                data-action="zoom"
-                data-zoom-src="{{ .RelPermalink}}"
-                sizes="auto"
-                srcset='
-                {{ if ge .Width "800" }}
-                  {{ with $small.RelPermalink }}{{.}} 800w{{ end }}
-                {{ end }}
-                {{ if ge .Width "1500" }}
-                  {{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
-                {{ end }}'
-                src="{{ .RelPermalink }}"
-                width="{{ .Width }}" height="{{ .Height }}"/>
-            </picture>
+                  <img
+                    loading="lazy"
+                    alt=""
+                    class="cursor-pointer object-cover lazy absolute top-0 left-0 w-full h-full"
+                    data-action="zoom"
+                    data-zoom-src="{{ .RelPermalink}}"
+                    sizes="auto"
+                    srcset='
+                    {{ if ge .Width "800" }}
+                      {{ with $small.RelPermalink }}{{.}} 800w{{ end }}
+                    {{ end }}
+                    {{ if ge .Width "1500" }}
+                      {{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
+                    {{ end }}'
+                    src="{{ .RelPermalink }}"
+                    width="{{ .Width }}" height="{{ .Height }}"/>
+                </picture>
+          {{ end }}
+        </div>
+      {{ else }}
+        <div class="flex flex-col min-h-full inherit" style="flex: 1 0 {{ mul 100.0 $colwidth -}}%">
+          {{ range $images }}
+              {{ $dimension := div (div (mul 100.0 .Height ) .Width) $div }}
+              {{ $lqipw := default "20x" }}
+              {{ $smallw := default "800x" }}
+              {{ $largew := default "1500x" }}
+              {{ $lqip := .Resize $lqipw }}
+              {{ $small := .Resize $smallw }}
+              {{ $large := .Resize $largew }}
+              <div style="flex: 1 0  {{ $dimension -}}%">
+                <picture class="box-border block relative "
+                         style="padding-bottom: {{(div (mul 100.0 .Height ) .Width) -}}%; ; background-size: cover">
+
+                  <img
+                    style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover"
+                    loading="lazy"
+                    alt=""
+                    class="cursor-pointer object-cover lazy absolute top-0 left-0 w-full h-full"
+                    data-action="zoom"
+                    data-zoom-src="{{ .RelPermalink}}"
+                    src="{{ .RelPermalink }}"
+                    sizes="auto"
+                    srcset='
+                    {{ if ge .Width "800" }}
+                      {{ with $small.RelPermalink }}{{.}} 800w{{ end }}
+                    {{ end }}
+                    {{ if ge .Width "1500" }}
+                      {{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
+                    {{ end }}'
+                    width="{{ .Width }}" height="{{ .Height }}"/>
+                </picture>
+              </div>
+          {{ end }}
+        </div>
       {{ end }}
-    </div>
+    {{ end }}
   {{ end }}
-{{ end }}
 </div>
 
