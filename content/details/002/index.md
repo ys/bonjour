@@ -9,7 +9,7 @@ camera: "Olympus XA"
 film: "Kodak Gold 200"
 slug: "002"
 description: "Une photo par semaine, dans ta boîte mail"
-date: 2021-03-31T12:57:50+02:00
+date: 2021-03-30T12:57:50+02:00
 color: "cascade"
 resources:
   - src: "cover.jpg"
