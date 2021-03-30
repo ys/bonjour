@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
     elements_selector: ".lazyload"
   });
   photoswipeSimplify.init({
-    history: false,
+    history: true,
     bgOpacity: 1,
     zoomEl: false,
     shareEl: false,
