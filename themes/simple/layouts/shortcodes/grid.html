@@ -1,0 +1,69 @@
+{{ $rowsslice := split (.Get "images") "/" }}
+{{ $rows := slice }}
+{{ range $rowsslice}}
+  {{ $columnsslice := split . "|" }}
+  {{ $columns := slice }}
+  {{ range $columnsslice }}
+    {{ $imagesslice := split  . "-" }}
+    {{ $images := slice }}
+    {{ range $imagesslice }}
+        {{ $src := $.Page.Resources.GetMatch (printf "*%s*" (trim . " ")) }}
+        {{ if $src }}
+          {{ $images = $images | append $src }}
+        {{ end }}
+    {{ end }}
+    {{ $columns = $columns | append (slice $images) }}
+  {{ end }}
+  {{ $rows = $rows | append (slice $columns) }}
+{{ end }}
+{{ $rows }}
+<div class="md:-mx-32 gap-4 flex flex-wrap justify-end">
+{{ range $rows}}
+  {{ range . }}
+  <div class="flex flex-col min-h-full inherit">
+      {{ $images := slice }}
+      {{ $div := 0 }}
+      {{ range . }}
+        {{ $src := $.Page.Resources.GetMatch (printf "*%s*" (trim . " ")) }}
+        {{ if $src }}
+          {{ $images = $images | append $src }}
+          {{ $div = add $div (div (float $src.Height) $src.Width) }}
+        {{ end }}
+      {{ end }}
+      {{ range $images }}
+          {{ $dimension := div (div (mul 100.0 .Height ) .Width) $div }}
+          {{ if (eq (len $images) 1) }}
+          {{ $dimension = div (div (mul 100.0 .Height ) .Width) $div }}
+          {{ end }}
+          {{ $lqipw := default "20x" }}
+          {{ $smallw := default "800x" }}
+          {{ $largew := default "1500x" }}
+          {{ $lqip := .Resize $lqipw }}
+          {{ $small := .Resize $smallw }}
+          {{ $large := .Resize $largew }}
+          <picture style="flex: 1 0  {{ $dimension -}}%; padding-bottom: {{(div (mul 100.0 .Height ) .Width) -}}%" class="relative "
+                style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover">
+
+              <img
+                loading="lazy"
+                alt=""
+                class="cursor-pointer object-cover lazy absolute top-0 left-0 w-full h-full"
+                data-action="zoom"
+                data-zoom-src="{{ .RelPermalink}}"
+                sizes="auto"
+                srcset='
+                {{ if ge .Width "800" }}
+                  {{ with $small.RelPermalink }}{{.}} 800w{{ end }}
+                {{ end }}
+                {{ if ge .Width "1500" }}
+                  {{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
+                {{ end }}'
+                src="{{ .RelPermalink }}"
+                width="{{ .Width }}" height="{{ .Height }}"/>
+            </picture>
+      {{ end }}
+    </div>
+  {{ end }}
+{{ end }}
+</div>
+
