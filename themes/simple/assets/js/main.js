@@ -14,6 +14,10 @@ document.addEventListener("DOMContentLoaded", function () {
     arrowEl: false,
     barsSize: { top: 44, bottom: 44, left: 44, right: 44 }
   });
+  params = new URLSearchParams(window.location.search)
+  if (params.has("zoom")) {
+    photoswipeSimplify.open(0,0);
+  }
 })
 
 
