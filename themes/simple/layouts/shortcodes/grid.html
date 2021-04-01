@@ -8,8 +8,8 @@
     {{ $images := slice }}
     {{ range $imagesslice }}
         {{ $name := trim . " " }}
-        {{ if hasPrefix $name "blank:" }}
-          {{ $ratio := split (strings.TrimPrefix "blank:" $name) ":" }}
+        {{ if in $name ":" }}
+          {{ $ratio := split $name ":" }}
           {{ $blank := dict "Blank" true "Height" (int (index $ratio 1)) "Width" (int (index $ratio 0)) }}
           {{ $images = $images | append $blank }}
         {{ else }}
