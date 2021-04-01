@@ -43,7 +43,7 @@
         <div class="md:flex flex-col min-h-full inherit" style="flex: 1 0 {{ mul 100.0 $colwidth -}}%">
           {{ range $images.Images }}
             {{ if reflect.IsMap .  }}
-              <div style="padding-bottom: {{ div (mul 100.0 .Height) .Width -}}%" class="relative "></div>
+              <div style="padding-bottom: {{ div (mul 100.0 .Height) .Width -}}%" class="relative md:visible hidden"></div>
             {{ else }}
                 {{ $lqipw := default "20x" }}
                 {{ $smallw := default "800x" }}
@@ -80,7 +80,7 @@
               {{ $dimension := div (div (mul 100.0 .Height ) .Width) $div }}
               <div style="flex: 1 0  {{ $dimension -}}%">
                 {{ if reflect.IsMap .  }}
-                  <div style="padding-bottom: {{ div (mul 100.0 .Height) .Width -}}%" class="relative "></div>
+                  <div style="padding-bottom: {{ div (mul 100.0 .Height) .Width -}}%" class="relative md:visible hidden"></div>
                 {{ else }}
                   {{ $lqipw := default "20x" }}
                   {{ $smallw := default "800x" }}
