@@ -23,7 +23,7 @@
   {{ end }}
   {{ $rows = merge $rows (dict (string $rowIndex) $columns) }}
 {{ end }}
-<div class="mgrid md:-mx-48 gap-4 md:flex flex-wrap justify-end">
+<div class="mgrid md:-mx-48 md:flex flex-wrap justify-end">
 {{ range $index, $columns := $rows}}
   {{ $width := 0 }}
   {{ range $cindex, $images := $columns }}
