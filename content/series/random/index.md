@@ -11,4 +11,4 @@ aliases:
   - "portfolio"
 ---
 
-{{< grid images="cover | 4 / 5 | 6 / 02 / 65 | 75 / 64 | 3 / surf" >}}
+{{< grid images="00 | 4 / 5 | 6 / 02  / 65 | 75 / 64 | 3 / surf" >}}
