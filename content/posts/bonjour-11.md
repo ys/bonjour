@@ -7,7 +7,7 @@ tags:
 newsletter: true
 emoji: 💌
 color: pink
-title: "Bonjour la lettre #11 - Des livres, du CSV et Mowgli"
+title: "Bonjour la lettre 11 - Des livres, du CSV et Mowgli"
 slug: "/bonjour-11"
 ---
 

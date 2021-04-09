@@ -29,19 +29,4 @@ Glaz, it is the color that the Kodak Portra gave me that morning.
 Glaz, it is the beginning of a new project.  
 Glaz, it is the name of my watershots.  
 
-{{< photo full="true" src="cover" alt="glaz" >}}
-
-{{< photo src="41.jpeg" alt="silhouette glaz" >}}
-{{< photo src="43.jpeg" alt="glaz" >}}
-{{< photo large="yes" src="64.jpeg" alt="glaz" >}}
-
-{{< photo src="65.jpeg" alt="glaz" >}}
-
-{{< photoset always="2" >}}
-{{< photo src="66.jpeg" alt="glaz" >}}
-{{< photo src="53.jpeg" alt="glaz" >}}
-{{</ photoset >}}
-{{< photo src="71.jpeg" alt="glaz" >}}
-{{< photo large="true" src="73.jpeg" alt="glaz" >}}
-{{< photo src="75.jpeg" alt="glaz" >}}
-{{< photo src="72.jpeg" alt="glaz" >}}
+{{< grid images="41 | 43 / 53 | 69 / 64 / 65 | 66 / 71 | 72 / 74 | 75 - 73 / cover" >}}

@@ -10,7 +10,7 @@ resources:
   - src: "now.jpg"
     name: "cover"
 menu:
-  main:
+  footer:
     weight: 5
 linktitle: Maintenant
 ---
@@ -27,6 +27,8 @@ Mon matos actuel:
 - Nikonos V avec son 35mm
 
 J'ai à moitié cassé mon Olympus XA. Cela me rend triste. J'en reprendrai sans doute un bientôt. C'est top pour l'été.
+
+{{< photo src="cover" alt="yannick" >}}
 
 J'ai commencé à faire de la [photo dans l'eau](/nikonos-glaz) armé de palmes et du Nikonos. C'est une petite drogue cette eau salée. Cette année je pense bien finir avec une longboard à moi pour continuer à surfer même sans l'école. Je vais dans l'eau dès que je peux.
 

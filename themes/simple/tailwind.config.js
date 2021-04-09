@@ -14,6 +14,10 @@ module.exports = {
   },
   theme: {
     extend: {
+      fontFamily: {
+        ffserif: ["ff-meta-serif-web-pro"],
+        ffsans: ["ff-meta-web-pro"],
+      },
       colors: {
         gray: colors.warmGray,
         indigo: colors.indigo,
