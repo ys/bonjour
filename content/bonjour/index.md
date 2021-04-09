@@ -9,6 +9,10 @@ resources:
   - src: "*.jpg"
   - src: "cover.jpg"
     name: cover
+menu:
+  footer:
+    weight: 5
+linktitle: "La lettre"
 ---
 
 

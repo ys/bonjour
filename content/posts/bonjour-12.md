@@ -7,7 +7,7 @@ tags:
 newsletter: true
 emoji: 💌
 color: pink
-title: "Bonjour #12 - Du web, des beaux mots et aussi des liens"
+title: "Bonjour 12 - Du web, des beaux mots et aussi des liens"
 slug: "/bonjour-12"
 ---
 

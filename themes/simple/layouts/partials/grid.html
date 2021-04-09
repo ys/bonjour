@@ -1,23 +1,5 @@
-{{ $rowsslice := split (.Get "images") "/" }}
-{{ $rows := slice }}
-{{ range $rowsslice}}
-  {{ $columnsslice := split . "|" }}
-  {{ $columns := slice }}
-  {{ range $columnsslice }}
-    {{ $imagesslice := split  . "-" }}
-    {{ $images := slice }}
-    {{ range $imagesslice }}
-        {{ $src := $.Page.Resources.GetMatch (printf "*%s*" (trim . " ")) }}
-        {{ if $src }}
-          {{ $images = $images | append $src }}
-        {{ end }}
-    {{ end }}
-    {{ $columns = $columns | append (slice $images) }}
-  {{ end }}
-  {{ $rows = $rows | append (slice $columns) }}
-{{ end }}
 <div class="mgrid md:-mx-48 gap-4 md:flex flex-wrap justify-end">
-{{ range $rows}}
+{{ range . }}
   {{ $columns := . }}
   {{ $width := 0 }}
   {{ range $columns }}
