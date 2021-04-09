@@ -5,7 +5,7 @@ grid: true
 menu:
   footer:
     weight: 5
-linktitle: "👀 Détail"
+linktitle: "Détail"
 ---
 
 Une série hors du temps de moments pris et captés.  

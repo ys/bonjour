@@ -10,9 +10,11 @@ resources:
   name: "cover"
 ---
 
-👋 Yannick aime [écrire](/posts), prendre des [photos](/series), lire des [livres](/books) et envoyer une [petite lettre](/bonjour) qui part toutes les deux semaines et [une photo par semaine](/details).
+Yannick aime [écrire](/posts), prendre des [photos](/series), lire des [livres](/books) et envoyer une [petite lettre](/bonjour) qui part toutes les deux semaines et [une photo](/details) qui part tous les mercredis.
 
-J'essaye d'y écrire régulièrement sur des sujets qui me tiennent à coeur allant de la 📷 au ☕️ en passant par la lecture, le micro activisme, le respect de notre 🌍 et notre vie en Bretagne.
 
-N'hésitez pas à m'écrire si vous avez des suggestions ou retours. Ou tout simplement si l'envie vous en dit.
+{{< photo src="cover" >}}
 
+J'aime écrire sur des sujets qui me tiennent à coeur allant de la 📷 au ☕️ en passant par la lecture, le micro activisme, le respect de notre 🌍 et notre vie en Bretagne.
+
+Ces projets d'écritures, de photos et autres m'amusent et j'espère en sortir quelques uns cette année. Soyez prêts.
