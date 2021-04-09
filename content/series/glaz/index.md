@@ -28,4 +28,4 @@ Glaz, c'est la couleur que la Kodak Portra m'a donné ce matin là.
 Glaz, c'est aussi le début d'un projet perso.  
 Glaz, c'est le nom de mes photos à l'eau.  
 
-{{< grid images="41 | 43 / 53 | 69 / 64 / 65 | 66 / 71 | 72 / 74 | 75 - 73 / cover" >}}
+{{< grid images="41 / 1:1 | 43 / 53 | 69 / 64 / 16:9 - 65 | 66 / 71 | 72 / 74 | 75 - 16:5 / 73 | 1:2 / cover" >}}

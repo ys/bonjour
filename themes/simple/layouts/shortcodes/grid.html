@@ -1,19 +1,26 @@
 {{ $rowsslice := split (.Get "images") "/" }}
-{{ $rows := slice }}
-{{ range $rowsslice}}
-  {{ $columnsslice := split . "|" }}
-  {{ $columns := slice }}
-  {{ range $columnsslice }}
-    {{ $imagesslice := split  . "-" }}
+{{ $rows := dict }}
+{{ range $rowIndex, $row := $rowsslice}}
+  {{ $columnsslice := split $row "|" }}
+  {{ $columns := dict }}
+  {{ range $columnIndex, $column := $columnsslice }}
+    {{ $imagesslice := split $column "-" }}
     {{ $images := slice }}
     {{ range $imagesslice }}
-        {{ $src := $.Page.Resources.GetMatch (printf "*%s*" (trim . " ")) }}
-        {{ if $src }}
-          {{ $images = $images | append $src }}
+        {{ $name := trim . " " }}
+        {{ if in $name ":" }}
+          {{ $ratio := split $name ":" }}
+          {{ $blank := dict "Blank" true "Height" (int (index $ratio 1)) "Width" (int (index $ratio 0)) }}
+          {{ $images = $images | append $blank }}
+        {{ else }}
+          {{ $src := $.Page.Resources.GetMatch (printf "*%s*" $name) }}
+          {{ if $src }}
+            {{ $images = $images | append $src }}
+          {{ end }}
         {{ end }}
     {{ end }}
-    {{ $columns = $columns | append (slice $images) }}
+    {{ $columns = merge $columns (dict (string $columnIndex) (dict "Images" $images)) }}
   {{ end }}
-  {{ $rows = $rows | append (slice $columns) }}
+  {{ $rows = merge $rows (dict (string $rowIndex) $columns) }}
 {{ end }}
 {{ partial "grid" $rows }}
