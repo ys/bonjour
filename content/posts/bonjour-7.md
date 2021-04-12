@@ -7,7 +7,7 @@ tags:
 - la lettre
 emoji: 💌
 color: pink
-title: "Bonjour la lettre #7"
+title: "Bonjour 7 - Des bouquins, des gifs  et les premiers mots de Louise"
 slug: "/bonjour-7"
 ---
 

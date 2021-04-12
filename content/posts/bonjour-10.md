@@ -7,7 +7,7 @@ tags:
 newsletter: true
 emoji: 💌
 color: pink
-title: "Bonjour la lettre #10"
+title: "Bonjour 10 - Du skate, de la photo et un goofy"
 slug: "/bonjour-10"
 ---
 

@@ -7,7 +7,7 @@ tags:
 - la lettre
 emoji: 💌
 color: pink
-title: "Bonjour la lettre #1"
+title: "Bonjour 1 - du surf, du livre et Maintenant"
 slug: "/bonjour-1"
 ---
 

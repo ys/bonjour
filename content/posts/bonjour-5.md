@@ -7,7 +7,7 @@ tags:
 - la lettre
 emoji: 💌
 color: pink
-title: "Bonjour la lettre #5"
+title: "Bonjour 5 - Mon carnet, de la productivité et du réconfort"
 slug: "/bonjour-5"
 ---
 

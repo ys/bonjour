@@ -7,7 +7,7 @@ tags:
 - la lettre
 emoji: 💌
 color: pink
-title: "Bonjour la lettre #3"
+title: "Bonjour 3 - Donner, du temps et du grassroots"
 slug: "/bonjour-3"
 ---
 
