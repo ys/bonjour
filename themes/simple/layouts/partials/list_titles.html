@@ -1,4 +1,4 @@
-{{ $paginator := (.Paginate .RegularPages 25) }}
+{{ $paginator := (.Paginate .RegularPages 250) }}
 <div class="mb-10">
   {{ range $paginator.Pages }}
   {{ if templates.Exists ( printf "partials/%s-item.html" .Type ) }}

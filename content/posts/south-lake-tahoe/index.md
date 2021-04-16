@@ -37,11 +37,7 @@ Mon boulot me permet de voyager, d’habitude je vois San Francisco. Cette fois-
 
 Jet lag et lumière me sortent du lit. On décide de partir se balader à pied et de descendre jusqu’au lac. On découvre plein de petites maisons et on coupe par les bois. Nous voyons quelques plaques nous apprenant que nous sommes en forêt nationale. C’est un début impressionnant. On se rapproche du lac tout se referme. Des lots de propriétés privées bloquent l’accès. On fait un détour et découvre enfin le lac. Il semble sans fin, les montagnes viennent séparer le ciel de l’eau à l’horizon. On se pose pour un verre et on rentre se reposer.
 
-{{< grid images="south-lake-tahoe-7.jpg | south-lake-tahoe-8.jpg" >}}
-
-{{< grid images="south-lake-tahoe-4.jpg | south-lake-tahoe-5.jpg | south-lake-tahoe-6.jpg" >}}
-
-{{< grid images="south-lake-tahoe-9.jpg | south-lake-tahoe-10.jpg" >}}
+{{< grid images="south-lake-tahoe-7.jpg | south-lake-tahoe-8.jpg / south-lake-tahoe-4.jpg | south-lake-tahoe-5.jpg | south-lake-tahoe-6.jpg / south-lake-tahoe-9.jpg | south-lake-tahoe-10.jpg" >}}
 
 Réveil beaucoup trop tôt, Je tourne dans le lit. Je décide d’aller marcher et découvrir. Je sors Gaia GPS et erre dans les rues. Je décide d’aller jusqu’au Nevada par le haut de la ville. C’est amusant de se dire que un autre état est si proche. Je découvre aussi les pommes de pin locales, grandes comme ma main. Les chemins grimpent bien. J’espère croiser au loin un ours, mais je rentrerai bredouille. Toutes les poubelles sont bear proof, entendez résistantes aux ours. Mon collègue s’est déjà réveillé la nuit avec des ours à sa porte. On espère avoir bien verrouiller ces nuits-là. Cette semaine, je ne verrai que des écureuils.
 

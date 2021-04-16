@@ -24,7 +24,7 @@ Nous entendons toujours parler des parcs nationaux Américains. J’étais loin 
 
 Nous nous lançons dans une des balades qui passe d’un paysage de bruyères à une forêt avec au passage de belles vues panoramiques sur le parc. Tout un programme pour cette balade de 5.5km.
 
-{{< grid images="DSCF7825.jpg | DSCF7830.jpg | DSCF7837.jpg" >}}
+{{< grid images=" DSCF7830.jpg | DSCF7837.jpg" >}}
 
 Nous commençons sur un sol sablonneux mais grimpons vite vers les bois. Avant d’y pénétrer, une vue sur une ancienne carrière et un beau petit lac. L’entrée dans les bois me fait penser aux Ardennes mais rapidement nous passons à un paysage plus proche de nos dunes.
 
