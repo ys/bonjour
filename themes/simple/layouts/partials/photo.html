@@ -1,5 +1,5 @@
 {{/* get file that matches the filename as specified as src="" in shortcode */}}
-{{ $src := . }}
+{{ $src := .Image }}
 
 {{ if $src }}
   {{ $lqipw := default "20x" }}
@@ -22,13 +22,16 @@
       sizes="auto"
       srcset='
       {{ if ge $src.Width "300" }}
-        {{ with $rsmall.RelPermalink }}{{.}} 800w{{ end }}
+        {{ with $rsmall.RelPermalink }}{{.}} 300w{{ end }}
       {{ end }}
-      {{ if ge $src.Width "800" }}
-        {{ with $small.RelPermalink }}{{.}} 800w{{ end }}
-      {{ end }}
-      {{ if ge $src.Width "1500" }}
-        {{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
+      {{ if .Lofi }}
+      {{ else}}
+        {{ if ge $src.Width "800" }}
+          {{ with $small.RelPermalink }}{{.}} 800w{{ end }}
+        {{ end }}
+        {{ if ge $src.Width "1500" }}
+          {{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
+        {{ end }}
       {{ end }}'
       src="{{ $src.RelPermalink }}"
       width="{{ $src.Width }}" height="{{ $src.Height }}"/>

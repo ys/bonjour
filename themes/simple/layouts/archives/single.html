@@ -2,7 +2,7 @@
 {{ $allimages := slice }}
 {{ range .Site.RegularPages.ByPublishDate.Reverse}}
   {{ range .Resources.Match "*.jpg" }}
-    {{ $allimages = $allimages | append (dict "Image" .) }}
+    {{ $allimages = $allimages | append (dict "Image" . "Lofi" true) }}
   {{ end }}
 {{ end }}
 {{ $rows := dict }}
@@ -17,7 +17,7 @@
   {{ end }}
 {{ end }}
 {{ partial "article_header" . }}
-<div data-pswp class="mb-10 font-ffserif content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
+<div class="mb-10 font-ffserif content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
   <div class="post">
   {{ partial "grid" $rows }}
   </div>

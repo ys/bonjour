@@ -20,7 +20,7 @@
             {{ if .Blank  }}
               <div style="padding-bottom: {{ div (mul 100.0 .Image.Height) .Image.Width -}}%" class="relative md:block hidden"></div>
             {{ else }}
-              {{ partial "photo" .Image }}
+              {{ partial "photo" . }}
             {{ end }}
           {{ end }}
         </div>
@@ -32,7 +32,7 @@
                 {{ if .Blank  }}
                   <div style="padding-bottom: {{ div (mul 100.0 .Image.Height) .Image.Width -}}%" class="relative md:block hidden"></div>
                 {{ else }}
-                  {{ partial "photo" .Image }}
+                  {{ partial "photo" . }}
                 {{ end }}
               </div>
           {{ end }}
