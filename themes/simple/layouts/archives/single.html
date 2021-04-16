@@ -1,8 +1,8 @@
 {{ define "main" }}
 {{ $allimages := slice }}
-{{ range $index, $page := .Site.RegularPages.ByPublishDate.Reverse}}
-  {{ range $page.Resources.Match "*.jpg" }}
-    {{ $allimages = $allimages | append (dict "Image" . "Lofi" true "Link" $page.RelPermalink ) }}
+{{ range $index, $page := .Site.RegularPages.ByDate.Reverse}}
+  {{ range $page.Resources.ByType "image" }}
+    {{ $allimages = $allimages | append (dict "Image" . "Lofi" true "Link" $page.RelPermalink "Date" $page.Date ) }}
   {{ end }}
 {{ end }}
 {{ $rows := dict }}
