@@ -20,37 +20,7 @@
             {{ if .Blank  }}
               <div style="padding-bottom: {{ div (mul 100.0 .Image.Height) .Image.Width -}}%" class="relative md:block hidden"></div>
             {{ else }}
-                {{ $lqipw := default "20x" }}
-                {{ $rsmallw := default "300x" }}
-                {{ $smallw := default "800x" }}
-                {{ $largew := default "1500x" }}
-                {{ $lqip := .Image.Resize $lqipw }}
-                {{ $rsmall := .Image.Resize $rsmallw }}
-                {{ $small := .Image.Resize $smallw }}
-                {{ $large := .Image.Resize $largew }}
-                <picture style="padding-bottom: {{(div (mul 100.0 .Image.Height ) .Image.Width) -}}%" class="relative "
-                      style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover">
-
-                    <img
-                      loading="lazy"
-                      alt=""
-                      class="cursor-pointer object-cover lazy absolute top-0 left-0 w-full h-full"
-                      data-action="zoom"
-                      data-zoom-src="{{ .Image.RelPermalink}}"
-                      sizes="auto"
-                      srcset='
-                      {{ if ge .Image.Width "300" }}
-                        {{ with $rsmall.RelPermalink }}{{.}} 800w{{ end }}
-                      {{ end }}
-                      {{ if ge .Image.Width "800" }}
-                        {{ with $small.RelPermalink }}{{.}} 800w{{ end }}
-                      {{ end }}
-                      {{ if ge .Image.Width "1500" }}
-                        {{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
-                      {{ end }}'
-                      src="{{ .Image.RelPermalink }}"
-                      width="{{ .Image.Width }}" height="{{ .Image.Height }}"/>
-                  </picture>
+              {{ partial "photo" .Image }}
             {{ end }}
           {{ end }}
         </div>
@@ -62,33 +32,7 @@
                 {{ if .Blank  }}
                   <div style="padding-bottom: {{ div (mul 100.0 .Image.Height) .Image.Width -}}%" class="relative md:block hidden"></div>
                 {{ else }}
-                  {{ $lqipw := default "20x" }}
-                  {{ $smallw := default "800x" }}
-                  {{ $largew := default "1500x" }}
-                  {{ $lqip := .Image.Resize $lqipw }}
-                  {{ $small := .Image.Resize $smallw }}
-                  {{ $large := .Image.Resize $largew }}
-                  <picture class="box-border block relative "
-                          style="padding-bottom: {{(div (mul 100.0 .Image.Height ) .Image.Width) -}}%; ; background-size: cover">
-
-                    <img
-                      style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover"
-                      loading="lazy"
-                      alt=""
-                      class="cursor-pointer object-cover lazy absolute top-0 left-0 w-full h-full"
-                      data-action="zoom"
-                      data-zoom-src="{{ .Image.RelPermalink}}"
-                      src="{{ .Image.RelPermalink }}"
-                      sizes="auto"
-                      srcset='
-                      {{ if ge .Image.Width "800" }}
-                        {{ with $small.RelPermalink }}{{.}} 800w{{ end }}
-                      {{ end }}
-                      {{ if ge .Image.Width "1500" }}
-                        {{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
-                      {{ end }}'
-                      width="{{ .Image.Width }}" height="{{ .Image.Height }}"/>
-                  </picture>
+                  {{ partial "photo" .Image }}
                 {{ end }}
               </div>
           {{ end }}
