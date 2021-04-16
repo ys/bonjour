@@ -4,29 +4,31 @@
   {{ range $cindex, $images := $columns }}
     {{ $subwidth := 0 }}
     {{ range $images.Images }}
-      {{ $subwidth =  add $subwidth (div (float .Height) .Width) }}
+      {{ $subwidth =  add $subwidth (div (float .Image.Height) .Image.Width) }}
     {{ end }}
     {{ $width = add $width (div 1.0 $subwidth) }}
   {{ end }}
   {{ range $cindex, $images := $columns }}
       {{ $div := 0 }}
       {{ range $images.Images }}
-        {{ $div = add $div (div (float .Height) .Width) }}
+        {{ $div = add $div (div (float .Image.Height) .Image.Width) }}
       {{ end }}
       {{ $colwidth := div (div 1.0 $div) $width }}
       {{ if (eq (len $columns) 1) }}
         <div class="md:flex flex-col min-h-full inherit" style="flex: 1 0 {{ mul 100.0 $colwidth -}}%">
           {{ range $images.Images }}
-            {{ if reflect.IsMap .  }}
-              <div style="padding-bottom: {{ div (mul 100.0 .Height) .Width -}}%" class="relative md:block hidden"></div>
+            {{ if .Blank  }}
+              <div style="padding-bottom: {{ div (mul 100.0 .Image.Height) .Image.Width -}}%" class="relative md:block hidden"></div>
             {{ else }}
                 {{ $lqipw := default "20x" }}
+                {{ $rsmallw := default "300x" }}
                 {{ $smallw := default "800x" }}
                 {{ $largew := default "1500x" }}
-                {{ $lqip := .Resize $lqipw }}
-                {{ $small := .Resize $smallw }}
-                {{ $large := .Resize $largew }}
-                <picture style="padding-bottom: {{(div (mul 100.0 .Height ) .Width) -}}%" class="relative "
+                {{ $lqip := .Image.Resize $lqipw }}
+                {{ $rsmall := .Image.Resize $rsmallw }}
+                {{ $small := .Image.Resize $smallw }}
+                {{ $large := .Image.Resize $largew }}
+                <picture style="padding-bottom: {{(div (mul 100.0 .Image.Height ) .Image.Width) -}}%" class="relative "
                       style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover">
 
                     <img
@@ -34,17 +36,20 @@
                       alt=""
                       class="cursor-pointer object-cover lazy absolute top-0 left-0 w-full h-full"
                       data-action="zoom"
-                      data-zoom-src="{{ .RelPermalink}}"
+                      data-zoom-src="{{ .Image.RelPermalink}}"
                       sizes="auto"
                       srcset='
-                      {{ if ge .Width "800" }}
+                      {{ if ge .Image.Width "300" }}
+                        {{ with $rsmall.RelPermalink }}{{.}} 800w{{ end }}
+                      {{ end }}
+                      {{ if ge .Image.Width "800" }}
                         {{ with $small.RelPermalink }}{{.}} 800w{{ end }}
                       {{ end }}
-                      {{ if ge .Width "1500" }}
+                      {{ if ge .Image.Width "1500" }}
                         {{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
                       {{ end }}'
-                      src="{{ .RelPermalink }}"
-                      width="{{ .Width }}" height="{{ .Height }}"/>
+                      src="{{ .Image.RelPermalink }}"
+                      width="{{ .Image.Width }}" height="{{ .Image.Height }}"/>
                   </picture>
             {{ end }}
           {{ end }}
@@ -52,19 +57,19 @@
       {{ else }}
         <div class="flex flex-col min-h-full inherit" style="flex: 1 0 {{ mul 100.0 $colwidth -}}%">
           {{ range $images.Images }}
-              {{ $dimension := div (div (mul 100.0 .Height ) .Width) $div }}
+              {{ $dimension := div (div (mul 100.0 .Image.Height ) .Image.Width) $div }}
               <div style="flex: 1 0  {{ $dimension -}}%">
-                {{ if reflect.IsMap .  }}
-                  <div style="padding-bottom: {{ div (mul 100.0 .Height) .Width -}}%" class="relative md:block hidden"></div>
+                {{ if .Blank  }}
+                  <div style="padding-bottom: {{ div (mul 100.0 .Image.Height) .Image.Width -}}%" class="relative md:block hidden"></div>
                 {{ else }}
                   {{ $lqipw := default "20x" }}
                   {{ $smallw := default "800x" }}
                   {{ $largew := default "1500x" }}
-                  {{ $lqip := .Resize $lqipw }}
-                  {{ $small := .Resize $smallw }}
-                  {{ $large := .Resize $largew }}
+                  {{ $lqip := .Image.Resize $lqipw }}
+                  {{ $small := .Image.Resize $smallw }}
+                  {{ $large := .Image.Resize $largew }}
                   <picture class="box-border block relative "
-                          style="padding-bottom: {{(div (mul 100.0 .Height ) .Width) -}}%; ; background-size: cover">
+                          style="padding-bottom: {{(div (mul 100.0 .Image.Height ) .Image.Width) -}}%; ; background-size: cover">
 
                     <img
                       style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover"
@@ -72,17 +77,17 @@
                       alt=""
                       class="cursor-pointer object-cover lazy absolute top-0 left-0 w-full h-full"
                       data-action="zoom"
-                      data-zoom-src="{{ .RelPermalink}}"
-                      src="{{ .RelPermalink }}"
+                      data-zoom-src="{{ .Image.RelPermalink}}"
+                      src="{{ .Image.RelPermalink }}"
                       sizes="auto"
                       srcset='
-                      {{ if ge .Width "800" }}
+                      {{ if ge .Image.Width "800" }}
                         {{ with $small.RelPermalink }}{{.}} 800w{{ end }}
                       {{ end }}
-                      {{ if ge .Width "1500" }}
+                      {{ if ge .Image.Width "1500" }}
                         {{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
                       {{ end }}'
-                      width="{{ .Width }}" height="{{ .Height }}"/>
+                      width="{{ .Image.Width }}" height="{{ .Image.Height }}"/>
                   </picture>
                 {{ end }}
               </div>

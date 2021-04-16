@@ -1,0 +1,25 @@
+{{ define "main" }}
+{{ $allimages := slice }}
+{{ range .Site.RegularPages.ByPublishDate.Reverse}}
+  {{ range .Resources.Match "*.jpg" }}
+    {{ $allimages = $allimages | append (dict "Image" .) }}
+  {{ end }}
+{{ end }}
+{{ $rows := dict }}
+{{ $columns := dict }}
+{{ range $index, $img := $allimages }}
+  {{ $columns = merge $columns (dict (string (mod $index 5)) (dict "Images" (slice $img)))}}
+  {{ if eq (mod $index 5) 4 }}
+    {{ $rows = merge $rows (dict (string (div $index 5)) $columns) }}
+  {{ end }}
+  {{ if eq (mod $index 5) 0 }}
+    {{ $columns := dict }}
+  {{ end }}
+{{ end }}
+{{ partial "article_header" . }}
+<div data-pswp class="mb-10 font-ffserif content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
+  <div class="post">
+  {{ partial "grid" $rows }}
+  </div>
+</div>
+{{ end }}
