@@ -26,18 +26,12 @@ On  en profite pour papoter. On entend le chien aboyer au loin. Puis plus rien. 
 
 {{< photo src="hoursinne-6.jpg" >}}
 
-{{< photoset max="2" >}}
-  {{< photo src="hoursinne-7.jpg" >}}
-  {{< photo src="hoursinne-8.jpg" >}}
-{{</ photoset >}}
+{{< grid images="hoursinne-7.jpg | hoursinne-8.jpg" >}}
 
 On entend du bruit dans les buissons, Nelson réapparait haletant, il a du bien se dépenser. Il ne nous dira pas ce qu'il a chassé. On reprend notre route. Les bois sont magnifiques. Cette forêt d'Ardenne me manquera en Bretagne. J'en profite pour tester le Fujifilm X-T2 et je suis conquis. Il sera mien.
 
 
-{{< photoset max="2" >}}
-  {{< photo src="hoursinne-9.jpg" >}}
-  {{< photo src="hoursinne-3.jpg" >}}
-{{</ photoset >}}
+{{< grid images="hoursinne-9.jpg | hoursinne-3.jpg" >}}
 
 A la fin de la balade, Anne nous fait découvrir les 50000 abeilles qu'ils viennent d'adopter.
 Le barbecue chauffe et on passera une belle soirée dehors à discuter.

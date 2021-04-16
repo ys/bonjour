@@ -41,10 +41,7 @@ Ces derniers temps, je varie entre [Mok](https://mokcoffee.be) et [The Barn](htt
 
 Tout ceci nous amène à notre début de printemps 2020. Le début du beau temps me fait refaire du coldbrew maison. Chaque matin, quelques tasses de slow coffee au v60 aussi. Je me suis dit alors que partager ma recette vous aiderait sans doute.
 
-{{< photoset always="2" >}}
-{{< photo src="2.jpg" alt="grains" >}}
-{{< photo src="1.jpg" alt="cup" >}}
-{{</ photoset >}}
+{{< grid images="2.jpg | 1.jpg" >}}
 
 ## Recette de Coldbrew
 

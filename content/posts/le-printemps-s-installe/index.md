@@ -36,11 +36,7 @@ Le printemps, c’est aussi le renouveau des balades. On a pu aller faire 10km d
 
 C’est vrai que l’on se balade toute l’année. Qu’il pleuve ou pas. Mais c’est carrément plus agréable de pouvoir se poser et pique niquer en cours de balade. Ça permet de rallonger le temps passé dans ces magnifiques lieux de Bretagne. Toujours aussi agréable de vivre là où d’autres vont en vacances.
 
-{{< photoset max="3" >}}
-{{< photo src="1.jpg" alt="balade dans les Roc'hs" >}}
-{{< photo src="5.jpg" alt="de jolis cailloux" >}}
-{{< photo src="3.jpg" alt="de belles marches" >}}
-{{</ photoset >}}
+{{< grid images="1.jpg | 5.jpg | 3.jpg" >}}
 
 On arrive au parking qui est déjà bien plein. C’est vrai qu’il est déjà 10h. Deux filles sortent des chevaux pour une petite chevauchée.
 La première partie de la balade commence au parking au pied de roc’h Trevezel. On y grimpe puis on file vers le sud. On ne montera pas au sommet cette fois-ci. Il est déjà grouillant de monde. On a une vue à 360° juste fabuleuse. On peut voir la côte quasiment. D’un côté les petits villages et les bocages typiques du centre Bretagne. De l’autre le lac réservoir de Saint-Michel et le Yeun Elez. Ce dernier doit encore s’offrir à nous lors d’une future vadrouille.
@@ -51,17 +47,11 @@ Il est déjà midi. On marche bien mais c’est l’heure de manger. On a pu se 
 
 La balade est principalement en bord de route dans sa seconde partie. Ce qui est beaucoup moins agréable. Nous passons par Botmeur. Charmant petit village d’où partent pas mal de randonnées. D’ailleurs quand on passe, un groupe se prépare sur la place du village. Ce groupe nous rattrapera d'ailleurs. On fait des pauses pour regarder les vaches qui nous suivent dans leur pré, quelles curieuses. On s’arrêtera aussi pour papoter avec un couple en van, qui s’était arrêté pour manger. Cela me donne envie. Cela ne saura tarder.
 
-{{< photoset max="2" >}}
-{{< photo src="6.jpg" alt="tom" >}}
-{{< photo src="7.jpg" alt="cloe" >}}
-{{</ photoset >}}
+{{< grid images="6.jpg | 7.jpg" >}}
 
 Oggy a attrapé une sorte de conjonctivite durant la balade. Pas très agréable pour lui. Mais, il a juste adoré se rouler dans les hautes herbes pour frotter son œil. Il a sans doute dû courir trop vite. Quelle flèche cet animal. Encore heureux qu’il écoute de mieux en mieux. Il était détaché la plupart du temps quand on était pas sur la route. Même si il file parfois loin, il revient toujours et nous cherche si il ne nous voit pas.
 
 Ces 10km étaient vraiment agréables sous ce soleil de printemps. Même si comme à mon habitude, j’ai fini avec des coups de soleil. J’ai hâte de découvrir d’autres endroits pour d’aussi belles boucles.
 J’ai aussi hâte de revenir sur les roc’h au coucher du soleil et à l’heure bleue.
 
-{{< photoset max="2" >}}
-{{< photo src="4.jpg" alt="tom" >}}
-{{< photo src="8.jpg" alt="cloe" >}}
-{{</ photoset >}}
+{{< grid images="4.jpg | 8.jpg" >}}

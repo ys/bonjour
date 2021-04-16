@@ -35,18 +35,11 @@ On est arrivé là un peu par hasard. On avait prévu de faire le Ninglinspo ce 
 
 On a l’impression de se garer chez les gens en y arrivant. Ce n’est pas le cas. On traverse, passe le long d’une maison et on se lance sur les bords de la falaise. Une vue assez impressionnante sur la vallée où serpente l’Ourthe s’offre à nous. J'avais déjà entrevu la roche depuis le Ravel mais le paysage depuis la falaise est bien plus impressionnant.
 
-{{< photoset >}}
-{{< photo src="DSCF7865.jpg" >}}
-{{< photo src="DSCF7872.jpg" >}}
-{{< photo src="DSCF7889.jpg" >}}
-{{< /photoset >}}
+{{< grid images="DSCF7865.jpg | DSCF7872.jpg | DSCF7889.jpg" >}}
 
 On est le long d’un chemin entouré d'arbres. La balade dans les bois peut se prolonger mais on a peu de temps et décide de couper. La carte semble nous le permettre, on arrive le long d’une petite route que l’on suivra jusqu’à pouvoir re rentrer dans la forêt pour finir la boucle.
 
-{{< photoset max="2" >}}
-{{< photo src="DSCF7890.jpg" >}}
-{{< photo src="DSCF7898.jpg" >}}
-{{< /photoset >}}
+{{< grid images="DSCF7890.jpg | DSCF7898.jpg" >}}
 
 Cette partie boisée offre quelques installations que l’on peut louer sans doute pour faire un bon barbecue ou fêter un anniversaire. On y croise pas mal de monde au départ mais en continuant, on retrouve la quiétude de nos forêts.
 

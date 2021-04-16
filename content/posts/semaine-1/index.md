@@ -39,10 +39,7 @@ Une nouvelle aventure. S’inscrire à la mairie. Ah non, c’était juste chang
 
 Enfin sauf si tu ouvres ton compte au bar tabac, ce RIB la n’ouvre pas toutes les portes... on attend toujours pour ouvrir ces portes... mais parfois un IBAN SEPA ça suffit... Merci la simplicité. Mais je m’égare...
 
-{{< photoset max="2" >}}
-{{< photo src="semaine-1-2.jpg" >}}
-{{< photo src="semaine-1-3.jpg" >}}
-{{</ photoset >}}
+{{< grid images="semaine-1-2.jpg | semaine-1-3.jpg" >}}
 
 Première nuit, mal dormi, petit lit mais pas un bruit... même pas de fond. Réveil avec les oiseaux. Il fait beau.
 
@@ -69,38 +66,10 @@ _PS: Je sais que je suis tard pour la première semaine_
 
 **Un petit florilège de ce que j'ai posté en story instagram**
 
-{{< photoset max="3" >}}
-{{< photo src="IMG_1241.jpg" >}}
-{{< photo src="IMG_1239.jpg" >}}
-{{< photo src="IMG_1240.jpg" >}}
-{{</ photoset >}}
-{{< photoset max="3" >}}
-{{< photo src="IMG_1263.jpg" >}}
-{{< photo src="IMG_1242.jpg" >}}
-{{< photo src="IMG_1254.jpg" >}}
-{{</ photoset >}}
-{{< photoset max="3" >}}
-{{< photo src="IMG_1300.jpg" >}}
-{{< photo src="IMG_1266.jpg" >}}
-{{< photo src="IMG_1301.jpg" >}}
-{{</ photoset >}}
-{{< photoset max="2" >}}
-{{< photo src="IMG_1345.jpg" >}}
-{{< photo src="IMG_1341.jpg" >}}
-{{</ photoset >}}
-{{< photoset max="3" >}}
-{{< photo src="IMG_1257.jpg" >}}
-{{< photo src="IMG_1336.jpg" >}}
-{{< photo src="IMG_1338.jpg" >}}
-{{</ photoset >}}
-{{< photoset max="3" >}}
-{{< photo src="IMG_1255.jpg" >}}
-{{< photo src="IMG_1221.jpg" >}}
-{{< photo src="IMG_1339.jpg" >}}
-{{</ photoset >}}
-{{< photoset max="3" >}}
-{{< photo src="IMG_1315.jpg" >}}
-{{< photo src="IMG_1316.jpg" >}}
-{{< photo src="IMG_1231.jpg" >}}
-
-{{</ photoset >}}
+{{< grid images="IMG_1241.jpg | IMG_1239.jpg | IMG_1240.jpg" >}}
+{{< grid images="IMG_1263.jpg | IMG_1242.jpg | IMG_1254.jpg" >}}
+{{< grid images="IMG_1300.jpg | IMG_1266.jpg | IMG_1301.jpg" >}}
+{{< grid images="IMG_1345.jpg | IMG_1341.jpg" >}}
+{{< grid images="IMG_1257.jpg | IMG_1336.jpg | IMG_1338.jpg" >}}
+{{< grid images="IMG_1255.jpg | IMG_1221.jpg | IMG_1339.jpg" >}}
+{{< grid images="IMG_1315.jpg | IMG_1316.jpg | IMG_1231.jpg" >}}

@@ -77,7 +77,4 @@ Pour les plus jeunes, vous pouvez vous limiter à des tours poussettes friendly.
 Le but est toujours de s'amuser et de prendre l'air. Trouvez un équilibre et profitez. Découvrez ensemble. Observez la nature et vos marmots. On a toujours quelque chose à apprendre de eux.
 
 {{< photo src="2.jpg" alt="le randonneur" >}}
-{{< photoset max="2" >}}
-{{< photo src="3.jpg" alt="en vadrouille" >}}
-{{< photo src="1.jpg" alt="en vadrouille" >}}
-{{< /photoset >}}
+{{< grid images="3.jpg | 1.jpg" >}}

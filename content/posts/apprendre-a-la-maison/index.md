@@ -22,19 +22,13 @@ Pour compléter, on passait à la bibliothèque. On ne peut plus pour le moment.
 
 On a découvert les nouveaux ["c'est toujours pas sorcier"](https://www.france.tv/enfants/neuf-douze-ans/ctps/). Tom les a dévoré. On a donc pu lui faire découvrir [les anciens](https://www.youtube.com/user/cestpassorcierftv), en diffusion libre sur Youtube! Tom découvre donc Fred, Jamy et Sabine. Quel plaisir de pouvoir les revoir.
 
-{{< photoset always="2">}}
-{{< photo src="cps.jpg" alt="c'est pas sorcier" >}}
-{{< photo src="ctps.jpg" alt="c'est toujours pas sorcier" >}}
-{{</ photoset >}}
+{{< grid images="cps.jpg | ctps.jpg" >}}
 
 En fait, France TV a de superbes autres vidéos. Cette semaine, nous avons découvert ["Baam! De l'art dans les épinards"](https://www.france.tv/enfants/neuf-douze-ans/baam-de-l-art-dans-les-epinards/). On a, en suite, décidé de copier les oeuvres. Tom avait choisi "La nuit étoilée" de Van Gogh. Même les parents apprennent dans ces moments-là. Cela donne de super moments d'échange.
 
 {{< photo src="IMG_5542.jpg" alt="nuit étoilée" >}}
 
-{{< photoset max="2">}}
-{{< photo src="IMG_5541.jpg" alt="nuit étoilée" >}}
-{{< photo src="IMG_5540.jpg" alt="nuit étoilée" >}}
-{{</ photoset >}}
+{{< grid images="IMG_5541.jpg | IMG_5540.jpg" >}}
 
 Dans l'apprentissage imprévu, comme beaucoup, nous avons acheté Animal Crossing. Cloé et moi sommes de grands fans de la série. On y jouait à notre rencontre, on y joue toujours. Et là, vous allez me dire: "Des jeux vidéos pour les enfants, non!". Mais en fait, j'ai appris énormément sur les poissons, insectes et fossiles dans ce jeu. Tom commence à reconnaitre les papillons du jardin grâce à ce jeu. Et pareil pour les poissons. Je vous le conseille totalement!.
 

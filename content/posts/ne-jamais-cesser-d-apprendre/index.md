@@ -20,10 +20,7 @@ J’ai toujours été attiré par la photographie, je suis passé d’un reflex 
 
 Avec le temps et les vadrouilles, l'appareil était toujours avec moi. Je prenais de plus en plus de photos. J’avais envie de devenir meilleur. J’ai donc commencé des formations en ligne. J’ai commencé par un cours reprenant toutes les bases sur [Udemy](https://www.udemy.com/photography-masterclass-complete-guide-to-photography/). Un bon rappel pour certains cours et des passages qui renforcent les bases ou amènent de nouvelles connaissances.
 
-{{< photoset max="2" >}}
-  {{< photo src="3.jpg" >}}
-  {{< photo src="4.jpg" >}}
-{{</ photoset >}}
+{{< grid images="3.jpg | 4.jpg" >}}
 
 
 Ce n'était pas assez. Il manquait quelque chose dans cette théorie. J’aime beaucoup les gens passionnés. J’adore apprendre de gens qui exaltent leur passion. Qui sont comme possédés par celle-ci. J’ai découvert le boulot de [Alex Strohl](http://www.alexstrohl.com). Il avait sorti un [premier workshop](https://workshop.alexstrohl.com), une vraie révélation! Il transmet sa passion de la photo d’aventure et retranscrit cela d’une manière qui me parle. Il n’a pas fallu longtemps avant qu’il ne sorte un [second en été](http://summer.alexstrohl.com).

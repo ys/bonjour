@@ -4,7 +4,7 @@
   {{ $columnsslice := split $row "|" }}
   {{ $columns := dict }}
   {{ range $columnIndex, $column := $columnsslice }}
-    {{ $imagesslice := split $column "-" }}
+    {{ $imagesslice := split $column " - " }}
     {{ $images := slice }}
     {{ range $imagesslice }}
         {{ $name := trim . " " }}

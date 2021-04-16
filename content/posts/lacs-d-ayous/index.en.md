@@ -31,11 +31,7 @@ Stop at the bakery. A lady grabs her bread while the waitress is preparing our s
 
 Time to grind the beans and get the water hot. A good coffee is mandatory to start the day. A good breakfast will be served to get ready for the hike. You need energy to get up there they said. Looks like the path will be steep. We already got some altitude change during the week with Tom. It doesn't scare us. We are excited! Only downside, we won't be able to continue after the refuge with Oggy. You are not allowed to enter the national park with dogs. It is going to be a round trip.
 
-{{< photoset max="3" >}}
-  {{< photo src="3.jpg" alt="cloe" >}}
-  {{< photo src="4.jpg" alt="Cloe et Tom" >}}
-  {{< photo src="5.jpg" alt="Tom" >}}
-{{</ photoset >}}
+{{< grid images="3.jpg | 4.jpg | 5.jpg" >}}
 
 From Edgar, we already have a scenic view. We start slowly up to a wonderful plateau with cows roaming freely. A great place right before entering the woods and following the cairns to not get lost. Actually, you can just follow people, it is summer and many folks had the same idea. People are cheering on the 5 year old as he passes by.
 
@@ -43,10 +39,7 @@ Once we exit the woods, the panorama is breathtaking and stays that way until we
 
 {{< photo src="6.jpg" class="vertical" >}}
 
-{{< photoset max="2" >}}
-  {{< photo src="7.jpg" alt="moutons" >}}
-  {{< photo src="8.jpg" alt="moutons" >}}
-{{</ photoset >}}
+{{< grid images="7.jpg | 8.jpg" >}}
 
 
 We see people packing their tent. They are getting ready to continue their hike or to wander around the lake. We chat with a couple that arrived via the pic the day before. It is their day off. They described vividly the rest of the loop. It will bring Cloé to convince me to finish it alone while she take walk back with Tom and Oggy. We take a look at the map, we should arrive about the same time where we saw the cows.
@@ -56,11 +49,7 @@ Let's go, I leave the refuge behind me after filling my water bottle. Time to cl
 
 {{< photo src="cover" alt="refuge d'ayous" >}}
 
-{{< photoset max="3" >}}
-  {{< photo src="10.jpg" alt="vue de la vallée" >}}
-  {{< photo src="11.jpg" alt="Jean Pierre" >}}
-  {{< photo src="12.jpg" alt="des marcheurs" >}}
-{{</ photoset >}}
+{{< grid images="10.jpg | 11.jpg | 12.jpg" >}}
 
 After climbing down, my legs are aching a bit and I feel less adventurous. I am glad it is mostly flat til our meeting point. I will see pigs roaming freely and Tom won't believe me. Glad I took a picture to show him. Getting near to the rendez-vous, I see a little bud waving at me. They arrived a bit before me. Time to get back to the car. Actually, one last stop at the small snack serving pancakes and beers. It won't be the best one for someone living now in Brittany (It is a specialty here) but it will be satisfying anyway. Specially because it comes with a nice local beer.
 
