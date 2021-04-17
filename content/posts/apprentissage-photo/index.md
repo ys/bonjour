@@ -3,6 +3,7 @@ title: "Apprendre encore et toujours"
 subtitle: "Livres et workshops sur la photo argentique et le storytelling"
 date: 2020-12-11T21:36:20+01:00
 draft: false
+skipArchives: true
 tags:
 - photo
 - argentique

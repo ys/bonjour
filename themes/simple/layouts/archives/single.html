@@ -1,8 +1,11 @@
 {{ define "main" }}
 {{ $allimages := slice }}
 {{ range $index, $page := .Site.RegularPages.ByDate.Reverse}}
-  {{ range $page.Resources.ByType "image" }}
-    {{ $allimages = $allimages | append (dict "Image" . "Lofi" true "Link" $page.RelPermalink "Date" $page.Date ) }}
+  {{ if $page.Params.skipArchives }}
+  {{ else }}
+    {{ range $page.Resources.ByType "image" }}
+      {{ $allimages = $allimages | append (dict "Image" . "Lofi" true "Link" $page.RelPermalink "Date" $page.Date ) }}
+    {{ end }}
   {{ end }}
 {{ end }}
 {{ $rows := dict }}
@@ -18,8 +21,9 @@
 {{ end }}
 {{ partial "article_header" . }}
 <div class="mb-10 font-ffserif content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
-  <div class="post">
-  {{ partial "grid" $rows }}
+  <div  class="post">
+    {{.Content}}
   </div>
+  {{ partial "grid" $rows }}
 </div>
 {{ end }}

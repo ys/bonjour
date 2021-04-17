@@ -6,6 +6,7 @@ description: Workflow et technologies derrière yannickschutz.com
 categories:
 - journal
 date: 2021-02-16T18:57:50+02:00
+skipArchives: true
 resources:
 - src: "*.png"
 slug: "/derriere-le-rideau"

@@ -2,6 +2,7 @@
 title: Apprendre à la maison
 subtitle: "L'école en plein confinement"
 emoji: 🏫
+skipArchives: true
 color: teal
 date: 2020-04-12 07:03:03 +0200
 resources:
