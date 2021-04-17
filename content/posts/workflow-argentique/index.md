@@ -3,6 +3,7 @@ title: "Comment trier, ranger et annoter vos scans"
 subtitle: "Petit manuel numérique à l'attention du photographe argentique ordonné"
 date: 2021-01-31T12:24:02+01:00
 draft: false
+skipArchives: true
 tags: 
 - lightroom
 - argentique

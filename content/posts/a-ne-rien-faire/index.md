@@ -26,10 +26,7 @@ Cette semaine, avec Tom, on a fait nos premiers semis. On a planté piments, cou
 
 {{< photo src="4.jpg" alt="jardin" >}}
 
-{{< photoset max="2">}}
-{{< photo src="3.jpg" alt="jardin" >}}
-{{< photo src="2.jpg" alt="jardin" >}}
-{{</ photoset >}}
+{{< grid images="3.jpg | 2.jpg" >}}
 
 Après avoir vu de plus en plus de monde faire son propre pain, dont une super recette chez [Grégory](https://gregorymignard.com/microposts/2020-03-28/), on s’y est remis aussi. C’était souvent Cloé et j’ai donc pris le temps de faire mon premier pain. Pris le temps de le pétrir à la main malgré la présence du Kitchen Aid. Mais le pain qui me fait toujours envie est au levain. J’ai donc suivi le super site de [The perfect loaf](http://theperfectloaf.com) pour commencer mon levain. On verra ce que cela donne.
 

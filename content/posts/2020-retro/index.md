@@ -18,10 +18,7 @@ resources:
 2020, quelle année! J'ai commencé une rétro un peu dans [ma petite lettre #7](https://tinyletter.com/bonjouryannick/letters/bonjour-7). Chaque année, j'aime revenir sur mon année, que ce soit ici ou dans un carnet. Puis revenir sur mon année en photos pour en faire un joli bouquin pour la bibliothèque. Cette année est assez particulière, il faut bien l'avouer.
 
 
-{{< photoset max="2">}}
-{{< photo src="IMG_5014.jpg" alt="ios de nouvel an" >}}
-{{< photo src="IMG_5006.jpg" alt="ios de nouvel an" >}}
-{{</ photoset >}}
+{{< grid images="IMG_5014.jpg | IMG_5006.jpg" >}}
 
 Elle a commencé par une petite baignade du 1er janvier avec des amis. Elle a aussi commencé sans mon fidèle compagnon de début d'année qui était en réparation. Donc j'ai passé un début d'année sans appareil numérique. Elle a d'ailleurs surtout commencée par [un mois de disette numérique](https://yannickschutz.com/un-mois-de-disette/), ce qui veut dire que mon téléphone était principalement un appareil photo. Ce changement assurera le rythme de l'année, une année plus calme, proche de la terre et ralentie. Beaucoup de questions, quelques réponses. Un autre gros changement aussi juste avant la naissance de Louise, j'ai enfin réussi mon permis de conduire, tut tut.
 
@@ -52,10 +49,7 @@ Avoir été sans le X-T3 au début d'année m'a fait beaucoup me questionner sur
 
 Si on a bougé dans le Finistère, c'est aussi parce qu'on avait un projet. Ce projet de changement de vie se peaufine petit à petit. La seconde moitié de 2020 a été le moment où tout est devenu réel. Nous sommes passés devant le notaire pour l'achat d'un terrain d'un hectare qui pourra accueillir nos deux projets. Un projet d'éco cabane et de ferme de fleurs dans les monts d'Arrée. On vous en dira plus l'an prochain. Mais vous pouvez déjà suivre le [compte instagram de Ty Lucie](https://instagram.com/ty.lucie).
 
-{{< photoset max="2">}}
-{{< photo src="11.jpg" alt="potager" >}}
-{{< photo src="13.jpg" alt="potager" >}}
-{{</ photoset >}}
+{{< grid images="11.jpg | 13.jpg" >}}
 
 
 ## Ensuite

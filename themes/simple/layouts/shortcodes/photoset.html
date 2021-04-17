@@ -1,3 +1,0 @@
-<div class="my-6 grid gap-4  {{ if .Get "always" }}grid-cols-{{ .Get "always" }}{{ else }} {{ if .Get "max"}}md:grid-cols-{{ .Get "max" }} grid-cols-1{{ end }}{{ end}}">
-  {{.Inner}}
-</div>

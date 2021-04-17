@@ -1,10 +1,10 @@
 {{ define "main" }}
 {{ partial "article_header" . }}
 <div class="mb-10 content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
-  <div  data-pswp class="post">
+  <div data-pswp class="post">
     {{ $images := .Resources.ByType "image" }}
     {{ $src := $images.GetMatch "*cover*" }}
-    {{ partial "photo" $src }}
+    {{ partial "photo" (dict "Image" $src) }}
     {{ .Content }}
   </div>
   {{ partial "article_camera" . }}

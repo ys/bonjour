@@ -33,23 +33,13 @@ L'école continue le dimanche, on aime apprendre, on aime jouer, on aime créer.
 
 Les mandalas, alignements et autres créations natures me rappellent fortement [un compte instagram](https://www.instagram.com/coldatnight/) que je suis. [Sian](https://www.instagram.com/coldatnight/) vit en Angleterre avec son mari et sont propriétaires de [Fforest](https://www.coldatnight.co.uk). Ils sont un peu une inspiration pour nous. C'est beau, c'est simple et proche de la nature, je vous le suggère fortement!
 
-{{< photoset always="2" >}}
-{{< photo src="DSCF3671.jpg" alt="mandala nature">}}
-{{< photo src="DSCF3672.jpg" alt="mandala nature">}}
-{{</ photoset >}}
+{{< grid images="DSCF3671.jpg | DSCF3672.jpg" >}}
 
 {{< photo src="DSCF3675.jpg" alt="mandala nature">}}
 
-{{< photoset max="2" >}}
-{{< photo src="DSCF3682.jpg" alt="mandala nature">}}
-{{< photo src="DSCF3685.jpg" alt="mandala nature">}}
-{{</ photoset >}}
+{{< grid images="DSCF3682.jpg | DSCF3685.jpg" >}}
 
-{{< photoset max="3" >}}
-{{< photo src="DSCF3703.jpg" alt="mandala nature">}}
-{{< photo src="DSCF3679.jpg" alt="mandala nature">}}
-{{< photo src="DSCF3705.jpg" alt="mandala nature">}}
-{{</ photoset >}}
+{{< grid images="DSCF3703.jpg | DSCF3679.jpg | DSCF3705.jpg" >}}
 
 {{< photo src="DSCF3707.jpg" alt="mandala nature">}}
 

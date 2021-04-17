@@ -4,18 +4,18 @@
   {{ $columnsslice := split $row "|" }}
   {{ $columns := dict }}
   {{ range $columnIndex, $column := $columnsslice }}
-    {{ $imagesslice := split $column "-" }}
+    {{ $imagesslice := split $column " - " }}
     {{ $images := slice }}
     {{ range $imagesslice }}
         {{ $name := trim . " " }}
         {{ if in $name ":" }}
           {{ $ratio := split $name ":" }}
-          {{ $blank := dict "Blank" true "Height" (int (index $ratio 1)) "Width" (int (index $ratio 0)) }}
+          {{ $blank := dict "Blank" true "Image" (dict "Height" (int (index $ratio 1)) "Width" (int (index $ratio 0))) }}
           {{ $images = $images | append $blank }}
         {{ else }}
           {{ $src := $.Page.Resources.GetMatch (printf "*%s*" $name) }}
           {{ if $src }}
-            {{ $images = $images | append $src }}
+            {{ $images = $images | append (dict "Image" $src) }}
           {{ end }}
         {{ end }}
     {{ end }}

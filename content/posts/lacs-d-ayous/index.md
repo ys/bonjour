@@ -33,11 +33,7 @@ Arrêt boulangerie, une dame n'hésite pas à se servir en attendant que la boul
 
 On fait chauffer l’eau, on moud les grains, un bon café est nécessaire. Un petit déj copieux, pour nous préparer à cette randonnée, sera bien vite englouti. Il faut des forces, il paraît que ça grimpe. On a pris pas mal de dénivelé avec Tom cette semaine-là, cela ne nous fait pas peur. Nous avons surtout hâte. Seul bémol, on ne pourra pas passer le refuge avec Oggy. Le parc est interdit aux chiens. On fera donc un aller-retour.
 
-{{< photoset max="3" >}}
-  {{< photo src="3.jpg" alt="cloe" >}}
-  {{< photo src="4.jpg" alt="Cloe et Tom" >}}
-  {{< photo src="5.jpg" alt="Tom" >}}
-{{</ photoset >}}
+{{< grid images="3.jpg | 4.jpg | 5.jpg" >}}
 
 La vue depuis Edgar est déjà un vrai plaisir. On se met calmement en route jusqu’à un plateau magnifique où paissent des vaches. Une vue splendide avant de s’engoufrer dans les bois et suivre les cairns pour ne pas se perdre. En fait, on peut simplement suivre les randonneurs, ces chemins sont bien fréquentés en été. Beaucoup admirent ce petit bout de 5 ans qui les dépasse en montée, les salue et sourit.
 
@@ -46,10 +42,7 @@ Une fois sorti de la forêt, la vue est fantastique et le restera jusqu’aux la
 
 {{< photo src="6.jpg" class="vertical" >}}
 
-{{< photoset max="2" >}}
-  {{< photo src="7.jpg" alt="moutons" >}}
-  {{< photo src="8.jpg" alt="moutons" >}}
-{{</ photoset >}}
+{{< grid images="7.jpg | 8.jpg" >}}
 
 
 On voit des gens replier leurs tentes ou se préparer pour un petit tour dans le coin à la sortie de leur bivouac. On papote avec un couple arrivé par le pic du Midi d’Ossau le jour avant. C’est leur jour de repos. Après leur description de la suite du tour, Cloé me persuade de finir la boucle seul pendant qu’elle redescendra avec Tom. On regarde la carte, sachant que je marche plus vite seul, on devrait arriver environ en même temps au bout de la boucle juste avant la forêt.
@@ -60,11 +53,7 @@ C’est parti, je passe le refuge, remplis ma gourde et grimpe pour pénétrer d
 
 {{< photo src="cover" alt="refuge d'ayous" >}}
 
-{{< photoset max="3" >}}
-  {{< photo src="10.jpg" alt="vue de la vallée" >}}
-  {{< photo src="11.jpg" alt="Jean Pierre" >}}
-  {{< photo src="12.jpg" alt="des marcheurs" >}}
-{{</ photoset >}}
+{{< grid images="10.jpg | 11.jpg | 12.jpg" >}}
 
 
 Arrivé en bas, les jambes sentent la pente et je fais moins le fier. Encore heureux, c’est plat jusqu’au point de rendez-vous. Je verrai des porcs en liberté sur ce plateau. Tom ne me croira pas. En approchant du point de rendez-vous, je vois les gens assis au loin et je vois un petit gars me faire des grands signes. Ils sont arrivés avant moi, mais juste d’une dizaine de minutes. On reprend le chemin jusqu’à la crêperie du point de départ. Pas la meilleure pour un expatrié en Bretagne, mais elle sera satisfaisante après un tel moment. La mousse l’accompagnant passera toute seule.

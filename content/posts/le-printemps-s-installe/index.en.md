@@ -36,11 +36,7 @@ Spring also means that it is time to wander again. We made a 10km walk in the Ro
 
 It is true that we wander all year long. Rainy or not. But it is way nicer when you can stop and picnic. This allows us to spend more time out in those marvelous places we call home. So pleasant to live in a place people spend their vacations in.
 
-{{< photoset max="3" >}}
-{{< photo src="1.jpg" alt="balade dans les Roc'hs" >}}
-{{< photo src="5.jpg" alt="de jolis cailloux" >}}
-{{< photo src="3.jpg" alt="de belles marches" >}}
-{{</ photoset >}}
+{{< grid images="1.jpg | 5.jpg | 3.jpg" >}}
 
 We arrive at the parking that is almost full. It is already 10AM. Two ladies are getting their horses ready for a ride.
 The first part of the hike starts at the parking next to Roc'h Trevezel. We climb it and go south. We won't go to the top today, it is already too crowded. We have a 360 view that is just fantastic. We can almost see the sea. On one side, small villages and the typical hedgerow from the center of Brittany. On the other side, the lake of Saint-Michel and the Yeun Elez. We still need to discover that last one.
@@ -51,16 +47,10 @@ It is almost noon. We enjoy the walk but it is time to eat. We found a big rock 
 
 Second part of the walk is mostly next to the road. This is way less enjoyable. We pass by Botmeur. This is a lovely village which is the start of a lot of hikes around here. We will pass by a group of hikers there. They will be faster than us as we keep stopping and watching things around. We stopped when a group of cows started to follow us in their field. We will also stop to chat with a couple eating next to their van. This makes me envious. It will happen soon enough.
 
-{{< photoset max="2" >}}
-{{< photo src="6.jpg" alt="tom" >}}
-{{< photo src="7.jpg" alt="cloe" >}}
-{{</ photoset >}}
+{{< grid images="6.jpg | 7.jpg" >}}
 
 Oggy catched a weird pink eye like thing during the walk. Not fun for him. He just didn't care and rolled on the floor in the fields to scrub his eye. He must have run too quickly. He is fast! I am happy he started to listen to us more and more. He wasn't on a leash most of the time. He run away from time to time but always come back to us. Especially if he can't see us.
 
 Those 10kms were really a good start of the season. Even if like always, I ended up with sunburns. I cannot wait to make other amazing hikes around here. I cannot wait also to come back on the Roc'hs for sunset and blue hour
 
-{{< photoset max="2" >}}
-{{< photo src="4.jpg" alt="tom" >}}
-{{< photo src="8.jpg" alt="cloe" >}}
-{{</ photoset >}}
+{{< grid images="4.jpg | 8.jpg" >}}

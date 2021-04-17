@@ -19,10 +19,7 @@ Dans ceux-ci, vu la grisaille, je décide de trouver ceux qui sont connectés au
 Et le soleil, on l'avait bien vu en 2012. C'est l'année où nous avions fait 22h de vol pour voir Tahiti.
 Je trouve pas mal de 120, je dois patienter. Mais je tombe aussi sur une petite série noir et blanc sur un film bon marché. Bingo. Testons cela.
 
-{{< photoset always="2" >}}
-{{< photo src="2021-5-3.jpeg" alt="scans" >}}
-{{< photo src="2021-6-3.jpeg" alt="scans" >}}
-{{</ photoset >}}
+{{< grid images="2021-5-3.jpeg | 2021-6-3.jpeg" >}}
 
 Cela me retransporte au soleil, de la vitamine D point jpg.
 

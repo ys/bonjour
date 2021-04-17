@@ -39,10 +39,7 @@ A small beach protected from eyes and wind, better known as Tahiti Beach. Near C
 
 A small hiking trail brings you there, it can lead you to the headland. We have some really dense fog and the Taureau's castle barely visible. The lighthouse comes and goes through the fog. A moody day like the one you can see on the Pacific North West.
 
-{{< photoset max="2" >}}
-{{< photo src="penn-al-lann-10.jpg" >}}
-{{< photo src="penn-al-lann-9.jpg" >}}
-{{< /photoset >}}
+{{< grid images="penn-al-lann-10.jpg | penn-al-lann-9.jpg" >}}
 
 The tide is low, and we can reach a small island without having wet feet. We cross barefoot and climb to the top. Walking all around it and enjoying our time there. Leaving it before the rising tide.
 
@@ -50,10 +47,7 @@ The tide is low, and we can reach a small island without having wet feet. We cro
 
 Shore fishing is going on, and it makes us wished we had a basket. We will need a tool to gauge the shells but we know it, we will be back to forage some of those. It ain't a sunny day, but a few folks are enjoying the water. This makes us want to jump right in.
 
-{{< photoset max="2" >}}
-{{< photo src="penn-al-lann-5.jpg" >}}
-{{< photo src="penn-al-lann-6.jpg" >}}
-{{< /photoset >}}
+{{< grid images="penn-al-lann-5.jpg | penn-al-lann-6.jpg" >}}
 
 We are back on a sunny day to enjoy some part of the GR34 hiking trail. It is another place, we can see the other side, the Black Island castle and all the surroundings.
 We walk til Carantec, making a loop. We walk next to the oyster coast. Discovering the oysters' pools and all the equipment they need. At the end of the road, a small shop is open. We get in. They sell oysters of all calibers and other seafood. The waitress is married to a folk from Liège. Looks like we are invading Brittany. Oysters are delightful, especially with this white wine we got at the shop. We will come back here too.

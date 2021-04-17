@@ -3,22 +3,22 @@
 
 {{ if $src }}
 
-  {{/* set image sizes, these are hardcoded for now, x dictates that images are resized to this width */}}
-
-  {{ $lqipw := default "20x" }}
-  {{ $smallw := default "800x" }}
-  {{ $largew := default "1500x" }}
-
-  {{/* resize the src image to the given sizes */}}
-
-  {{ $lqip := $src.Resize $lqipw }}
-  {{ $small := $src.Resize $smallw }}
-  {{ $large := $src.Resize $largew }}
-
-  {{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
-  {{/* set the sizes attribute to (min-width: 35em) 1200px, 100vw unless overridden in shortcode */}}
-
   <figure class="{{ if .Parent }}{{ else }} my-6 {{end}}">
+    {{/* set image sizes, these are hardcoded for now, x dictates that images are resized to this width */}}
+
+    {{ $lqipw := default "20x" }}
+    {{ $smallw := default "800x" }}
+    {{ $largew := default "1500x" }}
+
+    {{/* resize the src image to the given sizes */}}
+
+    {{ $lqip := $src.Resize $lqipw }}
+    {{ $small := $src.Resize $smallw }}
+    {{ $large := $src.Resize $largew }}
+
+    {{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
+    {{/* set the sizes attribute to (min-width: 35em) 1200px, 100vw unless overridden in shortcode */}}
+
     <picture class="block relative {{ if .Get "no-shadow" }} {{ else}}shadow-lg{{end}} {{ if gt $src.Height $src.Width }} mx-auto w-2/3{{ else }}md:-mx-16{{ end }} img"
       {{ if .Get "no-lqip" }} {{ else }}style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover"{{ end }}>
       <img

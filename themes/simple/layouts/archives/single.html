@@ -1,0 +1,29 @@
+{{ define "main" }}
+{{ $allimages := slice }}
+{{ range $index, $page := .Site.RegularPages.ByDate.Reverse}}
+  {{ if $page.Params.skipArchives }}
+  {{ else }}
+    {{ range $page.Resources.ByType "image" }}
+      {{ $allimages = $allimages | append (dict "Image" . "Lofi" true "Link" $page.RelPermalink "Date" $page.Date ) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ $rows := dict }}
+{{ $columns := dict }}
+{{ range $index, $img := $allimages }}
+  {{ $columns = merge $columns (dict (string (mod $index 5)) (dict "Images" (slice $img)))}}
+  {{ if eq (mod $index 5) 4 }}
+    {{ $rows = merge $rows (dict (string (div $index 5)) $columns) }}
+  {{ end }}
+  {{ if eq (mod $index 5) 0 }}
+    {{ $columns := dict }}
+  {{ end }}
+{{ end }}
+{{ partial "article_header" . }}
+<div class="mb-10 font-ffserif content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
+  <div  class="post">
+    {{.Content}}
+  </div>
+  {{ partial "grid" $rows }}
+</div>
+{{ end }}

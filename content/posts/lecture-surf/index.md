@@ -5,6 +5,7 @@ aliases:
   - "2020-08-01"
 title: "Un peu de lecture salée"
 subtitle: "Deux lectures qui vous donneront envie d'eau"
+skipArchives: true
 emoji: 📚
 tags:
   - surf

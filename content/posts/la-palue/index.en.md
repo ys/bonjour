@@ -36,11 +36,7 @@ summary: "We keep discovering new amazing places around Bretagne (Decided to sto
 
 We keep discovering new amazing places around Bretagne (Decided to stop translating this one after reading Jack Kerouac saying "breton"). We might have seen less than 10% now. We love those new discoveries. We hope also to meet some folks this year to see some secret spots only locals know about. This time, we went to la Palue on the Crozon peninsula. A piece of paradise down on earth.
 
-{{< photoset >}}
-{{< photo src="_DSF2367.jpg" >}}
-{{< photo src="_DSF2435.jpg" >}}
-{{< photo src="_DSF2518.jpg" >}}
-{{</ photoset >}}
+{{< grid images="_DSF2367.jpg | _DSF2435.jpg | _DSF2518.jpg" >}}
 
 It wasn’t a sunny day. It happens. We park next to a van. A wetsuit is drying on it. We are at the right place. This beach is known for its surf. We pass by a German surfer here for a few days and having his car for a home. We walk down to the beach, crossing paths with a windsurfer running to the ocean. The call of the sea, I guess.
 

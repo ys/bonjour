@@ -18,19 +18,13 @@ Je ne me suis jamais senti autant connecté à Mère Nature. Cela fait maintenan
 
 Depuis notre déménagement en Bretagne, nous avons une connection encore plus profonde avec la nature. Même durant la pause de midi, on peut partir pour une balade à travers champs. On passe aussi beaucoup plus de temps au jardin. La pluie ne nous arrête pas du tout, elle nous permet simplement de découvrir les choses différement. La terre est magnifique sous le soleil mais pas seulement.
 
-{{< photoset max="2" >}}
-  {{< photo src="living-outdoor.jpg" >}}
-  {{< photo src="living-outdoor-2.jpg" >}}
-{{< /photoset >}}
+{{< grid images="living-outdoor.jpg | living-outdoor-2.jpg" >}}
 
 La cueillette, ca nous connait. Depuis aout, on a fait notre propre liqueur, différentes confitures avec tous les fruits que nous trouvions et pour Noel, Cloé a même fait de magnifiques décorations avec ce que nous trouvions dehors. J'ai hâte d'en apprendre plus sur les plantes comestibles, la cueillette aux champignons et les fruits que la nature a à partager.
 
 Découvrir l'intérieur des terres, moins connue que la côte bretonne, est quelque chose que j'apprécie particulièrement. Pleine de surprises et de paysages variés et divers; des forêts, des rochers, des champs, des landes et autres
 
-{{< photoset max="2" >}}
-  {{< photo src="living-outdoor-4.jpg" >}}
-  {{< photo src="living-outdoor-8.jpg" >}}
-{{< /photoset >}}
+{{< grid images="living-outdoor-4.jpg | living-outdoor-8.jpg" >}}
 
 Vivre aussi près de la mer nous permet de payer une visite à la déesse des mers aussi souvent que notre corps nous réclame une bonne bouffée d'air saline. Je suis tombé amoureux de ces côtes sauvages et j'adore les photographier autant que possible. Je pense de plus en plus à nager dans ses eaux froides, même en hiver. J'espère aussi prendre le temps pour apprendre à surfer
 

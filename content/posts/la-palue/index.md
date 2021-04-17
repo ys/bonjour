@@ -37,11 +37,7 @@ summary: "On continue les découvertes des chouettes lieux de la Bretagne. Cette
 
 On continue les découvertes des chouettes lieux de la Bretagne. Cette région n'a toujours pas tout montré, pas même 10% je pense. On adore continuer à la découvrir! On espère aussi faire de chouettes rencontres humaines cette année pour découvrir des lieux secrets. Cette fois-ci, c'est la plage de la Palue sur la presqu'île de Crozon. Un vrai petit coin de paradis sur terre encore une fois.
 
-{{< photoset >}}
-{{< photo src="_DSF2367.jpg" >}}
-{{< photo src="_DSF2435.jpg" >}}
-{{< photo src="_DSF2518.jpg" >}}
-{{</ photoset >}}
+{{< grid images="_DSF2367.jpg | _DSF2435.jpg | _DSF2518.jpg" >}}
 
 Comme parfois, la météo n’était pas des plus clémentes. On arrive, on se gare, une combi de surf sèche sur le van à côté de nous. C’est sûr, on est au bon endroit. Cette plage est connue pour son surf. On croisera un allemand venu se poser quelques jours avec son break pour maison et la mer comme terrain de jeu. On descend vers la plage. On croise un véliplanchiste courant vers l’océan. L’appel de la mer, je suppose.
 

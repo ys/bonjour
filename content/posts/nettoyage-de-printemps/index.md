@@ -20,10 +20,7 @@ Il s’en est passé des choses depuis la dernière note ici bas. Le confinement
 
 Le jardin se réveille et on a plein de choses à faire. Planter les premiers légumes, fendre le bois, ranger le bois, petits travaux et préparer l’abris pour les longues soirées d’été. Que de plaisir. On ne pensait pas avoir autant de temps pour ceci, mais il est le bienvenu!
 
-{{< photoset always="2" >}}
-{{< photo src="1.jpg" alt="chariot">}}
-{{< photo src="2.jpg" alt="chariot">}}
-{{</ photoset >}}
+{{< grid images="1.jpg | 2.jpg" >}}
 
 On a fait abattre deux lauriers et un cèdre malade sur la parcelle. Fendre tout cela me prendra du temps mais comme on dit, le bois chauffe au moins 4 fois. A la coupe, au fendage, au rangement et enfin dans la cheminée. Cela fera de la place pour mon cabanon de travail du fond de jardin. D’ailleurs je récolte les idées sur [tylucie.fr/micro](https://tylucie.fr/micro). Si vous en avez d'autres, envoyez!
 

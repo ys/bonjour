@@ -17,19 +17,13 @@ I never felt so connected to Mother Earth. It has been a few years now that most
 
 Since our move to Brittany, we have an even deeper connection with nature. We can go for a nice walk across the fields during lunch and we spend way more time in our garden. Rain doesn't stop us at all, it just allows us to discover things differently. Land is beautiful under the sun but not only.
 
-{{< photoset max="2" >}}
-  {{< photo src="living-outdoor.jpg" >}}
-  {{< photo src="living-outdoor-2.jpg" >}}
-{{< /photoset >}}
+{{< grid images="living-outdoor.jpg | living-outdoor-2.jpg" >}}
 
 We started foraging a lot. Since august, we made our own fruit alcohol, made various jams with all the fruits we could find around and for Christmas, Cloe even did amazing decorations with  what we found outside. I cannot wait to learn more about all the comestible plants, mushrooms and various fruits nature has to share.
 
 Discovering the inner land, less known that the Brittany coast, is something I particularly enjoy. It is full of surprises and various landscapes, forests, rocks, grass fields, moors and others.
 
-{{< photoset max="2" >}}
-  {{< photo src="living-outdoor-4.jpg" >}}
-  {{< photo src="living-outdoor-8.jpg" >}}
-{{< /photoset >}}
+{{< grid images="living-outdoor-4.jpg | living-outdoor-8.jpg" >}}
 
 Living so close to the sea allows us to pay the goddess of the sea a visit every time we feel like we need a big puff of salty air. I fell in love with the wild coast of Brittany and love taking pictures out there. I now think more and more about swimming in the ocean even in winter. I hope I will find the time to learn surfing.
 
