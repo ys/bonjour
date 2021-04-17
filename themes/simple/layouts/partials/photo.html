@@ -21,10 +21,13 @@
       data-zoom-src="{{ $src.RelPermalink}}"
       sizes="auto"
       srcset='
-      {{ if ge $src.Width "300" }}
-        {{ with $rsmall.RelPermalink }}{{.}} 300w{{ end }}
-      {{ end }}
       {{ if .Lofi }}
+        {{ if ge $src.Width "300" }}
+          {{ with $rsmall.RelPermalink }}{{.}} 300w{{ end }}
+        {{ end }}
+        {{ if ge $src.Width "800" }}
+          {{ with $small.RelPermalink }}{{.}} 800w{{ end }}
+        {{ end }}
       {{ else}}
         {{ if ge $src.Width "800" }}
           {{ with $small.RelPermalink }}{{.}} 800w{{ end }}
