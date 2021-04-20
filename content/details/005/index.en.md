@@ -1,5 +1,5 @@
 ---
-title: "005 — Around the GR35"
+title: "005 — Around the GR34"
 slug: "005"
 emoji: 👀
 letter: detail
