@@ -1,6 +1,7 @@
 ---
 title: "New year, new wave"
-grid: "1 | 2 | 3"
+grid: "1 / 2 / 3"
+subtitle: "40€"
 ---
 
 

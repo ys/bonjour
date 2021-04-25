@@ -1,7 +1,7 @@
 {{ partial "article_header" . }}
-<div data-pswp class="mb-10 font-ffserif content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
+<div data-pswp class="{{ if eq .Type "shop" }}flex flex-col md:flex-row md:-mx-32 {{ end }}mb-10 font-ffserif content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
   {{ with .Params.grid }}
-    <div  class="grid">
+    <div  class="grid w-4/6">
       {{ $rowsslice := split . "/" }}
       {{ $rows := dict }}
       {{ range $rowIndex, $row := $rowsslice}}
@@ -30,7 +30,7 @@
       {{ partial "grid" $rows }}
     </div>
   {{ end }}
-  <div  class="post">
+  <div  class="post {{if eq .Type "shop" }}w-2/6 pl-2 {{end}}">
     {{.Content}}
   </div>
   {{ if eq .Type "newsletter" }}
