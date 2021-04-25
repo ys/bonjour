@@ -1,6 +1,6 @@
 ---
 title: "New year, new wave"
-grid: "cover | 65 | 66"
+grid: "1 | 2 | 3"
 ---
 
 
