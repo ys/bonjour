@@ -214,8 +214,7 @@ hr {
 	As animating opacity is much faster than animating rgba() background-color.
 */
 .pswp__bg {
-  background: rgba(255,255,255,0.7);
-  backdrop-filter: blur(5px);
+  @apply bg-white dark:bg-darker bg-opacity-60 backdrop-filter backdrop-blur-md;
   position: absolute;
   left: 0;
   top: 0;
