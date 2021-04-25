@@ -214,7 +214,8 @@ hr {
 	As animating opacity is much faster than animating rgba() background-color.
 */
 .pswp__bg {
-  @apply bg-white dark:bg-darker;
+  background: rgba(255,255,255,0.7);
+  backdrop-filter: blur(5px);
   position: absolute;
   left: 0;
   top: 0;
@@ -234,7 +235,6 @@ hr {
   height: 100%;
   overflow: hidden; }
 
-.pswp__container,
 .pswp__zoom-wrap {
   -ms-touch-action: none;
   touch-action: none;
@@ -243,6 +243,14 @@ hr {
   right: 0;
   top: 0;
   bottom: 0; }
+.pswp__container {
+  -ms-touch-action: none;
+  touch-action: none;
+  position: absolute;
+  left: 40px;
+  right: 40px;
+  top: 40px;
+  bottom: 40px; }
 
 /* Prevent selection and tap highlights */
 .pswp__container,
