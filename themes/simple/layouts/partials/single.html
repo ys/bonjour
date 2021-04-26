@@ -32,6 +32,7 @@
   {{ end }}
   <div  class="post {{if eq .Type "shop" }}w-2/6 pl-8 {{end}}">
     {{.Content}}
+    <div id="product"></div>
   </div>
   {{ if eq .Type "newsletter" }}
     <h2 class="text-xl font-semibold text-darker dark:text-gray-100">Lisez la dernière</h2>
@@ -48,3 +49,53 @@
     </div>
   {{ end }}
 </div>
+{{ if eq .Type "shop" }}
+<script type="text/javascript">
+/*<![CDATA[*/
+(function () {
+ var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+ if (window.ShopifyBuy) {
+  if (window.ShopifyBuy.UI) {
+    ShopifyBuyInit();
+  } else {
+ loadScript();
+ }
+ } else {
+ loadScript();
+ }
+ function loadScript() {
+ var script = document.createElement('script');
+ script.async = true;
+ script.src = scriptURL;
+ (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+ script.onload = ShopifyBuyInit;
+ }
+ function ShopifyBuyInit() {
+ var client = ShopifyBuy.buildClient({
+   domain: '{{ .Site.Params.shopify.name }}.myshopify.com',
+   storefrontAccessToken: '{{- .Site.Params.shopify.accessToken -}}',
+});
+ShopifyBuy.UI.onReady(client).then(function (ui) {
+    ui.createComponent('product', {
+      id: '{{ .Params.productID }}',
+node: document.getElementById('product'),
+moneyFormat: '%E2%82%AC%7B%7Bamount_with_comma_separator%7D%7D',
+options: {
+  product: {
+    iframe: false,
+    buttonDestination: "checkout",
+    contents: {
+    title: false,
+    },
+    text: {
+      button: "Buy now"
+    }
+  }
+}
+  });
+});
+}
+})();
+/*]]>*/
+</script>
+{{ end }}

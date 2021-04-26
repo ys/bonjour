@@ -24,6 +24,9 @@ disableKinds = ["taxonomyTerm"]
   hasLogo = false
   emoji = "🌊"
   arrow = "—"
+[params.shopify]
+  name = "bonjouryannick"
+  accessToken = "007164808912ba32f38a95e6187b1961"
 [params.fathom]
   domain = "yannickschutz.com"
   siteID = "OIPUYMFX"
