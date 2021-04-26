@@ -21,10 +21,6 @@
      * them to Checkout.
      */
     stripe.redirectToCheckout({
-      shippingRates: ["{{- .Site.Params.stripe.shipping -}}"],
-      shipping_address_collection: {
-        allowed_countries: ['US', 'CA', 'BE', 'FR', 'ES', 'UK', 'AU', 'DE', 'NL'],
-      },
       lineItems: [{price: '{{- .Params.stripeID -}}', quantity: 1}],
       mode: 'payment',
       /*
