@@ -12,7 +12,7 @@
 
 <script>
 (function() {
-  var stripe = Stripe('{{ .Site.Params.stripe.key }}');
+  var stripe = Stripe({{ .Site.Params.stripe.key }});
 
   var checkoutButton = document.getElementById('checkout-button');
   checkoutButton.addEventListener('click', function () {
@@ -21,17 +21,10 @@
      * them to Checkout.
      */
     stripe.redirectToCheckout({
-      lineItems: [{price: '{{- .Params.stripeID -}}', quantity: 1}],
+      lineItems: [{price: {{ .Params.stripeID }}, quantity: 1}],
       mode: 'payment',
-      /*
-       * Do not rely on the redirect to the successUrl for fulfilling
-       * purchases, customers may not always reach the success_url after
-       * a successful payment.
-       * Instead use one of the strategies described in
-       * https://stripe.com/docs/payments/checkout/fulfill-orders
-       */
-      successUrl: "{{ .RelPermalink | absURL | safeJS }}",
-      cancelUrl: "{{ .RelPermalink | absURL | safeJS }}",
+      successUrl: {{ .RelPermalink | absURL }},
+      cancelUrl: {{ .RelPermalink | absURL }},
     })
     .then(function (result) {
       if (result.error) {
