@@ -31,8 +31,8 @@
        * Instead use one of the strategies described in
        * https://stripe.com/docs/payments/checkout/fulfill-orders
        */
-      successUrl: "{{ .RelPermalink | absURL }}",
-      cancelUrl: "{{ .RelPermalink | absURL }}",
+      successUrl: "{{ .RelPermalink | absURL | safeJS }}",
+      cancelUrl: "{{ .RelPermalink | absURL | safeJS }}",
     })
     .then(function (result) {
       if (result.error) {
