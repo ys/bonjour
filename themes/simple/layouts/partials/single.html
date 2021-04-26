@@ -131,7 +131,7 @@ options: {
      * them to Checkout.
      */
     stripe.redirectToCheckout({
-      shippingRates: ["{{.Site.Params.stripe.shipping}}"]
+      shippingRates: ["{{.Site.Params.stripe.shipping}}"],
       lineItems: [{price: '{{ .Params.stripePrice }}', quantity: 1}],
       mode: 'payment',
       /*
@@ -141,8 +141,8 @@ options: {
        * Instead use one of the strategies described in
        * https://stripe.com/docs/payments/checkout/fulfill-orders
        */
-      successUrl: window.location.protocol + '//yannickschutz.com/success',
-      cancelUrl: window.location.protocol + '//yannickschutz.com/canceled',
+      successUrl: "{{ .RelPermalink | absURL }}",
+      cancelUrl: "{{ .RelPermalink | absURL }}",
     })
     .then(function (result) {
       if (result.error) {
