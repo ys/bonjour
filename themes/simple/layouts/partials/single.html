@@ -30,7 +30,7 @@
       {{ partial "grid" $rows }}
     </div>
   {{ end }}
-  <div  class="post {{if eq .Type "shop" }}w-2/6 pl-2 {{end}}">
+  <div  class="post {{if eq .Type "shop" }}w-2/6 pl-8 {{end}}">
     {{.Content}}
   </div>
   {{ if eq .Type "newsletter" }}
