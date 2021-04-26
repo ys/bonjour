@@ -2,9 +2,7 @@
 title: "New year, new wave"
 grid: "cover"
 subtitle: "50€"
-productID: "6640801317040"
-stripe: true
-stripePrice: "price_1IkVAdFaA8Wpl3EpzAtyFMfE"
+stripeID: "price_1IkVAdFaA8Wpl3EpzAtyFMfE"
 ---
 
 

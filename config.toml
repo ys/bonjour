@@ -27,9 +27,6 @@ disableKinds = ["taxonomyTerm"]
 [params.stripe]
   key = "pk_live_51IkUQkFaA8Wpl3EpMpvlAmMmPpUd01DC9lQhm4EmjE2riwTzkQn5frrtnlet2bL5sqXdzP1eTnpp7fbwUytfvUDd0093FkdcTD"
   shipping = "shr_1IkYnWFaA8Wpl3Ep1BqvXP4y"
-[params.shopify]
-  name = "bonjouryannick"
-  accessToken = "007164808912ba32f38a95e6187b1961"
 [params.fathom]
   domain = "yannickschutz.com"
   siteID = "OIPUYMFX"

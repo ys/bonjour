@@ -32,23 +32,20 @@
   {{ end }}
   <div  class="post {{if eq .Type "shop" }}md:w-2/6 md:pl-8 {{end}}">
     {{.Content}}
-{{ if .Params.stripe }}
-<!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
-<button
-  class="font-sans w-full mt-4 bg-accent-500 hover:bg-accent-600 rounded-sm transition duration-500 ease-in-out text-white font-bold py-2 m-0 -ml-4 md:ml-0 appearance-none px-4 cursor-pointer"
-  id="checkout-button"
-  role="link"
-  type="button"
->
-  Buy now
-</button>
+    {{ if .Params.stripeID }}
+      <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
+      <button
+        class="font-sans w-full mt-4 bg-accent-500 hover:bg-accent-600 rounded-sm transition duration-500 ease-in-out text-white font-bold py-2 m-0 -ml-4 md:ml-0 appearance-none px-4 cursor-pointer"
+        id="checkout-button"
+        role="link"
+        type="button"
+      >
+        Buy now
+      </button>
 
-<div id="error-message"></div>
+      <div id="error-message"></div>
 
-{{ end }}
-{{ if .Params.shopify }}
-    <div id="product"></div>
-{{ end }}
+    {{ end }}
   </div>
   {{ if eq .Type "newsletter" }}
     <h2 class="text-xl font-semibold text-darker dark:text-gray-100">Lisez la dernière</h2>
@@ -65,96 +62,4 @@
     </div>
   {{ end }}
 </div>
-{{ if .Params.shopify }}
-<script type="text/javascript">
-/*<![CDATA[*/
-(function () {
- var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
- if (window.ShopifyBuy) {
-  if (window.ShopifyBuy.UI) {
-    ShopifyBuyInit();
-  } else {
- loadScript();
- }
- } else {
- loadScript();
- }
- function loadScript() {
- var script = document.createElement('script');
- script.async = true;
- script.src = scriptURL;
- (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
- script.onload = ShopifyBuyInit;
- }
- function ShopifyBuyInit() {
- var client = ShopifyBuy.buildClient({
-   domain: '{{ .Site.Params.shopify.name }}.myshopify.com',
-   storefrontAccessToken: '{{- .Site.Params.shopify.accessToken -}}',
-});
-ShopifyBuy.UI.onReady(client).then(function (ui) {
-    ui.createComponent('product', {
-      id: '{{ .Params.productID }}',
-node: document.getElementById('product'),
-moneyFormat: '%E2%82%AC%7B%7Bamount_with_comma_separator%7D%7D',
-options: {
-  product: {
-    iframe: false,
-    buttonDestination: "checkout",
-    contents: {
-    title: false,
-    },
-    text: {
-      button: "Buy now"
-    }
-  }
-}
-  });
-});
-}
-})();
-/*]]>*/
-</script>
-{{ end }}
 
-{{ if .Params.stripe }}
-<!-- Load Stripe.js on your website. -->
-<script src="https://js.stripe.com/v3"></script>
-
-<script>
-(function() {
-  var stripe = Stripe('{{ .Site.Params.stripe.key }}');
-
-  var checkoutButton = document.getElementById('checkout-button');
-  checkoutButton.addEventListener('click', function () {
-    /*
-     * When the customer clicks on the button, redirect
-     * them to Checkout.
-     */
-    stripe.redirectToCheckout({
-      shippingRates: ["{{.Site.Params.stripe.shipping}}"],
-      lineItems: [{price: '{{ .Params.stripePrice }}', quantity: 1}],
-      mode: 'payment',
-      /*
-       * Do not rely on the redirect to the successUrl for fulfilling
-       * purchases, customers may not always reach the success_url after
-       * a successful payment.
-       * Instead use one of the strategies described in
-       * https://stripe.com/docs/payments/checkout/fulfill-orders
-       */
-      successUrl: "{{ .RelPermalink | absURL }}",
-      cancelUrl: "{{ .RelPermalink | absURL }}",
-    })
-    .then(function (result) {
-      if (result.error) {
-        /*
-         * If `redirectToCheckout` fails due to a browser or network
-         * error, display the localized error message to your customer.
-         */
-        var displayError = document.getElementById('error-message');
-        displayError.textContent = result.error.message;
-      }
-    });
-  });
-})();
-</script>
-{{ end }}
