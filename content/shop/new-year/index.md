@@ -3,6 +3,7 @@ title: "New year, new wave"
 grid: "cover / 2 / 3"
 subtitle: "50€"
 productID: "6640801317040"
+stripe: true
 ---
 
 

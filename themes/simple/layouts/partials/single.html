@@ -32,7 +32,62 @@
   {{ end }}
   <div  class="post {{if eq .Type "shop" }}w-2/6 pl-8 {{end}}">
     {{.Content}}
+{{ if .Params.stripe }}
+<!-- Load Stripe.js on your website. -->
+<script src="https://js.stripe.com/v3"></script>
+
+<!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
+<button
+  class="font-sans w-full mt-4 bg-accent-500 hover:bg-accent-600 rounded-sm transition duration-500 ease-in-out text-white font-bold py-2 m-0 -ml-4 md:ml-0 appearance-none px-4 cursor-pointer"
+  id="checkout-button-price_1IkVAdFaA8Wpl3EpzAtyFMfE"
+  role="link"
+  type="button"
+>
+  Buy now
+</button>
+
+<div id="error-message"></div>
+
+<script>
+(function() {
+  var stripe = Stripe('pk_live_51IkUQkFaA8Wpl3EpMpvlAmMmPpUd01DC9lQhm4EmjE2riwTzkQn5frrtnlet2bL5sqXdzP1eTnpp7fbwUytfvUDd0093FkdcTD');
+
+  var checkoutButton = document.getElementById('checkout-button-price_1IkVAdFaA8Wpl3EpzAtyFMfE');
+  checkoutButton.addEventListener('click', function () {
+    /*
+     * When the customer clicks on the button, redirect
+     * them to Checkout.
+     */
+    stripe.redirectToCheckout({
+      lineItems: [{price: 'price_1IkVAdFaA8Wpl3EpzAtyFMfE', quantity: 1}],
+      mode: 'payment',
+      /*
+       * Do not rely on the redirect to the successUrl for fulfilling
+       * purchases, customers may not always reach the success_url after
+       * a successful payment.
+       * Instead use one of the strategies described in
+       * https://stripe.com/docs/payments/checkout/fulfill-orders
+       */
+      successUrl: window.location.protocol + '//yannickschutz.com/success',
+      cancelUrl: window.location.protocol + '//yannickschutz.com/canceled',
+    })
+    .then(function (result) {
+      if (result.error) {
+        /*
+         * If `redirectToCheckout` fails due to a browser or network
+         * error, display the localized error message to your customer.
+         */
+        var displayError = document.getElementById('error-message');
+        displayError.textContent = result.error.message;
+      }
+    });
+  });
+})();
+</script>
+{{ end }}
+{{ if .Params.shopify }}
     <div id="product"></div>
+{{ end }}
   </div>
   {{ if eq .Type "newsletter" }}
     <h2 class="text-xl font-semibold text-darker dark:text-gray-100">Lisez la dernière</h2>
@@ -49,7 +104,7 @@
     </div>
   {{ end }}
 </div>
-{{ if eq .Type "shop" }}
+{{ if .Params.shopify }}
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
