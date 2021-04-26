@@ -1,6 +1,6 @@
 ---
 title: "New year, new wave"
-grid: "1 / 2 / 3"
+grid: "cover / 2 / 3"
 subtitle: "45€"
 ---
 
@@ -20,15 +20,15 @@ Each print is limited to 10 copies. Signed and numbered.
 - 20x30cm prints on [Hahnemühle Fine Art Bamboo](https://www.hahnemuehle.com/en/digital-fineart/fineart-media/natural-line/p/Product/show/202/1036.html) 290g/m²
 - 90% Bamboo's fibers, 10% cotton
 
-<div id='product-component-1619383380942'></div>
+<div id='product'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
  var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
  if (window.ShopifyBuy) {
- if (window.ShopifyBuy.UI) {
- ShopifyBuyInit();
- } else {
+  if (window.ShopifyBuy.UI) {
+    ShopifyBuyInit();
+  } else {
  loadScript();
  }
  } else {
@@ -49,7 +49,7 @@ storefrontAccessToken: '007164808912ba32f38a95e6187b1961',
 ShopifyBuy.UI.onReady(client).then(function (ui) {
     ui.createComponent('product', {
 id: '6640801317040',
-node: document.getElementById('product-component-1619383380942'),
+node: document.getElementById('product'),
 moneyFormat: '%E2%82%AC%7B%7Bamount_with_comma_separator%7D%7D',
 options: {
 "product": {
