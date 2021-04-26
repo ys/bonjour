@@ -1,7 +1,7 @@
 {{ partial "article_header" . }}
 <div data-pswp class="{{ if eq .Type "shop" }}flex flex-col md:flex-row md:-mx-32 {{ end }}mb-10 font-ffserif content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
   {{ with .Params.grid }}
-    <div  class="grid w-4/6">
+    <div  class="w-4/6">
       {{ $rowsslice := split . "/" }}
       {{ $rows := dict }}
       {{ range $rowIndex, $row := $rowsslice}}
