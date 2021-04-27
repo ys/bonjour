@@ -1,4 +1,7 @@
 <script src="https://cdn.usefathom.com/script.js" data-site="{{ .Site.Params.fathom.siteID }}" data-included-domains="{{ .Site.Params.fathom.domain }}" data-honor-dnt="true" defer></script>
+{{ if eq .Type "shop" }}
+  <script src="https://js.stripe.com/v3"></script>
+{{ end }}
 {{ $.Scratch.Set "jslibs" slice }}
 {{ $libs := slice "js/photoswipe.js" "js/photoswipe-ui-default.js" "js/photoswipe-simplify.js" "js/lazyload.min.js" "js/main.js" }}
 {{ range $libs }} {{ $.Scratch.Add "jslibs" (resources.Get . ) }} {{ end }} {{ $js := .Scratch.Get "jslibs" | resources.Concat "js/main.js" }} {{ if .Site.IsServer }}
@@ -6,58 +9,4 @@
 {{ else }} {{ $js := $js | minify | fingerprint "sha512"}}
   <script src="{{ $js.RelPermalink }}"></script>
 {{ end }}
-{{ if .Params.stripeID }}
-<!-- Load Stripe.js on your website. -->
-<script src="https://js.stripe.com/v3"></script>
 
-<script>
-(function() {
-  var stripe = Stripe({{ .Site.Params.stripe.key }});
-
-  var checkoutButton = document.getElementById('checkout-button');
-  checkoutButton.addEventListener('click', function () {
-    /*
-     * When the customer clicks on the button, redirect
-     * them to Checkout.
-     */
-    stripe.redirectToCheckout({
-      lineItems: [{price: {{ .Params.stripeID }}, quantity: 1}],
-      mode: 'payment',
-      shippingAddressCollection: {
-        allowedCountries: [
-          "AU",
-          "BE",
-          "CA",
-          "ES",
-          "HR",
-          "DK",
-          "FI",
-          "FR",
-          "DE",
-          "IE",
-          "JP",
-          "MX",
-          "NO",
-          "SE",
-          "GB",
-          "US",
-          ]
-      },
-      successUrl: {{ .RelPermalink | absURL }},
-      cancelUrl: {{ .RelPermalink | absURL }},
-    })
-    .then(function (result) {
-      if (result.error) {
-        /*
-         * If `redirectToCheckout` fails due to a browser or network
-         * error, display the localized error message to your customer.
-         */
-        var displayError = document.getElementById('error-message');
-        displayError.textContent = result.error.message;
-      }
-      console.log(result);
-    });
-  });
-})();
-</script>
-{{ end }}

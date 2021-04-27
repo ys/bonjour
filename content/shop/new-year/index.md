@@ -2,7 +2,7 @@
 title: "New year, new wave"
 grid: "cover"
 subtitle: "55€"
-stripeID: "price_1Ikb8OFaA8Wpl3Ep87BrsGWb"
+sku: "NEWYEAR"
 ---
 
 
