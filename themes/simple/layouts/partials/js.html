@@ -23,6 +23,26 @@
     stripe.redirectToCheckout({
       lineItems: [{price: {{ .Params.stripeID }}, quantity: 1}],
       mode: 'payment',
+      shippingAddressCollection: {
+        allowedCountries: [
+          "AU",
+          "BE",
+          "CA",
+          "ES",
+          "HR",
+          "DK",
+          "FI",
+          "FR",
+          "DE",
+          "IE",
+          "JP",
+          "MX",
+          "NO",
+          "SE",
+          "GB",
+          "US",
+          ]
+      },
       successUrl: {{ .RelPermalink | absURL }},
       cancelUrl: {{ .RelPermalink | absURL }},
     })
