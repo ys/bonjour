@@ -5,7 +5,7 @@ emoji: 👀
 letter: detail
 lettertitle: "👀 Detail, une photo par semaine. Inscris-toi!"
 lettermessage: "Si tu veux recevoir la photo dans ta boîte mail."
-camera: "Leica m6"
+camera: "Lubitel 166b"
 film: "Kodak Portra 400"
 description: "Une photo par semaine, dans ta boîte mail"
 date: 2021-04-28T00:57:50+02:00
