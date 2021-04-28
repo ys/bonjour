@@ -1,61 +1,7 @@
 {{ partial "article_header" . }}
-<div data-pswp class="{{ if eq .Type "shop" }}flex flex-col md:flex-row md:-mx-32 {{ end }}mb-10 font-ffserif content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
-  {{ with .Params.grid }}
-    <div  class="md:w-4/6">
-      {{ $rowsslice := split . "/" }}
-      {{ $rows := dict }}
-      {{ range $rowIndex, $row := $rowsslice}}
-        {{ $columnsslice := split $row "|" }}
-        {{ $columns := dict }}
-        {{ range $columnIndex, $column := $columnsslice }}
-          {{ $imagesslice := split $column " - " }}
-          {{ $images := slice }}
-          {{ range $imagesslice }}
-              {{ $name := trim . " " }}
-              {{ if in $name ":" }}
-                {{ $ratio := split $name ":" }}
-                {{ $blank := dict "Blank" true "Image" (dict "Height" (int (index $ratio 1)) "Width" (int (index $ratio 0))) }}
-                {{ $images = $images | append $blank }}
-              {{ else }}
-                {{ $src := $.Page.Resources.GetMatch (printf "*%s*" $name) }}
-                {{ if $src }}
-                  {{ $images = $images | append (dict "Image" $src) }}
-                {{ end }}
-              {{ end }}
-          {{ end }}
-          {{ $columns = merge $columns (dict (string $columnIndex) (dict "Images" $images)) }}
-        {{ end }}
-        {{ $rows = merge $rows (dict (string $rowIndex) $columns) }}
-      {{ end }}
-      {{ partial "grid" $rows }}
-    </div>
-  {{ end }}
-  <div  class="post {{if eq .Type "shop" }}md:w-2/6 md:pl-8 {{end}}">
+<div data-pswp class="mb-10 font-ffserif content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
+  <div  class="post ">
     {{.Content}}
-    {{ if .Params.sku }}
-      <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
-      <form action="" method="post" id="stripe-form">
-        <input type="hidden" name="sku" value="{{.Params.sku}}" />
-        <button
-onclick="this.querySelector('svg').classList.toggle('hidden');this.querySelector('span').classList.toggle('hidden');"
-          class="font-sans w-full mt-4 bg-accent-500 hover:bg-accent-600 rounded-sm transition duration-500 ease-in-out text-white font-bold py-2 m-0 appearance-none px-4 cursor-pointer"
-          id="checkout-button"
-          type="submit"
-        >
-					<svg class="hidden animate-spin -ml-1 mr-3 h-5 w-5 text-white inline" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
-						<circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
-						<path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
-					</svg>
-
-<span class="">
-          Buy now
-</span>
-        </button>
-      </form>
-
-      <div id="error-message"></div>
-
-    {{ end }}
   </div>
   {{ if eq .Type "newsletter" }}
     <h2 class="text-xl font-semibold text-darker dark:text-gray-100">Lisez la dernière</h2>

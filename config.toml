@@ -10,9 +10,6 @@ disableKinds = ["taxonomyTerm"]
 
 [build]
   writeStats = true
-[params.stripe]
-  key = 'pk_test_51IkUQkFaA8Wpl3Epz5nz6b3qo3p9bwhhgHymuJW3DdYjTZfE8e3KVoYoJqfGsyBIjZmjugA2ostlK5tfPF6E9afA00glmGANaN'
-
 [params]
   footer = "👋 Yannick"
   text_404 = "Perdu? Cliquez sur la vague"
