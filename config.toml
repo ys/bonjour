@@ -10,7 +10,6 @@ disableKinds = ["taxonomyTerm"]
 
 [build]
   writeStats = true
-
 [params]
   footer = "👋 Yannick"
   text_404 = "Perdu? Cliquez sur la vague"

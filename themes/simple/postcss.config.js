@@ -3,7 +3,7 @@ const themeDir = __dirname + "/";
 const purgecss = require('@fullhuman/postcss-purgecss')({
   content: [themeDir + '../../hugo_stats.json'],
   safelist: {
-    standard: [/pswp/],
+    standard: [/pswp/, /shopify/, /visuallyhidden/, /select/, /button/],
   },
   defaultExtractor: (content) => {
     let els = JSON.parse(content).htmlElements;

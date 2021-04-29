@@ -481,16 +481,6 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
 			self.options.galleryUID = galleryIndex;
 			self.options.index = index;
 
-			self.options.getThumbBoundsFn = function (index) {
-				var gallery = document.querySelector('.pswp--active');
-				if (gallery) {
-
-					var thumbnail = gallery.querySelectorAll('.pswp--item')[index],
-						pageYScroll = window.pageYOffset || document.documentElement.scrollTop,
-						rect = thumbnail.getBoundingClientRect();
-					return { x: rect.left, y: rect.top + pageYScroll, w: rect.width };
-				}
-			};
 			self.options.addCaptionHTMLFn = function (item, captionEl, isFake) {
 				if (!item.title) {
 					captionEl.children[0].innerText = '';

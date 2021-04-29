@@ -1,6 +1,6 @@
 {{ partial "article_header" . }}
 <div data-pswp class="mb-10 font-ffserif content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
-  <div  class="post">
+  <div  class="post ">
     {{.Content}}
   </div>
   {{ if eq .Type "newsletter" }}
@@ -18,3 +18,4 @@
     </div>
   {{ end }}
 </div>
+

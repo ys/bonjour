@@ -6,8 +6,8 @@
     "gulp"
   ],
   "scripts": {
-    "build": "hugo -b https://${BASE_URL:-$VERCEL_URL}",
-    "build-preview": "hugo -F -b https://${BASE_URL:-$VERCEL_URL}",
+    "build": "hugo -b https://${BASE_URL:-bonjour-git-$VERCEL_GIT_COMMIT_REF-ys1.vercel.app}",
+    "build-preview": "hugo -F -b https://${BASE_URL:-bonjour-git-$VERCEL_GIT_COMMIT_REF-ys1.vercel.app}",
     "gulp": "gulp",
     "build-images": "gulp img:build",
     "debug": "rm -rf public/* resources/_gen && hugo --templateMetrics --templateMetricsHints",
@@ -21,6 +21,7 @@
     "@babel/core": "^7.12.10",
     "@fullhuman/postcss-purgecss": "^4.0.0",
     "@tailwindcss/aspect-ratio": "^0.2.0",
+    "@tailwindcss/forms": "^0.3.2",
     "@tailwindcss/jit": "^0.1.18",
     "@tailwindcss/line-clamp": "^0.2.0",
     "@tailwindcss/typography": "^0.3.1",
@@ -40,8 +41,9 @@
     "imagemin-mozjpeg": "^8.0.0",
     "postcss": "^8.2.2",
     "postcss-cli": "^8.3.1",
+    "stripe": "^8.145.0",
     "tailwind": "^4.0.0",
-    "tailwindcss": "^2.0.2",
+    "tailwindcss": "^2.1.2",
     "vercel": "^21.3.2"
   }
 }

@@ -1,4 +1,7 @@
 <script src="https://cdn.usefathom.com/script.js" data-site="{{ .Site.Params.fathom.siteID }}" data-included-domains="{{ .Site.Params.fathom.domain }}" data-honor-dnt="true" defer></script>
+{{ if eq .Type "shop" }}
+  <script src="https://js.stripe.com/v3"></script>
+{{ end }}
 {{ $.Scratch.Set "jslibs" slice }}
 {{ $libs := slice "js/photoswipe.js" "js/photoswipe-ui-default.js" "js/photoswipe-simplify.js" "js/lazyload.min.js" "js/main.js" }}
 {{ range $libs }} {{ $.Scratch.Add "jslibs" (resources.Get . ) }} {{ end }} {{ $js := .Scratch.Get "jslibs" | resources.Concat "js/main.js" }} {{ if .Site.IsServer }}
@@ -6,3 +9,4 @@
 {{ else }} {{ $js := $js | minify | fingerprint "sha512"}}
   <script src="{{ $js.RelPermalink }}"></script>
 {{ end }}
+

@@ -101,17 +101,17 @@ hr {
     @apply text-xl mt-8 text-gray-900 dark:text-gray-100 font-normal py-1;
   }
   ul {
-   @apply list-inside my-4
+   @apply list-inside my-4;
   }
 
   ol {
-   @apply list-decimal list-inside my-4
+   @apply list-decimal list-inside my-4;
   }
   li p {
-    @apply inline my-0
+    @apply inline my-0;
   }
-  p {
-    @apply my-6
+  p:not(:first-child) {
+    @apply my-6;
   }
   .medium-zoom-overlay {
     @apply dark:bg-dark;
@@ -214,7 +214,7 @@ hr {
 	As animating opacity is much faster than animating rgba() background-color.
 */
 .pswp__bg {
-  @apply bg-white dark:bg-darker;
+  @apply bg-white dark:bg-darker bg-opacity-60 backdrop-filter backdrop-blur-md;
   position: absolute;
   left: 0;
   top: 0;
@@ -234,7 +234,6 @@ hr {
   height: 100%;
   overflow: hidden; }
 
-.pswp__container,
 .pswp__zoom-wrap {
   -ms-touch-action: none;
   touch-action: none;
@@ -243,6 +242,14 @@ hr {
   right: 0;
   top: 0;
   bottom: 0; }
+.pswp__container {
+  -ms-touch-action: none;
+  touch-action: none;
+  position: absolute;
+  left: 40px;
+  right: 40px;
+  top: 40px;
+  bottom: 40px; }
 
 /* Prevent selection and tap highlights */
 .pswp__container,
@@ -335,5 +342,29 @@ hr {
   text-decoration: underline; }
 
 .pswp__ui {
+  @apply hidden;
+}
+
+
+// Shopify
+
+#product {
+  @apply font-sans;
+}
+
+.shopify-buy__select-icon {
+  @apply hidden;
+}
+
+.shopify-buy__option-select__select{
+  @apply block w-full mt-1 rounded-md border-gray-300 shadow-sm focus:border-accent-300 focus:ring focus:ring-accent-200 focus:ring-opacity-50;
+}
+.shopify-buy__btn {
+  @apply font-sans w-full mt-4 bg-accent-500 hover:bg-accent-600 rounded-sm transition duration-500 ease-in-out text-white font-bold py-2 m-0 -ml-4 md:ml-0 appearance-none px-4 cursor-pointer;
+}
+.shopify-buy__product__price {
+  @apply text-sm text-center my-4;
+}
+.visuallyhidden {
   @apply hidden;
 }

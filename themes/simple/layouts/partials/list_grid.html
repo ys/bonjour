@@ -33,7 +33,10 @@
                 {{ with $large.RelPermalink }}, {{.}} 800w {{ end }}
               {{ end }}' src="{{ $large.RelPermalink }}" width="{{ $large.Width }}" height="{{ $large.Height }}">
         </picture>
-        <h2 class="font-bold text-sm mt-2 text-gray-400 uppercase">{{.Title}}</h2>
+        <h2 class="font-bold text-sm mt-2 text-gray-700 uppercase">{{.Title}}</h2>
+        {{ with .Params.subtitle }}
+        <h3 class="font-normal text-sm mt-2 text-gray-400">{{.}}</h3>
+        {{end}}
       </a>
     </article>
     {{ end }}
