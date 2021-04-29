@@ -101,17 +101,17 @@ hr {
     @apply text-xl mt-8 text-gray-900 dark:text-gray-100 font-normal py-1;
   }
   ul {
-   @apply list-inside my-4
+   @apply list-inside my-4;
   }
 
   ol {
-   @apply list-decimal list-inside my-4
+   @apply list-decimal list-inside my-4;
   }
   li p {
-    @apply inline my-0
+    @apply inline my-0;
   }
-  p {
-    @apply my-6
+  p:not(:first-child) {
+    @apply my-6;
   }
   .medium-zoom-overlay {
     @apply dark:bg-dark;
