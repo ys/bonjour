@@ -17,6 +17,18 @@ document.addEventListener("DOMContentLoaded", function () {
   params = new URLSearchParams(window.location.search)
   if (params.has("zoom")) {
     photoswipeSimplify.open(0,0);
+ }
+
+  if (params.has("session_id")) {
+    fetch("/api/success?session_id=" + params.get("session_id"), {
+      method: 'GET',
+      headers: { 'Content-Type': 'application/json' },
+    }).then( res => res.json() )
+    .then( res => {
+      document.querySelector(".thanks").innerText = "🎉 Merci pour cet achat, " + res.shipping.name
+      document.querySelector("#thanksdiv").classList.toggle("hidden");
+    })
+
   }
 
   form = document.querySelector('#stripe-form');

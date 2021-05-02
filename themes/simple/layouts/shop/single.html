@@ -1,5 +1,11 @@
 {{ define "main" }}
 {{ partial "article_header" . }}
+<div id="thanksdiv"
+    class="text-lg my-4 flex hidden justify-around w-full items-center border border-cascade-600 bg-cascade-100 relative text-cascade-600 py-3 px-3 rounded-sm shadow-lg">
+    <div class="thanks center">
+      Merci pour cet achat, #SHIPPING_NAME#!
+    </div>
+</div>
 <div data-pswp class="flex flex-col md:flex-row md:-mx-32 mb-10 font-ffserif content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
   {{ with .Params.grid }}
     <div  class="md:w-4/6">

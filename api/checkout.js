@@ -27,8 +27,8 @@ module.exports =  async(req, res) => {
       ]
     },
     payment_method_types: ['card'],
-    success_url: `${url}/shop/${item.slug}`,
     cancel_url: `${url}/shop/${item.slug}`,
+    success_url: `${url}/shop/${item.slug}?session_id={CHECKOUT_SESSION_ID}`,
   });
 
 
