@@ -20,7 +20,7 @@ resources:
 
 Au premier janvier, j'ai pu m'essayer au shoot aquatique avec mon nouvel ami le Nikonos V. Après avoir suivi pas mal de comptes qui shootaient sur terre comme en mer au Nikonos, j'ai trouvé un particulier qui se séparait de deux Nikonos V en bon état. J'ai même le flash et une belle valisette avec les autocollants du club de plongé et  la pub originale de cette beauté.
 
-{{< photo src="palmes" alt="nikonos V and palmes"}}
+{{< photo src="palmes" alt="nikonos V & palmes" >}}
 
 Petit moment histoire. Le premier modèle de cet appareil, on le doit au célèbre Jacques-Yves est derrière tout cela et un ingénieur belge. Comme de par hasard vous allez me dire! Ils ont créé cela dans la boîte du commandant qui se nommait la Spirotechnique qui est un nom vachement cool aussi. Bon après, cela a été revendu à Nikon.
 
@@ -32,7 +32,7 @@ Cet appareil produit par Nikon est une vraie petite brique. Vous savez que vous 
 
 Lors de la réception des boîtiers, j'ai pris le temps de tout démonter, nettoyer les trois joints, les regraisser et vérifier que tout marchait nickel. Après utilisation, j'ai suivi les [conseils de Grégory](https://gregorymignard.com/entretien-caisson-etanche/) qui a une bien plus grande expérience en watershots que moi. Il y a aussi de super conseils sur le site du célèbre [Nikonos Project](http://www.nikonosproject.com)
 
-{{< photo src="8" alt="palmes" }}
+{{< photo src="8" alt="palmes" >}}
 
 Après des premiers rolls où le sujet était la mer seule, je me réjouis de retourner à l'eau pour m'essayer à la photo de surf et simplement continuer à passer du bon temps à l'eau et documenter ces instants partagés. Une fois accroché au bras, c'est un super compagnon créateur de souvenirs.
 
