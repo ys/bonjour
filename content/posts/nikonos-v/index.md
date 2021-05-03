@@ -20,7 +20,7 @@ resources:
 
 Au premier janvier, j'ai pu m'essayer au shoot aquatique avec mon nouvel ami le Nikonos V. Après avoir suivi pas mal de comptes qui shootaient sur terre comme en mer au Nikonos, j'ai trouvé un particulier qui se séparait de deux Nikonos V en bon état. J'ai même le flash et une belle valisette avec les autocollants du club de plongé et  la pub originale de cette beauté.
 
-{{< photo src="palmes" alt="nikonos V & palmes"}}
+{{< photo src="palmes" alt="nikonos V and palmes"}}
 
 Petit moment histoire. Le premier modèle de cet appareil, on le doit au célèbre Jacques-Yves est derrière tout cela et un ingénieur belge. Comme de par hasard vous allez me dire! Ils ont créé cela dans la boîte du commandant qui se nommait la Spirotechnique qui est un nom vachement cool aussi. Bon après, cela a été revendu à Nikon.
 
