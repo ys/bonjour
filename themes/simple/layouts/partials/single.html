@@ -3,12 +3,6 @@
   <div  class="post ">
     {{.Content}}
   </div>
-  {{ if eq .Type "newsletter" }}
-    <h2 class="text-xl font-semibold text-darker dark:text-gray-100">Lisez la dernière</h2>
-    {{ range first 1 (where .Site.RegularPages ".Params.newsletter" true)  }}
-      {{ partial "title" . }}
-    {{ end }}
-  {{ end }}
   {{ if (in .Site.Params.showFooter .Type) }}
   <hr class="line"/>
     {{ partial "article_footer" . }}

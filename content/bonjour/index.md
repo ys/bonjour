@@ -27,3 +27,5 @@ Elle n'est pas encore périodique, cela dépend de vous.
 {{< photo src="cover" alt="bonjour" >}}
 
 *Promis je ne revends pas tes données et je ne te spammerai pas. Je déteste cela*
+
+[Lire les anciennes lettres](/letters)
