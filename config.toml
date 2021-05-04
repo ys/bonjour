@@ -94,6 +94,7 @@ sans = "ff-meta-web-pro"
 
 [permalinks]
   posts = "/:slug"
+  letters = "/:slug"
   series = "/:slug"
   categories = "/c/:slug"
 
