@@ -3,6 +3,9 @@ title: "Des prints"
 description: "Des prints à vendre sur du beau papier"
 grid: true
 menu:
+  main:
+    pre: "💸"
+    weight: 2
   footer:
     weight: 5
 linktitle: "Shop"

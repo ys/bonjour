@@ -6,7 +6,7 @@ draft: false
 skipArchives: true
 slug: "olympus-xa"
 seotitle: "Petite review totalement subjective de mon Olympus XA"
-description: "Ce petit Olympus XA m'accompagne quasi partout. C'est un mini rangefinder et non un point and shoot comme sa taille pourrait vous le faire croire. Il est polyvalent avec son ouverture à 2.8 sur son 35mm. Il est mignon et plus petit que mon iPhone."
+description: "Ce petit appareil argentique m'accompagne quasi partout. C'est un mini rangefinder et non un point and shoot comme sa taille pourrait vous le faire croire. Il est polyvalent avec son ouverture à 2.8 sur son 35mm. Il est mignon et plus petit que mon iPhone."
 tags:
   - analogique
   - argentique
