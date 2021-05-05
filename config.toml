@@ -23,8 +23,6 @@ disableKinds = ["taxonomyTerm"]
   hasLogo = false
   emoji = "🌊"
   arrow = "—"
-[params.goatcounter]
-  domain = "bonjouryannick"
 [params.fathom]
   domain = "yannickschutz.com"
   siteID = "OIPUYMFX"
