@@ -10,9 +10,17 @@
   {{ .Content }}
 </div>
 
-{{ if .Params.grid }}
-  {{ partial "list_grid" . }}
-{{ else }}
-  {{ partial "list_titles" . }}
-{{ end }}
+{{ $paginator := (.Paginate .RegularPages 250) }}
+<div class="mb-10 {{ with .Params.grid }}md:-mx-32 grid gap-8 md:grid-cols-3 sm:grid-cols-1{{end}}">
+  {{ range $paginator.Pages }}
+    {{ if $.Params.grid }}
+      {{ partial "cover_title" . }}
+    {{ else }}
+      {{ partial "title" . }}
+    {{ end }}
+  {{ end }}
+  <div class="">
+    {{ partial "pagination.html" . }}
+  </div>
+</div>
 {{ end }}

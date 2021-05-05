@@ -1,5 +1,5 @@
 <div class="pt-4 pb-8">
   {{ range (first 5 (where .Site.RegularPages "Type" "posts")) }}
-  {{ partial "title" . }}
+    {{ partial "title" . }}
   {{ end }}
 </div>
