@@ -14,7 +14,7 @@ menu:
     weight: 5
   footer:
     weight: 5
-linktitle: Maintenant
+linktitle: Now
 ---
 Bonjour, moi c'est Yannick. 
 
