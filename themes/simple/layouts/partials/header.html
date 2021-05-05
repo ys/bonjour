@@ -1,4 +1,6 @@
 {{ block "header" . }}
-<div class="container mx-auto md:max-w-xl">
-</div>
+<header class="{{ if .Site.Params.withEmoji }}{{else}} hidden {{ end }}flex items-center justify-around">
+  <span class="text-3xl my-4">{{.Params.emoji | default .Site.Params.emoji}}</span>
+</header>
+{{partial "main_menu" .}}
 {{ end }}
