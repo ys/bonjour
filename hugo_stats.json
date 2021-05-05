@@ -219,6 +219,7 @@
       "rounded-sm",
       "shadow-lg",
       "sm:grid-cols-1",
+      "sm:grid-cols-1{",
       "text-3xl",
       "text-accent-700",
       "text-base",

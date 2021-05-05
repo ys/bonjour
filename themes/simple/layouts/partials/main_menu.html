@@ -1,6 +1,7 @@
   {{ $current := . }}
   <nav class="w-full m-2 font-semibold font-sans uppercase tracking-tighter text-xs">
     <ul class="inline flex flex-row m-4 items-end justify-around w-1/2 mx-auto">
+      <li class="opacity-25">－</li>
       {{ range .Site.Menus.main }}
         {{ $active := or ($current.IsMenuCurrent "nav" .) ($current.HasMenuCurrent "nav" .) }}
         {{ $active = or $active (eq .Page $current) }}
@@ -12,6 +13,7 @@
         </a>
       </li>
       {{ end }}
+      <li class="opacity-25">－</li>
     </ul>
   </nav>
 
