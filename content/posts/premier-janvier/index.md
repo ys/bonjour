@@ -15,7 +15,7 @@ resources:
   name: "cover"
 ---
 
-On a commencé l'année d'une belle manière avec Grégory. Rendez-vous 8h au Dossen qu'on s'était dit. On ressort la [combi 5/4](https://srface.com/shop/mens-wetsuit/?currency=EUR) qui n'a pas encore eu le temps de bien servir avec le confinement. Première Dawn Patrol pour moi, première nage avec des palmes, premier roll au [Nikonos V](https://www.nikonosproject.com). C'était une Portra 400, de chez Kodak. Comme si il fallait vraiment le préciser. On verra si j'ai réussi quoi que ce soit. Il fallait le tester, je ne savais même pas si il tiendrait le coup dans l'eau. La pellicule en est resortie intacte et non humide
+On a commencé l'année d'une belle manière avec Grégory. Rendez-vous 8h au Dossen qu'on s'était dit. On ressort la [combi 5/4](https://srface.com/shop/mens-wetsuit/?currency=EUR) qui n'a pas encore eu le temps de bien servir avec le confinement. Première Dawn Patrol pour moi, première nage avec des palmes, premier roll au [Nikonos V](/nikonos-v). C'était une Portra 400, de chez Kodak. Comme si il fallait vraiment le préciser. On verra si j'ai réussi quoi que ce soit. Il fallait le tester, je ne savais même pas si il tiendrait le coup dans l'eau. La pellicule en est resortie intacte et non humide
 
 {{< photo src="1.jpg" alt="moi" >}}
 
@@ -31,6 +31,6 @@ Clairement, un moment que j'attendais depuis un bon bout de temps. Quoi de plus 
 
 Ah oui, j'oubliais, il faut encore une fois du courage. Quand tu enlèves ta combi, que tu as la peau humide et que l'air est toujours sous zéro. J'avais prévu un coup de boost, un thermo de café bien chaud m'attendait. Le poncho aussi était indispensable à ce moment-là.
 
-Pour le résultat du Nikonos, faudra attendre encore un peu. Je viens d'envoyer le film à développer. L'attente est dure mais vaudra je l'espère le coup. Le début d'une belle série.
+Pour le [résultat du Nikonos](/nikonos-glaz), faudra attendre encore un peu. Je viens d'envoyer le film à développer. L'attente est dure mais vaudra je l'espère le coup. Le début d'une belle série.
 
 *Ce post est extrait de mon journal papier & les photos sont de [Grégory](https://gregorymignard.com)*

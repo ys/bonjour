@@ -22,7 +22,7 @@ resources:
   - src: "*.jpg"
 ---
 
-Au premier janvier, j'ai pu m'essayer au shoot aquatique avec mon nouvel ami le Nikonos V. Après avoir suivi pas mal de comptes qui shootaient sur terre comme en mer au Nikonos, j'ai trouvé un particulier qui se séparait de deux Nikonos V en bon état. J'ai même le flash et une belle valisette avec les autocollants du club de plongé et  la pub originale de cette beauté.
+Au [premier janvier](/premier-janvier), j'ai pu m'essayer au shoot aquatique avec mon nouvel ami le Nikonos V. Après avoir suivi pas mal de comptes qui shootaient sur terre comme en mer au Nikonos, j'ai trouvé un particulier qui se séparait de deux Nikonos V en bon état. J'ai même le flash et une belle valisette avec les autocollants du club de plongé et  la pub originale de cette beauté.
 
 {{< photo src="palmes" alt="nikonos V & palmes" >}}
 
