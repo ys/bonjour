@@ -2,9 +2,11 @@
 title: "Des prints"
 description: "Des prints à vendre sur du beau papier"
 grid: true
+emoji: "💸"
 menu:
-  footer:
-    weight: 5
+  main:
+    pre: "💸"
+    weight: 2
 linktitle: "Shop"
 ---
 

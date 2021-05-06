@@ -1,5 +1,6 @@
 ---
 title: "Comment trier, ranger et annoter vos scans"
+seotitle: "Trier, ranger et annoter vos scans argentiques"
 subtitle: "Petit manuel numérique à l'attention du photographe argentique ordonné"
 date: 2021-01-31T12:24:02+01:00
 draft: false

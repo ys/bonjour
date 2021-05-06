@@ -13,7 +13,6 @@
 
 	'use strict';
 	var PhotoSwipe = function (template, UiClass, items, options) {
-		console.log(template, UiClass, items, options)
 
 		/*>>framework-bridge*/
 		/**

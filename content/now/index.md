@@ -10,9 +10,9 @@ resources:
   - src: "now.jpg"
     name: "cover"
 menu:
-  footer:
+  main:
     weight: 5
-linktitle: Maintenant
+linktitle: Now
 ---
 Bonjour, moi c'est Yannick. 
 
@@ -23,16 +23,15 @@ Cela fait maintenant quelques années que je suis dans le Finistère. Un breton 
 Je suis amoureux de l'océan et de la nature. Ces derniers temps, je ne fais plus que de la photo argentique. J'ai mon iPhone 12 mini pour tout ce qui est numérique. Je charge principalement de la Kodak Portra 400 dans mes appareils. J'aime de plus en plus la Kodak Tri-X 400. J'ai eu beaucoup de plaisir sur quelques rolls.
 
 Mon matos actuel:
+- [Olympus XA](/olympus-xa)
 - Leica M6 avec un Voigtlander Nokton Classic 35mm 1.4
 - Nikonos V avec son 35mm
-
-J'ai à moitié cassé mon Olympus XA. Cela me rend triste. J'en reprendrai sans doute un bientôt. C'est top pour l'été.
 
 {{< photo src="cover" alt="yannick" >}}
 
 J'ai commencé à faire de la [photo dans l'eau](/nikonos-glaz) armé de palmes et du Nikonos. C'est une petite drogue cette eau salée. Cette année je pense bien finir avec une longboard à moi pour continuer à surfer même sans l'école. Je vais dans l'eau dès que je peux.
 
-J'ai acheté du matos pour scanner moi-même. Donc en gros j'ai un Fuji X-T30 juste pour scanner des négatifs. Je pense faire un article là-dessus assez vite aussi.
+J'ai acheté du matos pour scanner moi-même. Donc en gros j'ai un Fuji X-T30 juste pour scanner des négatifs. Je pense faire un article là-dessus assez vite aussi. Mais j'aime quand même la simplicité d'un labo
 
 J'écris [une petite lettre](/bonjour) sur tout et rien toutes les deux semaines. Cela me permet d'écrire de manière régulière. C'est un vrai petit plaisir! Je n'ai pas beaucoup de lecteurs mais ils me répondent. Donc en gros, cela me rend heureux.
 
