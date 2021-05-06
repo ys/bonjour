@@ -22,6 +22,7 @@ disableKinds = ["taxonomyTerm"]
   pinterestVerify = "fd6b8a37d3208b2c605434cf2ce71ac3"
   hasLogo = false
   emoji = "🌊"
+  withEmoji = true
   arrow = "—"
 [params.fathom]
   domain = "yannickschutz.com"

@@ -8,7 +8,7 @@ color: sunray
 resources:
   - src: "*.jpg"
 menu:
-  main:
+  footer:
     weight: 3
 linktitle: "lectures"
 ---
