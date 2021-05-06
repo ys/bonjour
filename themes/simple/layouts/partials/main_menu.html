@@ -1,6 +1,6 @@
   {{ $current := . }}
   <nav class="w-full font-semibold font-sans uppercase tracking-tighter text-xs">
-    <ul class="inline flex flex-row m-4 items-end justify-around w-1/2 mx-auto">
+    <ul class="inline flex flex-row mx-4 md:mx-auto mb-4 items-end justify-around md:w-1/2 ">
       <li class="opacity-25">－</li>
       {{ range .Site.Menus.main }}
         {{ $active := or ($current.IsMenuCurrent "nav" .) ($current.HasMenuCurrent "nav" .) }}
@@ -8,7 +8,7 @@
         {{ $active = or $active (eq .Page.Section $current.Type) }}
         <li class="mx-2 inline text-gray-800 dark:text-gray-200 {{if $active}} font-bold text-gray-800 opacity-100{{else }} opacity-25{{end}} hover:opacity-100 {{ with $current.Params.Color }}hover:text-{{ . }}-800 {{ else }}hover:text-accent-600{{ end }} transition ease-in-out duration-200">
         {{if $active }}<span class="hidden no-underline mr-1">→</span>{{end}}
-        <a class="{{ .Params.class }}" href="{{ .URL }}" title="{{ .Title }}">
+        <a class="{{ .Params.class }} whitespace-nowrap" href="{{ .URL }}" title="{{ .Title }}">
           {{ .Pre }} {{ .Name }}
         </a>
       </li>

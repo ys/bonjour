@@ -7,8 +7,6 @@ menu:
   main:
     pre: "💸"
     weight: 2
-  footer:
-    weight: 5
 linktitle: "Shop"
 ---
 
