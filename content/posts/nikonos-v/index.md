@@ -4,9 +4,13 @@ subtitle: "De l'eau salée sur l'objectif"
 date: 2021-05-02T17:37:39+02:00
 draft: true
 slug: "nikonos-v"
-description: "Petite review totalement subjective de mon Nikonos V"
+seotitle: "Petite review totalement subjective du Nikonos V"
+description: "Un boîtier mythique qui nous ramène au célèbre bonnet rouge de Jacques-Yves. J'ai pu grâce à lui shooter de la pellicule dans l'eau salée. Un petit retour sur son utilisation." 
 tags:
   - analogique
+  - argentique
+  - pellicule
+  - surf
   - 35mm
   - photo
   - nikonos
@@ -34,7 +38,7 @@ Lors de la réception des boîtiers, j'ai pris le temps de tout démonter, netto
 
 {{< photo src="8" alt="palmes" >}}
 
-Après des premiers rolls où le sujet était la mer seule, je me réjouis de retourner à l'eau pour m'essayer à la photo de surf et simplement continuer à passer du bon temps à l'eau et documenter ces instants partagés. Une fois accroché au bras, c'est un super compagnon créateur de souvenirs.
+Après des premiers rolls où le sujet était la mer seule, je me réjouis de retourner à l'eau pour m'essayer à la photo de surf et simplement continuer à passer du bon temps à l'eau et documenter ces instants partagés. Une fois accroché au bras, c'est un super compagnon créateur de souvenirs. Il a vraiment sa place aux côtés de mon [Olympus XA](/olympus-xa) et du Leica M6.
 
 Si vous voulez découvrir quelques photographes qui adorent le Nikonos, je vous suggère [Alice Védrine](https://www.instagram.com/alicevedrine/) ou [Jérémy Lachance](https://jeremylachance.com). 
 
