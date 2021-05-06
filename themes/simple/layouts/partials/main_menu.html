@@ -8,7 +8,7 @@
         {{ $active = or $active (eq .Page.Section $current.Type) }}
         <li class="mx-2 inline text-gray-800 dark:text-gray-200">
         {{if $active }}<span class="hidden no-underline mr-1">→</span>{{end}}
-        <a class="{{ .Params.class }} {{if $active}} font-bold text-gray-800 opacity-100{{else }} opacity-25{{end}} {{ with $current.Params.Color }}hover:text-{{ . }}-800 {{ else }}hover:text-accent-600{{ end }} transition ease-in-out duration-200" href="{{ .URL }}" title="{{ .Title }}">
+        <a class="{{ .Params.class }} {{if $active}} font-bold text-gray-800 opacity-100{{else }} opacity-25{{end}} hover:opacity-100 {{ with $current.Params.Color }}hover:text-{{ . }}-800 {{ else }}hover:text-accent-600{{ end }} transition ease-in-out duration-200" href="{{ .URL }}" title="{{ .Title }}">
           {{ .Pre }} {{ .Name }}
         </a>
       </li>
