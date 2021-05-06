@@ -11,6 +11,3 @@ resources:
   - src: "now.jpg"
     name: "cover"
 ---
-
-Une petite sélection rien que pour vous  
-Quelques liens vers des posts récents ou favoris et du reste
