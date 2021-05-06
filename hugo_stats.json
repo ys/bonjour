@@ -1,11 +1,13 @@
 {
   "htmlElements": {
     "tags": [
+      "!doctype",
       "a",
       "article",
       "blockquote",
       "body",
       "br",
+      "br/",
       "button",
       "circle",
       "code",
@@ -22,6 +24,7 @@
       "head",
       "header",
       "hr",
+      "hr/",
       "html",
       "iframe",
       "img",
@@ -122,6 +125,7 @@
       "hover:bg-cascade-600",
       "hover:border-accent-600",
       "hover:border-cascade-600",
+      "hover:opacity-100",
       "hover:text-accent-600",
       "hover:text-bluewhale-800",
       "hover:text-cascade-800",
@@ -219,7 +223,6 @@
       "rounded-sm",
       "shadow-lg",
       "sm:grid-cols-1",
-      "sm:grid-cols-1{",
       "text-3xl",
       "text-accent-700",
       "text-base",

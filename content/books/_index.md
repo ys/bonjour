@@ -11,7 +11,6 @@ menu:
   main:
     weight: 3
 linktitle: "lectures"
-
 ---
 
 La plupart des livres que j'ai lu ces dernières années.
