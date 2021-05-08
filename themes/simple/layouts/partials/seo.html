@@ -1,4 +1,10 @@
-<title>{{ .Params.emoji }} {{ with .Params.seotitle }}{{ . }}{{ else }}{{ with .Title }}{{ . }} - {{ $.Site.Title }}{{ else }}{{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }} - {{ $.Site.Title }}{{ end }}{{ end }}</title>
+{{ $title := printf "%s %s %s - %s" .Date.Day (index .Site.Data.mois (printf "%d" .Date.Month)) .Date.Year $.Site.Title }}
+{{ if .Params.seotitle }}
+  {{ $title = printf "%s - %s" .Params.seotitle $.Site.Title }}
+{{ else if .Title }}
+  {{ $title = printf "%s - %s" .Title $.Site.Title }}
+{{ end }}
+<title>{{ $title }}</title>
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
 <meta name="keywords" content="{{ if isset .Params "tags" }}{{ range .Params.tags }}{{ . }},{{ end }}{{ end }}">
 <link rel="canonical" href="{{ .Permalink }}" />
@@ -12,10 +18,10 @@
            "@id": {{ .Site.BaseURL }}
       },
       "articleSection" : {{ .Section }},
-      "name" : {{ .Title | safeHTML }},
-      "headline" : {{ .Title | safeHTML}},
+      "name" : {{ $title | safeHTML }},
+      "headline" : {{ $title | safeHTML}},
       "description" : {{ with (.Description | default (replaceRE "\n" " " (.Summary | truncate 170))) }}{{ . | safeHTML }}{{ else}}""{{ end }},
-      "inLanguage" : "en-US",
+      "inLanguage" : "fr",
       "availableLanguage": {
         "@type": "Language",
         "name": ["French","English"]

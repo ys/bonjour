@@ -509,7 +509,6 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
 					var src = self.thumbnails[galleryIndex][i].getAttribute('data-zoom-src');
 					var title = self.thumbnails[galleryIndex][i].getAttribute('data-caption');
 					var author = self.thumbnails[galleryIndex][i].getAttribute('data-author');
-					console.log(src);
 					promises.push(self.getImageSizes(node, src, galleryIndex, i, title, author));
 					Promise.all(promises).then(function () {
 						resolve();

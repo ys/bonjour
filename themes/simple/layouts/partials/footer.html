@@ -3,7 +3,7 @@
     {{ .Site.Params.footer }} - {{ now.Year }}
   </div>
   <div class="pt-2">
-    <ul class="flex flex-row text-right justify-end ">
+    <ul class="flex flex-wrap flex-row text-right justify-end ">
       {{ range .Site.Menus.footer }}
       <li class="py-2 pl-1 text-gray-600 dark:text-gray-200">
         <a class="hover:text-accent-600 transition ease-in-out duration-200 " href="{{ .URL }}" title="{{ .Title }}">
@@ -14,7 +14,7 @@
     </ul>
   </div>
   <div class="">
-    <ul class="flex flex-row text-right justify-end">
+    <ul class="flex flex-row text-right justify-end flex-wrap">
       {{ with .Site.Params.social.instagram }}
       <li class="pl-1  py-2 text-gray-600 dark:text-gray-200">
         <a class="hover:text-accent-600 transition ease-in-out duration-200"

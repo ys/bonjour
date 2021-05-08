@@ -346,25 +346,3 @@ hr {
 }
 
 
-// Shopify
-
-#product {
-  @apply font-sans;
-}
-
-.shopify-buy__select-icon {
-  @apply hidden;
-}
-
-.shopify-buy__option-select__select{
-  @apply block w-full mt-1 rounded-md border-gray-300 shadow-sm focus:border-accent-300 focus:ring focus:ring-accent-200 focus:ring-opacity-50;
-}
-.shopify-buy__btn {
-  @apply font-sans w-full mt-4 bg-accent-500 hover:bg-accent-600 rounded-sm transition duration-500 ease-in-out text-white font-bold py-2 m-0 -ml-4 md:ml-0 appearance-none px-4 cursor-pointer;
-}
-.shopify-buy__product__price {
-  @apply text-sm text-center my-4;
-}
-.visuallyhidden {
-  @apply hidden;
-}
