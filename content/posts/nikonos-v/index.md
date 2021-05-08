@@ -4,6 +4,7 @@ subtitle: "De l'eau salée sur l'objectif"
 date: 2021-05-02T17:37:39+02:00
 draft: true
 slug: "nikonos-v"
+favorite: true
 seotitle: "Petite review totalement subjective du Nikonos V"
 description: "Un boîtier mythique qui nous ramène au célèbre bonnet rouge de Jacques-Yves. J'ai pu grâce à lui shooter de la pellicule dans l'eau salée. Un petit retour sur son utilisation." 
 tags:
