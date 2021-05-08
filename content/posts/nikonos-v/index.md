@@ -16,6 +16,8 @@ categories:
 emoji: "📸"
 resources:
   - src: "*.jpg"
+  - src: "6.jpg"
+    name: "cover"
 ---
 
 Au premier janvier, j'ai pu m'essayer au shoot aquatique avec mon nouvel ami le Nikonos V. Après avoir suivi pas mal de comptes qui shootaient sur terre comme en mer au Nikonos, j'ai trouvé un particulier qui se séparait de deux Nikonos V en bon état. J'ai même le flash et une belle valisette avec les autocollants du club de plongé et  la pub originale de cette beauté.
@@ -26,7 +28,7 @@ Petit moment histoire. Le premier modèle de cet appareil, on le doit au célèb
 
 Si comme moi vous aimé les bonnets rouges et les animaux marins, ce boîtier est une valeur sure pour votre collection. Il embarque un rien d'électronique pour un calcul de l'exposition automatique. Le viseur vous renseignera bien sur le temps d'exposition et la possible sur ou sous exposition si vous n'êtes pas en mode automatique. Ce qui est vraiment pratique une fois à l'eau. L'objectif est facile à opérer avec deux roulettes, une pour l'ouverture, l'autre pour la mise au point. Le design de l'objectif permet efficacement de déterminer le zone focus en fonction de l'ouverture et donc d'estimer la zone où votre sujet doit se trouver pour être net. Ou flou, si si, c'est artistique aussi.
 
-{{< grid images="1 | 2 / 3 | 4 - 5 / 6 | 7 " >}}
+{{< grid images="1 | 2 / 3 | 4 - 5 / cover | 7 " >}}
 
 Cet appareil produit par Nikon est une vraie petite brique. Vous savez que vous l'avez en mains quand vous êtes dans l'eau. Je pense que mai 68, c'était "sous les Nikonos, la plage". Mais quel plaisir de shooter avec celui-ci. Après l'avoir testé en tout manuel pour mon premier roll, je suis retourné à l'eau avec lui et testé en mode auto. Et sincèrement, cela va me faciliter la vie. Je ne suis pas encore le plus grand nageur aux palmes et donc mon cerveau apprécie de pouvoir se concentrer un rien sur ma nage. 
 
