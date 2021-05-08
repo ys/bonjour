@@ -6,9 +6,9 @@
 
   {{/* set image sizes, these are hardcoded for now, x dictates that images are resized to this width */}}
 
-  {{ $lqipw := default "30x40" }}
-  {{ $smallw := default "300x400" }}
-  {{ $largew := default "600x800" }}
+  {{ $lqipw := default "30x20" }}
+  {{ $smallw := default "300x200" }}
+  {{ $largew := default "600x400" }}
 
   {{/* resize the src image to the given sizes */}}
 
@@ -21,7 +21,7 @@
   <article class="flex flex-col text-center">
     <a href="{{ .RelPermalink }}">
       <picture
-        class="block relative mt-2 aspect-w-3 aspect-h-4"
+        class="block relative mt-2 aspect-w-3 aspect-h-2"
         style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover">
         <img loading="lazy" class="m-0 h-auto w-full lazyload" alt="cover {{ .Title}}" data-action="zoom"
           data-zoom-src="{{ $large.RelPermalink}}" sizes="auto" srcset='

@@ -3,6 +3,7 @@ title: "Premier janvier 2021"
 subtitle: "Sortir le Nikonos au lever de soleil"
 date: 2021-01-01T14:24:02+01:00
 draft: false
+favorite: true
 tags: []
 categories:
 - analog

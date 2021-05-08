@@ -10,7 +10,7 @@ resources:
   name: "cover"
 ---
 
-Yannick aime [écrire des articles](/posts), prendre des [photos](/series), lire des [livres](/books) et envoyer une [petite lettre](/bonjour) qui part toutes les deux semaines et [une photo](/details) qui part tous les mercredis. Il aime aussi [produire des tirages limités](/shop) de ses photos favorites.
+Yannick aime [écrire](/posts), prendre des [photos](/series), lire des [livres](/books) et envoyer une [petite lettre](/bonjour) qui part toutes les deux semaines et [une photo](/details) qui part tous les mercredis. Il aime aussi [produire des tirages limités](/shop) de ses photos favorites.
 
 {{< photo src="cover" >}}
 

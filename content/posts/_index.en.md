@@ -8,8 +8,8 @@ resources:
 - src: "*.jpg"
 menu:
   main:
-    weight: 1
-linktitle: "Articles"
+    weight: 3
+linktitle: "Archives"
 ---
 
 A whole lot of articles about anything. It goes from photography to coffee and sometimeswalking, reading and personal life philosophy.
