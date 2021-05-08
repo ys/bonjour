@@ -24,13 +24,13 @@ resources:
     name: "cover"
 ---
 
-Au [premier janvier](/premier-janvier), j'ai pu m'essayer au shoot aquatique avec mon nouvel ami le Nikonos V. Après avoir suivi pas mal de comptes qui shootaient sur terre comme en mer au Nikonos, j'ai trouvé un particulier qui se séparait de deux Nikonos V en bon état. J'ai même le flash et une belle valisette avec les autocollants du club de plongé et  la pub originale de cette beauté.
+Au [premier janvier](/premier-janvier), j'ai pu m'essayer au shoot aquatique avec mon nouvel ami le Nikonos V. Après avoir suivi pas mal de comptes qui shootaient sur terre comme en mer au Nikonos, j'ai trouvé un particulier qui se séparait de deux Nikonos V en bon état. J'ai même le flash et une belle valisette avec les autocollants du club de plongé et la pub originale de cette beauté.
 
 {{< photo src="palmes" alt="nikonos V & palmes" >}}
 
 Petit moment histoire. Le premier modèle de cet appareil, on le doit au célèbre Jacques-Yves est derrière tout cela et un ingénieur belge. Comme de par hasard vous allez me dire! Ils ont créé cela dans la boîte du commandant qui se nommait la Spirotechnique qui est un nom vachement cool aussi. Bon après, cela a été revendu à Nikon.
 
-Si comme moi vous aimé les bonnets rouges et les animaux marins, ce boîtier est une valeur sure pour votre collection. Il embarque un rien d'électronique pour un calcul de l'exposition automatique. Le viseur vous renseignera bien sur le temps d'exposition et la possible sur ou sous exposition si vous n'êtes pas en mode automatique. Ce qui est vraiment pratique une fois à l'eau. L'objectif est facile à opérer avec deux roulettes, une pour l'ouverture, l'autre pour la mise au point. Le design de l'objectif permet efficacement de déterminer le zone focus en fonction de l'ouverture et donc d'estimer la zone où votre sujet doit se trouver pour être net. Ou flou, si si, c'est artistique aussi.
+Si comme moi vous aimé les bonnets rouges et les animaux marins, ce boîtier est une valeur sure pour votre collection. Il embarque un rien d'électronique pour un calcul de l'exposition automatique. Le viseur vous renseignera bien sur le temps d'exposition et la possible sur ou sous exposition si vous n'êtes pas en mode automatique. Ce qui est vraiment pratique une fois à l'eau. L'objectif est facile à opérer avec deux roulettes, une pour l'ouverture, l'autre pour la mise au point. Le design de l'objectif permet efficacement de déterminer le zone focus en fonction de l'ouverture et donc d'estimer la zone où votre sujet doit se trouver pour être net. Ou flou, si si, c'est artistique aussi. Il existe plusieurs optiques pour ces boîtiers, je n'ai que le 35mm qui me suffit amplement.
 
 {{< grid images="1 | 2 / 3 | 4 - 5 / cover | 7 " >}}
 
