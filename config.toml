@@ -6,7 +6,7 @@ RemovePathAccents = true
 timeout = 200000
 enableRobotsTXT = true
 canonifyURLs = false
-disableKinds = ["taxonomyTerm"]
+#disableKinds = ["taxonomyTerm"]
 
 [build]
   writeStats = true
@@ -33,9 +33,9 @@ disableKinds = ["taxonomyTerm"]
   message = "Si tu aimes ce que tu as lu, j'envoie une petite lettre sur tout et rien toutes les deux semaines."
 
 [params.font]
-typekit = "mke5doh"
-serif = "ff-meta-serif-web-pro"
-sans = "ff-meta-web-pro"
+  typekit = "mke5doh"
+  serif = "ff-meta-serif-web-pro"
+  sans = "ff-meta-web-pro"
 
 [params.social]
   email = "hello@yannickschutz.com"

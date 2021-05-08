@@ -4,6 +4,7 @@ subtitle: "Un appareil petit mais costaud"
 date: 2020-11-13T17:37:39+02:00
 draft: false
 skipArchives: true
+favorite: true
 slug: "olympus-xa"
 seotitle: "Petite review totalement subjective de mon Olympus XA"
 description: "Ce petit appareil argentique m'accompagne quasi partout. C'est un mini rangefinder et non un point and shoot comme sa taille pourrait vous le faire croire. Il est polyvalent avec son ouverture à 2.8 sur son 35mm. Il est mignon et plus petit que mon iPhone."

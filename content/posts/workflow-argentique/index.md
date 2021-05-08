@@ -5,6 +5,7 @@ subtitle: "Petit manuel numérique à l'attention du photographe argentique ordo
 date: 2021-01-31T12:24:02+01:00
 draft: false
 skipArchives: true
+favorite: true
 tags: 
 - lightroom
 - argentique

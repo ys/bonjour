@@ -1,6 +1,7 @@
 ---
 title: "A little guide to clean hiking"
 subtitle: "And other civilities for nature"
+favorite: true
 date: 2019-06-05T07:38:06+02:00
 draft: false
 description: "How to hike cleaner and other tips for your outdoors' wanders"

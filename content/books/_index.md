@@ -10,7 +10,7 @@ resources:
 menu:
   footer:
     weight: 3
-linktitle: "lectures"
+linktitle: "Lectures"
 ---
 
 La plupart des livres que j'ai lu ces dernières années.
