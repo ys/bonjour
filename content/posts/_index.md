@@ -8,7 +8,7 @@ resources:
 - src: "*.jpg"
 menu:
   main:
-    weight: 1
+    weight: 4
 linktitle: "Archives"
 ---
 
