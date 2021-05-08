@@ -4,6 +4,7 @@ subtitle: "Nikonos at sunrise"
 date: 2021-01-01T14:24:02+01:00
 draft: false
 tags: []
+favorite: true
 categories:
 - analog
 slug: "first-of-january"

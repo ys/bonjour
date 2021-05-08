@@ -1,6 +1,7 @@
 ---
 title: "Just two minutes"
 subtitle: "Beaches, Habits and smiles"
+favorite: true
 date: 2019-05-04T15:38:06+02:00
 draft: false
 tags: ["environment", "beach", "clean", "ecology", "leave no trace", "volunteering"]
