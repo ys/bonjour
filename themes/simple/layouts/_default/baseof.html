@@ -12,8 +12,7 @@
   {{ partialCached "shared_head.html" . }}
 </head>
 
-<body
-  class="text-base leading-relaxed antialiased font-sans font-normal text-darker dark:text-gray-100 dark:bg-darker">
+<body class="text-base leading-relaxed antialiased font-sans font-normal text-darker dark:text-gray-100 dark:bg-darker {{ if .Params.background }}{{with .Params.color }}bg-{{ .}}-200 dark:bg-{{.}}-700{{end}}{{end }}">
   {{ partial "header" . }}
   <div class="container w-screen pt-8 pb-16 md:max-w-lg mx-auto min-h-1/2">
     <div class="mx-4 md:mx-0">
