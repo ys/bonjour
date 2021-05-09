@@ -1,8 +1,7 @@
 ---
 title: "Bonjour Nikonos V"
 subtitle: "De l'eau salée sur l'objectif"
-date: 2021-05-02T17:37:39+02:00
-draft: true
+date: 2021-05-09T13:37:39+02:00
 slug: "nikonos-v"
 favorite: true
 seotitle: "Petite review totalement subjective du Nikonos V"
