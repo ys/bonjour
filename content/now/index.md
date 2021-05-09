@@ -25,7 +25,7 @@ Je suis amoureux de l'océan et de la nature. Ces derniers temps, je ne fais plu
 Mon matos actuel:
 - [Olympus XA](/olympus-xa)
 - Leica M6 avec un Voigtlander Nokton Classic 35mm 1.4
-- Nikonos V avec son 35mm
+- [Nikonos V](/nikonos-v) avec son 35mm
 
 {{< photo src="cover" alt="yannick" >}}
 
