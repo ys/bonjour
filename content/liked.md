@@ -13,3 +13,5 @@ menu:
     weight: 4
 linktitle: Liked
 ---
+
+Des articles, posts ou autres choses découvertes sur le web que j'ai appréciés.

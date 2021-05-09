@@ -6,11 +6,11 @@
     {{ .Content }}
   </div>
 
-  <div class="mb-8">
+  <div class="font-ffserif mb-8">
   {{ range sort .Site.Data.liked "date" "desc" }}
-  <div class="relative py-2 ">
-    <span class="text-xs">{{ dateFormat "2006-01-02" .date }}</span>
-    <h2 class="text-md font-semibold text-darker dark:text-gray-100">
+  <div class="mt-8 ">
+    <span class="text-sm">{{ dateFormat "2006-01-02" .date }}</span>
+    <h2 class=" text-xl text-gray-900 dark:text-gray-100 font-normal py-1">
       <a class="underline" href="{{.url}}">
         {{ .title }}
       </a>
