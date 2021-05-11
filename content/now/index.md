@@ -53,4 +53,4 @@ Tout le contenu est copyrighté mais n'hésitez pas à demander si vous voulez l
 
 **Contact:** [hello@yannickschutz.com](mailto://hello@yannickschutz.com)
 
-*Cette page a été écrite le 2021.01.26. Si tu veux en savoir plus sur la page /now, [suis ceci](https://nownownow.com/about).*
+*Cette page a été écrite le 2021.05.11. Si tu veux en savoir plus sur la page /now, [suis ceci](https://nownownow.com/about).*
