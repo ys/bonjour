@@ -5,7 +5,7 @@ date: 2021-05-09T13:37:39+02:00
 slug: "nikonos-v"
 favorite: true
 seotitle: "Petite review totalement subjective du Nikonos V"
-description: "Un boîtier photo mythique qui nous ramène au célèbre bonnet rouge de Jacques-Yves. J'ai pu grâce à lui shooter de la pellicule dans l'eau salée." 
+description: "Un boîtier argentique mythique qui nous ramène au célèbre bonnet rouge de Jacques-Yves. J'ai pu grâce à lui shooter de la Portra 400 35mm dans l'eau salée." 
 tags:
   - argentique
   - pellicule
