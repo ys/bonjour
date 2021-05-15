@@ -1,9 +1,9 @@
 ---
-title: "Découvertes - 01"
+title: "Récemment - 001"
 subtitle: "Au détour d'une vague"
 date: 2021-05-15T13:37:39+02:00
-slug: "decouvertes-01"
-description: "Découvertes, c'est des liens, des choses que j'ai apprécié dernièrement. Ici, de la Bretonne bretonnante et du Québécois détonnant." 
+slug: "recemment-001"
+description: "Récemment, c'est des liens, des choses que j'ai apprécié dernièrement. Ici, de la Bretonne bretonnante et du Québécois détonnant." 
 tags:
   - argentique
   - video
@@ -33,3 +33,4 @@ Surfeuse et réalisatrice bretonne. Sa sensibilité et la beauté de ses images 
 ## [Jérémy Lachance](https://jeremylachance.com)
 
 Un message de Greg: "Ca devrait te plaire" et effectivement, ça me plait! Des collages, de l'argentique, du son. J'adore ce combo. J'aime ce côté créatif centré sur la photo. Son univers un rien accidentel et lo-fi me convainc totalement. Je commence à papoter et en plus il est vraiment sympa! Bin, combo! Un ami d'outre Atlantique. Son [guide alternatif du surf](https://jeremylachance.com/An-Alternative-Guide-to) est vraiment sympa aussi! On commence à papoter et je lui partage l'article sur les [surfers nazis californiens](https://www.nytimes.com/2019/09/28/opinion/sunday/surf-racism.html)! Un autre moment de lecture sympa!
+
