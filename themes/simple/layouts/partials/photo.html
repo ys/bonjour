@@ -15,7 +15,7 @@
     <img
       loading="lazy"
       style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover"
-      alt=""
+      alt="{{ .Description }}"
       class="cursor-pointer object-cover lazy absolute top-0 left-0 w-full h-full"
       data-action="zoom"
       data-zoom-src="{{ $src.RelPermalink}}"

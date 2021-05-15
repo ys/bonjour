@@ -1,4 +1,5 @@
 {{ $rowsslice := split (.Get "images") "/" }}
+{{ $desc := .Get "alt" }}
 {{ $rows := dict }}
 {{ range $rowIndex, $row := $rowsslice}}
   {{ $columnsslice := split $row "|" }}
@@ -15,7 +16,7 @@
         {{ else }}
           {{ $src := $.Page.Resources.GetMatch (printf "*%s*" $name) }}
           {{ if $src }}
-            {{ $images = $images | append (dict "Image" $src) }}
+            {{ $images = $images | append (dict "Image" $src "Description" $desc) }}
           {{ end }}
         {{ end }}
     {{ end }}

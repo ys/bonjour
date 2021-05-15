@@ -37,8 +37,11 @@ J'écris [une petite lettre](/bonjour) sur tout et rien toutes les deux semaines
 
 Je continue à me remettre en forme pour mieux surfer. Petit à petit le sport revient dans ma vie. C'est un plaisir. Cela fait aussi ~~27~~ 45 jours que je n'ai pas bu d'alcool, cela ne me manque pas du tout en ce moment. Plus de sodas depuis 5 ans aussi. 
 
+## Favoris
 
-*Cette page a été écrite le 2021.01.26. Si tu veux en savoir plus sur la page /now, [suis ceci](https://nownownow.com/about).*
+📷 → Mes films sont développés et scannés principalement par [Mori Film Lab](https://morifilmlab.com). Je scanne parfois avec un X-T30 à la maison.
+
+☕️ → Mon café vient en général de chez [Mok Coffee](https://mokcoffee.be). J'aime toujours tester et découvrir d'autres torréfacteurs.
 
 ## Colophon
 
@@ -49,3 +52,5 @@ Ce site n'envoie pas les infos de ses utilisateurs chez les gros gras du web. Il
 Tout le contenu est copyrighté mais n'hésitez pas à demander si vous voulez le réutiliser, on trouvera un moyen.
 
 **Contact:** [hello@yannickschutz.com](mailto://hello@yannickschutz.com)
+
+*Cette page a été écrite le 2021.05.11. Si tu veux en savoir plus sur la page /now, [suis ceci](https://nownownow.com/about).*
