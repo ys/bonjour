@@ -1,4 +1,5 @@
 ---
+color: cascade
 title: Détail
 hideSubscribe: true
 grid: true

@@ -5,7 +5,7 @@
         {{ $active := or ($current.IsMenuCurrent "nav" .) ($current.HasMenuCurrent "nav" .) }}
         {{ $active = or $active (eq .Page $current) }}
         {{ $active = or $active (eq .Page.Section $current.Type) }}
-        <li class="inline {{if $active}} font-bold text-gray-800 dark:text-gray-200 {{end}} {{ with $current.Params.Color }}hover:text-{{ . }}-800 {{ else }}hover:text-accent-600{{ end }} transition ease-in-out duration-200">
+        <li class="inline {{if $active}} font-bold text-gray-800 dark:text-gray-200 {{end}} {{ with $current.Params.Color }}hover:text-{{ . }}-600 {{ else }}hover:text-accent-600{{ end }} transition ease-in-out duration-200">
         <a class="{{ .Params.class }} whitespace-nowrap" href="{{ .URL }}" title="{{ .Title }}">
           {{ .Pre }} {{ .Name }}
         </a>
@@ -13,4 +13,3 @@
       {{ end }}
     </ul>
   </nav>
-
