@@ -7,23 +7,21 @@
   </div>
 
   <div class="mb-8">
-  {{ range .RegularPages.GroupByDate "2006" }}
+  {{ range sort .Site.Data.books "year" "desc" }}
   <header class="my-4 flex flex-row justify-between">
-  <h2 class="text-xl lg:text-2xl font-bold">{{ .Key }}</h2><span class="text-sm opacity-30 text-right font-light">{{ len .Pages}}</span>
+  <h2 class="text-xl lg:text-2xl font-bold">{{ .year }}</h2><span class="text-sm opacity-30 text-right font-light">{{ len .books}}</span>
   </header>
-  {{ range .Pages }}
+  {{ range sort .books "date" "desc" }}
   <div class="gap-2 relative py-2 grid grid-cols-4 ">
     <h2 class="col-span-2 font-semibold text-darker dark:text-gray-100">
-      <a href="{{.RelPermalink}}">
-        {{ .Params.Title }}
-      </a>
+        {{ .title }}
     </h2>
-    <h3 class="text-gray-800 dark:text-gray-300">{{ .Params.author }}</h3>
+    <h3 class="text-gray-800 dark:text-gray-300">{{ .author }}</h3>
     <div class="text-right tracking-tight text-xs text-gray-700 dark:text-gray-300 uppercase">
-      {{ if .Params.reading }}
+      {{ if .reading }}
       {{ T "reading" }}
       {{ else }}
-      {{ with .Params.rating }}{{ strings.Repeat . "★" }}{{end}}
+      {{ with .rating }}{{ strings.Repeat . "★" }}{{end}}
       {{ end }}
     </div>
   </div>
