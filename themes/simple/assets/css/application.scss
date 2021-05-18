@@ -75,10 +75,6 @@ hr {
   }
 }
 
-h1:hover ~ .back {
-  @apply block transition ease-in-out duration-200;
-}
-
 .post {
   @apply mb-10;
   h1, h2, h3, h4 {

@@ -4,9 +4,6 @@
     {{ .Title }}
     </a>
   </h1>
-  <a alt="{{.Site.Title}} website homepage link"
-    class="back hidden inline md:absolute top-1 md:-ml-6 text-xl text-gray-800 dark:text-gray-100"
-    href="{{ .Parent.RelPermalink | default ("/" | relLangURL )}}">←</a>
   <h2 class="italic text-gray-600 dark:text-gray-300">
     {{ with .Params.subtitle }}
     {{ . }}

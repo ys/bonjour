@@ -2,9 +2,6 @@
 
 <header class="relative">
   <h1 class="text-3xl font-ffserif text-darker dark:text-gray-100">{{.Title}}</h1>
-  <a alt="{{.Site.Title}} website homepage link"
-    class="hidden inline md:absolute top-1 md:-ml-6 text-xl text-gray-800 dark:text-gray-100"
-    href="{{ "/" | relLangURL }}"> ←</a>
   <div class="post">
     {{ .Content }}
   </div>
