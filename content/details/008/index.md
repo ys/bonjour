@@ -5,8 +5,8 @@ emoji: 👀
 letter: detail
 lettertitle: "👀 Detail, une photo par semaine. Inscris-toi!"
 lettermessage: "Si tu veux recevoir la photo dans ta boîte mail."
-camera: "Leica M6"
-film: "Kodak Portra 400"
+camera: "Olympus XA"
+film: "Kodak Gold 200"
 description: "Une photo par semaine, dans ta boîte mail"
 date: 2021-05-12T00:57:50+02:00
 color: "cascade"
