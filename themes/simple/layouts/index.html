@@ -1,11 +1,9 @@
 {{ define "main" }}
-<div class="home font-ffserif with-links mb-10">
-  {{ .Content }}
-</div>
-<hr />
-{{ partial "favorites" . }}
-<hr />
-{{ partial "recent_journal" . }}
-<hr />
-{{ partial "recent_books" . }}
+  <div class="home font-ffserif with-links mb-10">
+    {{ .Content }}
+  </div>
+  <hr />
+  {{ partial "favorites" . }}
+  <hr />
+  {{ partial "recent_journal" . }}
 {{ end }}
