@@ -1,6 +1,6 @@
 ---
-title: "Maintenant"
-description: "Ce que je fais, qui m'intéresse et me tracasse."
+title: "Now"
+description: "What I am doing and enjoying lately"
 date: 2020-10-07T12:57:50+02:00
 draft: false
 color: sunray
@@ -35,7 +35,7 @@ J'ai acheté du matos pour scanner moi-même. Donc en gros j'ai un Fuji X-T30 ju
 
 J'écris [une petite lettre](/bonjour) sur tout et rien toutes les deux semaines. Cela me permet d'écrire de manière régulière. C'est un vrai petit plaisir! Je n'ai pas beaucoup de lecteurs mais ils me répondent. Donc en gros, cela me rend heureux.
 
-Je continue à me remettre en forme pour mieux surfer. Petit à petit le sport revient dans ma vie. C'est un plaisir. Cela fait aussi ~~27~~ 45 jours que je n'ai pas bu d'alcool, cela ne me manque pas du tout en ce moment. Plus de sodas depuis 5 ans aussi. 
+Je continue à me remettre en forme pour mieux surfer. Petit à petit le sport revient dans ma vie. C'est un plaisir. Je n'ai pas bu d'alcool pendant plusieurs mois cette année et je risque de recommencer. Plus de sodas depuis 5 ans aussi. 
 
 ## Favoris
 
