@@ -9,10 +9,6 @@ resources:
 - src: "*.jpg"
 - src: "1.jpg"
   name: "cover"
-menu:
-  main:
-    weight: 4
-linktitle: "About"
 ---
 
 Check the french version for now, I am lazy and should just translate it :D
