@@ -1,0 +1,18 @@
+{{ partial "article_header" . }}
+<div data-pswp class="mb-10 font-ffserif content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
+  <div class="post ">
+    {{.Content}}
+  </div>
+  {{ partial "article_camera" . }}
+  <span class="text-xs mb-32  text-right font-sans dark:text-gray-300 text-gray-700 capitalize block">
+    {{ with .Params.emoji }}
+    {{ . }}
+    {{ else }}
+    {{ partial "emoji" . }}
+    {{ end }}
+    {{ partial "category-link" . }}
+    {{ .Site.Params.arrow }}
+    <a href="{{ .RelPermalink }}">
+      {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+    </a>
+  </span>

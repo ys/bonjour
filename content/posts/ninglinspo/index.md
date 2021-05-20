@@ -8,7 +8,7 @@ emoji: "🇧🇪"
 gear: ["📷 Fuji X100T"]
 place: "Belgique"
 categories:
-- stories
+- ailleurs
 resources:
 - src: "DSCF8536.jpg"
   name: "cover"

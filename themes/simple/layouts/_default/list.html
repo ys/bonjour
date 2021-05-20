@@ -12,7 +12,9 @@
   {{ range $paginator.Pages }}
     {{ if $.Params.grid }}
       {{ partial "cover_title" . }}
-    {{ else }}
+    {{ else if $.Params.inline }}
+      {{ partial "inline" . }}
+    {{ else  }}
       {{ partial "title" . }}
     {{ end }}
   {{ end }}

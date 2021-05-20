@@ -1,6 +1,6 @@
 ---
-title: "des prints"
-description: "des prints à vendre sur du beau papier"
+title: "Des prints"
+description: "Des prints à vendre sur du beau papier"
 grid: true
 emoji: "💸"
 menu:
@@ -10,4 +10,4 @@ menu:
 linktitle: "shop"
 ---
 
-des prints sur du beau papier, parfois avec un beau cadre.
+Des prints sur du beau papier, parfois avec un beau cadre.

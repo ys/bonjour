@@ -7,7 +7,7 @@ draft: false
 slug: "south-of-bretagne-part-2"
 place: "France"
 categories:
-  - stories
+  - ailleurs
 emoji: "⚓️"
 tags:
   [

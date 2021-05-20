@@ -8,7 +8,8 @@ date: 2020-04-12 07:03:03 +0200
 resources:
   - src: "*.jpg"
 categories:
-  - confinement
+- journal
+- confinement
 slug: "apprendre-a-la-maison"
 aliases:
   - "2020-04-12"

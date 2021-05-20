@@ -7,7 +7,7 @@ slug: "digital-declutter"
 resources:
   - src: "*.jpg"
 categories:
-  - life
+  - journal
 ---
 
 Less social networks to start the year. As I said, I read Cal Newport’s last book on Digital minimalism and then early yesterday, I read a [blog post](https://thefocuscourse.com/doing-a-digital-declutter/) on the Focus Course on them doing a digital declutter. I was like « Why not » and there it goes, I uninstall Instagram and Twitter from iPad and iPhone. Then install [NextDns](https://nextdns.io) and block all those pesky attention stealers of social networks.

@@ -6,7 +6,8 @@ date: 2020-04-07 07:03:03 +0200
 resources:
   - src: "*.jpg"
 categories:
-  - confinement
+- journal
+- confinement
 slug: "a-ne-rien-faire"
 aliases:
   - "2020-04-07"

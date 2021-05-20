@@ -6,7 +6,8 @@ draft: false
 description: "Comment randonner plus proprement et autres astuces lors de vos sorties nature."
 tags: ["environement", "plage", "nettoyage", "ecologie", "leave no trace", "forêt propre", "journée mondiale de l'environnement", "volontariat", "petits gestes"]
 categories:
-- life
+- journal
+- activism
 slug: "randonnee-propre"
 emoji: "🗺"
 resources:

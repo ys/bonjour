@@ -21,7 +21,7 @@ emoji: "🇩🇪"
 gear: ["📷 Fuji X100T", "📱 iPhone 6s"]
 place: "Allemagne"
 categories:
-  - stories
+  - ailleurs
 resources:
   - name: "cover"
     src: "schwarzwald-32.jpg"

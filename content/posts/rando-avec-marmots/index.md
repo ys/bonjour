@@ -20,7 +20,7 @@ tags:
     "balades",
   ]
 categories:
-  - life
+  - journal
 slug: "astuces-rando-avec-enfants"
 emoji: "🧒"
 resources:

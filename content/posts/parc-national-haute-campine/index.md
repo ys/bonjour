@@ -6,7 +6,7 @@ slug: "parc-national-de-haute-campine"
 emoji: "🇧🇪"
 tags: ["randonnée", "parc national", "sentiers", "nature", "foret", "limbourg", "belgique", "famille", "sortie"]
 categories:
-- stories
+- ailleurs
 place: "Belgique"
 gear: ["📷 Fuji X100T", "📱 iPhone 6s"]
 resources:

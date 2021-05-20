@@ -20,7 +20,7 @@ tags:
   ]
 place: "France"
 categories:
-  - stories
+  - ailleurs
 slug: "bivouac-and-canoe"
 emoji: "🛶"
 resources:
