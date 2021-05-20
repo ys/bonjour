@@ -13,7 +13,7 @@ tags:
     "suggestions",
   ]
 categories:
-  - life
+  - journal
 description: "Some suggestions for your summer readings. Wherever you are, mountains or beach."
 slug: "reading-list"
 emoji: "📚"

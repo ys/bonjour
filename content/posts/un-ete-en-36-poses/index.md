@@ -5,7 +5,7 @@ draft: false
 subtitle: "Photographie argentique, soleil et petits instants"
 tags: ["photographie", "argentique", "reflexion", "document your day", "lent", "35mm", "film"]
 categories:
-- life
+- journal
 slug: "un-ete-en-36-poses"
 emoji: "📸"
 resources:

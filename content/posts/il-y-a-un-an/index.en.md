@@ -8,7 +8,7 @@ tags: ["retrospective", "neorural", "france", "finistere", "monts d'Arrée", "Br
 
 gear: ["📷 Fuji X-T20"]
 categories:
-- life
+- journal
 resources:
 - src: "saint-samson.jpg"
   name: "cover"

@@ -7,7 +7,7 @@ draft: false
 slug: "bretagne-sud-part-1"
 place: "France"
 categories:
-  - stories
+  - ailleurs
 emoji: "⚓️"
 tags:
   [

@@ -16,7 +16,8 @@ tags:
 resources:
   - src: "*.jpg"
 categories:
-  - livres
+- journal
+- livres
 color: indigo
 ---
 

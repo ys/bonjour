@@ -1,8 +1,6 @@
 ---
 emoji: 📖
 title: Ta faute, Damien
-categories:
-- journal
 date: 2021-01-06 21:02:33 +0200
 resources:
   - src: "*.jpg"

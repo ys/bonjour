@@ -10,7 +10,7 @@ resources:
   - src: "*.jpg"
 color: green
 categories:
-  - life
+  - journal
 ---
 
 {{< photo src="cover.jpg" alt="hache" >}}

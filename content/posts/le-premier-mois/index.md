@@ -6,7 +6,7 @@ tags: ["retrospective", "changement de vie", "neoruraux", "exode rural", "france
 slug: "le-premier-mois"
 emoji: "🏡"
 categories:
-- life
+- journal
 resources:
 - name: "cover"
   src: "hello-world-4.jpg"

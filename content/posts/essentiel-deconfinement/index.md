@@ -7,7 +7,7 @@ slug: "essentiel-deconfinement"
 aliases:
   - "2020-05-18"
 categories:
-  - life
+  - journal
 resources:
   - src: "*.jpg"
 ---

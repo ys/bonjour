@@ -1,8 +1,6 @@
 ---
 title: "Vitamine D en noir et blanc"
 color: "bluewhale"
-categories:
-- journal
 date: 2021-01-26 10:27:33 +0200
 emoji: ☺️
 resources:

@@ -16,7 +16,7 @@ tags:
   ]
 place: "France"
 categories:
-  - stories
+  - ailleurs
 slug: "le-printemps-s-installe"
 emoji: "🌱"
 resources:

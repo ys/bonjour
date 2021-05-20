@@ -13,7 +13,7 @@ tags:
 - walking
 place: "France"
 categories:
-- stories
+- ailleurs
 slug: "ayous-lakes"
 emoji: "⛰"
 summary: "It is 6:30 am, time to get to the parking lot. That parking can get full pretty quickly. A guard told us that we needed to be there before 8am if we wanted to get in. We have a full tank and an hour of drive, we should be all good."

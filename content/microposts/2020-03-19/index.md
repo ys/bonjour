@@ -1,8 +1,6 @@
 ---
 emoji: 🏡
 title: "Confinement jour 4"
-categories:
-- journal
 date: 2020-03-19 07:27:33 +0200
 resources:
   - src: "*.jpg"

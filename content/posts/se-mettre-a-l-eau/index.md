@@ -18,7 +18,7 @@ tags:
 resources:
   - src: "*.jpg"
 categories:
-  - life
+  - journal
 color: indigo
 ---
 

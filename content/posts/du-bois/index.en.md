@@ -6,7 +6,7 @@ resources:
   - src: "*.jpg"
 color: green
 categories:
-  - life
+  - journal
 slug: "about-wood"
 aliases:
   - "2020-04-27"

@@ -5,7 +5,7 @@ date: 2020-12-21T14:24:02+01:00
 draft: false
 tags: []
 categories:
-- life
+- journal
 slug: "2020"
 color: sunray
 emoji: "😷"

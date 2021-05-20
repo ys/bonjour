@@ -21,7 +21,7 @@ tags:
 emoji: "🇺🇸"
 place: "Etats-Unis"
 categories:
-  - stories
+  - ailleurs
 resources:
   - src: "*.jpg"
   - src: "south-lake-tahoe-22.jpg"

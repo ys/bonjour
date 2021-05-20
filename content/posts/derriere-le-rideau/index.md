@@ -5,6 +5,7 @@ subtitle: Comment ce petit site passe de mes mains aux vôtres?
 description: Workflow et technologies derrière yannickschutz.com
 categories:
 - journal
+- tech
 date: 2021-02-16T18:57:50+02:00
 skipArchives: true
 resources:

@@ -19,7 +19,7 @@ tags:
 gear: ["📷 Fuji X100T"]
 place: "Belgique"
 categories:
-  - stories
+  - ailleurs
 resources:
   - name: "cover"
     src: "DSCF7905.jpg"

@@ -1,8 +1,6 @@
 ---
 emoji: 🌲
 title: "Le cèdre est mort"
-categories:
-- journal
 date: 2020-02-09 07:27:33 +0200
 resources:
   - src: "*.jpg"

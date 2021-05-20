@@ -11,7 +11,7 @@ tags:
 - apprentisage
 - film
 categories:
-- life
+- journal
 slug: "apprentissage-photo-argentique"
 emoji: "📷"
 resources:

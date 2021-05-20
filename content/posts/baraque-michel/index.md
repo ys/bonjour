@@ -9,7 +9,7 @@ gear: ["📷 Fuji X100T"]
 place: "Belgique"
 summary: "Cela fait quelques temps que l'on regarde cette balade. On a souvent fait la fagne de Pôleur. Tom adore les parties recouvertes de caillebotis. Cette balade autour de la Baraque Michel sera en partie sur caillebotis, en partie dans les fagnes et dans les bois."
 categories:
-- stories
+- ailleurs
 resources:
 - src: "*.jpg"
 ---

@@ -16,7 +16,7 @@ tags:
   ]
 place: "France"
 categories:
-  - stories
+  - ailleurs
 slug: "spring-is-here"
 emoji: "🌱"
 resources:

@@ -1,7 +1,5 @@
 ---
 title: 0003
-categories:
-- journal
 date: 2020-01-22 07:27:33 +0200
 resources:
   - src: "*.jpg"

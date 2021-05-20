@@ -7,7 +7,7 @@ slug: "fin-de-disette"
 aliases:
   - "2020-02-15"
 categories:
-  - life
+  - journal
 ---
 
 Voilà, j’ai passé un mois loin des réseaux sociaux. Pour faire quoi me demanderez-vous. J’avais de grands goals et je pense que cet électrochoc m’a permis d’en accomplir certains.
