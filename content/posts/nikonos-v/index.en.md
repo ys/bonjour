@@ -4,6 +4,7 @@ title: "Hello Nikonos V"
 subtitle: "Salted water on the lens"
 date: 2021-05-09T13:37:39+02:00
 slug: "nikonos-v"
+draft: true
 favorite: true
 seotitle: "Totally subjective review of the Nikonos V"
 description: "A classical film camera bringin us back the famous Jacques-Yves Cousteau. I got some really good shots with the Portra 400 in the ocean." 
