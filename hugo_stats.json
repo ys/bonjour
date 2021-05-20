@@ -1,11 +1,13 @@
 {
   "htmlElements": {
     "tags": [
+      "!doctype",
       "a",
       "article",
       "blockquote",
       "body",
       "br",
+      "br/",
       "button",
       "circle",
       "code",
@@ -22,6 +24,7 @@
       "head",
       "header",
       "hr",
+      "hr/",
       "html",
       "iframe",
       "img",
