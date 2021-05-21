@@ -5,10 +5,10 @@ date: 2021-05-21 10:27:33 +0200
 emoji: 🌵
 skipArchives: true
 resources:
-  - src: "*.svg"
+  - src: "*.png"
 ---
 
-![](ocean.svg)
+![](ocean.png)
 
 ```
 Vider le cerveau
