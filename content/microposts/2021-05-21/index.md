@@ -8,7 +8,7 @@ resources:
   - src: "*.png"
 ---
 
-![](ocean.png)
+![](cactus.png)
 
 ```
 Vider le cerveau
