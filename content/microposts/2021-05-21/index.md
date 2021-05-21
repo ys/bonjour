@@ -2,7 +2,8 @@
 title: "Organique"
 color: "bluewhale"
 date: 2021-05-21 10:27:33 +0200
-emoji: ☺️
+emoji: 🌵
+skipArchives: true
 resources:
   - src: "*.svg"
 ---
