@@ -3,6 +3,7 @@ title: "Micro activisme"
 slug: "activism"
 favorite: true
 emoji: ✊
+color: "pink"
 resources:
   - src: "*.svg"
 ---
