@@ -7,6 +7,24 @@
   {{ .Content }}
 </div>
 
+{{ if eq .Section "posts" }}
+  {{ with ($.Site.GetPage (printf "/categories")) }}
+    <div class="md:-mx-32 flex flex-row justify-between ">
+      {{ range sort (where .Pages ".Params.favorite" true) "Title" }}
+      <div class="flex flex-col items-center p-8 relative">
+        {{ with .Resources.GetMatch "back.svg" }}
+        <div class="z-0 fill {{with .Params.color}}text-{{.}}-200{{ else}} text-accent-200{{end}} absolute -top-2 -left-2 -right-2 bottom-2 ">
+        {{.Content |safeHTML}}
+        </div>
+        {{ end}}
+        <span class="z-10">{{ .Params.emoji }}</span>
+        <a class="z-10 text-gray-800 font-semibold uppercase" href="{{ .RelPermalink }}">{{ .Title}}</a>
+      </div>
+      {{ end }}
+    </div>
+  {{ end }}
+{{ end }}
+
 {{ $paginator := (.Paginate .RegularPages 250) }}
 <div class="mb-10 {{ with .Params.grid }}md:-mx-32 grid gap-8 md:grid-cols-3 sm:grid-cols-1{{end}}">
   {{ range $paginator.Pages }}

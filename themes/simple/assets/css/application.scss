@@ -46,7 +46,7 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, 
     }
   }
 }
-.logo svg {
+.logo svg, .fill svg {
   @apply fill-current;
 }
 footer ul li:not(:last-child):after {
