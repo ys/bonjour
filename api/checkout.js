@@ -1,9 +1,7 @@
 const stripe = require('stripe')(process.env.STRIPE_SECRET_KEY);
-const inventory = require('../data/shop.json')["prints"];
 
 module.exports =  async(req, res) => {
-  const { sku } = req.body;
-  const item = inventory.find((p) => p.sku === sku);
+  const { price_id, slug } = req.body;
   url = `https://${process.env.VERCEL_URL}`
   if (process.env.BASE_URL){
   url = `https://${process.env.BASE_URL}`
@@ -12,7 +10,7 @@ module.exports =  async(req, res) => {
   const session = await stripe.checkout.sessions.create({
     line_items: [
       {
-        price: item.price_id,
+        price: price_id,
         quantity: 1
       }
     ],
@@ -27,8 +25,8 @@ module.exports =  async(req, res) => {
       ]
     },
     payment_method_types: ['card'],
-    cancel_url: `${url}/shop/${item.slug}`,
-    success_url: `${url}/shop/${item.slug}?session_id={CHECKOUT_SESSION_ID}`,
+    cancel_url: `${url}${slug}`,
+    success_url: `${url}${slug}?session_id={CHECKOUT_SESSION_ID}`,
   });
 
 

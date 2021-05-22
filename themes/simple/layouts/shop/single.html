@@ -39,10 +39,10 @@
   {{ end }}
   <div  class="post md:w-2/6 md:pl-8 ">
     {{.Content}}
-    {{ if .Params.sku }}
+    {{ if .Params.price_id }}
       <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
       <form action="" method="post" id="stripe-form{{ if .Params.soldout }}-nope{{ end }}">
-        <input type="hidden" name="sku" value="{{.Params.sku}}" />
+        <input type="hidden" name="price_id" value="{{.Params.price_id}}" />
         <button
           onclick="this.querySelector('svg').classList.toggle('hidden');this.querySelector('span').classList.toggle('hidden');"
           class="font-sans w-full mt-4 {{ if .Params.soldout }}bg-gray-500{{ else}}bg-accent-500 hover:bg-accent-600{{ end}} rounded-sm transition duration-500 ease-in-out text-white font-bold py-2 m-0 appearance-none px-4 cursor-pointer"
