@@ -1,5 +1,6 @@
 ---
 title: "Café"
+description: "Grains moulus, chaud ou froid"
 slug: "cafe"
 favorite: true
 emoji: ☕️

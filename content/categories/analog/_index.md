@@ -1,9 +1,10 @@
 ---
-title: "Photo argentique"
+title: "Argentique"
 slug: "analog"
 favorite: true
 emoji: 📷
 color: cascade
+description: "35, 120, du grain et de beaux moments"
 resources:
   - src: "*.svg"
 ---

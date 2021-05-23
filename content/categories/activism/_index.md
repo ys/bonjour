@@ -3,7 +3,8 @@ title: "Micro activisme"
 slug: "activism"
 favorite: true
 emoji: ✊
-color: "pink"
+color: "purple"
+description: "Des actions simples pour notre planète"
 resources:
   - src: "*.svg"
 ---

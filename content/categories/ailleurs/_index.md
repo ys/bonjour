@@ -1,5 +1,6 @@
 ---
 title: "Ailleurs"
+description: "Petites aventures, grandes histoires"
 slug: "ailleurs"
 favorite: true
 emoji: 🌏
