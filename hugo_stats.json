@@ -49,6 +49,7 @@
     "classes": [
       "-left-16",
       "-left-2",
+      "-left-4",
       "-left-8",
       "-ml-1",
       "-ml-4",
@@ -141,6 +142,7 @@
       "grid",
       "grid-cold-1",
       "grid-cols-4",
+      "h-",
       "h-1/2",
       "h-2/3",
       "h-5",
@@ -302,6 +304,7 @@
       "transition",
       "uppercase",
       "w-1/2",
+      "w-1/4",
       "w-2/3",
       "w-5",
       "w-full",
@@ -309,7 +312,8 @@
       "whitespace-nowrap",
       "with-links",
       "z-0",
-      "z-10"
+      "z-10",
+      "z-20"
     ],
     "ids": [
       "-combien-de-poules",
