@@ -2,7 +2,7 @@
 title: "New year, new wave"
 grid: "cover"
 subtitle: "50€"
-sku: "NEWYEAR"
+price_id: "price_1IlKKMFaA8Wpl3EpzXxc7fza"
 ---
 **Les premières vagues de l'anneee au Dossen**  
 📷 Nikonos V - Kodak Portra 400

@@ -41,7 +41,10 @@ function handleFormSubmission(event) {
     event.preventDefault();
     form = new FormData(event.target);
 
-    data = { sku: form.get('sku') };
+    data = {
+      price_id: form.get('price_id'),
+      slug: window.location.pathname
+    };
 
     fetch('/api/checkout', {
       method: 'POST',

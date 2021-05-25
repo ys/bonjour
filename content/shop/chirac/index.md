@@ -2,5 +2,7 @@
 title: "Chirac"
 draft: true
 grid: "cover"
-sku: "CHIRAC"
+price_id: "price_1IkpUeFaA8Wpl3EpO079JIqC"
 ---
+
+LOL

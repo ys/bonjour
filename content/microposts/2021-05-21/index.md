@@ -8,7 +8,7 @@ resources:
   - src: "*.png"
 ---
 
-{{< photo src="cactus.png" alt="cactus" >}}
+{{< photo src="cactus.png" no-shadow="hell no" alt="cactus" >}}
 
 ```
 Vider le cerveau
