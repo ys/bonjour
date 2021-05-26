@@ -23,6 +23,8 @@ Il y a peu, j'ai eu une chance incroyable. J'ai été invité par la maitresse d
 
 La Water family est une association qui oeuvre pour l'éducation à la préservation de l'eau. Que ce soit en maternelles ou à l'université, ils sont là pour partager une approche positive et pédagogique. Un tas de bonnes pratiques à apprendre pour éviter de polluer. Éduquer les plus jeunes pour que à leur tour, ils éduquent les moins jeunes. Enfin, vous voyez le topo. Je pense même que vous pouvez les faire venir pour la baptême du petit ou le mariage de tante Arianne. À confirmer...
 
+Leur [site](https://waterfamily.org) fourmille de resources, de jeux, de vidéos, d'interviews et autres qui vous permettront de mieux comprendre les enjeux liés à l'eau, sa préservation et les problèmes de pollution à travers le monde. Regardez [ce super post](https://waterfamily.org/news-positives-21-surfeur-responsable/) pour être un surfeur un peu plus responsable.
+
 ## Et cette journée alors?
 
 La Water Family est venue deux jours à l'école distillant conseils et savoir à toutes les classes de Berrien. Les plus petits sont rentrés chez eux avec des recettes de savon maison, les plus grands en apprenant la face cachée de l'iceberg sur notre utilisation de l'eau. Je n'étais pas présent mais selon les echos, ce fut une belle réussite.
@@ -37,4 +39,4 @@ Les enfants apprennent sur la matinée le grand cycle de l'eau, de la mer aux nu
 
 Ils sont fin prêts à rentrer convaincre leurs parents que le vrac c'est le futur, que le savon bio c'est mieux et que l'on devrait se bouger l'arrière train pour sauver cette planète qui au final est bien bleue. 
 
-Une vraiment belle matinée, je suis vraiment reconnaissant envers [Eldrine et Ewen](https://waterfamily.org/antenne-loire-bretagne/) qui ont rendu cela possible. Merci à vous 🙏.
+Une vraiment belle matinée, je suis vraiment reconnaissant envers [Eldrine et Ewen](https://waterfamily.org/antenne-loire-bretagne/) qui ont rendu cela possible. Merci à vous 🙏. J'espère vraiment les recroiser pour pouvoir papoter un peu plus et aussi m'investir encore dans ce genre de belles initiatives.
