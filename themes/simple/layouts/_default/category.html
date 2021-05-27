@@ -1,14 +1,20 @@
 {{ define "main" }}
+{{ $cat := . }}
 {{ $paginator := (.Paginate (where .RegularPages "Type" "posts") 10) }}
-<header class="relative">
+<header class="flex flex-col relative">
+  {{ with $cat.Resources.GetMatch "back.svg" }}
+    <div class="fill {{with $cat.Params.color}} text-{{.}}-200 dark:text-{{.}}-800{{ else}} dark:text-accent-800 text-accent-200{{end}} absolute -top-4 -left-16 h-full">
+      {{.Content |safeHTML}}
+    </div>
+  {{ end}}
   <h1
-    class="text-3xl font-ffserif text-darker dark:text-gray-100 {{ with .Params.Color }}hover:text-{{ . }}-600 {{ else }}hover:text-accent-600{{ end }} transition ease-in-out duration-200">
+    class="text-3xl z-10 font-ffserif text-darker dark:text-gray-100 {{ with .Params.Color }}hover:text-{{ . }}-600 {{ else }}hover:text-accent-600{{ end }} transition ease-in-out duration-200">
     <a href="{{ " /" | relLangURL }}">{{.Title}}</a>
   </h1>
-</header>
-<div class="post with-links">
+<div class="post with-links z-10">
   {{ .Content }}
 </div>
+</header>
 
 <div class="mb-10">
   {{ range $paginator.Pages }}
