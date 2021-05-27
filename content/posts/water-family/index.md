@@ -29,7 +29,9 @@ Il y a peu, j'ai eu une chance incroyable. J'ai été invité par la maitresse d
 
 ## La Water quoi?
 
+<div class="w-1/3 mx-auto">
 {{< photo src="logo" alt="logo" no-shadow="true" no-lqip="true" >}}
+</div>
 
 La Water family est une association qui oeuvre pour l'éducation à la préservation de l'eau. Que ce soit en maternelles ou à l'université, ils sont là pour partager une approche positive et pédagogique. Un tas de bonnes pratiques à apprendre pour éviter de polluer. Éduquer les plus jeunes pour que à leur tour, ils éduquent les moins jeunes. Enfin, vous voyez le topo. Je pense même que vous pouvez les faire venir pour la baptême du petit ou le mariage de tante Arianne. À confirmer...
 
