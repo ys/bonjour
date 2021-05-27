@@ -45,8 +45,11 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, 
       @apply text-gray-900 dark:text-gray-100;
     }
   }
+  .td-#{$color} {
+    text-decoration-color: theme('colors.#{$color}.600');
+  }
 }
-.logo svg {
+.logo svg, .fill svg {
   @apply fill-current;
 }
 footer ul li:not(:last-child):after {
