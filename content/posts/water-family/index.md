@@ -29,7 +29,7 @@ Il y a peu, j'ai eu une chance incroyable. J'ai été invité par la maitresse d
 
 ## La Water quoi?
 
-<div class="w-1/3 mx-auto">
+<div class="w-1/3 ">
 {{< photo src="logo" alt="logo" no-shadow="true" no-lqip="true" >}}
 </div>
 

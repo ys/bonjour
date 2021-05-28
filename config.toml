@@ -33,7 +33,8 @@ canonifyURLs = false
   message = "Si tu aimes ce que tu as lu, j'envoie une petite lettre sur tout et rien toutes les deux semaines."
 
 [params.font]
-  typekit = "mke5doh"
+#  typekit = "mke5doh"
+  typekit = "bxg1sgg"
   serif = "ff-meta-serif-web-pro"
   sans = "ff-meta-web-pro"
 

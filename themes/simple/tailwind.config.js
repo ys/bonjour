@@ -18,6 +18,7 @@ module.exports = {
       fontFamily: {
         ffserif: ["ff-meta-serif-web-pro"],
         ffsans: ["ff-meta-web-pro"],
+        titles: ["neue-haas-unica"],
       },
       colors: {
         gray: colors.warmGray,

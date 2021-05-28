@@ -6,12 +6,12 @@
     {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
   </div>
   <header class="">
-    <h2 class="font-ffserif text-3xl text-darker dark:text-gray-100 {{ with .Params.Color }}hover:text-{{ . }}-600 {{ else }}hover:text-accent-600{{ end }} transition ease-in-out duration-200">
+    <h2 class="font-titles font-black text-3xl text-darker dark:text-gray-100 {{ with .Params.Color }}hover:text-{{ . }}-600 {{ else }}hover:text-accent-600{{ end }} transition ease-in-out duration-200">
       <a href="{{ .RelPermalink }}">
         {{ .Title }}
       </a>
     </h2>
-    <h3 class="font-ffserif italic line-clamp-1 text-normal text-gray-700 dark:text-gray-300">
+    <h3 class="font-sans font-light italic line-clamp-1 text-normal text-gray-700 dark:text-gray-300">
       {{ with .Params.subtitle }}
       {{ . }}
       {{ else }}

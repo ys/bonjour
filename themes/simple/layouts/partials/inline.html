@@ -1,5 +1,5 @@
 <header class="mb-6 relative ">
-  <h2 class="text-xl font-ffserif hover:underline {{ with .Params.Color }}text-{{ . }}-600 dark:text-{{.}}-200 {{ else }}dark:text-accent-200 text-accent-600{{ end }} transition ease-in-out duration-200">
+  <h2 class="text-3xl font-black font-titles hover:underline {{ with .Params.Color }}text-{{ . }}-600 dark:text-{{.}}-200 {{ else }}dark:text-accent-200 text-accent-600{{ end }} transition ease-in-out duration-200">
     <a alt="section link" href="{{ .Parent.RelPermalink | default ("/" | relLangURL )}}">
     {{ .Title }}
     </a>
@@ -10,7 +10,7 @@
     {{ end }}
   </h3>
 </header>
-<div data-pswp class="mb-10 font-ffserif content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
+<div data-pswp class="mb-10 font-titles content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
   {{.Content}}
 </div>
 {{ partial "article_camera" . }}

@@ -19,7 +19,7 @@
 {{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
 {{/* set the sizes attribute to (min-width: 35em) 1200px, 100vw unless overridden in shortcode */}}
 <picture
-  class="block relative mt-2 mb-6 {{ if gt $src.Height $src.Width }}mx-auto w-2/3{{ else }} md:-mx-16{{ end }} img"
+  class="block relative mt-2 mb-6 {{ if gt $src.Height $src.Width }}mx-auto w-2/3{{ else }} md:-mr-16{{ end }} img"
   style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover">
   <img loading="lazy" class="m-0 h-auto w-full lazyload" alt="cover {{ .Title}}" data-action="zoom"
     data-zoom-src="{{ $src.RelPermalink}}" sizes="auto" srcset='

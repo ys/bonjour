@@ -60,7 +60,7 @@ hr {
   &:not(.line) {
     &:after {
       content:"⁎ ⁎ ⁎ ";
-      @apply block mx-auto text-center;
+      @apply block ;
     }
     @apply block mt-6 border-none mb-10 mx-auto;
   }
@@ -81,7 +81,7 @@ hr {
 .post {
   @apply mb-10;
   h1, h2, h3, h4 {
-    @apply dark:text-gray-100;
+    @apply dark:text-gray-100 font-titles;
   }
   code {
     @apply w-full break-words my-6;
@@ -91,10 +91,10 @@ hr {
     @apply opacity-30;
   }
   h1 {
-    @apply font-bold text-3xl mt-8 text-gray-900 font-normal py-1;
+    @apply font-black text-3xl mt-8 text-gray-900 font-normal py-1;
   }
   h2 {
-    @apply text-2xl mt-8 dark:text-gray-100 text-gray-900 py-1 font-semibold;
+    @apply text-2xl mt-8 dark:text-gray-100 text-gray-900 py-1 font-bold;
 
     a {
       @apply text-gray-900;

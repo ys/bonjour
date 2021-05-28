@@ -9,14 +9,14 @@
   {{ $color = .Params.color }}
 {{ end }}
 {{ if (and $username (not .Params.hideSubscribe)) }}
-<div class="bg-{{ $color }}-200 dark:bg-{{ $color }}-800  w-full px-4 mx:px-0 py-12 text-gray-700 dark:text-gray-200 text-base">
-  <div class="container mx-auto md:max-w-lg">
-    <form class="flex flex-col items-center"
+<div class="bg-{{ $color }}-200 dark:bg-{{ $color }}-800  w-full md:pl-16 px-2 py-12 text-gray-700 dark:text-gray-200 text-base">
+  <div class="container  md:max-w-lg">
+    <form class="flex flex-col items-start"
       action="https://buttondown.email/api/emails/embed-subscribe/{{ $username }}" method="post"
       target="popupwindow"
       onsubmit="window.open('https://buttondown.email/{{ $username }}', 'popupwindow')"
       class="embeddable-buttondown-form">
-      <h2 class="text-lg  font-semibold ">{{ $title }}</h2>
+      <h2 class="text-lg  font-titles font-black mb-4 ">{{ $title }}</h2>
       <label for="bd-email">
         {{$message}}
       </label>
