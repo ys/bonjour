@@ -1,12 +1,10 @@
 {{ block "header" . }}
-{{ if .Params.hideheader }}
-<div class="pb-24"></div>
-{{ else }}
 <header class="container md:max-w-lg flex flex-col items-start justify-around">
   <div class="mx-4 md:ml-16 md:mr-0">
   <span class="opacity-60 text-4xl my-4"><a href="{{ "/" |  relLangURL }}" alt="home" >{{.Params.emoji | default .Site.Params.emoji}}</a></span>
-{{partial "main_menu" .}}
+{{ if not .Params.hideheader }}
+  {{partial "main_menu" .}}
+{{ end }}
   </div>
 </header>
-{{ end }}
 {{ end }}
