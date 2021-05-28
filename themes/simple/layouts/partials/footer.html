@@ -1,4 +1,5 @@
-<footer class="container  md:max-w-lg  md:ml-16 py-10 text-gray-400 dark:text-gray-500  text-xs ">
+<footer class="container  w-full md:max-w-lg  py-10 text-gray-400 dark:text-gray-500  text-xs ">
+  <div class="md:mx-0 md:ml-16 mx-4">
   <div class="flex justify-start">
     {{ .Site.Params.footer }} - {{ now.Year }}
   </div>
@@ -38,5 +39,6 @@
            href="mailto:{{ $.Site.Params.social.email }}">{{$.Site.Params.social.email}}</a>
       </li>
     </ul>
+  </div>
   </div>
 </footer>
