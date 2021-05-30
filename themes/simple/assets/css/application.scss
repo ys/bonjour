@@ -39,7 +39,7 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, 
     @apply text-#{$color}-600;
   }
   .content-#{$color} hr {
-    @apply text-#{$color}-600;
+    @apply border-#{$color}-400;
   }
   .content-#{$color} .post h2, .content-#{$color} .post h3 {
     @apply underline;
@@ -61,11 +61,7 @@ footer ul li:not(:last-child):after {
 
 hr {
   &:not(.line) {
-    &:after {
-      content:"• • •";
-      @apply block text-accent-600 ;
-    }
-    @apply block mt-6 border-none mb-10 mx-auto;
+    @apply block mt-6 border-accent-400  mb-10 mx-auto;
   }
   &.line {
     @apply border-gray-800 block mt-6 border-0 mb-4 mx-auto w-full border-t;
@@ -73,6 +69,7 @@ hr {
 }
 
 .home {
+  @apply md:max-w-lg mb-10;
   p:first-child {
     @apply text-lg md:text-2xl mb-8;
   }
@@ -82,9 +79,9 @@ hr {
 }
 
 .post {
-  @apply mb-10;
+  @apply md:max-w-lg mb-10;
   h1, h2, h3, h4 {
-    @apply dark:text-gray-100 font-titles;
+    @apply dark:text-gray-100 ;
   }
   code {
     @apply w-full break-words my-6;
@@ -94,7 +91,7 @@ hr {
     @apply opacity-30;
   }
   h1 {
-    @apply font-black text-3xl mt-8 text-gray-900 font-normal py-1;
+    @apply font-semibold text-3xl mt-8 text-gray-900 font-normal py-1;
   }
   h2 {
     @apply text-2xl mt-8 dark:text-gray-100 text-gray-900 py-1 font-bold;

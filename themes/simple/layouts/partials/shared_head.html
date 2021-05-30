@@ -24,3 +24,9 @@
 {{ else }} {{ $style := $style | minify | fingerprint | resources.PostProcess }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
 {{ end }}
+{{ $font := resources.Get "css/fonts.scss" | resources.ExecuteAsTemplate "fonts.css" . | toCSS | resources.PostCSS }}
+{{ if .Site.IsServer }}
+<link rel="stylesheet" href="{{ $font.RelPermalink }}" />
+{{ else }} {{ $font := $font | minify | fingerprint | resources.PostProcess }}
+<link rel="stylesheet" href="{{ $font.RelPermalink }}" />
+{{ end }}

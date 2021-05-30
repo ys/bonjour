@@ -1,5 +1,5 @@
   {{ $current := . }}
-  <nav class="w-full font-semibold font-sans uppercase tracking-tighter text-xs">
+  <nav class="w-full font-semibold  uppercase tracking-tighter text-xs">
     <ul class="inline flex flex-row   mb-4 items-end  dark:text-gray-400 text-gray-500">
       {{ range .Site.Menus.main }}
         {{ $active := or ($current.IsMenuCurrent "nav" .) ($current.HasMenuCurrent "nav" .) }}

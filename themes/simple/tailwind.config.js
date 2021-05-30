@@ -16,9 +16,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        ffserif: ["ff-meta-serif-web-pro"],
-        ffsans: ["ff-meta-web-pro"],
-        titles: ["neue-haas-unica"],
+        mono: ["ia-writer-quattro"],
       },
       colors: {
         gray: colors.warmGray,
