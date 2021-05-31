@@ -1,15 +1,17 @@
 {{ partial "article_header" . }}
-<div data-pswp class="mb-10 md:max-w-lg content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
+<div data-pswp class="mb-10 content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
   <div  class="post ">
     {{.Content}}
   </div>
-  {{ if (in .Site.Params.showFooter .Type) }}
-  <hr class="line"/>
-    {{ partial "article_footer" . }}
-    <div class="pt-8">
-      <hr class="" />
-      {{ partial "linked_posts" . }}
-    </div>
-  {{ end }}
+  <div class="md:max-w-lg">
+    {{ if (in .Site.Params.showFooter .Type) }}
+    <hr class="line"/>
+      {{ partial "article_footer" . }}
+      <div class="pt-8">
+        <hr class="" />
+        {{ partial "linked_posts" . }}
+      </div>
+    {{ end }}
+  </div>
 </div>
 

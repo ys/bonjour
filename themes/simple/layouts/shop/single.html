@@ -6,7 +6,7 @@
       Merci pour cet achat, #SHIPPING_NAME#!
     </div>
 </div>
-<div data-pswp class="flex flex-col md:flex-row md:-mr-32 mb-10  content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
+<div data-pswp class="flex flex-col md:flex-row w-full mb-10  content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
   {{ with .Params.grid }}
     <div  class="md:w-4/6">
       {{ $rowsslice := split . "/" }}

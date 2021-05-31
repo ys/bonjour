@@ -79,7 +79,10 @@ hr {
 }
 
 .post {
-  @apply md:max-w-lg mb-10;
+  h1, h2, h3, h4, p, ul, code {
+  @apply md:max-w-lg ;
+  }
+  @apply  mb-10;
   h1, h2, h3, h4 {
     @apply dark:text-gray-100 ;
   }
