@@ -5,13 +5,16 @@
 <link rel="manifest" href="/site.webmanifest">
 {{ $fstyle := resources.Get "css/fonts.scss" | resources.ExecuteAsTemplate "fonts.css" . | toCSS | resources.PostCSS }}
 {{ if .Site.IsServer }}
-<link rel="stylesheet" href="{{ $fstyle.RelPermalink }}" />
-{{ else }} {{ $fstyle := $fstyle | minify | fingerprint | resources.PostProcess }}
-<link rel="stylesheet" href="{{ $fstyle.RelPermalink }}" />
+{{ else }} {{ $fstyle = $fstyle | minify | fingerprint | resources.PostProcess }}
 {{ end }}
+<link rel="preload" as="style" onload="this.rel = 'stylesheet'" href="{{ $fstyle.RelPermalink }}" />
+<noscript>
+  <link
+    rel="stylesheet"
+    href='{{ $fstyle.RelPermalink }}'>
+</noscript>
 {{ $style := resources.Get "css/application.scss" | resources.ExecuteAsTemplate "main.css" . | toCSS | resources.PostCSS }}
 {{ if .Site.IsServer }}
-<link rel="stylesheet" href="{{ $style.RelPermalink }}" />
-{{ else }} {{ $style := $style | minify | fingerprint | resources.PostProcess }}
-<link rel="stylesheet" href="{{ $style.RelPermalink }}" />
+{{ else }} {{ $style = $style | minify | fingerprint | resources.PostProcess }}
 {{ end }}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}" />
