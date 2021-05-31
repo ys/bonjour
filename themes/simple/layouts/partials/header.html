@@ -1,8 +1,10 @@
 {{ block "header" . }}
-<header class="mt-8 container mx-auto md:max-w-xl flex flex-col items-start justify-around">
-  <span class="opacity-60 font-sans text-4xl font-bold my-4"><a href="{{ "/" |  relLangURL }}" alt="home" >{{.Params.emoji | default .Site.Params.emoji}}</a></span>
-{{ if not .Params.hideheader }}
-  {{partial "main_menu" .}}
-{{ end }}
+<header class="mt-8 container mx-auto md:max-w-xl">
+  <div class="mx-4 md:mx-0 relative flex flex-col items-start justify-around">
+    <span class="opacity-60 font-sans text-4xl font-bold my-4"><a href="{{ "/" |  relLangURL }}" alt="home" >{{.Params.emoji | default .Site.Params.emoji}}</a></span>
+  {{ if not .Params.hideheader }}
+    {{partial "main_menu" .}}
+  {{ end }}
+  </div>
 </header>
 {{ end }}
