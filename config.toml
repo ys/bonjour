@@ -32,6 +32,11 @@ canonifyURLs = false
   title = "💌 Ma petite lettre"
   message = "Si tu aimes ce que tu as lu, j'envoie une petite lettre sur tout et rien toutes les deux semaines."
 
+[params.font]
+  typekit = "mke5doh"
+  serif = "ff-meta-serif-web-pro"
+  sans = "ff-meta-web-pro"
+
 [params.social]
   email = "hello@yannickschutz.com"
   domain = "yannickschutz.com"

@@ -16,7 +16,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        mono: ["ia-writer-quattro", "ui-monospace", "SFMono-Regular", "Menlo", "Monaco", "Consolas", "Liberation Mono", "Courier New", "monospace"],
+        ffserif: ["ff-meta-serif-web-pro"],
+        ffsans: ["ff-meta-web-pro"],
       },
       colors: {
         gray: colors.warmGray,
