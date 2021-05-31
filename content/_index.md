@@ -15,6 +15,6 @@ Yannick aime [écrire](/posts), prendre des [photos](/series), lire des [livres]
 
 {{< photo src="cover" >}}
 
-J'aime écrire sur des sujets qui me tiennent à coeur allant de la 📷 au ☕️ en passant par la lecture, le micro activisme, le respect de notre 🌍 et notre vie en Bretagne.
+J'aime écrire sur des sujets qui me tiennent à coeur allant de la [photo](/c/analog) au [café](/c/cafe) en passant par la lecture, le [micro activisme](/c/activism), le respect de notre planète et notre vie en Bretagne.
 
 Ces projets d'écritures, de photos et autres m'amusent et j'espère en sortir quelques uns cette année. Soyez prêts.

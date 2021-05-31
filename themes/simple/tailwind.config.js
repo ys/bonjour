@@ -16,8 +16,6 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        ffserif: ["ia-writer-quattro","ff-meta-serif-web-pro"],
-        ffsans: ["ff-meta-web-pro"],
         mono: ["ia-writer-quattro", "ui-monospace", "SFMono-Regular", "Menlo", "Monaco", "Consolas", "Liberation Mono", "Courier New", "monospace"],
       },
       colors: {

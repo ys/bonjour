@@ -1,5 +1,5 @@
 {{ block "header" . }}
-<header class="mt-8 container mx-auto md:max-w-lg flex flex-col items-center justify-around">
+<header class="mt-8 container mx-auto md:max-w-xl flex flex-col items-start justify-around">
   <span class="opacity-60 font-sans text-4xl font-bold my-4"><a href="{{ "/" |  relLangURL }}" alt="home" >{{.Params.emoji | default .Site.Params.emoji}}</a></span>
 {{ if not .Params.hideheader }}
   {{partial "main_menu" .}}
