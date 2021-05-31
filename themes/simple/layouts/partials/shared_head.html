@@ -3,24 +3,18 @@
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
-<link rel="preconnect"
-      href="https://use.typekit.net"
-      crossorigin />
-<link rel="preload"
-      as="style"
-      href="https://use.typekit.net/{{ .Site.Params.font.typekit }}.css" />
-
-<link rel="stylesheet"
-      href="https://use.typekit.net/{{ .Site.Params.font.typekit }}.css"
-      media="print" onload="this.media='all'" />
-
+{{ $fstyle := resources.Get "css/fonts.scss" | resources.ExecuteAsTemplate "fonts.css" . | toCSS | resources.PostCSS }}
+{{ if .Site.IsServer }}
+{{ else }} {{ $fstyle = $fstyle | minify | fingerprint | resources.PostProcess }}
+{{ end }}
+<link rel="preload" as="style" onload="this.rel = 'stylesheet'" href="{{ $fstyle.RelPermalink }}" />
 <noscript>
-  <link rel="stylesheet"
-        href="https://use.typekit.net/{{ .Site.Params.font.typekit }}.css" />
+  <link
+    rel="stylesheet"
+    href='{{ $fstyle.RelPermalink }}'>
 </noscript>
 {{ $style := resources.Get "css/application.scss" | resources.ExecuteAsTemplate "main.css" . | toCSS | resources.PostCSS }}
 {{ if .Site.IsServer }}
-<link rel="stylesheet" href="{{ $style.RelPermalink }}" />
-{{ else }} {{ $style := $style | minify | fingerprint | resources.PostProcess }}
-<link rel="stylesheet" href="{{ $style.RelPermalink }}" />
+{{ else }} {{ $style = $style | minify | fingerprint | resources.PostProcess }}
 {{ end }}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}" />
