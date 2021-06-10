@@ -23,12 +23,10 @@ jobs:
       - name: Get API token
         id: get-api-token
         run: |
-          echo export ITALICTYPE_TOKEN=`curl 'https://www.italictype.com/api/auth/jwt/create/' \
+          echo "::set-output name=italictype_token::$(curl 'https://www.italictype.com/api/auth/jwt/create/' \
           -H 'accept: application/json, text/plain, */*' \
           -H 'content-type: application/json;charset=UTF-8' \
-          --data-raw '{"username":"yannick","password":"${{ secrets.ITALICTYPE_PASSWORD }}"}' | jq -r .access`
-          echo $ITALICTYPE_TOKEN
-          echo "::set-output name=italictype_token::$ITALICTYPE_TOKEN"
+          --data-raw '{\"username\":\"yannick\",\"password\":\"${{ secrets.ITALICTYPE_PASSWORD }}\"}' | jq -r .access)"
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
