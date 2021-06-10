@@ -20,7 +20,20 @@ jobs:
         uses: denoland/setup-deno@main
         with:
           deno-version: v1.x
-      # The third step is a Flat Action step. We fetch the data in the http_url and save it as downloaded_filename
+      - name: Get API token
+        run: |
+          echo export ITALICTYPE_TOKEN=`curl 'https://www.italictype.com/api/auth/jwt/create/' \
+          -H 'accept: application/json, text/plain, */*' \
+          -H 'content-type: application/json;charset=UTF-8' \
+          --data-raw '{"username":"yannick","password":"${{ secrets.ITALICTYPE_PASSWORD }}"}' | jq -r .access`
+          echo "::set-env name=ITALICTYPE_TOKEN::$ITALICTYPE_TOKEN"
+      - name: Fetch data
+        uses: githubocto/flat@v3
+        with:
+          http_url: 'https://www.italictype.com/api/bookqueueitems?queue=2&limit=2000'
+          downloaded_filename: data/italictype.json # The http_url gets saved and renamed in our repository as btc-price.json
+          authorization: "Bearer $ITALICTYTPE_TOKEN"
+
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
