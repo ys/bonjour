@@ -24,7 +24,7 @@ jobs:
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
-          http_url: 'https://www.italictype.com/api/bookqueueitems?queue=2&limit=2000'
-          downloaded_filename: books.json # The http_url gets saved and renamed in our repository as btc-price.json
-          authorization: "Bearer ${{ secrets.ITALICTYPE_TOKEN }}"
+          http_url: 'https://beta.readng.co/api/users/me'
+          downloaded_filename: data/readng.json # The http_url gets saved and renamed in our repository as btc-price.json
+          authorization: "Token ${{ secrets.READNG_API_KEY }}"
 
