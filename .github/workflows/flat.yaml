@@ -27,6 +27,8 @@ jobs:
           -H 'accept: application/json, text/plain, */*' \
           -H 'content-type: application/json;charset=UTF-8' \
           --data-raw '{\"username\":\"yannick\",\"password\":\"${{ secrets.ITALICTYPE_PASSWORD }}\"}' | jq -r .access)"
+      - name: echo API token
+        run: "echo ${{ steps.get-api-token.outputs.italictype_token }}"
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
