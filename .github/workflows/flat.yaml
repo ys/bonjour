@@ -6,16 +6,14 @@ on:
       - .github/workflows/flat.yml # Only run a new workflow every time this file (flat.yaml) file changes
   workflow_dispatch: # Required even though this is currently empty
   schedule:
-    - cron: '*/5 * * * *' # Run this workflow every 5 minutes
+    - cron: '*/30 * * * *' # Run this workflow every 5 minutes
 
 jobs:
   scheduled:
     runs-on: ubuntu-latest
-    steps: # This workflow has 3 steps
-      # The first step is to check out the repository so it can read the files inside of it and do other operations
+    steps:
       - name: Check out repo
         uses: actions/checkout@v2
-      # This step installs Deno, which is a new Javascript runtime that improves on Node. We'll use it for postprocessing later
       - name: Setup deno
         uses: denoland/setup-deno@main
         with:
@@ -29,17 +27,17 @@ jobs:
           -H 'content-type: application/json;charset=UTF-8' \
           --data-raw '{"username":"yannick","password":"${{ secrets.ITALICTYPE_PASSWORD }}"}' | jq -r .access)
           echo "::set-output name=italictype_token::${token}"
-      - name: Fetch data
+      - name: Fetch ItalicType data
         uses: githubocto/flat@v3
         with:
           http_url: 'https://www.italictype.com/api/bookqueueitems/?queue=2&limit=2000'
-          downloaded_filename: data/italictype.json # The http_url gets saved and renamed in our repository as btc-price.json
+          downloaded_filename: data/italictype.json
           authorization: "Bearer ${{ steps.get-api-token.outputs.italictype_token }}"
 
-      - name: Fetch data
+      - name: Fetch Readng data
         uses: githubocto/flat@v3
         with:
           http_url: 'https://beta.readng.co/api/users/me'
-          downloaded_filename: data/readng.json # The http_url gets saved and renamed in our repository as btc-price.json
+          downloaded_filename: data/readng.json
           authorization: "Token ${{ secrets.READNG_API_KEY }}"
 
