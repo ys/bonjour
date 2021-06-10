@@ -27,6 +27,7 @@ jobs:
           -H 'accept: application/json, text/plain, */*' \
           -H 'content-type: application/json;charset=UTF-8' \
           --data-raw '{"username":"yannick","password":"${{ secrets.ITALICTYPE_PASSWORD }}"}' | jq -r .access`
+          echo $ITALICTYPE_TOKEN
           echo "::set-output name=italictype_token::$ITALICTYPE_TOKEN"
       - name: Fetch data
         uses: githubocto/flat@v3
