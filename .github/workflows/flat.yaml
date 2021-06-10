@@ -24,9 +24,10 @@ jobs:
         id: get-api-token
         run: |
           echo "$(curl 'https://www.italictype.com/api/auth/jwt/create/' \
+                -X POST \
           -H 'accept: application/json, text/plain, */*' \
           -H 'content-type: application/json;charset=UTF-8' \
-          --data-raw '{\"username\":\"yannick\",\"password\":\"${{ secrets.ITALICTYPE_PASSWORD }}\"}' | jq -r .access)"
+          -d '{\"username\":\"yannick\",\"password\":\"${{ secrets.ITALICTYPE_PASSWORD }}\"}' | jq -r .access)"
           echo "::set-output name=italictype_token::$(curl 'https://www.italictype.com/api/auth/jwt/create/' \
           -H 'accept: application/json, text/plain, */*' \
           -H 'content-type: application/json;charset=UTF-8' \
