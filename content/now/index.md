@@ -1,5 +1,6 @@
 ---
-title: "Now"
+seotitle: "Now"
+title: "Bonjour, moi c'est Yannick."
 description: "What I am doing and enjoying lately"
 date: 2020-10-07T12:57:50+02:00
 draft: false
@@ -14,7 +15,6 @@ menu:
     weight: 5
 linktitle: Now
 ---
-Bonjour, moi c'est Yannick. 
 
 J'aime raconter des histoires et prendre des photos.
 J'aime assez notre planète aussi, je suis plutôt un micro activiste.

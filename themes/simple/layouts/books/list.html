@@ -12,12 +12,14 @@
   <h2 class="text-xl lg:text-2xl font-bold">{{ .year }}</h2><span class="text-sm opacity-30 text-right font-light">{{ len .books}}</span>
   </header>
   {{ range sort .books "date" "desc" }}
-  <div class="gap-2 relative py-2 grid grid-cols-4 ">
-    <h2 class="col-span-2 font-semibold text-darker dark:text-gray-100">
+  <div class="py-2 flex flex-row justify-between">
+    <header>
+    <h2 class="col-span-2 text-xl font-ffserif  text-darker dark:text-gray-100">
         {{ .title }}
     </h2>
-    <h3 class="text-gray-800 dark:text-gray-300">{{ .author }}</h3>
-    <div class="text-right tracking-tight text-xs text-gray-700 dark:text-gray-300 uppercase">
+    <h3 class="text-gray-700 text-sm dark:text-gray-300">{{ .author }}</h3>
+    </header>
+    <div class="text-right tracking-tight text-normal text-accent-600 dark:text-gray-300 uppercase">
       {{ if .reading }}
       {{ T "reading" }}
       {{ else }}
