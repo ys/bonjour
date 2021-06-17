@@ -13,11 +13,11 @@
   </header>
   {{ range sort .books "date" "desc" }}
   <div class="py-2 flex flex-row justify-between">
-    <header>
-    <h2 class="col-span-2 text-xl font-ffserif  text-darker dark:text-gray-100">
+    <header class="font-ffserif">
+    <h2 class="col-span-2 text-xl text-darker dark:text-gray-100">
         {{ .title }}
     </h2>
-    <h3 class="text-gray-700 text-sm dark:text-gray-300">{{ .author }}</h3>
+    <h3 class="text-gray-700 text-sm italic dark:text-gray-300">{{ .author }}</h3>
     </header>
     <div class="text-right tracking-tight text-normal text-accent-600 dark:text-gray-300 uppercase">
       {{ if .reading }}

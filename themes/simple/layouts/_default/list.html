@@ -1,8 +1,6 @@
 {{ define "main" }}
 
-<header class="z-20 relative">
-  <h1 class="text-3xl font-ffserif text-darker dark:text-gray-100 {{ with .Params.Color }}hover:text-{{ . }}-600 {{ else }}hover:text-accent-600{{ end }} transition ease-in-out duration-200"><a href="{{ "/" | relLangURL }}">{{.Title}}</a></h1>
-</header>
+{{ partial "article_header" . }}
 <div class="z-20 post with-links relative">
   {{ .Content }}
 </div>
@@ -12,7 +10,7 @@
   </div>
 {{ end}}
 
-{{ if eq .Section "posts" }}
+{{ if and (eq .Section "posts") (not .Params.hideCategories) }}
   {{ with ($.Site.GetPage (printf "/categories")) }}
     <div class="md:-mx-32 my-6 grid grid-cols-2 md:flex md:flex-row md:justify-between ">
       {{ range $cat :=  sort (where .Pages ".Params.favorite" true) "Title" }}
