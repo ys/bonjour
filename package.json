@@ -39,6 +39,7 @@
     "gulp-imagemin": "^5.0.3",
     "imagemin-jpeg-recompress": "^6.0.0",
     "imagemin-mozjpeg": "^8.0.0",
+    "js-yaml": "^3.14.1",
     "postcss": "^8.2.10",
     "postcss-cli": "^8.3.1",
     "stripe": "^8.145.0",

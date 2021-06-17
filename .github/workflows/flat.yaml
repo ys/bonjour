@@ -6,7 +6,7 @@ on:
       - .github/workflows/flat.yml # Only run a new workflow every time this file (flat.yaml) file changes
   workflow_dispatch: # Required even though this is currently empty
   schedule:
-    - cron: '*/30 * * * *' # Run this workflow every 5 minutes
+    - cron: "*/30 * * * *" # Run this workflow every 5 minutes
 
 jobs:
   scheduled:
@@ -30,14 +30,14 @@ jobs:
       - name: Fetch ItalicType data
         uses: githubocto/flat@v3
         with:
-          http_url: 'https://www.italictype.com/api/bookqueueitems/?queue=2&limit=2000'
+          http_url: "https://www.italictype.com/api/bookqueueitems/?queue=2&limit=2000"
           downloaded_filename: data/italictype.json
           authorization: "Bearer ${{ steps.get-api-token.outputs.italictype_token }}"
+          postprocess: postprocess.ts
 
       - name: Fetch Readng data
         uses: githubocto/flat@v3
         with:
-          http_url: 'https://beta.readng.co/api/users/me'
+          http_url: "https://beta.readng.co/api/users/me"
           downloaded_filename: data/readng.json
           authorization: "Token ${{ secrets.READNG_API_KEY }}"
-
