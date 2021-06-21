@@ -11,6 +11,7 @@ resources:
 menu:
   footer:
     weight: 4
+linktitle: "🏄‍♂️"
 ---
 
 <span class="text-gray-500">*Mis à jour le 21 Juin 2021*</span>
