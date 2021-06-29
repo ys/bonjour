@@ -2,25 +2,15 @@
 {{ $src := .Image }}
 
 {{ if $src }}
-  {{ $lqipw := default "20x" }}
-  {{ $rsmallw := default "300x" }}
-  {{ $smallw := default "800x" }}
-  {{ $largew := default "1500x" }}
-  {{ $lqip := $src.Resize $lqipw }}
-  {{ $rsmall := $src.Resize $rsmallw }}
-  {{ $small := $src.Resize $smallw }}
-  {{ $large := $src.Resize $largew }}
+  {{ $lqip := $src.Resize "20x" }}
+  {{ $rsmall := $src.Resize "300x" }}
+  {{ $small := $src.Resize "800x" }}
+  {{ $large := $src.Resize "1500x" }}
+  {{ $wrsmall := $src.Resize "300x webp" }}
+  {{ $wsmall := $src.Resize "800x webp" }}
+  {{ $wlarge := $src.Resize "1500x webp" }}
   <picture style="padding-bottom: {{(div (mul 100.0 $src.Height ) $src.Width) -}}%" class="relative box-border block">
-
-    <img
-      loading="lazy"
-      style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover"
-      alt="{{ .Description }}"
-      class="cursor-pointer object-cover lazy absolute top-0 left-0 w-full h-full"
-      data-action="zoom"
-      data-zoom-src="{{ $src.RelPermalink}}"
-      sizes="auto"
-      srcset='
+    <source srcset='
       {{ if .Lofi }}
         {{ if ge $src.Width "300" }}
           {{ with $rsmall.RelPermalink }}{{.}} 300w{{ end }}
@@ -35,7 +25,30 @@
         {{ if ge $src.Width "1500" }}
           {{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
         {{ end }}
-      {{ end }}'
+      {{ end }}' type="image/jpg" sizes="auto"/>
+    <source srcset='
+      {{ if .Lofi }}
+        {{ if ge $src.Width "300" }}
+          {{ with $wrsmall.RelPermalink }}{{.}} 300w{{ end }}
+        {{ end }}
+        {{ if ge $src.Width "800" }}
+          {{ with $wsmall.RelPermalink }}{{.}} 800w{{ end }}
+        {{ end }}
+      {{ else}}
+        {{ if ge $src.Width "800" }}
+          {{ with $wsmall.RelPermalink }}{{.}} 800w{{ end }}
+        {{ end }}
+        {{ if ge $src.Width "1500" }}
+          {{ with $wlarge.RelPermalink }}, {{.}} 1500w {{ end }}
+        {{ end }}
+      {{ end }}' type="image/webp" sizes="auto"/>
+    <img
+      loading="lazy"
+      style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover"
+      alt="{{ .Description }}"
+      class="cursor-pointer object-cover lazy absolute top-0 left-0 w-full h-full"
+      data-action="zoom"
+      data-zoom-src="{{ $src.RelPermalink}}"
       src="{{ $src.RelPermalink }}"
       width="{{ $src.Width }}" height="{{ $src.Height }}"/>
     </picture>
