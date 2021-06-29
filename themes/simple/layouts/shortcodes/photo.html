@@ -6,21 +6,32 @@
   <figure class="{{ if .Parent }}{{ else }} my-6 {{end}}">
     {{/* set image sizes, these are hardcoded for now, x dictates that images are resized to this width */}}
 
-    {{ $lqipw := default "20x" }}
-    {{ $smallw := default "800x" }}
-    {{ $largew := default "1500x" }}
-
-    {{/* resize the src image to the given sizes */}}
-
-    {{ $lqip := $src.Resize $lqipw }}
-    {{ $small := $src.Resize $smallw }}
-    {{ $large := $src.Resize $largew }}
+    {{ $lqip := $src.Resize "20x" }}
+    {{ $small := $src.Resize "800x" }}
+    {{ $large := $src.Resize "1500x" }}
+    {{ $wrsmall := $src.Resize "300x webp" }}
+    {{ $wsmall := $src.Resize "800x webp" }}
+    {{ $wlarge := $src.Resize "1500x webp" }}
 
     {{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
     {{/* set the sizes attribute to (min-width: 35em) 1200px, 100vw unless overridden in shortcode */}}
 
     <picture class="block relative {{ if .Get "no-shadow" }} {{ else}}shadow-lg{{end}} {{ if gt $src.Height $src.Width }} mx-auto w-2/3{{ else }}md:-mx-16{{ end }} img"
       {{ if .Get "no-lqip" }} {{ else }}style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover"{{ end }}>
+    <source srcset='
+        {{ if ge $src.Width "800" }}
+          {{ with $small.RelPermalink }}{{.}} 800w{{ end }}
+        {{ end }}
+        {{ if ge $src.Width "1500" }}
+          {{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
+      {{ end }}' type="image/jpg" sizes="auto"/>
+    <source srcset='
+        {{ if ge $src.Width "800" }}
+          {{ with $wsmall.RelPermalink }}{{.}} 800w{{ end }}
+        {{ end }}
+        {{ if ge $src.Width "1500" }}
+          {{ with $wlarge.RelPermalink }}, {{.}} 1500w {{ end }}
+      {{ end }}' type="image/webp" sizes="auto"/>
       <img
         loading="lazy"
         alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "src" }}{{ end }}"
@@ -29,14 +40,6 @@
         data-action="zoom"
         {{ end }}
         data-zoom-src="{{ $src.RelPermalink}}"
-        sizes="auto"
-        srcset='
-        {{ if ge $src.Width "800" }}
-          {{ with $small.RelPermalink }}{{.}} 800w{{ end }}
-        {{ end }}
-        {{ if ge $src.Width "1500" }}
-          {{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
-        {{ end }}'
         src="{{ $src.RelPermalink }}"
         width="{{ $src.Width }}" height="{{ $src.Height }}">
     </picture>

@@ -1,114 +1,227 @@
 year: 2021
 books:
-- title: "Encabanée"
-  author: "Gabrielle Filteau-Chiba"
-  isbn: "2361397021"
-  isbn13: "978-2361397021"
-  rating: 4
-  pages: 112
-  date: "2021-05-13"
-  read: "2021-05-15"
-- title: "En mer"
-  author: "Toine Heijmans"
-  isbn: "2264060778"
-  isbn13: "978-2264060778"
-  rating: 4
-  pages: 168
-  date: "2021-05-10"
-  read: "2021-05-13"
-- title: "Le grand marin"
-  author: "Catherine Poulain"
-  isbn: "282360863X"
-  isbn13: "978-2823608632"
-  rating: 4
-  pages: 384
-  date: "2021-05-01"
-  read: "2021-05-10"
-- title: "Besoin de mer"
-  author: "Hervé Hamon"
-  isbn: "2020367149"
-  isbn13: "978-2020367141"
-  rating: 4
-  pages: 281
-  date: "2021-04-07"
-  read: "2021-04-24"
-- title: "Soudain, seuls"
-  author: "Isabelle Autissier"
-  isbn: "225309899X"
-  isbn13: "978-2253098997"
-  rating: 5
-  pages: 252
-  date: "2021-03-25"
-  read: "2021-04-02"
-- title: "Miss Islande"
-  author: "Auður Ava Ólafsdóttir"
-  isbn: "2843048699"
-  isbn13: "978-2843048692"
-  rating: 4
-  pages: 272
-  date: "2021-03-12"
-  read: "2021-03-25"
-- title: "Normal People"
-  author: "Sally Rooney"
-  isbn: "2823615245"
-  isbn13: "978-2823615241"
-  rating: 4
-  pages: 320
-  date: "2021-03-09"
-  read: "2021-03-12"
-- title: "Le Ministère Secret - Tome 1"
-  author: "Joann Sfar - Mathieu Sapin"
-  isbn: ""
-  isbn13: "9791034745821"
-  rating: 4
-  pages: 64
-  date: "2021-03-06"
-  read: "2021-03-06"
-- title: "Make time"
-  author: "Jake Knapp, John Zeratsky"
-  isbn: "0525572422"
-  isbn13: "9780525572428"
-  rating: 3
-  pages: 304
-  date: "2021-02-28"
-  read: "2021-03-05"
-- title: "Le printemps silencieux"
-  author: "Rachel Carson"
-  isbn: "2918490997"
-  isbn13: "9782918490999"
-  rating: 4
-  pages: 350
-  date: "2021-02-09"
-  read: "2021-02-15"
-- title: "Chroniques de Jeunesse"
-  author: "Guy Delisle"
-  isbn: ""
-  isbn13: "9782413039310"
-  rating: 4
-  pages: 136
-  date: "2021-02-09"
-  read: "2021-02-09"
-- title: "Des livres"
-  author: ""
-  isbn: ""
-  isbn13: ""
-  rating: 
-  pages: 
-  date: "2021-02-07 12:57:50 +0200"
-  read: ""
-- title: "Surf City"
-  author: "Kem Nunn"
-  isbn: "2070494837"
-  isbn13: "9782070494835"
-  rating: 1
-  pages: 334
-  date: "2021-01-26"
-  read: "2021-01-26"
-- title: "Ce sentiment océanique"
-  author: "Fiona Capp"
-  isbn: "1845130081"
-  isbn13: "9781845130084"
-  rating: 5
-  pages: 288
-  date: "2021-01-06"
-  read: "2021-01-16"
+  - title: Le Syndrome de Palo Alto
+    subtitle: roman
+    author: Loïc Hecht
+    date: '2021-06-17T12:23:48.732486Z'
+    read: '2021-06-22T20:18:04.405044Z'
+    rating: 5
+    isbn: '2756113069'
+    isbn13: '9782756113067'
+    pages: 360
+    cover_url: >-
+      https://books.google.com/books/publisher/content?id=MJfFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71rm9GAZznv3Cd4C8tirJotI7Il9i1GXwnsVkr5AHq7i_BFx-3-Qwv12s5imFnVZYtYMfDsqFkPWanjtzav2RbK4gCLf9SWexCskF8IFN3-Nr8NiT12QKff5tHOO0i-wHBeC3_Y&source=gbs_api
+    reading: false
+  - title: Do Walk
+    subtitle: Navigate Earth, Mind and Body. Step by Step
+    author: Libby DeLana
+    date: '2021-06-07T20:50:33.491741Z'
+    read: '2021-06-14T07:50:44.349847Z'
+    rating: 4
+    isbn: '1907974962'
+    isbn13: '9781907974960'
+    pages: 144
+    cover_url: >-
+      https://books.google.com/books/content?id=dlhIzgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE731F5UKEf4XRIFeOW_qKl02TdtiAdU4cL5JSiMx_2yUnF5GCYwRFrZNNv3koIl6T-6eqoeNtZe8eZHIsaREEzd6Rk6hBpW-FgyisyxwHgxNLSvcuOIq-WqcWVYGL5MJFuaOkg2K&source=gbs_api
+    reading: false
+  - title: Path
+    subtitle: A short story about reciprocity
+    author: Louisa Thomsen Brits
+    date: '2021-06-07T20:49:28.506865Z'
+    read: '2021-06-07T20:49:40.243452Z'
+    rating: 3
+    isbn: 190797458X
+    isbn13: '9781907974588'
+    pages: 64
+    cover_url: >-
+      https://books.google.com/books/content?id=CaZztgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71MUq-DfJysG1CTy5eMzouq3Gw-OBM_U0CUXsD1hq7dqMiWwDkzM3_1WzG_z4gVdiyuTUFaCyfVFb7TDRW7CveNlZ9Wut1I2BhyhV7mYwn4lTKQonywK2QKnJAPAXOtByW3mZNz&source=gbs_api
+    reading: false
+  - title: The Doorstep Mile
+    subtitle: ''
+    author: Alastair Humphreys
+    date: '2021-06-07T20:47:47.447534Z'
+    read: '2021-06-07T20:48:00.430449Z'
+    rating: 4
+    isbn: '1916308805'
+    isbn13: '9781916308800'
+    pages: 308
+    cover_url: >-
+      https://books.google.com/books/content?id=v0YnzAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71q5pregnCgdUhVXqJDX3M1Cl9xbk4cjfpFRpeqfcN3OyKqCkipw0yOA1A3FUqtUlSFHjRwvl26SPmEjAGc1e2ik_2STfHCuANJQOEgDnoqGDrJhECM96n_uqwrKnbfbpKoCPF9&source=gbs_api
+    reading: false
+  - title: Sans alcool
+    subtitle: ''
+    author: Claire Touzard
+    date: '2021-06-07T20:47:12.761196Z'
+    read: '2021-06-07T20:47:27.031869Z'
+    rating: 5
+    isbn: '2080232770'
+    isbn13: '9782080232779'
+    pages: 214
+    cover_url: >-
+      https://books.google.com/books/publisher/content?id=WKcPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73Hptb2XGltaexzoWw-F-JFCg66h40Iicmz26SO5vJfzOj5bqWs8HbbnNKWwnUgaBdCaKJRG9Rj86MBmLhFTGqYYh2wEmVotqiCJXmDXgTLEj69UpQ3BDzJ1A9XS8zmUw_O3p40&source=gbs_api
+    reading: false
+  - title: Encabanée
+    subtitle: ''
+    author: Gabrielle FILTEAU-CHIBA
+    date: '2021-05-16T11:00:06.044269Z'
+    read: '2021-05-16T11:00:17.536071Z'
+    rating: 4
+    isbn: '2361397048'
+    isbn13: '9782361397043'
+    pages: 68
+    cover_url: >-
+      https://books.google.com/books/publisher/content?id=0L8OEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72-79Xj6k4W2vTtjxCt3ncpSNtS3HBLDMgmo6iNDEuTULHnjgQnkai_7otuP7UMG0AMDMP3fYZb9hCerHsa6OQPkLU4QXCF4I0_Q8WDnIapfYEDwaDsmv4hrL_i2d_JBC96QvZJ&source=gbs_api
+    reading: false
+  - title: En mer
+    subtitle: ''
+    author: Toine Heijmans
+    date: '2021-05-11T10:42:33.927147Z'
+    read: '2021-05-16T10:59:52.788035Z'
+    rating: 4
+    isbn: '2267025302'
+    isbn13: '9782267025309'
+    pages: 121
+    cover_url: >-
+      https://books.google.com/books/publisher/content?id=WauVDAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73ASs_WyU3YPDL6-jhpijcHVX_q4P-HEfRI-Z4YisvJ6LiJGgxx7BtusrlDMPgLwAGOIJC9Z-e8S_QGS1Kvl7gsdjE-jUKIJ-bSlIdpHbWSaC2LnP_xlWPbMlinumY4BMALoJvZ&source=gbs_api
+    reading: false
+  - title: Le Grand Marin
+    subtitle: ''
+    author: Catherine Poulain
+    date: '2021-05-10T06:47:11.242738Z'
+    read: '2021-05-10T06:47:22.807819Z'
+    rating: 4
+    isbn: '2823608656'
+    isbn13: '9782823608656'
+    pages: 265
+    cover_url: >-
+      https://books.google.com/books/publisher/content?id=C-tmCwAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71aDjeR1piwI52nN6UijOFdp_6q806CCEjm1_5CQnfTCfG9cVO5V-XkLgcX0WCv9n408y8hD4j3vY_UE_MoKBxen7ujWqhy57Piu-0P06K8pR4-rh7EGRoOoDq-KTz7bRa-vzse&source=gbs_api
+    reading: false
+  - title: Besoin de mer
+    subtitle: ''
+    author: Hervé Hamon
+    date: '2021-05-10T06:46:39.133314Z'
+    read: '2021-05-10T06:46:55.528255Z'
+    rating: 4
+    isbn: '2021339025'
+    isbn13: '9782021339024'
+    pages: 191
+    cover_url: >-
+      https://books.google.com/books/publisher/content?id=cLy5DAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72IcdOrfnkmX4PxkxC23Rk1PvTiaPDps5paxGeCr3zaGx3q1orEBi9AatLUYHbMLIFFW7ltGMb4tZna-DJb_qtHnN3ECqulMxKslh6CfpkjbjVX38SWSq9LJgRqRw7QXnLvjoaX&source=gbs_api
+    reading: false
+  - title: Soudain, seuls
+    subtitle: ''
+    author: Isabelle Autissier
+    date: '2021-03-26T19:08:02.305140Z'
+    read: '2021-04-01T07:44:54.542675Z'
+    rating: 5
+    isbn: '2234077109'
+    isbn13: '9782234077102'
+    pages: 97
+    cover_url: >-
+      https://books.google.com/books/publisher/content?id=OS_HBwAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE716O7WxKG_ZgymZZinA4qvMXX0jFRmw5SEbZuWMVLCkur7Xq9WHrSUsI6QOr5qeimoD_5dY1aQqc56EsTxpXzMqCvOQTOm7Zf4hwGUSMBvOaICkleX2bhrw9_xdq0pPhn4YFoOw&source=gbs_api
+    reading: false
+  - title: That Oceanic Feeling
+    subtitle: ''
+    author: Fiona Capp
+    date: '2021-03-26T19:07:05.352422Z'
+    read: '2021-03-26T19:07:13.464579Z'
+    rating: 4
+    isbn: '1741144736'
+    isbn13: '9781741144734'
+    pages: 304
+    cover_url: >-
+      https://books.google.com/books/content?id=ibbG5_5J8SkC&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71QGwF1fKK9iRNa9_q_J8uJOgnSCW4AfIEjtBzoSNmD34endLDgIHol2Pv9SYk9DnfXRLwv1egU1ViWVvkC8GuyYMZaDjLjaOEKcWWV05CM1wGSImwrmg80GB_YgjUt5nLXBkZc&source=gbs_api
+    reading: false
+  - title: Printemps silencieux
+    subtitle: ''
+    author: Rachel Louise Carson
+    date: '2021-03-26T19:03:02.712524Z'
+    read: '2021-03-26T19:03:14.599982Z'
+    rating: 4
+    isbn: '2918490997'
+    isbn13: '9782918490999'
+    pages: 343
+    cover_url: https://www.italictype.com/static/images/bookcover-not-found.png
+    reading: false
+  - title: Chroniques de jeunesse
+    subtitle: ''
+    author: Guy Delisle
+    date: '2021-03-26T19:02:14.495062Z'
+    read: '2021-03-26T19:02:28.512035Z'
+    rating: 3
+    isbn: '2413039317'
+    isbn13: '9782413039310'
+    pages: 136
+    cover_url: https://www.italictype.com/static/images/bookcover-not-found.png
+    reading: false
+  - title: Make Time
+    subtitle: How to focus on what matters every day
+    author: Jake Knapp
+    date: '2021-03-26T19:01:16.013841Z'
+    read: '2021-03-26T19:01:39.544076Z'
+    rating: 3
+    isbn: '1473552915'
+    isbn13: '9781473552913'
+    pages: 315
+    cover_url: >-
+      https://books.google.com/books/content?id=eaFHDwAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE737Gt4nUsoQOHVpqsP-Mm8dHcQ7JUTx2YUJmQR1ePz036Lcb0sdeXoyskXYEgvpsTjN5OZSngKKA2eA515770UrgILoYGiodwbmoU3BnweCdfADOqujLbUuRk-ywTFoKocXKhHG&source=gbs_api
+    reading: false
+  - title: Normal People
+    subtitle: ''
+    author: Sally Rooney
+    date: '2021-03-26T19:00:08.447948Z'
+    read: '2021-03-26T19:00:18.413614Z'
+    rating: 4
+    isbn: '2823615253'
+    isbn13: '9782823615258'
+    pages: 220
+    cover_url: >-
+      https://books.google.com/books/publisher/content?id=88QfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72zFQsSHgEQxFg5QMUsJuMTZkj8m7uOQAuGyIWfvvM060XRLoFIomC-_t_mWu4N21BTDvmwLVMm7fPV_wah6aa1Qf35-HErL-GiJhaEujnRc53_Vi_YbhFValnnuYpTsQriKNWo&source=gbs_api
+    reading: false
+  - title: Miss Islande
+    subtitle: ''
+    author: Audur Ava Olafsdottir
+    date: '2021-03-26T18:59:04.288352Z'
+    read: '2021-03-26T18:59:29.719999Z'
+    rating: 4
+    isbn: '2843048680'
+    isbn13: '9782843048685'
+    pages: 251
+    cover_url: >-
+      https://books.google.com/books/publisher/content?id=Ex-tDwAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70nY56jX_L8HsAqxBxpxcUcx5InLKf9FWUOxhIrikop1vlyQxcZ1PAkJyeglZSwhZDcN-veXlbbkowiZ9Pvbt4mlSIBj6vtNZksbvnBWE-Wawq-JoCJCRQJJL1h9GOOCMoHxWR6&source=gbs_api
+    reading: false
+  - title: Surf City
+    subtitle: ''
+    author: Kem Nunn
+    date: '2021-03-26T18:57:50.888045Z'
+    read: '2021-01-26T12:00:00Z'
+    rating: 3
+    isbn: '2070304817'
+    isbn13: '9782070304813'
+    pages: null
+    cover_url: https://www.italictype.com/static/images/bookcover-not-found.png
+    reading: false
+  - title: Rusty Brown
+    subtitle: ''
+    author: Chris Ware
+    date: '2021-03-26T18:57:51.164737Z'
+    read: '2021-01-09T12:00:00Z'
+    rating: 4
+    isbn: '0375424326'
+    isbn13: '9780375424328'
+    pages: 356
+    cover_url: >-
+      https://cai.italictype.com/media/imgs/1711/9780375424328_642610e61f2b465c85e044aaaa31e104.jpg
+    reading: false
+  - title: Breath
+    subtitle: ''
+    author: Tim Winton
+    date: '2021-03-26T18:57:51.301681Z'
+    read: '2021-01-06T12:00:00Z'
+    rating: 5
+    isbn: '0374116342'
+    isbn13: '9780374116347'
+    pages: 224
+    cover_url: >-
+      https://cai.italictype.com/media/imgs/3814/9780374116347_c490737f8a8a41b8b57398ecb829c735.jpg
+    reading: false
