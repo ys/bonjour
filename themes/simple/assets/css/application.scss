@@ -49,7 +49,7 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, 
     }
   }
   .td-#{$color} {
-    text-decoration-color: theme('colors.#{$color}.600');
+    text-decoration-color: theme('colors.#{$color}.600') !important;
   }
 }
 .logo svg, .fill svg {

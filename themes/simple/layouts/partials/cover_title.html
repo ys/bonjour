@@ -34,7 +34,7 @@
       </picture>
       <h2 class="font-bold text-sm mt-2 dark:text-gray-200 text-gray-700 uppercase {{ with .Params.Color }}hover:text-{{ . }}-600 {{ else }}hover:text-accent-600{{ end }} transition ease-in-out duration-200">{{.Title}}</h2>
       {{ with .Params.subtitle }}
-      <h3 class="font-normal text-sm mt-2 text-gray-400">{{.}}</h3>
+      <h3 class="font-normal text-sm mt-2 italic text-gray-500">{{.}}</h3>
       {{end}}
     </a>
   </article>
