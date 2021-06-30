@@ -10,7 +10,7 @@
     {{ end }}
   </h3>
 </header>
-<div data-pswp class="mb-10 content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
+<div data-pswp class="mb-10 post content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
   {{.Content}}
 </div>
 {{ partial "article_camera" . }}

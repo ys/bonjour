@@ -6,5 +6,18 @@
   {{ if (in .Site.Params.showFooter .Type) }}
   <hr class="line" />
   {{ partial "article_footer" . }}
+  <div class="flex justify-between text-sm">
+    <div class="next w-1/4">
+      {{ with .NextInSection}}
+      {{ partial "title" .}}
+      {{ end}}
+    </div>
+    <div class="previous w-1/4">
+      {{ with .PrevInSection}}
+      {{ partial "title" .}}
+      {{ end}}
+
+    </div>
+  </div>
   {{ end }}
 </div>
