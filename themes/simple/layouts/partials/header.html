@@ -1,5 +1,5 @@
 {{ block "header" . }}
-<header class="font-sans mt-16 mb-8 container mx-auto md:max-w-xl lg:max-w-2xl flex flex-col items-center justify-around">
+<header class="font-sans mt-16 mb-8 container mx-auto md:max-w-xl xl:max-w-2xl flex flex-col items-center justify-around">
 {{ if .Params.hideheader }}
   <span class="opacity-60 {{ if .Params.hideheader }}mt-8 text-6xl{{else}}text-3xl{{end}} "><a href="{{ "/" |  relLangURL }}" alt="home" >{{.Params.emoji | default .Site.Params.emoji}}</a></span>
 {{ else }}
