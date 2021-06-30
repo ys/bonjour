@@ -2,7 +2,7 @@
   "redirects": [],
   "headers": [
     {
-      "source": "(.*).(jpg|jpeg|gif|png)",
+      "source": "(.*).(jpg|jpeg|gif|png|woff2|woff)",
       "headers": [
         {
           "key": "Cache-Control",

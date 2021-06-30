@@ -41,7 +41,7 @@ Je continue à me remettre en forme pour mieux surfer. Petit à petit le sport r
 
 📷 → Mes films sont développés et scannés principalement par [Mori Film Lab](https://morifilmlab.com). Je scanne parfois avec un X-T30 à la maison.
 
-☕️ → Mon café vient en général de chez [Mok Coffee](https://mokcoffee.be). J'aime toujours tester et découvrir d'autres torréfacteurs.
+<span class="font-sans">☕️</span> → Mon café vient en général de chez [Mok Coffee](https://mokcoffee.be). J'aime toujours tester et découvrir d'autres torréfacteurs.
 
 ## Colophon
 

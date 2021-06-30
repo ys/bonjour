@@ -2,13 +2,25 @@
 {{ $src := .Image }}
 
 {{ if $src }}
-  {{ $lqip := $src.Resize "20x" }}
-  {{ $rsmall := $src.Resize "300x" }}
-  {{ $small := $src.Resize "800x" }}
-  {{ $large := $src.Resize "1500x" }}
-  {{ $wrsmall := $src.Resize "300x webp" }}
-  {{ $wsmall := $src.Resize "800x webp" }}
-  {{ $wlarge := $src.Resize "1500x webp" }}
+  {{ $xs := "20x" }}
+  {{ $s := "300x" }}
+  {{ $md := "800x" }}
+  {{ $lg := "1500x" }}
+  {{ if .Ratio }}
+    {{ $width := index (split .Ratio "/") 0 }}
+    {{ $height :=index (split .Ratio "/") 1 }}
+    {{ $xs := printf "%s0x%s0" $width $height }}
+    {{ $s := printf "%s00x%s00" $width $height }}
+    {{ $md := printf "%s00x%s00" (mul $width 2) (mul $height 2) }}
+    {{ $lg := printf "%s00x%s00" (mul $width 4) (mul $height 4) }}
+  {{ end }}
+  {{ $lqip := $src.Resize $xs }}
+  {{ $rsmall := $src.Resize $s }}
+  {{ $small := $src.Resize $md }}
+  {{ $large := $src.Resize $lg }}
+  {{ $wrsmall := $src.Resize (printf "%s webp" $s) }}
+  {{ $wsmall := $src.Resize (printf "%s webp" $md) }}
+  {{ $wlarge := $src.Resize (printf "%s webp" $lg) }}
   <picture style="padding-bottom: {{(div (mul 100.0 $src.Height ) $src.Width) -}}%" class="relative box-border block">
     <source srcset='
       {{ if .Lofi }}
