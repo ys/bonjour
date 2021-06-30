@@ -95,6 +95,8 @@ canonifyURLs = false
 
 [imaging]
   resampleFilter = "lanczos"
+  anchor = "center"
+
 
 [taxonomies]
   category = "categories"
