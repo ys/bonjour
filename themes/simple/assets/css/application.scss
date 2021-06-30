@@ -5,7 +5,7 @@
 @tailwind utilities;
 
 html {
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.625;
 }
 
@@ -20,7 +20,7 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, 
     @apply bg-#{$color}-200;
   }
   .content-#{$color} .post blockquote {
-    @apply leading-snug pl-4  border-l-4 border-#{$color}-500 font-normal italic;
+    @apply leading-snug pl-4  border-l-4 border-#{$color}-500 font-normal ;
   }
   .content-#{$color} .note {
     @apply my-4 md:-mx-6 -ml-4 px-4 md:pr-6 py-1 md:pl-6 border-l-4 border-#{$color}-500 bg-gray-100 dark:bg-gray-900;
@@ -38,6 +38,9 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, 
   .content-#{$color} .post h1 {
     @apply text-#{$color}-600;
   }
+  .content-#{$color} hr {
+    @apply border-#{$color}-300;
+  }
   .content-#{$color} .post h2, .content-#{$color} .post h3 {
     @apply underline;
     text-decoration-color: theme('colors.#{$color}.600');
@@ -46,7 +49,7 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, 
     }
   }
   .td-#{$color} {
-    text-decoration-color: theme('colors.#{$color}.600');
+    text-decoration-color: theme('colors.#{$color}.600') !important;
   }
 }
 .logo svg, .fill svg {
@@ -57,21 +60,12 @@ footer ul li:not(:last-child):after {
 }
 
 hr {
-  &:not(.line) {
-    &:after {
-      content:"⁎ ⁎ ⁎ ";
-      @apply block mx-auto text-center;
-    }
-    @apply block mt-6 border-none mb-10 mx-auto;
-  }
-  &.line {
-    @apply border-gray-800 block mt-6 border-0 mb-4 mx-auto w-full border-t;
-  }
+  @apply border-accent-300 block mt-6 border-0 mb-4 mx-auto w-full border-t;
 }
 
 .home {
   p:first-child {
-    @apply text-lg md:text-2xl mb-8;
+    @apply text-lg md:text-xl mb-8;
   }
   p, ul, ol {
     @apply mb-6;
@@ -91,7 +85,7 @@ hr {
     @apply opacity-30;
   }
   h1 {
-    @apply font-bold text-3xl mt-8 text-gray-900 font-normal py-1;
+    @apply font-bold text-xl mt-8 text-gray-900 font-normal py-1;
   }
   h2 {
     @apply text-2xl mt-8 dark:text-gray-100 text-gray-900 py-1 font-semibold;

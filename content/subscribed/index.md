@@ -17,7 +17,7 @@ menu:
 
 Newsletters, RSS et autres favoris. A quoi j'occupe mes lectures numériques.
 
-## Newsletters
+## Newsletters 
 
 Ce qui remplit ma boîte email sans être du SPAM.
 
