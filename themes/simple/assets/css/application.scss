@@ -64,9 +64,6 @@ hr {
 }
 
 .home {
-  p:first-child {
-    @apply text-lg md:text-xl mb-8;
-  }
   p, ul, ol {
     @apply mb-6;
   }
