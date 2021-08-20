@@ -7,7 +7,7 @@ tags:
 - la lettre
 emoji: 💌
 color: pink
-title: "Bonjour 2 - Du film, de la newsletter et le Mt Desolation"
+title: "Bonjour - 2 - Du film, de la newsletter et le Mt Desolation"
 slug: "/bonjour-2"
 ---
 

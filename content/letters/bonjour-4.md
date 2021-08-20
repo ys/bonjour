@@ -7,7 +7,7 @@ tags:
 - la lettre
 emoji: 💌
 color: pink
-title: "Bonjour 4 - Faire, refaire et du bois"
+title: "Bonjour - 4 - Faire, refaire et du bois"
 slug: "/bonjour-4"
 ---
 

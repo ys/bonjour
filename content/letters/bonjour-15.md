@@ -7,7 +7,7 @@ tags:
 newsletter: true
 emoji: 💌
 color: pink
-title: "Bonjour 15 - Capitaine, tatouages et SMS"
+title: "Bonjour - 15 - Capitaine, tatouages et SMS"
 slug: "/bonjour-15"
 ---
 ![](https://buttondown.s3.us-west-2.amazonaws.com/images/61a70a89-f4bf-4bba-8689-e2ad722f7efb.jpeg)

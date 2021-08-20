@@ -7,7 +7,7 @@ tags:
 - la lettre
 emoji: 💌
 color: pink
-title: "Bonjour 8 - Le nouvel an, un ex-libris et de la psychothérapie"
+title: "Bonjour - 8 - Le nouvel an, un ex-libris et de la psychothérapie"
 slug: "/bonjour-8"
 ---
 

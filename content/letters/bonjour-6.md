@@ -7,7 +7,7 @@ tags:
 - la lettre
 emoji: 💌
 color: pink
-title: "Bonjour 6 - De la musique, des passions et des passions honteuses"
+title: "Bonjour - 6 - De la musique, des passions et des passions honteuses"
 slug: "/bonjour-6"
 ---
 

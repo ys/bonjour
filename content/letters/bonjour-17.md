@@ -7,11 +7,11 @@ tags:
 newsletter: true
 emoji: 💌
 color: pink
-title: "Bonjour 17 - Vacances, inconnues et la poule"
+title: "Bonjour - 17 - Vacances, inconnues et la poule"
 slug: "/bonjour-17"
 ---
 
-![](https://buttondown.s3.amazonaws.com/images/4617aa72-d124-45fe-9884-537aedb5dfe2.jpeg) 
+![](https://buttondown.s3.amazonaws.com/images/4617aa72-d124-45fe-9884-537aedb5dfe2.jpeg)
 
 _Cette newsletter est écrite par [Yannick](https://yannickschutz.com/now), il aime être pieds nus, la côte sauvage de Crozon et se plaindre de l'absurdité de certaines règles. Il va encore vous raconter sa vie et ce qu'il a vu/lu/entendu. Soyez prêt! Et merci, d'être là._
 
@@ -19,9 +19,9 @@ _Cette newsletter est écrite par [Yannick](https://yannickschutz.com/now), il a
 
 Bonjour,
 
-Avec bal de Bamako qui tourne en boucle dans la maison, (Chanson préférée de Tom pour le moment) on commence à penser aux vacances d'été. On a cette audace, cette folie même je dirais. On se projette en ne sachant pas trop ce que cet été nous réserve. Mais on a envie d'y penser. On ne pense pas partir bien loin. On partirait avec le van. On aimerait la côte atlantique et puis on pense au monde, à la foule. On pense alors à la côte atlantique mais proche de chez nous. On se voit même bien simplement dans un camping à Crozon. Si vous ne connaissez pas Crozon, c'est mon énorme coup de coeur nature à la pointe du Finistère. 
+Avec bal de Bamako qui tourne en boucle dans la maison, (Chanson préférée de Tom pour le moment) on commence à penser aux vacances d'été. On a cette audace, cette folie même je dirais. On se projette en ne sachant pas trop ce que cet été nous réserve. Mais on a envie d'y penser. On ne pense pas partir bien loin. On partirait avec le van. On aimerait la côte atlantique et puis on pense au monde, à la foule. On pense alors à la côte atlantique mais proche de chez nous. On se voit même bien simplement dans un camping à Crozon. Si vous ne connaissez pas Crozon, c'est mon énorme coup de coeur nature à la pointe du Finistère.
 
-C'est dur de prévoir avec autant d'inconnues. On aimerait que les choses redeviennent un peu plus simple. Je ne les veux pas du tout comme avant mais juste moins compliquées. Alors on danse. On sait que quoi qu'il arrive ce sera bien. Même si on doit rester au jardin. Apprendre à tirer le meilleur de toute situation est un art qu'il faut maîtriser quand les dirigeants font dans l'absurde. C'était déjà le cas en Belgique (qui [n'existe pas d'ailleurs](https://www.zapatopi.net/belgium/)) avant mais parfois je pense que l'absurde est nécessaire sur le CV d'un politicien. Enfin voilà, c'était ma petite minute thérapie ici. 
+C'est dur de prévoir avec autant d'inconnues. On aimerait que les choses redeviennent un peu plus simple. Je ne les veux pas du tout comme avant mais juste moins compliquées. Alors on danse. On sait que quoi qu'il arrive ce sera bien. Même si on doit rester au jardin. Apprendre à tirer le meilleur de toute situation est un art qu'il faut maîtriser quand les dirigeants font dans l'absurde. C'était déjà le cas en Belgique (qui [n'existe pas d'ailleurs](https://www.zapatopi.net/belgium/)) avant mais parfois je pense que l'absurde est nécessaire sur le CV d'un politicien. Enfin voilà, c'était ma petite minute thérapie ici.
 
 C'est le retour des jours en tongs en Bretagne. Et vous savez ce que cela veut dire. Les beaux jours, c'est café sur glace ou glaces. D'ailleurs, si vous voulez [ma recette](https://yannickschutz.com/recette-cafe-glace/) servez-vous. Un an mois pour mois que j'ai écrit ceci. On refait griller les repas sur le Weber et on nettoie le jardin. On a perdu une poule malheureusement. On va en adopter une nouvelle assez vite. On commence à bien nettoyer [Douarenn](https://douarenn.fr) aussi. Vraiment agréable de voir les choses avancer.
 
