@@ -41,3 +41,4 @@ jobs:
           http_url: "https://api.buttondown.email/v1/emails"
           downloaded_filename: data/newsletter.json
           authorization: "Token ${{ secrets.BUTTONDOWN_API_KEY }}"
+          postprocess: postprocess-buttondown.ts
