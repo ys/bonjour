@@ -16,6 +16,8 @@ menu:
 linktitle: Now
 ---
 
+{{< photo src="cover" alt="yannick" >}}
+
 J'aime raconter des histoires et prendre des photos.
 J'aime assez notre planète aussi, je suis plutôt un micro activiste.
 
@@ -26,8 +28,6 @@ Mon matos actuel:
 - [Olympus XA](/olympus-xa)
 - Leica M6 avec un Voigtlander Nokton Classic 35mm 1.4
 - [Nikonos V](/nikonos-v) avec son 35mm
-
-{{< photo src="cover" alt="yannick" >}}
 
 J'ai commencé à faire de la [photo dans l'eau](/nikonos-glaz) armé de palmes et du Nikonos. C'est une petite drogue cette eau salée. Cette année je pense bien finir avec une longboard à moi pour continuer à surfer même sans l'école. Je vais dans l'eau dès que je peux.
 

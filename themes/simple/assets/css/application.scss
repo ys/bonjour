@@ -67,6 +67,9 @@ hr {
   p, ul, ol {
     @apply mb-6;
   }
+  p:first-child {
+    @apply my-6 text-xl;
+  }
 }
 
 .post {
