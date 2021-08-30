@@ -28,11 +28,11 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, 
   .content-#{$color} .link{
     @apply text-#{$color}-600;
   }
-  .content-#{$color} .post a{
-    @apply font-semibold text-#{$color}-600 dark:text-#{$color}-200 underline relative;
+  .content-#{$color} .prose a{
+    @apply font-semibold text-#{$color}-600 dark:text-#{$color}-300 underline relative;
     transition: color 0.5s, background-image 0.5s linear;
     &:hover {
-      @apply text-#{$color}-600 dark:text-#{$color}-200 underline relative;
+      @apply text-#{$color}-600 dark:text-#{$color}-500 underline relative;
     }
   }
   .content-#{$color} .post h1 {

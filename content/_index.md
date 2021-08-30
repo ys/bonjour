@@ -10,12 +10,6 @@ resources:
 - src: "*.jpg"
 - src: "cover.jpg"
   name: "cover"
-menu:
-  main:
-    weight: 3
-    params:
-      useEmoji: true
-      class: "opacity-60 text-3xl"
 ---
 
 Yannick aime [écrire](/posts), prendre des [photos](/series), lire des [livres](/books) et envoyer une [petite lettre](/bonjour) qui part toutes les deux semaines. Il vend aussi [des tirages limités](/shop) de ses photos favorites.
