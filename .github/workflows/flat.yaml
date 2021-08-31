@@ -33,7 +33,7 @@ jobs:
           http_url: "https://www.italictype.com/api/bookqueueitems/?queue=2&limit=2000"
           downloaded_filename: data/italictype.json
           authorization: "Bearer ${{ steps.get-api-token.outputs.italictype_token }}"
-          postprocess: postprocess.ts
+          postprocess: flat/italictype.ts
 
       - name: Fetch ButtonDown newsletters
         uses: githubocto/flat@v3
@@ -41,4 +41,4 @@ jobs:
           http_url: "https://api.buttondown.email/v1/emails"
           downloaded_filename: data/newsletter.json
           authorization: "Token ${{ secrets.BUTTONDOWN_API_KEY }}"
-          postprocess: postprocess-buttondown.ts
+          postprocess: flat/buttondown.ts
