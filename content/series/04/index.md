@@ -1,9 +1,9 @@
 ---
 title: "04"
+subtitle: "trainer dans les ports"
 date: 2021-09-01T12:55:23+02:00
 draft: false
 description: ""
-slug: "serie-04"
 color: "cascade"
 emoji: ""
 serie: false

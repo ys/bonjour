@@ -1,11 +1,12 @@
 ---
-title: "Glaz"
-subtitle: "Un projet, une couleur"
+title: "03"
+subtitle: "Glaz"
 date: 2021-01-18T12:55:23+02:00
 draft: false
 description: ""
 tags: ["nikonos", "film", "nikonosproject", "dawn patrol", "kodak portra"]
-slug: "nikonos-glaz"
+aliases: 
+  - "nikonos-glaz"
 color: "cascade"
 emoji: "🌊"
 serie: false
