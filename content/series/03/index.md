@@ -6,7 +6,7 @@ draft: false
 description: ""
 tags: ["nikonos", "film", "nikonosproject", "dawn patrol", "kodak portra"]
 aliases: 
-  - "nikonos-glaz"
+  - "/nikonos-glaz"
 color: "cascade"
 emoji: "🌊"
 serie: false
