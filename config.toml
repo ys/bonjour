@@ -91,6 +91,7 @@ canonifyURLs = false
 [permalinks]
   posts = "/:slug"
   letters = "/:slug"
+  series = "/:slug"
   categories = "/c/:slug"
   microposts = "/m/:year-:month-:day-:slug"
 
