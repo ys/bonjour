@@ -13,4 +13,4 @@ resources:
     name: "cover"
 ---
 
-{{< grid images="7|8/1 / 3 | 4 / 5 | 6 /  9 | 2 /10" alt="boats">}}
+{{< grid images="7|8/4:16 | 1 | 4:16 / 3 | 4 / 5 | 16:4 - 6 - 16:4 /  9 | 2 /10" alt="boats">}}
