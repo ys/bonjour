@@ -17,6 +17,7 @@ resources:
     name: "cover"
 ---
 
+{{< grid images="41 / 1:2 | 43 |1:2 / 53 | 69 / 64 / 16:3 - 65 - 16:3 | 66 / 71 | 72 / 74 | 16:2 - 75 - 16:2 / 1:2 | 73 | 1:2 / cover" alt="nikonosV" >}}
 
 Glaz, it is a color that doesn't translate to english.  
 Glaz, it is the blue of the ocean.  
@@ -28,5 +29,3 @@ Glaz, it is also the color of nature.
 Glaz, it is the color that the Kodak Portra gave me that morning.  
 Glaz, it is the beginning of a new project.  
 Glaz, it is the name of my watershots.  
-
-{{< grid images="41 / 1:1 | 43 / 53 | 69 / 64 / 16:9 - 65 | 66 / 71 | 72 / 74 | 75 - 16:5 / 73 | 1:2 / cover" >}}

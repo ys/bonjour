@@ -18,7 +18,7 @@ resources:
     name: "cover"
 ---
 
-{{< grid images="41 / 1:1 | 43 / 53 | 69 / 64 / 16:9 - 65 | 66 / 71 | 72 / 74 | 75 - 16:5 / 73 | 1:2 / cover" >}}
+{{< grid images="41 / 1:2 | 43 |1:2 / 53 | 69 / 64 / 16:3 - 65 - 16:3 | 66 / 71 | 72 / 74 | 16:2 - 75 - 16:2 / 1:2 | 73 | 1:2 / cover" alt="nikonosV" >}}
 
 Glaz, c'est une couleur qui n'existe pas en français.  
 Glaz, c'est le bleu de la mer.  

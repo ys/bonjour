@@ -16,4 +16,4 @@ resources:
     name: "cover"
 ---
  
- {{< grid images="cover / 08 | 13 / 14 | 15 / 16 / 23  | 18 - 25 / 19 | 35" >}}
+ {{< grid images="cover / 08 | 13 / 14 | 15 / 16 / 23  | 18 /  25 | 19 /1:2 | 35 | 1:2" >}}
