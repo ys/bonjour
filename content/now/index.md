@@ -47,8 +47,6 @@ Je continue à me remettre en forme pour mieux surfer. Petit à petit le sport r
 
 Ce site est statique et fait avec [Hugo](https://gohugo.io). Il est hébergé chez [Vercel](https://vercel.co). Optimisé avec mes mains et beaucoup de patience. Le code source est sur [GitHub](https://github.com/ys/bonjour). Les images sont optimisées par une GitHub Action de [Calibre](https://calibreapp.com/blog/compress-images-in-prs).
 
-Ce site n'envoie pas les infos de ses utilisateurs chez les gros gras du web. Il utilise [Fathom](https://usefathom.com/ref/NLCJTH) qui respecte votre vie privée. 
-
 Tout le contenu est copyrighté mais n'hésitez pas à demander si vous voulez le réutiliser, on trouvera un moyen.
 
 **Contact:** [hello@yannickschutz.com](mailto://hello@yannickschutz.com)

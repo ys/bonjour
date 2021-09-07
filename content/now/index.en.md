@@ -45,8 +45,6 @@ I keep getting in better shape to surf well. Sport becomes slowly an habit. Afte
 
 This is a static website built with [Hugo](https://gohugo.io). Hosting is provided by [Vercel](https://vercel.co). Optimized with my own two hands and a lot of patience. The source of it lives on [GitHub](https://github.com/ys/bonjour). Images are optimised by a GitHub Action from [Calibre](https://calibreapp.com/blog/compress-images-in-prs).
 
-I avoid using the fat trackers on the web and use [Fathom](https://usefathom.com/ref/NLCJTH) who cares about my and your privacy. 
-
 Most of the content is copyrighted but open to discussion if you wanna re-use some of it.
 
 **Contact:** [hello@yannickschutz.com](mailto://hello@yannickschutz.com)
