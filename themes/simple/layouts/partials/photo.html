@@ -25,22 +25,6 @@
     <source srcset='
       {{ if .Lofi }}
         {{ if ge $src.Width "300" }}
-          {{ with $rsmall.RelPermalink }}{{.}} 300w{{ end }}
-        {{ end }}
-        {{ if ge $src.Width "800" }}
-          {{ with $small.RelPermalink }}{{.}} 800w{{ end }}
-        {{ end }}
-      {{ else}}
-        {{ if ge $src.Width "800" }}
-          {{ with $small.RelPermalink }}{{.}} 800w{{ end }}
-        {{ end }}
-        {{ if ge $src.Width "1500" }}
-          {{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
-        {{ end }}
-      {{ end }}' type="image/jpg" sizes="auto"/>
-    <source srcset='
-      {{ if .Lofi }}
-        {{ if ge $src.Width "300" }}
           {{ with $wrsmall.RelPermalink }}{{.}} 300w{{ end }}
         {{ end }}
         {{ if ge $src.Width "800" }}
@@ -54,6 +38,22 @@
           {{ with $wlarge.RelPermalink }}, {{.}} 1500w {{ end }}
         {{ end }}
       {{ end }}' type="image/webp" sizes="auto"/>
+    <source srcset='
+      {{ if .Lofi }}
+        {{ if ge $src.Width "300" }}
+          {{ with $rsmall.RelPermalink }}{{.}} 300w{{ end }}
+        {{ end }}
+        {{ if ge $src.Width "800" }}
+          {{ with $small.RelPermalink }}{{.}} 800w{{ end }}
+        {{ end }}
+      {{ else}}
+        {{ if ge $src.Width "800" }}
+          {{ with $small.RelPermalink }}{{.}} 800w{{ end }}
+        {{ end }}
+        {{ if ge $src.Width "1500" }}
+          {{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
+        {{ end }}
+      {{ end }}' type="image/jpg" sizes="auto"/>
     <img
       loading="lazy"
       style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover"
