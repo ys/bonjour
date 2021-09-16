@@ -3,7 +3,7 @@ title: "Nikonos III"
 subtitle: "Roll d'essai et light leaks"
 date: 2021-09-13T22:57:50+02:00
 draft: false
-slug: "/nikonos-iii"
+slug: "/nikonos-light-leak"
 camera: "Nikonos III"
 film: "Kori 400"
 color: sunray
