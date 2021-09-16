@@ -15,17 +15,10 @@ menu:
 linktitle: "La lettre"
 ---
 
-
-*C'est quoi?* Une newsletter écrite et envoyée avec amour par moi-même.
-
-Une sorte de carte postale virtuelle, sans les informations sur les monos.
-
-Une salutation remplie de petites attentions, des choses que j'aime et de sourires sans doute.
-
-Elle n'est pas encore périodique, cela dépend de vous.
-
 {{< photo src="cover" alt="bonjour" >}}
 
-*Promis je ne revends pas tes données et je ne te spammerai pas. Je déteste cela*
+*C'est quoi?* Une newsletter écrite et envoyée avec amour par moi-même. Une sorte de carte postale virtuelle, sans les informations sur les monos. Une salutation remplie de petites attentions, des choses que j'aime et de sourires sans doute.  
+Elle n'est pas encore périodique, cela dépend de vous.  
 
+*Promis je ne revends pas tes données et je ne te spammerai pas. Je déteste cela*  
 [Lire les anciennes lettres](/letters)

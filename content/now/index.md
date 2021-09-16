@@ -16,6 +16,8 @@ menu:
 linktitle: Now
 ---
 
+{{< photo src="cover" alt="yannick" >}}
+
 J'aime raconter des histoires et prendre des photos.
 J'aime assez notre planète aussi, je suis plutôt un micro activiste.
 
@@ -26,8 +28,6 @@ Mon matos actuel:
 - [Olympus XA](/olympus-xa)
 - Leica M6 avec un Voigtlander Nokton Classic 35mm 1.4
 - [Nikonos V](/nikonos-v) avec son 35mm
-
-{{< photo src="cover" alt="yannick" >}}
 
 J'ai commencé à faire de la [photo dans l'eau](/nikonos-glaz) armé de palmes et du Nikonos. C'est une petite drogue cette eau salée. Cette année je pense bien finir avec une longboard à moi pour continuer à surfer même sans l'école. Je vais dans l'eau dès que je peux.
 
@@ -46,8 +46,6 @@ Je continue à me remettre en forme pour mieux surfer. Petit à petit le sport r
 ## Colophon
 
 Ce site est statique et fait avec [Hugo](https://gohugo.io). Il est hébergé chez [Vercel](https://vercel.co). Optimisé avec mes mains et beaucoup de patience. Le code source est sur [GitHub](https://github.com/ys/bonjour). Les images sont optimisées par une GitHub Action de [Calibre](https://calibreapp.com/blog/compress-images-in-prs).
-
-Ce site n'envoie pas les infos de ses utilisateurs chez les gros gras du web. Il utilise [Fathom](https://usefathom.com/ref/NLCJTH) qui respecte votre vie privée. 
 
 Tout le contenu est copyrighté mais n'hésitez pas à demander si vous voulez le réutiliser, on trouvera un moyen.
 

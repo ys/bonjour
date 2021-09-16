@@ -1,10 +1,5 @@
 {{ define "main" }}
-  <div data-pswp class="z-20 home with-links relative mb-10">
+  <div data-pswp class="z-20 with-links relative mb-10 prose dark:prose-light">
     {{ .Content }}
   </div>
-    {{ with .Resources.GetMatch "back.svg" }}
-      <div  class="z-0 fill {{with $.Params.color}} text-{{.}}-200 dark:text-{{.}}-800{{ else}} dark:text-accent-800 text-accent-200{{end}} absolute -top-8 -left-8 opacity-60 w-1/4 h-">
-        {{.Content |safeHTML}}
-      </div>
-    {{ end}}
 {{ end }}

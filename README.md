@@ -1,6 +1,6 @@
 # This is yannickschutz.com
 
-This is automatically synced with Netlify
+This is automatically synced with vercel
 
 License
 =======

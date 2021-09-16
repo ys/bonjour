@@ -4,7 +4,7 @@ grid: "cover"
 subtitle: "50€"
 price_id: "price_1IlKKMFaA8Wpl3EpzXxc7fza"
 ---
-**Les premières vagues de l'anneee au Dossen**  
+**Les premières vagues de l'année au Dossen**  
 📷 Nikonos V - Kodak Portra 400
 Limitée à 10 impressions. Signées et numérotées.
 

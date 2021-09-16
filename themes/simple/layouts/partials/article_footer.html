@@ -1,14 +1,5 @@
-{{ partial "article_camera" . }}
-<span class="text-xs  text-right font-sans dark:text-gray-300 text-gray-700 capitalize block">
-  {{ with .Params.emoji }}
-    {{ . }}
-  {{ else }}
-    {{ partial "emoji" . }}
-  {{ end }}
-  {{ partial "category-link" . }}
-  {{ .Site.Params.arrow }}
+<span class="py-8 text-sm  text-right dark:text-gray-300 text-gray-700  block">
   <a href="{{ .RelPermalink }}">
-    {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+    {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
   </a>
 </span>
-{{ partial "article_signature" . }}

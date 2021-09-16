@@ -1,4 +1,5 @@
-<script src="https://cdn.usefathom.com/script.js" data-site="{{ .Site.Params.fathom.siteID }}" data-included-domains="{{ .Site.Params.fathom.domain }}" data-honor-dnt="true" defer></script>
+<script data-goatcounter="https://{{ .Site.Params.goatcounter.domain }}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+<script type="text/javascript" src="https://api.pirsch.io/pirsch.js" id="pirschjs" data-code="{{ .Site.Params.pirsch.code }}" defer></script>
 {{ if eq .Type "shop" }}
   <script src="https://js.stripe.com/v3"></script>
 {{ end }}

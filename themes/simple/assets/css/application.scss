@@ -17,7 +17,7 @@ html {
 $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, bluewhale, sunray, rose, amber;
 @each $color in $colors {
   .content-#{$color} ::selection {
-    @apply bg-#{$color}-200;
+    @apply bg-#{$color}-200 dark:bg-#{$color}-500;
   }
   .content-#{$color} .post blockquote {
     @apply leading-snug pl-4  border-l-4 border-#{$color}-500 font-normal ;
@@ -28,11 +28,11 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, 
   .content-#{$color} .link{
     @apply text-#{$color}-600;
   }
-  .content-#{$color} .post a{
-    @apply font-semibold text-#{$color}-600 dark:text-#{$color}-200 underline relative;
+  .content-#{$color} .prose a{
+    @apply font-semibold text-#{$color}-600 dark:text-#{$color}-400 underline relative;
     transition: color 0.5s, background-image 0.5s linear;
     &:hover {
-      @apply text-#{$color}-600 dark:text-#{$color}-200 underline relative;
+      @apply text-#{$color}-600 dark:text-#{$color}-500 underline relative;
     }
   }
   .content-#{$color} .post h1 {
@@ -66,6 +66,9 @@ hr {
 .home {
   p, ul, ol {
     @apply mb-6;
+  }
+  p:first-child {
+    @apply my-6 text-xl;
   }
 }
 

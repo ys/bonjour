@@ -13,8 +13,8 @@ canonifyURLs = false
 [params]
   footer = "👋 Yannick"
   text_404 = "Perdu? Cliquez sur la vague"
-  mainSections = [ "posts", "series" ]
-  showFooter = ["posts", "series"]
+  mainSections = [ "posts", "photos" ]
+  showFooter = ["posts", "photos"]
   sizes = [ "2048" , "1024" , "512" ]
   baseline = "n.m. (de bon et jour) - salutation dont on se sert pendant la journée quand on aborde quelqu'un"
   description = "J'aime bien notre planète et j'raconte des histoires. Les gens diraient que je suis plutôt chouette."
@@ -24,6 +24,10 @@ canonifyURLs = false
   emoji = "✌️"
   withEmoji = true
   arrow = "—"
+[params.pirsch]
+  code = "0qDUCSJL6O3ThYYcnoCylkAbGe4FZVHn"
+[params.goatcounter]
+  domain = "bonjouryannick"
 [params.fathom]
   domain = "yannickschutz.com"
   siteID = "OIPUYMFX"
@@ -89,7 +93,7 @@ canonifyURLs = false
 [permalinks]
   posts = "/:slug"
   letters = "/:slug"
-  series = "/:slug"
+  photos = "/:slug"
   categories = "/c/:slug"
   microposts = "/m/:year-:month-:day-:slug"
 
