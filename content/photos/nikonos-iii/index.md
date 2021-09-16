@@ -10,7 +10,9 @@ color: sunray
 emoji: "🏄‍♂️"
 resources:
 - src: "*.jpeg"
+- src: "*67.jpeg"
+  name: "cover"
 ---
  
- {{< grid images="60 / 61 |62 / 63 | 64 / 65 / 66 / 67 | 68 / 69" >}}
+ {{< grid images="60 | 61 /62 | 63 | 64 / 65 | 66 / cover / 68 | 69" >}}
  
