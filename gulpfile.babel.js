@@ -4,7 +4,7 @@ import mozjpeg from "imagemin-mozjpeg";
 import imageminJpegRecompress from "imagemin-jpeg-recompress";
 
 gulp.task("img:build",  () =>
-    gulp.src(["content/**/*.{jpg,png,gif,svg}"])
+    gulp.src(["content/on-paper/*.{jpg,png,gif,svg}"])
       .pipe(imagemin([
               imagemin.gifsicle(),
               imagemin.optipng(),
