@@ -6,6 +6,8 @@ draft: false
 type: "on-paper"
 resources:
   - src: "*.jpg"
+  - src: "cover.jpg"
+    name: "cover"
 emoji: 📚
 menu:
   main:
