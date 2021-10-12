@@ -1,4 +1,7 @@
-<script data-goatcounter="https://{{ .Site.Params.goatcounter.domain }}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+{{ with .Site.Params.plausible.domain }}
+<script defer data-domain="{{ . }}" src="https://plausible.io/js/plausible.js"></script>
+{{ end }}
+
 {{ if eq .Type "shop" }}
   <script src="https://js.stripe.com/v3"></script>
 {{ end }}

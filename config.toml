@@ -24,8 +24,8 @@ canonifyURLs = false
   emoji = "✌️"
   withEmoji = true
   arrow = "—"
-[params.goatcounter]
-  domain = "bonjouryannick"
+[params.plausible]
+  domain = "yannickschutz.com"
 [params.fathom]
   domain = "yannickschutz.com"
   siteID = "OIPUYMFX"
