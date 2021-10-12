@@ -20,5 +20,9 @@ linktitle: "La lettre"
 *C'est quoi?* Une newsletter écrite et envoyée avec amour par moi-même. Une sorte de carte postale virtuelle, sans les informations sur les monos. Une salutation remplie de petites attentions, des choses que j'aime et de sourires sans doute.  
 Elle n'est pas encore périodique, cela dépend de vous.  
 
+Si tu aimes ce que tu as lu, j'envoie une petite lettre sur tout et rien toutes les deux semaines.
+
+{{< letter account="bonjour" accent="sunray" msg="💌 Ma petite lettre" >}}
+
 *Promis je ne revends pas tes données et je ne te spammerai pas. Je déteste cela*  
 [Lire les anciennes lettres](/letters)
