@@ -1,7 +1,7 @@
 {{ $username := .Site.Params.tinyletter.username }}
 {{ $title := .Site.Params.tinyletter.title }}
 {{ $message := .Site.Params.tinyletter.message }}
-{{ $color := "accent" }}
+{{ $color := .Params.color | default "accent" }}
 {{ if .Params.letter }}
   {{ $username = .Params.letter }}
   {{ $title = .Params.lettertitle }}

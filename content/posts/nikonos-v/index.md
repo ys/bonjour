@@ -1,4 +1,5 @@
 ---
+background: true
 color: cascade
 title: "Bonjour Nikonos V"
 subtitle: "De l'eau salée sur l'objectif"
