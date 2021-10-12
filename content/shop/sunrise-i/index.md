@@ -1,5 +1,5 @@
 ---
-title: "New year, new wave"
+title: "Sunrise I"
 grid: "cover"
 subtitle: "50€"
 price_id: "price_1IlKKMFaA8Wpl3EpzXxc7fza"
