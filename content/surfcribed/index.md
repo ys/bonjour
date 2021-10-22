@@ -3,7 +3,7 @@ title: "Surfcribed"
 description: "Tous les liens surfs que j'apprécie"
 date: 2021-02-24T12:57:50+02:00
 draft: false
-color: sunray
+color: bluewhale
 type: "about"
 showtitle: true
 resources:

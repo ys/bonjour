@@ -21,7 +21,7 @@
   {{ $wrsmall := $src.Resize (printf "%s webp" $s) }}
   {{ $wsmall := $src.Resize (printf "%s webp" $md) }}
   {{ $wlarge := $src.Resize (printf "%s webp" $lg) }}
-  <picture style="padding-bottom: {{(div (mul 100.0 $src.Height ) $src.Width) -}}%" class="relative box-border block">
+  <picture style="{{ .ExtraClasses }} padding-bottom: {{(div (mul 100.0 $src.Height ) $src.Width) -}}%" class="relative box-border block">
     <source srcset='
       {{ if .Lofi }}
         {{ if ge $src.Width "300" }}

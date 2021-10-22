@@ -4,7 +4,6 @@ title: "Bonjour, moi c'est Yannick."
 description: "What I am doing and enjoying lately"
 date: 2020-10-07T12:57:50+02:00
 draft: false
-color: sunray
 type: "about"
 resources:
   - src: "*.jpg"

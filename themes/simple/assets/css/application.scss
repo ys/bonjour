@@ -59,6 +59,24 @@ footer ul li:not(:last-child):after {
  content: "·";
 }
 
+.wide-width {
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+  min-width: 100%;
+  width: 85vw;
+  transform: translateX(calc(-50% + 50vw));
+  position: relative;
+}
+
+.full-width {
+  margin-left: -50vw;
+  margin-right: -50vw;
+  left: 50% ;
+  right: 50% ;
+  width: 100vw;
+  position: relative;
+}
+
 hr {
   @apply border-accent-300 block mt-6 border-0 mb-4 mx-auto w-full border-t;
 }
