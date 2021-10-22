@@ -24,11 +24,6 @@ canonifyURLs = false
   emoji = "✌️"
   withEmoji = true
   arrow = "—"
-[params.plausible]
-  domain = "yannickschutz.com"
-[params.fathom]
-  domain = "yannickschutz.com"
-  siteID = "OIPUYMFX"
 [params.tinyletter]
   username = "bonjouryannick"
   title = "💌 Ma petite lettre"
