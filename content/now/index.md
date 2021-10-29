@@ -1,6 +1,6 @@
 ---
 seotitle: "Now"
-title: "Bonjour, moi c'est Yannick."
+title: "Bonjour!"
 description: "What I am doing and enjoying lately"
 date: 2020-10-07T12:57:50+02:00
 draft: false
@@ -15,10 +15,12 @@ menu:
 linktitle: Now
 ---
 
+Moi, c'est Yannick.  
+J'aime raconter des histoires et prendre des photos.  
+J'aime assez notre planète aussi, je suis plutôt un micro activiste.
+
 {{< photo src="cover" alt="yannick" >}}
 
-J'aime raconter des histoires et prendre des photos.
-J'aime assez notre planète aussi, je suis plutôt un micro activiste.
 
 Cela fait maintenant quelques années que je suis dans le Finistère. Un breton d'adoption.
 Je suis amoureux de l'océan et de la nature. Ces derniers temps, je ne fais plus que de la photo argentique. J'ai mon iPhone 12 mini pour tout ce qui est numérique. Je charge principalement de la Kodak Portra 400 dans mes appareils. J'aime de plus en plus la Kodak Tri-X 400. J'ai eu beaucoup de plaisir sur quelques rolls.
