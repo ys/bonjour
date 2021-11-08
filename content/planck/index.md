@@ -8,4 +8,4 @@ resources:
   - src: "*.jpg"
 ---
 
-{{ grid images="09 | 05 | 06 / 07 | 08" }}
+{{< grid images="09 | 05 | 06 / 07 | 08" >}}
