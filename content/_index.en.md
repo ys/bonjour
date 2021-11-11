@@ -12,6 +12,6 @@ resources:
   name: "cover"
 ---
 
-Yannick likes [writing](/en/posts), [pictures](/en/photos), to read [books](/en/books) and to send a [small letter in french](/bonjour) every two weeks and to send a [photo](/en/details) every wednesday. He also like to print [small set of his favorite pictures](/en/shop).
+Yannick enjoys [writing](/en/posts), [taking pictures](/en/photos) and [reading](/en/books). He also likes printing [limited sets of his favorite pictures](/en/shop).
 
 {{< grid images=" 15 | 6 / 32 | 4 /  17 |  33 " >}}
