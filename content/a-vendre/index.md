@@ -27,7 +27,7 @@ Je vous met aussi une carte mémoire Sandisk Extreme Pro 64Go
 
 *Prix: 600€*
 
-{{< grid images="xt30 / 1545" >}}
+{{< grid images="xt30 | 1545" >}}
 
 ### Objectif Artisan7 Macro
 
@@ -35,7 +35,7 @@ Acheté en seconde main pour les scans. Monture Fuji.
 
 *Prix: 100€*
 
-{{< grid images="macro0 / macro1 / macro2" >}}
+{{< grid images="macro0 | macro1 | macro2" >}}
 
 ### Negative Supply Film Carrier MK1 pour 35mm
 
