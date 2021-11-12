@@ -11,6 +11,8 @@ resources:
 C'est bientôt Noël, J'ai quelques présents qui feraient plaisir à être plus utilisés.
 N'hésitez pas si vous voulez plus d'information.
 
+Par [e-mail](mailto:hello@yannickschutz.com) ou sur [Twitter](https://twitter.com/bonjouryannick)
+
 ### Machine à café Rancilio Silvia
 
 Je ne l'utilise pas assez, elle est en bon état, c'est déjà une seconde main.
