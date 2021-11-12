@@ -5,7 +5,7 @@ date: 2021-11-12T08:57:50+02:00
 draft: false
 type: "about"
 resources:
-  - src: "*.jpg"
+  - src: "*.jpeg"
 ---
 
 C'est bientôt Noël, J'ai quelques présents qui feraient plaisir à être plus utilisés.
