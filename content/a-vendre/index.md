@@ -13,24 +13,6 @@ N'hésitez pas si vous voulez plus d'information.
 
 Par [e-mail](mailto:hello@yannickschutz.com) ou sur [Twitter](https://twitter.com/bonjouryannick)
 
-### Machine à café Rancilio Silvia
-
-Je ne l'utilise pas assez, elle est en bon état, c'est déjà une seconde main.
-Vendue avec une floppée d'accessoires.
-
-*Prix: 200€*
-
-{{< photo src="rancilio" alt="Rancilio Silvia" >}}
-
-### Fuji X-T30 + 15-45mm
-
-Encore sous garantie, je l'avais acheté pour scanner des négatifs. A la place, j'ai développé une super relation avec mon labo photo.
-Je vous met aussi une carte mémoire Sandisk Extreme Pro 64Go
-
-*Prix: 600€*
-
-{{< grid images="xt30 | 1545" >}}
-
 ### Objectif Artisan7 Macro
 
 Acheté en seconde main pour les scans. Monture Fuji.
