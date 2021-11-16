@@ -11,6 +11,7 @@ resources:
 menu:
   footer:
     weight: 4
+linktitle: "Des liens"
 ---
 
 <span class="text-gray-500">*Mis à jour le 24 Février 2021*</span>

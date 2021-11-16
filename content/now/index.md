@@ -11,7 +11,7 @@ resources:
     name: "cover"
 menu:
   main:
-    weight: 5
+    weight: 1
 linktitle: Now
 ---
 

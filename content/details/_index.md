@@ -3,10 +3,6 @@ color: cascade
 title: Détail
 hideSubscribe: true
 grid: true
-menu:
-  footer:
-    weight: 5
-linktitle: "Détail"
 ---
 
 Une série hors du temps de moments pris et captés.  

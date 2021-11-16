@@ -1,10 +1,10 @@
-<div class="bg-{{ with .Params.color }}{{.}}{{else}}accent{{end}}-200 dark:bg-{{ with .Params.color }}{{.}}{{else}}accent{{end}}-800  w-full ">
-<footer class="container  md:max-w-lg mx-auto py-10 text-gray-600 dark:text-gray-200 text-sm">
-  <div class="flex justify-end">
+<div class=" ">
+<footer class="container  md:max-w-md mx-auto py-10 text-gray-600 dark:text-gray-200 text-sm">
+  <div class="flex ">
     {{ .Site.Params.footer }} - {{ now.Year }}
   </div>
   <div class="pt-2">
-    <ul class="flex flex-wrap flex-row text-right justify-end ">
+    <ul class="flex flex-wrap flex-row text-right  ">
       {{ range .Site.Menus.footer }}
       <li class="py-2 pl-1">
         <a class="hover:text-accent-600 transition ease-in-out duration-200 " href="{{ .URL }}" title="{{ .Title }}">
@@ -15,7 +15,7 @@
     </ul>
   </div>
   <div class="">
-    <ul class="flex flex-row text-right justify-end flex-wrap">
+    <ul class="flex flex-row text-right  flex-wrap">
       {{ with .Site.Params.social.instagram }}
       <li class="pl-1  py-2 ">
         <a class="hover:text-accent-600 transition ease-in-out duration-200"

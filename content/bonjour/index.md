@@ -12,7 +12,7 @@ resources:
 menu:
   footer:
     weight: 5
-linktitle: "La lettre"
+linktitle: "💌 Bonjour"
 ---
 
 {{< photo src="cover" alt="bonjour" >}}

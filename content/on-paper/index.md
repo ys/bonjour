@@ -10,10 +10,9 @@ resources:
     name: "cover"
 emoji: 📚
 menu:
-  main:
-    pre: "🆕"
+  footer:
     weight: 3
-linktitle: "On paper"
+linktitle: "Des livres"
 ---
 
 Un projet de partage d'amour papier.  
