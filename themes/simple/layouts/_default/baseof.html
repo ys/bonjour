@@ -16,7 +16,7 @@
 
   <div class="container w-full pb-16 md:max-w-md mx-auto min-h-1/2">
     {{ partial "header" . }}
-    <div class="mx-4 md:mx-0 relative">
+    <div class="{{ with .Params.hideHeader }}mt-16{{end}} mx-4 md:mx-0 relative">
       {{ block "main" . }}
       {{ end }}
     </div>
