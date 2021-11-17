@@ -1,4 +1,5 @@
 ---
+archived: true
 title: "La maison Ternell"
 date: 2017-10-20T12:07:44+01:00
 draft: false

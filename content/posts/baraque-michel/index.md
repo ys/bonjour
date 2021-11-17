@@ -1,4 +1,5 @@
 ---
+archived: true
 title: "Autour de la Baraque Michel"
 slug: "baraque-michel"
 date: 2018-05-05T10:07:44+02:00

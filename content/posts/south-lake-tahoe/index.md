@@ -1,4 +1,5 @@
 ---
+archived: true
 title: "South Lake Tahoe"
 date: 2018-02-11T12:07:44+01:00
 draft: false

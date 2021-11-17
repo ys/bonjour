@@ -1,4 +1,5 @@
 ---
+archived: true
 title: "Les bois de Hoursinne"
 slug: "hoursinne"
 date: 2018-04-29T12:07:44+01:00

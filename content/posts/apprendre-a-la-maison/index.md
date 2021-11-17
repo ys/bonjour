@@ -1,4 +1,5 @@
 ---
+archived: true
 title: Apprendre à la maison
 subtitle: "L'école en plein confinement"
 emoji: 🏫

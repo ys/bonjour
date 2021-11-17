@@ -1,4 +1,5 @@
 ---
+archived: true
 title: Mandala du dimanche
 subtitle: Des fleurs plein la table
 emoji: 💐

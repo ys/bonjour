@@ -1,4 +1,5 @@
 ---
+archived: true
 title: "Parc National de Haute Campine"
 date: 2017-11-13T12:07:44+01:00
 draft: false

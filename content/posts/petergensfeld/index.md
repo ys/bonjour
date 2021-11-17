@@ -1,4 +1,5 @@
 ---
+archived: true
 title: "Une balade de bon matin"
 date: 2018-04-19T09:07:44+01:00
 draft: false

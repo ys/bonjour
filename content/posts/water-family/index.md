@@ -1,4 +1,5 @@
 ---
+archived: true
 title: "Une matinée avec la Water Family"
 seotitle: "La Water Family à l'école de Berrien"
 description: "On a parlé cycle de l'eau, pollution et écogestes avec la Water Family à l'école de Berrien"
