@@ -1,5 +1,4 @@
 ---
-hideheader: true
 hideSubscribe: true
 title: "✌️ Bonjour Yannick"
 seotitle: "✌️ Bonjour Yannick"
@@ -13,7 +12,7 @@ resources:
   name: "cover"
 ---
 
-Yannick aime [écrire](/posts), prendre des [photos](/photos), lire des [livres](/books) et envoyer une [petite lettre](/bonjour) qui part toutes les deux semaines. Il vend aussi [des tirages limités](/shop) de ses photos favorites.
+Yannick aime [raconter des histoires](/posts), [capturer des moments](/photos) et vous écrire une [petite lettre](/bonjour) qui parle de tout et de rien. Il produit aussi [des tirages limités](/shop) de ses photos favorites.
 
 {{< grid images=" 15 | 6 / 32 | 33" >}}
 

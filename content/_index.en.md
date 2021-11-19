@@ -12,6 +12,6 @@ resources:
   name: "cover"
 ---
 
-Yannick enjoys [writing](/en/posts), [taking pictures](/en/photos) and [reading](/en/books). He also likes printing [limited sets of his favorite pictures](/en/shop).
+Yannick enjoys [sharing stories](/en/posts), [capturing moments](/en/photos) and producing small sets of [his favorites pictures](/shop).
 
 {{< grid images=" 15 | 6 / 32 | 4 /  17 |  33 " >}}
