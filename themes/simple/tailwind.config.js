@@ -16,6 +16,23 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
+        mono: [
+          "-ui-monospace",
+          "SFMono-Regular",
+          "ui-monospace",
+          "Monaco",
+          "Andale Mono",
+          "Ubuntu Mono",
+          "monospace"
+        ],
+        sans: [
+          "-apple-system",
+          "BlinkMacSystemFont",
+          "Helvetica Neue",
+          "Helvetica",
+          "Arial",
+          "sans-serif"
+        ],
         serif: [
           "-apple-system-ui-serif",
           "Iowan Old Style",

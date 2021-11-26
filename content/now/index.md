@@ -15,8 +15,8 @@ menu:
 linktitle: Now
 ---
 
-Moi, c'est Yannick.  
-J'aime raconter des histoires et prendre des photos.  
+Moi, c'est Yannick.
+J'aime raconter des histoires et prendre des photos.
 J'aime assez notre planète aussi, je suis plutôt un micro activiste.
 
 {{< photo src="cover" alt="yannick" >}}
@@ -32,17 +32,21 @@ Mon matos actuel:
 
 J'ai commencé à faire de la [photo dans l'eau](/nikonos-glaz) armé de palmes et du Nikonos. C'est une petite drogue cette eau salée. Cette année je pense bien finir avec une longboard à moi pour continuer à surfer même sans l'école. Je vais dans l'eau dès que je peux.
 
-J'ai acheté du matos pour scanner moi-même. Donc en gros j'ai un Fuji X-T30 juste pour scanner des négatifs. Je pense faire un article là-dessus assez vite aussi. Mais j'aime quand même la simplicité d'un labo
-
 J'écris [une petite lettre](/bonjour) sur tout et rien toutes les deux semaines. Cela me permet d'écrire de manière régulière. C'est un vrai petit plaisir! Je n'ai pas beaucoup de lecteurs mais ils me répondent. Donc en gros, cela me rend heureux.
 
-Je continue à me remettre en forme pour mieux surfer. Petit à petit le sport revient dans ma vie. C'est un plaisir. Je n'ai pas bu d'alcool pendant plusieurs mois cette année et je risque de recommencer. Plus de sodas depuis 5 ans aussi. 
+Je continue à me remettre en forme pour mieux surfer. Petit à petit le sport revient dans ma vie. C'est un plaisir. Je n'ai pas bu d'alcool pendant plusieurs mois cette année et je risque de recommencer. Plus de sodas depuis 5 ans aussi. Je fais de la natation aussi à Morlaix.
+
+{{< photo src="now2" caption="Capturée par Grégory Mignard" >}}
+J'ai abandonné l'idée de scanner à la maison car au final, j'ai une super relation avec mon labo. C'est encore mieux.
+N'ayant pas eu ma dose de boissons lactées depuis un moment, on a sauté le pas pour une machine à espressos semi automatisée.
 
 ## Favoris
 
-📷 → Mes films sont développés et scannés principalement par [Mori Film Lab](https://morifilmlab.com). Je scanne parfois avec un X-T30 à la maison.
+📷 → Mes films sont développés et scannés principalement par [Mori Film Lab](https://morifilmlab.com).
 
-<span class="font-sans">☕️</span> → Mon café vient en général de chez [Mok Coffee](https://mokcoffee.be). J'aime toujours tester et découvrir d'autres torréfacteurs.
+<span class="font-sans">☕️</span> → Mon café vient en général de chez [Mok Coffee](https://mokcoffee.be) et de [Terres de café](https://terresdecafe.com). J'aime toujours tester et découvrir d'autres torréfacteurs.
+
+🖨 → Mes prints viennent de chez [Ooblik](https://ooblik.com) & [Négatif+](https://negatifplus.com). Je compte bien faire un zine aussi bientôt.
 
 ## Colophon
 
@@ -52,4 +56,4 @@ Tout le contenu est copyrighté mais n'hésitez pas à demander si vous voulez l
 
 **Contact:** [hello@yannickschutz.com](mailto://hello@yannickschutz.com)
 
-*Cette page a été écrite le 2021.05.11. Si tu veux en savoir plus sur la page /now, [suis ceci](https://nownownow.com/about).*
+*Cette page a été écrite le 2021.11.26. Si tu veux en savoir plus sur la page /now, [suis ceci](https://nownownow.com/about).*

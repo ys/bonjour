@@ -14,6 +14,10 @@ html {
   --gap: 12px;
 }
 
+blockquote {
+  @apply font-mono;
+}
+
 $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, bluewhale, sunray, rose, amber;
 @each $color in $colors {
   .content-#{$color} ::selection {
@@ -362,5 +366,3 @@ hr {
 .pswp__ui {
   @apply hidden;
 }
-
-
