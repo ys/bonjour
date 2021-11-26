@@ -1,0 +1,110 @@
+languageCode = "fr"
+DefaultContentLanguage = "fr"
+title = "Bonjour Yannick"
+theme = "simple"
+RemovePathAccents = true
+timeout = 200000
+enableRobotsTXT = true
+canonifyURLs = false
+#disableKinds = ["taxonomyTerm"]
+
+[build]
+  writeStats = true
+[params]
+  footer = "👋 Yannick"
+  text_404 = "Perdu? Cliquez sur la vague"
+  mainSections = [ "posts", "photos" ]
+  showFooter = ["posts", "photos"]
+  sizes = [ "2048" , "1024" , "512" ]
+  baseline = "n.m. (de bon et jour) - salutation dont on se sert pendant la journée quand on aborde quelqu'un"
+  description = "J'aime bien notre planète et j'raconte des histoires. Les gens diraient que je suis plutôt chouette."
+  tags = ["famille", "bretagne", "voyage", "slow life", "photographies", "tranches de vie", "vie lente"]
+  pinterestVerify = "fd6b8a37d3208b2c605434cf2ce71ac3"
+  hasLogo = false
+  emoji = "✌️"
+  withEmoji = true
+  arrow = "—"
+[params.tinyletter]
+  username = "bonjouryannick"
+  title = "💌 Ma petite lettre"
+  message = "Si tu aimes ce que tu as lu, j'envoie une petite lettre sur tout et rien toutes les deux semaines."
+
+[params.social]
+  email = "hello@yannickschutz.com"
+  domain = "yannickschutz.com"
+  instagram = "bonjouryannick"
+  twitter = "bonjouryannick"
+
+[privacy]
+  [privacy.disqus]
+    disable = false
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = true
+  [privacy.instagram]
+    disable = false
+    simple = true
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = true
+  [privacy.vimeo]
+    disable = false
+    enableDNT = true
+    simple = true
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true
+
+[outputFormats.jsonfeed]
+  mediaType = "application/json"
+  baseName = "feed"
+  isPlainText = true
+
+[outputs]
+  home = [ "html", "rss", "jsonfeed" ]
+  section = [ "html", "rss", "jsonfeed" ]
+  page = [ "html" ]
+
+[related]
+  includeNewer = true
+
+[[related.indices]]
+  name = "categories"
+  weight =  1 # We don't really need this, but omitting it would disable the indice.
+[[related.indices]]
+  name = "camera"
+  weight =  4 # We don't really need this, but omitting it would disable the indice.
+[[related.indices]]
+  name = "film"
+  weight =  4 # We don't really need thisfilm but omitting it would disable the indice.
+
+[author]
+  name = "Yannick Schutz"
+
+[permalinks]
+  posts = "/:slug"
+  letters = "/:slug"
+  photos = "/:slug"
+  categories = "/c/:slug"
+  microposts = "/m/:year-:month-:day-:slug"
+
+[imaging]
+  resampleFilter = "lanczos"
+  anchor = "center"
+
+
+[taxonomies]
+  category = "categories"
+
+[languages]
+  [languages.en]
+    weight = 2
+    languageName = "English"
+  [languages.fr]
+    weight = 1
+    languageName = "Français"
+
+[markup.goldmark.renderer]
+unsafe= true

@@ -1,0 +1,29 @@
+{{ define "main" }}
+<div class="mb-10 content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
+  <div  class="post ">
+    {{.Content}}
+  </div>
+  <div  class=" ">
+    {{ range .Site.Data.links}}
+    <a href={{ .url }} target="_blank" class=" text-center no-decoration block my-4 w-full p-4 bg-gray-100 dark:bg-gray-800 rounded-sm">
+      <span class="block font-semibold no-underline">{{ .title }}</span>
+      {{ with .subtitle }}
+      <span class="block mt-2"> {{ . }}</span>
+      {{ end }}
+    </a>
+    {{ end }}
+
+    {{ range first (sub 5 (len .Site.Data.links)) (where .Site.RegularPages ".Params.favorite" true) }}
+    <a href={{ .RelPermalink }} class=" text-center no-decoration block my-4 w-full p-4 dark:bg-gray-800 bg-gray-100 rounded-sm">
+      <span class="block font-semibold no-underline">{{ .Title }}</span>
+      {{ with .Params.subtitle }}
+        <span class="block mt-2"> {{ . }}</span>
+      {{ else }}
+        {{ .Summary | truncate 60 }}
+      {{ end }}
+    </a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
+

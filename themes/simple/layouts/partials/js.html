@@ -1,0 +1,15 @@
+{{ with .Site.Params.plausible.domain }}
+<script defer data-domain="{{ . }}" src="https://plausible.io/js/plausible.js"></script>
+{{ end }}
+
+{{ if eq .Type "shop" }}
+  <script src="https://js.stripe.com/v3"></script>
+{{ end }}
+{{ $.Scratch.Set "jslibs" slice }}
+{{ $libs := slice "js/photoswipe.js" "js/photoswipe-ui-default.js" "js/photoswipe-simplify.js" "js/lazyload.min.js" "js/main.js" }}
+{{ range $libs }} {{ $.Scratch.Add "jslibs" (resources.Get . ) }} {{ end }} {{ $js := .Scratch.Get "jslibs" | resources.Concat "js/main.js" }} {{ if .Site.IsServer }}
+  <script src="{{ $js.RelPermalink }}"></script>
+{{ else }} {{ $js := $js | minify | fingerprint "sha512"}}
+  <script src="{{ $js.RelPermalink }}"></script>
+{{ end }}
+

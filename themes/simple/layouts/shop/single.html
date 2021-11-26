@@ -1,0 +1,67 @@
+{{ define "main" }}
+{{ partial "article_header" . }}
+<div id="thanksdiv"
+    class="text-lg my-4 flex hidden justify-around w-full items-center border border-cascade-600 bg-cascade-100 relative text-cascade-600 py-3 px-3 rounded-sm shadow-lg">
+    <div class="thanks center">
+      Merci pour cet achat, #SHIPPING_NAME#!
+    </div>
+</div>
+<div data-pswp class="flex flex-col md:flex-row md:-mx-32 lg:-mx-64 xl:-mx-96 mb-10 content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
+  {{ with .Params.grid }}
+    <div  class="md:w-4/6">
+      {{ $rowsslice := split . "/" }}
+      {{ $rows := dict }}
+      {{ range $rowIndex, $row := $rowsslice}}
+        {{ $columnsslice := split $row "|" }}
+        {{ $columns := dict }}
+        {{ range $columnIndex, $column := $columnsslice }}
+          {{ $imagesslice := split $column " - " }}
+          {{ $images := slice }}
+          {{ range $imagesslice }}
+              {{ $name := trim . " " }}
+              {{ if in $name ":" }}
+                {{ $ratio := split $name ":" }}
+                {{ $blank := dict "Blank" true "Image" (dict "Height" (int (index $ratio 1)) "Width" (int (index $ratio 0))) }}
+                {{ $images = $images | append $blank }}
+              {{ else }}
+                {{ $src := $.Page.Resources.GetMatch (printf "*%s*" $name) }}
+                {{ if $src }}
+                  {{ $images = $images | append (dict "Image" $src) }}
+                {{ end }}
+              {{ end }}
+          {{ end }}
+          {{ $columns = merge $columns (dict (string $columnIndex) (dict "Images" $images)) }}
+        {{ end }}
+        {{ $rows = merge $rows (dict (string $rowIndex) $columns) }}
+      {{ end }}
+      {{ partial "grid" $rows }}
+    </div>
+  {{ end }}
+  <div  class="prose dark:prose-light md:w-2/6 md:pl-8 ">
+    {{.Content}}
+    {{ if .Params.price_id }}
+      <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
+      <form action="" method="post" id="stripe-form{{ if .Params.soldout }}-nope{{ end }}">
+        <input type="hidden" name="price_id" value="{{.Params.price_id}}" />
+        <button
+          onclick="this.querySelector('svg').classList.toggle('hidden');this.querySelector('span').classList.toggle('hidden');"
+          class="w-full mt-4 {{ if .Params.soldout }}bg-gray-500{{ else}}bg-accent-500 hover:bg-accent-600{{ end}} rounded-sm transition duration-500 ease-in-out text-white font-bold py-2 m-0 appearance-none px-4 cursor-pointer"
+          id="checkout-button"
+          type="submit"
+          {{ if .Params.soldout}}disabled{{end}}
+        >
+					<svg class="hidden animate-spin -ml-1 mr-3 h-5 w-5 text-white inline" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+						<circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+						<path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+					</svg>
+          <span class="">{{ if .Params.soldout}}Sold out{{ else }}Buy now{{ end }}</span>
+        </button>
+      </form>
+
+      <div id="error-message"></div>
+
+    {{ end }}
+  </div>
+</div>
+
+{{ end }}

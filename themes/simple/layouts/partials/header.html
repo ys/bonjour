@@ -1,0 +1,6 @@
+{{ block "header" . }}
+<header class="{{ with .Params.hideHeader }}hidden{{end}} m-2 mt-4 mb-16 flex flex-row md:items-center justify-between">
+  {{partial "main_menu" .}}
+  <span class="opacity-80 text-center text-6xl"><a href="{{ "/" |  relLangURL }}" alt="home" >{{.Params.emoji | default .Site.Params.emoji}}</a></span>
+</header>
+{{ end }}

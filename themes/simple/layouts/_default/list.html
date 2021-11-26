@@ -1,0 +1,23 @@
+{{ define "main" }}
+
+{{ partial "article_header" . }}
+<div class="z-20 prose dark:prose-light mb-16 with-links relative">
+  {{ .Content }}
+</div>
+
+{{ $paginator := (.Paginate (where .RegularPages ".Params.archived" "!=" true) 250) }}
+<div class="mb-10 {{ with .Params.grid }}wide-width grid gap-8 md:grid-cols-2 xl:grid-cols-3 sm:grid-cols-1{{end}}">
+  {{ range $paginator.Pages }}
+    {{ if $.Params.grid }}
+      {{ partial "cover_title" . }}
+    {{ else if $.Params.inline }}
+      {{ partial "inline" . }}
+    {{ else  }}
+      {{ partial "title" . }}
+    {{ end }}
+  {{ end }}
+  <div class="">
+    {{ partial "pagination.html" . }}
+  </div>
+</div>
+{{ end }}

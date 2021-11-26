@@ -1,0 +1,14 @@
+{
+  "redirects": [],
+  "headers": [
+    {
+      "source": "(.*).(jpg|jpeg|gif|png|woff2|woff)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public,max-age=31536000,immutable"
+        }
+      ]
+    }
+  ]
+}
