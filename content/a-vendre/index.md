@@ -13,13 +13,6 @@ N'hésitez pas si vous voulez plus d'information.
 
 Par [e-mail](mailto:hello@yannickschutz.com) ou sur [Twitter](https://twitter.com/bonjouryannick)
 
-### Objectif Artisan7 Macro
-
-Acheté en seconde main pour les scans. Monture Fuji.
-
-*Prix: 100€*
-
-{{< grid images="macro0 | macro1 | macro2" >}}
 
 ### Negative Supply Film Carrier MK1 pour 35mm
 
