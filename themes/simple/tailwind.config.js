@@ -15,6 +15,22 @@ module.exports = {
   },
   theme: {
     extend: {
+      fontFamily: {
+        serif: [
+          "-apple-system-ui-serif",
+          "Iowan Old Style",
+          "Apple Garamond",
+          "Baskerville",
+          "Times New Roman",
+          "Droid Serif",
+          "Times",
+          "Source Serif Pro",
+          "serif",
+          "Apple Color Emoji",
+          "Segoe UI Emoji",
+          "Segoe UI Symbol"
+        ]
+      },
       colors: {
         gray: colors.warmGray,
         indigo: colors.indigo,
