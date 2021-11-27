@@ -1,6 +1,5 @@
 {{ block "header" . }}
-<header class="{{ with .Params.hideHeader }}hidden{{end}} {{ with .Params.color }}text-{{.}}-600{{end}} m-2 mt-4 mb-16 flex flex-row md:items-center justify-between">
-  {{partial "main_menu" .}}
+<header class="{{ with .Params.hideHeader }}hidden{{end}} {{ with .Params.color }}text-{{.}}-600{{end}} m-2 mt-4 flex flex-row md:flex-col gap-8 md:items-center ">
   <span class="logo opacity-80 text-center text-6xl w-32 ">
     <a href="{{ "/" |  relLangURL }}" alt="home" >
     {{ if fileExists "/static/logo.svg" }}
@@ -10,5 +9,6 @@
     {{ end }}
     </a>
   </span>
+  {{ partial "main_menu" . }}
 </header>
 {{ end }}
