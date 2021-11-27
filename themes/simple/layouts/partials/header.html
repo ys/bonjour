@@ -1,12 +1,13 @@
 {{ block "header" . }}
-<header class="{{ with .Params.hideHeader }}hidden{{end}} {{ with .Params.color }}text-{{.}}-600{{end}} m-2 mt-4 flex flex-row md:flex-col gap-8 md:items-center ">
-  <span class="logo opacity-80 text-center text-6xl w-32 ">
-    <a href="{{ "/" |  relLangURL }}" alt="home" >
-    {{ if fileExists "/static/logo.svg" }}
+<header
+  class="{{ with .Params.hideHeader }}hidden{{end}} {{ with .Params.color }}text-{{.}}-600{{end}} flex flex-row md:flex-col gap-8 md:items-center ">
+  <span class="logo text-center text-6xl w-32 ">
+    <a href="{{ "/" | relLangURL }}" alt="home">
+      {{ if fileExists "/static/logo.svg" }}
       {{ readFile "/static/logo.svg" | safeHTML}}
-    {{ else }}
+      {{ else }}
       {{.Params.emoji | default .Site.Params.emoji}}
-    {{ end }}
+      {{ end }}
     </a>
   </span>
   {{ partial "main_menu" . }}
