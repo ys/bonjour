@@ -63,6 +63,10 @@ footer ul li:not(:last-child):after {
  content: "·";
 }
 
+.wide-width {
+ @apply md:-mr-32;
+}
+
 hr {
   @apply border-accent-300 block mt-6 border-0 mb-4 mx-auto w-full border-t;
 }
