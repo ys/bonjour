@@ -8,26 +8,19 @@
     <a href="{{ .RelPermalink }}">
       {{ if $src }}
         {{ $lqipw := default "30x20" }}
-        {{ $smallw := default "300x200" }}
         {{ $largew := default "600x400" }}
 
         {{/* resize the src image to the given sizes */}}
 
         {{ $lqip := $src.Fill $lqipw }}
-        {{ $small := $src.Fill $smallw }}
         {{ $large := $src.Fill $largew }}
 
         <picture
           class="block relative aspect-w-3 aspect-h-2 rounded-sm shadow-lg"
           style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover">
           <img loading="lazy" class="m-0 h-auto rounded-sm w-full lazyload" alt="cover {{ .Title}}" data-action="zoom"
-            data-zoom-src="{{ $large.RelPermalink}}" sizes="auto" srcset='
-              {{ if ge $src.Width "400" }}
-                {{ with $small.RelPermalink }}{{.}} 400w{{ end }}
-              {{ end }}
-              {{ if ge $src.Width "800" }}
-                {{ with $large.RelPermalink }}, {{.}} 800w {{ end }}
-              {{ end }}' src="{{ $large.RelPermalink }}" width="{{ $large.Width }}" height="{{ $large.Height }}">
+            data-zoom-src="{{ $large.RelPermalink}}"
+             src="{{ $large.RelPermalink }}" width="{{ $large.Width }}" height="{{ $large.Height }}">
         </picture>
       {{ else }}
         <div class="flex items-center justify-center aspect-w-3 aspect-h-2 rounded-sm shadow-lg {{ with .Params.Color }}bg-{{ . }}-300 {{ else }}bg-accent-300{{ end }}"><div class="text-6xl w-8 h-8 block m-auto opacity-60">{{.Params.emoji}}</div></div>
