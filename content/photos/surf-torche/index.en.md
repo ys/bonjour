@@ -15,5 +15,7 @@ resources:
   - src: "02.webp"
     name: "cover"
 ---
- 
+
  {{< grid images="cover / 08 | 13 / 14 | 15 / 16 / 23  | 18 - 25 / 19 | 35" >}}
+
+All those pictures have been captured during a summer's evening at la Torche with my beloved [Olympus XA](/olympus-xa), with Kodak Gold and Portra 400.
