@@ -1,5 +1,5 @@
 <div class="py-4">
-  <div class="font-sans tracking-tight text-xs text-gray-700 dark:text-gray-300 uppercase">
+  <div class="font-sans tracking-tight text-xs {{ with .Params.Color }}text-{{ . }}-600 {{ else }}text-gray-700{{end}} dark:text-gray-300 uppercase">
     {{ .Params.emoji }}
     {{ partial "category-link" . }}
     {{ .Site.Params.arrow }}
@@ -11,11 +11,11 @@
         {{ .Title }}
       </a>
     </h2>
-    <h3 class="line-clamp-1 text-normal text-gray-700 dark:text-gray-300">
+    <h3 class="line-clamp-3 text-normal text-gray-700 dark:text-gray-300">
       {{ with .Params.subtitle }}
       {{ . }}
       {{ else }}
-      {{ .Summary | truncate 100 }}
+      {{ .Summary | truncate 300 }}
       {{ end }}
     </h3>
   </header>

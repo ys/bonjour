@@ -11,7 +11,7 @@ html {
 
 :root {
   --accent: {{ with .Site.Params.accentColor }}{{ . }}{{ else }}var(--onyx){{ end }};
-  --gap: 12px;
+  --gap: 18px;
 }
 
 blockquote {
