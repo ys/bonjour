@@ -14,3 +14,5 @@ resources:
 ---
 
 {{< grid images="7|8/4:16 | 1 | 4:16 / 3 | 4 / 5 | 16:4 - 6 - 16:4 /  9 | 2 / 4:16 | 10 | 4:16" alt="boats">}}
+
+this has been taken with leica m6 and olympus xa

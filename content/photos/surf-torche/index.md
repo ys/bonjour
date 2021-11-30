@@ -17,3 +17,5 @@ resources:
 ---
  
  {{< grid images="cover / 08 | 13 / 14 | 15 / 16 / 23  | 18 /  25 | 19 /1:2 | 35 | 1:2" >}}
+
+ toutes les photos ont été prises avec un Olympus XA
