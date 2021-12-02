@@ -8,7 +8,7 @@ tags:
 emoji: 💌
 color: pink
 title: "Bonjour - 1 - du surf, du livre et Maintenant"
-slug: "/bonjour-1"
+slug: "1"
 ---
 
 <img class="tl-email-image" data-id="3852286" height="424" src="https://gallery.tinyletterapp.com/a0d8b178d0758f62b0c01a8cd9fc5d00a4997449/images/d7716c9d-31b2-420f-aa69-8308884ab159.webp" width="640"/>

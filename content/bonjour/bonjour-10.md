@@ -8,7 +8,7 @@ newsletter: true
 emoji: 💌
 color: pink
 title: "Bonjour - 10 - Du skate, de la photo et un goofy"
-slug: "/bonjour-10"
+slug: "10"
 ---
 
 <img class="tl-email-image" data-id="4034518" height="426" src="https://gallery.tinyletterapp.com/a0d8b178d0758f62b0c01a8cd9fc5d00a4997449/images/09f5e0a3-e222-4c27-82bb-a6fc6ddd93c6.jpeg" width="640"/>

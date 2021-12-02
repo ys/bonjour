@@ -8,7 +8,7 @@ newsletter: true
 emoji: 💌
 color: pink
 title: "Bonjour - 14 - Haikus, barbecue et activisme"
-slug: "/bonjour-14"
+slug: "14"
 ---
 ![](https://buttondown.s3.us-west-2.amazonaws.com/images/d2f59b1a-6cc4-45d2-81e8-36ccfcbb3423.jpeg)
 

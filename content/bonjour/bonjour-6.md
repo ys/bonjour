@@ -8,7 +8,7 @@ tags:
 emoji: 💌
 color: pink
 title: "Bonjour - 6 - De la musique, des passions et des passions honteuses"
-slug: "/bonjour-6"
+slug: "6"
 ---
 
 <img alt="Souvenir de San Francisco 2011" class="tl-email-image" data-id="3944474" height="424" src="https://gallery.tinyletterapp.com/a0d8b178d0758f62b0c01a8cd9fc5d00a4997449/images/68be0b89-b2fe-44e2-b36e-9855119c3eb5.webp" width="640"/>

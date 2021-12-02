@@ -8,7 +8,7 @@ newsletter: true
 emoji: 💌
 color: pink
 title: "Bonjour - 11 - Des livres, du CSV et Mowgli"
-slug: "/bonjour-11"
+slug: "11"
 ---
 
 C'est l'histoire d'un gars qui se rend compte que Amazon détient Goodreads depuis 2013. Il le savait déjà en fait mais l'avait astucieusement oublié. Dans l'optique d'avoir la main mise sur ces données, il se dit qu'il doit faire quelque chose.

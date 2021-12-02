@@ -15,7 +15,7 @@ resources:
   name: "cover"
 ---
 
-2020, quelle année! J'ai commencé une rétro un peu dans [ma petite lettre #7](https://tinyletter.com/bonjouryannick/letters/bonjour-7). Chaque année, j'aime revenir sur mon année, que ce soit ici ou dans un carnet. Puis revenir sur mon année en photos pour en faire un joli bouquin pour la bibliothèque. Cette année est assez particulière, il faut bien l'avouer.
+2020, quelle année! J'ai commencé une rétro un peu dans [ma petite lettre #7](https://tinyletter.com/bonjouryannick/bonjour/7). Chaque année, j'aime revenir sur mon année, que ce soit ici ou dans un carnet. Puis revenir sur mon année en photos pour en faire un joli bouquin pour la bibliothèque. Cette année est assez particulière, il faut bien l'avouer.
 
 
 {{< grid images="IMG_5014.webp | IMG_5006.webp" >}}

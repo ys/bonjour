@@ -8,7 +8,7 @@ tags:
 emoji: 💌
 color: pink
 title: "Bonjour - 4 - Faire, refaire et du bois"
-slug: "/bonjour-4"
+slug: "4"
 ---
 
 <img class="tl-email-image" data-id="3899518" height="424" src="https://gallery.tinyletterapp.com/a0d8b178d0758f62b0c01a8cd9fc5d00a4997449/images/c5e92792-cbdb-43b0-a17c-4e6db4917b2e.jpeg"  width="640"/>
