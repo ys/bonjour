@@ -8,7 +8,7 @@ tags:
 emoji: 💌
 color: pink
 title: "Bonjour - 2 - Du film, de la newsletter et le Mt Desolation"
-slug: "/bonjour-2"
+slug: "2"
 ---
 
 <img class="tl-email-image" data-id="3875150" height="424" src="https://gallery.tinyletterapp.com/a0d8b178d0758f62b0c01a8cd9fc5d00a4997449/images/148a749b-bad5-4390-830c-9b6acb229114.jpeg" width="640"/>

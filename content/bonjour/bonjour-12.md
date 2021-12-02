@@ -8,7 +8,7 @@ newsletter: true
 emoji: 💌
 color: pink
 title: "Bonjour - 12 - Du web, des beaux mots et aussi des liens"
-slug: "/bonjour-12"
+slug: "12"
 ---
 
 ![](https://buttondown.s3.us-west-2.amazonaws.com/images/e3ce87de-3122-4d38-8d68-f5424cce88f8.jpeg)

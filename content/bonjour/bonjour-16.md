@@ -8,7 +8,7 @@ newsletter: true
 emoji: 💌
 color: pink
 title: "Bonjour - 16 - Vagues, méditation et peintures"
-slug: "/bonjour-16"
+slug: "16"
 ---
 
 ![](https://buttondown.s3.us-west-2.amazonaws.com/images/404e3c55-d0ad-470c-91f6-c71df7fbaaf5.jpeg)

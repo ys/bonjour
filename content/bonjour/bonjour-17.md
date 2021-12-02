@@ -8,7 +8,7 @@ newsletter: true
 emoji: 💌
 color: pink
 title: "Bonjour - 17 - Vacances, inconnues et la poule"
-slug: "/bonjour-17"
+slug: "17"
 ---
 
 ![](https://buttondown.s3.amazonaws.com/images/4617aa72-d124-45fe-9884-537aedb5dfe2.jpeg)

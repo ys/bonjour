@@ -8,7 +8,7 @@ tags:
 emoji: 💌
 color: pink
 title: "Bonjour - 3 - Donner, du temps et du grassroots"
-slug: "/bonjour-3"
+slug: "3"
 ---
 
 <img class="tl-email-image" data-id="3888110" height="424" src="https://gallery.tinyletterapp.com/a0d8b178d0758f62b0c01a8cd9fc5d00a4997449/images/720df066-d202-4ee2-8557-9c724af721b8.jpeg" width="640"/>

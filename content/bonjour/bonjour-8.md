@@ -8,7 +8,7 @@ tags:
 emoji: 💌
 color: pink
 title: "Bonjour - 8 - Le nouvel an, un ex-libris et de la psychothérapie"
-slug: "/bonjour-8"
+slug: "8"
 ---
 
 <img class="tl-email-image" data-id="3986422" height="424" src="https://gallery.tinyletterapp.com/a0d8b178d0758f62b0c01a8cd9fc5d00a4997449/images/d70e5488-12e6-480a-bce8-c2cacbca1d2c.jpeg" width="640"/>

@@ -8,7 +8,7 @@ tags:
 emoji: 💌
 color: pink
 title: "Bonjour - 7 - Des bouquins, des gifs  et les premiers mots de Louise"
-slug: "/bonjour-7"
+slug: "7"
 ---
 
 <img class="tl-email-image" data-id="3966962" height="424" src="https://gallery.tinyletterapp.com/a0d8b178d0758f62b0c01a8cd9fc5d00a4997449/images/8020395a-b777-429b-b51e-d440488412c1.jpeg" width="640"/>

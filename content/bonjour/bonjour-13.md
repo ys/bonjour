@@ -8,7 +8,7 @@ newsletter: true
 emoji: 💌
 color: pink
 title: "Bonjour - 13 - Du breton, de la mini cabine et des piments"
-slug: "/bonjour-13"
+slug: "13"
 ---
 
 ![](https://buttondown.s3.us-west-2.amazonaws.com/images/e57713fb-597a-4fe8-9171-4bad3e3076b4.jpeg)

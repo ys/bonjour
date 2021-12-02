@@ -8,7 +8,7 @@ tags:
 emoji: 💌
 color: pink
 title: "Bonjour - 5 - Mon carnet, de la productivité et du réconfort"
-slug: "/bonjour-5"
+slug: "5"
 ---
 
 *Cette newsletter vous est envoyée par Yannick, il ne l’a pas écrite sur papier, mais il aurait pu.*
