@@ -380,7 +380,7 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
 						for (var l = 0; l < self.tmps[i].length; l++) {
 
 							var src = self.tmps[i][l].getAttribute('data-zoom-src');
-							if (/(.gif|.jpe?g|.png|.bmp)/.test(src.toLowerCase())) {
+							if (/(.gif|.jpe?g|.png|.bmp|.webp)/.test(src.toLowerCase())) {
 								self.thumbnails[i].push(self.tmps[i][l]);
 							}
 						}

@@ -11,7 +11,7 @@ html {
 
 :root {
   --accent: {{ with .Site.Params.accentColor }}{{ . }}{{ else }}var(--onyx){{ end }};
-  --gap: 12px;
+  --gap: 18px;
 }
 
 blockquote {
@@ -64,21 +64,7 @@ footer ul li:not(:last-child):after {
 }
 
 .wide-width {
-  margin-left: calc(50% - 50vw);
-  margin-right: calc(50% - 50vw);
-  min-width: 100%;
-  width: 75vw;
-  transform: translateX(calc(-50% + 50vw));
-  position: relative;
-}
-
-.full-width {
-  margin-left: -50vw;
-  margin-right: -50vw;
-  left: 50% ;
-  right: 50% ;
-  width: 100vw;
-  position: relative;
+ @apply md:-mr-32;
 }
 
 hr {

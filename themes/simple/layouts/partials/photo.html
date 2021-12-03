@@ -3,38 +3,16 @@
 
 {{ if $src }}
   {{ $xs := "20x" }}
-  {{ $s := "300x" }}
   {{ $md := "800x" }}
-  {{ $lg := "1500x" }}
   {{ if .Ratio }}
     {{ $width := index (split .Ratio "/") 0 }}
     {{ $height :=index (split .Ratio "/") 1 }}
     {{ $xs := printf "%s0x%s0" $width $height }}
-    {{ $s := printf "%s00x%s00" $width $height }}
     {{ $md := printf "%s00x%s00" (mul $width 2) (mul $height 2) }}
-    {{ $lg := printf "%s00x%s00" (mul $width 4) (mul $height 4) }}
   {{ end }}
   {{ $lqip := $src.Resize (printf "%s webp" $xs) }}
-  {{ $rsmall := $src.Resize (printf "%s webp" $s) }}
   {{ $small := $src.Resize (printf "%s webp" $md) }}
-  {{ $large := $src.Resize (printf "%s webp" $lg) }}
   <picture style="{{ .ExtraClasses }} padding-bottom: {{(div (mul 100.0 $src.Height ) $src.Width) -}}%" class="relative box-border block">
-    <source srcset='
-      {{ if .Lofi }}
-        {{ if ge $src.Width "300" }}
-          {{ with $rsmall.RelPermalink }}{{.}} 300w{{ end }}
-        {{ end }}
-        {{ if ge $src.Width "800" }}
-          {{ with $small.RelPermalink }}{{.}} 800w{{ end }}
-        {{ end }}
-      {{ else}}
-        {{ if ge $src.Width "800" }}
-          {{ with $small.RelPermalink }}{{.}} 800w{{ end }}
-        {{ end }}
-        {{ if ge $src.Width "1500" }}
-          {{ with $large.RelPermalink }}, {{.}} 1500w {{ end }}
-        {{ end }}
-      {{ end }}' type="image/webp" sizes="auto"/>
     <img
       loading="lazy"
       style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover"
@@ -42,7 +20,7 @@
       class="cursor-pointer object-cover lazy absolute top-0 left-0 w-full h-full"
       data-action="zoom"
       data-zoom-src="{{ $src.RelPermalink}}"
-      src="{{ $src.RelPermalink }}"
+      src="{{ $small.RelPermalink }}"
       width="{{ $src.Width }}" height="{{ $src.Height }}"/>
     </picture>
 

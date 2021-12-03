@@ -1,6 +1,15 @@
 {{ block "header" . }}
-<header class="{{ with .Params.hideHeader }}hidden{{end}} m-2 mt-4 mb-16 flex flex-row md:items-center justify-between">
-  {{partial "main_menu" .}}
-  <span class="opacity-80 text-center text-6xl"><a href="{{ "/" |  relLangURL }}" alt="home" >{{.Params.emoji | default .Site.Params.emoji}}</a></span>
+<header
+  class="{{ with .Params.hideHeader }}hidden{{end}}  flex flex-row md:flex-col gap-8 md:items-center md:mx-0 mx-4">
+  <span class="logo text-center text-6xl w-32 {{ with .Params.color }}text-{{.}}-500{{else}}text-sunray-500{{end}}">
+    <a href="{{ "/" | relLangURL }}" alt="home">
+      {{ if fileExists "/static/logo.svg" }}
+      {{ readFile "/static/logo.svg" | safeHTML}}
+      {{ else }}
+      {{.Params.emoji | default .Site.Params.emoji}}
+      {{ end }}
+    </a>
+  </span>
+  {{ partial "main_menu" . }}
 </header>
 {{ end }}

@@ -6,9 +6,9 @@
       Merci pour cet achat, #SHIPPING_NAME#!
     </div>
 </div>
-<div data-pswp class="flex flex-col md:flex-row md:-mx-32 lg:-mx-64 xl:-mx-96 mb-10 content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
+<div data-pswp class="flex flex-col mb-10 content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
   {{ with .Params.grid }}
-    <div  class="md:w-4/6">
+    <div  class="">
       {{ $rowsslice := split . "/" }}
       {{ $rows := dict }}
       {{ range $rowIndex, $row := $rowsslice}}
@@ -37,7 +37,7 @@
       {{ partial "grid" $rows }}
     </div>
   {{ end }}
-  <div  class="prose dark:prose-light md:w-2/6 md:pl-8 ">
+  <div  class="prose dark:prose-light  ">
     {{.Content}}
     {{ if .Params.price_id }}
       <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
