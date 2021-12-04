@@ -1,6 +1,6 @@
 {{ partial "article_header" . }}
 <div data-pswp class="mb-10 content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
-  <div class="prose dark:prose-light">
+  <div class="prose ">
     {{.Content}}
   </div>
   {{ if (in .Site.Params.showFooter .Type) }}

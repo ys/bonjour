@@ -1,6 +1,6 @@
 {{ define "main" }}
 <header class="mb-6 ">
-  <span class="text-sm dark:text-gray-300 text-gray-700 capitalize mb-2 block">
+  <span class="text-sm  text-gray-700 capitalize mb-2 block">
 
     {{ with .Params.rating }}{{ strings.Repeat . "★" }}{{end}}
     {{ .Site.Params.arrow }}
@@ -13,10 +13,10 @@
       {{ end }}
     </a>
   </span>
-  <h1 class="text-xl font-bold text-darker dark:text-gray-100 mb-2">
+  <h1 class="text-xl font-bold text-darker  mb-2">
     {{ .Title }} {{ with .Params.subtitle }}{{$.Site.Params.arrow}} {{.}} {{end}}
   </h1>
-  <h2 class="text-gray-600 dark:text-gray-300">
+  <h2 class="text-gray-600 ">
     {{ with .Params.author }}
     {{ . }}
     {{ end }}

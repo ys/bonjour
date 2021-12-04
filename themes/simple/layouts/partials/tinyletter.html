@@ -9,7 +9,7 @@
   {{ $color = .Params.color }}
 {{ end }}
 {{ if (and $username (not .Params.hideSubscribe)) }}
-<div class="bg-{{ $color }}-200 dark:bg-{{ $color }}-800  w-full px-4 mx:px-0 py-12 text-gray-700 dark:text-gray-200 text-base">
+<div class="bg-{{ $color }}-200 {{$color}}-800  w-full px-4 mx:px-0 py-12 text-gray-700  text-base">
   <div class="container mx-auto md:max-w-lg">
     <form class="flex flex-col items-center"
       action="https://buttondown.email/api/emails/embed-subscribe/{{ $username }}" method="post"

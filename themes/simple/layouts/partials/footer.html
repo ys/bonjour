@@ -1,5 +1,5 @@
 <div class="md:mx-16 container">
-  <footer class="md:max-w-md md:mx-0 mx-4 py-10 text-gray-600 dark:text-gray-200 text-sm">
+  <footer class="md:max-w-md md:mx-0 mx-4 py-10 text-gray-600  text-sm">
 
     <div class="flex ">
       {{ .Site.Params.footer }} - {{ now.Year }}
@@ -30,11 +30,11 @@
         </li>
         {{ end }}
         {{ with .Site.Params.social.vsco }}
-        <li class="pl-1 py-2  text-gray-600 dark:text-gray-200">
+        <li class="pl-1 py-2  text-gray-600 ">
           <a class="hover:text-accent-600 transition ease-in-out duration-200" href="https://vsco.com/{{ . }}">VSCO</a>
         </li>
         {{ end }}
-        <li class="pl-1 py-2  text-gray-600 dark:text-gray-200">
+        <li class="pl-1 py-2  text-gray-600 ">
           <a class="hover:text-accent-600 transition ease-in-out duration-200"
             href="mailto:{{ $.Site.Params.social.email }}">{{$.Site.Params.social.email}}</a>
         </li>
