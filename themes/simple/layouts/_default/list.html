@@ -6,7 +6,7 @@
 </div>
 
 {{ $paginator := (.Paginate (where .RegularPages ".Params.archived" "!=" true) 250) }}
-<div class="mb-10 {{ with .Params.grid }}wide-width md:-mr-64 grid gap-8 md:grid-cols-2 sm:grid-cols-1{{end}}">
+<div class="mb-10 {{ with .Params.grid }}wide-width lg:-mr-24 lg:-ml-4 grid gap-8 lg:grid-cols-2 sm:grid-cols-1{{end}}">
   {{ range $paginator.Pages }}
     {{ if $.Params.grid }}
       {{ partial "cover_title" . }}

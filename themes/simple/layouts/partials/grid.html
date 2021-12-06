@@ -1,4 +1,4 @@
-<div class="mgrid md:flex flex-wrap justify-end">
+<div class="mgrid lg:flex  flex-wrap justify-end">
 {{ range $index, $columns := sort .}}
   {{ $width := 0 }}
   {{ range $cindex, $images := $columns }}
@@ -15,10 +15,10 @@
       {{ end }}
       {{ $colwidth := div (div 1.0 $div) $width }}
       {{ if (eq (len $columns) 1) }}
-        <div class="md:flex flex-col min-h-full inherit" style="flex: 1 0 {{ mul 100.0 $colwidth -}}%">
+        <div class="lg:flex flex-col min-h-full inherit" style="flex: 1 0 {{ mul 100.0 $colwidth -}}%">
           {{ range $images.Images }}
             {{ if .Blank  }}
-              <div style="padding-bottom: {{ div (mul 100.0 .Image.Height) .Image.Width -}}%" class="relative md:block hidden"></div>
+              <div style="padding-bottom: {{ div (mul 100.0 .Image.Height) .Image.Width -}}%" class="relative lg:block hidden"></div>
             {{ else }}
 
               {{ if isset . "Link" }}
@@ -37,7 +37,7 @@
               {{ $dimension := div (div (mul 100.0 .Image.Height ) .Image.Width) $div }}
               <div style="flex: 1 0  {{ $dimension -}}%">
                 {{ if .Blank  }}
-                  <div style="padding-bottom: {{ div (mul 100.0 .Image.Height) .Image.Width -}}%" class="relative md:block hidden"></div>
+                  <div style="padding-bottom: {{ div (mul 100.0 .Image.Height) .Image.Width -}}%" class="relative lg:block hidden"></div>
                 {{ else }}
                   {{ if isset . "Link" }}
                     <a href="{{ .Link }}">

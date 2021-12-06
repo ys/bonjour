@@ -15,9 +15,9 @@
 <body
   class="font-serif text-base leading-relaxed antialiased font-normal text-darker   {{with .Params.color }}bg-{{  .}}-100  {{else}}  {{end }}">
 
-  <div class="container w-full py-16 md:m-16 flex flex-col md:flex-row gap-28 min-h-1/2">
+  <div class="lg:container w-full py-16 lg:m-16 flex flex-col lg:flex-row gap-28 min-h-1/2">
     {{ partial "header" . }}
-    <div class="md:max-w-md mx-4 md:mx-0 relative">
+    <div class="lg:max-w-md mx-4 lg:mx-0 relative">
       {{ block "main" . }}
       {{ end }}
     </div>
