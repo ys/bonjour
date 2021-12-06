@@ -10,7 +10,7 @@ resources:
 menu:
   main:
     weight: 4
-linktitle: "Archives"
+linktitle: "Read"
 ---
 
 A whole lot of articles about anything. It goes from photography to coffee and sometimeswalking, reading and personal life philosophy.

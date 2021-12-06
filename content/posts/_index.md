@@ -9,7 +9,7 @@ resources:
 menu:
   main:
     weight: 4
-linktitle: "Archives"
+linktitle: "Lire"
 ---
 
 Toute une série d'articles sur des sujets divers et variés allant de la photo au café en passant par la randonnée, la lecture et de la philosophie personnelle de vie. N'hésitez pas à vous abonner au [flux RSS](/index.xml)
