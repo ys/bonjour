@@ -10,10 +10,9 @@ resources:
     name: "cover"
 emoji: 📚
 menu:
-  main:
-    pre: "🆕"
+  footer:
     weight: 3
-linktitle: "On paper"
+linktitle: "Some books"
 ---
 
 Part of my collection, don't hesitate to share your recommendations!
