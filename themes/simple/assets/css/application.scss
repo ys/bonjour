@@ -33,8 +33,9 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, 
     @apply text-#{$color}-600;
   }
   .content-#{$color} .prose a{
-    @apply font-semibold text-#{$color}-600  underline relative;
+    @apply font-semibold text-#{$color}-600   relative;
     transition: color 0.5s, background-image 0.5s linear;
+    text-decoration-style: dotted;
     &:hover {
       @apply text-#{$color}-600  underline relative;
     }
@@ -53,7 +54,7 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, 
     }
   }
   .td-#{$color} {
-    text-decoration-color: theme('colors.#{$color}.600') !important;
+    text-decoration-color: theme('colors.#{$color}.700') !important;
   }
 }
 .logo svg, .fill svg {
