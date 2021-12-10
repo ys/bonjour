@@ -48,12 +48,12 @@ module.exports = {
         ]
       },
       colors: {
-        gray: colors.warmGray,
+        gray: colors.stone,
         indigo: colors.indigo,
         teal: colors.teal,
         orange: colors.orange,
         amber: colors.amber,
-        bluegray: colors.blueGray,
+        slate: colors.slate,
         rose: colors.rose,
         red: colors.red,
         bluewhale: {

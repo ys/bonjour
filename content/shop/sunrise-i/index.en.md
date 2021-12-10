@@ -2,10 +2,12 @@
 title: "Sunrise I"
 grid: "cover"
 subtitle: "50€"
+price: "50€"
 price_id: "price_1IlKKMFaA8Wpl3EpzXxc7fza"
 ---
-**First waves of the year at Le Dossen**  
-📷 Nikonos V - Kodak Portra 400
+### First waves of the year at Le Dossen
+
+**📷 Nikonos V - Kodak Portra 400**
 Limited to 10 prints only. Signed and numbered.
 
 *50€ shipping included*
