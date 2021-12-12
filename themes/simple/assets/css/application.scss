@@ -27,7 +27,7 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, 
     @apply leading-snug pl-4  border-l-4 border-#{$color}-500 font-normal ;
   }
   .content-#{$color} .note {
-    @apply my-4 lg:-mx-6 -ml-4 px-4 lg:pr-6 py-1 lg:pl-6 border-l-4 border-#{$color}-500 bg-gray-100 ;
+    @apply my-4 md:-mx-6 -ml-4 px-4 md:pr-6 py-1 md:pl-6 border-l-4 border-#{$color}-500 bg-gray-100 ;
   }
   .content-#{$color} .link{
     @apply text-#{$color}-600;
@@ -72,7 +72,7 @@ footer ul li:not(:last-child):after {
 }
 
 .wide-width {
- @apply lg:-mr-32;
+ @apply md:-mr-32;
 }
 
 hr {

@@ -5,7 +5,6 @@ grid: true
 emoji: "💸"
 menu:
   main:
-    pre: "💸"
     weight: 7
 linktitle: "shop"
 ---

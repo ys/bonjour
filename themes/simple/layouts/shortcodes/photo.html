@@ -3,7 +3,7 @@
 
 {{ if $src }}
 
-<figure class="{{ if .Parent }}{{ else }} my-6 {{end}}{{ if gt $src.Width $src.Height }}lg:-ml-4 lg:-mr-24{{ end }}">
+<figure class="{{ if .Parent }}{{ else }} my-6 {{end}}">
   {{/* set image sizes, these are hardcoded for now, x dictates that images are resized to this width */}}
 
   {{ $lqipr :=  "20x webp" }}

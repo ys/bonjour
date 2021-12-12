@@ -1,19 +1,27 @@
 {{ define "main" }}
 
 {{ partial "article_header" . }}
-<div class="z-20 prose  mb-16 with-links relative">
+<div class="z-20 prose mb-16 with-links relative">
   {{ .Content }}
 </div>
 
 {{ $paginator := (.Paginate (where .RegularPages ".Params.archived" "!=" true) 250) }}
-<div class="mb-10 {{ with .Params.grid }}wide-width lg:-mr-24 lg:-ml-4 grid gap-8 lg:grid-cols-2 sm:grid-cols-1{{end}}">
-  {{ range $paginator.Pages }}
+<div class=" max-w-prose mb-10 {{ with .Params.grid }}grid gap-8 grid-cols-1 md:grid-cols-5{{end}}">
+  {{ range $index, $page := $paginator.Pages }}
     {{ if $.Params.grid }}
-      {{ partial "cover_title" . }}
+      {{ if not (modBool $index 2) }}
+       <div class="hidden md:block"></div>
+      {{ end }}
+       <div class="md:col-span-4">
+      {{ partial "cover_title" $page }}
+       </div>
+      {{ if (modBool $index 2) }}
+       <div class="hidden md:block"></div>
+      {{ end }}
     {{ else if $.Params.inline }}
-      {{ partial "inline" . }}
+      {{ partial "inline" $page }}
     {{ else  }}
-      {{ partial "title" . }}
+      {{ partial "title" $page }}
     {{ end }}
   {{ end }}
   <div class="">

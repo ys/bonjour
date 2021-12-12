@@ -25,9 +25,6 @@
       {{ else }}
         <div class="flex items-center justify-center aspect-w-3 aspect-h-2 rounded-sm shadow-lg {{ with .Params.Color }}bg-{{ . }}-300 {{ else }}bg-accent-300{{ end }}"><div class="text-6xl w-8 h-8 block m-auto opacity-60">{{.Params.emoji}}</div></div>
       {{ end }}
-      <h2 class="font-bold text-lg text-center mt-2  text-gray-700 {{ with .Params.Color }}hover:text-{{ . }}-600 {{ else }}hover:text-accent-600{{ end }} transition ease-in-out duration-200">{{.Title}}</h2>
-      {{ with .Params.subtitle }}
-      <h3 class="font-normal font-sans text-sm text-center  text-gray-600">{{.}}</h3>
-      {{end}}
+      <h2 class="m-1 font-sans font-sans tracking-tight text-xs text-light uppercase text-right text-gray-700 {{ with .Params.Color }}hover:text-{{ . }}-600 {{ else }}hover:text-accent-600{{ end }} transition ease-in-out duration-200">{{.Params.emoji}} {{.Title}} {{with .Params.price}} - {{.}}{{end}}</h2>
     </a>
   </article>

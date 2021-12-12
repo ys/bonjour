@@ -1,7 +1,7 @@
 {{ block "header" . }}
 <header
-  class="{{ with .Params.hideHeader }}hidden{{end}}  flex flex-row lg:flex-col gap-8 lg:items-center lg:mx-0 mx-4">
-  <span class="lg:sticky lg:top-20 lg:left-20 logo text-center text-6xl w-32 {{ with .Params.color }}text-{{.}}-500{{else}}text-sunray-500{{end}}">
+  class="{{ with .Params.hideHeader }}hidden{{end}}  flex flex-row md:flex-col gap-8 md:items-center md:mx-0 mx-4">
+  <span class="logo text-center text-6xl w-32 {{ with .Params.color }}text-{{.}}-500{{else}}text-sunray-500{{end}}">
     <a href="{{ "/" | relLangURL }}" alt="home">
       {{ if fileExists "/static/logo.svg" }}
       {{ readFile "/static/logo.svg" | safeHTML}}

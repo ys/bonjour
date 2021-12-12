@@ -18,11 +18,11 @@
 {{ end }}
 {{ $rows = merge $rows (dict "100000000" $columns) }}
 {{ partial "article_header" . }}
-<div class="mb-10 content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
-  <div  class="post">
+<div class="mb-10 max-w-prose content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
+  <div  class="post prose">
     {{.Content}}
   </div>
-  <div class="wide-width">
+  <div class="">
     {{ partial "grid" $rows }}
   </div>
 </div>
