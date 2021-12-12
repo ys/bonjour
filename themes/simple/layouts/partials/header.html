@@ -1,5 +1,5 @@
 {{ block "header" . }}
-<header class="p-6 {{ with .Params.hideHeader }}hidden{{end}} w-full flex flex-row  gap-8 justify-between md:mx-0 mx-4">
+<header class="p-6 {{ with .Params.hideHeader }}hidden{{end}} w-full flex flex-row  gap-8 md:justify-between justify-center">
   <span class="block logo text-center text-6xl w-24 transition ease-in-out duration-1000 {{ with .Params.color }}text-{{.}}-500 {{else}}text-sunray-500 {{end}} hover:text-sunray-500">
     <a href="{{ "/" | relLangURL }}" alt="home">
       {{ if fileExists "/static/logo.svg" }}
