@@ -9,6 +9,11 @@ html {
   line-height: 1.725;
 }
 
+.dotted {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
+
 :root {
   --accent: {{ with .Site.Params.accentColor }}{{ . }}{{ else }}var(--onyx){{ end }};
   --gap: 4px;

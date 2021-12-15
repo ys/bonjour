@@ -6,18 +6,10 @@
 </div>
 
 {{ $paginator := (.Paginate (where .RegularPages ".Params.archived" "!=" true) 250) }}
-<div class=" max-w-prose mb-10 {{ with .Params.grid }}grid gap-8 grid-cols-1 md:grid-cols-5{{end}}">
+<div class=" max-w-prose mb-10 {{ with .Params.grid }}grid gap-8 grid-cols-1 {{end}}">
   {{ range $index, $page := $paginator.Pages }}
     {{ if $.Params.grid }}
-      {{ if not (modBool $index 2) }}
-       <div class="hidden md:block"></div>
-      {{ end }}
-       <div class="md:col-span-4">
       {{ partial "cover_title" $page }}
-       </div>
-      {{ if (modBool $index 2) }}
-       <div class="hidden md:block"></div>
-      {{ end }}
     {{ else if $.Params.inline }}
       {{ partial "inline" $page }}
     {{ else  }}
