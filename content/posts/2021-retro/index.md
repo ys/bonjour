@@ -57,3 +57,7 @@ La vie continue à être inspirée par l'océan et à avoir un goût assez salé
 Je vous passe le passage sur les enfants qui grandissent beaucoup trop vite et qui sont super, blablabla. Je préfère finir cette rétro sur le gros projet qui nous aura bien occupé cette année. [Douarenn](https://instagram.com/douarenn), notre projet de cabane/ferme à fleurs et retour aux sources. L'année fut intense en paperasse avec les architectes de France, les banques, les assurances, etc. Mais grâce aux super personnes qui nous accompagnent dans ce projet, on a pu voir sortir de terre notre petit rêve de cabane. Au moment où je vous parle, elle est en train d'être fermée et prête pour la partie intérieure. On a réussi à faire bosser que du local. Le bois est du coin, tout est du coin. C'est génial et ça donne d'autres envies pour la suite. Vraiment de super moments même si je dois bien dire que j'ai voulu tout arrêter au moins 10x. Merci Cloé de me supporter dans ces moments-là et les autres.
 
 {{< photo src="4" alt="Morceaux de cabane" >}}
+
+Tellement d'oublis sans doute. Cette année était pleine de beaux moments. Les amis, la famille, je vous passe ces détails. Mes échecs, je vous les passe aussi. Les moments où tu finis chez le docteur, aux urgences, pour toi, pour les enfants, je vous en dispense. Mais c'est ce qui fait la beauté de la vie. Savoir qu'elle peut se terminer à tout moment, cela la rend utile à vivre. 
+
+J'ai hâte de voir 2022. Voir ce que l'on pourra faire, ce qui nous sera imposé et la beauté et créativité que l'on exposera face aux contraintes. ✌ 
