@@ -56,6 +56,8 @@ module.exports = {
         slate: colors.slate,
         rose: colors.rose,
         red: colors.red,
+        emerald: colors.emerald,
+        sky: colors.sky,
         bluewhale: {
           50: '#F2F4F6',
           100: '#E6E9EC',
