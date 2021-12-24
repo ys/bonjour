@@ -4,6 +4,7 @@ subtitle: "Des projets en pagaille"
 date: 2021-12-21T14:24:02+01:00
 draft: false
 tags: []
+emoji: "🌅"
 categories:
 - journal
 slug: "2021"
