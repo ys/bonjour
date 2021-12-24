@@ -57,6 +57,6 @@ Je vous passe le passage sur les enfants qui grandissent beaucoup trop vite et q
 
 {{< photo src="4" alt="Morceaux de cabane" >}}
 
-Tellement d'oublis sans doute. Cette année était pleine de beaux moments. Les amis, la famille, je vous passe ces détails. Mes échecs, je vous les passe aussi. Les moments où tu finis chez le docteur, aux urgences, pour toi, pour les enfants, je vous en dispense. Mais c'est ce qui fait la beauté de la vie. Savoir qu'elle peut se terminer à tout moment, cela la rend utile à vivre. 
+Tellement d'oublis sans doute. Cette année était pleine de beaux moments. Les amis, la famille, je vous passe ces détails. Des voyages en van, des journées sur la côte, du camping et autres joyeusetés. Mes échecs, je vous les passe aussi. Les moments où tu finis chez le docteur, aux urgences, pour toi, pour les enfants, je vous en dispense. Mais c'est ce qui fait la beauté de la vie. Savoir qu'elle peut se terminer à tout moment, cela la rend utile à vivre. 
 
 J'ai hâte de voir 2022. Voir ce que l'on pourra faire, ce qui nous sera imposé et la beauté et créativité que l'on exposera face aux contraintes. ✌ 
