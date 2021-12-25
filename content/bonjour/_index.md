@@ -22,6 +22,6 @@ Elle n'est pas encore périodique, cela dépend de vous.
 
 Si tu aimes ce que tu as lu, j'envoie une petite lettre sur tout et rien toutes les deux semaines.
 
-{{< letter account="bonjour" accent="sunray" msg="💌 Ma petite lettre" >}}
+{{< letter account="bonjouryannick" accent="sunray" msg="💌 Ma petite lettre" >}}
 
 *Promis je ne revends pas tes données et je ne te spammerai pas. Je déteste cela*  
