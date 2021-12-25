@@ -44,7 +44,7 @@ Je continue de lire quasi quotidiennement. Une trentaine de livres sur l'année.
 
 J'ai enfin acheté ma propre planche cette année, une magnifique 8' de chez Spooked kooks. [Une belle planche rose](https://spookedkooks.com/products/dead-hippie-8) au look retro, avec son crane dessus. J'ai appris à la laisser glisser. C'est pas toujours simple, je continue de repasser sur une planche d'école au Dossen. j'ai aussi passé la plupart de mon temps à l'eau dans une [4/3 en Yulex](https://srface.com/shop/mens-eco-wetsuit/?currency=EUR) de chez Srface. Un vrai plaisir. Je viens de prendre une à capuche de chez Patagonia pour l'hiver aussi. Hâte de pouvoir l'enfiler le plus souvent possible pour finir l'année avec les cheveux salés.
 
-Je continue les cours avec l'[école de surf du Léon](https://www.ecole-surf-leon.com) au Dossen. Même si je commence de plus en plus à tester d'autres spots au fil du temps. Un plaisir que d'apprendre à comprendre la mer, les vagues, la météo et aussi les différents spots. C'est tout un art que je ne maîtrise pas encore. Merci [Grégoy](https://gregorymignard.com/la-bonne-meteo/) de continuer à partager autant autour de cela.
+Je continue les cours avec l'[école de surf du Léon](https://www.ecole-surf-leon.com) au Dossen. Même si je commence de plus en plus à tester d'autres spots au fil du temps. Un plaisir que d'apprendre à comprendre la mer, les vagues, la météo et aussi les différents spots. C'est tout un art que je ne maîtrise pas encore. Merci [Grégory](https://gregorymignard.com/la-bonne-meteo/) de continuer à partager autant autour de cela.
 
 {{< photo src="5" alt="surf et combi en van" >}}
 
