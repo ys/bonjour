@@ -87,10 +87,10 @@ slug: "100-trucs"
 75. J'ai vu un osthéopathe pour la première fois de ma vie. C'est trop bien
 76. Louise et Tom ont un nouveau cousin
 77. Je suis moins sur mon téléphone et Louise me le rappelle si j'y suis trop. "Papa, pose téléphone"
-78. On a vu trop d'oiseaux mignons à notre fenêtre encore cette année
+78. On a vu trop d'oiseaux mignons à notre fenêtre encore cette année. On commence à en reconnaître encore plus
 79. Notre terrain est devenu un refuge [LPO](https://lpo.fr)
 80. On a sauvé un oiseau de la noyade et il s'est reposé dans mon bureau
-81. Tom sait construire des sets LEGO de fou
+81. Tom sait construire des sets LEGO de fou. Bon c'est un négatif car ça fait que j'en construit moins
 82. Louise demande toujours pour aller à la mer ou la piscine
 83. J'ai osé prendre du temps pour moi sur l'année
 84. J'ai revendu plein de choses qui encombraient mes placards
