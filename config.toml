@@ -11,7 +11,7 @@ canonifyURLs = false
 [build]
   writeStats = true
 [params]
-  footer = "👋 Yannick"
+  footer = "👋 Yannick - Have fun."
   text_404 = "Perdu? Cliquez sur la vague"
   mainSections = [ "posts", "photos" ]
   showFooter = ["posts", "photos"]
