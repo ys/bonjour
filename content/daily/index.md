@@ -1,6 +1,10 @@
 ---
 title: "Daily"
-subtitle: "Du banal et du joli"
+subtitle: "Détails d'un beau quotidien"
 type: grid
+menu:
+  main:
+    weight: 1
+linktitle: "détails du quotidien"
 ---
 
