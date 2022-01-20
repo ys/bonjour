@@ -6,7 +6,7 @@ emoji: "💸"
 menu:
   main:
     weight: 7
-linktitle: "shop"
+linktitle: "Des prints"
 ---
 
 Des prints sur du beau papier, parfois avec un beau cadre.

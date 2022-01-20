@@ -12,7 +12,7 @@ resources:
 menu:
   main:
     weight: 5
-linktitle: Now
+linktitle: Maintenant
 ---
 
 Moi, c'est Yannick.

@@ -5,6 +5,6 @@ type: grid
 menu:
   main:
     weight: 1
-linktitle: "détails du quotidien"
+linktitle: "du quotidien"
 ---
 
