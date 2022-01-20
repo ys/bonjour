@@ -12,7 +12,7 @@ resources:
   name: "cover"
 ---
 
-Yannick aime [raconter des histoires](/posts),  [capturer des moments](/photos)  
+Yannick aime [raconter des histoires](/posts),  [capturer des moments](/daily)  
 et vous écrire une [petite lettre](/bonjour) qui parle de tout et de rien.  
 Il produit aussi [des tirages limités](/shop) de ses photos favorites.
 

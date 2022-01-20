@@ -1,0 +1,28 @@
+{{ define "main" }}
+{{ partial "article_header" . }}
+<div class="mb-10 content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
+  <div  class="post">
+    {{.Content}}
+  </div>
+</div>
+{{ end }}
+{{ define "full" }}
+{{ $allimages := slice }}
+{{ range sort (.Resources.ByType "image") "Name" "desc"}}
+  {{ $allimages = $allimages | append (dict "Image" .  ) }}
+{{ end }}
+{{ $rows := dict }}
+{{ $columns := dict }}
+{{ range $index, $img := $allimages }}
+  {{ $columns = merge $columns (dict (string (mod $index 3)) (dict "Images" (slice $img)))}}
+  {{ if eq (mod $index 3) 2 }}
+    {{ $rows = merge $rows (dict (string (div $index 3)) $columns) }}
+  {{ end }}
+  {{ if eq (mod $index 3) 0 }}
+    {{ $columns := dict }}
+  {{ end }}
+{{ end }}
+  <div data-pswp class="w-full px-6">
+    {{ partial "grid" $rows }}
+  </div>
+  {{ end }}

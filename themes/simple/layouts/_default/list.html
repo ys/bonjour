@@ -8,7 +8,7 @@
 {{ $paginator := (.Paginate (where .RegularPages ".Params.archived" "!=" true) 250) }}
 <div class=" max-w-prose mb-10 {{ with .Params.grid }}grid gap-8 grid-cols-1 {{end}}">
   {{ range $index, $page := $paginator.Pages }}
-    {{ if $.Params.grid }}
+    {{ if or $.Params.grid $page.Params.coverImage }}
       {{ partial "cover_title" $page }}
     {{ else if $.Params.inline }}
       {{ partial "inline" $page }}
