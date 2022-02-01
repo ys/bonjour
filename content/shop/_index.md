@@ -5,8 +5,8 @@ grid: true
 emoji: "💸"
 menu:
   main:
-    weight: 7
-linktitle: "Des prints"
+    weight: 5
+linktitle: "un petit shop"
 ---
 
 Des prints sur du beau papier, parfois avec un beau cadre.

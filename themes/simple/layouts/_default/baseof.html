@@ -12,7 +12,7 @@
 </head>
 
 <body
-  class="font-serif text-base leading-relaxed antialiased font-normal text-darker   {{with .Params.color}}bg-{{.}}-300{{end}}">
+    class="font-serif text-base leading-relaxed antialiased font-normal text-darker   {{with .Params.color}}bg-{{.}}-200 selection:bg-{{.}}-300 selection:text-{{.}}-900 {{else}}selection:bg-accent-300 selection:text-accent-900 {{end}}">
 
   {{ partial "header" . }}
   <div class="md:container md:mx-auto md:max-w-xl w-full  grid grid-cols-1 gap-16 min-h-1/2">

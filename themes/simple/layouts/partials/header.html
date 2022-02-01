@@ -1,6 +1,11 @@
 {{ block "header" . }}
-<header class="p-6 {{ with .Params.hideHeader }}hidden{{end}} w-full flex flex-row  gap-8 md:justify-between justify-center">
-  <span class="block logo text-center text-6xl w-24 transition ease-in-out duration-1000 {{ with .Params.color }}text-{{.}}-500 {{else}}text-sunray-500 {{end}} hover:text-sunray-500">
+<header class="py-6 {{ with .Params.hideHeader }}hidden{{end}} md:max-w-xl md:mx-auto mx-4 md:container flex flex-col md:flex-row flex-col-reverse  gap-8 md:justify-between justify-center">
+  <div class="flex flex-col font-sans  h-full tracking-tighter text-xs ">
+    <h1 class="text-sm font-sans font-bold text-dark transition ease-in-out duration-500 {{ with .Params.color }}text-{{.}}-500 hover:text-{{.}}-500 {{else}}text-sunray-500 hover:text-sunray-500 {{end}}">
+    <a href="{{ "/" | relLangURL }}" alt="home">{{ .Site.Title }}</a></h1>
+    {{ partial "main_menu" . }}
+  </div>
+  <span class="block logo text-center text-6xl w-16 transition ease-in-out duration-500 {{ with .Params.color }}text-{{.}}-500 {{else}}text-sunray-500 {{end}} hover:text-sunray-500">
     <a href="{{ "/" | relLangURL }}" alt="home">
       {{ if fileExists "/static/logo.svg" }}
       {{ readFile "/static/logo.svg" | safeHTML}}
@@ -9,6 +14,5 @@
       {{ end }}
     </a>
   </span>
-  {{ partial "main_menu" . }}
 </header>
 {{ end }}

@@ -201,6 +201,11 @@
     "@babel/helper-validator-identifier" "^7.15.7"
     to-fast-properties "^2.0.0"
 
+"@downwindcss/text-decoration@^1.1.1":
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@downwindcss/text-decoration/-/text-decoration-1.1.1.tgz#870aec1cca0d6ce40140151cffae4b31d78ff8fe"
+  integrity sha512-nvuakpy1gxu/1S6TgC5oMHe94YT1BPlCmjyy4+nW3NtxVzID09MrpLXfukDNtMBJhFztuNJl+JlNPkwPLee3jw==
+
 "@fullhuman/postcss-purgecss@^4.0.0":
   version "4.0.3"
   resolved "https://registry.yarnpkg.com/@fullhuman/postcss-purgecss/-/postcss-purgecss-4.0.3.tgz#55d71712ec1c7a88e0d1ba5f10ce7fb6aa05beb4"

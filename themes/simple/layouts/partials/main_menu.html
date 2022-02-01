@@ -1,14 +1,13 @@
 {{ $current := . }}
-<nav class="hidden md:block font-sans  h-full tracking-tighter text-sm ">
-  <ul class="inline flex flex-wrap flex-row text-dark">
+<nav class="main_menu">
+  <ul class="inline text-gray-600 leading-relaxed">
     {{ range .Site.Menus.main }}
     {{ $active := or ($current.IsMenuCurrent "nav" .) ($current.HasMenuCurrent "nav" .) }}
     {{ $active = or $active (eq .Page $current) }}
     {{ $active = or $active (eq .Page.Section $current.Type) }}
     <li
-        class="py-1 flex flex-row inline capitalize relative md:justify-center {{if $active}} text-gray-800  {{end}} {{ with $current.Params.Color }}hover:text-{{ . }}-600 hover:border-{{ . }}-600{{ else }}hover:text-accent-600{{ end }} transition ease-in-out duration-200 {{ if $active }}dotted{{ end }}">
-      <span class=" mr-2"> {{.Pre}}</span>
-      <a class="{{ .Params.class }}  whitespace-nowrap" href="{{ .URL }}" title="{{ .Title }}">
+        class="inline  relative font-semibold ">
+      <a class="{{ .Params.class }}  whitespace-nowrap  font-semibold {{if $active}} text-gray-800  {{end}} {{ with $current.Params.Color }}hover:text-{{ . }}-600 hover:border-{{ . }}-600 {{ if $active }}text-decoration-underline text-decoration text-decoration-{{ . }}-600 {{ end }}{{ else }}hover:text-accent-600 {{ if $active }}text-decoration-underline text-decoration text-decoration-accent-600 {{ end }}{{ end }} transition ease-in-out duration-200 " href="{{ .URL }}" title="{{ .Title }}">
         {{ if .Params.useEmoji }}
         {{ $current.Params.emoji | default $current.Site.Params.emoji}}
         {{ else }}

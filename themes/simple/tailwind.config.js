@@ -6,6 +6,7 @@ module.exports = {
     require('@tailwindcss/typography'),
     require('@tailwindcss/line-clamp'),
     require('@tailwindcss/aspect-ratio'),
+    require('@downwindcss/text-decoration'),
   ],
   variants: {
     extend: {
@@ -48,12 +49,11 @@ module.exports = {
         ]
       },
       colors: {
-        gray: colors.stone,
+        gray: colors.blueGray,
         indigo: colors.indigo,
         teal: colors.teal,
         orange: colors.orange,
         amber: colors.amber,
-        slate: colors.slate,
         rose: colors.rose,
         red: colors.red,
         emerald: colors.emerald,
