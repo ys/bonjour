@@ -1,6 +1,6 @@
 ---
 title: "Paris, on s'racoquine"
-description: "Revoir la ville sous un autre oeil, c'est souvent pas mal."
+subtitle: "Revoir la ville sous un autre oeil, c'est souvent pas mal."
 date: 2022-02-04T12:55:23+02:00
 draft: false
 description: ""
