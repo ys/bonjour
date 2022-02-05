@@ -16,8 +16,8 @@ J'ai depuis longtemps eu une sensation plutôt négative envers la ville des Lum
 
 {{< grid images="01 | 02 / 03 / 05 | 06 " >}}
 
-Puis l'an passé autour de Juillet, on est de passage chez les parents de Cloé et on se dit que aller visiter le Louvres avec Tom serait une super idée. On a une envie de culture, on ne l'a jamais fait et on se dit que avec la pandémie, la ville nous paraîtra sans doute moins remplie. 
-Ni une, ni deux, les tickets de trains et du musée sont réservés. Même configuration, un trajet sur la journée. Mais au final, moins de stress, on marche toute la journée et on redécouvre Paris différemment. Avons-nous changé ou bien est-ce la ville? On flâne, on se fait quelques librairies, on passe devant Notre-Dame. La ville a toujours des travers mais au final, quand tu la prends autrement, elle a tant à donner. Dont des supers cafés, je découvre enfin [Terres de café](https://terresdecafe.com)
+Puis l'an passé autour de Juillet, on est de passage chez les parents de Cloé et on se dit que aller visiter le Louvre avec Tom serait une super idée. On a une envie de culture, on ne l'a jamais fait et on se dit que avec la pandémie, la ville nous paraîtra sans doute moins remplie. 
+Ni une, ni deux, les tickets de train et du musée sont réservés. Même configuration, un trajet sur la journée. Mais au final, moins de stress, on marche toute la journée et on redécouvre Paris différemment. Avons-nous changé ou bien est-ce la ville? On flâne, on se fait quelques librairies, on passe devant Notre-Dame. La ville a toujours des travers mais au final, quand tu la prends autrement, elle a tant à donner. Dont des supers cafés, je découvre enfin [Terres de café](https://terresdecafe.com)
 
 {{< grid images="09 | 08 / 16 | 15 |14  " >}}
 
