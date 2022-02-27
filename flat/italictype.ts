@@ -1,4 +1,4 @@
-import { readJSON, readImageFromURL, writeImage } from 'https://deno.land/x/flat@0.0.11/mod.ts'
+import { readJSON, readImageFromURL, writeImage } from 'https://deno.land/x/flat@0.0.14/mod.ts'
 import * as yaml from "https://unpkg.com/js-yaml@4.1.0/dist/js-yaml.mjs"
 import "https://deno.land/x/lodash@4.17.19/dist/lodash.js";
 
