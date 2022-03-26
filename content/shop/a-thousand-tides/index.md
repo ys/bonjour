@@ -3,7 +3,7 @@ title: "A thousand tides - zine"
 grid: "es6 / es2 | es3 | es4"
 subtitle: "~~18~~ 14€"
 price: "14€"
-price_id: "price_1KhaFWFaA8Wpl3Epp9UsNryY"
+price_id: "price_1KhdAaFaA8Wpl3EpuCoGpElU"
 resources:
   - src: "*.webm"
   - src: "*.jpg"
