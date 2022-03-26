@@ -12,6 +12,7 @@ resources:
 ## A thousand tides
 
 *Pre-order Price: ~~20€~~ 15€*
+Shipping included
 
 “A thousand tides” is a collection of some of my favorite film shots taken mostly over the pandemic. This is a bit more than a thousand tides but who cares?
 

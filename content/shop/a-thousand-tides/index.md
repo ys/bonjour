@@ -11,21 +11,22 @@ resources:
 
 ## A thousand tides
 
-*Pre-order Price: ~~20€~~ 15€*
+*Prix en prévente: ~~20€~~ 15€*
+Frais de port inclus
 
-“A thousand tides” is a collection of some of my favorite film shots taken mostly over the pandemic. This is a bit more than a thousand tides but who cares?
+“A thousand tides” est une collection de mes photos favorites prises principalement durant la pandémie. Il y a un peu plus de milles marées mais est-ce vraiment important?
 
-It is a first edition limited to 50 copies.   
-Signed and numbered.
-Available as soon as the printer prints.
+Première édition limitée à 50 copies.
+Signées et numérotées.
+Disponibles dès que l'imprimeur aura fait le job.
 
 {{< video src="loop" type="video/webm" preload="auto" >}}
 
 
 <div class="text-sm">
 Description: <br/> 
-A5 Book <br/> 
-Matt laminated cover onto 300gsm Uncoated <br/> 
-58 pages onto 170gsm Uncoated
+livre A5 <br/> 
+Couverture mat laminée 300gsm non couché <br/> 
+58 pages sur du papier 170gsm non couché
 </div>
 
