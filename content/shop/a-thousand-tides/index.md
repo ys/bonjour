@@ -17,6 +17,7 @@ resources:
 
 It is a first edition limited to 50 copies.   
 Signed and numbered.
+Available as soon as the printer prints.
 
 {{< video src="loop" type="video/webm" preload="auto" >}}
 
