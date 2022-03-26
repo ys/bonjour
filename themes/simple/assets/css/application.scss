@@ -67,6 +67,9 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, 
     text-decoration-color: theme('colors.#{$color}.700') !important;
   }
 }
+.prose pre {
+  @apply bg-gray-200 text-gray-900 text-sm;
+}
 .logo svg, .fill svg {
   @apply fill-current;
 }
