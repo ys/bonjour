@@ -1,8 +1,8 @@
 ---
 title: "A thousand tides - zine"
 grid: "es6 / es2 | es3 | es4"
-subtitle: "~~18~~ 14€"
-price: "14€"
+subtitle: "18€"
+price: "18€"
 price_id: "price_1KhdAaFaA8Wpl3EpuCoGpElU"
 resources:
   - src: "*.webm"
@@ -11,8 +11,7 @@ resources:
 
 ## A thousand tides
 
-*Prix en prévente: ~~18€~~ 14€*  
-Frais de port inclus
+*Prix 18€ - Frais de port inclus*
 
 “A thousand tides” est une collection de mes photos favorites prises principalement durant la pandémie. Il y a un peu plus de milles marées mais est-ce vraiment important?
 

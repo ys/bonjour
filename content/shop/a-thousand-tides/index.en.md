@@ -1,8 +1,8 @@
 ---
 title: "A thousand tides - zine"
 grid: "es6 / es2 | es3 | es4"
-subtitle: "~~18~~ 14€"
-price: "14€"
+subtitle: "18€"
+price: "18€"
 price_id: "price_1KhdAaFaA8Wpl3EpuCoGpElU"
 resources:
   - src: "*.webm"
@@ -11,8 +11,7 @@ resources:
 
 ## A thousand tides
 
-*Pre-order Price: ~~18€~~ 14€*  
-Shipping included
+*Price 18€ - Shipping included*
 
 “A thousand tides” is a collection of some of my favorite film shots taken mostly over the pandemic. This is a bit more than a thousand tides but who cares?
 
