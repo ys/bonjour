@@ -6,7 +6,7 @@ price: "18€"
 price_id: "price_1KhdAaFaA8Wpl3EpuCoGpElU"
 resources:
   - src: "*.webm"
-  - src: "*.jpg"
+  - src: "*.webp"
 ---
 
 ## A thousand tides
