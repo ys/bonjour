@@ -21,7 +21,7 @@
       "name" : {{ $title | safeHTML }},
       "headline" : {{ $title | safeHTML}},
       "description" : {{ with (.Description | default (replaceRE "\n" " " (.Summary | truncate 170))) }}{{ . | safeHTML }}{{ else}}""{{ end }},
-      "inLanguage" : "fr",
+      "inLanguage" : "{{.Lang}}",
       "availableLanguage": {
         "@type": "Language",
         "name": ["French","English"]
