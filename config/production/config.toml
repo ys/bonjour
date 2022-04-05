@@ -1,5 +1,3 @@
-[params.plausible]
-  domain = "yannickschutz.com"
 [build]
   writeStats = true
 [params.stripe]
