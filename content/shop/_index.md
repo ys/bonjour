@@ -1,5 +1,5 @@
 ---
-title: "Des prints"
+title: "Les jolis prints"
 description: "Des prints à vendre sur du beau papier"
 grid: true
 emoji: "💸"
