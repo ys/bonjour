@@ -12,6 +12,10 @@
   {{ end }}
   {{ $lqip := $src.Resize (printf "%s webp" $xs) }}
   {{ $small := $src.Resize (printf "%s webp" $md) }}
+  {{ if eq $src.MediaType.SubType "gif" }}
+     {{ $lqip = $src.Resize (printf "%s" $xs) }}
+     {{ $small = $src }}
+   {{ end }}
   <picture style="{{ .ExtraClasses }} padding-bottom: {{(div (mul 100.0 $src.Height ) $src.Width) -}}%" class="relative box-border block">
     <img
       loading="lazy"
