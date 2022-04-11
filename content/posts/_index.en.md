@@ -4,6 +4,7 @@ description: "Some tiny stories, pictures, books and a cup of black coffee"
 date: 2017-10-26T22:57:50+02:00
 draft: false
 type: index
+grid: true
 hideCategories: true
 resources:
 - src: "*.webp"
