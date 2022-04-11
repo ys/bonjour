@@ -1,6 +1,6 @@
 {{ $title := printf "%s %s %s - %s" .Date.Day (index .Site.Data.mois (printf "%d" .Date.Month)) .Date.Year $.Site.Title }}
 {{ if .Params.seotitle }}
-  {{ $title = printf "%s - %s" .Params.seotitle $.Site.Title }}
+  {{ $title = .Params.seotitle }}
 {{ else if .Title }}
   {{ $title = printf "%s - %s" .Title $.Site.Title }}
 {{ end }}
