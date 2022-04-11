@@ -6,7 +6,7 @@ emoji: "💸"
 menu:
   main:
     weight: 7
-linktitle: "shop"
+linktitle: "a pretty little shop"
 ---
 
 Prints on great paper and sometimes in a frame

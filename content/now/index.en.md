@@ -1,6 +1,6 @@
 ---
 title: "Maintenant"
-description: "Ce que je fais, qui m'intéresse et me tracasse."
+description: "What I do, what I care about and all and nothing"
 date: 2020-10-07T12:57:50+02:00
 draft: false
 color: sunray
@@ -12,7 +12,7 @@ resources:
 menu:
   main:
     weight: 5
-linktitle: Now
+linktitle: "A little about me"
 ---
 Hey folks, I am Yannick.
 

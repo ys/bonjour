@@ -5,5 +5,5 @@ type: grid
 menu:
   main:
     weight: 1
-linktitle: "daily"
+linktitle: "daily moments"
 ---
