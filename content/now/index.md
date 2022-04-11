@@ -45,7 +45,7 @@ N'ayant pas eu ma dose de boissons lactées depuis un moment, on a sauté le pas
 
 <span class="font-sans">☕️</span> → Mon café vient en général de chez [Mok Coffee](https://mokcoffee.be) et de [Terres de café](https://terresdecafe.com). J'aime toujours tester et découvrir d'autres torréfacteurs.
 
-🖨 → Mes prints viennent de chez [Ooblik](https://ooblik.com) & [Négatif+](https://negatifplus.com). Je compte bien faire un zine aussi bientôt.
+🖨 → Mes prints viennent de chez [Ooblik](https://ooblik.com) & [Négatif+](https://negatifplus.com). Je viens de faire [mon premier zine](/shop/a-thousand-tides) avec [Ex Why Zed](https://exwhyzed.co.uk)
 
 ## Colophon
 
