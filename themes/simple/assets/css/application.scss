@@ -25,8 +25,8 @@ html {
   --gap: 18px;
 }
 
-blockquote {
-  @apply font-mono;
+.prose blockquote {
+  @apply italic border-accent-300 font-normal;
 }
 
 $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, bluewhale, sunray, rose, amber;
