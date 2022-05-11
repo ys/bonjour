@@ -36,4 +36,4 @@ Je pense que me contraindre au 35mm m'a beaucoup aidé aussi à simplifier ma pe
 
 J'ai emmené cet appareil partout. Je me sens comme un photo reporter une fois qu'il est à mes côtés. Je lui ai trouvé un super strap en cuir de chez [Cleversupply](https://cleversupply.co/products/minimal-anchor-camera-strap-peak) (désolé Greg, pas de pub pour ta soeur encore ici...). Et je me sens comme Henri. Il ne m'en faut pas plus. Je ne me compare bien sûr pas aux plus grands, mais j'aime à penser que nous avons au moins une chose en commun.
 
-{{< grid images="02 / 01 | 03 / 04 / 05 | 06 / 08 | 09 / 07 / 10 | 11 / 12 | 13 / 14 | 15" >}}
+{{< grid images="08 | 09 / 07 / 10 | 11 / 12 | 13 / 14 | 15" >}}
