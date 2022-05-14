@@ -1,7 +1,8 @@
 ---
 title: "A thousand tides - zine"
 grid: "es6 / es2 | es3 | es4"
-subtitle: "18€"
+subtitle: "soldout"
+soldout: true
 price: "18€"
 price_id: "price_1KhdAaFaA8Wpl3EpuCoGpElU"
 resources:
