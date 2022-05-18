@@ -3,6 +3,11 @@ title: "Le surf"
 subtitle: "De l'iode, de la wax et une légère odeur de pieds"
 color: "bluewhale"
 emoji: "🏄🏼‍♂️"
+tags:
+  - surf
+  - glisse
+resources:
+  - src: "*.webp"
 date: 2022-05-17T22:33+0200
 ---
 
