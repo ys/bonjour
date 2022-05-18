@@ -18,7 +18,9 @@
   {{ end }}
   {{ $lqip := $src.Resize $lqipr }}
   {{ $small := $src.Resize $smallr}}
-
+  {{ if eq $src.MediaType.SubType "gif" }}
+    {{ $small = $src }}
+  {{ end }}
   {{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
   {{/* set the sizes attribute to (min-width: 35em) 1200px, 100vw unless overridden in shortcode */}}
 
