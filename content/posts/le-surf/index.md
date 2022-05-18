@@ -9,7 +9,7 @@ tags:
 resources:
   - src: "*.webp"
   - src: "*.gif"
-date: 2022-05-17T22:33+0200
+date: 2022-05-17T22:33:23+0200
 ---
 
 Apprendre le surf quand tu as passé la trentaine et que tu vis à une heure de la côte, c'est un choix. Un choix pas toujours simple, mais un choix quand même.  
