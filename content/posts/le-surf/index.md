@@ -24,12 +24,12 @@ C'est prendre plein de cours et voir ton fils y arriver mieux que toi.
 C'est avoir tout à apprendre et l'accepter.  
 C'est comprendre le localisme et les multiples codes qui régissent les spots.  
 C'est apprendre à lire les apps de prévisions et accepter que c'est pas toujours assez.  
-C'est aimé voir la webcam sur ton spot mais comprendre qu'en fait elle tue un rien le charme de l'apprentissage.  
+C'est aimer voir la webcam sur ton spot mais comprendre qu'en fait elle tue un rien le charme de l'apprentissage.  
 
 {{< photo src="cover" alt="mes pieds" caption="Mes pieds par Greg Mignard" >}}
 
 C'est comprendre qu'une gauche va vers la droite quand tu es face à la mer.  
-C'est savoir que offshore c'est mieux que onshore, mais que quelques soient les conditions, tu apprends toujours, donc au fond, on s'en bat lek.  
+C'est savoir qu'offshore c'est mieux qu'onshore, mais que quelques soient les conditions, tu apprends toujours, donc au fond, on s'en bat lek.  
 C'est découvrir pas mal de muscles qui n'avaient pas bosser depuis longtemps.  
 C'est vouloir les muscler et aimer le sport de plus en plus.  
 C'est attacher des logs de trois mètres sur le toit de ton Berlingo.  
@@ -48,6 +48,6 @@ C'est accepter la frustration de rater un jour de bonnes conditions.
 C'est accepter de tout lâcher pour juste prendre deux vagues.  
 C'est rencontrer plein de gens passionnés.  
 C'est parler une heure sur le parking avec un gars sans même demander son prénom.  
-C'est quelques aller-retours vers la côte pour peux de vagues mais pour une paix et un bien-être qui n'a pas de pris.
+C'est quelques aller-retours vers la côte pour peu de vagues mais pour une paix et un bien-être qui n'a pas de prix.
 
 {{< photo src="surf" >}}
