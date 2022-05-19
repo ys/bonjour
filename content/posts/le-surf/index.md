@@ -48,6 +48,9 @@ C'est accepter la frustration de rater un jour de bonnes conditions.
 C'est accepter de tout lâcher pour juste prendre deux vagues.  
 C'est rencontrer plein de gens passionnés.  
 C'est parler une heure sur le parking avec un gars sans même demander son prénom.  
+C'est avoir son rail qui se cale sur la vague.  
+C'est sentir la glisse.  
+C'est comme un psy sans besoin de remboursement.  
 C'est quelques aller-retours vers la côte pour peu de vagues mais pour une paix et un bien-être qui n'a pas de prix.
 
 {{< photo src="surf" >}}
