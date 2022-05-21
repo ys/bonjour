@@ -55,7 +55,7 @@ Nicolas nous reçoit dans sa maison. Il nous fait faire le tour. Il est enthousi
 
 ## La Côte Sauvage de Quiberon
 
-On se dirige vers Quiberon. La côte sauvage porte bien son nom, encore plus en cette période de grande marée. Le bruit des vagues, la musique de l’eau est envoûtante. On se pose et on regarde. On reviendra plusieurs fois voir cette mer qui s’attaque aux falaises. On veut la faire en entière cette côte. On devra revenir pour le faire en une fois. Avec un petit aventurier, on fait beaucoup de pauses. Il aime ce qu’il voit et ça le motive. Quel plaisir de lui expliquer. Encore des vagues, plus de vagues, de l’eau qui explose sur les falaises en un feu d’artifice humide. On s’earrête à la [brasserie Zéphyr](http://www.zephyr-biere.com). Elle nous goûte bien. On prendra une caisse s’il vous plaît.
+On se dirige vers Quiberon. La côte sauvage porte bien son nom, encore plus en cette période de grande marée. Le bruit des vagues, la musique de l’eau est envoûtante. On se pose et on regarde. On reviendra plusieurs fois voir cette mer qui s’attaque aux falaises. On veut la faire en entière cette côte. On devra revenir pour le faire en une fois. Avec un petit aventurier, on fait beaucoup de pauses. Il aime ce qu’il voit et ça le motive. Quel plaisir de lui expliquer. Encore des vagues, plus de vagues, de l’eau qui explose sur les falaises en un feu d’artifice humide. On s’earrête à la [brasserie Zéphyr](https://www.zephyr-biere.com). Elle nous goûte bien. On prendra une caisse s’il vous plaît.
 
 {{< photo class="fullwidth" src="11.webp" alt="Waves crashing on cliffs" >}}
 

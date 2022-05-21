@@ -47,7 +47,7 @@ slug: "100-trucs"
 31. J'ai lu sans alcool de Claire Touzard
 32. J'ai lu Encabanée de Gabrielle Filteau-Chiba
 33. J'ai lu Ce sentiment océanique de Fiona Capp
-34. J'ai remplis 4 carnets de chez [Monsieur papier](http://monsieurpapier.fr)
+34. J'ai remplis 4 carnets de chez [Monsieur papier](https://monsieurpapier.fr)
 35. Cloé m'a offert un super carnet de voyage de chez [Paper Republic](https://paper-republic.fr). Cette couverture en cuir est trop belle
 36. J'ai acheté [trop de livres photos](https://yannickschutz.com/on-paper) et j'ai bavé sur les images
 37. Vous avez lu [20 petites lettres](https://yannickschutz.com/bonjour) sur l'année. On est presque aux une toutes les deux semaines de prévues

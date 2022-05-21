@@ -33,7 +33,7 @@ Avoir un sac à déchets permet surtout aussi de ramasser ceux que les autres la
 
 Il ne vous faut pas de gros matériel. Rappelez-vous de mettre un sac dans votre sac qui servira au déchets. N'hésitez pas à embarquer aussi une paire de gants de travaux ou jardinage pour ne pas avoir peur de ramasser des déchets qui ne sont pas les vôtres.
 
-Si vous vous sentez seul, n'hésitez pas à rameuter vos amis ou à vous joindre à un événement local de nettoyage. Si vous ne savez pas où en trouver, suivez des groupes comme [Un océan de vie](http://www.unoceandevie.com/fr/), [Initiative océane](https://www.initiativesoceanes.org), [J'agis pour la nature](https://jagispourlanature.org/facons-dagir/je-ramasse-des-dechets) ou autres.
+Si vous vous sentez seul, n'hésitez pas à rameuter vos amis ou à vous joindre à un événement local de nettoyage. Si vous ne savez pas où en trouver, suivez des groupes comme [Un océan de vie](https://www.unoceandevie.com/fr/), [Initiative océane](https://www.initiativesoceanes.org), [J'agis pour la nature](https://jagispourlanature.org/facons-dagir/je-ramasse-des-dechets) ou autres.
 
 ## En bref
 

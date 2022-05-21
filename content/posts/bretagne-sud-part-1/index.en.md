@@ -37,7 +37,7 @@ Nicolas is waiting for us at his place. He shows us around. He is super enthusia
 
 ## Quiberon's wild coast
 
-Now it is time for Quiberon. The wild coast is well named, even more with the largest tides of the year. The sound of the waves, water’s music, is fascinating. We stop and watch. We will come back multiple times to see that sea attacking the cliffs. We wanna see it all, walk it all. But this time, is not the right time for this. A small adventurer needs many breaks. He loves what he is seeing and that pumps him up. What a pleasure to explain to him all of this. Waves again, more waves, water exploding on the cliffs. It looks like a big wet firework. We stop at a local brewery, [Zephyr](http://www.zephyr-biere.com). It tastes good. We will take a box, please.
+Now it is time for Quiberon. The wild coast is well named, even more with the largest tides of the year. The sound of the waves, water’s music, is fascinating. We stop and watch. We will come back multiple times to see that sea attacking the cliffs. We wanna see it all, walk it all. But this time, is not the right time for this. A small adventurer needs many breaks. He loves what he is seeing and that pumps him up. What a pleasure to explain to him all of this. Waves again, more waves, water exploding on the cliffs. It looks like a big wet firework. We stop at a local brewery, [Zephyr](https://www.zephyr-biere.com). It tastes good. We will take a box, please.
 
 {{< photo class="fullwidth" src="11.webp" alt="Waves crashing on cliffs" >}}
 

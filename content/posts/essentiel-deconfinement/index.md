@@ -31,7 +31,7 @@ C'est une pratique que j'ai commencé depuis un moment. D'abord par souci de pro
 
 Quoi de mieux pour se changer les idées que une bonne lecture. J'avais des magazines en retard et une liste de lecture à rallonge. Je l'ai d'ailleurs jetée et recommencé une nouvelle sur [goodreads](https://www.goodreads.com/review/list/3062737?shelf=to-read). Je vais juste parler de deux choses
 
-### [Beside magazine](http://beside.media)
+### [Beside magazine](https://beside.media)
 
 J'ai enfin fini leur dernier volume. Il était sur ma table depuis un moment. Si vous ne connaissez pas et n'avez pas lu d'autres articles dans le coin, Beside a pour but de reconnecter l'humain à la nature. Ce dernier volume parle des risques que nous sommes prêts à prendre pour nos convictions. Un vrai régal.
 
