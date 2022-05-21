@@ -4,5 +4,10 @@
 <p class="text-lg text-center block text-accent-700">
 {{ .Site.Params.text_404 }}
 </p>
+  <div class="{{if $.Params.grid}}md:-mx-32{{end}} mb-10 {{ with .Params.grid }}grid gap-8 grid-cols-1 md:grid-cols-2 {{end}}">
+    {{ range first 4 (where .Site.RegularPages ".Params.favorite" true) }}
+      {{ partial "cover_title" $page }}
+    {{ end }}
+  </div>
 </div>
 {{ end }}
