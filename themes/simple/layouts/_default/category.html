@@ -4,7 +4,7 @@
 <header class="flex flex-col relative">
   <h1
     class="text-xl font-bold z-10 text-darker  {{ with .Params.Color }}hover:text-{{ . }}-600 {{ else }}hover:text-accent-600{{ end }} transition ease-in-out duration-200">
-    <a href="{{ " /" | relLangURL }}">{{.Title}}</a>
+    <a href="{{ "/" | relLangURL }}">{{.Title}}</a>
   </h1>
 <div class="post with-links z-10">
   {{ .Content }}
