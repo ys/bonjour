@@ -14,7 +14,7 @@ slug: "100-trucs"
 
 {{< photo src="cover" alt="coffee" >}}
 
-1. J'ai envoyé [une photo par semaine](https://yannickschutz.com/detail) pendant plus de 3 mois.
+1. J'ai envoyé [une photo par semaine](https://yannickschutz.com/details) pendant plus de 3 mois.
 2. J'ai vendu [ma première photo imprimée](https://yannickschutz.com/shop/sunrise-i) et l'ai vue au mur chez des gens <3
 3. J'ai survécu à la bureaucratie des banques et assurances pour [notre futur gîte](https://douarenn.fr)
 4. On a rencontré des superbes personnes autour de ce projet.

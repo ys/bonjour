@@ -49,6 +49,6 @@ Après des premiers rolls où le sujet était la mer seule, je me réjouis de re
 Si vous voulez découvrir quelques photographes qui adorent le Nikonos, je vous suggère [Alice Védrine](https://www.instagram.com/alicevedrine/) ou [Jérémy Lachance](https://jeremylachance.com). Vous en trouverez d'autres en suivant les hashtags genre [#nikonosproject](https://www.instagram.com/explore/tags/nikonosproject/)
 
 
-P.S.: Si cela vous a plu, j'ai un [print en vente](/shop/new-year) d'une photo au Nikonos 
+P.S.: Si cela vous a plu, j'ai un [print en vente](/shop/sunrise-i) d'une photo au Nikonos 
 
 {{< photo src="pub" alt="Pub du Nikonos V" >}}
