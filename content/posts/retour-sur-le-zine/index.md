@@ -1,7 +1,7 @@
 ---
 title: "Retour sur mon premier zine"
 emoji: "📕"
-date: 2022-05-15T22:33+0200
+date: 2022-05-25T22:33:00+0200
 slug: "retour-sur-le-zine"
 favorite: true
 seotitle: "Retour sur la genèse de A thousand tides"
@@ -19,7 +19,13 @@ categories:
   - analog
 resources:
   - src: "*.webp"
+  - src: "*.mp4"
+  - src: "*.webm"
+  - src: "1000tides6.webp"
+    name: "cover"
 ---
+
+{{< video src="loop" type="video/webm" preload="auto" >}}
 
 Cela fait maintenant un gros mois que j'ai eu mon anniversaire. Quel rapport avec le zine? C'est le jour où j'ai reçu le tirage test de mon tout premier zine. C'était le moment où tout est devenu concret. Je n'avais pas vraiment d'idée du travail que cela représentait, je ne savais pas combien de pages y mettre, combien de photos non plus. J'avais juste quelques livres qui me plaisaient dans la mise en page et la taille. Je m'en suis sans doute inspirés incosciemment. Et là, je l'avais enfin entre mes doigts.
 
