@@ -39,6 +39,6 @@ Tom progresse super bien. Même sans lunettes, je le vois glisser tranquillement
 Quels moments. Je n'ai qu'une hâte, y retourner. Cinq leçons de prévues et on ne compte pas s'arrêter là. Je ne sais pas quelle sera la suite mais elle se passera clairement dans l'eau. Je vais devoir trouver une combi pour Tom, des planches en mousse pour nous deux. Trouvez des spots pour débutants, etc. N'hésitez pas à partager vos recommandations sur [🐥 Twitter](https://twitter.com/bonjouryannick) ou autres.
 
 Pour plus d'infos sur le Surf dans le Léon:
-- [Norzh Léon Surf club](http://norzhleonsurf.fr)
+- [Norzh Léon Surf club](https://norzhleonsurf.fr)
 - [École de Surf du Léon](https://ecole-surf-leon.com)
-- [Le Dossen](http://le-dossen.com)
+- [Le Dossen](https://le-dossen.com)

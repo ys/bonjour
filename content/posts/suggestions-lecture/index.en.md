@@ -39,7 +39,7 @@ Here are three good recommendations.
 
 ## [The eight mountains](https://amzn.to/32l2uhH) by Paolo Cognetti
 
-This is a really good book recommended by [Martin Dellicour](http://www.martindellicour.be). This is the story of friendship in the Italian mountains. A friendship that evolves around old stones and mountain's time.
+This is a really good book recommended by [Martin Dellicour](https://www.martindellicour.be). This is the story of friendship in the Italian mountains. A friendship that evolves around old stones and mountain's time.
 It is also a good story around loneliness. And a story about a father and a son, in a way. Which resonated a lot with me when I read it.
 
 I would also suggest another one by Paolo Cognetti, the [wild boy](https://amzn.to/30nu4JA). The story also takes place in the Italian mountains.

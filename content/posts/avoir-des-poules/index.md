@@ -63,7 +63,7 @@ Le matin, on va ouvrir le poulailler pour qu'elles puissent se balader dans l'en
 
 ## 🔗 Des liens
 
-- [Poules pondeuses](http://poulespondeuses.com/elevage-poules-pondeuses/) - Une vraie source intarissable.
+- [Poules pondeuses](https://poulespondeuses.com/elevage-poules-pondeuses/) - Une vraie source intarissable.
 - [Le guide farmili](https://www.farmili.com/content/8-introduction-a-l-elevage-de-la-poule) - Encore plein d'info
 - [Des poules dans mon jardin](https://amzn.to/2F9TLFs) Rien ne remplace le papier. Ca se lit au jardin avec plaisir.
 

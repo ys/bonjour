@@ -54,13 +54,13 @@ Direction le [parc national](https://www.foretnoire.info/), on s'arrête en chem
 {{< photo class="fullwidth" src="schwarzwald-34.webp" >}}
 {{< grid images="schwarzwald-36.webp | schwarzwald-35.webp | schwarzwald-37.webp" >}}
 
-Le lendemain, direction [Mummelsee](http://www.seebach-tourismus.de/). La légende veut que une créature vive dans ce lac. Nous verrons, à la place, la charcuterie locale et les coucous du magasin. Une balade grimpant jusqu'au sommet nous fera redescendre par une pente rocailleuse plutôt ardue pour Tom. Des dizaines de petits amas de pierres nous accueillent ensuite. Nous en ajouterons un.
+Le lendemain, direction [Mummelsee](https://www.seebach-tourismus.de/). La légende veut que une créature vive dans ce lac. Nous verrons, à la place, la charcuterie locale et les coucous du magasin. Une balade grimpant jusqu'au sommet nous fera redescendre par une pente rocailleuse plutôt ardue pour Tom. Des dizaines de petits amas de pierres nous accueillent ensuite. Nous en ajouterons un.
 
 {{< grid images="schwarzwald-39.webp | schwarzwald-40.webp" >}}
 {{< photo src="schwarzwald-41.webp" >}}
 {{< grid images="schwarzwald-42.webp | schwarzwald-43.webp" >}}
 
-En route pour [la roulotte](http://www.ferienhof-hirschfeld.de/) où nous passerons nos dernières nuits, nous nous arrêtons pour faire une balade de 2km pieds nus à travers bois. Le [Barfusspark de Dornstetten](https://www.barfusspark.de/) aura été plus frais que espérer mais c'était amusant. Il y a plein de sols: du bois, de la boue, du verre, de l'herbe et même de l'eau un peu trop froide. De quoi passer un bon moment avec ou sans des enfants.
+En route pour [la roulotte](https://www.ferienhof-hirschfeld.de/) où nous passerons nos dernières nuits, nous nous arrêtons pour faire une balade de 2km pieds nus à travers bois. Le [Barfusspark de Dornstetten](https://www.barfusspark.de/) aura été plus frais que espérer mais c'était amusant. Il y a plein de sols: du bois, de la boue, du verre, de l'herbe et même de l'eau un peu trop froide. De quoi passer un bon moment avec ou sans des enfants.
 
 {{< grid images="schwarzwald-44.webp | schwarzwald-45.webp | schwarzwald-46.webp" >}}
 

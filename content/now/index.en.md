@@ -22,9 +22,9 @@ I quite like our planet too and am kind of considering myself as a micro activis
 I love the ocean and nature. Lately, I only do film photography. I have an iPhone 12 mini for all the rest. I mostly load Kodak Portra 400 but Kodak Tri-X 400 is kind of growing on me.
 
 Current gear:
-- [Olympus XA](/en/olympus-xa)
+- [Olympus XA](/olympus-xa)
 - Leica M6 with a summarit 35mm
-- [Nikonos V](/en/nikonos-v) with a 35mm
+- [Nikonos V](/nikonos-v) with a 35mm
 
 {{< photo src="cover" alt="yannick" >}}
 

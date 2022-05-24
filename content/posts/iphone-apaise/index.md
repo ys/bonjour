@@ -20,7 +20,7 @@ Et il mentionne les essais en smartphones comme le [Light Phone](https://www.the
 
 En gros, cela fait un moment que je me demande comment avoir un usage plus slow de mon smartphone. En parlant sur un Discord avec lui, il m'envoie un lien vers un launcher iOS (Un widget en fait) Qui minimalise ton iPhone. Je l'installe, j'aime l'idée. En bon vieux bidouilleur, je me demande si je peux le refaire avec les outils du bord.
 
-Je décide donc de sortir [Scriptable](http://scriptable.app) et Shortcuts. Je commence à bidouiller et très vite j'ai un truc qui me plait assez.
+Je décide donc de sortir [Scriptable](https://scriptable.app) et Shortcuts. Je commence à bidouiller et très vite j'ai un truc qui me plait assez.
 
 Je vous présente donc mon iPhone minimal.
 

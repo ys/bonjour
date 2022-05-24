@@ -12,7 +12,7 @@ canonifyURLs = false
   writeStats = true
 [params]
   footer = "👋 Yannick - Have fun."
-  text_404 = "Perdu? Cliquez sur la vague"
+  text_404 = "Perdu?"
   mainSections = [ "posts", "photos" ]
   showFooter = ["posts", "photos"]
   sizes = [ "2048" , "1024" , "512" ]

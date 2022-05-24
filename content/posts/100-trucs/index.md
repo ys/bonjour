@@ -14,7 +14,7 @@ slug: "100-trucs"
 
 {{< photo src="cover" alt="coffee" >}}
 
-1. J'ai envoyé [une photo par semaine](https://yannickschutz.com/detail) pendant plus de 3 mois.
+1. J'ai envoyé [une photo par semaine](https://yannickschutz.com/details) pendant plus de 3 mois.
 2. J'ai vendu [ma première photo imprimée](https://yannickschutz.com/shop/sunrise-i) et l'ai vue au mur chez des gens <3
 3. J'ai survécu à la bureaucratie des banques et assurances pour [notre futur gîte](https://douarenn.fr)
 4. On a rencontré des superbes personnes autour de ce projet.
@@ -47,7 +47,7 @@ slug: "100-trucs"
 31. J'ai lu sans alcool de Claire Touzard
 32. J'ai lu Encabanée de Gabrielle Filteau-Chiba
 33. J'ai lu Ce sentiment océanique de Fiona Capp
-34. J'ai remplis 4 carnets de chez [Monsieur papier](http://monsieurpapier.fr)
+34. J'ai remplis 4 carnets de chez [Monsieur papier](https://monsieurpapier.fr)
 35. Cloé m'a offert un super carnet de voyage de chez [Paper Republic](https://paper-republic.fr). Cette couverture en cuir est trop belle
 36. J'ai acheté [trop de livres photos](https://yannickschutz.com/on-paper) et j'ai bavé sur les images
 37. Vous avez lu [20 petites lettres](https://yannickschutz.com/bonjour) sur l'année. On est presque aux une toutes les deux semaines de prévues
