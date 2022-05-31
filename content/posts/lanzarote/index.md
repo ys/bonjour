@@ -41,3 +41,7 @@ Nous sommes partis, en février, jusque Lanzarote. À seulement quelques heures 
 → El Golfo, les salines, les plages de sable noir
 
 Ses vignobles et vignes si particuliers raviront vos papilles. Un vrai dépaysement parfait au plein milieu de l'hiver. On a ressorti les shorts et profité un peu. Faire le plein de vitamine D pour finir l'hiver tranquille.
+
+Sources: 
+- https://liliinwonderland.fr/voyage-lanzarote-que-voir-que-faire-sur-lile-aux-volcans/
+- 
