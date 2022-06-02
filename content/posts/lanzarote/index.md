@@ -36,7 +36,7 @@ J'adore ces petites maisons blanches. Ces maisons sont d'ailleurs super typiques
 
 {{< grid images="22x07-0211-11 | 11-24 / 11-18/  22x07-0211-02 | 11-06 | 13-07 / 11-07" alt="lanzarote" >}}
 
-On fait de la piste pour aller sur des plages folles au sud. Ces plages sont tellement proches de grosses stations balnéaires. Cela me fait bizarre. Mais j'arrive à accélérer assez pour ne plus vibrer. Merci Grégory pour l'astuce. Je me sens comme Colin McRae. Cette poussière sur la carrosserie, ces plages, ces vues se méritent.
+On fait de la piste pour aller sur des longues plages de sable blanc au sud. On semble seuls au monde. En fait, elles sont tellement proches des grosses stations balnéaires de l'île. Cela me fait bizarre. Mais j'arrive à accélérer assez pour ne plus vibrer. Merci [Grégory](https://gregorymignard.com/lanzarote/) pour l'astuce. Je me sens comme Colin McRae. Cette poussière sur la carrosserie, ces plages, ces vues se méritent.
 
 On se perd dans les petites routes qui serpentent, on fait gaffe aux cyclistes. On voit une ferme d'Aloe Vera, la plus grande d'Europe. On s'arrête. La typo Jurassic Park me fait rire. On fera aussi le jardin de Cactus et wow je ne m'attendais pas à en voir autant. On va voir aussi les vignes, case typique de cette île que l'on se doit de cocher. On évite les gros vignobles et on finit dans un tout petit truc. On goute, on aime, on rentrera avec une bouteille à offrir. 
 
