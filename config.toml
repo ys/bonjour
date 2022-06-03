@@ -93,6 +93,7 @@ canonifyURLs = false
 [imaging]
   resampleFilter = "lanczos"
   anchor = "center"
+  quality = 85
 
 
 [taxonomies]
