@@ -17,7 +17,7 @@
     {{ $smallr = printf "x800 %s" $format }}
   {{ end }}
   {{ if .Get "wide" }}
-    {{ $smallr = printf "1200x %s" $format"
+    {{ $smallr = printf "1200x %s" $format }}
   {{ end }}
   {{ $lqip := $src.Resize $lqipr }}
   {{ $small := $src.Resize $smallr}}
