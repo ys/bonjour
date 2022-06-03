@@ -16,6 +16,8 @@ tags:
 summary: "Une semaine pour faire le plein de vitamine D au large du Maroc. Lanzarote, un dépaysement qui nous plaît bien."
 resources:
   - src: "*.webp"
+  - name: "cover"
+    src: "22x04-0114-31.webp"
 ---
 
 **Cela fait deja trois mois. Le boost de vitamine D est remplacé par le soleil de Bretagne. Mais que me reste-t-il de ces beaux moments sous le soleil des Canaries? Un paquet de beaux souvenirs, des photos et une envie de revoir cette île!**
