@@ -15,30 +15,31 @@ menu:
 linktitle: un rien sur moi
 ---
 
-Moi, c'est Yannick.  
-J'aime assez notre planète.  
-J'aime beaucoup raconter des histoires et prendre des photos.  
+Moi, c'est Yannick. J'aime assez notre planète. J'aime beaucoup raconter des histoires et capturer des instants.  
+J'aime beaucoup ralentir. Je suis un minimaliste atteint de collectionite aïgue en plein repentir. Je vis au rythme des saisons dans ce magnifique bout du monde qu'est le Finistère.
 
 {{< photo src="cover" alt="yannick" >}}
 
-Cela fait maintenant quelques années que je suis dans le Finistère. Un breton d'adoption.  
-Je suis amoureux de l'océan et de la nature. Ces derniers temps, je ne fais plus que de la photo argentique.  
-Je charge principalement de la Kodak Portra 400 dans mes appareils. J'aime de plus en plus la Kodak Tri-X 400. J'ai eu beaucoup de plaisir sur quelques rolls.
+On est en train de monter un super projet de gîte avec Cloé. Tu devrai suivre [@douarenn](https://instagram.com/douarenn) ou aller voir [douarenn.fr](https://douarenn.fr). C'est orchestré par Cloé. Je ne fais que l'aider le plus que je peux. Mais cela va être d'enfer!
+
+
+J'ai arreté plus ou moins la photo numérique. Je ne fais quasi que de l'argentique. C'est un vrai plaisir de prendre le temps et de devoir attendre ses photos. Je shoote beaucoup de Portra 400 de chez Kodak. Mais comme pour le café, j'aime essayer plein de pellicules différentes.
 
 Mon matos actuel:
-- [Olympus XA](/olympus-xa)
+- Mon second [Olympus XA](/olympus-xa)
 - [Leica M6](/leica-m6) avec un Voigtlander Nokton Classic 35mm 1.4
 - [Nikonos V](/nikonos-v) avec son 35mm
 
-J'ai commencé à faire de la [photo dans l'eau](/nikonos-glaz) armé de palmes et du Nikonos. C'est une petite drogue cette eau salée. 
-J'ai craqué pour un longboard avec un pintail shapé par [Mimosa](https://www.mimosa-surfboards.com). Je l'ai racheté à [Hugo Crescent](https://www.instagram.com/hugo_crescent/). Un beau pig de 9'6", la board pas Hugo. Ça ne fait pas de moi autre chose qu'un kook.
-
-J'écris [une petite lettre](/bonjour) sur tout et rien *environ* toutes les deux semaines. Cela me permet d'écrire de manière régulière. C'est un vrai petit plaisir! Je n'ai pas beaucoup de lecteurs mais ils me répondent. Donc en gros, cela me rend heureux.
-
-{}
-
 J'ai abandonné l'idée de scanner à la maison car au final, j'ai une super relation avec mon labo. C'est encore mieux.
-N'ayant pas eu ma dose de boissons lactées depuis un moment, on a sauté le pas pour une machine à espressos semi automatisée.
+
+J'ai commencé à faire de la [photo dans l'eau](/nikonos-glaz) armé de palmes et du Nikonos. C'est une petite drogue cette eau salée. J'ai craqué pour un longboard avec un pintail shapé par [Mimosa](https://www.mimosa-surfboards.com). Je l'ai racheté à [Hugo Crescent](https://www.instagram.com/hugo_crescent/). Un beau pig de 9'6", la board pas Hugo. Ça ne fait pas de moi autre chose qu'un kook.
+
+{{< photo src="now2" alt="mes pieds" caption="Mes pieds par Grégory Mignard">}}
+
+J'écris [une petite lettre](/bonjour) sur tout et rien *environ* toutes les deux semaines. Cela me permet d'écrire de manière régulière. C'est un vrai petit plaisir! Je n'ai pas beaucoup de lecteurs mais ils me répondent. Donc en gros, cela me rend heureux. J'ai un peu perdu la régularité, mais ça reviendra.
+
+
+J'ai un gros faible pour le bon café. V60, Kalita, Aeropress ou un bon flat white. Je suis souvent partant. Même si mon corps me dit de ralentir. N'ayant pas eu ma dose de boissons lactées depuis un moment, on a sauté le pas pour une machine à espressos semi automatique. Je ne suis toujours pas bon en latter art.
 
 ## Favoris
 
