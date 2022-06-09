@@ -16,7 +16,7 @@ linktitle: un rien sur moi
 ---
 
 Moi, c'est Yannick. J'aime assez notre planète. J'aime beaucoup raconter des histoires et capturer des instants.  
-J'aime beaucoup ralentir. Je suis un minimaliste atteint de collectionite aïgue en plein repentir. Je vis au rythme des saisons dans ce magnifique bout du monde qu'est le Finistère.
+Je suis un minimaliste atteint de collectionite aïgue en plein repentir. J'essaye de vivre lentement, au rythme des saisons dans ce magnifique bout du monde qu'est le Finistère.
 
 {{< photo src="cover" alt="yannick" >}}
 
