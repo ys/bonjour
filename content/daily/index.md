@@ -6,5 +6,8 @@ menu:
   main:
     weight: 1
 linktitle: "du quotidien"
+resources:
+- src: "cover.png"
+  name: "cover"
 ---
 
