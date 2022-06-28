@@ -13,14 +13,19 @@
 {{ end }}
 {{ $rows := dict }}
 {{ $columns := dict }}
-{{ $count := 4 }}
+{{ $rowid := 0 }}
+{{ $colid := 0 }}
+{{ $possibilities := slice 1 1  2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 }}
+{{ $itemsonrow := index (shuffle $possibilities) 0 }}
 {{ range $index, $img := $allimages }}
-  {{ $columns = merge $columns (dict (string (mod $index $count)) (dict "Images" (slice $img)))}}
-  {{ if eq (mod $index $count) (sub $count 1) }}
-    {{ $rows = merge $rows (dict (string (div $index $count)) $columns) }}
-  {{ end }}
-  {{ if eq (mod $index $count) 0 }}
-    {{ $columns := dict }}
+  {{ $columns = merge $columns (dict (string (mod $index $itemsonrow)) (dict "Images" (slice $img)))}}
+  {{ $colid = add $colid 1 }}
+  {{ if eq $colid $itemsonrow }}
+    {{ $rows = merge $rows (dict (string $rowid) $columns) }}
+    {{ $itemsonrow = index (shuffle $possibilities) 0 }}
+    {{ $columns = dict }}
+    {{ $rowid = add $rowid 1 }}
+    {{ $colid = 0 }}
   {{ end }}
 {{ end }}
   <div data-pswp class="w-full px-6">
