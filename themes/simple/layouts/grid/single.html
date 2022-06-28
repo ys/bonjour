@@ -13,15 +13,22 @@
 {{ end }}
 {{ $rows := dict }}
 {{ $columns := dict }}
+{{ $rowid := 0 }}
+{{ $colid := 0 }}
+{{ $possibilities := slice 1 1  2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 }}
+{{ $itemsonrow := index (shuffle $possibilities) 0 }}
 {{ range $index, $img := $allimages }}
-  {{ $columns = merge $columns (dict (string (mod $index 3)) (dict "Images" (slice $img)))}}
-  {{ if eq (mod $index 3) 2 }}
-    {{ $rows = merge $rows (dict (string (div $index 3)) $columns) }}
-  {{ end }}
-  {{ if eq (mod $index 3) 0 }}
-    {{ $columns := dict }}
+  {{ $columns = merge $columns (dict (string (mod $index $itemsonrow)) (dict "Images" (slice $img)))}}
+  {{ $colid = add $colid 1 }}
+  {{ if eq $colid $itemsonrow }}
+    {{ $rows = merge $rows (dict (string $rowid) $columns) }}
+    {{ $itemsonrow = index (shuffle $possibilities) 0 }}
+    {{ $columns = dict }}
+    {{ $rowid = add $rowid 1 }}
+    {{ $colid = 0 }}
   {{ end }}
 {{ end }}
+{{ $rows }}
   <div data-pswp class="w-full px-6">
     {{ partial "grid" $rows }}
   </div>
