@@ -10,8 +10,8 @@ tags:
   - Point and shoot
 resources:
   - src: "*.webp"
-  - src: "*.jpg"
-  - src: "22x30-0505-07.jpg"
+  - src: "*.jpeg"
+  - src: "22x30-0505-07.jpeg"
     name: "cover"  
 summary: "4 potes, 4 vélos et beaucoup plus de kilomètres."
 ---
