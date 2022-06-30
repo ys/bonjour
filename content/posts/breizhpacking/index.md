@@ -2,7 +2,6 @@
 title: "Breizhpacking"
 date: 2022-06-20T12:00:00+0200
 subtitle: "4 potes, 4 vélos et beaucoup plus de kilomètres"
-color: "sunray"
 emoji: "🚲"
 tags:
   - velo
