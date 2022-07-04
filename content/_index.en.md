@@ -1,6 +1,8 @@
 ---
-title: "👋"
-description: "Some tiny stories, pictures, books and a cup of black coffee"
+title: "✌️ Bonjour Yannick"
+seotitle: "✌️ Bonjour Yannick - Stories and pictures"
+description: "Some stories, pictures, books and a cup of black coffee"
+summary: "Some stories, pictures, books and a cup of black coffee"
 date: 2017-10-26T22:57:50+02:00
 draft: false
 hideSubscribe: true
@@ -11,6 +13,6 @@ resources:
   name: "cover"
 ---
 
-Yannick enjoys [sharing stories](/en/posts), [capturing moments](/en/daily) and producing small sets of [his favorites pictures](/shop).
+Yannick enjoys [telling stories](/en/posts), [capturing moments](/en/daily) and producing [stuff printed on paper](/en/shop).
 
-{{< grid images=" 15 | 6 / 32 | 4 /  17 |  33 " >}}
+{{< grid images=" 15 | 6 / 32 |  33 " >}}

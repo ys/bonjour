@@ -1,12 +1,12 @@
 ---
-title: "Prints"
+title: "Nice things on paper"
 description: "Amazing pictures on gorgeous paper"
 grid: true
 emoji: "💸"
 menu:
   main:
     weight: 7
-linktitle: "a pretty little shop"
+linktitle: "a little shop"
 ---
 
-Prints on great paper and sometimes in a frame
+Beautiful prints on great paper, sometimes in a frame, sometimes in a zine.
