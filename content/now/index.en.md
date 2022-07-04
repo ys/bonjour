@@ -1,5 +1,5 @@
 ---
-title: "Maintenant"
+title: "Now"
 description: "What I do, what I care about and all and nothing"
 date: 2020-10-07T12:57:50+02:00
 draft: false
@@ -12,7 +12,7 @@ resources:
 menu:
   main:
     weight: 5
-linktitle: "A little about me"
+linktitle: "what I do"
 ---
 Hey folks, I am Yannick.
 I quite like our planet and I like telling stories and capturing some moments.
