@@ -15,31 +15,37 @@ menu:
 linktitle: "A little about me"
 ---
 Hey folks, I am Yannick.
+I quite like our planet and I like telling stories and capturing some moments.
+I am sort of a minimalist that loves to collect things. I try to live a slow life down here in Finistere.
 
-I like to tell stories and take pictures.
-I quite like our planet too and am kind of considering myself as a micro activist.
+{{< photo src="cover" alt="yannick" >}}
 
-I love the ocean and nature. Lately, I only do film photography. I have an iPhone 12 mini for all the rest. I mostly load Kodak Portra 400 but Kodak Tri-X 400 is kind of growing on me.
+We started a great project with Cloé, my wonderful wife. You should go check [@douarenn](https://instagram.com/douarenn) or just check [douarenn.fr](https://douarenn.fr). It is orchestrated by Cloé and I just do my best to help her as much as I can. It is gonna be dope.
+
+I am mostly shooting film lately. I love waiting for the rolls to come back from [my favorite lab](https://morifilmlab.com). I shoot a lot of Portra 400 but I enjoy other kind too. The current price of Portra might be part of this.
 
 Current gear:
 - [Olympus XA](/olympus-xa)
 - Leica M6 with a summarit 35mm
 - [Nikonos V](/nikonos-v) with a 35mm
 
-{{< photo src="cover" alt="yannick" >}}
+I stopped thinking about home scans thans to my great relationship with Mori.
 
-I started to take some [watershots](/en/nikonos-glaz) with the Nikonos. Salty water is a hell of a drug. I plan to have my own longboard also this year.
-I bought gear to scan negatives at home. I got a Fuji X-T30 just for that and I should write some words about that soon. I still prefer the simplicity of lab scans.
+I got my first longboard this year. a 9'6" pig shapped by [Mimosa](https://mimosa-surfboards.com). I got it from [Hugo Crescent](https://instagram.com/hugo_crescent). But I am still a kook. But at least a kook with a damn good looking board.
+
+{{< photo src="now2" alt="mes pieds" caption="Mes pieds par Grégory Mignard">}}
 
 I am writing a [small letter in french](/bonjour) about all and nothing every two weeks. It is quite delightful. It forces me to write on a regular basis. I don't have many readers but they respond to those letters. So that makes me happy.
 
-I keep getting in better shape to surf well. Sport becomes slowly an habit. After stopping sodas 5 years ago, I also had a few months without alcohol and it felt great. I might do it again.
+I love a good cup of coffee. Using v60, Kalita or aeropress. My heart says stop but I keep drinking it. We got an espresso machine cause it is hard to get a good flat white around here but my latte art sucks.
 
 ## Favorites
 
 📷 → Negatives get developed and scanned mostly by [Mori Film Lab](https://morifilmlab.com).
 
-☕️ → Most of my coffee beans comes from [Mok Coffee](https://mokcoffee.be). But I still like to try new roasters
+☕️ → Most of my coffee beans comes from [Mok Coffee](https://mokcoffee.be) and [Terres de café](https://terresdecafe.com). But I still like to try new roasters
+
+🖨 → Prints come from [Ooblik](https://ooblik.com) & [Négatif+](https://negatifplus.com). I just printed [my first zine](/shop/a-thousand-tides) with [Ex Why Zed](https://exwhyzed.co.uk) but it is sold out right now.
 
 ## Colophon
 
@@ -49,4 +55,4 @@ Most of the content is copyrighted but open to discussion if you wanna re-use so
 
 **Contact:** [hello@yannickschutz.com](mailto://hello@yannickschutz.com)
 
-*This page has been updated on 2021.05.11. If you wanna read more about /now, [follow this](https://nownownow.com/about).*
+*This page has been updated on 2021.07.04. If you wanna read more about /now, [follow this](https://nownownow.com/about).*
