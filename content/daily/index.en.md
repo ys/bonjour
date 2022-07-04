@@ -1,9 +1,9 @@
 ---
-title: "Everyday Moments"
-subtitle: "Some beautiful moments of my daily life"
+title: "Daily life"
+subtitle: "Some beautiful moments of my everyday life"
 type: grid
 menu:
   main:
     weight: 1
-linktitle: "Everyday moments"
+linktitle: "Daily life"
 ---
