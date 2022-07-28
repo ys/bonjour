@@ -92,7 +92,7 @@ canonifyURLs = false
   letters = "/:slug"
   photos = "/:slug"
   categories = "/c/:slug"
-  microposts = "/m/:year-:month-:day-:slug"
+  journal = "/journal/:year-:month-:day-:slug"
 
 [imaging]
   resampleFilter = "lanczos"
