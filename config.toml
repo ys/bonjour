@@ -29,11 +29,15 @@ canonifyURLs = false
   title = "💌 Ma petite lettre"
   message = "Si tu aimes ce que tu as lu, j'envoie une petite lettre sur tout et rien toutes les deux semaines."
 
+[params.indiekit]
+  url = "https://bonjour-indie.herokuapp.com"
+
 [params.social]
   email = "hello@yannickschutz.com"
   domain = "yannickschutz.com"
   instagram = "bonjouryannick"
   twitter = "bonjouryannick"
+  github = "ys"
 
 [privacy]
   [privacy.disqus]
