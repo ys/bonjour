@@ -2,8 +2,11 @@
 <html lang="{{ .Lang }}">
 
 <head>
+  {{ with .OutputFormats.Get "rss" }}
+    <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .RelPermalink | safeURL }}" title="{{ $.Site.Title }}" />
+  {{ end -}}
   {{ with .OutputFormats.Get "jsonfeed" }}
-  <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .RelPermalink | safeURL }}" title="{{ $.Site.Title }}" />
+    <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .RelPermalink | safeURL }}" title="{{ $.Site.Title }}" />
   {{ end -}}
   {{ partial "opengraph.html" . }}
   {{ template "_internal/twitter_cards.html" . }}
