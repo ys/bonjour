@@ -1,0 +1,5 @@
+---
+archived: true
+resources:
+ - src: "*"
+---

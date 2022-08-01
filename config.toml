@@ -7,7 +7,8 @@ timeout = 200000
 enableRobotsTXT = true
 canonifyURLs = false
 #disableKinds = ["taxonomyTerm"]
-
+[security.exec]
+  osEnv = [ '(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$', '^ASDF_DIR$', '^HOME$']
 [build]
   writeStats = true
 [params]
@@ -92,7 +93,7 @@ canonifyURLs = false
   letters = "/:slug"
   photos = "/:slug"
   categories = "/c/:slug"
-  journal = "/journal/:year-:month-:day-:slug"
+  journal = "/journal/:filename"
 
 [imaging]
   resampleFilter = "lanczos"
