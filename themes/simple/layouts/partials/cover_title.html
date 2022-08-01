@@ -4,8 +4,8 @@
   {{ $src := cond (ne $src nil) $src ($images.GetMatch "{*cover*,*thumbnail*}") }}
   {{ $src := cond (ne $src nil) $src (index $images 0) }}
 
-  <article class="flex flex-col">
-    <a href="{{ .RelPermalink }}">
+  <article class="h-entry flex flex-col">
+    <a href="{{ .RelPermalink }}" class="u-url">
       {{ if $src }}
         {{ $lqipw := default "30x20" }}
         {{ $largew := default "600x400" }}
@@ -18,7 +18,7 @@
         <picture
           class="block relative aspect-w-3 aspect-h-2 rounded-sm shadow-lg"
           style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover">
-          <img loading="lazy" class="m-0 h-auto rounded-sm w-full lazyload" alt="cover {{ .Title}}" data-action="zoom"
+          <img loading="lazy" class="u-photo m-0 h-auto rounded-sm w-full lazyload" alt="cover {{ .Title}}" data-action="zoom"
             data-zoom-src="{{ $large.RelPermalink}}"
              src="{{ $large.RelPermalink }}" width="{{ $large.Width }}" height="{{ $large.Height }}">
         </picture>
@@ -27,11 +27,11 @@
       {{ end }}
     <header class="mt-2 ml-2 ">
       <h2 class="text-normal font-bold text-darker  {{ with .Params.Color }}hover:text-{{ . }}-600 {{ else }}hover:text-accent-600{{ end }} transition ease-in-out duration-200">
-        <a href="{{ .RelPermalink }}">
+        <a class="p-name u-url" href="{{ .RelPermalink }}">
           {{ .Params.emoji }} {{ .Title }}
         </a>
       </h2>
-      <h3 class="line-clamp-3 text-xs font-sans text-gray-700 ">
+      <h3 class="p-summary line-clamp-3 text-xs font-sans text-gray-700 ">
         {{ with .Params.subtitle }}
         {{ . }}
         {{ else }}
