@@ -38,8 +38,8 @@
         {{ .Summary | truncate 300 }}
         {{ end }}
       </h3>
-      <time class="dt-published hidden" datetime="{{ .date.format "2006-01-02t15:04:05z0700" }}">
-        {{ .date.day }} {{ index .site.data.mois (printf "%d" .date.month) }} {{ .date.year }}
+      <time class="dt-published hidden" datetime="{{ .Date.Format "2006-01-02t15:04:05z0700" }}">
+        {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
       </time>
     </header>
     </a>
