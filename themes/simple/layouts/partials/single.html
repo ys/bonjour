@@ -1,9 +1,11 @@
+<article class="h-entry">
 {{ partial "article_header" . }}
 <div data-pswp class="mb-10 content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
-  <div class="prose ">
+  <div class="prose e-content">
     {{.Content}}
   </div>
   {{ if (in .Site.Params.showFooter .Type) }}
     {{ partial "article_footer" . }}
   {{ end }}
 </div>
+</article>
