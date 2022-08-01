@@ -1,5 +1,7 @@
 <span class="py-8 text-sm  text-right  text-gray-700  block">
   <a href="{{ .RelPermalink }}">
-    {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+    <time class="dt-published" datetime="{{ .date.format "2006-01-02t15:04:05z0700" }}">
+      { index .site.data.mois (printf "%d" .date.month) }} {{ .date.year }}
+    </time>
   </a>
 </span>
