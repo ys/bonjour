@@ -1,0 +1,242 @@
+#!/usr/bin/env ruby
+require "rubygems"
+require "bundler/setup"
+Bundler.require(:default)
+require "securerandom"
+require "yaml"
+require "active_support/all"
+require "dry/cli"
+
+class Link
+  attr_accessor :url, :tags, :uuid, :image, :description, :title, :created_at, :category, :notes
+
+  def self.from_url(url, category = "article", tags = [], notes = "")
+    link = new(url)
+    if tags.is_a?(String)
+      tags = tags.split(",")
+    end
+    link.tags = link.tags + tags
+    link.category = category
+    link.notes = notes
+    link
+  end
+
+  def initialize(url)
+    @url = url
+    @tags = []
+    @category = "article"
+    @created_at = Time.now
+    @uuid = SecureRandom.uuid
+  end
+
+  def build
+    preview = Preview.new(url)
+    preview.fetch
+    @title = preview.title
+    @image = preview.image
+    @description = preview.description
+    @tags += preview.tags
+    true
+  end
+
+
+  def save
+    download_image
+    file = "content/bookmarks/#{created_at.strftime('%Y-%m-%d-%H-%M')}-#{title.parameterize}.md"
+    File.write(file, YAML.dump(to_h)+ "---\n# #{title}\n\n#{notes}")
+  end
+
+  def capture
+    path = "content/bookmarks/images/#{uuid}.png"
+    Gastly.capture(url, path)
+  rescue StandardError => e
+    puts "Error Capture: #{e}"
+  end
+
+  def download_image
+    unless image
+      capture
+      puts "Capture: #{image}"
+      return
+    end
+    ext = image.match?(/png/) ? "png" : "jpg"
+    path = "content/bookmakrs/images/#{uuid}.#{ext}"
+    `wget -O #{path} "#{image}"`
+  end
+
+  def to_h
+    {
+      "uuid" => uuid,
+      "bookmarkOf" => url,
+      "category" => category,
+      "headImage" => image,
+      "title" => title,
+      "description" => description,
+      "tags" => tags,
+      "date" => created_at
+    }
+  end
+end
+
+class LinkFile
+  attr_reader :data, :file, :content
+  YAML_FRONT_MATTER_REGEXP = /\A(---\s*\n.*?\n?)^((---|\.\.\.)\s*$\n?)/m
+
+  def initialize(file)
+    @file = file
+    file_content = File.read(file)
+    file_content =~ YAML_FRONT_MATTER_REGEXP
+    @data, @content = YAML.load($1), Regexp.last_match.post_match
+    ensure_uuid
+  end
+
+  def ensure_uuid
+    data["uuid"] ||= SecureRandom.uuid
+  end
+
+  def uuid
+    data["uuid"]
+  end
+
+  def save
+    write
+  end
+
+  def save_data
+    puts "mercury-parser --format=markdown #{data['link']} > data/links/#{data['uuid']}.json"
+    `mercury-parser --format markdown "#{data['link']}" > data/links/#{data['uuid']}.json`
+  end
+
+  def capture
+    path = "content/bookmarks/images/#{uuid}.png"
+    Gastly.capture(data["link"], path)
+  rescue StandardError
+    puts "Error Capture: #{file}"
+  end
+
+  def download_image
+    unless data["headImage"]
+      update_head_image
+    end
+    if some_image?
+      puts "Skip: #{file}"
+      return
+    end
+    unless data["headImage"]
+      capture
+      puts "Capture: #{file}"
+      return
+    end
+    ext = data["headImage"].match?(/png/) ? "png" : "jpg"
+    path = "content/bookmarks/images/#{uuid}.#{ext}"
+    `wget -O #{path} "#{data['headImage']}"`
+  end
+
+  def some_image?
+    path = "content/bookmarks/images/#{uuid}"
+    File.exist?(path + ".png") ||
+    File.exist?(path + ".jpg") ||
+    File.exist?(path + ".jpeg")
+  end
+
+  def data_file
+    "data/links/#{uuid}.yml"
+  end
+
+  def update_head_image
+    return unless head_image
+    data["headImage"] = head_image
+    puts "#{file} -> #{head_image}"
+    write
+  end
+
+  def head_image
+    @head_image ||= Preview.new(data["link"]).image
+  end
+
+  def write
+    File.write(file, YAML.dump(data)+ "---\n\n" + content)
+  end
+end
+
+class Preview
+  class NoWebPage < StandardError; end
+  attr_reader :web_content
+
+  def initialize(url)
+    @url = url
+  end
+
+  def fetch
+    @web_content = get_web_content
+    raise NoWebPage unless web_content
+    true
+  end
+
+  def image
+    meta_from_property("og:image") || meta_from_property("twitter:image")
+  end
+
+  def description
+    meta_from_name("description") ||
+      meta_from_property("og:description")
+  end
+
+  def title
+    meta_from_name("title") ||
+      meta_from_property("og:title") ||
+      web_content.at("title")&.text
+  end
+
+  def tags
+    (meta_from_name("keywords") || "").split(",")
+  end
+
+  def meta_from_name(name)
+    return unless web_content.at("meta[name='#{name}']")
+    web_content.at("meta[name='#{name}']")["content"]
+  end
+
+  def meta_from_property(property)
+    return unless web_content.at("meta[property='#{property}']")
+    web_content.at("meta[property='#{property}']")["content"]
+  end
+
+  def get_web_content
+    Nokogiri::HTML(RestClient.get(@url))
+  rescue StandardError => e
+    puts e
+    nil
+  end
+end
+
+module CLI
+  extend Dry::CLI::Registry
+  class Sync < Dry::CLI::Command
+    desc "Sync all pictures"
+
+    def call(*)
+      Dir.glob("content/links/*.md").map { |f| l = LinkFile.new(f); l.save_data; l.download_image}
+    end
+  end
+
+  class Create < Dry::CLI::Command
+    desc "Create new link"
+
+    argument :url, category: :string, required: true,  desc: "the link"
+    option :tags, category: :array, default: [], desc: "tags"
+    option :category, category: :string, default: "article", desc: "category"
+    option :notes, category: :string, default: "", desc: "notes"
+
+    def call(url:,tags:, category:, notes:, **options)
+      l = Link.from_url(url, category, tags, notes)
+      l.build
+      l.save
+    end
+  end
+
+  register "sync", Sync
+  register "create", Create
+end
+
+Dry::CLI.new(CLI).call
