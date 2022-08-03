@@ -60,7 +60,7 @@ class Link
       return
     end
     ext = image.match?(/png/) ? "png" : "jpg"
-    path = "content/bookmakrs/images/#{uuid}.#{ext}"
+    path = "content/bookmarks/images/#{uuid}.#{ext}"
     `wget -O #{path} "#{image}"`
   end
 
@@ -214,9 +214,16 @@ module CLI
   extend Dry::CLI::Registry
   class Sync < Dry::CLI::Command
     desc "Sync all pictures"
+    argument :file
 
-    def call(*)
-      Dir.glob("content/bookmarks/*.md").map { |f| l = LinkFile.new(f); l.save_data; l.download_image}
+    def call(file: nil, **options)
+      if file
+        l = LinkFile.new(file)
+        l.save_data
+        l.download_image
+      else
+        Dir.glob("content/bookmarks/*.md").map { |f| l = LinkFile.new(f); l.save_data; l.download_image}
+      end
     end
   end
 

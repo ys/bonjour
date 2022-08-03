@@ -23,18 +23,14 @@ GEM
       mime-types-data (~> 3.2015)
     mime-types-data (3.2021.0901)
     mini_magick (4.11.0)
+    mini_portile2 (2.6.1)
     minitest (5.14.4)
     netrc (0.11.0)
-    nokogiri (1.12.5-arm64-darwin)
-      racc (~> 1.4)
-    nokogiri (1.12.5-x86_64-darwin)
-      racc (~> 1.4)
-    nokogiri (1.12.5-x86_64-linux)
+    nokogiri (1.12.5)
+      mini_portile2 (~> 2.6.1)
       racc (~> 1.4)
     phantomjs (2.1.1.0)
     pp (0.1.0)
-      prettyprint
-    prettyprint (0.1.0)
     racc (1.6.0)
     rest-client (2.1.0)
       http-accept (>= 1.7.0, < 2.0)
@@ -51,6 +47,7 @@ GEM
 PLATFORMS
   arm64-darwin-20
   x86_64-darwin-20
+  x86_64-darwin-21
   x86_64-linux
 
 DEPENDENCIES
@@ -63,7 +60,7 @@ DEPENDENCIES
   rest-client
 
 RUBY VERSION
-   ruby 3.0.2p107
+   ruby 3.1.2p20
 
 BUNDLED WITH
    2.2.26
