@@ -1,0 +1,58 @@
+name: Create Link
+on:
+  workflow_dispatch:
+    inputs:
+        url:
+          description: 'the url'
+          required: true
+        category:
+          description: 'the category of link'
+          required: false
+          type: choice
+          default: "article"
+          options:
+            - article
+            - video
+            - newsletter
+            - podcast
+            - portfolio
+            - other
+        tags:
+          description: 'tags'
+          required: false
+        notes:
+          description: "notes"
+          required: false
+          type: string
+jobs:
+  build:
+    name: create-link
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          # Not needed with a .ruby-version file
+          ruby-version: 3.0.2
+          # runs 'bundle install' and caches installed gems automatically
+          bundler-cache: true
+      - name: Run links
+        run: |
+          ./brain create --category=${{ github.event.inputs.category }} --notes="${{ github.event.inputs.notes }}" --tags=${{ github.event.inputs.tags }} ${{ github.event.inputs.url }}
+      - name: Commit files
+        id: commit
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "github-actions"
+          git add -A content/links
+          git commit -m "imported sync"
+          echo "::set-output name=push::true"
+        shell: bash
+      - name: Push changes
+        if: steps.commit.outputs.push == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+

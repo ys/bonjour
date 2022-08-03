@@ -1,0 +1,10 @@
+source "https://rubygems.org"
+ruby "3.0.2"
+
+gem "activesupport"
+gem "gastly"
+gem "nokogiri"
+gem "rest-client"
+gem "pp"
+gem "dry-cli"
+gem "phantomjs"
