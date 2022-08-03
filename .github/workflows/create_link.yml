@@ -46,7 +46,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "github-actions"
-          git add -A content/links
+          git add -A content/bookmarks
           git commit -m "imported sync"
           echo "::set-output name=push::true"
         shell: bash
