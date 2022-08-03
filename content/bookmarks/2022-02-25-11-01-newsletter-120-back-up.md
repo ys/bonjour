@@ -1,6 +1,6 @@
 ---
 uuid: 4a85dee1-a9e6-4ebe-b154-3cc8e8e1ffb3
-link: https://mailchi.mp/noahkalina/newsletter120?e=52209f9b66
+bookmarkOf: https://mailchi.mp/noahkalina/newsletter120?e=52209f9b66
 categories:
 - newsletter
 headImage:

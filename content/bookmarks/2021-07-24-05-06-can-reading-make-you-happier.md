@@ -1,7 +1,7 @@
 ---
 tags: reading, happiness
 source:
-link: https://www.newyorker.com/culture/cultural-comment/can-reading-make-you-happier
+bookmarkOf: https://www.newyorker.com/culture/cultural-comment/can-reading-make-you-happier
 title: Can Reading Make You Happier
 date: '2021-07-24T05:06:00+02:00'
 headImage: https://media.newyorker.com/photos/59097cc68b51cf59fc423f0c/16:9/w_1280,c_limit/Dovey-Can-Reading-Make-Us-Feel-Better.jpg

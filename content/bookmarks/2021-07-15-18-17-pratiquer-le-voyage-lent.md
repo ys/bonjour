@@ -1,7 +1,7 @@
 ---
 tags: dehors, ralentir
 source:
-link: https://beside.media/fr/ailleurs/pratiquer-le-voyage-lent/
+bookmarkOf: https://beside.media/fr/ailleurs/pratiquer-le-voyage-lent/
 title: Pratiquer le voyage lent
 date: '2021-07-15T18:17:00+02:00'
 headImage: https://content.beside.media/beside_/app/www/2021/06/BESIDE_voyage_lent_facebook.jpg

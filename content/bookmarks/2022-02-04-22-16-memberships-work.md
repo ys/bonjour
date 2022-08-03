@@ -1,6 +1,6 @@
 ---
 uuid: 54411d0f-5dce-49b1-82b5-599970a53ad4
-link: https://craigmod.com/essays/memberships_work/
+bookmarkOf: https://craigmod.com/essays/memberships_work/
 categories:
 - article
 headImage: https://craigmod.com/essays/images/memberships_work/2022cover4.jpg

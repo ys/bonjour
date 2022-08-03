@@ -1,7 +1,7 @@
 ---
 tags: coffee, beside
 source:
-link: https://beside.media/fr/atelier/consommer-notre-cafe-en-toute-conscience/
+bookmarkOf: https://beside.media/fr/atelier/consommer-notre-cafe-en-toute-conscience/
 title: Boire notre café en toute conscience avec Sébastien Blondeau, du balado Café
   Normal
 date: '2021-02-11T18:44:00+02:00'

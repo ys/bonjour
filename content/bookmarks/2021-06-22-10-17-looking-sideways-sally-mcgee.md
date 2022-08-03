@@ -3,7 +3,7 @@ tags: surf, curation
 categories:
 - podcast
 source:
-link: https://wearelookingsideways.com/podcasts/156-sally-mcgee
+bookmarkOf: https://wearelookingsideways.com/podcasts/156-sally-mcgee
 title: Looking Sideways - Sally McGee
 date: '2021-06-22T10:17:00+02:00'
 headImage: https://wearelookingsideways.com/wordpress/wp-content/uploads/2021/06/WhatsApp-Image-2021-06-06-at-23.24.29.jpeg

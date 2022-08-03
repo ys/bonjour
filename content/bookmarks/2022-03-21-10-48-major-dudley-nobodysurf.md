@@ -1,6 +1,6 @@
 ---
 uuid: 98649a47-dc0b-4857-9c27-8292a4939b20
-link: https://nobodysurf.com/major-dudley/
+bookmarkOf: https://nobodysurf.com/major-dudley/
 categories:
 - movide
 headImage: https://cdn.nobodysurf.com/video/thumb/ab7a2266333a5b5b3cf8533adc6a3090.png

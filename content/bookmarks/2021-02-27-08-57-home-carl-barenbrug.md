@@ -1,7 +1,7 @@
 ---
 tags: book, architecture
 source:
-link: https://cmhb.de/
+bookmarkOf: https://cmhb.de/
 title: Home – Carl Barenbrug
 date: '2021-02-27T08:57:00+02:00'
 headImage: https://cmhb.de/media/site/1f8a34a200-1608999078/cmhb-card.jpg

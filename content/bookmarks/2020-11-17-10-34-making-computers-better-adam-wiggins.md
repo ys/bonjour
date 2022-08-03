@@ -1,7 +1,7 @@
 ---
 tags: "\U0001F5A5"
 source:
-link: https://adamwiggins.com/making-computers-better/
+bookmarkOf: https://adamwiggins.com/making-computers-better/
 title: making computers better · Adam Wiggins
 date: '2020-11-17T10:34:00+02:00'
 headImage: https://adamwiggins.com/making-computers-better/mcb-unfurl.png

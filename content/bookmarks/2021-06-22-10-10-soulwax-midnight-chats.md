@@ -3,7 +3,7 @@ tags: soulwax, interview
 categories:
 - podcast
 source:
-link: https://www.loudandquiet.com/podcasts/soulwax-midnight-chats-episode-108/
+bookmarkOf: https://www.loudandquiet.com/podcasts/soulwax-midnight-chats-episode-108/
 title: Soulwax Midnight Chats
 date: '2021-06-22T10:10:00+02:00'
 headImage: https://www.loudandquiet.com/files/2021/06/soulwax-podcast-art.jpg

@@ -1,6 +1,6 @@
 ---
 uuid: f95dc1b2-2a35-4709-933b-4dcf42ebef4c
-link: https://betterprogramming.pub/you-will-always-have-more-problems-than-engineers-aafff94a4623
+bookmarkOf: https://betterprogramming.pub/you-will-always-have-more-problems-than-engineers-aafff94a4623
 category: article
 headImage: https://miro.medium.com/max/1200/1*DhPQsNoAw2GDlKbdpaJCBA.jpeg
 title: You will always have more Problems than Engineers. | by Matt Schellhas | Jul,

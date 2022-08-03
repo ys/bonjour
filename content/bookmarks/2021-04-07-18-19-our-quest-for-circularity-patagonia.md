@@ -1,7 +1,7 @@
 ---
 tags: ecology, sustainability
 source:
-link: https://www.patagonia.com/stories/our-quest-for-circularity/story-96496.html
+bookmarkOf: https://www.patagonia.com/stories/our-quest-for-circularity/story-96496.html
 title: Our Quest for Circularity - Patagonia
 date: '2021-04-07T18:19:00+02:00'
 headImage: https://www.patagonia.com/blog/wp-content/uploads/2021/03/hedden_d_0110_cc_web-2250x1266-1.jpg

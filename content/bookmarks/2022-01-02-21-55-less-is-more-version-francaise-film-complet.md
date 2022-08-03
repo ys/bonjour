@@ -1,6 +1,6 @@
 ---
 uuid: 971ff5e0-b61d-40e1-b295-c441040ee6ca
-link: https://www.youtube.com/watch?v=u70ibusP7HM
+bookmarkOf: https://www.youtube.com/watch?v=u70ibusP7HM
 categories:
 - video
 headImage: https://i.ytimg.com/vi/u70ibusP7HM/maxresdefault.jpg

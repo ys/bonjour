@@ -1,6 +1,6 @@
 ---
 uuid: acac4938-9a5d-4f63-81ad-929ee169faf9
-link: https://errr-magazine.com/daydream/
+bookmarkOf: https://errr-magazine.com/daydream/
 categories:
 - article
 headImage:

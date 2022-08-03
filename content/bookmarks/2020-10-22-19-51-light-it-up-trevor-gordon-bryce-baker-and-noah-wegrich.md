@@ -1,7 +1,7 @@
 ---
 tags: video, surf
 source:
-link: https://www.youtube.com/watch?feature=youtu.be&v=guhxz3k6tIo&app=desktop
+bookmarkOf: https://www.youtube.com/watch?feature=youtu.be&v=guhxz3k6tIo&app=desktop
 title: Light It Up | Trevor Gordon, Bryce Baker, and Noah Wegrich
 date: '2020-10-22T19:51:00+02:00'
 headImage: https://i.ytimg.com/vi/guhxz3k6tIo/maxresdefault.jpg

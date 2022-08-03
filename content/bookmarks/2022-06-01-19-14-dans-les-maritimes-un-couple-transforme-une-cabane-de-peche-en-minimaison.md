@@ -1,6 +1,6 @@
 ---
 uuid: fe326c12-8439-4d75-afc2-e4c2db316551
-link: https://beside.media/fr/village/cabane-de-peche-minimaison/
+bookmarkOf: https://beside.media/fr/village/cabane-de-peche-minimaison/
 categories:
 - article
 headImage: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2021/05/BESIDE_Village_Cabine_header.jpg

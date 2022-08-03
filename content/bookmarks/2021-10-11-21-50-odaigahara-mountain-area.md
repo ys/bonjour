@@ -2,7 +2,7 @@
 categories:
 - newsletter
 tags: craigmod, walking, pictures, japan
-link: https://craigmod.com/ridgeline/129/
+bookmarkOf: https://craigmod.com/ridgeline/129/
 title: Ōdaigahara Mountain Area
 date: '2021-10-11T21:50:00+02:00'
 headImage: https://craigmod.com/ridgeline/images/129/129.jpg

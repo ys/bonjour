@@ -1,6 +1,6 @@
 ---
 uuid: bd4dd057-4eef-4673-90e6-55b2c71836a9
-link: https://wearelookingsideways.com/podcasts/173-lyndsay-mclaren
+bookmarkOf: https://wearelookingsideways.com/podcasts/173-lyndsay-mclaren
 categories:
 - podcast
 headImage: https://wearelookingsideways.com/wordpress/wp-content/uploads/2022/01/39425303-4104-459B-AAE6-42B9E7702896-scaled.jpg

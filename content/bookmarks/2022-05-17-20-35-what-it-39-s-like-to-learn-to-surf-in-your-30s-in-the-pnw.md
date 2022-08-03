@@ -1,6 +1,6 @@
 ---
 uuid: 185bb434-7de4-4358-8fb9-27b742945049
-link: https://www.fieldmag.com/articles/pacific-northwest-surf-photography?mc_cid=69eb44bb09
+bookmarkOf: https://www.fieldmag.com/articles/pacific-northwest-surf-photography?mc_cid=69eb44bb09
 categories:
 - article
 headImage: http://images.ctfassets.net/r7p9m4b1iqbp/2nqp3msaenGMpmzPTRMWJY/50acf837ebff52cbaee82e3194a70894/Josh-Poehlein-PNW-Bad-Surfers-hero.jpg?w=1000

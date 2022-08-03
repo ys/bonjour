@@ -3,7 +3,7 @@ tags: walk, platform, creativity
 categories:
 - newsletter
 source:
-link: https://craigmod.com/ridgeline/116/
+bookmarkOf: https://craigmod.com/ridgeline/116/
 title: A Walk is a Platform for Creative Work
 date: '2021-04-20T18:39:00+02:00'
 headImage: https://craigmod.com/ridgeline/images/116/116.jpg

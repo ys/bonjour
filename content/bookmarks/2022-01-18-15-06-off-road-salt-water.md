@@ -1,6 +1,6 @@
 ---
 uuid: 7cda5594-f104-4cd1-8ac5-b9b17ac23c9f
-link: https://saltwater-magazine.com/articles/off-road
+bookmarkOf: https://saltwater-magazine.com/articles/off-road
 categories:
 - video
 headImage: http://static1.squarespace.com/static/564c5006e4b0fea2b35c1bbf/5733359af8508218bba2e860/61d5d024095a54324600b0bb/1641406760903/SW_ULTRARANGE_-52.jpg?format=1500w

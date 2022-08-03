@@ -1,6 +1,6 @@
 ---
 uuid: 8e730e51-a2e1-431b-9437-5951c2e70170
-link: https://www.flowjournal.org/2022/02/failure-in-skateboarding/
+bookmarkOf: https://www.flowjournal.org/2022/02/failure-in-skateboarding/
 categories:
 - article
 headImage:

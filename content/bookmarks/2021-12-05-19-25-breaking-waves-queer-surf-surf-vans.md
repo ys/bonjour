@@ -1,6 +1,6 @@
 ---
 uuid: 42f350bf-6117-462f-b425-5f193e611b8b
-link: https://m.youtube.com/watch?v=AfYWep_LmKM
+bookmarkOf: https://m.youtube.com/watch?v=AfYWep_LmKM
 categories:
 - video
 headImage: https://i.ytimg.com/vi/AfYWep_LmKM/maxresdefault.jpg

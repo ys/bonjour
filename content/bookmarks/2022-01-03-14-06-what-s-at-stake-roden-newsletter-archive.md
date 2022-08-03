@@ -1,6 +1,6 @@
 ---
 uuid: 954adfa2-7590-49fc-b3f3-ff91cee9afcc
-link: https://craigmod.com/roden/064/
+bookmarkOf: https://craigmod.com/roden/064/
 categories:
 - article
 headImage: https://craigmod.com/roden/img/064/064.jpg

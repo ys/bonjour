@@ -1,6 +1,6 @@
 ---
 uuid: e386e58a-c712-4fb8-a064-752c4a2460a4
-link: https://finisterre.com/blogs/broadcast/building-a-surfing-sisterhood
+bookmarkOf: https://finisterre.com/blogs/broadcast/building-a-surfing-sisterhood
 categories:
 - article
 date: 2021-11-17T22:29:08+00:00

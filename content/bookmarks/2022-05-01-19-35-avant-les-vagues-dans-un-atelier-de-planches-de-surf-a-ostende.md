@@ -1,6 +1,6 @@
 ---
 uuid: c35b5c98-94c9-4f9a-b284-75b37567bc32
-link: https://www.vice.com/fr/article/g5q943/atelier-de-planches-surf-ostende
+bookmarkOf: https://www.vice.com/fr/article/g5q943/atelier-de-planches-surf-ostende
 categories:
 - article
 headImage: https://video-images.vice.com/articles/625594f41f031e00948ed1c6/lede/1649776758622-dsc07923.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDExeGg7MHh3LDAuMTE5eGgmcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq

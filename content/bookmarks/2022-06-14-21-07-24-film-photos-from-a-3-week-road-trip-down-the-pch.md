@@ -1,6 +1,6 @@
 ---
 uuid: 6c9ceb9c-ee31-4623-b306-258486028ed9
-link: https://www.fieldmag.com/articles/vanlife-pch-road-trip-film
+bookmarkOf: https://www.fieldmag.com/articles/vanlife-pch-road-trip-film
 categories:
 - article
 headImage: http://images.ctfassets.net/r7p9m4b1iqbp/6c0S8P9avuyQMMU8GMIUsQ/3080d22133aafeef219dadcb948d59a7/Noah-PCH-roadtrip-10.jpg?w=1000

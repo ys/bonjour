@@ -2,7 +2,7 @@
 tags: photography, print, howto
 categories:
 - video
-link: https://m.youtube.com/watch?v=qKGGHunk7xc
+bookmarkOf: https://m.youtube.com/watch?v=qKGGHunk7xc
 title: Gagner de l'argent avec ses photos - YouTube
 date: '2021-10-14T13:20:00+02:00'
 headImage: https://i.ytimg.com/vi/qKGGHunk7xc/maxresdefault.jpg

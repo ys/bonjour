@@ -1,6 +1,6 @@
 ---
 uuid: 3b7644b3-293c-4a6f-a57c-2a9f5ef8b353
-link: https://www.youtube.com/watch?v=tRji-YzuM74
+bookmarkOf: https://www.youtube.com/watch?v=tRji-YzuM74
 categories:
 - video
 headImage: https://i.ytimg.com/vi/tRji-YzuM74/maxresdefault.jpg

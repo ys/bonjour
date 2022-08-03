@@ -2,7 +2,7 @@
 categories:
 - video
 tags: surf, lost atlantic
-link: https://www.monsterchildren.com/torren-and-ishka-talk-lost-track-atlantic/
+bookmarkOf: https://www.monsterchildren.com/torren-and-ishka-talk-lost-track-atlantic/
 title: Torren and Ishka Talk 'Lost Track Atlantic'
 date: '2021-10-04T22:00:00+02:00'
 headImage: https://www.monsterchildren.com/wp-content/uploads/2021/10/thumb-lost-track-monster-children.jpg

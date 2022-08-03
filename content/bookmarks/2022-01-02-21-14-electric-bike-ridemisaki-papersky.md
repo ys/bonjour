@@ -1,6 +1,6 @@
 ---
 uuid: 7f638a17-ae24-4b6d-ba7e-205f43a11bfa
-link: https://papersky.jp/en/electric-ride-misaki/
+bookmarkOf: https://papersky.jp/en/electric-ride-misaki/
 categories:
 - article
 headImage: https://papersky.jp/wp-content/uploads/2021/10/wt-cmod-papersky-5-scaled.jpg

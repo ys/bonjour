@@ -1,7 +1,7 @@
 ---
 tags: dehors, ecologie, simplicité
 source:
-link: https://www.plough.com/en/topics/justice/environment/not-so-simple
+bookmarkOf: https://www.plough.com/en/topics/justice/environment/not-so-simple
 title: Not So Simple -Notes from a Tech-Free Life
 date: '2021-07-08T15:22:00+02:00'
 headImage: https://www.plough.com/-/media/images/plough/quarterly/2019/21summercapitalism/21boyle/q21boyle268social.jpg?la=en

@@ -1,6 +1,6 @@
 ---
 source:
-link: https://yannickschutz.com/surf-torche/
+bookmarkOf: https://yannickschutz.com/surf-torche/
 title: "\U0001F3C4‍♂️ Surf à la Torche - Bonjour Yannick"
 date: '2020-11-12T21:39:00+02:00'
 headImage: https://yannickschutz.com/surf-torche/02.jpg

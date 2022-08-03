@@ -1,6 +1,6 @@
 ---
 uuid: 6ee04c61-e104-420a-9889-e23fd01c66e0
-link: https://jeremyjanin.com/breizhpacking/
+bookmarkOf: https://jeremyjanin.com/breizhpacking/
 categories:
 - article
 headImage: https://jeremyjanin.com/breizhpacking/cover.jpg

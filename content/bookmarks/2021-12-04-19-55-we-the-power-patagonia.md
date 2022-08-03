@@ -1,6 +1,6 @@
 ---
 uuid: 23454beb-880e-48d8-a240-a686511bb7e2
-link: https://eu.patagonia.com/gb/en/wethepower/
+bookmarkOf: https://eu.patagonia.com/gb/en/wethepower/
 categories:
 - video
 headImage: https://eu.patagonia.com/on/demandware.static/-/Library-Sites-PatagoniaShared/default/dwfa956869/images/wethepower/rog_j_0019-hero.jpg

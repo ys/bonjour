@@ -1,6 +1,6 @@
 ---
 uuid: e994cd59-fb63-4193-9b02-7732e5e95f5e
-link: https://eu.patagonia.com/gb/en/wethepower/podcast/
+bookmarkOf: https://eu.patagonia.com/gb/en/wethepower/podcast/
 categories:
 - podcast
 headImage: https://eu.patagonia.com/on/demandware.static/-/Library-Sites-PatagoniaShared/default/dw081da075/images/wethepower/wethepower-lucy-siegle-hero-2.jpg

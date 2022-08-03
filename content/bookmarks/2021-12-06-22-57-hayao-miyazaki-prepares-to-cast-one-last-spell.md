@@ -1,6 +1,6 @@
 ---
 uuid: 42383d6e-4e9a-455d-a149-aa0735a900b8
-link: https://www.nytimes.com/2021/11/23/t-magazine/hayao-miyazaki-studio-ghibli.html
+bookmarkOf: https://www.nytimes.com/2021/11/23/t-magazine/hayao-miyazaki-studio-ghibli.html
 categories:
 - article
 headImage: https://static01.nyt.com/images/2021/11/24/t-magazine/24tmag-miyazaki-slide-FV6R-copy/24tmag-miyazaki-slide-FV6R-copy-facebookJumbo.jpg

@@ -1,6 +1,6 @@
 ---
 uuid: a395d8c9-91d8-4e82-8ac5-12f472a21815
-link: https://www.vans.eu/weirdwaves.html
+bookmarkOf: https://www.vans.eu/weirdwaves.html
 categories:
 - video
 headImage:

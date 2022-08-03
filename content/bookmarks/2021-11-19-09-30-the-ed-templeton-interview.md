@@ -1,6 +1,6 @@
 ---
 uuid: 6d63a437-623d-4860-8bd0-1276a10d54f1
-link: https://www.supereight.net/the-ed-templeton-interview/
+bookmarkOf: https://www.supereight.net/the-ed-templeton-interview/
 categories:
 - article
 headImage: https://cdn.supereight.net/wp-content/uploads/2021/11/Ed-Templeton-Portrait-by-Deanna.jpg

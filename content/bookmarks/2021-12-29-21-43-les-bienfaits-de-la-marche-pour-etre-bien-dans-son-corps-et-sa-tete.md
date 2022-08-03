@@ -1,6 +1,6 @@
 ---
 uuid: 4dc91f36-4d87-4b73-8c8e-4551f47f5aeb
-link: https://hellolaroux.com/les-bienfaits-de-la-marche/
+bookmarkOf: https://hellolaroux.com/les-bienfaits-de-la-marche/
 categories:
 - article
 headImage: https://hellolaroux.com/wp-content/uploads/2021/12/les-bienfaits-de-la-marche.jpg

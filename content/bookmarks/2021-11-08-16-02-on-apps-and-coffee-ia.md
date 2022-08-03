@@ -1,6 +1,6 @@
 ---
 title: On Apps and Coffee – iA
-link: https://ia.net/topics/on-apps-and-coffee
+bookmarkOf: https://ia.net/topics/on-apps-and-coffee
 tags: apps, pricing, tools
 date: 2021-11-08T16:02:25+01:00
 headImage: https://ia.net/wp-content/uploads/2021/11/FC7V_44XEAM_PLn.jpeg

@@ -1,7 +1,7 @@
 ---
 tags: article, dehors
 source:
-link: https://beside.media/field-notes-of-a-new-forager/
+bookmarkOf: https://beside.media/field-notes-of-a-new-forager/
 title: Field Notes of a New Forager - BESIDE
 date: '2020-06-16T20:11:00+02:00'
 headImage: https://content.beside.media/beside_/app/www/2020/06/emily_reed_thumbnail1.jpg

@@ -1,7 +1,7 @@
 ---
 tags: photography, film, desert
 source:
-link: https://www.fieldmag.com/articles/california-desert-road-trip-35mm
+bookmarkOf: https://www.fieldmag.com/articles/california-desert-road-trip-35mm
 title: A Spontaneous Road Trip To Owens Valley & Alabama Hills on 35mm
 date: '2021-09-09T19:10:00+02:00'
 uuid: 48f5717d-b613-4350-8d28-03bf0c0bc3cf

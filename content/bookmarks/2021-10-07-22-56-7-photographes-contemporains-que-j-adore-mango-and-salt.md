@@ -1,6 +1,6 @@
 ---
 tags: photographers, photo, list
-link: https://www.mangoandsalt.com/2021/10/07/7-photographes-contemporains-jadore/
+bookmarkOf: https://www.mangoandsalt.com/2021/10/07/7-photographes-contemporains-jadore/
 title: 7 photographes contemporains que j'adore - Mango and Salt
 date: '2021-10-07T22:56:00+02:00'
 headImage: https://www.mangoandsalt.com/wp-content/uploads/2021/10/photographes-contemporains-preferes.jpg

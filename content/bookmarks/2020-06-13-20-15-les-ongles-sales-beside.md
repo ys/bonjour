@@ -1,7 +1,7 @@
 ---
 tags: article, dehors
 source:
-link: https://beside.media/fr/les-ongles-sales/
+bookmarkOf: https://beside.media/fr/les-ongles-sales/
 title: Les ongles sales - BESIDE
 date: '2020-06-13T20:15:00+02:00'
 headImage: https://content.beside.media/beside_/app/www/2020/05/JULIETTE-6.jpg

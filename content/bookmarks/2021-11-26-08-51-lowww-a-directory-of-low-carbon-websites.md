@@ -1,6 +1,6 @@
 ---
 uuid: ad9db6b6-6b61-4daf-9093-aa537818804c
-link: https://lowww.directory/
+bookmarkOf: https://lowww.directory/
 categories:
 - article
 headImage: https://lowww.directory/media/site/0b560bc51c-1636737789/lowww-1-1200x630-crop-1-q80.jpg

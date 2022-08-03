@@ -1,6 +1,6 @@
 ---
 uuid: 5a112905-6d35-4198-add7-7a87d9e30cbc
-link: https://thelocalproject.com.au/articles/eucalypt-house-by-not-all-architecture-project-feature-the-local-project/?utm_source=densediscovery
+bookmarkOf: https://thelocalproject.com.au/articles/eucalypt-house-by-not-all-architecture-project-feature-the-local-project/?utm_source=densediscovery
 categories:
 - article
 headImage: https://d31dpzy4bseog7.cloudfront.net/media/2021/12/01144812/Eucalypt-House-by-Not-All-Architecture-Project-Feature-The-Local-Project-Image-16-683x1024.jpg

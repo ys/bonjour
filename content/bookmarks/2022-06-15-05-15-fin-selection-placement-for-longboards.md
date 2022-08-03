@@ -1,6 +1,6 @@
 ---
 uuid: d4f89720-e014-4dbb-b692-b5116484a030
-link: https://almondsurfboards.com/blogs/news/fin-selection-placement-for-longboards?_kx=WJeE3QQCOcj1C5-kKTUTnVQwLixGXGjdFW4dPGeJnNo%3D.Hb5zTY
+bookmarkOf: https://almondsurfboards.com/blogs/news/fin-selection-placement-for-longboards?_kx=WJeE3QQCOcj1C5-kKTUTnVQwLixGXGjdFW4dPGeJnNo%3D.Hb5zTY
 categories:
 - article
 headImage: http://cdn.shopify.com/s/files/1/0203/7640/articles/7Z4A2222_1200x.jpg?v=1655138348

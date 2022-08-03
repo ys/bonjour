@@ -1,7 +1,7 @@
 ---
 tags: fishing, alaska, sisters
 source:
-link: https://beside.media/fr/besiders/salmon-sisters/
+bookmarkOf: https://beside.media/fr/besiders/salmon-sisters/
 title: La haute mer qui façonne portrait des pêcheuses Emma Teal Laukitis et Claire
   Neaton
 date: '2021-02-11T18:50:00+02:00'

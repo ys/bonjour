@@ -1,7 +1,7 @@
 ---
 tags: photography, article
 source:
-link: https://beside.media/fr/essais-visuels/defenseurs-de-la-terre/
+bookmarkOf: https://beside.media/fr/essais-visuels/defenseurs-de-la-terre/
 title: Défenseurs de la terre
 date: '2020-11-30T21:09:00+02:00'
 headImage: https://content.beside.media/beside_/app/www/2020/10/003-20170827-RangerPatrol-0013-flat.jpg

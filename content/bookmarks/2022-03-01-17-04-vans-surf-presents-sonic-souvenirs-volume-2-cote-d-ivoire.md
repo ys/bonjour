@@ -1,6 +1,6 @@
 ---
 uuid: 47ec5011-dfc7-44df-af68-62e107d52c70
-link: https://www.youtube.com/watch?v=78C2RNVvTrQ
+bookmarkOf: https://www.youtube.com/watch?v=78C2RNVvTrQ
 categories:
 - video
 headImage: https://i.ytimg.com/vi/78C2RNVvTrQ/hqdefault.jpg

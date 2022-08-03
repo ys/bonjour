@@ -3,7 +3,7 @@ source:
 categories:
 - newsletter
 tags: craigmod, lifetricks
-link: https://craigmod.com/roden/059/
+bookmarkOf: https://craigmod.com/roden/059/
 title: Stupid Life Tricks - Roden
 date: '2021-09-08T18:01:00+02:00'
 headImage: https://craigmod.com/roden/img/059/059.jpg

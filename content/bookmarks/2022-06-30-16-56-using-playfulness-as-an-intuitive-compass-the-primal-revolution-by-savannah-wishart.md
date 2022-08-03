@@ -1,6 +1,6 @@
 ---
 uuid: 68e6ce3d-0374-4a9a-bc81-90e9efbf6fb2
-link: https://theprimalrevolution.exposure.co/using-playfulness-as-an-intuitive-compass
+bookmarkOf: https://theprimalrevolution.exposure.co/using-playfulness-as-an-intuitive-compass
 categories:
 - article
 headImage: https://exposure.accelerator.net/production/posts/515820/cover-photo/cover-1656595709.jpg;draw(image(b64-L2RldmVsb3BtZW50L2dhbGxlcnlfNDk1L3Bob3Rvcy9waF9kZDdrMGR5MTRtczh3N3c3L3Bob3RvLnBuZw==,400,120))/resize(1200,630,crop).jpeg?auto=webp

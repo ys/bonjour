@@ -1,6 +1,6 @@
 ---
 uuid: 762b95db-2cd6-4bf8-aa0e-f20142333c5f
-link: https://www.wildwooddesign.co/
+bookmarkOf: https://www.wildwooddesign.co/
 categories:
 - portfolio
 headImage: http://static1.squarespace.com/static/6091788d5ff2d5590c41b5d5/t/62144326736f4413502083b1/1645495080502/WDC-Social-Sharing-Image.jpg?format=1500w

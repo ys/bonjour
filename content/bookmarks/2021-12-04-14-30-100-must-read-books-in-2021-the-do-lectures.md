@@ -1,6 +1,6 @@
 ---
 uuid: 1f8d0ad1-ebd8-4eac-a871-a371b34060a3
-link: https://thedolectures.com/reading-lists/100-must-read-books-in-2021/
+bookmarkOf: https://thedolectures.com/reading-lists/100-must-read-books-in-2021/
 categories:
 - article
 headImage: https://cdn.sanity.io/images/9ndb8yrg/production/e73cff2ee2e97e35d654f69d94a5e4af310bf299-4000x2270.jpg?w=1200&h=681&auto=format

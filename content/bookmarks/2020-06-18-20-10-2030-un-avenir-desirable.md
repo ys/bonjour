@@ -1,7 +1,7 @@
 ---
 tags: video, activism, dehors
 source:
-link: https://www.youtube.com/watch?v=KB30j_igzyQ
+bookmarkOf: https://www.youtube.com/watch?v=KB30j_igzyQ
 title: 2030 Un avenir Desirable
 date: '2020-06-18T20:10:00+02:00'
 headImage: https://i.ytimg.com/vi/KB30j_igzyQ/maxresdefault.jpg

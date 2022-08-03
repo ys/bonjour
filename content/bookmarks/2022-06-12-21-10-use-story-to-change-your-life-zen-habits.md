@@ -1,6 +1,6 @@
 ---
 uuid: 15fcf69a-605e-40f1-a8f0-32d2c15c39b6
-link: https://zenhabits.net/stories/
+bookmarkOf: https://zenhabits.net/stories/
 categories:
 - article
 headImage: https://zenhabits.net/wp-content/uploads/2022/06/klim-sergeev-UYNH5VCsYPU-unsplash.jpg

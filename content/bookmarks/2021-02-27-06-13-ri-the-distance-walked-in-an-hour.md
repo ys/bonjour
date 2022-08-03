@@ -3,7 +3,7 @@ tags: craigmod, distance, fun
 categories:
 - newsletter
 source:
-link: https://craigmod.com/ridgeline/109/
+bookmarkOf: https://craigmod.com/ridgeline/109/
 title: Ri
 date: '2021-02-27T06:13:00+02:00'
 headImage: https://craigmod.com/ridgeline/images/109/109.jpg

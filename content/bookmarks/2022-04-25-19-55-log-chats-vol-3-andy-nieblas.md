@@ -1,6 +1,6 @@
 ---
 uuid: 71f121ac-fefb-47f6-b0e6-6349d97617ff
-link: https://lograp.com/blogs/blog-crap/log-chats-vol-3-andy-nieblas
+bookmarkOf: https://lograp.com/blogs/blog-crap/log-chats-vol-3-andy-nieblas
 categories:
 - article
 headImage: http://cdn.shopify.com/s/files/1/2309/5415/articles/Sequence_030_1200x1200.jpg?v=1650299490

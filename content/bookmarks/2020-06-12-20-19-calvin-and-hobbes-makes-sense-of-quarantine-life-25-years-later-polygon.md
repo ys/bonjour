@@ -1,6 +1,6 @@
 ---
 source:
-link: https://www.polygon.com/comics/2020/5/13/21254476/calvin-and-hobbes-comic-strips-books-quarantine
+bookmarkOf: https://www.polygon.com/comics/2020/5/13/21254476/calvin-and-hobbes-comic-strips-books-quarantine
 title: Calvin and Hobbes makes sense of quarantine life, 25 years later - Polygon
 date: '2020-06-12T20:19:00+02:00'
 headImage: https://cdn.vox-cdn.com/thumbor/ZsfYJg5cK0CPah_A783GjEVceCY=/358x0:1504x600/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19964128/CH_reading_2.jpg

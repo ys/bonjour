@@ -1,7 +1,7 @@
 ---
 tags: surf, article
 source:
-link: https://beside.media/fr/mini-guides/air-salin-et-liberte/
+bookmarkOf: https://beside.media/fr/mini-guides/air-salin-et-liberte/
 title: Air salin et liberté - BESIDE
 date: '2020-08-08T20:03:00+02:00'
 headImage: https://content.beside.media/beside_/app/www/2020/08/thumbnail-fb.png

@@ -1,6 +1,6 @@
 ---
 uuid: a6264d28-c0b7-4f93-99c7-198b5b575ad1
-link: https://guiom.fr/moonlighter-marchand-le-jour-heros-la-nuit/
+bookmarkOf: https://guiom.fr/moonlighter-marchand-le-jour-heros-la-nuit/
 categories:
 - article
 headImage: https://guiom.fr/content/images/2021/11/Key_Art_Full_fhd_nologo.jpg

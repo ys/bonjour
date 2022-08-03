@@ -1,6 +1,6 @@
 ---
 uuid: ae10f6f4-d447-4d8f-9abe-676c3fb66641
-link: https://nobodysurf.com/see-you-soon/
+bookmarkOf: https://nobodysurf.com/see-you-soon/
 categories:
 - video
 headImage: https://cdn.nobodysurf.com/video/thumb/7c7263b9d66b625a30caf0816c3a18e2.png

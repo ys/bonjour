@@ -1,6 +1,6 @@
 ---
 uuid: b88b57d6-6ddd-42e9-9be8-38cbcbe1dba6
-link: https://www.newphilosopher.com/articles/apocaloptimism/
+bookmarkOf: https://www.newphilosopher.com/articles/apocaloptimism/
 categories:
 - article
 headImage:

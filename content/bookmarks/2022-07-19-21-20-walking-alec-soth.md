@@ -1,6 +1,6 @@
 ---
 uuid: 58d07c5c-366d-4b38-8326-e379f04688a2
-link: https://craigmod.com/ridgeline/145/
+bookmarkOf: https://craigmod.com/ridgeline/145/
 category: newsletter
 headImage: https://craigmod.com/ridgeline/images/145/145.jpg
 title: Walking Alec Soth

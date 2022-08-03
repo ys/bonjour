@@ -1,6 +1,6 @@
 ---
 uuid: 68ff4ca9-36ab-4583-b0a9-a9093349e80a
-link: https://wearelookingsideways.com/podcasts/171-sam-bleakley
+bookmarkOf: https://wearelookingsideways.com/podcasts/171-sam-bleakley
 categories:
 - podcast
 headImage: https://wearelookingsideways.com/wordpress/wp-content/uploads/2022/01/16.sam_bleakley_finisterre_jj__2618-copy.jpg.jpg

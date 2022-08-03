@@ -1,6 +1,6 @@
 ---
 uuid: 25e3cfe2-e120-4d3a-8979-a023c50a5596
-link: https://www.youtube.com/watch?v=j7SEFJPMo7g
+bookmarkOf: https://www.youtube.com/watch?v=j7SEFJPMo7g
 categories:
 - video
 headImage: https://i.ytimg.com/vi/j7SEFJPMo7g/maxresdefault.jpg

@@ -1,6 +1,6 @@
 ---
 uuid: f2c93013-8dbc-4cba-8b27-369acda8dc94
-link: https://shop.boox.com/products/mira
+bookmarkOf: https://shop.boox.com/products/mira
 categories:
 - article
 headImage: http://cdn.shopify.com/s/files/1/0563/8874/7464/products/1_e3bbcf9c-555e-4a53-b889-8e4a8fd9508d.jpg?v=1635329384

@@ -1,6 +1,6 @@
 ---
 uuid: ba881194-527f-4cae-b354-03661dcf5a02
-link: https://indoek.com/article/surf-shacks-089-michael-townsend-lara-wilson/
+bookmarkOf: https://indoek.com/article/surf-shacks-089-michael-townsend-lara-wilson/
 categories:
 - article
 headImage:

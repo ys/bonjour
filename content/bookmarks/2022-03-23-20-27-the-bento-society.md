@@ -1,6 +1,6 @@
 ---
 uuid: 935a6bd1-71a6-43b5-ac2b-7d7b6dfef067
-link: https://bentoism.org/blog/the-dark-forest-theory-of-the-internet
+bookmarkOf: https://bentoism.org/blog/the-dark-forest-theory-of-the-internet
 categories:
 - newsletter
 headImage: https://bentoism.org/assets/bentoism.png

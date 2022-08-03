@@ -1,6 +1,6 @@
 ---
 uuid: d7eac5d5-bdc8-4fe8-b71d-1b40598a3820
-link: https://almondsurfboards.com/products/92-rseries-surf-thump-in-store?_kx=WJeE3QQCOcj1C5-kKTUTnVQwLixGXGjdFW4dPGeJnNo%3D.Hb5zTY
+bookmarkOf: https://almondsurfboards.com/products/92-rseries-surf-thump-in-store?_kx=WJeE3QQCOcj1C5-kKTUTnVQwLixGXGjdFW4dPGeJnNo%3D.Hb5zTY
 categories:
 - article
 headImage: http://cdn.shopify.com/s/files/1/0203/7640/products/92_thump_BLK_1200x.jpg?v=1638404314

@@ -3,7 +3,7 @@ tags: surf, histoire
 source:
 categories:
 - podcast
-link: https://www.franceculture.fr/emissions/eureka/eureka-emission-du-mardi-24-aout-2021
+bookmarkOf: https://www.franceculture.fr/emissions/eureka/eureka-emission-du-mardi-24-aout-2021
 title: Eurêka ! Surf  l’éternel été
 date: '2021-08-26T12:59:00+02:00'
 headImage: https://cdn.radiofrance.fr/s3/cruiser-production/2021/08/696b8bea-3893-4a18-b549-515a4c641d93/838_gettyimages-982747408.jpg

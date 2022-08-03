@@ -1,5 +1,5 @@
 ---
-link: https://warm-collective.com/long-live-the-queen-classic/
+bookmarkOf: https://warm-collective.com/long-live-the-queen-classic/
 tags: surf, activism
 
 date: 2021-11-04T22:37:53+01:00

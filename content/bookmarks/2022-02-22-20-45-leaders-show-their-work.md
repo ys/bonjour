@@ -1,6 +1,6 @@
 ---
 uuid: a70cf4aa-3c94-49b3-a198-55c03d7cd74c
-link: https://ben.balter.com/2022/02/16/leaders-show-their-work/
+bookmarkOf: https://ben.balter.com/2022/02/16/leaders-show-their-work/
 categories:
 - article
 headImage:

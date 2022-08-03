@@ -1,6 +1,6 @@
 ---
 uuid: b7249c3e-7aab-4903-970a-86d79cf7c906
-link: https://4fishgreenberg.medium.com/quitting-facebook-changed-my-life-1419d7827f72
+bookmarkOf: https://4fishgreenberg.medium.com/quitting-facebook-changed-my-life-1419d7827f72
 categories:
 - article
 headImage: https://miro.medium.com/max/1200/1*TuIF_SFepSoUordfLaYkEg.png

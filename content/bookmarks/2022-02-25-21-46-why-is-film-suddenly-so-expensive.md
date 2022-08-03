@@ -1,6 +1,6 @@
 ---
 uuid: 9204ba88-7216-418d-a62a-32d90d92b8ae
-link: https://www.monsterchildren.com/why-is-film-suddenly-so-expensive/
+bookmarkOf: https://www.monsterchildren.com/why-is-film-suddenly-so-expensive/
 categories:
 - article
 headImage: https://cdn.monsterchildren.com/wp-content/uploads/2022/02/22142338/film-thumn-2-monster-chidlren.jpg

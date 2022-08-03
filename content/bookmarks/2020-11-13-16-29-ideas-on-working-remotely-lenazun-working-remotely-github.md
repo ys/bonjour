@@ -1,7 +1,7 @@
 ---
 tags: "\U0001F5A5"
 source:
-link: https://github.com/lenazun/working-remotely/blob/master/ideas.md
+bookmarkOf: https://github.com/lenazun/working-remotely/blob/master/ideas.md
 title: Ideas on working remotely - lenazun working-remotely - GitHub
 date: '2020-11-13T16:29:00+02:00'
 headImage: https://opengraph.githubassets.com/1697ae8f2ad1d7ec7db276b1d08e7adc89cb783eb34bfa867c39a3b21be8ef78/lenazun/working-remotely

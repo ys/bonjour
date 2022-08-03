@@ -1,6 +1,6 @@
 ---
 uuid: 4c8d4a96-5f3f-4f07-9b55-b00655818f0a
-link: https://zenhabits.net/slow-holidays/
+bookmarkOf: https://zenhabits.net/slow-holidays/
 categories:
 - article
 headImage: https://zenhabits.net/wp-content/uploads/2021/12/kelly-sikkema-1OhvIAXU0zI-unsplash-scaled.jpg

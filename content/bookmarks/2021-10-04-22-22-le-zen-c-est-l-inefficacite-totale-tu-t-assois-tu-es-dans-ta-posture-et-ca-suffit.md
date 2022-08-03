@@ -2,7 +2,7 @@
 tags: zen
 categories:
 - article
-link: https://www.lemonde.fr/le-monde-des-religions/article/2021/10/01/un-jeune-francais-ordonne-moine-zen-au-japon_6096686_6038514.html
+bookmarkOf: https://www.lemonde.fr/le-monde-des-religions/article/2021/10/01/un-jeune-francais-ordonne-moine-zen-au-japon_6096686_6038514.html
 title: "« Le zen, c’est l’inefficacité totale - tu t’assois, tu es dans ta posture
   et ça suffit »"
 date: '2021-10-04T22:22:00+02:00'

@@ -1,6 +1,6 @@
 ---
 uuid: d5379db3-0cfc-4727-9bf3-9b6384ee6dfc
-link: https://www.olow.fr/fr/blog/recit-aquatique-4
+bookmarkOf: https://www.olow.fr/fr/blog/recit-aquatique-4
 categories:
 - article
 headImage: https://www.olow.fr/modules/hiblog/views/img/upload/original/2022/02/ClovisDonizetti_Olow_TL_01433-740x493.jpg

@@ -1,7 +1,7 @@
 ---
 tags: video, surf
 source:
-link: https://www.youtube.com/watch?v=an1JW0QETzE
+bookmarkOf: https://www.youtube.com/watch?v=an1JW0QETzE
 title: Pedro's bay - Vissla
 date: '2020-10-07T19:56:00+02:00'
 headImage: https://i.ytimg.com/vi/an1JW0QETzE/maxresdefault.jpg

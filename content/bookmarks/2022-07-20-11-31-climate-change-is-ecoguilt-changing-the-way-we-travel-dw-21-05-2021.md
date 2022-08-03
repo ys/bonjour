@@ -1,6 +1,6 @@
 ---
 uuid: e0c439c7-c3ef-45aa-884e-76614d5c1958
-link: https://www.dw.com/en/climate-change-is-ecoguilt-changing-the-way-we-travel/a-57528407
+bookmarkOf: https://www.dw.com/en/climate-change-is-ecoguilt-changing-the-way-we-travel/a-57528407
 category: article
 headImage: https://static.dw.com/image/57527502_6.jpg
 title: 'Climate change: Is ecoguilt changing the way we travel? | DW | 21.05.2021'

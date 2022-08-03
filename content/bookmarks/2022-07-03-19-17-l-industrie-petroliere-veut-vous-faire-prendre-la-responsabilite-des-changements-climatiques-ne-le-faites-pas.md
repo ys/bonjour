@@ -1,6 +1,6 @@
 ---
 uuid: 1647034d-9ef6-4165-86ab-fddb29484ec8
-link: https://beside.media/fr/nouveaux-recits/vous-netes-pas-responsable-des-changements-climatiques/
+bookmarkOf: https://beside.media/fr/nouveaux-recits/vous-netes-pas-responsable-des-changements-climatiques/
 categories:
 - article
 headImage: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2022/06/Illustration-3-FB.jpg

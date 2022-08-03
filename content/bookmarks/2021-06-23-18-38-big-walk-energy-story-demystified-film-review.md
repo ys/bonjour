@@ -3,7 +3,7 @@ tags: craigmod, roden
 categories:
 - newsletter
 source:
-link: https://craigmod.com/roden/056/
+bookmarkOf: https://craigmod.com/roden/056/
 title: Big Walk Energy, Story Demystified, Film Review
 date: '2021-06-23T18:38:00+02:00'
 headImage: https://craigmod.com/roden/img/056/056.jpg

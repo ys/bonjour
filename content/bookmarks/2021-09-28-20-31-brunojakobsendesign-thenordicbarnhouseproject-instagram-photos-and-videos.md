@@ -1,7 +1,7 @@
 ---
 tags: home, decoration, cabin
 source:
-link: https://www.instagram.com/thenordicbarnhouseproject/
+bookmarkOf: https://www.instagram.com/thenordicbarnhouseproject/
 title: BRUNOJAKOBSENDESIGN (@thenordicbarnhouseproject) • Instagram photos and videos
 date: '2021-09-28T20:31:00+02:00'
 headImage: https://scontent-cdt1-1.cdninstagram.com/v/t51.2885-19/s150x150/200738984_1378276102541456_813692194026836055_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com&_nc_ohc=CXP3FeA1-LMAX99bcuW&edm=ABfd0MgBAAAA&ccb=7-4&oh=9a65765c84f53ae6f8bf90663a3d21ef&oe=6182ED14&_nc_sid=7bff83

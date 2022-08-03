@@ -1,6 +1,6 @@
 ---
 uuid: c61e334c-3aef-4676-81d8-9f36a18e8e89
-link: https://existenzminima.be/existenzminimum1.html
+bookmarkOf: https://existenzminima.be/existenzminimum1.html
 categories:
 - article
 headImage:

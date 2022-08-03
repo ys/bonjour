@@ -1,6 +1,6 @@
 ---
 uuid: a330f43d-e531-44ba-bd17-7156da3f355c
-link: https://youtu.be/lf4sFVEER3A
+bookmarkOf: https://youtu.be/lf4sFVEER3A
 headImage: https://i.ytimg.com/vi/lf4sFVEER3A/maxresdefault.jpg
 title: 'Vans Surf Presents: Cadavre Exquis | Surf | VANS'
 description: Exquisite Corpse, from the original French term "Cadavre Exquis" is

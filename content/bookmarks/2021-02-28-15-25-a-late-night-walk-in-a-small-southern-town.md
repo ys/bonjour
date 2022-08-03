@@ -3,7 +3,7 @@ tags: craigmod, walk, night
 categories:
 - video
 source:
-link: https://craigmod.com/ridgeline/107/
+bookmarkOf: https://craigmod.com/ridgeline/107/
 title: A Late Night Walk in a Small Southern Town
 date: '2021-02-28T15:25:00+02:00'
 headImage: https://craigmod.com/ridgeline/images/107/107.jpg

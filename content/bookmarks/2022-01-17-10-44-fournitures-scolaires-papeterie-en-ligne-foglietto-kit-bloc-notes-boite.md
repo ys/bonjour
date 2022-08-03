@@ -1,6 +1,6 @@
 ---
 uuid: d1b49dd1-067a-4f3d-9002-88f806532ad2
-link: https://foglietto.fr/produit/kit-a-posto-bloc-notes-fournitures-scolaires-papeterie-en-ligne-foglietto/
+bookmarkOf: https://foglietto.fr/produit/kit-a-posto-bloc-notes-fournitures-scolaires-papeterie-en-ligne-foglietto/
 categories:
 - article
 headImage: https://foglietto.fr/wp-content/uploads/2021/03/Boite-de-rangement-pour-fiches-de-notes-en-bois-massif-Tesoro-avec-fiches-packshot-1500x1500-1.jpg

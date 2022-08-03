@@ -2,7 +2,7 @@
 tags: dev, lead
 categories:
 - video
-link: https://youtube.com/watch?v=KClAPipnKqw&feature=share
+bookmarkOf: https://youtube.com/watch?v=KClAPipnKqw&feature=share
 title: 'Technical leadership and glue work - Tanya Reilly | #LeadDevNewYork'
 date: '2021-10-15T21:46:00+02:00'
 headImage: https://i.ytimg.com/vi/KClAPipnKqw/maxresdefault.jpg

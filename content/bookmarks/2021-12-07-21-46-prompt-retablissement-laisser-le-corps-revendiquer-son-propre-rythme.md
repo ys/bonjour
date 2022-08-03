@@ -1,6 +1,6 @@
 ---
 uuid: ccbf02ae-a507-4beb-b2e5-8f988739ae57
-link: https://beside.media/fr/nouveaux-recits/prompt-retablissement/
+bookmarkOf: https://beside.media/fr/nouveaux-recits/prompt-retablissement/
 categories:
 - article
 headImage: https://content.beside.media/beside_/app/www/2021/11/BESIDE_NewNarrative_CathBernier_5.jpg

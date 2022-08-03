@@ -1,6 +1,6 @@
 ---
 uuid: 1a334360-1607-4860-8888-0a0cde808f57
-link: https://youtu.be/VV0mlC3WVB8
+bookmarkOf: https://youtu.be/VV0mlC3WVB8
 categories:
 - video
 headImage: https://i.ytimg.com/vi/VV0mlC3WVB8/maxresdefault.jpg

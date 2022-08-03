@@ -16,7 +16,7 @@
     {{- $entry = merge $entry (dict "description" $page.Description) -}}
 
     {{- $entry = merge $entry (dict "tags" $page.Params.tags) -}}
-    {{- $entry = merge $entry (dict "link" $page.Params.link) -}}
+    {{- $entry = merge $entry (dict "bookmarkOf" $page.Params.bookmarkOf) -}}
     {{- $entry = merge $entry (dict "permalink" $page.RelPermalink) -}}
 
     {{- $entry | jsonify -}}

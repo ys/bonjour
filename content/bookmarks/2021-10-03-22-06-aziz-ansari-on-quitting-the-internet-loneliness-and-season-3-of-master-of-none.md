@@ -1,6 +1,6 @@
 ---
 tags: digitalminimalism, minimalism
-link: https://www.gq.com/story/aziz-ansari-gq-style-cover-story
+bookmarkOf: https://www.gq.com/story/aziz-ansari-gq-style-cover-story
 title: Aziz Ansari on Quitting the Internet, Loneliness, and Season 3 of ‘Master of
   None’
 date: '2021-10-03T22:06:00+02:00'

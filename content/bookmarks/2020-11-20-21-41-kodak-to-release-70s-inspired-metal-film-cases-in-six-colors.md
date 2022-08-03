@@ -1,7 +1,7 @@
 ---
 tags: photography
 source:
-link: https://petapixel.com/2020/11/20/kodak-to-release-70s-inspired-metal-film-cases-in-six-colors/
+bookmarkOf: https://petapixel.com/2020/11/20/kodak-to-release-70s-inspired-metal-film-cases-in-six-colors/
 title: Kodak to Release '70s-Inspired Metal Film Cases in Six Colors
 date: '2020-11-20T21:41:00+02:00'
 headImage: https://petapixel.com/assets/uploads/2020/11/Groovy-Kodak-to-Release-70s-Inspired-Metal-Film-Cases-in-Six-Colors.jpg

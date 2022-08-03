@@ -3,7 +3,7 @@ tags: kissa, coffee, craigmod
 categories:
 - video
 source:
-link: https://youtube.com/watch?v=i5SLi-GZ0Z4&feature=share
+bookmarkOf: https://youtube.com/watch?v=i5SLi-GZ0Z4&feature=share
 title: Pizza Toast & coffee
 date: '2021-04-09T18:12:00+02:00'
 headImage: https://i.ytimg.com/vi/i5SLi-GZ0Z4/maxresdefault.jpg

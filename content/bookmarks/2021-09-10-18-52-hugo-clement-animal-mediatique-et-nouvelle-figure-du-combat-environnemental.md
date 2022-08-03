@@ -1,7 +1,7 @@
 ---
 tags: ecologie, activisme
 source:
-link: https://www.lemonde.fr/m-le-mag/article/2021/09/10/hugo-clement-un-animal-mediatique-dans-les-pas-de-nicolas-hulot_6094091_4500055.html
+bookmarkOf: https://www.lemonde.fr/m-le-mag/article/2021/09/10/hugo-clement-un-animal-mediatique-dans-les-pas-de-nicolas-hulot_6094091_4500055.html
 title: Hugo Clément, animal médiatique et nouvelle figure du combat environnemental
 date: '2021-09-10T18:52:00+02:00'
 uuid: 0d977a88-d036-4457-93bb-8a36b1cc38b4

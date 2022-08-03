@@ -1,5 +1,5 @@
 ---
-link: https://12ft.io/
+bookmarkOf: https://12ft.io/
 tags: paywall, journal
 date: 2021-11-04T13:26:07+01:00
 headImage: https://12ft.io/og-banner.png

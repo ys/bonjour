@@ -1,7 +1,7 @@
 ---
 tags: article, dehors
 source:
-link: https://beside.media/fr/lautonomie-solidaire/
+bookmarkOf: https://beside.media/fr/lautonomie-solidaire/
 title: L’autonomie solidaire - BESIDE
 date: '2020-06-13T20:14:00+02:00'
 headImage: https://content.beside.media/beside_/app/www/2020/06/Cali.CATHB-1513.jpg

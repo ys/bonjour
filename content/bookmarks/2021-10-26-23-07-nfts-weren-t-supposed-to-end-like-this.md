@@ -1,5 +1,5 @@
 ---
-link: https://www.theatlantic.com/ideas/archive/2021/04/nfts-werent-supposed-end-like/618488/
+bookmarkOf: https://www.theatlantic.com/ideas/archive/2021/04/nfts-werent-supposed-end-like/618488/
 tags: nft, art
 date: '2021-10-26T23:07:00+02:00'
 headImage: https://cdn.theatlantic.com/thumbor/0LCRWLyEyErsu5Y9eb6ov4gqyyk=/41x19:1877x975/960x500/media/img/mt/2021/04/Atlantic_NFT_artworld_v1-1/original.png

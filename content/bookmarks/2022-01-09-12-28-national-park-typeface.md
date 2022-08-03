@@ -1,6 +1,6 @@
 ---
 uuid: 232dd2c5-0978-4552-a56e-b48c30eb3774
-link: https://nationalparktypeface.com
+bookmarkOf: https://nationalparktypeface.com
 categories:
 - article
 headImage:

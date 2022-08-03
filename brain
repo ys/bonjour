@@ -42,12 +42,12 @@ class Link
 
   def save
     download_image
-    file = "content/links/#{created_at.strftime('%Y-%m-%d-%H-%M')}-#{title.parameterize}.md"
+    file = "content/bookmarks/#{created_at.strftime('%Y-%m-%d-%H-%M')}-#{title.parameterize}.md"
     File.write(file, YAML.dump(to_h)+ "---\n# #{title}\n\n#{notes}")
   end
 
   def capture
-    path = "content/links/images/#{uuid}.png"
+    path = "content/bookmarks/images/#{uuid}.png"
     Gastly.capture(url, path)
   rescue StandardError => e
     puts "Error Capture: #{e}"
@@ -60,14 +60,14 @@ class Link
       return
     end
     ext = image.match?(/png/) ? "png" : "jpg"
-    path = "content/links/images/#{uuid}.#{ext}"
+    path = "content/bookmakrs/images/#{uuid}.#{ext}"
     `wget -O #{path} "#{image}"`
   end
 
   def to_h
     {
       "uuid" => uuid,
-      "link" => url,
+      "bookmarkOf" => url,
       "category" => category,
       "headImage" => image,
       "title" => title,
@@ -108,7 +108,7 @@ class LinkFile
   end
 
   def capture
-    path = "content/links/images/#{uuid}.png"
+    path = "content/bookmarks/images/#{uuid}.png"
     Gastly.capture(data["link"], path)
   rescue StandardError
     puts "Error Capture: #{file}"
@@ -128,12 +128,12 @@ class LinkFile
       return
     end
     ext = data["headImage"].match?(/png/) ? "png" : "jpg"
-    path = "content/links/images/#{uuid}.#{ext}"
+    path = "content/bookmarks/images/#{uuid}.#{ext}"
     `wget -O #{path} "#{data['headImage']}"`
   end
 
   def some_image?
-    path = "content/links/images/#{uuid}"
+    path = "content/bookmarks/images/#{uuid}"
     File.exist?(path + ".png") ||
     File.exist?(path + ".jpg") ||
     File.exist?(path + ".jpeg")

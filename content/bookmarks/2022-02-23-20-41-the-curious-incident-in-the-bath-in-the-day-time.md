@@ -1,6 +1,6 @@
 ---
 uuid: 4edfa4d4-200f-4d42-b7c7-dbd6fc118e34
-link: https://craigmod.com/ridgeline/014/
+bookmarkOf: https://craigmod.com/ridgeline/014/
 categories:
 - newsletter
 headImage: https://craigmod.com/ridgeline/images/014/014.jpg

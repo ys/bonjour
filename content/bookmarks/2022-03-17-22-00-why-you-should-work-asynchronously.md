@@ -1,6 +1,6 @@
 ---
 uuid: b6122124-773a-4ca0-9b44-41747251562c
-link: https://ben.balter.com/2022/03/17/why-async/
+bookmarkOf: https://ben.balter.com/2022/03/17/why-async/
 categories:
 - article
 headImage:

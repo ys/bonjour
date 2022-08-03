@@ -1,6 +1,6 @@
 ---
 uuid: 395428e0-33ad-4c31-b034-973a70de40c4
-link: https://bonpote.com/33-milliards-detres-humains-exposes-au-changement-climatique-le-nouveau-rapport-du-giec-est-sans-appel/
+bookmarkOf: https://bonpote.com/33-milliards-detres-humains-exposes-au-changement-climatique-le-nouveau-rapport-du-giec-est-sans-appel/
 categories:
 - article
 headImage: https://bonpote.com/wp-content/uploads/2022/02/Rapport-2-du-GIEC.jpg

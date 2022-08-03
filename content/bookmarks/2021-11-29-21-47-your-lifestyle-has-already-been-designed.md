@@ -1,6 +1,6 @@
 ---
 uuid: f75f3e48-31c2-416a-8264-53687fc5a37e
-link: http://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/
+bookmarkOf: http://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/
 categories:
 - article
 headImage:

@@ -1,6 +1,6 @@
 ---
 uuid: 5d9cd84f-73b9-47c8-a1f0-d440fe7dc568
-link: https://youtube.com/watch?v=pxyF984yVT4
+bookmarkOf: https://youtube.com/watch?v=pxyF984yVT4
 categories:
 - video
 headImage: https://i.ytimg.com/vi/pxyF984yVT4/hqdefault.jpg

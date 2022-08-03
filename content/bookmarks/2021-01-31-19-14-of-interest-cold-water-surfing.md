@@ -1,7 +1,7 @@
 ---
 tags: surf, coldwater
 source:
-link: https://huckberry.com/journal/posts/of-interest-cold-water-surfing
+bookmarkOf: https://huckberry.com/journal/posts/of-interest-cold-water-surfing
 title: Of Interest Cold Water Surfing
 date: '2021-01-31T19:14:00+02:00'
 headImage: https://huckberry.imgix.net/journal_post_content_block_images/000/002/505/images/original/surf_hero

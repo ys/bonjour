@@ -1,6 +1,6 @@
 ---
 uuid: 5d309341-53bc-48c9-a2ed-ba647494041e
-link: https://finisterre.com/blogs/broadcast/the-science-of-cold-water-swimming
+bookmarkOf: https://finisterre.com/blogs/broadcast/the-science-of-cold-water-swimming
 categories:
 - article
 headImage: http://cdn.shopify.com/s/files/1/1074/5128/articles/unnamed_04839430-04ca-4b8c-8494-4045984a2cad.jpg?v=1642413050

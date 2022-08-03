@@ -3,7 +3,7 @@ tags: pixar, friends
 categories:
 - video
 source:
-link: https://disney.fr/films/luca
+bookmarkOf: https://disney.fr/films/luca
 title: Luca, le dernier pixar
 date: '2021-06-24T20:05:00+02:00'
 uuid: ece61e1a-f7c8-4950-9da0-edfbfe5b9656

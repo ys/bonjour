@@ -1,7 +1,7 @@
 ---
 tags: smartphone, apaisé
 source:
-link: https://jefaisdelordi.com/index.php/2021/01/21/cest-quoi-un-smartphone-apaise/
+bookmarkOf: https://jefaisdelordi.com/index.php/2021/01/21/cest-quoi-un-smartphone-apaise/
 title: C'est quoi un smartphone apaisé
 date: '2021-01-21T17:06:00+02:00'
 headImage: https://jefaisdelordi.com/wp-content/uploads/2021/01/card.png

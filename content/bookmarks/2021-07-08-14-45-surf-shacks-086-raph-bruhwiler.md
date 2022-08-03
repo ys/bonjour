@@ -1,7 +1,7 @@
 ---
 tags: surf, cabin, deco
 source:
-link: https://indoek.com/article/surf-shacks-086-raph-bruhwiler/
+bookmarkOf: https://indoek.com/article/surf-shacks-086-raph-bruhwiler/
 title: Surf Shacks 086 - Raph Bruhwiler
 date: '2021-07-08T14:45:00+02:00'
 uuid: 519e1177-777a-47d7-a0de-97ec9a6bd5d2

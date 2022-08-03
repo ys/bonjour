@@ -3,7 +3,7 @@ source:
 categories:
 - video
 tags: habits
-link: https://www.youtube.com/watch?v=CUvvnTkCva0
+bookmarkOf: https://www.youtube.com/watch?v=CUvvnTkCva0
 title: Vlan! L'habitude la plus auto-destructice avec Rahaf Harfoush
 date: '2021-06-29T12:42:00+02:00'
 headImage: https://i.ytimg.com/vi/CUvvnTkCva0/maxresdefault.jpg

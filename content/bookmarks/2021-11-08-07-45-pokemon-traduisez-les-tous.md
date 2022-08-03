@@ -1,6 +1,6 @@
 ---
 title: Pokémon, traduisez-les tous
-link: https://www.liberation.fr/apps/2016/06/pokemon/
+bookmarkOf: https://www.liberation.fr/apps/2016/06/pokemon/
 tags: pokemon, traduction
 date: 2021-11-08T07:45:40+01:00
 headImage: https://www.liberation.fr/apps/2016/06/pokemon/social.jpg

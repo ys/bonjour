@@ -1,6 +1,6 @@
 ---
 uuid: 84bee38d-b271-47ab-b671-cc61f1ac5cfd
-link: https://www.clementineartdept.com/product-page/clementine-painter-s-hat
+bookmarkOf: https://www.clementineartdept.com/product-page/clementine-painter-s-hat
 categories:
 - portfolio
 headImage: https://static.wixstatic.com/media/f84389_5ee5097f337f4efd8c9b42d881274c6b~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg

@@ -1,6 +1,6 @@
 ---
 uuid: aa892d8e-7db2-4123-9190-691a786449c5
-link: https://www.monsterchildren.com/lee-ann-curren-is-cooler-than-you/
+bookmarkOf: https://www.monsterchildren.com/lee-ann-curren-is-cooler-than-you/
 categories:
 - video
 headImage: https://cdn.monsterchildren.com/wp-content/uploads/2022/03/10142027/yayaya-monster-children.jpg

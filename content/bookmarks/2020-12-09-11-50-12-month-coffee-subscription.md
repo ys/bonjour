@@ -1,7 +1,7 @@
 ---
 tags: coffee, surf, buy
 source:
-link: https://daydreamsurfshop.com/pages/coffee-1
+bookmarkOf: https://daydreamsurfshop.com/pages/coffee-1
 title: 12 Month Coffee Subscription
 date: '2020-12-09T11:50:00+02:00'
 uuid: d9095e72-f19f-42c6-b7dc-4b2b587d0472

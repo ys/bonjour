@@ -2,7 +2,7 @@
 tags: photography, zine, howto
 categories:
 - video
-link: https://m.youtube.com/watch?v=lfN133XgaSk
+bookmarkOf: https://m.youtube.com/watch?v=lfN133XgaSk
 title: How to Make a Photography Zine - YouTube
 date: '2021-10-14T13:19:00+02:00'
 headImage: https://i.ytimg.com/vi/lfN133XgaSk/maxresdefault.jpg

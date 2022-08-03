@@ -1,6 +1,6 @@
 ---
 uuid: 97469f9c-9cc1-4ca9-8338-a6e0876076c5
-link: https://almondsurfboards.com/blogs/news/that-first-wave-feeling?_kx=WJeE3QQCOcj1C5-kKTUTnVQwLixGXGjdFW4dPGeJnNo%3D.Hb5zTY
+bookmarkOf: https://almondsurfboards.com/blogs/news/that-first-wave-feeling?_kx=WJeE3QQCOcj1C5-kKTUTnVQwLixGXGjdFW4dPGeJnNo%3D.Hb5zTY
 categories:
 - article
 headImage: http://cdn.shopify.com/s/files/1/0203/7640/articles/glassy_wave_1200x.jpg?v=1644437112

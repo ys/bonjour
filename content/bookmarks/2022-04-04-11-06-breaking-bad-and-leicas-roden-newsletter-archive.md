@@ -1,6 +1,6 @@
 ---
 uuid: a1e0781f-351e-471a-9965-ff98d58d3dac
-link: https://craigmod.com/roden/067/
+bookmarkOf: https://craigmod.com/roden/067/
 categories:
 - newsletter
 headImage: https://craigmod.com/roden/img/067/067.jpg

@@ -1,7 +1,7 @@
 ---
 tags: photography, article, roadtrip
 source:
-link: https://www.lesothers.com/road-trip-alaska
+bookmarkOf: https://www.lesothers.com/road-trip-alaska
 title: 3000 km au coeur des grands espaces, en Alaska
 date: '2021-06-28T07:57:00+02:00'
 headImage: https://www.lesothers.com/wp-content/uploads/2018/05/Clement-Jeanne-Alaska-Les-OthersAK-0008.jpg

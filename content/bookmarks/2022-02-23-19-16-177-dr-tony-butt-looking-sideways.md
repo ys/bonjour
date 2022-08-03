@@ -1,6 +1,6 @@
 ---
 uuid: f1b510ae-d319-4b81-95d6-d9105edb4013
-link: https://wearelookingsideways.com/podcasts/177-dr-tony-butt
+bookmarkOf: https://wearelookingsideways.com/podcasts/177-dr-tony-butt
 categories:
 - podcast
 headImage: https://wearelookingsideways.com/wordpress/wp-content/uploads/2022/02/TonyButt-3-scaled.jpg

@@ -1,6 +1,6 @@
 ---
 uuid: 4f56390a-46be-4738-8d59-209f235852a3
-link: https://huckberry.com/journal/posts/beginner-s-guide-to-meditation
+bookmarkOf: https://huckberry.com/journal/posts/beginner-s-guide-to-meditation
 categories:
 - article
 headImage: https://huckberry.imgix.net/journal_post_content_block_images/000/002/549/images/original/wellness_meditation_desktop.jpg

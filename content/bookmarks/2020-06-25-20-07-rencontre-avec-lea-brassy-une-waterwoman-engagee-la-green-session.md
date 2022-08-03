@@ -1,7 +1,7 @@
 ---
 tags: article, surf, dehors
 source:
-link: https://www.lagreensession.com/rencontre-lea-brassy-waterwoman-engagee/
+bookmarkOf: https://www.lagreensession.com/rencontre-lea-brassy-waterwoman-engagee/
 title: Rencontre avec Lea Brassy une waterwoman engagée - La Green Session
 date: '2020-06-25T20:07:00+02:00'
 headImage: https://www.lagreensession.com/wp-content/uploads/2020/06/vignette-article-lea-brassy.jpeg

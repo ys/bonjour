@@ -1,7 +1,7 @@
 ---
 tags: ecologie, article
 source:
-link: https://www.lemonde.fr/m-le-mag/article/2021/09/22/emmanuel-cappellin-le-documentariste-qui-en-savait-trop-sur-l-avenir-de-la-planete_6095522_4500055.html
+bookmarkOf: https://www.lemonde.fr/m-le-mag/article/2021/09/22/emmanuel-cappellin-le-documentariste-qui-en-savait-trop-sur-l-avenir-de-la-planete_6095522_4500055.html
 title: Emmanuel Cappellin, le documentariste qui en savait trop sur l’avenir de la
   planète
 date: '2021-09-24T12:50:00+02:00'

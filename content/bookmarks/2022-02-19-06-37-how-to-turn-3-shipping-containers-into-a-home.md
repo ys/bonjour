@@ -1,6 +1,6 @@
 ---
 uuid: c6534acc-78d7-4035-ade0-0634e4b0d588
-link: https://www.fieldmag.com/articles/shipping-container-house-victoria-aus-shelter-streaming
+bookmarkOf: https://www.fieldmag.com/articles/shipping-container-house-victoria-aus-shelter-streaming
 categories:
 - article
 headImage: http://images.ctfassets.net/r7p9m4b1iqbp/2PugRbDgyDftBYKnf8oZdx/4cc5e58384d87d1f0d635d826b00451a/eco-containers-australia-shelter-streaming-facade.jpg?w=1000

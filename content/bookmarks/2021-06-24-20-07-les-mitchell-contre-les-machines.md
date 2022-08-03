@@ -3,7 +3,7 @@ source:
 tags: robots, netflix, fun
 categories:
 - video
-link: https://www.netflix.com/fr-en/title/81399614?source=35
+bookmarkOf: https://www.netflix.com/fr-en/title/81399614?source=35
 title: Les Mitchell contre les machines
 date: '2021-06-24T20:07:00+02:00'
 uuid: e453746d-3218-4d4f-bf7d-079e4836d00b

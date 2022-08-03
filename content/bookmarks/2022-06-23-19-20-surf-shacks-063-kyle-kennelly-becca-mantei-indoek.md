@@ -1,6 +1,6 @@
 ---
 uuid: 6577bbfb-d2b5-469e-9f2b-20a95decf613
-link: https://indoek.com/article/surf-shacks-063-kyle-kennelly-becca-mantei/
+bookmarkOf: https://indoek.com/article/surf-shacks-063-kyle-kennelly-becca-mantei/
 categories:
 - article
 headImage:

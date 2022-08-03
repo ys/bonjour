@@ -1,7 +1,7 @@
 ---
 tags: photography, fakenews
 source:
-link: https://www.magnumphotos.com/newsroom/society/book-veles-jonas-bendiksen-hoodwinked-photography-industry/
+bookmarkOf: https://www.magnumphotos.com/newsroom/society/book-veles-jonas-bendiksen-hoodwinked-photography-industry/
 title: The Book of Veles How Jonas Bendiksen Hoodwinked the Photography Industry   Magnum
   Photos
 date: '2021-09-28T21:09:00+02:00'

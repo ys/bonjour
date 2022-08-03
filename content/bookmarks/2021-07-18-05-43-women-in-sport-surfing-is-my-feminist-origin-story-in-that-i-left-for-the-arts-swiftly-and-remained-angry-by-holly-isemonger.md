@@ -1,6 +1,6 @@
 ---
 tags: surf, feminism
-link: https://www.theliftedbrow.com/liftedbrow/women-in-sport-surfing-is-my-feminist-origin
+bookmarkOf: https://www.theliftedbrow.com/liftedbrow/women-in-sport-surfing-is-my-feminist-origin
 title: WOMEN IN SPORT ‘SURFING IS MY FEMINIST ORIGIN STORY (IN THAT I LEFT FOR THE
   ARTS SWIFTLY, AND REMAINED ANGRY)’, BY HOLLY ISEMONGER
 date: '2021-07-18T05:43:00+02:00'

@@ -1,6 +1,6 @@
 ---
 uuid: f77e0aa6-aaad-4936-9c24-712adfe729ca
-link: https://youtu.be/tE--aR7kz9Y
+bookmarkOf: https://youtu.be/tE--aR7kz9Y
 categories:
 - video
 headImage: https://i.ytimg.com/vi/tE--aR7kz9Y/maxresdefault.jpg
