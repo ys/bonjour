@@ -86,7 +86,7 @@ class LinkFile
     @file = file
     file_content = File.read(file)
     file_content =~ YAML_FRONT_MATTER_REGEXP
-    @data, @content = YAML.load($1), Regexp.last_match.post_match
+    @data, @content = YAML.load($1, permitted_classes: [OpenStruct, Symbol, Time]), Regexp.last_match.post_match
     ensure_uuid
   end
 
