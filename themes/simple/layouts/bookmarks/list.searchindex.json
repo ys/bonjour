@@ -14,6 +14,7 @@
     {{- end -}}
     {{- $entry = merge $entry (dict "content" ($page.Plain | htmlUnescape)) -}}
     {{- $entry = merge $entry (dict "description" $page.Description) -}}
+    {{- $entry = merge $entry (dict "emoji" (partial "emoji" .)) -}}
 
     {{- $entry = merge $entry (dict "tags" $page.Params.tags) -}}
     {{- $entry = merge $entry (dict "bookmarkOf" $page.Params.bookmarkOf) -}}
