@@ -216,7 +216,7 @@ module CLI
     desc "Sync all pictures"
 
     def call(*)
-      Dir.glob("content/links/*.md").map { |f| l = LinkFile.new(f); l.save_data; l.download_image}
+      Dir.glob("content/bookmarks/*.md").map { |f| l = LinkFile.new(f); l.save_data; l.download_image}
     end
   end
 
