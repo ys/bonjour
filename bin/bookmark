@@ -180,7 +180,7 @@ class MercuryPreview < Preview
   end
 end
 
-class NogokiriPreview < Preview
+class NokogiriPreview < Preview
   def fetch
     @web_content = get_web_content
     raise NoWebPage unless web_content
