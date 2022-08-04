@@ -3,7 +3,7 @@ uuid: 72f63e58-a7cc-487d-bec5-01c83e06ac81
 bookmarkOf: https://www.youtube.com/watch?v=sAQCi2ELHow
 category: video
 headImage: https://i.ytimg.com/vi/sAQCi2ELHow/maxresdefault.jpg
-title: 'Weird Waves Season 3: The Nightriders | Surf | VANS'
+title: 'Weird Waves Season 3: The Nightriders'
 description: Welcome back to the third season of Weird Waves. Like everyone else on
   this planet, 2020 hit the WW Crew like a ton of bricks... and all plans for the
   year c...
@@ -45,5 +45,4 @@ tags:
 - " Nightriders"
 date: 2022-08-03 15:23:28.340927950 +00:00
 ---
-# Weird Waves Season 3: The Nightriders | Surf | VANS
 

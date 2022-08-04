@@ -8,6 +8,7 @@ GEM
       tzinfo (~> 2.0)
       zeitwerk (~> 2.3)
     concurrent-ruby (1.1.9)
+    diffy (3.4.2)
     domain_name (0.5.20190701)
       unf (>= 0.0.5, < 1.0.0)
     dry-cli (0.7.0)
@@ -52,6 +53,7 @@ PLATFORMS
 
 DEPENDENCIES
   activesupport
+  diffy
   dry-cli
   gastly
   nokogiri

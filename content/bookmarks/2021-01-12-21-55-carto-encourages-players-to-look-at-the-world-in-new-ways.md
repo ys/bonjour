@@ -6,9 +6,10 @@ title: Carto Encourages Players to Look at the World in New Ways
 date: '2021-01-12T21:55:00+02:00'
 headImage: https://miro.medium.com/freeze/max/616/1*GyIwsi7M3xT_HvJy73R-kA.gif
 uuid: 7cd1d438-2247-43a4-a291-304dcaa85584
+description: There are many things we can’t control, but changing our attitudes and
+  decisions can have profound implications
 ---
 
-# Carto Encourages Players to Look at the World in New Ways
-https://medium.com/super-jump/carto-encourages-players-to-look-at-the-world-in-new-ways-6b046867805f
+![](https://miro.medium.com/max/1400/1*1njng6YplHd_HsUCI026zQ.png)
 
-![[1*GyIwsi7M3xT_HvJy73R-kA.jpeg]]
+**this year has taught me anything, it’s that we can’t control what happens in life. We can often, however, influence outcomes by carefully**…

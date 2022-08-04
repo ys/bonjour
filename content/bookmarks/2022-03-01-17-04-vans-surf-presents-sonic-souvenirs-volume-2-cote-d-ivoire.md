@@ -5,7 +5,7 @@ categories:
 - video
 headImage: https://i.ytimg.com/vi/78C2RNVvTrQ/hqdefault.jpg
 title: 'Vans Surf Presents: Sonic Souvenirs, Volume 2 - Côte d''Ivoire'
-description: Vans Surf proudly presents Volume 2 of Sonic Souvenirs, a series focused
+description: Vans Surf proudly presents Volume 2 of Sonic Souvenirs, a series focused
   on the intersection of surf, art and culture told through the lens of one of the
   wor...
 tags:
@@ -42,3 +42,4 @@ tags:
 - " Sonic Souvenirs"
 date: 2022-03-01 17:04:11.159062093 +00:00
 ---
+

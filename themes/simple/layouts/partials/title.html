@@ -1,5 +1,6 @@
-<article class="py-4">
-  <div class="font-sans tracking-tight text-xs {{ with .Params.Color }}text-{{ . }}-600 {{ else }}text-gray-700{{end}}  uppercase">
+<article class="py-4 group">
+  <a href="{{ .Params.bookmarkOf }}">
+  <div class="font-sans tracking-tight text-xs {{ with .Params.Color }}text-{{ . }}-600 {{ else }}text-gray-700{{end}} {{ with .Params.Color }}group-hover:text-{{ . }}-600 {{ else }}group-hover:text-accent-600{{ end }} transition ease-in-out duration-200 uppercase">
     {{ with .Params.emoji }}
       {{ . }}
     {{ else }}
@@ -8,27 +9,27 @@
     {{ partial "category-link" . }}
     {{ .Site.Params.arrow }}
     {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
-    {{ with .Params.bookmarkOf }}
-    {{ $.Site.Params.arrow }}
-      {{ (urls.Parse .).Host }}
-    {{ end }}
   </div>
-  <header class="">
-    <h2 class="text-xl font-bold text-darker  {{ with .Params.Color }}hover:text-{{ . }}-600 {{ else }}hover:text-accent-600{{ end }} transition ease-in-out duration-200">
-      <a href="{{ .RelPermalink }}">
+  <header >
+    <h2 class="text-xl font-bold text-darker {{ with .Params.Color }}group-hover:text-{{ . }}-600 {{ else }}group-hover:text-accent-600{{ end }} transition ease-in-out duration-200">
         {{ .Title  |markdownify}}
-      </a>
     </h2>
-    <h3 class="line-clamp-3 text-normal font-sans text-gray-500 ">
-      {{ with .Params.uuid }}
-      {{ (index $.Site.Data.bookmarks . ).excerpt |markdownify }}
+    <h3 class="line-clamp-1 text-normal font-sans text-gray-500 group-hover:text-gray-700 transition ease-in-out duration-400 ">
+      {{ with .Params.subtitle }}
+      {{ . }}
       {{ else }}
-        {{ with .Params.subtitle }}
-        {{ . }}
-        {{ else }}
-        {{ .Summary | truncate 300 }}
+        {{ with .Params.description }}
+          {{ . | truncate 100 }}
+        {{ else}}
+          {{ .Summary | truncate 100 }}
         {{ end }}
       {{ end }}
     </h3>
+    <h4 class="text-xs font-sans {{ with .Params.Color }}group-hover:text-{{ . }}-600 {{ else }}group-hover:text-accent-600{{ end }} transition ease-in-out duration-200">
+    {{ with .Params.bookmarkOf }}
+      {{ (urls.Parse .).Host }}
+    {{ end }}
+    </h4>
   </header>
+      </a>
 </article>

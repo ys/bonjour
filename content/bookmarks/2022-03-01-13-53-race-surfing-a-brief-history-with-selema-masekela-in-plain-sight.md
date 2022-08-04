@@ -4,7 +4,7 @@ bookmarkOf: https://youtu.be/s6eEzuY-mjA
 categories:
 - video
 headImage: https://i.ytimg.com/vi/s6eEzuY-mjA/hqdefault.jpg
-title: 'Race & Surfing: A Brief History With Selema Masekela | IN PLAIN SIGHT'
+title: 'Race & Surfing: A Brief History With Selema Masekela | In Plain Sight'
 description: Surfing’s history – from Africa to Polynesia to the Americas – is one
   that’s rich, diverse, and incredibly nuanced. So much so, that we are only beginning
   to...
@@ -38,3 +38,4 @@ tags:
 - " africa surfing"
 date: 2022-03-01 13:53:42.579916939 +00:00
 ---
+
