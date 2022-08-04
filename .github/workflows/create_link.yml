@@ -40,7 +40,7 @@ jobs:
           bundler-cache: true
       - name: Run links
         run: |
-          ./brain create --category=${{ github.event.inputs.category }} --notes="${{ github.event.inputs.notes }}" --tags=${{ github.event.inputs.tags }} ${{ github.event.inputs.url }}
+          ./bin/bookmark create --category=${{ github.event.inputs.category }} --notes="${{ github.event.inputs.notes }}" --tags=${{ github.event.inputs.tags }} ${{ github.event.inputs.url }}
       - name: Commit files
         id: commit
         run: |
