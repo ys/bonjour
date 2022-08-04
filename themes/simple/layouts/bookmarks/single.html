@@ -11,6 +11,10 @@
       <h2 class="text-center no-underline text-gray-700 text-lg">{{ .Title }}</h2>
     </header>
     <div class="content">
+      {{ with .Params.uuid }}
+      {{ (index $.Site.Data.bookmarks . ).excerpt |markdownify }}
+      {{ end }}
+      <br/>
       {{ .Content }}
     </div>
     <a href="{{ .Params.bookmarkOf }}" class="mt-8 block text-center shadow-md text-white bg-sunray-600 rounded-sm w-full p-4">🔗 View source </a>
