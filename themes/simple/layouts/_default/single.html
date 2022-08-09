@@ -1,3 +1,57 @@
 {{ define "main" }}
-  {{ partial "single" . }}
+  {{ partial "article_header" . }}
+  <div data-pswp class="mb-10 content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
+    <div class="prose post">
+      {{ if (in .Site.Params.showCover .Type) }}
+        {{ $allimages := slice }}
+        {{ if isset .Params "images" }}
+          {{ $journal := .Site.GetPage "/journal/images" }}
+          {{ range .Params.images }}
+            {{ $allimages = $allimages | append (dict "Image" ($journal.Resources.GetMatch .url)) }}
+          {{ end }}
+        {{ else }}
+          {{ $images := .Resources.ByType "image" }}
+          {{ $main := $images.GetMatch "*feature*" }}
+          {{ $main := cond (ne $main nil) $main ($images.GetMatch "{*cover*,*thumbnail*}") }}
+
+          {{ with $main }}
+            {{ $allimages = $allimages | append (dict "Image" .) }}
+          {{ end }}
+          {{ range $images }}
+            {{ if ne $main . }}
+              {{ $allimages = $allimages | append (dict "Image" .) }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      {{ $rows := dict }}
+      {{ $columns := dict }}
+      {{ $rowid := 0 }}
+      {{ $colid := 0 }}
+      {{ $possibilities := slice 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 }}
+      {{ $itemsonrow := 1 }}
+      {{ range $index, $img := $allimages }}
+        {{ $columns = merge $columns (dict (string (mod $index $itemsonrow)) (dict "Images" (slice $img)))}}
+        {{ $colid = add $colid 1 }}
+        {{ if eq $colid $itemsonrow }}
+          {{ $rows = merge $rows (dict (string $rowid) $columns) }}
+          {{ $itemsonrow = index (shuffle $possibilities) 0 }}
+          {{ $columns = dict }}
+          {{ $rowid = add $rowid 1 }}
+          {{ $colid = 0 }}
+        {{ end }}
+      {{ end }}
+      {{ $rows = merge $rows (dict (string $rowid) $columns) }}
+      {{ partial "grid" $rows }}
+      {{ end }}
+      {{.Content}}
+    </div>
+    {{ if (in .Site.Params.showFooter .Type) }}
+      {{ partial "article_footer" . }}
+    {{ end }}
+    {{ if (in .Site.Params.showExif .Type) }}
+      {{ partial "article_camera" . }}
+      {{ partial "article_signature" . }}
+    {{ end }}
+</div>
+{{ partial "article_navigation" . }}
 {{ end }}

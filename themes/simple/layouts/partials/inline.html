@@ -20,7 +20,7 @@
     {{ $columns := dict }}
     {{ $rowid := 0 }}
     {{ $colid := 0 }}
-    {{ $possibilities := slice 1 1  2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 }}
+    {{ $possibilities := slice 1 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 }}
     {{ $itemsonrow := index (shuffle $possibilities) 0 }}
     {{ range $index, $img := $allimages }}
       {{ $columns = merge $columns (dict (string (mod $index $itemsonrow)) (dict "Images" (slice $img)))}}
