@@ -1,0 +1,17 @@
+---
+uuid: 4f56390a-46be-4738-8d59-209f235852a3
+bookmarkOf: https://huckberry.com/journal/posts/beginner-s-guide-to-meditation
+categories:
+- article
+headImage: https://huckberry.imgix.net/journal_post_content_block_images/000/002/549/images/original/wellness_meditation_desktop.jpg
+title: Like brushing your teeth, if you do it every morning, it'll make you a whole
+  lot easier to be around
+description: Like brushing your teeth, if you do it every morning, it'll make you
+  a whole lot easier to be around
+tags: []
+date: 2022-01-03 19:20:37.498884637 +00:00
+---
+
+We value your privacy. We use cookies to provide the best site experience possible. By using our site, you’re acknowledging that you accept our [Terms of Service](/terms) and [Privacy Policy](/privacy-policy) and that they’re OK with you.
+
+×

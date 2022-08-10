@@ -1,0 +1,19 @@
+{{ define "main" }}
+  <article class="mt-32">
+    <a class="block my-8 text-md text-gray-700" href="/bookmarks">← Back</a>
+    {{ $headless := .Site.GetPage "/bookmarks/images" }}
+    {{ $src := $headless.Resources.GetMatch (printf "*%s*" (.Params.uuid)) }}
+    {{ with $src }}
+      {{ $smol := .Fill "1200x600 webp" }}
+      <img class="w-full rounded-lg shadow-lg" src="{{ $smol.RelPermalink }}"/>
+    {{ end }}
+    <header class="my-2 line-clamp-1">
+      <h2 class="text-center no-underline text-gray-700 text-lg">{{ .Title }}</h2>
+    </header>
+    <div class="content">
+      {{ .Content }}
+    </div>
+    <a href="{{ .Params.bookmarkOf }}" class="mt-8 block text-center shadow-md text-white bg-sunray-600 rounded-sm w-full p-4">🔗 View source </a>
+  </article>
+{{ end }}
+

@@ -1,0 +1,110 @@
+---
+tags: craigmod, roden
+categories:
+- newsletter
+source:
+bookmarkOf: https://craigmod.com/roden/056/
+title: Big Walk Energy, Story Demystified, Film Review
+date: '2021-06-23T18:38:00+02:00'
+headImage: https://craigmod.com/roden/img/056/056.jpg
+uuid: 22b9cb88-4c26-41aa-bc85-d83e1c37933d
+description: We walked a lot, now let's get to work
+---
+
+  
+[![](/roden/img/056/056.jpg)](/roden/056/)
+
+Rodenians —
+
+Wow. Hello. Hello from the other side of a 464 kilometer walk and everything else these past seven weeks. This is [_Roden_](https://craigmod.com/roden/), the usually monthly newsletter from me, [Craig Mod](https://craigmod.com/about/), made free for all by the generous support of the 1,000+ paying members of [SPECIAL PROJECTS](https://craigmod.com/membership/).
+
+The second edition of my book [_Kissa by Kissa_](https://shop.specialprojects.jp/products/kissa-by-kissa-2nd-ed) sold out a few weeks ago — thank you! The third edition is (hopefully) entering production soon. Making a few little tweaks. You can [sign up to get a single email](https://mailbot2000.craigmod.com/h/r/63A0C5B5E3F820FE2540EF23F30FEDED) when the third edition is released. We’re aiming for end of July (but it might take a bit longer).
+
+I’m going to run my Q2 “Board Meeting” for SP members sometime in the next week or two. (Members will get an email with details soon.) These board meetings are where I go over what I’m working on, the creative schedule for the rest of the year, and look back on what has been made so far.
+
+And: [I released a new limited edition photograph print](https://shop.specialprojects.jp/products/tokaido-1-print-limited-ed-30). Edition of 30, B5-sized, signed and numbered. Printed by me in my home studio on acid- and lignin-free paper using archival inks. As of publishing this, 12 prints left. Yearly members get $50 off (a coupon is auto-emailed to you once you buy a Yearly memberbership).
+
+#### Big Walk Energy
+
+My just-completed 25-day walk was energizing, creatively fecund, and satisfyingly physical. Difficult and sometimes yell-into-the-woods annoying — sure — but largely wonderful, and, anyway, the difficult bits fade quickly from memory and all that’s left is a kind of walking sprezzatura. Forty-three kilometer day? What a breeze! Here’s an annotated map of the full swizzle:
+
+[![a walk around the kii peninsula](/roden/img/056/walkmap-small.jpg)](/roden/img/056/walkmap.jpg)
+
+I basically traced a line along the coast of the Kii Peninsula covering Mie and Wakayama Prefectures, starting in Yokkaiichi (northeast) and ending in Tanabe (west). I walked the Ise Kaido, 80% of the Ise-ji, a bit of the Nakahechi, and the entirety of the Ohechi routes of Kumano Kodō. With this under my belt, adding in the [many](https://walkkumano.com), [many past walks](/books/koyabound/) I’ve done in this area (multiple full Nakahechis, Kohechis, Omine Okugakemichis, and Ise-jis), I’ve now covered (almost?) every meter of every “major” (or at least UNESCO-certified) historic path of the peninsula. There are a few other bit and bobs, but for the most part, we have Walk Completed™ Kumano Kodō. (I suppose one last remaining section would be to walk from Tanabe to Osaka; another time!)
+
+As usual, I could fill twenty newsletters about the experience and will start doing so over on [_Ridgeline_](https://craigmod.com/ridgeline/) in the next week or two.
+
+In terms of creative output, while walking anywhere from 15-43 kilometers each day, I managed to also produce:
+
+*   30 issues of _Where are all the Nightingales?_ my pop-upnewsletter (soon to be archived and available for SPECIAL PROJECTS members to peruse)
+*   Which contained some 30,000+ words (!!)
+*   25 [_Nothing Exciting in Japan_](https://youtube.com/playlist?list=PLgKA2YbcSq1VbzAp4unQ8VPwgup4-drcv) videos of absolutely nothing exciting happening each day of the walk
+*   3,000+ photographs, all base-culled and semi-starred and put into a mildly coherent ranked order
+
+When I set out on these walks I often get a dozen emails from folks asking if they can join me for a day or meet up along the way. Maybe they live in a town I’m passing through. Maybe they’re nearby and will drive in. My default response is “I’m sorry but I can’t.” I’m flattered to be asked, but in order to do the work I’m doing on these walks, solitude — and sustained solitude — is non-negotiable.
+
+Think of it this way: When I work on a book I have my Writing Room. I go into the Writing Room and turn off the internet and block distractions and do the Writing Room work. Even someone else simply sitting in the room would change the tenor of the self-ensorcellment that’s required for “flow” or “voice acquisition.”
+
+Mainly, I’m an introvert through and through. And like many introverts, I can do that performative thing of turning on the charm and being sociable and seeming like a “normal member of society,” but what you don’t see is how post-performance I am but a husk of a human. The recharge time is slow and vast. Creative work is (near) impossible in that state. Even to meet someone fleetingly for a beer or coffee would (almost certainly) put me into zonk-mode for a day (I know, I know — such a delicate flower, this one).
+
+Because — for me — and this is something I finally realized on this last walk — — a solo walk is like entering into that Writing Room, except the entirety of the world is the room. Alone, walking those countryside villages roads and paths, I am in a near constant state of writing — either working paragraphs over in my head or dictating to my phone. I can’t shut up the writing voice. Remove distractions (podcasts, internet access, _et cetera_) and the voice goes wild, becomes a loquacious maniac and it’s all I can do to catch it in the act of transmuting emotions and objects into language, reel it in, deflate some of its hyperbole and pin it down on the page. The encounters that happen on the road with farmers, truck drivers, convenience store workers, _kissa_ owners, inn folk, Irish Catholic priests, flies, snakes, whatever — that’s all grist for the Insatiable Voice and the Work To Be Done. Those interactions and the creative work at hand are intimately intertwined. And so my ever-dwindling social energy stock must be saved for strategic deployment at these moments of chance.
+
+Reductively: The walk day is one of collection. The night is one of synthesis (and laundry and unpacking and re-packing and heating up noodles and chatting with inn owners and sometimes moving inns because, yikes, this place is full of centipedes and there’s a brand-spankin’-new just-opened Marriott around the corner (why? why??? Marriott executives, why did you build a swanky Marriott in the equivalent of a Japanese shotgun shack bayou grove? (I mean, I’m not complaining, just wondering what kinds of local wink-wink political handshakes had to happen for this place, a place without guests and modernist lighting and inscrutable lobby sculptures to suddenly emerge whole-hog from the countryside dirt.))). The solitude of the day feeds into the creative work of the night, which also happens — almost by definition — in solitude.
+
+Done well, the machinery of the system picks up a kind of creative momentum and before long you’ve been both more physically active and more creatively productive during a few weeks of walking than you had been for the past few months. The days are full and it feels _GOOD_.
+
+And anyway, there’s something _fun_ about the solo component, even when you do find bugs in your underwear. (Which you will, eventually — thousand-legged horrors with pincer mouths and poisoned guts to be vomited upon your skin (the newsletter title that day: “Nightmare Morning, Pee Everywhere.”)) The biggest negative is coming out the other side; as anyone who has done a huge push (athletically or in business or the arts) knows, postpartum depressive tendencies are real (I just spent six months training for this marathon! Now what? (Well: Go for another run, of course. (Alas, easier said than done.))). I’ve spent the last two weeks coming off the incredible high of full days spent activating the whole body from toe to cortex. I’ve filled these downward-facing days with calls with friends and reading and films and that seems to have buoyed the spirits.
+
+Since I’ve been watching so many films, let’s talk about storytelling.
+
+#### Engineering Taste
+
+Ever since my intense Summer of Workshopping at the Iowa Writer’s Workshop back in 2015, I’ve found my eye towards storytelling grow more and more critical (I think in a good, non-dickish way?). Basically, in a workshop, you end up reading a bunch of stuff you’d perhaps normally never read (for example, that summer I went from having read zero to several million gay sex scenes; that was also the summer I had a nice lunch with Garth Greenwell, just before (right after?) [his excellent debut](https://amzn.to/3qjputW) and he became the Deity of Hardcore Sex as Art on the page), and then you write letters to the authors (your classmates) of those things you’d maybe never otherwise read (so it’s all kinda fresh), and you try to — with the most compassionate and empathetic and generous heart — convey what you thought they were doing on the page back (this gets dicey) to them in the letter (gentle, gentle now), and with that perceived intention in mind, offer guidance on how they could possibly (geeeentleee), maybe (watch it), hit that target with more oomph? It’s a very delicate thing, these letters. But I found writing them — _so many of them_ — to be the wax-on wax-off for demystifying storytelling.
+
+Because — do this enough and you don’t necessarily have storytelling x-ray vision but you certainly begin to “feel” what works and doesn’t work and build up mental sensors for _why_ stuff is or isn’t working. With each thoughtful read and response, story sheds itself of its general hand-wavy impenetrability (this is a good thing!) and each piece of work begins to fulfill or miss a set of Core Storytelling Qualities. Now, of course these aren’t steadfast, and these are just _my_ little set of questions I’m asking whenever I watch a film or read a book or an essay. (Not gospel!):
+
+*   Fundamentally, above all, is the thing “respecting” the medium and us, the audience? Respect is earned from the work having been iterated on. Note: This has nothing to do with personal preference or enjoyment, but simply: has this thing undergone proper iterative process? Looked over with a critical eye, revised, looked over some more. The piece in hand can be utterly insane, totally wacky, but what it can’t be is a lazy un-revised draft.
+*   Is the thing “earning” its editorial choices? That is, if a movie or book _is_ being super wacky or unconventional, is it earning the right to be unconventional? This can happen a number of ways: through self-awareness and an understanding of its place and context in the history of other wacky, unconventional things. Is it properly using the unconvention as a tool? Or is the piece committing the most egregious Sin of Art: Using artifice as a crutch to avoid the hard work of setting clear goals and understanding itself (usually through revision / iteration)?
+*   Does the end — in the end — justify the inclusion of what it contained? (i.e., Was the fat properly trimmed? Aka: “Does that blowjob scene in _Brown Bunny_ really belong there?”)
+
+Anyway, _bla bla bla_ “theory,” let’s look at some stuff I’ve watched recently with these qualities in mind (I’ll talk about books in the next issue):
+
+![the father](/roden/img/056/father.jpg)
+
+#### Film Notes
+
+[_The Courier_](https://www.imdb.com/title/tt8368512/) (2021): Perfect pacing. An exemplar of getting into the meat of story immediately while simultaneously world / era building. Overall, a very good “straight” film — in that there are no twists or “avant garde” moves, no lyricism to the edit, just pure craft and skill, like witnessing a simple bowl come to shape in the hands of a master potter. It trusts the material to carry itself without additional “gotchas” and it works and, man, does it move. Impressive. Oozes respect, razor sharp goals, and absolutely fat free. (Reminded me in part of [_The Lives of Others_](https://www.rogerebert.com/reviews/the-lives-of-others-2007-1) (2006), also a superb film and a less “straight” (i.e., “pop”) take on the topics; might make a nice double feature.)
+
+_Army of the Dead_ (2021): I watched the first forty minutes (and then stopped) and it is, I swear to God, the worst forty minutes of film I’ve ever seen. It’s so spectacularly bad on every level — story, setup, acting — that it enters into some distilled hell in which every restaurant is a Guy Fierei restaurant with Carrot Top as your maître d’. This film is _instructive_ in its badness. The problem is, unlike cult genre film favorites (which are “bad” and fun), _Army of the Dead_ is all performative lightness (ha ha! zombies!! but zombies with a _twist_!) crippled by the underpinning of abject and total self-seriousness (Behold, A Movie is Being Made) while simultaneously _clearly_ not having been iterated on at all. The end result is a sense of zero respect for those of us watching the action, but I’m sure the folks making it had a blast. Which, I think is normally just called cosplay? If you want to see this genre of turn-off-the-brain done right, _Fast and Furious_ (dumb, fun, super clear goals, justified dingdongery) is the way to go. 1
+
+_Nobody_ (2021): I was poised to dislike this (_John Wick_ Part 12?) but, heck, it fulfills our criteria: Clear, refined purpose, the setup is dumb but clean, and by the end, even blood-lusting geriatric Christopher Lloyd makes sense. Self-aware, not self-serious, I wouldn’t watch it again but hooray.
+
+[_The Father_](https://www.sonyclassics.com/film/thefather/) (2020): Damn. A kinda flawless gem? I mean, I know saying _Army of Dead_ is garbage (sorry Zack! But a) I’m sure you got paid well, and b) I actually enjoyed _Batman v Superman_ (????) (I did watch it on a plane, who knows what was going on in my mind)) and saying _The Father_ is great makes me look like a French Movie Snob where only the outré delights, but Anthony Hopkins and Olivia Colman are, as the movie dorks are wont to say — _marvels_. Based off Florian Zeller’s 2012 play (this is also his directorial debut), takes places in a single apartment, insanely clear goals present throughout a script that has been worked and reworked into a marvel of storytelling tightness. Just — boom, delivers, and by the time it ends every single second has a hand-chiseled spot in the greater whole. Not an _easy_ film to watch but a damn fine one and will probably do so again. Best not to watch on gummies.
+
+[_Glengarry Glen Ross_](https://en.wikipedia.org/wiki/Glengarry_Glen_Ross_(film)) (1992): Sticking with the plays-to-films genre — this David Marmot masterpiece holds up. If you know anything from this film you know “Always Be Closing,” and have perhaps watched a YouTube clip of Alec Baldwin berating a bunch of middle-ages salesmen. Total respect for the viewer, starts _in medias res_ and runs with the beautiful mess of language of these foul-mouthed, Chicago hucksters. Sad sad sad. Pacino sings. A closely observed world perfectly rendered.
+
+[_Pig_](https://www.youtube.com/watch?v=gH6vhlNTLUk) (2021?): Only a trailer but I don’t care if this was drafted in four minutes while free falling from a helicopter — I’m all in on this one with you, Nic Cage. (Related: _Mandy_ (2018): I found _Mandy_ to be freakishly entrancing. It’s a great example of a movie that took itself so seriously that it flipped over the swing set into an entirely self-made universe of the horror-upon-horror genre. The music, the visuals — it’s a psychotic masterpiece and while maybe not everything is “justified” in the end, you will feel as if you have _gone somewhere_ you’ve never been before and have been respected (abused?) as a viewer. A strong vision, executed with relentless focus. Bravo, Panos Cosmatos, you strange human, you.)
+
+_Mosquito Coast_ (2021): I got two episodes in and had to drop it — it just didn’t feel like the script was worked over enough. I’ve gotten sensitive to this, and have no shame in tapping out.
+
+_Mare of Easttown_ (2021): Came highly recommended. Overall … I guess I enjoyed it? Relentlessly grim with little payoff. Everyone is a mess. That said: Big respect to all who took part, but I found the layers and layers of (utterly unpredictable) twists and red herrings undermined the otherwise well-crafted characters. They nailed time and place and I think could have had more faith in a less circuitous script. Also casting issues (Guy Pearce was so uncanny and distracting). Again, see _The Courier_. Perhaps if your story requires so many unforeseeable turns, the fundamental mystery / story itself isn’t that interesting? Artifice, beware! (Especially when you have strong characters!)
+
+[_Minari_](https://a24films.com/films/minari) (2020): An antipode to _Army of the Dead_. A movie that gives a shit. Simple, clear storytelling done with beautiful technique and cinematography — every frame a painting, indeed. Refined script, excellent acting. More of this, please. (In general A24 is a pretty good filter.)
+
+_Master of None Presents: Moments in Love_ (2021): Oozing with Ozu inspiration, static camera let-life-unfold-aplenty. I admit: I found myself wondering a few times, “Is the film earning this minute-long shot of Denise eating a sandwich in her car?” and in the end I think — YES. Yes, it earned it. Something really special going on overall, casts a spell, feels atemporal and beyond geography (where is this home? I honestly had no idea for the first couple hours and that was a good thing); I watched twice. Not an “easy” watch (some _The Father_ vibes of “realness”, and overall slots within the genre of theater-transposed-to-film) but lands in a way (emotionally, cinematically) that justifies the inclusion of even the more seemingly indulgent shots. Unique, and a wonder (miracle?) that this sits side-by-side with _Army of the Dead_ in the Netflix interface/pantheon. (Also makes you wonder: Are we primed for a “better” Netflix? Could Criterion be that? (I don’t think so.) Why do we have to work so hard to find “the good stuff” in these messes of interfaces? HBO (Max? Go? Mega? +?) seems to be the closest we got to this.)
+
+And on and on. (This is just the last month.)
+
+Directors I plan on revisiting soon: Kieślowski’s [_Three Colors Trilogy_](https://en.wikipedia.org/wiki/Three_Colours_trilogy) (1993-94) is — on a scene-by-scene level — so mesmeric and closely observed, he’s given a total pass for any flaws you might find. Paul Thomas Anderson also gets the pass — even if you don’t enjoy the _entire_ package (i.e., _The Master_ (2012)) you know that there is nothing to chance, nothing without consideration. And anyway, with a films like _Phantom Thread_ (2017) and _There Will Be Blood_ (2007) (How many times have I watched this? A dozen?) under his belt, the man can do as he pleases.
+
+Phew. I have a request for you folks out there: Please help me understand _Chinatown_! I’ve watched _Chinatown_ (1974) twice and have disliked it _very much_ both times. What am I missing? The script seems sloppy, the story is utterly uncompelling, the big twists are anodyne … outside of Jack the acting is a bit gooftastic and the whole Chinatown element is weirdly racist. It’s actually a great example of [not “earning” its use](https://www.vulture.com/2019/10/author-alexander-chee-on-his-advice-to-writers.html) of “Chinatown.” (Earning is important; for example: My original draft of that _Army of the Dead_ ‘graph above started with “It’s as close to having Zack Snyder skeet directly into your eyeballs as you’ll get.” but felt I hadn’t earned that line.) Chinatown in _Chinatown_ seems to simply be a surrogate for “other” or “place of mystery” without actually _doing anything_ in the greater story whole. Was LA’s Chinatown in 1974 so odd and unknowable of a place? Was it that much of a vibe that by simply whispering the name — _Chinatown_ — folks’ minds would be filled with intrigue and murder? I truly don’t get it, and in moments like this I get paranoid — is my not getting it a symptom of my bumpkin-esque a-cultural upbringing? I was raised on _Mary Poppins_ and perhaps, like my inability to hear the tones in the Chinese language, I am unable to see the sheer brilliance of _Chinatown_? I do enjoy the genre — I thought _Maltese Falcon_ (1941) was fantastic. But why is this film on so many top-ten lists?
+
+Doing work, thinking about working, observing the work of others.
+
+More soon. June is almost done.
+
+C
+
+![tennis](/roden/img/056/tennis.jpg)
+
+_\[1\] I have a general rule where I’m not “allowed” to point to stuff I dislike. The idea goes: If you have a platform (hello everyone out there) then there is an (almost) ethical onus to use it to amplify good / positive things in the world, not slap down garbage. But!! — I thought this was such a great example of how fast and loose mega-high-budget movies are today by dint of the “streaming wars” and the essentially “infinite” war chests of Amazon / Netflix / Apple / HBO, that it was worth bringing up. It is distinctly “of” this moment. Like — behold: This is our world, high-gloss cranked to 11. In general: There’s a _lot_ of bad / mediocre films/documentaries/tv shows out there. Probably more than ever in the history of media production. Simply because so much is being produced. But there’s also a ton of good — i.e., A24 and its stable. So I’d prefer to hold myself up to a standard of pointing to the subset of Great Work. But sometimes antipatterns are important — watch the first forty minutes of _AotD_ and take notes on how off it all feels. I suspect you’ll learn something._

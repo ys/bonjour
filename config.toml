@@ -67,9 +67,13 @@ canonifyURLs = false
   baseName = "feed"
   isPlainText = true
 
+[outputFormats.SearchIndex]
+  baseName = "search"
+  mediaType = "application/json"
+
 [outputs]
   home = [ "html", "rss", "jsonfeed" ]
-  section = [ "html", "rss", "jsonfeed" ]
+  section = [ "html", "rss", "jsonfeed", "SearchIndex" ]
   page = [ "html", "md"]
 
 [related]
