@@ -34,7 +34,7 @@
         "@type": "Language",
         "name": ["French","English"]
       },
-      "image" : {{- $images := $.Resources.ByType "image" -}}{{- $featured := $images.GetMatch "*feature*" -}}{{- $featured := cond (ne $featured nil) $featured ($images.GetMatch "{*cover*,*thumbnail*}") -}}{{- with $featured -}}{{ $featured.Permalink }}{{ else -}}{{- with $.Site.Params.images -}}{{ index . 0 | absURL }}{{ end }}{{ end }},
+      {{- $images := $.Resources.ByType "image" -}}{{- $featured := $images.GetMatch "*feature*" -}}{{- $featured := cond (ne $featured nil) $featured ($images.GetMatch "{*cover*,*thumbnail*}") -}}{{- with $featured -}}"image" : {{ $featured.Permalink }},{{ else -}}{{- with $.Site.Params.images -}}"image" : {{ index . 0 | absURL }},{{ end }}{{ end }}
       "author" : {{ range .Site.Author }}{{ . }}{{ end }},
       "creator" : {{ range .Site.Author }}{{ . }}{{ end }},
       "publisher": {{ range .Site.Author }}{{ . }}{{ end }},
