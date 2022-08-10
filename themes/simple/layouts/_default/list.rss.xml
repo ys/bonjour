@@ -1,4 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>{{ if eq  .Title  .Site.Title }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}</title>
     <link>{{ .Permalink }}</link>
@@ -20,6 +20,13 @@
         {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
         <guid>{{ .Permalink }}</guid>
         <description>{{ .Content | html }}</description>
+        {{- $images := .Resources.ByType "image" -}}
+        {{- $featured := $images.GetMatch "*feature*" -}}
+        {{- $featured := cond (ne $featured nil) $featured ($images.GetMatch "{*cover*,*thumbnail*}") -}}
+        {{- $featured := cond (ne $featured nil) $featured (index $images 0) -}}
+        {{ with $featured }}
+        <media:content medium="image" url="{{$featured.Permalink}}"/>
+        {{ end }}
       </item>
     {{ end }}
   </channel>
