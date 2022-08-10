@@ -1,7 +1,8 @@
 {{ define "main" }}
+<article class="h-entry">
   {{ partial "article_header" . }}
   <div data-pswp class="mb-10 content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
-    <div class="prose post">
+    <div class="prose post e-content">
       {{ if (in .Site.Params.showCover .Type) }}
         {{ $allimages := slice }}
         {{ if isset .Params "images" }}
@@ -54,4 +55,5 @@
     {{ end }}
 </div>
 {{ partial "article_navigation" . }}
+</article>
 {{ end }}
