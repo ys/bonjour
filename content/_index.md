@@ -16,5 +16,6 @@ Yannick aime [raconter des histoires](/posts),  [capturer des moments](/daily)
 et vous écrire une [petite lettre](/bonjour) qui parle de tout et de rien.
 Il produit aussi [des tirages limités](/shop) de ses photos favorites.
 
-{{< grid images=" 15 | 6 / 32 | 33" >}}
+{{< grid wide="bala" images=" 15 | 6 / 32 | 33" >}}
 
+{{< letter account="bonjouryannick" accent="sunray" msg="💌 Ma petite lettre" >}}

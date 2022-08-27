@@ -49,6 +49,18 @@ J'ai un gros faible pour le bon café. V60, Kalita, Aeropress ou un bon flat whi
 
 🖨 → Mes prints viennent de chez [Ooblik](https://ooblik.com) & [Négatif+](https://negatifplus.com). Je viens de faire [mon premier zine](/shop/a-thousand-tides) avec [Ex Why Zed](https://exwhyzed.co.uk) mais il est sold out pour le moment.
 
+## Social 
+
+Je colle mes photos et des mots un peu partout:
+
+- [glass.photo](https://glass.photo/yannick)
+- [imgs.so](https://imgs.so/bonjouryannick)
+- [instagram.com](https://instagram.com/bonjouryannick)
+- [twitter.com](https://twitter.com/bonjouryannick)
+- [vsco.co](https://vsco.co/bonjouryannick)
+
+C'est possible que j'en rajoute et en teste d'autres, je me lasse d'Instagram.
+
 ## Colophon
 
 Ce site est statique et fait avec [Hugo](https://gohugo.io). Il est hébergé chez [Vercel](https://vercel.co). Optimisé avec mes mains et beaucoup de patience. Le code source est sur [GitHub](https://github.com/ys/bonjour). Les images sont optimisées par une GitHub Action de [Calibre](https://calibreapp.com/blog/compress-images-in-prs).
