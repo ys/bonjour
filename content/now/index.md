@@ -43,6 +43,10 @@ J'écris [une petite lettre](/bonjour) sur tout et rien *environ* toutes les deu
 
 J'ai un gros faible pour le bon café. V60, Kalita, Aeropress ou un bon flat white. Je suis souvent partant. Même si mon corps me dit de ralentir. N'ayant pas eu ma dose de boissons lactées depuis un moment, on a sauté le pas pour une machine à espresso semi automatique. Je ne suis toujours pas bon en latte art.
 
+*Mise à jour le 2022.08.28. Si tu veux en savoir plus sur la page /now, [suis ceci](https://nownownow.com/about).*
+
+<hr/>
+
 ## Favoris
 
 📷 → Mes films sont développés et scannés principalement par [Mori Film Lab](https://morifilmlab.com).
@@ -71,4 +75,3 @@ Tout le contenu est copyrighté mais n'hésitez pas à demander si vous voulez l
 
 **Contact:** [hello@yannickschutz.com](mailto://hello@yannickschutz.com)
 
-*Mise à jour le 2022.08.28. Si tu veux en savoir plus sur la page /now, [suis ceci](https://nownownow.com/about).*
