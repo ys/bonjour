@@ -18,6 +18,6 @@ Il produit aussi [des tirages limités](/shop) de ses photos favorites.
 
 Il aime parler de tout et de rien, a pas mal de [jolis livres](/on-paper), lit pas [mal de trucs](/books) et archive ce qu'il [regarde en ligne](/bookmarks). Ce site, c'est un peu une partie de son cerveau en markdown et mis en page.
 
-{{< grid wide="bala" images=" 15 | 6 / 32 | 33" >}}
+{{< grid wide="bala" images=" home-2 / home-7 | home-8 /  home-6 | home-3 / home-4 | home-5 " >}}
 
 {{< letter account="bonjouryannick" accent="sunray" msg="💌 Bonjour - Une belle newsletter" >}}
