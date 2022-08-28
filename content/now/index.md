@@ -26,11 +26,13 @@ On est en train de monter un super projet de gîte avec Cloé. Tu devrai suivre 
 J'ai arreté plus ou moins la photo numérique. Je ne fais quasi que de l'argentique. C'est un vrai plaisir de prendre le temps et de devoir attendre ses photos. Je shoote beaucoup de Portra 400 de chez Kodak. J'en apprécie d'autres aussi, surtout vu le prix de la Portra dernièrement.
 
 Mon matos actuel:
-- Mon second [Olympus XA](/olympus-xa)
 - [Leica M6](/leica-m6) avec un Voigtlander Nokton Classic 35mm 1.4
 - [Nikonos V](/nikonos-v) avec son 35mm
+- Un petit Yashica T4 safari.
 
 J'ai abandonné l'idée de scanner à la maison car au final, j'ai une super relation avec [mon labo](https://morifilmlab.com). C'est encore mieux.
+
+J'utilise moins mon second [Olympus XA](/olympus-xa) car au final, le Yashica et le Leica font un bon combo.
 
 J'ai commencé à faire de la [photo dans l'eau](/nikonos-glaz) armé de palmes et du Nikonos. C'est une petite drogue cette eau salée. J'ai craqué pour un longboard avec un pintail shapé par [Mimosa](https://www.mimosa-surfboards.com). Je l'ai racheté à [Hugo Crescent](https://www.instagram.com/hugo_crescent/). Un beau pig de 9'6", la board pas Hugo. Ça ne fait pas de moi autre chose qu'un kook.
 
@@ -69,4 +71,4 @@ Tout le contenu est copyrighté mais n'hésitez pas à demander si vous voulez l
 
 **Contact:** [hello@yannickschutz.com](mailto://hello@yannickschutz.com)
 
-*Mise à jour le 2022.06.08. Si tu veux en savoir plus sur la page /now, [suis ceci](https://nownownow.com/about).*
+*Mise à jour le 2022.08.28. Si tu veux en savoir plus sur la page /now, [suis ceci](https://nownownow.com/about).*
