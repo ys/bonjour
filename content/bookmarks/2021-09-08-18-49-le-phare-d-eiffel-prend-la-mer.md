@@ -12,4 +12,3 @@ description: Paris a la Tour Eiffel, la Bretagne à le phare d'Eiffel ! Conçu e
   par le célèbre ingénieur Gustave Eiffel, le phare de Moguériec, à Sibiril, était
   en t...
 ---
-

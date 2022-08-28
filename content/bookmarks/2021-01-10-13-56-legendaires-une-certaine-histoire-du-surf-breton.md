@@ -9,4 +9,3 @@ uuid: dbdbd478-d089-4670-81c5-dacaed040d97
 description: This is "LÉGENDAIRES, UNE CERTAINE HISTOIRE DU SURF BRETON" by Christian
   Roche on Vimeo, the home for high quality videos and the people who love them.
 ---
-

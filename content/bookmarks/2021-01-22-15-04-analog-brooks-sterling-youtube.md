@@ -12,4 +12,3 @@ description: Analog is a series of stories that explores the current state of fi
   photography. In this story, we follow artist and photographer Brooks Sterling as
   he pre...
 ---
-

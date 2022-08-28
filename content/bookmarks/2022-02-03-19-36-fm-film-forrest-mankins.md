@@ -30,13 +30,4 @@ I’ve never put more effort into making a set of presets. Sure, I’ve put ever
 These presets will work on your computer, tablet, and even on your phone with the free Lightroom Mobile app (included with your download are instructions for installation on your phone).
 
 What’s included with your instant download?
--------------------------------------------
-
-*   FM Film - **34 Presets and 3 Grain Profiles**, compatible with Lightroom CC, Lightroom Classic CC, ACR, and Lightroom Mobile
-    
-*   FM Film Guide - A simple 4 page PDF that outlines how to use FM Film, and an overview of all of the included presets.
-    
-*   Link to the DNG File Download for installing on your phone using the free Lightroom Mobile app
-    
-
-\-The instant download link will instantly be delivered to the email you specify during checkout-
+---

@@ -82,26 +82,4 @@ Quelques mois ont passé depuis ma commotion, mais ma convalescence est loin d�
 —
 
 Des temps nouveaux
-------------------
-
-Cet article est tiré de notre plus récent numéro: Des temps nouveaux
-
-[ACHETER MAINTENANT](https://shop.beside.media/fr/products/issue-11)
-
-*   [Facebook](#)
-*   [Twitter](https://twitter.com/intent/tweet?text=Prompt%20r%C3%A9tablissement&url=https%3A%2F%2Fbeside.media%2Ffr%2Fnouveaux-recits%2Fprompt-retablissement%2F&via=beside_media)
-*   [Copier le lien](#)
-
-![](https://beside.media/wp-content/themes/new-theme/dist/images/tuile-icon-1.png)
-
-Deux numéros par année
-
-![](https://beside.media/wp-content/themes/new-theme/dist/images/tuile-icon-2.png)
-
-25% de réduction sur les numéros précédents
-
-![](https://beside.media/wp-content/themes/new-theme/dist/images/tuile-icon-3.png)
-
-Livraison gratuite au Canada
-
-Pour recevoir les dernières nouvelles et parutions, abonnez-vous à notre infolettre.
+---

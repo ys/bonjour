@@ -11,7 +11,3 @@ description: Like brushing your teeth, if you do it every morning, it'll make yo
 tags: []
 date: 2022-01-03 19:20:37.498884637 +00:00
 ---
-
-We value your privacy. We use cookies to provide the best site experience possible. By using our site, you’re acknowledging that you accept our [Terms of Service](/terms) and [Privacy Policy](/privacy-policy) and that they’re OK with you.
-
-×

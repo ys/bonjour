@@ -71,12 +71,4 @@ Leur relation avec la nature est intime. La mer et la terre sont sources de vie 
 —
 
 Numéro 09
----------
-
-Cet article a paru dans notre plus récent numéro
-
-[Commandez-le maintenant](https://shop.beside.media/fr/products/issue-09)
-
-*   [Facebook](#)
-*   [Twitter](https://twitter.com/intent/tweet?text=La%20haute%20mer%20qui%20fa%C3%A7onne&url=https%3A%2F%2Fbeside.media%2Ffr%2Fbesiders%2Fsalmon-sisters%2F&via=beside_media)
-*   [Copier le lien](#)
+---

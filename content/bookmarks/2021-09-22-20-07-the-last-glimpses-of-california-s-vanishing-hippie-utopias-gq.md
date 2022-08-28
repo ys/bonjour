@@ -152,4 +152,4 @@ Deeper in the brush, we find a smaller cabin, its roof sagging so low its collap
 _A version of this story originally appeared in the GQStyle Fall/Winter 2021 issue with the title "The Last Glimpses of California's Vanishing Hippie Utopias."_
 
 Subscribe to GQ. [Click here >>](https://subscribe.gqstyle.com/subscribe/gqstyle/141080?source=EDT_GQM_EDIT_IN_ARTICLE_TOUT_0_GQS2021_ZZ)
------------------------------------------------------------------------------------------------------------------------------------------
+---

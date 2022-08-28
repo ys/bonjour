@@ -12,4 +12,3 @@ description: Rahaf Harfoush est une anthropologue du numérique canadienne mais 
   chance elle parle parfaitement français. Avec elle nous abordons la plus mauvaise
   habit...
 ---
-

@@ -20,7 +20,3 @@ tags:
 - Compass
 date: 2022-06-30 16:56:11.509520127 +00:00
 ---
-
-![One moment please](https://d1dh4fomm3d62b.cloudfront.net/assets/loading-spinner-dark-08a57d4327894a9f847067b1884635f6960c99f43d71f3dfe41565d4bca0741f.svg)
-
-Loading

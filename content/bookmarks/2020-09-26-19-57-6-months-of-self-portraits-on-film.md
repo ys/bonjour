@@ -10,4 +10,3 @@ description: As quarantine set in back in March, Joe was really down. So, to get
   of the funk, he started a daily self-portrait project with his daughter, Lena. He
   ori...
 ---
-

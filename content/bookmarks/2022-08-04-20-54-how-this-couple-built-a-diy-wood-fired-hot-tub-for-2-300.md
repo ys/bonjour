@@ -9,5 +9,3 @@ description: Elias and Theresa Carlton built a stylish wood-burning hot tub for 
 tags: []
 date: 2022-08-04 20:54:31.163834884 +00:00
 ---
-# How This Couple Built a DIY Wood Fired Hot Tub for $2,300
-

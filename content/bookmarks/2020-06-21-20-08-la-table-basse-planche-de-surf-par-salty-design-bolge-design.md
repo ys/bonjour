@@ -9,9 +9,3 @@ uuid: ab403a8b-4242-451b-b75f-883fbb0a7937
 description: Salty Home est une marque de décoration et de meubles inspirée par le
   Surf.
 ---
-
-_"The spirit of Surfing directly into your home._" - **MODERNIST**  
-
-_"Salty brings Surfing into your living space."_ - **DESIGN HOME**
-
-_"A handful of tailor-made tables and in-home decor catered to the intricacies of the surf culture"_ - **HICONSUMPTION**

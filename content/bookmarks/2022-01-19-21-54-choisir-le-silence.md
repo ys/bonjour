@@ -39,12 +39,4 @@ Chaque moment est devenu plus significatif — et, pour le vivre, rien de mieux 
 —
 
 Renouer avec les sons du silence
---------------------------------
-
-Un mini-guide par Gabrielle Anctil
-
-[LIRE L'ARTICLE](https://beside.media/fr/atelier/renouer-avec-les-sons-du-silence/)
-
-*   [Facebook](#)
-*   [Twitter](https://twitter.com/intent/tweet?text=Choisir%20le%20silence&url=https%3A%2F%2Fbeside.media%2Ffr%2Fnouveaux-recits%2Fchoisir-le-silence%2F&via=beside_media)
-*   [Copier le lien](#)
+---

@@ -10,7 +10,3 @@ description: 'Whatever "shelter" means to you, I think we can all agree: we''re 
   a little extra attention to the thoughtful details that make spending time at home
   feel more like a breath of fresh air.'
 ---
-
-We value your privacy. We use cookies to provide the best site experience possible. By using our site, you’re acknowledging that you accept our [Terms of Service](/terms) and [Privacy Policy](/privacy-policy) and that they’re OK with you.
-
-×

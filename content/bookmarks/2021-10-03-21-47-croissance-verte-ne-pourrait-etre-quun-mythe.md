@@ -20,10 +20,4 @@ Décryptage : [La décroissance : d’où vient ce concept politique qui fait 
 A l’inverse, les candidates Delphine Batho et, dans une certaine mesure, Sandrine Rousseau ont affirmé leur volonté de rompre avec ce qui demeure, pour l’écrasante majorité d’entre nous, le principal indicateur du succès des politiques publiques. La probabilité que ce positionnement fasse florès hors de l’écologie politique est très faible : historiquement, toutes les remises en cause de l’exigence de croissance et tous les travaux académiques montrant l’inanité de cet indicateur (il en existe un très grand nombre) ont suscité un intérêt bref et souvent confidentiel, avant de disparaître de l’horizon.
 
 Découplage « impossible »
--------------------------
-
-_« La croissance est ancrée dans la culture, la politique et les institutions,_ résume dans une note récente l’Agence européenne pour l’environnement (EEA), une instance officielle de l’Union dont les productions demeurent consultatives. _Dans le monde entier, la légitimité des gouvernements est indissociable de leur capacité à assurer la croissance économique et à créer des emplois. »_ L’idée d’un monde économiquement stationnaire nous est impensable.
-
-Dans sa note, l’EEA propose un état des lieux du débat sur les liens entre environnement et croissance du PIB. Première information : depuis 1970, à l’échelle mondiale, la croissance économique est, sans grande surprise, très étroitement corrélée à l’empreinte des sociétés sur leur environnement et à leurs émissions de gaz à effet de serre. Les rares périodes de diminution de l’impact de nos activités coïncident avec les crises économiques – autrement dit de la récession pour les uns, ou de la décroissance pour les autres.
-
-**Il vous reste 55.38% de cet article à lire. La suite est réservée aux abonnés.**
+---

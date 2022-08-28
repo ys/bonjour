@@ -10,7 +10,7 @@ description: Filmmaker Graeme Jenvey discusses his $13k backyard cabin build, sh
   advice for fellow builders, and reflects on lessons learned
 ---
 
- ![Q&A: How a Self-Taught Woodworker Built a DIY Cabin in 55 Days](//images.ctfassets.net/r7p9m4b1iqbp/5jKYH9K9GiCbtJTeLBBEGT/1339df053dbb394d5a86b8da22a1d26d/DIY-Cabin-Interview-Graeme-Jenvey-6.jpg?w=10&q=1&fm=jpg&fl=progressive) 
+ ![Q&A: How a Self-Taught Woodworker Built a DIY Cabin in 55 Days](//images.ctfassets.net/r7p9m4b1iqbp/5jKYH9K9GiCbtJTeLBBEGT/1339df053dbb394d5a86b8da22a1d26d/DIY-Cabin-Interview-Graeme-Jenvey-6.jpg?w=10&q=1&fm=jpg&fl=progressive)
 
 Like many around the world, when the pandemic struck and full lockdown arrived, Charlottesville, Virginia-based filmmaker [Graeme Jenvey](https://www.youtube.com/channel/UCwxb3pguMG25hExW_KB7z7w) found a bit of extra time on his hands. To stay active, Jenvey turned to his lifelong love of the outdoors for inspiration—and leaned on his self-taught knowledge of woodworking—and decided to build a DIY cabin on the three acre plot he already lives on.
 
@@ -20,7 +20,7 @@ As an avid DIY daydreamer and aspiring log cabin owner myself, I had to learn mo
 
 The following conversation covers everything from how much it costs to build a DIY cabin in six months to what Jenvey would do differently if given the opportunity again. Read on and enjoy. And keep an eye on Jenvey's [Woodness Goodness Youtube Channel](https://www.youtube.com/channel/UCwxb3pguMG25hExW_KB7z7w) for more build updates.
 
- ![DIY-Cabin-Interview-Graeme-Jenvey-3](//images.ctfassets.net/r7p9m4b1iqbp/12xMZtFONrcTIOF7SQP2tU/738473ea29306a6741b5064fb9932af0/DIY-Cabin-Interview-Graeme-Jenvey-3.jpg?w=10&q=1&fm=jpg&fl=progressive) 
+ ![DIY-Cabin-Interview-Graeme-Jenvey-3](//images.ctfassets.net/r7p9m4b1iqbp/12xMZtFONrcTIOF7SQP2tU/738473ea29306a6741b5064fb9932af0/DIY-Cabin-Interview-Graeme-Jenvey-3.jpg?w=10&q=1&fm=jpg&fl=progressive)
 
 Give us the basic rundown of the build.
 ---------------------------------------
@@ -29,9 +29,9 @@ For the floor plan, this tiny cabin is 240 square foot, with a 12' x 20' footpri
 
 The tall wall is 12 feet high and the lower wall is 8 feet with a shed style roof. At the moment there is no bathroom or kitchen, but I am planning on building an off grid composting toilet/shower next to it this spring.
 
- ![DIY-Cabin-Interview-Graeme-Jenvey-2](//images.ctfassets.net/r7p9m4b1iqbp/qGzEhpIf1HJwpuKKtlP8p/b3758cc2ac4cf9dfa626c0611ed9282c/DIY-Cabin-Interview-Graeme-Jenvey-2.jpg?w=10&q=1&fm=jpg&fl=progressive) 
+ ![DIY-Cabin-Interview-Graeme-Jenvey-2](//images.ctfassets.net/r7p9m4b1iqbp/qGzEhpIf1HJwpuKKtlP8p/b3758cc2ac4cf9dfa626c0611ed9282c/DIY-Cabin-Interview-Graeme-Jenvey-2.jpg?w=10&q=1&fm=jpg&fl=progressive)
 
- ![DIY-Cabin-Interview-Graeme-Jenvey-13](//images.ctfassets.net/r7p9m4b1iqbp/2Frh4teeKs2CBjvP030fwe/df59f6c969d457767d2c894b898744a2/DIY-Cabin-Interview-Graeme-Jenvey-13.jpg?w=10&q=1&fm=jpg&fl=progressive) 
+ ![DIY-Cabin-Interview-Graeme-Jenvey-13](//images.ctfassets.net/r7p9m4b1iqbp/2Frh4teeKs2CBjvP030fwe/df59f6c969d457767d2c894b898744a2/DIY-Cabin-Interview-Graeme-Jenvey-13.jpg?w=10&q=1&fm=jpg&fl=progressive)
 
 How much experience woodworking did you have prior to the cabin build?
 ----------------------------------------------------------------------
@@ -42,16 +42,16 @@ Growing up in Prince George, British Columbia is probably where I fell in love w
 
 After graduating high school, I took a gap year to figure out what I wanted to do. While seeing what opportunities were out there, I stumbled into framing houses in the Toronto area. I learned quite a bit in a short amount of time and acquired the basics of working with lumber for home building.
 
- ![DIY-Cabin-Interview-Graeme-Jenvey-12](//images.ctfassets.net/r7p9m4b1iqbp/5M3spu6UmxfwbuxsLza8Ni/4b59d0dc6f9044dedc474139b3974ea6/DIY-Cabin-Interview-Graeme-Jenvey-12.jpg?w=10&q=1&fm=jpg&fl=progressive) 
+ ![DIY-Cabin-Interview-Graeme-Jenvey-12](//images.ctfassets.net/r7p9m4b1iqbp/5M3spu6UmxfwbuxsLza8Ni/4b59d0dc6f9044dedc474139b3974ea6/DIY-Cabin-Interview-Graeme-Jenvey-12.jpg?w=10&q=1&fm=jpg&fl=progressive)
 
- ![DIY-Cabin-Interview-Graeme-Jenvey-11](//images.ctfassets.net/r7p9m4b1iqbp/2YlBaV0yiUlLUHWptJyDSP/01633b6e40d479365931a7e5b6b3d812/DIY-Cabin-Interview-Graeme-Jenvey-11.jpg?w=10&q=1&fm=jpg&fl=progressive) 
+ ![DIY-Cabin-Interview-Graeme-Jenvey-11](//images.ctfassets.net/r7p9m4b1iqbp/2YlBaV0yiUlLUHWptJyDSP/01633b6e40d479365931a7e5b6b3d812/DIY-Cabin-Interview-Graeme-Jenvey-11.jpg?w=10&q=1&fm=jpg&fl=progressive)
 
 About how many working days did it take to complete the cabin?
 --------------------------------------------------------------
 
 Summing up the terabytes of footage I’ve collected during this build, it looks as though I spent almost 55 days building my small cabin. Lot’s of half days, weekends, and some summer evenings made up for most of the build. Along the way I had a few helping hands including my mom and dad, and my good buddy Max (aka the window guy). All in all I was able to do most of the work myself and learned what felt like a decades worth of knowledge during the one year build.
 
- ![DIY-Cabin-Interview-Graeme-Jenvey-7](//images.ctfassets.net/r7p9m4b1iqbp/64eJLvuRe4l0jVs6HEBF4x/4657c17940be0fa43114e63f0c112fe5/DIY-Cabin-Interview-Graeme-Jenvey-7.jpg?w=10&q=1&fm=jpg&fl=progressive) 
+ ![DIY-Cabin-Interview-Graeme-Jenvey-7](//images.ctfassets.net/r7p9m4b1iqbp/64eJLvuRe4l0jVs6HEBF4x/4657c17940be0fa43114e63f0c112fe5/DIY-Cabin-Interview-Graeme-Jenvey-7.jpg?w=10&q=1&fm=jpg&fl=progressive)
 
 What did the cabin build cost?
 ------------------------------
@@ -60,7 +60,7 @@ The total cost of this small cabin is right around $12,745. The exterior portion
 
 The only tools I purchased for the build that I didn’t own already was an auger for the piling foundation holes, a wide crown staple gun for the cedar siding, and I think that’s it. Woodwork and DIY projects have been a hobby as long as I can remember so I’ve slowly built an inventory of tools up over the years. Don’t tell my wife.
 
- ![DIY-Cabin-Interview-Graeme-Jenvey-14](//images.ctfassets.net/r7p9m4b1iqbp/37bWN1qpYPT1iDDPC2Q2bO/f80974bc60b748650e814090db6b4f7c/DIY-Cabin-Interview-Graeme-Jenvey-14.jpg?w=10&q=1&fm=jpg&fl=progressive) 
+ ![DIY-Cabin-Interview-Graeme-Jenvey-14](//images.ctfassets.net/r7p9m4b1iqbp/37bWN1qpYPT1iDDPC2Q2bO/f80974bc60b748650e814090db6b4f7c/DIY-Cabin-Interview-Graeme-Jenvey-14.jpg?w=10&q=1&fm=jpg&fl=progressive)
 
 Looking back, what is your biggest lesson learned?
 --------------------------------------------------
@@ -69,25 +69,9 @@ Looking back, I feel like I could have saved myself a lot of headache if I had p
 
 I learned almost everything as I went which is where most of my mistakes and headaches manifested. Most of my mistakes were easy to remedy, with a handful of errors taking a longer chunk of time to fix. On the bright side, the mistakes I made were big learning points that will stay with me forever.
 
- ![DIY-Cabin-Interview-Graeme-Jenvey-15](//images.ctfassets.net/r7p9m4b1iqbp/B1qAJjQTA0cnhnV20CqIG/fa664924a2c3e51cb47c8c3f1467ccda/DIY-Cabin-Interview-Graeme-Jenvey-15.jpg?w=10&q=1&fm=jpg&fl=progressive) 
+ ![DIY-Cabin-Interview-Graeme-Jenvey-15](//images.ctfassets.net/r7p9m4b1iqbp/B1qAJjQTA0cnhnV20CqIG/fa664924a2c3e51cb47c8c3f1467ccda/DIY-Cabin-Interview-Graeme-Jenvey-15.jpg?w=10&q=1&fm=jpg&fl=progressive)
 
- ![DIY-Cabin-Interview-Graeme-Jenvey-5](//images.ctfassets.net/r7p9m4b1iqbp/UogksmDhVT2yZnaLskA2x/ea6c93fa9fb2fad05aa74901adfe1e3e/DIY-Cabin-Interview-Graeme-Jenvey-5.jpg?w=10&q=1&fm=jpg&fl=progressive) 
+ ![DIY-Cabin-Interview-Graeme-Jenvey-5](//images.ctfassets.net/r7p9m4b1iqbp/UogksmDhVT2yZnaLskA2x/ea6c93fa9fb2fad05aa74901adfe1e3e/DIY-Cabin-Interview-Graeme-Jenvey-5.jpg?w=10&q=1&fm=jpg&fl=progressive)
 
 10 Do’s & Don’ts for Aspiring DIY Cabin Builders:
--------------------------------------------------
-
-*   Don’t be afraid of building something. I am far from a professional yet have been able to build this thing. Somehow.
-*   Don't limit yourself by comparing yourself to those around you. It’s easy to take the wind our of your own sails if you think those who’ve built something before you had zero mistakes or struggles.
-*   Don’t be too confident, and humble yourself by listening to others with a grain of salt. There is literally thousands of building techniques that work all over the world. Look and listen to understand why and how they work.
-*   Don’t wait too long. I had no idea that this would take me a year. I just got after it and didn’t look back. The journey was actually more rewarding than having a completed cabin I can enjoy.
-*   Don’t sell yourself short. If I told myself I couldn’t do it, you wouldn’t be reading this article. Compare any other skill you’ve acquired in your life with cabin building. Cabin building is the same, pursue it, and the learning will follow.
-
- ![DIY-Cabin-Interview-Graeme-Jenvey-8](//images.ctfassets.net/r7p9m4b1iqbp/5DVQYv4MYRv1niPW6pGogm/ed5c784cedbb48fdcd9c85bf86ea30e2/DIY-Cabin-Interview-Graeme-Jenvey-8.jpg?w=10&q=1&fm=jpg&fl=progressive) 
-
-*   Do you. Dream up what you want to build. Practical building techniques may limit you in certain areas of your idealistic cabin design, but set a foundation for the impossible. The sky is the limit!
-*   Do your homework. Study up on some framing techniques, cabin design, the pros and cons of a log cabin kit, and understand your county or city laws and permit requirements.
-*   Do make your diy project a priority. If you want a little log home badly enough, the costs of materials or even a cabin kit can easily be affordable if you prioritize it instead of new phones, TV’s, cable bills, vacations etc.
-*   Do look for land. Land prices consistently increase and even if you aren’t ready to buy some property, begin to get excited about looking because the knowledge of land pricing will give you the upper hand when you’re ready.
-*   Do it. Seriously. If I can, you can.
-
- ![DIY-Cabin-Interview-Graeme-Jenvey-16](//images.ctfassets.net/r7p9m4b1iqbp/6tfRotsxvZp6cojepKa6Td/d15cf38d91f947791f2d85bb8704016c/DIY-Cabin-Interview-Graeme-Jenvey-16.jpg?w=10&q=1&fm=jpg&fl=progressive)
+---

@@ -68,22 +68,4 @@ My personal digital garden extends well beyond this domain. Twitter, Notion, Roa
 If you'd like to hear more about some of the technical aspects of digital garden tooling with Myself, Chris Biscardi, John Otander, and Kurt Kemple we had [a panel discussion about it that you can watch here](https://egghead.io/lessons/egghead-sector-the-future-of-mdx-and-digital-gardens).
 
 Further Reading
----------------
-
-There are two articles that really got me thinking about this.
-
-The first is from Amy Hoy. [How the Blog Broke the Web](https://stackingthebricks.com/how-blogs-broke-the-web/), which is a direct discussion of this idea of sorting posts by dates and how it effectively ruined the best parts of the internet. We've moved away from hand crafted home pages that required us to curate and present our best content in the best light.
-
-The second article is from Tom Critchlow titled [Building a Digital Garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/). What I really like about Tom's piece is his discussion of the idea of "non-performative blogging" in your personal space on the web.
-
-I love this idea. Instead of "content marketing" we can use our websites to get back to what made the web awesome while also creating better resources for ourselves and our users.
-
-Right now I'm very inspired by both of these pieces, and I'm considering how it affects the way I approach my little slice of the web at [https://joelhooks.com.](https://joelhooks.com.) It is a blog, sure, but it is also a wiki. It's a spot where I can post ideas, snippets, resources, thoughts, collections, and other bits and pieces that I find interesting and useful. Instead of always being a "performance" level of blogging, it can be a looser more human endeavor that drops the idea of robots sorting the content (in this case simply by date created) and embraces the idea of curation, by me, for you.
-
-It's very exciting, and I look forward to exploring this idea more.
-
-First up for me is adding my reading notes to the site. One of my favorite books of all time is Badass: Making users Awesome by Kathy Sierra. It's been one of the major influencers for me in terms of how we run egghead.io, and is one of the best books on education that I've ever read. When it was published, I read through it, but now I am going back and re-reading it with a highlighter in hand for a deeper understanding.
-
-[Check it out](https://joelhooks.com/badass-making-users-awesome-by-kathy-sierra), and let me know what you think.
-
-You may also enjoy [this article on how I stopped giving af and started writing more.](https://joelhooks.com/on-writing-more)
+---

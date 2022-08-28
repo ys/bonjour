@@ -13,10 +13,10 @@ Dans l’article d’aujourd’hui, je vais tenter de faire le tour de ce qu’e
 
 Première chose à faire, trouver une définition du terme « Zine », ici la traduction Wikipedia semble correcte :
 
-Un zine est une œuvre auto-publiée à faible tirage de 
+Un zine est une œuvre auto-publiée à faible tirage de
 textes et d'images originaux ou appropriés, généralement reproduite via une machine à photocopier.
 Les zines sont le produit d'une seule personne ou d'un
-très petit groupe, et sont généralement photocopiés en copies physiques pour la circulation. 
+très petit groupe, et sont généralement photocopiés en copies physiques pour la circulation.
 
 Bien évidemment, le zine appliqué à la photographie est rarement photocopié, une qualité d’impression supérieure est préférable.
 
@@ -54,7 +54,7 @@ Chez Pixartprinting les prix sont dégressifs avec le délai de livraison, pour 
 
 _Détail de prix chez Pixart_
 
-  
+
 Je ne vous présente ici que deux choix que j’ai moi-même testés, il est évident que je préfère la qualité et l’ergonomie bien plus simple d’Ooblik, mais l’option Pixartprinting peut être intéressante si votre budget est limité et que vous êtes dégourdi avec les outils de mise en page. Ce qui explique la différence de prix est bien sûr la provenance et la qualité des papiers, la main d’œuvre et la taille du prestataire, mais aussi l’attention prêtée au rendu : je sais que chez Ooblik les traceurs (les « grosses imprimantes ») sont très souvent calibrés afin que les couleurs soient régulières et fidèles à vos images, ce qui n’est pas le cas d’autres imprimeurs plus grand-public dont vous pouvez voir fleurir les publicités un peu partout.
 
 Il y a d’autres alternatives en ligne, bien évidemment, mais aussi chez des imprimeurs locaux – cherchez donc « imprimeur » près de chez vous sur Google-Maps, vous verrez qu’il y en a énormément et que certains font du très bon boulot pour des budgets raisonnables, avec l’avantage de pouvoir vous montrer les papiers, discuter du format et de la reliure et pourquoi pas vous montrer des exemples de carnets déjà imprimés.
@@ -121,11 +121,11 @@ J’ai fait un système de pré-vente où lorsque j’ai atteint la moitié des 
 Finalement j’ai vendu tous les zines en une grosse journée (je suis d’ailleurs toujours sur le cul). La vrai galère a été la distribution et le coût d’envoi depuis la Belgique. Mon zine ne rentrant pas dans une format de lettre normalisé, il m’a coûté le double de prévu. Au final sur l’ensemble des zines vendu, je perds malgré tout 150 euros à cause des envois. Je recommande les pré-ventes car cela permet de prendre la température chez les intéressés du zine et ne pas perdre trop d’argent.
 
 *   ![](https://i0.wp.com/richielem.com/wp-content/uploads/2021/09/Capture-décran-2021-09-14-à-00.42.17-1.png?resize=449%2C561&ssl=1)
-    
+
 *   ![](https://i0.wp.com/richielem.com/wp-content/uploads/2021/09/Capture-décran-2021-09-14-à-00.41.52-2.png?resize=520%2C415&ssl=1)
-    
+
 *   ![](https://i0.wp.com/richielem.com/wp-content/uploads/2021/09/Capture-décran-2021-09-14-à-00.40.57-2.png?resize=520%2C408&ssl=1)
-    
+
 
 _Pour finir : Qu’est ce que tu cherches dans un zine en tant que lecteur, et qu’est ce que tu n’aimes pas ?_
 
@@ -152,11 +152,11 @@ _As tu eu rencontré des difficultés à certaines étapes, y’a-t-il eu des ma
 Pas de difficultés notables dans la préparation de l’objet en lui même, il y a pas mal d’outils en ligne dont le simulateur d’Ooblik qui permet vraiment de créer une maquette cohérente et facile à visualiser. **L’editing a lui été plus délicat en ce qu’il est parfois difficile de se séparer d’images que l’on apprécie** mais dont la place ne fait pas sens dans une série. En ce qui concerne les mauvaises surprises, la plus évidente à mes yeux est un aspect « terne » de certaines impressions du zine, sans une bonne luminosité pour le lire il est parfois sombre et les images peu lisibles. Ça passe dans 90% des cas mais quand j’ai ouvert mon exemplaire il était 18h, il faisait nuit et je ne voyais pas grand chose… C’était bien plus agréable une fois place sous un bon éclairage. Après, cela reste un premier zine, il y a des défauts à la série, des points faibles, ce n’est pas à 100% abouti mais il faut je pense relativiser, **il faut le prendre comme l’état de ce que l’on est capable de faire à un moment donné de notre parcours** et que la suite ne peut qu’être mieux. Pour autant j’ai trouvé les gens bienveillants, assez peu m’ont fait des remarques négatives.
 
 *   ![](https://i0.wp.com/richielem.com/wp-content/uploads/2021/09/image0-1-1.jpg?resize=520%2C416&ssl=1)
-    
+
 *   ![](https://i0.wp.com/richielem.com/wp-content/uploads/2021/09/image0-1ffd-1.jpeg?resize=520%2C650&ssl=1)
-    
+
 *   ![](https://i0.wp.com/richielem.com/wp-content/uploads/2021/09/image0-1ff-1.jpeg?resize=520%2C416&ssl=1)
-    
+
 
 _Et pour finir, qu’aimes-tu dans les zines des autres, et que n’aimes tu pas voir dans un zine ?_
 
@@ -181,9 +181,9 @@ Passer de l’expo au zine, c’est se poser la question de l’angle a adopter.
 Finalement notre travail d’editing a été assez rapide. Nous avons travaillé par duo d’images en isolant quelques images fortes pour rythmer la lecture. On n’a pas peur de faire le tri. On a chacun quelques images qu’on aurait adoré voir dedans mais elles n’avaient finalement pas leur place dans l’ensemble.
 
 *   ![](https://i0.wp.com/richielem.com/wp-content/uploads/2021/09/L1002786-fullsize.jpg?resize=520%2C346&ssl=1)
-    
+
 *   ![](https://i0.wp.com/richielem.com/wp-content/uploads/2021/09/L1004433-fullsize-2.jpg?resize=520%2C346&ssl=1)
-    
+
 
 _Qu’est ce que vous aimez dans les zines en tant que lecteurs, et que n’aimez vous pas ?_
 
@@ -199,12 +199,12 @@ Camille a 35 ans, graphiste 3D d’effets spéciaux et d’animation, il est aut
 
 _Peux-tu présenter ton zine, quel est le projet photographique initial, et pourquoi l’avoir publié sous cette forme ?_
 
-  
+
 Mon zine est le résultat final d’un peu plus d’un an à travailler sur mes road-trip avec ma chérie. A la base j’étais inscrit à des cours de tirage de photos et pour une petite exposition de fin d’année sur le thème du mouvement, j’ai eu **envie d’explorer photographiquement mes voyages à travers le pays en voiture**. A l’issue de l’exposition, j’ai eu envie de continuer un peu pour finir par former le corpus final et, pour marquer la fin, de **concrétiser le projet sous la forme d’un objet imprimé**. Le zine permet une production à bas coût pour un objet facile à écouler à bas prix pour un photographe pas encore côté (lol).
 
 ![Zine "Nulle Part" de Camille Dellerie](https://i0.wp.com/richielem.com/wp-content/uploads/2021/09/zine-c.jpeg?fit=520%2C347&ssl=1)
 
-  
+
 _Je sais que tu es passé par un imprimeur qui a pignon sur rue, est-ce une expérience que tu recommandes ?_
 
 Oui et je l’ai encore recommandé sur Twitter il y a peu. J’ai trouvé très enrichissant les diverses interactions avec les imprimeurs. **On peut discuter de vive voix** du papier, de sa qualité, son grammage, mais aussi se rassurer sur les actions à effectuer pour obtenir un bon tirage.J’ai même opté pour une dizaine d’euros supplémentaires pour un “Bon A Tirer”. Le BAT ça permet d’avoir un exemple fini pour juger de ses choix et de la qualité avant d’envoyer une commande de plusieurs dizaines. Ils ont été super sympas et m’ont permis de corriger le gamma de mes images sur plusieurs BAT pour le même prix.
@@ -222,35 +222,27 @@ Oui, j’ai répondu à un appel d’offre en quelques sortes sur Instagram ou l
 Là ou j’ai été mitigé, c’est que les choses se sont révélées moins claires que ce que je m’attendais du point de vue financier. La galerie prend un pourcentage sur la vente et s’aligne sur mon prix de vente online. Mais au final je ne m’y retrouve pas. Chaque vente en galerie me coûte un euro. Dans l’absolu, ce n’est pas très grave, je ne fais pas ça pour gagner de l’argent et sur 5 zines on ne parle que de 5 euros. Disons que c’est une première expérience qui me fait comprendre qu’**il faut rester vigilant et négocier à chaque étape pour s’y retrouver**. Et puis le plaisir d’avoir mon zine dans une petite galerie vaut ce petit sacrifice. Au final, j’ai pu organiser une petite rencontre avec des photographes que l’on fréquente sur Discord et signer quelques exemplaires et **ça restera un super souvenir.**
 
 *   ![](https://i0.wp.com/richielem.com/wp-content/uploads/2021/09/sign-S-1.jpeg?resize=520%2C390&ssl=1)
-    
+
 *   ![](https://i0.wp.com/richielem.com/wp-content/uploads/2021/09/sign-1.jpeg?resize=520%2C693&ssl=1)
-    
+
 *   ![](https://i0.wp.com/richielem.com/wp-content/uploads/2021/09/c1-1.jpeg?resize=520%2C293&ssl=1)
-    
+
 
 _Et pour finir, qu’aimes tu dans les zines des autres, et que n’aimes tu pas voir dans un zine ?_ 
 
-  
+
 J’aime beaucoup les zines. J’aimais déjà les zines BD. J’en ai fait plusieurs qui ne sont pas centrés sur la photo. **C’est un objet très démocratique**, je trouve. Il y a quelque chose de très libre, proche du partage, humble, à la portée de tous et qui s’affranchit des barrières de l’édition. Alors, peut être que les zines un peu trop pompeux, les livres d’arts qui se font passer pour des zines en fait, m’agacent un peu.
 
 Dans les zines BD, j’adore quand ça fourmille de dessins et de gags partout, dans les marges, sur la couverture, en surimpression… !  En photo, j’aime quand la sincérité est palpable et qu’on a un petit morceau d’intime confidentiel chez soi.
 
 *   ![](https://i0.wp.com/richielem.com/wp-content/uploads/2021/09/thumbs_EspaceGris_LOW-5.jpg?resize=500%2C355&ssl=1)
-    
+
 *   ![](https://i0.wp.com/richielem.com/wp-content/uploads/2021/09/thumbs_EspaceGris_LOW-2.jpg?resize=500%2C355&ssl=1)
-    
+
 *   ![](https://i0.wp.com/richielem.com/wp-content/uploads/2021/09/thumbs_EspaceGris_LOW-17.jpg?resize=500%2C704&ssl=1)
-    
+
 
 _Quelques derniers exemplaires du la première édition de « Nulle Part » sont disponibles, n’hésitez pas à contacter **[Camille sur Instagram](https://www.instagram.com/camille.dellerie/?hl=fr)** pour obtenir le votre._
 
 Conclusion
-----------
-
-Faire un zine, c’est pas très difficile, ça permet de diffuser ses projets photographiques et n’oblige pas à avoir un corpus de 450 images de par la taille réduite. Je ne peux que vous encourager à vous lancer et à laisser libre cours à votre imagination, le support n’ayant que peu de limites.
-
-Je remercie beaucoup tous les photographes ayant participé à cet article. Certains ont parlé d’un forum Discord traitant de la photographie, en **[voici le lien](https://discord.gg/BrzwCbWQfe)** : vous pourrez échanger sur votre pratique, parler de cuisine ou de vos pires image.
-
-Pour voir ma façon de faire un zine, avec un peu plus de second degré que dans cet article, **allez donc voir ma vidéo sur le sujet**; n’hésitez pas à la partager, Youtube lui a mis une mauvaise visibilité pour sanctionner mon irrégularité, c’est vraiment pas très sympa.
-
-Maintenant, vous en savez autant que moi sur le sujet, je vous souhaite une bonne fin d’été et vous laisse partager en commentaire vos propres zines ou ceux que vous avez appréciés.
+---

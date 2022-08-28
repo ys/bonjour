@@ -19,7 +19,7 @@ Et si l’immense terrain de jeux québécois était le point de départ idéal 
 
 ![](https://content.beside.media/beside_/app/www/2021/06/BESIDE_voyage-lent_LeBic_sigmund.jpg)
 
-Le voyage lent en cinq temps  
+Le voyage lent en cinq temps
 \_\_\_\_
 ---------------------------------------
 
@@ -142,65 +142,4 @@ Songez également aux contrecoups possibles quand viendra le temps de publier de
 ### \-4-
 
 Faire le plein de culture
--------------------------
-
-_Parsemer ses vacances d’art et de culture_
-
-Pour ceux et celles qui, comme nous, ont été soulagé·e·s par la réouverture des musées, consultez le site Les Musées du Québec afin de tout connaitre sur les musées, économusées et maisons de la culture de la province. Nous affectionnons particulièrement:
-
-![](https://content.beside.media/beside_/app/www/2021/06/BESIDE_musee-de-la-gaspesie-2-1024x683.jpg)
-
-Photo: Musée de la Gaspésie
-
-**[La](http://economusees.com/quebec/fr/) Société des Économusées** (SRÉ) met quant à elle de l’avant le savoir-faire ancestral et le patrimoine québécois à travers un vaste réseau de membres artisans. Vous aurez l’occasion cette année, via la campagne Artisans à l’œuvre, de visiter des ateliers et d’aller à la rencontre de ceux qui habitent la région que vous visitez. Un accès privilégié à un côté humain, intime et à une proximité au processus artistique de tous ces membres.
-
-Le **[Symposium d’art contemporain de Baie-Saint-Paul](https://symposiumbsp.com/en/)**, évènement prisé par les amateur·rice·s d’art visuel, revient lui aussi après une année de pause forcée. Sous la thématique Le Temps et les choses, 12 artistes en provenance du Québec, d’Alberta, de Colombie-Britannique, de France et de Suisse exposeront leurs œuvres du 30 juillet au 29 aout. D’ailleurs, il ne s’agit pas du seul symposium. Renseignez-vous sur les expositions d’art visuel contemporain qui ont lieu dans plusieurs régions du Québec cette année. Je pense entre autres à celui qui se déroule dans les jardins du **[Sanctuaire Notre-Dame-du-Cap](https://www.sanctuaire-ndc.ca/evenements/symposium-darts-visuels/)** (l’église de forme octogonale et surmontée d’un toit pyramidal est unique au Québec) ou à celui de **[Danville](https://symposiumdedanville.com/)**. Soulignons également l’ouverture récente de la **[Galerie G de BR](https://galeriegdebr.com/)** dans cette même municipalité d’Estrie. Réunissant sous le même toit un lieu de diffusion d’art visuel, une boutique d’objets nommée Germaine ainsi qu’un espace intime de création pour des artistes en résidence, la charmante galerie est située en plein cœur villageois, dans une ancienne sellerie de chevaux.
-
-Pourquoi ne pas tenter d’intégrer une pratique artistique à votre quotidien, cet été? L’illustratrice et collaboratrice de BESIDE **Florence Rivest** propose régulièrement des ateliers d’initiation au dessin ou à la peinture en nature. Pour voir les possibilités, c’est par [ici](https://www.instagram.com/erre.land/). Ça donne envie de trainer un carnet de croquis dans notre sac de randonnée! Pour les féru·e·s de botanique, les **[Jardins de Métis](https://jardinsdemetis.com/)** offrent une programmation d’expositions artistiques temporaires sur un vaste terrain fleuri. Un incontournable de la région du Bas-Saint-Laurent. Visitez ce lieu exceptionnel, parmi les jardins les plus nordiques du continent.
-
-![](https://content.beside.media/beside_/app/www/2021/06/BESIDE_Jardins_de_metis-683x1024.jpg)
-
-Photo: Jardins de Métis
-
-![](https://content.beside.media/beside_/app/www/2021/06/BESIDE_jardins_de_metis_2-683x1024.jpg)
-
-Photo: Jardins de Métis
-
-Mention plus qu’honorable au **Festival international de cinéma et d’art de Percé**, [Les Percéides](https://perceides.ca/). Si vous aviez besoin d’une raison de plus pour vous rendre dans cette région gaspésienne, la voilà!
-
-![](https://content.beside.media/beside_/app/www/2021/06/BESIDE_fishing_greysen-johnson.jpg)
-
-La nature, la nature, n’est-ce pas toujours une manière lente de voyager? Pas si votre objectif est de gravir 28 sommets en 2 mois! Quelques astuces pour _ra-len-tir_:
-
-*   **Adoptez une nouvelle passion.** Observation d’oiseaux, identification de la [flore comestible](https://beside.media/fr/ailleurs/un-garde-manger-a-portee-de-main/) ou non et création d’un herbier de vacances, observation des nuages ou repérage de traces d’animaux au sol. Tomber sur des pistes de chevreuil, de renard ou de porc-épic pendant une balade ou une randonnée, c’est franchement excitant! La plupart des parcs régionaux et nationaux abritent quantité de ces animaux.
-
-*   **Des activités de plein air qui impliquent une bonne dose de lenteur?** La [pêche](https://beside.media/fr/atelier/guide-apprenti-pecheur/), la traversée d’un lac en Outaouais, pas de vent en [canot](https://beside.media/fr/ailleurs/lart-du-canotage/), ou encore la conquête du [sentier des Caps à pied](https://sentierdescaps.com/).
-
-*   **L’observation des étoiles.** Il est bon de réitérer ceci: [L’ASTROlab](https://www.astrolab.qc.ca/) du parc national du Mont-Mégantic est un lieu privilégié pour observer les constellations estivales ou encore la pluie de perséides du mois d’aout.
-
-Pensez aussi à faire des activités d’immersion en nature, par exemple du canot en Abitibi. Le **[parc national d’Opémican](https://www.sepaq.com/pq/ope/)** et le **[parc national d’Aiguebelle](https://www.sepaq.com/pq/aig/)** sont bien entendu des incontournables de cette région plus grande que nature. Coup de cœur pour les deux réserves fauniques gérées par la **[Corporation Nibiischii](https://nibiischii.com/fr/)**, qui valent largement le déplacement vers la région. Leur territoire couvre 24 000 km2 et englobe des milliers (des milliers!) de lacs et plusieurs rivières sensationnelles.
-
-![](https://content.beside.media/beside_/app/www/2021/06/BESIDE_Parc_national_dOpemican-1024x683.jpg)
-
-Photo: Parc national d'Opémican
-
-\*\*\*
-
-Certaines personnes auront possiblement besoin d’outils afin de ralentir véritablement. La liste à cocher peut être vue comme une aide à la performance dans un contexte de travail, mais en vacances, elle peut aider à se poser. Par exemple:
-
-*   Inventez un bingo de choses à observer en randonnée ou au terrain de camping (faune, flore, insectes, etc.).
-*   Sur la route, arrêtez-vous au hasard dans la marina d’un village avec un café pour lire le chapitre entier d’un livre.
-*   Relevez des défis qui impliquent de prendre son temps, comme celui de faire un piquenique sur tous les sommets de l’Estrie, de Charlevoix ou de la Mauricie pendant l’été.
-*   Organisez-vous un _roadtrip_ lent et différent sur les traces d’un·e auteur·ice québécois·e
-
-En cette période de grands bouleversements —  environnementaux et sociaux —, la question se posait: comment voyager en 2021? La réponse se trouve certainement à mi-chemin entre le moins et le mieux. Cet été, nos choix auront un impact sur les autres à travers les rencontres que nous ferons; ils auront aussi un impact sur le territoire visité. Tentons d’apprivoiser le temps long et de cultiver notre capacité d’émerveillement.
-
-\_\_
-
-_Note éditoriale: Nous abordons la thématique du voyage en toute humilité, sachant que nous faisons tous et toutes partie du problème — et de la solution._
-
-\_\_
-
-*   [Facebook](#)
-*   [Twitter](https://twitter.com/intent/tweet?text=Pratiquer%20le%20voyage%20lent&url=https%3A%2F%2Fbeside.media%2Ffr%2Failleurs%2Fpratiquer-le-voyage-lent%2F&via=beside_media)
-*   [Copier le lien](#)
+---
