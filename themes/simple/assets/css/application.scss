@@ -15,10 +15,10 @@ html {
 }
 
 .main_menu li:not(:last-child):not(:first-child):before {
-  content: ","
+  content: ", "
 }
 .main_menu li:last-child:before {
-  content: " &"
+  content: " & "
 }
 :root {
   --accent: {{ with .Site.Params.accentColor }}{{ . }}{{ else }}var(--onyx){{ end }};
