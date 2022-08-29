@@ -5,7 +5,11 @@
 {{ end }}
 
 {{ if not $src }}
-  {{ with resources.GetRemote .Destination }}
+  {{ $url := .Destination }}
+  {{ if hasPrefix $url "//" }}
+    {{ $url = printf "https:%s" $url }}
+  {{ end }}
+  {{ with resources.GetRemote $url }}
     {{ with .Err }}
       {{ warnf "%s" . }}
     {{ else }}
