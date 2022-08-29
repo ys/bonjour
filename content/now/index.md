@@ -18,7 +18,7 @@ linktitle: un rien sur moi
 Moi, c'est Yannick. J'aime assez notre planète. J'aime beaucoup raconter des histoires et capturer des instants.  
 Je suis un minimaliste atteint de collectionite aïgue en plein repentir. J'essaye de vivre lentement, au rythme des saisons dans ce magnifique bout du monde qu'est le Finistère.
 
-{{< photo src="cover" alt="yannick" >}}
+![Yannick](cover)
 
 On est en train de monter un super projet de gîte avec Cloé. Tu devrai suivre [@douarenn](https://instagram.com/douarenn) ou aller voir [douarenn.fr](https://douarenn.fr). C'est orchestré par Cloé. Je ne fais que l'aider le plus que je peux. Mais cela va être d'enfer!
 
@@ -36,7 +36,7 @@ J'utilise moins mon second [Olympus XA](/olympus-xa) car au final, le Yashica et
 
 J'ai commencé à faire de la [photo dans l'eau](/nikonos-glaz) armé de palmes et du Nikonos. C'est une petite drogue cette eau salée. J'ai craqué pour un longboard avec un pintail shapé par [Mimosa](https://www.mimosa-surfboards.com). Je l'ai racheté à [Hugo Crescent](https://www.instagram.com/hugo_crescent/). Un beau pig de 9'6", la board pas Hugo. Ça ne fait pas de moi autre chose qu'un kook.
 
-{{< photo src="now2" alt="mes pieds" caption="Mes pieds par Grégory Mignard">}}
+![Mes pieds](now2 "Mes pieds par Grégory Mignard")
 
 J'écris [une petite lettre](/bonjour) sur tout et rien *environ* toutes les deux semaines. Cela me permet d'écrire de manière régulière. C'est un vrai petit plaisir! Je n'ai pas beaucoup de lecteurs mais ils me répondent. Donc en gros, cela me rend heureux. J'ai un peu perdu la régularité, mais ça reviendra.
 
