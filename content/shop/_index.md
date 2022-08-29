@@ -1,6 +1,7 @@
 ---
 title: "Les jolis prints"
-description: "Des prints à vendre sur du beau papier"
+seotitle: "🖼 Les jolis prints de Yannick - Bonjour Yannick"
+description: "De belles photos, du beau papier et parfois un cadre."
 grid: true
 emoji: "💸"
 menu:
