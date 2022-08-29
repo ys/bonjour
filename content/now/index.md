@@ -20,7 +20,7 @@ Je suis un minimaliste atteint de collectionite aïgue en plein repentir. J'essa
 
 ![Yannick](cover)
 
-On est en train de monter un super projet de gîte avec Cloé. Tu devrai suivre [@douarenn](https://instagram.com/douarenn) ou aller voir [douarenn.fr](https://douarenn.fr). C'est orchestré par Cloé. Je ne fais que l'aider le plus que je peux. Mais cela va être d'enfer!
+On est en train de monter un super projet de gîte avec Cloé. Tu devrais suivre [@douarenn](https://instagram.com/douarenn) ou aller voir [douarenn.fr](https://douarenn.fr). Un gîte plein de déconnexion au coeur des monts d'Arrée.
 
 
 J'ai arreté plus ou moins la photo numérique. Je ne fais quasi que de l'argentique. C'est un vrai plaisir de prendre le temps et de devoir attendre ses photos. Je shoote beaucoup de Portra 400 de chez Kodak. J'en apprécie d'autres aussi, surtout vu le prix de la Portra dernièrement.
