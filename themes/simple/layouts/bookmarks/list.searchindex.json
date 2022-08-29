@@ -9,7 +9,7 @@
       {{ if eq $src.MediaType.SubType "gif" }}
         {{ $format := "gif" }}
       {{ end }}
-      {{ $smol := .Fill (printf "400x600 %s" $format) }}
+    {{ $smol := .Fill (printf "600x400 %s" $format) }}
     {{- $entry = merge $entry (dict "img" $smol.RelPermalink) -}}
     {{- end -}}
     {{- $entry = merge $entry (dict "content" ($page.Plain | htmlUnescape)) -}}
