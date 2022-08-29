@@ -14,7 +14,7 @@ tags:
 date: 2021-12-02 17:12:12.277939065 +00:00
 ---
 
- ![Wood Fired Hot Tub Guide: How They Work & Which Tubs to Buy](//images.ctfassets.net/r7p9m4b1iqbp/4KfiT5IeETKGxEruO83h1n/ad9eba093559171938496b49c59823eb/Wood-Fired-Hot-Tub-Shayd-Johnson-thumb.jpg?w=10&q=1&fm=jpg&fl=progressive) 
+ ![Wood Fired Hot Tub Guide: How They Work & Which Tubs to Buy](//images.ctfassets.net/r7p9m4b1iqbp/4KfiT5IeETKGxEruO83h1n/ad9eba093559171938496b49c59823eb/Wood-Fired-Hot-Tub-Shayd-Johnson-thumb.jpg?w=10&q=1&fm=jpg&fl=progressive)
 
 Lead photograph by Shayd Johnson
 
@@ -24,7 +24,7 @@ Simple and timeless with an elemental design, the wood fired hot tub has a rich 
 
 Ready to take the plunge? Read on to learn more about wood fired hot tubs (Spoiler: scroll to the bottom to find our top 8 picks for the best wood fired hot tubs you can buy right now).
 
- ![Wood-Fired-Hot-Tub-Shayd-Johnson-1](//images.ctfassets.net/r7p9m4b1iqbp/7tCvt3gRYieJcuJouzoA8K/7d334baaac4d4de5b8106cd78c72be42/Wood-Fired-Hot-Tub-Shayd-Johnson-1.jpg?w=10&q=1&fm=jpg&fl=progressive) 
+ ![Wood-Fired-Hot-Tub-Shayd-Johnson-1](//images.ctfassets.net/r7p9m4b1iqbp/7tCvt3gRYieJcuJouzoA8K/7d334baaac4d4de5b8106cd78c72be42/Wood-Fired-Hot-Tub-Shayd-Johnson-1.jpg?w=10&q=1&fm=jpg&fl=progressive)
 
 Photography by Shayd Johnson
 
@@ -46,7 +46,7 @@ A hot tub with an external stove features a stove that sits outside of the hot t
 
 Overall, submersible stoves are often considered the best choice because they heat water twice as fast (which may still be a couple hours) as an external stove by making the transfer of heat more efficient. Just make sure you’ve got plenty of kindling and well-seasoned split firewood ready to go for your soak.
 
- ![wood-fired-hot-tub-roundup-guide-goodland-forest](//images.ctfassets.net/r7p9m4b1iqbp/7iwXaV2Oo0ZDaDOLX6Mu89/f3d64b95cb8a4c962dcc177996349dcb/wood-fired-hot-tub-roundup-guide-goodland-forest.jpg?w=10&q=1&fm=jpg&fl=progressive) 
+ ![wood-fired-hot-tub-roundup-guide-goodland-forest](//images.ctfassets.net/r7p9m4b1iqbp/7iwXaV2Oo0ZDaDOLX6Mu89/f3d64b95cb8a4c962dcc177996349dcb/wood-fired-hot-tub-roundup-guide-goodland-forest.jpg?w=10&q=1&fm=jpg&fl=progressive)
 
 How Long does a Wood Fired Hot Tub Take to Heat?
 ------------------------------------------------
@@ -62,7 +62,7 @@ When it comes to choosing saltwater or freshwater for your wood fired hot tub, i
 
 On the other hand, freshwater hot tubs that require you to add chlorine may be a little harsher on the skin and eyes, but it will kill off more viruses and bacteria that build up overtime. Alternatively, you can forgo chlorine altogether, which means you’ll have to drain the water after 2-3 uses, wipe down the inside of the tub with a mild water/bleach solution, and refill it again for next time. Overall, that’s a lot of wasted water and not [a very sustainable option](https://www.fieldmag.com/articles/costa-rica-off-grid-eco-retreat-casa-salvaje).
 
- ![Wood-Fired-Hot-Tub-Shayd-Johnson-3](//images.ctfassets.net/r7p9m4b1iqbp/48xU0hKCKoMrTECGO6KffU/6c9c6131d7d24ff2690a2925aaa2eb36/Wood-Fired-Hot-Tub-Shayd-Johnson-3.jpg?w=10&q=1&fm=jpg&fl=progressive) 
+ ![Wood-Fired-Hot-Tub-Shayd-Johnson-3](//images.ctfassets.net/r7p9m4b1iqbp/48xU0hKCKoMrTECGO6KffU/6c9c6131d7d24ff2690a2925aaa2eb36/Wood-Fired-Hot-Tub-Shayd-Johnson-3.jpg?w=10&q=1&fm=jpg&fl=progressive)
 
 Photography by Shayd Johnson
 
@@ -77,7 +77,7 @@ Western red cedar is by and large the most popular choice for a wood hot tub. It
 
 Teak deserves an honorable mention because it’s also a hearty wood when it comes to water contact and can have an attractive weathered look after being exposed to the elements that’s also easy to be restored to its original state. The kicker? Teak is quite expensive, but worth the splurge.
 
- ![redwood-cabin-elevated-spaces-waldman-fiffer-hot-tub](//images.ctfassets.net/r7p9m4b1iqbp/5kbCmsoIZwXCLPi70U5IOv/5816762947f4410a0c35397ed34d7c47/redwood-cabin-elevated-spaces-waldman-fiffer-hot-tub.jpg?w=10&q=1&fm=jpg&fl=progressive) 
+ ![redwood-cabin-elevated-spaces-waldman-fiffer-hot-tub](//images.ctfassets.net/r7p9m4b1iqbp/5kbCmsoIZwXCLPi70U5IOv/5816762947f4410a0c35397ed34d7c47/redwood-cabin-elevated-spaces-waldman-fiffer-hot-tub.jpg?w=10&q=1&fm=jpg&fl=progressive)
 
 Image courtesy Elevated Spaces
 
@@ -87,76 +87,4 @@ Cold Plunge Pools and Ice Baths
 After enjoying the hot tub, many bathers will quickly cool themselves down by getting into a cold plunge pool or ice bath that is around 44-54 degrees Fahrenheit. What the heat does to encourage blood flow all throughout the body, the cold water immersion does to restrict circulation so it goes directly to the internal organs and reduces inflammation. These cold plunge pools and ice baths are popularly used in tandem with [hot tubs or saunas](https://www.fieldmag.com/articles/gocstudio-seattle-floating-wa-sauna) for the ultimate therapy pool experience. Cold plunge pools require a programmable thermostat to keep the temperature cold enough. [B2B Cabins and Outdoors](https://bzbcabinsandoutdoors.net/sauna-accessories/cold-plunge-tub/?ref=fieldmag) offers a well-designed cold plunge pool with a wooden surface for a natural look.
 
 7 of the Best Wood Fired Hot Tub Makers Available in North America
-------------------------------------------------------------------
-
-Every hot tubber and every landscape may demand something different. It's up to you to decide which design speak to you. For us, the following are our top picks for the best wood fired hot tubs, from traditional to truly unique. Enjoy!
-
- ![wood-fired-hot-tub-roundup-guide-forest-cooperage-factory](//images.ctfassets.net/r7p9m4b1iqbp/6Gsz4SFtgZUlgDEbyhnX3n/03288018b6186bbaa9b84047086457f8/wood-fired-hot-tub-roundup-guide-forest-cooperage-factory.jpg?w=10&q=1&fm=jpg&fl=progressive) 
-
-Image courtesy Forest Cooperage
-
-### [Forest Cooperage](https://forestlumber.com/)
-
-Forest Cooperage crafts barrel hot tubs that can be powered by wood stoves or electric heaters, and traditional Japanese ofuros that also double as an ice bath. The tubs start at $2,199 USD with additional accessories available for purchase, and ofuros starting at $2,799 for a two-person soaking tub. Prices may vary due to the fluctuating cost of lumber.
-
-[LEARN MORE](https://forestlumber.com/)
-
- ![wood-fired-hot-tub-roundup-guide-goodland-window](//images.ctfassets.net/r7p9m4b1iqbp/3wCEoO0GHnKk2EG8ZEWhaQ/4f461b6a7759d6a27d43623ec2106ad6/wood-fired-hot-tub-roundup-guide-goodland-window.jpg?w=10&q=1&fm=jpg&fl=progressive) 
-
-### [Goodland](https://hellogoodland.com/collections/bath/products/wood-burning-soaking-tub?rfsn=6752751.5d679e9)
-
-This Canadian brand prides itself on using locally-sourced materials and sustainable Western red cedar to make its rectangular soaking tub. For the price of $5,975, you’ll get both a two-person (with room for a kiddo or two, too) wooden tub and the submersible wood fired stove. Easy to move and assemble, Goodland promises a simple ten-minute setup.
-
-[LEARN MORE](https://hellogoodland.com/collections/bath/products/wood-burning-soaking-tub?rfsn=6752751.5d679e9)
-
- ![wood-fired-hot-tub-roundup-guide-alumitubs-deck](//images.ctfassets.net/r7p9m4b1iqbp/shJqYItmG95ynMvAiIC1T/1135051ad3c08f33f16cf45f20e2bb7e/wood-fired-hot-tub-roundup-guide-alumitubs-deck.jpg?w=10&q=1&fm=jpg&fl=progressive) 
-
-Image courtesy Laura Andersen for AlumiTubs
-
-### [AlumiTubs](https://alumitubs.com/)
-
-Handcrafted in BC, Canada with over 20 years experience, AlumiTubs specializes in wood fired cedar hot tubs built to last a lifetime—and guaranteed to never leak. The marine grade aluminum foundation makes it compatible for saltwater use, arrives preassembled, is easy to maintain, and offers superior heat properties compared to wooden tubs. Each material is locally sourced and 100% recyclable. Tubs are available in two sizes: 4-5 person tub and 6-8 person tub, with prices starting at $4,471 USD.
-
-[LEARN MORE](https://alumitubs.com/)
-
- ![BZB-Cold-Plunge-Tub](//images.ctfassets.net/r7p9m4b1iqbp/5wPcmsgm4JmkJJi1THbp98/99fd1cb5e570cb38092330a7afb1a268/BZB-Cold-Plunge-Tub.jpg?w=10&q=1&fm=jpg&fl=progressive) 
-
-Image courtesy BZB Cabins
-
-### [BZB Cabins and Outdoors](https://bzbcabinsandoutdoors.net/hot-tubs/?ref=fieldmag)
-
-Get the full therapy pool treatment with BZB’s wood fired hot tub and cold plunge pool kits, made individually in Estonia (a leading country in [prefab architecture](https://www.fieldmag.com/tag/cabin%20rentals)). Both arrive onsite already assembled. The hot tub goes for $3,875 while the wood cold plunge pool is currently on sale for $1,950.
-
-[LEARN MORE](https://bzbcabinsandoutdoors.net/hot-tubs/?ref=fieldmag)
-
- ![wood-fired-hot-tub-roundup-guide-snorkel-yard](//images.ctfassets.net/r7p9m4b1iqbp/78qOKFbmZzbeTyfyTHZtS2/af83beefdf4cd3d7d9f17cc036419030/wood-fired-hot-tub-roundup-guide-snorkel-yard.jpg?w=10&q=1&fm=jpg&fl=progressive) 
-
-Image courtesy Snorkel NW
-
-### [Snorkel](https://snorkel.com/)
-
-This Pacific Northwest company gets bragging rights as one of the key companies responsible for putting wood fired hot tubs on the map for Westerners. Since 1979, it has been making submersible wood fired stoves and barrel cedar hot tubs that are still popular with bathers today. Tubs and stoves are available for purchase together and separately. A tub and stove starts at $5,265.
-
-[LEARN MORE](https://snorkel.com/)
-
- ![wood-fired-hot-tub-roundup-guide-timber-tubs-58-box](//images.ctfassets.net/r7p9m4b1iqbp/7eaOdWYKvqyliZdBzhA6nR/9affc6bfd3bac6d016168c2370f07a7a/wood-fired-hot-tub-roundup-guide-timber-tubs-58-box.jpg?w=10&q=1&fm=jpg&fl=progressive) 
-
-Image courtesy Northwest Timber Tubs
-
-### [Northwest Timber Tubs](https://www.nwtimbertubs.com/)
-
-Every piece of wood in a Northwest Timber Tub is hand selected and comes from certified sustainably managed forests. The company offers custom-made tubs, as well as a standard tub with a pared-back rectangular design for the $5,250 and a submersible stove for $750.
-
-[LEARN MORE](https://www.nwtimbertubs.com/)
-
- ![wood-fired-hot-tub-roundup-guide-softtubs-palmtrees](//images.ctfassets.net/r7p9m4b1iqbp/BiF9g1QdwFZFjxT7opeAk/9fba0d5b968e9e356a609e015b630966/wood-fired-hot-tub-roundup-guide-softtubs-palmtrees.jpg?w=10&q=1&fm=jpg&fl=progressive) 
-
-Image courtesy Softtub Spas
-
-### [Softtub Spas](https://softub.com/)
-
-For those who want an portable option with an electric heater, the Softtub is made in the USA from a durable foam material that makes it easy to roll up and transport. Get it fully kitted out with underwater lights and hydrotherapy jets for $4,295.
-
-[LEARN MORE](https://softub.com/)
-
-_For more spa related content, check out [Our Guide to Home Outdoor Saunas](https://www.fieldmag.com/articles/outdoor-sauna-guide)._
+---

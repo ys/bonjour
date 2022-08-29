@@ -50,19 +50,4 @@ Async work is [a forcing function](https://ben.balter.com/2015/09/21/open-source
 *   **Parallelization and flow** - Async necessitates adopting non-blocking workflows that allow for [parallelization of work](https://remote.com/blog/why-you-should-be-doing-async-work)[6](#fn:1) and ultimately [encourage flow](https://ben.balter.com/2020/03/18/tips-for-working-remotely/#1-prefer-asynchronous-communication).[7](#fn:2) It’s the shift from waterfall to agile, but applied to personal and organizational time management and productivity.
 
 Conclusion
-----------
-
-To make remote work successful, it’s not enough to digitize traditional workflows. Asynchronous work offers many advantages, but in practice, the shift to async requires adoption of remote-first tools and more importantly, a remote-first culture. That means defaulting to things like GitHub or Google Docs as your primary means of collaboration and reserving more synchronous tools like Slack or Zoom as _points of escalation_ only when the urgency or complexity of the communication requires it. If you’re considering adopting more asynchronous workflows (you should!), I encourage you to check out my previous post on [_how_ to approach working asynchronously](https://ben.balter.com/2014/11/06/rules-of-communicating-at-github/). After all, [how you work is just as important as what you work on](https://ben.balter.com/2015/09/21/open-source-behind-the-firewall/#how-you-work-is-as-important-as-what-you-work-on), so why not use the best, most modern workflows available.
-
-_Thank you and ![:sparkles:](https://github.githubassets.com/images/icons/emoji/unicode/2728.png) to [Jed Verity](https://github.com/glortho) and [Lizzy Soltis](https://github.com/lizzysoltis) for the conversations, observations, frameworks, and suggestions that inspired (and are reflected in) this post. Thanks also to [@randw on Twitter](https://twitter.com/randw), who when I asked about ideas for this post, [they replied](https://twitter.com/randw/status/1504212558227513345) with [a presentation I gave 8 years ago](https://ben.balter.com/open-sourcing-government/#/title) and subsequently forgot about._
-
-Interested in learning more about how GitHub works and what it's like to be a GitHubber?  
-[Check out these popular posts on GitHub's culture and communication patterns](https://ben.balter.com/2021/02/01/what-to-read-before-starting-or-interviewing-at-github/).
-
-![benbalter](https://avatars3.githubusercontent.com/benbalter?v=3&s=100)
-
-Ben Balter is Chief of Staff for Security and Engineering at [GitHub](https://github.com/about), the world’s largest software development platform. Previously, as a Staff Technical Program manager for Enterprise and Compliance, Ben managed GitHub’s on-premises and SaaS enterprise offerings, and as the Senior Product Manager overseeing the platform’s Trust and Safety efforts, Ben shipped more than 500 features in support of community management, privacy, compliance, content moderation, product security, platform health, and open source workflows to ensure the GitHub community and platform remained safe, secure, and welcoming for all software developers. Before joining GitHub’s Product team, Ben served as GitHub’s Government Evangelist, leading the efforts to encourage more than 2,000 government organizations across 75 countries to adopt open source philosophies for code, data, and policy development. [More about the author →](/about/)
-
-This page is open source. Please [help improve it](https://github.com/benbalter/benbalter.github.com/edit/main/_posts/2022-03-17-why-async.md).
-
-[Edit](https://github.com/benbalter/benbalter.github.com/edit/main/_posts/2022-03-17-why-async.md)
+---

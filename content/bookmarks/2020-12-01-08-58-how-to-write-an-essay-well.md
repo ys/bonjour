@@ -47,7 +47,7 @@ I’ll provide a cheatsheet on the last page of this handbook, but I recommend t
 
 ### Who should read this?
 
-This handbook is for:  
+This handbook is for:
 
 1.  **Advanced nonfiction writers** wanting to improve their craft: You’ll learn unique insights to better understand how exceptional writing happens.
 2.  **Aspiring writers** who fear publishing online: This handbook could help increase your confidence. We'll overcome blockers together.
@@ -55,12 +55,4 @@ This handbook is for:
 Over the next thirty minutes, you'll become a more deliberate writer who understands why they're writing what they're writing. There's science to nonfiction that I feel many have overlooked.
 
 Who's Julian Shapiro?
----------------------
-
-I spend thousands of hours deconstructing topics. I compile insights into handbooks (like this). Over a million people read them annually. I also write threads on [Twitter](https://twitter.com/julian), which are read by millions each year.
-
-Readers enjoy my writing for its density of insights and its concision.
-
-Before this, I wrote a [column](https://techcrunch.com/2019/04/13/how-do-startups-actually-get-their-content-marketing-to-work/) for the largest tech news site, TechCrunch. And I authored a boring programming book for Pearson Education.
-
-You can learn more about me on my [about page](/about).
+---

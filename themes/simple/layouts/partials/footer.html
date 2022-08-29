@@ -1,13 +1,21 @@
 <div class="md:mt-16 container md:mx-auto md:max-w-xl">
-  <footer class="md:mx-0 mx-4 py-10 text-gray-600  text-sm">
+  <footer class="md:mx-0 mx-4 py-10 text-gray-600  flex flex-col  justify-items-center items-center gap-2 text-sm">
+
+    <a href="{{ "/" | relLangURL }}" alt="home" class="w-8 {{ with .Params.Color }}text-{{ . }}-400 {{ else }}text-accent-400{{ end }}">
+      {{ if fileExists "/static/logo.svg" }}
+      {{ readFile "/static/logo.svg" | safeHTML}}
+      {{ else }}
+      {{.Params.emoji | default .Site.Params.emoji}}
+      {{ end }}
+    </a>
 
     <div class="flex ">
       {{ .Site.Params.footer }} - {{ now.Year }}
     </div>
-    <div class="pt-2">
+    <div class="">
       <ul class="flex flex-wrap flex-row text-right  ">
         {{ range .Site.Menus.footer }}
-        <li class="py-2 pl-1">
+        <li class=" pl-1">
           <a class="hover:text-accent-600 transition ease-in-out duration-200 " href="{{ .URL }}" title="{{ .Title }}">
             {{ .Name }}
           </a>
@@ -18,23 +26,23 @@
     <div class="">
       <ul class="flex flex-row text-right  flex-wrap">
         {{ with .Site.Params.social.instagram }}
-        <li class="pl-1  py-2 ">
+        <li class="pl-1   ">
           <a class="hover:text-accent-600 transition ease-in-out duration-200"
             href="https://instagram.com/{{ . }}">Instagram</a>
         </li>
         {{ end }}
         {{ with .Site.Params.social.twitter }}
-        <li class="py-2 pl-1  ">
+        <li class=" pl-1  ">
           <a class="hover:text-accent-600 transition ease-in-out duration-200"
             href="https://twitter.com/{{ . }}">Twitter</a>
         </li>
         {{ end }}
         {{ with .Site.Params.social.vsco }}
-        <li class="pl-1 py-2  text-gray-600 ">
+        <li class="pl-1   text-gray-600 ">
           <a class="hover:text-accent-600 transition ease-in-out duration-200" href="https://vsco.com/{{ . }}">VSCO</a>
         </li>
         {{ end }}
-        <li class="pl-1 py-2  text-gray-600 ">
+        <li class="pl-1   text-gray-600 ">
           <a class="hover:text-accent-600 transition ease-in-out duration-200"
             href="mailto:{{ $.Site.Params.social.email }}">{{$.Site.Params.social.email}}</a>
         </li>

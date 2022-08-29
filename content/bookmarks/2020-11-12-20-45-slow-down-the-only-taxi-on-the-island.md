@@ -10,4 +10,3 @@ description: Eigg is a small island off the coast of Scotland, populated mostly 
   sheep, the dogs that keep track of them, and the 109 local residents.You wouldn't
   think...
 ---
-

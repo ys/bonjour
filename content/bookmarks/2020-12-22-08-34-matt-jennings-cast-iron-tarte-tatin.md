@@ -10,7 +10,3 @@ uuid: 886dca54-6b5b-4b14-ace8-15cc2102069b
 description: The signature dish of the Tatin sisters, this cast iron beauty will make
   you a dinner party hero
 ---
-
-We value your privacy. We use cookies to provide the best site experience possible. By using our site, you’re acknowledging that you accept our [Terms of Service](/terms) and [Privacy Policy](/privacy-policy) and that they’re OK with you.
-
-×

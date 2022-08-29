@@ -9,4 +9,3 @@ uuid: 26d4703e-7a33-4039-8337-45e97486c10a
 description: 'Shredders by Sierra Prescott: https://www.penguinrandomhouse.com/books/611662/shredders-by-sierra-prescott/Follow
   Sierra on Instagram: https://instagram.com/...'
 ---
-

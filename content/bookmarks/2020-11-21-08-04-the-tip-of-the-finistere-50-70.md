@@ -9,9 +9,3 @@ headImage:
 description: Trouvez le cadeau fait main parfait, des vêtements vintage et tendance,
   des bijoux uniques et plus encore... bien plus.
 ---
-
-Annonce de TonyGarciaGoods Annonce de la boutique TonyGarciaGoods TonyGarciaGoods De la boutique TonyGarciaGoods
-
-Prix réduit 32,73 € 32,73 €
-
-39,28 € Prix d'origine 39,28 € (50 % de réduction)

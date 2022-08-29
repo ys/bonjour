@@ -84,11 +84,4 @@ There’s a lot you get for “free” from such naturally transparent tools, bu
 *   Establish clear timelines and provide regular updates to avoid the perception that lack of visibility is lack of movement
 
 Conclusion
-----------
-
-Absent working within systems that through their day-to-day use captures and exposes process, transparency takes effort, effort well worth the cost in the long run. When necessary, leaders should hold one another accountable for spending the additional cycles to show their work through communicating not only what decision was made, but also how the decision was made, and why. Showing one’s work not only captures historic context, but also socializes organizational culture and values, helps grow the next generation of leaders, fuels engagement and continuous improvement, and establishes and maintains a high standard for decision making for the entire organization.
-
-While I still agree [everything should have a URL](https://ben.balter.com/2015/11/12/why-urls/), how we go about thoughtfully creating and curating the content within those URLs - rich with high-value historic context, a gift for others and our future selves - matters more than the fact that the URL itself exists.
-
-Interested in learning more about how GitHub works and what it's like to be a GitHubber?  
-[Check out these popular posts on GitHub's culture and communication patterns](https://ben.balter.com/2021/02/01/what-to-read-before-starting-or-interviewing-at-github/).
+---

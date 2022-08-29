@@ -11,4 +11,3 @@ description: This week I talk through how I made my zine "America's Playground" 
   the process of how to make a photography zine. Instead of the very literal process
   I i...
 ---
-

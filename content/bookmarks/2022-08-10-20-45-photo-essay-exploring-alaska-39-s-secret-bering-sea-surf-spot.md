@@ -10,5 +10,3 @@ tags:
 - surf
 date: 2022-08-10 20:45:01.537446428 +00:00
 ---
-# Photo Essay: Exploring Alaska&#39;s Secret Bering Sea Surf Spot
-

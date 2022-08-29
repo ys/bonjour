@@ -12,4 +12,3 @@ description: Following in the footsteps of a thousand other travellers, Reef tea
   Mike Lay and friends set off on the road west to Galicia. With a diverse range of
   surfboards…
 ---
-

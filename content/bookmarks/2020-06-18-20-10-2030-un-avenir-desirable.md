@@ -10,4 +10,3 @@ description: Cette vidéo est pour celles et ceux qui, en 2020, doutaient qu'il 
   encore possible de faire quelque chose. On est en 2030, et je suis fier de ce qu'on
   a ...
 ---
-

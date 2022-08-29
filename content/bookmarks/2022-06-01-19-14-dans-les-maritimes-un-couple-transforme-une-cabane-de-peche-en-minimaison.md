@@ -39,7 +39,7 @@ Bonjour l’autosuffisance, on allait apprendre! Transporter un divan-lit en bro
 
 À la fin de l’été 2019, on s’est mis à rêver d’un léger agrandissement. Ça nous semblait faisable: Gabriel a de l’expérience en construction et en gestion de projets d’architecture mobile. Quant à moi, j’ai l’œil pour le design et j’aime le travail manuel. On était loin de soupçonner que le chantier s’étalerait sur deux ans encore… sans compter la pandémie, avec les quarantaines qu’exigeraient nos nombreux allers-retours entre les deux provinces!
 
-De la boue jusqu’aux genoux  
+De la boue jusqu’aux genoux
 \_\_\_
 ------------------------------------
 
@@ -115,42 +115,6 @@ Voilà que mon troisième printemps à la cabane s’amorce avec une convalescen
 
 \*\*\*
 
-Quelques conseils…  
+Quelques conseils…
 \_\_\_
----------------------------
-
-On est loin d’être des expert·e·s, mais voici 15 choses que nous avons apprises et qui pourraient être utiles à d’autres:
-
-1.  **Bien comprendre le territoire dans lequel on s’insère.** Quel est le portrait culturel et environnemental du lieu? Par exemple, y a-t-il un problème d’érosion majeur? S’informer, avant de planter quoi que ce soit, au sujet des espèces indigènes et des espèces potentiellement invasives.
-2.  **Se présenter aux voisines et aux voisins**, s’ouvrir à leur histoire et à leurs conseils aussi. Plusieurs y habitent depuis des générations et ont une profonde connaissance du territoire. Ils et elles en ont vu, des tempêtes!
-3.  **Choisir des produits ménagers biodégradables** et des vernis à base d’eau.
-4.  Ne pas hésiter à demander à son entourage **des surplus de matériaux de construction**.
-5.  Si le chauffage est au bois, **récupérer les matériaux de construction sans vernis ou colle**, le bran de scie et les résidus de sablage pour alimenter le feu.
-6.  **Se questionner quant au choix d’alimentation en énergie.** Évaluer l’exposition au soleil de la région. Les panneaux solaires ne sont pas toujours la meilleure option, surtout au Canada, où le temps d’ensoleillement durant l’hiver est limité. Il faut changer les batteries tous les cinq ans, voire plus souvent, selon notre consommation d’énergie. Si l’habitation est relativement proche d’un réseau hydroélectrique, s’y brancher est peut-être une meilleure idée.
-7.  **Idéalement, habiter le lieu avant d’entamer des rénovations.** Sur place, les besoins sautent aux yeux!
-8.  **Récupérer du bois de plage** pour la fabrication de petits crochets, tringles et tablettes.
-9.  **Prévoir beaucoup d’espace de rangement**, surtout lorsqu’on pratique un sport qui exige de l’équipement. Un espace sous le patio est idéal pour ranger du matériel.
-10.  **Oser les pièces hybrides**. Par exemple, un garde-robe/garde-manger.
-11.  **Dès le début, installer à l’extérieur un bac à compost.** Utiliser des surplus de matériaux de construction pour le fabriquer.
-12.  **Encourager les artistes locaux, les ébénistes, les artisan·e·s textiles et les friperies du coin.** C’est une belle manière de s’introduire dans une nouvelle communauté, de soutenir l’économie locale et d’acheter des objets nettement plus durables.
-13.  **Se procurer une génératrice assez puissante** pour les travaux!
-14.  **Si l’habitation est branchée au propane, installer une connexion pour le BBQ** au lieu d’utiliser des bonbonnes.
-15.  **Enfin, se donner du temps.** Rénover peut s’avérer un vrai calvaire quand on est pressé. À l’inverse, l’aventure peut apporter une grande satisfaction lorsqu’on l’aborde patiemment!
-
-*   [Facebook](#)
-*   [Twitter](https://twitter.com/intent/tweet?text=Trouver%20son%20ancrage%20dans%20les%20Maritimes&url=https%3A%2F%2Fbeside.media%2Ffr%2Fvillage%2Fcabane-de-peche-minimaison%2F&via=beside_media)
-*   [Copier le lien](#)
-
-![](https://beside.media/wp-content/themes/new-theme/dist/images/tuile-icon-1.png)
-
-Deux numéros par année
-
-![](https://beside.media/wp-content/themes/new-theme/dist/images/tuile-icon-2.png)
-
-25% de réduction sur les numéros précédents
-
-![](https://beside.media/wp-content/themes/new-theme/dist/images/tuile-icon-3.png)
-
-Livraison gratuite au Canada
-
-Pour recevoir les dernières nouvelles et parutions, abonnez-vous à notre infolettre.
+---

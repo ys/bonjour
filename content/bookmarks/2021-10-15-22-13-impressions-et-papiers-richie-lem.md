@@ -14,9 +14,9 @@ Ne vous est-il jamais arrivé de vouloir imprimer en ligne quelques photographie
 
 J’ai récemment acheté une imprimante et me suis intéressé aux différents papiers proposés à la vente, je vais vous faire un retour de ce que j’ai appris.
 
-Note : les photographies que j'ai prises pour cet article sont 
-retouchées afin de vous donner le résultat le plus proche de ce 
-que je vois. 
+Note : les photographies que j'ai prises pour cet article sont
+retouchées afin de vous donner le résultat le plus proche de ce
+que je vois.
 
 Il n’y a pas mille solutions pour avoir une photo sur papier, vous pouvez le faire dans un laboratoire à l’aide d’une imprimante ou d’un traceur (c’est une grosse imprimante), ou chez vous à l’aide d’une imprimante (ou d’un traceur si vous avez beaucoup de place et d’argent). Généralement, les laboratoires ont un service en ligne qui permet d’envoyer des fichiers et de recevoir des photos imprimées, c’est assez pratique.
 
@@ -45,7 +45,7 @@ Une fois que vous avez un budget donné, choisissez Epson, Canon ou HP, et **ach
 
 J’ai choisi une [Canon Image Prograf pro-300](https://www.amazon.fr/gp/product/B08CRVVZTH/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B08CRVVZTH&linkCode=as2&tag=richielem-21&linkId=50ffa5288933e8ba2f2b07d1643396ab), dont vous pouvez voir les caractéristiques sur le lien, et qui imprime en A3+.
 
-  
+
 D’ailleurs ce lien est affilié Amazon, sachez que c’est pas ce qui me permet de devenir riche, **personne n’achète jamais rien sur mes liens affiliés**, mais je ne désespère pas que vous achetiez tous une imprimante un jour en cliquant dessus et que je puisse me payer un tirage de Richard Misrach.
 
 ![Landscape by Richard Misrach](https://i0.wp.com/richielem.com/wp-content/uploads/2021/02/Richard-Misrach-desert-cantos-01.jpg?fit=520%2C410&ssl=1)
@@ -59,7 +59,7 @@ Une fois que vous avez l’imprimante, vous pouvez toujours tester des tirages a
 
 ### La taille
 
-Premièrement, il faut choisir la taille de son papier, qui est souvent exprimée selon la norme ISO 216. Cette norme internationale donne des mesures dont **le rapport longueur-largeur est le nombre d’or**, ce truc qu’on voit partout dans les tutoriels photo. Oui je viens de relire la fiche Wikipedia.  
+Premièrement, il faut choisir la taille de son papier, qui est souvent exprimée selon la norme ISO 216. Cette norme internationale donne des mesures dont **le rapport longueur-largeur est le nombre d’or**, ce truc qu’on voit partout dans les tutoriels photo. Oui je viens de relire la fiche Wikipedia.
 La logique est assez simple : un A4 fait la surface de deux A5, un A3 celle de deux A4, et ainsi de suite de A8 à A0. **Le A0 a donc une surface égale à un A1+ un A2 + un A3 + un A4 + trois A6 + quatre A8**. Pourquoi faire compliqué ?
 
 ![](https://i0.wp.com/richielem.com/wp-content/uploads/2021/02/275px-A_size_illustration.svg_.png?fit=275%2C371&ssl=1)
@@ -101,17 +101,17 @@ La texture vient pour partie de la composition du papier, les moins prestigieux 
 
 **Maintenant, vous savez lire l’étiquette** : il s’agit d’un papier mat, texturé, et en coton.
 
-  
+
 D’autres matières font des papiers d’excellente facture, ceux à base d’agave de bambou ou de chanvre de chez Hahnemühle, tous trois mats et lisses, sont magnifiques.
 
 Ci-dessous, la même photo, en haut sur _Hahnemühle Photo Rag Baryta 315_, en bas sur _Awagami Kozo Thick White_. Notez la différence de profondeur des noirs, et de saturation, ainsi que la texture plus affirmée sur le papier brillant.
 
 *   ![](https://i0.wp.com/richielem.com/wp-content/uploads/2021/02/RIKK9656-1.jpg?resize=520%2C347&ssl=1)
-    
+
 *   ![](https://i0.wp.com/richielem.com/wp-content/uploads/2021/02/RIKK9653-1.jpg?resize=520%2C347&ssl=1)
-    
+
 *   ![](https://i0.wp.com/richielem.com/wp-content/uploads/2021/02/RIKK9655.jpg?resize=520%2C347&ssl=1)
-    
+
 
 ### Le grammage
 
@@ -145,20 +145,20 @@ _Différence de teinte entre le Kozo White et le Kozo Natural._
 Le **Kozo** est très légèrement texturé, il peut être extrêmement fin (le Mirakumo par ex, 90% kozo 10% cellulose) et a une grande souplesse, il peut presque se rouler comme du tissus et les plis ne marqueront pas. Ci dessous un noir et blanc sur **Kozo Thin Natural**.
 
 *   ![](https://i0.wp.com/richielem.com/wp-content/uploads/2021/02/RIKK9650.jpg?resize=520%2C347&ssl=1)
-    
+
 *   ![](https://i0.wp.com/richielem.com/wp-content/uploads/2021/02/RIKK9651.jpg?resize=520%2C347&ssl=1)
-    
+
 
 L’**Unryu** laisse apparaître de façon très visible les fibres, qui ont un reflet plus lumineux, c’est assez particulier et ne se prête pas à toutes les images. Ci dessous deux exemples pris de face, et de côté afin de mettre en évidence la texture des fibres.
 
 *   ![](https://i0.wp.com/richielem.com/wp-content/uploads/2021/02/RIKK9671.jpg?resize=520%2C347&ssl=1)
-    
+
 *   ![](https://i0.wp.com/richielem.com/wp-content/uploads/2021/02/RIKK9670.jpg?resize=520%2C347&ssl=1)
-    
+
 *   ![](https://i0.wp.com/richielem.com/wp-content/uploads/2021/02/RIKK9657-1.jpg?resize=520%2C347&ssl=1)
-    
+
 *   ![](https://i0.wp.com/richielem.com/wp-content/uploads/2021/02/RIKK9658.jpg?resize=520%2C347&ssl=1)
-    
+
 
 Le **Bamboo** est lisse et très blanc, il se rapprocherait un peu des papiers mats lisses européens à moindre coût, c’est une alternative très crédible aux « smooth » traditionnels.
 
@@ -172,11 +172,11 @@ Le **Inbe** a la même texture sur les deux faces et permet du recto-verso, c’
 Il existe certains papiers faits main, comme le **Bizan**; ils ont un bord frangé et sont très épais, mais le poids est modéré. **Le Bizan n’a d’égal à sa rigidité que son prix**, comptez 25 euros la feuille A3+. Les gris font des reflets tirant parfois sur l’argenté, avec beaucoup de nuances. Ci-dessous du Bizan Thick Natural, avec son bord frangé.
 
 *   ![](https://i0.wp.com/richielem.com/wp-content/uploads/2021/02/RIKK9664.jpg?resize=520%2C347&ssl=1)
-    
+
 *   ![](https://i0.wp.com/richielem.com/wp-content/uploads/2021/02/RIKK9665.jpg?resize=520%2C347&ssl=1)
-    
+
 *   ![](https://i0.wp.com/richielem.com/wp-content/uploads/2021/02/RIKK9662.jpg?resize=520%2C347&ssl=1)
-    
+
 
 Les papiers Premio ont une double couche supérieure, et sont « plus haut de gamme ». J’ai essayé de comprendre pourquoi, mais il y a peu d’explications claires mis à part que « **premio c’est mieux**« .
 
@@ -192,9 +192,9 @@ Les papiers imprimables **recto/verso** : chez Hahnemühle les papiers **_book_*
 Les papiers « **double layered** » ou double couche sont **à séparer après impression, afin de n’avoir que la partie imprimée qui devient donc extrêmement légère** (plus ou moins 20gsm) et laisse passer la lumière. Il existe le Kozo et le Mitsumata double couche. Ci-dessous un Kozo Double Layer, vous pouvez y voir la transparence, mais aussi un rendu des noirs et des gris très subtils.
 
 *   ![](https://i0.wp.com/richielem.com/wp-content/uploads/2021/02/RIKK9666.jpg?resize=520%2C780&ssl=1)
-    
+
 *   ![](https://i0.wp.com/richielem.com/wp-content/uploads/2021/02/RIKK9667.jpg?resize=520%2C347&ssl=1)
-    
+
 
 Les papiers Kozo à couche unique les plus fins laissent également passer la lumière, comme ce très léger Mitsakumo.
 
@@ -231,9 +231,4 @@ Enfin, pour le stockage, je n’ai pas vraiment de référence à vous donner, i
 Enfin, toutes les marques ou presque proposent des packs découverte, avec une ou deux feuilles de chaque papier. Le pack de 18 feuilles A4 chez Awagami coûte une quinzaine d’euros, c’est vraiment idéal pour tester.
 
 Conclusion
-----------
-
-Une fois les principales caractéristiques retenues, il est bien plus facile de faire ses choix, et encore une fois un carnet d’échantillon est plus parlant qu’un article, puisqu’il est possible de toucher les différents papiers.
-
-  
-L’imprimante est l’un des meilleurs achats que j’ai pu faire en photo, il y a une certaine émotion à voir un A3 d’une image que l’on affectionne déjà sur écran; **imprimée, la photo prend une toute autre dimension**. Si vous ne pensez pas en imprimer assez, ou n’avez pas le budget ou la place, je vous encourage quand même à en imprimer quelques unes de temps en temps sur un beau papier, au pire si vous n’aimez pas le résultat vous pouvez toujours les offrir à Noël, c’est quand même plus class qu’un mug avec une connerie écrite dessus.
+---

@@ -82,11 +82,4 @@ Guides and books
 [How to Make Coffee: The Science Behind the Bean](http://amzn.to/2DRGvpq) — I wanted to know more about the history and scientific breakdown of what makes coffee so great!
 
 Beans!
-------
-
-And of course, the fun stuff: beans! When you're just starting out, be aware that it's all a learning process. Don't be discouraged if you can't quite develop the flavor profiles printed on the bag. 😄 Some notes here:
-
-*   When trying to tweak the taste of your pourovers, remember to adjust the grind size of your beans. Too bitter? Try a courser grind. Too sour or flat? Try a finer grind.
-*   Buy beans from your local roastery! Build relationships and ask your baristas for brewing advice. If you're in the east bay, beans I've been liking are [Aka Coffee](https://www.aka.coffee) and [Bicycle Oakland](https://www.bicyclecoffeeco.com).
-
-Enjoy your coffee! ☕
+---

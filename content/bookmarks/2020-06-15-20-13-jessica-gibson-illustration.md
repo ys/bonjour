@@ -107,10 +107,4 @@ Ice Skating
 ![7_Jessica_Gibson_Ice-Skating.jpg](https://images.squarespace-cdn.com/content/v1/5b15ec86e749408e659bd3c4/1568563369686-AY377WCUG4T35OZXR9Z8/7_Jessica_Gibson_Ice-Skating.jpg)
 
 Racoon
-------
-
-![38779944_2139442519714684_3084254382200455168_n.jpg](https://images.squarespace-cdn.com/content/v1/5b15ec86e749408e659bd3c4/1568732328350-RFHS178P4WNBALDN7I2H/38779944_2139442519714684_3084254382200455168_n.jpg)
-
-prev / next
-
-[Back to Illustration](#)
+---

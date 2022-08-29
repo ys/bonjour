@@ -12,9 +12,3 @@ description: Stefan wishes he had rainbow crayons for fingers, a bit like Edward
   Maybe everyone could call him Stefan Crayonhands he mused. Unfortunately it didn’t
   have the same ring to it and&hellip;
 ---
-
-Stefan wishes he had rainbow crayons for fingers, a bit like Edward Scissorhands. Maybe everyone could call him Stefan Crayonhands he mused. Unfortunately it didn’t have the same ring to it and despite his best marketing efforts, the name never stuck.
-
-The next best thing he could do was draw pictures. Often creating through the eyes of a child, his illustrations are naive yet poignant, and a reminder that we were all once children.
-
-[See all art >](/all-art)

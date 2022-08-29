@@ -10,5 +10,3 @@ description: With a fish missing in his quiver and only 2 days until we shoved o
 tags: []
 date: 2022-08-23 12:33:59.288363117 +00:00
 ---
-# Trevor Gordon - Yardfish
-

@@ -47,6 +47,18 @@ I love a good cup of coffee. Using v60, Kalita or aeropress. My heart says stop 
 
 🖨 → Prints come from [Ooblik](https://ooblik.com) & [Négatif+](https://negatifplus.com). I just printed [my first zine](/shop/a-thousand-tides) with [Ex Why Zed](https://exwhyzed.co.uk) but it is sold out right now.
 
+## Social 
+
+I stick my pictures and some words kind of all over the web:
+
+- [glass.photo](https://glass.photo/yannick)
+- [imgs.so](https://imgs.so/bonjouryannick)
+- [instagram.com](https://instagram.com/bonjouryannick)
+- [twitter.com](https://twitter.com/bonjouryannick)
+- [vsco.co](https://vsco.co/bonjouryannick)
+
+I might try even more cause I am getting bored of Instagram.
+
 ## Colophon
 
 This is a static website built with [Hugo](https://gohugo.io). Hosting is provided by [Vercel](https://vercel.co). Optimized with my own two hands and a lot of patience. The source of it lives on [GitHub](https://github.com/ys/bonjour). Images are optimised by a GitHub Action from [Calibre](https://calibreapp.com/blog/compress-images-in-prs).

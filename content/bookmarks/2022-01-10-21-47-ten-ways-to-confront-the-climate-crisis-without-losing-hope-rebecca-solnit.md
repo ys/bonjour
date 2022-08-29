@@ -138,14 +138,4 @@ Indigenous leadership has mattered tremendously for the climate movement, in spe
 An old growth forest in Vancouver Island, Canada. Photograph: Cole Burston/AFP/Getty Images
 
 **10\. Don’t neglect beauty**
------------------------------
-
-Climate chaos makes us fear that we will lose what is beautiful in this world. I want to say that in 50 years, and 100 years, the moon will rise, and be beautiful, and shine its silvery light across the sea, even if the coastline isn’t where it used to be. In 50 years, the light on the mountains, and the way every raindrop on a blade of grass refracts light will still be beautiful. Flowers will bloom and they will be beautiful; children will be born, and they, too, will be beautiful.
-
-Only when it is over will we truly see the ugliness of this era of fossil fuels and rampant economic inequality. Part of what we are fighting for is beauty, and this means giving your attention to beauty in the present. If you forget what you’re fighting for, you can become miserable, bitter and lost.
-
-For a long time we have told horror stories about ice and coral reefs and violent weather events to try to wake people up to the fact that the climate is changing. I have a different fear now – that this chaos will come to seem inevitable, and even normal, as war does to someone who has lived their life in wartime.
-
-I believe we now need to tell stories about how beautiful, how rich, how harmonious the Earth we inherited was, how beautiful its patterns were, and in some times and places still are, and how much we can do to restore this and to protect what survives. To take that beauty as a sacred trust, and celebrate the memory of it. Otherwise we might forget why we are fighting.
-
-Follow the Long Read on Twitter at [@gdnlongread](https://twitter.com/@gdnlongread), listen to our podcasts [here](https://www.theguardian.com/news/series/the-long-read) and sign up to the long read weekly email [here](https://www.theguardian.com/info/ng-interactive/2017/may/05/sign-up-for-the-long-read-email).
+---

@@ -10,4 +10,3 @@ description: Ode to Desolation shares the story of Jim Henterly, a naturalist, i
   and fire lookout as he contemplates the dwindling days of Fire Lookouts in North
   America. With…
 ---
-

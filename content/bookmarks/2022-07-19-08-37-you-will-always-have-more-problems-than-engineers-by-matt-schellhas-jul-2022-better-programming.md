@@ -14,7 +14,7 @@ date: 2022-07-19 08:37:26.076164190 +00:00
 Photo by [Adrian Swancar](https://unsplash.com/@a_d_s_w?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/broken?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 > Everyone knows that debugging is twice as hard as writing a program in the first place. So if you’re as clever as you can be when you write it, how will you ever debug it?
-> 
+>
 > \- Brian Kernighan
 
 It has always been easier to break things than to make things. Software is no different. If anything, software has made it explicit. We can _prove_ there are [an infinite number of valid software programs](https://math.stackexchange.com/questions/204519/is-the-set-of-all-valid-c-programs-countably-infinite). How many of those actually do what we want, without bugs?
@@ -61,22 +61,4 @@ The thing is, Sam didn’t have to execute the plan. The meeting went smoothly. 
 But this is the sort of plan that companies need to embrace. Good plans increase your options, even if you don’t always need them. When things go south (and they will), that unlocked door or stashed gun means that you have more paths to victory. You shouldn’t plan for every possible problem. There’s too many of them anyways. Focus on the big and likely ones. Give yourself options, so that you can choose the best option when you finally find out which problem is going to show up this time.
 
 Progress is a treadmill.
-------------------------
-
-Imagine that you have a list of chores to do. Clean the house, mow the grass, pay your bills. You don’t really want to do them, but you’re a mostly responsible adult, so you do them. A day of hard work later, you finish all your chores only to look up and find out the list is bigger! Now you need to fix the car and walk the dog and make some dinner and schedule that doctor’s appointment and… ugh.
-
-This is software engineering in a nutshell.
-
-As your team solves problems, the company succeeds and grows. Now it has more, harder problems for your team to solve (in addition to maintaining the stuff you already built). For people that focus on problems, it can seem as though things are never getting better. All that work, and there’s still all of these problems. They’ve run for hours but didn’t get anywhere.
-
-Since there’s always going to be more problems, engineers’ sense of accomplishment needs to come from elsewhere. Some folks have it easy. They love solving problems. The never-ending stream of problems is like the world’s largest game for them. As long it stays fun (usually by striking the right balance of difficulty and variety), it doesn’t really matter if they’re not getting anywhere — the journey is enough for them.
-
-Others have it harder. They need to see changes. And that doesn’t work when there’s always going to be more problems to solve. You can spend your entire life making your corner of the world a better place, and still have lifetimes of work to do. That doesn’t mean that you didn’t accomplish anything. Quite the opposite! But the only way to see that is to look backwards.
-
-The better way to measure progress is to ignore the problems and think about what we’ve built. What things can we do today that we couldn’t yesterday? What things are easier now? What would have fallen into ruin if we weren’t there. Those things do change. We can look back and see how things are better now than they were. Yes, new software brings with it new problems.
-
-There’s always going to be more problems.
-
-Most companies don’t get it. Most _people_ don’t get it. To them, problems are a sign of failure. They think that the default state is perfection. They believe that if we just worked hard enough — _planned_ hard enough then there wouldn’t be any problems. The only reason we fall from that perfect state is that someone, somewhere screwed up.
-
-But that’s not reality. The default state for our reality is chaos. It is ruin. It is entropy and erosion and human nature. We build things to make a better world, and yeah, part of that is people failing. People fail _all the time_. That sucks, but you’re not going to change it. So you might as well do a good job living with it.
+---

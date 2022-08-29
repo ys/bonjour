@@ -10,5 +10,3 @@ description: Mathieu Marechal surfing small waves in Brittany. 5min surfing edit
 tags: []
 date: 2022-02-27 21:04:58.778520745 +00:00
 ---
-
-© 2022 NobodySurf. All rights reserved.

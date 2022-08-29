@@ -8,5 +8,3 @@ description: Welcome to the good life.
 tags: []
 date: 2022-08-04 21:15:05.230833297 +00:00
 ---
-# A Visitor’s Guide to Southwest France
-
