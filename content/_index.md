@@ -1,4 +1,5 @@
 ---
+color: sunray
 hideSubscribe: true
 title: "✌️ Bonjour Yannick"
 seotitle: "✌️ Bonjour Yannick - Des histoires et des photos"
