@@ -1,5 +1,6 @@
 ---
 title: "Break hivernal à Lanzarote"
+favorite: true
 subtitle: "son sable noir, ses maisons blanches et, surtout, sa vitamine D"
 date: 2022-06-02T10:02:02+0200
 slug: "lanzarote"

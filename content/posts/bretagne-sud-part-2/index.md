@@ -7,7 +7,7 @@ draft: false
 slug: "bretagne-sud-part-2"
 place: "France"
 categories:
-  - ailleurs
+  - voyages
 emoji: "⚓️"
 tags:
   [

@@ -10,7 +10,7 @@ emoji: "🇧🇪"
 gear: ["📷 Fuji X100T"]
 place: "Belgique"
 categories:
-- ailleurs
+- voyages
 resources:
 - src: "DSCF8808.webp"
   name: "cover"

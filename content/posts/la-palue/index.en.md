@@ -26,7 +26,7 @@ gear:
   - "📷 Fuji X-T20"
 place: "France"
 categories:
-  - ailleurs
+  - voyages
 resources:
   - src: "cover.webp"
     name: "cover"

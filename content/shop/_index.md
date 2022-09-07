@@ -1,5 +1,5 @@
 ---
-title: "Les jolis prints"
+title: "Un magasin sur les internets"
 seotitle: "🖼 Les jolis prints de Yannick - Bonjour Yannick"
 description: "De belles photos, du beau papier et parfois un cadre."
 grid: true

@@ -38,20 +38,3 @@ Comme neuf. [Voir plus](https://www.negative.supply/shop-all/light-source)
 *Prix: 80€*
 
 {{< photo src="light" >}}
-
-### Clavier mécanique Keychron K1
-
-Comme neuf, testé pour les poignets mais ne me convient pas
-QWERTY. [Voir plus](https://www.keychron.com/products/keychron-k1-wireless-mechanical-keyboard)
-
-*Prix: 50€*
-
-{{< photo src="keychron" >}}
-
-### Withings Steel smartwatch
-
-Smartwatch avec bracelet cuir qui ne ressemble pas à une smartwatch. Grande autonomie, pas besoin de la recharger tous les soirs. [Voir plus](https://www.withings.com/fr/fr/steel-hr)
-
-*Prix: 100€*
-
-{{< photo src="watch" >}}

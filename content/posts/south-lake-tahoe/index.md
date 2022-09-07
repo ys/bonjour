@@ -22,7 +22,7 @@ tags:
 emoji: "🇺🇸"
 place: "Etats-Unis"
 categories:
-  - ailleurs
+  - voyages
 resources:
   - src: "*.webp"
   - src: "south-lake-tahoe-22.webp"
