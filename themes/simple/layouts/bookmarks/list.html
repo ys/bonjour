@@ -1,7 +1,10 @@
-{{ define "full" }}
-<form id="search" class="search max-w-2xl  m-auto py-2 border-b-2 px-8 border-accent-400" role="search">
-  <input type="search" id="search-input" placeholder="Search..." class="focus:outline-none text-3xl italic h-16 w-full bg-transparent search-input">
+{{ define "main" }}
+<form id="search" class="search max-w-2xl  py-2 border-b-2 px-8 border-accent-400 flex items-center gap-4 " role="search">
+  <span>🔎</span>
+  <input type="search" id="search-input" placeholder="Search..." class="focus:outline-none text italic h-8 w-full bg-transparent search-input">
 </form>
+{{ end }}
+{{ define "full" }}
 <div class="links hidden mx-4 py-8 {{ with .Params.grid }}  grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2{{ end}}">
 </div>
 <div class="all-links mx-4 py-8 {{ with .Params.grid }}  grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2{{ end}}">

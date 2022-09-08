@@ -1,15 +1,10 @@
 {{ block "header" . }}
 {{ $color := "accent" }}
-{{range first 1 (shuffle (slice "gray" "indigo" "teal" "orange" "amber" "rose" "red" "emerald" "sky" "bluewhale" "accent" "sunray" "pink")) }}
+{{range first 1 (shuffle (slice "indigo" "teal" "orange" "amber" "rose" "red" "emerald" "sky" "accent" "sunray" "pink")) }}
 {{ $color = . }}
 {{ end }}
-<header class="py-8 {{ with .Params.hideHeader }}hidden{{end}} md:max-w-xl md:mx-auto mx-4 md:container flex flex-col md:flex-row flex-col-reverse  gap-8 md:justify-between justify-center">
-  <div class="flex flex-col font-sans  h-full tracking-tighter text-sm ">
-    <h1 class="text-sm font-sans font-black text-dark transition ease-in-out duration-500 {{ with .Params.color }}text-{{.}}-500 hover:text-{{.}}-500 {{else}}text-sunray-500 hover:text-{{$color}}-500 {{end}}">
-    <a href="{{ "/" | relLangURL }}" alt="home">{{ .Site.Title }}</a></h1>
-    {{ partial "main_menu" . }}
-  </div>
-  <span class="block logo text-center text-6xl w-16 transition ease-in-out duration-500 {{ with .Params.color }}text-{{.}}-500 {{else}}text-sunray-500 {{end}} hover:text-{{$color}}-500">
+<header class="group py-8 {{ with .Params.hideHeader }}hidden{{end}} md:max-w-xl md:ml-16 mx-4 md:container flex flex-col md:flex-row flex-col-reverse  gap-4  ease-in-out duration-500 ">
+  <span class="block logo text-center text-6xl w-16 {{ with .Params.color }}text-{{.}}-500 {{else}}text-{{$color}}-500 {{end}} ">
     <a href="{{ "/" | relLangURL }}" alt="home">
       {{ if fileExists "/static/logo.svg" }}
       {{ readFile "/static/logo.svg" | safeHTML}}
@@ -18,5 +13,30 @@
       {{ end }}
     </a>
   </span>
+  <div class="opacity-20 hover:opacity-90 flex flex-col font-sans  h-full tracking-tighter text-sm ease-in-out duration-500">
+    <h1 class="text-4xl font-sans font-black text-dark transition ease-in-out duration-500 {{ with .Params.color }}text-{{.}}-500 group-hover:text-{{.}}-500 {{else}}text-sunray-500 group-hover:text-{{$color}}-500 {{end}}">
+    <a href="{{ "/" | relLangURL }}" alt="home">{{ .Site.Title }}</a></h1>
+    {{ $current := . }}
+    <nav class="main_menu">
+      <ul class="inline text-gray-600 leading-relaxed">
+        {{ range .Site.Menus.main }}
+        {{ $active := or ($current.IsMenuCurrent "nav" .) ($current.HasMenuCurrent "nav" .) }}
+        {{ $active = or $active (eq .Page $current) }}
+        {{ $active = or $active (eq .Page.Section $current.Type) }}
+        <li
+            class="inline  relative ">
+          <a class="{{ .Params.class }}  whitespace-nowrap {{if $active}} text-gray-800  {{end}} {{ with $current.Params.Color }}hover:text-{{ . }}-600 hover:border-{{ . }}-600 {{ if $active }}text-decoration-underline text-decoration text-decoration-{{ . }}-600 {{ end }}{{ else }}hover:text-{{$color}}-600 {{ if $active }}text-decoration-underline text-decoration text-decoration-{{$color}}-600 {{ end }}{{ end }} transition ease-in-out duration-200 " href="{{ .URL }}" title="{{ .Title }}">
+
+            {{ if .Params.useEmoji }}
+            {{ $current.Params.emoji | default $current.Site.Params.emoji}}
+            {{ else }}
+            {{ .Name }}
+            {{ end }}
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+    </nav>
+  </div>
 </header>
 {{ end }}

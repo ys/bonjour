@@ -7,7 +7,6 @@ date: 2020-04-16 07:03:03 +0200
 resources:
   - src: "*.webp"
 categories:
-- journal
 - cafe
 slug: "pause-cafe"
 aliases:

@@ -2,6 +2,8 @@
 title: "Bouts de ports"
 subtitle: "Des morceaux de bateaux"
 date: 2021-09-01T12:55:23+02:00
+categories:
+- mer
 draft: false
 description: ""
 color: "cascade"

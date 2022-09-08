@@ -15,10 +15,10 @@
 </head>
 
 <body
-    class="font-serif text-base leading-relaxed antialiased  text-darker   {{with .Params.color}}bg-{{.}}-200 selection:bg-{{.}}-300 selection:text-{{.}}-900 {{else}}selection:bg-accent-300 selection:text-accent-900 {{end}}">
+    class="font-mono text-base leading-relaxed antialiased  text-darker   {{with .Params.color}}bg-{{.}}-200 selection:bg-{{.}}-300 selection:text-{{.}}-900 {{else}}selection:bg-accent-300 selection:text-accent-900 {{end}}">
 
   {{ partial "header" . }}
-  <div class="md:container md:mx-auto md:max-w-xl w-full  grid grid-cols-1 gap-16 min-h-1/2">
+  <div class="md:container md:ml-16 md:max-w-xl w-full  grid grid-cols-1 gap-16 min-h-1/2">
     <div class="mx-4 md:mx-0 relative">
       {{ block "main" . }}
       {{ end }}

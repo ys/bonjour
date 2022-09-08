@@ -7,6 +7,8 @@ draft: false
 camera: "Olympus XA"
 film: "Kodak Gold 200"
 color: sunray
+categories:
+- mer
 place: "la Torche"
 emoji: "🏄‍♂️"
 slug: "surf-torche"

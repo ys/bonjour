@@ -9,7 +9,6 @@ emoji: "☕️"
 resources:
   - src: "*.webp"
 categories:
-- journal
 - cafe
 ---
 

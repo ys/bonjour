@@ -6,6 +6,8 @@ date: 2022-02-04T12:55:23+02:00
 draft: false
 description: ""
 tags: ["paris", "visite", "citytrip", "voyage", "souvenirs"]
+categories:
+- voyages
 emoji: "🗼"
 resources:
   - src: "*.webp"

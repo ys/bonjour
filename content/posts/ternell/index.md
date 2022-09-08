@@ -20,7 +20,7 @@ tags:
 place: "Belgique"
 gear: ["📷 Fuji X100T"]
 categories:
-  - ailleurs
+  - voyages
 resources:
   - src: "DSCF8724.webp"
     name: "cover"

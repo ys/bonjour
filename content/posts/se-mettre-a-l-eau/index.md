@@ -18,7 +18,7 @@ tags:
 resources:
   - src: "*.webp"
 categories:
-  - journal
+- mer
 color: indigo
 ---
 

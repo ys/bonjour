@@ -16,7 +16,7 @@ tags:
   ]
 place: "France"
 categories:
-  - ailleurs
+  - voyages
 slug: "le-printemps-s-installe"
 emoji: "🌱"
 resources:

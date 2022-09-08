@@ -1,4 +1,5 @@
 ---
+color: sky
 seotitle: "A propos"
 title: "Bonjour!"
 description: "Ce que je fais pour le moment"

@@ -3,6 +3,8 @@ title: "Le surf"
 subtitle: "De l'iode, de la wax et une légère odeur de pieds"
 color: "sunray"
 emoji: "🏄🏼‍♂️"
+categories:
+- mer
 tags:
   - surf
   - glisse

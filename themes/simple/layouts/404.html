@@ -1,10 +1,10 @@
 {{ define "main" }}
-<div class="flex m-32 align-center flex-col">
+<div class="flex align-center flex-col">
   <h2 class="block text-semibold text-sm text-center m-6">Page not found</h2>
-<p class="text-lg text-center block text-accent-700">
-{{ .Site.Params.text_404 }}
-</p>
-  <div class="{{if $.Params.grid}}md:-mx-32{{end}} mb-10 {{ with .Params.grid }}grid gap-8 grid-cols-1 md:grid-cols-2 {{end}}">
+  <p class="text-lg text-center block text-accent-700">
+  {{ .Site.Params.text_404 }}
+  </p>
+  <div class="md:-mr-32 mb-10 grid gap-8 grid-cols-1 md:grid-cols-2">
     {{ range first 4 (where .Site.RegularPages ".Params.favorite" true) }}
       {{ partial "cover_title" . }}
     {{ end }}

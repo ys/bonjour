@@ -8,6 +8,8 @@ camera: "Nikonos III"
 film: "Kori 400"
 color: sunray
 emoji: "🏄‍♂️"
+categories:
+- mer
 resources:
 - src: "*.webp"
 - src: "*67.webp"
