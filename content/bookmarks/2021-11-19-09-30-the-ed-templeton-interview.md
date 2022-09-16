@@ -180,4 +180,34 @@ Yeah, that was a huge bummer. I basically let Jamie handle the video stuff so in
 Skateboarding is all those things. Nothing can change the fact that street skating at its core is an illegal activity for the most part and that the police and the security guards will always be the enemy. I always say that skateboarding has just branched off in multiple different directions and there’s still room for the outsider or the weird kids skating ditches making zines and not really caring about the Olympics or even mainstream skateboarding. No matter how many billboards or TV commercials or Olympics or skaters becoming giant movie stars and fucking one of the Kardashians – it will always be badass to jump a fence and skate some stairs or a handrail that somebody doesn’t want you to skate. Or to trek out to some remote full pipe or ditch that nobody even cares about and use it in ways nobody intended. Only skaters will know that feeling. The Olympics is just another branch that grew off and it’s on direction but it’s still part of the same tree. Skateboarding in the Olympics immediately became the coolest thing in the Olympics. All of those chiselled athletes that train for their whole lives would break their leg in one second on a skateboard. 
 
 Toy Machine graphics and art
----
+----------------------------
+
+**Did you expect your early graphics/characters to become so loved by skaters?**
+
+Never. I still get pretty stoked when I see someone with a tattoo of one of my skateboard graphics. What an honor that someone enjoyed a piece of my art so much that they wanted it stabbed into their skin for life. That’s pretty cool.  I never expected that at all. I truly thought my first graphics would be laughed at and was very self-conscious that they were not as good as the other graphics I saw on the skate shop walls.
+
+**Do you have a favourite graphic/series you have done for Toy?**
+
+My favorite graphic has usually been the “religion politics lies” one, the one with the syringe going into the guy’s ear and he has TV shaped glasses on. I’m not sure I have a favorite series off the top of my head I’d have to look at them all and make a choice and I’m way too lazy to look at them right now.
+
+**What is your process when creating graphics?**
+
+My processes to make a small pencil sketch usually. Some idea will pop into my head that the characters can be doing or some situation that they’re in. Lately, I’ve been looking at old pulp magazines and book covers for instance. Science fiction magazines from the 50s and 60s, stuff like that. And that gives me the inspiration to change the situation into modern ones involving the sect characters. So, I start with a sketch then I might make a scan of that sketch blow it up a little bigger and using tracing paper or a light table I’ll make a second pencil sketch that is more fleshed out. Once that is done I do the same thing using see-through vellum and a light table to make an inked version of the drawing. That black-and-white version gets scanned even bigger to fit on a board and I use adobe illustrator to color the graphic and do all sorts of shades and highlights and shadows to make it colorful and poppy. I’ve shared a little bit of my process on Instagram under the hashtag  [#AnatomyOfABoardGraphic](https://www.instagram.com/explore/tags/anatomyofaboardgraphic/).
+
+**You have worked with Mike Sinclair for a pretty long time now, Mike is well known for being incredibly entertaining, especially when with Billy Marks. Do you have any stories of those two together?**
+
+Oh man, Mike and Billy is an epic love-hate relationship. One for the ages. Both Mike and Billy are such interesting characters and it’s really perfect that they sort of clash but also understand each other so well. They go back even further than me, from the Fallen shoes days. Mike is so funny, I talk to him every week and he will just go off on a subject or something happening in skating. I just listen and laugh.
+
+**Looking at the roster of skaters Toy Machine has had over the years (and currently), it’s as if you have had a 3 or 4 era’s of ‘Superteam’ with some of the biggest names ever in skateboarding riding/ridden for you. How does creating such a strong team come about? Do you curate the team specifically, or do you let it naturally build itself through association?**
+
+I think we’ve been really lucky with our teams. In the early days, I think I just had a good eye for real talent that went beyond just skateboarding. I looked for people who had some personality and some kind of edge. People I wanted to be around and spend time with. So only being a great skateboarder was not enough. I was lucky to have enough foresight to sort of guess who might be a person who would go the long haul. But I also had lots of help with Jamie Thomas of course being also a great judge of character and skate ability. And now of course with Mike Sinclair who is basically a “team whisperer,” he’s so good at what he does. I just sit back and give him the space he needs to do it and it’s been great. I do curate the team specifically along with Mike and we do try to have people as amateurs first and build them up in our program rather than finding someone from outside. But whatever works works.
+
+**It feels as though Toy Machine has dropped a lot of videos over the past few years. Is this something that you create deadlines for or do you let the footage build up naturally?**
+
+Yeah, after discussing with the team Sinclair creates deadlines along with Don Luong our filmer. We have team meetings here and there and talk about what we want to do as a collective.
+
+**What’s next for Toy Machine?**
+
+We have our 9th video coming out on December 10th called SCORCHED EARTH!
+
+**Thanks Ed!**

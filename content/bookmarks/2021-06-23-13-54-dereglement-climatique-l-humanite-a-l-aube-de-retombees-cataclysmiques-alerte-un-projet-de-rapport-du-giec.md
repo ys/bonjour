@@ -54,4 +54,24 @@ _« Le monde fait face à des défis entremêlés complexes »_, commente ains
 Lire aussi Article réservé à nos abonnés [Crise climatique et de la biodiversité : 50 spécialistes mondiaux appellent à une lutte commune](https://www.lemonde.fr/climat/article/2021/06/10/crise-climatique-et-de-la-biodiversite-50-specialistes-mondiaux-appellent-a-une-lutte-commune_6083616_1652612.html)
 
 Des choix radicaux
----
+------------------
+
+![Un enfant dans la banlieue de Tegucigalpa, au Honduras, en 2016.](data:image/svg+xml,%3Csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20viewBox=%270%200%20664%20443%27%3E%3C/svg%3E)
+
+Un enfant dans la banlieue de Tegucigalpa, au Honduras, en 2016. ORLANDO SIERRA / AFP
+
+Sans oublier les incertitudes autour des _« points de bascule »_, éléments-clés dont la modification substantielle pourrait entraîner le système climatique vers un changement violent et irrémédiable. Au-delà de 2 °C de réchauffement, la fonte des calottes glaciaires du Groenland et de l’Antarctique de l’Ouest (qui contiennent assez d’eau pour provoquer une hausse du niveau de la mer de 13 mètres) pourrait par exemple entraîner un point de non-retour, selon de récents travaux. C’est pour cela que _« chaque fraction d’un degré compte »_, insiste le GIEC, alors qu’un autre point de rupture pourrait voir l’Amazonie – un des poumons de la planète avec les océans – transformée en savane.
+
+Face à ces problèmes systémiques, aucun remède miracle unique. En revanche, une seule action peut avoir des effets positifs en cascade. Par exemple, la conservation et la restauration des mangroves et des forêts sous-marines de kelp, qualifiées de puits de _« carbone bleu »_, accroissent le stockage du carbone, mais protègent aussi contre les submersions, tout en fournissant un habitat à de nombreuses espèces et de la nourriture aux populations côtières.
+
+En dépit de ses conclusions alarmantes, le rapport offre ainsi une note d’espoir. L’humanité peut encore orienter sa destinée vers un avenir meilleur en prenant aujourd’hui des mesures fortes pour freiner l’emballement de la deuxième moitié du siècle. _« Nous avons besoin d’une transformation radicale des processus et des comportements à tous les niveaux : individus, communautés, entreprises, institutions et gouvernement »_, plaide le rapport. _« Nous devons redéfinir notre mode de vie et de consommation. »_
+
+Lire aussi Article réservé à nos abonnés [« Il faut arrêter cette machine infernale du réchauffement climatique »](https://www.lemonde.fr/planete/article/2021/01/15/il-faut-arreter-cette-machine-infernale-du-rechauffement_6066361_3244.html)
+
+Le Monde avec AFP
+
+[S’abonner](https://abo.lemonde.fr/#xtor=AT-642)
+
+Déjà abonné ? [Se connecter](https://secure.lemonde.fr/sfuser/connexion)
+
+Contribuer

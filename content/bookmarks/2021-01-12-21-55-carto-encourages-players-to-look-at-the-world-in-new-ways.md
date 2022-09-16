@@ -9,3 +9,7 @@ uuid: 7cd1d438-2247-43a4-a291-304dcaa85584
 description: There are many things we can’t control, but changing our attitudes and
   decisions can have profound implications
 ---
+
+![](https://miro.medium.com/max/1400/1*1njng6YplHd_HsUCI026zQ.png)
+
+**this year has taught me anything, it’s that we can’t control what happens in life. We can often, however, influence outcomes by carefully**…

@@ -39,4 +39,10 @@ En effet, l'eau joue un très grand rôle sur la planète. Tout finit dans le fo
 La Bretagne c'est un peu toute la France à la fois car le territoire est structuré par des chaînes de montagnes qui ont formé un énorme tout. Par exemple, **le granit du Mont-Blanc dans les Alpes et le granit de Ploumanac'h en Bretagne sont cousins et proviennent de la même chaîne de montagne". **
 
 Aller plus loin
----
+---------------
+
+🎧  RÉÉCOUTER - **La Terre au carré** : [Géologie : voyage dans le temps, à la découverte de notre héritage naturel](https://www.franceinter.fr/emissions/la-terre-au-carre/la-terre-au-carre-du-lundi-04-octobre-2021)
+
+📖  LIRE - **Patrick de Wever** : [Histoire secrète de cailloux publié (Belin)](https://www.belin-editeur.com/histoires-secretes-de-cailloux)
+
+🎧  REGARDER - **Arnaud Guérin**, a contribué à la mise en œuvre du [documentaire "France, le fabuleux voyage" ](https://www.francetelevisions.fr/et-vous/notre-tele/a-ne-pas-manquer/france-le-fabuleux-voyage-un-documentaire-spectaculaire-8161)

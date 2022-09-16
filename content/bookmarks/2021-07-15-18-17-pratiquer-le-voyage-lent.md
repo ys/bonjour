@@ -17,9 +17,9 @@ Que signifie un voyage lent et responsable? Comment miser sur la qualité plutô
 
 Et si l’immense terrain de jeux québécois était le point de départ idéal pour apprivoiser le temps long et le voyage lent?
 
-![](https://content.beside.media/beside_/app/www/2021/06/BESIDE_voyage-lent_LeBic_sigmund.jpg)
+![](https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2021/06/BESIDE_voyage-lent_LeBic_sigmund.jpg)
 
-Le voyage lent en cinq temps
+Le voyage lent en cinq temps  
 \_\_\_\_
 ---------------------------------------
 
@@ -39,7 +39,7 @@ Une grande partie du Québec gagne à être apprivoisée et découverte par les 
 *   Entre Louiseville et La Tuque, long de 250 km, le circuit touristique la [Route des Rivières](https://tourismehautemauricie.com/blogue/la-route-des-rivieres-jusqu-en-haute-mauricie) propose plusieurs attraits pour profiter de la rivière Saint-Maurice et d’une dizaine de ses affluents.
 *   La partie nord de l’**Estrie**, qui s’éloigne des villages près de la frontière et qui fourmille de petits hameaux pittoresques et de routes vallonnées. Dirigez-vous vers les MRC de la Haute-Yamaska, du Val-Saint-François et d’Acton.
 
-![](https://content.beside.media/beside_/app/www/2021/06/BESIDE_tourisme_riviere-du-loup-1024x683.jpg)
+![](https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2021/06/BESIDE_tourisme_riviere-du-loup-1024x683.jpg)
 
 Photo: Tourisme Rivière-du-Loup
 
@@ -57,19 +57,19 @@ Voici quelques idées qui ne demandent aucune planification, mais qui pourraient
 *   Un arrêt dans un **marché fermier** pour faire le plein de produits frais et un piquenique sur une plage de galets en bordure du fleuve
 *   Une pause dans les meilleurs restaurants, cafés et boulangeries recommandés par les gens du coin
 
-![](https://content.beside.media/beside_/app/www/2021/06/BESIDE_swim_jana-sabeth-720x480.jpg)
+![](https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2021/06/BESIDE_swim_jana-sabeth-720x480.jpg)
 
 Photo: Jana Sabeth
 
-![](https://content.beside.media/beside_/app/www/2021/06/BESIDE_marche-fermier_tourisme_bas_saint-laurent-720x480.jpg)
+![](https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2021/06/BESIDE_marche-fermier_tourisme_bas_saint-laurent-720x480.jpg)
 
 Photo: Tourisme du Bas-Saint-Laurent
 
-![](https://content.beside.media/beside_/app/www/2021/06/BESIDE_boulangerie-720x480.jpg)
+![](https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2021/06/BESIDE_boulangerie-720x480.jpg)
 
 Quand viendra le temps de faire vos bagages, pensez à aller piger quelques-unes de nos superbes suggestions de [culture pour emporter](https://beside.media/fr/ailleurs/culture-pour-emporter/). Des podcasts et des livres qui se glissent bien entre un maillot de bain et le chasse-moustique.
 
-![](https://content.beside.media/beside_/app/www/2021/06/BESIDE_frelighsburg_tourisme_brome-missisquoi.jpg)
+![](https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2021/06/BESIDE_frelighsburg_tourisme_brome-missisquoi.jpg)
 
 _Routes inoubliables, moyens de transport variés et paysages saisissants_
 
@@ -87,7 +87,7 @@ Le fait de considérer le temps de déplacement comme un élément du voyage plu
 *   La **Route des Navigateurs**, qui s’étend de Baie-du-Febvre à Sainte-Luce, comporte des sections magnifiques, qui se parcourent autant en auto qu’à vélo! Parsemée de maisons ancestrales, c’est une belle voie secondaire pour arriver dans la ville de Québec ou la quitter.
 *   La portion de la **243** qui longe le lac Brome est paisible et belle, dans une région réputée pour ses routes et ses rangs qui serpentent et sillonnent le paysage agricole.
 
-![](https://content.beside.media/beside_/app/www/2021/06/BESIDE_train_de_charlevoix_2-1024x683.jpg)
+![](https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2021/06/BESIDE_train_de_charlevoix_2-1024x683.jpg)
 
 Photo: Train de Charlevoix
 
@@ -108,7 +108,7 @@ Photo: Train de Charlevoix
 
 Voyager lentement peut également impliquer d’aller moins loin. Et si vous envisagiez vos destinations de manière croissante? Commencez par votre municipalité, puis explorez votre région immédiate, et avoisinante, avant de vous diriger vers des lieux plus éloignés. Une belle occasion de devenir super guide pour vos ami·e·s et les membres de votre famille qui viendront vous visiter.
 
-![](https://content.beside.media/beside_/app/www/2021/06/BESIDE_parc_regional_kiamika_2.jpg)
+![](https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2021/06/BESIDE_parc_regional_kiamika_2.jpg)
 
 ### \-3-
 
@@ -125,7 +125,7 @@ Télétravail ou étude ne devraient pas rimer avec vacances, mais si on ne peut
 
 Le voyage lent, c’est aussi un choix d’hébergement. Dormir sous la tente ou dans un _van_ implique certaines tâches qui disparaissent à l’hôtel, notamment celle de cuisiner. Mais ces tâches, en imposant un rythme plus lent, nous donnent une merveilleuse occasion d’apprécier le moment présent. Nous, on trouve que le café est meilleur après une nuit dans un sac de couchage!
 
-![](https://content.beside.media/beside_/app/www/2021/06/BESIDE_parc_regional_kiamika-1024x683.jpg)
+![](https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2021/06/BESIDE_parc_regional_kiamika-1024x683.jpg)
 
 Photo: Parc régional Kiamika
 
@@ -137,9 +137,70 @@ Ne craignez pas les circuits qui favorisent la déconnexion: aller de plage en p
 
 Songez également aux contrecoups possibles quand viendra le temps de publier des images de vos vacances sur les réseaux sociaux. Évitez de géolocaliser les lieux déjà suridentifiés et faites plutôt voir à vos abonné·e·s des lieux méconnus (en les géolocalisant ou pas). Vous aiderez ainsi à la préservation de lieux naturels, entre autres choses.
 
-![](https://content.beside.media/beside_/app/www/2021/06/BESIDE_MBAQ.jpg)
+![](https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2021/06/BESIDE_MBAQ.jpg)
 
 ### \-4-
 
 Faire le plein de culture
----
+-------------------------
+
+_Parsemer ses vacances d’art et de culture_
+
+Pour ceux et celles qui, comme nous, ont été soulagé·e·s par la réouverture des musées, consultez le site Les Musées du Québec afin de tout connaitre sur les musées, économusées et maisons de la culture de la province. Nous affectionnons particulièrement:
+
+![](https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2021/06/BESIDE_musee-de-la-gaspesie-2-1024x683.jpg)
+
+Photo: Musée de la Gaspésie
+
+**[La](http://economusees.com/quebec/fr/) Société des Économusées** (SRÉ) met quant à elle de l’avant le savoir-faire ancestral et le patrimoine québécois à travers un vaste réseau de membres artisans. Vous aurez l’occasion cette année, via la campagne Artisans à l’œuvre, de visiter des ateliers et d’aller à la rencontre de ceux qui habitent la région que vous visitez. Un accès privilégié à un côté humain, intime et à une proximité au processus artistique de tous ces membres.
+
+Le **[Symposium d’art contemporain de Baie-Saint-Paul](https://symposiumbsp.com/en/)**, évènement prisé par les amateur·rice·s d’art visuel, revient lui aussi après une année de pause forcée. Sous la thématique Le Temps et les choses, 12 artistes en provenance du Québec, d’Alberta, de Colombie-Britannique, de France et de Suisse exposeront leurs œuvres du 30 juillet au 29 aout. D’ailleurs, il ne s’agit pas du seul symposium. Renseignez-vous sur les expositions d’art visuel contemporain qui ont lieu dans plusieurs régions du Québec cette année. Je pense entre autres à celui qui se déroule dans les jardins du **[Sanctuaire Notre-Dame-du-Cap](https://www.sanctuaire-ndc.ca/evenements/symposium-darts-visuels/)** (l’église de forme octogonale et surmontée d’un toit pyramidal est unique au Québec) ou à celui de **[Danville](https://symposiumdedanville.com/)**. Soulignons également l’ouverture récente de la **[Galerie G de BR](https://galeriegdebr.com/)** dans cette même municipalité d’Estrie. Réunissant sous le même toit un lieu de diffusion d’art visuel, une boutique d’objets nommée Germaine ainsi qu’un espace intime de création pour des artistes en résidence, la charmante galerie est située en plein cœur villageois, dans une ancienne sellerie de chevaux.
+
+Pourquoi ne pas tenter d’intégrer une pratique artistique à votre quotidien, cet été? L’illustratrice et collaboratrice de BESIDE **Florence Rivest** propose régulièrement des ateliers d’initiation au dessin ou à la peinture en nature. Pour voir les possibilités, c’est par [ici](https://www.instagram.com/erre.land/). Ça donne envie de trainer un carnet de croquis dans notre sac de randonnée! Pour les féru·e·s de botanique, les **[Jardins de Métis](https://jardinsdemetis.com/)** offrent une programmation d’expositions artistiques temporaires sur un vaste terrain fleuri. Un incontournable de la région du Bas-Saint-Laurent. Visitez ce lieu exceptionnel, parmi les jardins les plus nordiques du continent.
+
+![](https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2021/06/BESIDE_Jardins_de_metis-683x1024.jpg)
+
+Photo: Jardins de Métis
+
+![](https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2021/06/BESIDE_jardins_de_metis_2-683x1024.jpg)
+
+Photo: Jardins de Métis
+
+Mention plus qu’honorable au **Festival international de cinéma et d’art de Percé**, [Les Percéides](https://perceides.ca/). Si vous aviez besoin d’une raison de plus pour vous rendre dans cette région gaspésienne, la voilà!
+
+![](https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2021/06/BESIDE_fishing_greysen-johnson.jpg)
+
+La nature, la nature, n’est-ce pas toujours une manière lente de voyager? Pas si votre objectif est de gravir 28 sommets en 2 mois! Quelques astuces pour _ra-len-tir_:
+
+*   **Adoptez une nouvelle passion.** Observation d’oiseaux, identification de la [flore comestible](https://beside.media/fr/ailleurs/un-garde-manger-a-portee-de-main/) ou non et création d’un herbier de vacances, observation des nuages ou repérage de traces d’animaux au sol. Tomber sur des pistes de chevreuil, de renard ou de porc-épic pendant une balade ou une randonnée, c’est franchement excitant! La plupart des parcs régionaux et nationaux abritent quantité de ces animaux.
+
+*   **Des activités de plein air qui impliquent une bonne dose de lenteur?** La [pêche](https://beside.media/fr/atelier/guide-apprenti-pecheur/), la traversée d’un lac en Outaouais, pas de vent en [canot](https://beside.media/fr/ailleurs/lart-du-canotage/), ou encore la conquête du [sentier des Caps à pied](https://sentierdescaps.com/).
+
+*   **L’observation des étoiles.** Il est bon de réitérer ceci: [L’ASTROlab](https://www.astrolab.qc.ca/) du parc national du Mont-Mégantic est un lieu privilégié pour observer les constellations estivales ou encore la pluie de perséides du mois d’aout.
+
+Pensez aussi à faire des activités d’immersion en nature, par exemple du canot en Abitibi. Le **[parc national d’Opémican](https://www.sepaq.com/pq/ope/)** et le **[parc national d’Aiguebelle](https://www.sepaq.com/pq/aig/)** sont bien entendu des incontournables de cette région plus grande que nature. Coup de cœur pour les deux réserves fauniques gérées par la **[Corporation Nibiischii](https://nibiischii.com/fr/)**, qui valent largement le déplacement vers la région. Leur territoire couvre 24 000 km2 et englobe des milliers (des milliers!) de lacs et plusieurs rivières sensationnelles.
+
+![](https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2021/06/BESIDE_Parc_national_dOpemican-1024x683.jpg)
+
+Photo: Parc national d'Opémican
+
+\*\*\*
+
+Certaines personnes auront possiblement besoin d’outils afin de ralentir véritablement. La liste à cocher peut être vue comme une aide à la performance dans un contexte de travail, mais en vacances, elle peut aider à se poser. Par exemple:
+
+*   Inventez un bingo de choses à observer en randonnée ou au terrain de camping (faune, flore, insectes, etc.).
+*   Sur la route, arrêtez-vous au hasard dans la marina d’un village avec un café pour lire le chapitre entier d’un livre.
+*   Relevez des défis qui impliquent de prendre son temps, comme celui de faire un piquenique sur tous les sommets de l’Estrie, de Charlevoix ou de la Mauricie pendant l’été.
+*   Organisez-vous un _roadtrip_ lent et différent sur les traces d’un·e auteur·ice québécois·e
+
+En cette période de grands bouleversements —  environnementaux et sociaux —, la question se posait: comment voyager en 2021? La réponse se trouve certainement à mi-chemin entre le moins et le mieux. Cet été, nos choix auront un impact sur les autres à travers les rencontres que nous ferons; ils auront aussi un impact sur le territoire visité. Tentons d’apprivoiser le temps long et de cultiver notre capacité d’émerveillement.
+
+\_\_
+
+_Note éditoriale: Nous abordons la thématique du voyage en toute humilité, sachant que nous faisons tous et toutes partie du problème — et de la solution._
+
+\_\_
+
+*   [Facebook](#)
+*   [Twitter](https://twitter.com/intent/tweet?text=Pratiquer%20le%20voyage%20lent&url=https%3A%2F%2Fbeside.media%2Ffr%2Failleurs%2Fpratiquer-le-voyage-lent%2F&via=beside_media)
+*   [Copy link](#)

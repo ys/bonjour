@@ -50,7 +50,7 @@ Parmi eux, Leonardo, le fameux grand-père, rentré dans son village natal il y 
 
 10h00, le lendemain. On est déjà de retour sur la route, toujours aussi droite et sèche. Les joutes verbales reprennent afin de prévoir de quoi sera rempli le petit frigo : a-t-on vraiment besoin de beurre demi-sel ? Les Bretons l’emporteront.
 
-Deux heures plus tard, dans les placards, les paquets de pâtes étouffent les packs de bières pas chères. Sur les sièges, les anti-courgettes et les anti-chorizo continuent de débattre. Au final tout le monde gagne : ce soir, c’est Nico qui cuisine. Re-autoroute. À la station essence, le caissier nous accueille d’un “Bom dia”. On est déjà au Portugal ?
+Deux heures plus tard, dans les placards, les paquets de pâtes étouffent les packs de bières pas chères. Sur les sièges, les anti-courgettes et les anti-chorizo continuent de débattre. Au final tout le monde gagne : ce soir, c’est Nico qui cuisine. Re-autoroute. À la station essence, le caissier nous accueille d’un “Bom dia”. On est déjà au Portugal ?  
 
 ![](https://www.lesothers.com/wp-content/uploads/2021/03/lesothers-outdoor-aventure-roadtrip-surftrip-algarve-portugal-ete-11.jpg)
 
@@ -74,4 +74,16 @@ Et ensuite ? Le soleil qui se lève, le café en l’observant, le surf du matin
 Chaque jour, on pousse quand même un peu l’exploration des lieux. Un soir, on atterrit tout au bout d’une petite route de terre surplombant les falaises. Le lieu idéal pour passer la nuit, seuls au monde.
 
 Le lendemain, impossible de redémarrer
----
+--------------------------------------
+
+On passe la matinée là, à attendre que l’assurance accepte de décrocher, puis de nous filer un coup de main. Après plusieurs heures d’attente, un Kangoo rouge apparaît au loin, brinquebalant entre les nids de poule. Un mécanicien, tout sourire, en sort. Notre moteur repart sans peine. L’explication de cette panne de batterie ? L’un d’entre nous, photographe, aurait laissé toutes ses batteries en charge durant la nuit. Il nie toute responsabilité et restera présumé innocent — mais on sait tous que Fabien est 100 % coupable.
+
+![](https://www.lesothers.com/wp-content/uploads/2021/03/lesothers-outdoor-aventure-roadtrip-surftrip-algarve-portugal-ete-30.jpg)
+
+![](https://www.lesothers.com/wp-content/uploads/2021/03/lesothers-outdoor-aventure-roadtrip-surftrip-algarve-portugal-ete-33.jpg)
+
+Un dernier saut dans l’eau salée et il est déjà temps de faire la route en sens inverse. On s’arrête à nouveau faire un signe à Leonardo. Il aime écouter nos récits de vacances. De notre côté, on ne se lasse pas de ses histoires d’enfance. Un jour, peut-être raconterons-nous à notre tour nos souvenirs de voyages entre potes à une bande de jeunes en route pour leur prochaine aventure. Si on se souviendra longtemps de ce road-trip portugais, on pense déjà à la prochaine destination, en attendant l’été prochain…
+
+![](https://www.lesothers.com/wp-content/uploads/2021/03/lesothers-outdoor-aventure-roadtrip-surftrip-algarve-portugal-ete-17.jpg)
+
+_Photos : [Fabien Voileau](https://www.instagram.com/fabien_voileau/) — Vidéo : [Marc Bettinelli](https://www.instagram.com/marcbetnli)_

@@ -110,6 +110,9 @@ class LinkFile
   end
 
   def update!
+    if data["headImage"] != nil
+      puts "Skipping #{file} we have an image"
+    end
     fill_data
     download_image
     save

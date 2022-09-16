@@ -46,9 +46,9 @@ Au son de Calvin Russel
 
 Pour aller de Valdez à Fairbanks, on traverse tout l’intérieur du pays. Il n’y a qu’une voie, impossible de se tromper. Plus on va au nord, moins on croise de voitures et moins il y a de signes de vie. On traverse des étendues gigantesques où il n’y a rien, seulement la pipeline qui longe la route. Le paysage défile sous nos yeux, on ne parle plus, comme hypnotisés par ce que l’on voit. C’est le vide et c’est finalement un peu oppressant. Les larmes arrivent, les pensées fusent. Les choses se mélangent, est-ce que je suis émue par toute cette grandeur, ou par l’introspection imposée par ces nombreuses heures de route ? Le temps est incertain, on est sur le réservoir d’essence, on ne sait pas où est la prochaine station service et on avance au son de [Calvin Russel](https://www.youtube.com/watch?v=xLUMmp0tLJA).
 
-> _« I’m standing at the crossroads_
-> _There are many roads to take_
-> _But I stand here so silently_
+> _« I’m standing at the crossroads_  
+> _There are many roads to take_  
+> _But I stand here so silently_  
 > _For fear of a mistake »_
 
 Certains soirs, nous trouvons refuge dans le saloon du coin. On découvre la population locale. Surtout des hommes, des chasseurs, fusil au dos, élan découpé à l’arrière du pick up. Pas vraiment rassurant. Je remercie mes deux copains d’être là. Mais l’ambiance est toujours bonne, on boit des bières en écoutant des groupes de country en live. Les gens sont bon vivants, sans finesse. Je me dis que l’hostilité de l’environnement doit les modeler.
@@ -56,4 +56,40 @@ Certains soirs, nous trouvons refuge dans le saloon du coin. On découvre la pop
 ![Image d'un Saloon visité lors du roadtrip en Alaska ](https://www.lesothers.com/wp-content/uploads/2018/05/Clement-Jeanne-Alaska-Les-OthersAK-0032-1200x800.jpg)
 
 Marcher dans le parc du Denali
----
+------------------------------
+
+Enfin, nous arrivons au parc du Denali. En hors saison, il est possible de circuler librement et gratuitement en voiture dans le parc, mais toutes les routes ne sont pas accessibles selon la météo. Nous guettons les animaux sauvages et espérons voir des aurores boréales. Il y a peu de sentiers de randonnée alors on trace nos propres voies. Nous nous retrouvons à marcher des heures et des heures car il est bien complexe de se rendre compte des distances ici !
+
+La marche est ardue, il y a des zones marécageuses, on doit s’enfoncer dans la mousse et traverser des buissons qui font ma taille. D’ailleurs, les seules traces de vie que je vois sont les grosses empreintes d’animaux qui jonchent le sol, j’appréhende de me retrouver face à un ours. Nos récompenses : les baies sauvages ramassées à la main et la magnificence de la nature.
+
+> _« Je m’en allais dans les bois parce que je voulais prendre le temps de vivre, faire face seulement aux faits essentiels de la vie, (…) vivre profondément, sucer toute la moelle de la vie, vivre assez vigoureusement et de façon spartiate pour mettre en déroute tout ce qui n’était pas la vie. » __Henry David Thoreau, Walden (1854)._
+
+Les longues marches sont aussi l’occasion de réfléchir. Je me dis que je suis reconnaissante de faire partie de ce monde, de cette terre, et que je dois l’approcher avec humilité. Je me sens libre ici, sans contrainte. Ma vie de citadine me paraît si loin. Mais je vois aussi la puissance de la nature. On évolue dans un environnement rude où l’on peut facilement être pris au piège des éléments. La nature nous soumet et je ne sais plus bien si c’est cela la liberté.
+
+![Photo du paysage montagneux illustrant leur road trip en Alaska](https://www.lesothers.com/wp-content/uploads/2018/05/Clement-Jeanne-Alaska-Les-OthersAK-0009.jpg)
+
+![Image d'une ville traversée lors du road trip en Alaska.](https://www.lesothers.com/wp-content/uploads/2018/05/clement-jeanne-alaska-lesothers-09-1000x766.jpg)
+
+![Camping car et paysage du road trip en Alaska.](https://www.lesothers.com/wp-content/uploads/2018/05/clement-jeanne-alaska-lesothers-11-1000x766.jpg)
+
+![photo d'un saloon croisé lors du roadtrip en alaska](https://www.lesothers.com/wp-content/uploads/2018/05/Clement-Jeanne-Alaska-Les-OthersAK-0034-1200x800.jpg)
+
+![Photo d'une voiture croisée lors du road trip en Alaska.](https://www.lesothers.com/wp-content/uploads/2018/05/clement-jeanne-alaska-lesothers-10-1000x761.jpg)
+
+![Une autre voiture croisée lors du road trip en alaska](https://www.lesothers.com/wp-content/uploads/2018/05/clement-jeanne-alaska-lesothers-08-1000x768.jpg)
+
+![](https://www.lesothers.com/wp-content/uploads/2018/05/Clement-Jeanne-Alaska-Les-OthersAK-0022-1200x796.jpg)
+
+![](https://www.lesothers.com/wp-content/uploads/2018/05/clement-jeanne-alaska-lesothers-1000x768.jpg)
+
+![Plaine traversée lors du road trip en Alaska.](https://www.lesothers.com/wp-content/uploads/2018/05/Clement-Jeanne-Alaska-Les-OthersAK-0017.jpg)
+
+![](https://www.lesothers.com/wp-content/uploads/2018/05/clement-jeanne-alaska-lesothers-04-1000x766.jpg)
+
+![](https://www.lesothers.com/wp-content/uploads/2018/05/clement-jeanne-alaska-lesothers-07-1000x759.jpg)
+
+![](https://www.lesothers.com/wp-content/uploads/2018/05/Clement-Jeanne-Alaska-Les-OthersAK-0018-1200x800.jpg)
+
+![](https://www.lesothers.com/wp-content/uploads/2018/05/clement-jeanne-alaska-lesothers-03-1000x761.jpg)
+
+![](https://www.lesothers.com/wp-content/uploads/2018/05/Clement-Jeanne-Alaska-Les-OthersAK-0001-1200x799.jpg)

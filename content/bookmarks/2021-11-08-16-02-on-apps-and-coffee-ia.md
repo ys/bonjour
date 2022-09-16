@@ -5,10 +5,12 @@ tags: apps, pricing, tools
 date: 2021-11-08 16:02:25.000000000 +01:00
 headImage: https://ia.net/wp-content/uploads/2021/11/10_TPB_CooperLoveCoffee_1003_Breakfast.png
 uuid: 10685980-2735-4F65-97DF-EC597B553183
-description: ''
+description: 'No matter how many times developers compare their apps to coffee...
+  apps are not coffee. The question is not: How many coffees does an app cost. It''s:
+  How many apps does a cup of coffee cost? And the&hellip;'
 ---
 
-Published: November 6, 2021 | Category: [Design](https://preview.ia.net/topics/category/design)
+Published: November 6, 2021 | Category: [Design](https://ia.net/topics/category/design)
 
 No matter how many times developers compare their apps to coffee… apps are not coffee. The question is not: How many coffees does an app cost? It’s: How many apps does a coffee cost? And the answer is: Apps are not coffee but coffee machines.
 
@@ -58,4 +60,31 @@ Bugs are creepy by nature, but when big apps and OSes have them they feel almost
 Instead of blaming Android for bugs, indie apps should find ways to avoid them, step dance around them. After all, they just write text to disk, so how hard can it be to dance a little? Life is not always fair. Luckily, there’s nothing a good, hot cup of coffee can’t fix. So let’s get back to grinding beans.
 
 How many apps does a coffee cost?
----
+---------------------------------
+
+Unless we’re talking in Java, the comparison coffee:software doesn’t make any sense. Yeah, they both cost money. But so does almost everything. But, then again, like the smell of a good arabica, it’s not easy to resist. Sometimes, I indulge. It happens when I buy stuff. Especially when I buy coffee. I construct that loathed comparison from my side of the fence. **For me, the question is not: How many coffees does an app cost. It’s: How many apps does a coffee cost?** So, when I buy a cup of coffee, I do ask myself: ‘How many apps do I need to sell to buy that very cup? 1, 2, 20, 200?’[5](#fn-7558-5)
+
+I am not making this up. When I hand out my 1, 2, 20, 200 apps for that cup of coffee, my next thought is usually that it would probably be smarter to wait, go home, and brew my own.[6](#fn-7558-6) But…
+
+> Every day, once a day, give yourself a present. Don’t plan it, don’t wait for it, just let it happen. It could be a new shirt in a men’s store, a catnap in your office chair, or two cups of good, hot, black coffee.” –Dale B. Cooper
+
+I usually end up thinking something along the lines of: ‘You must have miscalculated somehow! You can pay your rent after all! That must be millions of apps! And you don’t sell millions of Apps.[7](#fn-7558-7) You know that you can afford a cup of coffee! This is a spell! Apps are not coffee!’
+
+So, finally, I send the spell of the coffee-cup-comparison to where it belongs and get myself my aromatic present.
+
+The bottom line is: We both completely under- and oversell our apps. To some people our software is of crucial importance, they would pay way more (and they even say so), to others their value is close to 0 (and they say so, too). Because, man, apps are not coffee! iA Writer is not a cup of coffee, it’s a…
+
+![Apps are coffee makers!](https://ia.net/wp-content/uploads/2021/11/Lucca-M58-Stainless-Espresso-Machine-Hero.png)
+
+Ceci n’est pas une application.
+
+If there is a valid coffee comparison it’s the coffee maker.[8](#fn-7558-8) Productivity apps are not consumed. Productivity apps are tools. They help you make things. Great apps help you make nice things. Pro apps help you make pro things. How could a text editor compete with an espresso machine?
+
+Yes, in the end, all editors just make text. Just as, in the end, all coffee makers just make coffee. We all know that some coffee makers are easy and fast and make average coffee. Some are easy and make good coffee. Some are a lot of work and make excellent coffee. Some are a lot of work and the coffee tastes like soup. And so do apps! Coffee makers, not cups of coffee.
+
+If you buy a good espresso machine, but you don’t care how to handle it, your coffee will pour out as a thin soup. Same for apps. Buy a common all-in-one machine if you don’t care about coffee.[9](#fn-7558-9) If you use cheap beans or grind them wrong, the best machine will not make up for it. If you have nothing to say, the best, most focused writing app can’t help you.
+
+Of course, you can complain about the price of anything as much as you want, but what is crystal clear: Good coffee needs a good machine, good beans, a good grinder, and skills. If you can’t taste the difference, go for the all-in-one machine.
+
+*   iA Newsletter.
+*   Subscribe for updates on products, announcements, and a look behind the scenes. No more than one mail per month.

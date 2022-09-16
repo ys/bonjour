@@ -3,7 +3,7 @@ uuid: 395428e0-33ad-4c31-b034-973a70de40c4
 bookmarkOf: https://bonpote.com/33-milliards-detres-humains-exposes-au-changement-climatique-le-nouveau-rapport-du-giec-est-sans-appel/
 categories:
 - article
-headImage: https://bonpote.com/wp-content/uploads/2022/02/TS7.jpg?is-pending-load=1
+headImage: https://bonpote.com/wp-content/uploads/2022/02/Rapport-2-du-GIEC.jpg
 title: '3,3 milliards d’êtres humains exposés au changement climatique : le nouveau
   rapport du GIEC est sans appel'
 description: ce rapport intègre davantage l'économie et les sciences sociales, et
@@ -29,7 +29,7 @@ Avant de lire la suite, il est indispensable que vous sachiez ce qu’est le GIE
 *   **Il existe 3 versions** :
     *   [le résumé à l’intention des décideurs](https://report.ipcc.ch/ar6wg2/pdf/IPCC_AR6_WGII_SummaryForPolicymakers.pdf) (SPM, 36 pages)
     *   [le résumé technique](https://report.ipcc.ch/ar6wg2/pdf/IPCC_AR6_WGII_FinalDraft_TechnicalSummary.pdf) (TS, 96 pages)
-    *   [le rapport complet](https://report.ipcc.ch/ar6wg2/pdf/IPCC_AR6_WGII_FinalDraft_FullReport.pdf) (FR, 3675 pages).
+    *   [le rapport complet](https://report.ipcc.ch/ar6wg2/pdf/IPCC_AR6_WGII_FinalDraft_FullReport.pdf) (FR, 3675 pages).  
         Conseil : lisez le résumé, plusieurs fois s’il le faut, lisez le résumé technique si possible également. Le rapport complet doit plus vous servir d’encyclopédie : vous souhaitez approfondir un point ? -> plongez dans le rapport complet. Libre à vous de le lire entièrement bien sûr…
 *   Le GIEC a une liste de qualificatifs utilisés, fonction du niveau de confiance (indiqué _en italique_ dans les rapports, même vocabulaire que l’AR5) :
 
@@ -107,7 +107,7 @@ Figure SPM 3 du 6eme rapport du GIEC, groupe 2
 
 [![Nouveau rapport du GIEC Figure SPM 4 du 6eme rapport du GIEC, groupe 2](https://bonpote.com/wp-content/uploads/2022/02/SPM4.jpg?is-pending-load=1)](https://bonpote.com/wp-content/uploads/2022/02/SPM4.jpg)
 
-Les réponses au changement climatique et les options d’adaptation, organisées par Transitions du système et Risques clés représentatifs (RKR), sont évaluées pour leur faisabilité multidimensionnelle à l’échelle mondiale, à court terme et jusqu’à 1.5°C de réchauffement climatique.
+Les réponses au changement climatique et les options d’adaptation, organisées par Transitions du système et Risques clés représentatifs (RKR), sont évaluées pour leur faisabilité multidimensionnelle à l’échelle mondiale, à court terme et jusqu’à 1.5°C de réchauffement climatique.  
 Source : Figure SPM 4 du 6eme rapport du GIEC, groupe 2
 
 #### **Les limites de l’adaptation**
@@ -117,7 +117,7 @@ Source : Figure SPM 4 du 6eme rapport du GIEC, groupe 2
 
 ![Source : Figure TS.7 du 6eme rapport du GIEC, groupe 2](https://bonpote.com/wp-content/uploads/2022/02/TS7.jpg?is-pending-load=1)
 
-Carte exprimant les différentes vulnérabilités, basées sur les moyennes nationales. Cette carte ne montre pas les différences à l’échelle locale. C’est pourquoi vous retrouvez sous la carte quelques exemples de populations vulnérables.
+Carte exprimant les différentes vulnérabilités, basées sur les moyennes nationales. Cette carte ne montre pas les différences à l’échelle locale. C’est pourquoi vous retrouvez sous la carte quelques exemples de populations vulnérables.  
 Source : Figure TS.7 du 6eme rapport du GIEC, groupe 2
 
 #### **Éviter la maladaptation**
@@ -188,7 +188,7 @@ Dans ce rapport, les références aux pertes et dommages sont nombreuses. En esp
 
 Cela a peut-être échappé à vos yeux, mais vous avez bien lu : le GIEC a évoqué le colonialisme comme un signe de non-soutenabilité ! Même si c’est évident, pourquoi c’est si important que cela soit dans un rapport du GIEC ? Car c’est toute une littérature scientifique parfois calomniée que nous retrouvons ici dans le résumé pour les décideurs, et donc validée par les gouvernements.
 
-> B.2 : La vulnérabilité des écosystèmes et des populations au changement climatique varie considérablement d’une région à l’autre et au sein d’une même région (confiance très élevée, **sous l’effet de schémas de développement socio-économique croisés, l’utilisation non durable des océans et des terres, l’inégalité, la marginalisation, les schémas historiques et permanents d’inégalité tels que le colonialisme, et la gouvernance (confiance élevée)**.
+> B.2 : La vulnérabilité des écosystèmes et des populations au changement climatique varie considérablement d’une région à l’autre et au sein d’une même région (confiance très élevée, **sous l’effet de schémas de développement socio-économique croisés, l’utilisation non durable des océans et des terres, l’inégalité, la marginalisation, les schémas historiques et permanents d’inégalité tels que le colonialisme, et la gouvernance (confiance élevée)**.  
 
 Les causes profondes de la vulnérabilité sont en partie liées aux contextes politiques, économiques et sociaux, à la fois présents mais aussi hérités. L’équité suppose de tenir compte à la fois des inégalités actuelles et des héritages, notamment de la période coloniale pour comprendre les inégales capacités d’adaptation de certains Etats et plus précisément encore de certains peuples ou territoires à l’intérieur de ces Etats.
 
@@ -201,8 +201,8 @@ L’équité et la justice climatique supposent donc non seulement de répartir 
 Un accent important est mis sur la santé mentale, pourtant complètement oubliée par les pouvoirs publics… quand ce n’est pas moqué par certains pour dire que les écolos dramatisent. Et pourtant. Voici deux paragraphes sur lesquels nous aurons l’occasion de revenir dans d’autres articles, consacrés à la santé mentale.
 
 > _TS. B5 : **Le changement climatique a déjà porté atteinte à la santé physique et mentale des êtres humains** (confiance très élevée). Dans toutes les régions, les impacts sur la santé sapent souvent les efforts de développement inclusif. **Les femmes, les enfants, les personnes âgées, les populations autochtones, les ménages à faible revenu et les groupes socialement marginalisés dans les villes, régions et pays sont les plus vulnérables** (confiance élevée)._
->
-> _TS. B.5.2 : Les problèmes de santé mentale augmentent avec le réchauffement des températures (confiance élevée), le traumatisme associé aux conditions météorologiques extrêmes (confiance très élevée), et la perte des moyens de subsistance et de la culture (confiance élevée).
+> 
+> _TS. B.5.2 : Les problèmes de santé mentale augmentent avec le réchauffement des températures (confiance élevée), le traumatisme associé aux conditions météorologiques extrêmes (confiance très élevée), et la perte des moyens de subsistance et de la culture (confiance élevée).  
 > _
 
 ### Migrations et changement climatique
@@ -240,4 +240,20 @@ Figure SPM 3 du 6eme rapport du GIEC, groupe 2
 Rappelons-le, insistons : si nous échouons à maintenir un réchauffement planétaire à +1.5°C, [**la prochaine cible** n’est pas +2°C, mais **+1.51°C**](https://bonpote.com/10-erreurs-de-communication-sur-le-climat-a-rectifier-durgence/).
 
 Le mot de la fin
----
+----------------
+
+Ce nouveau rapport du groupe de travail 2 du GIEC apporte beaucoup de confirmations, des mauvaises nouvelles… mais aussi des nouvelles encourageantes. Non, “_tout n’est pas foutu, nous n’allons pas tous mourir_“. **Nous avons notre avenir climatique entre nos mains**, il ne tient qu’à nous de réduire drastiquement nos émissions, rapidement, et de façon durable.
+
+A nouveau, **c’est la première fois dans l’histoire qu’un rapport scientifique a et aura autant d’importance, tant sur le plan scientifique, politique, géopolitique et économique**. Ses conclusions seront entre autres déterminantes pour les négociations à venir de la COP27.
+
+Je le répète : **je conseille à tout le monde de lire au moins le résumé à l’intention des décideurs**. Tout le monde doit se l’approprier et creuser les sujets. Les conclusions du rapport sont limpides et suffisamment claires pour être comprises par tout le monde. La dernière phrase du rapport pour les décideurs conclut à merveille la richesse de ce rapport qui ne laisse plus aucun doute sur l’aspect politique du changement climatique.
+
+> _Les preuves scientifiques cumulées sont sans équivoque : Le changement climatique est une menace pour le bien-être humain et la santé planétaire. Tout retard supplémentaire dans l’action mondiale concertée et anticipée en matière d’adaptation et d’atténuation des effets du changement climatique manquera une brève occasion, qui se referme rapidement, de garantir un avenir vivable et durable pour tous._
+
+### **BONUS : une infographie en 12 points qui résume le rapport ([à télécharger en HD pour imprimer ici](https://bonpote.com/les-infographies-du-6eme-rapport-du-giec/))**
+
+BONUS : [lire la couverture médiatique du rapport du GIEC](https://bonpote.com/2e-rapport-du-giec-les-medias-encore-une-fois-pas-au-niveau/) (c’est…pas terrible)
+
+**BONUS 3 : [le 3ème et dernier rapport du GIEC vient d’être publié](https://bonpote.com/nouveau-rapport-du-giec-agir-coutera-moins-cher-que-le-business-as-usual/) !**
+
+![GIEC GROUPE 2 INFOGRAPHIE 12 POINTS](https://bonpote.com/wp-content/uploads/2022/03/giec-2-1024x652.png?is-pending-load=1)

@@ -206,4 +206,12 @@ For me, there’s a happiness cutoff line when it comes to scale. Do I want to b
 I’m very thankful to everyone who supports my work. I feel extremely grateful to have the audience that I do, and be able to produce work at this level—it's fantastic. 
 
 **A book recommendation**
----
+-------------------------
+
+I'm in the middle of [reading](/c/book-recommendations) [_The Ministry For The Future_](https://www.goodreads.com/book/show/50998056-the-ministry-for-the-future) by Kim Stanley Robinson on Kindle.
+
+The book is set in a fuzzy near-future, maybe fifteen or twenty years down the road. The author speculates about some of the potential effects of climate change, as well as some possible mitigation efforts. It's very wonky, with a lot of technical information about climate change and its political and organizational aspects.
+
+The author could simply have written a bunch of essays about climate change and why our institutional structures keep us from passing meaningful legislation to combat it. Instead, he does an amazing job of incorporating those elements into the swirl of a story to make us feel—on an emotional level—what the world faces if we don’t take action. He casts the banal in well-crafted myth, and from that, one hopes, action will be inspired.
+
+That’s the real power of writing!

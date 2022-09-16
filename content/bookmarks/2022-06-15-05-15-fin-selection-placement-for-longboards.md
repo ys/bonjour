@@ -55,4 +55,25 @@ Similarly, Wesley Francis stalls and turns his 9'6 Logistic model with a 10" Log
 These are examples of proper surfboard & fin pairings, guided by the principals of the tail shape.  If you aren't sure which fin would be appropriate for your longboard, use the above rules as a guide, or shoot us a note to confirm your assumptions.
 
 FIN PLACEMENT
----
+-------------
+
+Almost as critical as proper fin selection is placement of the fin within the fin box.
+
+As a general rule of thumb:
+
+*   When you move your fin _back in the box_ (closer to the tail) the board will feel stiffer, but it will hold in the wave better.
+*   When you move your fin _forward in the box_ (closer to the middle of the board) the board will feel looser under foot, but be less stable.
+
+For rakey fins and pintailed surfboards, the trailing edge of the fin should end somewhere between the cut-lap and the end of the tail of your board. See below:
+
+![](https://cdn.shopify.com/s/files/1/0203/7640/files/fin_placement_pintail_1024x1024.jpg?v=1655137821)
+
+For square-tailed boards and less-rakey fins, you actually want the fin even further back. It is not unusual for a Huck fin (or similar) to align with the end of your surfboard's tail. See below:
+
+![](https://cdn.shopify.com/s/files/1/0203/7640/files/fin_placement_huck_1024x1024.jpg?v=1655138161)
+
+For these less-rakey fins, moving them too far forward in the box will result in the board wanting to lay-over, instead of turn.
+
+This "_back of the box is better_" rule is especially true with D-Fins.  If you opt to put a Dee Fin in your Surf Thump or classic longboard, you absolutely want to put it all the way to the back of the fin box.
+
+When placing your fin in your fin box, use these above rules as guidelines, but don't hesitate to make small adjustments to see how you like the changes.  A little bit of movement goes a long way.

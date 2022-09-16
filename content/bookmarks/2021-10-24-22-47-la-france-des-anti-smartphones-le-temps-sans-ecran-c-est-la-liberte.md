@@ -25,4 +25,14 @@ L’an passé, lorsque Léonie est entrée en sixième, à Nantes, la plupart de
 Le téléphone portable de Léonie, 12 ans, à Nantes, le 1er septembre 2021.
 
 Pas avant la quatrième
----
+----------------------
+
+Marion et sa famille habitent une maison mitoyenne comme il y en a des dizaines dans ce quartier résidentiel calme de Nantes. Les chambres sont à l’étage. Une cour minuscule donne sur l’arrière, où leur lapin domestique coule des jours heureux. Dans le salon, des strapontins de cinéma chinés dans une brocante jouxtent le canapé et le fauteuil en cuir où Marion, qui fut libraire à Paris dans une autre vie, aime s’installer pour bouquiner.
+
+Aujourd’hui secrétaire médicale, elle a choisi d’équiper sa fille d’un vieux téléphone – le sien jusque-là, elle ne fait pas partie des « geeks » repentis – afin de pouvoir la joindre à la sortie des cours. La question est tranchée depuis longtemps : le smartphone, ce ne sera pas avant la quatrième. Comme pour Arsène. Et Corentine, la petite dernière de 9 ans, sera au même régime. _« La surexposition aux écrans trop jeune ne fait pas du bien : je voudrais les en préserver le plus possible. »_
+
+Lire aussi Article réservé à nos abonnés [Troubles de l’attention, du sommeil, du langage… « La multiplication des écrans engendre une décérébration à grande échelle »](https://www.lemonde.fr/sciences/article/2019/10/21/michel-desmurget-la-multiplication-des-ecrans-engendre-une-decerebration-a-grande-echelle_6016350_1650684.html)
+
+Comme beaucoup, Marion a lu les innombrables études mettant en garde contre les excès d’ordinateur et de smartphone avant 12 ans, nuisant à la concentration, à l’apprentissage, au sommeil. Elle a entendu parler de ces cadres de la Silicon Valley (Californie) qui travaillent pour Google ou Facebook mais refusent d’exposer leurs enfants au « tout-numérique ». Bill Gates, le cofondateur de Microsoft, n’a pas mis de portable entre les mains de ses trois rejetons avant leurs 14 ans. Steve Jobs, le feu gourou d’Apple, interdisait aux siens de pianoter sur un iPad. _« Retardons le plus longtemps possible le moment d’acheter un téléphone mobile à notre enfant, préférons un appareil aux fonctions limitées – téléphone à clapet sans Internet ni écran tactile »,_ recommande le psychiatre Serge Tisseron, sur le site [3-6-9-12.org](https://www.3-6-9-12.org/), consacré au sujet.
+
+**Il vous reste 67.58% de cet article à lire. La suite est réservée aux abonnés.**

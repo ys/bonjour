@@ -2,7 +2,7 @@
 tags: surf
 source:
 bookmarkOf: https://barefootsurftravel.com/livemore-magazine/proper-surfing-stance
-title: The Proper Surfing Stance – Feet and Lower Body Positioning
+title: The Proper Surfing Stance
 date: '2020-10-27T20:48:00+02:00'
 headImage: https://tutorials.barefootsurftravel.com/wp-content/uploads/2021/06/The-Proper-Surfing-Stance.jpeg
 uuid: ddb15fc7-0044-4c52-8ae4-2ef77301d192
@@ -71,4 +71,8 @@ Articles - Retreat Video Banner
 ‍**Look where you are going!** Once you get the proper stance, don’t forget to look where you want to go as you are surfing. Your head is your steering wheel!
 
 **Common Mistakes**
----
+-------------------
+
+*   **Don’t bend your upper body down.** This is one of the most common errors we see students do all the time. Bending your chest closer to the surfboard is a reflex many beginners have, as they try to keep balance on the surfboard. This puts you off balance and makes it impossible to turn. If you feel unbalanced, bend the knees and compress the lower body down.
+*   **Don’t try to turn with your heels and toes like on a snowboard or wakeboard.** A surfboard is much wider than a snowboard and you are not attached to the board, contrarily to wakeboarding. Trying to turn only with your heels or toes will make you fall on either side. To turn a surfboard, you need more than a bit of weight on your heels or toes. You must start by turning your head, then your shoulders, then your hips in the direction you want to go to.
+*   **The Poo Stance: knees pointing apart.** If your knees are going apart, in opposite directions, you will look like you are taking a poo on your surfboard. Not only does this look bad, it also makes it very hard to move your hips forwards and backwards. This will prevent you from being able to slow down or accelerate.

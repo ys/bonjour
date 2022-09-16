@@ -11,3 +11,5 @@ headImage:
 description: Jeremy Lachance est un artiste multidisciplinaire œuvrant dans la photographie,
   la peinture et la musique.
 ---
+
+Jeremy Lachance est un artiste multidisciplinaire œuvrant dans la photographie, la peinture et la musique. Né à St-Hugues de Bagot au Québec, dès son Cégep terminé, il lève le pouce pour aller pratiquer son art ailleurs; Paris, Tofino et Vancouver laissent une trace indélébile sur les œuvres de Jeremy. Quelques années plus tard, c’est dans une fourgonnette stationnée plus souvent qu’autrement à Hochelaga que ses œuvres prennent vie. L’amour, les souvenirs et la distance sont abordés dans ses œuvres, tant visuelles que musicales.

@@ -473,4 +473,24 @@ Hormis, ça c’est un navigateur qui apporte plein de choses intéressantes pou
 Le monde du web P2P commence à naitre, donc il y a peu de sites dispos, un peu comme au début du web.
 
 Archive
----
+-------
+
+### [Internet Archive](https://archive.org/)
+
+[![](https://serveur410.com/wp-content/uploads/2020/11/Internet-Archive.png)](https://archive.org/)
+
+Si tu veux trouver ou retrouver des vieux magazines, reportages télé, bouquin etc… Internet Archive est fait pour toi.
+
+![Pages web de différente couleurs qui souris ](https://serveur410.com/wp-content/uploads/2020/11/web-sauvage.png)
+
+**Je ne poste rien sur Twitter, Facebook...**  
+
+La seule manière d'êtres au courant des nouveaux articles est :
+
+**[Voir les derniers mails envoyés](https://serveur410.com/les-derniers-mails/)**
+
+_(1x par semaine max, je ne spam pas, je ne sais pas si tu ouvres les mails, pas de tracking)_
+
+_Pssst : tu peux aussi t'abonner au flux RSS : https://serveur410.com/feed/_
+
+**Me soutenir :**

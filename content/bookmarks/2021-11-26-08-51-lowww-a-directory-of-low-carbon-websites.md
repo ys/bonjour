@@ -14,3 +14,6 @@ tags:
 - directory
 date: 2021-11-26 08:51:37.350476811 +00:00
 ---
+
+More data means more carbon emissions.  
+While the median page weight of websites is increasing every year, we are collecting websites that go in the opposite direction without compromising design quality.

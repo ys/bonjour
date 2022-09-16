@@ -11,3 +11,5 @@ headImage: https://occ-0-56-55.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rr
 description: A robot apocalypse put the brakes on their cross-country road trip. Now
   it’s up to the Mitchells — the world’s weirdest family — to save the human race.
 ---
+
+A star-studded animated comedy from the minds behind "Spider-Man: Into the Spider-Verse" and "The LEGO Movie."

@@ -9,3 +9,7 @@ uuid: 7d2afd5b-37a0-4dd8-a73a-0cd29832ca20
 description: We talked to some of the chillest dudes we know about a version of surfing
   that's cool as hell.
 ---
+
+We value your privacy. We use cookies to provide the best site experience possible. By using our site, you’re acknowledging that you accept our [Terms of Service](/terms) and [Privacy Policy](/privacy-policy) and that they’re OK with you.
+
+×

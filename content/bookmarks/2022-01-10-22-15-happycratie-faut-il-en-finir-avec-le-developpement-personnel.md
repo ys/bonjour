@@ -10,3 +10,7 @@ description: Dans un essai à charge, Eva Illouz et Edgar Cabanas accusent la di
 tags: []
 date: 2022-01-10 22:15:59.360680422 +00:00
 ---
+
+Réservé aux inscrits description
+
+La fonctionnalité d'ajout aux favoris est disponible aux utilisateurs inscrits sur la plateforme. Il suffit de se connecter ou de créer un compte.

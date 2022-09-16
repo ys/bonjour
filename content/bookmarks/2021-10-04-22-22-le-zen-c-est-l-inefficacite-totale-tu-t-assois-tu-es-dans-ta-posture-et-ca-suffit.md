@@ -24,4 +24,10 @@ Mais Clément assure : _« Ma recherche spirituelle fut indépendante car je n
 _« C’est d’abord la philosophie qui m’a poussé à interroger le bouddhisme en profondeur, mais je ne pouvais me satisfaire d’une approche uniquement littéraire et intellectuelle »_, raconte-t-il. Il multiplie les rencontres à partir de 2015 : il discute avec des maîtres soufis à Paris et se rapproche d’amis catholiques mystiques. A Grenoble, où il étudie, il est initié à la franc-maçonnerie. A Avignon, où il se rend pour le travail, Clément fréquente une église orthodoxe grecque – l’occasion d’échanger avec un prêtre qui partage sa vie entre la Provence et le mont Athos.
 
 Le Japon, pays « le plus incompréhensible du monde »
----
+----------------------------------------------------
+
+Le jeune homme cherche sa voie. Mais il ne parvient alors pas à rentrer en résonance avec les spiritualités auxquelles il s’intéresse. _« Il y a un excès de sentimentalité dans le christianisme qui, s’il est maîtrisé, peut être une force. Mais c’est aussi un grand risque. Cette sentimentalité exacerbée n’existe pas du tout dans le bouddhisme »_, estime-t-il. _« C’est la voie spirituelle la plus lointaine qui soit pour les Occidentaux et le Japon est le pays le plus incompréhensible du monde »_, soutient Clément, qui décide de s’en approcher.
+
+En 2017, il commence à pratiquer au [dojo zen de Paris](https://www.dojozenparis.com/), rue de Tolbiac. Il s’initie à une approche très radicale et très pure, centrée uniquement sur la méditation, qui le séduit tout de suite. _« C’est une méditation sans objectif, sans louange, sans demande »_, décrit-il. L’atmosphère générale et le contact avec les gens forcent sa décision. En 2018, Il part pour le Japon avec un visa étudiant. Il atterrit à Kyoto, ville connue pour sa grande concentration de temples. Il suit des cours de japonais dans une école de langue, devient guide touristique pour gagner sa vie.
+
+**Il vous reste 67.41% de cet article à lire. La suite est réservée aux abonnés.**

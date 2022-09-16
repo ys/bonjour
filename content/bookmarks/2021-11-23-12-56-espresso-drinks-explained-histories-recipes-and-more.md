@@ -3,7 +3,7 @@ uuid: '01810523-3ae2-45fd-b73b-fe9be4ba2d3d'
 bookmarkOf: https://www.youtube.com/watch?v=93waR1jzoLA
 categories:
 - video
-headImage: https://i.ytimg.com/vi/93waR1jzoLA/maxresdefault.jpg
+headImage: https://i.ytimg.com/vi/93waR1jzoLA/hqdefault.jpg
 title: 'Espresso Drinks Explained: Histories, Recipes and More…'
 description: 'The first 1,000 people to use this link will get a 1 month free trial
   of Skillshare: https://skl.sh/jameshoffmann07211Let me know what I missed!If you
@@ -45,3 +45,4 @@ tags:
 - " single v double espresso"
 date: 2021-11-23 12:56:55.110410014 +00:00
 ---
+

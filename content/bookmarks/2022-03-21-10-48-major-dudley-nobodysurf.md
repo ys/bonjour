@@ -10,3 +10,5 @@ description: Elliot Dudley surfing small waves in Wales. 2min surf video created
 tags: []
 date: 2022-03-21 10:48:20.922246159 +00:00
 ---
+
+© 2022 NobodySurf. All rights reserved.

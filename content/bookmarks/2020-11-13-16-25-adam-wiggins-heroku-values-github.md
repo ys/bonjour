@@ -202,4 +202,8 @@ Be blunt, honest, and truthful. Constructive criticism is the best kind. Avoid k
 See: [Winning](http://books.google.com/books?id=g7PG7vwBNYoC)
 
 [](https://gist.github.com/adamwiggins/5687294#programming-literacy-for-all)Programming literacy for all
----
+--------------------------------------------------------------------------------------------------------
+
+Software is eating the world. Everyone can and should be able to write software in order to have a stake in the future.
+
+See: [End-user computing](https://medium.com/the-truant-haruspex/5367171478b7)

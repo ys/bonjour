@@ -157,4 +157,16 @@ Le beach break le plus connu de Vendée s’appelle Bud Bud et offre des vagues 
 ![Hossegor & Biarritz, un classique du spot de surf en France](https://www.lesothers.com/wp-content/uploads/2019/12/LesOthers_Surf_Trip_Aventure_France_5-1000x668.jpg)
 
 6\. Les Landes & le Pays basque — Hossegor & Biarritz
----
+-----------------------------------------------------
+
+1.  **Conditions optimales** : houle d’ouest et vent d’est. Si c’est trop gros dans les Landes, dirigez-vous vers le pays Basque ou le nord de l’Espagne pour trouver des spots de repli.
+2.  **Webcam** : [Viewsurf](https://www.viewsurf.com/univers/surf)
+
+Pas de surprise : c’est la capitale du surf en France, et quels que soient la saison et les conditions, vous aurez de la compagnie… Mais il faut dire qu’il y en a pour tous les goûts : beach breaks, reefs, point-breaks, gros barrels ou vagues à longboard… Tout dépend de ce que vous cherchez ! C’est aussi là qu’on ira pour être certains d’avoir des vagues. Le sud-ouest capte en général la plupart des orientations de houles, à moins que ça ne soit trop sud, ce qui reste assez occasionnel. Si vous débutez, peu importe où vous allez, vous n’aurez pas beaucoup à chercher pour trouver des planches et des combinaisons à louer.
+
+### **Spots en plus :**
+
+1.  **Deus Ex Machina — Biarritz** : pour boire un café en lisant le dernier [Les Others](https://www.lesothers.com/magazine-presentation).
+2.  **[Numb Surfb](https://www.instagram.com/numb_surfboards/)[oard](https://www.instagram.com/numb_surfboards/)— Biarritz :** pour une planche shapée par notre copain Nico.
+
+![Un surfeur prenant son pied sur un spot de surf en France.](https://www.lesothers.com/wp-content/uploads/2019/12/LesOthers_Surf_Trip_Aventure_France_8-1000x665.jpg)

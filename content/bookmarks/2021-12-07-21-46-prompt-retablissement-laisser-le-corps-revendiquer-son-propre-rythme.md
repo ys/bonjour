@@ -23,7 +23,7 @@ Ce matin-là, une dernière tempête d’hiver s’est déclarée sur les radars
 
 Je me suis mise à pagayer fort pour prendre une vague qui dépassait largement ma hauteur.
 
-![](https://content.beside.media/beside_/app/www/2021/11/BESIDE_NewNarrative_CathBernier_1-1024x683.jpg)
+![](https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2021/11/BESIDE_NewNarrative_CathBernier_1-1024x683.jpg)
 
 Si j’ai réussi mon atterrissage sur la planche, je ne suis pas parvenue à me synchroniser avec la vélocité de la vague : celle-ci s’est cassée sur ma nuque. En une fraction de seconde, j’ai été projetée face première en son creux. J’ai entendu un craquement dans mes vertèbres, avant de rouler quelques tours.
 
@@ -43,7 +43,7 @@ Toujours dans un souci de performance, je me suis obstinée à bosser malgré le
 
 \*\*\*
 
-![](https://content.beside.media/beside_/app/www/2021/11/BESIDE_NewNarrative_CathBernier_2.jpg)
+![](https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2021/11/BESIDE_NewNarrative_CathBernier_2.jpg)
 
 Personne d’autre que moi ne pouvait me forcer à travailler. Or, il aura fallu l’avis de plusieurs spécialistes pour me convaincre de prendre le temps de guérison nécessaire. Un temps de guérison qui, la neuropsychologie le dit, dépend de plusieurs variables: la fatigue accumulée avant l’accident, nos anciennes blessures physiques et émotives — y compris toutes les fois où nous sommes tombé·e·s depuis notre naissance —, notre sexe, le soutien de nos pairs, nos efforts de réadaptation, et j’ajouterais la bienveillance que nous nous accordons. Car non, le cerveau n’est pas réglé au quart de tour tel un Google Calendar.
 
@@ -53,13 +53,13 @@ Après quelques tentatives de retour au travail et au surf trop précoces, j’a
 
 Même si je me reposais dans un environnement apaisant, mes pensées, elles, avançaient à toute vitesse. Un feu roulant de neurones sur le pilote automatique. Après quelques minutes assise sur ma chaise Adirondack à «relaxer», je me surprenais à penser à mes projets créatifs, à de nouvelles idées, à de nouveaux modèles d’affaires. Mes pensées, bien que positives, étaient tournées vers l’avenir. Il fallait que j’occupe mon temps et que je me sente utile. Il faut dire que j’ai habitué mon cerveau à gérer un nombre important d’informations en simultané; pour faire sa place dans le monde du travail, on doit apprendre à se dépasser. Or, la commotion m’obligeait à prioriser une chose à la fois.
 
-![](https://content.beside.media/beside_/app/www/2021/11/BESIDE_NewNarrative_CathBernier_5-1024x683.jpg)
+![](https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2021/11/BESIDE_NewNarrative_CathBernier_5-1024x683.jpg)
 
 Imaginez le contraste: j’étais cette pilote de Formule 1 qui, après un accident, devait compléter sa course avec une voiture endommagée, ne dépassant pas les 20 km/heure. Il était temps que je me range.
 
 [Tweet](https://twitter.com/intent/tweet?text=Imaginez%20le%20contraste%3A%20j%E2%80%99%C3%A9tais%20cette%20pilote%20de%20Formule%201%20qui%2C%20apr%C3%A8s%20un%20accident%2C%20devait%20compl%C3%A9ter%20sa%20course%20avec%20une%20voiture%20endommag%C3%A9e%2C%20ne%20d%C3%A9passant%20pas%20les%2020%20km%2Fheure.%20Il%20%C3%A9tait%20temps%20que%20je%20me%20range.%0A&url=https%3A%2F%2Fbeside.media%2Ffr%2Fnouveaux-recits%2Fprompt-retablissement%2F&via=beside_media)
 
-![](https://content.beside.media/beside_/app/www/2021/11/BESIDE_NewNarrative_CathBernier_4.jpg)
+![](https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2021/11/BESIDE_NewNarrative_CathBernier_4.jpg)
 
 \*\*\*
 
@@ -82,4 +82,26 @@ Quelques mois ont passé depuis ma commotion, mais ma convalescence est loin d�
 —
 
 Des temps nouveaux
----
+------------------
+
+Cet article est tiré de notre plus récent numéro: Des temps nouveaux
+
+[ACHETER MAINTENANT](https://shop.beside.media/fr/products/issue-11)
+
+*   [Facebook](#)
+*   [Twitter](https://twitter.com/intent/tweet?text=Prompt%20r%C3%A9tablissement&url=https%3A%2F%2Fbeside.media%2Ffr%2Fnouveaux-recits%2Fprompt-retablissement%2F&via=beside_media)
+*   [Copy link](#)
+
+![](https://beside.media/wp-content/themes/new-theme/dist/images/tuile-icon-1.png)
+
+Deux numéros par année
+
+![](https://beside.media/wp-content/themes/new-theme/dist/images/tuile-icon-2.png)
+
+25% de réduction sur les numéros précédents
+
+![](https://beside.media/wp-content/themes/new-theme/dist/images/tuile-icon-3.png)
+
+Livraison gratuite au Canada
+
+Pour recevoir les dernières nouvelles et parutions, abonnez-vous à notre infolettre.

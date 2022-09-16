@@ -24,17 +24,11 @@ Six months ago, the usually cautious International Energy Agency called for a st
 
 The emotional toll of the climate crisis has become an urgent crisis of its own. It’s best met, I believe, by both being well grounded in the facts, and working towards achieving a decent future – and by acknowledging there are grounds for fear, anxiety and depression in both the looming possibilities and in institutional inaction. What follows is a set of tools I’ve found useful both for the inward business of attending to my state of mind, and for the outward work of trying to do something about the climate crisis – which are not necessarily separate jobs.
 
-**1.** **Feed your feelings on facts**
---------------------------------------
-
 Beware of feelings that aren’t based on facts. I run across a lot of emotional responses to inaccurate analysis of the situation. Sometimes these are responses to nothing more than a vague apprehension that we’re doomed.
 
 One of the curious things about the climate crisis is that the uninformed are often more grim and fatalistic than the experts in the field – the scientists, organisers and policymakers who are deep in the data and the politics. Too many people like to spread their despair, saying: “It’s too late” and “There’s nothing we can do”. These are excuses for doing nothing, and erase those doing something. That’s not what the experts say.
 
 We still have time to choose the best rather than the worst scenarios, though the longer we wait the harder it gets, and the more dramatic the measures are required. We know what to do, and that knowledge is getting more refined and precise, but also more creative, all the time. The only obstacles are political and imaginative.
-
-**2\. Pay attention to what’s already** **happening**
------------------------------------------------------
 
 Another oft-heard complaint is “nobody is doing anything about this”. But this is said by people who are not looking at what so many others are doing so passionately and often effectively. The climate movement has grown in power, sophistication and inclusiveness, and has won many battles. I have been around long enough to remember when the movement against what was then called “global warming” was small and mild-mannered, preaching the gospel of Priuses and compact fluorescent lightbulbs, and mostly being ignored.
 
@@ -50,9 +44,6 @@ If some past victories are hard to see, it’s because there’s nothing left be
 
 A climate protest organised by the Indigenous Environmental Network, the Sunrise Movement and other groups in Washington DC, October 2021. Photograph: Chip Somodevilla/Getty Images
 
-**3\. Look beyond the individual and find good people**
--------------------------------------------------------
-
 When I ask people what they’re doing about the climate crisis, they often cite virtuous lifestyle choices, such as being vegan or not flying. Those are good things to do. They are also [relatively insignificant](https://www.theguardian.com/commentisfree/2021/aug/23/big-oil-coined-carbon-footprints-to-blame-us-for-their-greed-keep-them-on-the-hook). The world must change, but it won’t happen because one person does or does not consume something – and I would prefer we not imagine ourselves primarily as consumers.
 
 As citizens of the Earth, we have a responsibility to participate. As citizens massed together, we have the power to affect change, and it is only on that scale that enough change can happen. Individual choices can slowly scale up, or sometimes be catalysts, but we’ve run out of time for the slow. It is not the things we refrain from doing, but those things we do passionately, and together, that will count the most. And personal change is not separate from collective change: in a municipality powered by clean energy, for instance, everyone is a clean-energy consumer.
@@ -63,9 +54,6 @@ Movements, campaigns, organisations, alliances and networks are how ordinary peo
 
 Values and emotions are contagious, and that applies whether you’re hanging out with the Zapatistas or the Kardashians. I have often met people who think the time I have spent around progressive movements was pure dutifulness or dues-paying, when in fact it was a reward in itself – because to find idealism amid indifference and cynicism is that good.
 
-**4\. The future is not yet written**
--------------------------------------
-
 People who proclaim with authority what is or is not going to happen just bolster their own sense of self and sabotage your belief in what is possible. There was, according to conventional wisdom, never going to be marriage equality in Ireland or Spain, or a US president [honouring](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/03/31/a-proclamation-on-transgender-day-of-visibility-2021/) trans visibility day, or Canada ceding 20% of its land mass to indigenous self-governance [as Nunavut](https://www.canadashistory.ca/explore/politics-law/the-creation-of-nunavut), or an end to Britain running on coal, or Costa Rica coming close to 100% clean energy. The historical record tells us that the unexpected happens regularly – and by unexpected, I mean unexpected to people who thought they knew what was going to happen.
 
 In 2015, Christiana Figueres led 192 nations to a successful global climate treaty in Paris. But when she was first asked to take on the job, she blurted out that it was impossible. She took it on anyway, and the night before the treaty was announced, people around me were still saying it was impossible, and preparing for failure. Then it succeeded – not in finishing the job, but in moving it forward.
@@ -75,9 +63,6 @@ The future is not yet written. We are writing it now.
 ![A wind turbine near Wolfsburg, Germany](https://i.guim.co.uk/img/media/a6514f7ca1cc17619e046e4e2db151349587d334/0_44_4854_2915/master/4854.jpg?width=880&quality=85&fit=max&s=075f176ea6519a6a4bc76814ce4ba420)
 
 A wind turbine near Wolfsburg, Germany. Photograph: Felipe Trueba/EPA
-
-**5\. Indirect consequences matter**
-------------------------------------
 
 In September, Harvard University announced it would [divest from fossil fuel](https://www.theguardian.com/environment/2021/sep/10/harvard-university-divest-endowment-fossil-fuels). It took organisers 10 years to make that happen. For more than nine years you could have looked at the campaign as unsuccessful, even though it was part of a global movement that got trillions of dollars out of fossil-fuel investments, recast the fossil-fuel industry as criminal and raised ethical questions for all investors to consider. This month, Bloomberg News [reported](https://www.bloomberg.com/news/articles/2021-11-09/cost-of-capital-widens-for-fossil-fuel-producers-green-insight?fbclid=IwAR3ffBzF_rmB2tRzjWjxvrlxDU2WaluR5aXwGqIGUM-2ZttsFF0n-hXvibM) that the “cost of capital” for fossil fuel and renewable energy projects used to be comparable, but thanks largely to shareholder and divestment activists, the cost for fossil projects is now about 20%, while that for renewables is between 3% and 5%. This affects what gets funded and what is profitable.
 
@@ -95,13 +80,7 @@ If you follow the ripples from Standing Rock, to a young woman’s decision to r
 
 Activists and Indigenous community members protest against the Enbridge Line 3 pipeline from Alberta, Canada in Solvay, Minnesota, US, June 2021. Photograph: Kerem Yucel/AFP/Getty Images
 
-**6\. Imagination is a superpower**
------------------------------------
-
 There is a sad failure of imagination at the root of this crisis. An inability to perceive both the terrible and the wonderful. An inability to imagine how all these things are connected, how what we burn in our powerplants and car engines pumps out carbon dioxide that goes up into the sky. Some cannot see that the world, which has been so stable for 10,000 years, is now destabilised, and full of new perils and dangerous feedback loops. Others cannot imagine that we can actually do what is necessary – which is nothing less than building a new and better world. This is one of the remarkable things about this crisis: though the early climate movement emphasised austerity, a lot of what we need to give up is poison, destruction, injustice and devastation. The world could be far richer by many measures if we do what this catastrophe demands of us. If we don’t, catastrophes such as the violent flooding that recently cut off Canada’s largest port and stranded the city of Vancouver are reminders that the cost of addressing the crisis is dwarfed by the cost of not doing so.
-
-**7\. Check the facts (and watch out for liars)**
--------------------------------------------------
 
 Thinking about the future requires imagination, but also precision. Waves of climate lies have washed over the public for decades. The age of climate denial is largely over, succeeded by more [subtle distortions](https://www.theguardian.com/environment/2021/nov/11/inactivists-tangling-up-the-climate-crisis-in-culture-wars-manston-airport-kent) of the facts, and by false solutions from those who seek to benefit from stasis.
 
@@ -115,9 +94,6 @@ In 2017, Mark Jacobson of Stanford University’s [Solutions Project](https://th
 
 A rally in support of the Global Climate Strike in Quezon City, Philippines, 2019. Photograph: Rolex dela Peña/EPA
 
-**8\. History can guide us**
-----------------------------
-
 The American left, someone once told a friend of mine, is bad at celebrating its victories. (The same may well go for the left in other countries, too.) We have victories. Some of them are very large, and are why your life is the shape it is. The victories are reminders that we are not powerless, and our work is not futile. The future is not yet written, but by reading the past, we see patterns that can help us shape that future.
 
 To remember that things were different, and how they were changed, is to be equipped to make change – and to be hopeful, because hope lies in the possibility of things being different. Despair and depression often come from the sense that nothing will change, or that we have no capacity to make that change.
@@ -125,9 +101,6 @@ To remember that things were different, and how they were changed, is to be equi
 Sometimes it helps to understand that this very moment is astonishing. Early in this century, we had no adequate alternative to fossil fuel. Wind and solar were relatively expensive and inefficient, and battery technology was still in its infancy. The most unnoticed revolution of our era is an energy revolution: solar and wind costs have plummeted as new, more efficient designs have been invented, and they are now widely considered to be more than adequate to power our future.
 
 The scale of change in the past 50 years is evidence of the power of movements. The nation I was born into 60 years ago had tiny lesbian and gay rights movements, nothing resembling a feminist movement, a Black-led civil rights movement whose victories mostly lay ahead, and a small conservation movement that had not yet morphed into an environmental movement – and few recognised the systemic interdependences at the heart of environmentalism. A lot of assumptions were yet to be dismantled; a lot of alternatives yet to be born.
-
-**9\. Remember the predecessors**
----------------------------------
 
 We are the first generations to face a catastrophe of the reach, scale and duration of climate change. But we are far from the first to live under some kind of threat, or to fear what is to come. I often think of those who were valiant and principled in the death camps of Nazi Germany. I think of my Latin American neighbours, some of whom braved terrifying migrations, walking across the desert for days to escape death squads, dictatorships and climate catastrophe. I think of the Indigenous people of the Americas, who already lived through the end of their worlds when their lands were stolen, their populations decimated and colonial domination disrupted their lives and cultures in every possible way. What it took to persevere under those conditions is almost unimaginable, and also all around us.
 
@@ -137,5 +110,12 @@ Indigenous leadership has mattered tremendously for the climate movement, in spe
 
 An old growth forest in Vancouver Island, Canada. Photograph: Cole Burston/AFP/Getty Images
 
-**10\. Don’t neglect beauty**
----
+Climate chaos makes us fear that we will lose what is beautiful in this world. I want to say that in 50 years, and 100 years, the moon will rise, and be beautiful, and shine its silvery light across the sea, even if the coastline isn’t where it used to be. In 50 years, the light on the mountains, and the way every raindrop on a blade of grass refracts light will still be beautiful. Flowers will bloom and they will be beautiful; children will be born, and they, too, will be beautiful.
+
+Only when it is over will we truly see the ugliness of this era of fossil fuels and rampant economic inequality. Part of what we are fighting for is beauty, and this means giving your attention to beauty in the present. If you forget what you’re fighting for, you can become miserable, bitter and lost.
+
+For a long time we have told horror stories about ice and coral reefs and violent weather events to try to wake people up to the fact that the climate is changing. I have a different fear now – that this chaos will come to seem inevitable, and even normal, as war does to someone who has lived their life in wartime.
+
+I believe we now need to tell stories about how beautiful, how rich, how harmonious the Earth we inherited was, how beautiful its patterns were, and in some times and places still are, and how much we can do to restore this and to protect what survives. To take that beauty as a sacred trust, and celebrate the memory of it. Otherwise we might forget why we are fighting.
+
+Follow the Long Read on Twitter at [@gdnlongread](https://twitter.com/@gdnlongread), listen to our podcasts [here](https://www.theguardian.com/news/series/the-long-read) and sign up to the long read weekly email [here](https://www.theguardian.com/info/ng-interactive/2017/may/05/sign-up-for-the-long-read-email).

@@ -3,7 +3,7 @@ uuid: ae7e8888-0ae8-4857-a60d-84ac9bdccfc3
 bookmarkOf: https://www.youtube.com/watch?v=2NCLpSJqpf0
 categories:
 - video
-headImage: https://i.ytimg.com/vi/2NCLpSJqpf0/maxresdefault.jpg
+headImage: https://i.ytimg.com/vi/2NCLpSJqpf0/hqdefault.jpg
 title: 'Breaking Waves: Race and Inclusivity'
 description: Welcome back to another episode of Vans’ Breaking Waves, the latest project
   from pro surfer and Weird Waves host Dylan Graves, dedicated to the often overloo...
@@ -44,3 +44,4 @@ tags:
 - " Breaking Waves"
 date: 2021-12-09 10:15:51.270204723 +00:00
 ---
+

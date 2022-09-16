@@ -74,4 +74,17 @@ Should a significant percentage of the population abandon these spaces, that wil
 If the dark forest isn’t dangerous already, these departures might ensure that it will be.
 
 **Linknotes**
----
+-------------
+
+I watched all of [Nirvana’s _MTV Unplugged in New York_](https://youtube.com/playlist?list=PLyUVnCw_kLV0J2OjvADXZL-NrSghlEgDg) the other day. I clearly remember when the performance happened. I was 15. They were my favorite band. And _MTV Unplugged_ back then was a _very_ big deal. There was this intense curiosity — what in the world would Nirvana sound like in this format? Would it work?
+
+It very much did. Of Nirvana’s albums, I unexpectedly think _Unplugged_ might hold up the best today. It’s missing the era’s dated sound, and the humanity of the band comes across so clearly.
+
+It’s also the least egotistical performance I’ve ever seen. Kurt Cobain spends the whole thing sitting in a crummy office chair, they play lots of covers rather than the hits, and they bring their friends onstage and perform their friends’ songs on MTV at a time when that _really_ mattered. The generosity is astonishing. (Both Nirvana and the Beatles had that rare ability to recognize their good fortune without diminishing their talent.) What a beautiful thing.
+
+Just six months after this performance, Kurt committed suicide. If you've never seen it, [give it a watch](https://youtube.com/playlist?list=PLyUVnCw_kLV0J2OjvADXZL-NrSghlEgDg).
+
+Peace and love my friends,
+
+Yancey  
+[The Bento Society](https://bentoism.org/about)
