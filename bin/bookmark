@@ -126,10 +126,16 @@ class LinkFile
   end
 
   def fill_data
+    begin
+    resp = OEmbed::Providers.get(data["bookmarkOf"])
+    data["headImage"] = resp.thumbnail_url
+    rescue StandardError =>e
+      puts e
+    end
     preview = MercuryPreview.new(data['bookmarkOf'])
     preview.fetch
     data["title"] = preview.title
-    data["headImage"] = preview.image
+    data["headImage"] ||= preview.image
     data["description"] = preview.description
     @content = preview.content
     puts Diffy::Diff.new(old_data, data)
@@ -143,7 +149,7 @@ class LinkFile
   end
 
   def download_image
-    if data["headImage"] == old_data["headImage"]
+    if data["headImage"] != nil && data["headImage"] == old_data["headImage"]
       puts "Skipping image: #{data["headImage"]}"
       return
     end
@@ -226,6 +232,11 @@ module CLI
     argument :file
 
     def call(file: nil, **options)
+      OEmbed::Providers.register_all
+      OEmbed::Providers.register_fallback(
+        OEmbed::ProviderDiscovery,
+        OEmbed::Providers::Noembed
+      )
       if file
         l = LinkFile.new(file)
         l.update!
