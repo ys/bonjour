@@ -3,6 +3,7 @@ require "rubygems"
 require "bundler/setup"
 Bundler.require(:default)
 require "securerandom"
+require "oembed"
 require "yaml"
 require "active_support/all"
 require "dry/cli"
@@ -38,6 +39,15 @@ class Link
     @image = preview.image
     @description = preview.description
     @tags += preview.tags
+    if !@image
+      resp = OEmbed::Providers.get(url)
+      @image ||= resp.thumbnail_url
+    end
+    preview = MercuryPreview.new(url)
+    preview.fetch
+    @title ||= preview.title
+    @image ||= preview.image
+    @description ||= preview.description
     true
   end
 
@@ -234,6 +244,11 @@ module CLI
     option :notes, category: :string, default: "", desc: "notes"
 
     def call(url:,tags:, category:, notes:, **options)
+      OEmbed::Providers.register_all
+      OEmbed::Providers.register_fallback(
+        OEmbed::ProviderDiscovery,
+        OEmbed::Providers::Noembed
+      )
       l = Link.from_url(url, category, tags, notes)
       l.build
       l.save
