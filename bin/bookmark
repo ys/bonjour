@@ -40,8 +40,12 @@ class Link
     @description = preview.description
     @tags += preview.tags
     if !@image
-      resp = OEmbed::Providers.get(url)
-      @image ||= resp.thumbnail_url
+      begin
+        resp = OEmbed::Providers.get(url)
+        @image ||= resp.thumbnail_url
+      rescue StandardError =>e
+        puts e
+      end
     end
     preview = MercuryPreview.new(url)
     preview.fetch
