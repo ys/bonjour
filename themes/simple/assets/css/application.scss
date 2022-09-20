@@ -22,7 +22,7 @@ html {
 }
 :root {
   --accent: {{ with .Site.Params.accentColor }}{{ . }}{{ else }}var(--onyx){{ end }};
-  --gap: 18px;
+  --gap: 6px;
 }
 
 .prose blockquote {
