@@ -100,13 +100,14 @@ class LinkFile
   attr_writer :content
   YAML_FRONT_MATTER_REGEXP = /\A(---\s*\n.*?\n?)^((---|\.\.\.)\s*$\n?)/m
 
-  def initialize(file)
+  def initialize(file, capture: false)
     @file = file
     file_content = File.read(file)
     file_content =~ YAML_FRONT_MATTER_REGEXP
     @data, @content = YAML.load($1, permitted_classes: [OpenStruct, Symbol, Time]), Regexp.last_match.post_match
     @old_data = @data.clone
     @old_content = content.clone
+    @capture = capture
     ensure_uuid
   end
 
@@ -115,12 +116,16 @@ class LinkFile
   end
 
   def update!
-    if data["headImage"] == nil
-      puts "Downloading image for #{file}"
-      fill_data
+    if @capture
+      capture
+    else
+      if data["headImage"] == nil
+        puts "Downloading image for #{file}"
+        fill_data
+      end
+      download_image
+      save
     end
-    download_image
-    save
   rescue StandardError => e
     puts "Ooops, #{e}"
   end
@@ -256,18 +261,19 @@ module CLI
   class Sync < Dry::CLI::Command
     desc "Sync all pictures"
     argument :file
+    option :capture, category: :boolean, default: false, desc: "force capture"
 
-    def call(file: nil, **options)
+    def call(file: nil, capture: false, **options)
       OEmbed::Providers.register_all
       OEmbed::Providers.register_fallback(
         OEmbed::ProviderDiscovery,
         OEmbed::Providers::Noembed
       )
       if file
-        l = LinkFile.new(file)
+        l = LinkFile.new(file, capture: capture)
         l.update!
       else
-        Dir.glob("#{BOOKMARKS_PATH}/*.md").map { |f| l = LinkFile.new(f).update!}
+        Dir.glob("#{BOOKMARKS_PATH}/*.md").map { |f| l = LinkFile.new(f, capture: capture).update!}
       end
     end
   end
