@@ -11,6 +11,3 @@ description: An interview with Chris Burkard, acclaimed photographer, Huckberry 
   and overall outstanding guy
 ---
 
-We value your privacy. We use cookies to provide the best site experience possible. By using our site, you’re acknowledging that you accept our [Terms of Service](/terms) and [Privacy Policy](/privacy-policy) and that they’re OK with you.
-
-×

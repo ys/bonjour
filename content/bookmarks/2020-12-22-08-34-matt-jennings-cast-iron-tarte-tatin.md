@@ -11,6 +11,3 @@ description: The signature dish of the Tatin sisters, this cast iron beauty will
   you a dinner party hero
 ---
 
-We value your privacy. We use cookies to provide the best site experience possible. By using our site, you’re acknowledging that you accept our [Terms of Service](/terms) and [Privacy Policy](/privacy-policy) and that they’re OK with you.
-
-×

@@ -7,3 +7,4 @@ date: '2021-03-24T20:09:00+02:00'
 headImage: https://media.leroymerlin.fr/Capture/18/0c/4a091e01406093b1f0ed948d26ab/cabane-jardin-nature.jpg
 uuid: '02650329-fe4b-42ae-ad75-3a0913ebaf43'
 ---
+

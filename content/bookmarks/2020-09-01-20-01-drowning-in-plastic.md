@@ -10,6 +10,3 @@ description: Visualising the world’s addiction to plastic bottles. Around the 
   almost 1 million plastic bottles are purchased every minute.
 ---
 
-*   [Reuters.com](http://www.reuters.com/)
-*   [Privacy Policy](http://www.reuters.com/privacy-policy)
-*   [Terms of Use](http://www.reuters.com/terms-of-use)

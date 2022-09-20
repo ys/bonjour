@@ -97,6 +97,7 @@ end
 
 class LinkFile
   attr_reader :data, :file, :content, :old_data, :old_content
+  attr_writer :content
   YAML_FRONT_MATTER_REGEXP = /\A(---\s*\n.*?\n?)^((---|\.\.\.)\s*$\n?)/m
 
   def initialize(file)
@@ -114,11 +115,11 @@ class LinkFile
   end
 
   def update!
-    if data["headImage"] != nil
-      puts "Skipping #{file} we have an image"
+    if data["headImage"] == nil
+      puts "Downloading image for #{file}"
+      fill_data
+      download_image
     end
-    fill_data
-    download_image
     save
   rescue StandardError => e
     puts "Ooops, #{e}"
@@ -144,7 +145,6 @@ class LinkFile
     data["title"] = preview.title
     data["headImage"] ||= preview.image
     data["description"] = preview.description
-    @content = preview.content
     puts Diffy::Diff.new(old_data, data)
   end
 
@@ -234,6 +234,24 @@ end
 
 module CLI
   extend Dry::CLI::Registry
+  class EmptyContent < Dry::CLI::Command
+    desc "empty_content"
+    argument :file
+
+    def call(file: nil, **options)
+      if file
+        l = LinkFile.new(file)
+        l.content = ""
+        l.save
+      else
+        Dir.glob("#{BOOKMARKS_PATH}/*.md").map do |f|
+          l = LinkFile.new(f)
+          l.content = ""
+          l.save
+        end
+      end
+    end
+  end
   class Sync < Dry::CLI::Command
     desc "Sync all pictures"
     argument :file
@@ -275,6 +293,7 @@ module CLI
 
   register "sync", Sync
   register "create", Create
+  register "empty", EmptyContent
 end
 
 Dry::CLI.new(CLI).call

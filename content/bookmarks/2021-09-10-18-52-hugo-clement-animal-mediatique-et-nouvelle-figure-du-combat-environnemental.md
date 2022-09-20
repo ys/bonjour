@@ -11,21 +11,3 @@ description: Entre journalisme et militantisme, le jeune reporter fait avancer l
   leur meilleur allié.
 ---
 
-![Le journaliste Hugo Clément, à Biarritz (Pyrénées-Atlantiques), le 27 août 2021.](data:image/svg+xml,%3Csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20viewBox=%270%200%20664%20443%27%3E%3C/svg%3E)
-
-Le journaliste Hugo Clément, à Biarritz (Pyrénées-Atlantiques), le 27 août 2021. MELVIN ISRAEL POUR M LE MAGAZINE DU MONDE
-
-Dans un immeuble du 10e arrondissement de Paris, les locaux de Winter Productions, la société d’Hugo Clément, sont vides, ou presque. En ce matin de juillet, seul l’un des monteurs, qui n’a pas dû dormir plus de quelques heures, est déjà à pied d’œuvre. La veille, toute l’équipe a fait la fête, pour marquer la fin de la saison.
-
-Après un passage éphémère sur France 2 en 2020, son émission phare, « Sur le front », consacrée aux enjeux environnementaux, a trouvé son rythme de croisière en mensuelle sur France 5, le dimanche soir, avec de bonnes audiences et surtout de nombreuses retombées médiatiques. Elle est même assurée d’être diffusée jusqu’à fin 2022. _« Je suis rentré à 2 heures, je n’ai pas fait l’after,_ glisse Hugo Clément. _Je suis l’un des plus vieux de l’équipe ! »_
-
-Raisonnable, le patron ? Un peu fatigué, plutôt. Depuis des mois, il parcourt la planète pour en dénoncer les maux, malgré la pandémie et les tests PCR à chaque tournage. A l’amorce de l’été, il a hâte de lever le pied et de se poser à Biarritz, dont il a fait il y a un an sa base familiale. On l’y avait croisé quelques mois plus tôt, alors qu’il s’apprêtait à partir pour les forêts du Congo. Il avait profité de sa matinée pour aller surfer malgré une météo capricieuse. _« Je n’ai qu’un niveau moyen »,_ précisait-il alors, la planche à l’arrière de son utilitaire blanc_._
-
-Une voix qui compte
--------------------
-
-Il ne manquerait plus qu’Hugo Clément soit aussi un surfeur émérite. Car, à bientôt 32 ans, il aligne déjà les réussites. Reporter au journal télévisé de France 2 dès sa sortie de l’Ecole supérieure de journalisme de Lille, puis visage de l’émission « Quotidien », présentée par Yann Barthès, et désormais producteur et présentateur de « Sur le front ». En quelques années, il est devenu l’une des voix qui comptent en matière d’écologie.
-
-Quand les hommes d’affaires Xavier Niel (actionnaire à titre individuel du Groupe Le Monde), Marc Simoncini et Jacques-Antoine Granjon cherchent à mobiliser autour de la condition animale, c’est Hugo Clément qu’ils appellent en premier, pour tester leur idée d’un référendum d’initiative partagée. Une association veut sanctuariser dans le Vercors une réserve de vie sauvage, un espace où la nature serait laissée en libre évolution ? Hugo Clément relaie un appel à financement participatif et [permet à l’Association pour la protection des animaux sauvages (Aspas) de réunir la somme nécessaire à l’achat du terrain](https://www.lemonde.fr/blog/alternatives/2021/05/23/enclos-de-chasse-ce-que-ne-dit-pas-lemission-sur-le-front/).
-
-**Il vous reste 89.55% de cet article à lire. La suite est réservée aux abonnés.**

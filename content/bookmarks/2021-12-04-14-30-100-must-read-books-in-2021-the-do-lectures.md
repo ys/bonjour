@@ -14,6 +14,3 @@ tags:
 date: 2021-12-04 14:30:53.121546448 +00:00
 ---
 
-by Jason C Arnold and Kevin Wilkins
-
-Skateboard illustration and fine art featuring artists Sean Cliver, Todd Bratrud, Philip Morgan, Marc Mckee, Thomas Campbell, Rob Mathieson, FOS, Mako, Jim Phillips, Chris Reed, Jason C Arnold, Yaia, George Yarnton, Pitchgrim, Benjamin Deberdt, Johnny “MOJO” Munnerlyn

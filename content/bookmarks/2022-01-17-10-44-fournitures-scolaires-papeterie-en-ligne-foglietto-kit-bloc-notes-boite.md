@@ -13,4 +13,3 @@ tags:
 date: 2022-01-17 10:44:16.670740683 +00:00
 ---
 
-Le kit A posto constitue un kit de démarrage idéal. Il contient l’une de nos boîtes de rangement en bois massif, qui offre un véritable système de classement pour vos fiches de notes, et un bloc-notes de 120 fiches. Parfait combo pour vos fournitures scolaires ou professionnelles, il vous permettra de trier et d’organiser vos fiches par catégorie, ordre chronologique, projets statut… selon ce qui _vous_ convient le mieux.

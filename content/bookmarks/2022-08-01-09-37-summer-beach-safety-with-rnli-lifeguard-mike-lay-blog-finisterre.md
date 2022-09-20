@@ -11,6 +11,3 @@ tags: []
 date: 2022-08-01 09:37:50.854382654 +00:00
 ---
 
-At the start of April I resumed work as an RNLI lifeguard at Sennen, my local beach in West Cornwall. The very start of the season is always quiet, the beaches patrolled by small teams of lifeguards and swimmers often outnumbered by wrapped-up dog walkers. This year in particular there is a sense of it being the calm before the storm.
-
-Recent years have seen unprecedented visitor numbers in Cornwall as domestic holidaying boomed. While this afforded many the opportunity to discover the beauty available on their doorstep, it also posed a severe challenge when it came to keeping people safe. The South West region experienced a significant increase in coastal casualties and, tragically, fatalities. With this in mind, as well as the belief that education has a major role to play in the prevention of such incidents, I have tried to put together a list of practical ways to keep safe at the beach.

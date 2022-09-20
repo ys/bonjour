@@ -10,5 +10,4 @@ tags:
 - ype=article
 date: 2022-09-19 23:11:25.788604000 +02:00
 ---
-# 📕 Format, format, format
 

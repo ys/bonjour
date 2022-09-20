@@ -10,4 +10,3 @@ description: Trouvez le cadeau fait main parfait, des vêtements vintage et tend
   des bijoux uniques et plus encore... bien plus.
 ---
 
-( Résultats incluant les annonces Les créateurs qui veulent développer leur activité et toucher davantage d'acheteurs intéressés peuvent utiliser la plate-forme publicitaire d'Etsy pour promouvoir leurs articles. Vous verrez des annonces, en fonction de facteurs tels que la pertinence et le montant payé par les créateurs pour chaque clic. [En savoir plus](https://www.etsy.com/fr/legal/policy/search-advertisement-ranking-disclosures/899478564529). )

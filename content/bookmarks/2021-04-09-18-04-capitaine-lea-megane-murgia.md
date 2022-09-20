@@ -13,5 +13,3 @@ description: Léa Nahon, artiste-tatoueuse, nous embarque à bord du Rainbow pou
   de la Meuse vers le port de Douarnenez pour y&hellip;
 ---
 
-Léa Nahon, artiste-tatoueuse, nous embarque à bord du Rainbow pour une aventure humaine inspirante.  
-Attirée par l’océan et son imaginaire, Léa est partie de la Meuse vers le port de Douarnenez pour y installer son salon de tattoo flottant. Ancien remorqueur de bateau centenaire, conçu pour naviguer en rivière, cette vieille coque de métal dévoile sa personnalité capricieuse au cours du voyage.

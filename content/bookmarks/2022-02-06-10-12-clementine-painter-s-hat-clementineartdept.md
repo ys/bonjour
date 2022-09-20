@@ -12,10 +12,3 @@ tags: []
 date: 2022-02-06 10:12:30.746483964 +00:00
 ---
 
-100% Cotton painter’s cap. Inspired by long days on a ladder with a paintbrush - but perfect for picking up sunshine vibes at the beach. 
-
-\-100% Cotton
-
-\-unstructured 5 panel cap
-
-\-adjustable strap

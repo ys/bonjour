@@ -11,18 +11,3 @@ description: THE NOAH KALINA NEWSLETTER Weekly stories, updates, news, recommend
   and every single one of you should&hellip;
 ---
 
-THE NOAH KALINA NEWSLETTER
-
-Weekly stories, updates, news, recommendations and/or  
-special projects from Noah Kalina. 
-
-"Noah has the best newsletter in the world, and every single one of you should subscribe, your life and your Monday's will be better for it. I absolutely guarantee." - [James Nord](https://www.instagram.com/jamesnord/?hl=en), CEO of [Fohr](https://www.fohr.co/).
-
-"I don't know what this is ever going to be about and that's the magic" - [Carlye Wisel](https://twitter.com/carlyewisel), Theme Park Journalist and Travel Expert.
-
-"Idiosyncratic" - [Wesley Verhoeve](https://wesley.substack.com/), Photographer and Curator.
-
-"A celebration of the gloriousness of life's never-ending disasters." - [Susannah Breslin](https://twitter.com/susannahbreslin), Journalist and Writer.
-
-Not sure?  
-Check out the [archive](http://noahkalina.com/610) before you sign up.

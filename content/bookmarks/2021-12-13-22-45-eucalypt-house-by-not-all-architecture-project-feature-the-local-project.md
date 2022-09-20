@@ -14,6 +14,3 @@ tags:
 date: 2021-12-13 22:45:56.993292398 +00:00
 ---
 
-[Top](#)
-
-This website uses cookies to improve your browsing experience. Please accept to continue. Accept Cookies

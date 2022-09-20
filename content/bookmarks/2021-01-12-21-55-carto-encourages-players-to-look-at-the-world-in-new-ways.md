@@ -10,6 +10,3 @@ description: There are many things we can’t control, but changing our attitude
   decisions can have profound implications
 ---
 
-![](https://miro.medium.com/max/1400/1*1njng6YplHd_HsUCI026zQ.png)
-
-**this year has taught me anything, it’s that we can’t control what happens in life. We can often, however, influence outcomes by carefully**…

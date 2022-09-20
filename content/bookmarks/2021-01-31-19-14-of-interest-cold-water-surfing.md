@@ -10,6 +10,3 @@ description: We talked to some of the chillest dudes we know about a version of 
   that's cool as hell.
 ---
 
-We value your privacy. We use cookies to provide the best site experience possible. By using our site, you’re acknowledging that you accept our [Terms of Service](/terms) and [Privacy Policy](/privacy-policy) and that they’re OK with you.
-
-×

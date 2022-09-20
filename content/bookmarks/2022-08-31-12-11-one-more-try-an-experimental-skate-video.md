@@ -11,17 +11,3 @@ tags: []
 date: 2022-08-31 12:11:37.862819397 +00:00
 ---
 
-An ode to effort.
-
-Clips by Dennis Ludwig, Ryan Neddeau, and Frankie Eder
-
-Skaters: Blake Johnson, Markus Blessing, Ben Nordberg, Walker Ryan, Ray Corey, Carlos Montes, Matthew Parra
-
-Sound Design and Mix by TJ Dumser  
-Music performed by Sky White Tiger
-
-Color by Kristopher Smale
-
-Edit, VFX, and concept by Najeeb Tarazi
-
-Big thank you to Dennis, Ryan, and Frankie

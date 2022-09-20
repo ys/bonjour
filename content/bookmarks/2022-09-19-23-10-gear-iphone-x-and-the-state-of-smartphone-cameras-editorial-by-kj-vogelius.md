@@ -9,5 +9,4 @@ tags:
 - ype=article
 date: 2022-09-19 23:10:40.815709000 +02:00
 ---
-# GEAR - iPhone X and the state of smartphone cameras - Editorial by KJ Vogelius
 
