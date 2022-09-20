@@ -118,8 +118,8 @@ class LinkFile
     if data["headImage"] == nil
       puts "Downloading image for #{file}"
       fill_data
-      download_image
     end
+    download_image
     save
   rescue StandardError => e
     puts "Ooops, #{e}"
@@ -156,10 +156,6 @@ class LinkFile
   end
 
   def download_image
-    if data["headImage"] != nil && data["headImage"] == old_data["headImage"]
-      puts "Skipping image: #{data["headImage"]}"
-      return
-    end
     unless data["headImage"]
       capture
       puts "Capture: #{file}"
@@ -168,7 +164,12 @@ class LinkFile
     ext = data["headImage"].match?(/png/) ? "png" : "jpg"
     ext = data["headImage"].match?(/gif/) ? "gif" : "jpg"
     path = "#{BOOKMARKS_PATH}/images/#{uuid}.#{ext}"
-    `wget -O #{path} "#{data['headImage']}"`
+    if File.exists?(path)
+      puts "Skipping #{path}"
+      return
+    end
+    url = data["headImage"].start_with?("//") ? "https:#{data["headImage"]}" : data["headImage"]
+    `wget -O #{path} "#{url}"`
   end
 
   def write
