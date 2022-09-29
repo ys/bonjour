@@ -58,5 +58,4 @@ tags:
 - " investment firm"
 date: 2022-09-26 20:58:59.113817299 +00:00
 ---
-# How to Embrace Doing Nothing
 

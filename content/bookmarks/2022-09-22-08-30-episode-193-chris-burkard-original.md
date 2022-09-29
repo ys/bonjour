@@ -9,5 +9,4 @@ description: Listen now (90 min) | Is Chris Burkard the most influential visual 
 tags: []
 date: 2022-09-22 08:30:26.313043664 +00:00
 ---
-# Episode 193: Chris Burkard - Original
 

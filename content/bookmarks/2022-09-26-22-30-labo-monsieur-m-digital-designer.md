@@ -9,5 +9,4 @@ description: Multi-disciplinary digital designer based in Paris. I’ve spent th
 tags: []
 date: 2022-09-26 22:30:04.931080000 +02:00
 ---
-# Labo - Monsieur M — Digital designer
 

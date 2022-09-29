@@ -9,5 +9,4 @@ description: Visualisez les grands postes de dépense d’électricité et les p
 tags: []
 date: 2022-09-27 09:17:19.986255437 +00:00
 ---
-# Combien d’électricité consommons-nous et comment réduire nos factures ?
 

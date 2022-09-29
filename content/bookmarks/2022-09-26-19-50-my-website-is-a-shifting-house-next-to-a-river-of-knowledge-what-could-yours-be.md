@@ -9,5 +9,4 @@ description: ''
 tags: []
 date: 2022-09-26 19:50:43.519490525 +00:00
 ---
-# My website is a shifting house next to a river of knowledge. What could yours be?
 

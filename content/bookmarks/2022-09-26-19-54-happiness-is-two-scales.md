@@ -10,5 +10,4 @@ description: 'The common way to talk about happiness is as a single scale: unhap
 tags: []
 date: 2022-09-26 19:54:10.821039300 +00:00
 ---
-# Happiness Is Two Scales
 

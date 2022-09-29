@@ -10,5 +10,4 @@ description: We asked Clovis Donizetti a couple of questions about single fins a
 tags: []
 date: 2022-09-26 22:30:22.060088000 +02:00
 ---
-# How to choose the correct longboard fin - Deflow Surf & Longboard Fins
 

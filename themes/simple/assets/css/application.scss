@@ -50,6 +50,9 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, 
       @apply text-#{$color}-600  underline relative;
     }
   }
+  .bookmark h1 {
+    @apply font-black font-sans;
+  }
   .content-#{$color} .post h1 {
     @apply text-#{$color}-600;
   }

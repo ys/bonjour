@@ -13,7 +13,7 @@
   {{ range $index, $page := $paginator.Pages }}
     {{ if or $.Params.grid $page.Params.coverImage }}
       <article class="relative  hover:bg-sunray-100 p-2 rounded-lg">
-        <a href="{{ $page.Params.bookmarkOf }}"
+        <a href="{{ .RelPermalink }}"
               class="text-darker dark:text-gray-100 hover:bg-sunray-100 ">
 
         {{- $url := urls.Parse .Params.bookmarkOf -}}
