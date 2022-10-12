@@ -26,7 +26,7 @@
           {{ $smol := .Fill (printf "600x400 %s" $format) }}
           <img class="w-full rounded-sm shadow-lg bg-sunray-100" src="{{ $smol.RelPermalink }}"/>
         {{ else }}
-        <div class="w-full rounded-sm justify-center items-center flex shadow-lg aspect-w-3 aspect-h-2 bg-accent-200">
+        <div class="w-full rounded-sm justify-center items-center flex shadow-lg aspect-[3/2] bg-accent-200">
           <div class="text-xl font-bold text-accent-400 text-center block w-64 m-auto h-16"> {{$page.Title}} </div>
         </div>
 

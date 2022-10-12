@@ -16,7 +16,7 @@
         {{ $large := $src.Fill $largew }}
 
         <picture
-          class="block relative aspect-w-3 aspect-h-2 rounded-sm shadow-lg"
+          class="block relative aspect-[3/2] rounded-sm shadow-lg"
           style="background: url(data:image/jpeg;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover">
           <img loading="lazy" class="u-photo m-0 h-auto rounded-sm w-full lazyload" alt="cover {{ .Title}}" data-action="zoom"
             data-zoom-src="{{ $large.RelPermalink}}"

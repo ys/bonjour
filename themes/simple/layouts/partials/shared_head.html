@@ -9,11 +9,17 @@
 <meta name="application-name" content="Bonjour Yannick">
 <meta name="msapplication-TileColor" content="#008987">
 <meta name="theme-color" content="#ffffff">
-{{ $style := resources.Get "css/application.scss" | resources.ExecuteAsTemplate "main.css" . | toCSS | resources.PostCSS }}
-{{ if .Site.IsServer }}
-{{ else }} {{ $style = $style | minify | fingerprint | resources.PostProcess }}
+
+
+{{ $styles := resources.Get "css/application.scss" | resources.ExecuteAsTemplate "main.css" . | toCSS}}
+{{ $styles = $styles | resources.PostCSS }}
+{{ if  hugo.IsProduction  }}
+    {{ $styles = $styles | minify | fingerprint | resources.PostProcess }}
+    {{ else if .Site.IsServer }}
+    {{ $styles = $styles | resources.ExecuteAsTemplate (printf "tailwind.dev.%v.css" now.UnixMilli) .}}
 {{ end }}
-<link rel="stylesheet" href="{{ $style.RelPermalink }}" />
+<link href="{{ $styles.RelPermalink }}" rel="stylesheet" />
+
 <link rel="micropub" href="{{ .Site.Params.indiekit.url }}/micropub" />
 <link rel="authorization_endpoint" href="https://indieauth.com/auth">
 <link rel="token_endpoint" href="{{ .Site.Params.indiekit.url }}/token">

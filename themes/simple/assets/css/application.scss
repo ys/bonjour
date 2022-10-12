@@ -10,8 +10,8 @@ html {
 }
 
 .dotted {
-  text-decoration: underline;
-  text-decoration-style: dotted;
+  decoration: underline;
+  decoration-style: dotted;
 }
 
 .main_menu li:not(:last-child):not(:first-child):before {
@@ -29,7 +29,7 @@ html {
   @apply italic border-accent-300 font-normal;
 }
 
-$colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, bluewhale, sunray, rose, amber;
+$colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, sunray, rose, amber, sky;
 @each $color in $colors {
   .content-#{$color} ::selection {
     @apply bg-#{$color}-200 ;
@@ -41,10 +41,10 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, 
     @apply my-4 md:-mx-6 -ml-4 px-4 md:pr-6 py-1 md:pl-6 border-l-4 border-#{$color}-500 bg-gray-100 ;
   }
   .content-#{$color} .link{
-    @apply text-decoration-underline text-decoration text-decoration-#{$color}-600 font-semibold;
+    @apply decoration-solid  decoration-8 decoration-#{$color}-600 font-semibold;
   }
   .content-#{$color} .prose a{
-    @apply font-semibold text-decoration-underline text-decoration text-decoration-#{$color}-600  relative;
+    @apply font-semibold decoration-solid decoration-#{$color}-600  relative;
     transition: color 0.5s, background-image 0.5s linear;
     &:hover {
       @apply text-#{$color}-600  underline relative;
@@ -61,13 +61,13 @@ $colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, cascade, 
   }
   .content-#{$color} .post h2, .content-#{$color} .post h3 {
     @apply underline;
-    text-decoration-color: theme('colors.#{$color}.600');
+    decoration-color: theme('colors.#{$color}.600');
     a {
       @apply text-gray-900 ;
     }
   }
   .td-#{$color} {
-    text-decoration-color: theme('colors.#{$color}.700') !important;
+    decoration-color: theme('colors.#{$color}.700') !important;
   }
 }
 .prose pre {
@@ -153,7 +153,7 @@ table {
   }
 }
 .link, .with-links a, .content a {
-  @apply font-semibold text-decoration text-decoration-underline text-decoration-accent-600 underline relative transition duration-500 ease-in-out;
+  @apply font-semibold decoration-solid decoration-accent-600 underline relative transition duration-500 ease-in-out;
   &:hover {
     @apply  text-accent-500 underline relative;
   }
@@ -368,7 +368,7 @@ table {
 
 .pswp__error-msg a {
   color: #CCC;
-  text-decoration: underline; }
+  decoration: underline; }
 
 .pswp__ui {
   @apply hidden;
