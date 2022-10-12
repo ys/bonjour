@@ -3,7 +3,7 @@
 {{range first 1 (shuffle (slice "indigo" "teal" "orange" "amber" "rose" "red" "emerald" "sky" "accent" "sunray" "pink")) }}
 {{ $color = . }}
 {{ end }}
-<header class="group py-8 {{ with .Params.hideHeader }}hidden{{end}} md:max-w-xl md:ml-4  md:pt-24 mx-4 md:container flex flex-col md:flex-row gap-4  ease-in-out duration-500 ">
+<header class="group py-8 {{ with .Params.hideHeader }}hidden{{end}} md:max-w-xl md:ml-4  md:pt-24 mb-8 mx-4 md:container flex flex-col md:flex-row gap-4  ease-in-out duration-500 ">
   <span class="block logo text-center text-6xl w-16 {{ with .Params.color }}text-{{.}}-500 {{else}}text-{{$color}}-500 {{end}} ">
     <a href="{{ "/" | relLangURL }}" alt="home">
       {{ if fileExists "/static/logo.svg" }}
@@ -13,9 +13,9 @@
       {{ end }}
     </a>
   </span>
-  <div class="opacity-20 hover:opacity-90 flex flex-col font-sans  h-full tracking-tighter text-sm ease-in-out duration-500">
-    <h1 class="text-4xl font-sans font-black text-dark transition ease-in-out duration-500 {{ with .Params.color }}text-{{.}}-500 group-hover:text-{{.}}-500 {{else}}text-sunray-500 group-hover:text-{{$color}}-500 {{end}}">
-    <a href="{{ "/" | relLangURL }}" alt="home">{{ .Site.Title }}</a></h1>
+  <div class="flex flex-col font-sans  h-full tracking-tighter text-sm ease-in-out duration-500">
+    <h1 class="text-4xl font-sans font-black text-dark transition ease-in-out duration-500 {{ with .Params.color }}text-{{.}}-500 group-hover:text-{{.}}-500 {{else}}text-{{$color}}-500 group-hover:text-{{$color}}-500 {{end}}">
+    <a href="{{ "/" | relLangURL }}" alt="home">{{ .Title | default .Site.Title }}</a></h1>
     {{ $current := . }}
     <nav class="main_menu">
       <ul class="inline text-gray-600 leading-relaxed">

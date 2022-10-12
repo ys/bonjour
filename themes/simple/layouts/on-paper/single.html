@@ -1,5 +1,4 @@
 {{ define "main" }}
-{{ partial "article_header" . }}
 <div class="mb-10 max-w-prose content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
   <div  class="post prose">
     {{.Content}}

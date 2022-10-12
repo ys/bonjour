@@ -1,7 +1,7 @@
 ---
 color: sky
 seotitle: "A propos"
-title: "Bonjour!"
+title: "Un petit bout de moi"
 description: "Ce que je fais pour le moment"
 date: 2020-10-07T12:57:50+02:00
 draft: false
@@ -16,8 +16,8 @@ menu:
 linktitle: un rien sur moi
 ---
 
-Moi, c'est Yannick. J'aime assez notre planète. J'aime beaucoup raconter des histoires et capturer des instants.  
-Je suis un minimaliste atteint de collectionite aïgue en plein repentir. J'essaye de vivre lentement, au rythme des saisons dans ce magnifique bout du monde qu'est le Finistère.
+Moi, c'est Yannick. J'aime assez notre planète. J'aime beaucoup **raconter des histoires et capturer des instants.**
+Je suis un minimaliste atteint de collectionite aïgue en plein repentir. J'essaye de **vivre lentement**, au rythme des saisons dans ce magnifique bout du monde que j'appelle maison.
 
 ![Yannick](cover)
 
