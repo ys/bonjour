@@ -23,7 +23,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "github-actions"
           git add -A content/daily/
-          git commit -m "Sync the daily album"
+          git commit -m "Sync the daily album" || echo "nothing to do and it is fine"
           git pull origin ${{ github.ref }}
           echo "::set-output name=push::true"
         shell: bash
