@@ -24,6 +24,7 @@ jobs:
           git config --local user.name "github-actions"
           git add -A content/daily/
           git commit -m "Sync the daily album"
+          git pull origin ${{ github.ref }}
           echo "::set-output name=push::true"
         shell: bash
       - name: Push changes
@@ -31,3 +32,4 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
