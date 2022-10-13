@@ -9,28 +9,6 @@ on:
     - cron: "*/30 * * * *" # Run this workflow every 5 minutes
 
 jobs:
-  daily:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Check out repo
-        uses: actions/checkout@v2
-      - name: Fetch daily album
-        run: |
-          curl "https://lightroom.adobe.com/v2/spaces/${{ secrets.LIGHTROOM_SPACE_ID }}/albums/${{ secrets.LIGHTROOM_ALBUM_ID }}/assets?embed=asset%3Buser&order_after=-&exclude=incomplete&subtype=image%3Bvideo%3Blayout_segment&limit=1000" | sed 's/while (1) {}//' | jq -r '.resources[] | "wget -O content/daily/" + .asset.payload.importSource.fileName + " https://photos.adobe.io/v2/spaces/${{ secrets.LIGHTROOM_SPACE_ID}}/" + .asset.links."/rels/rendition_type/1280".href' | xargs -I{} sh -c "{} &"
-      - name: Commit files
-        id: commit
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "github-actions"
-          git add -A content/daily/
-          git commit -m "Sync the daily album"
-          echo "::set-output name=push::true"
-        shell: bash
-      - name: Push changes
-        if: steps.commit.outputs.push == 'true'
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
   scheduled:
     runs-on: ubuntu-latest
     steps:
