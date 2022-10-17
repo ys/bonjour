@@ -26,52 +26,52 @@ html {
 }
 
 .prose blockquote {
-  @apply italic border-accent-300 font-normal;
+  @apply italic border-accent font-normal;
 }
 
-$colors: red, green, blue, orange, yellow, indigo, pink, teal, accent, sunray, rose, amber, sky;
+$colors: accent, sunray, forest, purpleheart, jazzberry, rose, teal;
 @each $color in $colors {
   .content-#{$color} ::selection {
-    @apply bg-#{$color}-200 ;
+    @apply bg-#{$color} bg-opacity-20 ;
   }
   .content-#{$color} .post blockquote {
-    @apply leading-snug pl-4  border-l-4 border-#{$color}-500 font-normal ;
+    @apply leading-snug pl-4  border-l-4 border-#{$color} font-normal ;
   }
   .content-#{$color} .note {
-    @apply my-4 md:-mx-6 -ml-4 px-4 md:pr-6 py-1 md:pl-6 border-l-4 border-#{$color}-500 bg-gray-100 ;
+    @apply my-4 md:-mx-6 -ml-4 px-4 md:pr-6 py-1 md:pl-6 border-l-4 border-#{$color} bg-gray-100 ;
   }
   .content-#{$color} .link{
-    @apply decoration-solid  decoration-#{$color}-600 font-semibold;
+    @apply decoration-solid  decoration-#{$color} font-semibold;
   }
   .content-#{$color} .prose a{
-    @apply font-semibold  decoration-solid decoration-#{$color}-600  relative;
+    @apply font-semibold  decoration-solid decoration-#{$color}  relative;
     transition: color 0.5s, background-image 0.5s linear;
     &:hover {
-      @apply text-#{$color}-600  underline relative;
+      @apply text-#{$color}  underline relative;
     }
   }
   .bookmark h1 {
     @apply font-black font-sans;
   }
   .content-#{$color} .post h1 {
-    @apply text-#{$color}-600;
+    @apply text-#{$color};
   }
   .content-#{$color} hr {
-    @apply border-#{$color}-300;
+    @apply border-#{$color} border-opacity-20;
   }
   .content-#{$color} .post h2, .content-#{$color} .post h3 {
     @apply underline;
-    decoration-color: theme('colors.#{$color}.600');
+    decoration-color: theme('colors.#{$color}');
     a {
-      @apply text-gray-900 ;
+      @apply text-darker ;
     }
   }
   .td-#{$color} {
-    decoration-color: theme('colors.#{$color}.700') !important;
+    decoration-color: theme('colors.#{$color}') !important;
   }
 }
 .prose pre {
-  @apply bg-gray-200 text-gray-900 text-sm;
+  @apply bg-gray-200 text-darker text-sm;
 }
 svg, .logo svg, .fill svg {
   @apply fill-current;
@@ -92,7 +92,7 @@ footer ul li:not(:last-child):after {
 }
 
 hr {
-  @apply border-accent-300 block mt-6 border-0 mb-4 mx-auto w-full border-t;
+  @apply border-accent border-opacity-20 block mt-6 border-0 mb-4 mx-auto w-full border-t;
 }
 
 .home {
@@ -113,20 +113,20 @@ hr {
     @apply w-full break-words my-6;
   }
   h1 {
-    @apply font-bold text-xl mt-8 text-gray-900 font-normal py-1;
+    @apply font-bold text-xl mt-8 text-darker font-normal py-1;
   }
   h2 {
-    @apply text-2xl mt-8  text-gray-900 py-1 font-semibold;
+    @apply text-2xl mt-8  text-darker py-1 font-semibold;
 
     a {
-      @apply text-gray-900;
+      @apply text-darker;
     }
   }
   h2 + p {
     @apply mt-8;
   }
   h3 {
-    @apply text-xl mt-8 text-gray-900  font-normal py-1;
+    @apply text-xl mt-8 text-darker  font-normal py-1;
   }
   ul {
    @apply list-inside my-4;
@@ -153,9 +153,9 @@ table {
   }
 }
 .link, .with-links a, .content a {
-  @apply font-semibold decoration-solid decoration-accent-600 underline relative transition duration-500 ease-in-out;
+  @apply font-semibold decoration-solid decoration-accent underline relative transition duration-500 ease-in-out;
   &:hover {
-    @apply  text-accent-500 underline relative;
+    @apply  text-accent underline relative;
   }
 }
 

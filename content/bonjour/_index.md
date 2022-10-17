@@ -1,5 +1,6 @@
 ---
-title: "Bonjour, la lettre"
+seotitle: "Bonjour, la lettre - Bonjour Yannick"
+title: "Envoyer des bonjours"
 emoji: 💌
 description: "Un petit moment d'échappement dans votre boîte mail"
 date: 2020-10-07T12:57:50+02:00

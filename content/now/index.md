@@ -1,7 +1,7 @@
 ---
-color: sky
+color: purpleheart
 seotitle: "A propos"
-title: "Un petit bout de moi"
+title: "Parler un peu de moi"
 description: "Ce que je fais pour le moment"
 date: 2020-10-07T12:57:50+02:00
 draft: false

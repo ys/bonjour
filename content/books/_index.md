@@ -1,5 +1,5 @@
 ---
-title: "Des livres"
+title: "Lire des livres"
 emoji: "📚"
 description: "Ce que j'ai lu."
 date: 2021-02-07T12:57:50+02:00

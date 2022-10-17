@@ -9,6 +9,11 @@ module.exports = {
     './themes/simple/assets/**/*.js',
     './hugo_stats.json'
   ],
+  safelist: [
+   {
+      pattern: /.*(forest|sunray|accent|rose|purpleheart|teal|jazzberry).*/,
+    },
+  ],
   plugins: [
     require('@tailwindcss/typography'),
     require('@tailwindcss/line-clamp'),
@@ -54,41 +59,13 @@ module.exports = {
         ]
       },
       colors: {
-        cascade: colors.sky,
-        sunray: {
-          100: '#FDF8EE',
-          200: '#FBECD5',
-          300: '#F8E1BC',
-          400: '#F2CB8A',
-          500: '#EDB458',
-          600: '#D5A24F',
-          700: '#8E6C35',
-          800: '#6B5128',
-          900: '#47361A',
-        },
-        accent: {
-          100: '#FDF8EE',
-          200: '#FBECD5',
-          300: '#F8E1BC',
-          400: '#F2CB8A',
-          500: '#EDB458',
-          600: '#D5A24F',
-          700: '#8E6C35',
-          800: '#6B5128',
-          900: '#47361A',
-        },
-        forest: {
-          50: "#57b399",
-          100: "#4da98f",
-          200: "#439f85",
-          300: "#39957b",
-          400: "#2f8b71",
-          500: "#258167",
-          600: "#1b775d",
-          700: "#116d53",
-          800: "#076349",
-          900: "#00593f"
-        },
+        sunray: '#D5A24F',
+        accent: '#D5A24F',
+        forest: "#1b775d",
+        purpleheart: "#0d2fef",
+        jazzberry: "#b0014a",
+        rose: "#a55c7e",
+        teal: "teal",
         dark: "#2d2f34",
         darker: "#1F2023"
       },
