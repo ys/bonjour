@@ -6,7 +6,8 @@ module.exports = {
     './themes/simple/layouts/**/*.html',
     './content/**/*.md',
     './public/**/*.html',
-    './themes/simple/assets/**/*.js'
+    './themes/simple/assets/**/*.js',
+    './hugo_stats.json'
   ],
   plugins: [
     require('@tailwindcss/typography'),
@@ -75,6 +76,18 @@ module.exports = {
           700: '#8E6C35',
           800: '#6B5128',
           900: '#47361A',
+        },
+        forest: {
+          50: "#57b399",
+          100: "#4da98f",
+          200: "#439f85",
+          300: "#39957b",
+          400: "#2f8b71",
+          500: "#258167",
+          600: "#1b775d",
+          700: "#116d53",
+          800: "#076349",
+          900: "#00593f"
         },
         dark: "#2d2f34",
         darker: "#1F2023"
