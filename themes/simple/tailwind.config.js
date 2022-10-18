@@ -61,11 +61,12 @@ module.exports = {
         ]
       },
       colors: {
+        fire: "#DD614A",
         coral: "#FF7477",
         tuscan: "#7F534B",
         sunray: '#EDB458',
         accent: '#EDB458',
-        forest: "#1b775d",
+        forest: "#73A580",
         purpleheart: "#0d2fef",
         jazzberry: "#b0014a",
         rose: "#a55c7e",

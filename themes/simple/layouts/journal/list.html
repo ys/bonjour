@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+<div class="z-20 prose mb-16 with-links relative">
+  {{ .Content }}
+</div>
+
+{{ end }}
+
+{{ define "full" }}
+{{ $paginator := (.Paginate (where .RegularPages ".Params.archived" "!=" true) 250) }}
+<div class="h-feed mb-10 ">
+  {{ range $index, $page := $paginator.Pages }}
+      {{ partial "inline" $page }}
+  {{ end }}
+  <div class="">
+    {{ partial "pagination.html" . }}
+  </div>
+</div>
+{{ end }}

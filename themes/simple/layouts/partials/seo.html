@@ -1,4 +1,4 @@
-{{ $title := printf "%s %s %s - %s" .Date.Day (index .Site.Data.mois (printf "%d" .Date.Month)) .Date.Year $.Site.Title }}
+{{ $title := printf "%d %s %d - %s" .Date.Day (index .Site.Data.mois (printf "%d" .Date.Month)) .Date.Year $.Site.Title }}
 {{ $tags := slice }}
 {{ if isset .Params "tags" }}
 {{ if reflect.IsSlice .Params.tags }}
