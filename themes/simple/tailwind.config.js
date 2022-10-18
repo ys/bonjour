@@ -69,8 +69,8 @@ module.exports = {
         ]
       },
       colors: {
-        sunray: '#D5A24F',
-        accent: '#D5A24F',
+        sunray: '#EDB458',
+        accent: '#EDB458',
         forest: "#1b775d",
         purpleheart: "#0d2fef",
         jazzberry: "#b0014a",

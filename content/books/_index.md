@@ -9,3 +9,5 @@ resources:
 ---
 
 La plupart des livres que j'ai lu ces dernières années.
+J'aime pas mal dévorer des livres, j'aimerais vous en parler plus mais bien souvent, je ne sais pas quoi raconter dessus.
+Un petit résumé en quelques étoiles, et vous voilà avertis.

@@ -147,9 +147,9 @@ hr {
 }
 
 table {
-  @apply w-full p-4 my-4 border border-gray-900 ;
+  @apply w-full p-4 my-4 border border-collapse border-darker #{!important};
   th, td {
-    @apply border border-gray-900 p-2;
+    @apply border border-darker p-2 border-collapse #{!important};
   }
 }
 .link, .with-links a, .content a {
