@@ -21,4 +21,4 @@ Il aime parler de tout et de rien, a pas mal de [jolis livres](/on-paper), lit p
 
 {{< grid wide="bala" images=" home-1 | home-2 / home-7 | home-8 /  home-6 | home-3 / home-4 | home-5 " >}}
 
-{{< letter account="bonjouryannick" accent="sunray" msg="💌 Bonjour - Une belle newsletter" >}}
+{{< letter account="bonjouryannick" accent="rose" msg="💌 Bonjour - Une belle newsletter" >}}

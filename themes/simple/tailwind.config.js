@@ -2,13 +2,22 @@ const defaultTheme = require("tailwindcss/defaultTheme");
 const colors = require('tailwindcss/colors');
 
 module.exports = {
-  content: [
+  content:{
+    files: [
     './themes/simple/layouts/**/*.html',
     './content/**/*.md',
     './public/**/*.html',
     './themes/simple/assets/**/*.js',
     './hugo_stats.json'
   ],
+  transform: {
+      json: (content) => {
+        lol = "<a class=\""+ JSON.parse(content)["htmlElements"]["classes"].join(", ") + "\"/>"
+        console.log(lol)
+        return lol
+      }
+    },
+  },
   safelist: [
    {
       pattern: /.*(forest|sunray|accent|rose|purpleheart|teal|jazzberry).*/,
@@ -17,6 +26,7 @@ module.exports = {
   plugins: [
     require('@tailwindcss/typography'),
     require('@tailwindcss/line-clamp'),
+    require('@tailwindcss/forms'),
   ],
   variants: {
     extend: {
