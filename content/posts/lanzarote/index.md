@@ -23,7 +23,7 @@ resources:
 
 **Cela fait deja trois mois. Le boost de vitamine D est remplacé par le soleil de Bretagne. Mais que me reste-t-il de ces beaux moments sous le soleil des Canaries? Un paquet de beaux souvenirs, des photos et une envie de revoir cette île!**
 
-{{< photo src="11-05" wide="true" alt="lanzarote" >}}
+![lanzarote](11-05)
 
 Le dépaysement est total. Des décors totalement différents aux quatres points cardinaux. Une semaine en hôtel. C'était la première fois de ma vie que je passais autant de nuits dans un hôtel, la première fois en demi pension aussi. C'est différent de ce que j'avais imaginé. Mais je ne suis pas là pour parler de ça. J'ai surtout envie de vous parler des bons moments passés sur cette île.
 

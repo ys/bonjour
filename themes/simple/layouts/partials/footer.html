@@ -1,7 +1,7 @@
 <div class="md:mt-16 container md:ml-24 md:max-w-xl">
   <footer class="md:mx-0 mx-4 py-10 text-gray-600  flex flex-col  justify-items-left items-left gap-2 text-sm">
 
-    <a href="{{ "/" | relLangURL }}" alt="home" class="w-8 {{ with .Params.Color }}text-{{ . }}-400 {{ else }}text-accent-400{{ end }}">
+    <a href="{{ "/" | relLangURL }}" alt="home" class="w-8 text-{{ $.Scratch.Get "color" }}">
       {{ if fileExists "/static/logo.svg" }}
       {{ readFile "/static/logo.svg" | safeHTML}}
       {{ else }}
@@ -16,7 +16,7 @@
       <ul class="flex flex-wrap flex-row text-right  ">
         {{ range .Site.Menus.footer }}
         <li class=" pl-1">
-          <a class="hover:text-accent-600 transition ease-in-out duration-200 " href="{{ .URL }}" title="{{ .Title }}">
+          <a class="hover:text-{{$.Scratch.Get "color"}} transition ease-in-out duration-200 " href="{{ .URL }}" title="{{ .Title }}">
             {{ .Name }}
           </a>
         </li>
@@ -27,23 +27,23 @@
       <ul class="flex flex-row text-right  flex-wrap">
         {{ with .Site.Params.social.instagram }}
         <li class="pl-1   ">
-          <a class="hover:text-accent-600 transition ease-in-out duration-200"
+          <a class="hover:text-{{$.Scratch.Get "color"}} transition ease-in-out duration-200"
             href="https://instagram.com/{{ . }}">Instagram</a>
         </li>
         {{ end }}
         {{ with .Site.Params.social.twitter }}
         <li class=" pl-1  ">
-          <a class="hover:text-accent-600 transition ease-in-out duration-200"
+          <a class="hover:text-{{$.Scratch.Get "color"}} transition ease-in-out duration-200"
             href="https://twitter.com/{{ . }}">Twitter</a>
         </li>
         {{ end }}
         {{ with .Site.Params.social.vsco }}
         <li class="pl-1   text-gray-600 ">
-          <a class="hover:text-accent-600 transition ease-in-out duration-200" href="https://vsco.com/{{ . }}">VSCO</a>
+          <a class="hover:text-{{$.Scratch.Get "color"}} transition ease-in-out duration-200" href="https://vsco.com/{{ . }}">VSCO</a>
         </li>
         {{ end }}
         <li class="pl-1   text-gray-600 ">
-          <a class="hover:text-accent-600 transition ease-in-out duration-200"
+          <a class="hover:text-{{$.Scratch.Get "color"}} transition ease-in-out duration-200"
             href="mailto:{{ $.Site.Params.social.email }}">{{$.Site.Params.social.email}}</a>
         </li>
       </ul>

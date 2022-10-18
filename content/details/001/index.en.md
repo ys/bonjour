@@ -8,7 +8,7 @@ camera: "Leica M6"
 film: "Kodak Portra 400"
 description: "A picture per week in your mailbox"
 date: 2021-03-23T12:57:50+02:00
-color: "cascade"
+color: purpleheart
 resources:
   - src: "cover.webp"
     name: "cover"

@@ -1,4 +1,4 @@
-<h3 class="my-6 text-2xl font-black font-sans">{{ T "recent" }}</h3>
+<h3 class="mt-6 text-2xl font-black font-sans underline decoration-solid decoration-accent">{{ T "recent" }}</h3>
 <div class="pt-4 pb-8">
   {{ range (first 3 (where .Site.RegularPages "Type" "posts")) }}
     {{ partial "title" . }}

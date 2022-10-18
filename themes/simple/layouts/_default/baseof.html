@@ -14,11 +14,20 @@
   {{ partialCached "shared_head.html" . }}
 </head>
 
+{{ $.Scratch.Set "color" "accent" }}
+{{ with .Params.color }}
+{{ $.Scratch.Set "color" . }}
+{{ else }}
+{{range first 1 (shuffle (slice "accent" "sunray" "purpleheart" "forest" "jazzberry" "rose" "teal" "tuscan")) }}
+{{ $.Scratch.Set "colo" . }}
+{{ end }}
+{{ end }}
+
 <body
-    class=" font-sans text-base leading-relaxed antialiased  text-darker   {{with .Params.color}}bg-{{.}}-200 selection:bg-{{.}}-300 selection:text-{{.}}-900 {{else}}selection:bg-accent-300 selection:text-accent-900 {{end}}">
+    class=" font-sans text-base leading-relaxed antialiased  text-darker   {{with .Params.background}}bg-{{.}} {{end}} selection:bg-{{$.Scratch.Get "color"}} selection:text-{{$.Scratch.Get "color"}}">
 
   {{ partial "header" . }}
-  <div class="md:container md:ml-24 md:max-w-xl w-full  grid grid-cols-1 gap-16 min-h-1/2">
+  <div class="md:container md:ml-24 md:max-w-lg w-full  grid grid-cols-1 gap-16 min-h-1/2">
     <div class="mx-4 md:mx-0 relative">
       {{ block "main" . }}
       {{ end }}

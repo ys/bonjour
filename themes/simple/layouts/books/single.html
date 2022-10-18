@@ -22,7 +22,7 @@
     {{ end }}
   </h2>
 </header>
-<div class="mb-10 content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
+<div class="mb-10 content-{{ $.Scratch.Get "color" }}">
   {{ if .Params.isbn13 }}
   <div>
     Trouvez le chez <a class="underline cursor-pointer"

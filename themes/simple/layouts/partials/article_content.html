@@ -1,4 +1,4 @@
-  <div data-pswp class="mb-10 content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
+  <div data-pswp class="mb-10 content-{{  $.Scratch.Get "color" }}">
     <div class="prose post e-content">
       {{ if (in .Site.Params.showCover .Type) }}
         {{ $allimages := slice }}
@@ -21,25 +21,27 @@
             {{ end }}
           {{ end }}
         {{ end }}
-        {{ $rows := dict }}
-        {{ $columns := dict }}
-        {{ $rowid := 0 }}
-        {{ $colid := 0 }}
-        {{ $possibilities := slice 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 }}
-        {{ $itemsonrow := 1 }}
-        {{ range $index, $img := $allimages }}
-          {{ $columns = merge $columns (dict (string (mod $index $itemsonrow)) (dict "Images" (slice $img)))}}
-          {{ $colid = add $colid 1 }}
-          {{ if eq $colid $itemsonrow }}
-            {{ $rows = merge $rows (dict (string $rowid) $columns) }}
-            {{ $itemsonrow = index (shuffle $possibilities) 0 }}
-            {{ $columns = dict }}
-            {{ $rowid = add $rowid 1 }}
-            {{ $colid = 0 }}
+        {{ if gt (len $allimages) 0 }}
+          {{ $rows := dict }}
+          {{ $columns := dict }}
+          {{ $rowid := 0 }}
+          {{ $colid := 0 }}
+          {{ $possibilities := slice 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 }}
+          {{ $itemsonrow := index (shuffle $possibilities) 0 }}
+          {{ range $index, $img := $allimages }}
+            {{ $columns = merge $columns (dict (string (mod $index $itemsonrow)) (dict "Images" (slice $img)))}}
+            {{ $colid = add $colid 1 }}
+            {{ if eq $colid $itemsonrow }}
+              {{ $rows = merge $rows (dict (string $rowid) $columns) }}
+              {{ $itemsonrow = index (shuffle $possibilities) 0 }}
+              {{ $columns = dict }}
+              {{ $rowid = add $rowid 1 }}
+              {{ $colid = 0 }}
+            {{ end }}
           {{ end }}
+          {{ $rows = merge $rows (dict (string $rowid) $columns) }}
+          {{ partial "grid" $rows }}
         {{ end }}
-        {{ $rows = merge $rows (dict (string $rowid) $columns) }}
-        {{ partial "grid" $rows }}
       {{ end }}
       {{.Content}}
     </div>

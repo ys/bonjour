@@ -1,5 +1,6 @@
 ---
-title: "Raconter des histoires"
+color: accent
+title: "Raconter Des histoires"
 description: "Des histoires simples, des photos, des livres & une bonne tasse de café."
 date: 2017-10-26T22:57:50+02:00
 draft: false

@@ -10,7 +10,7 @@ film: "Kodak Portra 400"
 slug: "001"
 description: "Une photo par semaine, dans ta boîte mail"
 date: 2021-03-23T12:57:50+02:00
-color: "cascade"
+color: purpleheart
 resources:
   - src: "cover.webp"
     name: "cover"

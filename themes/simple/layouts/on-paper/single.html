@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div class="mb-10 max-w-prose content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
+<div class="mb-10 max-w-prose content-{{  $.Scratch.Get "color" }}">
   <div  class="post prose">
     {{.Content}}
   </div>
@@ -24,7 +24,9 @@
   {{ end }}
 {{ end }}
 {{ $rows = merge $rows (dict "100000000" $columns) }}
-  <div class="w-full px-6">
+  <div class="w-full">
+    <div class="px-6">
     {{ partial "grid" $rows }}
+  </div>
   </div>
 {{ end }}

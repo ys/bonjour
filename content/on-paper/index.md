@@ -1,5 +1,5 @@
 ---
-title: "On paper"
+title: "Regarder des livres"
 description: "Des beaux livres, zines et magazines"
 date: 2021-10-06T22:57:50+02:00
 draft: false
