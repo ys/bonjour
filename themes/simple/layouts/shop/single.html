@@ -5,7 +5,7 @@
       Merci pour cet achat, #SHIPPING_NAME#!
     </div>
 </div>
-<div data-pswp class="flex flex-col mb-10 max-w-prose content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
+<div data-pswp class="flex flex-col mb-10 max-w-prose content-{{  $.Scratch.Get "color" }}">
   {{ with .Params.grid }}
     <div  class="">
       {{ $rowsslice := split . "/" }}

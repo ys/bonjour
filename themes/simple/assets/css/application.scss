@@ -29,7 +29,7 @@ html {
   @apply italic border-accent font-normal;
 }
 
-$colors: accent, sunray, forest, purpleheart, jazzberry, rose, teal;
+$colors: accent, sunray, forest, purpleheart, jazzberry, rose, teal, tuscan, coral;
 @each $color in $colors {
   .content-#{$color} ::selection {
     @apply bg-#{$color} bg-opacity-20 ;
@@ -147,9 +147,9 @@ hr {
 }
 
 table {
-  @apply w-full p-4 my-4 border border-collapse border-darker #{!important};
+  @apply w-full p-4 my-4 border border-solid border-collapse border-darker #{!important};
   th, td {
-    @apply border border-darker p-2 border-collapse #{!important};
+    @apply border-solid border border-darker p-2 border-collapse #{!important};
   }
 }
 .link, .with-links a, .content a {

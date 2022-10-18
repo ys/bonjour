@@ -1,5 +1,5 @@
 ---
-color: purpleheart
+color: teal
 seotitle: "A propos"
 title: "Parler un peu de moi"
 description: "Ce que je fais pour le moment"
@@ -56,7 +56,7 @@ J'ai un gros faible pour le bon café. V60, Kalita, Aeropress ou un bon flat whi
 
 🖨 → Mes prints viennent de chez [Ooblik](https://ooblik.com) & [Négatif+](https://negatifplus.com). Je viens de faire [mon premier zine](/shop/a-thousand-tides) avec [Ex Why Zed](https://exwhyzed.co.uk) mais il est sold out pour le moment.
 
-## Social 
+## Social
 
 Je colle mes photos et des mots un peu partout:
 

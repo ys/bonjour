@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div class="mb-10 max-w-prose content-{{ with .Params.color }}{{ . }}{{ else }}accent{{ end }}">
+<div class="mb-10 max-w-prose content-{{  $.Scratch.Get "color" }}">
   <div  class="post prose">
     {{.Content}}
   </div>

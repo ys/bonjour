@@ -1,4 +1,5 @@
 ---
+color: accent
 title: "Vendre quelques trucs"
 seotitle: "🖼 Les jolis prints de Yannick - Bonjour Yannick"
 description: "De belles photos, du beau papier et parfois un cadre."

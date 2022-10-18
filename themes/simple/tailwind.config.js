@@ -1,28 +1,20 @@
 const defaultTheme = require("tailwindcss/defaultTheme");
 const colors = require('tailwindcss/colors');
+fs = require('fs');
+
+const classes = JSON.parse(fs.readFileSync("./hugo_stats.json"))["htmlElements"]["classes"]
 
 module.exports = {
-  content:{
+  content: {
     files: [
-    './themes/simple/layouts/**/*.html',
-    './content/**/*.md',
-    './public/**/*.html',
-    './themes/simple/assets/**/*.js',
-    './hugo_stats.json'
-  ],
-  transform: {
-      json: (content) => {
-        lol = "<a class=\""+ JSON.parse(content)["htmlElements"]["classes"].join(", ") + "\"/>"
-        console.log(lol)
-        return lol
-      }
-    },
+      './themes/simple/layouts/**/*.html',
+      './content/**/*.md',
+      './public/**/*.html',
+      './themes/simple/assets/**/*.js',
+      './hugo_stats.json'
+    ],
   },
-  safelist: [
-   {
-      pattern: /.*(forest|sunray|accent|rose|purpleheart|teal|jazzberry).*/,
-    },
-  ],
+  safeList: classes,
   plugins: [
     require('@tailwindcss/typography'),
     require('@tailwindcss/line-clamp'),
@@ -69,6 +61,8 @@ module.exports = {
         ]
       },
       colors: {
+        coral: "#FF7477",
+        tuscan: "#7F534B",
         sunray: '#EDB458',
         accent: '#EDB458',
         forest: "#1b775d",

@@ -23,7 +23,7 @@
              src="{{ $large.RelPermalink }}" width="{{ $large.Width }}" height="{{ $large.Height }}">
         </picture>
       {{ else }}
-        <div class="flex items-center justify-center aspect-w-3 aspect-h-2 rounded-sm shadow-lg {{ with .Params.Color }}bg-{{ . }}-300 {{ else }}bg-accent-300{{ end }}"><div class="text-6xl w-8 h-8 block m-auto opacity-60">{{.Params.emoji}}</div></div>
+        <div class="flex items-center justify-center aspect-[3/2] rounded-sm shadow-lg {{ with .Params.Color }}bg-{{ . }} {{ else }}bg-accent{{ end }}"><div class="text-6xl w-8 h-8 block m-auto opacity-60">{{.Params.emoji}}</div></div>
       {{ end }}
     <header class="mt-2 ml-2 ">
       <h2 class="text-normal font-bold text-darker  {{ with .Params.Color }}hover:text-{{ . }}-600 {{ else }}hover:text-accent-600{{ end }} transition ease-in-out duration-200">
