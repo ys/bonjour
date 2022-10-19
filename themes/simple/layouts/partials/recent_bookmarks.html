@@ -1,23 +1,17 @@
-<h3 class="mt-6 text-2xl font-black font-sans underline decoration-solid decoration-accent">{{ T "recent-links" }}</h3>
+<h3 class="mt-6 text-2xl font-semibold font-serif underline decoration-solid decoration-{{$.Scratch.Get "color"}}">{{ T "recent-links" }}</h3>
 <div class="pt-4 pb-8">
   {{ range (first 3 (where .Site.RegularPages "Type" "bookmarks")) }}
-<article class="py-4 group">
+<article class=" cursor-pointer py-4 group">
     <header >
-      <h2 class="line-clamp-1 font-black font-sans text-darker {{ with .Params.Color }}group-hover:text-{{ . }}-600 {{ else }}group-hover:text-accent-600{{ end }} transition ease-in-out duration-200">
-  <a href="{{ with .Params.bookmarkOf }}{{ . }}{{ else }}{{ .RelPermalink }}{{end}}">
+      <h2 class="line-clamp-1 font-serif underline decoration text-darker {{ with .Params.Color }}decoration-{{.}} group-hover:text-{{ . }}-600 {{ else }}group-hover:text-{{$.Scratch.Get "color"}} decoration-{{$.Scratch.Get "color"}} {{ end }} transition ease-in-out duration-200">
+  <a class="flex items-center gap-1" href="{{ with .Params.bookmarkOf }}{{ . }}{{ else }}{{ .RelPermalink }}{{end}}">
       {{ with .Params.emoji }}
         {{ . }}
       {{ else }}
         {{ partial "emoji" . }}
       {{ end }}
           {{ .Title  |markdownify}}
-  </a>
-      </h2>
-      <h4 class="text-xs font-sans {{ with .Params.Color }}group-hover:text-{{ . }}-600 {{ else }}group-hover:text-accent-600{{ end }} transition ease-in-out duration-200">
-      {{ with .Params.bookmarkOf }}
-        <a class="flex items-center" href="{{ . }}">
-          {{ (urls.Parse .).Host }}
-          <svg style="display: inline-block; width: 1em; height: 1em;" viewbox="0
+          <svg class="" style="display: inline-block; width: 1em; height: 1em;" viewbox="0
 0 48 48">
 <path d="M36 24c-1.2 0-2 0.8-2 2v12c0 1.2-0.8 2-2 2h-22c-1.2
 0-2-0.8-2-2v-22c0-1.2 0.8-2 2-2h12c1.2 0 2-0.8 2-2s-0.8-2-2-2h-12c-3.4
@@ -27,6 +21,12 @@
 0-2 0.8-2 2s0.8 2 2 2h7.2l-18.6 18.6c-0.8 0.8-0.8 2 0 2.8 0.4 0.4 0.8
 0.6 1.4 0.6s1-0.2 1.4-0.6l18.6-18.6v7.2c0 1.2 0.8 2 2 2s2-0.8
 2-2v-12c"></path></svg>
+  </a>
+      </h2>
+      <h4 class="italic text-xs font-sans {{ with .Params.Color }}group-hover:text-{{ . }} {{ else }}group-hover:text-{{$.Scratch.Get "color"}}{{ end }} transition ease-in-out duration-200">
+      {{ with .Params.bookmarkOf }}
+        <a class="flex items-center" href="{{ . }}">
+          {{ (urls.Parse .).Host }}
         </a>
       {{ end }}
       </h4>

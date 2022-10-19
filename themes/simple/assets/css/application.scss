@@ -40,6 +40,9 @@ $colors: accent, sunray, forest, purpleheart, jazzberry, rose, teal, tuscan, cor
   .content-#{$color} .note {
     @apply my-4 md:-mx-6 -ml-4 px-4 md:pr-6 py-1 md:pl-6 border-l-4 border-#{$color} bg-gray-100 ;
   }
+  .content-#{$color} h2{
+    @apply decoration-solid  decoration-#{$color} ;
+  }
   .content-#{$color} .link{
     @apply decoration-solid  decoration-#{$color} font-semibold;
   }
@@ -107,16 +110,17 @@ hr {
 .post {
   @apply mb-10;
   h1, h2, h3, h4 {
+    @apply font-serif;
 
   }
   code {
     @apply w-full break-words my-6;
   }
   h1 {
-    @apply font-bold text-xl mt-8 text-darker font-normal py-1;
+    @apply  text-xl mt-8 text-darker font-normal py-1;
   }
   h2 {
-    @apply text-2xl mt-8  text-darker py-1 font-semibold;
+    @apply text-2xl mt-8  text-darker py-1 ;
 
     a {
       @apply text-darker;
