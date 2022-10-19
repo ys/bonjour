@@ -22,6 +22,14 @@
 {{ $.Scratch.Set "color" . }}
 {{ end }}
 {{ end }}
+{{- $images := $.Resources.ByType "image" -}}
+{{- $featured := $images.GetMatch "*feature*" -}}
+{{- $featured := cond (ne $featured nil) $featured ($images.GetMatch "{*cover*,*thumbnail*}") -}}
+{{- with $featured -}}
+{{range first 1 (.Colors) }}
+{{ $.Scratch.Set "color" (printf "[%s]" .) }}
+{{ end }}
+{{ end }}
 
 <body
     class=" font-sans text-base leading-relaxed antialiased  text-darker   {{with .Params.background}}bg-{{.}} {{end}} selection:bg-{{$.Scratch.Get "color"}} selection:text-{{$.Scratch.Get "color"}}">
