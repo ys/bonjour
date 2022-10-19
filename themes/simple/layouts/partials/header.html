@@ -1,5 +1,5 @@
 {{ block "header" . }}
-<header class="group py-8 {{ with .Params.hideHeader }}hidden{{end}} md:max-w-xl md:ml-4  md:pt-24 mb-8 mx-4 md:container flex flex-col md:flex-row gap-4  ease-in-out duration-500 ">
+<header class="group py-8 md:max-w-xl {{ if .Params.hideHeader }}md:ml-24{{else}} md:ml-4 {{end}} md:pt-24 mb-8 mx-4 md:container flex flex-col md:flex-row gap-4  ease-in-out duration-500 ">
   <span class="block logo text-center text-6xl w-16 text-{{$.Scratch.Get "color"}}">
     <a href="{{ "/" | relLangURL }}" alt="home">
       {{ if fileExists "/static/logo.svg" }}
@@ -9,7 +9,7 @@
       {{ end }}
     </a>
   </span>
-  <div class="flex flex-col font-sans  h-full tracking-tighter text-sm ease-in-out duration-500">
+  <div class="{{ with .Params.hideHeader }}hidden{{end}} flex flex-col font-sans  h-full tracking-tighter text-sm ease-in-out duration-500">
     <h1 class="text-4xl font-sans font-black hover:italic transition ease-in-out duration-500 text-{{$.Scratch.Get "color"}}">
     <a href="{{ "/" | relLangURL }}" alt="home">{{ .Title | default .Site.Title }}</a></h1>
     {{ $current := . }}

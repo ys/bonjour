@@ -24,10 +24,10 @@
 {{ end }}
 
 <body
-    class=" font-sans text-base leading-relaxed antialiased  text-darker   {{with .Params.background}}bg-{{.}} {{end}} selection:bg-{{$.Scratch.Get "color"}} selection:text-{{$.Scratch.Get "color"}}">
+    class=" font-sans text-base leading-relaxed antialiased  text-darker {{with .Params.background}}bg-{{.}} {{end}} selection:bg-{{$.Scratch.Get "color"}} selection:text-{{$.Scratch.Get "color"}}">
 
   {{ partial "header" . }}
-  <div class="md:container md:ml-24 md:max-w-lg w-full  grid grid-cols-1 gap-16 min-h-1/2">
+  <div class="md:container md:ml-24 md:max-w-xl w-full  grid grid-cols-1 gap-16 min-h-1/2">
     <div class="mx-4 md:mx-0 relative">
       {{ block "main" . }}
       {{ end }}

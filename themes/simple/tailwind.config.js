@@ -63,13 +63,13 @@ module.exports = {
       colors: {
         fire: "#DD614A",
         coral: "#FF7477",
-        tuscan: "#7F534B",
-        sunray: '#EDB458',
-        accent: '#EDB458',
-        forest: "#73A580",
+        tuscan: "#972D07",
+        sunray: '#F0A202',
+        accent: '#F0A202',
+        forest: "#4C9F70",
         purpleheart: "#0d2fef",
         jazzberry: "#b0014a",
-        rose: "#a55c7e",
+        rose: "#FF206E",
         teal: "teal",
         dark: "#2d2f34",
         darker: "#1F2023"

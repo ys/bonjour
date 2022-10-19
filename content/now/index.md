@@ -19,7 +19,7 @@ linktitle: un rien sur moi
 Moi, c'est Yannick. J'aime assez notre planète. J'aime beaucoup **raconter des histoires et capturer des instants.**
 Je suis un minimaliste atteint de collectionite aïgue en plein repentir. J'essaye de **vivre lentement**, au rythme des saisons dans ce magnifique bout du monde que j'appelle maison.
 
-![Yannick](cover)
+![](cover)
 
 On est en train de monter un super projet de gîte avec Cloé. Tu devrais suivre [@douarenn](https://instagram.com/douarenn) ou aller voir [douarenn.fr](https://douarenn.fr). Un gîte plein de déconnexion au coeur des monts d'Arrée.
 
