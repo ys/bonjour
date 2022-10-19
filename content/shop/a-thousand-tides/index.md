@@ -1,4 +1,5 @@
 ---
+color: teal
 title: "A thousand tides - zine"
 soldout: true
 grid: "es6 / es2 | es3 | es4"

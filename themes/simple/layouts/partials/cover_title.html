@@ -26,12 +26,12 @@
         <div class="flex items-center justify-center aspect-[3/2] rounded-sm shadow-lg {{ with .Params.Color }}bg-{{ . }} {{ else }}bg-accent{{ end }}"><div class="text-6xl w-8 h-8 block m-auto opacity-60">{{.Params.emoji}}</div></div>
       {{ end }}
     <header class="mt-2 ml-2 ">
-      <h2 class="text-normal font-bold text-darker  {{ with .Params.Color }}hover:text-{{ . }}-600 {{ else }}hover:text-accent-600{{ end }} transition ease-in-out duration-200">
+      <h2 class="text-xl font-black text-darker  underline {{ with .Params.color }}decoration-solid decoration-{{.}} hover:text-{{ . }} {{ else }} decoration-solid decoration-accent hover:text-accent{{ end }} transition ease-in-out duration-200">
         <a class="p-name u-url" href="{{ .RelPermalink }}">
           {{ .Params.emoji }} {{ .Title }}
         </a>
       </h2>
-      <h3 class="p-summary line-clamp-3 text-xs font-sans text-gray-700 ">
+      <h3 class="p-summary line-clamp-3 text-md font-sans text-gray-700 ">
         {{ with .Params.subtitle }}
         {{ . }}
         {{ else }}
