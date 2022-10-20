@@ -15,7 +15,7 @@ resources:
 menu:
   footer:
     weight: 5
-linktitle: "💌 Bonjour -  La newsletter"
+linktitle: "💌 Une newsletter"
 ---
 
 

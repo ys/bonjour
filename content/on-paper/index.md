@@ -9,10 +9,6 @@ resources:
   - src: "cover.webp"
     name: "cover"
 emoji: 📚
-menu:
-  footer:
-    weight: 3
-linktitle: "Des livres"
 ---
 
 Un projet de partage d'amour papier.  
