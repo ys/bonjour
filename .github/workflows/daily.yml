@@ -14,10 +14,13 @@ jobs:
     steps:
       - name: Check out repo
         uses: actions/checkout@v2
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.0' # Not needed with a .ruby-version file
       - name: Fetch daily album
         run: |
           rm -rf content/daily/*.jpg
-          curl "https://lightroom.adobe.com/v2/spaces/${{ secrets.LIGHTROOM_SPACE_ID }}/albums/${{ secrets.LIGHTROOM_ALBUM_ID }}/assets?embed=asset%3Buser&order_after=-&exclude=incomplete&subtype=image%3Bvideo%3Blayout_segment&limit=1000" | sed 's/while (1) {}//' | jq -r '.resources[] | "wget -O content/daily/" + .asset.payload.importSource.fileName + " https://photos.adobe.io/v2/spaces/${{ secrets.LIGHTROOM_SPACE_ID}}/" + .asset.links."/rels/rendition_type/1280".href' | xargs -I{} sh -c "{} "
+          ruby bin/download-lr.rb ${{ secrets.LIGHTROOM_SPACE_ID }} ${{ secrets.LIGHTROOM_ALBUM_ID }}
       - name: Commit files
         id: commit
         run: |
