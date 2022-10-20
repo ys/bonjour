@@ -29,6 +29,7 @@
     "@tailwindcss/forms": "^0.5.3",
     "@tailwindcss/line-clamp": "^0.4.2",
     "@tailwindcss/typography": "^0.5.7",
+    "@vercel/og": "^0.0.19",
     "autoprefixer": "^10.4.12",
     "gulp": "^4.0.2",
     "gulp-babel": "^8.0.0",
