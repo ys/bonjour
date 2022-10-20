@@ -49,7 +49,4 @@
       {{ partial "article_signature" . }}
       {{ partial "article_footer" . }}
     {{ end }}
-    {{ if (in .Site.Params.showExif .Type) }}
-      {{ partial "article_camera" . }}
-    {{ end }}
 </div>

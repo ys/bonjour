@@ -1,8 +1,9 @@
+{{ $.Scratch.Set "color" .Params.color }}
 <div class="w-full bg-{{.Params.background}} bg-opacity-50">
 <div class="md:container md:ml-24 md:max-w-lg w-full  grid grid-cols-1 gap-16 min-h-1/2">
 <article class="h-entry mx-4 md:mx-0 relative">
   <header class=" relative mb-8 text-left ">
-    <h2 class="text-3xl font-bold text-darker   {{ with .Params.Color }}hover:text-{{ . }}-600 {{ else }}hover:text-accent-600{{ end }} transition ease-in-out duration-200">
+    <h2 class="text-3xl font-bold text-darker   {{ with .Params.color }}hover:text-{{ . }}-600 {{ else }}hover:text-accent-600{{ end }} transition ease-in-out duration-200">
       <a alt="section link" class="p-name u-url u-uuid" href="{{ .Parent.RelPermalink | default ("/" | relLangURL )}}">
       {{ .Title }}
       </a>
@@ -14,14 +15,19 @@
     </h3>
   </header>
   {{ partial "article_content" . }}
-  {{ partial "article_camera" . }}
   <span class="text-xs mb-32  text-right font-sans  text-gray-700 capitalize block">
-    {{ with .Params.emoji }}
-      {{ . }}
+    {{ if .Params.camera }}
+      <a href="{{ .RelPermalink }}">
+        📷 {{ .Params.camera }} {{ with .Params.film }}{{ $.Site.Params.arrow }} {{ . }} {{ end }}
+      </a>
     {{ else }}
-      {{ partial "emoji" . }}
+      {{ with .Params.emoji }}
+        {{ . }}
+      {{ else }}
+        {{ partial "emoji" . }}
+      {{ end }}
+      {{ partial "category-link" . }}
     {{ end }}
-    {{ partial "category-link" . }}
     {{ .Site.Params.arrow }}
     <a href="{{ .RelPermalink }}">
       <time class="dt-published" datetime="{{ .Date.Format "2006-01-02t15:04:05z0700" }}">

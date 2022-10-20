@@ -101,7 +101,7 @@ canonifyURLs = false
   letters = "/:slug"
   photos = "/:slug"
   categories = "/c/:slug"
-  journal = "/journal/:filename"
+  journal = "/:filename"
 
 [imaging]
   resampleFilter = "lanczos"
