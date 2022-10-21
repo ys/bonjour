@@ -1,11 +1,10 @@
 import { ImageResponse } from '@vercel/og';
-import { NextRequest } from 'next/server';
 
 export const config = {
   runtime: 'experimental-edge',
 };
 
-export default async function handler(req: NextRequest) {
+export default async (req) => {
   const { searchParams } = req.nextUrl;
   const username = searchParams.get('username');
   if (!username) {
