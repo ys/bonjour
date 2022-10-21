@@ -11,7 +11,7 @@
     "gulp": "gulp",
     "build-images": "gulp img:build",
     "debug": "rm -rf public/* resources/_gen && hugo --templateMetrics --templateMetricsHints",
-    "dev": "hugo serve --disableFastRender -p $PORT",
+    "dv": "hugo serve --disableFastRender -p $PORT",
     "start": "hugo serve --disableFastRender --appendPort=false -b $(curl http://127.0.0.1:4040/api/tunnels | jq '.tunnels[0].public_url' -r)",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -34,6 +34,7 @@
     "gulp": "^4.0.2",
     "gulp-babel": "^8.0.0",
     "gulp-imagemin": "^5.0.3",
+    "hugo-cli": "^0.12.2",
     "imagemin-jpeg-recompress": "^6.0.0",
     "imagemin-mozjpeg": "^8.0.0",
     "js-yaml": "^3.14.1",
