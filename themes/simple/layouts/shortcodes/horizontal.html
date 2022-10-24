@@ -1,0 +1,41 @@
+{{ $names := split (.Get "images") "," }}
+{{ $desc := .Get "alt" }}
+{{ $images := slice }}
+{{ range $names }}
+    {{ $name := trim . " " }}
+    {{ $src := $.Page.Resources.GetMatch (printf "*%s*" $name) }}
+    {{ if $src }}
+      {{ $images = $images | append (dict "Image" $src "Description" $desc) }}
+    {{ end }}
+{{ end }}
+<div class="my-8  overflow-x-auto max-h-[32rem] max-w-none mx-0 w-screen aspect-[16/9] md:-ml-24">
+<div class=" flex flex-row flex-nowrap gap-4 overflow-x-scroll max-w-none md:mx-8 h-full snap-x">
+  {{ range $images }}
+
+  {{ $format := "webp" }}
+  {{ if eq .Image.MediaType.SubType "gif" }}
+    {{ $format = "gif" }}
+  {{ end }}
+
+  {{ $lqipr := printf "20x %s" $format }}
+  {{ $smallr :=  printf "800x %s" $format }}
+  {{ if gt .Image.Height .Image.Width }}
+    {{ $lqipr = printf "x20 %s" $format }}
+    {{ $smallr = printf "x800 %s" $format }}
+  {{ end }}
+  {{ $lqip := .Image.Resize $lqipr }}
+  {{ $small := .Image.Resize $smallr}}
+  {{ if eq .Image.MediaType.SubType "gif" }}
+    {{ $small = .Image }}
+  {{ end }}
+  {{ $colors := $small.Colors }}
+  {{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
+  {{/* set the sizes attribute to (min-width: 35em) 1200px, 100vw unless overridden in shortcode */}}
+
+    <img loading="lazy"
+         class="cursor-pointer snap-center h-full m-0 lazyload  bg-gradient-to-r from-[{{index $colors 0 }}] to-[{{index $colors 1}}]" data-action="zoom"
+      data-zoom-src="{{ .Image.RelPermalink}}" data-src="{{.Image.RelPermalink}}" src="{{ $small.RelPermalink }}" width="{{ .Image.Width }}"
+      height="{{ .Image.Height }}">
+{{ end }}
+</div>
+</div>
