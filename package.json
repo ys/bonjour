@@ -40,6 +40,8 @@
     "npx": "^10.2.2",
     "postcss": "^8.4.18",
     "postcss-cli": "^8.3.1",
+    "react": "^18.2.0",
+    "satori": "^0.0.43",
     "stripe": "^8.145.0",
     "tailwindcss": "^3.1.8"
   }
