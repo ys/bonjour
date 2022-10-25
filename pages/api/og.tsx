@@ -1,15 +1,15 @@
 import { ImageResponse } from '@vercel/og';
-import React from "react";
+import { NextRequest } from 'next/server';
 
 export const config = {
   runtime: 'experimental-edge',
 };
 
-export default async (req) => {
+export default async function handler(req: NextRequest) {
   const { searchParams } = req.nextUrl;
   const username = searchParams.get('username');
   if (!username) {
-    return new ImageResponse("<>Visit with &quot;?username=vercel&quot;</>", {
+    return new ImageResponse(<>Visit with &quot;?username=vercel&quot;</>, {
       width: 1200,
       height: 630,
     });
