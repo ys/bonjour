@@ -18,10 +18,10 @@
   {{ end }}
 
   {{ $lqipr := printf "20x %s" $format }}
-  {{ $smallr :=  printf "800x %s" $format }}
+  {{ $smallr :=  printf "200x %s" $format }}
   {{ if gt .Image.Height .Image.Width }}
     {{ $lqipr = printf "x20 %s" $format }}
-    {{ $smallr = printf "x800 %s" $format }}
+    {{ $smallr = printf "x200 %s" $format }}
   {{ end }}
   {{ $lqip := .Image.Resize $lqipr }}
   {{ $small := .Image.Resize $smallr}}
@@ -34,7 +34,7 @@
 
     <img loading="lazy"
          class="cursor-pointer snap-center snap-always h-full m-0 lazyload  bg-gradient-to-r from-[{{index $colors 0 }}] to-[{{index $colors 1}}]" data-action="zoom"
-      data-zoom-src="{{ .Image.RelPermalink}}" data-src="{{.Image.RelPermalink}}" src="{{ $small.RelPermalink }}" width="{{ .Image.Width }}"
+      data-zoom-src="{{ .Image.RelPermalink}}" src="{{ $small.RelPermalink }}" width="{{ .Image.Width }}"
       height="{{ .Image.Height }}">
 {{ end }}
 </div>
