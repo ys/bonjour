@@ -9,7 +9,7 @@
     {{ end }}
 {{ end }}
 <div class="my-8  overflow-x-auto max-h-[32rem] max-w-none mx-0 w-screen aspect-[16/9] md:-ml-24">
-<div class=" flex flex-row flex-nowrap gap-4 overflow-x-scroll max-w-none md:mx-8 h-full snap-x">
+<div class=" flex flex-row flex-nowrap gap-4 overflow-x-scroll max-w-none md:mx-8 h-full snap-x snap-mandatory">
   {{ range $images }}
 
   {{ $format := "webp" }}
@@ -33,7 +33,7 @@
   {{/* set the sizes attribute to (min-width: 35em) 1200px, 100vw unless overridden in shortcode */}}
 
     <img loading="lazy"
-         class="cursor-pointer snap-center h-full m-0 lazyload  bg-gradient-to-r from-[{{index $colors 0 }}] to-[{{index $colors 1}}]" data-action="zoom"
+         class="cursor-pointer snap-center snap-always h-full m-0 lazyload  bg-gradient-to-r from-[{{index $colors 0 }}] to-[{{index $colors 1}}]" data-action="zoom"
       data-zoom-src="{{ .Image.RelPermalink}}" data-src="{{.Image.RelPermalink}}" src="{{ $small.RelPermalink }}" width="{{ .Image.Width }}"
       height="{{ .Image.Height }}">
 {{ end }}
