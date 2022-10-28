@@ -16,7 +16,7 @@
      {{ $lqip = $src.Resize (printf "%s" $xs) }}
      {{ $small = $src }}
    {{ end }}
-  <picture style="{{ .ExtraClasses }} padding-bottom: {{(div (mul 100.0 $src.Height ) $src.Width) -}}%" class="relative box-border block">
+   <picture class="{{ .ExtraClasses }} aspect-[{{.Image.Width}}/{{.Image.Height}}] relative box-border block">
     <img
       loading="lazy"
       style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover"
@@ -25,6 +25,7 @@
       data-action="zoom"
       data-zoom-src="{{ $src.RelPermalink}}"
       src="{{ $small.RelPermalink }}"
+      data-src="{{ $small.RelPermalink }}"
       width="{{ $src.Width }}" height="{{ $src.Height }}"/>
     </picture>
 
