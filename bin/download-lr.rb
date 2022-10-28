@@ -15,7 +15,7 @@ class Downloader
     assets = JSON.parse(resp)["resources"]
     assets #.sort_by { |a| DateTime.parse(a["payload"]["captureDate"]) }
       .each_with_index do |a,i|
-        `wget -O content/everyday/#{i.to_s.rjust(3, "0")}.jpg https://photos.adobe.io/v2/spaces/#{@space_id}/#{a["asset"]["links"]["/rels/rendition_type/1280"]["href"]}`
+        `wget -O content/daily/#{i.to_s.rjust(3, "0")}.jpg https://photos.adobe.io/v2/spaces/#{@space_id}/#{a["asset"]["links"]["/rels/rendition_type/1280"]["href"]}`
       end
   end
 
