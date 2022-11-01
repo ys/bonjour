@@ -1,0 +1,42 @@
+{{ define "main" }}
+
+<div class="z-20 prose mb-16 with-links relative">
+  {{ .Content }}
+</div>
+{{ end }}
+
+{{ define "full" }}
+{{ $paginator := (.Paginate (where .RegularPages ".Params.archived" "!=" true) 250) }}
+{{ $allimages := slice }}
+{{ range $index, $page := $paginator.Pages }}
+  {{ $images := .Resources.ByType "image" }}
+  {{ $src := $images.GetMatch "*cover*" }}
+  {{ $src := $images.GetMatch "*feature*" }}
+  {{ $src := cond (ne $src nil) $src ($images.GetMatch "{*cover*,*thumbnail*}") }}
+  {{ $src := cond (ne $src nil) $src (index $images 0) }}
+
+  {{ if $src }}
+    {{ $allimages = $allimages | append (dict "Image" $src "Link" $page.RelPermalink "Description" $page.Title) }}
+  {{ end }}
+{{ end }}
+{{ $rows := dict }}
+{{ $columns := dict }}
+{{ $rowid := 0 }}
+{{ $colid := 0 }}
+{{ range $index, $img := $allimages }}
+  {{ $columns = merge $columns (dict (string (mod $index 3)) (dict "Images" (slice $img)))}}
+  {{ $colid = add $colid 1 }}
+  {{ if eq $colid 3 }}
+    {{ $rows = merge $rows (dict (string $rowid) $columns) }}
+    {{ $columns = dict }}
+    {{ $rowid = add $rowid 1 }}
+    {{ $colid = 0 }}
+  {{ end }}
+{{ end }}
+{{ $rows = merge $rows (dict (string $rowid) $columns) }}
+  <div class="w-full">
+    <div class="px-6">
+    {{ partial "grid" $rows }}
+    </div>
+  </div>
+  {{ end }}
