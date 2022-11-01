@@ -8,7 +8,9 @@
 {{ define "full" }}
 {{ $allimages := slice }}
 {{ range sort (.Resources.ByType "image") "Name" "desc"}}
-  {{ $allimages = $allimages | append (dict "Image" .  ) }}
+  {{ if ne .Name "cover" }}
+    {{ $allimages = $allimages | append (dict "Image" .  ) }}
+  {{ end }}
 {{ end }}
 {{ $rows := dict }}
 {{ $columns := dict }}
