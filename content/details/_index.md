@@ -5,8 +5,10 @@ hideSubscribe: true
 type: "grid"
 ---
 
-Une série hors du temps de moments pris et captés.
-Des moments de vies simples. Parfois, il y a toute une histoire, mais dans toutes les histoires, les petits détails en font les grands moments.
-Je me permet de poster ici des petites séries, des instants et autres que je partage avec vous plus lentement. Car c'est là tout le but, partager des moments avec vous.
+“Détail”, c’est mon humble essai à un retour à une certaine lenteur. C’est un moment dans votre boîte mail. Cette lettre contiendra uniquement une photo, c’est tout.
+
+Un web plus lent, plus pull que push. Le plaisir de moins faire, le bonheur retrouver de petits moments du quotidien. Voilà à quoi j'aspire. Un moment loin des likes et des commentaires des divers réseaux sociaux. Un retour aux choses simples et sans prises de tête. Pas de flux infini, pas de pubs, pas d'interférences. Un e-mail, une photo, un point c'est tout.
+
+J'espère que cela vous inspirera.
 
 {{< letter account="detail" accent="forest" msg="👀" >}}
