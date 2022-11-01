@@ -12,7 +12,7 @@
     <div class="flex font-bold">
       {{ .Site.Params.footer }} - {{ now.Year }}
     </div>
-    <div class="">
+    <div class="font-serif">
       <ul class="flex flex-wrap flex-row text-right  ">
         {{ range .Site.Menus.footer }}
         <li class=" pl-1">
@@ -23,7 +23,7 @@
         {{ end }}
       </ul>
     </div>
-    <div class="">
+    <div class="font-serif">
       <ul class="flex flex-row text-right  flex-wrap">
         {{ with .Site.Params.social.instagram }}
         <li class="pl-1   ">
