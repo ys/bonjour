@@ -29,10 +29,12 @@
       data-src="{{ $small.RelPermalink }}"
       width="{{ $src.Width }}" height="{{ $src.Height }}"/>
     </picture>
-    <div class=" p-4 absolute top-0 left-0 h-full w-full bg-white bg-opacity-70 group-hover:block font-black group-hover:flex text-center place-items-center hidden group-hover:block">
-      <span class="line-clamp-1">
-        {{.Description}}
-      </span>
-    </div>
+    {{ with .Description }}
+      <div class=" p-4 absolute top-0 left-0 h-full w-full bg-white bg-opacity-70 group-hover:block font-black group-hover:flex text-center place-items-center hidden group-hover:block">
+        <span class="line-clamp-1">
+          {{ . }}
+        </span>
+      </div>
+    {{ end }}
    </div>
 {{ end }}
