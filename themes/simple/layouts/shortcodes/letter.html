@@ -5,7 +5,7 @@
       target="popupwindow"
       onsubmit="window.open('https://buttondown.email/{{ .Get "account" }}', 'popupwindow')"
       class="embeddable-buttondown-form">
-      <label class="bd-email mt-6 text-2xl font-black font-sans underline decoration-solid {{ with .Get "accent"}}decoration-{{.}}{{else}}decoration-accent{{end}}">
+      <label class="bd-email my-6 text-2xl font-black font-sans decoration-solid {{ with .Get "accent"}}decoration-{{.}}{{else}}decoration-accent{{end}}">
         {{ .Get "msg" }}
       </label>
       <div
@@ -15,7 +15,7 @@
           type="email" name="email" id="bd-email" placeholder="your@email.com"/>
         <input type="hidden" value="1" name="embed" />
         <input
-            class="shadow-md hover:shadow-lg rounded-sm {{ with .Get "accent"}}border-{{.}} text-{{.}} hover:text-white border-solid hover:bg-{{.}} {{else}} hover:bg-accent{{ end}} bg-white  transition duration ease-in-out font-bold py-2 appearance-none px-4 outline-none focus:shadow-outline cursor-pointer"
+            class="shadow-md hover:shadow-lg rounded-sm {{ with .Get "accent"}}border-{{.}} border-solid bg-{{.}} {{else}} bg-accent{{ end}}  text-white hover:shadow-xl transition duration ease-in-out font-bold py-2 appearance-none px-4 outline-none focus:shadow-outline cursor-pointer"
           type="submit" value="{{ T "subscribe" }}" />
       </div>
     </form>

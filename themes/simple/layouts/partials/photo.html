@@ -16,17 +16,25 @@
      {{ $lqip = $src.Resize (printf "%s" $xs) }}
      {{ $small = $src }}
    {{ end }}
-   <picture class="{{ .ExtraClasses }} aspect-[{{.Image.Width}}/{{.Image.Height}}] relative box-border block">
+   <div class="relative group " >
+   <picture class=" {{ .ExtraClasses }} aspect-[{{.Image.Width}}/{{.Image.Height}}] relative box-border block hover:drop-shadow-md ">
     <img
       loading="lazy"
       style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover"
       alt="{{ .Description }}"
-      class="cursor-pointer object-cover lazy absolute top-0 left-0 w-full h-full"
+      class="  cursor-pointer object-cover lazy absolute top-0 left-0 w-full h-full"
       data-action="zoom"
       data-zoom-src="{{ $src.RelPermalink}}"
       src="{{ $small.RelPermalink }}"
       data-src="{{ $small.RelPermalink }}"
       width="{{ $src.Width }}" height="{{ $src.Height }}"/>
     </picture>
-
+    {{ with .Description }}
+      <div class=" p-4 absolute top-0 left-0 h-full w-full bg-white bg-opacity-70 group-hover:block font-serif group-hover:flex text-center place-items-center hidden group-hover:block">
+        <span class="ml-4 line-clamp-1 text-{{$.Scratch.Get "color"}}">
+          {{ . }}
+        </span>
+      </div>
+    {{ end }}
+   </div>
 {{ end }}
