@@ -30,8 +30,8 @@
       width="{{ $src.Width }}" height="{{ $src.Height }}"/>
     </picture>
     {{ with .Description }}
-      <div class=" p-4 absolute top-0 left-0 h-full w-full bg-white bg-opacity-70 group-hover:block font-black group-hover:flex text-center place-items-center hidden group-hover:block">
-        <span class="line-clamp-1">
+      <div class=" p-4 absolute top-0 left-0 h-full w-full bg-white bg-opacity-70 group-hover:block font-serif group-hover:flex text-center place-items-center hidden group-hover:block">
+        <span class="ml-4 line-clamp-1 text-{{$.Scratch.Get "color"}}">
           {{ . }}
         </span>
       </div>
