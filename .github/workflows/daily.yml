@@ -22,7 +22,7 @@ jobs:
           rm -rf content/daily/*.webp
           rm -rf content/daily/*.jpg
           ruby bin/download-lr.rb ${{ secrets.LIGHTROOM_SPACE_ID }} ${{ secrets.LIGHTROOM_ALBUM_ID }}
-          for file in $(find /content/daily \( -iname "*.jpg" -or -iname "*.jpeg" -or -iname "*.png" -or -iname "*.tif" -or -iname "*.bmp" \)) ; do
+          for file in $(find content/daily \( -iname "*.jpg" -or -iname "*.jpeg" -or -iname "*.png" -or -iname "*.tif" -or -iname "*.bmp" \)) ; do
             convert ${file} -format webp ${file%.*}.webp;
           done
           rm -rf content/daily/*.jpg
