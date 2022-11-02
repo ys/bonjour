@@ -3,6 +3,10 @@ color: forest
 title: Détail
 hideSubscribe: true
 type: "grid"
+menu:
+  footer:
+    weight: 5
+linktitle: "😃 Détail"
 ---
 
 “Détail”, c’est mon humble essai à un retour à une certaine lenteur. C’est un moment dans votre boîte mail. Cette lettre contiendra uniquement une photo, c’est tout.
