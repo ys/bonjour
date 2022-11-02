@@ -24,6 +24,6 @@
   {{ end }}
   {{ $rows = merge $rows (dict (string $rowIndex) $columns) }}
 {{ end }}
-<div class="my-8 -mx-2 md:-mx-16">
+<div class="my-8 -mx-2 {{ if .Get "wide" }}md:-ml-20 w-[calc(100vw-2rem)]  max-w-none {{ else }} md:-mx-16 {{ end }}">
   {{ partial "grid" $rows }}
 </div>

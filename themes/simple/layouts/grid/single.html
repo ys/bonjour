@@ -31,7 +31,7 @@
 {{ end }}
 {{ $rows = merge $rows (dict (string $rowid) $columns) }}
   <div data-pswp class="w-full">
-    <div class="px-6 -mx-4">
+    <div class="px-6 -mx-2">
     {{ partial "grid" $rows }}
     </div>
   </div>
