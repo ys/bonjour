@@ -1,13 +1,7 @@
 {{ define "main" }}
-<div class="flex align-center flex-col">
-  <h2 class="block text-semibold text-sm text-center m-6">Page not found</h2>
-  <p class="text-lg text-center block text-accent-700">
-  {{ .Site.Params.text_404 }}
-  </p>
-  <div class="md:-mr-32 mb-10 grid gap-8 grid-cols-1 md:grid-cols-2">
+<div class="flex flex-col">
     {{ range first 4 (where .Site.RegularPages ".Params.favorite" true) }}
-      {{ partial "cover_title" . }}
+      {{ partial "title" . }}
     {{ end }}
-  </div>
 </div>
 {{ end }}

@@ -7,9 +7,7 @@
 {{ $paginator := (.Paginate (where .RegularPages ".Params.archived" "!=" true) 250) }}
 <div class="h-feed {{if $.Params.grid}}md:-m{{end}} mb-10 {{ with .Params.grid }}grid gap-8 grid-cols-1 md:grid-cols-2 {{end}}">
   {{ range $index, $page := $paginator.Pages }}
-    {{ if or $.Params.grid $page.Params.coverImage }}
-      {{ partial "cover_title" $page }}
-    {{ else if $.Params.inline }}
+    {{ if $.Params.inline }}
       {{ partial "inline" $page }}
     {{ else  }}
       {{ partial "title" $page }}
