@@ -1,0 +1,29 @@
+on:
+  push:
+    paths:
+      - .github/workflows/rebuild.yml # Only run a new workflow every time this file (flat.yaml) file changes
+  workflow_dispatch: # Required even though this is currently empty
+  schedule:
+    - cron: "0 0 * * *" # Run this workflow every 5 minutes
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v2
+      - name: Trigger build
+        id: commit
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "github-actions"
+          git commit --allow-empty -m "I am just a commit to trigger a build" || echo "nothing to do and it is fine"
+          git pull origin ${{ github.ref }}
+          echo "::set-output name=push::true"
+        shell: bash
+      - name: Push changes
+        if: steps.commit.outputs.push == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
