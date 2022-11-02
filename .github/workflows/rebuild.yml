@@ -4,7 +4,7 @@ on:
       - .github/workflows/rebuild.yml # Only run a new workflow every time this file (flat.yaml) file changes
   workflow_dispatch: # Required even though this is currently empty
   schedule:
-    - cron: "0 0 * * *" # Run this workflow every 5 minutes
+    - cron: "0 6 * * *" # Daily at 6am
 
 jobs:
   daily:
