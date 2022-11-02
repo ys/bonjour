@@ -3,7 +3,7 @@
 
 {{ if $src }}
 
-<figure class="{{ if .Parent }}{{ else }} my-6 {{end}} {{ if .Get "wide" }}md:-mr-64 {{end}}">
+<figure class="{{ if .Parent }}{{ else }} my-6 {{end}} md:-mx-16 {{ if .Get "wide" }}md:-mr-64 {{end}}">
   {{/* set image sizes, these are hardcoded for now, x dictates that images are resized to this width */}}
   {{ $format := "webp" }}
   {{ if eq $src.MediaType.SubType "gif" }}
