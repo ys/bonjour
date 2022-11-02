@@ -35,7 +35,7 @@
 {{ end }}
 {{ $rows = merge $rows (dict (string $rowid) $columns) }}
   <div class="w-full">
-    <div class="px-6">
+    <div class="-mx-4 px-6">
       {{ partial "grid" $rows }}
     </div>
   </div>
