@@ -43,6 +43,10 @@
                     <a href="{{ .Link }}">
                       {{ partial "photo" . }}
                     </a>
+                  {{ else if isset . "Page" }}
+                    <a href="{{ .Page.RelPermalink }}">
+                      {{ partial "photo" . }}
+                    </a>
                   {{ else }}
                     {{ partial "photo" . }}
                   {{ end }}

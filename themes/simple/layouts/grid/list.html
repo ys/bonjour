@@ -16,7 +16,7 @@
   {{ $src := cond (ne $src nil) $src (index $images 0) }}
 
   {{ if $src }}
-    {{ $allimages = $allimages | append (dict "Image" $src "Link" $page.RelPermalink "Description" $page.Title) }}
+    {{ $allimages = $allimages | append (dict "Image" $src "Page" $page) }}
   {{ end }}
 {{ end }}
 {{ $rows := dict }}
