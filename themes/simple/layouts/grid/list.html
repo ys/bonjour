@@ -10,7 +10,7 @@
 {{ $allimages := slice }}
 {{ range $index, $page := $paginator.Pages }}
   {{ $images := .Resources.ByType "image" }}
-  {{ $src := $images.GetMatch "*cover*" }}
+  {{ $src := $images.GetMatch "cover" }}
   {{ $src := $images.GetMatch "*feature*" }}
   {{ $src := cond (ne $src nil) $src ($images.GetMatch "{*cover*,*thumbnail*}") }}
   {{ $src := cond (ne $src nil) $src (index $images 0) }}

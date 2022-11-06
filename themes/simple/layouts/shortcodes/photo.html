@@ -3,7 +3,7 @@
 
 {{ if $src }}
 
-<figure class="{{ if .Parent }}{{ else }} my-6 {{end}} md:-mx-16 {{ if .Get "wide" }}md:-mr-64 {{end}}">
+  <figure class="{{ if .Parent }}{{ else }} my-6  md:-mx-16 {{end}} {{ if .Get "wide" }}md:-mr-64 {{end}}">
   {{/* set image sizes, these are hardcoded for now, x dictates that images are resized to this width */}}
   {{ $format := "webp" }}
   {{ if eq $src.MediaType.SubType "gif" }}
@@ -27,7 +27,7 @@
   {{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
   {{/* set the sizes attribute to (min-width: 35em) 1200px, 100vw unless overridden in shortcode */}}
 
-  <picture class="block relative {{ if .Get " no-shadow" }} {{ else}}shadow-lg{{end}} {{ if gt $src.Height $src.Width }} mx-auto w-2/3{{ end }} img" {{ if .Get "no-lqip" }} {{ else }}style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover" {{ end }}>
+  <picture class="block relative {{ if .Get " no-shadow" }} {{ else}}shadow-lg{{end}} {{ if (and (gt $src.Height $src.Width) (not .Parent)) }} mx-auto w-2/3{{ end }} img" {{ if .Get "no-lqip" }} {{ else }}style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover" {{ end }}>
     <img loading="lazy" alt="{{ with .Get " alt" }}{{ . }}{{ else }}{{ .Get "src" }}{{ end }}"
       class="cursor-pointer m-0 h-auto w-full lazyload" {{ if not (.Get "no-zoom" ) }} data-action="zoom" {{ end }}
       data-zoom-src="{{ $src.RelPermalink}}" src="{{ $small.RelPermalink }}" width="{{ $src.Width }}"
