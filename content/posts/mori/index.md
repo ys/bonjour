@@ -46,4 +46,5 @@ Et sinon, allez sur [https://morifilmlab.com](https://morifilmlab.com), voyez pa
 
 {{< grid wide="true" images="22x04-0114-34.webp | 22x06-0211-05.webp / 22x11-0215-32.webp | 22x17-0402-13.webp / 22x19-0414-10.webp |22x23-0421-17.webp / 22x23-0421-21.webp | 22x28-0501-33.webp / 22x32-0505-28.webp | 22x36-0609-09.webp / 22x38-0712-16.webp | 22x42-0813-16.webp" >}}
 
+*Si tu as lu jusque ici et que tu passes commande chez Mori, envoie moi un screenshot par mail et on s'arrange pour que je t'envoie un petit cadeau!*
 
