@@ -1,7 +1,7 @@
 {{ define "main" }}
 <article class="h-entry">
   {{ partial "article_content" . }}
-  {{ if eq .Type "journal" }}
+  {{ if in .Type $.Site.Params.showExif }}
   <span class="text-xs mb-32  text-right font-sans  text-gray-700 capitalize block">
     {{ if .Params.camera }}
       <a href="{{ .RelPermalink }}">

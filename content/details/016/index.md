@@ -12,7 +12,7 @@ resources:
   - src: "cover.webp"
     name: "cover"
 ---
-
+![](cover)
 📍 | 📷
 ---|---
 Lanzarote | Nikonos V - Lomography Berlin

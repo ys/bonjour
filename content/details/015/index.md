@@ -12,7 +12,7 @@ resources:
   - src: "cover.webp"
     name: "cover"
 ---
-
+![](cover)
 📍 | 📷
 ---|---
 Paris | Leica M6 - Kodak Tri-x

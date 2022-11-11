@@ -15,3 +15,4 @@ resources:
   - src: "cover.webp"
     name: "cover"
 ---
+![](cover)
