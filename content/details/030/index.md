@@ -13,3 +13,6 @@ resources:
     name: "cover"
 ---
 
+📍 | 📷
+---|---
+Finistère, France | Lubitel 166+ - Kodak Portra 400
