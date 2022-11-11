@@ -11,7 +11,7 @@ resources:
   - src: "full.webp"
     name: "cover"
 ---
-
+![](cover)
 C'est quand la dernière fois que vous avez pris le temps de vraiment regarder?
 D'observer un détail, juste une petite pièce d'un plus grand puzzle. Vous arrêter dessus et vous y plonger.
 
