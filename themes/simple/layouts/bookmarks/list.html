@@ -1,0 +1,228 @@
+{{ define "main" }}
+<form id="search" class="search max-w-2xl  py-2 border-b-2 px-8 border-{{ $.Scratch.Get "color" }} flex items-center gap-4 " role="search">
+  <span>🔎</span>
+  <input type="search" id="search-input" placeholder="Search..." class="border-0 focus:ring-0 caret-{{ $.Scratch.Get "color" }} focus:outline-none text italic h-8 w-full bg-transparent search-input">
+</form>
+{{ end }}
+{{ define "full" }}
+<div class="links hidden mx-4 py-8 {{ with .Params.grid }}  grid grid-cols-1 lg:grid-cols-2 lg:grid-cols-3 gap-2{{ end}}">
+</div>
+<div class="all-links mx-4 py-8 {{ with .Params.grid }}  grid grid-cols-1 lg:grid-cols-2 lg:grid-cols-3 gap-2{{ end}}">
+  {{ $headless := .Site.GetPage "/bookmarks/images" }}
+  {{ $paginator := (.Paginate (where .RegularPages ".Params.archived" "!=" true) 250) }}
+  {{ range $index, $page := $paginator.Pages }}
+    {{ if or $.Params.grid $page.Params.coverImage }}
+      {{ $color := "accent" }}
+      {{range first 1 (shuffle (slice "accent" "sunray" "purpleheart" "forest" "jazzberry" "rose" "teal" "tuscan")) }}
+        {{ $color = . }}
+      {{ end }}
+      {{$smol := slice }}
+      {{- $url := urls.Parse .Params.bookmarkOf -}}
+      {{ $src := $headless.Resources.GetMatch (printf "*%s*" (.Params.uuid)) }}
+      {{ if $src }}
+        {{ $format := "webp" }}
+        {{ if eq $src.MediaType.SubType "gif" }}
+          {{ $format := "gif" }}
+        {{ end }}
+        {{ $smol = $src.Fill (printf "600x400 %s" $format) }}
+        {{ range first 1 $smol.Colors }}
+          {{ $color = printf "[%s]" . }}
+        {{ end }}
+      {{ end }}
+      <article class="relative group  hover:bg-{{$color}} !bg-opacity-20 p-2 rounded-md">
+        <a href="{{ .Params.bookmarkOf }}"
+              class="text-darker dark:text-gray-100 hover:bg-{{$color}} bg-opacity-20 ">
+        {{ if $src }}
+          <img class="w-full rounded-sm shadow-lg " src="{{ $smol.RelPermalink }}"/>
+        {{ else }}
+          <div class="w-full rounded-sm justify-center items-center flex shadow-lg aspect-[3/2] bg-accent-200">
+            <div class="text-xl font-bold text-accent text-center block w-64 m-auto h-16"> {{$page.Title}} </div>
+          </div>
+        {{ end }}
+        <header class="font-sans bottom-4 left-0 w-full z-100 my-2 line-clamp-1 p-2">
+          <h2 class="text-gray-800 font-sans line-clamp-1 no-underline font-semibold text-xs uppercase">{{ $page.Title }}</h2>
+          <h3 class="no-underline font-normal text-xs text-gray-400 group-hover:text-gray-700">{{ $url.Host }}</h3>
+        </header>
+        </a>
+      </article>
+    {{ else if $.Params.inline }}
+      {{ partial "inline" $page }}
+    {{ else  }}
+      {{ partial "title" $page }}
+    {{ end }}
+  {{ end }}
+  <div class="">
+    {{ partial "pagination.html" . }}
+  </div>
+</div>
+<template id="search-result" hidden>
+    {{ if .Params.grid  }}
+  <article class="relative p-2 hover:bg-sunray rounded-md">
+    <a href=""
+          class="text-darker dark:text-gray-100 hover:bg-sunray summary-title-link">
+
+      <img class="w-full rounded-sm shadow-lg bg-sunray post-image" src=""/>
+    <header class="font-sans bottom-4 left-0 w-full z-100 my-2 line-clamp-1 text-gray-800 p-2">
+      <h2 class=" font-sans line-clamp-1 no-underline font-semibold text-xs uppercase post-title"></h2>
+      <h3 class="no-underline font-normal text-xs text-gray-400 post-host"></h3>
+    </header>
+    </a>
+  </article>
+    {{ else  }}
+  <article class="py-4">
+    <div class="font-sans tracking-tight text-xs uppercase emoji">
+      {{ partial "emoji" . }}
+    </div>
+    <header class="">
+      <h2 class="text-xl font-bold text-darker transition ease-in-out duration-200 post-title">
+        <a class="summary-title-link">
+        </a>
+      </h2>
+      <h3 class="line-clamp-3 text-normal font-sans text-gray-500 post-host ">
+      </h3>
+    </header>
+  </article>
+  {{ end }}
+</template>
+    <script>
+      window.addEventListener("DOMContentLoaded", function(event)
+{
+  var index = null;
+  var lookup = null;
+  var queuedTerm = null;
+
+  var form = document.getElementById("search");
+  var input = document.getElementById("search-input");
+
+  var timeout = null;
+  input.addEventListener("keyup", function(event)
+  {
+    clearTimeout(timeout)
+    timeout = setTimeout(function() {
+      event.preventDefault();
+
+      var term = input.value.trim();
+      if (!term)
+      {
+        var searched = document.querySelector(".links");
+        var all = document.querySelector(".all-links");
+        searched.classList.add("hidden");
+        all.classList.remove("hidden");
+        return;
+      }
+
+      startSearch(term);
+    }, 400)
+  });
+
+
+  function startSearch(term)
+  {
+    // Start icon animation.
+    form.setAttribute("data-running", "true");
+
+    if (index)
+    {
+      // Index already present, search directly.
+      search(term);
+    }
+    else if (queuedTerm)
+    {
+      // Index is being loaded, replace the term we want to search for.
+      queuedTerm = term;
+    }
+    else
+    {
+      // Start loading index, perform the search when done.
+      queuedTerm = term;
+      initIndex();
+    }
+  }
+
+  function searchDone()
+  {
+    // Stop icon animation.
+    form.removeAttribute("data-running");
+
+    var searched = document.querySelector(".links");
+    var all = document.querySelector(".all-links");
+    searched.classList.remove("hidden");
+    all.classList.add("hidden");
+
+    queuedTerm = null;
+  }
+
+  function initIndex()
+  {
+    var request = new XMLHttpRequest();
+    request.open("GET", "/bookmarks/search.json");
+    request.responseType = "json";
+    request.addEventListener("load", function(event)
+    {
+      lookup = {};
+      index = lunr(function()
+      {
+        // Uncomment the following line and replace de by the right language
+        // code to use a lunr language pack.
+
+        // this.use(lunr.de);
+
+        this.ref("uuid");
+
+        // If you added more searchable fields to the search index, list them here.
+        this.field("title");
+        this.field("readermode");
+        this.field("content");
+        this.field("description");
+        this.field("tags");
+
+        for (var doc of request.response)
+        {
+          this.add(doc);
+          lookup[doc.uuid] = doc;
+        }
+      });
+
+      // Search index is ready, perform the search now
+      search(queuedTerm);
+    }, false);
+    request.addEventListener("error", searchDone, false);
+    request.send(null);
+  }
+
+  function search(term)
+  {
+    var results = index.search(term);
+
+    // The element where search results should be displayed, adjust as needed.
+    var target = document.querySelector(".links");
+
+    while (target.firstChild)
+      target.removeChild(target.firstChild);
+
+    var template = document.getElementById("search-result");
+    for (var result of results)
+    {
+      var doc = lookup[result.ref];
+
+      // Fill out search result template, adjust as needed.
+      var element = template.content.cloneNode(true);
+      element.querySelector(".summary-title-link").href = doc.permalink;
+      element.querySelector(".post-title").textContent = doc.title;
+      element.querySelector(".post-host").textContent = new URL(doc.bookmarkOf).hostname;
+      emoji = element.querySelector(".emoji")
+      if (emoji) {
+        emoji.textContent = doc.emoji;
+      }
+      img = element.querySelector(".post-image")
+      if (img) {
+        img.src = doc.img;
+      }
+      target.appendChild(element);
+    }
+
+    searchDone();
+  }
+}, false);
+    </script>
+{{ end }}

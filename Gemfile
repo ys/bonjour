@@ -1,0 +1,12 @@
+source "https://rubygems.org"
+ruby "3.1.2"
+
+gem "activesupport"
+gem "ruby-oembed"
+gem "diffy"
+gem "gastly"
+gem "nokogiri"
+gem "rest-client"
+gem "pp"
+gem "dry-cli"
+gem "phantomjs"

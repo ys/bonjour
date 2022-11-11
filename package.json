@@ -1,0 +1,48 @@
+{
+  "name": "yannickschutz.com",
+  "version": "2.0.0",
+  "description": "https://yannickschutz.com",
+  "files": [
+    "gulp"
+  ],
+  "scripts": {
+    "build": "hugo --minify -b https://${BASE_URL:-bonjour-git-$VERCEL_GIT_COMMIT_REF-ys1.vercel.app}",
+    "build-preview": "hugo --minify -F -D -b https://${BASE_URL:-bonjour-git-$VERCEL_GIT_COMMIT_REF-ys1.vercel.app}",
+    "gulp": "gulp",
+    "build-images": "gulp img:build",
+    "debug": "rm -rf public/* resources/_gen && hugo --templateMetrics --templateMetricsHints",
+    "dev": "hugo serve --disableFastRender -p $PORT",
+    "start": "hugo serve --disableFastRender --appendPort=false -b $(curl http://127.0.0.1:4040/api/tunnels | jq '.tunnels[0].public_url' -r)",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yannick Schutz",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.9",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/register": "^7.17.7",
+    "@downwindcss/text-decoration": "^1.1.1",
+    "@fullhuman/postcss-purgecss": "^4.0.0",
+    "@postlight/mercury-parser": "^2.2.1",
+    "@tailwindcss/aspect-ratio": "^0.4.2",
+    "@tailwindcss/forms": "^0.5.3",
+    "@tailwindcss/line-clamp": "^0.4.2",
+    "@tailwindcss/typography": "^0.5.7",
+    "autoprefixer": "^10.4.12",
+    "babel-plugin-syntax-object-rest-spread": "^6.13.0",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-imagemin": "^5.0.3",
+    "imagemin-jpeg-recompress": "^6.0.0",
+    "imagemin-mozjpeg": "^8.0.0",
+    "js-yaml": "^3.14.1",
+    "npx": "^10.2.2",
+    "postcss": "^8.4.18",
+    "postcss-cli": "^8.3.1",
+    "stripe": "^8.145.0",
+    "tailwindcss": "^3.1.8"
+  }
+}

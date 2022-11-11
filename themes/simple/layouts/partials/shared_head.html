@@ -1,0 +1,28 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="apple-mobile-web-app-title" content="Bonjour Yannick">
+<meta name="application-name" content="Bonjour Yannick">
+<meta name="msapplication-TileColor" content="#008987">
+<meta name="theme-color" content="#ffffff">
+
+
+{{ $styles := resources.Get "css/application.scss" | resources.ExecuteAsTemplate "main.css" . | toCSS}}
+{{ $styles = $styles | resources.PostCSS }}
+{{ if  hugo.IsProduction  }}
+    {{ $styles = $styles | minify | fingerprint | resources.PostProcess }}
+    {{ else if .Site.IsServer }}
+    {{ $styles = $styles | resources.ExecuteAsTemplate (printf "tailwind.dev.%v.css" now.UnixMilli) .}}
+{{ end }}
+<link href="{{ $styles.RelPermalink }}" rel="stylesheet" />
+
+<link rel="micropub" href="{{ .Site.Params.indiekit.url }}/micropub" />
+<link rel="authorization_endpoint" href="https://indieauth.com/auth">
+<link rel="token_endpoint" href="{{ .Site.Params.indiekit.url }}/token">
+<link href="https://twitter.com/{{ .Site.Params.social.twitter }}" rel="me">
+<link href="https://github.com/{{ .Site.Params.social.github }}" rel="me">
+<link href="https://instagram.com/{{ .Site.Params.social.instagram }}" rel="me">

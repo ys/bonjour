@@ -1,0 +1,13 @@
+---
+tags: personal, web, blog
+source:
+bookmarkOf: https://serveur410.com/les-passages-secrets-du-web/
+title: Les passages secrets du web
+date: '2021-02-09T20:56:00+02:00'
+headImage: https://serveur410.com/wp-content/uploads/2020/11/balade-sur-le-web-cover.png
+uuid: 6cd6ebca-8199-452d-a565-197bcb7f71c4
+description: Les navigateurs web étaient faits pour… naviguer. Aujourd'hui on ne navigue
+  plus sur internet, il n'y a plus d'exploration. On reste entre des murailles bien
+  définis. Celles de quelques gros&hellip;
+---
+

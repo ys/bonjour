@@ -1,0 +1,50 @@
+{{ $title := printf "%d %s %d - %s" .Date.Day (index .Site.Data.mois (printf "%d" .Date.Month)) .Date.Year $.Site.Title }}
+{{ $tags := slice }}
+{{ if isset .Params "tags" }}
+{{ if reflect.IsSlice .Params.tags }}
+{{ $tags = delimit .Params.tags ", " }}
+{{ else }}
+{{ $tags = .Params.tags }}
+{{ end }}
+{{ end }}
+{{ if .Params.seotitle }}
+  {{ $title = .Params.seotitle }}
+{{ else if .Title }}
+  {{ $title = printf "%s - %s" .Title $.Site.Title }}
+{{ end }}
+<title>{{ $title }}</title>
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
+<meta name="keywords" content="{{ $tags }}">
+<link rel="canonical" href="{{ .Permalink }}" />
+<meta name="p:domain_verify" content="{{ .Site.Params.pinterestVerify }}" />
+<script type="application/ld+json">
+  {
+      "@context" : "http://schema.org",
+      "@type" : "BlogPosting",
+      "mainEntityOfPage": {
+           "@type": "WebPage",
+           "@id": {{ .Site.BaseURL }}
+      },
+      "articleSection" : {{ .Section }},
+      "name" : {{ $title | safeHTML }},
+      "headline" : {{ $title | safeHTML}},
+      "description" : {{ with (.Description | default (replaceRE "\n" " " (.Summary | truncate 170))) }}{{ . | safeHTML }}{{ else}}""{{ end }},
+      "inLanguage" : "{{.Lang}}",
+      "availableLanguage": {
+        "@type": "Language",
+        "name": ["French","English"]
+      },
+      {{- $images := $.Resources.ByType "image" -}}{{- $featured := $images.GetMatch "*feature*" -}}{{- $featured := cond (ne $featured nil) $featured ($images.GetMatch "{*cover*,*thumbnail*}") -}}{{- with $featured -}}"image" : {{ $featured.Permalink }},{{ else -}}{{- with $.Site.Params.images -}}"image" : {{ index . 0 | absURL }},{{ end }}{{ end }}
+      "author" : {{ range .Site.Author }}{{ . }}{{ end }},
+      "creator" : {{ range .Site.Author }}{{ . }}{{ end }},
+      "publisher": {{ range .Site.Author }}{{ . }}{{ end }},
+      "accountablePerson" : {{ range .Site.Author }}{{ . }}{{ end }},
+      "copyrightHolder" : {{ range .Site.Author }}{{ . }}{{ end }},
+      "copyrightYear" : {{ .Date.Format "2006" }},
+      "datePublished": {{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }},
+      "dateModified" : {{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" | safeHTML }},
+      "url" : {{ .Permalink }},
+      "wordCount" : {{ .WordCount }},
+      "keywords" : [{{ $tags }}]
+  }
+</script>

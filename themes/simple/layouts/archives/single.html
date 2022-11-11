@@ -1,0 +1,18 @@
+{{ define "main" }}
+{{ partial "article_header" . }}
+<div class="mb-10 content-{{  $.Scratch.Get "color" }}">
+  <div  class="post">
+    {{.Content}}
+  </div>
+  <div class="wide-width">
+{{ $page := .Site.GetPage (.Get 0) }}
+{{ partial "title" $page }}
+    {{ range .Site.Sections }}
+    {{ .}}
+    {{ range .RegularPages }}
+      {{ partial "title" . }}
+{{ end }}
+{{ end }}
+  </div>
+</div>
+{{ end }}

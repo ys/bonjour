@@ -1,0 +1,120 @@
+---
+- name: Kissa by Kissa
+  url: https://shop.specialprojects.jp/products/kissa-by-kissa-3rd-ed
+  author: Craig Mod
+  type: book
+  img: "kissa"
+- name: Lost & found
+  url: https://www.andylawrencephotography.com/product-page/lost-found-zine-int-postage
+  author: Andrew Lawrence
+  type: zine
+  img: "lostfound"
+- name: Yawn Patrol
+  url: https://yawn-patrol.com/products/yawn-book
+  author: Hoshi Ludwig
+  type: book
+  img: yawn
+- name: No Place Like Home
+  url: https://shop.fredrikclement.com/products/no-place-like-home
+  author: Fredrik Clement
+  type: book
+  img: noplacelikehome
+- name: Backwash 4
+  url: https://backwashstudios.com/products/backwash-volume-4
+  type: magazine
+  img: "backwash4"
+  hidden: true
+- name: Jack Whitefield Ltd Edition Japan Zine
+  url: https://backwashstudios.com/products/japan-jack-whitefield-ltd-edition-zine
+  type: zine
+  img: "whitefield"
+- name: Notice
+  url: https://newstyle.co/products/notice
+  author: Wesley Verhoeve
+  type: book
+  img: notice
+- name: Looking Sideways vol. 1
+  url: https://wearelookingsideways.com/product/looking-sideways-vol-1
+  author: Matt Barr
+  type: book
+  img: sideways
+- name: Hooroo
+  url: https://www.thegoldenrays.com/products/hooroo-by-john-p-brodie
+  author: John P Brodie
+  type: book
+  img: hooroo
+- name: Aloha To Zen
+  url: https://alohatozen.com/collections/books/products/aloha-to-zen-book
+  author: Fern Levack & Damion Fuller
+  type: book
+  img: aloha
+- name: Authentic Wave
+  author: Tatsuo Takei
+  url: http://www.tatsuotakei.com/authentic-wave/
+  type: book
+  img: authenticwave
+- name: Refueled One series eight Ryan Tatar
+  url: http://www.ryantatar.com/book
+  author: Ryan Tatar
+  type: book
+  img: "tatar"
+- name: On Surfing
+  url: https://indoek.com/product/on-surfing-book/
+  author: Michael Adno + Matt Titone
+  type: book
+  img: "onsurfing"
+- name: Nippon 2010-2020
+  url: https://www.shashasha.co/en/book/nippon-2010-2020
+  author: Shuhei Motoyoma
+  type: book
+  img: nippon
+- name: L'hiver sans fin
+  url: https://www.yannfevrier.com/shop/
+  author: Yann Février
+  type: book
+  img: fevrier
+- name: Impressions
+  author: Thomas Lodin
+  url: http://thomaslodin.com/shop/impressions-book-limited
+  type: book
+  img: impressions
+- name: Ice Cream Headaches
+  url: http://www.icecreamheadaches.nyc/store/thebook
+  author: Ed Thompson
+  type: book
+  img: nyc
+- name: Friend of mine
+  author: Matt Day
+  url: https://www.mattdayphoto.com/friendofmine/friend-of-mine
+  type: book
+  img: mattday
+- name: Tangentially Parenthetical
+  author: Ed Templeton
+  url: https://ed-templeton.com/books/tangentially-parenthetical/
+  type: book
+  img: tangentially
+- name: In The Gold Dust Rush
+  author: Jason Lee
+  url: https://www.jasonleefilm.com/shop/in-the-gold-dust-rush-signed
+  type: book
+  img: inthegolddustrush
+- name: She surf
+  url: https://gestalten.com/products/she-surf
+  author: Lauren L Hill
+  type: book
+  img: shesurf
+- name: "West is the Best 3 Mexico"
+  url: http://www.briand-berthereau.com/en/west/west-is-the-best-3-mexico/
+  author: West is the best
+  type: magazine
+  img: mexico
+- name: In waves
+  author: Aj Dungo
+  url: https://www.galeriebarbier.com/product/aj-dungo-in-waves/
+  type: comicbook
+  img: inwaves
+- name: Displacement Myth Approach
+  author: Fantastic Acid
+  url: https://www.fantasticacid.com/product/displacement-myth-approach
+  type: book
+  img: fantasticacid

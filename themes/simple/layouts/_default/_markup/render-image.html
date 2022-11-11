@@ -1,0 +1,56 @@
+{{/* get file that matches the filename as specified as src="" in shortcode */}}
+{{ $src := .Page.Resources.GetMatch (printf "*%s*" .Destination) }}
+{{ if not $src }}
+  {{ $src := resources.Get .Destination }}
+{{ end }}
+
+{{ if not $src }}
+  {{ $url := .Destination }}
+  {{ if hasPrefix $url "//" }}
+    {{ $url = printf "https:%s" $url }}
+  {{ end }}
+  {{ with resources.GetRemote $url }}
+    {{ with .Err }}
+      {{ warnf "%s" . }}
+    {{ else }}
+      {{ $src = . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ if $src }}
+
+<figure class=" my-6 lg:-mx-16">
+  {{/* set image sizes, these are hardcoded for now, x dictates that images are resized to this width */}}
+  {{ $format := "webp" }}
+  {{ if eq $src.MediaType.SubType "gif" }}
+    {{ $format = "gif" }}
+  {{ end }}
+
+  {{ $lqipr := printf "20x %s" $format }}
+  {{ $smallr :=  printf "800x %s" $format }}
+  {{ if gt $src.Height $src.Width }}
+    {{ $lqipr = printf "x20 %s" $format }}
+    {{ $smallr = printf "x800 %s" $format }}
+  {{ end }}
+  {{ $lqip := $src.Resize $lqipr }}
+  {{ $small := $src.Resize $smallr}}
+  {{ if eq $src.MediaType.SubType "gif" }}
+    {{ $small = $src }}
+  {{ end }}
+  {{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
+  {{/* set the sizes attribute to (min-width: 35em) 1200px, 100vw unless overridden in shortcode */}}
+
+  <picture class="block relative shadow-lg {{ if gt $src.Height $src.Width }} mx-auto w-2/3{{ end }} img" style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover">
+    <img loading="lazy" alt="{{ with .Text }}{{ . }}{{ else }}{{ .Destination }}{{ end }}"
+      class="cursor-pointer m-0 h-auto w-full lazyload" data-action="zoom"
+      data-zoom-src="{{ $src.RelPermalink}}" src="{{ $small.RelPermalink }}" width="{{ $src.Width }}"
+      height="{{ $src.Height }}">
+  </picture>
+  {{ with .Title }}
+  <figcaption class="text-center -mt-18 text-sm  text-gray-500 ">
+    {{ . }}
+  </figcaption>
+  {{ end }}
+</figure>
+{{ end }}

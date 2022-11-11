@@ -1,0 +1,28 @@
+{{ define "main" }}
+<article class="h-entry">
+  {{ partial "article_content" . }}
+  {{ if eq .Type "journal" }}
+  <span class="text-xs mb-32  text-right font-sans  text-gray-700 capitalize block">
+    {{ if .Params.camera }}
+      <a href="{{ .RelPermalink }}">
+        📷 {{ .Params.camera }} {{ with .Params.film }}{{ $.Site.Params.arrow }} {{ . }} {{ end }}
+      </a>
+    {{ else }}
+      {{ with .Params.emoji }}
+        {{ . }}
+      {{ else }}
+        {{ partial "emoji" . }}
+      {{ end }}
+      {{ partial "category-link" . }}
+    {{ end }}
+    {{ .Site.Params.arrow }}
+    <a href="{{ .RelPermalink }}">
+      <time class="dt-published" datetime="{{ .Date.Format "2006-01-02t15:04:05z0700" }}">
+        {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+      </time>
+    </a>
+  </span>
+  {{ end }}
+{{ partial "article_navigation" . }}
+</article>
+{{ end }}

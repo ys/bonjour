@@ -1,0 +1,14 @@
+{{ $src := .Page.Resources.GetMatch (printf "*%s*" (.Get "src")) }}
+<div class="grid grid-cols-2">
+  {{ if (.Get "before") }}
+  <div>
+     {{ .Inner }}
+  </div>
+  {{ end }}
+  {{ partial "photo" (dict "Image" $src) }}
+  {{ if (.Get "after") }}
+  <div>
+     {{ .Inner }}
+  </div>
+  {{ end }}
+</div>

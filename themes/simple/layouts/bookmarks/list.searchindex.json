@@ -1,0 +1,25 @@
+{{- $headless := .Site.GetPage "/bookmarks/images" -}}
+[
+  {{- range $index, $page := .RegularPages -}}
+    {{- if gt $index 0 -}} , {{- end -}}
+    {{- $entry := dict "uuid" $page.Params.uuid "title" $page.Title -}}
+    {{- $src := $headless.Resources.GetMatch (printf "*%s*" ($page.Params.uuid)) -}}
+    {{- with $src -}}
+      {{ $format := "webp" }}
+      {{ if eq $src.MediaType.SubType "gif" }}
+        {{ $format := "gif" }}
+      {{ end }}
+    {{ $smol := .Fill (printf "600x400 %s" $format) }}
+    {{- $entry = merge $entry (dict "img" $smol.RelPermalink) -}}
+    {{- end -}}
+    {{- $entry = merge $entry (dict "content" ($page.Plain | htmlUnescape)) -}}
+    {{- $entry = merge $entry (dict "description" $page.Description) -}}
+    {{- $entry = merge $entry (dict "emoji" (partial "emoji" .)) -}}
+
+    {{- $entry = merge $entry (dict "tags" $page.Params.tags) -}}
+    {{- $entry = merge $entry (dict "bookmarkOf" $page.Params.bookmarkOf) -}}
+    {{- $entry = merge $entry (dict "permalink" $page.RelPermalink) -}}
+
+    {{- $entry | jsonify -}}
+  {{- end -}}
+]
