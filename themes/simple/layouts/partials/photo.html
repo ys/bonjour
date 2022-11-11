@@ -1,0 +1,62 @@
+{{/* get file that matches the filename as specified as src="" in shortcode */}}
+{{ $src := .Image }}
+
+{{ if $src }}
+  {{ $xs := "20x" }}
+  {{ $md := "800x" }}
+  {{ if .Ratio }}
+    {{ $width := index (split .Ratio "/") 0 }}
+    {{ $height :=index (split .Ratio "/") 1 }}
+    {{ $xs := printf "%s0x%s0" $width $height }}
+    {{ $md := printf "%s00x%s00" (mul $width 2) (mul $height 2) }}
+  {{ end }}
+  {{ $lqip := $src.Resize (printf "%s webp" $xs) }}
+  {{ $small := $src.Resize (printf "%s webp" $md) }}
+  {{ if eq $src.MediaType.SubType "gif" }}
+     {{ $lqip = $src.Resize (printf "%s" $xs) }}
+     {{ $small = $src }}
+   {{ end }}
+   <div class="relative group " >
+     <picture class=" {{ .ExtraClasses }} {{if .Page }}group-hover:opacity-40 {{ end }} aspect-[{{.Image.Width}}/{{.Image.Height}}] relative box-border block hover:drop-shadow-md ">
+    <img
+      loading="lazy"
+      style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover"
+      alt="{{ .Description }}"
+      class="  cursor-pointer object-cover lazy absolute top-0 left-0 w-full h-full"
+      data-action="zoom"
+      data-zoom-src="{{ $src.RelPermalink}}"
+      src="{{ $small.RelPermalink }}"
+      data-src="{{ $small.RelPermalink }}"
+      width="{{ $src.Width }}" height="{{ $src.Height }}"/>
+    </picture>
+    {{ with .Page }}
+      <div class=" pl-4 pb-8 lg:pb-0 lg:absolute top-0 left-0 h-full w-full bg-white bg-opacity-60 group-hover:block  group-hover:flex flex-col mdenter justify-center  lace-items-center lg:hidden group-hover:block">
+    <header >
+      <h2 class="  font-semibold text-darker  transition ease-in-out duration-200">
+          {{ .Title  |markdownify}}
+      </h2>
+      <h3 class="line-clamp-1 text-sm text-darker italic transition ease-in-out duration-400 ">
+        {{ with .Params.subtitle }}
+        {{ . }}
+        {{ else }}
+          {{ with .Params.description }}
+            {{ . | truncate 100 }}
+          {{ else}}
+            {{ .Summary |markdownify | truncate 100 }}
+          {{ end }}
+        {{ end }}
+      </h3>
+      <h4 class="text-xs font-sans {{ with .Params.Color }}group-hover:text-{{ . }}-600 {{ else }}group-hover:text-accent-600{{ end }} transition ease-in-out duration-200">
+      </h4>
+    </header>
+      </div>
+    {{ end }}
+    {{ with .Description }}
+      <div class=" p-4 absolute top-0 left-0 h-full w-full bg-white bg-opacity-70 group-hover:block  group-hover:flex text-center place-items-center hidden group-hover:block">
+        <span class="ml-4 line-clamp-1 text-{{$.Scratch.Get "color"}}">
+          {{ . }}
+        </span>
+      </div>
+    {{ end }}
+   </div>
+{{ end }}

@@ -1,0 +1,7 @@
+{{ with .Params.categories }}
+{{ range first 1 . }}
+{{ with $.Site.GetPage "categories" . }}
+<a href="{{ .RelPermalink }}">{{ .Name }}</a>
+{{end}}
+{{ end }}
+{{ end }}

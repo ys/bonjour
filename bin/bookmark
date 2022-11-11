@@ -1,0 +1,306 @@
+#!/usr/bin/env ruby
+require "rubygems"
+require "bundler/setup"
+Bundler.require(:default)
+require "securerandom"
+require "oembed"
+require "yaml"
+require "active_support/all"
+require "dry/cli"
+
+BOOKMARKS_PATH="content/bookmarks"
+
+class Link
+  attr_accessor :url, :tags, :uuid, :image, :description, :title, :created_at, :category, :notes
+
+  def self.from_url(url, category = "article", tags = [], notes = "")
+    link = new(url)
+    if tags.is_a?(String)
+      tags = tags.split(",")
+    end
+    link.tags = link.tags + tags
+    link.category = category
+    link.notes = notes
+    link
+  end
+
+  def initialize(url)
+    @url = url
+    @tags = []
+    @category = "article"
+    @created_at = Time.now
+    @uuid = SecureRandom.uuid
+  end
+
+  def build
+    preview = NokogiriPreview.new(url)
+    preview.fetch
+    @title = preview.title
+    @image = preview.image
+    @description = preview.description
+    @tags += preview.tags
+    if !@image
+      begin
+        resp = OEmbed::Providers.get(url)
+        @image ||= resp.thumbnail_url
+      rescue StandardError =>e
+        puts e
+      end
+    end
+    preview = MercuryPreview.new(url)
+    preview.fetch
+    @title ||= preview.title
+    @image ||= preview.image
+    @description ||= preview.description
+    true
+  end
+
+
+  def save
+    download_image
+    file = "#{BOOKMARKS_PATH}/#{created_at.strftime('%Y-%m-%d-%H-%M')}-#{title.parameterize}.md"
+    File.write(file, YAML.dump(to_h)+ "---\n# #{title}\n\n#{notes}")
+  end
+
+  def capture
+    path = "#{BOOKMARKS_PATH}/images/#{uuid}.png"
+    Gastly.capture(url, path)
+  rescue StandardError => e
+    puts "Error Capture: #{e}"
+  end
+
+  def download_image
+    unless image
+      capture
+      puts "Capture: #{image}"
+      return
+    end
+    ext = image.match?(/png/) ? "png" : "jpg"
+    ext = image.match?(/gif/) ? "gif" : "jpg"
+    path = "#{BOOKMARKS_PATH}/images/#{uuid}.#{ext}"
+    `wget -O #{path} "#{image}"`
+  end
+
+  def to_h
+    {
+      "uuid" => uuid,
+      "bookmarkOf" => url,
+      "category" => category,
+      "headImage" => image,
+      "title" => title,
+      "description" => description,
+      "tags" => tags,
+      "date" => created_at
+    }
+  end
+end
+
+class LinkFile
+  attr_reader :data, :file, :content, :old_data, :old_content
+  attr_writer :content
+  YAML_FRONT_MATTER_REGEXP = /\A(---\s*\n.*?\n?)^((---|\.\.\.)\s*$\n?)/m
+
+  def initialize(file, capture: false)
+    @file = file
+    file_content = File.read(file)
+    file_content =~ YAML_FRONT_MATTER_REGEXP
+    @data, @content = YAML.load($1, permitted_classes: [OpenStruct, Symbol, Time]), Regexp.last_match.post_match
+    @old_data = @data.clone
+    @old_content = content.clone
+    @capture = capture
+    ensure_uuid
+  end
+
+  def ensure_uuid
+    data["uuid"] ||= SecureRandom.uuid
+  end
+
+  def update!
+    if @capture
+      capture
+    else
+      if data["headImage"] == nil
+        puts "Downloading image for #{file}"
+        fill_data
+      end
+      download_image
+      save
+    end
+  rescue StandardError => e
+    puts "Ooops, #{e}"
+  end
+
+  def uuid
+    data["uuid"]
+  end
+
+  def save
+    write
+  end
+
+  def fill_data
+    begin
+    resp = OEmbed::Providers.get(data["bookmarkOf"])
+    data["headImage"] = resp.thumbnail_url
+    rescue StandardError =>e
+      puts e
+    end
+    preview = MercuryPreview.new(data['bookmarkOf'])
+    preview.fetch
+    data["title"] = preview.title
+    data["headImage"] ||= preview.image
+    data["description"] = preview.description
+    puts Diffy::Diff.new(old_data, data)
+  end
+
+  def capture
+    path = "#{BOOKMARKS_PATH}/images/#{uuid}.png"
+    Gastly.capture(data["bookmarkOf"], path)
+  rescue StandardError
+    puts "Error Capture: #{file}"
+  end
+
+  def download_image
+    unless data["headImage"]
+      capture
+      puts "Capture: #{file}"
+      return
+    end
+    ext = data["headImage"].match?(/png/) ? "png" : "jpg"
+    ext = data["headImage"].match?(/gif/) ? "gif" : "jpg"
+    path = "#{BOOKMARKS_PATH}/images/#{uuid}.#{ext}"
+    if File.exists?(path)
+      puts "Skipping #{path}"
+      return
+    end
+    url = data["headImage"].start_with?("//") ? "https:#{data["headImage"]}" : data["headImage"]
+    `wget -O #{path} "#{url}"`
+  end
+
+  def write
+    File.write(file, YAML.dump(data)+ "---\n\n" + content)
+  end
+end
+
+class Preview
+  class NoWebPage < StandardError; end
+  class NotImplementedError < StandardError; end
+  attr_reader :web_content
+  attr_accessor :url, :image, :description, :title, :content, :tags
+
+  def initialize(url)
+    @url = url
+  end
+
+  def fetch
+    raise NotImplementedError
+  end
+end
+
+class MercuryPreview < Preview
+  def fetch
+    mercury = JSON.parse(`yarn run -s mercury-parser --header.User-Agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" --format markdown "#{url}"`)
+    raise NoWebPage if mercury["error"].present?
+    @image = mercury["lead_image_url"]
+    @description = mercury["excerpt"]
+    @title = mercury["title"]
+    @content = mercury["content"]
+    true
+  end
+end
+
+class NokogiriPreview < Preview
+  def fetch
+    @web_content = get_web_content
+    raise NoWebPage unless web_content
+    @image = meta_from_property("og:image") || meta_from_property("twitter:image")
+    @description = meta_from_name("description") || meta_from_property("og:description")
+    @title = meta_from_name("title") || meta_from_property("og:title") || web_content.at("title")&.text
+    @tags = (meta_from_name("keywords") || "").split(",")
+    true
+  end
+
+  def meta_from_name(name)
+    return unless web_content.at("meta[name='#{name}']")
+    web_content.at("meta[name='#{name}']")["content"]
+  end
+
+  def meta_from_property(property)
+    return unless web_content.at("meta[property='#{property}']")
+    web_content.at("meta[property='#{property}']")["content"]
+  end
+
+  def get_web_content
+    Nokogiri::HTML(RestClient.get(@url, user_agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"))
+  rescue StandardError => e
+    puts e
+    nil
+  end
+end
+
+module CLI
+  extend Dry::CLI::Registry
+  class EmptyContent < Dry::CLI::Command
+    desc "empty_content"
+    argument :file
+
+    def call(file: nil, **options)
+      if file
+        l = LinkFile.new(file)
+        l.content = ""
+        l.save
+      else
+        Dir.glob("#{BOOKMARKS_PATH}/*.md").map do |f|
+          l = LinkFile.new(f)
+          l.content = ""
+          l.save
+        end
+      end
+    end
+  end
+  class Sync < Dry::CLI::Command
+    desc "Sync all pictures"
+    argument :file
+    option :capture, category: :boolean, default: false, desc: "force capture"
+
+    def call(file: nil, capture: false, **options)
+      OEmbed::Providers.register_all
+      OEmbed::Providers.register_fallback(
+        OEmbed::ProviderDiscovery,
+        OEmbed::Providers::Noembed
+      )
+      if file
+        l = LinkFile.new(file, capture: capture)
+        l.update!
+      else
+        Dir.glob("#{BOOKMARKS_PATH}/*.md").map { |f| l = LinkFile.new(f, capture: capture).update!}
+      end
+    end
+  end
+
+  class Create < Dry::CLI::Command
+    desc "Create new link"
+
+    argument :url, category: :string, required: true,  desc: "the link"
+    option :tags, category: :array, default: [], desc: "tags"
+    option :category, category: :string, default: "article", desc: "category"
+    option :notes, category: :string, default: "", desc: "notes"
+
+    def call(url:,tags:, category:, notes:, **options)
+      OEmbed::Providers.register_all
+      OEmbed::Providers.register_fallback(
+        OEmbed::ProviderDiscovery,
+        OEmbed::Providers::Noembed
+      )
+      l = Link.from_url(url, category, tags, notes)
+      l.build
+      l.save
+    end
+  end
+
+  register "sync", Sync
+  register "create", Create
+  register "empty", EmptyContent
+end
+
+Dry::CLI.new(CLI).call

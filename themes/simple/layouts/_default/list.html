@@ -1,0 +1,20 @@
+{{ define "main" }}
+
+<div class="z-20 prose mb-16 with-links relative">
+  {{ .Content }}
+</div>
+
+{{ $paginator := (.Paginate (where .RegularPages ".Params.archived" "!=" true) 250) }}
+<div class="h-feed {{if $.Params.grid}}lg:-m{{end}} mb-10 {{ with .Params.grid }}grid gap-8 grid-cols-1 lg:grid-cols-2 {{end}}">
+  {{ range $index, $page := $paginator.Pages }}
+    {{ if $.Params.inline }}
+      {{ partial "inline" $page }}
+    {{ else  }}
+      {{ partial "title" $page }}
+    {{ end }}
+  {{ end }}
+  <div class="">
+    {{ partial "pagination.html" . }}
+  </div>
+</div>
+{{ end }}
