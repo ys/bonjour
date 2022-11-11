@@ -13,3 +13,6 @@ resources:
     name: "cover"
 ---
 
+📍 | 📷
+---|---
+Lanzarote | Leica M6 - Kodak Gold 200
