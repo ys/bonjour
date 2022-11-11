@@ -12,7 +12,7 @@ resources:
   - src: "cover.webp"
     name: "cover"
 ---
-
+![](cover)
 📍 | 📷
 ---|---
 Finistère, France | Olympus XA - Adox Color Mission 200

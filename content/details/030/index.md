@@ -12,7 +12,7 @@ resources:
   - src: "cover.webp"
     name: "cover"
 ---
-
+![](cover)
 📍 | 📷
 ---|---
 Finistère, France | Lubitel 166+ - Kodak Portra 400
