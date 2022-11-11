@@ -13,3 +13,6 @@ resources:
     name: "cover"
 ---
 
+📍 | 📷
+---|---
+Bretagne, France | Olympus XA - Fuji C200

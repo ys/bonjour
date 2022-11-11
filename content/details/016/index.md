@@ -13,3 +13,6 @@ resources:
     name: "cover"
 ---
 
+📍 | 📷
+---|---
+Lanzarote | Nikonos V - Lomography Berlin

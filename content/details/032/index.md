@@ -13,3 +13,6 @@ resources:
     name: "cover"
 ---
 
+📍 | 📷
+---|---
+Finistère, France | Canon Prisma AS1 - Kodak Portra 400
