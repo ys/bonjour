@@ -15,6 +15,7 @@ Some great websites, blogs and portfolios of friends and great people I kind of 
 - https://jeremyjanin.com
 - https://www.elisarouta.com
 - https://francischouquet.com
+- https://remimercier.com/
 - https://www.ryantatar.com
 - https://www.robinrendle.com
 - https://muan.co
