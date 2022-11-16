@@ -13,10 +13,11 @@ resources:
   name: "cover"
 ---
 
-Yannick enjoys [telling stories](/en/posts), [capturing moments](/en/daily) and producing [stuff printed on paper](/en/shop).
+Yannick enjoys [telling stories](/en/posts), [capturing moments](/en/daily), writing a [french newsletter](/bonjour) and producing [stuff printed on paper](/en/shop).
 
 He likes to talk about all and nothing, has some [really nice books](/en/on-paper), reads [a lot](/en/books) and archives most of [what he sees online](/en/bookmarks). This website is kind of his brain written down in markdown. 
 
-{{< grid wide="bala" images=" 15 | 6 / 32 | 33" >}}
+He also decided to send [a picture per week](/en/details) for at least the next year. 
 
-{{< letter account="bonjouryannick" accent="sunray" msg="💌 Bonjour - a nice newsletter in french" >}}
+{{< grid wide="bala" images=" home-1 | home-2 / home-7 | home-8 /  home-6 | home-3 / home-4 | home-5 " >}}
+

@@ -1,6 +1,6 @@
-{{- $headless := .Site.GetPage "/bookmarks/images" -}}
+{{- $headless := .Sites.First.GetPage "/bookmarks/images" -}}
 [
-  {{- range $index, $page := .RegularPages -}}
+  {{- range $index, $page :=  (where (where .Sites.First.RegularPages ".Params.archived" "!=" true) "Type" "bookmarks") }}
     {{- if gt $index 0 -}} , {{- end -}}
     {{- $entry := dict "uuid" $page.Params.uuid "title" $page.Title -}}
     {{- $src := $headless.Resources.GetMatch (printf "*%s*" ($page.Params.uuid)) -}}

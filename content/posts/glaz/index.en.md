@@ -1,9 +1,9 @@
 ---
-title: "03"
-subtitle: "Glaz"
+title: "Glaz - the color of the sea"
 date: 2021-01-18T12:55:23+02:00
 draft: false
 description: ""
+summary: "Glaz is a color that doesn't translate"
 tags: ["nikonos", "film", "nikonosproject", "dawn patrol", "kodak portra"]
 categories:
   - series

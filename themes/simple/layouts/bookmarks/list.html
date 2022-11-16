@@ -8,8 +8,8 @@
 <div class="links hidden mx-4 py-8 {{ with .Params.grid }}  grid grid-cols-1 lg:grid-cols-2 lg:grid-cols-3 gap-2{{ end}}">
 </div>
 <div class="all-links mx-4 py-8 {{ with .Params.grid }}  grid grid-cols-1 lg:grid-cols-2 lg:grid-cols-3 gap-2{{ end}}">
-  {{ $headless := .Site.GetPage "/bookmarks/images" }}
-  {{ $paginator := (.Paginate (where .RegularPages ".Params.archived" "!=" true) 250) }}
+  {{ $headless := .Sites.First.GetPage "/bookmarks/images" }}
+  {{ $paginator := (.Paginate (where (where .Sites.First.RegularPages ".Params.archived" "!=" true) "Type" "bookmarks") 250) }}
   {{ range $index, $page := $paginator.Pages }}
     {{ if or $.Params.grid $page.Params.coverImage }}
       {{ $color := "accent" }}

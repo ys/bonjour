@@ -9,10 +9,6 @@ resources:
   - src: "cover.webp"
     name: "cover"
 emoji: 📚
-menu:
-  footer:
-    weight: 3
-linktitle: "Some books"
 ---
 
 Part of my collection, don't hesitate to share your recommendations!
