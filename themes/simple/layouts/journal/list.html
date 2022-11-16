@@ -7,7 +7,7 @@
 {{ end }}
 
 {{ define "full" }}
-{{ $paginator := (.Paginate (where .RegularPages ".Params.archived" "!=" true) 250) }}
+{{ $paginator := (.Paginate (where (where .Sites.First.RegularPages ".Params.archived" "!=" true) "Type" "journal") 250) }}
 <div class="h-feed mb-10 ">
   {{ range $index, $page := $paginator.Pages }}
       {{ partial "inline" $page }}
