@@ -17,14 +17,20 @@ jobs:
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.0' # Not needed with a .ruby-version file
-      - name: Fetch daily album
+      - name: Remove old daily
         run: |
           rm -rf content/daily/*.webp
           rm -rf content/daily/*.jpg
+      - name: Fetch daily album
+        run: |
           ruby bin/download-lr.rb ${{ secrets.LIGHTROOM_SPACE_ID }} ${{ secrets.LIGHTROOM_ALBUM_ID }}
+      - name: Convert to webp
+        run: |
           for file in $(find content/daily \( -iname "*.jpg" -or -iname "*.jpeg" -or -iname "*.png" -or -iname "*.tif" -or -iname "*.bmp" \)) ; do
             convert ${file} -format webp ${file%.*}.webp;
           done
+      - name: Remove jpgs
+        run: |
           rm -rf content/daily/*.jpg
       - name: Commit files
         id: commit
