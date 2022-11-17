@@ -1,9 +1,8 @@
 ---
 title: "007 — Around the GR34"
 slug: "007"
-emoji: 👀
+emoji: 😃
 letter: detail
-lettertitle: "👀 Detail, a picture per week in your mailbox. Subscribe!"
 camera: "Leica M6"
 film: "Kodak Portra 400"
 description: "A picture per week in your mailbox"

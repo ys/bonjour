@@ -1,9 +1,8 @@
 ---
 title: "012 — Around the GR34"
 slug: "012"
-emoji: 👀
+emoji: 😃
 letter: detail
-lettertitle: "👀 Detail, a picture per week in your mailbox. Subscribe!"
 camera: "Canonet"
 film: "Kodak Portra 400"
 description: "A picture per week in your mailbox"
