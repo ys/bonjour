@@ -1,10 +1,7 @@
 ---
 title: "002 — Sur les bords du GR34"
-emoji: 👀
+emoji: 😃
 letter: detail
-lettertitle: "👀 Detail, une photo par semaine. Inscris-toi!"
-lettermessage: "Si tu veux recevoir la photo dans ta boîte mail."
-
 camera: "Olympus XA"
 film: "Kodak Gold 200"
 slug: "002"
