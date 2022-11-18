@@ -25,6 +25,13 @@
     </div>
     <div class="">
       <ul class="flex flex-row text-right  flex-wrap">
+        {{ range $.Sites }}
+          {{ if ne . $.Site }}
+            <li class="pl-1   ">
+              <a href="{{ .Home.Permalink }}">{{ .Language.LanguageName }}</a>
+            </li>
+          {{ end }}
+        {{ end }}
         {{ with .Site.Params.social.instagram }}
         <li class="pl-1   ">
           <a class="hover:text-{{$.Scratch.Get "color"}} transition ease-in-out duration-200"
