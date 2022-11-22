@@ -11,3 +11,7 @@ resources:
     name: "cover"
 ---
 ![](cover)
+
+📍 | 📷
+---|---
+Hossegor, France | Leica M6 - Kodak Portra 400
