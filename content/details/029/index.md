@@ -11,3 +11,7 @@ resources:
     name: "cover"
 ---
 ![](cover)
+
+📍 | 📷
+---|---
+Finistère, France | Leica M6 - Lomography Color Negative 800

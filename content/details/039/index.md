@@ -11,3 +11,7 @@ resources:
     name: "cover"
 ---
 ![](cover)
+
+📍 | 📷
+---|---
+Morbihan, France | Canon Prima AS1 - Kodak Portra 800
