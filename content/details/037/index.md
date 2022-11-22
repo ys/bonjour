@@ -11,3 +11,7 @@ resources:
     name: "cover"
 ---
 ![](cover)
+
+📍 | 📷
+---|---
+Finistère, France | Yashica T4 - Lomography Color Negative 400

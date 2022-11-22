@@ -11,3 +11,7 @@ resources:
     name: "cover"
 ---
 ![](cover)
+
+📍 | 📷
+---|---
+Morbihan, France | Leica m6 - Adox Color Mission 200
