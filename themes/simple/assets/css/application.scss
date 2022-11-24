@@ -30,9 +30,7 @@ html {
 
 $colors: accent, fire, ocean, sunray, forest, purpleheart, jazzberry, rose, teal, tuscan, coral;
 @each $color in $colors {
-  .content-#{$color} ::selection {
-    @apply bg-#{$color} bg-opacity-20 ;
-  }
+
   .content-#{$color} .post blockquote {
     @apply leading-snug pl-4  border-l-4 border-#{$color} font-normal ;
   }
@@ -61,6 +59,7 @@ $colors: accent, fire, ocean, sunray, forest, purpleheart, jazzberry, rose, teal
   .content-#{$color} hr {
     @apply border-#{$color} border-opacity-20;
   }
+
   .content-#{$color} .post h2, .content-#{$color} .post h3 {
     @apply underline;
     decoration-color: theme('colors.#{$color}');
@@ -274,10 +273,10 @@ table {
   -ms-touch-action: none;
   touch-action: none;
   position: absolute;
-  left: 40px;
-  right: 40px;
-  top: 40px;
-  bottom: 40px; }
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px; }
 
 /* Prevent selection and tap highlights */
 .pswp__container,
