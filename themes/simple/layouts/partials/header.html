@@ -1,5 +1,5 @@
 {{ block "header" . }}
-<header class="py-10 group lg:max-w-xl lg:ml-24 lg:pt-24  mx-4 lg:container flex flex-col  gap-1  ease-in-out duration-500 ">
+<header class="py-10 group lg:max-w-xl lg:ml-24 lg:pt-24  mx-6 lg:container flex flex-col  gap-1  ease-in-out duration-500 ">
   <span class="block logo text-center text-6xl w-10 text-{{$.Scratch.Get "color"}}">
     {{ if .Parent }}<a href="{{ .Parent.RelPermalink }}" alt="{{ .Parent.Title}}">{{ else }}<a href="{{ "/" | relLangURL }}" alt="home">{{end}}
       {{ if fileExists "/static/logo.svg" }}
