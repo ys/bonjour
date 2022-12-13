@@ -1,9 +1,9 @@
-name: Flat
+name: Books
 
 on:
   push:
     paths:
-      - .github/workflows/flat.yml # Only run a new workflow every time this file (flat.yaml) file changes
+      - .github/workflows/books.yml # Only run a new workflow every time this file (flat.yaml) file changes
   workflow_dispatch: # Required even though this is currently empty
   schedule:
     - cron: "*/30 * * * *" # Run this workflow every 5 minutes
@@ -34,11 +34,3 @@ jobs:
           downloaded_filename: data/italictype.json
           authorization: "Bearer ${{ steps.get-api-token.outputs.italictype_token }}"
           postprocess: flat/italictype.ts
-
-      - name: Fetch ButtonDown newsletters
-        uses: githubocto/flat@v3
-        with:
-          http_url: "https://api.buttondown.email/v1/emails"
-          downloaded_filename: data/newsletter.json
-          authorization: "Token ${{ secrets.BUTTONDOWN_API_KEY }}"
-          postprocess: flat/buttondown.ts

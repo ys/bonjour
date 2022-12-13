@@ -14,8 +14,8 @@ newsletter: true
 tags:
 - la lettre
 emoji: 💌
-color: pink
 title: "${subject}"
+color: jazzberry
 slug: "${secondary_id}"
 ---
 ${body}
