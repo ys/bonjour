@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+<div class="z-20 mb-8 with-links relative">
+  {{ .Content }}
+</div>
+
+<div class="mb-8">
+  <ol class="border-l border-gray-400 no-prose mb-0">
+  {{ range sort .Site.Data.coffee.coffees "date" "desc" }}
+  <li class="my-1 flex flex-col justify-between">
+    <div class="flex flex-start items-center pt-3">
+      <div class="bg-gray-400 w-2 h-2 rounded-full -ml-1 mr-3"></div>
+      <span class="text-xs text-gray-600 ">{{ time.Format "January 2006" .date }}</span>
+    </div>
+    <a class="mt-0.5 ml-4 mb-4 flex flex-col" href="{{.url}}">
+      <span class="font-semibold m-0">{{ .beans | strings.FirstUpper }}</span>
+      <span class="text-xs m-0 text-gray-800">{{.shop }}</span>
+    </a>
+  </li>
+  {{ end }}
+  </ol>
+</div>
+
+{{ end }}
