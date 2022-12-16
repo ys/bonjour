@@ -13,12 +13,9 @@ resources:
   name: "cover"
 ---
 
-Yannick aime [raconter des histoires](/posts), [capturer des moments](/daily)
-et vous écrire une [petite lettre](/bonjour) qui parle de tout et de rien.
-Il produit aussi [des tirages limités](/shop) de ses photos favorites.
+Yannick aime [raconter des histoires](/posts) simples, [capturer des moments ](/daily) anodins et les rendre beaux. Il se balade souvent avec un appareil argentique, un stylo et un carnet.  
+Il aime écrire une [petite lettre](/bonjour) qui parle de tout et de rien.
+Il produit aussi [des tirages limités](/shop) de ses photos favorites. Il aime cette forme de lenteur et l'odeur du papier. I a décidé d'envoyer [une photo par semaine](/details).
 
-Il aime parler de tout et de rien, a pas mal de [jolis livres](/on-paper), lit pas [mal de trucs](/books) et archive ce qu'il [regarde en ligne](/bookmarks). Ce site, c'est un peu une partie de son cerveau en markdown et mis en page.
-Il a aussi décider de vous envoyer [une photo par mail par semaine](/details).
-
-{{< grid wide="bala" images=" home-1 | home-2 / home-7 | home-8 /  home-6 | home-3 / home-4 | home-5 " >}}
+![](22x50-0925-06)
 
