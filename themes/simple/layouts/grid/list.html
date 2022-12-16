@@ -3,9 +3,6 @@
 <div class="z-20 prose mb-16 with-links relative">
   {{ .Content }}
 </div>
-{{ end }}
-
-{{ define "full" }}
 {{ $paginator := (.Paginate (where .RegularPages ".Params.archived" "!=" true) 250) }}
 {{ $allimages := slice }}
 {{ range $index, $page := $paginator.Pages }}
@@ -23,20 +20,21 @@
 {{ $columns := dict }}
 {{ $rowid := 0 }}
 {{ $colid := 0 }}
+{{ $possibilities := slice   2 3 }}
+{{ $itemsonrow := index (shuffle $possibilities) 0 }}
 {{ range $index, $img := $allimages }}
-  {{ $columns = merge $columns (dict (string (mod $index 3)) (dict "Images" (slice $img)))}}
+  {{ $columns = merge $columns (dict (string (mod $index $itemsonrow)) (dict "Images" (slice $img)))}}
   {{ $colid = add $colid 1 }}
-  {{ if eq $colid 3 }}
+  {{ if eq $colid $itemsonrow }}
     {{ $rows = merge $rows (dict (string $rowid) $columns) }}
+    {{ $itemsonrow = index (shuffle $possibilities) 0 }}
     {{ $columns = dict }}
     {{ $rowid = add $rowid 1 }}
     {{ $colid = 0 }}
   {{ end }}
 {{ end }}
-{{ $rows = merge $rows (dict (string $rowid) $columns) }}
-  <div class="w-full">
-    <div class="-mx-2 px-6">
+  {{ $rows = merge $rows (dict (string $rowid) $columns) }}
+  <div class=" lg:-mx-16">
       {{ partial "grid" $rows }}
-    </div>
   </div>
   {{ end }}
