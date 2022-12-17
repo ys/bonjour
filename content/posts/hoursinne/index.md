@@ -17,15 +17,15 @@ summary: "C'est une belle après-midi de printemps, on est invité chez Anne et 
 
 C'est une belle après-midi de printemps, on est invité chez Anne et Martin à l'orée du bois. Après avoir chassé les tritons dans leur mare, on décide d'aller faire une petite balade en forêt.
 
-{{< photo src="hoursinne-1.webp" >}}
+![hoursinne-1.webp](hoursinne-1.webp)
 
 La lumière est belle, la journée aussi. Martin se plait a faire rêver Tom en lui racontant la forêt, ses animaux et ses raccourcis. On est bien dans les bois et décidons de détacher leur chien. Il flaire quelque chose, ce n'était pas prévu et on le voit filer comme si il était possédé. Martin part à travers bois après lui. On patiente un moment, Tom s'amuse à soulever des bois plus lourds que lui et faire aller ses gros muscles.
 
-{{< photo class="fullwidth" src="hoursinne-4.webp" >}}
+![hoursinne-4.webp](hoursinne-4.webp)
 
 On  en profite pour papoter. On entend le chien aboyer au loin. Puis plus rien. Martin revient et on reprend la route. Rien ne sert d'attendre Nelson, il pourra nous flairer quand il reviendra. On se pose un peu plus loin et buvons un coup assis sur des troncs. Des jeux d'approche et d'observation pour amuser les deux Toms. Le temps passe et on s'amuse.
 
-{{< photo src="hoursinne-6.webp" >}}
+![hoursinne-6.webp](hoursinne-6.webp)
 
 {{< grid images="hoursinne-7.webp | hoursinne-8.webp" >}}
 

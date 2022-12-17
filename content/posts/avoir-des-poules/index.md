@@ -69,4 +69,4 @@ Le matin, on va ouvrir le poulailler pour qu'elles puissent se balader dans l'en
 
 Si vous avez des questions n'hésitez pas, si vous avez des suggestions n'hésitez pas non plus.
 
-{{< photo src="1.webp" class="vertical" >}}
+![1.webp](1.webp)

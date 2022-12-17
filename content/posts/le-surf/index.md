@@ -31,7 +31,7 @@ C'est comprendre le localisme et les multiples codes qui régissent les spots.
 C'est apprendre à lire les apps de prévisions et accepter que c'est pas toujours assez.  
 C'est aimer voir la webcam sur ton spot mais comprendre qu'en fait elle tue un rien le charme de l'apprentissage.  
 
-{{< photo src="pieds" alt="mes pieds" caption="Mes pieds par Greg Mignard" >}}
+![Mes pieds par Greg Mignard](pieds "Mes pieds par Greg Mignard")
 
 C'est comprendre qu'une gauche va vers la droite quand tu es face à la mer.  
 C'est savoir qu'offshore c'est mieux qu'onshore, mais que quelques soient les conditions, tu apprends toujours, donc au fond, on s'en bat lek.  
@@ -58,4 +58,4 @@ C'est sentir la glisse.
 C'est comme un psy sans besoin de remboursement.  
 C'est quelques aller-retours vers la côte pour peu de vagues mais pour une paix et un bien-être qui n'a pas de prix.
 
-{{< photo src="surf.gif" >}}
+![](surf.gif)

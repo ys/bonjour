@@ -24,7 +24,7 @@ Je décide donc de sortir [Scriptable](https://scriptable.app) et Shortcuts. Je 
 
 Je vous présente donc mon iPhone minimal.
 
-{{< photo src="cover.webp" alt="Light iPhone" >}}
+![Light iPhone](cover.webp)
 
 Pour le code source JS du widget, c'est sur [GitHub](https://gist.github.com/ys/26a79111a1f6d4eed23faa2cbdb7224f) et [le shortcut](https://www.icloud.com/shortcuts/806f62669acf4c0fb6dbf22d37829f9b) que j'utilise pour switcher de wallpaper en fonction du dark mode.
 

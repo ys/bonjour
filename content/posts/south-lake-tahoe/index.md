@@ -30,7 +30,7 @@ resources:
 summary: "Mon boulot me permet de voyager, d’habitude je vois San Francisco. Cette fois-ci, l’avion atterrit à Reno. Je découvre une autre Amérique. On prend un bus direction South Lake Tahoe. J’ai l’impression d’être dans un de ces romans du Midwest où les gens voyagent en car. On arrive au bord du lac au crépuscule, on ne fait que le distinguer."
 ---
 
-{{< photo src="south-lake-tahoe-1.webp" >}}
+![south-lake-tahoe-1.webp](south-lake-tahoe-1.webp)
 
 Mon boulot me permet de voyager, d’habitude je vois San Francisco. Cette fois-ci, l’avion atterrit à Reno. Je découvre une autre Amérique. On prend un bus direction South Lake Tahoe. J’ai l’impression d’être dans un de ces romans du Midwest où les gens voyagent en car. On arrive au bord du lac au crépuscule, on ne fait que le distinguer.
 
@@ -48,7 +48,7 @@ Une journée normale, on se ballade, on papote sur sa terrasse entourée d’arb
 
 {{< grid images="south-lake-tahoe-14.webp | south-lake-tahoe-15.webp" >}}
 
-{{< photo class="fullwidth" src="south-lake-tahoe-16.webp" >}}
+![south-lake-tahoe-16.webp](south-lake-tahoe-16.webp)
 
 {{< grid images="south-lake-tahoe-17.webp | south-lake-tahoe-18.webp" >}}
 
@@ -56,16 +56,16 @@ Dimanche, on embarque le chien d’un ami direction Pope beach. On se ballade le
 
 {{< grid images="south-lake-tahoe-19.webp | south-lake-tahoe-20.webp" >}}
 
-{{< photo src="south-lake-tahoe-21.webp" >}}
-{{< photo src="south-lake-tahoe-23.webp" >}}
+![south-lake-tahoe-21.webp](south-lake-tahoe-21.webp)
+![south-lake-tahoe-23.webp](south-lake-tahoe-23.webp)
 
 Le dernier jour, on entend que la neige doit arriver. On va visiter Emerald bay. On grimpe depuis South Lake Tahoe. Le froid s’accentue mais les vues et lieux traversés en valent la peine. Emerald bay abrite Fannette Island. Une petite île qui aurait dû abriter le corps du capitaine Dick Barter si celui-ci n’avait pas péri en mer. On y voit les ruines d’une Tea house où la propriétaire du domaine, sur la terre ferme, venait prendre le thé quotidiennement.
 
-{{< photo class="fullwidth" src="cover" >}}
+![cover](cover)
 
 {{< grid images="south-lake-tahoe-24.webp | south-lake-tahoe-25.webp | south-lake-tahoe-27.webp" >}}
-{{< photo src="south-lake-tahoe-26.webp" >}}
+![south-lake-tahoe-26.webp](south-lake-tahoe-26.webp)
 
 On doit reprendre la route, 10 cm sont tombés. Le car mettra les chaînes pour nous ramener jusqu'à Reno. Une fois la montagne passée, on retrouve des étendues désertiques. Je savoure ces paysages et me laisse aller à des rêveries de road trip à travers ce continent.
 
-{{< photo src="south-lake-tahoe-28.webp" >}}
+![south-lake-tahoe-28.webp](south-lake-tahoe-28.webp)

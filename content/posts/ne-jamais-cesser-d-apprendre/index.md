@@ -31,4 +31,4 @@ Et c’est ainsi que ce week-end, je me retrouverai à un [workshop en canoë](h
 
 D’ailleurs, rappelez moi de vous parler de pourquoi j'ai de plus en plus de coupures sur les mains. Mais ca sera pour plus tard.
 
-{{< photo src="5.webp" >}}
+![5.webp](5.webp)

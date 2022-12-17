@@ -22,7 +22,7 @@ categories:
 color: indigo
 ---
 
-{{< photo src="cover.webp" alt="Yannick et Tom" >}}
+![Yannick et Tom](cover.webp)
 
 J'en ai lu des livres d'océan, de marées, de surf. J'ai admiré les vagues de Tehaupoo et me suis quasi brûlé les pieds sur son sable. J'ai observé depuis la côte ces hommes et femmes domptant les vagues, où plutôt des vagues laissant ces hommes et femmes glisser sur elles. Je m'y suis vu. J'en ai rêvé. Encore plus depuis que nous sommes installés si près de l'océan. J'ai finalement enfilé cette seconde peau de néoprène. J'ai mis de la crème solaire sur le nez, le visage et la nuque. Et je suis rentré à l'eau avec cette board de 8 pieds.
 
