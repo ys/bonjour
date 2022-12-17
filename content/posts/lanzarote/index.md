@@ -31,9 +31,9 @@ Arrivé au coeur de l'île, on gare les voitures pour s'imprégner de la grandeu
 
 
 {{< grid images="11-02 / 11-11 | 11-23 | 11-25 / 11-16 | 11-22" alt="lanzarote" >}}
-{{<photo src="0213-14" wide="tr" alt="lanzarote">}}
+![lanzarote](0213-14)
 
-On monte vers un petit port au nord. Cette ambiance typique de port est un vrai plaisir. L'odeur iodée m'enivre, je sors l'appareil. On reprend la route. Elle est bordée de sable, cela me transporte. Comme une envie qu'elle ne s'arrête jamais. Famara bourdonne. Pleine de vie, des surfeurs traversent de tous les côtés. Une foule de vans et campings cars de tout type parkés dans toutes les rues. J'en capture quelques uns. Ces vagues et ces falaises, grandiose. 
+On monte vers un petit port au nord. Cette ambiance typique de port est un vrai plaisir. L'odeur iodée m'enivre, je sors l'appareil. On reprend la route. Elle est bordée de sable, cela me transporte. Comme une envie qu'elle ne s'arrête jamais. Famara bourdonne. Pleine de vie, des surfeurs traversent de tous les côtés. Une foule de vans et campings cars de tout type parkés dans toutes les rues. J'en capture quelques uns. Ces vagues et ces falaises, grandiose.
 
 J'adore ces petites maisons blanches. Ces maisons sont d'ailleurs super typiques du coin. Sur les routes, on traverses des petites grappes. Elles sont disséminées sur toute l'île. Je me perd dans mes souvenirs. Je suis reparti sur l'île, ne m'en voulez pas.
 
@@ -41,13 +41,13 @@ J'adore ces petites maisons blanches. Ces maisons sont d'ailleurs super typiques
 
 On fait de la piste pour aller sur des longues plages de sable blanc au sud. On semble seuls au monde. En fait, elles sont tellement proches des grosses stations balnéaires de l'île. Cela me fait bizarre. Mais j'arrive à accélérer assez pour ne plus vibrer. Merci [Grégory](https://gregorymignard.com/lanzarote/) pour l'astuce. Je me sens comme Colin McRae. Cette poussière sur la carrosserie, ces plages, ces vues se méritent.
 
-On se perd dans les petites routes qui serpentent, on fait gaffe aux cyclistes. On voit une ferme d'Aloe Vera, la plus grande d'Europe. On s'arrête. La typo Jurassic Park me fait rire. On fera aussi le jardin de Cactus et wow je ne m'attendais pas à en voir autant. On va voir aussi les vignes, case typique de cette île que l'on se doit de cocher. On évite les gros vignobles et on finit dans un tout petit truc. On goûte, on aime, on rentrera avec une bouteille à offrir. 
+On se perd dans les petites routes qui serpentent, on fait gaffe aux cyclistes. On voit une ferme d'Aloe Vera, la plus grande d'Europe. On s'arrête. La typo Jurassic Park me fait rire. On fera aussi le jardin de Cactus et wow je ne m'attendais pas à en voir autant. On va voir aussi les vignes, case typique de cette île que l'on se doit de cocher. On évite les gros vignobles et on finit dans un tout petit truc. On goûte, on aime, on rentrera avec une bouteille à offrir.
 
 {{< grid images="0212-20 / 12-24 | 12-25 / 13-01 | 13-05" alt="lanzarote" >}}
 
-On va au marché de Teguise. Se perdre dans les rues de cette petite ville est un délice. On s'y perdra une seconde fois. Le marché ressemblant trop à un attrape touriste, on reviendra manger à Teguise un autre jour. On se laisse guider par les envies, ces peintures passées, ces grandes portes en bois. J'adore l'architecture des Canaries. Un vieux def et nous voilà en train de sortir les boîtiers. Classique mais tellement beau. Ces voitures usées sur l'île sont une source d'inspiration simple. 
+On va au marché de Teguise. Se perdre dans les rues de cette petite ville est un délice. On s'y perdra une seconde fois. Le marché ressemblant trop à un attrape touriste, on reviendra manger à Teguise un autre jour. On se laisse guider par les envies, ces peintures passées, ces grandes portes en bois. J'adore l'architecture des Canaries. Un vieux def et nous voilà en train de sortir les boîtiers. Classique mais tellement beau. Ces voitures usées sur l'île sont une source d'inspiration simple.
 
-On part se balader sur les plages de sable noir, on en ramènera sans doute dans les chaussures. Louise en aura aussi dans les poches. Ce coin est plus sauvage, la route est barrée, il faudra revenir. On fait un détour, on est aussi passé par le haut des falaises, un arrêt photo, une éclaircie, la photo sera réussie. Pas de belle lumière pour les salines. Tant pis pour le cliché de touriste. 
+On part se balader sur les plages de sable noir, on en ramènera sans doute dans les chaussures. Louise en aura aussi dans les poches. Ce coin est plus sauvage, la route est barrée, il faudra revenir. On fait un détour, on est aussi passé par le haut des falaises, un arrêt photo, une éclaircie, la photo sera réussie. Pas de belle lumière pour les salines. Tant pis pour le cliché de touriste.
 
 {{< grid images="0213-13 | 0213-36 / 0213-37 | 0216-03 / 0216-27 | 0216-29 / 0216-34" alt="lanzarote" >}}
 
@@ -57,8 +57,8 @@ Lanzarote, tu nous as permis de mettre des shorts en février et tu nous a rempl
 
 {{< grid images="0214-27 / 0213-20 | 0213-28 / 0213-25 / 0214-15 - 0214-23 | 0216-04 " alt="lanzarote" >}}
 
-{{<photo src="0215-27" wide="yes" alt="lanzarote" >}}
+![lanzarote](0215-27)
 
 {{< grid images="0215-33 / 0215-34 | 0215-20 / 0214-28" alt="lanzarote" >}}
 
-{{<photo src="0211-19"  alt="bye">}}
+![bye](0211-19)

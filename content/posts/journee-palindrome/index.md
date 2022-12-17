@@ -14,7 +14,7 @@ categories:
 
 Je repense aux moments où l’on allait encore sur Internet, une sorte de voyage vers la toile qui est maintenant omniprésente. Pourquoi me direz-vous? Ce [super article de Beside](https://beside.media/fr/le-camp-dinternet/). Je repense à mon premier business, revente de feuilles de trucs et astuces de Jeuxvideo.com. Jamais déclaré aux impôts, j’avais 12 ans max. Ca n’a pas duré bien longtemps et je repense nostalgiquement à ces années de début d’ADSL. C’est fou comme cela me parait une éternité. Je pense à Tom qui n’a jamais connu de monde sans Internet. Je ne sais pas à quoi cela doit ressembler pour lui.
 
-{{< photo src="cover.webp" alt="montée escaliers">}}
+![montée escaliers](cover.webp)
 
 Ce mois-ci, je continue de me sentir inspiré par la déconnexion en lisant de super articles comme [celui du New York Times sur Iliana Regan](https://www.nytimes.com/2020/01/21/dining/iliana-regan-milkweed-inn.html) qui a ouvert une retraite dans un chalet au fond du Michigan. Elle y invite ses amis chefs à venir cuisiner pour ses invités. Cela me donne envie d’apprendre à mieux connaître les plantes sauvages et comment les préparer.
 

@@ -30,7 +30,7 @@ Vivre aussi près de la mer nous permet de payer une visite à la déesse des me
 
 Nous avons cueilli de la nourriture dans les terres, mais la mer aussi peut donner. C'est vrai que cet été, elle a plutôt pris mes lunettes, mais c'était une offrande qui paie pour toutes les choses qu'elle donne. Nous devons encore nous améliorer pour la pêche à pied et les coquillages.
 
-{{< photo src="living-outdoor-5.webp" >}}
+![living-outdoor-5.webp](living-outdoor-5.webp)
 
 Quelques rêves pour cette année nouvelle incluent de faire un hike de plusieurs jours en Bretagne ainsi que fouler plus de sentiers du GR34, connu comme étant le sentier des douaniers. Cette randonnée suit la côte et traverse tous les lieux sauvages du bord de mer.
 

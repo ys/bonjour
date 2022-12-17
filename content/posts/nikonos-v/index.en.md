@@ -30,7 +30,7 @@ resources:
 
 On the [first of january](/en/first-of-january), I finally was able to try some watershots with my new friend the Nikonos V. After following many accounts shooting on earth or in the water, I found a passionate seller willing to send me 2 of those cameras. It came with flashes, a case with diving stickers and the original ad for this beauty. I will add it as a bonus!
 
-{{< photo src="palmes" alt="nikonos V & fins" >}}
+![nikonos V & fins](palmes)
 
 A small bit of history. The first model of that camera was made by Jacques-Yves Cousteau and a belgian engineer. Tell me more about this coincidence! They used Cousteau's company named "La Spirotechnique" for the R&D. That company's name is quite cool! It got sold to Nikon after and became the legend we know.
 
@@ -45,7 +45,7 @@ Cet appareil produit par Nikon est une vraie petite brique. Vous savez que vous 
 
 Lors de la réception des boîtiers, j'ai pris le temps de tout démonter, nettoyer les trois joints, les regraisser et vérifier que tout marchait nickel. Après utilisation, j'ai suivi les [conseils de Grégory](https://gregorymignard.com/entretien-caisson-etanche/) qui a une bien plus grande expérience en watershots que moi. Il y a aussi de super conseils sur le site du célèbre [Nikonos Project](https://www.nikonosproject.com). J'ai aussi commandé directement un set de joints de remplacement au cas où. On les trouve facilement sur [eBay](https://www.ebay.fr/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=nikonos+joints&_sacat=0) et d'autres sites.
 
-{{< photo src="8" alt="palmes" >}}
+![palmes](8)
 
 Après des premiers rolls où le sujet était la mer seule, je me réjouis de retourner à l'eau pour m'essayer à la photo de surf et simplement continuer à passer du bon temps à l'eau et documenter ces instants partagés. Il a sa place aux côtés de mon [Olympus XA](/olympus-xa) et du Leica M6. Mes trois appareils fournisseurs officiels de souvenirs.
 
@@ -54,4 +54,4 @@ Si vous voulez découvrir quelques photographes qui adorent le Nikonos, je vous 
 
 P.S.: Si cela vous a plu, j'ai un [print en vente](/shop/new-year) d'une photo au Nikonos
 
-{{< photo src="pub" alt="Pub du Nikonos V" >}}
+![Pub du Nikonos V](pub)

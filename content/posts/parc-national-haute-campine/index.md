@@ -17,7 +17,7 @@ resources:
 summary: "Nous entendons toujours parler des parcs nationaux Américains. J’étais loin de me douter que mon plat pays accueillait lui aussi un parc avec ses rangers. Il se situe dans la province du Limbourg, du côté flamand. Le parc national de la Haute Campine s’étend sur plus de 5700 ha de forêts et de bruyères."
 ---
 
-{{< photo src="DSCF7831.webp" >}}
+![DSCF7831.webp](DSCF7831.webp)
 
 Nous entendons toujours parler des parcs nationaux Américains. J’étais loin de me douter que mon plat pays accueillait lui aussi un parc avec ses rangers. Il se situe dans la province du Limbourg, du côté flamand. Le parc national de la Haute Campine s’étend sur plus de 5700 ha de forêts et de bruyères. Il est accessible via 5 portes, nous décidons de nous rendre à celle de “Mechelse Heide”. Cette porte est proche de Maasmechelen plus connu pour son shopping que pour son entrée dans le parc national.
 
@@ -31,16 +31,16 @@ Nous commençons sur un sol sablonneux mais grimpons vite vers les bois. Avant d
 
 Fait étrange, des milliers de petites bêtes volantes sur les chemins de sable, on avance au milieu de celles-ci. Elles volent à une dizaine de centimètres du sol. Si vous savez ce que c’est n’hésitez pas à me le dire. Cela amusera Tom qui court au milieu, ça en devient un jeu.
 
-{{< photo class="fullwidth" src="DSCF7850.webp" >}}
+![DSCF7850.webp](DSCF7850.webp)
 
 On arrive dans un paysage plus proche de nos Fagnes avec une importante couche de bruyères. Elle est violette et en fleur à notre passage. Cela fait un magnifique tapis violet.On replonge dans la forêt et finit la balade en longeant la route mais heureusement en n’étant pas trop proche de celle-ci.
 
 {{< grid images="DSCF7846.webp | DSCF7849.webp" >}}
-{{< photo src="DSCF7851.webp" >}}
+![DSCF7851.webp](DSCF7851.webp)
 
 C’est un parc vraiment surprenant. Un condensé de Belgique dans le Limbourg. Environ 300km de randonnées et de multiples parcours nous permettrons sans nul doute de revenir y passer une journée et pique niquer sur le trajet.
 
-{{< photo class="fullwidth" src="IMG_1029.webp" >}}
+![IMG_1029.webp](IMG_1029.webp)
 
 ### INFORMATION
 

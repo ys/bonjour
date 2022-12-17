@@ -17,7 +17,7 @@ resources:
 summary: "Ce n'était pas notre première tentative de l'année pour la célèbre balade du Ninglinspo. La fois précédente due à son succès, nous n'avions pu profiter de la balade car le parking et les bords de routes débordaient de voitures. Il est vrai que depuis quelques années, ce cours d'eau fait le plaisir de plus en plus de personnes."
 ---
 
-{{< photo src="DSCF8536.webp" >}}
+![DSCF8536.webp](DSCF8536.webp)
 
 Ce n'était pas notre première tentative de l'année pour la célèbre balade du Ninglinspo. La fois précédente due à son succès, nous n'avions pu profiter de la balade car le parking et les bords de routes débordaient de voitures. Il est vrai que depuis quelques années, ce cours d'eau fait le plaisir de plus en plus de personnes. Grâce à cette notoriété, des aménagements ont eu lieu, principalement des poubelles et la rénovation des ponts. Cela n'empêche pas de retrouver pas mal de déchets en dehors des dites poubelles. Cela n'enlève heureusement rien à la beauté des lieux.
 
@@ -26,7 +26,7 @@ Ce n'était pas notre première tentative de l'année pour la célèbre balade d
 
 Nous avons commencé par remonter le cours d'eau. Cette première partie magnifique est commune à la plupart des boucles possibles. N'ayant jamais fait plus que cela, j'étais impatient d'en voir plus.
 
-{{< photo src="DSCF8587.webp" >}}
+![DSCF8587.webp](DSCF8587.webp)
 
 Cette fois-ci, nous décidons de faire la grande boucle. Mais assez vite, vu la clémence de la météo, nous nous rendons compte que les lieux sont envahis et que le calme n'est pas au rendez-vous. De plus, nous sommes arrivés tard et Tom n'était pas au plus haut de sa forme. Arrivés à l'embranchement où nous devons décider, nous choisissons un retour vers le parking.
 
@@ -43,7 +43,7 @@ Nous regagnons via cette pente le chemin forestier que nous avions quitté pour 
 
 Nous y reviendrons vite. Nous avons vu qu'un gîte pouvait se louer là-bas, il est à moins de cent mètres du début de la balade.
 
-{{< photo class="fullwidth" src="DSCF8573.webp" >}}
+![DSCF8573.webp](DSCF8573.webp)
 
 
 

@@ -12,7 +12,7 @@ categories:
   - journal
 ---
 
-{{< photo src="cover.webp" alt="cabane du jardin" >}}
+![cabane du jardin](cover.webp)
 
 J’ai fini 2019 en lisant [Digital Minimalism](https://www.amazon.fr/Digital-Minimalism-Living-Better-Technology/dp/0241341132) par Cal Newport. Cela conclut vraiment bien l’année sur ma façon de vouloir revoir mon utilisation des nouvelles technologies et spécialement de celui dans ma poche.
 

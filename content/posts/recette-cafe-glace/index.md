@@ -22,7 +22,7 @@ Le printemps s'est bien installé, le soleil est de retour. La saison des pieds 
 - Le matos de base, perso, c'est la kalita
 - Une envie de café glaçé
 
-{{< photo src="3.webp" alt="preparation" >}}
+![preparation](3.webp)
 
 1. Mouillez le filtre au dessus de l'évier pour éviter de verser et chauffer votre récipient.
 2. Mettez les glaçons dans la jarre
@@ -31,7 +31,7 @@ Le printemps s'est bien installé, le soleil est de retour. La saison des pieds 
 5. Dégustez
 6. Laissez les glaçons fondre, re dégustez
 
-{{< photo src="cover.webp" alt="Le resultat" >}}
+![Le resultat](cover.webp)
 
 Voilà, c'est aussi simple. C'est un de mes plaisirs quotidiens durant le printemps et l'été. J'ai aussi ressorti ma Rancilio Silvia, attendez-vous à une recette de glace au lait et une d'Affogato.
 

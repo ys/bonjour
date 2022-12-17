@@ -31,7 +31,7 @@ summary: "C'est l'été, vous êtes en vacances. Vous ne savez pas quoi lire. La
 
 C'est l'été, vous êtes en vacances. Vous ne savez pas quoi lire. Laissez moi vous aider.
 
-{{< photo src="cover" >}}
+![cover](cover)
 
 J’ai une habitude qui tient, c’est la lecture. Quasi quotidienne, elle me permet en fin de journée de me détendre. Mes lectures sont souvent liées à la nature. Il y a quelques années c’était plutôt des bouquins techniques. J'ai eu envie de partager quelques uns de mes coups de cœur avec vous. J'aime pas mal de bouquins donc attendez vous à en voir plus. Si vous voulez me suivre sur [goodreads](https://www.goodreads.com/bonjouryannick), je me suis fixé comme challenge de lire 35 livres cette année.
 
@@ -39,7 +39,7 @@ J’ai une habitude qui tient, c’est la lecture. Quasi quotidienne, elle me pe
 
 Voici trois bouquins que j’ai vraiment apprécié.
 
-{{< photo src="4.webp" alt="les huit montagnes" >}}
+![les huit montagnes](4.webp)
 
 ## [Les huit montagnes](https://amzn.to/2XWw3Xx) par Paolo Cognetti
 
@@ -47,7 +47,7 @@ Une super lecture recommandée par [Martin Dellicour](https://www.martindellicou
 
 Paolo Cogneti est un de ces auteurs qui sortent des livres que je dévore. C'est une lecture simple mais pleine de vie. Je vous conseille aussi une autre histoire de Paolo Cognetti, [le garçon sauvage](https://amzn.to/32oJlLR). L'histoire prend aussi place dans les montagnes italiennes. Il a sorti [un nouveau roman](https://amzn.to/2Jsun02) que je n'ai pas encore eu le temps de lire. Il sera sans doute dans mes lectures de l'été.
 
-{{< photo src="1.webp" alt="Indian Creek" >}}
+![Indian Creek](1.webp)
 
 ## [Indian Creek Chronicles: A winter alone in the Wilderness](https://amzn.to/32pV8d9) par Pete Fromm
 
@@ -55,7 +55,7 @@ Un des premiers bouquins de nature writing que j'ai lu. L'histoire d'un étudian
 
 Il y a [une suite](https://amzn.to/2NNpgvs) où l'auteur est devenu père et espère emmener ses enfants avec lui dans une cabane pour surveiller des oeufs de poissons à nouveau dans le fin fond du Montana. Je vous le conseille aussi bien que un peu moins bien que ce premier opus. Il avait mis la barre assez haute.
 
-{{< photo src="3.webp" alt="Dharma Bums" >}}
+![Dharma Bums](3.webp)
 
 ## [The Dharma Bums](https://amzn.to/2XWJDdM) par Jack Kerouac
 

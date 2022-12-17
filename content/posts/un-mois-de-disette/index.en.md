@@ -21,4 +21,4 @@ I hope you won’t mind if I share more about other topics. If it can make your 
 
 Last but not least, when you start a digital declutter, think about the things that will replace the time not spent on social networks. For me:
 
-{{< photo src="en.webp" alt="hand and goals" class="vertical" >}}
+![en.webp](en.webp)

@@ -29,7 +29,7 @@ Living so close to the sea allows us to pay the goddess of the sea a visit every
 
 We found food in the inner land, but the sea also gives. It is true that this summer it took away my glasses, but that was a small tribute to pay for all the things it has to give. Harvesting shellfish and other things is something we still need to try more and master.
 
-{{< photo src="living-outdoor-5.webp" >}}
+![living-outdoor-5.webp](living-outdoor-5.webp)
 
 A few of my dreams for this year include to take a multi days hikes across Brittany and walk on more and more paths on the GR34 known as "le sentier des douaniers". The trek follows the coast and hits all the wild places near the sea.
 

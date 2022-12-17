@@ -34,16 +34,16 @@ Friday, 9:30AM, I am waiting for [Grégory](https://gregorymignard.com) on the p
 
 <!--more-->
 
-{{< photo src="16.webp" alt="our pond for a night" >}}
+![our pond for a night](16.webp)
 {{< grid images="23.webp | 21.webp" >}}
 
 This first night is all about simplicity. a good simple meal, a nice spot and great discussions. A first blue hour, a few shots and a lot of laughs. We get in our sleeping bags early to be awake at sunrise. Time to turn off the lights.
 
-{{< photo src="17.webp" alt="cabin on the lake" >}}
+![cabin on the lake](17.webp)
 
 We are already awake a bit before sunrise. A first golden hour's shot and on our way to the basecamp of [destination H2o](https://www.destinationh2o.fr). The basecamp is a cool small beach, a lake and a few tipis getting built. The tipis are built and unbuilt everytime those are needed. They have small and larger tipis and they mount only what is needed. This weekend, the setup is for a bachelor party, a giant escape game is ready for them. And us, we are waiting for the other people to arrive. The photo workshop is organized by [Captain Yvon](https://captainyvon.fr), Grégory et Jérémy. The group is cool, half women, half men, beginners and confirmed.
 
-{{< photo src="9.webp" class="vertical" alt="Aurelie" >}}
+![Aurelie](9.webp)
 
 {{< grid images="10.webp | 14.webp | 13.webp" >}}
 
@@ -61,4 +61,4 @@ Time to get the tipi up. We carried all the food, sleeping bags and tipi in our 
 
 During the night, I realise that my sleeping bag is too cold. I should invest in a warmer one. Lesson learned. This is a bad night but not the worst. Early awake, we bring the fire back. I wasn't the only one not ready for this. Top breakfast before packing and leaving. We have a quiet paddle time to the end of this trip. It was a really great weekend full of memories and new folks. Hopefuly some good shots too. Thanks Captain Yvon.
 
-{{< photo src="1.webp" alt="le canoe jaune de Joris" class="vertical" >}}
+![1.webp](1.webp)

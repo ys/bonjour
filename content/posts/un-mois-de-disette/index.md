@@ -22,4 +22,4 @@ J’espère que vous ne me tiendrez pas rigueur de ce genre de sujets. Si cela p
 
 Chose importante, si vous partez dans une disette numérique, pensez à ce que vous allez faire à la place.
 
-{{< photo src="fr.webp" alt="main et buts" class="vertical">}}
+![main et buts](fr.webp)

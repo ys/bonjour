@@ -28,11 +28,11 @@ resources:
 summary: "On est arrivé là un peu par hasard. On avait prévu de faire le Ninglinspo ce jour là mais apparement on était pas les seuls. Une petite recherche pour voir si une belle balade à la roche aux faucons est faisable et nous voilà en route."
 ---
 
-{{< photo class="fullwidth" src="DSCF7905.webp" >}}
+![DSCF7905.webp](DSCF7905.webp)
 
 On est arrivé là un peu par hasard. On avait prévu de faire le Ninglinspo ce jour là mais apparement on était pas les seuls. Une petite recherche pour voir si une belle balade à la roche aux faucons est faisable et nous voilà en route.
 
-{{< photo src="DSCF7863.webp" >}}
+![DSCF7863.webp](DSCF7863.webp)
 
 On a l’impression de se garer chez les gens en y arrivant. Ce n’est pas le cas. On traverse, passe le long d’une maison et on se lance sur les bords de la falaise. Une vue assez impressionnante sur la vallée où serpente l’Ourthe s’offre à nous. J'avais déjà entrevu la roche depuis le Ravel mais le paysage depuis la falaise est bien plus impressionnant.
 
@@ -44,13 +44,13 @@ On est le long d’un chemin entouré d'arbres. La balade dans les bois peut se 
 
 Cette partie boisée offre quelques installations que l’on peut louer sans doute pour faire un bon barbecue ou fêter un anniversaire. On y croise pas mal de monde au départ mais en continuant, on retrouve la quiétude de nos forêts.
 
-{{< photo src="DSCF7896.webp" >}}
+![DSCF7896.webp](DSCF7896.webp)
 
 On s’amuse un peu avec les jumelles de Tom et avec des bouts de bois. On se retrouve face à une parcelle de feuillus teintée de rose. Je ne sais pas à quoi est due cette couleur ni que sont ces arbres. Mais une chose est sûre, c’est envoutant et magnifique.
 
-{{< photo class="fullwidth" src="DSCF7903.webp" >}}
-{{< photo src="DSCF7912.webp" >}}
-{{< photo src="DSCF7915.webp" >}}
+![DSCF7903.webp](DSCF7903.webp)
+![DSCF7912.webp](DSCF7912.webp)
+![DSCF7915.webp](DSCF7915.webp)
 
 ### INFORMATION
 

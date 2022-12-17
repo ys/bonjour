@@ -24,6 +24,6 @@
   {{ end }}
   {{ $rows = merge $rows (dict (string $rowIndex) $columns) }}
 {{ end }}
-<div class="my-8 -mx-2 lg:-mx-16">
+<div class="my-8 -mx-2">
   {{ partial "grid" $rows }}
 </div>

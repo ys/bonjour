@@ -19,7 +19,7 @@ Parfois, je me dis que un petit article sur le derrière de ce site pourrait vou
 
 J'ai commencé il y a environ 3 ans. Je voulais quelque chose de statique et de simple. Je me suis alors dirigé vers le framework [Hugo](https://gohugo.io). C'est un framework écrit en Go pour ceux qui connaissent. Il permet de facilement créer des sites et des petits blogs. J'ai commencé par faire pas mal de CSS, etc. Tout ça pour avoir un truc propre qui était perso mais avait des fonctionnalités d'affichages qu'on retrouve dans des sites comme [Exposure](https://exposure.co). Je voulais pouvoir raconter des histoires avec des images. Les plus pour moi de Hugo, c'était de pouvoir écrire en Markdown et avoir le thème dans un dossier séparé.
 
-{{< photo src="IMG_0818.PNG" alt="github" >}}
+![github](IMG_0818.PNG)
 
 Après avoir envoyé une première version, j'ai partagé mon thème avec [Greg](https://gregorymignard.com) qui voulait aussi s'essayer au statique et quitter Wordpress. C'est aussi vers ce moment là que j'ai commencé à changer des choses car je n'étais jamais satisfait par le résultat. Je suis le genre de personne qui passe du Serif au sans Serif en trop peu de temps, je suis aussi celui qui adore le mono. Oui c'était un passage sur la typographie.
 
@@ -30,7 +30,7 @@ Hugo me permet facilement de rajouter/supprimer des catégories et d'afficher le
 Mon workflow est simple. Je fais tourner Hugo sur une machine de dev. J'ai un lien en local pour voir mes changements. Je génère les images uniquement lors de la publication de nouvelles images et je les cache (histoire de déployer en moins d'une minute). Je push une branche sur [github](https://github.com/ys/bonjour). De là, [Vercel](https://vercel.com), mon hébergeur, va créer une nouvelle version statique du site sur une URL de preview. J'ai une [GitHub Action de Calibre](https://calibreapp.com/blog/compress-images-in-prs) qui va optimiser toutes mes images pour gagner en vitesse. Je vérifie et merge ma Pull Request. Sur la branche `main`, cela finit en prod sur [yannickschutz.com](https://yannickschutz.com). Aussi simple que cela.
 
 
-{{< photo src="IMG_0819.PNG" alt="vercel" >}}
+![vercel](IMG_0819.PNG)
 
 
 A côté de cela, pour chaque déploiement, une integration fait tourner lighthouse de google sur mon URL pour voir un audit de performance. Vous pouvez aussi le faire via [web.dev](https://web.dev)

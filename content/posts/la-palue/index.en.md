@@ -42,12 +42,12 @@ It wasn’t a sunny day. It happens. We park next to a van. A wetsuit is drying 
 
 We are walking in the sand to go to the GR34. The dog has fun with algae and eats some of them. We walk up the cliffs, what a view. This is magical and bewitching. The power of the waves, the beauty of water hitting the cliff. The come and go of the waves on the beach. The sound of water.
 
-{{< photo src="_DSF2506.webp" >}}
+![_DSF2506.webp](_DSF2506.webp)
 
 We climb up more and wander around, we lose ourselves on the small paths. On their sides, small stone walls. We find a nice spot and stop to eat. We pass by small villages near the coast to get back to our car.
 
-{{< photo src="_DSF2581.webp" >}}
+![_DSF2581.webp](_DSF2581.webp)
 
 A hike that makes us want to come back. We find an Airbnb to come during the biggest tides of the year. In a week, I cannot wait. The call of the sea, I guess.
 
-{{< photo src="cover" class="fullwidth" >}}
+![cover](cover)

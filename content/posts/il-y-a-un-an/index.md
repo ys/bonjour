@@ -16,7 +16,7 @@ resources:
 summary: "On était en bord de mer pour l'anniversaire de Cloé hier. À un moment, elle me dit quelque chose du genre: 'Si tu m'avais dit y'a un an que je fêterais mon anniversaire en marchant le long de la mer, je t'aurais ri au nez.' Cette phrase a juste déclenché un flux de pensées."
 ---
 
-{{< photo class="vertical" src="saint-samson-23.webp" >}}
+![saint-samson-23.webp](saint-samson-23.webp)
 
 On était en bord de mer pour l'anniversaire de Cloé hier. À un moment, elle me dit quelque chose du genre: "Si tu m'avais dit y'a un an que je fêterais mon anniversaire en marchant le long de la mer, je t'aurais ri au nez." Cette phrase a juste déclenché un flux de pensées.
 
@@ -24,7 +24,7 @@ On était en bord de mer pour l'anniversaire de Cloé hier. À un moment, elle m
 
 Il y a un an, on ne savait même pas que cette maison existait. Elle ne savait pas non plus que l'on existait. On ignorait encore que notre futur se ferait dans le Finistère. On regardait toujours des maisons en Bretagne et en Bourgogne. Ce jour d'hiver où j'ai découvert Ty Lucie au détour d'une recherche web n'était pas encore passé. On ne savait pas encore que le frigo faisait ce bruit de poulet de temps en temps. Ni que les tuyaux de chauffages faisaient ce drôle de bruit, ni que le bois craquait pendant que les tuyaux chauffaient. On ne savait pas encore que notre voisin serait une chouette et qu'elle nous saluerait une fois la nuit venue.
 
-{{< photo src="saint-samson-25.webp" >}}
+![saint-samson-25.webp](saint-samson-25.webp)
 
 On n'avait pas idée que ce magnifique brouillard se joindrait à nous sur le chemin de l'école de Tom. Aucune idée non plus que nous aurions des vaches comme voisines. Que les nuits seraient noires et que notre routine nocturne inclurait de regarder les étoiles.
 

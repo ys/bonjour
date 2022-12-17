@@ -24,7 +24,7 @@ resources:
   name: "cover"
 ---
 
-{{< photo src="1.webp" alt="vue du parking" >}}
+![vue du parking](1.webp)
 
 Il est 6h30 du matin, on démarre pour le parking. Ce parking se remplit vite. Une garde nous a dit que pour avoir une chance d’y avoir une place, il fallait être là avant 8h. On a une bonne heure, ça va le faire.
 
@@ -40,7 +40,7 @@ La vue depuis Edgar est déjà un vrai plaisir. On se met calmement en route jus
 
 Une fois sorti de la forêt, la vue est fantastique et le restera jusqu’aux lacs. On grimpe pour atteindre le premier des lacs, le Lac Roumassot relié par une cascade au second, le Lac du Miey. Une fois celui-ci passé, il ne faut pas beaucoup de temps pour arriver au majestueux Lac Gentau et son refuge. On arrive en même temps qu’un troupeau de moutons guidé par son patou, le chien qui guide et surveille le troupeau. Il nous passera autour, c’est un souvenir plutôt magique et impressionant. Le patou vient jouer avec Oggy au passage. Une fois cette marée de laine passée, on se pose dans la plaine, face à Jean-Pierre, le pic du Midi d'Ossau, pour casser la croûte. Des chevaux courent pour s’abreuver au lac.
 
-{{< photo src="6.webp" class="vertical" >}}
+![6.webp](6.webp)
 
 {{< grid images="7.webp | 8.webp" >}}
 
@@ -51,7 +51,7 @@ On voit des gens replier leurs tentes ou se préparer pour un petit tour dans le
 C’est parti, je passe le refuge, remplis ma gourde et grimpe pour pénétrer dans le parc National. Je laisse les lacs d’Ayous pour une succession de magnifiques petits lacs. Je croise des gens bien mieux équipés que moi pour observer la faune. Peut-être une autre fois. La flore et le paysage me suffisent pour cette fois. Un vrai plaisir que de marcher le pas léger dans un pareil lieu. Une fois le lac Bersau passé, je commence ma descente vers le plateau. Je me sens tel un bouquetin sautant de caillou en caillou, dévalant la pente avec une aisance qui m’était jusqu’alors inconnue. Je verrai plusieurs personnes s’y essayer et tomber.
 
 
-{{< photo src="cover" alt="refuge d'ayous" >}}
+![refuge d'ayous](cover)
 
 {{< grid images="10.webp | 11.webp | 12.webp" >}}
 
@@ -61,6 +61,6 @@ Arrivé en bas, les jambes sentent la pente et je fais moins le fier. Encore heu
 
 Je me réjouis de le refaire avec Cloé, Tom et notre petite dernière. Pourquoi ne pas dormir au pied du refuge, plonger dans le lac au petit matin et repartir. Cette randonée mérite d’être refaite.
 
-{{< photo src="2.webp" alt="symbole du parc" >}}
+![symbole du parc](2.webp)
 
 *Vous pouvez retrouver cette randonnée dans [le guide de la microaventure](https://www.lesothers.com/guide-microaventure-france) par Les Others*

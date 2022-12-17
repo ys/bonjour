@@ -34,7 +34,7 @@
   {{ end }}
 {{ end }}
   {{ $rows = merge $rows (dict (string $rowid) $columns) }}
-  <div class=" lg:-mx-16">
+  <div class="">
       {{ partial "grid" $rows }}
   </div>
   {{ end }}

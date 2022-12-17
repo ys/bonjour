@@ -8,7 +8,7 @@ resources:
   - src: "*.webp"
 ---
 
-{{< photo src="cover.webp" alt="la mer" >}}
+![la mer](cover.webp)
 
 
 J'ai plein de choses dans mes placards dont je ne fais rien. Je serai heureux de vous les envoyer si vous en avez l'utilité.

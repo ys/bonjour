@@ -43,7 +43,7 @@ The first part of the hike starts at the parking next to Roc'h Trevezel. We clim
 
 It is almost noon. We enjoy the walk but it is time to eat. We found a big rock that we could climb. Oggy stays and watch, good boy. That rock was the home of a strange bottle under a stone. Looked like some home made alcohol left there just in case. We had a ham sandwich with a view. Perfect moment worth a three Michelin stars.
 
-{{< photo src="2.webp" alt="on grimpe pour le repas" >}}
+![on grimpe pour le repas](2.webp)
 
 Second part of the walk is mostly next to the road. This is way less enjoyable. We pass by Botmeur. This is a lovely village which is the start of a lot of hikes around here. We will pass by a group of hikers there. They will be faster than us as we keep stopping and watching things around. We stopped when a group of cows started to follow us in their field. We will also stop to chat with a couple eating next to their van. This makes me envious. It will happen soon enough.
 

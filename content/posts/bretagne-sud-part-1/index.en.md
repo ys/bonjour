@@ -21,7 +21,7 @@ summary: "We decided we should have a staycation. We wanted to discover our new 
 
 We decided we should have a staycation. We wanted to discover our new region. We definitively think about travelling differently, slower. For this time, the plan is Carnac, Quiberon, “La Pointe du Raz” and Crozon. A road trip across south of Brittany. Simple enough but also full of wonders. Mystic, Wild and classic places to discover or rediscover.
 
-{{< photo src="14.webp" alt="light through waves" >}}
+![light through waves](14.webp)
 
 ## Carnac
 
@@ -39,7 +39,7 @@ Nicolas is waiting for us at his place. He shows us around. He is super enthusia
 
 Now it is time for Quiberon. The wild coast is well named, even more with the largest tides of the year. The sound of the waves, water’s music, is fascinating. We stop and watch. We will come back multiple times to see that sea attacking the cliffs. We wanna see it all, walk it all. But this time, is not the right time for this. A small adventurer needs many breaks. He loves what he is seeing and that pumps him up. What a pleasure to explain to him all of this. Waves again, more waves, water exploding on the cliffs. It looks like a big wet firework. We stop at a local brewery, [Zephyr](https://www.zephyr-biere.com). It tastes good. We will take a box, please.
 
-{{< photo class="fullwidth" src="11.webp" alt="Waves crashing on cliffs" >}}
+![Waves crashing on cliffs](11.webp)
 
 {{< grid images="12.webp | 6.webp" >}}
 

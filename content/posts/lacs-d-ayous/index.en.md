@@ -23,7 +23,7 @@ resources:
   name: "cover"
 ---
 
-{{< photo src="1.webp" alt="vue du parking" >}}
+![vue du parking](1.webp)
 
 It's 6:30 am, time to get to the parking lot. That parking lot can get full pretty quickly. A guard told us that we needed to be there before 8am if we wanted to get in. We have a full tank and an hour drive ahead of us, we should be all good.
 
@@ -37,7 +37,7 @@ From Edgar, we already have a scenic view. We start slowly up to a wonderful pla
 
 Once we exit the woods, the panorama is breathtaking and stays that way until we reach the lakes. We get to the first one, the Roumassot lake connected to the second, Miey lake, via a waterfall. After that one, it doesn't take us long to get to the wonderful Gentau Lake and its refuge. We arrive at the same time than a flock of sheeps led by a shepherd's dog they call a "patou". We'll never forget that white ball of fluff who walked around us. The dog will come to us and play with Oggy a little bit. Once we are wool free again, we will stop near the lake facing Jean-Pierre, the pic du midi d'Ossau. Time to eat our sandwiches. Horses will run next to us to the lake for a little sip.
 
-{{< photo src="6.webp" class="vertical" >}}
+![6.webp](6.webp)
 
 {{< grid images="7.webp | 8.webp" >}}
 
@@ -47,7 +47,7 @@ We see people packing their tent. They are getting ready to continue their hike 
 Let's go, I leave the refuge behind me after filling my water bottle. Time to climb the steep path into the National park. After the Ayous lakes, you get a set of smaller beautiful lakes. I pass next to many people with binoculars watching birds. I will think about it for next time. The beauty of the nature and landscapes is enough for me this time. I walk faster alone and it is a real pleasure to be there feeling like an ibex jumping from rock to rock. After Bersau lake, time to go down with an ease that surprise me.
 
 
-{{< photo src="cover" alt="refuge d'ayous" >}}
+![refuge d'ayous](cover)
 
 {{< grid images="10.webp | 11.webp | 12.webp" >}}
 
@@ -55,6 +55,6 @@ After climbing down, my legs are aching a bit and I feel less adventurous. I am 
 
 I cannot wait to do it again with Tom, Cloé and our little girl. Why not also sleep up there in a tent, take a swim in the lake when waking up and continuing. This hike was epic!
 
-{{< photo src="2.webp" alt="symbole du parc" >}}
+![symbole du parc](2.webp)
 
 *You can find this tour in the [Microadventure guide](https://www.lesothers.com/guide-microaventure-france) published by Les Others*

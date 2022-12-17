@@ -13,7 +13,7 @@ categories:
 - journal
 ---
 
-{{< photo src="cover" alt="books" >}}
+![books](cover)
 
 I wanted to share some inspiring books I have on my coffee table. I just received a crazy inspiring book. Our house is filling slowly of books that are feeding our life change, slow life and future projects.
 
@@ -28,7 +28,7 @@ I keep mentioning [Fforest](https://coldatnight.co.uk) lately. That retreat plac
 In this book, they are celebrating time spent outdoos in the nature. May it by in the woods or near the ocean. This books will give you plenty of small activities to do outdoor. From seaweed's identification to flatbread on fire.
 Pictures are made by the talented [Finn Beales](https://madebyfinn.com). He is one of my favorite photographers and he really adds something to this book.
 
-[{{< photo src="3.webp" alt="fforest">}}](https://fforest.bigcartel.com/product/fforest-being-doing-making-in-nature)
+[![fforest](3.webp)](https://fforest.bigcartel.com/product/fforest-being-doing-making-in-nature)
 
 [Link to the book](https://fforest.bigcartel.com/product/fforest-being-doing-making-in-nature)
 
@@ -40,7 +40,7 @@ Gestalten is one those book editors where every book could be something I want a
 
 This one is about a new farmers generation. They are an inspiring back to the land group of folks. Like the title says from farm to table. Inspiring portraits, recipes and pictures are the right recipe for this book. If you know anything about our projects, you might understand why I love this book.
 
-[{{< photo src="1.webp" alt="farmlife" >}}](https://gestalten.com/products/farmlife)
+[![farmlife](1.webp)](https://gestalten.com/products/farmlife)
 
 [Link to the book](https://gestalten.com/products/farmlife)
 
@@ -52,7 +52,7 @@ This last recommendation is also the most recent one in my library. Another gem 
 
 This book is a serie of portraits from around the world. People keeping traditions alive. Modern craftmen/women, inspiring texts and beautiful pictures! Keep those traditions alive, reconnecting to nature and not forgetting the past. I couldn't expect anything better!
 
-[{{< photo src="2.webp" alt="the new traditional" >}}](https://gestalten.com/collections/stay-inspired/products/new-traditional)
+[![the new traditional](2.webp)](https://gestalten.com/collections/stay-inspired/products/new-traditional)
 
 [Link to the book](https://gestalten.com/collections/stay-inspired/products/new-traditional)
 

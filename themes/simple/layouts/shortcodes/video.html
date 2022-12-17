@@ -3,7 +3,7 @@
 {{ $mp4 := .Page.Resources.GetMatch (printf "*%s.mp4" (.Get "src")) }}
 {{ $webm := .Page.Resources.GetMatch (printf "*%s.webm" (.Get "src")) }}
 {{ if (or $mp4 $webm) }}
-<figure class=" {{ if not .Parent }}lg:-mx-16 my-6 {{else}} not-prose{{end }}">
+<figure class=" {{ if not .Parent }} my-6 {{else}} not-prose{{end }}">
   <video class="block relative shadow-lg " autoplay muted loop>
     {{ with $webm }}
       <source src="{{.RelPermalink}}" type="video/webm">

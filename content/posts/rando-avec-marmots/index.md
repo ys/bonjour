@@ -34,7 +34,7 @@ Cela fait maintenant 5 ans que l'on se balade dans la nature avec notre petit bo
 
 <hr/>
 
-{{< photo src="6.webp" alt="Tom et Cloe planifient" >}}
+![Tom et Cloe planifient](6.webp)
 
 ## Avant le départ
 
@@ -50,7 +50,7 @@ Partagez le tracé de la balade, personnellement, j'adore lui montrer ce que l'o
 
 Un dernier point important, prenez des chaussures adaptées. Une bonne paire peut faire votre vadrouille comme une mauvaise peut la tuer. Pas besoin de surinvestir, une bonne [petite paire de chez decathlon](https://www.decathlon.fr/ch-mh500-mid-wtp-jr-marron-id_8343067.html) fera l'affaire.
 
-{{< photo src="4.webp" alt="dans les herbes" >}}
+![dans les herbes](4.webp)
 
 ## En route les marmots
 
@@ -66,7 +66,7 @@ Dans nos jeux favoris:
 - Trouver un baton de marche
 - Trouver la feuille de l'arbre annoncé
 
-{{< photo src="5.webp" alt="observation" >}}
+![observation](5.webp)
 
 Aussi, depuis quelques temps, nous avons commencé à chercher des géocaches avec Tom. Installer l'application de [geocaching](https://www.geocaching.com/play), trouvez des lieux proches de chez vous et incorporez les dans vos marches. Mieux encore, certains font des caches sur une boucle de randonnée. Cela permet de passer de cache en cache et de ne pas voir les kilomètres passer. Je pense que plus jeune, cela n'aurait pas marché. Maintenant, la chasse au trésor est vraiment un must! Elle nous permet d'augmenter les distances sans le remarquer.
 
@@ -76,5 +76,5 @@ Pour les plus jeunes, vous pouvez vous limiter à des tours poussettes friendly.
 
 Le but est toujours de s'amuser et de prendre l'air. Trouvez un équilibre et profitez. Découvrez ensemble. Observez la nature et vos marmots. On a toujours quelque chose à apprendre de eux.
 
-{{< photo src="2.webp" alt="le randonneur" >}}
+![le randonneur](2.webp)
 {{< grid images="3.webp | 1.webp" >}}

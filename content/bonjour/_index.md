@@ -27,4 +27,4 @@ Elle n'est pas encore périodique, cela dépend de vous.
 * Promis je ne revends pas tes données et je ne te spammerai pas. Je déteste cela
 </small>
 
-{{< photo src="main" alt="bonjour" >}}
+![bonjour](main)

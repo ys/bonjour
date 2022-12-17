@@ -39,7 +39,7 @@ summary: "On avait décidé de ne pas partir bien loin. On voulait découvrir no
 
 On avait décidé de ne pas partir bien loin. On voulait découvrir notre region d’adoption. On veut voyager différemment, plus lentement. On ferait Carnac, Quiberon, la Pointe du Raz et Crozon. Un road trip en Bretagne sud. Facile et efficace. Du mystique, du sauvage et du classique à découvrir ou approfondir.
 
-{{< photo src="14.webp" alt="light through waves" >}}
+![light through waves](14.webp)
 
 ## Carnac
 
@@ -57,7 +57,7 @@ Nicolas nous reçoit dans sa maison. Il nous fait faire le tour. Il est enthousi
 
 On se dirige vers Quiberon. La côte sauvage porte bien son nom, encore plus en cette période de grande marée. Le bruit des vagues, la musique de l’eau est envoûtante. On se pose et on regarde. On reviendra plusieurs fois voir cette mer qui s’attaque aux falaises. On veut la faire en entière cette côte. On devra revenir pour le faire en une fois. Avec un petit aventurier, on fait beaucoup de pauses. Il aime ce qu’il voit et ça le motive. Quel plaisir de lui expliquer. Encore des vagues, plus de vagues, de l’eau qui explose sur les falaises en un feu d’artifice humide. On s’earrête à la [brasserie Zéphyr](https://www.zephyr-biere.com). Elle nous goûte bien. On prendra une caisse s’il vous plaît.
 
-{{< photo class="fullwidth" src="11.webp" alt="Waves crashing on cliffs" >}}
+![Waves crashing on cliffs](11.webp)
 
 {{< grid images="12.webp | 6.webp" >}}
 

@@ -21,7 +21,7 @@ Comme neuf, vraiment top pour scanner ses négatifs avec un DSLR.
 
 *Prix: 275€*
 
-{{< photo src="mk135" >}}
+![mk135](mk135)
 
 ### Negative Supply Copy Stand Basic Riser MK1
 
@@ -29,7 +29,7 @@ Comme neuf. [Voir plus](https://www.negative.supply/shop-all/basic-riser-mk1)
 
 *Prix: 150€*
 
-{{< photo src="copystand" >}}
+![copystand](copystand)
 
 ### Negative Supply 4x5" Light source (95 CRI)
 
@@ -37,4 +37,4 @@ Comme neuf. [Voir plus](https://www.negative.supply/shop-all/light-source)
 
 *Prix: 80€*
 
-{{< photo src="light" >}}
+![light](light)

@@ -25,4 +25,4 @@ One of our favorite small action that built into an habit is cleaning our beache
 
 If you wanna help even more, don't hesitate to go check [Surfrider](https://surfrider.eu) OR [Surfers against sewage](https://www.sas.org.uk/). Don't hesitate to give to charities or give some time. Your time is your most precious gift. Earth says thanks and Tom is too.
 
-{{< photo src="1.webp" alt="Tom n'aime pas les dechets" class="vertical" >}}
+![1.webp](1.webp)

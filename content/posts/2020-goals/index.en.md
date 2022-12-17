@@ -10,7 +10,7 @@ categories:
   - journal
 ---
 
-{{< photo src="cover.webp" alt="Garden's shed" >}}
+![Garden's shed](cover.webp)
 
 I ended 2019 by reading [Digital Minimalism](https://www.amazon.fr/Digital-Minimalism-Living-Better-Technology/dp/0241341132) by Cal Newport. This allows me to reflect on my way of using technology pretty well, more specifically that small buzzing thing in my pocket.
 

@@ -14,7 +14,7 @@ resources:
 summary: "Aujourd'hui, je viens de manger notre première pomme. Ca vous fait un truc quand elle vient de chez vous. Votre production donne ses fruits. C'est assez fou, on les a pas planté. Merci les anciens propriétaires mais quand même. Enfin je mens, j'en ai déjà mangé mais c'était de la compote en fait. Ca fait quand même plus quelque chose quand tu croques dedans."
 ---
 
-{{< photo src="hello-world.webp" >}}
+![hello-world.webp](hello-world.webp)
 
 Aujourd'hui, je viens de manger notre première pomme. Ca vous fait un truc quand elle vient de chez vous. Votre production donne ses fruits. C'est assez fou, on les a pas planté. Merci les anciens propriétaires mais quand même. Enfin je mens, j'en ai déjà mangé mais c'était de la compote en fait. Ca fait quand même plus quelque chose quand tu croques dedans.
 
@@ -25,8 +25,8 @@ Un lot de choses se sont passées. Certaines que je vous raconterai d'autres pas
 Les démarches avancent, on a fait de belles petites balades, on a découvert de belles plages. On a rencontré un peu les voisins et on se dit qu'on sera bien ici. La Bretagne n'a pas connu la canicule et on avait bon quand le reste de l'Europe suait. Notre potager se porte bien, il pleut effectivement en Bretagne mais vraiment pas trop en fait. Ca nous a permis de rester un peu à la maison et de profiter du salon. On a aussi pris le temps de faire un feu pour couper le froid. Ca prévoit des hivers fantastiques.
 
 
-{{< photo src="main-picture.webp" >}}
+![main-picture.webp](main-picture.webp)
 
 Ah oui et aussi on a agrandi la famille. On a maintenant un petit ami à quatre pattes nommé Oggy, un bébé berger australien adorable. Il aime pas encore ni son collier ni sa laisse, mais nous il a l'air de bien nous apprécier. J'ai hâte de pouvoir faire de belles vadrouilles avec lui. Découvrir la Bretagne en automne à nous quatre ca promet de fantastiques photos et moments. Mais ca sera pour plus tard.
 
-  {{< photo src="hello-world-5.webp" class="vertical" >}}
+  ![hello-world-5.webp](hello-world-5.webp)

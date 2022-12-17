@@ -27,7 +27,7 @@ summary: "It is summer time, you wanna read something but you don't know what. D
 
 It is summer time, you wanna read something but you don't know what. Don't worry, I got you covered.
 
-{{< photo src="cover" >}}
+![cover](cover)
 
 I really enjoy reading books lately. It is often somehow related to nature when it is not a technical book. and I wanted to share a quick few recommendations with y'all. I love books so expect more of these. I challenged myself to read 35 books and keep track on [goodreads](https://www.goodreads.com/bonjouryannick).
 
@@ -35,7 +35,7 @@ I really enjoy reading books lately. It is often somehow related to nature when 
 
 Here are three good recommendations.
 
-{{< photo src="4.webp" alt="les huit montagnes" >}}
+![les huit montagnes](4.webp)
 
 ## [The eight mountains](https://amzn.to/32l2uhH) by Paolo Cognetti
 
@@ -44,7 +44,7 @@ It is also a good story around loneliness. And a story about a father and a son,
 
 I would also suggest another one by Paolo Cognetti, the [wild boy](https://amzn.to/30nu4JA). The story also takes place in the Italian mountains.
 
-{{< photo src="1.webp" alt="Indian creek" >}}
+![Indian creek](1.webp)
 
 ## [Indian Creek Chronicles: A winter alone in the Wilderness](https://amzn.to/2G7RwTx) by Pete Fromm
 
@@ -53,7 +53,7 @@ One of the first nature writing book I read. The story of a student spending its
 Another great story of man vs the loneliness of wilderness. Highly recommended. There is [a sequel](https://amzn.to/2xOpI1D) to this one where he is now a father. And hoped to bring his kids with him.
 Both are true stories.
 
-{{< photo src="3.webp" alt="The Dharma Bums" >}}
+![The Dharma Bums](3.webp)
 
 ## [The Dharma Bums](https://amzn.to/2GaveAn) by Jack Kerouac
 

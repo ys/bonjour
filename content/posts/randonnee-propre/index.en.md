@@ -29,7 +29,7 @@ Having a trash bag allow you especially to pick up trash left by others. This is
 
 ## Where should I start?
 
-{{< photo src="1.webp" alt="Déchets ramassés sur la plage" class="vertical" >}}
+![1.webp](1.webp)
 
 You don't need much. Just remember to have a trash bag in your bag. Don't hesitate to have some pair of gloves also just to pick whatever you find.
 
