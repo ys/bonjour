@@ -5,7 +5,7 @@ emoji: 💌
 description: "Un petit moment d'échappement dans votre boîte mail"
 date: 2020-10-07T12:57:50+02:00
 draft: false
-type: "newsletter"
+type: "grid"
 color: jazzberry
 background: "[#F5DBCB]"
 resources:
@@ -27,4 +27,3 @@ Elle n'est pas encore périodique, cela dépend de vous.
 * Promis je ne revends pas tes données et je ne te spammerai pas. Je déteste cela
 </small>
 
-![bonjour](main)
