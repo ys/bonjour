@@ -33,7 +33,7 @@ Je suis désolé chers lecteurs. Je vous ai laissé sur votre faim. Je me suis d
 
 Je vous ai déjà dit que je gardait tous les liens qui me plaisaient et que je les archivais. Je fais ça pour moi, mais [en public](https://yannickschutz.com/bookmarks). Et là, paf un tweet qui me dit que c'est utile. Et là, je me sens non pas comme un coq. Mais juste heureux d'avoir partager. Heureux aussi que cela plaise. Cela flatte un rien mon égo.
 
- ![un tweet](un_tweet.jpg)
+ ![un tweet](un_tweet.webp)
 
 Ces derniers temps, je n'ai pas lu beaucoup de bouquins. Donc je ne vous en parlerai pas. Je viens quand même de commencer [le dernier livre de Sally Rooney](https://en.wikipedia.org/wiki/Beautiful_World,_Where_Are_You). Et j'aime toujours autant sa prose. Je ne vous le conseille pas encore, j'ai lu 10% selon mon Kindle qui tombe en ruine.
 
