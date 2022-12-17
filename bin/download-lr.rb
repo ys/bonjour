@@ -4,9 +4,10 @@ require "date"
 require "uri"
 
 class Downloader
-  def initialize(space_id, album_id)
+  def initialize(space_id, album_id, year)
     @space_id = space_id
     @album_id = album_id
+    @year = year
   end
 
   def run
@@ -15,7 +16,7 @@ class Downloader
     assets = JSON.parse(resp)["resources"]
     assets #.sort_by { |a| DateTime.parse(a["payload"]["captureDate"]) }
       .each_with_index do |a,i|
-        `wget -O content/daily/#{i.to_s.rjust(3, "0")}.jpg https://photos.adobe.io/v2/spaces/#{@space_id}/#{a["asset"]["links"]["/rels/rendition_type/1280"]["href"]}`
+        `wget -O content/daily/#{@year}/#{i.to_s.rjust(3, "0")}.jpg https://photos.adobe.io/v2/spaces/#{@space_id}/#{a["asset"]["links"]["/rels/rendition_type/1280"]["href"]}`
       end
   end
 
@@ -24,4 +25,4 @@ class Downloader
   end
 end
 
-Downloader.new(ARGV[0], ARGV[1]).run
+Downloader.new(ARGV[0], ARGV[1], ARGV[2]).run
