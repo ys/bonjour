@@ -2,6 +2,7 @@ require "net/http"
 require "json"
 require "date"
 require "uri"
+require "yaml"
 
 class Downloader
   def initialize(space_id, album_id, year)
@@ -25,4 +26,8 @@ class Downloader
   end
 end
 
-Downloader.new(ARGV[0], ARGV[1], ARGV[2]).run
+daily = YAML.load(File.read("data/daily.yaml"), symbolize_names: true)
+
+daily[:years].each do |year, info|
+  Downloader.new(info[:space_id], info[:album_id], year).run
+end

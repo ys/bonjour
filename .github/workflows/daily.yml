@@ -23,8 +23,7 @@ jobs:
           rm -rf content/daily/**/*.jpg
       - name: Fetch daily album
         run: |
-          ruby bin/download-lr.rb 13cbcdaab0da455280c265b1dd584d62 e0a92dbaa22a4c8aa3ee6814ef07fcda 2021
-          ruby bin/download-lr.rb c956826ad53e40348badfa1129cc6e73 0c4b327104644b1f9b962aaf8ef4c555 2022
+          ruby bin/download-lr.rb
       - name: Convert to webp
         run: |
           for file in $(find content/daily \( -iname "*.jpg" -or -iname "*.jpeg" -or -iname "*.png" -or -iname "*.tif" -or -iname "*.bmp" \)) ; do
