@@ -18,7 +18,7 @@ resources:
 summary: "Lors de notre dernière balade au Signal de Botrange, nous passons devant la porte de Drossart, on y voit des voitures et on se dit que l’on doit y revenir. Voici chose faite. Plusieurs balades au départ allant de 2 à 8km sont possibles. On a environ deux heures devant nous, on choisit celle de 4km. Suivons les rectangles verts."
 ---
 
-{{< photo class="fullwidth" src="DSCF8808.webp" >}}
+![DSCF8808.webp](DSCF8808.webp)
 
 Lors de notre dernière balade au Signal de Botrange, nous passons devant la porte de Drossart, on y voit des voitures et on se dit que l’on doit y revenir. Voici chose faite. Plusieurs balades au départ allant de 2 à 8km sont possibles. On a environ deux heures devant nous, on choisit celle de 4km. Suivons les rectangles verts.
 
@@ -26,7 +26,7 @@ Lors de notre dernière balade au Signal de Botrange, nous passons devant la por
 
 Nous commençons par une marche sur un chemin parallèle à la route qui nous amène auprès d’un carrefour bordé d’une cabane en bois. 4 ou 7km, le choix peut encore être fait. Notre chemin longe un petit court d’eau, il fait trop froid pour y tremper les pieds mais en été, le remonter peut être rigolo pour un enfant. De l’autre côté, des petits étangs, souvenirs des guerres, qui sont en réalité, des trous d’obus. Une bombe qui aura amené un vrai petit biotope avec le temps.
 
-{{< photo class="fullwidth" src="DSCF8827.webp" >}}
+![DSCF8827.webp](DSCF8827.webp)
 
 Au bout du chemin de sapins, nous voici dans la fagne. Avec le soleil assez bas, elle a de magnifiques reflets dorés. Nous montons sur un sentier de caillebotis, juste assez large pour une personne, des endroits sont aménagés pour les dépassements et croisements, un vrai plaisir pour Tom.
 
@@ -38,7 +38,7 @@ On reviendra pour faire la grande boucle qui semble longer la fagne. Cette boucl
 
 {{< grid images="DSCF8830.webp | DSCF8832.webp | DSCF8835.webp" >}}
 {{< grid images="DSCF8836.webp | DSCF8838.webp" >}}
-{{< photo src="DSCF8852.webp" >}}
+![DSCF8852.webp](DSCF8852.webp)
 
 ### INFORMATION
 

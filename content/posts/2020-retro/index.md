@@ -24,7 +24,7 @@ Elle a commencé par une petite baignade du 1er janvier avec des amis. Elle a au
 
 ## Rencontre et confinement
 
-{{< photo src="DSCF3347.webp" alt="pied louise" >}}
+![pied louise](DSCF3347.webp)
 
 Le mois de mars sera pour beaucoup le mois du confinement. Nous, c'était un mois magique. On sort de la maternité le 2 mars et l'on se retrouve vite confiné à 4. On a de la chance, notre maison a un beau jardin comme vous l'avez sans doute déjà vu. On y passera pas mal de temps. On fera des tours de jardin en poussette pour faire dormir Louise et profiter du soleil. On installe enfin une serre sur le terrain et on se laisse vivre. On essayera de planter avec Tom, mais c'est surtout ce que Cloé plantera qui réussira. J'ai eu la chance d'avoir un congé paternité de 4 mois sur l'année. Tom reçoit ses leçons par e-mail et on a des jeux et [défis à réaliser](https://yannickschutz.com/mandala-du-dimanche/).
 
@@ -33,13 +33,13 @@ Le mois de mars sera pour beaucoup le mois du confinement. Nous, c'était un moi
 On profitera du déconfinement pour échanger le California pour un fourgon un peu plus gros, Merci les Mignard! [On le rodera en partant vers les Vosges](https://yannickschutz.com/un-ete-en-36-poses/). Elles deviendront un running gag quotidien. On s'avance vers elles mais on ne les rejoindra jamais. On se balade en Champagne au final. C'est bien aussi, le Lac du Der est une chouette découverte, on dort à côté des caves et on remplit le coffre. On ira même voir le village de ce bon vieux général de Gaulle. On ne montera pas voir la croix de Lorraine. Car il faut payer pour se balader à ses pieds, la nature à assez à offrir sans cela. On adore ce nouveau van, on est plus à l'aise tous les 4 avec le chien dedans. On rentre en passant par la Loire, encore une histoire de vin. Un bon Bourgueil bio qu'on a déjà liquidé. On revient en bord de mer, elle nous a manqué. On se rend compte que ce Finistère, on l'a bien adopté. Il nous gagne et on l'adore. On aura la visite de la famille et de quelques amis sur l'été. On partagera notre amour de notre nouveau chez nous avec eux. Cela ne fait que renforcer cette connection avec cette Finis terra.
 
 
-{{< photo src="cover" alt="la mer" >}}
+![la mer](cover)
 
 ## Homme libre toujours tu cheriras la mer
 
 En juin, avec Tom [on commence le surf](https://yannickschutz.com/se-mettre-a-l-eau/). Finalement! On adore, un vrai moment père fils. Même si en fait, on ne se voit quasi pas durant les leçons. L'été passe trop vite, pas le temps de prendre une leçon. On reprendra à l'automne. On est pas encore reconfiné alors on en profite. Chaque week-end, à l'eau. On progresse, je tiens debout, je commence à tourner. JB et Jean-Phi de l'[école de surf du Léon](https://www.ecole-surf-leon.com) y sont pour beaucoup, merci les gars. Je m'entraîne à mieux me lever, je lis, je regarde. J'ai une planche en vue. Deux combis. Je craque pour un Nikonos. Je demande de l'aide à [Greg](https://gregorymignard.com) et [Yves](https://yvesquere.com) pour me sentir plus à l'aise dans l'eau. Hâte de reprendre tout cela où je l'ai laissé. La mer est vraiment ma révélation du Finistère et de l'année. Une amie plutôt salée que j'aime voir et revoir.
 
-{{< photo src="surf.webp" alt="surf" >}}
+![surf](surf.webp)
 
 ## Fin du numérique
 

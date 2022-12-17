@@ -31,7 +31,7 @@ summary: "Cela fait déjà une semaine que nous avons pris la route. On signe le
 
 > Berrien, France. Hier, 998 habitants... Aujourd'hui, 1001.
 
-{{< photo src="tylucie.webp" >}}
+![tylucie.webp](tylucie.webp)
 
 Cela fait déjà une semaine que nous avons pris la route. On signe les papiers de la maison et on démarre cette nouvelle vie. À la moitié de la route, Cloé le sent bien, on le fera d'une traite. La nuit n’était pas tombée. Ils nous avaient laissé un matelas et un lit. Juste ce qu’il nous fallait en attendant les déménageurs qui viendraient deux jours plus tard. Les clés étaient prêtes et nous attendaient.
 
@@ -51,7 +51,7 @@ Troisième rencontre, des amis des anciens propriétaires. Anglais eux aussi. Il
 
 Je me sens bien. On dirait une petite communauté. C’est chouette. Le hameau est petit, vite fait le tour. On croise petit à petit les gens. Des belles rencontres que j’ai hâte de voir grandir.
 
-{{< photo src="cover" >}}
+![cover](cover)
 
 _Petit aparté, je viens de tuer deux moustiques. Désolé pour leurs familles._
 

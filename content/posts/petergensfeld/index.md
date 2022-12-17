@@ -31,11 +31,11 @@ On se gare et on est parti. On rentre dans les bois après avoir traversé le vi
 
 Le soleil aurait du se lever. Le ciel est gris. On ne verra pas beaucoup ses rayons mais on est bien au calme. On ne croisera que deux personnes sur cette vadrouille. La forêt est nôtre.
 
-{{< photo class="fullwidth" src="cover" >}}
+![cover](cover)
 
 On croisera les ruines d'un petit hameau agricole qui fut déserté pour préserver les eaux du barrage de la Vesdre. Juste après cela, on rentre dans un paysage de fagnes à perte de vue que l'on ne fera que longer.
 
 Retour dans les bois, la pluie fait son apparition petit à petit. D'abord discrète, elle se fera plus intense une fois que l'on aura plus d'arbres au dessus de nous. On finira la balade trempés jusqu'aux os. Elle n'était pas censée s'inviter.
 
-{{< photo src="petergensfeld-5.webp" >}}
+![petergensfeld-5.webp](petergensfeld-5.webp)
 

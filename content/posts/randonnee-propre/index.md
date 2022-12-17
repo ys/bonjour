@@ -29,7 +29,7 @@ Avoir un sac à déchets permet surtout aussi de ramasser ceux que les autres la
 
 ## Par où commencer?
 
-{{< photo src="1.webp" alt="Déchets ramassés sur la plage" class="vertical" >}}
+![1.webp](1.webp)
 
 Il ne vous faut pas de gros matériel. Rappelez-vous de mettre un sac dans votre sac qui servira au déchets. N'hésitez pas à embarquer aussi une paire de gants de travaux ou jardinage pour ne pas avoir peur de ramasser des déchets qui ne sont pas les vôtres.
 

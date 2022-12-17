@@ -13,7 +13,7 @@ aliases:
   - "2020-04-16"
 ---
 
-{{< photo src="cover.webp" alt="Cloe et le café" >}}
+![Cloe et le café](cover.webp)
 
 ## Petite histoire toute personnelle du café
 

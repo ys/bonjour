@@ -43,12 +43,12 @@ Comme parfois, la météo n’était pas des plus clémentes. On arrive, on se g
 
 On marche dans le sable pour rejoindre le GR34. Le chien s’amuse avec les algues et se fait un petit casse-croute. On grimpe sur les falaises et admire la vue. C’est magique et envoûtant. La force des vagues, la beauté de l’eau qui claque sur la falaise. Le va et vient des vagues le long de la plage. Le bruit de l’eau.
 
-{{< photo src="_DSF2506.webp" >}}
+![_DSF2506.webp](_DSF2506.webp)
 
 On grimpe encore et on se balade, on se perd dans les petits sentiers. Sur leurs bords, des murets de cailloux. On se pose, on pique nique. On passe par les petits villages le long de la côte pour rejoindre notre point de départ.
 
-{{< photo src="_DSF2581.webp" >}}
+![_DSF2581.webp](_DSF2581.webp)
 
 Une balade qui nous donne envie de revenir. On trouve un airbnb pour revenir lors des plus grosses marées. C’est dans une semaine. J’ai hâte. L’appel de la mer, je suppose.
 
-{{< photo src="cover" class="fullwidth" >}}
+![cover](cover)

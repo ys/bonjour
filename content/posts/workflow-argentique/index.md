@@ -6,7 +6,7 @@ date: 2021-01-31T12:24:02+01:00
 draft: false
 skipArchives: true
 favorite: true
-tags: 
+tags:
 - lightroom
 - argentique
 - pellicule
@@ -31,7 +31,7 @@ resources:
 
 J'avais envie de vous parler workflow pour la photo argentique. En parler me permet de le figer dans le temps alors qu'il ne cesse de changer et qu'il rechangera avec et avant vos retours. J'en suis certain.
 
-{{< photo src="photos.png" no-shadow="true" no-lqip="true" caption="Pour en arriver là" >}}
+![photos.png](photos.png)
 
 Pour cette recette, il vous faudra:
 - Un frigo
@@ -56,12 +56,12 @@ Ceci n'est que mon workflow actuel, elle n'engage que moi et marche pour le mome
 - Laissez reposer le temps de l'arrivée des scans sur votre ordinateur.
 - Une fois arrivés, utilisez votre outil favori pour les télécharger et rangez les dans un dossier de votre choix.
 
-{{< photo src="finder.png" no-shadow="true" no-lqip="true" caption="Mon arborescence de photos" >}}
+![finder.png](finder.png)
 
 {{% note %}}
-En local, j'utilise une arborescence du type `scans/2021/2021-01-10-description-pellicule`.  
-En gros chaque roll est dans un dossier avec une petite description des photos et le type de pellicule utilisée.  
-C'est personnel, je pensais ajouter l'appareil mais ça allait devenir long.  
+En local, j'utilise une arborescence du type `scans/2021/2021-01-10-description-pellicule`.
+En gros chaque roll est dans un dossier avec une petite description des photos et le type de pellicule utilisée.
+C'est personnel, je pensais ajouter l'appareil mais ça allait devenir long.
 En gros `Daily` est mon disque dur du quotidien. [Un SSD de 1To de chez Sandisk](https://www.digit-photo.com/SANDISK-Disque-Dur-SSD-Extreme-Portable-1Tb-V2-USB-3-1-rSANDISKSDSSDE611T0.html).
 {{%/ note%}}
 
@@ -73,9 +73,9 @@ En gros `Daily` est mon disque dur du quotidien. [Un SSD de 1To de chez Sandisk]
 
 {{% note %}}
 Je suis un peu parano et j'ai donc en local sur deux disques séparés.
-- `/Volumes/Daily/Photos/2021` 
-- `/Volumes/Backup/Photos/2021`  
-Sur un NAS que je n'allume que mensuellement, une copie complète via `rsync` de `/Volumes/Backup/Photos`.  
+- `/Volumes/Daily/Photos/2021`
+- `/Volumes/Backup/Photos/2021`
+Sur un NAS que je n'allume que mensuellement, une copie complète via `rsync` de `/Volumes/Backup/Photos`.
 J'ai un backup complet de ce disque aussi vers [Backblaze B2](https://backblaze.com) en utilisant [Arq](https://arqbackup.com) sur mac.
 {{%/ note %}}
 
@@ -87,13 +87,13 @@ J'ai un backup complet de ce disque aussi vers [Backblaze B2](https://backblaze.
 - Retravaillez légèrement (ou non) vos favorites. Il n'y a pas de honte à modifier une photo argentique.
 - Exportez les photos en laissant NLP écraser les données [EXIF](https://fr.wikipedia.org/wiki/Exchangeable_image_file_format) par les siennes et dans un format JPEG qui ne soit pas extrêmement encombrant.
 
-{{< photo src="cover" no-shadow="true" no-lqip="true" caption="smart-collections et metadata" >}}
+![cover](cover)
 
 {{% note %}}
-J'ai personnellement des "smart collections" par appareil et film dans Lightroom. D'où l'utilité du bon remplissage de ces métadonnées. Cela me permet de voir en un clin d'oeil les différentes photos prises au Portra ou Tri-X.  
-Pour en savoir plus sur les métadonnées avec NLP, allez voir sur [ce guide](https://www.negativelabpro.com/guide/film-metadata/).  
-Mon traitement personnel est centré sur le redressement de l'horizon, l'ajustement du cadre, de la balance des blancs et de la luminosité. Cela ne me prend pas plus d'une minute.  
-Je me suffit du bon scan fait par le labo pour les couleurs bien souvent.  
+J'ai personnellement des "smart collections" par appareil et film dans Lightroom. D'où l'utilité du bon remplissage de ces métadonnées. Cela me permet de voir en un clin d'oeil les différentes photos prises au Portra ou Tri-X.
+Pour en savoir plus sur les métadonnées avec NLP, allez voir sur [ce guide](https://www.negativelabpro.com/guide/film-metadata/).
+Mon traitement personnel est centré sur le redressement de l'horizon, l'ajustement du cadre, de la balance des blancs et de la luminosité. Cela ne me prend pas plus d'une minute.
+Je me suffit du bon scan fait par le labo pour les couleurs bien souvent.
 Mon export fait en général 3000px sur le long côté.
 {{%/ note %}}
 
@@ -107,12 +107,12 @@ Mon export fait en général 3000px sur le long côté.
 - Appréciez vos métadonnées dans la recherche. Tout se trouve si facilement. C'est un peu vos contact sheets modernes si vous y pensez.
 - Utilisez votre outil favori de pré-traitement avant de les partagez sur vos réseaux sociaux favoris. Ajoutez des bords blancs dans [Darkroom](https://darkroom.co) par exemple et copiez y vos hashtags favoris.
 
-{{< photo src="exif.png" no-shadow="true" no-lqip="true" caption="les Exif à l'export" >}}
+![exif.png](exif.png)
 
 {{% note %}}
-Comme précisé, j'ai des albums intelligents se basant sur les EXIF et tags par appareil et par film. J'ai aussi un dossier Scans avec des albums par date qui copient un rien les dossiers physiques de mon disque.  
-Je n'utilise pas de cadre blanc sur Instagram pour le moment car une galerie devient horrible une fois le  mode nuit activé. Cela me faisait pleurer.  
+Comme précisé, j'ai des albums intelligents se basant sur les EXIF et tags par appareil et par film. J'ai aussi un dossier Scans avec des albums par date qui copient un rien les dossiers physiques de mon disque.
+Je n'utilise pas de cadre blanc sur Instagram pour le moment car une galerie devient horrible une fois le  mode nuit activé. Cela me faisait pleurer.
 {{%/ note %}}
 
-Voilà, c'est à peu près ma recette complète de traitement de mes photos. Je vous ferai sans doute un article plus poussé sur la partie scan une fois que je la maîtriserai. Je vous ferai sans doute une petite intro à mon setup scans.  
+Voilà, c'est à peu près ma recette complète de traitement de mes photos. Je vous ferai sans doute un article plus poussé sur la partie scan une fois que je la maîtriserai. Je vous ferai sans doute une petite intro à mon setup scans.
 J'ai voulu écrire cet article comme une recette de cuisine, j'espère que cela vous à plu. J'espère que cela inspirera certains. Que cela soit à voler une partie, à partager son flow ou juste à échanger avec moi. D'ailleurs, n'hésitez pas à m'écrire pour me dire comment vous faites. J'adore ce genre d'articles un rien plus technique et geek.

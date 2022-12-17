@@ -17,7 +17,7 @@ summary: "Cet été, j'ai laissé mon Fuji à la maison. Cela fait plusieurs moi
 ---
 
 
-{{< photo src="cover" >}}
+![cover](cover)
 
 
 Cet été, j'ai laissé mon Fuji à la maison. Cela fait plusieurs mois que dans mon sac, je retrouve plus de Portra 400 que de cartes SD. Je me suis dit, pour nos vacances, ralenti, soi présent et profite. Un peu avant l'été, j'ai investi dans un point & shoot. Je voulais quelque chose de facile, quelque chose qui tienne dans la poche. J'ai trouvé mon bonheur sur [les ateliers de Marinette](https://www.ateliers-marinette.fr/fr/photographie/appareils-argentiques/), petite boutique vintage installée à Lyon mais aussi dans les célèbres internets. Mes oeufs se battent pour de l'espace avec des pellicules 35mm maintenant. Dans ma poche, un olympus XA.

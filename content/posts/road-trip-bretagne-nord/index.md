@@ -76,5 +76,5 @@ Kerlouan et ses environs ne nous déçoit pas. On y reviendra. On pose le van su
 
 Les leçons de ce week-end, vivre lentement, profiter, improviser et prévoir l'imprévu.
 
-{{< photo src="17.webp" alt="plage" >}}
-{{< photo src="20.webp" class="fullwidth" alt="Ruine en bord de plage" >}}
+![plage](17.webp)
+![Ruine en bord de plage](20.webp)

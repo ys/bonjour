@@ -12,7 +12,7 @@ categories:
 slug: "100-trucs"
 ---
 
-{{< photo src="cover" alt="coffee" >}}
+![coffee](cover)
 
 1. J'ai envoyé [une photo par semaine](https://yannickschutz.com/details) pendant plus de 3 mois.
 2. J'ai vendu [ma première photo imprimée](https://yannickschutz.com/shop/sunrise-i) et l'ai vue au mur chez des gens <3
@@ -108,6 +108,6 @@ slug: "100-trucs"
 92. J'ai enfin plus ou moins une tête à bonnets
 93. J'ai fait quelques latte art plutôt corrects
 
-On y était presque. C'était un bel exercice à faire mais quelle belle liste. J'ai une mémoire foireuse. J'aimerais ne pas tout mélanger, ni oublier mais bon. 
+On y était presque. C'était un bel exercice à faire mais quelle belle liste. J'ai une mémoire foireuse. J'aimerais ne pas tout mélanger, ni oublier mais bon.
 
 ✌️

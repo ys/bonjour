@@ -15,16 +15,16 @@ resources:
 - src: "*.webp"
 ---
 
-{{< photo src="baraque-michel-2.webp" >}}
+![baraque-michel-2.webp](baraque-michel-2.webp)
 
 Cela fait quelques temps que l'on regarde cette balade. On a souvent fait la fagne de Pôleur. Tom adore les parties recouvertes de caillebotis. Cette balade autour de la Baraque Michel sera en partie sur caillebotis, en partie dans les fagnes et dans les bois.
 
-{{< photo src="baraque-michel-3.webp" >}}
+![baraque-michel-3.webp](baraque-michel-3.webp)
 
 On démarre en passant près du pré où nous avons fait des bonhommes de neige cette hiver. Le vent de face est rafraichissant mais j'espère qu'il ne durera pas trop pour Tom.
 Les mains dans les poches, nous progressons. On observe les têtards dans les mares, saute au dessus des flaques et découvre aussi des petites sources.
 
-{{< photo src="baraque-michel-4.webp" >}}
+![baraque-michel-4.webp](baraque-michel-4.webp)
 
 Nous voici maintenant dans les bois, les premiers caillebotis font leur apparition. Tom nous sert de guide et ouvre la marche. Il adore et saute au dessus des trous où des planches manques.
 
@@ -37,5 +37,5 @@ On finit par replonger dans la forêt surplombant la fagne de Pôleur. C'est un 
 
 Au lieu de 7kms, on finira sur 9kms. Tom ne s'est plaint qu'un petit peu, il a finit sur mes épaules. Mais au final, il a du faire 10km à courir dans tous les sens. Une vraiment belle [balade de rêve](https://www.ostbelgien.eu/fr/fiche/hiking/balades-de-reve-13-fagne-de-la-poleur).
 
-{{< photo src="baraque-michel-9.webp" >}}
-{{< photo src="baraque-michel-10.webp" >}}
+![baraque-michel-9.webp](baraque-michel-9.webp)
+![baraque-michel-10.webp](baraque-michel-10.webp)

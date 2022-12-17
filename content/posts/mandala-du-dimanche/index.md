@@ -14,7 +14,7 @@ categories:
 - confinement
 ---
 
-{{< photo src="DSCF3681.webp" alt="mandala nature">}}
+![mandala nature](DSCF3681.webp)
 
 **Mandala**: n.m. _Dans le tantrisme hindou et bouddhique, diagramme symbolique représentant l'évolution et l'involution de l'univers par rapport à un point central._
 
@@ -37,14 +37,14 @@ Les mandalas, alignements et autres créations natures me rappellent fortement [
 
 {{< grid images="DSCF3671.webp | DSCF3672.webp" >}}
 
-{{< photo src="DSCF3675.webp" alt="mandala nature">}}
+![mandala nature](DSCF3675.webp)
 
 {{< grid images="DSCF3682.webp | DSCF3685.webp" >}}
 
 {{< grid images="DSCF3703.webp | DSCF3679.webp | DSCF3705.webp" >}}
 
-{{< photo src="DSCF3707.webp" alt="mandala nature">}}
+![mandala nature](DSCF3707.webp)
 
-{{< photo src="cover" alt="mandala nature">}}
+![mandala nature](cover)
 
 **Un grand merci à Gaetane et Marina, maitresses à l'école de Berrien.**

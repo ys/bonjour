@@ -43,7 +43,7 @@ La première partie de la balade commence au parking au pied de roc’h Trevezel
 
 Il est déjà midi. On marche bien mais c’est l’heure de manger. On a pu se poser en haut d’un rocher. Oggy restait et observait, bon chien. Ce rocher abritait une drôle de bouteille cachée sous une pierre. On aurait dit un grog qui traînait la pour au cas où. On profitera de la vue avec un sandwich au jambon. Petit moment parfait qui valait trois étoiles au Michelin
 
-{{< photo src="2.webp" alt="on grimpe pour le repas" >}}
+![on grimpe pour le repas](2.webp)
 
 La balade est principalement en bord de route dans sa seconde partie. Ce qui est beaucoup moins agréable. Nous passons par Botmeur. Charmant petit village d’où partent pas mal de randonnées. D’ailleurs quand on passe, un groupe se prépare sur la place du village. Ce groupe nous rattrapera d'ailleurs. On fait des pauses pour regarder les vaches qui nous suivent dans leur pré, quelles curieuses. On s’arrêtera aussi pour papoter avec un couple en van, qui s’était arrêté pour manger. Cela me donne envie. Cela ne saura tarder.
 

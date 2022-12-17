@@ -34,4 +34,4 @@ Un des petits gestes qu'on a pris comme habitude, c'est de nettoyer les plages. 
 
 Si vous voulez aussi aider nos océans et plages, n'hésitez pas à aller faire un tour sur le site de [Surfrider](https://www.surfrider.eu) ou [Surfers Against Sewage](https://www.sas.org.uk/). N'hésitez pas à faire des dons ou à donner de votre personne. Votre temps est votre don le plus précieux. La Terre vous dit merci. Et Tom aussi.
 
-{{< photo src="1.webp" alt="Tom n'aime pas les dechets" class="vertical" >}}
+![1.webp](1.webp)
