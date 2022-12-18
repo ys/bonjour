@@ -18,39 +18,59 @@
   {{ end }}
 {{ end }}
 
-{{ if $src }}
+{{ $mp4 := .Page.Resources.GetMatch (printf "*%s.mp4" (.Destination)) }}
+{{ $webm := .Page.Resources.GetMatch (printf "*%s.webm" (.Destination)) }}
+{{ if (or $mp4 $webm) }}
+<figure class="">
+  <video class="block relative shadow-lg " autoplay muted loop>
+    {{ with $webm }}
+      <source src="{{.RelPermalink}}" type="video/webm">
+    {{end}}
+    {{ with $mp4 }}
+      <source src="{{.RelPermalink}}" type="video/mp4">
+    {{end}}
+    {{ with .Title }}
+      <figcaption class="text-center -mt-4 text-sm  text-gray-500 ">
+        {{ . }}
+      </figcaption>
+    {{ end }}
+  </figure>
+{{ else }}
+  {{ if $src }}
 
-<figure class=" my-6">
-  {{/* set image sizes, these are hardcoded for now, x dictates that images are resized to this width */}}
-  {{ $format := "webp" }}
-  {{ if eq $src.MediaType.SubType "gif" }}
-    {{ $format = "gif" }}
-  {{ end }}
 
-  {{ $lqipr := printf "20x %s" $format }}
-  {{ $smallr :=  printf "800x %s" $format }}
-  {{ if gt $src.Height $src.Width }}
-    {{ $lqipr = printf "x20 %s" $format }}
-    {{ $smallr = printf "x800 %s" $format }}
-  {{ end }}
-  {{ $lqip := $src.Resize $lqipr }}
-  {{ $small := $src.Resize $smallr}}
-  {{ if eq $src.MediaType.SubType "gif" }}
-    {{ $small = $src }}
-  {{ end }}
-  {{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
-  {{/* set the sizes attribute to (min-width: 35em) 1200px, 100vw unless overridden in shortcode */}}
+  <figure class=" my-6">
+    {{/* set image sizes, these are hardcoded for now, x dictates that images are resized to this width */}}
+    {{ $format := "webp" }}
+    {{ if eq $src.MediaType.SubType "gif" }}
+      {{ $format = "gif" }}
+    {{ end }}
 
-  <picture class="block relative hover:shadow-xl hover:shadow-{{$.Page.Scratch.Get "color" }}/20 shadow-lg {{ if gt $src.Height $src.Width }} mx-auto w-2/3{{ end }} img" style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover">
-    <img loading="lazy" alt="{{ with .Text }}{{ . }}{{ else }}{{ .Destination }}{{ end }}"
-      class="cursor-pointer m-0 h-auto w-full lazyload" data-action="zoom"
-      data-zoom-src="{{ $src.RelPermalink}}" src="{{ $small.RelPermalink }}" width="{{ $src.Width }}"
-      height="{{ $src.Height }}">
-  </picture>
-  {{ with .Title }}
-  <figcaption class="text-center -mt-18 text-sm  text-gray-500 ">
-    {{ . }}
-  </figcaption>
+    {{ $lqipr := printf "20x %s" $format }}
+    {{ $smallr :=  printf "800x %s" $format }}
+    {{ if gt $src.Height $src.Width }}
+      {{ $lqipr = printf "x20 %s" $format }}
+      {{ $smallr = printf "x800 %s" $format }}
+    {{ end }}
+    {{ $lqip := $src.Resize $lqipr }}
+    {{ $small := $src.Resize $smallr}}
+    {{ if eq $src.MediaType.SubType "gif" }}
+      {{ $small = $src }}
+    {{ end }}
+    {{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
+    {{/* set the sizes attribute to (min-width: 35em) 1200px, 100vw unless overridden in shortcode */}}
+
+    <picture class="block relative hover:shadow-xl hover:shadow-{{$.Page.Scratch.Get "color" }}/20 shadow-lg {{ if gt $src.Height $src.Width }} mx-auto w-2/3{{ end }} img" style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover">
+      <img loading="lazy" alt="{{ with .Text }}{{ . }}{{ else }}{{ .Destination }}{{ end }}"
+        class="cursor-pointer m-0 h-auto w-full lazyload" data-action="zoom"
+        data-zoom-src="{{ $src.RelPermalink}}" src="{{ $small.RelPermalink }}" width="{{ $src.Width }}"
+        height="{{ $src.Height }}">
+    </picture>
+    {{ with .Title }}
+    <figcaption class="text-center -mt-18 text-sm  text-gray-500 ">
+      {{ . }}
+    </figcaption>
+    {{ end }}
+  </figure>
   {{ end }}
-</figure>
 {{ end }}
