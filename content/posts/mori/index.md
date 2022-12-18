@@ -28,9 +28,9 @@ Je ne vous parle pas souvent de mon travail, mais grossièrement, on simplifie l
 Il y a presque deux ans, je tombe sur une [campagne Kisskissbankbank](https://www.kisskissbankbank.com/fr/projects/mori-film-lab-a-new-wave-film-photography-lab-and-community-hub-in-brussels) un peu par hasard. Je clique sur une des récompenses et décide de participer à l'aventure. Leur campagne est un succès. Premiers rolls envoyés en récompense. On papote sur [instagram](https://instagram.com/morifilmlab). Leur concept me plaît beaucoup. Je commence donc à envoyer mes films vers la Belgique. Les premiers résultats sont tops, Raph et Cole font vraiment un bon boulot. Leur idée d'un seul tarif avec des scans HD par défaut fait mouche.
 
 {{< two count="3" >}}
-  ![barriere.webp](barriere.webp)
+  {{< img src="barriere.webp" alt="Barriere" >}}
   {{< video src="scan" type="video/webm" preload="auto" >}}
-  ![fridge.webp](fridge.webp)
+  {{< img src="fridge.webp" alt="Fridge" >}}
 {{</ two >}}
 
 Entre temps, ils ouvrent, en pleine pandémie, une chambre noire en plein Bruxelles. Ils organisent plein de workshops, balades découvertes et autres. Vraiment un labo super motivé et motivant. Je suis sur qu'ils ont encore plein de surprises pour nous. Je n'hésite jamais à leur donner toutes les idées les plus folles qui me passent par la tête. Malheureusement, comme je l'ai dit au début, on a tous un temps fini et il faut faire des choix. J'espère que on pourra continuer à se motiver et se pousser les uns les autres.
