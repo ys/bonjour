@@ -38,7 +38,7 @@
   {{ end }}
   <div  class="prose mt-8">
     {{.Content}}
-    {{ if .Params.price_id }}
+    {{ if .Params.price }}
       <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
       <form action="" method="post" id="stripe-form{{ if .Params.soldout }}-nope{{ end }}">
         <input type="hidden" name="price_id" value="{{.Params.price_id}}" />
