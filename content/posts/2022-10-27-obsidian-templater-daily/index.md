@@ -1,5 +1,6 @@
 ---
 title: "Obsidian daily"
+emoji: "💎"
 categories:
 - journal
 subtitle: "Adding weather and geoloc to notes"
@@ -10,6 +11,9 @@ resources:
 color: teal
 date: 2022-10-27
 ---
+
+
+*warning: I moved back to iA Writer, was missing the minimalism, no headaches of it.*
 
 I am migrating all my notes from Day One to Obsidian.
 But I found myself missing that small extra part of day weather and address.
