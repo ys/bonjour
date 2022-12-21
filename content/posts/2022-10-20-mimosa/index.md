@@ -2,6 +2,7 @@
 title: "Mimosa Surfboards"
 categories:
   - journal
+emoji: "🏄‍♂️"
 resources: 
 - name: '*.webp'
 color: teal
