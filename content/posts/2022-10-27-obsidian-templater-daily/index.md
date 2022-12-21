@@ -1,5 +1,7 @@
 ---
 title: "Obsidian daily"
+categories:
+- journal
 subtitle: "Adding weather and geoloc to notes"
 resources: 
 - name: '*.webp'
