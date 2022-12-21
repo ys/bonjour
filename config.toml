@@ -12,6 +12,7 @@ canonifyURLs = false
 [build]
   writeStats = true
 [params]
+  backgroundColor = true
   ogURL = "https://og.yannickschutz.com"
   footer = "👋 Yannick - Have fun."
   text_404 = "Perdu?"

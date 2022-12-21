@@ -1,7 +1,6 @@
 ---
 title: "Selling some nice things on paper"
 description: "Amazing pictures on gorgeous paper"
-type: grid
 emoji: "💸"
 menu:
   main:

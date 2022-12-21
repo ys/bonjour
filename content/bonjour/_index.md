@@ -5,7 +5,6 @@ emoji: 💌
 description: "Un petit moment d'échappement dans votre boîte mail"
 date: 2020-10-07T12:57:50+02:00
 draft: false
-type: "grid"
 color: jazzberry
 background: "[#F5DBCB]"
 resources:
