@@ -3,7 +3,7 @@
       {{.Content}}
     </div>
     {{ if (in .Site.Params.showFooter .Type) }}
-      {{ partial "article_signature" . }}
       {{ partial "article_footer" . }}
+      {{ partial "article_signature" . }}
     {{ end }}
 </div>
