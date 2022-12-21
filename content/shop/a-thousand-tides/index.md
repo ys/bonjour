@@ -1,9 +1,10 @@
 ---
 color: teal
-title: "A thousand tides - zine"
+title: "A thousand tides"
 soldout: true
 grid: "es6 / es2 | es3 | es4"
-subtitle: "~~18€~~ *Sold Out*"
+subtitle: "Il y a un peu plus de milles marées mais est-ce vraiment important?"
+pricetag: "~~18€~~ *Sold Out*"
 price: "18.00"
 currency: "EUR"
 price_id: "price_1KhdAaFaA8Wpl3EpuCoGpElU"
@@ -11,8 +12,6 @@ resources:
   - src: "*.webm"
   - src: "*.webp"
 ---
-
-## A thousand tides
 
 *Prix 18€ - Frais de port inclus*
 
