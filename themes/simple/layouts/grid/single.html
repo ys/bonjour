@@ -16,7 +16,7 @@
 {{ $columns := dict }}
 {{ $rowid := 0 }}
 {{ $colid := 0 }}
-{{ $possibilities := slice  2 3 4 }}
+{{ $possibilities := slice  3 }}
 {{ $itemsonrow := index (shuffle $possibilities) 0 }}
 {{ range $index, $img := $allimages }}
   {{ $columns = merge $columns (dict (string (mod $index $itemsonrow)) (dict "Images" (slice $img)))}}
@@ -31,7 +31,7 @@
 {{ end }}
 {{ $rows = merge $rows (dict (string $rowid) $columns) }}
   <div data-pswp >
-    <div class=" mx-2">
+    <div class=" mx-4 max-w-6xl">
     {{ partial "grid" $rows }}
     </div>
   </div>

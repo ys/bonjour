@@ -15,14 +15,14 @@
           {{ .Title  |markdownify}}
   </a>
       </h2>
-      <h3 class="line-clamp-1 text-sm text-darker italic transition ease-in-out duration-400 ">
+      <h3 class="line-clamp-2 text-sm text-darker italic transition ease-in-out duration-400 ">
         {{ with .Params.subtitle }}
         {{ . }}
         {{ else }}
           {{ with .Params.description }}
-            {{ . | truncate 100 }}
+            {{ . | truncate 200 }}
           {{ else}}
-            {{ .Summary |markdownify | truncate 100 }}
+            {{ .Summary |markdownify | truncate 200 }}
           {{ end }}
         {{ end }}
       </h3>

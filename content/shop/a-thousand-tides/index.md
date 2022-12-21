@@ -3,7 +3,7 @@ color: teal
 title: "A thousand tides - zine"
 soldout: true
 grid: "es6 / es2 | es3 | es4"
-subtitle: "soldout"
+subtitle: "~~18€~~ *Sold Out*"
 price: "18.00"
 currency: "EUR"
 price_id: "price_1KhdAaFaA8Wpl3EpuCoGpElU"

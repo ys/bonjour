@@ -1,5 +1,7 @@
 ---
 color: forest
+columns:
+- 3
 title: Partager des détails
 seotitle: "Détail, une photo par semaine - ✌️ Bonjour Yannick"
 hideSubscribe: true

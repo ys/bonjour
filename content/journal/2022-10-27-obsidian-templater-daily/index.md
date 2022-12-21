@@ -1,4 +1,6 @@
 ---
+title: "Obsidian daily"
+subtitle: "Adding weather and geoloc to notes"
 resources: 
 - name: '*.webp'
 - name: '*.mp4'
@@ -6,8 +8,6 @@ resources:
 color: teal
 date: 2022-10-27
 ---
-
-## Obsidian: Adding weather and geoloc to Daily notes
 
 I am migrating all my notes from Day One to Obsidian.
 But I found myself missing that small extra part of day weather and address.
