@@ -30,7 +30,7 @@ type Letter = {
 const filename = Deno.args[0]
 const data = await readJSON(filename)
 data.results.forEach((letter: Letter) => {
-	let letterName = `./content/bonjour/${letter.secondary_id}.md`
+	let letterName = `./content/bonjour/${letter.secondary_id}/index.md`
 	exists(letterName).then((exist) => {
 		if (!exist) {
 			Deno.writeTextFileSync(letterName,
