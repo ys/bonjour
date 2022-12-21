@@ -72,6 +72,7 @@ module.exports = {
         rose: "#FF206E",
         teal: "teal",
         ocean: "#235789",
+        indigo: "#2B4162",
         dark: "#2d2f34",
         darker: "#1F2023"
       },

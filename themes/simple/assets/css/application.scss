@@ -28,7 +28,7 @@ html {
   @apply italic border-accent font-normal;
 }
 
-$colors: accent, fire, ocean, sunray, forest, purpleheart, jazzberry, rose, teal, tuscan, coral;
+$colors: accent, fire, ocean, sunray, forest, purpleheart, jazzberry, rose, teal, tuscan, coral, indigo;
 @each $color in $colors {
 
   .content-#{$color} .post blockquote {
