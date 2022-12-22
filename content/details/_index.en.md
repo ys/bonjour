@@ -2,7 +2,6 @@
 color: forest
 title: Sharing some details
 seotitle: "Detail - a picture per week - ✌️ Bonjour Yannick"
-type: grid
 menu:
   footer:
     weight: 4
