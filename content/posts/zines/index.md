@@ -17,6 +17,8 @@ tags:
   ]
 description: " Après avoir commencé à vouloir éditer mon premier zine, je suis tombé dans un trou de lapin. Un trou sans réel fond. Un terrier aux milles couloirs. Le monde du zine est multiple divers et varié."
 resources:
+  - src: "cover.webp"
+    name: "cover"
   - src: "*.webp"
 ---
 
