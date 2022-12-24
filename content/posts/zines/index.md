@@ -37,6 +37,9 @@ Je ferai peut-être des volumes plus prémium avec des coutures singer commère 
 J'ai eu quelques coups de coeur de cette année.
 J'en ai plein d'autres, je commencer à ajouter tout ça dans [une liste](https://www.are.na/share/POqtDJm). Mais voici déjà un petit aperçu.
 
+
+{{< video src="zineloop" type="video/webm" preload="auto" >}}
+
 ### [Leftovers #2](https://www.etsy.com/fr/listing/1359780283/restes-zine-numero-2)
 
 Un super petit zine design au look vraiment sympa, une mise en page fun et qui part dans tous les sens. On aime le détail à la livraison: Une série de petits stickers détournés et le logo 
