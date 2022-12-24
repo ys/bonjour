@@ -1,4 +1,4 @@
-<span class="text-xs my-4 block prose">
+<span class="text-sm my-4 block prose">
   💌 Que faire maintenant? Tu t'ennuies, tu as une idée ou juste envie de papoter? <a class="link" href="mailto:{{.Site.Params.social.email}}?subject=About {{.Title}} - {{ .Permalink }}">envoie un email</a>.
   {{ with .Parent.OutputFormats.Get "rss" }}
     Tu ne veux rien louper? Abonne-toi au <a href="{{ .RelPermalink | safeURL }}" class="link" title="{{ $.Site.Title }}">RSS</a>.
