@@ -48,7 +48,7 @@ Un super petit zine design au look vraiment sympa, une mise en page fun et qui p
 
 ![leftovers](leftovers.webp)
 
-### [The summer reportSite](https://summer.report/)
+### [The summer report](https://summer.report/)
 
 Une collaboration, des textes attrayants et une belle séries de photos, de la vanlife, de l'outdoor, du surf, du vélo. Plusieurs belles histoires ponctuent ce zine. Il me rappelle un projet que je n'ai pas encore fini. Je l'ai entamé, je vous en parlerai un jour sans doute.
 
