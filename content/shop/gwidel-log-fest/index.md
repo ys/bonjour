@@ -9,9 +9,9 @@ grid: "cover / logfest_11 | logfest_3 | logfest_18"
 currency: "EUR"
 price_ids: 
   - value: "price_1MO507FaA8Wpl3EpMwTP1b1T"
-    name: "10€ sans envoi"
+    name: "12€ • envoi Europe"
   - value: "price_1MO507FaA8Wpl3Epyk5gpZG7"
-    name: "15€ avec envoi"
+    name: "16€ • envoi Mondial"
 resources:
   - src: "*.webm"
   - src: "*.webp"
