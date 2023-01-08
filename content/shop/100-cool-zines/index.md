@@ -27,7 +27,7 @@ Ce zine est édité en 22 exemplaires. Pas un de plus.
 Les frais de port sont inclus pour l'Europe continentale.
 Pour le reste du monde, le prix est un rien plus élevé.
 
-*Prix 7€* (13€ pour un envoi mondial)
+*Prix ~7€* 
 
 
 

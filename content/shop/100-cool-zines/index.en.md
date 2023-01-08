@@ -27,7 +27,7 @@ This edition is a limited edition. Only 22 available.
 Shipping is including for continental Europe.
 If you want it anyway, I included an international shipping price.
 
-*Price 7€* (13€ with international shipping)
+*Price ~7€*
 
 
 <div class="text-sm">
