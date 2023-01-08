@@ -7,9 +7,9 @@ pricetag: "Available soon"
 grid: "cover / 100things_5 | 100things_6"
 currency: "EUR"
 price_ids:
-  - name: "12€ • Europe Shipping"
+  - name: "7€ • Europe Shipping"
     value: "price_1MO5WbFaA8Wpl3Epp2HCWI8H"
-  - name: "16€ • Worldwide Shipping"
+  - name: "13€ • Worldwide Shipping"
     value: "price_1MO5WbFaA8Wpl3Ep9GsjdQgS"
 resources:
   - src: "*.webm"
@@ -27,7 +27,7 @@ This edition is a limited edition. Only 22 available.
 Shipping is including for continental Europe.
 If you want it anyway, I included an international shipping price.
 
-*Price 12€* (16€ with international shipping)
+*Price 7€* (13€ with international shipping)
 
 
 <div class="text-sm">

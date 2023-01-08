@@ -6,9 +6,9 @@ date: 2023-01-04
 pricetag: "Bientôt disponible"
 grid: "cover / 100things_5 | 100things_6"
 price_ids:
-  - name: "12€ • envoi Europe"
+  - name: "7€ • envoi Europe"
     value: "price_1MO5WbFaA8Wpl3Epp2HCWI8H"
-  - name: "16€ • envoi Monde"
+  - name: "13€ • envoi Monde"
     value: "price_1MO5WbFaA8Wpl3Ep9GsjdQgS"
 currency: "EUR"
 resources:
@@ -25,9 +25,9 @@ Ce zine est édité en 22 exemplaires. Pas un de plus.
 ## Précommande bientôt disponible.
 
 Les frais de port sont inclus pour l'Europe continentale.
-Si vous voulez toutefois l'acheter et que je vous l'envoie au delà, n'hésitez pas à me laisser un petit message et on s'arrangera.
+Pour le reste du monde, le prix est un rien plus élevé.
 
-*Prix 12€*
+*Prix 7€* (13€ pour un envoi mondial)
 
 
 
