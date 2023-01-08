@@ -2,9 +2,10 @@
 color: "[#226ECE]"
 title: "Gwidel Log Fest"
 subtitle: "Emgav longboard dre bedadenn"
-pricetag: "10€"
+soon: true
+date: 2023-03-01
+pricetag: "Bientôt disponible"
 grid: "cover / logfest_11 | logfest_3 | logfest_18"
-price: "10.00"
 currency: "EUR"
 price_ids: 
   - value: "price_1MO507FaA8Wpl3EpMwTP1b1T"
@@ -21,7 +22,7 @@ Ce zine comprend une série de photos faites à l'argentique sur les deux jours 
 Loin de la photo de surf d'action, j'ai plutôt essayer de retranscrire l'ambiance et les sourires du jour.
 
 
-## Précommande
+## Précommande bientôt disponible.
 
 Le zine sera disponible pour la deuxième édition du [Gwidel Log Fest](https://www.instagram.com/cool_waves56/).
 
