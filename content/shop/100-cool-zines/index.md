@@ -20,7 +20,7 @@ Ce zine se compose de environ 100 moments qui font du bien à se remémorer et c
 
 Le texte est en anglais 🇬🇧
 
-Ce zine est édité en 22 exemplaires. Pas un de plus.
+Ce zine est édité à 22 exemplaires. Pas un de plus.
 
 ## Précommande bientôt disponible.
 
@@ -28,8 +28,6 @@ Les frais de port sont inclus pour l'Europe continentale.
 Pour le reste du monde, le prix est un rien plus élevé.
 
 *Prix ~7€* 
-
-
 
 <div class="text-sm">
 Description: <br/> 

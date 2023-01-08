@@ -20,7 +20,7 @@ This zine contains a list of about 100 of my favorite moments. Those feel good m
 
 Text is in english 🇬🇧
 
-This edition is a limited edition. Only 22 available.
+This edition is a limited edition. Only 22 will be available.
 
 ## Preorder available soon.
 
