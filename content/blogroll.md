@@ -21,6 +21,6 @@ Some great websites, blogs and portfolios of friends and great people I kind of 
 - https://muan.co
 - https://thenewsprint.co
 - https://tbdd.be
-- https://ppinera.es
+- https://pepicrft.me
 - https://leziwok.com
 - https://elisebrun.fr
