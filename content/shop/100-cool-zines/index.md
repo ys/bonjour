@@ -27,6 +27,8 @@ Pour le reste du monde, le prix est un rien plus élevé.
 
 *Prix ~7€* 
 
+**Ceci est une précommande, le zine sera envoyé vers la fin du mois**
+
 <div class="text-sm">
 Description: <br/> 
 livre A6 <br/> 
