@@ -3,7 +3,8 @@ title: "One hundred cool things in twenty twenty two"
 subtitle: "My favorite moments of the year and some shots"
 soon: true
 date: 2023-01-04
-pricetag: "Available soon"
+pricetag: "7€ + shipping"
+price: "7.00"
 grid: "cover / 100things_5 | 100things_6"
 currency: "EUR"
 price_ids:
@@ -20,15 +21,12 @@ This zine contains a list of about 100 of my favorite moments. Those feel good m
 
 Text is in english 🇬🇧
 
-This edition is a limited edition. Only 22 will be available.
-
-## Preorder available soon.
+**This is a limited edition. Only 50 will be available.**
 
 Shipping is including for continental Europe.
 If you want it anyway, I included an international shipping price.
 
 *Price ~7€*
-
 
 <div class="text-sm">
 Description: <br/> 

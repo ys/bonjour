@@ -1,9 +1,9 @@
 ---
 title: "One hundred cool things in twenty twenty two"
 subtitle: "Mes moments favoris et quelques images"
-soon: true
 date: 2023-01-04
-pricetag: "Bientôt disponible"
+pricetag: "7€ + frais de ports"
+price: "7.00"
 grid: "cover / 100things_5 | 100things_6"
 price_ids:
   - name: "7€ • envoi Europe"
@@ -20,9 +20,7 @@ Ce zine se compose de environ 100 moments qui font du bien à se remémorer et c
 
 Le texte est en anglais 🇬🇧
 
-Ce zine est édité à 22 exemplaires. Pas un de plus.
-
-## Précommande bientôt disponible.
+**Ce zine est édité à 50 exemplaires. Pas un de plus.**
 
 Les frais de port sont inclus pour l'Europe continentale.
 Pour le reste du monde, le prix est un rien plus élevé.
