@@ -28,6 +28,8 @@ If you want it anyway, I included an international shipping price.
 
 *Price ~7€*
 
+**This is a preorder, the zine will be ship by the end of the month**
+
 <div class="text-sm">
 Description: <br/> 
 A6 size<br/> 
