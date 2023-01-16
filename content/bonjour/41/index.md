@@ -10,6 +10,9 @@ emoji: 💌
 title: "Bonjour - 41 - Vitamine D, Papier et Kickflip"
 color: jazzberry
 slug: "41"
+resources:
+  - src: "*.webp"
+summary: "Nouvelle année, meilleurs voeux. Je ne sais pas vous mais moi comme chaque année maintenant, je dormais quand les feux d'artifices ont sans doute explosé."
 ---
 *hello, moi c'est [Yannick](https://yannickschutz.com). je ne suis pas du tout régulier dans cette lettre et c'est peut-être tant mieux. je ne sais pas pourquoi je l'écris, souvent vous, lecteur, remplacez une séance chez un psy ou un appel à un ami je pense. donc merci merci d’être là. si vous aimez, n’hésitez pas à la partager. sinon, ne la partagez pas. Oops, deux en une semaine, il doit vraiment vouloir papoter.*
 
