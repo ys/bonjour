@@ -33,6 +33,7 @@ data.results.forEach((letter: Letter) => {
 	let letterName = `./content/bonjour/${letter.secondary_id}/index.md`
 	exists(letterName).then((exist) => {
 		if (!exist) {
+	                Deno.mkdirSync(`./content/bonjour/${letter.secondary_id}`)
 			Deno.writeTextFileSync(letterName,
 				newLetter(letter.publish_date, letter.subject, letter.secondary_id, letter.body));
 		}
