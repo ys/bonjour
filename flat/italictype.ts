@@ -71,5 +71,6 @@ const byYear = (b: Book) => {
 const booksbyyear = _.groupBy(books, byYear) as BooksByYear
 await Deno.writeTextFile("./data/books/2021.yaml", yaml.dump({ year: 2021, books: booksbyyear[2021] }));
 await Deno.writeTextFile("./data/books/2022.yaml", yaml.dump({ year: 2022, books: booksbyyear[2022] }));
+await Deno.writeTextFile("./data/books/2023.yaml", yaml.dump({ year: 2023, books: booksbyyear[2023] }));
 
 console.log("New books written down")
