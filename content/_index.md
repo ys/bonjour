@@ -15,7 +15,7 @@ resources:
 
 Yannick aime [raconter des histoires](/posts) simples, [capturer des moments ](/daily) anodins et les rendre beaux. Il se balade souvent avec un appareil argentique, un stylo et un carnet.  
 Il aime écrire une [petite lettre](/bonjour) qui parle de tout et de rien.
-Il produit aussi [des tirages limités](/shop) de ses photos favorites. Il aime cette forme de lenteur et l'odeur du papier. I a décidé d'envoyer [une photo par semaine](/details).
+Il produit aussi [des tirages limités](/shop) de ses photos favorites. Il aime cette forme de lenteur et l'odeur du papier. Il a décidé d'envoyer [une photo par semaine](/details).
 
 ![](22x50-0925-06)
 
