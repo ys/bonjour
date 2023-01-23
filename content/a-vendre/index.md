@@ -1,6 +1,6 @@
 ---
-title: "Seconde main"
-description: "C'est bientôt Noël, pensez seconde main."
+title: "A vendre"
+description: "La seconde main, c'est bien"
 date: 2021-11-12T08:57:50+02:00
 draft: false
 type: "about"
