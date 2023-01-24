@@ -24,7 +24,7 @@
 </head>
 
   <body
-      class=" content-{{$.Scratch.Get "color" }} font-serif font-light leading-4 antialiased  text-darker {{if or .Params.backgroundColor $.Site.Params.backgroundColor }}{{with .Params.background}}bg-{{.}} {{end}} bg-{{$.Scratch.Get "color" }} bg-opacity-10 selection:bg-opacity-20 selection:bg-{{$.Scratch.Get "color"}}{{else}}selection:bg-{{$.Scratch.Get "color"}} selection:bg-opacity-20{{end}}">
+      class=" content-{{$.Scratch.Get "color" }} font-serif font-light leading-4 antialiased  dark:bg-darker dark:text-white text-darker {{if or .Params.backgroundColor $.Site.Params.backgroundColor }}{{with .Params.background}}bg-{{.}} {{end}} bg-{{$.Scratch.Get "color" }} bg-opacity-10 selection:bg-opacity-20 selection:bg-{{$.Scratch.Get "color"}}{{else}}selection:bg-{{$.Scratch.Get "color"}} selection:bg-opacity-20{{end}}">
 
     {{ partial "header" . }}
     <div class="lg:container lg:ml-32 lg:max-w-xl w-full  grid grid-cols-1 gap-16 min-h-1/2">
