@@ -2,7 +2,6 @@
 color: coral
 title: "Détailler un beau quotidien"
 summary: "Des détails, des moments, un beau quotidien"
-type: grid
 skip: "cover.png"
 menu:
   main:
