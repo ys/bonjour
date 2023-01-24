@@ -1,0 +1,56 @@
+{{ define "main" }}
+<div class="mb-10 content-{{  $.Scratch.Get "color" }}">
+  <div  class="post prose">
+    {{.Content}}
+  </div>
+</div>
+{{end}}
+{{ define "full" }}
+{{ $current := index .RegularPages 0 }}
+{{ $allimages := slice }}
+{{ range sort ($current.Resources.ByType "image") "Name" "desc"}}
+  {{ if ne .Name "cover" }}
+    {{ $allimages = $allimages | append (dict "Image" .  ) }}
+  {{ end }}
+{{ end }}
+{{ $rows := dict }}
+{{ $columns := dict }}
+{{ $rowid := 0 }}
+{{ $colid := 0 }}
+{{ $possibilities := slice  3 }}
+{{ $itemsonrow := index (shuffle $possibilities) 0 }}
+{{ range $index, $img := $allimages }}
+  {{ $columns = merge $columns (dict (string (mod $index $itemsonrow)) (dict "Images" (slice $img)))}}
+  {{ $colid = add $colid 1 }}
+  {{ if eq $colid $itemsonrow }}
+    {{ $rows = merge $rows (dict (string $rowid) $columns) }}
+    {{ $itemsonrow = index (shuffle $possibilities) 0 }}
+    {{ $columns = dict }}
+    {{ $rowid = add $rowid 1 }}
+    {{ $colid = 0 }}
+  {{ end }}
+{{ end }}
+{{ $rows = merge $rows (dict (string $rowid) $columns) }}
+    {{ $current := . }}
+    <nav class="years mx-auto flex justify-around my-4">
+        <ul class="inline leading-relaxed flex gap-8 ">
+          {{ $menu := .Site.Menus.daily}}
+          {{ range  $menu }}
+          {{ $active := or ($current.IsMenuCurrent "nav" .) ($current.HasMenuCurrent "nav" .) }}
+          {{ $active = or $active (eq .Page.Slug $current.Params.year) }}
+          <li
+              class="inline  relative ">
+            <a class="{{ .Params.class }} whitespace-nowrap {{if $active}} text-gray-800  {{end}} {{ with .Page.Params.color }}hover:text-{{ . }} hover:border-{{ . }} {{ if $active }}underline decoration-solid  decoration-{{ . }} {{ end }}{{ else }}hover:text-{{$.Scratch.Get "color"}} {{ if $active }}underline decoration-solid decoration-{{$.Scratch.Get "color"}} {{ end }}{{ end }} transition ease-in-out duration-200 " href="{{ .URL }}" title="{{ .Title }}">
+
+              {{ .Name }}
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+    </nav>
+  <div data-pswp >
+    <div class=" mx-4 max-w-6xl">
+    {{ partial "grid" $rows }}
+    </div>
+  </div>
+  {{ end }}

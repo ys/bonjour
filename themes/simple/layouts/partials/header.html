@@ -23,25 +23,26 @@
       <span class="group-hover:hidden">{{ . | markdownify }}</span><span class="hidden group-hover:block">← {{ $.Parent.Title}}</span>
       </a>
     {{ else }}
-    <nav class="main_menu ">
-      <ul class="inline leading-relaxed">
-        {{ range .Site.Menus.main }}
-        {{ $active := or ($current.IsMenuCurrent "nav" .) ($current.HasMenuCurrent "nav" .) }}
-        {{ $active = or $active (eq .Page $current) }}
-        {{ $active = or $active (eq .Page.Section $current.Type) }}
-        <li
-            class="inline  relative ">
-          <a class="{{ .Params.class }} whitespace-nowrap {{if $active}} text-gray-800  {{end}} {{ with .Page.Params.color }}hover:text-{{ . }} hover:border-{{ . }} {{ if $active }}underline decoration-solid  decoration-{{ . }} {{ end }}{{ else }}hover:text-{{$.Scratch.Get "color"}} {{ if $active }}underline decoration-solid decoration-{{$.Scratch.Get "color"}} {{ end }}{{ end }} transition ease-in-out duration-200 " href="{{ .URL }}" title="{{ .Title }}">
+    <nav class="main_menu">
+        <ul class="inline leading-relaxed">
+          {{ $menu := .Site.Menus.main}}
+          {{ range  $menu }}
+          {{ $active := or ($current.IsMenuCurrent "nav" .) ($current.HasMenuCurrent "nav" .) }}
+          {{ $active = or $active (eq .Page $current) }}
+          {{ $active = or $active (eq .Page.Section $current.Type) }}
+          <li
+              class="inline  relative ">
+            <a class="{{ .Params.class }} whitespace-nowrap {{if $active}} text-gray-800  {{end}} {{ with .Page.Params.color }}hover:text-{{ . }} hover:border-{{ . }} {{ if $active }}underline decoration-solid  decoration-{{ . }} {{ end }}{{ else }}hover:text-{{$.Scratch.Get "color"}} {{ if $active }}underline decoration-solid decoration-{{$.Scratch.Get "color"}} {{ end }}{{ end }} transition ease-in-out duration-200 " href="{{ .URL }}" title="{{ .Title }}">
 
-            {{ if .Params.useEmoji }}
-            {{ $current.Params.emoji | default $current.Site.Params.emoji}}
-            {{ else }}
-            {{ .Name }}
-            {{ end }}
-          </a>
-        </li>
-        {{ end }}
-      </ul>
+              {{ if .Params.useEmoji }}
+              {{ $current.Params.emoji | default $current.Site.Params.emoji}}
+              {{ else }}
+              {{ .Name }}
+              {{ end }}
+            </a>
+          </li>
+          {{ end }}
+        </ul>
     </nav>
     {{end}}
   </div>

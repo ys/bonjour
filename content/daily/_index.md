@@ -1,6 +1,7 @@
 ---
+year: "2023"
 color: coral
-title: "Détailler un beau quotidien"
+title: "Détailler un beau quotidien * 2023"
 summary: "Des détails, des moments, un beau quotidien"
 skip: "cover.png"
 menu:
