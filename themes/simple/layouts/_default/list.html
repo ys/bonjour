@@ -28,7 +28,7 @@
             loading="lazy"
             style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover"
             alt="{{ .Title }}"
-            class="group-hover:shadow-{{ .Params.color }}/80 shadow-lg group-hover:shadow-xl cursor-pointer object-cover lazy absolute top-0 left-0 w-full h-full"
+            class="group-hover:shadow-{{ .Params.color | default "sunray" }}/30 shadow-lg group-hover:shadow-xl cursor-pointer object-cover lazy absolute top-0 left-0 w-full h-full"
             data-action="zoom"
             data-zoom-src="{{ $src.RelPermalink}}"
             src="{{ $small.RelPermalink }}"
