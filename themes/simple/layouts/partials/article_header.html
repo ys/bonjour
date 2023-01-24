@@ -1,5 +1,5 @@
 <header class=" relative mb-8 text-left ">
-  <h1 class="text-3xl font-black font-sans text-darker   {{ with .Params.Color }}hover:text-{{ . }}-600 {{ else }}hover:text-accent-600{{ end }} transition ease-in-out duration-200">
+  <h1 class="text-3xl font-black font-sans  {{ with .Params.Color }}hover:text-{{ . }}-600 {{ else }}hover:text-accent-600{{ end }} transition ease-in-out duration-200">
     <a alt="section link" class="p-name u-url u-uuid" href="{{ .Parent.RelPermalink | default ("/" | relLangURL )}}">
     {{ .Title }}
     </a>
