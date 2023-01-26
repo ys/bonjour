@@ -16,31 +16,11 @@ Tous les prix sont négociables dans la limite du raisonnable.
 Par [e-mail](mailto:hello@yannickschutz.com) ou sur [Twitter](https://twitter.com/bonjouryannick)
 
 
-### Canon Canonet 28
-
-Mousses a changer
-
-*Prix: 75€*
-
-{{< grid images="canonet1 / canonet2 | canonet3 | canonet4">}}
-
 ### Canon Prima AS1
 
 *Prix: 150€*
 
 {{< grid images="canonprima1 / canonprima2 | canonprima3 | canonprima4">}}
-
-### Lubitel 166+
-
-*Prix: 80€*
-
-{{< grid images="lubitel1 / lubitel2 | lubitel3 | lubitel4">}}
-
-### Olympus XA + flash
-
-*Prix: 200€*
-
-{{< grid images="xa11 / xa12 | xa13 ">}}
 
 ### Olympus XA 
 
@@ -94,3 +74,24 @@ Comme neuf. [Voir plus](https://www.negative.supply/shop-all/light-source)
 *Prix: 80€*
 
 ![light](negativesupply2)
+
+### ~~Canon Canonet 28~~
+
+Mousses a changer
+
+*Prix: Vendu*
+
+{{< grid images="canonet1 / canonet2 | canonet3 | canonet4">}}
+
+### ~~Lubitel 166+~~
+
+*Prix: Vendu*
+
+{{< grid images="lubitel1 / lubitel2 | lubitel3 | lubitel4">}}
+
+### ~~Olympus XA + flash~~
+
+*Prix: Vendu*
+
+{{< grid images="xa11 / xa12 | xa13 ">}}
+
