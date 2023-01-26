@@ -16,7 +16,7 @@
 					{{- $featured := $images.GetMatch "*feature*" -}}
 					{{- $featured := cond (ne $featured nil) $featured ($images.GetMatch "{*cover*,*thumbnail*}") -}}
 					{{- $featured := cond (ne $featured nil) $featured (index $images 0) -}}
-			  {{ ((dict "id" .Permalink "title" .Title "summary" .Summary "tags" .Params.tags "date_published" (.Date.Format "2006-01-02T15:04:05Z0700" ) "content_html" .Content "content_text" .Plain "url" .Permalink "image" $featured.Permalink) | jsonify ) }}
+			  {{ ((dict "id" .Permalink "title" .Title "summary" .Summary "tags" .Params.tags "date_published" (.Date.Format "2006-01-02T15:04:05Z0700" ) "content_html" .Content "content_text" .Plain "url" (.Params.bookmarkOf | default .Permalink) "image" $featured.Permalink) | jsonify ) }}
 			{{ end }}
     ]
 }
