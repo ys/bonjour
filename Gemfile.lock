@@ -7,24 +7,38 @@ GEM
       minitest (>= 5.1)
       tzinfo (~> 2.0)
       zeitwerk (~> 2.3)
+    arena (0.1.3)
+      httparty
+      json
     concurrent-ruby (1.1.9)
     diffy (3.4.2)
     domain_name (0.5.20190701)
       unf (>= 0.0.5, < 1.0.0)
+    dotenv (2.8.1)
     dry-cli (0.7.0)
+    faraday (2.7.4)
+      faraday-net_http (>= 2.0, < 3.1)
+      ruby2_keywords (>= 0.0.4)
+    faraday-net_http (3.0.2)
     gastly (1.1.0)
       mini_magick (~> 4.2)
       phantomjs (~> 2.1.1)
     http-accept (1.7.0)
     http-cookie (1.0.4)
       domain_name (~> 0.5)
+    httparty (0.21.0)
+      mini_mime (>= 1.0.0)
+      multi_xml (>= 0.5.2)
     i18n (1.8.10)
       concurrent-ruby (~> 1.0)
+    json (2.6.3)
     mime-types (3.3.1)
       mime-types-data (~> 3.2015)
     mime-types-data (3.2021.0901)
     mini_magick (4.11.0)
+    mini_mime (1.1.2)
     minitest (5.14.4)
+    multi_xml (0.6.0)
     netrc (0.11.0)
     nokogiri (1.13.6-arm64-darwin)
       racc (~> 1.4)
@@ -41,6 +55,7 @@ GEM
       mime-types (>= 1.16, < 4.0)
       netrc (~> 0.8)
     ruby-oembed (0.16.1)
+    ruby2_keywords (0.0.5)
     tzinfo (2.0.4)
       concurrent-ruby (~> 1.0)
     unf (0.1.4)
@@ -57,8 +72,11 @@ PLATFORMS
 
 DEPENDENCIES
   activesupport
+  arena
   diffy
+  dotenv
   dry-cli
+  faraday
   gastly
   nokogiri
   phantomjs

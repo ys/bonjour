@@ -10,7 +10,7 @@
 		"author": { "name": "{{ .Site.Author.name }}" },
 		{{ end }}
 			"items": [
-      {{ range $i, $e := first 10 (where .RegularPages  ".Params.hidden" "!=" "true") }}
+      {{ range $i, $e := first 1000 (where .RegularPages  ".Params.hidden" "!=" "true") }}
 			{{ if $i }}, {{ end }}
 					{{- $images := .Resources.ByType "image" -}}
 					{{- $featured := $images.GetMatch "*feature*" -}}
