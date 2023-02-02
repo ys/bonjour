@@ -1,4 +1,5 @@
 ---
+favorite: true
 title: "One hundred cool things in twenty twenty two"
 subtitle: "Mes moments favoris et quelques images"
 date: 2023-01-04
