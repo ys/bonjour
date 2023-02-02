@@ -5,6 +5,7 @@ menu:
 linktitle: 🔖 Des Internets 
 title: Sauver les liens du web
 grid: true
+favorite: true
 archived: true
 _build:
   render: true
