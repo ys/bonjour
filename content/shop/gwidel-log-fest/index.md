@@ -5,13 +5,17 @@ subtitle: "Emgav longboard dre bedadenn"
 soon: true
 date: 2023-03-01
 pricetag: "Bientôt disponible"
-grid: "cover / logfest_11 | logfest_3 | logfest_18"
+grid: "cover / logfest_11 | logfest_3 | logfest_18 / IMG_2533 | IMG_0342"
 currency: "EUR"
 price_ids: 
   - value: "price_1MO507FaA8Wpl3EpMwTP1b1T"
     name: "12€ • envoi Europe"
   - value: "price_1MO507FaA8Wpl3Epyk5gpZG7"
-    name: "16€ • envoi Mondial"
+    name: "18€ • envoi Mondial"
+  - value: "price_1MZVgGFaA8Wpl3EpuNoHaC7w"
+    name: "30€ • Zine + A5 premium print • envoi Europe"
+  - value: "price_1MZVgGFaA8Wpl3EpcRPfxd83"
+    name: "40€ • Zine + A5 premium print • envoi Mondial"
 resources:
   - src: "*.webm"
   - src: "*.webp"
@@ -26,10 +30,10 @@ Loin de la photo de surf d'action, j'ai plutôt essayer de retranscrire l'ambian
 
 Le zine sera disponible pour la deuxième édition du [Gwidel Log Fest](https://www.instagram.com/cool_waves56/).
 
-Les frais de port ne sont pas inclus, le but est de vous le remettre en main propre.
-Si vous voulez toutefois l'acheter et que je vous l'envoie, n'hésitez pas à me laisser un petit message et on s'arrangera.
+Les frais de port sont inclus. 
+Je peux vous faire un petit prix si le but est de se croiser, partager des vagues ou autre.
 
-*Prix 10€*
+*Prix 12 -> 40€*
 
 
 
