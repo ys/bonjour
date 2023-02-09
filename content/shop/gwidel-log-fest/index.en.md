@@ -33,7 +33,7 @@ But you probably can have a special price if you wanna meet me instead.
 
 *Price 12 -> 40€*
 
-
+If you picked the one with a print, you can pick one of the two prints from the picture. Just tell me which one :)
 
 <div class="text-sm">
 Description: <br/> 

@@ -35,6 +35,7 @@ Je peux vous faire un petit prix si le but est de se croiser, partager des vague
 
 *Prix 12 -> 40€*
 
+Si vous choisissez le print, c'est un des deux prints de la photo. Dites moi lequel!
 
 
 <div class="text-sm">
