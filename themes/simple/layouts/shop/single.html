@@ -40,7 +40,7 @@
     {{.Content}}
     {{ if .Params.price }}
       <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
-      <form action="" class="mt-4" method="post" id="stripe-form{{ if .Params.soldout }}-nope{{ end }}">
+      <form action="" class="mt-4 dark:prose" method="post" id="stripe-form{{ if .Params.soldout }}-nope{{ end }}">
         {{ if .Params.price_ids }}
         <select name="price_id">
         {{ range .Params.price_ids }}
