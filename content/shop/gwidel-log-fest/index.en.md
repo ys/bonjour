@@ -29,7 +29,7 @@ It is not about the action sport, more about the vibe and smiles you could find 
 Shipping included 
 But you probably can have a special price if you wanna meet me instead.
 
-If you picked the one with a print, you can pick one of the two prints from the picture. Just tell me which one :)
+Those are limited prints, only 10 of each. First come, first serve. Tell me which one you want!
 
 <div class="text-sm">
 Description: <br/> 

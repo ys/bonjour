@@ -31,7 +31,7 @@ Loin de la photo de surf d'action, j'ai plutôt essayer de retranscrire l'ambian
 Les frais de port sont inclus. 
 Je peux vous faire un petit prix si le but est de se croiser, partager des vagues ou autre.
 
-Si vous choisissez le print, c'est un des deux prints de la photo. Dites moi lequel!
+Les prints sont en éditions limités, premier venu, premier servi. Il y en aura 10 de chaque. Dites moi lequel vous voulez.
 
 <div class="text-sm">
 Description: <br/> 
