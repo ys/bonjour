@@ -25,7 +25,7 @@ resources:
 Ce zine comprend une série de photos faites à l'argentique sur les deux jours de festival à Guidel en mai 2022.  
 J'étais avec mon Leica M6 et un Canon prima AS1
 
-Loin de la photo de surf d'action, j'ai plutôt essayer de retranscrire l'ambiance et les sourires du jour.
+Loin de la photo de surf d'action, j'ai plutôt essayé de retranscrire l'ambiance et les sourires du jour.
 
 
 Les frais de port sont inclus. 
