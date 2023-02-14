@@ -14,9 +14,9 @@ price_ids:
   - value: "price_1MO507FaA8Wpl3Epyk5gpZG7"
     name: "15€ • worldwide shipping"
   - value: "price_1MZVgGFaA8Wpl3EpuNoHaC7w"
-    name: "25€ • Zine + A5 premium print • France shipping"
+    name: "25€ • Zine with a limited A5 print • France shipping"
   - value: "price_1MZVgGFaA8Wpl3EpcRPfxd83"
-    name: "30€ • Zine + A5 premium print • Worldwide shipping"
+    name: "30€ • Zine with a limited A5 print • Worldwide shipping"
 resources:
   - src: "*.webm"
   - src: "*.webp"

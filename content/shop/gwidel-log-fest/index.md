@@ -14,9 +14,9 @@ price_ids:
   - value: "price_1MO507FaA8Wpl3Epyk5gpZG7"
     name: "15€ • envoi Mondial"
   - value: "price_1MZVgGFaA8Wpl3EpuNoHaC7w"
-    name: "25€ • Zine + print A5 • envoi France"
+    name: "25€ • Zine + print A5 série limitée • envoi France"
   - value: "price_1MZVgGFaA8Wpl3EpcRPfxd83"
-    name: "30€ • Zine + print A5 • envoi Mondial"
+    name: "30€ • Zine + print A5 série limitée • envoi Mondial"
 resources:
   - src: "*.webm"
   - src: "*.webp"
