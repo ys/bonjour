@@ -27,7 +27,8 @@
         <a href="{{ .source.url }}"
               class="text-darker dark:text-gray-100 hover:bg-{{$color}} bg-opacity-20 ">
         {{ if .image.display.url }}
-        <div class="w-full aspect-[3/2] rounded-sm shadow-lg overflow-hidden">
+        <div class="w-full aspect-[3/2] relative rounded-sm shadow-lg overflow-hidden">
+          <div class="w-full h-full bg-{{$color}} bg-opacity-80 backdrop-blur-sm hidden group-hover:flex absolute top-0 left-0 flex items-center justify-items-center place-items-center p-8"><p class=" block text-white">{{.description}}</p></div>
           <img class="w-full" src="{{ .image.display.url }}"/>
         </div>
         {{ else }}
@@ -37,7 +38,7 @@
         {{ end }}
         <header class="font-sans bottom-4 left-0 w-full z-100 my-2 line-clamp-1 p-2">
           <h2 class="text-gray-800 dark:text-gray-100 font-sans line-clamp-1 no-underline font-semibold text-xs uppercase">{{ .title }}</h2>
-          <h3 class="no-underline font-normal text-xs text-gray-400 group-hover:text-gray-700">{{ .source.provider.name }}</h3>
+          <h3 class="no-underline font-normal text-xs text-gray-400 ">{{ .source.provider.name }}</h3>
         </header>
         </a>
       </article>
@@ -48,13 +49,16 @@
 </div>
 <template id="search-result" hidden>
     {{ if .Params.grid  }}
-  <article class="relative p-2 hover:bg-sunray rounded-md">
+  <article class="group relative p-2 hover:bg-sunray rounded-md">
     <a href=""
           class="text-darker dark:text-gray-100 hover:bg-sunray summary-title-link">
 
-      <img class="w-full rounded-sm shadow-lg bg-sunray post-image" src=""/>
-    <header class="font-sans bottom-4 left-0 w-full z-100 my-2 line-clamp-1 text-gray-800 p-2">
-      <h2 class=" font-sans line-clamp-1 no-underline font-semibold text-xs uppercase post-title"></h2>
+        <div class="relative w-full aspect-[3/2] rounded-sm shadow-lg overflow-hidden">
+          <div class="w-full h-full bg-accent bg-opacity-80 backdrop-blur-sm hidden group-hover:flex absolute top-0 left-0 flex items-center justify-items-center place-items-center p-8"><p class=" block text-white post-description"></p></div>
+          <img class="w-full post-image" />
+        </div>
+    <header class="font-sans bottom-4 left-0 w-full z-100 my-2 line-clamp-1 p-2">
+      <h2 class=" text-gray-800 dark:text-gray-100 font-sans line-clamp-1 no-underline font-semibold text-xs uppercase post-title"></h2>
       <h3 class="no-underline font-normal text-xs text-gray-400 post-host"></h3>
     </header>
     </a>
@@ -200,6 +204,7 @@
       var element = template.content.cloneNode(true);
       element.querySelector(".summary-title-link").href = doc.permalink;
       element.querySelector(".post-title").textContent = doc.title;
+      element.querySelector(".post-description").textContent = doc.description;
       element.querySelector(".post-host").textContent = new URL(doc.bookmarkOf).hostname;
       emoji = element.querySelector(".emoji")
       if (emoji) {
