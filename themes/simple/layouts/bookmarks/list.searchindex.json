@@ -7,7 +7,18 @@
     {{- $entry = merge $entry (dict "content" ($page.content | htmlUnescape)) -}}
     {{- $entry = merge $entry (dict "description" $page.description) -}}
     {{- $entry = merge $entry (dict "emoji" (partial "emoji" .)) -}}
+      {{ $color := "accent" }}
+      {{range first 1 (shuffle (slice "accent" "sunray" "purpleheart" "forest" "jazzberry" "rose" "teal" "tuscan")) }}
+        {{ $color = . }}
+      {{ end }}
+  {{ $src := $headless.Resources.GetMatch $page.image.filename }}
+  {{ if $src }}
+    {{ range first 1 $src.Colors }}
+      {{ $color = printf "[%s]" . }}
+    {{ end }}
+  {{ end }}
 
+    {{- $entry = merge $entry (dict "color" $color) -}}
     {{- $entry = merge $entry (dict "bookmarkOf" $page.source.url) -}}
 
     {{- $entry | jsonify -}}

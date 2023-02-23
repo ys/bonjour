@@ -28,5 +28,9 @@ all = all.reverse
 
 all.reject! { |c| c.dig("source", "url").nil? }
 
+all.each do |link|
+  `wget -O content/bookmarks/images/#{link.dig('image', 'filename')} "#{link.dig('image', 'display', 'url')}"`
+end
+
 File.open("data/liked.yml", "w") { |file| file.write(YAML.dump(all)) }
 
