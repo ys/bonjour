@@ -26,15 +26,17 @@
       <article class="relative group  hover:bg-{{$color}} !bg-opacity-20 p-2 rounded-md">
         <a href="{{ .source.url }}"
               class="text-darker dark:text-gray-100 hover:bg-{{$color}} bg-opacity-20 ">
-        {{ if .image.thumb.url }}
-          <img class="w-full rounded-sm shadow-lg " src="{{ .image.thumb.url }}"/>
+        {{ if .image.display.url }}
+        <div class="w-full aspect-[3/2] rounded-sm shadow-lg overflow-hidden">
+          <img class="w-full" src="{{ .image.display.url }}"/>
+        </div>
         {{ else }}
           <div class="w-full rounded-sm justify-center items-center flex shadow-lg aspect-[3/2] bg-accent-200">
             <div class="text-xl font-bold text-accent text-center block w-64 m-auto h-16"> {{.title}} </div>
           </div>
         {{ end }}
         <header class="font-sans bottom-4 left-0 w-full z-100 my-2 line-clamp-1 p-2">
-          <h2 class="text-gray-800 font-sans line-clamp-1 no-underline font-semibold text-xs uppercase">{{ .title }}</h2>
+          <h2 class="text-gray-800 dark:text-gray-100 font-sans line-clamp-1 no-underline font-semibold text-xs uppercase">{{ .title }}</h2>
           <h3 class="no-underline font-normal text-xs text-gray-400 group-hover:text-gray-700">{{ .source.provider.name }}</h3>
         </header>
         </a>

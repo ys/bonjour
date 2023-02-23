@@ -40,15 +40,15 @@ GEM
     minitest (5.14.4)
     multi_xml (0.6.0)
     netrc (0.11.0)
-    nokogiri (1.13.6-arm64-darwin)
+    nokogiri (1.14.2-arm64-darwin)
       racc (~> 1.4)
-    nokogiri (1.13.6-x86_64-darwin)
+    nokogiri (1.14.2-x86_64-darwin)
       racc (~> 1.4)
-    nokogiri (1.13.6-x86_64-linux)
+    nokogiri (1.14.2-x86_64-linux)
       racc (~> 1.4)
     phantomjs (2.1.1.0)
     pp (0.1.0)
-    racc (1.6.0)
+    racc (1.6.2)
     rest-client (2.1.0)
       http-accept (>= 1.7.0, < 2.0)
       http-cookie (>= 1.0.2, < 2.0)
@@ -66,6 +66,7 @@ GEM
 PLATFORMS
   arm64-darwin-20
   arm64-darwin-21
+  arm64-darwin-22
   x86_64-darwin-20
   x86_64-darwin-21
   x86_64-darwin-22
@@ -86,7 +87,7 @@ DEPENDENCIES
   ruby-oembed
 
 RUBY VERSION
-   ruby 3.1.3p185
+   ruby 3.2.1p31
 
 BUNDLED WITH
    2.2.26
