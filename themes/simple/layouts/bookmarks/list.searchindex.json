@@ -1,9 +1,10 @@
 {{- $headless := .Sites.First.GetPage "/bookmarks/images" -}}
 [
 {{ range $index, $page := .Site.Data.liked }}
+    {{ $src := $headless.Resources.GetMatch $page.image.filename }}
     {{- if gt $index 0 -}} , {{- end -}}
     {{- $entry := dict "uuid" $page.id "title" $page.title -}}
-    {{- $entry = merge $entry (dict "img" $page.image.display.url) -}}
+    {{- $entry = merge $entry (dict "img" $src.RelPermalink) -}}
     {{- $entry = merge $entry (dict "content" ($page.content | htmlUnescape)) -}}
     {{- $entry = merge $entry (dict "description" $page.description) -}}
     {{- $entry = merge $entry (dict "emoji" (partial "emoji" .)) -}}
@@ -11,7 +12,6 @@
       {{range first 1 (shuffle (slice "accent" "sunray" "purpleheart" "forest" "jazzberry" "rose" "teal" "tuscan")) }}
         {{ $color = . }}
       {{ end }}
-  {{ $src := $headless.Resources.GetMatch $page.image.filename }}
   {{ if $src }}
     {{ range first 1 $src.Colors }}
       {{ $color = printf "[%s]" . }}
