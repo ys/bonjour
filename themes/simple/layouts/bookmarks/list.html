@@ -8,20 +8,10 @@
 <div class="links hidden mx-4 py-8 {{ with .Params.grid }}  grid grid-cols-1 lg:grid-cols-2 lg:grid-cols-3 gap-2{{ end}}">
 </div>
 <div class="all-links mx-4 py-8 {{ with .Params.grid }}  grid grid-cols-1 lg:grid-cols-2 lg:grid-cols-3 gap-2{{ end}}">
-  {{ $headless := .Sites.First.GetPage "/bookmarks/images" }}
 {{ range .Site.Data.liked }}
       {{ $color := "accent" }}
       {{range first 1 (shuffle (slice "accent" "sunray" "purpleheart" "forest" "jazzberry" "rose" "teal" "tuscan")) }}
         {{ $color = . }}
-      {{ end }}
-      {{$smol := slice }}
-      {{ $src := $headless.Resources.GetMatch .image.filename }}
-      {{ if $src }}
-        {{ $format := "webp" }}
-        {{ $smol = $src.Fill (printf "600x400 %s" $format) }}
-        {{ range first 1 $smol.Colors }}
-          {{ $color = printf "[%s]" . }}
-        {{ end }}
       {{ end }}
       <article class="relative group  hover:bg-{{$color}} !bg-opacity-20 p-2 rounded-md">
         <a href="{{ .source.url }}"
