@@ -1,8 +1,9 @@
 ---
+favorite: true
 title: "One hundred cool things in twenty twenty two"
 subtitle: "Mes moments favoris et quelques images"
 date: 2023-01-04
-pricetag: "7€ + frais de ports"
+pricetag: "7€"
 price: "7.00"
 grid: "cover / 100things_5 | 100things_6"
 price_ids:

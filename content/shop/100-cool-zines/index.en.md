@@ -3,7 +3,7 @@ title: "One hundred cool things in twenty twenty two"
 subtitle: "My favorite moments of the year and some shots"
 soon: true
 date: 2023-01-04
-pricetag: "7€ + shipping"
+pricetag: "From 7€"
 price: "7.00"
 grid: "cover / 100things_5 | 100things_6"
 currency: "EUR"

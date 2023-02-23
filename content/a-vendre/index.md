@@ -36,12 +36,6 @@ Problème ouverture due à un ressort
 
 {{< grid images="olympus1 / olympus2 | olympus3 | olympus4">}}
 
-### Yashica T4 Safari
-
-*Prix: 500€*
-
-{{< grid images="yashicat41 / yashicat42 | yashicat43 | yashicat44">}}
-
 ### Voigtlander Nokton Classic 35mm 1.4
 
 Monture M
@@ -94,4 +88,10 @@ Mousses a changer
 *Prix: Vendu*
 
 {{< grid images="xa11 / xa12 | xa13 ">}}
+
+### ~~Yashica T4 Safari~~
+
+*Prix: vendu€*
+
+{{< grid images="yashicat41 / yashicat42 | yashicat43 | yashicat44">}}
 
