@@ -9,33 +9,34 @@
 </div>
 <div class="all-links mx-4 py-8 {{ with .Params.grid }}  grid grid-cols-1 lg:grid-cols-2 lg:grid-cols-3 gap-2{{ end}}">
    {{ $headless := .Sites.First.GetPage "/bookmarks/images" }}
-{{ range .Site.Data.liked }}
+    {{ $paginator := (.Paginate (where (where .Sites.First.RegularPages ".Params.archived" "!=" true) "Type" "bookmarks") 2500) }}
+    {{ range $index, $page := $paginator.Pages }}
       {{ $color := "accent" }}
       {{range first 1 (shuffle (slice "accent" "sunray" "purpleheart" "forest" "jazzberry" "rose" "teal" "tuscan")) }}
         {{ $color = . }}
       {{ end }}
-      {{ $src := $headless.Resources.GetMatch .image.filename }}
+      {{ $src := $headless.Resources.GetMatch $page.Params.imageName }}
       {{ if $src }}
         {{ range first 1 $src.Colors }}
           {{ $color = printf "[%s]" . }}
         {{ end }}
       {{ end }}
       <article class="relative group  hover:bg-{{$color}} !bg-opacity-70 p-2 rounded-md">
-        <a href="{{ .source.url }}"
+        <a href="{{ $page.Params.bookmarkOf }}"
               class="text-darker dark:text-gray-100 hover:bg-{{$color}} bg-opacity-70 ">
         {{ if $src }}
         <div class="w-full aspect-[3/2] relative rounded-sm shadow-lg overflow-hidden">
-          <div class="w-full h-full bg-{{$color}} bg-opacity-80 backdrop-blur-sm hidden group-hover:flex absolute top-0 left-0 flex items-center justify-items-center place-items-center p-8"><p class=" block text-white mix-blend-difference">{{.description}}</p></div>
+          <div class="w-full h-full bg-{{$color}} bg-opacity-80 backdrop-blur-sm hidden group-hover:flex absolute top-0 left-0 flex items-center justify-items-center place-items-center p-8"><div class=" block text-white mix-blend-difference prose">{{$page.Content | default $page.Params.description}}</div></div>
           <img class="w-full" src="{{ $src.RelPermalink }}"/>
         </div>
         {{ else }}
           <div class="w-full rounded-sm justify-center items-center flex shadow-lg aspect-[3/2] bg-accent-200">
-            <div class="text-xl font-bold text-accent text-center block w-64 m-auto h-16"> {{.title}} </div>
+            <div class="text-xl font-bold text-accent text-center block w-64 m-auto h-16"> {{$page.Title}} </div>
           </div>
         {{ end }}
         <header class="font-sans bottom-4 left-0 w-full z-100 my-2 line-clamp-1 p-2">
-          <h2 class="text-gray-800 dark:text-gray-100 font-sans line-clamp-1 no-underline font-semibold text-xs uppercase">{{ .title }}</h2>
-          <h3 class="no-underline font-normal text-xs text-gray-400 ">{{ .source.provider.name }}</h3>
+          <h2 class="text-gray-800 dark:text-gray-100 font-sans line-clamp-1 no-underline font-semibold text-xs uppercase">{{ $page.Title }}</h2>
+          <h3 class="no-underline font-normal text-xs text-gray-400 ">{{ $page.Params.provider }}</h3>
         </header>
         </a>
       </article>
@@ -192,6 +193,7 @@
     while (target.firstChild)
       target.removeChild(target.firstChild);
 
+    const parser = new DOMParser();
     var template = document.getElementById("search-result");
     for (var result of results)
     {

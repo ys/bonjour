@@ -1,12 +1,13 @@
 {{- $headless := .Sites.First.GetPage "/bookmarks/images" -}}
 [
-{{ range $index, $page := .Site.Data.liked }}
-    {{ $src := $headless.Resources.GetMatch $page.image.filename }}
+{{ $paginator := (.Paginate (where (where .Sites.First.RegularPages ".Params.archived" "!=" true) "Type" "bookmarks") 2500) }}
+{{ range $index, $page := $paginator.Pages }}
+    {{ $src := $headless.Resources.GetMatch $page.Params.imageName }}
     {{- if gt $index 0 -}} , {{- end -}}
-    {{- $entry := dict "uuid" $page.id "title" $page.title -}}
+    {{- $entry := dict "uuid" $page.Params.uuid "title" $page.Title -}}
     {{- $entry = merge $entry (dict "img" $src.RelPermalink) -}}
-    {{- $entry = merge $entry (dict "content" ($page.content | htmlUnescape)) -}}
-    {{- $entry = merge $entry (dict "description" $page.description) -}}
+    {{- $entry = merge $entry (dict "content" ($page.Content | htmlUnescape)) -}}
+    {{- $entry = merge $entry (dict "description" ($page.Content | default $page.Description)) -}}
     {{- $entry = merge $entry (dict "emoji" (partial "emoji" .)) -}}
       {{ $color := "accent" }}
       {{range first 1 (shuffle (slice "accent" "sunray" "purpleheart" "forest" "jazzberry" "rose" "teal" "tuscan")) }}
@@ -19,8 +20,8 @@
   {{ end }}
 
     {{- $entry = merge $entry (dict "color" $color) -}}
-    {{- $entry = merge $entry (dict "bookmarkOf" $page.source.url) -}}
+    {{- $entry = merge $entry (dict "bookmarkOf" $page.Params.bookmarkOf) -}}
 
-    {{- $entry | jsonify -}}
+    {{- $entry | jsonify ( dict "noHTMLEscape" true) -}}
   {{- end -}}
 ]
