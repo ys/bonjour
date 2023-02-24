@@ -1,5 +1,5 @@
 ---
-color: "[#226ECE]"
+color: "ocean"
 title: "Gwidel Log Fest (zine only)"
 subtitle: "Emgav longboard dre bedadenn"
 date: 2023-02-01
