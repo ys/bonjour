@@ -4,7 +4,7 @@ title: "Gwidel Log Fest (zine + print)"
 subtitle: "Emgav longboard dre bedadenn"
 date: 2023-02-01
 emoji: "🏄‍♂️"
-pricetag: "25€ envoi mondial inclut"
+pricetag: "25€ avec envoi mondial"
 grid: "IMG_2533 / logfest_11 | logfest_3 | logfest_18 "
 price: "25.00"
 currency: "EUR"
