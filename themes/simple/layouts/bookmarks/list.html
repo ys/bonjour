@@ -20,12 +20,12 @@
           {{ $color = printf "[%s]" . }}
         {{ end }}
       {{ end }}
-      <article class="relative group  hover:bg-{{$color}} !bg-opacity-20 p-2 rounded-md">
+      <article class="relative group  hover:bg-{{$color}} !bg-opacity-70 p-2 rounded-md">
         <a href="{{ .source.url }}"
-              class="text-darker dark:text-gray-100 hover:bg-{{$color}} bg-opacity-20 ">
+              class="text-darker dark:text-gray-100 hover:bg-{{$color}} bg-opacity-70 ">
         {{ if $src }}
         <div class="w-full aspect-[3/2] relative rounded-sm shadow-lg overflow-hidden">
-          <div class="w-full h-full bg-{{$color}} bg-opacity-80 backdrop-blur-sm hidden group-hover:flex absolute top-0 left-0 flex items-center justify-items-center place-items-center p-8"><p class=" block text-white">{{.description}}</p></div>
+          <div class="w-full h-full bg-{{$color}} bg-opacity-80 backdrop-blur-sm hidden group-hover:flex absolute top-0 left-0 flex items-center justify-items-center place-items-center p-8"><p class=" block text-white mix-blend-difference">{{.description}}</p></div>
           <img class="w-full" src="{{ $src.RelPermalink }}"/>
         </div>
         {{ else }}
@@ -51,7 +51,7 @@
           class="text-darker dark:text-gray-100  summary-title-link">
 
         <div class="relative w-full aspect-[3/2] rounded-sm shadow-lg overflow-hidden">
-          <div class="w-full h-full  bg-opacity-80 backdrop-blur-sm hidden group-hover:flex absolute top-0 left-0 flex items-center justify-items-center place-items-center p-8"><p class=" block text-white post-description"></p></div>
+          <div class="w-full h-full  bg-opacity-80 backdrop-blur-sm hidden group-hover:flex absolute top-0 left-0 flex items-center justify-items-center place-items-center p-8"><p class=" block text-white mix-blend-difference post-description"></p></div>
           <img class="w-full post-image" />
         </div>
     <header class="font-sans bottom-4 left-0 w-full z-100 my-2 line-clamp-1 p-2">
