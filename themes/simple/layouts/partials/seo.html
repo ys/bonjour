@@ -21,6 +21,28 @@
 <link rel="canonical" href="{{ .Permalink }}" />
 <meta name="p:domain_verify" content="{{ .Site.Params.pinterestVerify }}" />
 <script type="application/ld+json">
+{{ if and (eq .Type "shop") .IsPage}}
+{
+"@context": "https://schema.org/",
+"@type": "Product",
+      "name" : {{ $title | safeHTML }},
+      "headline" : {{ $title | safeHTML}},
+      "description" : {{ with (.Description | default (replaceRE "\n" " " (.Summary | truncate 170))) }}{{ . | safeHTML }}{{ else}}""{{ end }},
+      "inLanguage" : "{{.Lang}}",
+      "availableLanguage": {
+        "@type": "Language",
+        "name": ["French","English"]
+      },
+      {{- $images := $.Resources.ByType "image" -}}{{- $featured := $images.GetMatch "*feature*" -}}{{- $featured := cond (ne $featured nil) $featured ($images.GetMatch "{*cover*,*thumbnail*}") -}}{{- with $featured -}}"image" : {{ $featured.Permalink }},{{ else -}}{{- with $.Site.Params.images -}}"image" : {{ index . 0 | absURL }},{{ end }}{{ end }}
+"offers": {
+"@type": "Offer",
+"priceCurrency": {{ .Params.currency }},
+"price": "{{.Params.price }}",
+"priceValidUntil": "2029-11-05",
+"availability": "http://schema.org/InStock"
+}
+}
+{{ else }}
   {
       "@context" : "http://schema.org",
       "@type" : "BlogPosting",
@@ -50,4 +72,5 @@
       "wordCount" : {{ .WordCount }},
       "keywords" : [{{ $tags }}]
   }
+{{ end }}
 </script>
