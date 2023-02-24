@@ -5,8 +5,9 @@ subtitle: "Emgav longboard dre bedadenn"
 date: 2023-02-01
 price: true
 emoji: "🏄‍♂️"
-pricetag: "9€ envoi mondial inclut"
+pricetag: "9€ avec envoi mondial"
 grid: "IMG_2533 / logfest_11 | logfest_3 | logfest_18 "
+price: "9.00"
 currency: "EUR"
 price_id: "price_1MewJpFaA8Wpl3EpZ3NrCiLY"
 resources:
