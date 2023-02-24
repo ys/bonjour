@@ -5,7 +5,7 @@ seotitle: "✌️ Bonjour Yannick - Des histoires et des photos"
 description: "Des histoires simples, des photos, des livres & une bonne tasse de café."
 date: 2017-10-26T22:57:50+02:00
 draft: false
-color: sunray
+color: teal
 type: index
 resources:
 - src: "*.webp"
