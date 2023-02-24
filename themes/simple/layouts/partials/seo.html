@@ -12,10 +12,18 @@
 {{ else if .Title }}
   {{ $title = printf "%s - %s" .Title $.Site.Title }}
 {{ end }}
-{{ $colorHex := dict "fire" "#DD614A" "coral" "#FF7477" "tuscan" "#972D07" "sunray" "#EDC758" "accent" "#EDC758" "forest" "#4C9F70" "purpleheart" "#0d2fef" "jazzberry" "#b0014a" "rose" "#FF206E" "teal" "teal" "ocean" "#235789" "indigo" "#2B4162" "dark" "#2d2f34" "darker" "#1F2023" }}
+{{ $colorHex := dict "fire" "#DD614A" "coral" "#FF7477" "tuscan" "#972D07" "sunray" "#EDC758" "accent" "#EDC758" "forest" "#4C9F70" "purpleheart" "#0d2fef" "jazzberry" "#b0014a" "rose" "#FF206E" "teal" "#008080" "ocean" "#235789" "indigo" "#2B4162" "dark" "#2d2f34" "darker" "#1F2023" }}
 
 <title>{{ $title }}</title>
 <meta name="theme-color" content="{{index  $colorHex ($.Scratch.Get "color") }}" />
+<link rel="apple-touch-icon" sizes="180x180" href="/{{ $.Scratch.Get "color"}}/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/{{ $.Scratch.Get "color"}}/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/{{ $.Scratch.Get "color"}}/favicon-16x16.png">
+<link rel="manifest" href="/{{ $.Scratch.Get "color"}}/site.webmanifest">
+<link rel="mask-icon" href="/{{ $.Scratch.Get "color"}}/safari-pinned-tab.svg" color="{{index  $colorHex ($.Scratch.Get "color") }}">
+<meta name="apple-mobile-web-app-title" content="Bonjour Yannick">
+<meta name="application-name" content="Bonjour Yannick">
+<meta name="msapplication-TileColor" content="#008987">
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
 <meta name="keywords" content="{{ $tags }}">
 <link rel="canonical" href="{{ .Permalink }}" />
