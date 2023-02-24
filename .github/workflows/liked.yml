@@ -19,7 +19,7 @@ jobs:
           ruby-version: '3.2' # Not needed with a .ruby-version file
       - name: Fetch liked
         run: |
-          bin/import-from-arena.rb
+          bundle exec ruby bin/import-from-arena.rb
       - name: Commit files
         id: commit
         run: |
