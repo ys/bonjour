@@ -8,48 +8,37 @@
 <div class="links hidden mx-4 py-8 {{ with .Params.grid }}  grid grid-cols-1 lg:grid-cols-2 lg:grid-cols-3 gap-2{{ end}}">
 </div>
 <div class="all-links mx-4 py-8 {{ with .Params.grid }}  grid grid-cols-1 lg:grid-cols-2 lg:grid-cols-3 gap-2{{ end}}">
-  {{ $headless := .Sites.First.GetPage "/bookmarks/images" }}
-  {{ $paginator := (.Paginate (where (where .Sites.First.RegularPages ".Params.archived" "!=" true) "Type" "bookmarks") 250) }}
-  {{ range $index, $page := $paginator.Pages }}
-    {{ if or $.Params.grid $page.Params.coverImage }}
+   {{ $headless := .Sites.First.GetPage "/bookmarks/images" }}
+{{ range .Site.Data.liked }}
       {{ $color := "accent" }}
       {{range first 1 (shuffle (slice "accent" "sunray" "purpleheart" "forest" "jazzberry" "rose" "teal" "tuscan")) }}
         {{ $color = . }}
       {{ end }}
-      {{$smol := slice }}
-      {{- $url := urls.Parse .Params.bookmarkOf -}}
-      {{ $src := $headless.Resources.GetMatch (printf "*%s*" (.Params.uuid)) }}
+      {{ $src := $headless.Resources.GetMatch .image.filename }}
       {{ if $src }}
-        {{ $format := "webp" }}
-        {{ if eq $src.MediaType.SubType "gif" }}
-          {{ $format := "gif" }}
-        {{ end }}
-        {{ $smol = $src.Fill (printf "600x400 %s" $format) }}
-        {{ range first 1 $smol.Colors }}
+        {{ range first 1 $src.Colors }}
           {{ $color = printf "[%s]" . }}
         {{ end }}
       {{ end }}
       <article class="relative group  hover:bg-{{$color}} !bg-opacity-20 p-2 rounded-md">
-        <a href="{{ .Params.bookmarkOf }}"
+        <a href="{{ .source.url }}"
               class="text-darker dark:text-gray-100 hover:bg-{{$color}} bg-opacity-20 ">
         {{ if $src }}
-          <img class="w-full rounded-sm shadow-lg " src="{{ $smol.RelPermalink }}"/>
+        <div class="w-full aspect-[3/2] relative rounded-sm shadow-lg overflow-hidden">
+          <div class="w-full h-full bg-{{$color}} bg-opacity-80 backdrop-blur-sm hidden group-hover:flex absolute top-0 left-0 flex items-center justify-items-center place-items-center p-8"><p class=" block text-white">{{.description}}</p></div>
+          <img class="w-full" src="{{ $src.RelPermalink }}"/>
+        </div>
         {{ else }}
           <div class="w-full rounded-sm justify-center items-center flex shadow-lg aspect-[3/2] bg-accent-200">
-            <div class="text-xl font-bold text-accent text-center block w-64 m-auto h-16"> {{$page.Title}} </div>
+            <div class="text-xl font-bold text-accent text-center block w-64 m-auto h-16"> {{.title}} </div>
           </div>
         {{ end }}
         <header class="font-sans bottom-4 left-0 w-full z-100 my-2 line-clamp-1 p-2">
-          <h2 class="text-gray-800 font-sans line-clamp-1 no-underline font-semibold text-xs uppercase">{{ $page.Title }}</h2>
-          <h3 class="no-underline font-normal text-xs text-gray-400 group-hover:text-gray-700">{{ $url.Host }}</h3>
+          <h2 class="text-gray-800 dark:text-gray-100 font-sans line-clamp-1 no-underline font-semibold text-xs uppercase">{{ .title }}</h2>
+          <h3 class="no-underline font-normal text-xs text-gray-400 ">{{ .source.provider.name }}</h3>
         </header>
         </a>
       </article>
-    {{ else if $.Params.inline }}
-      {{ partial "inline" $page }}
-    {{ else  }}
-      {{ partial "title" $page }}
-    {{ end }}
   {{ end }}
   <div class="">
     {{ partial "pagination.html" . }}
@@ -57,13 +46,16 @@
 </div>
 <template id="search-result" hidden>
     {{ if .Params.grid  }}
-  <article class="relative p-2 hover:bg-sunray rounded-md">
+  <article class="group relative p-2 rounded-md">
     <a href=""
-          class="text-darker dark:text-gray-100 hover:bg-sunray summary-title-link">
+          class="text-darker dark:text-gray-100  summary-title-link">
 
-      <img class="w-full rounded-sm shadow-lg bg-sunray post-image" src=""/>
-    <header class="font-sans bottom-4 left-0 w-full z-100 my-2 line-clamp-1 text-gray-800 p-2">
-      <h2 class=" font-sans line-clamp-1 no-underline font-semibold text-xs uppercase post-title"></h2>
+        <div class="relative w-full aspect-[3/2] rounded-sm shadow-lg overflow-hidden">
+          <div class="w-full h-full  bg-opacity-80 backdrop-blur-sm hidden group-hover:flex absolute top-0 left-0 flex items-center justify-items-center place-items-center p-8"><p class=" block text-white post-description"></p></div>
+          <img class="w-full post-image" />
+        </div>
+    <header class="font-sans bottom-4 left-0 w-full z-100 my-2 line-clamp-1 p-2">
+      <h2 class=" text-gray-800 dark:text-gray-100 font-sans line-clamp-1 no-underline font-semibold text-xs uppercase post-title"></h2>
       <h3 class="no-underline font-normal text-xs text-gray-400 post-host"></h3>
     </header>
     </a>
@@ -207,8 +199,12 @@
 
       // Fill out search result template, adjust as needed.
       var element = template.content.cloneNode(true);
+      element.querySelector("article").classList.add("hover:bg-" + doc.color);
+
       element.querySelector(".summary-title-link").href = doc.permalink;
       element.querySelector(".post-title").textContent = doc.title;
+      element.querySelector(".post-description").textContent = doc.description;
+      element.querySelector(".post-description").parentNode.classList.add("bg-" + doc.color);
       element.querySelector(".post-host").textContent = new URL(doc.bookmarkOf).hostname;
       emoji = element.querySelector(".emoji")
       if (emoji) {

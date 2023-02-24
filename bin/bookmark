@@ -185,7 +185,7 @@ end
 class Preview
   class NoWebPage < StandardError; end
   class NotImplementedError < StandardError; end
-  attr_reader :web_content
+  attr_reader :web_content, :to_json
   attr_accessor :url, :image, :description, :title, :content, :tags
 
   def initialize(url)
@@ -193,7 +193,7 @@ class Preview
   end
 
   def fetch
-    raise NotImplementedError
+    @to_json = JSON.parse(Faraday.get(ENV["PARSER_URL"] + "?url=" + url))
   end
 end
 

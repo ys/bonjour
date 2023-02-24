@@ -1,24 +1,25 @@
 {{- $headless := .Sites.First.GetPage "/bookmarks/images" -}}
 [
-  {{- range $index, $page :=  (where (where .Sites.First.RegularPages ".Params.archived" "!=" true) "Type" "bookmarks") }}
+{{ range $index, $page := .Site.Data.liked }}
+    {{ $src := $headless.Resources.GetMatch $page.image.filename }}
     {{- if gt $index 0 -}} , {{- end -}}
-    {{- $entry := dict "uuid" $page.Params.uuid "title" $page.Title -}}
-    {{- $src := $headless.Resources.GetMatch (printf "*%s*" ($page.Params.uuid)) -}}
-    {{- with $src -}}
-      {{ $format := "webp" }}
-      {{ if eq $src.MediaType.SubType "gif" }}
-        {{ $format := "gif" }}
-      {{ end }}
-    {{ $smol := .Fill (printf "600x400 %s" $format) }}
-    {{- $entry = merge $entry (dict "img" $smol.RelPermalink) -}}
-    {{- end -}}
-    {{- $entry = merge $entry (dict "content" ($page.Plain | htmlUnescape)) -}}
-    {{- $entry = merge $entry (dict "description" $page.Description) -}}
+    {{- $entry := dict "uuid" $page.id "title" $page.title -}}
+    {{- $entry = merge $entry (dict "img" $src.RelPermalink) -}}
+    {{- $entry = merge $entry (dict "content" ($page.content | htmlUnescape)) -}}
+    {{- $entry = merge $entry (dict "description" $page.description) -}}
     {{- $entry = merge $entry (dict "emoji" (partial "emoji" .)) -}}
+      {{ $color := "accent" }}
+      {{range first 1 (shuffle (slice "accent" "sunray" "purpleheart" "forest" "jazzberry" "rose" "teal" "tuscan")) }}
+        {{ $color = . }}
+      {{ end }}
+  {{ if $src }}
+    {{ range first 1 $src.Colors }}
+      {{ $color = printf "[%s]" . }}
+    {{ end }}
+  {{ end }}
 
-    {{- $entry = merge $entry (dict "tags" $page.Params.tags) -}}
-    {{- $entry = merge $entry (dict "bookmarkOf" $page.Params.bookmarkOf) -}}
-    {{- $entry = merge $entry (dict "permalink" $page.RelPermalink) -}}
+    {{- $entry = merge $entry (dict "color" $color) -}}
+    {{- $entry = merge $entry (dict "bookmarkOf" $page.source.url) -}}
 
     {{- $entry | jsonify -}}
   {{- end -}}

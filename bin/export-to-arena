@@ -1,0 +1,15 @@
+#!/usr/bin/env ruby
+require "rubygems"
+require "bundler/setup"
+require "json"
+Bundler.require(:default)
+Dotenv.load
+
+Arena.configure do |config|
+    config.access_token = ENV["ARENA_TOKEN"]
+end
+
+JSON.load(File.read("feed.json"))["items"].reverse.each do |i|
+puts Arena.channel_add_block(1977086, source: i["url"])
+
+end
