@@ -14,7 +14,7 @@ module.exports = {
       './hugo_stats.json'
     ],
   },
-  safeList: classes,
+  safeList: classes.concat([{ pattern: /hover:bg-\[.*\]/}]),
   plugins: [
     require('@tailwindcss/typography'),
     require('@tailwindcss/line-clamp'),
