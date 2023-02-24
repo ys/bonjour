@@ -13,6 +13,7 @@
   {{ $title = printf "%s - %s" .Title $.Site.Title }}
 {{ end }}
 <title>{{ $title }}</title>
+<meta name="theme-color" content="" />
 <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
 <meta name="keywords" content="{{ $tags }}">
 <link rel="canonical" href="{{ .Permalink }}" />
