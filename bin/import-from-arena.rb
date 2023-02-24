@@ -29,6 +29,7 @@ all = all.reverse
 all.reject! { |c| c.dig("source", "url").nil? }
 
 all.each do |link|
+  next if File.exist?("content/bookmarks/images/#{link.dig('image', 'filename')}")
   `wget -O content/bookmarks/images/#{link.dig('image', 'filename')} "#{link.dig('image', 'display', 'url')}"`
 end
 
