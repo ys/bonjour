@@ -9,7 +9,7 @@ on:
     - cron: "0 * * * *" # Run this workflow every 5 minutes
 
 jobs:
-  daily:
+  liked:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repo
