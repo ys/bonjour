@@ -61,7 +61,8 @@
       "video"
     ],
     "classes": [
-      "!bg-opacity-20",
+      "!bg-opacity-40",
+      "!bg-opacity-70",
       "-ml-1",
       "-mt-18",
       "-mx-2",
@@ -514,6 +515,7 @@
       "bg-ocean",
       "bg-opacity-10",
       "bg-opacity-20",
+      "bg-opacity-40",
       "bg-opacity-70",
       "bg-opacity-80",
       "bg-purple",
@@ -589,6 +591,7 @@
       "decoration-solid",
       "decoration-sunray",
       "decoration-teal",
+      "decoration-tuscan",
       "disabled",
       "dt-published",
       "duration",
@@ -1177,6 +1180,7 @@
       "mgrid",
       "min-h-1/2",
       "min-h-full",
+      "mix-blend-difference",
       "ml-4",
       "mr-3",
       "mt-0.5",
