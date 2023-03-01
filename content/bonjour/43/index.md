@@ -33,6 +33,7 @@ Ces dernières semaines, j'ai commencé à beaucoup ralentir sur certaines chose
 En parlant de mes bookmarks, je les ai aussi refait et j'importe maintenant depuis une source externe, [Are.na](https://www.are.na/bonjour-yannick/things-i-liked-m5k8vfut4uy). J'adore la simplicité de cette interface et la facilité de créer des collections visuelles diverses. Je vous en parlerai sans doute plus longuement avec un peu plus de recul. Le choix des concepteurs de directement fournir une API et de pousser les gens au remix sur leur base me plaît énormément.
 
 Voilà, c'est déjà tout. 
+Enfin, presque, je vous avais dit que je préparais plusieurs zines, [le petit dernier sur du surf est sorti](https://yannickschutz.com/shop/gwidel-log-fest/). Il est disponible [avec](https://yannickschutz.com/shop/gwidel-log-fest-with-print/) ou [sans](https://yannickschutz.com/shop/gwidel-log-fest/) print. Foncez.
 
 Bon Mercredi, 
 
