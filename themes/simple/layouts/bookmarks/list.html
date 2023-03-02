@@ -17,6 +17,7 @@
       {{ end }}
       {{ $src := $headless.Resources.GetMatch $page.Params.imageName }}
       {{ if $src }}
+        {{ $src = $src.Fill "450x300 webp" }}
         {{ range first 1 $src.Colors }}
           {{ $color = printf "[%s]" . }}
         {{ end }}
