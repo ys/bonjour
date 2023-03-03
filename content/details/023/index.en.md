@@ -1,5 +1,5 @@
 ---
-title: "023 - Détail"
+title: "Détail - 023"
 slug: "023"
 emoji: 😃
 letter: detail
