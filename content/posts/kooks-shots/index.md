@@ -1,9 +1,9 @@
 ---
 title: "Tête de kook"
-slug: "/kooks-shots"
+slug: "/tete-de-kook"
 subtitle: "Pas mal ta planche"
 favorite: true
-date: 2023-06-02T02:00:00+0200
+date: 2023-06-02T04:00:00+0200
 emoji: "📸"
 categories:
   - journal
