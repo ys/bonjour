@@ -1,5 +1,6 @@
 ---
 title: "Escapade au Maroc"
+slug: "/maroc-2022"
 subtitle: "Partir boire du thé"
 favorite: true
 date: 2023-06-02T02:00:00+0200
