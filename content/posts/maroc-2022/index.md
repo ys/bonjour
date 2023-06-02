@@ -14,9 +14,9 @@ resources:
 summary: "Echanger les mois noirs bretons pour quelques jours de soleil près des Berbères."
 ---
 
-Les mois noirs, en Bretagne, on te dit que si tu arrives à les passer, tu pourras rester sans souci en Bretagne. On la fait les premières années. Là, cela fait deux ans que l'on se permet un break de vitamine D. Cela fait longtemps que Cloé veut voir le Maroc. Donc on a décidé d'y passer le nouvel an. 
+Les mois noirs, en Bretagne, on te dit que si tu arrives à les passer, tu pourras rester sans souci en Bretagne. On la fait les premières années. Là, cela fait deux ans que l'on se permet un break de vitamine D. Cela fait longtemps que Cloé voulait voir le Maroc. Donc on a décidé d'y passer le nouvel an. 
 
-Le Maroc, c'est plutôt étendu. C'est un pays aux milles visages. On a donc dû choisir. Une semaine là-bas, on a pris une maison pour quelques jours dans la médina de Essaouira. Puis on est descendu deux jours sur Tamraght avant de rentrer. Voilà, tu sais tout. Tu peux t'arrêter ici si cela te chante.
+Le Maroc, c'est plutôt étendu. C'est un pays aux mille visages. On a donc dû choisir. Une semaine là-bas, on a pris une maison pour quelques jours dans la médina de Essaouira. Puis on est descendu deux jours sur Tamraght avant de rentrer. Voilà, tu sais tout. Tu peux t'arrêter ici si cela te chante.
 
 ![](cover)
 
@@ -30,7 +30,7 @@ On a eu la chance de trouver via [I love the Seaside](https://ilovetheseaside.co
 
 {{< grid images="22x58-1227-23.webp / 22x58-1227-14.webp | 22x57-1223-38 | 22x58-1227-15.webp / 22x58-1227-31.webp" >}}
 
-On a pu profiter du couché de soleil depuis une terrasse d'un café à la déco complètement folle, se perdre dans le vieux port à observer les pêcheurs, prendre un café dans un petit bar, voir les enfants prendre les 7000 chats de la ville en photo, manger sur une autre terrasse avec une vue sur la médina à 360 degrés. Même, si il a fallu monter 7 étages à pied d'abord (Respect aux serveurs d'ailleurs). Vraiment Essaouira, c'est un petit havre de paix. On a bien sûr aussi dégusté des tonnes de patisseries locales, fruits frais, pains, tajines, thés à la menthe et autres deliciosités. 
+On a pu profiter du couché de soleil depuis une terrasse d'un café à la déco complètement folle, se perdre dans le vieux port à observer les pêcheurs, prendre un café dans un petit bar, voir les enfants prendre les 7000 chats de la ville en photo, manger sur une autre terrasse avec une vue sur la médina à 360 degrés. Même, si il a fallu monter 7 étages à pied d'abord (Respect aux serveurs d'ailleurs). Vraiment Essaouira, c'est un petit havre de paix. On a bien sûr aussi dégusté des tonnes de pâtisseries locales, fruits frais, pains, tajines, thés à la menthe et autres déliciosités. 
 
 On a profité d'une des journées pour aller visiter une fabrique d'huile d'argan 100% tenue par des femmes. On a commencé par une ballade dans une forêt d'arganiers d'abord. Avec un guide fantastique qui vaut vraiment le coup si vous passez par là. Il travaille avec des familles qu'il connait depuis des années pour nous faire découvrir la beauté naturelle de son pays. Il nous a fait visiter une vieille sucrerie du 16e, a parlé pierres et cailloux avec Tom, et nous a emmené chez l'habitant pour prendre le thé, partager et rire. Un vrai moment gravé dans nos mémoires. Merci encore à toi, à vous!
 
@@ -39,7 +39,7 @@ On a profité d'une des journées pour aller visiter une fabrique d'huile d'arga
 
 On avait décidé de ne pas faire les 4h entières jusque l'aéroport au retour. Trop peur d'un quelconque imprévu. On a donc refait la route jusque notre second point. De jour pour notre plus grand plaisir. Des vues à couper le souffle. D'un côté la montagne, de l'autre la mer. On croise des spots de surf connu, coucou Imsouane. On croise des dromadaires dans une remorque, des belles droites, des belles gauche, une tortue sur le bord de la route, des vieux vans ford. Un plaisir constant pour les mirettes. 
 
-On passera deux nuits entre les montagnes et la mer en bord de route quasiment à Tamraght. Un vrai coup de coeur que ce petit village. Une ambiance ouverte, certains diraient bourgeois bohème. Juste pouvoir se poser, traverser, aller à la plage. On sent que le coin change. Les hôtels 5 étoiles se construisent et bouchent la vue, entre les vieilles Renault 4L, il faudra bientôt plisser les yeux pour se rappeler comment c'était. Cela fait déjà 6 mois en fait, je dois plisser le cerveaux pour me rappeler. On a essayé de surfer, la planche avait un souci, la combinaison aussi.
+On passera deux nuits entre les montagnes et la mer en bord de route quasiment à Tamraght. Un vrai coup de coeur que ce petit village. Une ambiance ouverte, certains diraient bourgeois bohème. Juste pouvoir se poser, traverser, aller à la plage. On sent que le coin change. Les hôtels 5 étoiles se construisent et bouchent la vue, entre les vieilles Renault 4L, il faudra bientôt plisser les yeux pour se rappeler comment c'était. Cela fait déjà 6 mois en fait, je dois plisser le cerveau pour me rappeler. On a essayé de surfer, la planche avait un souci, la combinaison aussi.
 
 {{< grid images="23x04-0102-13.webp | 23x03-0101-39.webp | 23x04-0102-14.webp / 23x04-0102-05" >}}
 
