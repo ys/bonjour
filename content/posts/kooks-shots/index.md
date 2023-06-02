@@ -17,7 +17,7 @@ J'ai tendance à dire que je suis un kook avec une belle planche et une chouette
 
 ### Grégory
 
-{{< grid images="1.webp | 2.webp / 3.webp  / 4.webp" >}}
+{{< grid images="1.webp | 2.webp / 3.webp  / cover.webp" >}}
 
 ### Yves
 
