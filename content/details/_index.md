@@ -1,4 +1,5 @@
 ---
+type: grid
 color: forest
 columns:
 - 3

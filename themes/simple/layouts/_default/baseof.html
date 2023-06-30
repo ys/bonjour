@@ -33,8 +33,12 @@
         {{ end }}
       </div>
     </div>
-    {{ block "full" . }}
-    {{ end }}
+    <div class="lg:container mx-auto  w-full  grid grid-cols-1 gap-16 min-h-1/2">
+      <div class="mx-6 lg:mx-0 relative">
+        {{ block "full" . }}
+        {{ end }}
+      </div>
+    </div>
 
     {{ partial "footer" . }}
     {{ partial "js" . }}

@@ -6,41 +6,16 @@
 </div>
 {{end}}
 {{ define "full" }}
-{{ $current := index .RegularPages 0 }}
-{{ $allimages := slice }}
-{{ range sort ($current.Resources.ByType "image") "Name" "desc"}}
-  {{ if ne .Name "cover" }}
-    {{ $allimages = $allimages | append (dict "Image" .  ) }}
-  {{ end }}
-{{ end }}
-{{ $rows := dict }}
-{{ $columns := dict }}
-{{ $rowid := 0 }}
-{{ $colid := 0 }}
-{{ $possibilities := slice  3 }}
-{{ $itemsonrow := index (shuffle $possibilities) 0 }}
-{{ range $index, $img := $allimages }}
-  {{ $columns = merge $columns (dict (string (mod $index $itemsonrow)) (dict "Images" (slice $img)))}}
-  {{ $colid = add $colid 1 }}
-  {{ if eq $colid $itemsonrow }}
-    {{ $rows = merge $rows (dict (string $rowid) $columns) }}
-    {{ $itemsonrow = index (shuffle $possibilities) 0 }}
-    {{ $columns = dict }}
-    {{ $rowid = add $rowid 1 }}
-    {{ $colid = 0 }}
-  {{ end }}
-{{ end }}
-{{ $rows = merge $rows (dict (string $rowid) $columns) }}
-    {{ $current := . }}
+    {{ $current := index .RegularPages 0 }}
     <nav class="years mx-auto flex justify-around my-4">
         <ul class="inline leading-relaxed flex gap-8 ">
           {{ $menu := .Site.Menus.daily}}
           {{ range  $menu }}
           {{ $active := or ($current.IsMenuCurrent "nav" .) ($current.HasMenuCurrent "nav" .) }}
-          {{ $active = or $active (eq .Page.Slug $current.Params.year) }}
+          {{ $active = or $active (eq .Page.Slug $current.Slug) }}
           <li
               class="inline  relative ">
-            <a class="{{ .Params.class }} whitespace-nowrap  {{ with .Page.Params.color }}hover:text-{{ . }} hover:border-{{ . }} {{ if $active }}underline decoration-solid  decoration-{{ . }} {{ end }}{{ else }}hover:text-{{$.Scratch.Get "color"}} {{ if $active }}underline decoration-solid decoration-{{$.Scratch.Get "color"}} {{ end }}{{ end }} transition ease-in-out duration-200 " href="{{ .URL }}" title="{{ .Title }}">
+            <a class="{{ .Params.class }} whitespace-nowrap {{ with .Page.Params.color }}hover:text-{{ . }} hover:border-{{ . }} {{ if $active }}underline decoration-solid  decoration-{{ . }} {{ end }}{{ else }}hover:text-{{$.Scratch.Get "color"}} {{ if $active }}underline decoration-solid decoration-{{$.Scratch.Get "color"}} {{ end }}{{ end }} transition ease-in-out duration-200 " href="{{ .URL }}" title="{{ .Title }}">
 
               {{ .Name }}
             </a>
@@ -50,7 +25,35 @@
     </nav>
   <div data-pswp >
     <div class=" mx-4 max-w-6xl">
-    {{ partial "grid" $rows }}
+          {{ range sort ($current.Resources.ByType "image") "Name" "desc"}}
+            {{ if ne .Name "cover" }}
+  {{/* get file that matches the filename as specified as src="" in shortcode */}}
+  {{ $src := . }}
+
+  {{ if $src }}
+    {{ $xs := "20x" }}
+    {{ $md := "800x" }}
+    {{ $lqip := $src.Resize (printf "%s webp" $xs) }}
+    {{ $small := $src.Resize (printf "%s webp" $md) }}
+    {{ if eq $src.MediaType.SubType "gif" }}
+       {{ $lqip = $src.Resize (printf "%s" $xs) }}
+       {{ $small = $src }}
+     {{ end }}
+       <picture class="mx-auto box-border block w-fit my-8 ">
+        <img
+          loading="lazy"
+          style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover"
+          alt=""
+          class="aspect-[{{$src.Width}}/{{$src.Height}}] {{ if (gt $src.Height $src.Width)}}h-[90vh] w-auto{{else}}max-w-[60vw]{{end}}  hover:shadow-{{ $.Scratch.Get "color" }}/20 shadow-md hover:shadow-xl cursor-pointer lazy "
+          src="{{ $small.RelPermalink }}"
+          data-src="{{ $small.RelPermalink }}"
+          data-action="zoom"
+          data-zoom-src="{{ $src.RelPermalink}}"
+          width="{{ $src.Width }}" height="{{ $src.Height }}"/>
+        </picture>
+  {{ end }}
+            {{ end }}
+          {{ end }}
     </div>
   </div>
   {{ end }}
