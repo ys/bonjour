@@ -8,7 +8,7 @@
 {{ define "full" }}
 {{ $current := index .RegularPages 0 }}
 {{ $allimages := slice }}
-{{ range sort ($current.Resources.ByType "image") "Name" "desc"}}
+{{ range sort ($current.Resources.ByType "image") "Name" "desc" }}
   {{ if ne .Name "cover" }}
     {{ $allimages = $allimages | append (dict "Image" .  ) }}
   {{ end }}
