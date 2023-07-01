@@ -3,82 +3,40 @@
 <div class="z-20 dark:prose-invert prose mb-16 with-links relative">
   {{ .Content }}
 </div>
-
+{{end}}
+{{ define "full" }}
 {{ $paginator := (.Paginate (where .RegularPages ".Params.archived" "!=" true) 250) }}
-<div class="h-feed mb-10 ">
-  {{ range  $paginator.Pages }}
-    <article class="py-4 group grid-cols-2 gap-4 grid">
-    {{ $images := .Resources.ByType "image" }}
-    {{ $src := $images.GetMatch "cover" }}
-    {{ $src := $images.GetMatch "*feature*" }}
-    {{ $src := cond (ne $src nil) $src ($images.GetMatch "{*cover*,*thumbnail*}") }}
-    {{ $src := cond (ne $src nil) $src (index $images 0) }}
-    {{ if $src }}
-      {{ $xs := "20x" }}
-      {{ $md := "800x" }}
-      {{ $lqip := $src.Resize (printf "%s webp" $xs) }}
-      {{ $small := $src.Resize (printf "%s webp" $md) }}
-      {{ if eq $src.MediaType.SubType "gif" }}
-        {{ $lqip = $src.Resize (printf "%s" $xs) }}
-        {{ $small = $src }}
-      {{ end }}
-      <a href="{{ .RelPermalink }}">
-        <picture class=" group-hover:rotate-[1deg] aspect-[5/4] relative box-border block">
-          <img
-            loading="lazy"
-            style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover"
-            alt="{{ .Title }}"
-            class="group-hover:shadow-{{ .Params.color | default "sunray" }}/30 shadow-lg group-hover:shadow-xl cursor-pointer object-cover lazy absolute top-0 left-0 w-full h-full"
-            data-action="zoom"
-            data-zoom-src="{{ $src.RelPermalink}}"
-            src="{{ $small.RelPermalink }}"
-            data-src="{{ $small.RelPermalink }}"
-            width="{{ $src.Width }}" height="{{ $src.Height }}"/>
-        </picture>
-      </a>
-      {{ else }}
-      <a href="{{ .RelPermalink }}">
-        <div class="w-full rounded-sm justify-center items-center flex shadow-lg aspect-[5/4] bg-{{ .Params.color | default "accent" }}">
-          <div class="text-white text-xl font-bold text-center block w-64 m-auto h-8"> {{.Title}} </div>
-        </div>
-      </a>
-      {{ end }}
-          <header class="h-full flex flex-col justify-end pb-4">
-          <div class="font-sans tracking-tight text-xs {{ with .Params.Color }}text-{{ . }} {{ else }}dark:text-white text-darker{{end}} {{ with .Params.Color }}group-hover:text-{{ . }} {{ else }}group-hover:text-accent{{ end }} transition ease-in-out duration-200 ">
-            {{ with .Params.emoji }}
-              {{ . }}
-            {{ else }}
-              {{ partial "emoji" . }}
-            {{ end }}
-            {{ with .Params.pricetag }}
-              {{ . | markdownify }}
-            {{ else }}
-                {{ partial "category-link" . }}
-                {{ .Site.Params.arrow }}
-                {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
-            {{ end }}
-          </div>
-            <h2 class="text-xl  dark:text-white text-darker {{ with .Params.Color }}group-hover:text-{{ . }} {{ else }}group-hover:text-accent{{ end }} transition ease-in-out duration-200">
-        <a href="{{ with .Params.bookmarkOf }}{{ . }}{{ else }}{{ .RelPermalink }}{{end}}">
-                {{ .Title  |markdownify}}
-        </a>
-            </h2>
-            <h3 class="line-clamp-2 text-sm dark:text-white text-darker italic transition ease-in-out duration-400 ">
-              {{ with .Params.subtitle }}
-              {{ . }}
-              {{ else }}
-                {{ with .Params.description }}
-                  {{ . | truncate 200 }}
-                {{ else}}
-                  {{ .Summary |markdownify | truncate 200 }}
-                {{ end }}
-              {{ end }}
-            </h3>
-          </header>
-      </article>
+{{ $allimages := slice }}
+{{ range $index, $page := $paginator.Pages }}
+  {{ $images := .Resources.ByType "image" }}
+  {{ $src := $images.GetMatch "cover" }}
+  {{ $src := $images.GetMatch "*feature*" }}
+  {{ $src := cond (ne $src nil) $src ($images.GetMatch "{*cover*,*thumbnail*}") }}
+  {{ $src := cond (ne $src nil) $src (index $images 0) }}
+
+  {{ if $src }}
+    {{ $allimages = $allimages | append (dict "Image" $src "Page" $page) }}
   {{ end }}
-  <div class="">
-    {{ partial "pagination.html" . }}
-  </div>
-</div>
 {{ end }}
+{{ $rows := dict }}
+{{ $columns := dict }}
+{{ $rowid := 0 }}
+{{ $colid := 0 }}
+{{ $possibilities := (slice    3 ) }}
+{{ $itemsonrow := index (shuffle $possibilities) 0 }}
+{{ range $index, $img := $allimages }}
+  {{ $columns = merge $columns (dict (string (mod $index $itemsonrow)) (dict "Images" (slice $img)))}}
+  {{ $colid = add $colid 1 }}
+  {{ if eq $colid $itemsonrow }}
+    {{ $rows = merge $rows (dict (string $rowid) $columns) }}
+    {{ $itemsonrow = index (shuffle $possibilities) 0 }}
+    {{ $columns = dict }}
+    {{ $rowid = add $rowid 1 }}
+    {{ $colid = 0 }}
+  {{ end }}
+{{ end }}
+  {{ $rows = merge $rows (dict (string $rowid) $columns) }}
+  <div class="max-w-6xl">
+      {{ partial "grid" $rows }}
+  </div>
+  {{ end }}
