@@ -1,5 +1,5 @@
 ---
-title: "✌️ Bonjour Yannick"
+title: "Bonjour Yannick"
 seotitle: "✌️ Bonjour Yannick - Stories and pictures"
 description: "Some stories, pictures, books and a cup of black coffee"
 summary: "Some stories, pictures, books and a cup of black coffee"

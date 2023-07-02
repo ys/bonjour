@@ -3,9 +3,9 @@
   <span class="block logo hover:animate-spin text-center text-6xl w-12 text-{{$.Scratch.Get "color"}} lg:absolute lg:-left-16">
     {{ if .Parent }}<a href="{{ .Parent.RelPermalink }}" alt="{{ .Parent.Title}}">{{ else }}<a href="{{ "/" | relLangURL }}" alt="home">{{end}}
       {{ if fileExists "/static/logo.svg" }}
-      {{ readFile "/static/logo.svg" | safeHTML}}
+        {{ readFile "/static/logo.svg" | safeHTML}}
       {{ else }}
-      {{.Params.emoji | default .Site.Params.emoji}}
+        {{.Params.emoji | default .Site.Params.emoji}}
       {{ end }}
     </a>
   </span>
