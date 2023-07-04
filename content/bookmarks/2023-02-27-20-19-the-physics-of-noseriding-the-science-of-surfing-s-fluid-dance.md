@@ -5,11 +5,7 @@ category:
 headImage: https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIyMDYwNjE5NC9vcmlnaW5hbF9iNDg1ZmM1YzJhYjU2NDgyOTRlMDgzZjIyMDZjZDNmNS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo5MH0sImpwZWciOnsicXVhbGl0eSI6OTB9LCJyb3RhdGUiOm51bGx9fQ==?bc=0
 imageName: b485fc5c2ab5648294e083f2206cd3f5.jpg
 title: The Physics of Noseriding | The science of surfing's fluid dance
-description: 'The noseride is one of surfing''s peak moments: part fluid dynamics,
-  part magic. But how does noseriding actually work? What makes this suspension between
-  sea and sky even possible? The Physics of Noseriding explores the question through
-  the eyes of Namaala, a young surfer whose people were flying on the water before
-  the world even knew what surfing was.'
+description: 
 tags: 
 date: '2023-02-27T20:19:30.414Z'
 ---

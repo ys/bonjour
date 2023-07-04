@@ -5,10 +5,7 @@ category:
 headImage: https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIyMDA1NzY1Ni9vcmlnaW5hbF8zOTUyMjk2NzA5Mzk2NDgzZTNjN2IzNmZlMTgzNzEzMy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo5MH0sImpwZWciOnsicXVhbGl0eSI6OTB9LCJyb3RhdGUiOm51bGx9fQ==?bc=0
 imageName: 3952296709396483e3c7b36fe1837133.jpg
 title: Printemps - A surf film by Constant Couteille
-description: Du surf alternatif filmé en 1 mois ce printemps à la maison en Vendée
-  et en Bretagne. Avec Alexie Gauthier, Emmanuel Milet Delpech, Romane Martin, Paul-Alexis
-  Leveugle, Vincent Hubert, Julien Patalano, Hugo Crescent, Mario Sire et Cnstant
-  Couteille. Apparition spéciale Ewen Le Goff.
+description: 
 tags: 
 date: '2023-01-26T19:48:37.137Z'
 ---

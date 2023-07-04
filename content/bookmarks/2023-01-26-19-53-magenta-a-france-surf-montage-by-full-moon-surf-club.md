@@ -5,10 +5,7 @@ category:
 headImage: https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIyMDA1NzkwMi9vcmlnaW5hbF82ODcwNzA3MzlhM2M5N2QyZTJhOTkwNjQxNTU2NTI4ZC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIiwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwid2VicCI6eyJxdWFsaXR5Ijo5MH0sImpwZWciOnsicXVhbGl0eSI6OTB9LCJyb3RhdGUiOm51bGx9fQ==?bc=0
 imageName: 687070739a3c97d2e2a990641556528d.jpg
 title: "'MAGENTA' - A France Surf Montage by 'Full Moon Surf Club'"
-description: A seven minute montage de France featuring California natives and Full
-  Moon Surf Club originals Spencer Navarro and Jack Hill on our first ever international
-  trip to the famous Basque Country of the South of France. Also Featuring Local legends
-  Jules Leplecheux, Sarah Tannou, and Vincent Lauzel. Enjoy!
+description: 
 tags: 
 date: '2023-01-26T19:53:30.888Z'
 ---

@@ -6,10 +6,7 @@ headImage: https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIyMDA
 imageName: 4e1832b15ed06fddfb40bd042bb3e176.jpg
 title: Erwin Le Thellec - Captain Excelsior &amp; The Cosmic Crabs - Ur sell war an
   aod - Un regard sur la cote
-description: Voici la neuvième vidéo de la chaîne d'interview "Ur sell war an aod"
-  - "Un regard sur la côte" Le but de ces interviews est de répondre à des problématiques
-  locales, accessibles en tant que citoyens, collectifs et également définir la culture
-  surf Bretonne et ceux qui la composent.
+description: 
 tags: 
 date: '2023-01-26T19:50:13.175Z'
 ---
