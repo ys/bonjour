@@ -18,51 +18,44 @@
    {{ end }}
    <div class="relative group " >
      <picture class=" {{ .ExtraClasses }} aspect-[{{.Image.Width}}/{{.Image.Height}}] relative box-border block ">
-    <img
-      loading="lazy"
-      style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover"
-      alt="{{ .Description }}"
-      class="{{if .Page }}group-hover:opacity-40 {{ end }} hover:shadow-{{ $.Scratch.Get "color" }}/20 shadow-md hover:shadow-xl   cursor-pointer object-cover lazy absolute top-0 left-0 w-full h-full"
-      data-action="zoom"
-      data-zoom-src="{{ $src.RelPermalink}}"
-      src="{{ $small.RelPermalink }}"
-      data-src="{{ $small.RelPermalink }}"
-      width="{{ $src.Width }}" height="{{ $src.Height }}"/>
+      <img
+        loading="lazy"
+        style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover"
+        alt="{{ .Description }}"
+        class="{{if .Page }}group-hover:opacity-40 {{ end }} hover:shadow-{{ $.Scratch.Get "color" }}/20 shadow-md hover:shadow-xl   cursor-pointer object-cover lazy absolute top-0 left-0 w-full h-full"
+        data-action="zoom"
+        data-zoom-src="{{ $src.RelPermalink}}"
+        src="{{ $small.RelPermalink }}"
+        data-src="{{ $small.RelPermalink }}"
+        width="{{ $src.Width }}" height="{{ $src.Height }}"/>
     </picture>
     {{ with .Page }}
       <div class=" pl-4 pb-8 lg:pb-0 lg:absolute top-0 left-0 h-full w-full group-hover:backdrop-blur-sm group- group-hover:block  group-hover:flex flex-col mdenter justify-center  lace-items-center lg:hidden group-hover:block">
-    <header class="backdrop-saturate-200">
-      <div class="font-sans tracking-tight text-xs transition ease-in-out duration-200 ">
-        {{ with .Params.emoji }}
-          {{ . }}
-        {{ else }}
-          {{ partial "emoji" . }}
-        {{ end }}
-        {{ with .Params.pricetag }}
-          {{ . | markdownify }}
-        {{ else }}
-            {{ partial "category-link" . }}
-            {{ .Site.Params.arrow }}
-            {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
-        {{ end }}
-      </div>
-      <h2 class="  font-semibold text-darker  transition ease-in-out duration-200">
-          {{ .Title  |markdownify}}
-      </h2>
-      <h3 class="line-clamp-1 text-sm text-darker italic transition ease-in-out duration-400 ">
-        {{ with .Params.subtitle }}
-        {{ . }}
-        {{ else }}
-          {{ with .Params.description }}
-            {{ . | truncate 100 }}
-          {{ else}}
-            {{ .Summary |markdownify | truncate 100 }}
-          {{ end }}
-        {{ end }}
-      </h3>
-      <h4 class="text-xs font-sans {{ with .Params.Color }}group-hover:text-{{ . }}-600 {{ else }}group-hover:text-accent-600{{ end }} transition ease-in-out duration-200">
-      </h4>
-    </header>
+          <header class="backdrop-saturate-200">
+            <span class="font-sans tracking-tight text-xs transition ease-in-out duration-200 ">
+              {{ with .Params.pricetag }}
+                {{ . | markdownify }}
+              {{ else }}
+                {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+              {{ end }}
+            </span>
+            <h2 class="text-lg font-semibold text-darker  transition ease-in-out duration-200">
+                {{ .Title  |markdownify}}
+            </h2>
+            <h3 class="line-clamp-1 text-sm text-darker italic transition ease-in-out duration-400 ">
+              {{ with .Params.subtitle }}
+              {{ . }}
+              {{ else }}
+                {{ with .Params.description }}
+                  {{ . | truncate 100 }}
+                {{ else}}
+                  {{ .Summary |markdownify | truncate 100 }}
+                {{ end }}
+              {{ end }}
+            </h3>
+            <h4 class="text-xs font-sans {{ with .Params.Color }}group-hover:text-{{ . }}-600 {{ else }}group-hover:text-accent-600{{ end }} transition ease-in-out duration-200">
+            </h4>
+          </header>
       </div>
     {{ end }}
     {{ with .Description }}
