@@ -1,9 +1,10 @@
 <div class="font-sans lg:mt-16 container lg:mx-auto lg:max-w-xl">
   <footer class="relative lg:mx-0 mx-6 py-10 dark:text-gray-100 text-gray-600  flex flex-col  justify-items-left items-left gap-2 text-sm">
 
-    <a href="#" alt="Get me back to the top" class="animate-spin w-8 text-{{ $.Scratch.Get "color" }} lg:absolute lg:-left-16">
+    <a href="#" alt="Get me back to the top" aria-label="Get me back to the top" class="animate-spin w-8 text-{{ $.Scratch.Get "color" }} lg:absolute lg:-left-16">
       {{ if fileExists "/static/logo.svg" }}
       {{ readFile "/static/logo.svg" | safeHTML}}
+      <span class="hidden">Get me back to the top</span>
       {{ else }}
       {{.Params.emoji | default .Site.Params.emoji}}
       {{ end }}
