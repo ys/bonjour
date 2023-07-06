@@ -1,7 +1,7 @@
 {{ block "header" . }}
 <header class="relative py-8 lg:max-w-xl lg:mx-auto lg:pt-36 lg:pb-16  mx-6 lg:container flex flex-col  gap-1  ease-in-out duration-500 ">
   <span class="block logo hover:animate-spin text-center text-6xl w-12 text-{{$.Scratch.Get "color"}} lg:absolute lg:-left-16">
-    {{ if .Parent }}<a href="{{ .Parent.RelPermalink }}" alt="{{ .Parent.Title}}">{{ else }}<a href="{{ "/" | relLangURL }}" alt="Get me back to the home" aria-label="Get me back to the home">{{end}}
+    {{ if .Parent }}<a href="{{ .Parent.RelPermalink }}" arial-label="{{.Parent.Title}}" alt="{{ .Parent.Title}}">{{ else }}<a href="{{ "/" | relLangURL }}" alt="Get me back to the home" aria-label="Get me back to the home">{{end}}
       {{ if fileExists "/static/logo.svg" }}
         {{ readFile "/static/logo.svg" | safeHTML}}
         <span class="hidden">Get me back to the home</span>
