@@ -9,11 +9,11 @@
     src: url("/quisas.otf"); 
     src: url("/quisas.otf") format("opentype");
     font-style: normal;
+    font-display: swap;
 }
 
 .font-hand {
   font-family: "quisas";
-  font-display: swap;
 }
 
 html {
