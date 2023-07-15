@@ -6,7 +6,7 @@ newsletter: true
 tags:
 - la lettre
 emoji: 💌
-title: "Bonjour - 45 - Coyote, Demi frame et un café"
+title: "45 - Coyote, Demi frame et un café"
 color: jazzberry
 slug: "45"
 resources:
@@ -18,11 +18,11 @@ summary: "C'est déjà le mois de juin, je me retrouve à peu écrire ces temps-
 
 *hello, moi c'est [Yannick](https://yannickschutz.com). je ne suis pas du tout régulier dans cette lettre et c'est peut-être tant mieux. je ne sais pas pourquoi je l'écris, souvent vous, lecteur, remplacez une séance chez un psy ou un appel à un ami je pense. donc merci merci d’être là. si vous aimez, n’hésitez pas à la partager. sinon, ne la partagez pas. Oops, deux en une semaine, il doit vraiment vouloir papoter.*
 
- ![](cover.webp) 
+ ![](cover.webp)
 
 ✌️
 
-Bonjour, 
+Bonjour,
 
 C'est déjà le mois de juin, je me retrouve à peu écrire ces temps-ci. Je ne sais pas pourquoi, c'est les saisons sans doute. Trop occupé ailleurs, je ne rempli ni mes carnets, ni mon site web. Je tweete peu, je poste peu sur Instagram, la vie est ailleurs en ce moment. C'est sans doute une bonne chose en fait... Je profite donc d'une petite pause midi pour vous envoyer quelques nouvelles.
 
@@ -36,7 +36,7 @@ En parallèle au voyage, on a eu les premiers invités à [Douarenn](https://dou
 
 J'entend les oisillons qui nichent au coin de la porte d'entrée, je pense qu'il est temps de vous laissé un peu. Je n'avais pas grand chose à dire en fait, je voulais juste vous envoyer quelques photos.
 
-Passez un bon jeudi, 
+Passez un bon jeudi,
 
 Yannick
 
