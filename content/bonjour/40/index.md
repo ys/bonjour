@@ -7,7 +7,7 @@ newsletter: true
 tags:
 - la lettre
 emoji: 💌
-title: "Bonjour - 40 - Choisir, Moudre et Renoncer"
+title: "40 - Choisir, Moudre et Renoncer"
 color: jazzberry
 slug: "40"
 resources:
@@ -16,7 +16,7 @@ summary: "Je me suis dit qu'il fallait que je finisse l'année sur un nombre ron
 ---
 *hello, moi c'est [Yannick](https://yannickschutz.com). je ne suis pas du tout régulier dans cette lettre et c'est peut-être tant mieux. je ne sais pas pourquoi je l'écris, souvent vous, lecteur, remplacez une séance chez un psy ou un appel à un ami je pense. donc merci merci d’être là. si vous aimez, n’hésitez pas à la partager. sinon, ne la partagez pas. Oops, deux en une semaine, il doit vraiment vouloir papoter.*
 
- ![cover](cover) 
+ ![cover](cover)
 
 ✌️
 
@@ -34,7 +34,7 @@ Dans les malheurs de Yannick, aujourd'hui je nettoie mon moulin et en le remonta
 
 Cette lettre, c'est sans doute la dernière de l'année. J'espère vous revoir en 2023. J'ai aimé voir vos commentaires, lire vos réponses, avoir vos avis! Merci à vous tous.
 
-J'ai une note qui se nomme `✅ - Goals` et pour 2023, elle contient ceci. Je vous le partage histoire de. Rien de tel que de partager les choses que l'on veut faire histoire d'être, en quelque sorte, redevable. 
+J'ai une note qui se nomme `✅ - Goals` et pour 2023, elle contient ceci. Je vous le partage histoire de. Rien de tel que de partager les choses que l'on veut faire histoire d'être, en quelque sorte, redevable.
 
 ```
 - [ ] Travailler moins
