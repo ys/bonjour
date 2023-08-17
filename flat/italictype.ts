@@ -11,6 +11,7 @@ type IBook = {
 	cover_image_url: string
 	authors: string[]
 	subtitle: string
+	url: string
 }
 type IReview = {
 	rating: number
@@ -35,6 +36,7 @@ type Book = {
 	isbn13: string
 	cover_url: string
 	reading: boolean
+	url: string
 };
 
 interface BooksByYear {
@@ -59,7 +61,8 @@ const books = _.map(data.results, (b: IResult) => {
 		isbn13: b.book.isbn_13,
 		pages: b.book.page_count,
 		cover_url: b.book.cover_image_url,
-		reading: b.finished_reading_at == null
+		reading: b.finished_reading_at == null,
+		url: b.book.url
 	}
 }) as Book[]
 const byYear = (b: Book) => {

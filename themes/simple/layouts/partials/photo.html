@@ -31,7 +31,7 @@
     </picture>
     {{ with .Page }}
       <div class=" pl-4 pb-8 lg:pb-0 lg:absolute top-0 left-0 h-full w-full group-hover:backdrop-blur-sm group- group-hover:block  group-hover:flex flex-col mdenter justify-center  lace-items-center lg:hidden group-hover:block">
-          <header class="backdrop-saturate-200">
+          <header class="">
             <span class="font-sans tracking-tight text-xs transition ease-in-out duration-200 ">
               {{ with .Params.pricetag }}
                 {{ . | markdownify }}
@@ -39,10 +39,10 @@
                 {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
               {{ end }}
             </span>
-            <h2 class="text-lg font-semibold text-darker  transition ease-in-out duration-200">
+            <h2 class="text-lg font-semibold {{ with .Params.Color }}text-{{ . }} {{ else }}text-accent{{ end }} transition ease-in-out duration-200">
                 {{ .Title  |markdownify}}
             </h2>
-            <h3 class="line-clamp-1 text-sm text-darker italic transition ease-in-out duration-400 ">
+            <h3 class="line-clamp-1 text-sm dark:text-gray-200 text-darker italic transition ease-in-out duration-400 ">
               {{ with .Params.subtitle }}
               {{ . }}
               {{ else }}
