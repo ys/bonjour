@@ -18,18 +18,18 @@ linktitle: "something about me"
 Hey folks, I am Yannick. I really enjoy **telling stories and capturing the mundane moments of life.**
 When I am not coding stuff at work or for myself, you'll probably find me brewing a cup of old joe, learning how to surf, capturing moments on film or spending some quality time with the family.
 
-We are launching an amazing project with Cloé. You should follow [@douarenn](https://instagram.com/douarenn) or visit [douarenn.fr](https://douarenn.fr). Even if it is in french. This is our cabin, disconnected from the internets in the middle of Finistère, in a place called "les Monts d'Arrée.
+We launched an amazing project with Cloé. You should follow [@douarenn](https://instagram.com/douarenn) or visit [douarenn.fr](https://douarenn.fr). This is our cabin, disconnected from the internets in the middle of Finistère, in a place called "les Monts d'Arrée. Book it now!
 
 ![me doing a v](now.webp)
 
 ## Photography
 
 Current gear:
-- [Leica M6](/leica-m6) with a voigtlander Nokton classic 35mm 1.4
+- [Leica M6](/leica-m6) with a summicron 50mm 
+- A small Contax T3
 - [Nikonos V](/nikonos-v) with a 35mm
-- A small Yashica T4 Safari
 
-I stopped thinking about home scans thanks to my great relationship with my beloved lab, [Mori](https://morifilmlab.com). It is way better to build relationship than skills. I use less my second [Olympus XA](/olympus-xa) cause in the end, the Yashica and the Leica are a perfect combo.
+I stopped thinking about home scans thanks to my great relationship with my beloved lab, [Mori](https://morifilmlab.com). It is way better to build relationship than skills. 
 
 
 ## Surf
