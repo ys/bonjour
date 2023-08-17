@@ -17,7 +17,7 @@ linktitle: un rien sur moi
 Moi, c'est Yannick. J'aime beaucoup **raconter des histoires et capturer des instants.**
 Quand je ne suis pas en train de coder sur divers projets au boulot ou en dehors, vous me trouverez sans doute en train de faire couler une tasse de café, d'apprendre à surfer, de prendre des photos ou de passer du temps en famille. 
 
-On est en train de monter un super projet de gîte avec Cloé. Tu devrais suivre [@douarenn](https://instagram.com/douarenn) ou aller voir [douarenn.fr](https://douarenn.fr). Un gîte plein de déconnexion au coeur des monts d'Arrée.
+On a ouvert un super gîte avec Cloé. Tu devrais suivre [@douarenn](https://instagram.com/douarenn) ou aller voir [douarenn.fr](https://douarenn.fr). Un gîte plein de déconnexion au coeur des monts d'Arrée. Réserve et viens nous voir!
 
 ![](now.webp)
 
@@ -25,11 +25,11 @@ On est en train de monter un super projet de gîte avec Cloé. Tu devrais suivre
 ## Photographie
 
 Mon matos actuel:
-- [Leica M6](/leica-m6) avec un Voigtlander Nokton Classic 35mm 1.4
+- [Leica M6](/leica-m6) avec un Summicron 50mm
+- Un petit Contax T3
 - [Nikonos V](/nikonos-v) avec son 35mm
-- Un petit Yashica T4 safari.
 
-J'ai abandonné l'idée de scanner à la maison car au final, j'ai une super relation avec [mon labo](/mori). C'est encore mieux. J'utilise moins mon second [Olympus XA](/olympus-xa) car au final, le Yashica et le Leica font un bon combo.
+J'ai abandonné l'idée de scanner à la maison car au final, j'ai une super relation avec [mon labo](/mori). C'est encore mieux. 
 
 ## Surf 
 
