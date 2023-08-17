@@ -16,34 +16,6 @@ Tous les prix sont négociables dans la limite du raisonnable.
 Par [e-mail](mailto:hello@yannickschutz.com) ou sur [Twitter](https://twitter.com/bonjouryannick)
 
 
-### Canon Prima AS1
-
-*Prix: 150€*
-
-{{< grid images="canonprima1 / canonprima2 | canonprima3 | canonprima4">}}
-
-### Olympus XA 
-
-Problème ouverture due à un ressort
-
-*Prix: 70€*
-
-{{< grid images="xa01 / xa02 | xa03 ">}}
-
-### Olympus Trip 35
-
-*Prix: 100€*
-
-{{< grid images="olympus1 / olympus2 | olympus3 | olympus4">}}
-
-### Voigtlander Nokton Classic 35mm 1.4
-
-Monture M
-
-*Prix: 500€*
-
-{{< grid images="voigt1 / voigt2 | voigt3 | voigt4">}}
-
 ### Negative Supply Film Carrier MK1 pour 35mm
 
 Comme neuf, vraiment top pour scanner ses négatifs avec un DSLR.
@@ -68,30 +40,4 @@ Comme neuf. [Voir plus](https://www.negative.supply/shop-all/light-source)
 *Prix: 80€*
 
 ![light](negativesupply2)
-
-### ~~Canon Canonet 28~~
-
-Mousses a changer
-
-*Prix: Vendu*
-
-{{< grid images="canonet1 / canonet2 | canonet3 | canonet4">}}
-
-### ~~Lubitel 166+~~
-
-*Prix: Vendu*
-
-{{< grid images="lubitel1 / lubitel2 | lubitel3 | lubitel4">}}
-
-### ~~Olympus XA + flash~~
-
-*Prix: Vendu*
-
-{{< grid images="xa11 / xa12 | xa13 ">}}
-
-### ~~Yashica T4 Safari~~
-
-*Prix: vendu€*
-
-{{< grid images="yashicat41 / yashicat42 | yashicat43 | yashicat44">}}
 
