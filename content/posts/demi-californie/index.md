@@ -16,6 +16,6 @@ Je n'arrive pas à me décider sur l'approche de la gestion de mes photos des É
 
 J'écoutais [une vidéo de Grainydays](https://www.youtube.com/watch?v=U0QgMuPWakM) qui parle du numérique vs l'argentique. Il compare le rendu, le but et conclu que le numérique est objectif et l'argentique subjectif. Ce boitier clairement n'est pas là pour faire des images parfaites. C'est une vue totalement subjective de ce voyage. Un rien raté, juste des instants volés. Et cela me convient parfaitement.
 
-Voici donc une petite sélection de notre voyage.  
+Voici donc une version accélérée de notre trip en quelques diptyques.
 
 {{< grid images="23x13b-0.webp | 23x13b-12.webp / 23x13b-11.webp | 23x13b-10.webp / 23x13b-16.webp | 23x13b-2.webp / 23x13b-27.webp | 23x13b-28.webp / 23x13b-35.webp | 23x27-1.webp / 23x27-10.webp | 23x27-18.webp / 23x27-2.webp | 23x27-20.webp / 23x27-23.webp | 23x27-26.webp / 23x27-34.webp | 23x27-37.webp / 23x27-6.webp | 23x33-16.webp / 23x33-23.webp | 23x33-25.webp / 23x33-29.webp | 23x33-3.webp / 23x35-15.webp | 23x35-18.webp / 23x35-2.webp | 23x35-3.webp / 23x35-30.webp | 23x35-34.webp / 23x39-0.webp | 23x39-15.webp / 23x39-20.webp | 23x39-19.webp / 23x39-18.webp | 23x39-29.webp / 23x39-5.webp | 23x39-7.webp" >}}
