@@ -14,7 +14,7 @@ summary: "Une vue en diptyques de la Californie au Kodak Ektar Half Frame. Rien 
 
 Je n'arrive pas à me décider sur l'approche de la gestion de mes photos des États-Unis. Mais je suis parti avec un compagnon au Contax T3. Un Half Frame en plastique de Kodak. Je ne savais pas à quoi m'attendre. J'avais vu des essais et de chouettes photos en demi format. Je me suis dit que cela pouvait être rigolo à faire. J'ai emporté ce boitier qui shoote en mode story. J'ai eu envie de faire des diptyques. C'était amusant même si parfois j'oubliais si c'était le numéro un ou deux. Cela donne des résultats différents.
 
-J'écoutais [une vidéo de Grainydays](https://www.youtube.com/watch?v=U0QgMuPWakM) qui parle du numérique vs l'argentique. Et au final, ce boitier clairement n'est pas là pour faire des images parfaites. C'est une vue totalement subjective de ce voyage. Un rien raté, juste des instants volés. 
+J'écoutais [une vidéo de Grainydays](https://www.youtube.com/watch?v=U0QgMuPWakM) qui parle du numérique vs l'argentique. Il compare le rendu, le but et conclu que le numérique est objectif et l'argentique subjectif. Ce boitier clairement n'est pas là pour faire des images parfaites. C'est une vue totalement subjective de ce voyage. Un rien raté, juste des instants volés. Et cela me convient parfaitement.
 
 Voici donc une petite sélection de notre voyage.  
 
