@@ -47,7 +47,7 @@ $colors: accent, fire, ocean, sunray, forest, purpleheart, jazzberry, rose, teal
     @apply leading-snug pl-4  border-l-4 border-#{$color} font-normal ;
   }
   .content-#{$color} .note {
-    @apply my-4 lg:-mx-6 -ml-4 px-4 lg:pr-6 py-1 lg:pl-6 border-l-4 border-#{$color} bg-gray-100 ;
+    @apply my-4 lg:-mx-6 -ml-4 px-4 lg:pr-6 py-1 lg:pl-6 border-l-4 border-#{$color} bg-gray-100 dark:bg-gray-800;
   }
   .content-#{$color} h2{
     @apply decoration-solid  decoration-#{$color} ;
@@ -116,19 +116,14 @@ hr {
 
 .post, .prose {
   @apply mb-10;
-  h1, h2, h3, h4 {
-
-  }
   code {
     @apply w-full break-words my-6;
   }
   h1 {
-    @apply  text-xl mt-8 text-darker font-normal py-1;
+    @apply text-xl mt-8 font-normal py-1;
   }
   h2 {
-    @apply text-lg mt-8  text-darker py-1 ;
-
-
+    @apply text-lg mt-8  py-1 ;
     a {
       @apply text-darker ;
     }
@@ -137,7 +132,7 @@ hr {
     @apply mt-8;
   }
   h3 {
-    @apply font-semibold mt-8 text-darker  py-1;
+    @apply font-semibold mt-8 py-1;
   }
   ul {
    @apply list-inside my-4;
