@@ -15,7 +15,7 @@
       {{range first 1 (shuffle (slice "accent" "sunray" "purpleheart" "forest" "jazzberry" "rose" "teal" "tuscan")) }}
         {{ $color = . }}
       {{ end }}
-      {{ $src := $headless.Resources.GetMatch $page.Params.imageName }}
+      {{ $src := $headless.Resources.GetMatch (printf "%d*" $page.Params.uuid) }}
       {{ if $src }}
         {{ $src = $src.Fill "450x300 webp" }}
         {{ range first 1 $src.Colors }}

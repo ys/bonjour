@@ -1,0 +1,14 @@
+---
+uuid: 645601667
+bookmarkOf: https://www.youtube.com/watch?v=_Olz6OJE8Ks
+category: video
+headImage: https://i.ytimg.com/vi/_Olz6OJE8Ks/maxresdefault.jpg
+title: Tem Caracois
+description: ''
+tags:
+- youtube
+- oxbow
+date: '2023-07-04T07:12:09.461Z'
+---
+
+

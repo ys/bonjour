@@ -1,0 +1,13 @@
+---
+uuid: 645601053
+bookmarkOf: https://gist.github.com/adamwiggins/5687294
+category: article
+headImage: https://github.githubassets.com/images/modules/gists/gist-og-image.png
+title: My Heroku values
+description: ''
+tags:
+- gist
+date: '2023-01-26T19:44:54.184Z'
+---
+
+

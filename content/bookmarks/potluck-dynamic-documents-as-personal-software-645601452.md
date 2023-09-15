@@ -1,0 +1,13 @@
+---
+uuid: 645601452
+bookmarkOf: https://www.inkandswitch.com/potluck/
+category: article
+headImage: https://www.inkandswitch.com/potluck/static/coffee.jpg
+title: 'Potluck: Dynamic documents as personal software'
+description: ''
+tags:
+- inkandswitch
+date: '2023-01-26T19:51:36.419Z'
+---
+
+

@@ -9,6 +9,30 @@ require "fileutils"
 Bundler.require(:default)
 Dotenv.load
 
+class Preview
+  class NoWebPage < StandardError; end
+  class NotImplementedError < StandardError; end
+  attr_reader :web_content, :to_json
+  attr_accessor :url, :image, :description, :title, :content, :tags
+
+  def initialize(url)
+    @url = url
+  end
+
+end
+
+class MercuryPreview < Preview
+  def fetch
+    mercury = JSON.parse(`yarn run -s postlight-parser --header.User-Agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" --format markdown "#{url}"`)
+    raise NoWebPage if mercury["error"].present?
+    @image = mercury["lead_image_url"]
+    @description = mercury["excerpt"]
+    @title = mercury["title"]
+    @content = mercury["content"]
+    true
+  end
+end
+
 class Raindrop
   attr_accessor :token
 
@@ -69,21 +93,50 @@ class Downloader
   end
 
   def download_liked
-    path = "content/bookmarks"
-    raindrop.liked.each do |l|
+    liked = raindrop.liked
+    liked.each do |l|
       puts "📄 #{l["title"]}"
-      l = l.merge(raindrop.parse(l["link"]))
+      e = raindrop.parse(l["link"])
+      l["parsed"] = e
+    end
+    File.write("data/liked.yml", YAML.dump(liked))
+  end
+
+  def force?
+    ENV["FORCE"]
+  end
+
+  def process_liked
+    if !File.exist?("data/liked.yml") || force?
+      download_liked
+    end
+    liked = YAML.load(File.read("data/liked.yml"))
+
+    path = "content/bookmarks"
+    liked.each do |l|
+      puts "📄 #{l["title"]}"
       md = to_md(l)
       filename = l["title"].parameterize
       File.write("#{path}/#{filename[0..50]}-#{l["_id"]}.md", md)
 
       Dir.chdir(path+ "/images") do
-        system("wget -O \"#{l["_id"]}\" \"#{l["cover"]}\"")
+        unless File.exist?("#{l["_id"]}.webp") || File.exist?("#{l["_id"]}")
+          system("wget --retry-connrefused  --read-timeout=10 --timeout=10 -O \"#{l["_id"]}\" \"#{l["cover"]}\"")
+          if $? != 0
+            mp = MercuryPreview.new(l["link"])
+            begin
+              mp.fetch
+              system("wget --retry-connrefused  --read-timeout=10 --timeout=10 -O \"#{l["_id"]}\" \"#{mp.image}\"")
+            rescue StandardError => e
+              puts e
+            end
+          end
+        end
       end
     end
     Dir.chdir(path+ "/images") do
       `mogrify -resize 1000x1000 -format webp *`
-      `find . -type f ! -iname "*.webp" -delete`
+      `find . -type f ! -iname "index.md" ! -iname "*.webp" -delete`
     end
   end
 
@@ -94,8 +147,8 @@ class Downloader
       "category" => l["type"],
       "headImage" => l["cover"],
       "title" => l["title"],
-      "description" => l["excerpt"],
-      "tags" => l.dig("meta", "tags"),
+      "description" => l["excerpt"] || l.dig("parsed", "excerpt"),
+      "tags" => l.dig("meta", "tags").to_a + l.dig("parsed", "meta", "tags"),
       "date" => l["created"],
     }
   end
@@ -144,12 +197,6 @@ class Downloader
     end
     file = <<~MD
     ---
-    #{header}
-
-    # #{r["title"]}
-    #{domain}
-
-    #{r["excerpt"]}
 
     #{r["ht"]}
     MD
@@ -166,5 +213,5 @@ class Downloader
 end
 
 # Downloader.new.download_all
-Downloader.new.download_liked
+Downloader.new.process_liked
 
