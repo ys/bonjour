@@ -12,6 +12,7 @@ tags:
 - opinion
 - nytimes
 date: '2023-01-26T19:49:13.130Z'
+highlights:
 ---
 
 

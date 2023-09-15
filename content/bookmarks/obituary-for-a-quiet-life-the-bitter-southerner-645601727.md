@@ -9,6 +9,8 @@ description: ''
 tags:
 - the bitter southerner
 date: '2023-09-07T12:09:31.282Z'
+highlights: I’m fine right here is the response from the edge of the room, and that
+  contentment is downright subversive.
 ---
 
 

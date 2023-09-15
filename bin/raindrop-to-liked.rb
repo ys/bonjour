@@ -118,25 +118,6 @@ class Downloader
       md = to_md(l)
       filename = l["title"].parameterize
       File.write("#{path}/#{filename[0..50]}-#{l["_id"]}.md", md)
-
-      Dir.chdir(path+ "/images") do
-        unless File.exist?("#{l["_id"]}.webp") || File.exist?("#{l["_id"]}")
-          system("wget --retry-connrefused  --read-timeout=10 --timeout=10 -O \"#{l["_id"]}\" \"#{l["cover"]}\"")
-          if $? != 0
-            mp = MercuryPreview.new(l["link"])
-            begin
-              mp.fetch
-              system("wget --retry-connrefused  --read-timeout=10 --timeout=10 -O \"#{l["_id"]}\" \"#{mp.image}\"")
-            rescue StandardError => e
-              puts e
-            end
-          end
-        end
-      end
-    end
-    Dir.chdir(path+ "/images") do
-      `mogrify -resize 1000x1000 -format webp *`
-      `find . -type f ! -iname "index.md" ! -iname "*.webp" -delete`
     end
   end
 

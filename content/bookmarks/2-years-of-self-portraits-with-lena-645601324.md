@@ -10,6 +10,7 @@ tags:
 - youtube
 - joe tobiason
 date: '2023-01-26T19:48:17.311Z'
+highlights:
 ---
 
 

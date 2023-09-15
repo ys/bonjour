@@ -10,6 +10,7 @@ tags:
 - longboarder magazine
 - chris thomson
 date: '2023-01-26T19:52:40.839Z'
+highlights:
 ---
 
 

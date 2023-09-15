@@ -19,6 +19,7 @@ tags:
 - gq
 - david jacob kramer
 date: '2023-01-26T19:46:23.364Z'
+highlights:
 ---
 
 

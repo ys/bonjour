@@ -9,6 +9,7 @@ description: ''
 tags:
 - scott galloway
 date: '2023-01-26T19:44:11.179Z'
+highlights:
 ---
 
 

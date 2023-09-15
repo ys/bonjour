@@ -10,6 +10,7 @@ tags:
 - field mag
 - graham hiemstra
 date: '2023-05-24T20:11:28.415Z'
+highlights:
 ---
 
 

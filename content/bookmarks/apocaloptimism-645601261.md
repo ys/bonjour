@@ -10,6 +10,7 @@ tags:
 - new philosopher
 - oliver burkeman
 date: '2023-01-26T19:47:19.830Z'
+highlights:
 ---
 
 
