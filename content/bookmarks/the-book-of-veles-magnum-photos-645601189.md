@@ -4,6 +4,7 @@ bookmarkOf: https://www.magnumphotos.com/newsroom/society/book-veles-jonas-bendi
 category: article
 headImage: https://www.magnumphotos.com/wp-content/uploads/2021/08/MG172509-scaled.jpg
 title: The Book of Veles | Magnum Photos
+domain: magnumphotos.com
 description: ''
 tags:
 - society

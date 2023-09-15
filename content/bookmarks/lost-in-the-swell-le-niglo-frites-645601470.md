@@ -4,6 +4,7 @@ bookmarkOf: https://www.youtube.com/watch?v=oOLNknoGJvU
 category: video
 headImage: https://i.ytimg.com/vi/oOLNknoGJvU/maxresdefault.jpg
 title: Lost in the Swell - Le Niglo Frites
+domain: youtube.com
 description: ''
 tags:
 - youtube

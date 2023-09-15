@@ -4,6 +4,7 @@ bookmarkOf: https://www.mcsweeneys.net/articles/i-misplaced-my-phone-for-forty-f
 category: article
 headImage: http://edge.mcsw.net/mcsweeneys/1xcuqmne2wo5lcz63v93boyl6fvo
 title: I Misplaced My Phone for Forty-Five Minutes, and Now I’m a Mindfulness Expert
+domain: mcsweeneys.net
 description: ''
 tags:
 - mcsweeney's internet tendency

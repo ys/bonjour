@@ -4,6 +4,7 @@ bookmarkOf: https://graphics.reuters.com/ENVIRONMENT-PLASTIC/0100B275155/index.h
 category: link
 headImage: https://www.reuters.com/graphics/ENVIRONMENT-PLASTIC/0100B275155/images/share-card.png
 title: Drowning in plastic
+domain: graphics.reuters.com
 description: ''
 tags:
 - reuters graphics

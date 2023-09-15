@@ -4,6 +4,7 @@ bookmarkOf: https://www.youtube.com/watch?v=pyhK22C4OiE
 category: video
 headImage: https://i.ytimg.com/vi/pyhK22C4OiE/maxresdefault.jpg
 title: Maybe Yesterday | Surf | Karina Rozunko
+domain: youtube.com
 description: ''
 tags:
 - youtube

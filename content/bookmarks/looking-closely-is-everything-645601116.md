@@ -4,6 +4,7 @@ bookmarkOf: https://craigmod.com/essays/looking_closely/
 category: article
 headImage: https://craigmod.com/essays/images/looking_closely/looking_closely-hero.jpg
 title: Looking Closely is Everything
+domain: craigmod.com
 description: ''
 tags:
 - craig mod

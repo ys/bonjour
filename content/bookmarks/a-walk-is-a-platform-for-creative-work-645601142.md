@@ -4,6 +4,7 @@ bookmarkOf: https://craigmod.com/ridgeline/116/
 category: article
 headImage: https://craigmod.com/ridgeline/images/116/116.jpg
 title: A Walk is a Platform for Creative Work
+domain: craigmod.com
 description: ''
 tags:
 - craig mod

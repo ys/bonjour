@@ -4,6 +4,7 @@ bookmarkOf: https://hurryslowly.co/003-craig-mod/
 category: article
 headImage: https://hurryslowly.co/wp-content/uploads/2017/10/craig-mod-1200.jpg
 title: 'Craig Mod: I Want My Attention Back!'
+domain: hurryslowly.co
 description: ''
 tags:
 - hurry slowly

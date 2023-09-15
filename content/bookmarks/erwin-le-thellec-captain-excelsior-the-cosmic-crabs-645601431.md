@@ -5,6 +5,7 @@ category: video
 headImage: https://i.ytimg.com/vi/w6tYu_CHFEQ/maxresdefault.jpg
 title: Erwin Le Thellec - Captain Excelsior & The Cosmic Crabs - Ur sell war an aod
   - Un regard sur la cote
+domain: youtube.com
 description: ''
 tags:
 - youtube

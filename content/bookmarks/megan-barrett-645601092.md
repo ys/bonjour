@@ -4,6 +4,7 @@ bookmarkOf: http://www.meganshootsfilm.com/
 category: link
 headImage: https://rdl.ink/render/http%3A%2F%2Fwww.meganshootsfilm.com%2F
 title: Megan Barrett
+domain: meganshootsfilm.com
 description: ''
 tags:
 - megan barrett

@@ -4,6 +4,7 @@ bookmarkOf: https://www.loudandquiet.com/podcasts/soulwax-midnight-chats-episode
 category: article
 headImage: https://www.loudandquiet.com/files/2021/06/soulwax-podcast-art.jpg
 title: 'Soulwax: Midnight Chats – Episode 108 - Loud And Quiet'
+domain: loudandquiet.com
 description: ''
 tags:
 - loud and quiet

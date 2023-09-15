@@ -4,6 +4,7 @@ bookmarkOf: https://craigmod.com/ridgeline/014/
 category: article
 headImage: https://craigmod.com/ridgeline/images/014/014.jpg
 title: The Curious Incident in the Bath in the Day-time
+domain: craigmod.com
 description: ''
 tags:
 - craig mod

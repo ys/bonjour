@@ -4,6 +4,7 @@ bookmarkOf: https://www.youtube.com/watch?v=yHrspJHTyGY
 category: video
 headImage: https://i.ytimg.com/vi/yHrspJHTyGY/maxresdefault.jpg
 title: 'SMiLe Interviews : Brian Anderson'
+domain: youtube.com
 description: ''
 tags:
 - youtube

@@ -4,6 +4,7 @@ bookmarkOf: https://gear.vogelius.se/-editorials/iphone-x/index.html
 category: link
 headImage: https://gear.vogelius.se/-editorials/iphone-x/iphone-x-25.jpg
 title: iPhone X and the state of smartphone cameras
+domain: gear.vogelius.se
 description: ''
 tags:
 - kjvogelius

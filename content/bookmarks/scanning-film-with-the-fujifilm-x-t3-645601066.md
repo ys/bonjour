@@ -4,6 +4,7 @@ bookmarkOf: https://www.youtube.com/watch?v=-aThAi4jan8&feature=share
 category: video
 headImage: https://i.ytimg.com/vi/-aThAi4jan8/maxresdefault.jpg
 title: Scanning Film with the Fujifilm X-T3
+domain: youtube.com
 description: ''
 tags:
 - youtube

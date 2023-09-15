@@ -4,6 +4,7 @@ bookmarkOf: https://www.youtube.com/watch?v=SDueO-b_rvI
 category: video
 headImage: https://i.ytimg.com/vi/SDueO-b_rvI/maxresdefault.jpg
 title: "'MAGENTA' - A France Surf Montage by 'Full Moon Surf Club'"
+domain: youtube.com
 description: ''
 tags:
 - youtube

@@ -4,6 +4,7 @@ bookmarkOf: https://jeremyjanin.com/changer-de-regard/
 category: article
 headImage: https://jeremyjanin.com/changer-de-regard/cover.jpg
 title: Changer de regard sur mon quotidien
+domain: jeremyjanin.com
 description: ''
 tags:
 - photographie

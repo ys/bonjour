@@ -4,6 +4,7 @@ bookmarkOf: https://www.newstatesman.com/culture/music/2022/02/how-jim-morrison-
 category: article
 headImage: https://dl6pgk4f88hky.cloudfront.net/2022/02/202207-Jim-Morrison-800x418.jpg?1694506522
 title: How Jim Morrison killed rock ’n’ roll
+domain: newstatesman.com
 description: ''
 tags:
 - culture

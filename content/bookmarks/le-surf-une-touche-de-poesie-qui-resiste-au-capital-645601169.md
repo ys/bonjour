@@ -4,6 +4,7 @@ bookmarkOf: http://www.slate.fr/story/208757/surf-ocean-capitalisme-liberte-spor
 category: article
 headImage: https://www.slate.fr/sites/default/files/styles/1200x680/public/jeremy-bishop-_cfv3bntqlq-unsplash.jpeg
 title: Le surf, une touche de poésie qui résiste au capitalisme
+domain: slate.fr
 description: ''
 tags:
 - société

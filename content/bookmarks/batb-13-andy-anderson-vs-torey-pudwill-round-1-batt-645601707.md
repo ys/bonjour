@@ -5,6 +5,7 @@ category: video
 headImage: https://i.ytimg.com/vi/xakLVsDYn04/maxresdefault.jpg
 title: 'BATB 13: Andy Anderson Vs. Torey Pudwill - Round 1: Battle At The Berrics
   Presented By Cariuma'
+domain: youtube.com
 description: ''
 tags:
 - youtube

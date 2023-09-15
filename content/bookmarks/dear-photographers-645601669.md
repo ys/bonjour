@@ -4,6 +4,7 @@ bookmarkOf: https://www.youtube.com/watch?v=_K9KVkkc_4I
 category: video
 headImage: https://i.ytimg.com/vi/_K9KVkkc_4I/maxresdefault.jpg
 title: Dear Photographers,
+domain: youtube.com
 description: ''
 tags:
 - youtube

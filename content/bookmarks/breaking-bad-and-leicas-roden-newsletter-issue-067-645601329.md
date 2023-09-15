@@ -4,6 +4,7 @@ bookmarkOf: https://craigmod.com/roden/067/
 category: link
 headImage: https://craigmod.com/roden/img/067/067.jpg
 title: Breaking Bad and Leicas — Roden newsletter issue 067
+domain: craigmod.com
 description: ''
 tags:
 - craigmod

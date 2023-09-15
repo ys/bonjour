@@ -4,6 +4,7 @@ bookmarkOf: https://www.youtube.com/watch?v=CoH2KGiG\_Dc&feature=share
 category: link
 headImage: ''
 title: https://www.youtube.com/watch?v=CoH2KGiG\_Dc&feature=share
+domain: youtube.com
 description: ''
 tags:
 - video

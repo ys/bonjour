@@ -4,6 +4,7 @@ bookmarkOf: https://explorewhatworks.com/busyness-decoded-how-to-limit-what-you-
 category: article
 headImage: https://ihzgvq.infiniteuploads.cloud/2022/11/thought-catalog-UK78i6vK3sc-unsplash-scaled.jpg
 title: 'Busyness Decoded: How to Limit What You Say "Yes" To'
+domain: explorewhatworks.com
 description: ''
 tags:
 - tara mcmullin

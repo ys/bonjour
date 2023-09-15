@@ -4,6 +4,7 @@ bookmarkOf: https://stephango.com/in-good-hands
 category: article
 headImage: https://stephango.com/assets/card.png
 title: In good hands
+domain: stephango.com
 description: ''
 tags:
 - steph ango

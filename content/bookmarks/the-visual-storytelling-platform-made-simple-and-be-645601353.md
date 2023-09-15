@@ -4,6 +4,7 @@ bookmarkOf: https://theprimalrevolution.exposure.co/using-playfulness-as-an-intu
 category: link
 headImage: https://exposure-marketing.accelerator.net/open-graph-image.png
 title: The visual storytelling platform made simple and beautiful
+domain: theprimalrevolution.exposure.co
 description: ''
 tags:
 - photos

@@ -4,6 +4,7 @@ bookmarkOf: https://youtu.be/lf4sFVEER3A
 category: video
 headImage: https://i.ytimg.com/vi/lf4sFVEER3A/maxresdefault.jpg
 title: 'Vans Surf Presents: Cadavre Exquis | Surf | VANS'
+domain: youtu.be
 description: ''
 tags:
 - youtube

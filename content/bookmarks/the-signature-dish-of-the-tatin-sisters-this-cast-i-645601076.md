@@ -5,6 +5,7 @@ category: article
 headImage: https://i.ytimg.com/vi/jGk5BbWkLV8/sddefault.jpg
 title: The signature dish of the Tatin sisters, this cast iron beauty will make you
   a dinner party hero
+domain: huckberry.com
 description: ''
 tags:
 - food + drink

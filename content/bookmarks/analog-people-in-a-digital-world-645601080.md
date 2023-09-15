@@ -4,6 +4,7 @@ bookmarkOf: https://m.youtube.com/watch?v=LzH-NJuIxbc
 category: video
 headImage: https://i.ytimg.com/vi/LzH-NJuIxbc/maxresdefault.jpg
 title: Analog People In A Digital World
+domain: m.youtube.com
 description: ''
 tags:
 - youtube

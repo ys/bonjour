@@ -4,6 +4,7 @@ bookmarkOf: https://www.madebyfinn.com/book-town/
 category: link
 headImage: https://rdl.ink/render/https%3A%2F%2Fwww.madebyfinn.com%2Fbook-town%2F
 title: CEREAL MAGAZINE - HAY-ON-WYE — FINN BEALES
+domain: madebyfinn.com
 description: ''
 tags:
 - finn beales

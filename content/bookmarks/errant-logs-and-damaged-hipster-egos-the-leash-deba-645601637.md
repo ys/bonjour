@@ -5,6 +5,7 @@ category: article
 headImage: https://longboardermagazine.com/wp-content/uploads/2023/06/Untitled-design-2-1024x512.png
 title: 'Errant logs and damaged hipster egos: the leash debate rages in Byron Bay
   - Longboarder Magazine'
+domain: longboardermagazine.com
 description: ''
 tags:
 - longboarder magazine

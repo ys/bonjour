@@ -4,6 +4,7 @@ bookmarkOf: https://youtube.com/watch?v=KClAPipnKqw&feature=share
 category: video
 headImage: https://i.ytimg.com/vi/KClAPipnKqw/maxresdefault.jpg
 title: 'Technical leadership and glue work - Tanya Reilly | #LeadDevNewYork'
+domain: youtube.com
 description: ''
 tags:
 - youtube

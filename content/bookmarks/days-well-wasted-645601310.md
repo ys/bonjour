@@ -4,6 +4,7 @@ bookmarkOf: https://youtu.be/tE--aR7kz9Y
 category: video
 headImage: https://i.ytimg.com/vi/tE--aR7kz9Y/maxresdefault.jpg
 title: Days Well Wasted
+domain: youtu.be
 description: ''
 tags:
 - youtube

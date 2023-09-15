@@ -9,6 +9,7 @@ title: 'Alex Strohl on Instagram: "Had a lot of fun making this film for @pradaâ
   the most vivid sunset on earth. Or at least I thought it was. Hope you enjoy this
   piece as much as I enjoyed creating it. 2nd camera @platoux Edit @inmistmediahouse
   Sound design @un.studios #PradaPartner #PradaLunaRossaOcean @ultabeauty"'
+domain: instagram.com
 description: ''
 tags: []
 date: '2023-01-26T19:46:51.920Z'

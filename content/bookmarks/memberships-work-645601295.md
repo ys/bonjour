@@ -4,6 +4,7 @@ bookmarkOf: https://craigmod.com/essays/memberships_work/
 category: article
 headImage: https://craigmod.com/essays/images/memberships_work/2022cover4.jpg
 title: Memberships Work
+domain: craigmod.com
 description: ''
 tags:
 - craig mod

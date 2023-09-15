@@ -4,6 +4,7 @@ bookmarkOf: https://every.to/cybernaut/the-quest-for-a-dumber-phone?mc_cid=0db65
 category: article
 headImage: https://d24ovhgu8s7341.cloudfront.net/uploads/post/social_media_image/2434/Dumbphone.jpg
 title: The Quest for a Dumber Phone
+domain: every.to
 description: ''
 tags:
 - fadeke adegbuyi

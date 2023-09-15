@@ -4,6 +4,7 @@ bookmarkOf: https://barefootsurftravel.com/livemore-magazine/proper-surfing-stan
 category: article
 headImage: https://tutorials.barefootsurftravel.com/wp-content/uploads/2021/06/The-Proper-Surfing-Stance.jpeg
 title: The Proper Surfing Stance
+domain: barefootsurftravel.com
 description: ''
 tags:
 - barefoot surf tutorials

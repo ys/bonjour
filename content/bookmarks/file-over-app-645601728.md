@@ -4,6 +4,7 @@ bookmarkOf: https://stephango.com/file-over-app
 category: article
 headImage: https://stephango.com/assets/card.png
 title: File over app
+domain: stephango.com
 description: ''
 tags:
 - steph ango

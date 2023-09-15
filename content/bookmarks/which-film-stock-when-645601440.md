@@ -4,6 +4,7 @@ bookmarkOf: https://www.youtube.com/watch?v=kSlrgo9bEzU
 category: video
 headImage: https://i.ytimg.com/vi/kSlrgo9bEzU/maxresdefault.jpg
 title: Which Film Stock, When?
+domain: youtube.com
 description: ''
 tags:
 - youtube

@@ -4,6 +4,7 @@ bookmarkOf: https://www.lemonde.fr/m-le-mag/article/2021/09/10/hugo-clement-un-a
 category: article
 headImage: https://img.lemde.fr/2021/09/07/479/0/1233/820/1440/960/60/0/e684736_134335-3215179.jpg
 title: Hugo Clément, un média à lui tout seul au service du combat environnemental
+domain: lemonde.fr
 description: ''
 tags:
 - m le mag

@@ -4,6 +4,7 @@ bookmarkOf: https://youtu.be/s6eEzuY-mjA
 category: video
 headImage: https://i.ytimg.com/vi/s6eEzuY-mjA/maxresdefault.jpg
 title: 'Race & Surfing: A Brief History With Selema Masekela | In Plain Sight'
+domain: youtu.be
 description: ''
 tags:
 - youtube

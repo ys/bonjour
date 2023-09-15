@@ -5,6 +5,7 @@ category: article
 headImage: https://huckberry.imgix.net/journal_post_content_block_images/000/001/090/images/original/james_nestor_hero.jpg
 title: New York Times Bestselling Author James Nestor explains how better breathing
   will change your life
+domain: huckberry.com
 description: ''
 tags:
 - wellness

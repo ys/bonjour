@@ -4,6 +4,7 @@ bookmarkOf: https://www.youtube.com/watch?app=desktop&v=kF5FYZXx8Qw&feature=yout
 category: video
 headImage: https://i.ytimg.com/vi/kF5FYZXx8Qw/maxresdefault.jpg
 title: Chromance Cut x Tolhurst Surfboards (feat. Harley Ingleby)
+domain: youtube.com
 description: ''
 tags:
 - youtube

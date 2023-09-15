@@ -4,6 +4,7 @@ bookmarkOf: https://www.vice.com/fr/article/4a34mm/anne-archet-le-vide-mode-empl
 category: article
 headImage: https://video-images.vice.com/articles/64edc4081e6a5796d1d46064/lede/1693303817358-adobestock354787305.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDI3eGg7MHh3LDAuMDU5NHhoJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg
 title: Prendre un jour de congé, lire Anne Archet, puis démissionner
+domain: vice.com
 description: ''
 tags:
 - vice

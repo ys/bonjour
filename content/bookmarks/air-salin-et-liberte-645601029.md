@@ -4,6 +4,7 @@ bookmarkOf: https://beside.media/fr/mini-guides/air-salin-et-liberte/
 category: link
 headImage: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2020/08/thumbnail-fb.png
 title: Air salin et liberté
+domain: beside.media
 description: ''
 tags:
 - beside_media

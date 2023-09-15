@@ -4,6 +4,7 @@ bookmarkOf: https://www.youtube.com/watch?v=tUApO77uUUk
 category: video
 headImage: https://i.ytimg.com/vi/tUApO77uUUk/sddefault.jpg
 title: 'Cypress Hill: Tiny Desk Concert'
+domain: youtube.com
 description: ''
 tags:
 - youtube

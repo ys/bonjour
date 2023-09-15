@@ -4,6 +4,7 @@ bookmarkOf: https://www.chipiron.fr/chipiron-family-surf-trip-au-coin-de-la-rue/
 category: article
 headImage: https://www.chipiron.fr/wp-content/uploads/2022/10/chipiron-family-surf.jpg
 title: Chipiron family - surf trip au coin de la rue | Chipiron
+domain: chipiron.fr
 description: ''
 tags:
 - chipiron surfboards

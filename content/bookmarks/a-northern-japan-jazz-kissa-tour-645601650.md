@@ -4,6 +4,7 @@ bookmarkOf: https://craigmod.com/ridgeline/165/
 category: article
 headImage: https://craigmod.com/ridgeline/images/165/165.jpg
 title: A Northern Japan Jazz Kissa Tour
+domain: craigmod.com
 description: ''
 tags:
 - craig mod

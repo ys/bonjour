@@ -4,6 +4,7 @@ bookmarkOf: https://www.lagreensession.com/rencontre-lea-brassy-waterwoman-engag
 category: article
 headImage: https://www.lagreensession.com/wp-content/uploads/2020/06/vignette-article-lea-brassy.jpeg
 title: Rencontre avec Lea Brassy une waterwoman engagée - La Green Session
+domain: lagreensession.com
 description: ''
 tags:
 - la green session

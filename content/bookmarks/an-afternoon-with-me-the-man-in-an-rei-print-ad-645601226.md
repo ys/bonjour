@@ -4,6 +4,7 @@ bookmarkOf: https://www.mcsweeneys.net/articles/an-afternoon-with-me-the-man-in-
 category: article
 headImage: http://edge.mcsw.net/mcsweeneys/1m2ap07drnn75oa6l68910ej2nmg
 title: An Afternoon with Me, the Man in an REI Print Ad
+domain: mcsweeneys.net
 description: ''
 tags:
 - mcsweeney's internet tendency

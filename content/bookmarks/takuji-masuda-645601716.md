@@ -4,6 +4,7 @@ bookmarkOf: https://www.surfersjournal.com/editorial/soundings-takuji-masuda/
 category: article
 headImage: https://media.surfersjournal.com/wp-content/uploads/2023/06/27111521/Takuji-200.png
 title: Takuji Masuda
+domain: surfersjournal.com
 description: ''
 tags:
 - the surfers journal

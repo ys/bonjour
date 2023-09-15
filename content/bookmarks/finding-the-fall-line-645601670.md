@@ -4,6 +4,7 @@ bookmarkOf: https://vimeo.com/839932273?utm_source=substack&utm_medium=email
 category: video
 headImage: https://i.vimeocdn.com/video/1689740199-d2ae612f38c343161531cdb2ab91d32bdd23be56ccd9795770244acd3d4754bb-d_295x166
 title: FINDING THE FALL LINE
+domain: vimeo.com
 description: ''
 tags:
 - vimeo

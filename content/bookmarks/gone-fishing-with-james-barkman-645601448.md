@@ -4,6 +4,7 @@ bookmarkOf: https://poler.com/blogs/adventures/gone-fishing-with-james-barkman
 category: article
 headImage: https://poler.com/cdn/shop/articles/Header-AdventuresWHAT.png?v=1666741745
 title: GONE FISHING WITH JAMES BARKMAN
+domain: poler.com
 description: ''
 tags:
 - poler

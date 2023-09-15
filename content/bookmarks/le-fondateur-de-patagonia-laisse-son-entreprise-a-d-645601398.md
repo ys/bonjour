@@ -5,6 +5,7 @@ category: article
 headImage: https://img.lemde.fr/2022/09/15/162/0/1501/1000/1440/960/60/0/32a188e_1663205960762-yvon-chouinard-photo-tom-frost.jpg
 title: Le fondateur de Patagonia laisse son entreprise à Dame Nature, sans cession
   ni introduction en Bourse
+domain: lemonde.fr
 description: ''
 tags:
 - économie

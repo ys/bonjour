@@ -4,6 +4,7 @@ bookmarkOf: https://gist.github.com/adamwiggins/5687294
 category: article
 headImage: https://github.githubassets.com/images/modules/gists/gist-og-image.png
 title: My Heroku values
+domain: gist.github.com
 description: ''
 tags:
 - gist

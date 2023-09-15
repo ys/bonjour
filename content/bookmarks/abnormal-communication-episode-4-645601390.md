@@ -4,6 +4,7 @@ bookmarkOf: https://youtu.be/SeQLZg7Fh4Y
 category: video
 headImage: https://i.ytimg.com/vi/SeQLZg7Fh4Y/maxresdefault.jpg
 title: 'Abnormal Communication: Episode 4'
+domain: youtu.be
 description: ''
 tags:
 - youtube

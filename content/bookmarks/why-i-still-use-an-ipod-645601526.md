@@ -4,6 +4,7 @@ bookmarkOf: https://www.youtube.com/watch?v=UsW4sqQOgWc
 category: video
 headImage: https://i.ytimg.com/vi/UsW4sqQOgWc/maxresdefault.jpg
 title: why i still use an iPod
+domain: youtube.com
 description: ''
 tags:
 - youtube

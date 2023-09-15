@@ -4,6 +4,7 @@ bookmarkOf: https://www.youtube.com/watch?v=Ul4nqKb-tys
 category: video
 headImage: https://i.ytimg.com/vi/Ul4nqKb-tys/maxresdefault.jpg
 title: Forkin’ Around - Episode 2
+domain: youtube.com
 description: ''
 tags:
 - youtube

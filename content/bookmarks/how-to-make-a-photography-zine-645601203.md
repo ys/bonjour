@@ -4,6 +4,7 @@ bookmarkOf: https://m.youtube.com/watch?v=lfN133XgaSk
 category: video
 headImage: https://i.ytimg.com/vi/lfN133XgaSk/maxresdefault.jpg
 title: How to Make a Photography Zine
+domain: m.youtube.com
 description: ''
 tags:
 - youtube

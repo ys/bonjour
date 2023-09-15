@@ -5,6 +5,7 @@ category: video
 headImage: https://i.ytimg.com/vi/MsrYg4nDeDE/maxresdefault.jpg
 title: 'The Physics of Noseriding: The science of surfing’s fluid dance | Patagonia
   Films'
+domain: youtube.com
 description: ''
 tags:
 - youtube

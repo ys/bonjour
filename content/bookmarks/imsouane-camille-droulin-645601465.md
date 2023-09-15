@@ -4,6 +4,7 @@ bookmarkOf: https://www.youtube.com/watch?v=zWj5Sk0o2_c
 category: video
 headImage: https://i.ytimg.com/vi/zWj5Sk0o2_c/sddefault.jpg
 title: Imsouane- Camille DROULIN
+domain: youtube.com
 description: ''
 tags:
 - youtube

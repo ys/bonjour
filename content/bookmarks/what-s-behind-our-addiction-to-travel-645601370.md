@@ -4,6 +4,7 @@ bookmarkOf: https://www.dw.com/en/climate-change-is-ecoguilt-changing-the-way-we
 category: link
 headImage: https://static.dw.com/image/57527502_6.jpg
 title: What's behind our addiction to travel?
+domain: dw.com
 description: ''
 tags:
 - dw.com

@@ -4,6 +4,7 @@ bookmarkOf: https://www.youtube.com/watch?v=FRfuQbkoJcw
 category: video
 headImage: https://i.ytimg.com/vi/FRfuQbkoJcw/maxresdefault.jpg
 title: CULTURE HOULEUSE - Teaser (FR)
+domain: youtube.com
 description: ''
 tags:
 - youtube

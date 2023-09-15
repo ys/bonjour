@@ -4,6 +4,7 @@ bookmarkOf: https://craigmod.com/roden/059/
 category: link
 headImage: https://craigmod.com/roden/img/059/059.jpg
 title: Stupid Life Tricks — Roden newsletter issue 059
+domain: craigmod.com
 description: ''
 tags:
 - craigmod

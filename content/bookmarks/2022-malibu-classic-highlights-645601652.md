@@ -4,6 +4,7 @@ bookmarkOf: https://www.youtube.com/watch?v=XyswXpa5LVw
 category: video
 headImage: https://i.ytimg.com/vi/XyswXpa5LVw/maxresdefault.jpg
 title: 2022 Malibu Classic Highlights
+domain: youtube.com
 description: ''
 tags:
 - youtube

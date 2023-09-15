@@ -5,6 +5,7 @@ category: article
 headImage: https://img.lemde.fr/2021/09/30/352/0/821/546/1440/960/60/0/6808995_520631130-cle-ment.jpg
 title: "« Le zen, c’est l’inefficacité totale : tu t’assois, tu es dans ta posture
   et ça suffit »"
+domain: lemonde.fr
 description: ''
 tags:
 - le monde.fr

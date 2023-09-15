@@ -5,6 +5,7 @@ category: article
 headImage: https://i.ytimg.com/vi/7vEwe4yK1AA/maxresdefault.jpg
 title: An interview with Chris Burkard, acclaimed photographer, Huckberry Ambassador,
   and overall outstanding guy
+domain: huckberry.com
 description: ''
 tags:
 - surfing

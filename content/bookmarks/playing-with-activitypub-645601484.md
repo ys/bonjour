@@ -4,6 +4,7 @@ bookmarkOf: https://macwright.com/2022/12/09/activitypub.html
 category: article
 headImage: https://macwright.com/images/2022-12-09-activitypub-thumbnail-image.jpg
 title: Playing with ActivityPub
+domain: macwright.com
 description: ''
 tags:
 - macwright.com

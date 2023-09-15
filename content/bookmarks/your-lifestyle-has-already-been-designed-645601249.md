@@ -4,6 +4,7 @@ bookmarkOf: http://www.raptitude.com/2010/07/your-lifestyle-has-already-been-des
 category: article
 headImage: https://rdl.ink/render/http%3A%2F%2Fwww.raptitude.com%2F2010%2F07%2Fyour-lifestyle-has-already-been-designed%2F
 title: Your Lifestyle Has Already Been Designed
+domain: raptitude.com
 description: ''
 tags:
 - raptitude.com

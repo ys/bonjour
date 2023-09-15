@@ -4,6 +4,7 @@ bookmarkOf: https://m.youtube.com/watch?v=qKGGHunk7xc
 category: video
 headImage: https://i.ytimg.com/vi/qKGGHunk7xc/maxresdefault.jpg
 title: Gagner de l'argent avec ses photos
+domain: m.youtube.com
 description: ''
 tags:
 - youtube

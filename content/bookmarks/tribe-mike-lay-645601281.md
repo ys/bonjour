@@ -4,6 +4,7 @@ bookmarkOf: https://finisterre.com/blogs/broadcast/tribe-mike-lay?om_campaign=om
 category: article
 headImage: https://finisterre.com/cdn/shop/articles/Tribe-Mike-Lay-Portrait-Featured-Image.jpg?v=1642419099
 title: "'Tribe' - Mike Lay"
+domain: finisterre.com
 description: ''
 tags:
 - finisterre

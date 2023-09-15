@@ -4,6 +4,7 @@ bookmarkOf: https://huckberry.com/journal/posts/shelter-karangahake-house
 category: article
 headImage: https://huckberry.imgix.net/journal_post_content_block_images/000/000/802/images/original/KarangahakeHouse_OutdoorRoomToEast_hero.jpg
 title: 3 Home Improvements Inspired by New Zealand's Karangahake House
+domain: huckberry.com
 description: ''
 tags:
 - shelter

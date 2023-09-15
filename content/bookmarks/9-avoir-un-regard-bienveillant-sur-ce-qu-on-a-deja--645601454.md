@@ -5,6 +5,7 @@ category: audio
 headImage: https://public.overcast-cdn.com/art/3952412?v1
 title: "#9 - Avoir un regard bienveillant sur ce qu’on a déjà accompli — Petit journal
   d’un créatif"
+domain: overcast.fm
 description: ''
 tags:
 - overcastfm

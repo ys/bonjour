@@ -4,6 +4,7 @@ bookmarkOf: https://www.newyorker.com/culture/cultural-comment/can-reading-make-
 category: article
 headImage: https://media.newyorker.com/photos/59097cc68b51cf59fc423f0c/16:9/w_1280,c_limit/Dovey-Can-Reading-Make-Us-Feel-Better.jpg
 title: Can Reading Make You Happier?
+domain: newyorker.com
 description: ''
 tags:
 - cultural comment

@@ -4,6 +4,7 @@ bookmarkOf: https://cleversupply.co/collections/quick-release-camera-straps/prod
 category: link
 headImage: https://cleversupply.co/cdn/shop/products/MinimalAnchorChestWhiteBG-1.jpg?v=1692624673
 title: Minimal Anchor Strap (Peak Design AL)
+domain: cleversupply.co
 description: ''
 tags:
 - clever supply co.

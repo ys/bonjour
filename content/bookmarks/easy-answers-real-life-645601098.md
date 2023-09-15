@@ -4,6 +4,7 @@ bookmarkOf: https://reallifemag.com/easy-answers/
 category: article
 headImage: https://reallifemag.com/wp-content/uploads/2020/12/unnamed-1024x683.jpg
 title: Easy Answers — Real Life
+domain: reallifemag.com
 description: ''
 tags:
 - real life

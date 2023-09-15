@@ -4,6 +4,7 @@ bookmarkOf: https://www.technologyreview.com/2021/01/06/1015779/what-buddhism-ca
 category: article
 headImage: https://wp.technologyreview.com/wp-content/uploads/2021/01/SA_celine-haeberly-DwpmtAo01fY-unsplash.jpeg?resize=1200,600
 title: What Buddhism can do for AI ethics
+domain: technologyreview.com
 description: ''
 tags:
 - artificial intelligence

@@ -4,6 +4,7 @@ bookmarkOf: https://chrishetem.com/
 category: link
 headImage: https://chrishetem.com/assets/images/share.jpg?v=8dc18f53
 title: Chris Hetem
+domain: chrishetem.com
 description: ''
 tags:
 - chris hetem

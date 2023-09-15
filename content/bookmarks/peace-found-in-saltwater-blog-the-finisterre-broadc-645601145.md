@@ -4,6 +4,7 @@ bookmarkOf: https://finisterre.com/blogs/broadcast/peace-found-in-saltwater
 category: article
 headImage: https://finisterre.com/cdn/shop/articles/unnamed_29e9f0ca-ce84-469e-bbb0-2c22800a220d.jpg?v=1643034192
 title: Peace Found In Saltwater | Blog | The Finisterre Broadcast
+domain: finisterre.com
 description: ''
 tags:
 - finisterre

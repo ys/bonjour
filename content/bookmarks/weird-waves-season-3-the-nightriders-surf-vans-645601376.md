@@ -4,6 +4,7 @@ bookmarkOf: https://www.youtube.com/watch?v=sAQCi2ELHow
 category: video
 headImage: https://i.ytimg.com/vi/sAQCi2ELHow/maxresdefault.jpg
 title: 'Weird Waves Season 3: The Nightriders | Surf | VANS'
+domain: youtube.com
 description: ''
 tags:
 - youtube

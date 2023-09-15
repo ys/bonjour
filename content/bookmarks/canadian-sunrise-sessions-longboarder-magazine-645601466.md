@@ -4,6 +4,7 @@ bookmarkOf: https://longboardermagazine.com/2022/10/canadian-sunrise-sessions/
 category: article
 headImage: https://longboardermagazine.com/wp-content/uploads/2022/10/LONGBOARDING-MAG-SUSAN-PAIGE-YUAN-LEGAULT-5974-scaled.jpg
 title: Canadian Sunrise Sessions - Longboarder Magazine
+domain: longboardermagazine.com
 description: ''
 tags:
 - longboarder magazine

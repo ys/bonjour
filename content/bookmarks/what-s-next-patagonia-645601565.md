@@ -4,6 +4,7 @@ bookmarkOf: https://www.youtube.com/watch?app=desktop&v=eV_753wIUzo
 category: video
 headImage: https://i.ytimg.com/vi/eV_753wIUzo/maxresdefault.jpg
 title: What's Next? | Patagonia
+domain: youtube.com
 description: ''
 tags:
 - youtube

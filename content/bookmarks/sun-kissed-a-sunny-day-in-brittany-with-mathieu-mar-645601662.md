@@ -4,6 +4,7 @@ bookmarkOf: https://www.youtube.com/watch?v=Pbi0OvWdPJI
 category: video
 headImage: https://i.ytimg.com/vi/Pbi0OvWdPJI/maxresdefault.jpg
 title: SUN-KISSED - A sunny day in Brittany with Mathieu Marechal
+domain: youtube.com
 description: ''
 tags:
 - youtube

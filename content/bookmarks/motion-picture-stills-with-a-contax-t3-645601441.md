@@ -4,6 +4,7 @@ bookmarkOf: https://www.youtube.com/watch?v=wNEqSAXXpVo
 category: video
 headImage: https://i.ytimg.com/vi/wNEqSAXXpVo/maxresdefault.jpg
 title: Motion picture stills with a Contax T3
+domain: youtube.com
 description: ''
 tags:
 - youtube

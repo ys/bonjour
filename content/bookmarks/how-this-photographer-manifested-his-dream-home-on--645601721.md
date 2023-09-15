@@ -5,6 +5,7 @@ category: article
 headImage: https://i.ytimg.com/vi/yL9NsL1-tEs/maxresdefault.jpg
 title: How this Photographer Manifested His Dream Home on the Oregon Coast | Huckberry
   Homes Ep. 2 Ben Moon
+domain: huckberry.com
 description: ''
 tags:
 - shelter

@@ -4,6 +4,7 @@ bookmarkOf: https://medium.com/super-jump/carto-encourages-players-to-look-at-th
 category: article
 headImage: https://miro.medium.com/v2/da:true/resize:fit:616/1*GyIwsi7M3xT_HvJy73R-kA.gif
 title: Carto Encourages Players to Look at the World in New Ways
+domain: medium.com
 description: ''
 tags:
 - medium

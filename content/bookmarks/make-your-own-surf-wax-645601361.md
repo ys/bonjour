@@ -4,6 +4,7 @@ bookmarkOf: https://langbrett.com/en/blogs/selber-machen/surfwachs-selber-machen
 category: article
 headImage: https://langbrett.com/cdn/shop/articles/surfwachs-selber-machen-126424_600x.jpg?v=1660785222
 title: make your own surf wax
+domain: langbrett.com
 description: ''
 tags:
 - langbrett

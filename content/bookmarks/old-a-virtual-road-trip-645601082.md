@@ -4,6 +4,7 @@ bookmarkOf: https://storymaps.arcgis.com/stories/f28691f602904888878c3b427aa00e8
 category: article
 headImage: https://cdn.arcgis.com/sharing/rest/content/items/f28691f602904888878c3b427aa00e8d/resources/YZmLgVV0GIrfmrFjG6UG1.jpeg?w=400
 title: "(old) A Virtual Road Trip"
+domain: storymaps.arcgis.com
 description: ''
 tags:
 - arcgis storymaps

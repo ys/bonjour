@@ -4,6 +4,7 @@ bookmarkOf: https://www.youtube.com/watch?v=78C2RNVvTrQ
 category: video
 headImage: https://i.ytimg.com/vi/78C2RNVvTrQ/maxresdefault.jpg
 title: 'Vans Surf Presents: Sonic Souvenirs, Volume 2 - Côte d''Ivoire'
+domain: youtube.com
 description: ''
 tags:
 - youtube

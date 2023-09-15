@@ -4,6 +4,7 @@ bookmarkOf: https://www.fieldmag.com/articles/zion-national-park-hiking-photo-es
 category: article
 headImage: http://images.ctfassets.net/r7p9m4b1iqbp/350LJpOeK0BDpi1GriTVPy/d820761b1e5366eb0348f29e102185aa/linnea-bullion-zion-road-trip-20.jpg?w=1000
 title: 20 Film Photos From 4 Days of Hiking in Zion National Park
+domain: fieldmag.com
 description: ''
 tags:
 - field mag

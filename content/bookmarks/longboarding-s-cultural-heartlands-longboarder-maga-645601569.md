@@ -4,6 +4,7 @@ bookmarkOf: https://longboardermagazine.com/2023/02/longboardings-cultural-heart
 category: article
 headImage: https://longboardermagazine.com/wp-content/uploads/2023/02/Imsouane_@imsouanesurfhouse.jpg
 title: Longboarding’s Cultural Heartlands - Longboarder Magazine
+domain: longboardermagazine.com
 description: ''
 tags:
 - longboarder magazine

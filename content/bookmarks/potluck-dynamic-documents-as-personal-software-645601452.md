@@ -4,6 +4,7 @@ bookmarkOf: https://www.inkandswitch.com/potluck/
 category: article
 headImage: https://www.inkandswitch.com/potluck/static/coffee.jpg
 title: 'Potluck: Dynamic documents as personal software'
+domain: inkandswitch.com
 description: ''
 tags:
 - inkandswitch

@@ -4,6 +4,7 @@ bookmarkOf: https://www.youtube.com/watch?v=8Rglr-dwQkk
 category: video
 headImage: https://i.ytimg.com/vi/8Rglr-dwQkk/maxresdefault.jpg
 title: Interview w/ Sierra Prescott | Photographer & Skateboarder
+domain: youtube.com
 description: ''
 tags:
 - youtube

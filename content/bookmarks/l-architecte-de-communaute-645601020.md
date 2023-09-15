@@ -4,6 +4,7 @@ bookmarkOf: https://beside.media/fr/larchitecte-de-communaute/
 category: link
 headImage: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2020/06/SarahZed.byJillCluet-08163.jpg
 title: L'architecte de communauté
+domain: beside.media
 description: ''
 tags:
 - beside_media

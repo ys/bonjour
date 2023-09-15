@@ -4,6 +4,7 @@ bookmarkOf: https://mathieuodin.com/la-van-life-entre-le-reve-et-la-realite-peti
 category: article
 headImage: https://mathieuodin.com/wp-content/uploads/2023/03/camping-car-de-mathieu-odin-dans-les-alpes.jpg
 title: La van-life, entre rêve et réalité ! - Mathieu Odin - Photographe
+domain: mathieuodin.com
 description: ''
 tags:
 - mathieu odin

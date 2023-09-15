@@ -4,6 +4,7 @@ bookmarkOf: https://adamwiggins.com/making-computers-better/
 category: article
 headImage: https://adamwiggins.com/making-computers-better/mcb-unfurl.png
 title: making computers better · Adam Wiggins
+domain: adamwiggins.com
 description: ''
 tags:
 - _adamwiggins_

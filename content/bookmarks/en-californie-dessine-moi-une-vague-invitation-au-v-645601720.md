@@ -5,6 +5,7 @@ category: video
 headImage: https://api-cdn.arte.tv/img/v2/image/URbEQYyCLb5BkBHvQ46vec/1920x1080?type=TEXT&watermark=true
 title: En Californie, dessine-moi une vague - Invitation au voyage (04/09/2023) -
   Regarder le documentaire complet | ARTE
+domain: arte.tv
 description: ''
 tags:
 - arte

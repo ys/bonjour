@@ -4,6 +4,7 @@ bookmarkOf: https://thelocalproject.com.au/articles/eucalypt-house-by-not-all-ar
 category: article
 headImage: https://d31dpzy4bseog7.cloudfront.net/media/2021/12/01144812/Eucalypt-House-by-Not-All-Architecture-Project-Feature-The-Local-Project-Image-16.jpg
 title: Eucalypt House by Not All Architecture - Project Feature - The Local Project
+domain: thelocalproject.com.au
 description: ''
 tags:
 - the local project

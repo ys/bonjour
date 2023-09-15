@@ -4,6 +4,7 @@ bookmarkOf: https://finisterre.com/blogs/broadcast/pride-a-letter-to-my-younger-
 category: article
 headImage: https://finisterre.com/cdn/shop/articles/Letter-To-My-Younger-Self-Web.jpg?v=1685546022
 title: 'Pride: A Letter To My Younger Self'
+domain: finisterre.com
 description: ''
 tags:
 - finisterre

@@ -4,6 +4,7 @@ bookmarkOf: https://www.youtube.com/watch?v=1w07i5005AI
 category: video
 headImage: https://i.ytimg.com/vi/1w07i5005AI/maxresdefault.jpg
 title: 'Contax T2 vs T3: There''s a lot to discuss'
+domain: youtube.com
 description: ''
 tags:
 - youtube

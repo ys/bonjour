@@ -4,6 +4,7 @@ bookmarkOf: https://thebrowser.company/values/
 category: link
 headImage: https://thebrowser.company/values/images/og-image.png
 title: Notes on Roadtrips by The Browser Company
+domain: thebrowser.company
 description: ''
 tags:
 - thebrowsercompany

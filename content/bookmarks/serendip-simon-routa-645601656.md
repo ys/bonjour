@@ -4,6 +4,7 @@ bookmarkOf: https://www.youtube.com/watch?v=9g0UMuAyAg0
 category: video
 headImage: https://i.ytimg.com/vi/9g0UMuAyAg0/maxresdefault.jpg
 title: SERENDIP - Simon Routa
+domain: youtube.com
 description: ''
 tags:
 - youtube

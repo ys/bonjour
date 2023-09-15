@@ -4,6 +4,7 @@ bookmarkOf: https://onedaycoffee.co/
 category: link
 headImage: https://onedaycoffee.co/cdn/shop/files/NO_TEXT_A4_one_day_SQUARE.png?v=1667609594
 title: One Day Coffee Co.
+domain: onedaycoffee.co
 description: ''
 tags:
 - one day coffee

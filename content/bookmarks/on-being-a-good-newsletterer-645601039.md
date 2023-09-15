@@ -4,6 +4,7 @@ bookmarkOf: https://craigmod.com/essays/on_writing_good_newsletters/
 category: article
 headImage: https://craigmod.com/essays/images/on_writing_good_newsletters/
 title: On Being a Good Newsletterer
+domain: craigmod.com
 description: ''
 tags:
 - craig mod

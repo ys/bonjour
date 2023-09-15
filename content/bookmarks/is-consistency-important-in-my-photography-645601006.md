@@ -4,6 +4,7 @@ bookmarkOf: https://www.youtube.com/watch?v=EChE5OJIh_M
 category: video
 headImage: https://i.ytimg.com/vi/EChE5OJIh_M/maxresdefault.jpg
 title: Is Consistency Important in my Photography?
+domain: youtube.com
 description: ''
 tags:
 - youtube

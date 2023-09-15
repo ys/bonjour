@@ -4,6 +4,7 @@ bookmarkOf: https://www.youtube.com/watch?v=tRji-YzuM74
 category: video
 headImage: https://i.ytimg.com/vi/tRji-YzuM74/maxresdefault.jpg
 title: 2 years of self-portraits with Lena
+domain: youtube.com
 description: ''
 tags:
 - youtube

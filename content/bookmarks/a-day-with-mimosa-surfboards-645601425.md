@@ -4,6 +4,7 @@ bookmarkOf: https://www.youtube.com/watch?v=bX1u93ZJR1E
 category: video
 headImage: https://i.ytimg.com/vi/bX1u93ZJR1E/maxresdefault.jpg
 title: A day with Mimosa Surfboards
+domain: youtube.com
 description: ''
 tags:
 - youtube

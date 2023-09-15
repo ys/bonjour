@@ -4,6 +4,7 @@ bookmarkOf: https://www.stefanhunt.com/art
 category: link
 headImage: https://rdl.ink/render/https%3A%2F%2Fwww.stefanhunt.com%2Fart
 title: ART — Stefan Hunt
+domain: stefanhunt.com
 description: ''
 tags:
 - stefan hunt

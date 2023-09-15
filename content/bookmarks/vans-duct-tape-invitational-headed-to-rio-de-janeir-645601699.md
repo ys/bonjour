@@ -4,6 +4,7 @@ bookmarkOf: https://eliselaine.com/vans-duct-tape-invitational-headed-to-rio-de-
 category: article
 headImage: https://eliselaine.com/wp-content/uploads/2023/06/DSC_9434-scaled.jpg
 title: Vans Duct Tape Invitational headed to Rio de Janeiro - Elise Lainé
+domain: eliselaine.com
 description: ''
 tags:
 - elise lainé

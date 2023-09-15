@@ -4,6 +4,7 @@ bookmarkOf: https://craigmod.com/roden/064/
 category: link
 headImage: https://craigmod.com/roden/img/064/064.jpg
 title: What's at Stake? — Roden newsletter issue 064
+domain: craigmod.com
 description: ''
 tags:
 - craigmod

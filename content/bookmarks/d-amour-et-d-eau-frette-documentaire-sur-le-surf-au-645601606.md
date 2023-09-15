@@ -5,6 +5,7 @@ category: video
 headImage: https://i.ytimg.com/vi/LxDp_Waoc4Q/maxresdefault.jpg
 title: D'amour et d'eau frette | Documentaire sur le surf aux Îles-de-la-Madeleine
   avec Alexis Boudreau
+domain: youtube.com
 description: ''
 tags:
 - youtube

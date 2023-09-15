@@ -4,6 +4,7 @@ bookmarkOf: https://4fishgreenberg.medium.com/quitting-facebook-changed-my-life-
 category: article
 headImage: https://miro.medium.com/v2/resize:fit:1200/1*TuIF_SFepSoUordfLaYkEg.png
 title: Quitting Facebook Changed My Life
+domain: 4fishgreenberg.medium.com
 description: ''
 tags:
 - medium

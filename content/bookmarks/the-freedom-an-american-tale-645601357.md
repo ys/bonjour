@@ -4,6 +4,7 @@ bookmarkOf: https://youtu.be/yHlG18tMqoQ
 category: video
 headImage: https://i.ytimg.com/vi/yHlG18tMqoQ/maxresdefault.jpg
 title: The Freedom - An American Tale
+domain: youtu.be
 description: ''
 tags:
 - youtube

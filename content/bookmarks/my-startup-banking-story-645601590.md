@@ -4,6 +4,7 @@ bookmarkOf: https://mitchellh.com/writing/my-startup-banking-story
 category: article
 headImage: https://rdl.ink/render/https%3A%2F%2Fmitchellh.com%2Fwriting%2Fmy-startup-banking-story
 title: My Startup Banking Story
+domain: mitchellh.com
 description: ''
 tags:
 - mitchell hashimoto

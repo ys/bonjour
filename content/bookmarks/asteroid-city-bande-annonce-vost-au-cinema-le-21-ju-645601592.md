@@ -4,6 +4,7 @@ bookmarkOf: https://www.youtube.com/watch?v=s2xkvRnHXss
 category: video
 headImage: https://i.ytimg.com/vi/s2xkvRnHXss/maxresdefault.jpg
 title: Asteroid City - Bande annonce VOST [Au cinéma le 21 juin]
+domain: youtube.com
 description: ''
 tags:
 - youtube

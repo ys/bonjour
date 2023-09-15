@@ -4,6 +4,7 @@ bookmarkOf: https://www.youtube.com/watch?v=7japD9WS7NI
 category: video
 headImage: https://i.ytimg.com/vi/7japD9WS7NI/maxresdefault.jpg
 title: 'Full Moon Surf Club: OTORO'
+domain: youtube.com
 description: ''
 tags:
 - youtube

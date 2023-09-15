@@ -4,6 +4,7 @@ bookmarkOf: https://www.liberation.fr/apps/2016/06/pokemon/
 category: link
 headImage: https://www.liberation.fr/apps/2016/06/pokemon/social.jpg
 title: Pokémon, traduisez-les tous
+domain: liberation.fr
 description: ''
 tags:
 - actualités
