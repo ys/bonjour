@@ -22,7 +22,7 @@ description: 'Fin selection and fin placement are paramount for maximizing your 
   rake of a 10.5'
 tags: []
 date: '2023-01-26T19:48:36.009Z'
-highlights:
+highlights: 
 ---
 
 

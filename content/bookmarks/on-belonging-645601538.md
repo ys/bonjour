@@ -10,7 +10,7 @@ tags:
 - medium
 - andrea mignolo
 date: '2023-02-26T20:59:19.690Z'
-highlights:
+highlights: 
 ---
 
 

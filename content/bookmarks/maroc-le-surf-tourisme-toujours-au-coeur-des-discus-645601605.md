@@ -11,7 +11,7 @@ tags:
 - surf session magazine
 - rédaction surf session
 date: '2023-05-09T11:02:42.438Z'
-highlights:
+highlights: 
 ---
 
 

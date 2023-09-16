@@ -12,7 +12,7 @@ description: The original structure had a grand formal front with the usual low 
 tags:
 - drawing room architecture
 date: '2023-05-23T06:55:16.655Z'
-highlights:
+highlights: 
 ---
 
 

@@ -11,7 +11,7 @@ description: Shooting a bit more digital lately prompted me to upgrade from the 
 tags:
 - kjvogelius
 date: '2023-03-02T11:05:02.007Z'
-highlights:
+highlights: 
 ---
 
 

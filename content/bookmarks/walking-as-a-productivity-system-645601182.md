@@ -9,7 +9,7 @@ description: How walks create the foundation of Craig Mod's creative work
 tags:
 - kieran o‘hare
 date: '2023-01-26T19:46:22.564Z'
-highlights:
+highlights: 
 ---
 
 

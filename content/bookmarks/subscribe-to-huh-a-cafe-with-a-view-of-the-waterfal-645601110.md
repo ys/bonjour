@@ -9,7 +9,7 @@ description: A weekly photograph from Craig Mod
 tags:
 - craig mod
 date: '2023-01-26T19:45:30.755Z'
-highlights:
+highlights: 
 ---
 
 

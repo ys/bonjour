@@ -11,7 +11,7 @@ description: An interview with surfer, photographer, filmmaker and activist Lewi
 tags:
 - sam haddad
 date: '2023-01-26T19:52:54.326Z'
-highlights:
+highlights: 
 ---
 
 

@@ -9,7 +9,7 @@ description: engineering-management-tricks.md · GitHub
 tags:
 - gist
 date: '2023-01-26T19:45:13.108Z'
-highlights:
+highlights: 
 ---
 
 

@@ -9,7 +9,7 @@ description: How to run a successful paid membership program in 2022
 tags:
 - craig mod
 date: '2023-01-26T19:47:49.123Z'
-highlights:
+highlights: 
 ---
 
 

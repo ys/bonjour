@@ -25,7 +25,7 @@ tags:
 - the new yorker
 - julian lucas
 date: '2023-01-26T19:47:26.461Z'
-highlights:
+highlights: 
 ---
 
 

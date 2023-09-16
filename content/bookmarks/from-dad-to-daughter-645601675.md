@@ -10,7 +10,7 @@ description: Ambassadors Sam and Lola Bleakley share waves and skate sessions at
 tags:
 - finisterre
 date: '2023-07-11T20:06:00.912Z'
-highlights:
+highlights: 
 ---
 
 

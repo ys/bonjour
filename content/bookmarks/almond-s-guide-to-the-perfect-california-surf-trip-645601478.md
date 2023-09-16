@@ -17,7 +17,7 @@ description: 'We ship surfboards all over the world. It''s rewarding for us to k
    If you aren''t sure which board you need, we built a'
 tags: []
 date: '2023-01-26T19:52:38.757Z'
-highlights:
+highlights: 
 ---
 
 

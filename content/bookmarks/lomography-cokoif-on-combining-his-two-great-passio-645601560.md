@@ -11,7 +11,7 @@ description: Cokoif, armed with Lomography Color Negative 400 and Potsdam Kino B
 tags:
 - lomography
 date: '2023-03-07T20:46:24.230Z'
-highlights:
+highlights: 
 ---
 
 

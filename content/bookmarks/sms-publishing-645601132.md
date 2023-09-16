@@ -10,7 +10,7 @@ description: Some notes on running a publishing experiment over SMS while I walk
 tags:
 - craig mod
 date: '2023-01-26T19:45:46.225Z'
-highlights:
+highlights: 
 ---
 
 

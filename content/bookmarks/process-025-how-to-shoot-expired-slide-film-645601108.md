@@ -9,7 +9,7 @@ description: 'Giveaway: Polaroid 600 Camera + film courtesy of Brooklyn Film Cam
 tags:
 - wesley verhoeve
 date: '2023-01-26T19:45:29.654Z'
-highlights:
+highlights: 
 ---
 
 
