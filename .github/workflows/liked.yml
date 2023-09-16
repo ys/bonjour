@@ -20,16 +20,12 @@ jobs:
           bundler-cache: true
       - name: Fetch liked
         run: |
-          bundle exec ruby bin/import-from-arena.rb
-      - name: Generate
-        run: |
-          bundle exec ruby bin/generate-bookmarks-from-liked.rb
+          bundle exec ruby bin/raindrop-to-liked.rb
       - name: Commit files
         id: commit
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "github-actions"
-          git add data/liked.yml
           git add content/bookmarks/*
           git commit -m "Sync the liked list" || echo "nothing to do and it is fine"
           git pull origin ${{ github.ref }}

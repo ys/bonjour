@@ -1,9 +1,9 @@
 ---
-title: "Détail - 049"
+title: "049 - 📍 Ile Tudy, Bretagne"
 slug: "049"
 emoji: 😃
 letter: detail
-description: "Une photo par semaine, dans ta boîte mail"
+description: "📍 Ile Tudy, Bretagne"
 date: 2023-06-30T00:00:00+01:00
 color: tuscan
 resources:

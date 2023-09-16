@@ -13,3 +13,5 @@ gem "dry-cli"
 gem "phantomjs"
 gem "arena"
 gem "dotenv"
+
+gem "excon", "~> 0.103.0"

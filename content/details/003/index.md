@@ -1,5 +1,5 @@
 ---
-title: "003 — Sur les bords du GR34"
+title: "003 "
 emoji: 😃
 letter: detail
 camera: "Olympus XA"
