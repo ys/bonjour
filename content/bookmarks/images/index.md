@@ -1,5 +1,0 @@
----
-headless: true
-resources:
-- src: "*"
----

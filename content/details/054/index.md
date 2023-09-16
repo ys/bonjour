@@ -1,9 +1,9 @@
 ---
-title: "Détail - 054"
+title: "054 - 📍 Tronoen, Bretagne"
 slug: "054"
 emoji: 😃
 letter: detail
-description: "Une photo par semaine, dans ta boîte mail"
+description: "📍 Tronoen, Bretagne"
 date: 2023-08-04T00:00:00+01:00
 color: tuscan
 resources:

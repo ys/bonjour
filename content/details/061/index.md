@@ -1,9 +1,9 @@
 ---
-title: "Détail - 061"
+title: "061 - 📍 Crozon, Bretagne"
 slug: "061"
 emoji: 😃
 letter: detail
-description: "Une photo par semaine, dans ta boîte mail"
+description: "📍 Crozon, Bretagne"
 date: 2023-09-22T00:00:00+01:00
 color: forest
 resources:

@@ -1,0 +1,21 @@
+---
+uuid: 645601339
+bookmarkOf: https://jeremyjanin.com/breizhpacking/
+category: article
+headImage: https://jeremyjanin.com/breizhpacking/cover.jpg
+title: Breizhpacking
+domain: jeremyjanin.com
+description: 3 jours de bikepacking en Bretagne
+tags:
+- argentique
+- bikepacking
+- vtt
+- bretagne
+- finistere
+- rockhopper
+- xbiking
+date: '2023-01-26T19:48:31.515Z'
+highlights:
+---
+
+

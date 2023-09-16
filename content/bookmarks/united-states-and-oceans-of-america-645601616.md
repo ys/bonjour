@@ -1,0 +1,18 @@
+---
+uuid: 645601616
+bookmarkOf: https://slightlychoppy.com/blogs/news/united-states-and-oceans-of-america
+category: article
+headImage: https://slightlychoppy.com/cdn/shop/articles/Screen_Shot_2019-02-26_at_9.35.56_AM_1200x1200.png?v=1551202798
+title: United States and Oceans of America
+domain: slightlychoppy.com
+description: "..a flag with a purpose... the Surfrider Foundation is launching a new
+  campaign that celebrates our oceans and lakes of America... @unitedstatesandoceansofamerica
+  I was honored to make a few limited flags to spark the conversation... We are the
+  United States and Oceans of America. The land and oceans of the free. The h"
+tags:
+- slightly choppy
+date: '2023-05-24T18:13:29.279Z'
+highlights:
+---
+
+
