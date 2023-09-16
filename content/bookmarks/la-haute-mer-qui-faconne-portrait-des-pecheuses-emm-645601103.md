@@ -6,7 +6,7 @@ headImage: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2021/02
 title: 'La haute mer qui façonne: portrait des pêcheuses Emma Teal Laukitis et Claire
   Neaton'
 domain: beside.media
-description: ''
+description: BESIDERS | The Salmon Sisters
 tags:
 - beside
 - gabrielle

@@ -5,7 +5,8 @@ category: article
 headImage: https://www.lesothers.com/wp-content/uploads/2021/03/lesothers-outdoor-aventure-roadtrip-surftrip-algarve-portugal-ete-7.jpeg
 title: 'Surf-trip en Algarve : le camping-car, le hibou et les vagues — Les Others'
 domain: lesothers.com
-description: ''
+description: Damien et ses potes ont déniché un camping-car et partent pour un surf-trip
+  dans l’Algarve, région ensoleillée au Sud du Portugal.
 tags:
 - les others
 - solene

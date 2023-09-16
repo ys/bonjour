@@ -6,7 +6,7 @@ headImage: https://huckberry.imgix.net/journal_post_content_block_images/000/002
 title: Like brushing your teeth, if you do it every morning, it'll make you a whole
   lot easier to be around
 domain: huckberry.com
-description: ''
+description:
 tags:
 - long
 - wellness

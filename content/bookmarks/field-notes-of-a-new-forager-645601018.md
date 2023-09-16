@@ -5,7 +5,7 @@ category: link
 headImage: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2020/06/emily_reed_thumbnail1.jpg
 title: Field Notes of a New Forager
 domain: beside.media
-description: ''
+description: A Quarantine Letter by Emily Reed
 tags:
 - beside
 - gabrielle

@@ -5,7 +5,9 @@ category: article
 headImage: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23cfa0a4-ee80-41b0-9d2c-6d9e43400f27_2678x1776.jpeg
 title: 'Sally McGee: 5 Things I''ve Learned From 5 Years of Yonder'
 domain: lookingsideways.substack.com
-description: ''
+description: In this special guest post, exclusively for paid subscribers, Sal shares
+  the lessons her and partner Tom have learned in the five years since they set up
+  their 'none traditional' surf school.
 tags:
 - matthew barr
 date: '2023-05-25T11:23:15.254Z'

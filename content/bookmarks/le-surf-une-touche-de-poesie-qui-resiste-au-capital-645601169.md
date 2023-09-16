@@ -5,7 +5,8 @@ category: article
 headImage: https://www.slate.fr/sites/default/files/styles/1200x680/public/jeremy-bishop-_cfv3bntqlq-unsplash.jpeg
 title: Le surf, une touche de poésie qui résiste au capitalisme
 domain: slate.fr
-description: ''
+description: L'océan indomptable rappelle à l'homme son insignifiance vertigineuse.
+  C'est de cette humilité face aux éléments que l'on peut tirer sa liberté.
 tags:
 - société
 - slate.fr

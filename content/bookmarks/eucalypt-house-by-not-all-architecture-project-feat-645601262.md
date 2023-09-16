@@ -5,7 +5,9 @@ category: article
 headImage: https://d31dpzy4bseog7.cloudfront.net/media/2021/12/01144812/Eucalypt-House-by-Not-All-Architecture-Project-Feature-The-Local-Project-Image-16.jpg
 title: Eucalypt House by Not All Architecture - Project Feature - The Local Project
 domain: thelocalproject.com.au
-description: ''
+description: Eucalypt House sees Not All Architecture carefully craft a series of
+  interlocking spaces embedded with cross-functionality and refined through a considered
+  rigour.
 tags:
 - the local project
 - levy pascual

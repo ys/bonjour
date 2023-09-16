@@ -12,7 +12,9 @@ title: "Ocean Flow | Barbara Peisl on Instagram: \"Nostalgia de invierno \U0001F
   #flowlikewaves #itsonlywater #longwinter #elpalmar #longboard #surfretreat #surfyoga
   #yogaforsurfers #oceanflow #yogaoceanflow \U0001F3A5 Barbara Peisl / One Inch Dreams\""
 domain: instagram.com
-description: ''
+description: "114 likes, 6 comments - yogaoceanflow on August 9, 2022: \"Nostalgia
+  de invierno \U0001F90D  Memories of our Longboard Days in March together with @itsonlywater
+  \ ...\""
 tags: []
 date: '2023-01-26T19:49:02.425Z'
 highlights:

@@ -6,7 +6,8 @@ headImage: https://media.gq.com/photos/5980fcab0c3db01f4d7de945/16:9/w_1280,c_li
 title: Aziz Ansari on Quitting the Internet, Loneliness, and Season 3 of ‘Master of
   None’
 domain: gq.com
-description: ''
+description: At Paris Fashion Week, the stand-up turned TV auteur tells us why he’s
+  unplugging.
 tags:
 - gq style
 - aziz ansari

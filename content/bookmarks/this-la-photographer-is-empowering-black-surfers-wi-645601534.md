@@ -5,7 +5,8 @@ category: article
 headImage: http://images.ctfassets.net/r7p9m4b1iqbp/49AtK1kKAkVmIlYN2eGppx/089851d3d8d7a81c3dc1382891726063/Gabriella-Angotti-Jones-Surf-Photography-1.jpg?w=1000
 title: This LA Photographer Is Empowering Black Surfers With a New Book
 domain: fieldmag.herokuapp.com
-description: ''
+description: With her new book "I Just Wanna Surf" the LA-based photographer empowers
+  Black folks to get in the water while challenging what surf media looks like
 tags:
 - field mag
 - siraad dirshe

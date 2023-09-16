@@ -5,7 +5,9 @@ category: article
 headImage: https://www.radiofrance.fr/s3/cruiser-production/2023/06/d43f6a20-41c2-4a95-b5e0-53eea5116e5c/1200x680_sc_000-par7780085.jpg
 title: 'Alain Damasio : "On a épuisé toutes les façons douces de faire les choses"'
 domain: radiofrance.fr
-description: ''
+description: Alain Damasio, auteur de science-fiction,  co-auteur de "On ne dissout
+  pas un soulèvement. 40 voix pour les Soulèvements de la terre" (Seuil), est l'invité
+  de 7h50.
 tags:
 - environnement
 - climat

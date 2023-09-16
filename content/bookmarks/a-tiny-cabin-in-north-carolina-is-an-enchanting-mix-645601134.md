@@ -6,7 +6,7 @@ headImage: https://images.dwell.com/photos-6676846327473246208/66808507229125058
 title: A Tiny Cabin in North Carolina Is an Enchanting Mix of Japanese and Scandinavian
   Style
 domain: dwell.com
-description: ''
+description: The Nook is an enchanting tiny cabin in the woods of North Carolina.
 tags:
 - dwell
 - caitlin wheeler

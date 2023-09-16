@@ -5,7 +5,11 @@ category: video
 headImage: https://i.ytimg.com/vi/U0QgMuPWakM/maxresdefault.jpg
 title: film vs digital
 domain: youtube.com
-description: ''
+description: "Start your free trial at http://squarespace.com/grainydays and use code
+  GRAINYDAYS to get 10% off your first purchase.\n\nprints: https://graincheck.darkroom.com\npodcast:
+  @mamiyamigos \ninstagram: @50_shades_of_jason\ntunes: http://share.epidemicsound.com/grainydays\nprint
+  requests: pigmodegraingang@gmail.com\nbusiness inquiries: pigmodegraingang@gmail.com\ncameras:
+  hasselblad 501c"
 tags:
 - youtube
 - grainydays

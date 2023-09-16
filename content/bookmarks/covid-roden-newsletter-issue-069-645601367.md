@@ -5,7 +5,7 @@ category: link
 headImage: https://craigmod.com/roden/img/069/069.jpg
 title: Covid. — Roden newsletter issue 069
 domain: craigmod.com
-description: ''
+description: ONE BIG SIGH
 tags:
 - craigmod
 - craig mod

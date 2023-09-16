@@ -5,7 +5,7 @@ category: link
 headImage: https://www.jeanjullien.com/wp-content/uploads/2021/09/wave.jpg
 title: Gallery Target
 domain: jeanjullien.com
-description: ''
+description:
 tags:
 - jean jullien studio
 - jeanjullien

@@ -5,7 +5,8 @@ category: article
 headImage: https://wp.technologyreview.com/wp-content/uploads/2021/01/SA_celine-haeberly-DwpmtAo01fY-unsplash.jpeg?resize=1200,600
 title: What Buddhism can do for AI ethics
 domain: technologyreview.com
-description: ''
+description: Buddhism teaches us to focus our energy on eliminating suffering in the
+  world.
 tags:
 - artificial intelligence
 - mit technology review

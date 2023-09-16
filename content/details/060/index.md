@@ -1,9 +1,9 @@
 ---
-title: "Détail - 060"
+title: "060 - 📍 Ty Lucie, Berrien, Bretagne"
 slug: "060"
 emoji: 😃
 letter: detail
-description: "Une photo par semaine, dans ta boîte mail"
+description: "📍 Ty Lucie, Berrien, Bretagne"
 date: 2023-09-15T00:00:00+01:00
 color: accent
 resources:

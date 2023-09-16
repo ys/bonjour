@@ -6,7 +6,9 @@ headImage: https://www.1854.photography/wp-content/uploads/2021/09/Jonah-Hill-Ed
 title: 'Behind the Cover: Ed Templeton on shooting Jonah Hill for GQ Style - 1854
   Photography'
 domain: 1854.photography
-description: ''
+description: "“You have to be a very specific person to know how I’m famous. And he’s
+  that person,” says artist and professional skateboarder Ed Templeton, reflecting
+  on his shoot with actor – and skate enthusiast – Jonah Hill"
 tags:
 - 1854 photography
 - marigold warner

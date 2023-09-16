@@ -5,7 +5,7 @@ category: article
 headImage: https://huckberry.imgix.net/journal_post_content_block_images/000/006/381/images/original/Ben-Moon-hero.jpg
 title: 'Morning Person: Ben Moon'
 domain: huckberry.com
-description: ''
+description: Ben Moon begins and ends the day by checking the surf report
 tags:
 - wellness
 - huckberry

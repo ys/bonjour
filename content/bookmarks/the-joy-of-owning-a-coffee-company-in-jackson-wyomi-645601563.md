@@ -5,7 +5,8 @@ category: article
 headImage: https://huckberry.imgix.net/journal_post_content_block_images/000/006/778/images/original/new-joo-hero.jpg
 title: 'The Joy of Owning: A Coffee Company in Jackson, Wyoming'
 domain: huckberry.com
-description: ''
+description: Alex Yoder approaches owning a coffee company the same way he carves
+  the mountain. Read more on the Journal.
 tags:
 - etc.
 - huckberry

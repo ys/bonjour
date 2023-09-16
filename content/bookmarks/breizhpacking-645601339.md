@@ -5,7 +5,7 @@ category: article
 headImage: https://jeremyjanin.com/breizhpacking/cover.jpg
 title: Breizhpacking
 domain: jeremyjanin.com
-description: ''
+description: 3 jours de bikepacking en Bretagne
 tags:
 - argentique
 - bikepacking

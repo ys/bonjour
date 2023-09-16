@@ -5,7 +5,8 @@ category: article
 headImage: https://www.surfsession.com/wp-content/uploads/2023/05/Taghazout-@bastienlabelle-3-1-scaled-e1683293353974.jpg
 title: 'Maroc : le surf-tourisme toujours au cœur des discussions - Surf Session Magazine'
 domain: surfsession.com
-description: ''
+description: Des ondes sublimes déferlent au Maroc depuis toujours et continueront
+  pour un moment encore, mais dans quel contexte ?
 tags:
 - surf session magazine
 - rédaction surf session

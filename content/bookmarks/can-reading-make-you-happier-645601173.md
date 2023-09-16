@@ -5,7 +5,8 @@ category: article
 headImage: https://media.newyorker.com/photos/59097cc68b51cf59fc423f0c/16:9/w_1280,c_limit/Dovey-Can-Reading-Make-Us-Feel-Better.jpg
 title: Can Reading Make You Happier?
 domain: newyorker.com
-description: ''
+description: After the First World War, traumatized soldiers were often prescribed
+  a course of reading.
 tags:
 - cultural comment
 - culture desk

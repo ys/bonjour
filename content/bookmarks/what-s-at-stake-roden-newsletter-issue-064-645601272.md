@@ -5,7 +5,7 @@ category: link
 headImage: https://craigmod.com/roden/img/064/064.jpg
 title: What's at Stake? — Roden newsletter issue 064
 domain: craigmod.com
-description: ''
+description: Stakes are everything, everything's at stake, sorta
 tags:
 - craigmod
 - craig mod

@@ -5,7 +5,9 @@ category: article
 headImage: https://longboardermagazine.com/wp-content/uploads/2022/09/izz-henshall-header.jpg
 title: 'Izzy Henshall : Rising Style - Longboarder Magazine'
 domain: longboardermagazine.com
-description: ''
+description: Izzy has been an English and British Junior Champion, and has recently
+  signed a sponsorship with Vans, one of the few long term supporters of professional
+  longboarding.
 tags:
 - longboarder magazine
 - sam bleakley

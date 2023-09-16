@@ -5,7 +5,10 @@ category: article
 headImage: https://wearelookingsideways.com/wordpress/wp-content/uploads/2022/02/TonyButt-3-scaled.jpg
 title: '177: Dr. Tony Butt - Looking Sideways'
 domain: wearelookingsideways.com
-description: ''
+description: He’ll hate me for saying it. But Dr. Tony Butt, this week’s guest, is
+  one of UK surfing’s bone fide big wave legends. As Nathan Carter put it in a recent
+  interview for Wavelength Magazine, Tony is ‘probably the British big wave surfer
+  with the most giant paddle waves under his belt’. Not that you […]
 tags:
 - looking sideways
 - matt barr

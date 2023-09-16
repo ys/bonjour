@@ -5,7 +5,7 @@ category: article
 headImage: https://craigmod.com/ridgeline/images/145/145.jpg
 title: Walking Alec Soth
 domain: craigmod.com
-description: ''
+description: What it felt like to walk through the artist's solo show in Japan
 tags:
 - craig mod
 date: '2023-01-26T19:48:53.626Z'

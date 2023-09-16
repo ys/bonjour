@@ -5,7 +5,7 @@ category: article
 headImage: https://github.githubassets.com/images/modules/gists/gist-og-image.png
 title: engineering-management-tricks.md
 domain: gist.github.com
-description: ''
+description: engineering-management-tricks.md · GitHub
 tags:
 - gist
 date: '2023-01-26T19:45:13.108Z'

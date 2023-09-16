@@ -5,7 +5,7 @@ category: article
 headImage: https://www.loudandquiet.com/files/2021/06/soulwax-podcast-art.jpg
 title: 'Soulwax: Midnight Chats – Episode 108 - Loud And Quiet'
 domain: loudandquiet.com
-description: ''
+description: As Heard on Midnight Chats Pt. 108
 tags:
 - loud and quiet
 - stuart stubbs

@@ -6,7 +6,9 @@ headImage: https://static01.nyt.com/images/2023/02/18/multimedia/18surf-photog-0
 title: A Big-Wave Photographer Faces Frigid Water, Sharks and Currents to Get the
   Shot
 domain: nytimes.com
-description: ''
+description: Sachi Cunningham is one of the few photographers who shoots surfers at
+  Mavericks while swimming. “You don’t want to get the same shots as everyone else
+  on the boat,” she said.
 tags:
 - surfing
 - photography

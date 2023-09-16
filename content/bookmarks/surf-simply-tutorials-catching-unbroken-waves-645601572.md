@@ -5,7 +5,10 @@ category: video
 headImage: https://i.ytimg.com/vi/hVyatMUYwZw/maxresdefault.jpg
 title: 'Surf Simply Tutorials: Catching Unbroken Waves'
 domain: youtube.com
-description: ''
+description: |-
+  I'm really stoked with this episode. I think it's one of our best. The timing is going to be different on every wave but this episode will give you a clear idea about what you should be thinking about when making that transition from surfing in the white water to surfing out the back. It's also really useful for surfers struggling to get their head around catching steeper waves.
+
+  For more information on coaching visit www.surfsimply.com.
 tags:
 - youtube
 - surf simply

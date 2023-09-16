@@ -5,7 +5,9 @@ category: video
 headImage: https://i.ytimg.com/vi/nD0VM0NWwSA/maxresdefault.jpg
 title: 'Jason Lee: The American Photo Roadtrip - An ILFORD Inspires film'
 domain: youtube.com
-description: ''
+description: Our ILFORD Inspires 'Legends of Skateboarding' series concludes with
+  Jason Lee's ‘THE AMERICAN PHOTO ROADTRIP’.Discover the philosophies behind Jason's
+  signa...
 tags:
 - ilford
 - ilford photo

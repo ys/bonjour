@@ -5,7 +5,8 @@ category: article
 headImage: http://images.ctfassets.net/r7p9m4b1iqbp/4KfiT5IeETKGxEruO83h1n/ad9eba093559171938496b49c59823eb/Wood-Fired-Hot-Tub-Shayd-Johnson-thumb.jpg?w=1000
 title: All You've Ever Wanted to Know About Wood Fired Hot Tubs
 domain: fieldmag.com
-description: ''
+description: A deep dive to owning, maintaining, and enjoying all the benefits of
+  a traditional wood fired hot tub in your own backyard
 tags:
 - field mag
 - katherine englishman

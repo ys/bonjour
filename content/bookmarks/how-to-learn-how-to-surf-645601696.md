@@ -5,7 +5,8 @@ category: video
 headImage: https://i.ytimg.com/vi/wn5KqWwP6uQ/maxresdefault.jpg
 title: How to Learn How to Surf
 domain: youtube.com
-description: ''
+description: This is a movie about bad surfers on the long, painful road to becoming
+  OK surfers.
 tags:
 - youtube
 - tom sachs

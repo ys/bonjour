@@ -5,7 +5,7 @@ category: link
 headImage: https://craigmod.com/roden/img/075/075.jpg
 title: Archetypes Revisited — Roden newsletter issue 075
 domain: craigmod.com
-description: ''
+description: Who makes us who we are? The people nearby.
 tags:
 - craigmod
 - craig mod

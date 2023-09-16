@@ -5,7 +5,7 @@ category: article
 headImage: https://rdl.ink/render/https%3A%2F%2Fmacwright.com%2F2020%2F03%2F17%2Fmeditation.html
 title: Meditation
 domain: macwright.com
-description: ''
+description: I like my time in even increments
 tags:
 - macwright.com
 - tom macwright

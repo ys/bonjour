@@ -5,7 +5,13 @@ category: video
 headImage: https://i.ytimg.com/vi/8Rglr-dwQkk/maxresdefault.jpg
 title: Interview w/ Sierra Prescott | Photographer & Skateboarder
 domain: youtube.com
-description: ''
+description: |-
+  Shredders by Sierra Prescott: https://www.penguinrandomhouse.com/books/611662/shredders-by-sierra-prescott/
+
+  Follow Sierra on Instagram: https://instagram.com/sierra_prescott
+
+  INSTAGRAM: https://instagram.com/mattdayphoto
+  TWITTER: https://twitter.com/mattdayphoto
 tags:
 - youtube
 - matt day

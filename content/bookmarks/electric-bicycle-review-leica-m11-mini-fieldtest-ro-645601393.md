@@ -6,7 +6,7 @@ headImage: https://craigmod.com/roden/img/072/072.jpg
 title: Electric Bicycle Review, Leica M11 Mini-Fieldtest — Roden newsletter issue
   072
 domain: craigmod.com
-description: ''
+description: Biking and shooting and shooting and biking
 tags:
 - craigmod
 - craig mod

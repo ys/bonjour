@@ -5,7 +5,10 @@ category: video
 headImage: https://i.ytimg.com/vi/hXrdZ5kWRqs/maxresdefault.jpg
 title: 'This Old Ledge: Embarcadero'
 domain: youtube.com
-description: ''
+description: "There’s more to the spot than meets the eye. Follow Ted Barrow into
+  the world where skateboarding, architecture, and the concrete jungle collide to
+  spark the magic of modern street skateboarding. We start at EMB.\r\n\r\nKeep up
+  with Thrasher Magazine here:\r\nhttp://www.thrashermagazine.com\r\nhttp://www.facebook.com/thrashermagazine\r\nhttp://www.instagram.com/thrashermag\r\nhttp://www.twitter.com/thrashermag"
 tags:
 - youtube
 - thrashermagazine

@@ -1,9 +1,9 @@
 ---
-title: "Détail - 051"
+title: "051 - 📍 Vieilles Charrues, Carhaix, Bretagne"
 slug: "051"
 emoji: 😃
 letter: detail
-description: "Une photo par semaine, dans ta boîte mail"
+description: "📍 Vieilles Charrues, Carhaix, Bretagne"
 date: 2023-07-14T00:00:00+01:00
 color: tuscan
 resources:

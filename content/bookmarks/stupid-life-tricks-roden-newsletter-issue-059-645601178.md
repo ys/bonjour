@@ -5,7 +5,7 @@ category: link
 headImage: https://craigmod.com/roden/img/059/059.jpg
 title: Stupid Life Tricks — Roden newsletter issue 059
 domain: craigmod.com
-description: ''
+description: Third Kissa by Kissa, turn off your phone, just say no to jerks
 tags:
 - craigmod
 - craig mod

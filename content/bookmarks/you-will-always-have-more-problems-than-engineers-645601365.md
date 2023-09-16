@@ -5,7 +5,7 @@ category: article
 headImage: https://miro.medium.com/v2/resize:fit:1200/1*DhPQsNoAw2GDlKbdpaJCBA.jpeg
 title: You will always have more problems than engineers.
 domain: betterprogramming.pub
-description: ''
+description: How to deal with a sad reality.
 tags:
 - medium
 - matt schellhas

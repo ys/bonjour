@@ -5,7 +5,8 @@ category: article
 headImage: https://audacious.blog/og-image.png
 title: Write Sentences, Not Too Many, Mostly Active
 domain: audacious.blog
-description: ''
+description: Writing is hard. It takes time. And a lot of that time is spent rewriting
+  what you&rsquo;ve already written.
 tags:
 - audacious by kqd
 - k.q. dreger

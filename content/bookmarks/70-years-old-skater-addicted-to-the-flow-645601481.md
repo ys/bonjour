@@ -5,7 +5,11 @@ category: video
 headImage: https://i.ytimg.com/vi/y0Ez1_uwNZc/maxresdefault.jpg
 title: 70 Years Old Skater - ADDICTED TO THE FLOW
 domain: youtube.com
-description: ''
+description: |-
+  ADDICTED TO THE FLOW  tells the story of Franck, a 70 years old surf skater from France who still inspiring and motivating others with his unique style and charisma.
+
+  This short story was filmed in just two days and is geared to those who gave up a hobby or a sport that they once loved because of the feeling of being too old.
+  It also celebrates every OG surf skaters out there who never gave up, those who still pushing against time regardless of what the system may throw at them.
 tags:
 - youtube
 - ronaldo beatles

@@ -5,7 +5,8 @@ category: link
 headImage: https://rachelbinx.com/header.png
 title: Rachel Binx
 domain: rachelbinx.com
-description: ''
+description: Rachel Binx is a creative technologist, specializing in data visualization,
+  mapping, and digital ↣ physical fabrication.
 tags: []
 date: '2023-02-21T11:00:20.410Z'
 highlights:

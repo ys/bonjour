@@ -129,7 +129,7 @@ class Downloader
       "headImage" => l["cover"],
       "title" => l["title"],
       "domain" => l["domain"],
-      "description" => l["excerpt"] || l.dig("parsed", "excerpt"),
+      "description" => l["excerpt"].empty? ? l.dig("parsed", "excerpt") : l["excerpt"],
       "tags" => l.dig("meta", "tags").to_a + l.dig("parsed", "meta", "tags"),
       "date" => l["created"],
       "highlights" => l["highlights"].any? ? l["highlights"].map {|h| h["text"] }.join("\n") : nil

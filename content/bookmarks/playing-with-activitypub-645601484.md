@@ -5,7 +5,7 @@ category: article
 headImage: https://macwright.com/images/2022-12-09-activitypub-thumbnail-image.jpg
 title: Playing with ActivityPub
 domain: macwright.com
-description: ''
+description: Can a website play with a mastodon?
 tags:
 - macwright.com
 - tom macwright

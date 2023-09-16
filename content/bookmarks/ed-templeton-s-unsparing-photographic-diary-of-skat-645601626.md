@@ -5,7 +5,8 @@ category: article
 headImage: https://media.newyorker.com/photos/64653ad92baf0f71783102fe/16:9/w_1280,c_limit/p216.jpg
 title: Ed Templeton’s Unsparing Photographic Diary of Skateboarding Life
 domain: newyorker.com
-description: ''
+description: Templeton’s images, taken between 1995 and 2012, capture the intimacy
+  and aimlessness of being on tour.
 tags:
 - photo booth
 - skateboarding

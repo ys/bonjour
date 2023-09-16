@@ -6,7 +6,8 @@ headImage: https://assets.community.lomography.com/49/88d2823827fe3686c787bf167c
 title: 'Lomography - Cokoif on Combining His Two Great Passions: Analogue Photography
   and Surfing'
 domain: lomography.com
-description: ''
+description: Cokoif, armed with Lomography Color Negative 400 and Potsdam Kino B&W
+  film, captured a surfing session with a friend on the Andalusian coast, Spain.
 tags:
 - lomography
 date: '2023-03-07T20:46:24.230Z'

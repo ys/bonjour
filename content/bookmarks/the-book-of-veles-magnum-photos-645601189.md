@@ -5,7 +5,8 @@ category: article
 headImage: https://www.magnumphotos.com/wp-content/uploads/2021/08/MG172509-scaled.jpg
 title: The Book of Veles | Magnum Photos
 domain: magnumphotos.com
-description: ''
+description: The photographer explains the many layers of intrigue that went into
+  the creation of his book about misinformation in the contemporary media landscape
 tags:
 - society
 - magnum photos

@@ -5,7 +5,8 @@ category: article
 headImage: http://tco.mutualcp.com/transforms/_1200x630_crop_center-center_82_none_ns/01_proof_huck_skatetree_illustration_230404_v1-1.jpeg?mtime=1681320794
 title: It's time for skateboarding's environmental reckoning
 domain: huckmag.com
-description: ''
+description: Skateboarding is heavily dependent on carbon-hungry concrete. Could a
+  cement-free alternative and a focus on skate-friendly cities help reduce its impact?
 tags:
 - dependent
 - carbon-hungry

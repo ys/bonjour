@@ -5,7 +5,7 @@ category: video
 headImage: https://i.ytimg.com/vi/rjRjcqzCp6Y/maxresdefault.jpg
 title: If you need an excuse to buy another camera - here you go
 domain: youtube.com
-description: ''
+description: 'I''m today''s sponsor: https://www.forrestmankins.com/presets'
 tags:
 - youtube
 - forrest mankins

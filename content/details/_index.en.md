@@ -1,6 +1,7 @@
 ---
 color: forest
 title: Sharing some details
+hideDescription: true
 seotitle: "Detail - a picture per week - ✌️ Bonjour Yannick"
 menu:
   footer:

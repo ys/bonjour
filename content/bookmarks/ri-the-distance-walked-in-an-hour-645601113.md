@@ -5,7 +5,7 @@ category: article
 headImage: https://craigmod.com/ridgeline/images/109/109.jpg
 title: Ri — The Distance Walked in an Hour
 domain: craigmod.com
-description: ''
+description: Notes on the ancient Japanese unit of distance measurement
 tags:
 - craig mod
 date: '2023-01-26T19:45:34.415Z'

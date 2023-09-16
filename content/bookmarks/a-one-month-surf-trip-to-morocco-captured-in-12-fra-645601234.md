@@ -5,7 +5,8 @@ category: article
 headImage: http://images.ctfassets.net/r7p9m4b1iqbp/4Wsu49ny7uyes8o6SM4k2i/3deeb7ddd38b5d137aca5f3f763ded77/Anna-Ehrgott-Morocco-Surf-15.jpg?w=1000
 title: A One Month Surf Trip to Morocco Captured in 12 Frames
 domain: fieldmag.com
-description: ''
+description: Anna Ehrgott & Meg Haywood Sullivan spend a month in North Africa marinating
+  in the culture and ocean
 tags:
 - field mag
 - anna ehrgott

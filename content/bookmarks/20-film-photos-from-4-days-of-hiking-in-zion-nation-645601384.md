@@ -5,7 +5,8 @@ category: article
 headImage: http://images.ctfassets.net/r7p9m4b1iqbp/350LJpOeK0BDpi1GriTVPy/d820761b1e5366eb0348f29e102185aa/linnea-bullion-zion-road-trip-20.jpg?w=1000
 title: 20 Film Photos From 4 Days of Hiking in Zion National Park
 domain: fieldmag.com
-description: ''
+description: Desert season is here—here's a glimpse of the beloved park and its searing
+  natural landscapes via the lens of one intrepid Los Angeles photographer
 tags:
 - field mag
 - linnea bullion

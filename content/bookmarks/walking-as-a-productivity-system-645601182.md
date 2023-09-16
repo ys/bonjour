@@ -5,7 +5,7 @@ category: article
 headImage: https://d24ovhgu8s7341.cloudfront.net/uploads/post/social_media_image/1784/social-2.png
 title: Walking as a Productivity System
 domain: every.to
-description: ''
+description: How walks create the foundation of Craig Mod's creative work
 tags:
 - kieran o‘hare
 date: '2023-01-26T19:46:22.564Z'

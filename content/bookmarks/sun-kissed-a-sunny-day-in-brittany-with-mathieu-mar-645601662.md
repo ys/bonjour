@@ -5,7 +5,8 @@ category: video
 headImage: https://i.ytimg.com/vi/Pbi0OvWdPJI/maxresdefault.jpg
 title: SUN-KISSED - A sunny day in Brittany with Mathieu Marechal
 domain: youtube.com
-description: ''
+description: "Experience the joy and freedom of riding sun-kissed summer waves in
+  picturesque Bretagne with Mathieu Marechal.\n\nMusic credits: \nDOPE LEMON - Marinade"
 tags:
 - youtube
 - matthieu arsonneau

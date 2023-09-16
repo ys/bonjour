@@ -5,7 +5,8 @@ category: audio
 headImage: https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/30825699/30825699-1663689146772-1e93b68d67f2c.jpg
 title: "#2 - Pourquoi parler de santé mentale ? by Petit journal d’un créatif"
 domain: anchor.fm
-description: ''
+description: La santé mentale est un élément parfois tangent chez le créatif et il
+  me semble important qu’on apprenne tous à en parler ouvertement.
 tags:
 - podcast hosting
 - free podcast hosting

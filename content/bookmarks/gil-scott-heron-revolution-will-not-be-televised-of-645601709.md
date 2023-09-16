@@ -5,7 +5,7 @@ category: video
 headImage: https://i.ytimg.com/vi/vwSRqaZGsPw/hqdefault.jpg
 title: Gil Scott-Heron - Revolution Will Not Be Televised (Official Audio)
 domain: youtube.com
-description: ''
+description: http://acerecords.co.uk/the-revolution-begins-the-flying-dutchman-masters
 tags:
 - youtube
 - ace records

@@ -5,7 +5,7 @@ category: article
 headImage: https://jeremyjanin.com/changer-de-regard/cover.jpg
 title: Changer de regard sur mon quotidien
 domain: jeremyjanin.com
-description: ''
+description: Changer de regard sur mon quotidien pour mieux le photographier
 tags:
 - photographie
 - lille

@@ -5,7 +5,14 @@ category: video
 headImage: https://i.ytimg.com/vi/pyhK22C4OiE/maxresdefault.jpg
 title: Maybe Yesterday | Surf | Karina Rozunko
 domain: youtube.com
-description: ''
+description: |-
+  Maybe Yesterday
+
+  Starring Karina Rozunko
+
+  A few sessions around Indonesia in September 2021
+
+  Film and Edit By Jimmy Jazz James
 tags:
 - youtube
 - jimmy 'jazz' james

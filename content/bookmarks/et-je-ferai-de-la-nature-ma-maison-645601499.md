@@ -5,7 +5,9 @@ category: link
 headImage: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2022/12/BESIDE_MANIFEST_feature.jpg
 title: Et je ferai de la nature ma maison
 domain: beside.media
-description: ''
+description: Pour Elisabeth Cardin, «habiter» est un verbe qui prend racine dans le
+  territoire et qu’on honore par les aliments que nous mangeons. Voici l’essai personnel
+  qu’elle signe dans le 13e numéro de BESIDE.
 tags:
 - beside
 - gabrielle

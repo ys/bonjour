@@ -5,7 +5,8 @@ category: article
 headImage: https://s3.anotherescape.com/Featured-Stories-new-website/_1200x630_crop_center-center_82_none/CI1A4950-Edit.jpg?mtime=20201119155505&focal=none&tmtime=20230712062131
 title: Another Escape | An independent media company for those who love the…
 domain: anotherescape.com
-description: ''
+description: Another Escape is evolving. And we'd love to have you along for the journey
+  as we enter a new chapter.
 tags:
 - another escape
 - magazine

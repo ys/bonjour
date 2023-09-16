@@ -5,7 +5,8 @@ category: article
 headImage: http://images.ctfassets.net/r7p9m4b1iqbp/jIY74QkctUm3DGtiV6woP/315580a86ddf66dc6d1fdded4f98e87a/Hawaii-Vans-Pipe-Masters-16.jpg?w=1000
 title: A Glimpse of the Future of Surfing at the Vans Pipe Masters
 domain: fieldmag.herokuapp.com
-description: ''
+description: A slice of life at the legendary Vans Pipe Masters where a glimpse at
+  surfing's future shows community building remains in focus
 tags:
 - field mag
 - graham hiemstra

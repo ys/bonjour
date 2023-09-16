@@ -5,7 +5,7 @@ category: article
 headImage: https://github.githubassets.com/images/modules/gists/gist-og-image.png
 title: My Heroku values
 domain: gist.github.com
-description: ''
+description: My Heroku values · GitHub
 tags:
 - gist
 date: '2023-01-26T19:44:54.184Z'

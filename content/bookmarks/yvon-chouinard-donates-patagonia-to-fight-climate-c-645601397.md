@@ -5,7 +5,8 @@ category: link
 headImage: https://www.patagonia.com/on/demandware.static/-/Library-Sites-PatagoniaShared/default/dwd531ae82/images/campaigns/chacabuco/Home_Yvon_Chouinard_Portraits_Campbell-Brewer_37-final.jpg
 title: Yvon Chouinard Donates Patagonia to Fight Climate Crisis
 domain: patagonia.com
-description: ''
+description: Earth is now our only shareholder. Patagonia is giving away all future
+  profits to fight the climate and extinction crisis. All profits are now the planet's.
 tags:
 - patagonia
 - patagonia owners

@@ -5,7 +5,8 @@ category: article
 headImage: https://media.newyorker.com/photos/61b3a9cf92265f06d1eb4d91/16:9/w_1280,c_limit/211220_r39572_rd.jpg
 title: Can “Distraction-Free” Devices Change the Way We Write?
 domain: newyorker.com
-description: ''
+description: The digital age enabled productivity but invited procrastination. Now
+  writers are rebelling against their word processors.
 tags:
 - dept. of technology
 - new yorker favorites

@@ -5,7 +5,8 @@ category: link
 headImage: https://cdn.sanity.io/images/dwi8l06j/production/76c743a221fa986532157c2e08747a8491bdf347-1200x800.jpg?rect=0,85,1200,630&w=1200&h=630
 title: How a Surfboard Works
 domain: surfsimply.com
-description: ''
+description: Surf Simply offers technical surf coaching for beginners and competitors
+  at a beautiful, all inclusive boutique resort in Nosara, Costa Rica.
 tags:
 - surfsimply
 - ru hill

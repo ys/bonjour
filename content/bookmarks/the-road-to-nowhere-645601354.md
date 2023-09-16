@@ -5,7 +5,8 @@ category: article
 headImage: https://finisterre.com/cdn/shop/articles/unnamed_7b26e018-8d92-4cfd-8caa-d582b4b81072.jpg?v=1656063428
 title: The Road To Nowhere
 domain: finisterre.com
-description: ''
+description: Fresh from a Baja adventure, Beth Leighfield recounts a tale of washboard
+  roads, nomadic surf communities and days spent surfing without seeing another soul.
 tags:
 - finisterre
 date: '2023-01-26T19:48:42.305Z'

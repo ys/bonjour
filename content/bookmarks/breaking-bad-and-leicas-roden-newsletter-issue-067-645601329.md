@@ -5,7 +5,7 @@ category: link
 headImage: https://craigmod.com/roden/img/067/067.jpg
 title: Breaking Bad and Leicas — Roden newsletter issue 067
 domain: craigmod.com
-description: ''
+description: Catching up on American TV, thinking about tools
 tags:
 - craigmod
 - craig mod

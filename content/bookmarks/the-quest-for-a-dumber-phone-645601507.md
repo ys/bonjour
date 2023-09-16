@@ -5,7 +5,8 @@ category: article
 headImage: https://d24ovhgu8s7341.cloudfront.net/uploads/post/social_media_image/2434/Dumbphone.jpg
 title: The Quest for a Dumber Phone
 domain: every.to
-description: ''
+description: Digital minimalists are using simple talk-and-text devices to spend less
+  time online, curb distraction, and navigate internet addiction
 tags:
 - fadeke adegbuyi
 date: '2023-01-26T19:53:48.167Z'

@@ -10,7 +10,9 @@ title: 'Alex Strohl on Instagram: "Had a lot of fun making this film for @prada�
   piece as much as I enjoyed creating it. 2nd camera @platoux Edit @inmistmediahouse
   Sound design @un.studios #PradaPartner #PradaLunaRossaOcean @ultabeauty"'
 domain: instagram.com
-description: ''
+description: '3,656 likes, 94 comments - alexstrohl on November 1, 2021: "Had a lot
+  of fun making this film for @prada’s new Luna Rossa Ocean as a #PradaPartner… On
+  my..."'
 tags: []
 date: '2023-01-26T19:46:51.920Z'
 highlights:

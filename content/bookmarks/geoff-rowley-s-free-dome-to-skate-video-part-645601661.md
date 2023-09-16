@@ -5,7 +5,11 @@ category: video
 headImage: https://i.ytimg.com/vi/71bNp8cMFAc/maxresdefault.jpg
 title: Geoff Rowley’s "FREE DOME TO SKATE" Video Part
 domain: youtube.com
-description: ''
+description: "Screaming through ditches as Motörhead roars, Geoff still attacks concrete
+  like a young skate rat and makes us all proud to ride these magical wooden planks.\n\nFilmed
+  & Edited by Jack Mansfield \n\nMusic by Motörhead & Dave Lombardo \n\nArt by Falu
+  Carolei \n\nCheck out FREE DOME here:\n\r\nhttps://freedometoskate.com/\n\r\nKeep
+  up with Thrasher Magazine here:\r\nhttp://www.thrashermagazine.com\r\nhttp://www.facebook.com/thrashermagazine\r\nhttp://www.instagram.com/thrashermag\r\nhttp://www.twitter.com/thrashermag"
 tags:
 - youtube
 - thrashermagazine

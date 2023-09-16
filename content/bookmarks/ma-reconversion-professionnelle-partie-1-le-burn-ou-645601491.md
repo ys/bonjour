@@ -6,7 +6,11 @@ headImage: https://rdl.ink/render/https%3A%2F%2Fnoob-de-dev.fr%2FAmelie-Abdallah
 title: 'Ma reconversion professionnelle. Partie 1: Le burn out. - Noob De Dev - Amélie
   ABDALLAH AKA Alonah'
 domain: noob-de-dev.fr
-description: ''
+description: 'Le burnout, ce mot ci doux pour décrire un moment horrible que l’on
+  peut vivre. Ce mot qui cache le mot “dépression”. Dire que l’on a fait une dépression,
+  c’est beaucoup moins vendeur que dire qu’on a fait un burnout. Pourquoi ? Pourquoi
+  avons nous peur de ce mot ? Alors que la santé mentale … Ma reconversion professionnelle.
+  Partie 1: Le burn out. Lire la suite »'
 tags: []
 date: '2023-01-26T19:53:10.400Z'
 highlights:

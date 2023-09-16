@@ -5,7 +5,7 @@ category: article
 headImage: https://macwright.com/images/2022-09-15-hacker-news-thumbnail-image.jpeg
 title: Hacker News
 domain: macwright.com
-description: ''
+description: Farewell to orange
 tags:
 - macwright.com
 - tom macwright

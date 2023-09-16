@@ -5,7 +5,10 @@ category: video
 headImage: https://i.ytimg.com/vi/u6k1NS0wjs8/maxresdefault.jpg
 title: If I were trying to take better photos...
 domain: youtube.com
-description: ''
+description: |-
+  I'm today's sponsor - get my Lightroom Presets here: https://www.forrestmankins.com/presets
+
+  @calebstasko lent me the frame grab for the thumbnail, and @StevenSchultz designed the final version for YouTube. Thank you both very much.
 tags:
 - youtube
 - forrest mankins

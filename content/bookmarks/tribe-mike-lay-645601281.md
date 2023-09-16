@@ -5,7 +5,8 @@ category: article
 headImage: https://finisterre.com/cdn/shop/articles/Tribe-Mike-Lay-Portrait-Featured-Image.jpg?v=1642419099
 title: "'Tribe' - Mike Lay"
 domain: finisterre.com
-description: ''
+description: Mike lay links up with fellow ambassadors Easkey Britton and Noah Lane
+  on a rare trip to Ireland.
 tags:
 - finisterre
 date: '2023-01-26T19:47:35.398Z'

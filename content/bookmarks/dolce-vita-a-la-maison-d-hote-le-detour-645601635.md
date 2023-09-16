@@ -5,7 +5,7 @@ category: article
 headImage: https://jeremyjanin.com/maison-le-detour/cover.jpg
 title: Dolce vita à la maison d'hôte Le Détour
 domain: jeremyjanin.com
-description: ''
+description: Dolce vita à la maison d'hôte Le Détour en Touraine
 tags:
 - maison hotes
 - touraine

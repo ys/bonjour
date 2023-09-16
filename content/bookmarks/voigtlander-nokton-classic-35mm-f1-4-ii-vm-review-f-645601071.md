@@ -6,7 +6,8 @@ headImage: http://static1.squarespace.com/static/5e8b6cb92229e05b5d320348/5e96fc
 title: 'Voigtlander Nokton Classic 35mm F1.4 II VM review — Focus shift: a street
   photography blog'
 domain: 47-degree.com
-description: ''
+description: A real world review of the Nokton 35mm 1.4 II with tests and images from
+  an owner and user of the lens, using a Leica M 240.
 tags:
 - 47 degrees
 date: '2023-01-26T19:45:06.682Z'

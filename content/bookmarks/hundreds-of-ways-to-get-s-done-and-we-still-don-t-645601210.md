@@ -5,7 +5,8 @@ category: article
 headImage: https://media.wired.com/photos/60ff0b047b8c62be3062fe1c/191:100/w_1280,c_limit/wired%20to%20do%20app%20main%20art%20online.png
 title: Hundreds of Ways to Get S#!+ Done—and We Still Don’t
 domain: wired.com
-description: ''
+description: You want to be productive. Software wants to help. But even with a glut
+  of tools claiming to make us all into taskmasters, we almost never master our tasks.
 tags:
 - backchannel
 - ideas

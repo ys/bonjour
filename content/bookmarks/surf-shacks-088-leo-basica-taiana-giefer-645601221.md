@@ -5,7 +5,7 @@ category: link
 headImage: https://indoek.com/wp-content/uploads/2021/11/2018-12-07-RM-257.jpg
 title: Surf Shacks 088 – Leo Basica + Taiana Giefer
 domain: indoek.com
-description: ''
+description:
 tags:
 - indoek
 - matt titone

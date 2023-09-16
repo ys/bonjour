@@ -1,5 +1,5 @@
 ---
-title: "008 — Sur les bords du GR34"
+title: "008 "
 slug: "008"
 emoji: 😃
 letter: detail

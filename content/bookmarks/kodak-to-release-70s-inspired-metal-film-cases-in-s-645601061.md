@@ -5,7 +5,8 @@ category: article
 headImage: https://petapixel.com/assets/uploads/2020/11/Groovy-Kodak-to-Release-70s-Inspired-Metal-Film-Cases-in-Six-Colors.jpg
 title: Kodak to Release '70s-Inspired Metal Film Cases in Six Colors
 domain: petapixel.com
-description: ''
+description: A new product bearing the Kodak name seems to ask, "If you're shooting
+  film, why not immerse yourself in the experience?" The company is releasing metal
 tags:
 - petapixel
 - jaron schneider

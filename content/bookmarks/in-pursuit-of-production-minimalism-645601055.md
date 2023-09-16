@@ -5,7 +5,8 @@ category: link
 headImage: https://brandur.org/assets/images/minimalism/twitter@2x.jpg
 title: In Pursuit of Production Minimalism
 domain: brandur.org
-description: ''
+description: Practicing minimalism with the lofty goal of total ephemeralization to
+  build coherent, stable, and operable stacks.
 tags:
 - brandur
 date: '2023-01-26T19:44:55.168Z'
