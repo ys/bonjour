@@ -10,7 +10,7 @@ description: On Hawaii's second-largest island, two film photographers hit the r
 tags:
 - field mag
 date: '2023-01-26T19:48:34.817Z'
-highlights:
+highlights: 
 ---
 
 

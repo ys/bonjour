@@ -26,7 +26,7 @@ tags:
 - wired
 - clive thompson
 date: '2023-01-26T19:46:43.689Z'
-highlights:
+highlights: 
 ---
 
 

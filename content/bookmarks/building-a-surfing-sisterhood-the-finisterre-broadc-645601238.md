@@ -11,7 +11,7 @@ description: Sally McGee, founder of all-female surf school Yonder, talks us thr
 tags:
 - finisterre
 date: '2023-01-26T19:47:02.343Z'
-highlights:
+highlights: 
 ---
 
 

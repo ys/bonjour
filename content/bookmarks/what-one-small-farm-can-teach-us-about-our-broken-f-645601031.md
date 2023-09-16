@@ -19,7 +19,7 @@ tags:
 - lionel astruc
 - patagonia
 date: '2023-01-26T19:44:36.320Z'
-highlights:
+highlights: 
 ---
 
 

@@ -9,7 +9,7 @@ description: Elliot Dudley surfing small waves in Wales. 2min surf video created
   Survival Stance in 2022.
 tags: []
 date: '2023-01-26T19:48:16.814Z'
-highlights:
+highlights: 
 ---
 
 

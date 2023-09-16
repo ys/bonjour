@@ -11,7 +11,7 @@ tags:
 - longboarder magazine
 - luke gartside
 date: '2023-03-12T12:25:49.999Z'
-highlights:
+highlights: 
 ---
 
 

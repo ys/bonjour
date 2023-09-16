@@ -11,7 +11,7 @@ description: Humans have long been driven by a desire to explore the planet and 
 tags:
 - dw.com
 date: '2023-01-26T19:48:55.694Z'
-highlights:
+highlights: 
 ---
 
 

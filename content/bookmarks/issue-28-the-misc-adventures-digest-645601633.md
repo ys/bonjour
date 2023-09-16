@@ -9,7 +9,7 @@ description: An intentionally slow solo walk...
 tags:
 - miscellaneous adventures
 date: '2023-06-02T08:52:52.237Z'
-highlights:
+highlights: 
 ---
 
 

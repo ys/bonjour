@@ -9,7 +9,7 @@ description: The fully electric and highly versatile lifestyle vehicle provides 
   SUV-sized interior for fleet delivery, family vacations, and road trips.
 tags: []
 date: '2023-01-26T19:46:37.516Z'
-highlights:
+highlights: 
 ---
 
 

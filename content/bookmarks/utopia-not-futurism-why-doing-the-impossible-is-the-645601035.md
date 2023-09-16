@@ -14,7 +14,7 @@ description: by Murray Bookchin On August 24, 1978, Murray Bookchin gave a lectu
 tags:
 - the editors
 date: '2023-01-26T19:44:38.740Z'
-highlights:
+highlights: 
 ---
 
 

@@ -17,7 +17,7 @@ tags:
 - wired uk
 - hannah ritchie
 date: '2023-01-26T19:46:57.566Z'
-highlights:
+highlights: 
 ---
 
 

@@ -9,7 +9,7 @@ description: What it felt like to walk through the artist's solo show in Japan
 tags:
 - craig mod
 date: '2023-01-26T19:48:53.626Z'
-highlights:
+highlights: 
 ---
 
 

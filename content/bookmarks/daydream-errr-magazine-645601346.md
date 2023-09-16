@@ -12,7 +12,7 @@ tags:
 - errr magazine
 - gaëtan duke
 date: '2023-01-26T19:48:36.503Z'
-highlights:
+highlights: 
 ---
 
 

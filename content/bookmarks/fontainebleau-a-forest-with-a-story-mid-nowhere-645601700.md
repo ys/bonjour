@@ -10,7 +10,7 @@ description: "“Go to the mountains” I was told, but there was a reason I did
 tags:
 - mid nowhere
 date: '2023-08-12T07:29:52.422Z'
-highlights:
+highlights: 
 ---
 
 

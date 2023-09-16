@@ -9,7 +9,7 @@ description: Molly Mielke is investing Moth Fund, an early-stage-focused venture
   firm that aims to increase the agency of exceptional individuals.
 tags: []
 date: '2023-01-26T19:47:13.128Z'
-highlights:
+highlights: 
 ---
 
 

@@ -10,7 +10,7 @@ description: The era of digital photography is on the rapid rise with technology
   talent and express themselves in photography.
 tags: []
 date: '2023-01-26T19:52:22.787Z'
-highlights:
+highlights: 
 ---
 
 

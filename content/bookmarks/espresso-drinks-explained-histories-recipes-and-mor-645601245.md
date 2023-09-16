@@ -22,7 +22,7 @@ tags:
 - youtube
 - james hoffmann
 date: '2023-01-26T19:47:07.547Z'
-highlights:
+highlights: 
 ---
 
 

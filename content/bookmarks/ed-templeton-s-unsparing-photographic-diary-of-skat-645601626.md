@@ -19,7 +19,7 @@ tags:
 - the new yorker
 - kelefa sanneh
 date: '2023-05-25T20:09:01.934Z'
-highlights:
+highlights: 
 ---
 
 

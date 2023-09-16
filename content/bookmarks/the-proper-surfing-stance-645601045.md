@@ -11,7 +11,7 @@ tags:
 - barefoot surf tutorials
 - barefoot surf
 date: '2023-01-26T19:44:48.430Z'
-highlights:
+highlights: 
 ---
 
 

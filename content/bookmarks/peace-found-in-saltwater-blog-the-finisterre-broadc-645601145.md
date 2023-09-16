@@ -13,7 +13,7 @@ description: After a year of lockdowns, social distancing and restricted freedom
 tags:
 - finisterre
 date: '2023-01-26T19:45:54.062Z'
-highlights:
+highlights: 
 ---
 
 

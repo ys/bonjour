@@ -15,7 +15,7 @@ description: "We are Friction Collective, a film production house based in the h
 tags:
 - youtube
 date: '2023-01-26T19:45:36.359Z'
-highlights:
+highlights: 
 ---
 
 

@@ -10,7 +10,7 @@ description: Trying out decades old waterproof film cameras on a surf trip out w
 tags:
 - aurélien bacquet
 date: '2023-01-26T19:47:43.934Z'
-highlights:
+highlights: 
 ---
 
 

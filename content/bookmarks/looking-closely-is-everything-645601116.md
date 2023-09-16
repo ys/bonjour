@@ -10,7 +10,7 @@ description: How the pandemic taught me to look closely at the world, and how I 
 tags:
 - craig mod
 date: '2023-01-26T19:45:35.811Z'
-highlights:
+highlights: 
 ---
 
 

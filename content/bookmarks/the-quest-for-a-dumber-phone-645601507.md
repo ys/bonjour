@@ -10,7 +10,7 @@ description: Digital minimalists are using simple talk-and-text devices to spend
 tags:
 - fadeke adegbuyi
 date: '2023-01-26T19:53:48.167Z'
-highlights:
+highlights: 
 ---
 
 

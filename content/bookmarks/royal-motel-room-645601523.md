@@ -48,7 +48,7 @@ description: 'Story by writer/surfer: Margaux Arramon-Tucoo Photos and Video by:
   what''s cooking in the next years.'
 tags: []
 date: '2023-02-08T21:03:39.386Z'
-highlights:
+highlights: 
 ---
 
 

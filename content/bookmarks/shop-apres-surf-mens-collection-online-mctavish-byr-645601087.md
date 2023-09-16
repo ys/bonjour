@@ -12,7 +12,7 @@ description: There’s no doubt about it, our best days start after waves. So we
 tags:
 - mctavish surfboards
 date: '2023-01-26T19:45:17.597Z'
-highlights:
+highlights: 
 ---
 
 

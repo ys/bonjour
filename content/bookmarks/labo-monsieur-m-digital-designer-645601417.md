@@ -10,7 +10,7 @@ description: Multi-disciplinary digital designer based in Paris. I’ve spent th
 tags:
 - delaware
 date: '2023-01-26T19:49:40.894Z'
-highlights:
+highlights: 
 ---
 
 

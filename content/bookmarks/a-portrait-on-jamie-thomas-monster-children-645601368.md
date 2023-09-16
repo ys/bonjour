@@ -9,7 +9,7 @@ description: The skate legend opens up about life and skateboarding.
 tags:
 - monster children
 date: '2023-01-26T19:48:54.803Z'
-highlights:
+highlights: 
 ---
 
 

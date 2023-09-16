@@ -10,7 +10,7 @@ description: 'Existenzminimum n*1, a contribution to #vanlife, explores the mini
   bedroom, dining room, kitchen, living room and nomadic bathroom for two people.'
 tags: []
 date: '2023-01-26T19:48:44.839Z'
-highlights:
+highlights: 
 ---
 
 

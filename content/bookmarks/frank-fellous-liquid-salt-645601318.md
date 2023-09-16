@@ -12,7 +12,7 @@ description: Frank Fellous is a talented French-born surfer/photographer who has
 tags:
 - liquid salt
 date: '2023-01-26T19:48:09.417Z'
-highlights:
+highlights: 
 ---
 
 

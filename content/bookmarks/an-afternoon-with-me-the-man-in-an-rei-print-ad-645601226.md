@@ -10,7 +10,7 @@ description: Oh hello, I didn’t see you there. I’ve been busy crouching here
 tags:
 - mcsweeney's internet tendency
 date: '2023-01-26T19:46:55.557Z'
-highlights:
+highlights: 
 ---
 
 

@@ -10,7 +10,7 @@ description: An off-grid cube of a cabin designed to be moved further up the bea
 tags:
 - field mag
 date: '2023-01-26T19:45:53.047Z'
-highlights:
+highlights: 
 ---
 
 

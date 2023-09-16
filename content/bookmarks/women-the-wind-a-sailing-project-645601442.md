@@ -10,7 +10,7 @@ description: Four women embarking on a journey across the North Atlantic to rais
   a 50-year-old Wharram catamaran as their platform.
 tags: []
 date: '2023-01-26T19:51:05.429Z'
-highlights:
+highlights: 
 ---
 
 

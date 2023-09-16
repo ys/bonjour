@@ -10,7 +10,7 @@ description: Profiter d’une journée en van pour aller se poser sur un des spo
 tags:
 - bonjour yannick
 date: '2023-01-26T19:44:52.616Z'
-highlights:
+highlights: 
 ---
 
 

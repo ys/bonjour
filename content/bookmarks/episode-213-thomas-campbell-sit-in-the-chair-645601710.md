@@ -10,7 +10,7 @@ description: Listen now (80 mins) | One of the greats on life, art, creativity, 
 tags:
 - matthew barr
 date: '2023-08-27T09:00:09.484Z'
-highlights:
+highlights: 
 ---
 
 

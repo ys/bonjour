@@ -10,7 +10,7 @@ description: Handmade ceramics, Risograph prints, and artwork from the studio of
 tags:
 - putnam studio
 date: '2023-01-26T19:49:46.970Z'
-highlights:
+highlights: 
 ---
 
 

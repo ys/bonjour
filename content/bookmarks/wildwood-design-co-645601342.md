@@ -11,7 +11,7 @@ description: A one-man creative studio specializing in brand identity, illustrat
 tags:
 - wildwood design co.
 date: '2023-01-26T19:48:34.266Z'
-highlights:
+highlights: 
 ---
 
 

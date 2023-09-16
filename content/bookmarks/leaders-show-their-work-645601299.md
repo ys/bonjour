@@ -12,7 +12,7 @@ description: Absent working within systems that naturally capture and expose pro
 tags:
 - ben balter
 date: '2023-01-26T19:47:53.445Z'
-highlights:
+highlights: 
 ---
 
 

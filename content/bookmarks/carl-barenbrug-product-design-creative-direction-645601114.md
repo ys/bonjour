@@ -8,7 +8,7 @@ domain: cmhb.de
 description: A product designer and creative director at Minimalissimo and 099
 tags: []
 date: '2023-01-26T19:45:34.834Z'
-highlights:
+highlights: 
 ---
 
 

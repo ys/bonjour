@@ -10,7 +10,7 @@ description: Mimosa Surfboards, 100% handmade surfboards. ​Atelier situé dans
   et traditionnelle...
 tags: []
 date: '2023-01-26T19:47:04.663Z'
-highlights:
+highlights: 
 ---
 
 

@@ -9,7 +9,7 @@ description: Mia McMahon surfing small waves in San Diego, and more. 7min surf v
   created by James Sarandis in 2022.
 tags: []
 date: '2023-01-26T19:48:29.056Z'
-highlights:
+highlights: 
 ---
 
 

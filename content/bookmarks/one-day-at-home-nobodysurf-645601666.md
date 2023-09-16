@@ -9,7 +9,7 @@ description: Clovis Donizetti, Robin Falxa, and Jules Lepecheux surfing small wa
   in France. 1min surf video created by Alex Heitler in 2023.
 tags: []
 date: '2023-07-01T20:36:38.046Z'
-highlights:
+highlights: 
 ---
 
 

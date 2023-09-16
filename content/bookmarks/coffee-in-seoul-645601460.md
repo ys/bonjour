@@ -12,7 +12,7 @@ description: My wife and I recently traveled to South Korea and stayed in Seoul 
 tags:
 - fatih arslan
 date: '2023-01-26T19:51:56.828Z'
-highlights:
+highlights: 
 ---
 
 

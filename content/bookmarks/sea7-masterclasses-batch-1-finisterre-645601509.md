@@ -10,7 +10,7 @@ description: An inspiring original series of talks by experts and leaders in the
 tags:
 - finisterre
 date: '2023-01-29T16:50:44.430Z'
-highlights:
+highlights: 
 ---
 
 

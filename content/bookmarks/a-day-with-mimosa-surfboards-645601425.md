@@ -11,7 +11,7 @@ tags:
 - youtube
 - mimosa surfboards
 date: '2023-01-26T19:50:03.421Z'
-highlights:
+highlights: 
 ---
 
 

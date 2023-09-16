@@ -18,7 +18,7 @@ tags:
 - youtube
 - jonathan bertin
 date: '2023-01-26T19:46:40.330Z'
-highlights:
+highlights: 
 ---
 
 

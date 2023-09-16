@@ -11,7 +11,7 @@ description: With the summer in full swing and more people heading to the beach,
 tags:
 - finisterre
 date: '2023-01-26T19:48:57.779Z'
-highlights:
+highlights: 
 ---
 
 

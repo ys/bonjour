@@ -12,7 +12,7 @@ description: FOR CURRENT PRODUCTION TIMES SEE TOP OF SITE BAR Sizing Guide A g
 tags:
 - clever supply co.
 date: '2023-01-26T19:44:32.007Z'
-highlights:
+highlights: 
 ---
 
 

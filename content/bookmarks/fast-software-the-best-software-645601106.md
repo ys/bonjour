@@ -10,7 +10,7 @@ description: Essay on the benefits of speedy software, and how it affects user p
 tags:
 - craig mod
 date: '2023-01-26T19:45:28.752Z'
-highlights:
+highlights: 
 ---
 
 

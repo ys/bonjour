@@ -10,7 +10,7 @@ description: Taking a break isn’t lazy – learning to recharge is a skill tha
 tags:
 - psyche
 date: '2023-09-11T20:35:05.157Z'
-highlights:
+highlights: 
 ---
 
 

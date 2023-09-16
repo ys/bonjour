@@ -10,7 +10,7 @@ description: Fresh from a Baja adventure, Beth Leighfield recounts a tale of was
 tags:
 - finisterre
 date: '2023-01-26T19:48:42.305Z'
-highlights:
+highlights: 
 ---
 
 

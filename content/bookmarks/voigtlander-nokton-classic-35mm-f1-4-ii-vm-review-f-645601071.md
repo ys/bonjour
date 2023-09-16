@@ -11,7 +11,7 @@ description: A real world review of the Nokton 35mm 1.4 II with tests and images
 tags:
 - 47 degrees
 date: '2023-01-26T19:45:06.682Z'
-highlights:
+highlights: 
 ---
 
 

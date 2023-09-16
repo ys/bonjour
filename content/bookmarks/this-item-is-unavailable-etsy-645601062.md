@@ -10,7 +10,7 @@ description: Find the perfect handmade gift, vintage & on-trend clothes, unique 
 tags:
 - etsy
 date: '2023-01-26T19:45:01.254Z'
-highlights:
+highlights: 
 ---
 
 

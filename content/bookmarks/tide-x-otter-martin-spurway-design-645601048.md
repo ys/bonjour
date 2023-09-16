@@ -12,7 +12,7 @@ description: As part of a workshop to design and make my own surfboard, I worked
 tags:
 - msd
 date: '2023-01-26T19:44:50.493Z'
-highlights:
+highlights: 
 ---
 
 

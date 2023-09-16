@@ -13,7 +13,7 @@ description: Selon la définition du terme, la « van-life » est un mode de v
 tags:
 - mathieu odin
 date: '2023-03-07T22:49:12.853Z'
-highlights:
+highlights: 
 ---
 
 

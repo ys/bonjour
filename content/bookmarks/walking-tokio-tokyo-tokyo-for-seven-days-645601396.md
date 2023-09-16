@@ -9,7 +9,7 @@ description: A pop-up newsletter running from August 15-21, 2022
 tags:
 - craig mod
 date: '2023-01-26T19:49:17.893Z'
-highlights:
+highlights: 
 ---
 
 

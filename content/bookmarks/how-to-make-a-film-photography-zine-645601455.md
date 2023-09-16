@@ -11,7 +11,7 @@ description: If you are wondering how to make your first Photography Zine, or ar
 tags:
 - analogue wonderland
 date: '2023-01-26T19:51:48.255Z'
-highlights:
+highlights: 
 ---
 
 

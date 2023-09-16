@@ -22,7 +22,7 @@ tags:
 - the new republic
 - apoorva tadepalli
 date: '2023-01-26T19:45:43.334Z'
-highlights:
+highlights: 
 ---
 
 

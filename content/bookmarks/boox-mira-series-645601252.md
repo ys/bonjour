@@ -10,7 +10,7 @@ description: New BOOX ePaper monitors come in 2 sizes, the 13.3'' Mira and 25.3'
   today.
 tags: []
 date: '2023-01-26T19:47:12.378Z'
-highlights:
+highlights: 
 ---
 
 

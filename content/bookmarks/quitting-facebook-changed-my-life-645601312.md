@@ -10,7 +10,7 @@ tags:
 - medium
 - paul greenberg
 date: '2023-01-26T19:48:05.202Z'
-highlights:
+highlights: 
 ---
 
 

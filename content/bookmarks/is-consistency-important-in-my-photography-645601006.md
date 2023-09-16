@@ -17,7 +17,7 @@ tags:
 - youtube
 - sean tucker
 date: '2023-01-26T19:44:12.459Z'
-highlights:
+highlights: 
 ---
 
 

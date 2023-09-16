@@ -19,7 +19,7 @@ tags:
 - appareil photo
 - point and shoot
 date: '2023-01-26T19:51:24.208Z'
-highlights:
+highlights: 
 ---
 
 

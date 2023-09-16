@@ -9,7 +9,7 @@ description: Notes and tips on how not to be a newsletter ding dong
 tags:
 - craig mod
 date: '2023-01-26T19:44:42.962Z'
-highlights:
+highlights: 
 ---
 
 

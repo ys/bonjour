@@ -9,7 +9,7 @@ description: Pour quiconque habite à Slab City, la liberté a un prix.
 tags:
 - beside_media
 date: '2023-01-26T19:47:51.694Z'
-highlights:
+highlights: 
 ---
 
 

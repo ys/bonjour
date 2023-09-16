@@ -11,7 +11,7 @@ description: Each year we ask you what books have inspired you, or that you have
 tags:
 - the do lectures
 date: '2023-01-26T19:47:13.910Z'
-highlights:
+highlights: 
 ---
 
 

@@ -11,7 +11,7 @@ description: The Leica Summicron 50 is a classic normal lens for Leica M-mount. 
 tags:
 - kjvogelius
 date: '2023-03-06T22:46:03.124Z'
-highlights:
+highlights: 
 ---
 
 

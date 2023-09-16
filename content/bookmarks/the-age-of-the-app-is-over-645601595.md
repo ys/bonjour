@@ -10,7 +10,7 @@ description: We think in projects, goals, and people. So why are our smartphones
 tags:
 - the browser company
 date: '2023-03-31T14:24:32.599Z'
-highlights:
+highlights: 
 ---
 
 

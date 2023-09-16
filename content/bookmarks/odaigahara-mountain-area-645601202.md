@@ -9,7 +9,7 @@ description: A few days hiking the Ōdaigahara area of Mie and Nara Prefectures
 tags:
 - craig mod
 date: '2023-01-26T19:46:38.207Z'
-highlights:
+highlights: 
 ---
 
 

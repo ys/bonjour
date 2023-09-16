@@ -25,7 +25,7 @@ tags:
 - the guardian
 - adam grant
 date: '2023-01-26T19:52:04.176Z'
-highlights:
+highlights: 
 ---
 
 

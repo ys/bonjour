@@ -27,7 +27,7 @@ tags:
 - youtube
 - red bull skateboarding
 date: '2023-06-28T11:31:40.770Z'
-highlights:
+highlights: 
 ---
 
 

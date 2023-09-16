@@ -10,7 +10,7 @@ description: I used to be like everyone else, hunched over a tiny screen, watchi
 tags:
 - mcsweeney's internet tendency
 date: '2023-03-21T13:31:08.881Z'
-highlights:
+highlights: 
 ---
 
 

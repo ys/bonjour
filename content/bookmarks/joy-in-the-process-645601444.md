@@ -10,7 +10,7 @@ description: We interviewed photographer Nick Pumphrey to discuss his Dawn Days 
 tags:
 - finisterre
 date: '2023-01-26T19:51:10.782Z'
-highlights:
+highlights: 
 ---
 
 

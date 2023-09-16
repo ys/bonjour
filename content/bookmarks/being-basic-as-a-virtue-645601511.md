@@ -11,7 +11,7 @@ description: 'Silicon Valley is a coal mine for ideas. There’s something speci
 tags:
 - nadia asparouhova
 date: '2023-01-31T21:47:07.954Z'
-highlights:
+highlights: 
 ---
 
 

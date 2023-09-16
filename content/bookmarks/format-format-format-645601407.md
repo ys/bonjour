@@ -10,7 +10,7 @@ description: Books about typography are giant, table-sized behemoths. They take 
 tags:
 - buttondown
 date: '2023-01-26T19:49:34.520Z'
-highlights:
+highlights: 
 ---
 
 

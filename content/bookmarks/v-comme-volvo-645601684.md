@@ -9,7 +9,7 @@ description: Guillaume shares his lifelong passion with us.
 tags:
 - guillaume rouan
 date: '2023-07-15T17:49:00.994Z'
-highlights:
+highlights: 
 ---
 
 

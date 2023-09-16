@@ -9,7 +9,7 @@ description: Can looking at pictures be an act of resistance?
 tags:
 - andy adams
 date: '2023-07-11T20:03:19.831Z'
-highlights:
+highlights: 
 ---
 
 

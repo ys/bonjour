@@ -10,7 +10,7 @@ description: The Vans Duct Tape Invitational Surf festival brought the 32 world'
 tags:
 - elise lainé
 date: '2023-08-10T11:24:12.531Z'
-highlights:
+highlights: 
 ---
 
 

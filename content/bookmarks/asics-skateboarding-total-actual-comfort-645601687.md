@@ -15,7 +15,7 @@ tags:
 - youtube
 - thrashermagazine
 date: '2023-07-15T19:03:24.715Z'
-highlights:
+highlights: 
 ---
 
 
