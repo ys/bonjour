@@ -10,7 +10,7 @@ description: How 2 weeks without Twitter and (almost) Instagram changed the way 
 tags:
 - francis chouquet
 date: '2023-03-24T14:59:54.439Z'
-highlights:
+highlights: 
 ---
 
 

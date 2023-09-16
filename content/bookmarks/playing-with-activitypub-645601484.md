@@ -10,7 +10,7 @@ tags:
 - macwright.com
 - tom macwright
 date: '2023-01-26T19:52:47.478Z'
-highlights:
+highlights: 
 ---
 
 

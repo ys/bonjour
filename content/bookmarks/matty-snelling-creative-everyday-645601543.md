@@ -10,7 +10,7 @@ description: We spent the day with Matty Snelling to explore his commitment to c
 tags:
 - finisterre
 date: '2023-02-27T21:06:37.784Z'
-highlights:
+highlights: 
 ---
 
 

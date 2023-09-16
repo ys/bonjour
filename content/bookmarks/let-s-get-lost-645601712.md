@@ -9,7 +9,7 @@ description: Maps that discourage going straight to your destination
 tags:
 - brian sholis
 date: '2023-08-31T22:09:42.104Z'
-highlights:
+highlights: 
 ---
 
 

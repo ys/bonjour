@@ -10,7 +10,7 @@ description: FULL MOON SURF CLUB featuring Zian Boyd Zahid Rodriguez and Anthony
 tags:
 - youtube
 date: '2023-01-26T19:52:43.619Z'
-highlights:
+highlights: 
 ---
 
 

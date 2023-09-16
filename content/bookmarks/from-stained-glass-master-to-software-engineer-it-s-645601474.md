@@ -11,7 +11,7 @@ description: Changing careers is a long, often-overlooked process. But I want to
   And as a lot of good stories, mine always starts with a lie.
 tags: []
 date: '2023-01-26T19:52:29.708Z'
-highlights:
+highlights: 
 ---
 
 

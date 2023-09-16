@@ -8,7 +8,7 @@ domain: glass.photo
 description: What a ridiculous post to need to write.
 tags: []
 date: '2023-01-26T19:53:13.534Z'
-highlights:
+highlights: 
 ---
 
 

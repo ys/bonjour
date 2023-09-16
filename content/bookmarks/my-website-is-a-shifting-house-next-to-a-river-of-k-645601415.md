@@ -11,7 +11,7 @@ description: For TCI x Are.na's Library of Practical and Conceptual Resources, d
 tags:
 - thecreativeindp
 date: '2023-01-26T19:49:38.767Z'
-highlights:
+highlights: 
 ---
 
 

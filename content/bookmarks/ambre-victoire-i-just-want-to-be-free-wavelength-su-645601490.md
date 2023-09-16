@@ -11,7 +11,7 @@ description: Winner of the recent Vans Duct Tape, Ambre Victoire, talks about he
 tags:
 - sophie everard
 date: '2023-01-26T19:53:08.145Z'
-highlights:
+highlights: 
 ---
 
 

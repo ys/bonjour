@@ -10,7 +10,7 @@ description: An interview with Léa Brassy, surfer, freediver and environmental 
 tags:
 - sam haddad
 date: '2023-06-22T20:17:38.105Z'
-highlights:
+highlights: 
 ---
 
 

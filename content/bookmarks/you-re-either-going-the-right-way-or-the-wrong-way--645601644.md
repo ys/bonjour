@@ -10,7 +10,7 @@ description: 'Plus: How much is the griptape company paying you? Mini-ramp champ
 tags:
 - cole nowicki
 date: '2023-06-12T21:53:17.480Z'
-highlights:
+highlights: 
 ---
 
 
