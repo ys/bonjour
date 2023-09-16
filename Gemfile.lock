@@ -15,6 +15,7 @@ GEM
       unf (>= 0.0.5, < 1.0.0)
     dotenv (2.8.1)
     dry-cli (1.0.0)
+    excon (0.103.0)
     faraday (2.7.4)
       faraday-net_http (>= 2.0, < 3.1)
       ruby2_keywords (>= 0.0.4)
@@ -78,6 +79,7 @@ DEPENDENCIES
   diffy
   dotenv
   dry-cli
+  excon (~> 0.103.0)
   faraday
   gastly
   nokogiri

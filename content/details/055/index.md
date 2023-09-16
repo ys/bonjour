@@ -1,9 +1,9 @@
 ---
-title: "Détail - 055"
+title: "055 - 📍 Fagnes, Belgique"
 slug: "055"
 emoji: 😃
 letter: detail
-description: "Une photo par semaine, dans ta boîte mail"
+description: "📍 Fagnes, Belgique"
 date: 2023-08-11T00:00:00+01:00
 color: forest
 resources:

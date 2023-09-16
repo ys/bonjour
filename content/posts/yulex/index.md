@@ -1,4 +1,5 @@
 ---
+favorite: true
 date: "2023-09-06T12:43:33+0002"
 slug: "/surfer-sans-petrole"
 title: "Surfer sans pétrole"
