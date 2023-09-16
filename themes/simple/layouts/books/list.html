@@ -6,10 +6,10 @@
 
 <div class="max-w-prose mb-8">
   {{ range sort .Site.Data.books "year" "desc" }}
-  <header class="my-4 flex flex-row items-center gap-2">
-    <span class="font-sans">{{ partial "moon" .}} • {{ len .books}}</span>
-    <div class=" flex-grow "><div class="mt-1 border-t border-double border-gray-800 dark:border-gray-100" ></div></div>
+  <header class="my-4 flex flex-row items-center">
+    <span class="font-sans">{{ partial "moon" .}}</span>
     <h2 class="text-xl lg:text-2xl font-bold">{{ .year }}</h2>
+    <span class="ml-1 font-sans text-md opacity-70"> • {{ len .books}}</span>
   </header>
   {{ range sort .books "date" "desc" }}
       {{ $color := "accent" }}
