@@ -9,30 +9,6 @@ require "fileutils"
 Bundler.require(:default)
 Dotenv.load
 
-class Preview
-  class NoWebPage < StandardError; end
-  class NotImplementedError < StandardError; end
-  attr_reader :web_content, :to_json
-  attr_accessor :url, :image, :description, :title, :content, :tags
-
-  def initialize(url)
-    @url = url
-  end
-
-end
-
-class MercuryPreview < Preview
-  def fetch
-    mercury = JSON.parse(`yarn run -s postlight-parser --header.User-Agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" --format markdown "#{url}"`)
-    raise NoWebPage if mercury["error"].present?
-    @image = mercury["lead_image_url"]
-    @description = mercury["excerpt"]
-    @title = mercury["title"]
-    @content = mercury["content"]
-    true
-  end
-end
-
 class Raindrop
   attr_accessor :token
 
@@ -103,7 +79,7 @@ class Downloader
   end
 
   def force?
-    ENV["FORCE"]
+    ENV["RAINDROP_FORCE"]
   end
 
   def process_liked
