@@ -21,6 +21,9 @@ jobs:
       - name: Fetch liked
         run: |
           bundle exec ruby bin/raindrop-to-liked.rb
+        env:
+          RAINDROP_TOKEN: ${{ secrets.RAINDROP_TOKEN }}
+          RAINDROP_FORCE: true
       - name: Commit files
         id: commit
         run: |
