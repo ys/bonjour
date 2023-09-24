@@ -6,19 +6,26 @@
 
 <div class="max-w-prose mb-8">
   {{ range sort .Site.Data.books "year" "desc" }}
-  <header class="my-4 flex flex-row items-center gap-2">
-    <h2 class="text-xl lg:text-2xl font-bold">{{ .year }}</h2><span class="text-sm dark:opacity-70 opacity-30 text-right font-normal"> • {{
-      len .books}}</span>
+  <header class="my-4 flex flex-row items-center">
+    <span class="font-sans">{{ partial "moon" .}}</span>
+    <h2 class="text-xl lg:text-2xl font-bold">{{ .year }}</h2>
+    <span class="ml-1 font-sans text-md opacity-70"> • {{ len .books}}</span>
   </header>
   {{ range sort .books "date" "desc" }}
-  <div class="py-2 flex flex-row justify-between">
-    <header class="font-ffserif">
-      <h2 class="col-span-2 text-lg font-bold text-darker dark:text-gray-100">
-        <a href="{{.url}}"> {{ .title }} </a>
-      </h2>
+      {{ $color := "accent" }}
+      {{range first 1 (shuffle (slice "accent" "sunray" "purpleheart" "forest" "jazzberry" "rose" "teal" "tuscan")) }}
+        {{ $color = . }}
+      {{ end }}
+      {{ with .Params.color }}
+        {{ $color = . }}
+      {{ end }}
+    <article class="hover:bg-{{$color}} !bg-opacity-70 rounded-sm ">
+      <header class="  flex flex-row justify-between gap-2 p-2 items-center">
+      <h2 class="text-gray-800 dark:text-gray-100  no-underline block ">{{ .title }}</h2>
+      <div class=" flex-grow "><div class="mt-3 border-t border-dotted border-gray-800 dark:border-gray-100" ></div></div>
       <h3 class="dark:text-gray-400 text-gray-700 italic ">{{ .author }}</h3>
     </header>
-  </div>
+  </article>
   {{ end }}
   {{ end }}
 </div>

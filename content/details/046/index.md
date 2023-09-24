@@ -1,9 +1,9 @@
 ---
-title: "Détail - 046"
+title: "046 - 📍 Morlaix, Bretagne"
 slug: "046"
 emoji: 😃
 letter: detail
-description: "Une photo par semaine, dans ta boîte mail"
+description: "📍 Morlaix, Bretagne"
 date: 2023-06-09T00:00:00+01:00
 color: sunray
 resources:

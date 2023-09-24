@@ -1,0 +1,26 @@
+---
+uuid: 645601680
+bookmarkOf: https://www.nytimes.com/2023/07/12/science/sea-otter-surfboard.html
+category: article
+headImage: https://static01.nyt.com/images/2023/07/12/multimedia/12sci-surfing-sea-otter-01-tvgh/12sci-surfing-sea-otter-01-tvgh-largeHorizontalJumbo.jpg
+title: She Steals Surfboards by the Seashore. She’s a Sea Otter.
+domain: nytimes.com
+description: California wildlife officials are hoping to apprehend a 5-year-old sea
+  otter, who has a knack for riding the waves after committing longboard larceny.
+tags:
+- sea otters
+- surfing
+- santa cruz (calif)
+- animal behavior
+- monterey bay aquarium
+- your-feed-science
+- your-feed-animals
+- internal-open-access-search
+- internal-open-access-from-nl
+- science
+- by annie roth
+date: '2023-07-12T13:53:32.477Z'
+highlights: 
+---
+
+

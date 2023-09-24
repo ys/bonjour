@@ -13,27 +13,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.2' # Not needed with a .ruby-version file
           bundler-cache: true
       - name: Fetch liked
         run: |
-          bundle exec ruby bin/import-from-arena.rb
-      - name: Generate
-        run: |
-          bundle exec ruby bin/generate-bookmarks-from-liked.rb
+          bundle exec ruby bin/raindrop-to-liked.rb
+        env:
+          RAINDROP_TOKEN: ${{ secrets.RAINDROP_TOKEN }}
+          RAINDROP_FORCE: true
       - name: Commit files
         id: commit
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "github-actions"
-          git add data/liked.yml
           git add content/bookmarks/*
           git commit -m "Sync the liked list" || echo "nothing to do and it is fine"
           git pull origin ${{ github.ref }}
-          echo "::set-output name=push::true"
+          echo "push=true" >> $GITHUB_OUTPUT
         shell: bash
       - name: Push changes
         if: steps.commit.outputs.push == 'true'

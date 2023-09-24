@@ -5,6 +5,7 @@ columns:
 title: Partager des détails
 seotitle: "Détail, une photo par semaine - ✌️ Bonjour Yannick"
 hideSubscribe: true
+hideDescription: true
 menu:
   footer:
     weight: 5

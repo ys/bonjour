@@ -1,9 +1,9 @@
 ---
-title: "Détail - 059"
+title: "059 - 📍 Ile aux pies, Pays de Redon, Bretagne"
 slug: "059"
 emoji: 😃
 letter: detail
-description: "Une photo par semaine, dans ta boîte mail"
+description: "📍 Ile aux pies, Pays de Redon, Bretagne"
 date: 2023-09-08T00:00:00+01:00
 color: teal
 resources:

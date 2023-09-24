@@ -1,5 +1,5 @@
 ---
-title: "007 — Sur les bords du GR34"
+title: "007 "
 slug: "007"
 emoji: 😃
 letter: detail
