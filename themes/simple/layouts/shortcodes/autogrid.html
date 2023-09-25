@@ -1,5 +1,5 @@
 {{ $allimages := slice }}
-{{ range sort ($.Page.Resources.Match (printf "%s*" (.Get "pattern"))) "Name" "desc"}}
+{{ range sort ($.Page.Resources.Match (printf "%s*" (.Get "pattern"))) "Name" "asc"}}
   {{ if ne .Name "cover" }}
     {{ $allimages = $allimages | append (dict "Image" .  ) }}
   {{ end }}
@@ -23,7 +23,7 @@
 {{ end }}
 {{ $rows = merge $rows (dict (string $rowid) $columns) }}
 <div data-pswp >
-  <div class=" my-8 -mx-2">
+  <div class=" my-8 inset-x-2/4 w-[80vw] relative -mx-[40vw]">
     {{ partial "grid" $rows }}
   </div>
 </div>
