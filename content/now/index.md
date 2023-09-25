@@ -14,7 +14,7 @@ menu:
 linktitle: un rien sur moi
 ---
 
-Moi, c'est Yannick. J'aime beaucoup **raconter des histoires et capturer des instants.**
+Moi, c'est Yannick. J'aime beaucoup **capturer des histoires et raconter des instants.**
 Quand je ne suis pas en train de coder sur divers projets au boulot ou en dehors, vous me trouverez sans doute en train de faire couler une tasse de café, d'apprendre à surfer, de prendre des photos ou de passer du temps en famille. 
 
 On a ouvert un super gîte avec Cloé. Tu devrais suivre [@douarenn](https://instagram.com/douarenn) ou aller voir [douarenn.fr](https://douarenn.fr). Un gîte plein de déconnexion au coeur des monts d'Arrée. Réserve et viens nous voir!
