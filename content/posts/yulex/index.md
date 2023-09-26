@@ -1,4 +1,5 @@
 ---
+emoji: "⛽"
 favorite: true
 date: "2023-09-06T12:43:33+0002"
 slug: "/surfer-sans-petrole"
@@ -6,6 +7,8 @@ title: "Surfer sans pétrole"
 summary: "Et si vous aussi vous laissiez tomber le Néoprène et privilégiez le Yulex?"
 resources:
   - src: "*.webp"
+categories: 
+- surf
 ---
 
 ![](cover)

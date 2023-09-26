@@ -39,7 +39,7 @@ Pour les livres, or le classique [Lonely planet](https://www.lonelyplanet.fr/cat
 En attendant, on surveille la réouverture de Yosemite. Le parc a été fermé un peu à cause des conditions météos que la Californie connaît pour le moment. Ces mêmes conditions ont fait glisser le terrain sur la Highway 1. Cela devrait rouvrir pour le 30 mars, on croise les doigts, on continue de se renseigner et d'étoffer le voyage en attendant. Si vous avez eu des énormes coups de cœur, dites nous tout! En attendant, je continue à m'y préparer. 
 
 
-<div class="italic mb-24 text-transparent bg-gradient-to-b from-gray-800 to-transparent bg-clip-text">
+<div class="italic mb-24 text-transparent bg-gradient-to-b dark:from-gray-100 from-gray-800 to-transparent bg-clip-text">
 🎶</br>
 La Californie  </br>
 La Californie  </br>

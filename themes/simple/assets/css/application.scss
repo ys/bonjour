@@ -49,15 +49,11 @@ $colors: accent, fire, ocean, sunray, forest, purpleheart, jazzberry, rose, teal
   .content-#{$color} .note {
     @apply my-4 lg:-mx-6 -ml-4 px-4 lg:pr-6 py-1 lg:pl-6 border-l-4 border-#{$color} bg-gray-100 dark:bg-gray-800;
   }
-  .content-#{$color} h2{
-    @apply decoration-solid  decoration-#{$color} ;
-  }
   .content-#{$color} .link{
-    @apply font-normal decoration-solid  decoration-#{$color} ;
+    @apply font-normal decoration-dotted underline  decoration-#{$color} ;
   }
   .content-#{$color} .prose a {
-    @apply  font-normal decoration-solid decoration-#{$color}  relative;
-    transition: color 0.5s, background-image 0.5s linear;
+    @apply  font-normal decoration-dotted underline decoration-#{$color}  relative ;
     &:hover {
       @apply text-#{$color}  underline relative;
     }
