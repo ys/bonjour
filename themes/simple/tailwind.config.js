@@ -29,6 +29,7 @@ module.exports = {
     extend: {
       fontFamily: {
         mono: [
+          "berkeley",
           "SFMono-Regular",
           "-ui-monospace",
           "ui-monospace",

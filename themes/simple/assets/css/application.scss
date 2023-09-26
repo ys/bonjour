@@ -5,20 +5,13 @@
 @tailwind utilities;
 
 @font-face {
-    font-family: 'quisas';
-    src: url("/quisas.otf"); 
-    src: url("/quisas.otf") format("opentype");
-    font-style: normal;
-    font-display: swap;
+  font-family: "berkeley";
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  src: url("/fonts/berkeley.woff") format("woff");
 }
 
-.font-hand {
-  font-family: "quisas";
-}
-
-html {
-   font-size: 17px;
-}
 
 .dotted {
   decoration: underline;
