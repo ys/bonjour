@@ -82,6 +82,10 @@ module.exports = {
             a: {
               color: 'var(--tw-prose-body)',
             },
+            picture: {
+              marginTop: 0,
+              marginBottom: 0
+            },
             img: {
               marginTop: 0,
               marginBottom: 0

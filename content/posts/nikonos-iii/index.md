@@ -9,7 +9,7 @@ film: "Kori 400"
 color: sunray
 emoji: "🏄‍♂️"
 categories:
-- mer
+- surf
 resources:
 - src: "*.webp"
 - src: "*67.webp"
