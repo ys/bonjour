@@ -9,9 +9,30 @@
   font-display: swap;
   font-style: normal;
   font-weight: 400;
-  src: url("/fonts/berkeley.woff") format("woff");
+  src: url("/fonts/BerkeleyMono-Regular.woff") format("woff"),
+       url("/fonts/BerkeleyMono-Regular.woff2") format("woff2"),
+       url("/fonts/BerkeleyMono-Regular.otf") format("otf");
 }
 
+@font-face {
+  font-family: "berkeley";
+  font-display: swap;
+  font-style: bold;
+  font-weight: 600;
+  src: url("/fonts/BerkeleyMono-Bold.woff") format("woff"),
+       url("/fonts/BerkeleyMono-Bold.woff2") format("woff2"),
+       url("/fonts/BerkeleyMono-Bold.otf") format("otf");
+}
+
+@font-face {
+  font-family: "berkeley";
+  font-display: swap;
+  font-style: bold;
+  font-weight: 800;
+  src: url("/fonts/BerkeleyMono-Bold.woff") format("woff"),
+       url("/fonts/BerkeleyMono-Bold.woff2") format("woff2"),
+       url("/fonts/BerkeleyMono-Bold.otf") format("otf");
+}
 
 .dotted {
   decoration: underline;

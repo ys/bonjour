@@ -1,13 +1,13 @@
 {{ define "main" }}
-<div class="z-20 dark:prose-invert prose mb-16 with-links relative">
+<div class="z-20 dark:prose-invert prose prose-sm mb-16 with-links relative">
   {{ .Content }}
 </div>
 <div>
     {{ $paginator := (.Paginate (where (where .Sites.First.RegularPages ".Params.archived" "!=" true) "Type" "bookmarks") 2500) }}
     {{ range $paginator.Pages.GroupByDate "Jan 2006" }}
-      <header class="flex gap-2 my-4 text-xl items-center">
+      <header class="flex gap-2 my-4 items-center">
         <span>{{ partial "moon" .}} </span>
-        <h2 class="text-xl lg:text-2xl font-bold">{{ .Key }}</h2>
+        <h2 class=" font-bold">{{ .Key }}</h2>
       </header>
     {{ range .Pages }}
       {{ $color := "accent" }}
@@ -18,7 +18,7 @@
         <a href="{{ .Params.bookmarkOf }}"
               class="text-darker dark:text-gray-100 hover:bg-{{$color}} bg-opacity-70 ">
         <header class="bottom-4  flex flex-row justify-between gap-2 p-2">
-          <h2 class="text-gray-800 dark:text-gray-100  no-underline block ">{{ .Title }}</h2>
+          <h2 class="text-gray-800 text-sm dark:text-gray-100  no-underline block ">{{ .Title }}</h2>
           <div class=" flex-grow "><div class="mt-3 border-t border-dotted border-gray-800 dark:border-gray-100" ></div></div>
           <h3 class="font-sans no-underline font-normal text-xs ">{{.Params.domain }}</h3>
         </header>
