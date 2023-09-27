@@ -5,7 +5,7 @@ category: article
 headImage: https://rdl.ink/render/https%3A%2F%2Fenglish.bouletcorp.com%2F2013%2F10%2F08%2Four-toyota-was-fantastic%2F
 title: Bouletcorp » Our Toyota was Fantastic.
 domain: english.bouletcorp.com
-description: ''
+description: 
 tags:
 - bouletcorp
 - boulet
