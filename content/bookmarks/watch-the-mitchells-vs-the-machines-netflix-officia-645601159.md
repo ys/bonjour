@@ -19,7 +19,6 @@ tags:
 - instant streaming
 - watch online
 - movies
-- watch movies france
 - watch tv online
 - no download
 - full length movies

@@ -5,19 +5,33 @@
 @tailwind utilities;
 
 @font-face {
-    font-family: 'quisas';
-    src: url("/quisas.otf"); 
-    src: url("/quisas.otf") format("opentype");
-    font-style: normal;
-    font-display: swap;
+  font-family: "berkeley";
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  src: url("/fonts/BerkeleyMono-Regular.woff") format("woff"),
+       url("/fonts/BerkeleyMono-Regular.woff2") format("woff2"),
+       url("/fonts/BerkeleyMono-Regular.otf") format("otf");
 }
 
-.font-hand {
-  font-family: "quisas";
+@font-face {
+  font-family: "berkeley";
+  font-display: swap;
+  font-style: bold;
+  font-weight: 600;
+  src: url("/fonts/BerkeleyMono-Bold.woff") format("woff"),
+       url("/fonts/BerkeleyMono-Bold.woff2") format("woff2"),
+       url("/fonts/BerkeleyMono-Bold.otf") format("otf");
 }
 
-html {
-   font-size: 17px;
+@font-face {
+  font-family: "berkeley";
+  font-display: swap;
+  font-style: bold;
+  font-weight: 800;
+  src: url("/fonts/BerkeleyMono-Bold.woff") format("woff"),
+       url("/fonts/BerkeleyMono-Bold.woff2") format("woff2"),
+       url("/fonts/BerkeleyMono-Bold.otf") format("otf");
 }
 
 .dotted {
@@ -49,15 +63,11 @@ $colors: accent, fire, ocean, sunray, forest, purpleheart, jazzberry, rose, teal
   .content-#{$color} .note {
     @apply my-4 lg:-mx-6 -ml-4 px-4 lg:pr-6 py-1 lg:pl-6 border-l-4 border-#{$color} bg-gray-100 dark:bg-gray-800;
   }
-  .content-#{$color} h2{
-    @apply decoration-solid  decoration-#{$color} ;
-  }
   .content-#{$color} .link{
-    @apply font-normal decoration-solid  decoration-#{$color} ;
+    @apply font-normal decoration-dotted underline  decoration-#{$color} ;
   }
   .content-#{$color} .prose a {
-    @apply  font-normal decoration-solid decoration-#{$color}  relative;
-    transition: color 0.5s, background-image 0.5s linear;
+    @apply  font-normal decoration-dotted underline decoration-#{$color}  relative ;
     &:hover {
       @apply text-#{$color}  underline relative;
     }

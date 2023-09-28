@@ -18,7 +18,7 @@ tags:
 resources:
   - src: "*.webp"
 categories:
-- mer
+- surf
 color: indigo
 ---
 

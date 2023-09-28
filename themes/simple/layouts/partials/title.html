@@ -1,5 +1,5 @@
 <article class="py-4 group h-full flex flex-col justify-end">
-    <div class="font-sans tracking-tight text-xs {{ with .Params.Color }}text-{{ . }} {{ else }}text-darker{{end}} {{ with .Params.Color }}group-hover:text-{{ . }} {{ else }}group-hover:text-accent{{ end }} transition ease-in-out duration-200 ">
+    <div class="font-sans tracking-tight text-xs {{ with .Params.Color }}text-{{ . }} {{ else }}text-darker{{end}} {{ with .Params.Color }}group-hover:text-{{ . }} {{ else }}group-hover:text-accent{{ end }} ">
       {{ with .Params.emoji }}
         {{ . }}
       {{ else }}
@@ -15,7 +15,7 @@
           {{ .Title  |markdownify}}
   </a>
       </h2>
-      <h3 class="line-clamp-2 text-sm text-darker italic transition ease-in-out duration-400 ">
+      <h3 class="line-clamp-2 text-sm text-darker italic ">
         {{ with .Params.subtitle }}
         {{ . }}
         {{ else }}
@@ -26,7 +26,7 @@
           {{ end }}
         {{ end }}
       </h3>
-      <h4 class="text-xs font-sans {{ with .Params.Color }}group-hover:text-{{ . }}-600 {{ else }}group-hover:text-accent-600{{ end }} transition ease-in-out duration-200">
+      <h4 class="text-xs font-sans {{ with .Params.Color }}group-hover:text-{{ . }}-600 {{ else }}group-hover:text-accent-600{{ end }}">
       {{ with .Params.bookmarkOf }}
         <a href="{{ . }}">
           {{ (urls.Parse .).Host }}

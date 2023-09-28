@@ -29,6 +29,7 @@ module.exports = {
     extend: {
       fontFamily: {
         mono: [
+          "berkeley",
           "SFMono-Regular",
           "-ui-monospace",
           "ui-monospace",
@@ -77,6 +78,21 @@ module.exports = {
         darker: "#1F2023"
       },
       typography: (theme) => ({
+        sm: {
+          css: {
+            a: {
+              color: 'var(--tw-prose-body)',
+            },
+            picture: {
+              marginTop: 0,
+              marginBottom: 0
+            },
+            img: {
+              marginTop: 0,
+              marginBottom: 0
+            }
+          }
+        },
         DEFAULT: {
           css: {
             a: {
