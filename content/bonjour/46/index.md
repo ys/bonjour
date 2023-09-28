@@ -7,7 +7,7 @@ tags:
 - la lettre
 emoji: 💌
 title: "46 - Joyeux anniversaire, putain de cancer, déconnexion"
-color: jazzberry
+color: rosewater
 slug: "46"
 resources:
   - src: "*.webp"

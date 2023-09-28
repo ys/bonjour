@@ -6,7 +6,7 @@ camera: "Olympus XA"
 film: "Kodak Portra 400"
 description: "Une photo par semaine, dans ta boîte mail"
 date: 2021-02-28T12:57:50+02:00
-color: purpleheart
+color: mauve
 resources:
   - src: "full.webp"
     name: "cover"

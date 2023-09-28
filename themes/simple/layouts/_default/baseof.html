@@ -1,8 +1,8 @@
-{{ $.Scratch.Set "color" "accent" }}
+{{ $.Scratch.Set "color" "yellow" }}
 {{ with .Params.color }}
   {{ $.Scratch.Set "color" . }}
 {{ else }}
-  {{range first 1 (shuffle (slice "accent" "sunray" "purpleheart" "forest" "jazzberry" "rose" "teal" "tuscan")) }}
+  {{range first 1 (shuffle $.Site.Params.themeColors) }}
     {{ $.Scratch.Set "color" . }}
   {{ end }}
 {{ end }}
@@ -24,7 +24,7 @@
 </head>
 
   <body
-      class=" content-{{$.Scratch.Get "color" }} font-mono  antialiased  dark:bg-darker dark:text-white text-darker {{if or .Params.backgroundColor $.Site.Params.backgroundColor }}{{with .Params.background}}bg-{{.}} {{end}} bg-{{$.Scratch.Get "color" }} bg-opacity-10 selection:bg-opacity-20 selection:bg-{{$.Scratch.Get "color"}}{{else}}selection:bg-{{$.Scratch.Get "color"}} selection:bg-opacity-20{{end}}">
+      class="{{ .Site.Params.themePalette}} content-{{$.Scratch.Get "color" }} font-mono  antialiased  dark:bg-crust dark:text-white text-crust {{if or .Params.backgroundColor $.Site.Params.backgroundColor }}{{with .Params.background}}bg-{{.}} {{end}} bg-{{$.Scratch.Get "color" }} bg-opacity-10 selection:bg-opacity-20 selection:bg-{{$.Scratch.Get "color"}}{{else}}selection:bg-{{$.Scratch.Get "color"}} selection:bg-opacity-20{{end}}">
 
     {{ partial "header" . }}
     <div class="lg:container mx-auto  lg:max-w-xl w-full  grid grid-cols-1 gap-16 min-h-1/2">

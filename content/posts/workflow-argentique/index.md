@@ -20,7 +20,7 @@ categories:
 - analog
 slug: "workflow-argentique"
 emoji: "🎞"
-color: sunray
+color: yellow
 summary: "Petit manuel numérique à l'attention du photographe argentique ordonné. Vous venez de recevoir de nouveaux scans de votre labo préféré. Un petit guide utile sur mon workflow actuel. Quels sont les outils que j'utilise? Mes trucs et astuces?"
 resources:
 - src: "*.webp"

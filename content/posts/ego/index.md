@@ -1,7 +1,7 @@
 ---
 title: "L'égo ne me rend pas service"
 slug: "/ego"
-color: sunray
+color: yellow
 subtitle: "Ne l'écoutez pas"
 favorite: true
 date: 2023-06-04T02:00:00+0200
@@ -18,10 +18,10 @@ Parfois, j'ai tellement de passions que je me sens comme un Jack of all trades e
 
 *C'est faux dit-il à voix basse pour s'en convaincre. Il se retourne, regarde derrière lui... Quel chemin parcouru depuis que tu as une carte vitale.*
 
-On regarde plus souvent ailleurs et on se focalise sur le devant de la scène que les autres mettent en avant sur les réseaux sociaux. On devrait les renommer réseaux soucieux. En fait, on se compare au meilleur des autres dans une seule catégorie et on applique cela à toutes les nôtres. Ce n'est pas juste pour notre égo. D'ailleurs c'est sa faute à lui si on se sent mal en se comparant. Foutu égo. 
+On regarde plus souvent ailleurs et on se focalise sur le devant de la scène que les autres mettent en avant sur les réseaux sociaux. On devrait les renommer réseaux soucieux. En fait, on se compare au meilleur des autres dans une seule catégorie et on applique cela à toutes les nôtres. Ce n'est pas juste pour notre égo. D'ailleurs c'est sa faute à lui si on se sent mal en se comparant. Foutu égo.
 
 *L'égo essaye de lui faire croire qu'il vaut rien et que les autres valent mieux. Il lui dit de la boucler.*
 
 On progresse partout, on ne doit pas laisser l'égo nous bloquer. On doit juste accepter que d'autres sont ailleurs sur les chemins des choses. On les rejoindra peut-être. Ou alors on fera avancer un autre de nos cavaliers. Se comparer, n'amère jamais rien de bien. Il faut surtout se comparer à soi-même. Sur tout, pas juste le meilleur, sur chaque facette et voir comme cela avance malgré tout ce que notre égo essaie de nous faire croire.
 
-Mon égo mérite un concert de casseroles ce soir. 
+Mon égo mérite un concert de casseroles ce soir.

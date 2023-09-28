@@ -5,7 +5,7 @@ emoji: 😃
 letter: detail
 description: "Une photo par semaine, dans ta boîte mail"
 date: 2023-03-03T00:00:00+01:00
-color: jazzberry
+color: rosewater
 resources:
   - src: "cover.webp"
     name: "cover"

@@ -13,7 +13,7 @@
   </header>
   {{ range sort .books "date" "desc" }}
       {{ $color := "accent" }}
-      {{range first 1 (shuffle (slice "accent" "sunray" "purpleheart" "forest" "jazzberry" "rose" "teal" "tuscan")) }}
+      {{range first 1 (shuffle $.Site.Params.themeColors) }}
         {{ $color = . }}
       {{ end }}
       {{ with .Params.color }}

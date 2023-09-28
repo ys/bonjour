@@ -4,7 +4,7 @@ categories:
 - journal
 date: 2021-02-06 07:27:33 +0200
 emoji: 🧠
-color: sunray
+color: yellow
 ---
 
 J’avais plein de choses à dire, mais rien à écrire. Mon cerveau bouillonnait, mais rien ne sortait. C’est souvent comme cela quand j’essaye de forcer l’écriture. Je me disais que j’allais commencer la newsletter. Je me disais que j’allais m’y prendre tôt. Mais bon, je ne savais pas sur quoi écrire ni comment commencer…

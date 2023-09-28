@@ -9,7 +9,7 @@ description: ""
 tags: ["nikonos", "film", "nikonosproject", "dawn patrol", "kodak portra"]
 aliases:
   - "/nikonos-glaz"
-color: purpleheart
+color: mauve
 emoji: "🌊"
 serie: false
 camera: Nikonos V
