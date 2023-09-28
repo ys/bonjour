@@ -46,15 +46,14 @@
   content: " & "
 }
 :root {
-  --accent: {{ with .Site.Params.accentColor }}{{ . }}{{ else }}var(--onyx){{ end }};
   --gap: 12px;
 }
 
 .prose blockquote {
-  @apply italic border-accent font-normal;
+  @apply italic border-yellow font-normal;
 }
 
-$colors: accent, fire, ocean, sunray, forest, purpleheart, jazzberry, rose, teal, tuscan, coral, indigo;
+$colors: yellow, red, blue, yellow, green, lavender, mauve, pink, teal, maroon, peach, sky;
 @each $color in $colors {
 
   .content-#{$color} .post blockquote {
@@ -83,11 +82,10 @@ $colors: accent, fire, ocean, sunray, forest, purpleheart, jazzberry, rose, teal
   }
 
   .content-#{$color} .post h2, .content-#{$color} .post h3 {
-    @apply underline;
-    decoration-color: theme('colors.#{$color}');
+    @apply underline decoration-#{$color};
   }
   .td-#{$color} {
-    decoration-color: theme('colors.#{$color}') !important;
+    @apply decoration-#{$color}
   }
 }
 .prose pre {
@@ -112,7 +110,7 @@ footer ul li:not(:last-child):after {
 }
 
 hr {
-  @apply border-accent border-opacity-20 block mt-6 border-0 mb-4 mx-auto w-full border-t;
+  @apply border-yellow border-opacity-20 block mt-6 border-0 mb-4 mx-auto w-full border-t;
 }
 
 .home {
@@ -169,9 +167,9 @@ table {
   }
 }
 .link, .with-links a, .content a {
-  @apply font-normal  decoration-solid decoration-accent underline relative transition duration-500 ease-in-out;
+  @apply font-normal  decoration-solid decoration-yellow underline relative transition duration-500 ease-in-out;
   &:hover {
-    @apply  text-accent underline relative;
+    @apply  text-yellow underline relative;
   }
 }
 

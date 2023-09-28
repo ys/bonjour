@@ -1,5 +1,5 @@
 ---
-color: coral
+color: peach
 title: "Capturing details of a beautiful daily life"
 subtitle: "Some beautiful moments of my everyday life"
 type: grid
