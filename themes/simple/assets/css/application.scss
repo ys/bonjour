@@ -89,7 +89,7 @@ $colors: yellow, red, blue, yellow, green, lavender, mauve, pink, teal, maroon, 
   }
 }
 .prose pre {
-  @apply bg-gray-200 text-darker text-sm;
+  @apply bg-gray-200 text-text text-sm;
 }
 svg, .logo svg, .fill svg {
   @apply fill-current;
@@ -133,7 +133,7 @@ hr {
   h2 {
     @apply text-lg mt-8  py-1 ;
     a {
-      @apply text-darker ;
+      @apply text-text ;
     }
   }
   h2 + p {
@@ -161,9 +161,9 @@ hr {
 }
 
 table {
-  @apply w-full p-4 my-4 border border-solid border-collapse border-darker #{!important};
+  @apply w-full p-4 my-4 border border-solid border-collapse border-text #{!important};
   th, td {
-    @apply border-solid border border-darker p-2 border-collapse #{!important};
+    @apply border-solid border border-text p-2 border-collapse #{!important};
   }
 }
 .link, .with-links a, .content a {

@@ -14,12 +14,11 @@ module.exports = {
       './hugo_stats.json'
     ],
   },
-  safeList: classes.concat([{ pattern: /hover:bg-\[.*\]/ }]),
   plugins: [
+    require('@catppuccin/tailwindcss'),
     require('@tailwindcss/typography'),
     require('@tailwindcss/line-clamp'),
     require('@tailwindcss/forms'),
-    require('@catppuccin/tailwindcss'),
   ],
   theme: {
     extend: {
@@ -56,10 +55,6 @@ module.exports = {
           "Segoe UI Emoji",
           "Segoe UI Symbol"
         ]
-      },
-      colors: {
-        dark: "#2d2f34",
-        darker: "#1F2023"
       },
       typography: (theme) => ({
         sm: {

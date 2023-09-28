@@ -12,7 +12,7 @@
 {{ else if .Title }}
   {{ $title = printf "%s - %s" .Title $.Site.Title }}
 {{ end }}
-{{ $colorHex := dict "fire" "#DD614A" "coral" "#FF7477" "tuscan" "#972D07" "sunray" "#EDC758" "accent" "#EDC758" "forest" "#4C9F70" "purpleheart" "#0d2fef" "jazzberry" "#b0014a" "rose" "#FF206E" "teal" "#008080" "ocean" "#226ECE" "indigo" "#2B4162" "dark" "#2d2f34" "darker" "#1F2023" }}
+{{ $colorHex := dict "fire" "#DD614A" "coral" "#FF7477" "tuscan" "#972D07" "sunray" "#EDC758" "accent" "#EDC758" "forest" "#4C9F70" "purpleheart" "#0d2fef" "jazzberry" "#b0014a" "rose" "#FF206E" "teal" "#008080" "ocean" "#226ECE" "indigo" "#2B4162" "dark" "#2d2f34" "text" "#1F2023" }}
 
 <title>{{ $title }}</title>
 <meta name="theme-color" content="{{index  $colorHex ($.Scratch.Get "color") }}" />

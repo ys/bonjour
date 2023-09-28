@@ -3,7 +3,7 @@ title: "Argentique"
 slug: "analog"
 favorite: true
 emoji: 📷
-color: purpleheart
+color: mauve
 description: "35, 120, du grain et de beaux moments"
 resources:
   - src: "*.svg"

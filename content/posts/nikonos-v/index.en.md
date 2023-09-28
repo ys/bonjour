@@ -1,5 +1,5 @@
 ---
-color: purpleheart
+color: mauve
 title: "Hello Nikonos V"
 subtitle: "Salted water on the lens"
 date: 2021-05-09T13:37:39+02:00

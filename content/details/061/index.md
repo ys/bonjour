@@ -5,7 +5,7 @@ emoji: 😃
 letter: detail
 description: "📍 Crozon, Bretagne"
 date: 2023-09-22T00:00:00+01:00
-color: forest
+color: green
 resources:
   - src: "cover.webp"
     name: "cover"
