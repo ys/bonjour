@@ -6,7 +6,7 @@ date: 2020-09-23T22:57:50+02:00
 draft: false
 camera: "Olympus XA"
 film: "Kodak Gold 200"
-color: sunray
+color: yellow
 categories:
 - surf
 place: "la Torche"

@@ -7,7 +7,7 @@ tags:
 - la lettre
 emoji: 💌
 title: "43 - Jatte, magazines & jolie houle"
-color: jazzberry
+color: rosewater
 slug: "43"
 resources:
   - src: "*.webp"

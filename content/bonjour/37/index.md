@@ -10,7 +10,7 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: jazzberry
+color: rosewater
 title: "37 - Fusion, Marketing et capitaines"
 slug: "37"
 summary: "J'allais commencer à écrire cette lettre quand un petit bruit dans le salon m'a fait réalisé que j'avais oublié de couper la platine vinyle"

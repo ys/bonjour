@@ -18,7 +18,7 @@ resources:
 categories:
 - journal
 - livres
-color: indigo
+color: teal
 ---
 
 

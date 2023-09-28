@@ -10,7 +10,7 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: jazzberry
+color: rosewater
 background: "[#F5DBCB]"
 title: "31 - des ping, de la respiration et un magnifique zine que vous voulez absolument"
 slug: "31"

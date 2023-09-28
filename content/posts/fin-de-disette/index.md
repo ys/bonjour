@@ -2,7 +2,7 @@
 date: 2020-02-15T14:18:42+01:00
 title: "Fin de disette"
 subtitle: Un mois passé à se recentrer
-color: jazzberry
+color: rosewater
 emoji: 🎏
 slug: "fin-de-disette"
 aliases:
