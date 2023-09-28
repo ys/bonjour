@@ -9,5 +9,7 @@ color: forest
 resources:
   - src: "cover.webp"
     name: "cover"
+camera: "Leica M6"
+film: "Kodak Portra"
 ---
 ![](cover)

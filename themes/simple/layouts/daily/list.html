@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div class="mb-10 content-{{  $.Scratch.Get "color" }}">
-  <div  class="post dark:prose-invert prose">
+  <div  class="post dark:prose-invert prose prose-sm ">
     {{.Content}}
   </div>
 </div>
@@ -40,7 +40,7 @@
           {{ $active = or $active (eq .Page.Slug $current.Params.year) }}
           <li
               class="inline  relative ">
-            <a class="{{ .Params.class }} whitespace-nowrap  {{ with .Page.Params.color }}hover:text-{{ . }} hover:border-{{ . }} {{ if $active }}underline decoration-solid  decoration-{{ . }} {{ end }}{{ else }}hover:text-{{$.Scratch.Get "color"}} {{ if $active }}underline decoration-solid decoration-{{$.Scratch.Get "color"}} {{ end }}{{ end }} transition ease-in-out duration-200 " href="{{ .URL }}" title="{{ .Title }}">
+            <a class="{{ .Params.class }} whitespace-nowrap  {{ with .Page.Params.color }}hover:text-{{ . }} hover:border-{{ . }} {{ if $active }}underline decoration-dotted  decoration-{{ . }} {{ end }}{{ else }}hover:text-{{$.Scratch.Get "color"}} {{ if $active }}underline decoration-dotted decoration-{{$.Scratch.Get "color"}} {{ end }}{{ end }} transition ease-in-out duration-200 " href="{{ .URL }}" title="{{ .Title }}">
 
               {{ .Name }}
             </a>

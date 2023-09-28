@@ -58,12 +58,5 @@
           </header>
       </div>
     {{ end }}
-    {{ with .Description }}
-      <div class=" p-4 absolute top-0 left-0 h-full w-full bg-white bg-opacity-70 group-hover:block  group-hover:flex text-center place-items-center hidden group-hover:block">
-        <span class="ml-4 line-clamp-1 text-{{$.Scratch.Get "color"}}">
-          {{ . }}
-        </span>
-      </div>
-    {{ end }}
    </div>
 {{ end }}
