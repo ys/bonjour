@@ -11,7 +11,7 @@ tags:
 - la lettre
 emoji: 💌
 color: rosewater
-background: "[#F5DBCB]"
+
 title: "1 - Bonjour, Pedro's bay et l'utopie"
 slug: "1"
 summary: "C'est une première, un retour aux choses simples. Une envie d'écrire, une envie de partager."

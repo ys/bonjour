@@ -11,7 +11,7 @@ tags:
 - la lettre
 emoji: 💌
 color: rosewater
-background: "[#F5DBCB]"
+
 title: "6 - Biographies, films de Noël et Amour papier"
 slug: "6"
 summary: "Moi, c'est Yannick et j'ai beaucoup trop de passions. Elles vont, elles viennent."

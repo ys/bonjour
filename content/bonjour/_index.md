@@ -6,7 +6,7 @@ description: "Un petit moment d'échappement dans votre boîte mail"
 date: 2020-10-07T12:57:50+02:00
 draft: false
 color: rosewater
-background: "[#F5DBCB]"
+
 resources:
   - src: "*.webp"
 menu:
@@ -20,7 +20,7 @@ linktitle: "💌 Une newsletter"
 Elle n'est pas encore périodique, cela dépend de vous.
 
 
-{{< letter account="bonjouryannick" accent="jazzberry" >}}
+{{< letter account="bonjouryannick" accent="rosewater" >}}
 
 <small>
 * Promis je ne revends pas tes données et je ne te spammerai pas. Je déteste cela

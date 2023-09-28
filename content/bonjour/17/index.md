@@ -11,7 +11,7 @@ tags:
 - la lettre
 emoji: 💌
 color: rosewater
-background: "[#F5DBCB]"
+
 title: "17 - Vacances, inconnues et la poule"
 slug: "17"
 ---
