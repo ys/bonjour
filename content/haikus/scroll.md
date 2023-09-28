@@ -1,4 +1,5 @@
 ---
+textOnly: true
 title: "Rien n'est plus utile"
 date: 2023-09-01
 ---

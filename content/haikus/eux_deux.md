@@ -1,4 +1,5 @@
 ---
+textOnly: true
 title: "Ils me manquent eux deux"
 date: 2023-07-20
 ---

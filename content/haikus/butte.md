@@ -1,4 +1,5 @@
 ---
+textOnly: true
 title: "Long massage du dos"
 date: 2023-08-20
 ---

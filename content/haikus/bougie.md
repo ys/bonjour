@@ -1,4 +1,5 @@
 ---
+textOnly: true
 title: "Une bougie de plus"
 date: 2023-03-02
 ---

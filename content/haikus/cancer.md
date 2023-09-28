@@ -1,4 +1,5 @@
 ---
+textOnly: true
 title: "Foutues vapoteuses"
 date: 2023-08-28
 ---

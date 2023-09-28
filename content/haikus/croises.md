@@ -1,4 +1,5 @@
 ---
+textOnly: true
 title: "Petits pas croisés"
 date: 2023-07-20
 ---

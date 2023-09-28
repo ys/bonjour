@@ -1,4 +1,5 @@
 ---
+textOnly: true
 title: "Parfois ça marche bien"
 date: 2023-07-20
 ---

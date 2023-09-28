@@ -1,4 +1,5 @@
 ---
+textOnly: true
 title: "Houle qui vient du nord"
 date: 2023-07-20
 ---
