@@ -1,4 +1,4 @@
-<ul class="pagination">
+<ul class="flex justify-between w-full">
   <li class="group hover:font-bold page-item{{ if not .PrevInSection }} disabled{{ end }}">
     <a {{ if .PrevInSection }}href="{{ .PrevInSection.RelPermalink }}" {{ end }} class="page-link" aria-label="Previous">
       <span aria-hidden="true">←</span> <span class="hidden ml-2 group-hover:inline transition-all delay-150 duration-300">{{ with .PrevInSection}}{{.Title}}{{end}}</span>
