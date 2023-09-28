@@ -4,6 +4,7 @@ favorite: true
 date: "2023-09-06T12:43:33+0002"
 slug: "/surfer-sans-petrole"
 title: "Surfer sans pétrole"
+subtitle: "Yulex & cie."
 summary: "Et si vous aussi vous laissiez tomber le Néoprène et privilégiez le Yulex?"
 resources:
   - src: "*.webp"
