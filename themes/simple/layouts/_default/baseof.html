@@ -2,7 +2,7 @@
 {{ with .Params.color }}
   {{ $.Scratch.Set "color" . }}
 {{ else }}
-  {{range first 1 (shuffle (slice "accent" "sunray" "purpleheart" "forest" "jazzberry" "rose" "teal" "tuscan")) }}
+  {{range first 1 (shuffle (slice "rosewater" "flamingo" "pink" "mauve" "red" "maroon" "peach" "yellow" "green" "teal" "sky" "sapphire" "blue" "lavender" "mantle" "crust")) }}
     {{ $.Scratch.Set "color" . }}
   {{ end }}
 {{ end }}

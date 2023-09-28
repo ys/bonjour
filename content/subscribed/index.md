@@ -3,7 +3,7 @@ title: "Subscribed"
 description: "Newsletters, RSS et autres favoris. A quoi j'occupe mes lectures numériques."
 date: 2021-02-24T12:57:50+02:00
 draft: false
-color: sunray
+color: yellow
 type: "about"
 showtitle: true
 resources:
@@ -14,7 +14,7 @@ resources:
 
 Newsletters, RSS et autres favoris. A quoi j'occupe mes lectures numériques.
 
-## Newsletters 
+## Newsletters
 
 Ce qui remplit ma boîte email sans être du SPAM.
 

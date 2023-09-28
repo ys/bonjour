@@ -2,7 +2,7 @@
 title: Pause café
 subtitle: Ralentir le temps d'une tasse
 emoji: ☕️
-color: sunray
+color: yellow
 date: 2020-04-16 07:03:03 +0200
 resources:
   - src: "*.webp"

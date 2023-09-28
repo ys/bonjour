@@ -19,7 +19,7 @@ module.exports = {
     require('@tailwindcss/typography'),
     require('@tailwindcss/line-clamp'),
     require('@tailwindcss/forms'),
-    require('@catppuccin/tailwindcss')({defaultFlavour: "latte",}),
+    require('@catppuccin/tailwindcss'),
   ],
   theme: {
     extend: {

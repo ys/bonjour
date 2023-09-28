@@ -5,7 +5,7 @@ title: "Talking about me"
 description: "What I do, what I care about and all and nothing"
 date: 2020-10-07T12:57:50+02:00
 draft: false
-color: sunray
+color: yellow
 type: "about"
 resources:
   - src: "*.webp"
@@ -25,11 +25,11 @@ We launched an amazing project with Cloé. You should follow [@douarenn](https:/
 ## Photography
 
 Current gear:
-- [Leica M6](/leica-m6) with a summicron 50mm 
+- [Leica M6](/leica-m6) with a summicron 50mm
 - A small Contax T3
 - [Nikonos V](/nikonos-v) with a 35mm
 
-I stopped thinking about home scans thanks to my great relationship with my beloved lab, [Mori](https://morifilmlab.com). It is way better to build relationship than skills. 
+I stopped thinking about home scans thanks to my great relationship with my beloved lab, [Mori](https://morifilmlab.com). It is way better to build relationship than skills.
 
 
 ## Surf
@@ -55,7 +55,7 @@ I am writing a [small letter in french](/bonjour) about all and nothing every tw
 
 🖨 → Prints come from [Ooblik](https://ooblik.com) & [Négatif+](https://negatifplus.com). I just printed [my first zine](/shop/a-thousand-tides) with [Ex Why Zed](https://exwhyzed.co.uk) but it is sold out right now.
 
-## Social 
+## Social
 
 I stick my pictures and some words kind of all over the web:
 

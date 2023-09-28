@@ -3,7 +3,7 @@ title: "Blogroll"
 description: "Some great websites, blogs and portfolios"
 date: 2022-11-10T12:57:50+02:00
 draft: false
-color: sunray
+color: yellow
 type: "about"
 resources:
   - src: "*.webp"
