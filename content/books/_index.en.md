@@ -4,7 +4,7 @@ emoji: "📚"
 description: "What I read"
 date: 2021-02-07T12:57:50+02:00
 draft: false
-color: sunray
+color: yellow
 resources:
   - src: "*.webp"
 menu:

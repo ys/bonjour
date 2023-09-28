@@ -8,7 +8,7 @@ tags:
 - la lettre
 emoji: 💌
 title: "41 - Vitamine D, Papier et Kickflip"
-color: jazzberry
+color: rosewater
 slug: "41"
 resources:
   - src: "*.webp"

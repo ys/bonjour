@@ -2,7 +2,7 @@
 title: "Surf"
 slug: "surf"
 emoji: 🏄🏻
-color: sunray
+color: yellow
 description: "Du sel dans les cheveux"
 ---
 

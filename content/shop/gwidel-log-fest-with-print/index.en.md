@@ -1,5 +1,5 @@
 ---
-color: "ocean"
+color: sky
 title: "Gwidel Log Fest (zine + print)"
 subtitle: "Emgav longboard dre bedadenn"
 date: 2023-02-01
@@ -22,7 +22,7 @@ It is not about the action sport, more about the vibe and smiles you could find 
 
 This is the special edition with a limited A5 print. Please pick one in the two shown in the picture and tell me.
 
-Shipping included 
+Shipping included
 But you probably can have a special price if you wanna meet me instead.
 
 Those are limited prints, only 10 of each. First come, first serve. Tell me which one you want!
@@ -30,9 +30,9 @@ Those are limited prints, only 10 of each. First come, first serve. Tell me whic
 For the zine only: [It's here](/en/shop/gwidel-log-fest)
 
 <div class="text-sm">
-Description: <br/> 
-A6 Book<br/> 
-Matt laminated cover onto 300gsm Uncoated <br/> 
+Description: <br/>
+A6 Book<br/>
+Matt laminated cover onto 300gsm Uncoated <br/>
 42 pages onto 170gsm Uncoated
 </div>
 

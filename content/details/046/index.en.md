@@ -5,7 +5,7 @@ emoji: 😃
 letter: detail
 description: "A picture per week in your mailbox"
 date: 2023-06-09T00:00:00+01:00
-color: sunray
+color: yellow
 resources:
   - src: "cover.webp"
     name: "cover"

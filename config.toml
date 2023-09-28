@@ -12,6 +12,23 @@ canonifyURLs = false
 [build]
   writeStats = true
 [params]
+  themePalette = "frappe"
+  themeColors = [
+    "rosewater",
+    "flamingo",
+    "pink",
+    "mauve",
+    "red",
+    "maroon",
+    "peach",
+    "yellow",
+    "green",
+    "teal",
+    "sky",
+    "sapphire",
+    "blue",
+    "lavender"
+  ]
   backgroundColor = true
   ogURL = "https://og.yannickschutz.com"
   footer = "👋 Yannick - Have fun."

@@ -1,5 +1,5 @@
 ---
-color: accent
+color: yellow
 title: "Telling some stories"
 description: "Tiny stories, pictures, books and a cup of black coffee"
 summary: "Tiny stories, pictures, books and a cup of black coffee"

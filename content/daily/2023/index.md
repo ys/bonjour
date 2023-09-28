@@ -1,5 +1,5 @@
 ---
-color: coral
+color: peach
 title: "Détailler un beau quotidien • 2023"
 summary: "Des détails, des moments, un beau quotidien"
 date: "2023-01-01T01:01:01Z"

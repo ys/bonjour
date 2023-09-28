@@ -943,6 +943,11 @@
     "@babel/helper-validator-identifier" "^7.19.1"
     to-fast-properties "^2.0.0"
 
+"@catppuccin/tailwindcss@^0.1.6":
+  version "0.1.6"
+  resolved "https://registry.yarnpkg.com/@catppuccin/tailwindcss/-/tailwindcss-0.1.6.tgz#d97c491e1523ead83009e32d0a34c364c2a0ca5b"
+  integrity sha512-V+Y0AwZ5SSyvOVAcDl7Ng30xy+m82OKnEJ+9+kcZZ7lRyXuZrAb2GScdq9XR3v+ggt8qiZ/G4TvaC9cJ88AAXA==
+
 "@downwindcss/text-decoration@^1.1.1":
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/@downwindcss/text-decoration/-/text-decoration-1.1.1.tgz#870aec1cca0d6ce40140151cffae4b31d78ff8fe"

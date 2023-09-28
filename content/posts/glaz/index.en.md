@@ -8,7 +8,7 @@ tags: ["nikonos", "film", "nikonosproject", "dawn patrol", "kodak portra"]
 categories:
   - series
 slug: "nikonos-glaz"
-color: purpleheart
+color: mauve
 serie: true
 emoji: "🌊"
 resources:

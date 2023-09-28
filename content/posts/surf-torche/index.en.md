@@ -7,7 +7,7 @@ draft: false
 slug: "/surf-torche"
 camera: "Olympus XA"
 film: "Kodak Gold 200"
-color: sunray
+color: yellow
 place: "la Torche"
 emoji: "🏄‍♂️"
 resources:

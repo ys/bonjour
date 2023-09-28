@@ -6,7 +6,7 @@ categories:
 - mer
 draft: false
 description: ""
-color: purpleheart
+color: mauve
 emoji: "⛴"
 serie: false
 resources:

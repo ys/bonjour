@@ -10,7 +10,7 @@ resources:
   - src: "*.webp"
   - src: "4.webp"
     name: "cover"
-color: sunray
+color: yellow
 categories:
 - journal
 - livres

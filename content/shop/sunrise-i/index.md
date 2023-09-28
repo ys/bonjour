@@ -2,7 +2,7 @@
 title: "Sunrise I"
 grid: "cover"
 date: 2022-01-04
-color: "ocean"
+color: sky
 subtitle: "Nikonos V - Kodak Portra 400"
 pricetag: "50€"
 price: "50.00"

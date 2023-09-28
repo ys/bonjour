@@ -14,17 +14,20 @@ module.exports = {
       './hugo_stats.json'
     ],
   },
-  safeList: classes.concat([{ pattern: /hover:bg-\[.*\]/}]),
+  safelist: [
+    {
+      pattern: /bg-.*/,
+    },
+    {
+      pattern: /hover:bg-.*/,
+    },
+  ],
   plugins: [
+    require('@catppuccin/tailwindcss'),
     require('@tailwindcss/typography'),
     require('@tailwindcss/line-clamp'),
     require('@tailwindcss/forms'),
   ],
-  variants: {
-    extend: {
-      typography: ["dark"],
-    }
-  },
   theme: {
     extend: {
       fontFamily: {
@@ -60,22 +63,6 @@ module.exports = {
           "Segoe UI Emoji",
           "Segoe UI Symbol"
         ]
-      },
-      colors: {
-        fire: "#DD614A",
-        coral: "#FF7477",
-        tuscan: "#972D07",
-        sunray: '#EDC758',
-        accent: '#EDC758',
-        forest: "#4C9F70",
-        purpleheart: "#0d2fef",
-        jazzberry: "#b0014a",
-        rose: "#FF206E",
-        teal: "teal",
-        ocean: "#226ECE",
-        indigo: "#2B4162",
-        dark: "#2d2f34",
-        darker: "#1F2023"
       },
       typography: (theme) => ({
         sm: {
