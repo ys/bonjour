@@ -1,6 +1,7 @@
 ---
 favorite: true
 title: "La Californie"
+draft: true
 date: 2023-09-24T12:00:00+0200
 emoji: "🚙"
 categories:
