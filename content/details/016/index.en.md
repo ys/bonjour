@@ -5,7 +5,7 @@ emoji: 😃
 letter: detail
 description: "A picture per week in your mailbox"
 date: 2022-11-11T00:00:00+01:00
-color: jazzberry
+color: rosewater
 resources:
   - src: "cover.webp"
     name: "cover"

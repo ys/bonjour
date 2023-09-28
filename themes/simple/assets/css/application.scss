@@ -53,7 +53,7 @@
   @apply italic border-yellow font-normal;
 }
 
-$colors: yellow, red, blue, yellow, green, lavender, mauve, pink, teal, maroon, peach, sky;
+$colors: {{ range .Site.Params.themeColors }}{{.}}, {{end}};
 @each $color in $colors {
 
   .content-#{$color} .post blockquote {

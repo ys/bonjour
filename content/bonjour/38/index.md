@@ -10,7 +10,7 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: jazzberry
+color: rosewater
 title: "38 - Des scripts, de la pensée magique et moins de liens"
 slug: "38"
 summary: "J'avais envie de commencer en parlant un peu de moi. Je sais, je ne fais que ça. Moi, moi & moi. Un peu d'auto promo."

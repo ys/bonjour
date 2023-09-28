@@ -7,7 +7,7 @@ tags:
 - la lettre
 emoji: 💌
 title: "{{replace .Name "-" " " | title }} - "
-color: jazzberry
+color: rosewater
 slug: "{{.Name}}"
 resources:
   - src: "*.webp"

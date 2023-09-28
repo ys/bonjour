@@ -14,6 +14,14 @@ module.exports = {
       './hugo_stats.json'
     ],
   },
+  safelist: [
+    {
+      pattern: /bg-.*/,
+    },
+    {
+      pattern: /hover:bg-.*/,
+    },
+  ],
   plugins: [
     require('@catppuccin/tailwindcss'),
     require('@tailwindcss/typography'),

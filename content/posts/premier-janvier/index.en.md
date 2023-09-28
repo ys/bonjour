@@ -8,7 +8,7 @@ favorite: true
 categories:
 - analog
 slug: "first-of-january"
-color: indigo
+color: teal
 emoji: "🌊"
 resources:
 - src: "*.webp"

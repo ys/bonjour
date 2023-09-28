@@ -10,7 +10,7 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: jazzberry
+color: rosewater
 background: "[#F5DBCB]"
 title: "25 - Baguette, opportunités et un brin de magie"
 slug: "25"
