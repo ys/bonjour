@@ -11,7 +11,7 @@ tags:
 - la lettre
 emoji: 💌
 color: rosewater
-background: "[#F5DBCB]"
+
 title: "10 - Bouquins, caravanes et Z-Boys"
 slug: "10"
 summary: "Cette semaine, je suis tombé sur une vidéo de Matt Day qui est un photographe argentique. Il est pas mal actif sur Youtube."
