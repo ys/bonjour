@@ -11,7 +11,7 @@ tags:
 - la lettre
 emoji: 💌
 color: rosewater
-background: "[#F5DBCB]"
+
 title: "30 - Dave Grohl, des magazines et un mont analogue"
 slug: "30"
 ---

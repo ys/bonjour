@@ -11,7 +11,7 @@ tags:
 - la lettre
 emoji: 💌
 color: rosewater
-background: "[#F5DBCB]"
+
 title: "5 - Mauvaise religion, disette et chocolats"
 slug: "5"
 summary: "Bonjour, Halloween est derrière vous, Noël arrive tout doucement. Il est temps de sortir les décorations, de couper le sapin et tout ça. Si le gouvernement le permet. "

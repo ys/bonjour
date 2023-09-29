@@ -11,7 +11,7 @@ tags:
 - la lettre
 emoji: 💌
 color: rosewater
-background: "[#F5DBCB]"
+
 title: "36 - Du skate, de la nage et la terre comme seul actionnaire"
 slug: "36"
 summary: "C'est 2022 et Yannick commence enfin à écouter des podcasts. Je suis un peu lent sur l'adoption des tendances ou alors trop en avance parfois."

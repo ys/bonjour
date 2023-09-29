@@ -11,7 +11,7 @@ tags:
 - la lettre
 emoji: 💌
 color: rosewater
-background: "[#F5DBCB]"
+
 title: "34 - Du chaud, du corail et pas de banger"
 slug: "34"
 summary: "C'est l'été, la canicule et la Bretagne sèche. C'est une première et ça sent pas la dernière à voir notre trajectoire. Cette lettre commence bien non? Notre bon vieux Berlingo n'a plus de clim' en plus."

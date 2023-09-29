@@ -11,7 +11,7 @@ tags:
 - la lettre
 emoji: 💌
 color: rosewater
-background: "[#F5DBCB]"
+
 title: "11 - Des livres, du CSV et Mowgli"
 slug: "11"
 ---

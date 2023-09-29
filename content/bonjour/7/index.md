@@ -11,7 +11,7 @@ tags:
 - la lettre
 emoji: 💌
 color: rosewater
-background: "[#F5DBCB]"
+
 title: "7 - Crazy Horse, examen colorectal et rétrospective"
 slug: "7"
 summary: "Si vous ne vous rappelez pas de lui, c'est le gars qui parle de photo, café et autres joyeusetés mais qui est surtout en train de consommer beaucoup trop de bûches de Noël en ce moment."
