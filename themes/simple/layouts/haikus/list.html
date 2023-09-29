@@ -1,0 +1,19 @@
+{{ define "main" }}
+<div class="z-20 dark:prose-invert prose prose-sm mb-16 with-links relative">
+  {{ .Content }}
+</div>
+    {{ $paginator := (.Paginate (where .RegularPages ".Params.archived" "!=" true)  2500) }}
+    {{ range first 1 $paginator.Pages }}
+  <ul class="flex justify-between w-full">
+    <li class="group hover:font-bold page-item">
+      <a href="{{.RelPermalink}}"  class="page-link" aria-label="Previous">
+        <span aria-hidden="true">←</span> <span class="hidden ml-2 group-hover:inline transition-all delay-150 duration-300">{{.Title}}</span>
+      </a>
+    </li>
+    <li class="group hover:font-bold page-item disabled">
+      <a class="page-link" aria-label="Next">
+        <span class="hidden mr-2 group-hover:inline transition-all delay-150 duration-300"></span> <span aria-hidden="true">→</span></a>
+    </li>
+  </ul>
+  {{ end }}
+{{ end }}
