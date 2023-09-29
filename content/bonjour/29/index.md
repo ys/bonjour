@@ -11,7 +11,7 @@ tags:
 - la lettre
 emoji: 💌
 color: rosewater
-background: "[#F5DBCB]"
+
 title: "29 - Camping de luxe, volcans et Horcruxe"
 slug: "29"
 ---

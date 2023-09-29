@@ -11,7 +11,7 @@ tags:
 - la lettre
 emoji: 💌
 color: rosewater
-background: "[#F5DBCB]"
+
 title: "32 - La côte, des aquariums et 100km"
 slug: "32"
 summary: "Cela fait presque deux mois que je ne vous ai pas envoyé de petits mots doux. Les jours ont rallongé entre temps et pourtant je n'ai pas pris le temps de vous écrire. Vous m'en verrez fort désolé."

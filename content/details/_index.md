@@ -20,4 +20,4 @@ Un web plus lent, plus pull que push. Le plaisir de moins faire, le bonheur retr
 
 J'espère que cela vous inspirera ou, du moins, que cela vous plaira.
 
-{{< letter account="detail" accent="forest" msg="" >}}
+{{< letter account="detail" accent="green" msg="" >}}

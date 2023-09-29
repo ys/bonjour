@@ -11,7 +11,7 @@ tags:
 - la lettre
 emoji: 💌
 color: rosewater
-background: "[#F5DBCB]"
+
 title: "35 - marche rapide, non sens et des essais"
 slug: "35"
 summary: "On se rapproche doucement de mon âge (cfr le numéro de la lettre). Souvent, j'ai envie d'écrire puis j'oublie. Où alors, je pense n'avoir rien à dire"

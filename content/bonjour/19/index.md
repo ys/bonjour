@@ -11,7 +11,7 @@ tags:
 - la lettre
 emoji: 💌
 color: rosewater
-background: "[#F5DBCB]"
+
 title: "19 - Bidouille, activisme et cannette"
 slug: "19"
 ---

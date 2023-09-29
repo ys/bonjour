@@ -11,7 +11,7 @@ tags:
 - la lettre
 emoji: 💌
 color: rosewater
-background: "[#F5DBCB]"
+
 title: "26 - Cantine, papier et Aziz Ansari"
 slug: "26"
 ---

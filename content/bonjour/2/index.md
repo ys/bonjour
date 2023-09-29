@@ -11,7 +11,7 @@ tags:
 - la lettre
 emoji: 💌
 color: rosewater
-background: "[#F5DBCB]"
+
 title: "2 - Fire lookout, auto portraits et photo de chasse"
 slug: "2"
 summary: "Cette lettre me permet d'écrire et d'expérimenter plus que sur le blog. J'avais envie de partager avec vous différemment. "

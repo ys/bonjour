@@ -11,7 +11,7 @@ tags:
 - la lettre
 emoji: 💌
 color: rosewater
-background: "[#F5DBCB]"
+
 title: "12 - Du web, des beaux mots et aussi des liens"
 slug: "12"
 ---
