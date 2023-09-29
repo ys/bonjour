@@ -10,7 +10,7 @@ tags:
 - la lettre
 emoji: 💌
 color: rosewater
-background: "[#F5DBCB]"
+
 title: "21 - Camping perdu, début d'été et LSD"
 slug: "21"
 ---

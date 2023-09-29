@@ -1,5 +1,5 @@
 ---
-background: true
+
 color: mauve
 title: "Bonjour Nikonos V"
 subtitle: "De l'eau salée sur l'objectif"
