@@ -11,6 +11,7 @@ menu:
 linktitle: "2022"
 ---
 
-Si je devais décrire ma pratique photo, je pense que j'adore **rendre beau le mondain.**
-Sublimer l'ordinaire et en faire des grandes histoires. J'ai toujours apprécier inventer des histoires à partir de rien.
-Voyez cela comme une **célébration de tous ces petits moments** qui ne vous marquent pas toujours.
+J'adore **rendre beau l'anodin.**  
+Faire des grandes histoires de petites choses.  
+J'aime inventer des histoires à partir de rien.  
+Une **célébration des petits moments** qui ne marquent pas.  

@@ -13,9 +13,26 @@ resources:
   name: "cover"
 ---
 
-Yannick aime [raconter des histoires](/posts) simples, [capturer des moments ](/daily) anodins et les rendre beaux. Il se balade souvent avec un appareil argentique, un stylo et un carnet.
-Il aime écrire une [petite lettre](/bonjour) qui parle de tout et de rien.
-Il produit aussi [des tirages limités](/shop) de ses photos favorites. Il aime cette forme de lenteur et l'odeur du papier. Il a décidé d'envoyer [une photo par semaine](/details).
+**Bonjour**, moi c'est **Yannick**.  
+
+J'aime  
+&nbsp;&nbsp;[Raconter des histoires](/posts) simples,  
+&nbsp;&nbsp;[Capturer des moments](/daily) anodins et les rendre beaux.   
+
+Je me balade souvent avec  
+&nbsp;&nbsp;&nbsp;Un appareil argentique,  
+&nbsp;&nbsp;&nbsp;Un stylo  
+&nbsp;&nbsp;&nbsp;Et un carnet.    
+
+J'aime aussi  
+&nbsp;&nbsp;Écrire une [petite lettre](/bonjour) qui parle de tout et de rien,  
+&nbsp;&nbsp;Produire [des zines ou des tirages photos limités](/shop),  
+&nbsp;&nbsp;Envoyer [une photo par semaine](/details) (Cela revient vite).
+
+J'aime **cette forme de lenteur et l'odeur du papier.**  
 
 ![](22x50-0925-06)
+
+Parfois, je m'exprime en [Haikus](/haikus)
+
 
