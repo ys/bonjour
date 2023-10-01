@@ -15,20 +15,14 @@ resources:
 
 **Bonjour**, moi c'est **Yannick**.  
 
-J'aime  
-&nbsp;&nbsp;[Raconter des histoires](/posts) simples,  
-&nbsp;&nbsp;[Capturer des moments](/daily) anodins et les rendre beaux.   
+J'aime [Raconter des histoires](/posts) simples,  
+[Capturer des moments](/daily) anodins et les rendre beaux.   
+Je me balade souvent avec un appareil argentique,  
+Un stylo et un carnet.    
 
-Je me balade souvent avec  
-&nbsp;&nbsp;&nbsp;Un appareil argentique,  
-&nbsp;&nbsp;&nbsp;Un stylo  
-&nbsp;&nbsp;&nbsp;Et un carnet.    
-
-J'aime aussi  
-&nbsp;&nbsp;Écrire une [petite lettre](/bonjour) qui parle de tout et de rien,  
-&nbsp;&nbsp;Produire [des zines ou des tirages photos limités](/shop),  
-&nbsp;&nbsp;Envoyer [une photo par semaine](/details) (Cela revient vite).
-
+J'aime aussi écrire une [petite lettre](/bonjour) qui parle de tout et de rien,  
+Produire [des zines ou des tirages photos limités](/shop),  
+Envoyer [une photo par semaine](/details) (Cela revient vite).  
 J'aime **cette forme de lenteur et l'odeur du papier.**  
 
 ![](22x50-0925-06)
