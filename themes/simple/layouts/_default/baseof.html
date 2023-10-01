@@ -24,7 +24,7 @@
 </head>
 
   <body
-      class="{{ .Site.Params.themePalette}} content-{{$.Scratch.Get "color" }} font-mono  antialiased  dark:bg-crust dark:text-white text-crust {{if or .Params.backgroundColor $.Site.Params.backgroundColor }}{{with .Params.background}}bg-{{.}} {{end}} bg-gradient-to-b from-{{$.Scratch.Get "color" }}/10 to-{{$.Scratch.Get "color"}}/80 selection:bg-opacity-20 selection:bg-{{$.Scratch.Get "color"}}{{else}}selection:bg-{{$.Scratch.Get "color"}} selection:bg-opacity-20{{end}}">
+      class="{{ .Site.Params.themePalette}} content-{{$.Scratch.Get "color" }} font-mono  antialiased  dark:bg-crust dark:text-white text-crust {{if or .Params.backgroundColor $.Site.Params.backgroundColor }}{{with .Params.background}}bg-{{.}} {{end}} {{if .Site.Params.gradient }}bg-gradient-to-b from-{{$.Scratch.Get "color" }}/10 to-{{$.Scratch.Get "color"}}/80{{else}} bg-{{$.Scratch.Get "color" }}/10 {{end}} selection:bg-opacity-20 selection:bg-{{$.Scratch.Get "color"}}{{else}}selection:bg-{{$.Scratch.Get "color"}} selection:bg-opacity-20{{end}}">
 
     {{ if not .Params.textOnly }}
     {{ partial "header" . }}
