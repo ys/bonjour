@@ -72,8 +72,8 @@ class Downloader
     liked = raindrop.liked
     liked.each do |l|
       puts "📄 #{l["title"]}"
-      e = raindrop.parse(l["link"])
-      l["parsed"] = e
+      # e = raindrop.parse(l["link"])
+      l["parsed"] = {}
     end
     File.write("data/liked.yml", YAML.dump(liked))
   end
