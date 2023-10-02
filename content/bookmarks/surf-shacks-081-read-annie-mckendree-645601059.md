@@ -6,9 +6,7 @@ headImage: https://rdl.ink/render/https%3A%2F%2Findoek.com%2Farticle%2Fsurf-shac
 title: Surf Shacks 081 – Read + Annie McKendree
 domain: indoek.com
 description: 
-tags:
-- indoek
-- matt titone
+tags: []
 date: '2023-01-26T19:44:57.253Z'
 highlights: 
 ---

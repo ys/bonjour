@@ -6,8 +6,7 @@ headImage: https://rdl.ink/render/https%3A%2F%2Fwww.robinrendle.com%2Fessays%2Fi
 title: In Praise of Shadows
 domain: robinrendle.com
 description: 
-tags:
-- robin rendle
+tags: []
 date: '2023-01-26T19:49:05.238Z'
 highlights: 
 ---

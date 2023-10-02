@@ -5,9 +5,8 @@ category: article
 headImage: https://craigmod.com/ridgeline/images/153/153.jpg
 title: The Sorta Kinda Life Changing Bliss of Walking Solo
 domain: craigmod.com
-description: Why I mostly walk alone
-tags:
-- craig mod
+description: 
+tags: []
 date: '2023-01-26T19:53:18.632Z'
 highlights: 
 ---

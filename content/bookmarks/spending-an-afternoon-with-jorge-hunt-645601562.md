@@ -6,9 +6,7 @@ headImage: https://i.vimeocdn.com/video/870174605-b306a829e7dea6aa06eaf6b9dd54c2
 title: Spending an afternoon with Jorge Hunt
 domain: vimeo.com
 description: 
-tags:
-- vimeo
-- wooden film
+tags: []
 date: '2023-03-09T12:07:13.598Z'
 highlights: 
 ---

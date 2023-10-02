@@ -6,12 +6,8 @@ headImage: https://img.lemde.fr/2021/09/13/313/0/997/664/1440/960/60/0/7c6078c_1
 title: Emmanuel Cappellin, le documentariste qui en savait trop sur l’avenir de la
   planète
 domain: lemonde.fr
-description: Chef opérateur de Yann Arthus-Bertrand, le réalisateur signe un premier
-  film sur l’urgence climatique, « Une fois que tu sais », ou comment vivre au quotidien
-  quand on connaît l’ampleur des dégâts.
-tags:
-- m le mag
-- le monde.fr
+description: 
+tags: []
 date: '2023-01-26T19:46:24.447Z'
 highlights: 
 ---

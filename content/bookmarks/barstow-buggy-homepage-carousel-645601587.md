@@ -6,9 +6,7 @@ headImage: https://i.vimeocdn.com/video/1439666761-098946e9b178a0cf130607fccb4f4
 title: Barstow Buggy - Homepage Carousel
 domain: vimeo.com
 description: 
-tags:
-- vimeo
-- mollusk surf shop
+tags: []
 date: '2023-03-25T21:17:44.278Z'
 highlights: 
 ---

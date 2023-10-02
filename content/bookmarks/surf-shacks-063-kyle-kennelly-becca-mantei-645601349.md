@@ -6,9 +6,7 @@ headImage: https://indoek.com/wp-content/uploads/2018/08/Indoek-Surf-Shacks-Kyle
 title: Surf Shacks 063 – Kyle Kennelly + Becca Mantei
 domain: indoek.com
 description: 
-tags:
-- indoek
-- matt titone
+tags: []
 date: '2023-01-26T19:48:38.115Z'
 highlights: 
 ---

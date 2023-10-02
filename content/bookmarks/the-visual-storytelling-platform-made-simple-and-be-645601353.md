@@ -5,19 +5,8 @@ category: link
 headImage: https://exposure-marketing.accelerator.net/open-graph-image.png
 title: The visual storytelling platform made simple and beautiful
 domain: theprimalrevolution.exposure.co
-description: Exposure is a modern publishing platform for photographers and visual
-  storytellers. It’s the simple way to create and share your unique photo stories.
-tags:
-- photos
-- photography
-- stories
-- storytelling
-- photo essay
-- photo sharing
-- photo website
-- gallery
-- galleries
-- exposure
+description: 
+tags: []
 date: '2023-01-26T19:48:41.638Z'
 highlights: 
 ---

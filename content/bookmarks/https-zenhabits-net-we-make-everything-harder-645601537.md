@@ -5,7 +5,7 @@ category: link
 headImage: ''
 title: https://zenhabits.net/we-make-everything-harder/
 domain: zenhabits.net
-description: ''
+description: 
 tags: []
 date: '2023-02-24T17:10:21.902Z'
 highlights: 

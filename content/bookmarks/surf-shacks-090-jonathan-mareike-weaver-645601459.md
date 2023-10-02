@@ -6,9 +6,7 @@ headImage: https://indoek.com/wp-content/uploads/2022/11/Indoek-Surf-Shacks-Jona
 title: Surf Shacks 090 – Jonathan + Mareike Weaver
 domain: indoek.com
 description: 
-tags:
-- indoek
-- matt titone
+tags: []
 date: '2023-01-26T19:51:55.032Z'
 highlights: 
 ---

@@ -6,14 +6,8 @@ headImage: https://i.guim.co.uk/img/media/b0f584fc7924639b8529ff9ff8a39c45fc2908
 title: "‘I didn’t even know this was humanly possible’: the woman who can descend
   into the sea on one breath"
 domain: theguardian.com
-description: Scientists once thought humans could swim to a maximum depth of 30m on
-  a single breath. Amber Bourke has gone deeper than 70m and physiology alone can’t
-  explain why
-tags:
-- society
-- diving
-- sport
-- the guardian
+description: 
+tags: []
 date: '2023-01-26T19:48:41.102Z'
 highlights: 
 ---

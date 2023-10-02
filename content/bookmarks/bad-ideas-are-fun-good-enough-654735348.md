@@ -9,8 +9,7 @@ description: |-
   Once I was complaining to Arun about how hard it is to come up with ideas, and he pointed out that coming up with ideas is actually very easy––what makes it hard is that we’re aiming for good ideas.
   The next time you're coming up with ideas, tell yourself, Forget about good ideas, let's come up with a list of ten bad ideas. The dumber the better! I bet you’ll find that easy.
   And once you loosen up your brain by coming up with ten bad ideas, some good ideas may follow.
-tags:
-- good enough
+tags: []
 date: '2023-10-01T16:02:49.051Z'
 highlights: 
 ---

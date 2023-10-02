@@ -35,9 +35,7 @@ description: |-
   John Marello
   Canaan Hernandez
   Robin Wilson
-tags:
-- youtube
-- lakai footwear
+tags: []
 date: '2023-09-29T18:44:37.094Z'
 highlights: 
 ---

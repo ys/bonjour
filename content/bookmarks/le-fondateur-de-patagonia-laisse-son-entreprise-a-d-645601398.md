@@ -6,13 +6,8 @@ headImage: https://img.lemde.fr/2022/09/15/162/0/1501/1000/1440/960/60/0/32a188e
 title: Le fondateur de Patagonia laisse son entreprise à Dame Nature, sans cession
   ni introduction en Bourse
 domain: lemonde.fr
-description: Les dividendes de l’entreprise de vêtements de plein air fondée par Yvon
-  Chouinard financeront désormais les actions destinées à lutter contre le réchauffement
-  climatique, à hauteur de 100 millions de dollars par an.
-tags:
-- économie
-- le monde.fr
-- juliette garnier
+description: 
+tags: []
 date: '2023-01-26T19:49:21.881Z'
 highlights: 
 ---

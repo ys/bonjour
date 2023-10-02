@@ -13,8 +13,7 @@ description: "We made a zine!\nThe first issue was released in August, and I fin
   terrible idea!\nWhy so terrible? Because making a zine is a sh*t ton of work. (I
   know—I've made several issues of a comics zine, and it is a lot of work!) And really,
   who's reading zines these days and who cares about what we're doing at Good Enough?"
-tags:
-- good enough
+tags: []
 date: '2023-10-01T21:21:14.871Z'
 highlights: 
 ---

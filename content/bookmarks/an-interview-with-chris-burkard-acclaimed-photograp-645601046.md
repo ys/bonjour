@@ -7,13 +7,7 @@ title: An interview with Chris Burkard, acclaimed photographer, Huckberry Ambass
   and overall outstanding guy
 domain: huckberry.com
 description: 
-tags:
-- surfing
-- ambassador
-- interview
-- video
-- huckberry
-- huckberry staff
+tags: []
 date: '2023-01-26T19:44:49.219Z'
 highlights: 
 ---

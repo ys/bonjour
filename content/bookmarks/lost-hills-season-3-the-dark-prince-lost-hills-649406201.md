@@ -9,8 +9,7 @@ description: 'There’s an evil undercurrent that runs through the surf world, a
   all leads back to the Dark Prince of Malibu: Miki Dora. A surfer who ruled Malibu
   from the 1950s to the 1970s, he was also a con man and led the FBI on a 7-year manhunt
   around the world.'
-tags:
-- pushkin industries
+tags: []
 date: '2023-09-20T13:00:07.778Z'
 highlights: 
 ---

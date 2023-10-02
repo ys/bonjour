@@ -5,10 +5,8 @@ category: article
 headImage: https://images.freeskatemag.com/wp-content/uploads/2023/06/13100836/whatsapp-image-2023-06-12-at-14-12-07.jpg
 title: Skating and Writing towards Mental Wellbeing
 domain: freeskatemag.com
-description: Plus info about upcoming writing workshops with the Ben Raemers Foundation
-tags:
-- free skate magazine
-- will
+description: 
+tags: []
 date: '2023-07-11T20:30:32.584Z'
 highlights: 
 ---

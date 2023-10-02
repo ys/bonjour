@@ -6,9 +6,7 @@ headImage: https://rdl.ink/render/https%3A%2F%2Findoek.com%2Farticle%2Fsurf-shac
 title: Surf Shacks 086 – Raph Bruhwiler
 domain: indoek.com
 description: 
-tags:
-- indoek
-- matt titone
+tags: []
 date: '2023-01-26T19:46:10.337Z'
 highlights: 
 ---

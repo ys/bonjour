@@ -6,8 +6,7 @@ headImage: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:
 title: 'Issue #39 Live Simply: The Complicated Truth'
 domain: miscellaneousadventures.substack.com
 description: On the perils, pitfalls and joys of choosing a life lived close to Nature
-tags:
-- miscellaneous adventures
+tags: []
 date: '2023-09-29T08:58:22.855Z'
 highlights: |-
   Many aspects of our lives are intentionally slow. We have rejected the traditional path, the daily grind, the rat-race and instead opted to try and make a living doing things we love. We do not strive for material wealth, we strive for time in Nature. We live in a world of beauty and wonder, shaped by forces of unfathomable magnitude and we refuse to let society blind us to that fact.

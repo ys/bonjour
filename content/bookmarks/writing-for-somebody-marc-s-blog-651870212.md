@@ -6,8 +6,7 @@ headImage: https://rdl.ink/render/https%3A%2F%2Fbrooker.co.za%2Fblog%2F2023%2F09
 title: Writing For Somebody - Marc's Blog
 domain: brooker.co.za
 description: 
-tags:
-- marc brooker
+tags: []
 date: '2023-09-25T18:22:42.630Z'
 highlights: 
 ---

@@ -5,13 +5,8 @@ category: article
 headImage: https://img.lemde.fr/2022/03/03/0/0/5467/3644/1440/960/60/0/302c5f1_1646319320629-p750m2100688.jpeg
 title: Tous écolo-imparfaits ! Nos petits arrangements avec la culpabilité écologique
 domain: lemonde.fr
-description: Devenir végan, faire pipi sous la douche, acheter en vrac… Des efforts
-  plus ou moins contraignants qui contribuent à la lutte contre le changement climatique.
-  Mais faut-il pour autant se flageller dès la première entorse à ses éco-principes ?
-tags:
-- l'époque
-- le monde.fr
-- maroussia dubreuil
+description: 
+tags: []
 date: '2023-01-26T19:48:07.499Z'
 highlights: 
 ---

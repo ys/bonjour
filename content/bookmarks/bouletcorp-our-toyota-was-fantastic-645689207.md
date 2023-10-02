@@ -6,9 +6,7 @@ headImage: https://rdl.ink/render/https%3A%2F%2Fenglish.bouletcorp.com%2F2013%2F
 title: Bouletcorp » Our Toyota was Fantastic.
 domain: english.bouletcorp.com
 description: 
-tags:
-- bouletcorp
-- boulet
+tags: []
 date: '2023-09-12T14:40:49.732Z'
 highlights: 
 ---

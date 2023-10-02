@@ -6,8 +6,7 @@ headImage: http://static1.squarespace.com/static/5d1c7e94b321ce00012f3f52/t/5d20
 title: Capitaine Léa — Mégane Murgia
 domain: meganemurgia.com
 description: 
-tags:
-- mégane murgia
+tags: []
 date: '2023-01-26T19:45:48.733Z'
 highlights: 
 ---

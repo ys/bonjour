@@ -5,7 +5,7 @@ category: article
 headImage: https://ghost.fabrizio.so/content/images/2021/08/2020.png
 title: 20 things I've learned in 2020
 domain: fabrizio.so
-description: Not a 2020 review.
+description: 
 tags: []
 date: '2023-01-26T19:46:13.710Z'
 highlights: 

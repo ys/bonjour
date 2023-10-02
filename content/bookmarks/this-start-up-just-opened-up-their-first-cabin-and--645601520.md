@@ -5,11 +5,8 @@ category: article
 headImage: http://images.ctfassets.net/r7p9m4b1iqbp/5lIM9CmBSJZINBNaAA7ewu/21203a3b6c138daf9ea8ef2865a94731/Offsite-Catskill-Cabin-Thumb.jpg?w=1000
 title: This Start-Up Just Opened Up their First Cabin, and I Got to Stay
 domain: fieldmag.com
-description: With their first cabin just 2 hours north of NYC, the remote work oriented
-  cabin rental startup offers outdoorsy lodging without the need to unplug
-tags:
-- field mag
-- ellen eberhardt
+description: 
+tags: []
 date: '2023-02-02T16:37:20.567Z'
 highlights: 
 ---

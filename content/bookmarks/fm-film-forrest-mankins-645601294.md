@@ -6,8 +6,7 @@ headImage: http://static1.squarespace.com/static/540629b5e4b0c094f2dfeca5/t/5dee
 title: FM FILM — Forrest Mankins
 domain: forrestmankins.com
 description: 
-tags:
-- forrest mankins
+tags: []
 date: '2023-01-26T19:47:48.488Z'
 highlights: 
 ---

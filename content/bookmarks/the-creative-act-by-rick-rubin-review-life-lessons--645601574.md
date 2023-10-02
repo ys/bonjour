@@ -6,19 +6,8 @@ headImage: https://i.guim.co.uk/img/media/6621d804a87a68a6de3f37441e59a8a6f194e6
 title: The Creative Act by Rick Rubin review – life lessons from the bearded beat
   master
 domain: theguardian.com
-description: The co-founder of Def Jam Records and the man behind countless hits,
-  from the Beastie Boys and Jay-Z to Neil Young, offers artistic wisdom that is both
-  gnomic and pertinent
-tags:
-- music books
-- books
-- music
-- hip-hop
-- rap
-- rick rubin
-- culture
-- pop and rock
-- the guardian
+description: 
+tags: []
 date: '2023-03-14T08:39:28.760Z'
 highlights: 
 ---

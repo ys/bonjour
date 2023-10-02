@@ -6,9 +6,7 @@ headImage: https://www.newphilosopher.com/wp-content/uploads/2020/04/apocoloptim
 title: Apocaloptimism
 domain: newphilosopher.com
 description: 
-tags:
-- new philosopher
-- oliver burkeman
+tags: []
 date: '2023-01-26T19:47:19.830Z'
 highlights: 
 ---

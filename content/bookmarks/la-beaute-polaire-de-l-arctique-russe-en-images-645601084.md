@@ -5,20 +5,8 @@ category: article
 headImage: https://static.nationalgeographic.fr/files/styles/image_3200/public/arctic-life-lighthouse.jpg?w=1600&h=1067
 title: La beauté polaire de l'Arctique russe en images
 domain: nationalgeographic.fr
-description: Une photographe russe renoue avec ses racines et nous fait découvrir
-  les vies et légendes figées à jamais.
-tags:
-- voyage
-- région polaire
-- aurores
-- toundra
-- morse
-- traditions
-- chasse
-- météorologie
-- actualités
-- national geographic
-- "@natgeofrance"
+description: 
+tags: []
 date: '2023-01-26T19:45:15.875Z'
 highlights: 
 ---
