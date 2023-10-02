@@ -6,9 +6,7 @@ headImage: https://i.vimeocdn.com/video/1573396232-ec2c96a5e46f2ba896df7de58c058
 title: Daniel Rodriguez - Mixtape Live From The TS Valencia Flagship Store
 domain: vimeo.com
 description: 
-tags:
-- vimeo
-- taylor stitch
+tags: []
 date: '2023-02-10T14:46:32.421Z'
 highlights: 
 ---

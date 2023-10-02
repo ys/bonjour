@@ -8,8 +8,7 @@ domain: trendymood.com
 description: Il y a quelque temps, j’ai commencé à suivre une directrice artistique
   photo, Emily Keegin, hyper intéressante qui analyse régulièrement des séries et
   tendances photo.
-tags:
-- noemi
+tags: []
 date: '2023-09-29T09:23:34.908Z'
 highlights: 
 ---

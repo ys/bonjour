@@ -6,9 +6,7 @@ headImage: https://rdl.ink/render/https%3A%2F%2Fwww.maison-tangible.fr%2Fjournal
 title: Journal – Silence ! La routourne
 domain: maison-tangible.fr
 description: 
-tags:
-- maison tangible
-- aurelien
+tags: []
 date: '2023-02-01T15:43:44.674Z'
 highlights: 
 ---

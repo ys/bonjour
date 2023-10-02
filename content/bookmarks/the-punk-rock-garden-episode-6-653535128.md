@@ -19,9 +19,7 @@ description: "They say the apple doesn’t fall far from the tree, and Heath Jos
   Patagonia: At Patagonia, we appreciate that all life on earth is under threat of
   extinction. We’re using the resources we have – our business, our investments, our
   voice and our imaginations – to do something about it."
-tags:
-- youtube
-- patagonia
+tags: []
 date: '2023-09-28T20:24:56.444Z'
 highlights: 
 ---

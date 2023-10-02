@@ -5,11 +5,8 @@ category: article
 headImage: https://longboardermagazine.com/wp-content/uploads/2022/11/beachppl.jpg
 title: Art by Izzy - Longboarder Magazine
 domain: longboardermagazine.com
-description: Vans team rider and professional longboarder Izzy Henshall shares her
-  latest art work with Longboarder Magazine. Enjoy.
-tags:
-- longboarder magazine
-- chris thomson
+description: 
+tags: []
 date: '2023-01-26T19:52:40.839Z'
 highlights: 
 ---

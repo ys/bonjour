@@ -6,9 +6,7 @@ headImage: https://i.vimeocdn.com/video/1607991970-146a4ae83a2072daf23960f9f9657
 title: Bali Sojourn
 domain: vimeo.com
 description: 
-tags:
-- vimeo
-- mollusk surf shop
+tags: []
 date: '2023-03-25T21:01:53.514Z'
 highlights: 
 ---

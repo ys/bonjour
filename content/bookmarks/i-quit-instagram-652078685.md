@@ -6,8 +6,7 @@ headImage: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:
 title: I quit Instagram
 domain: marleegrace.substack.com
 description: Leaving a practice behind
-tags:
-- marlee grace
+tags: []
 date: '2023-09-26T07:38:19.621Z'
 highlights: Talking to my neighbor about poop felt so much better than being addicted
   to my phone

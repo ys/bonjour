@@ -5,11 +5,8 @@ category: article
 headImage: https://julian.digital/wp-content/uploads/2020/09/spatialnotespreview-1.png
 title: A Meta-Layer for Notes
 domain: julian.digital
-description: What's the digital equivalent of sticky notes?
-tags:
-- berlin
-- julian.digital
-- julian
+description: 
+tags: []
 date: '2023-01-26T19:45:59.177Z'
 highlights: 
 ---
