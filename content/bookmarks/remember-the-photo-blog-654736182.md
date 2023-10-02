@@ -9,8 +9,7 @@ description: |-
   I'm going to toy with an old school post in the style of the 2000s. This post inspired by someone else's blog post. Skoobs writes:
 
   I’ve had a dedicated phot...
-tags:
-- blog
+tags: []
 date: '2023-10-01T16:09:28.473Z'
 highlights: 
 ---

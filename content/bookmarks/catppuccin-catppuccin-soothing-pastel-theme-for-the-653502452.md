@@ -7,8 +7,7 @@ title: "catppuccin/catppuccin: \U0001F638 Soothing pastel theme for the high-spi
 domain: github.com
 description: "\U0001F638 Soothing pastel theme for the high-spirited! Contribute to
   catppuccin/catppuccin development by creating an account on GitHub."
-tags:
-- github
+tags: []
 date: '2023-09-28T18:34:12.859Z'
 highlights: 
 ---

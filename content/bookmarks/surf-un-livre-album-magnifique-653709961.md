@@ -9,9 +9,7 @@ description: '"J''ignore pourquoi j''ai été - et suis toujours - à ce point h
   par le surf". Ces mots sont de Kelly Slater, le meilleur surfeur de tous les temps.
   Kelly Slater qui signe la préface d''un livre album magnifique qui vient de paraître
   chez Albin Michel.'
-tags:
-- arts et divertissement
-- france inter
+tags: []
 date: '2023-09-29T07:33:32.914Z'
 highlights: 
 ---

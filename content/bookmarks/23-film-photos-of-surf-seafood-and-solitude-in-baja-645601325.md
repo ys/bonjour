@@ -5,11 +5,8 @@ category: article
 headImage: http://images.ctfassets.net/r7p9m4b1iqbp/5asFhtf8ePj6JFmoDEu3nD/0f2edc914b103b44eb75cc5fdd1330a5/Brian-Chorski-Baja-Mexico-Hero.jpg?w=1000
 title: 23 Film Photos of Surf, Seafood, and Solitude in Baja Norte
 domain: fieldmag.com
-description: 23 film photos document a living daydream along the Pacific coast of
-  Baja California
-tags:
-- field mag
-- brian chorski
+description: 
+tags: []
 date: '2023-01-26T19:48:18.191Z'
 highlights: 
 ---
