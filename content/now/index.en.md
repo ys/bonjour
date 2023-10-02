@@ -11,8 +11,8 @@ resources:
   - src: "*.webp"
 menu:
   main:
-    weight: 5
-linktitle: "something about me"
+    weight: 6
+linktitle: "About"
 ---
 
 Hey folks, I am Yannick. I really enjoy **telling stories and capturing the mundane moments of life.**

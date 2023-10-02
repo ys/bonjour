@@ -4,8 +4,8 @@ description: "Amazing pictures on gorgeous paper"
 emoji: "💸"
 menu:
   main:
-    weight: 7
-linktitle: "a little shop"
+    weight: 5
+linktitle: "Shop"
 ---
 
 Beautiful prints on great paper, sometimes in a frame, sometimes in a zine.
