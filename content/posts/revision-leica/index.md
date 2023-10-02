@@ -24,4 +24,4 @@ Quel soulagement. Il est reparti pour vingt ans.
 
 Faites réviser vos appareils!
 
-![](cover)
+![Photo par Grégory Mignard](cover)
