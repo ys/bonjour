@@ -1,7 +1,7 @@
 {{ define "main" }}
-<div class="z-20 dark:prose-invert prose mb-16 with-links relative">
-  {{ .Content }}
-</div>
+<header class="z-20 dark:prose-invert prose mb-16 with-links relative">
+  <h2>{{ partial "emoji" . }} 404, à la place des posts récents</h2>
+</header>
 <div class="flex flex-col">
     {{ range first 4 (where .Site.RegularPages ".Params.favorite" true) }}
       {{ $color := "accent" }}
