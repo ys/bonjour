@@ -39,10 +39,8 @@ Je suis tombé sur ce lien de Steph Ango. Un petit rappel du comment bien achete
 
 Bien souvent, on parle du moins mais mieux. C'est exactement ceci. Que privilégier lors de l'achat. Parfois, cela ne sera pas le coût par usage mais le nombre de sourires que la chose nous procure. Tant que ces choix sont conscients, on devient de meilleurs consommateurs.
 
-Et en dernier, un [trailer](https://www.youtube.com/watch?v=Q2aTi0BQXek) du dernier Miyazaki. L'homme qui faisait comme les chats. Il sait pas trop si il continue ou si il arrête. En tout cas, ce trailer me met déjà en joie et en pleurs pour le film. Cela à l'air d'être encore un magnifique drame dans un monde proche mais parallèle. J'ai hâte de le voir!
+Voilà c'est déjà tout pour ce jeudi,
 
-Voilà c'est déjà tout pour ce mercredi,
-
-À bientôt et bonne soirée à vous,
+À bientôt et bonne journée à vous,
 
 Yannick
