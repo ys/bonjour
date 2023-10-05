@@ -6,7 +6,7 @@ newsletter: true
 tags:
 - la lettre
 emoji: 💌
-title: "47 - L'ennui, des mickeys et un héron"
+title: "47 - L'ennui, des mickeys et un sourire"
 color: rosewater
 slug: "47"
 resources:
