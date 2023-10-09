@@ -9,3 +9,5 @@
   <script src="{{ $js.RelPermalink }}"></script>
 {{ end }}
 <script defer src="/_vercel/insights/script.js"></script>
+{{- $hearts := resources.Get "js/hearts.js" -}}
+<script defer src="{{$hearts.RelPermalink}}" type="module"></script>
