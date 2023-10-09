@@ -1,7 +1,7 @@
 ---
 color: peach
-title: "Détailler un beau quotidien • 2021"
-summary: "Des détails, des moments, un beau quotidien"
+title: "Capturing details of a beautiful daily life • 2021"
+subtitle: "Some beautiful moments of my everyday life"
 date: "2021-01-01T01:01:01Z"
 skip: "cover.png"
 slug: "2021"
@@ -10,8 +10,7 @@ menu:
     weight: 3
 linktitle: "2021"
 ---
-
-J'adore **rendre beau l'anodin.**  
-Faire des grandes histoires de petites choses.  
-J'aime inventer des histoires à partir de rien.  
-Une **célébration des petits moments** qui ne marquent pas.  
+Whatever you do, get in the water on the first day of the year. 
+If you can snap a few shots, even better.
+We drove the camper around Brittany, spent a few days in Paris, but mostly stayed in Brittany.
+It is still full of surprises. Friends coming and visiting, swimming, surfing, just good moments. 

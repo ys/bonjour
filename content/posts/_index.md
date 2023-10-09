@@ -1,7 +1,8 @@
 ---
 color: yellow
-title: "Raconter Des histoires"
-description: "Des histoires simples, des photos, des livres & une bonne tasse de café."
+title: "Telling some stories"
+description: "Tiny stories, pictures, books and a cup of black coffee"
+summary: "Tiny stories, pictures, books and a cup of black coffee"
 date: 2017-10-26T22:57:50+02:00
 draft: false
 resources:
@@ -9,7 +10,7 @@ resources:
 menu:
   main:
     weight: 4
-linktitle: "des mots"
+linktitle: "Words"
 ---
 
-Toute une série d'articles sur des sujets divers et variés allant de la photo au café en passant par la randonnée, la lecture et de la philosophie personnelle de vie. Des moments de vie, des moments à l'eau, en texte et en photos. N'hésitez pas à vous abonner au [flux RSS](/index.xml)
+A whole lot of articles about anything. It goes from photography to coffee and sometimes walking, hiking, reading and personal life philosophy. Simple moments of life, simple moments in the water, shared in text and pictures. Don't hesitate to subscribe via [RSS](/index.xml).

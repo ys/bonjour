@@ -1,7 +1,7 @@
 ---
 color: peach
-title: "Détailler un beau quotidien • 2022"
-summary: "Des détails, des moments, un beau quotidien"
+title: "Capturing details of a beautiful daily life • 2022"
+subtitle: "Some beautiful moments of my everyday life"
 date: "2022-01-01T01:01:01Z"
 skip: "cover.png"
 slug: "2022"
@@ -11,7 +11,7 @@ menu:
 linktitle: "2022"
 ---
 
-J'adore **rendre beau l'anodin.**  
-Faire des grandes histoires de petites choses.  
-J'aime inventer des histoires à partir de rien.  
-Une **célébration des petits moments** qui ne marquent pas.  
+2022, Started in Lanzarote, ended in Morocco.
+So many moments spent making Douarenn the beautiful place it is now.
+Surfed in les Landes, Biked in Finistère with Friends. 
+We drove to Belgium to visit family. So many good moments with great people.  

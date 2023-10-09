@@ -9,13 +9,14 @@ menu:
 linktitle: "😃 Détail"
 ---
 
-*Détail* is kind of a comeback to slowness.
-A moment in your mailbox.
-A picture and that's it.
+*Détail* is a picture and that's it.  
+Everyweek or so, you just get a mail.  
+It has a picture in it and that is it.  
 
-A slower paced internet, more pull than push. The happiness of less, the joy of finding back small daily moments. This is what I try to share. A moment spent away from likes and comments. A moment away from social networks. Simpler things with no headaches. No doomscroll, no ads, no intereferences. An email, a picture and that's it.
+No doomscroll, no ads, no intereferences.  
+An email, a picture and that's it.
 
-I hope it will inspire you or at least you will like it.
-Take the time to discover all the details.
+I hope it will inspire you or at least you will like it.  
+Have a good day ✌🏻
 
-{{< letter account="detail" msg="" accent="forest" >}}
+{{< letter account="detail" msg="" accent="green" >}}
