@@ -5,7 +5,6 @@
 @tailwind utilities;
 
 open-heart {
-  @apply mr-2;
   display: inline-flex;
   cursor: pointer;
   transition: transform .3s;
@@ -37,11 +36,8 @@ open-heart:not([disabled]):focus {
 
 [aria-pressed="true"] { color: #f00; }
 
-[aria-busy="true"] { animation: pulsate .4s infinite; }
-
-@keyframes pulsate {
-  0% { transform: scale(1) }
-  100% { transform: scale(1.2) }
+[aria-busy="true"] { 
+  @apply animate-pulse;
 }
 
 [errored] {
