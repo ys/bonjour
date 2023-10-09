@@ -10,9 +10,15 @@
       </header>
     {{ range .Pages }}
     {{ $.Scratch.Set "color" .Params.color }}
-    <dt/>
-    <article class="h-entry mx-4 lg:mx-0 relative">
-      {{ partial "article_content" . }}
+    <article class="h-entry mb-10 mx-4 lg:mx-0 relative">
+      <div data-pswp class="content-{{  $.Scratch.Get "color" }}">
+        <div class="dark:prose-invert  prose post e-content prose-p:mb-0 mb-0">
+          {{.Content}}
+      <div class=" right">
+      {{ partial "heart" . }}
+      </div>
+        </div>
+      </div>
     </article>
   {{ end }}
   {{ end }}
