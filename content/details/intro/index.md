@@ -22,7 +22,7 @@ All will be archived here in high def. You will find them all on [the detail's p
 
 Like the rest of this website, I didn't want to include comments. My email is enough. I like simple and slow conversations over vanity metrics like comments count. So please, feel free to email me back and chat.
 
-{{< letter account="detail" msg="Detail, a picture per week. Feel free to subscribe!" >}}
+{{< letter account="detail" accent="green" msg="Detail, a picture per week. Feel free to subscribe!" >}}
 
 ***
 
