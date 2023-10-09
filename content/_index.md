@@ -15,7 +15,7 @@ resources:
 
 **Bonjour**, I am **Yannick**.
 
-I do enjoy [telling stories](/posts), [capturing moments](/daily) & [reading books](/books).  
+I do enjoy [telling stories](/posts), [capturing moments](/daily) & [reading books](/books).
 I often wander with a film camera, a pencil and a small notebook.
 
 I also enjoy writing a [newsletter about random stuff](/bonjour) in french, printing [stuff on paper](/shop) zines or pictures & sending [a picture per week](/details).

@@ -2,7 +2,7 @@
 menu:
   footer:
     weight: 4
-linktitle: 🔖 Some Internets 
+linktitle: 🔖 Browsing
 title: Bookmarking random things
 grid: true
 archived: true
@@ -20,3 +20,5 @@ Just stuff I randomly find over the many weird and fun corners of the Internets.
 Websites as gardens.  
 Keep Internet weird you, dong.  
 Surf it twice a day.
+
+🍏 Browsing twice a day, keep the doctor away.

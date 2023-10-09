@@ -12,12 +12,13 @@ resources:
 menu:
   footer:
     weight: 5
-linktitle: "💌 Une newsletter"
+linktitle: "💌 Writing"
 ---
 
 
-**Bonjour, c'est quoi?** Une newsletter écrite et envoyée avec amour par moi-même. Une sorte de carte postale virtuelle, sans les informations sur les monos. Une salutation remplie de petites attentions, **des choses que j'aime et de sourires sans doute**.
-Elle n'est pas encore périodique, cela dépend de vous.
+**Bonjour**, c'est une carte postale virtuelle.   
+Des choses que j'aime et de sourires sans doute.  
+Jamais que des mots, sur un piano, tout ça.
 
 
 {{< letter account="bonjouryannick" accent="rosewater" >}}

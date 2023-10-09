@@ -5,7 +5,7 @@ subtitle: "Some beautiful moments of my everyday life"
 menu:
   main:
     weight: 1
-linktitle: "Daily"
+linktitle: "Pictures"
 year: "2023"
 skip: "cover.png"
 ---

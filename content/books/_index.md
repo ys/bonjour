@@ -10,7 +10,7 @@ resources:
 menu:
   footer:
     weight: 3
-linktitle: "📚 books"
+linktitle: "📚 Reading"
 ---
 
 Most books I read in the last couple of years.

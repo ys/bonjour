@@ -29,7 +29,7 @@ canonifyURLs = false
   ]
   backgroundColor = true
   ogURL = "https://og.yannickschutz.com"
-  footer = "👋 Yannick - Have fun."
+  footer = "👋 Bonjour Yannick - Be kind, rewind."
   text_404 = "Perdu?"
   mainSections = [ "posts", "photos" ]
   showFooter = ["posts", "photos"]
@@ -59,7 +59,9 @@ canonifyURLs = false
   instagram = "bonjouryannick"
   twitter = "bonjouryannick"
   github = "ys"
-  vsco = "bonjouryannick"
+  [params.social.mastodon]
+    username = "bonjouryannick"
+    domain = "tinnies.club"
 
 [privacy]
   [privacy.disqus]
