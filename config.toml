@@ -1,5 +1,3 @@
-languageCode = "fr"
-DefaultContentLanguage = "fr"
 title = "Bonjour Yannick"
 theme = "simple"
 RemovePathAccents = true
@@ -131,13 +129,5 @@ canonifyURLs = false
 [taxonomies]
   category = "categories"
 
-[languages]
-  [languages.en]
-    weight = 2
-    languageName = "English"
-  [languages.fr]
-    weight = 1
-    languageName = "Français"
-
 [markup.goldmark.renderer]
-unsafe= true
+  unsafe= true

@@ -3,7 +3,7 @@
   {{ .Content }}
 </div>
 <div>
-    {{ $paginator := (.Paginate (where .RegularPages ".Params.archived" "!=" true)  2500) }}
+    {{ $paginator := (.Paginate (where (where .Site.AllPages "Type" .Type) ".Params.archived" "!=" true)  2500) }}
     {{ range $paginator.Pages.GroupByDate "2006" }}
       <header class="flex gap-2 my-4 text-xl items-center">
         <span>{{ partial "moon" .}} </span>
