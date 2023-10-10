@@ -1,6 +1,6 @@
 ---
-title: "Selling some nice things on paper"
-description: "Amazing pictures on gorgeous paper"
+title: "A little shop with stuff I printed"
+description: "A little shop full of zines and prints"
 emoji: "💸"
 menu:
   main:
