@@ -1,8 +1,8 @@
 ---
 color: teal
-seotitle: "Me, right Now"
-title: "Talking about me"
-description: "What I do, what I care about and all and nothing"
+seotitle: "A little bit about me - ✌🏻Bonjour Yannick"
+title: "Many small facts about me and a few bigger"
+description: "If you wanted to know more about me, this is the place."
 date: 2020-10-07T12:57:50+02:00
 draft: false
 color: yellow

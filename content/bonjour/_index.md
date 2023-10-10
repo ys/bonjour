@@ -1,6 +1,6 @@
 ---
-seotitle: "Bonjour, la lettre - Bonjour Yannick"
-title: "Envoyer des mots doux"
+seotitle: "Bonjour, une newsletter - Bonjour Yannick"
+title: "Envoyer des mots doux et raconter n'importe quoi"
 emoji: 💌
 description: "Un petit moment d'échappement dans votre boîte mail"
 date: 2020-10-07T12:57:50+02:00

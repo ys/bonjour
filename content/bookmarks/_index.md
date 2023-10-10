@@ -3,7 +3,9 @@ menu:
   footer:
     weight: 4
 linktitle: 🔖 Browsing
-title: Bookmarking random things
+title: The internets are full of random things
+seotitle: A bunch of bookmarks - 🔗 Bonjour Yannick
+description: Just stuff I randomly find over the many weird and fun corners of the Internets.  
 grid: true
 archived: true
 _build:
@@ -21,4 +23,4 @@ Websites as gardens.
 Keep Internet weird you, dong.  
 Surf it twice a day.
 
-🍏 Browsing twice a day, keep the doctor away.
+**🍏 Browsing twice a day, keep the doctor away.**

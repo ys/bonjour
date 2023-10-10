@@ -1,6 +1,6 @@
 ---
 color: green
-title: Sharing some details
+title: A picture per week in your mailbox
 hideDescription: true
 seotitle: "Detail - a picture per week - ✌️ Bonjour Yannick"
 menu:
