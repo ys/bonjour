@@ -1,4 +1,5 @@
 ---
+color: yellow
 favorite: true
 title: "One hundred cool things in twenty twenty two"
 subtitle: "Mes moments favoris et quelques images"
