@@ -1,11 +1,11 @@
 ---
-hideSubscribe: true
 title: "Bonjour Yannick"
-seotitle: "✌️ Bonjour Yannick - Des histoires et des photos"
-description: "Des histoires simples, des photos, des livres & une bonne tasse de café."
+seotitle: "✌️ Bonjour Yannick - Some good stories and great pictures"
+summary: "Nothing important in a beautiful way with a cup of black coffee"
+description: "Nothing important in a beautiful way with a cup of black coffee"
 date: 2017-10-26T22:57:50+02:00
 draft: false
-color: yellow
+hideSubscribe: true
 type: index
 resources:
 - src: "*.webp"
@@ -13,20 +13,15 @@ resources:
   name: "cover"
 ---
 
-**Bonjour**, moi c'est **Yannick**.  
+**Bonjour**, I am **Yannick**.
 
-J'aime [Raconter des histoires](/posts) simples,  
-[Capturer des moments](/daily) anodins et les rendre beaux.   
-Je me balade souvent avec un appareil argentique,  
-Un stylo et un carnet.    
+I often wander with a film camera, a pencil and a small notebook.
+I do enjoy [telling stories](/posts), [capturing moments](/daily) & [reading books](/books).
 
-J'aime aussi écrire une [petite lettre](/bonjour) qui parle de tout et de rien,  
-Produire [des zines ou des tirages photos limités](/shop),  
-Envoyer [une photo par semaine](/details) (Cela revient vite).  
-J'aime **cette forme de lenteur et l'odeur du papier.**  
+I also enjoy writing a [newsletter about random stuff](/bonjour) in french, printing [zines and pictures](/shop) & sending [a picture per week](/details).
+
+I like **this kind of slowness and the smell of paper**.
 
 ![](22x50-0925-06)
 
-Parfois, je m'exprime en [Haikus](/haikus)
-
-
+I also write [silly Haikus 🇫🇷](/haikus).

@@ -1,35 +1,31 @@
 ---
 color: sky
-title: "Gwidel Log Fest (zine uniquement)"
+title: "Gwidel Log Fest (zine only)"
 subtitle: "Emgav longboard dre bedadenn"
 date: 2023-02-01
-price: true
 emoji: "🏄‍♂️"
-pricetag: "9€ avec envoi mondial"
+pricetag: "9€ worldwide shipping included"
 grid: "IMG_2533 / logfest_11 | logfest_3 | logfest_18 "
-price: "9.00"
 currency: "EUR"
-price_id: "price_1MewJpFaA8Wpl3EpZ3NrCiLY"
+price: "9.00"
+price_id:  "price_1MewJpFaA8Wpl3EpZ3NrCiLY"
 resources:
   - src: "*.webm"
   - src: "*.webp"
 ---
 
-Ce zine comprend une série de photos faites à l'argentique sur les deux jours de festival à Guidel en mai 2022.
-J'étais avec mon Leica M6 et un Canon prima AS1
+This zine is about a longboard surf festival that happened in Guidel in May 2022.
+I was shooting with my beloved Leica M6 and a Canon Prima AS1. So it is film only.
+It is not about the action sport, more about the vibe and smiles you could find that day.
 
-Loin de la photo de surf d'action, j'ai plutôt essayé de retranscrire l'ambiance et les sourires du jour.
-
-Les frais de port sont inclus.
-Je peux vous faire un petit prix si le but est de se croiser, partager des vagues ou autre.
-
-Pour l'édition avec print : [c'est ici](/shop/gwidel-log-fest-with-print/)
+Shipping included
+But you probably can have a special price if you wanna meet me instead.
 
 
+For the zine and A5 print : [it's here](/shop/gwidel-log-fest-with-print/)
 <div class="text-sm">
 Description: <br/>
-livre A6 <br/>
-Couverture mat laminée 300gsm non couché <br/>
-42 pages sur du papier 170gsm non couché
+A6 Book<br/>
+Matt laminated cover onto 300gsm Uncoated <br/>
+42 pages onto 170gsm Uncoated
 </div>
-

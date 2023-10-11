@@ -1,23 +1,22 @@
 ---
 color: green
-columns:
-- 3
-title: Partager des détails
-seotitle: "Détail, une photo par semaine - ✌️ Bonjour Yannick"
-hideSubscribe: true
+title: A picture per week in your mailbox
 hideDescription: true
+seotitle: "Detail - a picture per week - ✌️ Bonjour Yannick"
 menu:
   footer:
-    weight: 5
-linktitle: "😃 Détail"
+    weight: 4
+linktitle: "😃 Sharing"
 ---
 
-*Détail*, c’est un retour à une certaine lenteur.
-Un moment dans votre boîte mail.
-Une photo et c'est tout.
+*Détail* is a picture and that's it.  
+Everyweek or so, you just get a mail.  
+It has a picture in it and that is it.  
 
-Un web plus lent, plus pull que push. Le plaisir de moins faire, le bonheur retrouver de petits moments du quotidien. Voilà à quoi j'aspire. Un moment loin des likes et des commentaires des divers réseaux sociaux. Un retour aux choses simples et sans prises de tête. Pas de flux infini, pas de pubs, pas d'interférences. Un e-mail, une photo, un point c'est tout.
+No doomscroll, no ads, no intereferences.  
+An email, a picture and that's it.
 
-J'espère que cela vous inspirera ou, du moins, que cela vous plaira.
+I hope it will inspire you or at least you will like it.  
+Have a good day ✌🏻
 
-{{< letter account="detail" accent="green" msg="" >}}
+{{< letter account="detail" msg="" accent="green" >}}

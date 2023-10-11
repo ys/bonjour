@@ -1,7 +1,7 @@
 ---
 color: peach
-title: "Détailler un beau quotidien • 2023"
-summary: "Des détails, des moments, un beau quotidien"
+title: "Capturing details of a beautiful daily life • 2023"
+subtitle: "Some beautiful moments of my everyday life"
 date: "2023-01-01T01:01:01Z"
 skip: "cover.png"
 slug: "2023"
@@ -11,7 +11,7 @@ menu:
 linktitle: "2023"
 ---
 
-J'adore **rendre beau l'anodin.**  
-Faire des grandes histoires de petites choses.  
-J'aime inventer des histoires à partir de rien.  
-Une **célébration des petits moments** qui ne marquent pas.  
+We opened [Douarenn](https://douarenn.fr), we had a crazy road trip in California, Started the year in Morocco.
+We had no summer but so many good times. It was rainy way too much. So you just do the best out of it.
+We met so many great people. I got my first surfboard shaped. Had diner at le Tapecul and la Butte the same week.
+This means it is a good one.
