@@ -1,5 +1,7 @@
 ---
 emoji: 🫶🏻
+color: yellow
+favorite: true
 title: "One hundred cool things in twenty twenty two"
 subtitle: "My favorite moments of the year and some shots"
 date: 2023-01-04
