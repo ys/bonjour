@@ -1,5 +1,3 @@
-languageCode = "fr"
-DefaultContentLanguage = "fr"
 title = "Bonjour Yannick"
 theme = "simple"
 RemovePathAccents = true
@@ -31,7 +29,7 @@ canonifyURLs = false
   ]
   backgroundColor = true
   ogURL = "https://og.yannickschutz.com"
-  footer = "👋 Yannick - Have fun."
+  footer = "👋 Bonjour Yannick - Be kind, rewind."
   text_404 = "Perdu?"
   mainSections = [ "posts", "photos" ]
   showFooter = ["posts", "photos"]
@@ -61,7 +59,9 @@ canonifyURLs = false
   instagram = "bonjouryannick"
   twitter = "bonjouryannick"
   github = "ys"
-  vsco = "bonjouryannick"
+  [params.social.mastodon]
+    username = "bonjouryannick"
+    domain = "tinnies.club"
 
 [privacy]
   [privacy.disqus]
@@ -131,13 +131,5 @@ canonifyURLs = false
 [taxonomies]
   category = "categories"
 
-[languages]
-  [languages.en]
-    weight = 2
-    languageName = "English"
-  [languages.fr]
-    weight = 1
-    languageName = "Français"
-
 [markup.goldmark.renderer]
-unsafe= true
+  unsafe= true

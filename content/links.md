@@ -13,4 +13,3 @@ resources:
     name: "cover"
 ---
 
-Bienvenue, moi c'est Yannick, et voici quelques liens qui devraient te plaire.
