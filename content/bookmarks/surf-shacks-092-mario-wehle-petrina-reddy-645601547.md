@@ -6,9 +6,7 @@ headImage: https://rdl.ink/render/https%3A%2F%2Findoek.com%2Farticle%2Fsurf-shac
 title: Surf Shacks 092 – Mario Wehle + Petrina Reddy
 domain: indoek.com
 description: 
-tags:
-- indoek
-- matt titone
+tags: []
 date: '2023-03-02T08:15:22.316Z'
 highlights: 
 ---

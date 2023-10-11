@@ -10,8 +10,8 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: jazzberry
-background: "[#F5DBCB]"
+color: rosewater
+
 title: "13 - Du breton, de la mini cabine et des piments"
 slug: "13"
 ---

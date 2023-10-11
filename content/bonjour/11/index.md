@@ -10,8 +10,8 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: jazzberry
-background: "[#F5DBCB]"
+color: rosewater
+
 title: "11 - Des livres, du CSV et Mowgli"
 slug: "11"
 ---

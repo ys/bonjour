@@ -6,8 +6,7 @@ headImage: http://static1.squarespace.com/static/59dce63d0abd0466615f3ce4/t/5f84
 title: James Bowden Photography
 domain: jamesbowden.net
 description: 
-tags:
-- james bowden photography
+tags: []
 date: '2023-01-26T19:51:39.878Z'
 highlights: 
 ---

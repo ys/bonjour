@@ -10,8 +10,8 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: jazzberry
-background: "[#F5DBCB]"
+color: rosewater
+
 title: "33 - Super 8, wikilinks & du papier"
 slug: "33"
 summary: "Aujourd'hui, je viens de poster une première vidéo sur instagram, je n'avais jamais fait cela. Je me sens un peu vieux parfois. Je dis une, car ce n'est pas moi qui l'ai filmée, ni éditée."

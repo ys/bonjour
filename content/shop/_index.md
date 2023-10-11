@@ -1,16 +1,15 @@
 ---
-color: rose
-title: "Vendre quelques trucs"
-seotitle: "🖼 Les jolis prints de Yannick - Bonjour Yannick"
-description: "De belles photos, du beau papier et parfois un cadre."
+title: "A little shop with stuff I printed"
+description: "A little shop full of zines and prints"
 emoji: "💸"
 menu:
   main:
     weight: 5
-linktitle: "un petit shop"
+linktitle: "Shop"
 ---
 
-Des prints sur du beau papier, parfois avec un beau cadre.
-Parfois, j'ai des envies de tout imprimer, mais après je ne sais plus quoi en faire.
-Ca vous arrive aussi? Non, ça tombe bien alors, j'imprime un rien pour vous!
-Ce print serait pas mal sur vos murs! Et ce livre dans votre bibliothèque.
+Beautiful prints on great paper, sometimes in a frame, sometimes in a zine.
+I just want to print all the things but after that I am stuck with a bunch of stuff I don't know what to do with.
+
+Is it happening to you too? No? Ok let me print some stuff for you then!
+It will look great on your walls. And that zine you see there, would be lovwly in your library

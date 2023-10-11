@@ -10,8 +10,8 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: jazzberry
-background: "[#F5DBCB]"
+color: rosewater
+
 title: "22 - Une mesure loupée, une dame en blocs et du repos"
 slug: "22"
 ---

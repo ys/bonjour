@@ -5,10 +5,8 @@ category: article
 headImage: https://eliselaine.com/wp-content/uploads/2023/06/DSC_9434-scaled.jpg
 title: Vans Duct Tape Invitational headed to Rio de Janeiro - Elise Lainé
 domain: eliselaine.com
-description: The Vans Duct Tape Invitational Surf festival brought the 32 world's
-  best longboarders to Rio de Janeiro, Brazil for its 11th season
-tags:
-- elise lainé
+description: 
+tags: []
 date: '2023-08-10T11:24:12.531Z'
 highlights: 
 ---

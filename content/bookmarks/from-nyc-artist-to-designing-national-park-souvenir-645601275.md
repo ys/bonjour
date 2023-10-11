@@ -5,11 +5,8 @@ category: article
 headImage: http://images.ctfassets.net/r7p9m4b1iqbp/121iy1xLM7C8oPGSVBSrcZ/5cc44afdaa5ae05e96c464d691f97f35/Abby-Leighton-Headshot.jpg?w=1000
 title: From NYC Artist to Designing National Park Souvenirs in Moab
 domain: fieldmag.com
-description: Q&A with the Moab, UT-based designer and film photographer on drawing
-  inspiration from the vast and dramatic landscapes of the American West
-tags:
-- field mag
-- annie klusendorf
+description: 
+tags: []
 date: '2023-01-26T19:47:31.981Z'
 highlights: 
 ---

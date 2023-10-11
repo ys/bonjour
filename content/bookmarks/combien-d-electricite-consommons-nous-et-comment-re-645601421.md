@@ -5,12 +5,8 @@ category: article
 headImage: https://img.lemde.fr/2022/09/22/164/241/1185/790/1440/960/60/0/aa98e3a_1663854201860-capture-da-ei-cran-2022-09-22-ai-15-43-03.png
 title: Combien d’électricité consommons-nous et comment réduire nos factures ?
 domain: lemonde.fr
-description: De quelle marge de manœuvre dispose-t-on chez nous ? Les « gestes simples »
-  ont-ils un impact réel ? Visualisez les grands postes de dépense d’électricité et
-  les pistes d’actions pour réduire sa consommation.
-tags:
-- les décodeurs
-- le monde.fr
+description: 
+tags: []
 date: '2023-01-26T19:49:48.710Z'
 highlights: 
 ---

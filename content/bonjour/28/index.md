@@ -10,8 +10,8 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: jazzberry
-background: "[#F5DBCB]"
+color: rosewater
+
 title: "28 - Nouvel an, parcs et jeux vidéos"
 slug: "28"
 ---

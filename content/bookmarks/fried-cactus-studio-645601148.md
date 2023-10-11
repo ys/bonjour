@@ -6,8 +6,7 @@ headImage: http://static1.squarespace.com/static/5abc016a75f9eea9ff889ac5/t/6340
 title: Fried Cactus Studio
 domain: friedcactusdc.com
 description: 
-tags:
-- fried cactus studio
+tags: []
 date: '2023-01-26T19:45:55.867Z'
 highlights: 
 ---

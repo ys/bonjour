@@ -9,8 +9,8 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: jazzberry
-background: "[#F5DBCB]"
+color: rosewater
+
 title: "20 - hippie, petits mickeys et grimpe"
 slug: "20"
 ---

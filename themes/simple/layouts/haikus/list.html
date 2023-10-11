@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div class="z-20 dark:prose-invert prose  mb-16 with-links relative">
+  {{ .Content }}
+</div>
+  {{ $paginator := (.Paginate (where .RegularPages ".Params.archived" "!=" true)  2500) }}
+  {{ range $paginator.Pages.GroupByDate "January 2006" }}
+      <header class="flex gap-2 my-4 text-xl items-center">
+        <span>{{ partial "moon" .}} </span>
+        <h2 class=" font-bold">{{ .Key }}</h2>
+      </header>
+    {{ range .Pages }}
+    {{ $.Scratch.Set "color" .Params.color }}
+    <article class="h-entry mb-10 mx-4 lg:mx-0 relative">
+      <div data-pswp class="content-{{  $.Scratch.Get "color" }}">
+        <div class="dark:prose-invert  prose post e-content prose-p:mb-0 mb-0">
+          {{.Content}}
+      <div class=" right">
+      {{ partial "heart" . }}
+      </div>
+        </div>
+      </div>
+    </article>
+  {{ end }}
+  {{ end }}
+{{ end }}

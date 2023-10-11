@@ -6,9 +6,7 @@ headImage: https://i.vimeocdn.com/video/1701929304-c83a01fb8c34b07753653121dd9e7
 title: FRENCH FRIES FOR A BIRTHDAY CAKE
 domain: vimeo.com
 description: 
-tags:
-- vimeo
-- nil puissant
+tags: []
 date: '2023-07-25T20:30:21.497Z'
 highlights: 
 ---

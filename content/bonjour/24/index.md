@@ -10,8 +10,8 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: jazzberry
-background: "[#F5DBCB]"
+color: rosewater
+
 title: "24 - Idées déco, surf et Gustave Eiffel"
 slug: "24"
 ---

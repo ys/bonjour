@@ -10,8 +10,8 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: jazzberry
-background: "[#F5DBCB]"
+color: rosewater
+
 title: "6 - Biographies, films de Noël et Amour papier"
 slug: "6"
 summary: "Moi, c'est Yannick et j'ai beaucoup trop de passions. Elles vont, elles viennent."

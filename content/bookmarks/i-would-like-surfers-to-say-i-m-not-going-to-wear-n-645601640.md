@@ -6,10 +6,8 @@ headImage: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:
 title: "“I would like surfers to say: ‘I’m not going to wear neoprene because people
   are getting poisoned.’”"
 domain: climateandboardsports.substack.com
-description: An interview with surfer, photographer, filmmaker and activist Lewis
-  Arnold from the north-east of England
-tags:
-- sam haddad
+description: 
+tags: []
 date: '2023-06-08T19:19:05.676Z'
 highlights: 
 ---

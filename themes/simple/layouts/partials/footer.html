@@ -1,19 +1,12 @@
 <div class="font-sans lg:mt-16 container lg:mx-auto lg:max-w-xl">
-  <footer class="relative lg:mx-0 mx-6 py-10 dark:text-gray-100 text-gray-600  flex flex-col  justify-items-left items-left gap-2 text-sm">
+  <footer class="relative lg:mx-0 mx-6 py-10 dark:text-gray-100 text-gray-600  flex md:flex-row flex-col  justify-items-left justify-between items-left gap-2 text-sm">
 
-    <a href="#" alt="Get me back to the top" aria-label="Get me back to the top" class="animate-spin w-8 text-{{ $.Scratch.Get "color" }} lg:absolute lg:-left-16">
-      {{ if fileExists "/static/logo.svg" }}
-      {{ readFile "/static/logo.svg" | safeHTML}}
-      <span class="hidden">Get me back to the top</span>
-      {{ else }}
-      {{.Params.emoji | default .Site.Params.emoji}}
-      {{ end }}
-    </a>
 
+    <div>
     <div class="flex font-bold">
       {{ .Site.Params.footer }} - {{ now.Year }}
     </div>
-    <div class="">
+    <div class="py-2">
       <ul class="flex flex-wrap flex-row text-right  ">
         {{ range .Site.Menus.footer }}
         <li class=" pl-1">
@@ -26,13 +19,9 @@
     </div>
     <div class="">
       <ul class="flex flex-row text-right  flex-wrap">
-        {{ range $.Sites }}
-          {{ if ne . $.Site }}
-            <li class="pl-1   ">
-              <a href="{{ .Home.Permalink }}">{{ .Language.LanguageName }}</a>
-            </li>
-          {{ end }}
-        {{ end }}
+        <li>
+          {{ partial "emoji" . }} 
+        </li>
         {{ with .Site.Params.social.instagram }}
         <li class="pl-1   ">
           <a class="hover:text-{{$.Scratch.Get "color"}} transition ease-in-out duration-200"
@@ -45,9 +34,14 @@
             href="https://twitter.com/{{ . }}">Twitter</a>
         </li>
         {{ end }}
-        {{ with .Site.Params.social.vsco }}
+        {{ with .Site.Params.social.github }}
         <li class="pl-1  ">
-          <a class="hover:text-{{$.Scratch.Get "color"}} transition ease-in-out duration-200" href="https://vsco.com/{{ . }}">VSCO</a>
+          <a class="hover:text-{{$.Scratch.Get "color"}} transition ease-in-out duration-200" href="https://github.com/{{ . }}">GitHub</a>
+        </li>
+        {{ end }}
+        {{ with .Site.Params.social.mastodon }}
+        <li class="pl-1  ">
+          <a class="hover:text-{{$.Scratch.Get "color"}} transition ease-in-out duration-200" href="https://{{.domain}}/{{ .username }}">Mastodon</a>
         </li>
         {{ end }}
         <li class="pl-1  ">
@@ -56,5 +50,14 @@
         </li>
       </ul>
     </div>
+    </div>
+    <a href="#" alt="Get me back to the top" aria-label="Get me back to the top" class=" w-8 text-{{ $.Scratch.Get "color" }} ">
+      {{ if fileExists "/static/logo.svg" }}
+      {{ readFile "/static/logo.svg" | safeHTML}}
+      <span class="hidden">Get me back to the top</span>
+      {{ else }}
+      {{.Params.emoji | default .Site.Params.emoji}}
+      {{ end }}
+    </a>
   </footer>
 </div>

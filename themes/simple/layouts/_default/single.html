@@ -1,29 +1,22 @@
 {{ define "main" }}
 <article class="h-entry">
   {{ partial "article_content" . }}
-  {{ if in .Type $.Site.Params.showExif }}
-  <span class="text-xs mb-32  text-right font-sans  text-gray-700 capitalize block">
+  <span class="text-xs mb-32  text-right font-sans  capitalize flex  justify-end gap-1">
     {{ if .Params.camera }}
       <a href="{{ .RelPermalink }}">
         📷 {{ .Params.camera }} {{ with .Params.film }}{{ $.Site.Params.arrow }} {{ . }} {{ end }}
       </a>
-    {{ else }}
-      {{ with .Params.emoji }}
-        {{ . }}
-      {{ else }}
-        {{ partial "emoji" . }}
-      {{ end }}
-      {{ partial "category-link" . }}
+      {{ .Site.Params.arrow }}
     {{ end }}
+    {{ partial "heart" . }}
+    {{ partial "category-link" . }}
     {{ .Site.Params.arrow }}
     <a href="{{ .RelPermalink }}">
       <time class="dt-published" datetime="{{ .Date.Format "2006-01-02t15:04:05z0700" }}">
-        {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+        {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
       </time>
     </a>
   </span>
-  {{ end }}
-{{ partial "letter" . }}
 {{ partial "article_navigation" . }}
 </article>
 {{ end }}

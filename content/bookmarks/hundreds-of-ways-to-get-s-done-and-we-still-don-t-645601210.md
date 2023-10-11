@@ -5,26 +5,8 @@ category: article
 headImage: https://media.wired.com/photos/60ff0b047b8c62be3062fe1c/191:100/w_1280,c_limit/wired%20to%20do%20app%20main%20art%20online.png
 title: Hundreds of Ways to Get S#!+ Done—and We Still Don’t
 domain: wired.com
-description: You want to be productive. Software wants to help. But even with a glut
-  of tools claiming to make us all into taskmasters, we almost never master our tasks.
-tags:
-- backchannel
-- ideas
-- software
-- work
-- apps
-- programming
-- productivity
-- psychology
-- coding
-- longreads
-- magazine-29.09
-- _syndication_noshow
-- textbelowleftfullbleed
-- magazine
-- tags
-- wired
-- clive thompson
+description: 
+tags: []
 date: '2023-01-26T19:46:43.689Z'
 highlights: 
 ---

@@ -7,7 +7,7 @@ tags: []
 categories:
 - journal
 slug: "2020"
-color: sunray
+color: yellow
 emoji: "😷"
 resources:
 - src: "*.webp"

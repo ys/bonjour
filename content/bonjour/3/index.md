@@ -10,8 +10,8 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: jazzberry
-background: "[#F5DBCB]"
+color: rosewater
+
 title: "3 - Plastique, Colibri et Water family"
 slug: "3"
 summary: "Hello à tous. Merci de toujours lire cette petite lettre. Aujourd'hui, je voulais vous présenter mon côté qui se préoccupe de la planète. Ce Yannick là se trouve cool et se considère comme un micro activiste."

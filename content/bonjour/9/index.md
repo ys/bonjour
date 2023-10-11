@@ -10,8 +10,8 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: jazzberry
-background: "[#F5DBCB]"
+color: rosewater
+
 title: "9 - Dry January, Covid et Nikonos"
 slug: "9"
 summary: "2021 est au final 2020 + 1. On arrive au nouveau couvre-feu français, on confine à travers l'Europe. En gros, on est bien parti pour une année aussi étrange."

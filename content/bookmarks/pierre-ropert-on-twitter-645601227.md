@@ -5,12 +5,8 @@ category: link
 headImage: https://pbs.twimg.com/ext_tw_video_thumb/1457102230209900550/pu/img/Oh2KEZRqA2mWNpHi.jpg:large
 title: Pierre Ropert on Twitter
 domain: twitter.com
-description: 'Assez fascinant : la façon dont différents types d''infrastructures
-  modifient l''impact des vagues. pic.twitter.com/Gj4cof71NV— Pierre Ropert (@Trazou)
-  November 6, 2021'
-tags:
-- twitter
-- pierre ropert
+description: 
+tags: []
 date: '2023-01-26T19:46:56.035Z'
 highlights: 
 ---

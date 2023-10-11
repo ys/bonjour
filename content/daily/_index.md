@@ -1,15 +1,15 @@
 ---
-year: "2023"
-color: coral
-title: "Détailler un beau quotidien • 2023"
-summary: "Des détails, des moments, un beau quotidien"
-skip: "cover.png"
+color: peach
+title: "Capturing details of a beautiful daily life"
+subtitle: "Some beautiful moments of my everyday life"
 menu:
   main:
     weight: 1
-linktitle: "du quotidien"
+linktitle: "Pictures"
+year: "2023"
+skip: "cover.png"
 ---
 
-Si je devais décrire ma pratique photo, je pense que j'adore **rendre beau le mondain.**
-Sublimer l'ordinaire et en faire des grandes histoires. J'ai toujours apprécier inventer des histoires à partir de rien.
-Voyez cela comme une **célébration de tous ces petits moments** qui ne vous marquent pas toujours.
+I am telling small stories like they were big.  
+Making up stories from nothing.  
+Celebrating the **small moments** no one notice.  

@@ -10,8 +10,8 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: jazzberry
-background: "[#F5DBCB]"
+color: rosewater
+
 title: "8 - Meilleurs voeux, cadeaux et Barbès"
 slug: "8"
 summary: "Moi c'est Yannick, celui-là même qui était couché avant minuit le 31. J'écris ça plutôt avec de l'espoir car là, on est le 30. J'écris cette lettre à l'avance. Prévoyant le petit gars."

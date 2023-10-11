@@ -5,8 +5,7 @@ category: link
 headImage: https://www.canoo.com/social-image.jpg
 title: Electric SUV for Work and Adventure
 domain: canoo.com
-description: The fully electric and highly versatile lifestyle vehicle provides an
-  SUV-sized interior for fleet delivery, family vacations, and road trips.
+description: 
 tags: []
 date: '2023-01-26T19:46:37.516Z'
 highlights: 

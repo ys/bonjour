@@ -1,34 +1,36 @@
 ---
-date: 2022-06-04
-color: teal
-title: "A thousand tides"
-soldout: true
+date: "2021-05-01"
+title: "A thousand tides - zine"
 grid: "es6 / es2 | es3 | es4"
-subtitle: "Il y a un peu plus de milles marées mais est-ce vraiment important?"
-pricetag: "~~18€~~ *Sold Out*"
+subtitle: "soldout"
+soldout: true
 price: "18.00"
 currency: "EUR"
+pricetag: "~~18€~~ soldout"
+emoji: 🌊
 price_id: "price_1KhdAaFaA8Wpl3EpuCoGpElU"
 resources:
   - src: "*.webm"
   - src: "*.webp"
 ---
 
-*Prix 18€ - Frais de port inclus*
+## A thousand tides
 
-“A thousand tides” est une collection de mes photos favorites prises principalement durant la pandémie. Il y a un peu plus de milles marées mais est-ce vraiment important?
+*Price 18€ - Shipping included*
 
-Première édition limitée à 50 copies.
-Signées et numérotées.
-Disponibles dès que l'imprimeur aura fait le job.
+“A thousand tides” is a collection of some of my favorite film shots taken mostly over the pandemic. This is a bit more than a thousand tides but who cares?
+
+It is a first edition limited to 50 copies.   
+Signed and numbered.
+Available as soon as the printer prints.
 
 {{< video src="loop" type="video/webm" preload="auto" >}}
 
 
 <div class="text-sm">
 Description: <br/> 
-livre A5 <br/> 
-Couverture mat laminée 300gsm non couché <br/> 
-58 pages sur du papier 170gsm non couché
+A5 Book <br/> 
+Matt laminated cover onto 300gsm Uncoated <br/> 
+58 pages onto 170gsm Uncoated
 </div>
 

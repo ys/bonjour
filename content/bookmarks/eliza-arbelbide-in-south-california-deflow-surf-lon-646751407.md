@@ -8,8 +8,7 @@ domain: deflowsurf.com
 description: Proudly introducing Diogo Martins to the Deflow Team. Learn more about
   the Portuguese young guns that tell us about surfing and what he likes doing when
   he's not throwing powerful carves and solid airs.
-tags:
-- joseba
+tags: []
 date: '2023-09-14T11:21:02.771Z'
 highlights: 
 ---

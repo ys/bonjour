@@ -18,8 +18,8 @@ tags:
 resources:
   - src: "*.webp"
 categories:
-- mer
-color: indigo
+- surf
+color: teal
 ---
 
 ![Yannick et Tom](cover.webp)

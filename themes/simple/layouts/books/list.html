@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-<div class="z-20 dark:prose-invert prose mb-16 with-links relative">
+<div class="z-20 dark:prose-invert prose  mb-16 with-links relative">
   {{ .Content }}
 </div>
 
@@ -8,24 +8,35 @@
   {{ range sort .Site.Data.books "year" "desc" }}
   <header class="my-4 flex flex-row items-center">
     <span class="font-sans">{{ partial "moon" .}}</span>
-    <h2 class="text-xl lg:text-2xl font-bold">{{ .year }}</h2>
+    <h2 class="font-bold">{{ .year }}</h2>
     <span class="ml-1 font-sans text-md opacity-70"> • {{ len .books}}</span>
   </header>
   {{ range sort .books "date" "desc" }}
       {{ $color := "accent" }}
-      {{range first 1 (shuffle (slice "accent" "sunray" "purpleheart" "forest" "jazzberry" "rose" "teal" "tuscan")) }}
+      {{range first 1 (shuffle $.Site.Params.themeColors) }}
         {{ $color = . }}
       {{ end }}
       {{ with .Params.color }}
         {{ $color = . }}
       {{ end }}
-    <article class="hover:bg-{{$color}} !bg-opacity-70 rounded-sm ">
-      <header class="  flex flex-row justify-between gap-2 p-2 items-center">
-      <h2 class="text-gray-800 dark:text-gray-100  no-underline block ">{{ .title }}</h2>
-      <div class=" flex-grow "><div class="mt-3 border-t border-dotted border-gray-800 dark:border-gray-100" ></div></div>
-      <h3 class="dark:text-gray-400 text-gray-700 italic ">{{ .author }}</h3>
-    </header>
-  </article>
+      <article class="group  hover:bg-{{$color}} !bg-opacity-70 rounded-md">
+        <header class="bottom-4  flex flex-row justify-between place-items-center gap-2 p-2">
+          <h2 class="ellipsis break-all max-w-[60%] line-clamp-1 text-gray-800 dark:text-gray-100  no-underline ">{{ .title }}</h2>
+          <div class=" flex-grow "><div class=" mt-2 border-t border-dotted border-gray-800 dark:border-gray-100" ></div></div>
+          <h3 class="max-w-[30%] ellipsis break-all line-clamp-1 font-sans no-underline font-normal text-xs ">
+            <span class="group-hover:hidden visible">
+            {{.author}}
+            </span>
+            <span class="group-hover:block hidden">
+              {{ if .reading }}
+              {{ T "reading" }}
+              {{ else }}
+              {{ with .rating }}{{ strings.Repeat . "★" }}{{end}}
+              {{ end }}
+            </span>
+          </h3>
+        </header>
+      </article>
   {{ end }}
   {{ end }}
 </div>

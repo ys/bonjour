@@ -1,8 +1,11 @@
 {{ define "main" }}
+<header class="z-20 dark:prose-invert prose mb-16 with-links relative">
+  <h2>{{ partial "emoji" . }} 404, à la place des posts récents</h2>
+</header>
 <div class="flex flex-col">
     {{ range first 4 (where .Site.RegularPages ".Params.favorite" true) }}
       {{ $color := "accent" }}
-      {{range first 1 (shuffle (slice "accent" "sunray" "purpleheart" "forest" "jazzberry" "rose" "teal" "tuscan")) }}
+      {{range first 1 (shuffle $.Site.Params.themeColors) }}
         {{ $color = . }}
       {{ end }}
       {{ with .Params.color }}
@@ -10,7 +13,7 @@
       {{ end }}
       <article class="group  hover:bg-{{$color}} !bg-opacity-70 rounded-md">
         <a href="{{ .RelPermalink }}"
-              class="text-darker dark:text-gray-100 hover:bg-{{$color}} bg-opacity-70 ">
+              class="text-crust dark:text-gray-100 hover:bg-{{$color}} bg-opacity-70 ">
         <header class="bottom-4  flex flex-row justify-between gap-2 items-center p-2">
           <h2 class="text-gray-800 dark:text-gray-100  no-underline block ">{{ .Title }}</h2>
           <div class=" flex-grow "><div class="mt-3 border-t border-dotted border-gray-800 dark:border-gray-100" ></div></div>

@@ -5,11 +5,8 @@ category: article
 headImage: https://analoguewonderland.co.uk/cdn/shop/articles/how-to-make-a-film-photography-zine-304983.jpg?v=1659982310
 title: How To Make A Film Photography Zine
 domain: analoguewonderland.co.uk
-description: If you are wondering how to make your first Photography Zine, or are
-  wondering how others in the film community have made theres, here is a blog for
-  you!
-tags:
-- analogue wonderland
+description: 
+tags: []
 date: '2023-01-26T19:51:48.255Z'
 highlights: 
 ---

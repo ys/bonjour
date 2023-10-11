@@ -7,7 +7,7 @@ tags:
 - la lettre
 emoji: 💌
 title: "42 - Monnaie, carafe et lenteur"
-color: jazzberry
+color: rosewater
 slug: "42"
 resources:
   - src: "*.webp"

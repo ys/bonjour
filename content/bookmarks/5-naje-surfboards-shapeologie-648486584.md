@@ -9,8 +9,7 @@ description: A la rencontre de Jean Penninck qui shape sous le nom de Naje Surfb
   à Anglet dans le Pays Basque.  Il nous parle de son histoire, de son activité parallèle
   de vidéaste et photographe, de son apprentissage du shape, de ses influences et
   de ses planches…  Retrouvez un extrait de son travail de sh
-tags:
-- shapeologie
+tags: []
 date: '2023-09-18T07:18:05.953Z'
 highlights: 
 ---

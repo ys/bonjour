@@ -7,12 +7,11 @@ price: "50.00"
 currency: "EUR"
 price_id: "price_1JjpiwFaA8Wpl3EpJRSBzjt4"
 ---
-### Les premières vagues de l'année au Dossen
-**📷 Nikonos V - Kodak Portra 400**
-Limitée à 5 impressions. Signées et numérotées.
+## First waves of the year at Le Dossen
+**📷 Nikonos V - Kodak Portra 400****
+Limited to 5 prints only. Signed and numbered.
 
-*50€ frais de port inclus*
+*50€ shipping included*
 
-- Imprimé en 20x30cm sur du papier [Hahnemühle Fine Art Bamboo](https://www.hahnemuehle.com/fr/digital-fineart/les-papiers-a-jet-dencre-fineart/natural-line/p/Product/show/202/1036.html) 290g/m²
-- 90% de fibres de bambou, 10% de coton
-
+- Print size of 20x30cm. Printed on [Hahnemühle Fine Art Bamboo](https://www.hahnemuehle.com/fr/digital-fineart/les-papiers-a-jet-dencre-fineart/natural-line/p/Product/show/202/1036.html) 290g/m²
+- 90% bambou' fibers, 10% cotton

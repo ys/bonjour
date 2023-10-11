@@ -1,7 +1,7 @@
 ---
-color: coral
-title: "Détailler un beau quotidien • 2023"
-summary: "Des détails, des moments, un beau quotidien"
+color: peach
+title: "Capturing details of a beautiful daily life • 2023"
+subtitle: "Some beautiful moments of my everyday life"
 date: "2023-01-01T01:01:01Z"
 skip: "cover.png"
 slug: "2023"
@@ -11,6 +11,7 @@ menu:
 linktitle: "2023"
 ---
 
-Si je devais décrire ma pratique photo, je pense que j'adore **rendre beau le mondain.**
-Sublimer l'ordinaire et en faire des grandes histoires. J'ai toujours apprécier inventer des histoires à partir de rien.
-Voyez cela comme une **célébration de tous ces petits moments** qui ne vous marquent pas toujours.
+We opened [Douarenn](https://douarenn.fr), we had a crazy road trip in California, Started the year in Morocco.
+We had no summer but so many good times. It was rainy way too much. So you just do the best out of it.
+We met so many great people. I got my first surfboard shaped. Had diner at le Tapecul and la Butte the same week.
+This means it is a good one.

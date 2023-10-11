@@ -72,8 +72,8 @@ class Downloader
     liked = raindrop.liked
     liked.each do |l|
       puts "📄 #{l["title"]}"
-      e = raindrop.parse(l["link"])
-      l["parsed"] = e
+      # e = raindrop.parse(l["link"])
+      l["parsed"] = {}
     end
     File.write("data/liked.yml", YAML.dump(liked))
   end
@@ -106,7 +106,7 @@ class Downloader
       "title" => l["title"],
       "domain" => l["domain"],
       "description" => l["excerpt"].empty? ? l.dig("parsed", "excerpt") : l["excerpt"],
-      "tags" => l.dig("meta", "tags").to_a + l.dig("parsed", "meta", "tags"),
+      "tags" => l.dig("meta", "tags").to_a + (l.dig("parsed", "meta", "tags") || []),
       "date" => l["created"],
       "highlights" => l["highlights"].any? ? l["highlights"].map {|h| h["text"] }.join("\n") : nil
     }

@@ -6,8 +6,7 @@ headImage: https://images.ctfassets.net/xq10wb7ogoji/4EhU8C2Mz9lYS2QKl8gONO/48b3
 title: On Motivation — Are.na
 domain: are.na
 description: Are.na is a platform for connecting ideas and building knowledge.
-tags:
-- aredotna
+tags: []
 date: '2023-09-19T20:14:35.693Z'
 highlights: 
 ---

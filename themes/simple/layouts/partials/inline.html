@@ -1,31 +1,14 @@
 {{ $.Scratch.Set "color" .Params.color }}
+<dt/>
 <article class="h-entry mx-4 lg:mx-0 relative">
-  <header class=" relative mb-8 text-left ">
-    <h2 class="text-3xl font-bold text-darker   {{ with .Params.color }}hover:text-{{ . }}-600 {{ else }}hover:text-accent-600{{ end }} transition ease-in-out duration-200">
-      <a alt="section link" class="p-name u-url u-uuid" href="{{ .RelPermalink | default ("/" | relLangURL )}}">
-      {{ .Title }}
-      </a>
-    </h2>
-    <h3 class="font-sans text-gray-600 ">
-      {{ with .Params.subtitle }}
-      {{ . }}
-      {{ end }}
-    </h3>
-  </header>
   {{ partial "article_content" . }}
-  <span class="text-xs mb-32  text-right font-sans  text-gray-700 capitalize block">
-    {{ if .Params.camera }}
-      <a href="{{ .RelPermalink }}">
-        📷 {{ .Params.camera }} {{ with .Params.film }}{{ $.Site.Params.arrow }} {{ . }} {{ end }}
-      </a>
+  <span class="text-xs  text-right font-sans  text-gray-700 capitalize block">
+    {{ with .Params.emoji }}
+      {{ . }}
     {{ else }}
-      {{ with .Params.emoji }}
-        {{ . }}
-      {{ else }}
-        {{ partial "emoji" . }}
-      {{ end }}
-      {{ partial "category-link" . }}
+      {{ partial "emoji" . }}
     {{ end }}
+    {{ partial "category-link" . }}
     {{ .Site.Params.arrow }}
     <a href="{{ .RelPermalink }}">
       <time class="dt-published" datetime="{{ .Date.Format "2006-01-02t15:04:05z0700" }}">

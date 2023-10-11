@@ -1,26 +1,27 @@
 ---
-seotitle: "Bonjour, la lettre - Bonjour Yannick"
-title: "Envoyer des mots doux"
+seotitle: "Bonjour, une newsletter - Bonjour Yannick"
+title: "Envoyer des mots doux et raconter n'importe quoi"
 emoji: 💌
 description: "Un petit moment d'échappement dans votre boîte mail"
 date: 2020-10-07T12:57:50+02:00
 draft: false
-color: jazzberry
-background: "[#F5DBCB]"
+color: rosewater
+
 resources:
   - src: "*.webp"
 menu:
   footer:
     weight: 5
-linktitle: "💌 Une newsletter"
+linktitle: "💌 Writing"
 ---
 
 
-**Bonjour, c'est quoi?** Une newsletter écrite et envoyée avec amour par moi-même. Une sorte de carte postale virtuelle, sans les informations sur les monos. Une salutation remplie de petites attentions, **des choses que j'aime et de sourires sans doute**.
-Elle n'est pas encore périodique, cela dépend de vous.
+**Bonjour**, c'est une carte postale virtuelle.   
+Des choses que j'aime et de sourires sans doute.  
+Jamais que des mots, sur un piano, tout ça.
 
 
-{{< letter account="bonjouryannick" accent="jazzberry" >}}
+{{< letter account="bonjouryannick" accent="rosewater" >}}
 
 <small>
 * Promis je ne revends pas tes données et je ne te spammerai pas. Je déteste cela

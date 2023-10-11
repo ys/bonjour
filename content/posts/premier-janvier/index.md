@@ -8,7 +8,7 @@ tags: []
 categories:
 - analog
 slug: "premier-janvier"
-color: indigo
+color: teal
 emoji: "🌊"
 resources:
 - src: "*.webp"

@@ -7,7 +7,7 @@ tags:
 - la lettre
 emoji: 💌
 title: "44 - Karma, Ollie et Ilford HP5+"
-color: jazzberry
+color: rosewater
 slug: "44"
 resources:
   - src: "*.webp"

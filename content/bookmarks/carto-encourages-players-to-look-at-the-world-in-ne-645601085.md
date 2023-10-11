@@ -5,11 +5,8 @@ category: article
 headImage: https://miro.medium.com/v2/da:true/resize:fit:616/1*GyIwsi7M3xT_HvJy73R-kA.gif
 title: Carto Encourages Players to Look at the World in New Ways
 domain: medium.com
-description: There are many things we can’t control, but changing our attitudes and
-  decisions can have profound implications
-tags:
-- medium
-- marius masalar
+description: 
+tags: []
 date: '2023-01-26T19:45:16.480Z'
 highlights: 
 ---

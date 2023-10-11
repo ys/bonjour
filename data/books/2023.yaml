@@ -1,5 +1,31 @@
 year: 2023
 books:
+  - title: Chroniques de San Francisco
+    subtitle: ''
+    author: Armistead Maupin
+    date: '2023-09-30T07:40:27.399053Z'
+    read: '2023-09-30T07:40:42.586780Z'
+    rating: 3
+    isbn: '2264029951'
+    isbn13: '9782264029959'
+    pages: 381
+    cover_url: >-
+      https://books.google.com/books/content?id=EPsnHQAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70No3f8lCspjiap0SEJNiYfLM0BQonpkHfemNvag_dQqgXC5CqloJ7JVOvuBmY7UDTsSZ8ksJ4S5_yT0YKHsB4OAqvUAFdC3moYhy9nhWLeWymZxrQbNUTjMeMu7QOwcoUDG6ML&source=gbs_api
+    reading: false
+    url: https://www.italictype.com/api/books/NpXeVDN/
+  - title: Where the Waves Turn Back
+    subtitle: A Forty-Day Pilgrimage Along the California Coast
+    author: Tyson Motsenbocker
+    date: '2023-09-16T16:11:56.325513Z'
+    read: '2023-09-26T07:01:30.319445Z'
+    rating: 4
+    isbn: '1546003460'
+    isbn13: '9781546003465'
+    pages: 245
+    cover_url: >-
+      https://books.google.com/books/publisher/content?id=8FaAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73y_6D7_EhuH00bnFhOBx5HcsaumyaJF9ETM_QS2ooShiJyqWmDUKrVmIxpctkoyY3JMr9wH1hDWDG8Iw-Y-IUbhf-otLancJyynAkApVh04nTkc_-3U5Rd3g9YIJ28zg6ifP6a&source=gbs_api
+    reading: false
+    url: https://www.italictype.com/api/books/v0bQ7PN/
   - title: Ebb and Flow
     subtitle: How to Connect with the Patterns and Power of Water
     author: Easkey Britton
@@ -31,7 +57,7 @@ books:
     author: Gerry Lopez
     date: '2023-08-22T20:35:01.404365Z'
     read: '2023-08-22T20:35:20.895498Z'
-    rating: 4
+    rating: 3
     isbn: '1938340949'
     isbn13: '9781938340949'
     pages: 416

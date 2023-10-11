@@ -1,7 +1,7 @@
 ---
-color: coral
-title: "Détailler un beau quotidien • 2021"
-summary: "Des détails, des moments, un beau quotidien"
+color: peach
+title: "Capturing details of a beautiful daily life • 2021"
+subtitle: "Some beautiful moments of my everyday life"
 date: "2021-01-01T01:01:01Z"
 skip: "cover.png"
 slug: "2021"
@@ -10,7 +10,7 @@ menu:
     weight: 3
 linktitle: "2021"
 ---
-
-Si je devais décrire ma pratique photo, je pense que j'adore **rendre beau le mondain.**
-Sublimer l'ordinaire et en faire des grandes histoires. J'ai toujours apprécier inventer des histoires à partir de rien.
-Voyez cela comme une **célébration de tous ces petits moments** qui ne vous marquent pas toujours.
+Whatever you do, get in the water on the first day of the year. 
+If you can snap a few shots, even better.
+We drove the camper around Brittany, spent a few days in Paris, but mostly stayed in Brittany.
+It is still full of surprises. Friends coming and visiting, swimming, surfing, just good moments. 

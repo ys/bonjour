@@ -1,9 +1,5 @@
   <div data-pswp class="mb-10 content-{{  $.Scratch.Get "color" }}">
-    <div class="dark:prose-invert prose post e-content">
+    <div class="dark:prose-invert  prose post e-content">
       {{.Content}}
     </div>
-    {{ if (in .Site.Params.showFooter .Type) }}
-      {{ partial "article_footer" . }}
-      {{ partial "article_signature" . }}
-    {{ end }}
 </div>

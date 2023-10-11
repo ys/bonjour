@@ -5,11 +5,8 @@ category: article
 headImage: https://images.dwell.com/photos/6564585472208388096/6569396547011756032/large.jpg
 title: 'My House: Apparel Designer Mikey Armenta’s Northern California Surf Retreat'
 domain: dwell.com
-description: In the sleepy surf town of Bolinas, Taylor Stitch creative director Mikey
-  Armenta finds inspiration in the ocean.
-tags:
-- dwell
-- thomas mcdermott
+description: 
+tags: []
 date: '2023-06-14T20:30:10.342Z'
 highlights: 
 ---

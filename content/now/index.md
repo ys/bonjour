@@ -1,62 +1,63 @@
 ---
 color: teal
-seotitle: "A propos"
-title: "Parler un peu de moi"
-description: "Ce que je fais pour le moment"
+seotitle: "A little bit about me - ✌🏻Bonjour Yannick"
+title: "Many small facts about me and a few bigger"
+description: "If you wanted to know more about me, this is the place."
 date: 2020-10-07T12:57:50+02:00
 draft: false
+color: yellow
 type: "about"
 resources:
   - src: "*.webp"
 menu:
   main:
-    weight: 7
-linktitle: un rien sur moi
+    weight: 6
+linktitle: "About"
 ---
 
-Moi, c'est Yannick. J'aime beaucoup **raconter des histoires et capturer des instants.**
-Quand je ne suis pas en train de coder sur divers projets au boulot ou en dehors, vous me trouverez sans doute en train de faire couler une tasse de café, d'apprendre à surfer, de prendre des photos ou de passer du temps en famille. 
+Hey folks, I am Yannick. I really enjoy **telling stories and capturing the mundane moments of life.**
+When I am not coding stuff at work or for myself, you'll probably find me brewing a cup of old joe, learning how to surf, capturing moments on film or spending some quality time with the family.
 
-On a ouvert un super gîte avec Cloé. Tu devrais suivre [@douarenn](https://instagram.com/douarenn) ou aller voir [douarenn.fr](https://douarenn.fr). Un gîte plein de déconnexion au coeur des monts d'Arrée. Réserve et viens nous voir!
+We launched an amazing project with Cloé. You should follow [@douarenn](https://instagram.com/douarenn) or visit [douarenn.fr](https://douarenn.fr). This is our cabin, disconnected from the internets in the middle of Finistère, in a place called "les Monts d'Arrée". [Book it now!](https://checkout.lodgify.com/douarenn/fr/#/475377/)
 
-![](now.webp)
+![me doing a v](now.webp)
 
+## Photography
 
-## Photographie
+Current gear:
+- [Leica M6](/leica-m6) with a summicron 50mm
+- A small Contax T3
+- [Nikonos V](/nikonos-v) with a 35mm
 
-Mon matos actuel:
-- [Leica M6](/leica-m6) avec un Summicron 50mm
-- Un petit Contax T3
-- [Nikonos V](/nikonos-v) avec son 35mm
-
-J'ai abandonné l'idée de scanner à la maison car au final, j'ai une super relation avec [mon labo](/mori). C'est encore mieux. 
-
-## Surf 
-
-J'ai commencé à faire de la [photo dans l'eau](/nikonos-glaz) armé de palmes et du Nikonos. C'est une petite drogue cette eau salée. J'ai craqué pour un longboard avec un pintail shapé par [Mimosa](https://www.mimosa-surfboards.com). Je l'ai racheté à [Hugo Crescent](https://www.instagram.com/hugo_crescent/). Un beau pig de 9'6", la board pas Hugo. Ça ne fait pas de moi autre chose qu'un kook. J'essaye d'éviter le néoprène et privilégie le Yulex.
-
-![Mes pieds](now2 "Mes pieds par Grégory Mignard")
-
-## Café
-
-J'ai un gros faible pour le bon café. V60, Kalita, Aeropress ou un bon flat white. Je suis souvent partant. Même si mon corps me dit de ralentir. N'ayant pas eu ma dose de boissons lactées depuis un moment, on a sauté le pas pour une machine à espresso semi automatique. Je ne suis toujours pas bon en latte art.
+I stopped thinking about home scans thanks to my great relationship with my beloved lab, [Mori](https://morifilmlab.com). It is way better to build relationship than skills. But hey, it is still somewhere, always.
 
 
-*Mise à jour le 2022.11.02. Si tu veux en savoir plus sur la page /now, [suis ceci](https://nownownow.com/about).*
+## Surf
 
-<hr/>
+I started taking [pictures in the water](/nikonos-glaz) with some fins and a Nikonos. Salty water is my favorite kind of drug. I got my first longboard shaped by [Mimosa](https://mimosa-surfboards.com). It is a beauty. But I am still a kook. But at least a kook with a damn good looking board. I try to avoid Neoprene and prefer Yulex
 
-## Recommandations
+![My feet](now2.webp "My feet by Grégory Mignard")
 
-📷 → Mes films sont développés et scannés principalement par [Mori Film Lab](https://morifilmlab.com).
 
-<span class="font-sans">☕️</span> → Mon café vient en général de chez [Mok Coffee](https://mokcoffee.be) et de [Terres de café](https://terresdecafe.com). J'aime toujours tester et découvrir d'autres torréfacteurs.
+## Coffee
 
-🖨 → Mes prints viennent de chez [Ooblik](https://ooblik.com) & [Négatif+](https://negatifplus.com). Je viens de faire [mon premier zine](/shop/a-thousand-tides) avec [Ex Why Zed](https://exwhyzed.co.uk) mais il est sold out pour le moment.
+I love a good cup of coffee. Using v60, Kalita or aeropress. My heart says stop but I keep drinking it. We got an espresso machine cause it is hard to get a good flat white around here but my latte art sucks.
+
+## Writing
+
+I am writing a [small letter in french](/bonjour) about all and nothing every two weeks. It is quite delightful. It forces me to write on a regular basis. I don't have many readers but they respond to those letters. So that makes me happy.
+
+## Favorites
+
+📷 → Negatives get developed and scanned mostly by [Mori Film Lab](https://morifilmlab.com).
+
+☕️ → Most of my coffee beans comes from [Mok Coffee](https://mokcoffee.be) and [Terres de café](https://terresdecafe.com). But I still like to try new roasters from time to time. Looking for suggestions
+
+🖨 → Prints come from [Ooblik](https://ooblik.com) & [Négatif+](https://negatifplus.com). I just printed [my first zine](/shop/a-thousand-tides) with [Ex Why Zed](https://exwhyzed.co.uk) but it is sold out right now.
 
 ## Social
 
-Je colle mes photos et des mots un peu partout:
+I stick my pictures and some words kind of all over the web:
 
 - [glass.photo](https://glass.photo/yannick)
 - [imgs.so](https://imgs.so/bonjouryannick)
@@ -64,13 +65,14 @@ Je colle mes photos et des mots un peu partout:
 - [twitter.com](https://twitter.com/bonjouryannick)
 - [vsco.co](https://vsco.co/bonjouryannick)
 
-C'est possible que j'en rajoute et en teste d'autres, je me lasse d'Instagram.
+I might try even more cause I am getting bored of Instagram.
 
 ## Colophon
 
-Ce site est statique et fait avec [Hugo](https://gohugo.io). Il est hébergé chez [Vercel](https://vercel.co). Optimisé avec mes mains et beaucoup de patience. Le code source est sur [GitHub](https://github.com/ys/bonjour). Les images sont optimisées par une GitHub Action de [Calibre](https://calibreapp.com/blog/compress-images-in-prs).
+This is a static website built with [Hugo](https://gohugo.io). Hosting is provided by [Vercel](https://vercel.co). Optimized with my own two hands and a lot of patience. The source of it lives on [GitHub](https://github.com/ys/bonjour). Images are optimised by a GitHub Action from [Calibre](https://calibreapp.com/blog/compress-images-in-prs).
 
-Tout le contenu est copyrighté mais n'hésitez pas à demander si vous voulez le réutiliser, on trouvera un moyen.
+Most of the content is copyrighted but open to discussion if you wanna re-use some of it.
 
 **Contact:** [hello@yannickschutz.com](mailto://hello@yannickschutz.com)
 
+*This page has been updated on 2023.10.09. If you wanna read more about /now, [follow this](https://nownownow.com/about).*
