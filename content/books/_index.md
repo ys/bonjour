@@ -1,13 +1,16 @@
 ---
-title: "Lire des livres"
 emoji: "📚"
-description: "Ce que j'ai lu."
+title: "Just a big pile of books I read"
+description: "A list per year of all the books I read"
 date: 2021-02-07T12:57:50+02:00
 draft: false
+color: yellow
 resources:
   - src: "*.webp"
+menu:
+  footer:
+    weight: 3
+linktitle: "📚 Reading"
 ---
 
-La plupart des livres que j'ai lu ces dernières années.
-J'aime pas mal dévorer des livres, j'aimerais vous en parler plus mais bien souvent, je ne sais pas quoi raconter dessus.
-Un petit résumé en quelques étoiles, et vous voilà avertis.
+Most books I read in the last couple of years.

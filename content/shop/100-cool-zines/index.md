@@ -1,40 +1,41 @@
 ---
+emoji: 🫶🏻
 color: yellow
 favorite: true
 title: "One hundred cool things in twenty twenty two"
-subtitle: "Mes moments favoris et quelques images"
+subtitle: "My favorite moments of the year and some shots"
 date: 2023-01-04
-pricetag: "7€"
+pricetag: "From 7€"
 price: "7.00"
 grid: "cover / 100things_5 | 100things_6"
-price_ids:
-  - name: "7€ • envoi Europe"
-    value: "price_1MO5WbFaA8Wpl3Epp2HCWI8H"
-  - name: "13€ • envoi Monde"
-    value: "price_1MO5WbFaA8Wpl3Ep9GsjdQgS"
 currency: "EUR"
+price_ids:
+  - name: "7€ • Europe Shipping"
+    value: "price_1MO5WbFaA8Wpl3Epp2HCWI8H"
+  - name: "13€ • Worldwide Shipping"
+    value: "price_1MO5WbFaA8Wpl3Ep9GsjdQgS"
 resources:
   - src: "*.webm"
   - src: "*.webp"
 ---
 
-Ce zine se compose de environ 100 moments qui font du bien à se remémorer et ces moments font face à des photos décrivant certains de ces moments.
+This zine contains a list of about 100 of my favorite moments. Those feel good moments of the year that you love to remember. They are accompanied by pictures taken over the year.
 
-Le texte est en anglais 🇬🇧
+Text is in english 🇬🇧
 
-**Ce zine est édité à 50 exemplaires. Pas un de plus.**
+**This is a limited edition. Only 50 will be available.**
 
-Les frais de port sont inclus pour l'Europe continentale.
-Pour le reste du monde, le prix est un rien plus élevé.
+Shipping is including for continental Europe.
+If you want it anyway, I included an international shipping price.
 
-*Prix ~7€* 
+*Price ~7€*
 
-**Ceci est une précommande, le zine sera envoyé vers la fin du mois**
+**This is a preorder, the zine will be ship by the end of the month**
 
 <div class="text-sm">
 Description: <br/> 
-livre A6 <br/> 
-Couverture mat laminée 300gsm non couché <br/> 
-24 pages sur du papier 170gsm non couché
+A6 size<br/> 
+Matt laminated cover onto 300gsm Uncoated <br/> 
+24 pages onto 170gsm Uncoated
 </div>
 
