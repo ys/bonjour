@@ -63,7 +63,7 @@ html{
 }
 
 .prose blockquote {
-  @apply italic border-yellow font-normal;
+  @apply italic font-normal;
 }
 
 $colors: {{ range .Site.Params.themeColors }}{{.}}, {{end}};

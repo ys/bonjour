@@ -19,10 +19,12 @@ I love to document the beautiful, seemingly ordinary details, to highlight the s
 
 > The beauty of the world hides in the details of your lives.
 
-![](22x50-0925-06)
-
 I enjoy documenting the lives of passionate people, products, or companies that align with my values. I offer you a simple and authentic perspective. An opportunity to capture the emotions you wish to share.
 For your editorial photography, photo reports, products documentaries, life portraits, or things, bonjour.
+
+I would love to hear more about your projects, do not hesitate to [Contact me](mailto:hello@yannickschutz.com)
+
+![](22x50-0925-06)
 
 I often wander with a camera, a pencil and/or a small notebook.
 I do enjoy [telling stories](/posts), [capturing moments](/daily) & [reading books](/books).
