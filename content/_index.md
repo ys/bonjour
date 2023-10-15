@@ -14,8 +14,9 @@ resources:
 ---
 
 Bonjour, my name is Yannick.
+I am a documentary style photographer based in Finistère, France.
 
-I love to document the beautiful, seemingly ordinary details, to highlight the small gestures of daily life and more simply lives.
+I love documenting the beautiful, seemingly ordinary details, to highlight the small gestures of daily life and more simply lives as it happens.
 
 > The beauty of the world hides in the details of your lives.
 
