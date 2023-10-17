@@ -3,8 +3,9 @@ color: peach
 title: "Bonjour portfolio"
 subtitle: "Beautiful moments of my everyday life"
 date: "2023-10-12T01:01:01Z"
-skip: "cover.png"
 slug: "portfolio"
+resources:
+- src: "*.jpg"
 menu:
   main:
     weight: 1
