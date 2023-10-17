@@ -12,6 +12,10 @@ document.addEventListener("DOMContentLoaded", function () {
     closeEl: false,
     captionEl: false,
     arrowEl: false,
+    maxSpreadZoom: 1,
+    getDoubleTapZoom: function(isMouseClick, item) {
+      return 1;
+    },
     barsSize: { top: 44, bottom: 44, left: 44, right: 44 }
   });
   params = new URLSearchParams(window.location.search)

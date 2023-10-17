@@ -1,0 +1,28 @@
+{{ define "main" }}
+<div class="mb-10 content-{{  $.Scratch.Get "color" }}">
+  <div  class="post dark:prose-invert prose ">
+    {{.Content}}
+  </div>
+</div>
+{{end}}
+{{ define "full" }}
+{{ if not .Params.hideSubmenu }}
+{{ $current := . }}
+<nav class="years mx-auto flex justify-around my-4">
+  <ul class="inline leading-relaxed flex gap-8 ">
+    {{ $menu := index .Site.Menus .Section}}
+    {{ range  $menu }}
+    {{ $active := or ($current.IsMenuCurrent .Menu .) ($current.HasMenuCurrent .Menu .) }}
+    <li
+        class="inline  relative ">
+      <a class="{{ .Params.class }} whitespace-nowrap {{ with .Page.Params.color }}hover:text-{{ . }} hover:border-{{ . }} {{ if $active }}underline decoration-dotted  decoration-{{ . }} {{ end }}{{ else }}hover:text-{{$.Scratch.Get "color"}} {{ if $active }}underline decoration-dotted decoration-{{$.Scratch.Get "color"}} {{ end }}{{ end }} transition ease-in-out duration-200 " href="{{ .URL }}" title="{{ .Title }}">
+
+        {{ .Name }}
+      </a>
+    </li>
+    {{ end }}
+  </ul>
+</nav>
+{{ end }}
+{{ partial "autogrid" . }}
+{{ end }}

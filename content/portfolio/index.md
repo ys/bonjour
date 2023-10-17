@@ -1,16 +1,16 @@
 ---
+hideSubmenu: true
 color: peach
 title: "Bonjour portfolio"
 subtitle: "Beautiful moments of my everyday life"
 date: "2023-10-12T01:01:01Z"
-slug: "portfolio"
 resources:
-- src: "*.jpg"
+- src: "*.webp"
+type: "photos"
 menu:
   main:
-    weight: 1
-linktitle: "Photos"
-type: "grid"
+    weight: 2
+linktitle: "Pictures"
 ---
 
 I enjoy documenting the lives of passionate people, products, or companies that align with my values. I offer you a simple and authentic perspective. An opportunity to capture the emotions you wish to share.

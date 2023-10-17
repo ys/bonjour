@@ -8,6 +8,7 @@ menu:
 linktitle: "🗓️ Daily"
 year: "2023"
 skip: "cover.png"
+type: "photos"
 ---
 
 I am telling small stories like they were big.  

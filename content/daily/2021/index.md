@@ -9,6 +9,7 @@ menu:
   daily:
     weight: 3
 linktitle: "2021"
+type: "photos"
 ---
 Whatever you do, get in the water on the first day of the year. 
 If you can snap a few shots, even better.

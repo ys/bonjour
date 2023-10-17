@@ -1,0 +1,29 @@
+{{ $allimages := slice }}
+{{ range sort (.Resources.ByType "image") "Name" "desc"}}
+  {{ if ne .Name "cover" }}
+    {{ $allimages = $allimages | append (dict "Image" .  ) }}
+  {{ end }}
+{{ end }}
+{{ $rows := dict }}
+{{ $columns := dict }}
+{{ $rowid := 0 }}
+{{ $colid := 0 }}
+{{ $possibilities := slice  (.Params.rows | default 3) }}
+{{ $itemsonrow := index (shuffle $possibilities) 0 }}
+{{ range $index, $img := $allimages }}
+  {{ $columns = merge $columns (dict (string (mod $index $itemsonrow)) (dict "Images" (slice $img)))}}
+  {{ $colid = add $colid 1 }}
+  {{ if eq $colid $itemsonrow }}
+    {{ $rows = merge $rows (dict (string $rowid) $columns) }}
+    {{ $itemsonrow = index (shuffle $possibilities) 0 }}
+    {{ $columns = dict }}
+    {{ $rowid = add $rowid 1 }}
+    {{ $colid = 0 }}
+  {{ end }}
+{{ end }}
+{{ $rows = merge $rows (dict (string $rowid) $columns) }}
+  <div data-pswp >
+    <div class="mx-auto lg:mx-32 mx-4 max-w-6xl">
+    {{ partial "grid" $rows }}
+    </div>
+  </div>

@@ -35,7 +35,7 @@
         <div class="flex flex-col min-h-full inherit " style="flex: 1 0 {{ mul 100.0 $colwidth -}}%">
           {{ range $images.Images }}
               {{ $dimension := div (div (mul 100.0 .Image.Height ) .Image.Width) $div }}
-              <div class="gap-4" style="flex: 1 0  {{ $dimension -}}%">
+              <div class="gap-6" style="flex: 1 0  {{ $dimension -}}%">
                 {{ if .Blank  }}
                   <div  class="aspect-[{{.Image.Width}}/{{.Image.Height}}] relative lg:block hidden"></div>
                 {{ else }}

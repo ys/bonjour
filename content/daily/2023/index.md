@@ -1,4 +1,5 @@
 ---
+default: true
 color: peach
 title: "Capturing details of a beautiful daily life • 2023"
 subtitle: "Some beautiful moments of my everyday life"
@@ -9,6 +10,7 @@ menu:
   daily:
     weight: 1
 linktitle: "2023"
+type: "photos"
 ---
 
 We opened [Douarenn](https://douarenn.fr), we had a crazy road trip in California, Started the year in Morocco.

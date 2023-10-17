@@ -59,7 +59,7 @@ html{
   content: " & "
 }
 :root {
-  --gap: 12px;
+  --gap: 20px;
 }
 
 .prose blockquote {
@@ -248,16 +248,12 @@ table {
   display: block; }
 
 .pswp--zoom-allowed .pswp__img {
-  /* autoprefixer: off */
-  cursor: -webkit-zoom-in;
-  cursor: -moz-zoom-in;
-  cursor: zoom-in; }
+  @apply cursor-pointer;
+}
 
 .pswp--zoomed-in .pswp__img {
-  /* autoprefixer: off */
-  cursor: -webkit-grab;
-  cursor: -moz-grab;
-  cursor: grab; }
+  @apply cursor-pointer;
+}
 
 .pswp--dragging .pswp__img {
   /* autoprefixer: off */
