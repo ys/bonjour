@@ -11,3 +11,8 @@ menu:
 linktitle: "Pictures"
 type: "grid"
 ---
+
+I enjoy documenting the lives of passionate people, products, or companies that align with my values. I offer you a simple and authentic perspective. An opportunity to capture the emotions you wish to share.
+For your editorial photography, photo reports, products documentaries, life portraits, or things, bonjour.
+
+I would love to hear more about your projects, do not hesitate to [Contact me](mailto:hello@yannickschutz.com)

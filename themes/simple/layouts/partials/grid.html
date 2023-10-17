@@ -15,7 +15,7 @@
       {{ end }}
       {{ $colwidth := div (div 1.0 $div) $width }}
       {{ if (eq (len $columns) 1) }}
-        <div class="lg:flex  flex-col min-h-full inherit" style="flex: 1 0 {{ mul 100.0 $colwidth -}}%">
+      <div class="lg:flex flex-col min-h-full inherit" style="flex: 1 0 {{ mul 100.0 $colwidth -}}%">
           {{ range $images.Images }}
             {{ if .Blank  }}
             <div class="aspect-[{{.Image.Width}}/{{.Image.Height}}]" class="relative lg:block hidden"></div>
