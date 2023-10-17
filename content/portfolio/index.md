@@ -1,6 +1,6 @@
 ---
 color: peach
-title: "Some of my favorite shots"
+title: "Bonjour portfolio"
 subtitle: "Beautiful moments of my everyday life"
 date: "2023-10-12T01:01:01Z"
 skip: "cover.png"
@@ -8,7 +8,7 @@ slug: "portfolio"
 menu:
   main:
     weight: 1
-linktitle: "Pictures"
+linktitle: "Photos"
 type: "grid"
 ---
 

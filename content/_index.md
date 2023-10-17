@@ -3,6 +3,7 @@ title: "Bonjour Yannick"
 seotitle: "✌️ Bonjour Yannick - Documenting the seemingly ordinary details"
 summary: "Nothing important in a beautiful way with a cup of black coffee"
 description: "Nothing important in a beautiful way with a cup of black coffee"
+color: yellow
 date: 2017-10-26T22:57:50+02:00
 draft: false
 hideSubscribe: true
@@ -14,8 +15,8 @@ resources:
 ---
 
 Bonjour, my name is Yannick.
-I am a documentary style photographer based in Finistère, France.  
-I love to capture the beautiful, seemingly ordinary details, to highlight the small gestures of daily life and more simply lives as they happen.  
+I am a **documentary style photographer based in Finistère, France**.  
+I love to capture the [beautiful, **seemingly ordinary details**](/portfolio), to highlight the small gestures of daily life and more simply **lives as they happen**.  
 I often wander with a camera, a pencil and/or a small notebook.
 
 I do enjoy [telling stories](/posts), [capturing moments](/daily) & [reading books](/books).  

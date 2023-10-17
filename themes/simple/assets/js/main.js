@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
   new LazyLoad({
-    elements_selector: ".lazyload"
+    elements_selector: "[loading=lazy]"
   });
   photoswipeSimplify.init({
     history: false,
