@@ -1,4 +1,5 @@
 ---
+shuffle: true
 hideSubmenu: true
 color: peach
 title: "Bonjour portfolio"

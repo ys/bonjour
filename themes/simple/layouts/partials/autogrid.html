@@ -1,8 +1,16 @@
 {{ $allimages := slice }}
+{{ if .Params.shuffle }}
+{{ range shuffle (.Resources.ByType "image")}}
+  {{ if ne .Name "cover" }}
+    {{ $allimages = $allimages | append (dict "Image" .  ) }}
+  {{ end }}
+{{ end }}
+{{ else }}
 {{ range sort (.Resources.ByType "image") "Name" "desc"}}
   {{ if ne .Name "cover" }}
     {{ $allimages = $allimages | append (dict "Image" .  ) }}
   {{ end }}
+{{ end }}
 {{ end }}
 {{ $rows := dict }}
 {{ $columns := dict }}
