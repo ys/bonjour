@@ -27,7 +27,7 @@ I would love to hear more about your projects, do not hesitate to [Contact me](m
 
 Bonjour, je suis Yannick.  
 
-Je suis un **photographe documentaire basé en Finistère, France**.  
+Je suis **photographe documentaire basé en Finistère, France**.  
 J'aime documenter [les beaux détails anodins](/portfolio), mettre en avant les petits gestes du quotidien et plus simplement **des moments de vies**.  
 Je me balade souvent avec un appareil photo, un stylo et un petit carnet.
 
