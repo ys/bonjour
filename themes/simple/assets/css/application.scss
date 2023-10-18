@@ -59,11 +59,11 @@ html{
   content: " & "
 }
 :root {
-  --gap: 12px;
+  --gap: 20px;
 }
 
 .prose blockquote {
-  @apply italic border-yellow font-normal;
+  @apply italic font-normal;
 }
 
 $colors: {{ range .Site.Params.themeColors }}{{.}}, {{end}};
@@ -248,16 +248,12 @@ table {
   display: block; }
 
 .pswp--zoom-allowed .pswp__img {
-  /* autoprefixer: off */
-  cursor: -webkit-zoom-in;
-  cursor: -moz-zoom-in;
-  cursor: zoom-in; }
+  @apply cursor-pointer;
+}
 
 .pswp--zoomed-in .pswp__img {
-  /* autoprefixer: off */
-  cursor: -webkit-grab;
-  cursor: -moz-grab;
-  cursor: grab; }
+  @apply cursor-pointer;
+}
 
 .pswp--dragging .pswp__img {
   /* autoprefixer: off */
@@ -270,7 +266,7 @@ table {
 	As animating opacity is much faster than animating rgba() background-color.
 */
 .pswp__bg {
-  @apply bg-white bg-opacity-60 backdrop-filter backdrop-blur-md;
+  @apply dark:bg-crust bg-white bg-opacity-60 dark:bg-opacity-60 backdrop-filter backdrop-blur-md;
   position: absolute;
   left: 0;
   top: 0;

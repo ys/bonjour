@@ -1,7 +1,0 @@
-{{ with .Params.categories }}
-  {{ range first 1 . }}
-    {{ with $.Site.GetPage "categories" . }}
-      <a href="{{ .RelPermalink }}">{{ .Name | strings.FirstUpper }}</a>
-    {{end}}
-  {{ end }}
-{{ end }}
