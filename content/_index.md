@@ -1,8 +1,8 @@
 ---
 title: "Bonjour Yannick"
 seotitle: "✌️ Bonjour Yannick - Documenting the seemingly ordinary details"
-summary: "Nothing important in a beautiful way with a cup of black coffee"
-description: "Nothing important in a beautiful way with a cup of black coffee"
+summary: "I am a documentary style photographer based in Finistère, France"
+description: "I am a documentary style photographer based in Finistère, France"
 color: yellow
 date: 2017-10-26T22:57:50+02:00
 draft: false
