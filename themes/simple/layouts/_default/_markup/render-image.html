@@ -31,7 +31,7 @@
     {{end}}
     {{ with .Title }}
       <figcaption class="text-center -mt-4 text-sm  text-gray-500 ">
-        {{ . }}
+        {{ . | markdownify }}
       </figcaption>
     {{ end }}
   </figure>
@@ -68,7 +68,7 @@
     </picture>
     {{ with .Title }}
     <figcaption class="text-center -mt-18 text-sm  text-gray-500 ">
-      {{ . }}
+      {{ . | markdownify }}
     </figcaption>
     {{ end }}
   </figure>
