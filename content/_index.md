@@ -22,13 +22,3 @@ I love to capture the [beautiful, **seemingly ordinary details**](/portfolio), t
 I often wander with a camera, a pencil and/or a small notebook.
 
 I would love to hear more about your projects, do not hesitate to [Contact me](mailto:hello@yannickschutz.com)
-
---- 
-
-Bonjour, je suis Yannick.  
-
-Je suis **photographe documentaire basé en Finistère, France**.  
-J'aime documenter [les beaux détails anodins](/portfolio), mettre en avant les petits gestes du quotidien et plus simplement **des moments de vies**.  
-Je me balade souvent avec un appareil photo, un stylo et un petit carnet.
-
-J'adorerais en apprendre plus sur vos projets, [Contactez moi](mailto:hello@yannickschutz.com)
