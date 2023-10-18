@@ -442,10 +442,12 @@
 				if (node.getAttribute('width')) {
 					var width = node.getAttribute('width');
 					var height = node.getAttribute('height');
+					var msrc = node.getAttribute('msrc');
 					self.items[galleryIndex][i] = {
 						src: src,
 						w: parseInt(width, 10),
 						h: parseInt(height, 10),
+						msrc: msrc,
 						title: title,
 						author: author
 					};

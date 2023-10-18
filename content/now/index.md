@@ -1,7 +1,7 @@
 ---
 color: teal
 seotitle: "A little bit about me - ✌🏻Bonjour Yannick"
-title: "Many small facts about me and a few bigger"
+title: "Bonjour Yannick"
 description: "If you wanted to know more about me, this is the place."
 date: 2020-10-07T12:57:50+02:00
 draft: false
