@@ -65,6 +65,6 @@ const books = _.map(data.results, (b: IResult) => {
 		url: b.book.url
 	}
 }) as Book[]
-await Deno.writeTextFile("./data/books/current.yaml", yaml.dump({ books: books }));
+await Deno.writeTextFile("./data/books/current.yaml", yaml.dump({ year: "Currently reading", books: books }));
 
 console.log("I am reading this")
