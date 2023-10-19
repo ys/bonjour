@@ -30,6 +30,13 @@ jobs:
       - name: Fetch ItalicType data
         uses: githubocto/flat@v3
         with:
+          http_url: "https://www.italictype.com/api/bookqueueitems/?queue=1"
+          downloaded_filename: data/italictype_current.json
+          authorization: "Bearer ${{ steps.get-api-token.outputs.italictype_token }}"
+          postprocess: flat/italictype_current.ts
+      - name: Fetch ItalicType data
+        uses: githubocto/flat@v3
+        with:
           http_url: "https://www.italictype.com/api/bookqueueitems/?queue=2&limit=2000"
           downloaded_filename: data/italictype.json
           authorization: "Bearer ${{ steps.get-api-token.outputs.italictype_token }}"
