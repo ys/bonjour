@@ -1,5 +1,33 @@
 current: true
 books:
+  - title: >-
+      Demain, et demain, et demain : Rentrée littéraire 2023 - Le roman
+      phénomène aux Etats-Unis
+    subtitle: ''
+    author: Gabrielle Zevin
+    date: '2023-10-24T06:59:53.179670Z'
+    read: null
+    rating: .nan
+    isbn: 226515654X
+    isbn13: '9782265156548'
+    pages: 449
+    cover_url: >-
+      https://books.google.com/books/publisher/content?id=zqDAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72_yB_pNHvoVJXI5jV_-r6sdhKpXrROkvNvhtclv22KE8mQ6VrQ2Lgnhtd5CXv663mVRruSnHfU-WVoIP5z9wNsjgZ7mB2PlYPjaxQf5EiYlakLPOPWY2OoDmRVPaOw1TfEP611&source=gbs_api
+    reading: true
+    url: https://www.italictype.com/api/books/NAwR1Dv/
+  - title: Harlem shuffle
+    subtitle: ''
+    author: Colson Whitehead
+    date: '2023-10-24T06:58:57.322094Z'
+    read: null
+    rating: .nan
+    isbn: '2226481966'
+    isbn13: '9782226481962'
+    pages: 334
+    cover_url: >-
+      https://books.google.com/books/publisher/content?id=zJKdEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70GIR3y49Wad1FL152mgKjAaxI47J-KjdXyslNxugA2rhRQDeTZVLWq3ggntn5okO-sGkkOPc0fO99ZSNfV98YpnKfLHOCB_0m7fNPiGEyWspSKhHAy3onpFX8Dd4Vhp0f5DYkU&source=gbs_api
+    reading: true
+    url: https://www.italictype.com/api/books/8MJgEmN/
   - title: Saving Time
     subtitle: Discovering a Life Beyond the Clock
     author: Jenny Odell
