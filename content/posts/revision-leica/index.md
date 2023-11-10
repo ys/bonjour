@@ -5,14 +5,14 @@ date: "2023-10-02T12:43:33+0002"
 slug: "/revision-leica"
 title: "J'ai fait réviser mon Leica M6"
 subtitle: "Et il en avait besoin"
-summary: "Mon labo me le disait, y'a quelque chose de bizarre dans tes expositions."
+description: "Mon labo me le disait, y'a quelque chose de bizarre dans tes expositions."
 resources:
   - src: "*.webp"
-categories: 
+categories:
 - journal
 ---
 
-[Mon labo](https://morifilmlab.com) me le disait: "y'a quelque chose de bizarre dans tes expositions". À un moment, tu te décides à l'envoyer en réparation. Bien sûr, c'était juste avant notre voyage aux US. Je venais de commander un summicron 50mm pour le trip. Et là, le couperet tombe il doit être immobilisé trois mois... Oops, donc je ne l'aurai pas pour les US. Ce fut ma première réaction... Mais au final, c'était pour mieux se retrouver. 
+[Mon labo](https://morifilmlab.com) me le disait: "y'a quelque chose de bizarre dans tes expositions". À un moment, tu te décides à l'envoyer en réparation. Bien sûr, c'était juste avant notre voyage aux US. Je venais de commander un summicron 50mm pour le trip. Et là, le couperet tombe il doit être immobilisé trois mois... Oops, donc je ne l'aurai pas pour les US. Ce fut ma première réaction... Mais au final, c'était pour mieux se retrouver.
 
 En gros, rien n'allait dans l'appareil, les vitesses étaient incorrectes, le rideau foirait et tout le reste un peu aussi. La cellule méritait d'arrêter l'alcool. Et moi qui me demandait pourquoi j'avais des résultats étranges au Maroc. Voilà la raison. Il avait besoin de soins.
 

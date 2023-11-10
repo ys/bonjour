@@ -13,7 +13,7 @@ resources:
 - src: "saint-samson.webp"
   name: "cover"
 - src: "*.webp"
-summary: "On était en bord de mer pour l'anniversaire de Cloé hier. À un moment, elle me dit quelque chose du genre: 'Si tu m'avais dit y'a un an que je fêterais mon anniversaire en marchant le long de la mer, je t'aurais ri au nez.' Cette phrase a juste déclenché un flux de pensées."
+description: "On était en bord de mer pour l'anniversaire de Cloé hier. À un moment, elle me dit quelque chose du genre: 'Si tu m'avais dit y'a un an que je fêterais mon anniversaire en marchant le long de la mer, je t'aurais ri au nez.' Cette phrase a juste déclenché un flux de pensées."
 ---
 
 ![saint-samson-23.webp](saint-samson-23.webp)

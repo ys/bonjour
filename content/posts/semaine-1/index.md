@@ -26,7 +26,7 @@ resources:
   - src: "semaine-1.webp"
     name: "cover"
   - src: "*.webp"
-summary: "Cela fait déjà une semaine que nous avons pris la route. On signe les papiers de la maison et on démarre cette nouvelle vie. À la moitié de la route, Cloé le sent bien, on le fera d'une traite. La nuit n’était pas tombée. Ils nous avaient laissé un matelas et un lit. "
+description: "Cela fait déjà une semaine que nous avons pris la route. On signe les papiers de la maison et on démarre cette nouvelle vie. À la moitié de la route, Cloé le sent bien, on le fera d'une traite. La nuit n’était pas tombée. Ils nous avaient laissé un matelas et un lit. "
 ---
 
 > Berrien, France. Hier, 998 habitants... Aujourd'hui, 1001.

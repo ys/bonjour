@@ -14,7 +14,7 @@ color: rosewater
 
 title: "2 - Fire lookout, auto portraits et photo de chasse"
 slug: "2"
-summary: "Cette lettre me permet d'écrire et d'expérimenter plus que sur le blog. J'avais envie de partager avec vous différemment. "
+description: "Cette lettre me permet d'écrire et d'expérimenter plus que sur le blog. J'avais envie de partager avec vous différemment. "
 ---
 
 ![](148a749b-bad5-4390-830c-9b6acb229114.webp)

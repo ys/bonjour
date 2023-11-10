@@ -14,7 +14,7 @@ resources:
     name: "cover"
   - src: "*.gif"
 date: 2022-05-17T22:33:23+0200
-summary: "Le surf, c'est plein de choses, c'est un mélange d'émotions mais c'est surtout un plaisir."
+description: "Le surf, c'est plein de choses, c'est un mélange d'émotions mais c'est surtout un plaisir."
 ---
 
 Apprendre le surf quand tu as passé la trentaine et que tu vis à une heure de la côte, c'est un choix. Un choix pas toujours simple, mais un choix quand même.

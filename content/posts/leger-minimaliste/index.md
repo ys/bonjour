@@ -9,7 +9,7 @@ categories:
 - journal
 resources:
 - src: "*.webp"
-summary: "Cela fait maintenant trois ans que je lis et m'intéresse au minimalisme, mobilier et mental. Je me suis rendu compte que mes possessions me possédaient. Et que à cause d'elles, je n'étais pas toujours présent et pas toujours heureux. J'ai compris que les réseaux sociaux le plus souvent me rendaient malheureux et que donc au final ces évolutions ne me permettaient pas de vivre."
+description: "Cela fait maintenant trois ans que je lis et m'intéresse au minimalisme, mobilier et mental. Je me suis rendu compte que mes possessions me possédaient. Et que à cause d'elles, je n'étais pas toujours présent et pas toujours heureux. J'ai compris que les réseaux sociaux le plus souvent me rendaient malheureux et que donc au final ces évolutions ne me permettaient pas de vivre."
 ---
 
 Cela fait maintenant trois ans que je lis et m'intéresse au minimalisme, mobilier et mental. Je me suis rendu compte que mes possessions me possédaient. Et que à cause d'elles, je n'étais pas toujours présent et pas toujours heureux. J'ai compris que les réseaux sociaux le plus souvent me rendaient malheureux et que donc au final ces évolutions ne me permettaient pas de vivre.
@@ -27,4 +27,3 @@ Je vous suggère des livres comme [Simplicity Parenting](https://www.goodreads.c
 Tout cela pour m'amener à ce que je désire être, une personne heureuse et bonne envers mes semblables et mon monde. Je ne sais pas vivre aux extrêmes et je me considère plus comme un léger minimaliste. C'est ma vadrouille intérieure.
 
 **Less is more.**
-

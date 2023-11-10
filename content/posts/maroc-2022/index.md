@@ -11,7 +11,7 @@ categories:
 resources:
   - src: "*.webp"
 
-summary: "Echanger les mois noirs bretons pour quelques jours de soleil près des Berbères."
+description: "Echanger les mois noirs bretons pour quelques jours de soleil près des Berbères."
 ---
 
 Les mois noirs, en Bretagne, on te dit que si tu arrives à les passer, tu pourras rester sans souci en Bretagne. On la fait les premières années. Là, cela fait deux ans que l'on se permet un break de vitamine D. Cela fait longtemps que Cloé voulait voir le Maroc. Donc on a décidé d'y passer le nouvel an.
