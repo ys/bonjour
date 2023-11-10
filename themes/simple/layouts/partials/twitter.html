@@ -9,7 +9,7 @@
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="{{ $featured.Permalink }}"/>
 {{- else -}}
-  <meta property="twitter:image" content="{{ $.Site.Params.ogURL }}/api/og?{{ (querify "title" .Title "subtitle" (.Description | truncate 100 | default "") "color" ($.Scratch.Get "color")) | safeURL }}"/>
+  <meta property="twitter:image" content="{{ $.Site.Params.ogURL }}/api/og?{{ (querify "title" .Title "subtitle" (.Params.subtitle) "description" (.Description | truncate 600 | default "") "color" ($.Scratch.Get "color")) | safeURL }}"/>
   <meta name="twitter:card" content="summary_large_image"/>
 {{- end -}}
 {{- end }}
