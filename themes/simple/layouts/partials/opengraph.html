@@ -5,11 +5,8 @@
 {{- $images := $.Resources.ByType "image" -}}
 {{- $featured := $images.GetMatch "*feature*" -}}
 {{- $featured := cond (ne $featured nil) $featured ($images.GetMatch "{*cover*,*thumbnail*}") -}}
-{{- with $featured -}}
-  <meta property="og:image" content="{{ $featured.Permalink }}"/>
-{{ else -}}
-  <meta property="og:image" content="{{ $.Site.Params.ogURL }}/api/og?{{ (querify "title" .Title "subtitle" (.Params.subtitle) "description" (.Description | truncate 600 | default "") "color" ($.Scratch.Get "color")) | safeURL }}"/>
-{{ end -}}
+{{- $featured := cond (ne $featured nil) $featured (index $images 0) -}}
+<meta property="og:image" content="{{ $.Site.Params.ogURL }}/api/og?{{ (querify "title" .Title "subtitle" (.Params.subtitle | default "") "description" (.Summary | truncate 600 | default "") "color" ($.Scratch.Get "color") "image" ($featured.Permalink | default "")) | safeURL }} "/>
 
 {{- if .IsPage }}
 {{- if not .PublishDate.IsZero }}<meta property="article:published_time" content="{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" | safeHTMLAttr }}"/>

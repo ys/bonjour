@@ -1,18 +1,9 @@
-{{- with $.Params.images -}}
-<meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="{{ index . 0 | absURL }}"/>
-{{ else -}}
 {{- $images := $.Resources.ByType "image" -}}
 {{- $featured := $images.GetMatch "*feature*" -}}
-{{- if not $featured }}{{ $featured = $images.GetMatch "{*cover*,*thumbnail*}" }}{{ end -}}
-{{- with $featured -}}
+{{- $featured := cond (ne $featured nil) $featured ($images.GetMatch "{*cover*,*thumbnail*}") -}}
+{{- $featured := cond (ne $featured nil) $featured (index $images 0) -}}
 <meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="{{ $featured.Permalink }}"/>
-{{- else -}}
-  <meta property="twitter:image" content="{{ $.Site.Params.ogURL }}/api/og?{{ (querify "title" .Title "subtitle" (.Params.subtitle) "description" (.Description | truncate 600 | default "") "color" ($.Scratch.Get "color")) | safeURL }}"/>
-  <meta name="twitter:card" content="summary_large_image"/>
-{{- end -}}
-{{- end }}
+<meta property="twitter:image" content="{{ $.Site.Params.ogURL }}/api/og?{{ (querify "title" .Title "subtitle" (.Params.subtitle | default "") "description" (.Summary | truncate 600 | default "") "color" ($.Scratch.Get "color")  "image" ($featured.Permalink | default ""))| safeURL }}"/>
 <meta name="twitter:title" content="{{ .Title }}"/>
 <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}"/>
 {{ with .Site.Social.twitter -}}
