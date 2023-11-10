@@ -1,9 +1,11 @@
 {{- $images := $.Resources.ByType "image" -}}
-{{- $featured := $images.GetMatch "*feature*" -}}
-{{- $featured := cond (ne $featured nil) $featured ($images.GetMatch "{*cover*,*thumbnail*}") -}}
-{{- $featured := cond (ne $featured nil) $featured (index $images 0) -}}
+{{- $card := $images.GetMatch "card*" -}}
 <meta name="twitter:card" content="summary_large_image"/>
-<meta property="twitter:image" content="{{ $.Site.Params.ogURL }}/api/og?{{ (querify "title" .Title "subtitle" (.Params.subtitle | default "") "description" (.Description | default "") "color" ($.Scratch.Get "color")  "image" ($featured.Permalink | default "")) }}"/>
+{{ with $card }}
+<meta property="twitter:image" content="{{ .Permalink }}"/>
+{{ else }}
+<meta property="twitter:image" content="{{ $.Site.Params.ogURL }}/api/og?{{ (querify "title" .Title "subtitle" (.Params.subtitle | default "") "description" (.Description | default "") "color" ($.Scratch.Get "color") )}} "/>
+{{ end }}
 <meta name="twitter:title" content="{{ .Title }}"/>
 <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end -}}"/>
 {{ with .Site.Social.twitter -}}
