@@ -8,7 +8,7 @@
 {{- with $featured -}}
   <meta property="og:image" content="{{ $featured.Permalink }}"/>
 {{ else -}}
-  <meta property="og:image" content="{{ $.Site.Params.ogURL }}/api/og?{{ (querify "title" .Title "subtitle" (.Description | truncate 100  | default "") "color" ($.Scratch.Get "color")) | safeURL }}"/>
+  <meta property="og:image" content="{{ $.Site.Params.ogURL }}/api/og?{{ (querify "title" .Title "subtitle" (.Params.subtitle) "description" (.Description | truncate 600 | default "") "color" ($.Scratch.Get "color")) | safeURL }}"/>
 {{ end -}}
 
 {{- if .IsPage }}
