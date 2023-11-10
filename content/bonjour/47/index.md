@@ -12,7 +12,7 @@ slug: "47"
 resources:
   - src: "*.webp"
   - src: "*.gif"
-summary: "C'est marrant comme dès que je met des règles, je les transgresse. Une lettre toutes les deux semaines, J'en ris encore... Comme si mon cerveau allait me laisser faire cela"
+description: "C'est marrant comme dès que je met des règles, je les transgresse. Une lettre toutes les deux semaines, J'en ris encore... Comme si mon cerveau allait me laisser faire cela"
 ---
 
 *Hello, moi c'est [Yannick](https://yannickschutz.com). je ne suis pas du tout régulier dans cette lettre et c'est peut-être tant mieux. je ne sais pas pourquoi je l'écris, souvent vous, lecteur, remplacez une séance chez un psy ou un appel à un ami je pense. donc merci merci d’être là. si vous aimez, n’hésitez pas à la partager. sinon, ne la partagez pas.*
@@ -25,7 +25,7 @@ Bonjour,
 
 Je n'écris pas assez ces temps-ci. Je ne sais pas si je ne sais pas quoi dire ou si je ne sais pas comment le dire. C'est marrant comme dès que je met des règles, je les transgresse. Une lettre toutes les deux semaines, J'en ris encore... Comme si mon cerveau allait me laisser faire cela. Ce n'est pas du tout que je glande, je regarde le brouillard le matin, j'écoute la bête entrer dans notre toit le soir, je bois du café la journée. Vous voyez, j'ai une vie plutôt bien remplie et pleine de surprises. Je ne sais pas quelle bête vient sous notre toit par exemple.
 
-J'ai le cerveau en ébullition. Aujourd'hui, on m'a demandé si je ne m'ennuyais pas ici. Mais bien sûr que si! C'est d'ailleurs bien là le but. Si je ne m'ennuie pas, mon cerveau ne se perd pas et ma créativité devient mécanique. M'ennuyer est positif. Cela me fait divaguer, flâner dans la campagne ou même prendre un livre pour lire. Ce sont là des activités de la plus haute importance. Je porte l'ennui comme un étendard, mon Union Jack à moi, le blason de la famille. 
+J'ai le cerveau en ébullition. Aujourd'hui, on m'a demandé si je ne m'ennuyais pas ici. Mais bien sûr que si! C'est d'ailleurs bien là le but. Si je ne m'ennuie pas, mon cerveau ne se perd pas et ma créativité devient mécanique. M'ennuyer est positif. Cela me fait divaguer, flâner dans la campagne ou même prendre un livre pour lire. Ce sont là des activités de la plus haute importance. Je porte l'ennui comme un étendard, mon Union Jack à moi, le blason de la famille.
 
 Merde c'était une super graine que cette question. Pardonnez-mon français comme diraient les américains, qui ne parlent pas français. Moi, je m'excuse de mon anglais. Pas parce qu'il est vulgaire. Parce qu'il est remplit de fautes. On m'a dit de pas m'excuser pour cela. Donc, je ne m'excuse plus. Quelle pirouette narrative.
 

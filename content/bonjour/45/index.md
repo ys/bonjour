@@ -12,7 +12,7 @@ slug: "45"
 resources:
   - src: "*.webp"
   - src: "*.gif"
-summary: "C'est déjà le mois de juin, je me retrouve à peu écrire ces temps-ci. Je ne sais pas pourquoi, c'est les saisons sans doute. Trop occupé ailleurs, je ne rempli ni mes carnets, ni mon site web. Je tweete peu, je poste peu sur Instagram, la vie est ailleurs en ce moment. C'est sans doute une bonne chose en fait... Je profite donc d'une petite pause midi pour vous envoyer quelques nouvelles."
+description: "C'est déjà le mois de juin, je me retrouve à peu écrire ces temps-ci. Je ne sais pas pourquoi, c'est les saisons sans doute. Trop occupé ailleurs, je ne rempli ni mes carnets, ni mon site web. Je tweete peu, je poste peu sur Instagram, la vie est ailleurs en ce moment. C'est sans doute une bonne chose en fait... Je profite donc d'une petite pause midi pour vous envoyer quelques nouvelles."
 
 ---
 
@@ -45,4 +45,3 @@ Yannick
 ![](1)
 ![](2)
 ![](4)
-

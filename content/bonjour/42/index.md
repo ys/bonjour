@@ -11,7 +11,7 @@ color: rosewater
 slug: "42"
 resources:
   - src: "*.webp"
-summary: "Comme disait un grand poète du nom de Léonard de Vinci, le bonheur ne se trouve pas en lingots mais en petite monnaie. Pourquoi dit-il ceci vous demandez vous? J'ai envie de vous parler des petits bonheurs de mon quotidien. J'aime rendre les choses simples et communes belles et extraordinaires, c'est du moins ce que j'essaye de faire en photo. Et je me rend compte que plein de petits bonheurs simples font une vie belle, plutôt qu'un gros bonheur une fois dans sa vie."
+description: "Comme disait un grand poète du nom de Léonard de Vinci, le bonheur ne se trouve pas en lingots mais en petite monnaie. Pourquoi dit-il ceci vous demandez vous? J'ai envie de vous parler des petits bonheurs de mon quotidien. J'aime rendre les choses simples et communes belles et extraordinaires, c'est du moins ce que j'essaye de faire en photo. Et je me rend compte que plein de petits bonheurs simples font une vie belle, plutôt qu'un gros bonheur une fois dans sa vie."
 ---
 *hello, moi c'est [Yannick](https://yannickschutz.com). je ne suis pas du tout régulier dans cette lettre et c'est peut-être tant mieux. je ne sais pas pourquoi je l'écris, souvent vous, lecteur, remplacez une séance chez un psy ou un appel à un ami je pense. donc merci merci d’être là. si vous aimez, n’hésitez pas à la partager. sinon, ne la partagez pas. Oops, deux en une semaine, il doit vraiment vouloir papoter.*
 

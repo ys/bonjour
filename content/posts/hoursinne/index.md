@@ -12,7 +12,7 @@ categories:
 - ailleurs
 resources:
 - src: "*.webp"
-summary: "C'est une belle après-midi de printemps, on est invité chez Anne et Martin à l'orée du bois. Après avoir chassé les tritons dans leur mare, on décide d'aller faire une petite balade en forêt."
+description: "C'est une belle après-midi de printemps, on est invité chez Anne et Martin à l'orée du bois. Après avoir chassé les tritons dans leur mare, on décide d'aller faire une petite balade en forêt."
 ---
 
 C'est une belle après-midi de printemps, on est invité chez Anne et Martin à l'orée du bois. Après avoir chassé les tritons dans leur mare, on décide d'aller faire une petite balade en forêt.
@@ -36,5 +36,3 @@ On entend du bruit dans les buissons, Nelson réapparait haletant, il a du bien 
 
 A la fin de la balade, Anne nous fait découvrir les 50000 abeilles qu'ils viennent d'adopter.
 Le barbecue chauffe et on passera une belle soirée dehors à discuter.
-
-

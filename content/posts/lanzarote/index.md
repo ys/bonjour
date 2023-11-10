@@ -14,7 +14,7 @@ tags:
   - Espagne
   - vacances
   - hotel
-summary: "Une semaine pour faire le plein de vitamine D au large du Maroc. Lanzarote, un dépaysement qui nous plaît bien."
+description: "Une semaine pour faire le plein de vitamine D au large du Maroc. Lanzarote, un dépaysement qui nous plaît bien."
 resources:
   - src: "*.webp"
   - name: "cover"

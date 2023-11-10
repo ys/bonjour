@@ -12,7 +12,7 @@ slug: "43"
 resources:
   - src: "*.webp"
   - src: "*.gif"
-summary: "Je viens de faire couler une jatte de café comme dirait mon père. 250g d'eau et 13g de café. Un bon début de journée au Kalita. Le sol est gelé, au moins il ne faudra pas laver les pattes du chien après sa balade. Les minutes passent et je fixe la vapeur que produit mon café. C'est sans doute ceci que les gens décrivent comme une journée qui démarre calmement."
+description: "Je viens de faire couler une jatte de café comme dirait mon père. 250g d'eau et 13g de café. Un bon début de journée au Kalita. Le sol est gelé, au moins il ne faudra pas laver les pattes du chien après sa balade. Les minutes passent et je fixe la vapeur que produit mon café. C'est sans doute ceci que les gens décrivent comme une journée qui démarre calmement."
 ---
 
 *hello, moi c'est [Yannick](https://yannickschutz.com). je ne suis pas du tout régulier dans cette lettre et c'est peut-être tant mieux. je ne sais pas pourquoi je l'écris, souvent vous, lecteur, remplacez une séance chez un psy ou un appel à un ami je pense. donc merci merci d’être là. si vous aimez, n’hésitez pas à la partager. sinon, ne la partagez pas. Oops, deux en une semaine, il doit vraiment vouloir papoter.*

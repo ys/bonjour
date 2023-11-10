@@ -12,7 +12,7 @@ slug: "44"
 resources:
   - src: "*.webp"
   - src: "*.gif"
-summary: "Ces derniers temps, j'écrivais sans visibilité sur qui lisait ou non mes dires que cela soit sur la newsletter ou le blog. J'ai eu par contre la joie de recevoir de super commentaires. Cela justifie en quelques sourires le pourquoi de ce beau bazar. Merci à vous de continuer à me lire et merci de parfois me le dire. Vous êtes trop bienveillants."
+description: "Ces derniers temps, j'écrivais sans visibilité sur qui lisait ou non mes dires que cela soit sur la newsletter ou le blog. J'ai eu par contre la joie de recevoir de super commentaires. Cela justifie en quelques sourires le pourquoi de ce beau bazar. Merci à vous de continuer à me lire et merci de parfois me le dire. Vous êtes trop bienveillants."
 ---
 
 *hello, moi c'est [Yannick](https://yannickschutz.com). je ne suis pas du tout régulier dans cette lettre et c'est peut-être tant mieux. je ne sais pas pourquoi je l'écris, souvent vous, lecteur, remplacez une séance chez un psy ou un appel à un ami je pense. donc merci merci d’être là. si vous aimez, n’hésitez pas à la partager. sinon, ne la partagez pas. Oops, deux en une semaine, il doit vraiment vouloir papoter.*
