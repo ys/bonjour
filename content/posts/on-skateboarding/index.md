@@ -31,6 +31,8 @@ Les univers se croisent et ne se ressemblent pas. La [musique](https://umyeahart
 
 Sur la Nintendo Switch, récemment, j'ai recommencé à jouer à THPS. J'y prend toujours autant de plaisir. J'ai découvert que je n'étais pas le seul. Au détour des internets, je découvre [Simple Magic](https://simplemagic.substack.com/about) de [Cole Nowicki](https://colenowicki.com). Un condensé d'actu skate toutes les semaines. Vraiment bien écrit. Et au bout de sa lettre, je découvre qu'il est en train d'écrire un livre sur THPS. Je clique sur pre-order, je le lirai sur Kindle, je découvre que plein de gens en fait on eu ce coup de coeur skate, jeux vidéos. Je découvre l'impact du jeu sur les gens. Je découvre aussi ce super documentaire sur le jeu, [Pretending I'm a superman](https://thpsfilm.com). Merde, quel plaisir de replonger dans tout ça. La bande son me fait toujours partir aussi vite et taper du pied.
 
+![foot](foot.webp)
+
 Le skate a eu et a toujours un énorme impact sur ma façon de vivre, de créer. C'est un plaisir de pouvoir vous partager tous ces liens. Peut-être que cela vous parlera, ou peut-être que non. Mais si, comme moi, chaque lieu est analysé et vous vous demandez quels tricks vous pourriez faire là. Si vous skatez ou avez skaté, j'espère que cela vous a plu.
 
 Je m'étendrai peut-être plus tard sur les bouquins de skates, les magazines, vidéos, designs, et autres. Je voulais juste vous parler de l'impact que le skate a eu sur moi dans un premier temps. Je m'en vais claquer un ollie ou deux dans la rue. Je vous parlerai peut-être des passages vers Dogtown, au skate park de Venice ou sur l'[embarcadero](https://yewtu.be/watch?v=hXrdZ5kWRqs) de San Francisco...
