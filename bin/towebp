@@ -1,0 +1,4 @@
+#!/bin/sh
+find content -type f \( -iname "*.jpg" -o -iname "*.jpeg" \) -exec mogrify -resize 2000x2000 -density 72x72 -format webp {} +
+find content -type f \( -iname "*.jpg" -o -iname "*.jpeg" \) -delete
+
