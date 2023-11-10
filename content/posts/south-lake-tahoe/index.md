@@ -27,7 +27,7 @@ resources:
   - src: "*.webp"
   - src: "south-lake-tahoe-22.webp"
     name: "cover"
-summary: "Mon boulot me permet de voyager, d’habitude je vois San Francisco. Cette fois-ci, l’avion atterrit à Reno. Je découvre une autre Amérique. On prend un bus direction South Lake Tahoe. J’ai l’impression d’être dans un de ces romans du Midwest où les gens voyagent en car. On arrive au bord du lac au crépuscule, on ne fait que le distinguer."
+description: "Mon boulot me permet de voyager, d’habitude je vois San Francisco. Cette fois-ci, l’avion atterrit à Reno. Je découvre une autre Amérique. On prend un bus direction South Lake Tahoe. J’ai l’impression d’être dans un de ces romans du Midwest où les gens voyagent en car. On arrive au bord du lac au crépuscule, on ne fait que le distinguer."
 ---
 
 ![south-lake-tahoe-1.webp](south-lake-tahoe-1.webp)

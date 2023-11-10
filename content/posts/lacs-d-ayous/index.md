@@ -17,7 +17,7 @@ categories:
 - voyages
 slug: "lacs-d-ayous"
 emoji: "⛰"
-summary: "Il est 6h30 du matin, on démarre pour le parking. Ce parking se remplit vite. Une garde nous a dit que pour avoir une chance d’y avoir une place, il fallait être là avant 8h. On a une bonne heure, ça va le faire."
+description: "Il est 6h30 du matin, on démarre pour le parking. Ce parking se remplit vite. Une garde nous a dit que pour avoir une chance d’y avoir une place, il fallait être là avant 8h. On a une bonne heure, ça va le faire."
 resources:
 - src: "*.webp"
 - src:  "cover.webp"

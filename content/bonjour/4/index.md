@@ -14,7 +14,7 @@ color: rosewater
 
 title: "4 - Deux mains, omakase et apprentissage"
 slug: "4"
-summary: "Moi c'est Yannick, j'ai jamais vraiment été doué de mes mains... Mis à part pour taper sur un clavier ou avec un pad de super nintendo. Mais depuis, j'essaye et je m'améliore."
+description: "Moi c'est Yannick, j'ai jamais vraiment été doué de mes mains... Mis à part pour taper sur un clavier ou avec un pad de super nintendo. Mais depuis, j'essaye et je m'améliore."
 ---
 ![](c5e92792-cbdb-43b0-a17c-4e6db4917b2e.webp)
  

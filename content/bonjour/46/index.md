@@ -12,7 +12,7 @@ slug: "46"
 resources:
   - src: "*.webp"
   - src: "*.gif"
-summary: "L'été est arrivé, il pleut le matin, fait beau l'après-midi. Les enfants sont à la maison. Les deux s'occupent. Je me dis qu'il est temps d'écrire. Cela fait un mois que je vous ai envoyé la dernière lettre."
+description: "L'été est arrivé, il pleut le matin, fait beau l'après-midi. Les enfants sont à la maison. Les deux s'occupent. Je me dis qu'il est temps d'écrire. Cela fait un mois que je vous ai envoyé la dernière lettre."
 ---
 
 *hello, moi c'est [Yannick](https://yannickschutz.com). je ne suis pas du tout régulier dans cette lettre et c'est peut-être tant mieux. je ne sais pas pourquoi je l'écris, souvent vous, lecteur, remplacez une séance chez un psy ou un appel à un ami je pense. donc merci merci d’être là. si vous aimez, n’hésitez pas à la partager. sinon, ne la partagez pas.*
@@ -44,4 +44,3 @@ Passez un bon vendredi,
 Yannick
 
 💌
-

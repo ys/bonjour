@@ -14,7 +14,7 @@ resources:
   - src: "*.webp"
   - src: "22x30-0505-07.webp"
     name: "cover"
-summary: "4 potes, 4 vélos et beaucoup plus de kilomètres."
+description: "4 potes, 4 vélos et beaucoup plus de kilomètres."
 ---
 
 Tout commence par une conversation par messages avec [Jérémy](https://jeremyjanin.com), [Grégory](https://gregorymignard.com) et [Yves](https://yvesquere.com). Je ne sais pas comment, mais je me suis retrouvé à accepter de faire 250 bornes en vélo sur trois jours en Finistère nord. Est-ce que je me suis demandé pourquoi j'avais accepté depuis le début, sans nul doute. C'est clairement un truc que je ne pensais pas faire. Cela me tentait mais comme tant de choses que je ne fais pas, je me suis lancé. La pression de groupe, ou plutôt l'amusement en groupe je pense.

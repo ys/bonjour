@@ -10,7 +10,7 @@ categories:
 emoji: "🛹"
 resources:
   - src: "*.webp"
-summary: "Tony Hawk Pro Skater est sorti juste avant le bug de l'an 2000 en Europe, j'avais 15 ans. Je me souviens par contre c'est de ces journées à taper des ollies, heelflips et autres. Essayer de sauter 3 marches et tomber. Redescendre à la maison, prendre la manette et enchaîner les tricks"
+description: "Tony Hawk Pro Skater est sorti juste avant le bug de l'an 2000 en Europe, j'avais 15 ans. Je me souviens par contre c'est de ces journées à taper des ollies, heelflips et autres. Essayer de sauter 3 marches et tomber. Redescendre à la maison, prendre la manette et enchaîner les tricks"
 ---
 
 
@@ -23,7 +23,7 @@ Le jeu vidéo me permettait de faire ce que je n'arrivais clairement pas à fair
 
 Je pense que la culture skate a eu un impact immense sur mon approche de la vie. Que ce soit l'esprit DIY et punk des premiers designs qui m'inspire dans la création de zines. Ou alors simplement l'esprit glisse qui me poussera sur une planche de surf des années plus tard. Le fisheye qui m'inspire pour commencer la photo. Tous les aspects me fascinent. Je ne suis pas forcément les acteurs, mais le monde globalement, que ce soit les réactions de l'arrivée de Nike SB ou des JO. Je garde toujours un œil dessus.
 
-Que je ne sache pas claquer un 3-6 flip ne change pas grand chose. C'est l'esprit et la culture. J'ai toujours ma board, avec des nouvelles roues adaptées aux routes un rien crasseuses du coin. J'ai pris des roues de cameraman. Je la sors encore assez régulièrement. C'est toujours un plaisir. Je continue de fréquenter des skate shops, de regarder des vidéos. Avec Tom, on a commencé à regarder [les vieilles VHS](https://are.na/bonjour-yannick/skateboarding-still-not-a-crime) sur Youtube. Les plus récentes aussi. J'ai récemment écouté un épisode de [3h du nine club avec Jason Lee](https://thenineclub.com/blogs/episodes/jason-lee?_pos=1&_sid=373ebada4&_ss=r). 
+Que je ne sache pas claquer un 3-6 flip ne change pas grand chose. C'est l'esprit et la culture. J'ai toujours ma board, avec des nouvelles roues adaptées aux routes un rien crasseuses du coin. J'ai pris des roues de cameraman. Je la sors encore assez régulièrement. C'est toujours un plaisir. Je continue de fréquenter des skate shops, de regarder des vidéos. Avec Tom, on a commencé à regarder [les vieilles VHS](https://are.na/bonjour-yannick/skateboarding-still-not-a-crime) sur Youtube. Les plus récentes aussi. J'ai récemment écouté un épisode de [3h du nine club avec Jason Lee](https://thenineclub.com/blogs/episodes/jason-lee?_pos=1&_sid=373ebada4&_ss=r).
 
 C'est marrant de voir comme des skaters que j'appréciais sont toujours dans ma vie via d'autres mediums. [Jason Lee](https://www.jasonleefilm.com) et [Ed Templeton](https://ed-templeton.com) sont deux photographes que j'admire. Les photos de Ed Templeton, je me souviens encore de les découvrir dans Sugar magazine. Celles de Jason Lee traversant l'Amérique sont fantastiques en bouquin. Plus récemment, je découvre le boulot de skaters ou photographes de skate dans des arts divers, que ce soit la photo, la musique, la vidéo, le surf ou l'art graphique en général, cela m'attire toujours.
 

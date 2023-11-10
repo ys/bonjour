@@ -24,7 +24,7 @@
 <meta name="apple-mobile-web-app-title" content="Bonjour Yannick">
 <meta name="application-name" content="Bonjour Yannick">
 <meta name="msapplication-TileColor" content="{{$colorHex}}">
-<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}" />
 <meta name="keywords" content="{{ $tags }}">
 <link rel="canonical" href="{{ .Permalink }}" />
 <meta name="p:domain_verify" content="{{ .Site.Params.pinterestVerify }}" />

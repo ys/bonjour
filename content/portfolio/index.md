@@ -4,7 +4,7 @@ hideSubmenu: true
 color: peach
 title: "Bonjour portfolio"
 subtitle: "Beautiful, seemingly ordinary details in a beautiful way with a cup of black coffee"
-summary: "Beautiful, seemingly ordinary details in a beautiful way with a cup of black coffee"
+description: "Beautiful, seemingly ordinary details in a beautiful way with a cup of black coffee"
 date: "2023-10-12T01:01:01Z"
 resources:
 - src: "*.webp"

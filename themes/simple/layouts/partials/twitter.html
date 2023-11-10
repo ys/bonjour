@@ -3,9 +3,9 @@
 {{- $featured := cond (ne $featured nil) $featured ($images.GetMatch "{*cover*,*thumbnail*}") -}}
 {{- $featured := cond (ne $featured nil) $featured (index $images 0) -}}
 <meta name="twitter:card" content="summary_large_image"/>
-<meta property="twitter:image" content="{{ $.Site.Params.ogURL }}/api/og?{{ (querify "title" .Title "subtitle" (.Params.subtitle | default "") "description" (.Summary | truncate 600 | default "") "color" ($.Scratch.Get "color")  "image" ($featured.Permalink | default ""))| safeURL }}"/>
+<meta property="twitter:image" content="{{ $.Site.Params.ogURL }}/api/og?{{ (querify "title" .Title "subtitle" (.Params.subtitle | default "") "description" (.Description | default "") "color" ($.Scratch.Get "color")  "image" ($featured.Permalink | default "")) }}"/>
 <meta name="twitter:title" content="{{ .Title }}"/>
-<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}"/>
+<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end -}}"/>
 {{ with .Site.Social.twitter -}}
 <meta name="twitter:site" content="@{{ . }}"/>
 {{ end -}}

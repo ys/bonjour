@@ -32,7 +32,7 @@ resources:
   - src: "cover.webp"
     name: "cover"
   - src: "*.webp"
-summary: "On continue les découvertes des chouettes lieux de la Bretagne. Cette région n'a toujours pas tout montré, pas même 10% je pense. On adore continuer à la découvrir! On espère aussi faire de chouettes rencontres humaines cette année pour découvrir des lieux secrets. Cette fois-ci, c'est la plage de la Palue sur la presqu'île de Crozon. Un vrai petit coin de paradis sur terre encore une fois."
+description: "On continue les découvertes des chouettes lieux de la Bretagne. Cette région n'a toujours pas tout montré, pas même 10% je pense. On adore continuer à la découvrir! On espère aussi faire de chouettes rencontres humaines cette année pour découvrir des lieux secrets. Cette fois-ci, c'est la plage de la Palue sur la presqu'île de Crozon. Un vrai petit coin de paradis sur terre encore une fois."
 ---
 
 On continue les découvertes des chouettes lieux de la Bretagne. Cette région n'a toujours pas tout montré, pas même 10% je pense. On adore continuer à la découvrir! On espère aussi faire de chouettes rencontres humaines cette année pour découvrir des lieux secrets. Cette fois-ci, c'est la plage de la Palue sur la presqu'île de Crozon. Un vrai petit coin de paradis sur terre encore une fois.

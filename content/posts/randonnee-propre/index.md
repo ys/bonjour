@@ -14,7 +14,7 @@ resources:
 - src: "*.webp"
 - src:  "cover.webp"
   name: "cover"
-summary: "La Terre va mal, ce n'est plus à questionner. On en est responsable. Maintenant, plusieurs choix s'offrent à nous. Ne rien faire, cela semble sans doute idiot. Se plaindre de ce qui a été fait, pas mieux. Critiquer ceux qui ne sont pas parfaits, cela n'aide sans doute pas. La meilleure solution est d'agir."
+description: "La Terre va mal, ce n'est plus à questionner. On en est responsable. Maintenant, plusieurs choix s'offrent à nous. Ne rien faire, cela semble sans doute idiot. Se plaindre de ce qui a été fait, pas mieux. Critiquer ceux qui ne sont pas parfaits, cela n'aide sans doute pas. La meilleure solution est d'agir."
 ---
 
 La Terre va mal, ce n'est plus à questionner. On en est responsable. Maintenant, plusieurs choix s'offrent à nous. Ne rien faire, cela semble sans doute idiot. Se plaindre de ce qui a été fait, pas mieux. Critiquer ceux qui ne sont pas parfaits, cela n'aide sans doute pas. La meilleure solution est d'agir. Personne n'est parfait. Nous ne pensons pas l'être. Mais une chose est sûre, on fait notre part.
