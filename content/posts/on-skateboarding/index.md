@@ -10,6 +10,8 @@ categories:
 emoji: "🛹"
 resources:
   - src: "*.webp"
+  - src: "card.webp"
+    name: "card"
 description: "Tony Hawk Pro Skater est sorti juste avant le bug de l'an 2000 en Europe, j'avais 15 ans. Je me souviens par contre c'est de ces journées à taper des ollies, heelflips et autres. Essayer de sauter 3 marches et tomber. Redescendre à la maison, prendre la manette et enchaîner les tricks"
 ---
 
