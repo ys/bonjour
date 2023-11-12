@@ -10,6 +10,8 @@ hideSubscribe: true
 type: index
 resources:
 - src: "*.webp"
+- src: "card.webp"
+  name: "card"
 - src: "cover.webp"
   name: "cover"
 rows: 3
