@@ -1,4 +1,5 @@
 ---
+slug: "problems"
 title: "Problems and WD40"
 color: rosewater
 date: "2023-10-19"

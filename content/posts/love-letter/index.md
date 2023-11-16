@@ -1,4 +1,5 @@
 ---
+slug: "love-letter"
 title: "About the Internets"
 date: 2023-11-13
 color: mauve
