@@ -32,7 +32,7 @@ module.exports = {
     extend: {
       fontFamily: {
         mono: [
-          "berkeley",
+          "iA Writer Quattro",
           "SFMono-Regular",
           "-ui-monospace",
           "ui-monospace",
