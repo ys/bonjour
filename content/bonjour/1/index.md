@@ -14,7 +14,7 @@ color: rosewater
 
 title: "1 - Bonjour, Pedro's bay et l'utopie"
 slug: "1"
-summary: "C'est une première, un retour aux choses simples. Une envie d'écrire, une envie de partager."
+description: "C'est une première, un retour aux choses simples. Une envie d'écrire, une envie de partager."
 ---
 
 ![](d7716c9d-31b2-420f-aa69-8308884ab159.jpg)

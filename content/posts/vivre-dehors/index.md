@@ -11,7 +11,7 @@ resources:
 - name: "cover"
   src: "living-outdoor-3.webp"
 - src: ".webp"
-summary: "Je ne me suis jamais senti autant connecté à Mère Nature. Cela fait maintenant quelques années que nos week-ends se passent dehors. Que ce soit pour une courte marche ou une journée à vadrouiller. Cela nous permet de nous sentir connecté, trouver la paix et découvrir les merveilleuses choses que la nature a à nous offrir. On a vadrouillé un peu partout en Belgique et nous avons adoré cela."
+description: "Je ne me suis jamais senti autant connecté à Mère Nature. Cela fait maintenant quelques années que nos week-ends se passent dehors. Que ce soit pour une courte marche ou une journée à vadrouiller. Cela nous permet de nous sentir connecté, trouver la paix et découvrir les merveilleuses choses que la nature a à nous offrir. On a vadrouillé un peu partout en Belgique et nous avons adoré cela."
 ---
 
 Je ne me suis jamais senti autant connecté à Mère Nature. Cela fait maintenant quelques années que nos week-ends se passent dehors. Que ce soit pour une courte marche ou une journée à vadrouiller. Cela nous permet de nous sentir connecté, trouver la paix et découvrir les merveilleuses choses que la nature a à nous offrir. On a vadrouillé un peu partout en Belgique et nous avons adoré cela.
@@ -35,4 +35,3 @@ Nous avons cueilli de la nourriture dans les terres, mais la mer aussi peut donn
 Quelques rêves pour cette année nouvelle incluent de faire un hike de plusieurs jours en Bretagne ainsi que fouler plus de sentiers du GR34, connu comme étant le sentier des douaniers. Cette randonnée suit la côte et traverse tous les lieux sauvages du bord de mer.
 
 J'ai hâte que l'année nouvelle arrive et plus spécifiquement le printemps. Pouvoir aller planter la tente pour une nuit ou deux dans les lieux les plus sauvages du coin. Cela nous permettra de découvrir encore plus. J'espère que vous appréciez mes récits et photos, car je compte bien en publier encore plus! N'hésitez pas à partager vos coups de coeurs et lieux favoris.
-

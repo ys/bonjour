@@ -25,7 +25,7 @@ resources:
   - name: "cover"
     src: "DSCF7905.webp"
   - src: "*.webp"
-summary: "On est arrivé là un peu par hasard. On avait prévu de faire le Ninglinspo ce jour là mais apparement on était pas les seuls. Une petite recherche pour voir si une belle balade à la roche aux faucons est faisable et nous voilà en route."
+description: "On est arrivé là un peu par hasard. On avait prévu de faire le Ninglinspo ce jour là mais apparement on était pas les seuls. Une petite recherche pour voir si une belle balade à la roche aux faucons est faisable et nous voilà en route."
 ---
 
 ![DSCF7905.webp](DSCF7905.webp)

@@ -1,5 +1,37 @@
 @tailwind base;
 
+@font-face {
+  font-family: "iA Writer Quattro";
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  src: url("iAWriterQuattroS-Regular.eot") format("embedded-opentype"), url("iAWriterQuattroS-Regular.woff2") format("woff2"), url("iAWriterQuattroS-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "iA Writer Quattro";
+  font-style: italic;
+  font-weight: normal;
+  font-display: swap;
+  src: url("iAWriterQuattroS-Italic.eot") format("embedded-opentype"), url("iAWriterQuattroS-Italic.woff2") format("woff2"), url("iAWriterQuattroS-Italic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "iA Writer Quattro";
+  font-style: normal;
+  font-weight: bold;
+  font-display: swap;
+  src: url("iAWriterQuattroS-Bold.eot") format("embedded-opentype"), url("iAWriterQuattroS-Bold.woff2") format("woff2"), url("iAWriterQuattroS-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "iA Writer Quattro";
+  font-style: italic;
+  font-weight: bold;
+  font-display: swap;
+  src: url("iAWriterQuattroS-BoldItalic.eot") format("embedded-opentype"), url("iAWriterQuattroS-BoldItalic.woff2") format("woff2"), url("iAWriterQuattroS-BoldItalic.woff") format("woff");
+}
+
 @tailwind components;
 
 @tailwind utilities;
@@ -45,7 +77,7 @@ open-heart:not([disabled]):focus {
 }
 
 html{
-  font-size:19px;
+//  font-size:19px;
 }
 .dotted {
   decoration: underline;
@@ -59,11 +91,11 @@ html{
   content: " & "
 }
 :root {
-  --gap: 12px;
+  --gap: 20px;
 }
 
 .prose blockquote {
-  @apply italic border-yellow font-normal;
+  @apply italic font-normal;
 }
 
 $colors: {{ range .Site.Params.themeColors }}{{.}}, {{end}};
@@ -248,16 +280,12 @@ table {
   display: block; }
 
 .pswp--zoom-allowed .pswp__img {
-  /* autoprefixer: off */
-  cursor: -webkit-zoom-in;
-  cursor: -moz-zoom-in;
-  cursor: zoom-in; }
+  @apply cursor-pointer;
+}
 
 .pswp--zoomed-in .pswp__img {
-  /* autoprefixer: off */
-  cursor: -webkit-grab;
-  cursor: -moz-grab;
-  cursor: grab; }
+  @apply cursor-pointer;
+}
 
 .pswp--dragging .pswp__img {
   /* autoprefixer: off */
@@ -270,7 +298,7 @@ table {
 	As animating opacity is much faster than animating rgba() background-color.
 */
 .pswp__bg {
-  @apply bg-white bg-opacity-60 backdrop-filter backdrop-blur-md;
+  @apply dark:bg-crust bg-white bg-opacity-60 dark:bg-opacity-60 backdrop-filter backdrop-blur-md;
   position: absolute;
   left: 0;
   top: 0;

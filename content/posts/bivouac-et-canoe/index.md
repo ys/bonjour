@@ -27,7 +27,7 @@ resources:
   - src: "*.webp"
   - src: "6.webp"
     name: "cover"
-summary: "Vendredi, 9h30, J'attend [Grégory](https://gregorymignard.com) sur le parking de la biocoop. Aujourd'hui, je suis leur auto-stoppeur. On part vers la Loire pour passer un week-end en canoë. Leur California se gare, passé les salutations, on se met en route. Quelques heures de route, le temps de papoter sur des sujets variés."
+description: "Vendredi, 9h30, J'attend [Grégory](https://gregorymignard.com) sur le parking de la biocoop. Aujourd'hui, je suis leur auto-stoppeur. On part vers la Loire pour passer un week-end en canoë. Leur California se gare, passé les salutations, on se met en route. Quelques heures de route, le temps de papoter sur des sujets variés."
 
 ---
 

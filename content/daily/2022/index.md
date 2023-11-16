@@ -9,6 +9,7 @@ menu:
   daily:
     weight: 2
 linktitle: "2022"
+type: "photos"
 ---
 
 2022, Started in Lanzarote, ended in Morocco.

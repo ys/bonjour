@@ -1,8 +1,8 @@
 ---
 color: yellow
-title: "A whole lot of words about anything"
+title: "Bonjour words"
 description: "Tiny stories, pictures, books and a cup of black coffee"
-summary: "Tiny stories, pictures, books and a cup of black coffee"
+description: "Tiny stories, pictures, books and a cup of black coffee"
 date: 2017-10-26T22:57:50+02:00
 draft: false
 resources:

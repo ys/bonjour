@@ -14,7 +14,7 @@ color: rosewater
 
 title: "3 - Plastique, Colibri et Water family"
 slug: "3"
-summary: "Hello à tous. Merci de toujours lire cette petite lettre. Aujourd'hui, je voulais vous présenter mon côté qui se préoccupe de la planète. Ce Yannick là se trouve cool et se considère comme un micro activiste."
+description: "Hello à tous. Merci de toujours lire cette petite lettre. Aujourd'hui, je voulais vous présenter mon côté qui se préoccupe de la planète. Ce Yannick là se trouve cool et se considère comme un micro activiste."
 ---
 
 ![](720df066-d202-4ee2-8557-9c724af721b8.webp)

@@ -12,7 +12,7 @@ resources:
 - src: "*.webp"
 - src:  "cover.webp"
   name: "cover"
-summary: "Cet été, j'ai laissé mon Fuji à la maison. Cela fait plusieurs mois que dans mon sac, je retrouve plus de Portra 400 que de cartes SD. Je me suis dit, pour nos vacances, ralenti, soi présent et profite."
+description: "Cet été, j'ai laissé mon Fuji à la maison. Cela fait plusieurs mois que dans mon sac, je retrouve plus de Portra 400 que de cartes SD. Je me suis dit, pour nos vacances, ralenti, soi présent et profite."
 
 ---
 

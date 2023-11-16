@@ -1,5 +1,31 @@
 year: 2023
 books:
+  - title: Right, Down + Circle
+    subtitle: Tony Hawk’s Pro Skater
+    author: Cole Nowicki
+    date: '2023-10-19T08:10:15.081771Z'
+    read: '2023-10-22T19:18:42.258239Z'
+    rating: 4
+    isbn: '1778521975'
+    isbn13: '9781778521973'
+    pages: 124
+    cover_url: >-
+      https://books.google.com/books/publisher/content?id=k2XDEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70LXX_ltxfWyW6ce1kcip71sf9DIJh-UlYRGulyKE7lGuanckERGfjVP2JrkJ2HkDO_9G45uzM26MKHjOne3lNxC6BuVUReL_GEDJ0DP_1n3BFhlc_xzcuMudh4l-svTtHoyjWP&source=gbs_api
+    reading: false
+    url: https://www.italictype.com/api/books/vZmJqg5/
+  - title: L'étranger
+    subtitle: ''
+    author: Albert Camus
+    date: '2023-10-13T21:47:30.357733Z'
+    read: '2023-10-13T21:47:45.462451Z'
+    rating: 4
+    isbn: 207030602X
+    isbn13: '9782070306022'
+    pages: 206
+    cover_url: >-
+      https://books.google.com/books/content?id=u3hkngEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71BcoalERUek2fHO0BY5Uz6tAiQC8TOtTTRGJ7OfGI9LS5ao2dIlphgstKBoXmCdSzavqYZsK49anZ9yHxVU34mRhFEHbaTS_wnhDBzanG8RK70FOVFPVPHuqbg2-qwiAsGWBzU&source=gbs_api
+    reading: false
+    url: https://www.italictype.com/api/books/5gRleBN/
   - title: Chroniques de San Francisco
     subtitle: ''
     author: Armistead Maupin

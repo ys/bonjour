@@ -13,7 +13,7 @@ emoji: 💌
 color: rosewater
 title: "37 - Fusion, Marketing et capitaines"
 slug: "37"
-summary: "J'allais commencer à écrire cette lettre quand un petit bruit dans le salon m'a fait réalisé que j'avais oublié de couper la platine vinyle"
+description: "J'allais commencer à écrire cette lettre quand un petit bruit dans le salon m'a fait réalisé que j'avais oublié de couper la platine vinyle"
 ---
 ![CEEBB51B-BF91-4666-9DB3-4BECA4690E76_1_105_c.jpeg](CEEBB51B-BF91-4666-9DB3-4BECA4690E76_1_105_c.webp)
 

@@ -14,7 +14,7 @@ color: rosewater
 
 title: "5 - Mauvaise religion, disette et chocolats"
 slug: "5"
-summary: "Bonjour, Halloween est derrière vous, Noël arrive tout doucement. Il est temps de sortir les décorations, de couper le sapin et tout ça. Si le gouvernement le permet. "
+description: "Bonjour, Halloween est derrière vous, Noël arrive tout doucement. Il est temps de sortir les décorations, de couper le sapin et tout ça. Si le gouvernement le permet. "
 ---
 
 ![](6f9cd288-b8ca-4ae5-81e7-8510ea01ac98.webp)

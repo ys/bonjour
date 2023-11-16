@@ -11,7 +11,7 @@ categories:
 resources:
   - src: "*.webp"
 
-summary: "L'égo, c'est un peu l'ennemi."
+description: "L'égo, c'est un peu l'ennemi."
 ---
 
 Parfois, j'ai tellement de passions que je me sens comme un Jack of all trades et master of none. On a deux milles projets en cours, que ce soit le boulot, le gîte, le café, la photo, le surf, mon bien-être, l'écriture, le blog, la newsletter, mon envie d'être plus bricoleur et tout le reste. Paix à votre âmes passions abandonnées. En fait, j'ai parfois l'impression de stagner. Et je pense que c'est normal, on ne peut pas avancer partout non stop. Mais aussi mon cerveau est assez sympa que pour me faire croire que je n'avance nulle part et que je suis nul partout. Ce qui est faux!

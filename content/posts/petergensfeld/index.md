@@ -14,7 +14,7 @@ resources:
 - name: "cover"
   src: "petergensfeld-2.webp"
 - src: "*.webp"
-summary: "Le soleil dort encore mais nous sommes déjà en route. Notre petit bout n'est pas là, on décide de se lever aux aurores et de commencer la saison des balades en force. Une balade 16km nous attend, la météo est au beau fixe et on compte bien se dégourdir les jambes."
+description: "Le soleil dort encore mais nous sommes déjà en route. Notre petit bout n'est pas là, on décide de se lever aux aurores et de commencer la saison des balades en force. Une balade 16km nous attend, la météo est au beau fixe et on compte bien se dégourdir les jambes."
 ---
 
 {{< grid images="petergensfeld-1.webp | petergensfeld-4.webp" >}}
@@ -38,4 +38,3 @@ On croisera les ruines d'un petit hameau agricole qui fut déserté pour préser
 Retour dans les bois, la pluie fait son apparition petit à petit. D'abord discrète, elle se fera plus intense une fois que l'on aura plus d'arbres au dessus de nous. On finira la balade trempés jusqu'aux os. Elle n'était pas censée s'inviter.
 
 ![petergensfeld-5.webp](petergensfeld-5.webp)
-

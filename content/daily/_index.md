@@ -3,11 +3,12 @@ color: peach
 title: "Capturing details of a beautiful daily life"
 subtitle: "Some beautiful moments of my everyday life"
 menu:
-  main:
+  footer:
     weight: 1
-linktitle: "Pictures"
+linktitle: "🗓️ Daily"
 year: "2023"
 skip: "cover.png"
+type: "photos"
 ---
 
 I am telling small stories like they were big.  

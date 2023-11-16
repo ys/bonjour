@@ -5,7 +5,7 @@ draft: false
 slug: "berrien"
 tags: ["achat", "campagne", "exode rural", "neoruraux", "finistere", "france", "expat", "nouvelle vie", "slow life"]
 emoji: "🏡"
-summary: "Aujourd’hui, mon père me voit arriver portant un t-shirt Finisterre et il me dit que je suis déjà prêt. Cela fait deux ans environs que nous avons commencé à mûrir cette idée de partir. Ou? On hésitait. On a d’abord pensé à la Bourgogne, c’est beau et c’est bien situé. On avait envie de changement, de quitter la ville. Une sorte de retour à la terre, certains pourraient dire."
+description: "Aujourd’hui, mon père me voit arriver portant un t-shirt Finisterre et il me dit que je suis déjà prêt. Cela fait deux ans environs que nous avons commencé à mûrir cette idée de partir. Ou? On hésitait. On a d’abord pensé à la Bourgogne, c’est beau et c’est bien situé. On avait envie de changement, de quitter la ville. Une sorte de retour à la terre, certains pourraient dire."
 categories:
 - journal
 resources:

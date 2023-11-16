@@ -118,7 +118,8 @@ canonifyURLs = false
 [permalinks]
   posts = "/:slug"
   letters = "/:slug"
-  photos = "/:slug"
+  photos = "/:section/:slug"
+  portfolio = "/portfolio/:slug"
   categories = "/c/:slug"
   journal = "/:filename"
 

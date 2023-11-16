@@ -1,6 +1,6 @@
 {{ $allimages := slice }}
 {{ range sort ($.Page.Resources.Match (printf "%s*" (.Get "pattern"))) "Name" "asc"}}
-  {{ if ne .Name "cover" }}
+  {{ if (and (ne .Name "cover") (ne .Name "card")) }}
     {{ $allimages = $allimages | append (dict "Image" .  ) }}
   {{ end }}
 {{ end }}
