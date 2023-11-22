@@ -1,7 +1,6 @@
 ---
 color: peach
 title: "Capturing details of a beautiful daily life"
-subtitle: "2023 • Morocco, California, etc."
 menu:
   footer:
     weight: 1
@@ -12,5 +11,5 @@ type: "photos"
 ---
 
 I am telling small stories like they were big.  
+Celebrating the **small moments** no one notices.  
 Making up stories from nothing.  
-Celebrating the **small moments** no one notice.  
