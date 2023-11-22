@@ -1,8 +1,7 @@
 ---
 title: "Bonjour, I am Yannick"
-seotitle: "✌️ Bonjour Yannick - Documenting the seemingly ordinary details"
-description: "I am a documentary style photographer based in Finistère, France"
-description: "I am a documentary style photographer based in Finistère, France"
+seotitle: "Bonjour Yannick - Documentary style Photographer from Finistère"
+description: "Documenting the seemingly ordinary details"
 color: yellow
 date: 2017-10-26T22:57:50+02:00
 draft: false
