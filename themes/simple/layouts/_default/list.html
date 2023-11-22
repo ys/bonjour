@@ -6,8 +6,7 @@
     {{ $paginator := (.Paginate (where (where (where .Site.AllPages "Type" .Type) "Kind" "==" "page") ".Params.archived" "!=" true)  2500) }}
     {{ range $paginator.Pages.GroupByDate "2006" }}
       <header class="flex gap-2 my-4 text-xl items-center">
-        <span>{{ partial "moon" .}} </span>
-        <h2 class=" font-bold">{{ .Key }}</h2>
+        <h2 class=" font-bold"> {{partial "moon" .}} {{ .Key }}</h2>
       </header>
     {{ range .Pages }}
       {{ $color := "yellow" }}
@@ -17,11 +16,11 @@
       {{ with .Params.color }}
         {{ $color = . }}
       {{ end }}
-      <article class="group  hover:bg-{{$color}} !bg-opacity-70 rounded-sm">
+      <article class="group rounded-sm">
         <a href="{{ .RelPermalink }}"
-              class="text-crust dark:text-gray-100 hover:bg-{{$color}} bg-opacity-70 ">
+              class="text-crust dark:text-gray-100 hover:text-crust/70 ">
         <header class="bottom-4  flex flex-row justify-between gap-2 items-center p-2">
-          <h2 class="ellipsis break-all max-w-[60%] line-clamp-1 text-gray-800  dark:text-gray-100  no-underline ">
+          <h2 class="ellipsis break-all max-w-[60%] line-clamp-1 no-underline ">
             <span class="group-hover:hidden">{{ .Title }}</span>
             <span class="hidden group-hover:block">{{ .Params.subtitle | default .Title }}</span>
           </h2>
