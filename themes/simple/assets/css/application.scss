@@ -95,7 +95,7 @@ html{
 }
 
 .prose blockquote {
-  @apply italic font-normal;
+  @apply italic font-normal text-lg;
 }
 
 $colors: {{ range .Site.Params.themeColors }}{{.}}, {{end}};

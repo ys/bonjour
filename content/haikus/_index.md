@@ -1,5 +1,5 @@
 ---
-title: "Haikus"
+title: "Sometimes, I write Haikus"
 date: 2023-09-28
 menu:
   footer:

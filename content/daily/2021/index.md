@@ -1,6 +1,6 @@
 ---
 color: peach
-title: "Capturing details of a beautiful daily life • 2021"
+title: "Capturing details of a beautiful daily life"
 subtitle: "Some beautiful moments of my everyday life"
 date: "2021-01-01T01:01:01Z"
 skip: "cover.png"

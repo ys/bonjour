@@ -9,11 +9,9 @@ emoji: "🇬🇧"
 ---
 
 
----
-**There are two easy ways to solve problems**
-- Read the error message
-- WD40
----
+> **There are two easy ways to solve problems:** 
+> Read the error message & 
+> WD40 
 
 I was only half joking when I wrote such a thing.
 It has been a long time since I chatted about tech and so on.
