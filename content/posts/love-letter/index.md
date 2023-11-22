@@ -1,6 +1,6 @@
 ---
 slug: "love-letter"
-title: "About the Internets"
+title: "On the Internets"
 date: 2023-11-13
 color: mauve
 summary: "Shouting my love to the weird and quirky internets!"
