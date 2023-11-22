@@ -1,6 +1,5 @@
 ---
-title: "Bonjour shop"
-description: "A little shop full of zines and prints"
+title: "A little shop full of zines and prints"
 emoji: "💸"
 menu:
   main:
