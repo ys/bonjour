@@ -4,22 +4,24 @@
 </div>
   {{ $paginator := (.Paginate (where .RegularPages ".Params.archived" "!=" true)  2500) }}
   {{ range $paginator.Pages.GroupByDate "January 2006" }}
+  <div class="py-4">
       <header class="flex gap-2 my-4 text-xl items-center">
         <span>{{ partial "moon" .}} </span>
         <h2 class=" font-bold">{{ .Key }}</h2>
       </header>
-    {{ range .Pages }}
-    {{ $.Scratch.Set "color" .Params.color }}
-    <article class="h-entry mb-10 mx-4 lg:mx-0 relative">
-      <div data-pswp class="content-{{  $.Scratch.Get "color" }}">
-        <div class="dark:prose-invert  prose post e-content prose-p:mb-0 mb-0">
-          {{.Content}}
-      <div class=" right">
-      {{ partial "heart" . }}
-      </div>
+      {{ range .Pages }}
+      {{ $.Scratch.Set "color" .Params.color }}
+      <article class="h-entry mb-10 mx-4 lg:mx-0 relative">
+        <div data-pswp class="content-{{  $.Scratch.Get "color" }}">
+          <div class="dark:prose-invert  prose post e-content prose-p:mb-0 mb-0">
+            {{.Content}}
+        <div class=" right">
+        {{ partial "heart" . }}
         </div>
-      </div>
-    </article>
-  {{ end }}
+          </div>
+        </div>
+      </article>
+    {{ end }}
+  </div>
   {{ end }}
 {{ end }}
