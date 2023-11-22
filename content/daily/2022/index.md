@@ -1,7 +1,7 @@
 ---
 color: peach
 title: "Capturing details of a beautiful daily life"
-subtitle: "Some beautiful moments of my everyday life"
+subtitle: "2022 • Lanzarote, breizhpacking, etc."
 date: "2022-01-01T01:01:01Z"
 skip: "cover.png"
 slug: "2022"

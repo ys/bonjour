@@ -1,7 +1,7 @@
 ---
 color: peach
 title: "Capturing details of a beautiful daily life"
-subtitle: "Some beautiful moments of my everyday life"
+subtitle: "2023 • Morocco, California, etc."
 menu:
   footer:
     weight: 1
