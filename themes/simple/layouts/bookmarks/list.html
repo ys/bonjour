@@ -2,29 +2,29 @@
 <div class="z-20 dark:prose-invert prose  mb-16 with-links relative">
   {{ .Content }}
 </div>
-<div>
-    {{ $paginator := (.Paginate (where (where .Sites.First.RegularPages ".Params.archived" "!=" true) "Type" "bookmarks") 2500) }}
-    {{ range $paginator.Pages.GroupByDate "Jan 2006" }}
-      <header class="flex gap-2 my-4 items-center">
-        <span>{{ partial "moon" .}} </span>
-        <h2 class=" font-bold">{{ .Key }}</h2>
+  {{ $paginator := (.Paginate (where (where .Sites.First.RegularPages ".Params.archived" "!=" true) "Type" "bookmarks") 2500) }}
+    {{ range $paginator.Pages.GroupByDate "January 2006" }}
+    <div class="py-8">
+      <header class="flex gap-2 my-4 text-xl items-center">
+        <h2 id="{{.Key}}" class="font-bold"> {{partial "moon" .}} {{ .Key }}</h2>
       </header>
-    {{ range .Pages }}
-      {{ $color := "accent" }}
-      {{range first 1 (shuffle $.Site.Params.themeColors) }}
-        {{ $color = . }}
-      {{ end }}
-      <article class="group  hover:bg-{{$color}} !bg-opacity-70 rounded-md">
-        <a href="{{ .Params.bookmarkOf }}"
-              class="text-crust dark:text-gray-100 hover:bg-{{$color}} bg-opacity-70 ">
-        <header class="bottom-4  flex flex-row justify-between place-items-center gap-2 p-2">
-          <h2 class="ellipsis break-all max-w-[60%] line-clamp-1 text-gray-800 dark:text-gray-100  no-underline ">{{ .Title }}</h2>
-          <div class=" flex-grow "><div class=" mt-2 border-t border-dotted border-gray-800 dark:border-gray-100" ></div></div>
-          <h3 class="max-w-[30%] ellipsis break-all line-clamp-1 font-sans no-underline font-normal text-xs ">{{.Params.domain }}</h3>
-        </header>
-        </a>
-      </article>
-  {{ end }}
+      {{ range .Pages }}
+        {{ $color := "accent" }}
+        {{range first 1 (shuffle $.Site.Params.themeColors) }}
+          {{ $color = . }}
+        {{ end }}
+        <article class="group">
+          <a href="{{ .Params.bookmarkOf }}"
+                class="text-crust dark:text-gray-100 hover:text-crust/70">
+          <header class="bottom-4  flex flex-row justify-between place-items-center gap-2 p-2">
+            <h2 class="ellipsis break-all max-w-[60%] line-clamp-1 text-gray-800 dark:text-gray-100  no-underline ">{{ .Title }}</h2>
+            <div class=" flex-grow "><div class=" mt-2 border-t border-dotted border-gray-800 dark:border-gray-100" ></div></div>
+            <h3 class="max-w-[30%] ellipsis break-all line-clamp-1 font-sans no-underline font-normal text-xs ">{{.Params.domain }}</h3>
+          </header>
+          </a>
+        </article>
+    {{ end }}
+    </div>
   {{ end }}
   <div class="">
     {{ partial "pagination.html" . }}

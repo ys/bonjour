@@ -10,13 +10,11 @@ linktitle: "😃 Sharing"
 ---
 
 *Détail* is a picture and that's it.  
-Everyweek or so, you just get a mail.  
-It has a picture in it and that is it.  
+Everyweek or so, you just get an email.  
 
 No doomscroll, no ads, no intereferences.  
-An email, a picture and that's it.
+An email containing only one picture.
 
-I hope it will inspire you or at least you will like it.  
-Have a good day ✌🏻
+I hope it will inspire you to scroll less.  
 
 {{< letter account="detail" msg="" accent="green" >}}

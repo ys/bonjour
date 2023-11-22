@@ -1,7 +1,6 @@
 ---
 color: yellow
-title: "Bonjour words"
-description: "Tiny stories, pictures, books and a cup of black coffee"
+title: "Tiny stories, micro essays and some pictures"
 description: "Tiny stories, pictures, books and a cup of black coffee"
 date: 2017-10-26T22:57:50+02:00
 draft: false
