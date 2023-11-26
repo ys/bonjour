@@ -1,6 +1,0 @@
-<h3 class="mt-6 text-2xl font-semibold  underline decoration-solid decoration-{{ $.Scratch.Get "color" }}">{{ T "recent" }}</h3>
-<div class="pt-4 pb-8">
-  {{ range (first 3 (where .Site.RegularPages "Type" "posts")) }}
-    {{ partial "title" . }}
-  {{ end }}
-</div>
