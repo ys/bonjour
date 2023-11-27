@@ -139,8 +139,8 @@ $colors: {{ range .Site.Params.themeColors }}{{.}}, {{end}};
 svg, .logo svg, .fill svg {
   @apply fill-current;
 }
-footer ul li:not(:last-child):after {
- content: "·";
+body> footer ul li:not(:last-child):after {
+ content: " · ";
 }
 
 .mgrid img {

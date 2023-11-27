@@ -1,7 +1,10 @@
 {{ define "main" }}
 <article class="h-entry">
-  {{ partial "article_content" . }}
-  <span class="text-xs mb-32  text-right font-sans  capitalize flex  justify-end gap-1">
+  <div data-pswp class="dark:prose-invert  prose post e-content mb-10 content-{{  $.Scratch.Get "color" }}">
+    {{.Content}}
+  </div>
+  <footer class="text-xs mb-32  text-right font-sans  capitalize flex flex-col  justify-end gap-16">
+    <div>
     {{ if .Params.camera }}
       <a href="{{ .RelPermalink }}">
         📷 {{ .Params.camera }} {{ with .Params.film }}{{ $.Site.Params.arrow }} {{ . }} {{ end }}
@@ -9,6 +12,7 @@
       {{ .Site.Params.arrow }}
     {{ end }}
     {{ partial "heart" . }}
+    {{ if ne .Type "page" }}
     {{ partial "category-link" . }}
     {{ .Site.Params.arrow }}
     <a href="{{ .RelPermalink }}">
@@ -16,7 +20,21 @@
         {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
       </time>
     </a>
-  </span>
-{{ partial "article_navigation" . }}
+    {{ end}}
+    </div>
+    {{ if ne .Type "page" }}
+    <ul class="flex justify-between w-full">
+      <li class="group hover:font-bold page-item{{ if not .PrevInSection }} disabled{{ end }}">
+        <a {{ if .PrevInSection }}href="{{ .PrevInSection.RelPermalink }}" {{ end }} class="page-link" aria-label="Previous">
+          <span aria-hidden="true">←</span> <span class="hidden ml-2 group-hover:inline transition-all delay-150 duration-300">{{ with .PrevInSection}}{{.Title}}{{end}}</span>
+        </a>
+      </li>
+      <li class="group hover:font-bold page-item{{ if not .NextInSection }} disabled{{ end }}">
+        <a {{ if .NextInSection }}href="{{ .NextInSection.RelPermalink }}" {{ end }} class="page-link" aria-label="Next">
+          <span class="hidden mr-2 group-hover:inline transition-all delay-150 duration-300">{{ with .NextInSection}}{{.Title}}{{end}}</span> <span aria-hidden="true">→</span></a>
+      </li>
+    </ul>
+    {{ end}}
+  </footer>
 </article>
 {{ end }}
