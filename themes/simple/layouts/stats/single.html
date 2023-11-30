@@ -1,0 +1,38 @@
+{{ define "full" }}
+<div class="container max-w-3xl mx-auto mb-10 content-{{  $.Scratch.Get "color" }}">
+    <table>
+    {{ $years := slice "2023" "2022" "2021" "2020" "2019" "2018" }}
+    <thead>
+      <tr>
+        <td></td>
+      {{ range $years }}
+      <td class="font-bold rotate-45">{{.}}</td>
+
+      {{ end }}
+      </tr>
+    </thead>
+    <tbody>
+    {{ range $i, $section := .Site.Sections }}
+    {{ $pages := .Pages.GroupByDate "2006" }}
+      <tr>
+
+      <td class="font-black text-lg">{{ .Title }}</td> 
+      {{ range $years }}
+        {{ if eq $section.Type "books"  }}
+          <td class="text-center">{{ len ((index $.Site.Data.books .).books) }}</td>
+        {{ else }}
+        {{ with index (where $pages "Key" .) 0 }}
+            <td class="text-center">{{ len .Pages }}</td>
+            {{ else }}
+            <td class="text-center">0</td>
+
+        {{ end }}
+        {{ end }}
+      {{ end }}
+      </tr>
+    {{ end }}
+    </tbody>
+    </table>
+</div>
+{{ end }}
+
