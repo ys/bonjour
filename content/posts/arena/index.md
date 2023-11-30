@@ -6,7 +6,7 @@ date: 2023-11-30
 description: 
 category:
   - journal
-slug: 
+slug: "/arena"
 emoji: "✨"
 resources:
   - src: "*.webp"
