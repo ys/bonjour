@@ -1,8 +1,8 @@
 ---
-color: blue
+color: flamingo
 title: Arena, the little tool that could
 subtitle: Serendipity and blocks
-date: 2023-11-30
+date: 2023-12-01
 description: 
 category:
   - journal
