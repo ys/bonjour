@@ -1,23 +1,19 @@
 ---
-color: mauve
-title: A web tool that makes me happy
-subtitle: Is entering the arena
-seotitle: 
+color: blue
+title: Arena, the little tool that could
+subtitle: Serendipity and blocks
 date: 2023-11-30
 description: 
 category:
   - journal
-  - "[[Blog]]"
-  - "[[Writing]]"
 slug: 
-emoji: ""
+emoji: "✨"
 resources:
   - src: "*.webp"
   - src: cover.webp
     name: cover
   - src: card.webp
     name: card
-status: draft
 ---
 I love using tools a lot on the internet. I enjoy writing my own and finding alternatives to bulky ones. I love minimalist tooling that serves a purpose well — a little bit like the Unix philosophy, a tool that does one thing well. I'd rather find an Opinel than a Swiss knife.
 
