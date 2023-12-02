@@ -6,10 +6,10 @@ headImage: https://www.flowjournal.org/wp-content/uploads/2022/01/Holsgens-and-O
 title: Traces of Failure in Skateboarding VideosSander Hölsgens / Leiden University
   and Paul O’Connor / University of Exeter
 domain: flowjournal.org
-description:
+description: 
 tags: []
 date: '2023-01-26T19:48:40.228Z'
-highlights:
+highlights: 
 ---
 
 

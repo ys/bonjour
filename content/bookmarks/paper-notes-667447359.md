@@ -9,7 +9,7 @@ description: How I finally became the kind of person who carries a paper noteboo
   and a pen
 tags: []
 date: '2023-10-25T10:26:03.172Z'
-highlights:
+highlights: 
 ---
 
 
