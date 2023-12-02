@@ -10,7 +10,7 @@ description: Taking an Internet Walk by Spencer Chang & Kristoffer Tjalve THE IN
   world “indistinguishable from magic:”…
 tags: []
 date: '2023-11-22T09:21:32.029Z'
-highlights: 
+highlights:
 ---
 
 
