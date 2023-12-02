@@ -6,10 +6,10 @@ headImage: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:
 title: "“I would like surfers to say: ‘I’m not going to wear neoprene because people
   are getting poisoned.’”"
 domain: climateandboardsports.substack.com
-description: 
+description:
 tags: []
 date: '2023-01-26T19:52:54.326Z'
-highlights: 
+highlights:
 ---
 
 

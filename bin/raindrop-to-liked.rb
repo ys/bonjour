@@ -2,6 +2,7 @@
 
 require "rubygems"
 require "bundler/setup"
+require "pp"
 require "json"
 require "yaml"
 require "active_support/all"
@@ -40,11 +41,19 @@ class Raindrop
   end
 
   def liked
-    raindrops("#💖")
+    raindrops("❤️")
+  end
+
+  def favorites(coll, ids)
+    put("/raindrops/#{coll}", {important: true, ids: ids})
   end
 
   def get(path, query = nil)
     JSON.parse(client.get(path: base_path + path, query: query).body)
+  end
+
+  def put(path, body = nil)
+    JSON.parse(client.put(path: base_path + path, body: JSON.dump(body)).body)
   end
 
   def base_path
@@ -52,7 +61,7 @@ class Raindrop
   end
 
   def client
-    @client ||= Excon.new("https://api.raindrop.io/", headers: { "Authorization" => "Bearer #{token}" })
+    @client ||= Excon.new("https://api.raindrop.io/", headers: { "Authorization" => "Bearer #{token}", "Content-Type" => "application/json", "Accept" => "application/json" })
   end
 end
 
@@ -109,6 +118,14 @@ class Downloader
       "tags" => l.dig("meta", "tags").to_a + (l.dig("parsed", "meta", "tags") || []),
       "date" => l["created"],
       "highlights" => l["highlights"].any? ? l["highlights"].map {|h| h["text"] }.join("\n") : nil
+    }
+  end
+
+  def likes_are_important
+    liked = raindrop.liked
+    liked.group_by { |d| d.dig("collection", "$id") }.each { |k, v|
+      pp "{raindrop.favorites(#{k}, #{v.map { |c| c["_id"] }})"
+      pp raindrop.favorites(k, v.map { |c| c["_id"] })
     }
   end
 
@@ -172,5 +189,6 @@ class Downloader
 end
 
 # Downloader.new.download_all
+# Downloader.new.likes_are_important
 Downloader.new.process_liked
 

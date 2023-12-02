@@ -5,10 +5,10 @@ category: article
 headImage: https://static01.nyt.com/images/2022/12/18/multimedia/15LUDDITE-TEENS-4-c878/15LUDDITE-TEENS-4-c878-largeHorizontalJumbo.jpg
 title: "‘Luddite’ Teens Don’t Want Your Likes"
 domain: nytimes.com
-description: 
+description:
 tags: []
 date: '2023-03-21T20:21:32.156Z'
-highlights: 
+highlights:
 ---
 
 

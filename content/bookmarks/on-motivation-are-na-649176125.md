@@ -8,7 +8,7 @@ domain: are.na
 description: Are.na is a platform for connecting ideas and building knowledge.
 tags: []
 date: '2023-09-19T20:14:35.693Z'
-highlights: 
+highlights:
 ---
 
 
