@@ -8,7 +8,7 @@ domain: benhoyt.com
 description: A vision for the "small web", small software, and small architectures.
 tags: []
 date: '2023-11-13T09:12:58.038Z'
-highlights:
+highlights: 
 ---
 
 

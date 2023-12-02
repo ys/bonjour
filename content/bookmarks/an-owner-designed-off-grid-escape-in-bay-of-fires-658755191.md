@@ -9,7 +9,7 @@ description: Lisa Hatfield and landscape designer Sam Cox designed their off-gri
   house, Swansong, in Tasmania’s Bay Of Fires—and it’s available to book!
 tags: []
 date: '2023-10-10T07:39:30.754Z'
-highlights:
+highlights: 
 ---
 
 

@@ -5,10 +5,10 @@ category: video
 headImage: https://i.ytimg.com/vi/tRji-YzuM74/maxresdefault.jpg
 title: 2 years of self-portraits with Lena
 domain: youtube.com
-description:
+description: 
 tags: []
 date: '2023-01-26T19:48:17.311Z'
-highlights:
+highlights: 
 ---
 
 

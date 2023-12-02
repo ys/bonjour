@@ -11,7 +11,7 @@ description: documentation et diffusion de l activite des artistes visuels de Pr
   CV, bibliographie et textes de critiques d art.
 tags: []
 date: '2023-10-11T18:32:56.239Z'
-highlights:
+highlights: 
 ---
 
 

@@ -5,10 +5,10 @@ category: article
 headImage: https://longboardermagazine.com/wp-content/uploads/2023/03/02_JoeQuiggcollection.jpg
 title: Ten Turning Points In The History Of Longboarding - Longboarder Magazine
 domain: longboardermagazine.com
-description:
+description: 
 tags: []
 date: '2023-05-03T07:56:52.882Z'
-highlights:
+highlights: 
 ---
 
 

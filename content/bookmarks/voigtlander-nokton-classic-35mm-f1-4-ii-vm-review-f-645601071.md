@@ -6,10 +6,10 @@ headImage: http://static1.squarespace.com/static/5e8b6cb92229e05b5d320348/5e96fc
 title: 'Voigtlander Nokton Classic 35mm F1.4 II VM review — Focus shift: a street
   photography blog'
 domain: 47-degree.com
-description:
+description: 
 tags: []
 date: '2023-01-26T19:45:06.682Z'
-highlights:
+highlights: 
 ---
 
 

@@ -11,7 +11,7 @@ description: 'Three minutes of shredding brought to you by the Thomas Surfboards
   Messier: 9''5 Stepdeckhttps://us.thomassurfboards.com/'
 tags: []
 date: '2023-10-13T07:30:26.340Z'
-highlights:
+highlights: 
 ---
 
 

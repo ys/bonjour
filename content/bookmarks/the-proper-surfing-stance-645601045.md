@@ -5,10 +5,10 @@ category: article
 headImage: https://tutorials.barefootsurftravel.com/wp-content/uploads/2021/06/The-Proper-Surfing-Stance.jpeg
 title: The Proper Surfing Stance
 domain: barefootsurftravel.com
-description:
+description: 
 tags: []
 date: '2023-01-26T19:44:48.430Z'
-highlights:
+highlights: 
 ---
 
 
