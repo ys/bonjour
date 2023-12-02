@@ -5,10 +5,10 @@ category: article
 headImage: https://www.slate.fr/sites/default/files/styles/1200x680/public/jeremy-bishop-_cfv3bntqlq-unsplash.jpeg
 title: Le surf, une touche de poésie qui résiste au capitalisme
 domain: slate.fr
-description: 
+description:
 tags: []
 date: '2023-01-26T19:46:12.987Z'
-highlights: 
+highlights:
 ---
 
 

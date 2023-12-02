@@ -6,10 +6,10 @@ headImage: https://assets.community.lomography.com/49/88d2823827fe3686c787bf167c
 title: 'Lomography - Cokoif on Combining His Two Great Passions: Analogue Photography
   and Surfing'
 domain: lomography.com
-description: 
+description:
 tags: []
 date: '2023-03-07T20:46:24.230Z'
-highlights: 
+highlights:
 ---
 
 

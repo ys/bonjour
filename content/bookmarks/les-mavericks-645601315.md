@@ -5,10 +5,10 @@ category: link
 headImage: https://asset.imagotv.fr/img/content/tvshow/episod/les_mavericks/hd/14.jpg
 title: Les Mavericks
 domain: imagotv.fr
-description: 
+description:
 tags: []
 date: '2023-01-26T19:48:06.965Z'
-highlights: 
+highlights:
 ---
 
 

@@ -5,10 +5,10 @@ category: link
 headImage: https://guillaumetomasi.b-cdn.net/shop/jpg/01-cover.png
 title: Chrysalises - Guillaume Tomasi - Photographer
 domain: guillaumetomasi.com
-description: 
+description:
 tags: []
 date: '2023-01-26T19:49:08.688Z'
-highlights: 
+highlights:
 ---
 
 

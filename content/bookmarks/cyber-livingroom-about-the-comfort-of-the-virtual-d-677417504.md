@@ -9,7 +9,7 @@ description: This is "Cyber Livingroom – About the comfort of the virtual desk
   by Veronica Obenauer on Vimeo, the home for high quality videos and the people…
 tags: []
 date: '2023-11-12T17:32:38.217Z'
-highlights: 
+highlights:
 ---
 
 

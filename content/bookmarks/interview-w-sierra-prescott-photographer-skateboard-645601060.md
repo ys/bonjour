@@ -5,10 +5,10 @@ category: video
 headImage: https://i.ytimg.com/vi/8Rglr-dwQkk/maxresdefault.jpg
 title: Interview w/ Sierra Prescott | Photographer & Skateboarder
 domain: youtube.com
-description: 
+description:
 tags: []
 date: '2023-01-26T19:44:57.948Z'
-highlights: 
+highlights:
 ---
 
 

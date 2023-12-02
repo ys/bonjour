@@ -5,10 +5,10 @@ category: article
 headImage: https://macwright.com/images/2022-09-15-hacker-news-thumbnail-image.jpeg
 title: Hacker News
 domain: macwright.com
-description: 
+description:
 tags: []
 date: '2023-01-26T19:49:29.522Z'
-highlights: 
+highlights:
 ---
 
 

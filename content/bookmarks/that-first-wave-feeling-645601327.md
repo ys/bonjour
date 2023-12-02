@@ -5,10 +5,10 @@ category: article
 headImage: https://almondsurfboards.com/cdn/shop/articles/glassy_wave_1200x.jpg?v=1644437112
 title: That First Wave Feeling
 domain: almondsurfboards.com
-description: 
+description:
 tags: []
 date: '2023-01-26T19:48:20.529Z'
-highlights: 
+highlights:
 ---
 
 

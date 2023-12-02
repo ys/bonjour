@@ -5,10 +5,10 @@ category: link
 headImage: https://exposure-marketing.accelerator.net/open-graph-image.png
 title: The visual storytelling platform made simple and beautiful
 domain: theprimalrevolution.exposure.co
-description: 
+description:
 tags: []
 date: '2023-01-26T19:48:41.638Z'
-highlights: 
+highlights:
 ---
 
 

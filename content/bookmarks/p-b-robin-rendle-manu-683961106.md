@@ -10,7 +10,7 @@ description: This is the 13th edition of People and Blogs, the series where I as
   …
 tags: []
 date: '2023-11-24T22:23:14.548Z'
-highlights: 
+highlights:
 ---
 
 
