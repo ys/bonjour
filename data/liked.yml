@@ -1,35 +1,45 @@
 ---
-- _id: 687527599
-  link: https://cyber.dabamos.de/88x31/index5.html
-  title: The 88x31 GIF Collection | Part 5
-  excerpt: ''
+- _id: 667447359
+  link: https://macwright.com/2019/01/02/paper-notes
+  title: Paper notes
+  excerpt: How I finally became the kind of person who carries a paper notebook and
+    a pen
   note: ''
-  type: link
+  type: article
   user:
     "$ref": users
     "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Fcyber.dabamos.de%2F88x31%2Findex5.html
-  media: []
-  tags: []
+  cover: https://macwright.com/images/2019-01-02-paper-notes-thumbnail-image.jpg
+  media:
+  - link: https://macwright.com/images/2019-01-02-paper-notes-thumbnail-image.jpg
+    type: image
+  - link: https://macwright.com/images/2019-01-02-paper-notes-time-not-topics.webp
+    type: image
+  - link: https://macwright.com/images/2019-01-02-paper-notes-simplicity-not-heaviness.webp
+    type: image
+  - link: https://macwright.com/images/2019-01-02-paper-notes-note-box.webp
+    type: image
+  tags:
+  - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
-  created: '2023-12-01T14:09:23.063Z'
-  lastUpdate: '2023-12-01T14:09:24.314Z'
+  created: '2023-10-25T10:26:03.172Z'
+  lastUpdate: '2023-12-02T21:40:47.589Z'
   collection:
     "$ref": collections
-    "$id": 38035089
-    oid: 38035089
+    "$id": 38065958
+    oid: 38065958
   highlights: []
-  domain: cyber.dabamos.de
+  domain: macwright.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 687527599
-  collectionId: 38035089
+  sort: 667447359
+  collectionId: 38065958
   parsed: {}
 - _id: 655169215
   link: https://ia.net/topics/daily-writing-habit-emergency-kit
@@ -111,6 +121,38 @@
   sort: 687843954
   collectionId: 38035089
   parsed: {}
+- _id: 687527599
+  link: https://cyber.dabamos.de/88x31/index5.html
+  title: The 88x31 GIF Collection | Part 5
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fcyber.dabamos.de%2F88x31%2Findex5.html
+  media: []
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-01T14:09:23.063Z'
+  lastUpdate: '2023-12-01T14:09:24.314Z'
+  collection:
+    "$ref": collections
+    "$id": 38035089
+    oid: 38035089
+  highlights: []
+  domain: cyber.dabamos.de
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 687527599
+  collectionId: 38035089
+  parsed: {}
 - _id: 683961106
   link: https://manuelmoreale.com/pb-robin-rendle?utm_source=peopleandblogs&utm_medium=email&utm_campaign=pb-robin-rendle
   title: 'P&B: Robin Rendle – Manu'
@@ -127,7 +169,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-11-24T22:23:14.548Z'
   lastUpdate: '2023-12-02T21:40:36.629Z'
@@ -162,7 +204,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-11-22T09:27:00.766Z'
   lastUpdate: '2023-12-02T21:40:36.629Z'
@@ -206,7 +248,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-11-22T09:21:32.029Z'
   lastUpdate: '2023-12-02T21:40:36.629Z'
@@ -249,7 +291,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-11-16T22:47:13.573Z'
   lastUpdate: '2023-12-02T21:40:36.629Z'
@@ -287,7 +329,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-11-12T17:32:38.217Z'
   lastUpdate: '2023-12-02T21:40:36.629Z'
@@ -330,7 +372,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-10-19T14:30:05.975Z'
   lastUpdate: '2023-12-02T21:40:36.629Z'
@@ -369,7 +411,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-10-19T07:25:52.981Z'
   lastUpdate: '2023-12-02T21:40:36.629Z'
@@ -405,7 +447,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-10-15T21:00:24.154Z'
   lastUpdate: '2023-12-02T21:40:36.629Z'
@@ -448,7 +490,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-10-02T21:12:48.548Z'
   lastUpdate: '2023-12-02T21:40:36.629Z'
@@ -492,7 +534,7 @@
   - notes
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-10-02T21:10:28.641Z'
   lastUpdate: '2023-12-02T21:40:36.629Z'
@@ -529,7 +571,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-10-02T21:08:19.848Z'
   lastUpdate: '2023-12-02T21:40:36.629Z'
@@ -575,7 +617,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-10-01T16:09:28.473Z'
   lastUpdate: '2023-12-02T21:40:36.629Z'
@@ -612,7 +654,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-11-07T11:45:43.873Z'
   lastUpdate: '2023-12-02T21:40:37.153Z'
@@ -648,7 +690,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-10-16T07:34:15.873Z'
   lastUpdate: '2023-12-02T21:40:37.153Z'
@@ -684,7 +726,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-09-12T14:40:49.732Z'
   lastUpdate: '2023-12-02T21:40:37.153Z'
@@ -727,7 +769,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-12-01T21:47:11.885Z'
   lastUpdate: '2023-12-02T21:40:37.680Z'
@@ -764,7 +806,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-12-01T14:47:52.008Z'
   lastUpdate: '2023-12-02T21:40:37.680Z'
@@ -801,7 +843,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-11-30T19:58:01.813Z'
   lastUpdate: '2023-12-02T21:40:37.680Z'
@@ -862,7 +904,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-11-30T08:57:45.066Z'
   lastUpdate: '2023-12-02T21:40:37.680Z'
@@ -905,7 +947,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-11-22T09:28:20.186Z'
   lastUpdate: '2023-12-02T21:40:37.680Z'
@@ -948,7 +990,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-11-21T09:16:54.297Z'
   lastUpdate: '2023-12-02T21:40:37.680Z'
@@ -985,7 +1027,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-10-02T18:25:17.273Z'
   lastUpdate: '2023-12-02T21:40:37.680Z'
@@ -1024,7 +1066,7 @@
   - weird internet
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-10-01T16:02:49.051Z'
   lastUpdate: '2023-12-02T21:40:37.680Z'
@@ -1078,7 +1120,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-10-01T14:15:59.293Z'
   lastUpdate: '2023-12-02T21:40:37.680Z'
@@ -1514,7 +1556,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-09-20T13:00:07.778Z'
   lastUpdate: '2023-12-02T21:40:39.312Z'
@@ -1560,7 +1602,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-09-18T07:18:05.953Z'
   lastUpdate: '2023-12-02T21:40:39.312Z'
@@ -1610,6 +1652,39 @@
   sort: 645601693
   important: true
   collectionId: 37679916
+  parsed: {}
+- _id: 677667521
+  link: https://benhoyt.com/writings/the-small-web-is-beautiful/
+  title: The small web is beautiful
+  excerpt: A vision for the "small web", small software, and small architectures.
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fbenhoyt.com%2Fwritings%2Fthe-small-web-is-beautiful%2F
+  media: []
+  tags:
+  - "\U0001F496"
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-11-13T09:12:58.038Z'
+  lastUpdate: '2023-12-02T21:40:50.992Z'
+  collection:
+    "$ref": collections
+    "$id": 37643117
+    oid: 37643117
+  highlights: []
+  domain: benhoyt.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 677667521
+  collectionId: 37643117
   parsed: {}
 - _id: 645601241
   link: https://www.mimosa-surfboards.com/
@@ -1717,7 +1792,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-11-27T08:46:31.611Z'
   lastUpdate: '2023-12-02T21:40:41.495Z'
@@ -1750,7 +1825,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-11-14T19:50:59.708Z'
   lastUpdate: '2023-12-02T21:40:41.495Z'
@@ -1784,7 +1859,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-11-13T22:27:32.758Z'
   lastUpdate: '2023-12-02T21:40:41.495Z'
@@ -1828,7 +1903,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-11-13T09:04:57.522Z'
   lastUpdate: '2023-12-02T21:40:41.495Z'
@@ -1866,7 +1941,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-11-11T21:55:02.385Z'
   lastUpdate: '2023-12-02T21:40:41.495Z'
@@ -1986,7 +2061,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-10-20T20:51:20.670Z'
   lastUpdate: '2023-12-02T21:40:41.495Z'
@@ -2031,7 +2106,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-10-05T18:27:59.088Z'
   lastUpdate: '2023-12-02T21:40:41.495Z'
@@ -2068,7 +2143,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-10-02T10:09:29.953Z'
   lastUpdate: '2023-12-02T21:40:41.495Z'
@@ -2116,7 +2191,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-10-01T21:42:51.355Z'
   lastUpdate: '2023-12-02T21:40:41.495Z'
@@ -2270,7 +2345,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-09-19T20:14:35.693Z'
   lastUpdate: '2023-12-02T21:40:41.495Z'
@@ -2760,6 +2835,89 @@
   important: true
   collectionId: 37603939
   parsed: {}
+- _id: 654809402
+  link: https://goodenough.us/blog/2023-09-28-how-we-made-a-good-enough-zine/
+  title: How We Made A Good Enough Zine — Good Enough
+  excerpt: "We made a zine!\nThe first issue was released in August, and I finished
+    the second issue just last week. Right now, a hundred copies are on their way
+    from the printer to me (update: they've just arrived!). Today I'd like to share
+    the story of how this zine came about.\nBad Idea: Zine\nA Good Enough Zine was
+    one of our bad ideas. On May 11, 2023, Arun suggested:\n\n  \n\nMy initial reaction:
+    What a terrible idea!\nWhy so terrible? Because making a zine is a sh*t ton of
+    work. (I know—I've made several issues of a comics zine, and it is a lot of work!)
+    And really, who's reading zines these days and who cares about what we're doing
+    at Good Enough?"
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://goodenough.us/social-preview.png
+  media:
+  - link: https://goodenough.us/social-preview.png
+    type: image
+  - link: https://goodenough.us/images/blog-230928-zineletter.png
+    type: image
+  - link: https://goodenough.us/images/blog-230928-indesign.png
+    type: image
+  - link: https://goodenough.us/images/blog-230928-mixam.png
+    type: image
+  tags:
+  - "\U0001F496"
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-10-01T21:21:14.871Z'
+  lastUpdate: '2023-12-02T21:40:49.431Z'
+  collection:
+    "$ref": collections
+    "$id": 37577005
+    oid: 37577005
+  highlights: []
+  domain: goodenough.us
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 654809402
+  collectionId: 37577005
+  parsed: {}
+- _id: 645601092
+  link: http://www.meganshootsfilm.com/
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/http%3A%2F%2Fwww.meganshootsfilm.com%2F
+  media:
+  - type: image
+    link: https://rdl.ink/render/http%3A%2F%2Fwww.meganshootsfilm.com%2F
+    screenshot: true
+  tags:
+  - "\U0001F496"
+  removed: false
+  created: '2023-01-26T19:45:20.628Z'
+  collection:
+    "$ref": collections
+    "$id": 37577000
+    oid: 37577000
+  highlights: []
+  lastUpdate: '2023-12-02T21:40:51.550Z'
+  domain: meganshootsfilm.com
+  title: Megan Barrett
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 646624715
+  important: true
+  collectionId: 37577000
+  parsed: {}
 - _id: 645601563
   link: https://huckberry.com/journal/posts/joy-of-owning-a-coffee-company
   excerpt: ''
@@ -3021,7 +3179,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-11-16T22:37:12.127Z'
   lastUpdate: '2023-12-02T21:40:42.989Z'
@@ -3120,7 +3278,7 @@
   - skateboarding
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-10-02T18:47:10.176Z'
   lastUpdate: '2023-12-02T21:40:42.989Z'
@@ -3185,7 +3343,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-09-29T09:23:34.908Z'
   lastUpdate: '2023-12-02T21:40:42.989Z'
@@ -3867,7 +4025,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-11-29T13:32:05.829Z'
   lastUpdate: '2023-12-02T21:40:43.510Z'
@@ -3916,7 +4074,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-10-25T11:08:26.009Z'
   lastUpdate: '2023-12-02T21:40:43.510Z'
@@ -3953,7 +4111,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-10-22T18:56:25.073Z'
   lastUpdate: '2023-12-02T21:40:43.510Z'
@@ -3992,7 +4150,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-10-21T09:49:58.029Z'
   lastUpdate: '2023-12-02T21:40:43.510Z'
@@ -4034,7 +4192,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-10-20T20:36:54.656Z'
   lastUpdate: '2023-12-02T21:40:43.510Z'
@@ -4090,7 +4248,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-10-19T19:05:49.042Z'
   lastUpdate: '2023-12-02T21:40:43.510Z'
@@ -4126,7 +4284,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-10-19T13:17:07.807Z'
   lastUpdate: '2023-12-02T21:40:43.510Z'
@@ -4173,7 +4331,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-10-19T08:45:53.136Z'
   lastUpdate: '2023-12-02T21:40:43.510Z'
@@ -4283,7 +4441,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-09-29T18:44:37.094Z'
   lastUpdate: '2023-12-02T21:40:43.510Z'
@@ -5121,7 +5279,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-11-22T09:25:02.775Z'
   lastUpdate: '2023-12-02T21:40:44.045Z'
@@ -5167,7 +5325,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-11-13T21:24:58.498Z'
   lastUpdate: '2023-12-02T21:40:44.045Z'
@@ -5203,7 +5361,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-09-28T18:34:12.859Z'
   lastUpdate: '2023-12-02T21:40:44.045Z'
@@ -5242,7 +5400,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-11-10T13:18:27.987Z'
   lastUpdate: '2023-12-02T21:40:44.543Z'
@@ -5279,7 +5437,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-10-05T21:02:45.776Z'
   lastUpdate: '2023-12-02T21:40:44.543Z'
@@ -5315,7 +5473,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-09-25T18:22:42.630Z'
   lastUpdate: '2023-12-02T21:40:44.543Z'
@@ -21792,7 +21950,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-10-10T07:39:30.754Z'
   lastUpdate: '2023-12-02T21:40:45.456Z'
@@ -22078,164 +22236,6 @@
   important: true
   collectionId: 37136914
   parsed: {}
-- _id: 667447359
-  link: https://macwright.com/2019/01/02/paper-notes
-  title: Paper notes
-  excerpt: How I finally became the kind of person who carries a paper notebook and
-    a pen
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://macwright.com/images/2019-01-02-paper-notes-thumbnail-image.jpg
-  media:
-  - link: https://macwright.com/images/2019-01-02-paper-notes-thumbnail-image.jpg
-    type: image
-  - link: https://macwright.com/images/2019-01-02-paper-notes-time-not-topics.webp
-    type: image
-  - link: https://macwright.com/images/2019-01-02-paper-notes-simplicity-not-heaviness.webp
-    type: image
-  - link: https://macwright.com/images/2019-01-02-paper-notes-note-box.webp
-    type: image
-  tags:
-  - "\U0001F496"
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2023-10-25T10:26:03.172Z'
-  lastUpdate: '2023-12-02T21:40:47.589Z'
-  collection:
-    "$ref": collections
-    "$id": 38065958
-    oid: 38065958
-  highlights: []
-  domain: macwright.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 667447359
-  collectionId: 38065958
-  parsed: {}
-- _id: 677667521
-  link: https://benhoyt.com/writings/the-small-web-is-beautiful/
-  title: The small web is beautiful
-  excerpt: A vision for the "small web", small software, and small architectures.
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Fbenhoyt.com%2Fwritings%2Fthe-small-web-is-beautiful%2F
-  media: []
-  tags:
-  - "\U0001F496"
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2023-11-13T09:12:58.038Z'
-  lastUpdate: '2023-12-02T21:40:50.992Z'
-  collection:
-    "$ref": collections
-    "$id": 37643117
-    oid: 37643117
-  highlights: []
-  domain: benhoyt.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 677667521
-  collectionId: 37643117
-  parsed: {}
-- _id: 654809402
-  link: https://goodenough.us/blog/2023-09-28-how-we-made-a-good-enough-zine/
-  title: How We Made A Good Enough Zine — Good Enough
-  excerpt: "We made a zine!\nThe first issue was released in August, and I finished
-    the second issue just last week. Right now, a hundred copies are on their way
-    from the printer to me (update: they've just arrived!). Today I'd like to share
-    the story of how this zine came about.\nBad Idea: Zine\nA Good Enough Zine was
-    one of our bad ideas. On May 11, 2023, Arun suggested:\n\n  \n\nMy initial reaction:
-    What a terrible idea!\nWhy so terrible? Because making a zine is a sh*t ton of
-    work. (I know—I've made several issues of a comics zine, and it is a lot of work!)
-    And really, who's reading zines these days and who cares about what we're doing
-    at Good Enough?"
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://goodenough.us/social-preview.png
-  media:
-  - link: https://goodenough.us/social-preview.png
-    type: image
-  - link: https://goodenough.us/images/blog-230928-zineletter.png
-    type: image
-  - link: https://goodenough.us/images/blog-230928-indesign.png
-    type: image
-  - link: https://goodenough.us/images/blog-230928-mixam.png
-    type: image
-  tags:
-  - "\U0001F496"
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2023-10-01T21:21:14.871Z'
-  lastUpdate: '2023-12-02T21:40:49.431Z'
-  collection:
-    "$ref": collections
-    "$id": 37577005
-    oid: 37577005
-  highlights: []
-  domain: goodenough.us
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 654809402
-  collectionId: 37577005
-  parsed: {}
-- _id: 645601092
-  link: http://www.meganshootsfilm.com/
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/http%3A%2F%2Fwww.meganshootsfilm.com%2F
-  media:
-  - type: image
-    link: https://rdl.ink/render/http%3A%2F%2Fwww.meganshootsfilm.com%2F
-    screenshot: true
-  tags:
-  - "\U0001F496"
-  removed: false
-  created: '2023-01-26T19:45:20.628Z'
-  collection:
-    "$ref": collections
-    "$id": 37577000
-    oid: 37577000
-  highlights: []
-  lastUpdate: '2023-12-02T21:40:51.550Z'
-  domain: meganshootsfilm.com
-  title: Megan Barrett
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 646624715
-  important: true
-  collectionId: 37577000
-  parsed: {}
 - _id: 681828688
   link: https://www.youtube.com/watch?v=uaeamUAN8gU&t=1375s
   title: JOB and the surfing culture in San Francisco | NO CONTEST OFF TOUR
@@ -22254,7 +22254,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-11-20T14:55:45.711Z'
   lastUpdate: '2023-12-02T21:40:45.997Z'
@@ -22332,7 +22332,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-10-08T18:12:41.261Z'
   lastUpdate: '2023-12-02T21:40:45.997Z'
@@ -22381,7 +22381,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-09-28T20:24:56.444Z'
   lastUpdate: '2023-12-02T21:40:45.997Z'
@@ -22420,7 +22420,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-09-14T11:53:19.385Z'
   lastUpdate: '2023-12-02T21:40:45.997Z'
@@ -25036,7 +25036,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-10-11T18:32:56.239Z'
   lastUpdate: '2023-12-02T21:40:46.500Z'
@@ -25113,7 +25113,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-10-05T07:37:55.035Z'
   lastUpdate: '2023-12-02T21:40:46.500Z'
@@ -25157,7 +25157,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-09-29T07:33:32.914Z'
   lastUpdate: '2023-12-02T21:40:46.500Z'
@@ -25195,7 +25195,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-09-14T11:21:02.771Z'
   lastUpdate: '2023-12-02T21:40:46.500Z'
@@ -26564,7 +26564,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-09-18T07:19:21.533Z'
   lastUpdate: '2023-12-02T21:40:47.061Z'
@@ -26637,7 +26637,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-11-23T15:22:34.359Z'
   lastUpdate: '2023-12-02T21:40:50.377Z'
@@ -26685,7 +26685,7 @@
   - "\U0001F496"
   important: true
   reminder:
-    date:
+    date: 
   removed: false
   created: '2023-11-10T09:34:40.688Z'
   lastUpdate: '2023-12-02T21:40:50.377Z'
@@ -26702,4 +26702,66 @@
     email: ''
   sort: 675778992
   collectionId: -1
+  parsed: {}
+- _id: 688480672
+  link: https://manuelmoreale.com/@/page/9AhFsuW7ArG5GH14
+  title: More new mindsets, fewer new technologies – Manu
+  excerpt: For blogging to form communities (again'-ish), we're going to need new
+    protocols. I don't think HTTP is the future for growth. A tale as old as time,
+    …
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fmanuelmoreale.com%2F%40%2Fpage%2F9AhFsuW7ArG5GH14
+  media: []
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2023-12-03T09:00:05.370Z'
+  lastUpdate: '2023-12-03T09:00:05.370Z'
+  collection:
+    "$ref": collections
+    "$id": 38035089
+    oid: 38035089
+  domain: manuelmoreale.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 688480672
+  collectionId: 38035089
+  parsed: {}
+- _id: 688480548
+  link: https://robinrendle.com/notes/figure-it-out/
+  title: Robin Rendle — Figure it out
+  excerpt: The website of Robin Rendle, a designer and writer from the UK.
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Frobinrendle.com%2Fnotes%2Ffigure-it-out%2F
+  media: []
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2023-12-03T08:59:05.447Z'
+  lastUpdate: '2023-12-03T08:59:05.447Z'
+  collection:
+    "$ref": collections
+    "$id": 37603939
+    oid: 37603939
+  domain: robinrendle.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 688480548
+  collectionId: 37603939
   parsed: {}
