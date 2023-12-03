@@ -24,12 +24,18 @@ jobs:
         env:
           RAINDROP_TOKEN: ${{ secrets.RAINDROP_TOKEN }}
           RAINDROP_FORCE: true
+      - name: Sync to Arena
+        run: |
+          bundle exec ruby bin/export-to-arena
+        env:
+          ARENA_TOKEN: ${{ secrets.ARENA_TOKEN }}
       - name: Commit files
         id: commit
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "github-actions"
           git add content/bookmarks/*
+          git add data/*
           git commit -m "Sync the liked list" || echo "nothing to do and it is fine"
           git pull origin ${{ github.ref }}
           echo "push=true" >> $GITHUB_OUTPUT
