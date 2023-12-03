@@ -1,15 +1,21 @@
 #!/usr/bin/env ruby
 require "rubygems"
 require "bundler/setup"
-require "json"
+require "yaml"
 Bundler.require(:default)
 Dotenv.load
 
 Arena.configure do |config|
-    config.access_token = ENV["ARENA_TOKEN"]
+  config.access_token = ENV["ARENA_TOKEN"]
 end
 
-JSON.load(File.read("feed.json"))["items"].reverse.each do |i|
-puts Arena.channel_add_block(1977086, source: i["url"])
+existing = YAML.load(File.read("data/synced_to_arena.yml"))
 
+YAML.load(File.read("data/liked.yml")).reverse.each do |i|
+  next if existing.include?(i["link"])
+  pp Arena.channel_add_block(1977086, source: i["link"])
+  pp i
+  existing << i["link"]
 end
+
+File.open("data/synced_to_arena.yml", "w") { |file| file.write(YAML.dump(existing)) }
