@@ -26765,3 +26765,37 @@
   sort: 688480548
   collectionId: 37603939
   parsed: {}
+- _id: 688799231
+  link: https://unilist.raphaelbastide.com/?utm_source=substack&utm_medium=email
+  title: "⋃nilist"
+  excerpt: 'Unilist: Unicode Character list'
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://unilist.raphaelbastide.com/img/icon.png
+  media:
+  - link: http://unilist.raphaelbastide.com/img/icon.png
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-03T20:59:16.769Z'
+  lastUpdate: '2023-12-03T20:59:17.677Z'
+  collection:
+    "$ref": collections
+    "$id": 38035089
+    oid: 38035089
+  highlights: []
+  domain: unilist.raphaelbastide.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 688799231
+  collectionId: 38035089
+  parsed: {}
