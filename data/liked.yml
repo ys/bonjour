@@ -159,6 +159,87 @@
   sort: 689077927
   collectionId: 38035089
   parsed: {}
+- _id: 689082541
+  link: https://garden.vincentli.space/making-a-place-on-the-web---garden
+  title: "Making a Place on the Web - Garden | Vincent's \U0001F30C"
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://vli-portfolio.s3.us-east-2.amazonaws.com/garden/IMG%20-%20Making%20a%20Place%20on%20the%20Web%20-%20Garden.png
+  media:
+  - link: https://vli-portfolio.s3.us-east-2.amazonaws.com/garden/IMG%20-%20Making%20a%20Place%20on%20the%20Web%20-%20Garden.png
+    type: image
+  - link: https://vli-portfolio.s3.us-east-2.amazonaws.com/garden/IMG%20-%20Pollan%20-%20Garden%201.png
+    type: image
+  - link: https://vli-portfolio.s3.us-east-2.amazonaws.com/garden/IMG%20-%20Pollan%20-%20Garden%202.png
+    type: image
+  - link: https://vli-portfolio.s3.us-east-2.amazonaws.com/garden/IMG%20-%20Making%20a%20Place%20on%20the%20Web%20-%20Garden%20-%20Pollan%20garden%20to%20digital%20objects.png
+    type: image
+  - link: https://vli-portfolio.s3.us-east-2.amazonaws.com/garden/IMG%20-%20Making%20a%20Place%20on%20the%20Web%20-%20Garden%20-%20Digital%20Objects.png
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-04T12:23:06.099Z'
+  lastUpdate: '2023-12-04T12:23:10.232Z'
+  collection:
+    "$ref": collections
+    "$id": 38035089
+    oid: 38035089
+  highlights: []
+  domain: garden.vincentli.space
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 689082541
+  collectionId: 38035089
+  parsed: {}
+- _id: 689081726
+  link: https://bewrong.substack.com/p/the-hipster-internet
+  title: i really love the (hipster) internet
+  excerpt: They say the internet didn’t show up in productivity numbers, but have
+    you tried measuring the leisure ones?
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e6e4d44-d4be-4839-af6a-b928b816336e_895x685.jpeg
+  media:
+  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e6e4d44-d4be-4839-af6a-b928b816336e_895x685.jpeg
+    type: image
+  - link: https://substackcdn.com/image/fetch/w_320,h_213,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9f38bdd-6a1a-48b7-8f0c-ab190976de1f_1248x898.png
+    type: image
+  - link: https://substackcdn.com/image/fetch/w_320,h_213,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fde82de5c-3592-4110-bab2-dc253a14a210_338x450.jpeg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-04T12:18:12.820Z'
+  lastUpdate: '2023-12-04T12:18:12.820Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  domain: bewrong.substack.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 689081726
+  collectionId: -1
+  parsed: {}
 - _id: 667447359
   link: https://macwright.com/2019/01/02/paper-notes
   title: Paper notes
