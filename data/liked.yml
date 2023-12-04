@@ -240,6 +240,49 @@
   sort: 689081726
   collectionId: -1
   parsed: {}
+- _id: 689116890
+  link: http://www.vlanpodcast.fr/best-of-changer-de-vie-et-revenir-a-lessentiel-avec-pedro-correa/
+  title: "[BEST-OF] Changer de vie et revenir à l'essentiel avec Pedro Correa"
+  excerpt: Pedro Correa est polytechnicien, mais il a transformé sa vie pour devenir
+    photographe, auteur et conférencier.
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://www.vlanpodcast.fr/wp-content/uploads/2021/07/f7bd8cfa-b420-45ad-b0c8-95f51051c501.jpg
+  media:
+  - link: http://www.vlanpodcast.fr/wp-content/uploads/2021/07/f7bd8cfa-b420-45ad-b0c8-95f51051c501.jpg
+    type: image
+  - link: http://www.vlanpodcast.fr/wp-content/plugins/seriously-simple-podcasting/assets/images/no-album-art.png
+    type: image
+  - link: http://www.vlanpodcast.fr/wp-content/uploads/2023/11/edc338e3-ef2f-498b-b3aa-03991b5d4aa0-1024x1024.jpg
+    type: image
+  - link: http://www.vlanpodcast.fr/wp-content/uploads/2023/11/a8d73bda-eb6d-41e7-ae47-71d10a4eaab2-1024x1024.jpg
+    type: image
+  - link: http://www.vlanpodcast.fr/wp-content/uploads/2023/11/ed7bf370-ac0f-4327-bdc9-63d8de91ef3d-1024x1024.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-04T14:13:17.713Z'
+  lastUpdate: '2023-12-04T14:13:18.847Z'
+  collection:
+    "$ref": collections
+    "$id": 37603939
+    oid: 37603939
+  highlights: []
+  domain: vlanpodcast.fr
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 689116890
+  collectionId: 37603939
+  parsed: {}
 - _id: 667447359
   link: https://macwright.com/2019/01/02/paper-notes
   title: Paper notes
@@ -26128,4 +26171,42 @@
     email: ''
   sort: 675778992
   collectionId: -1
+  parsed: {}
+- _id: 689123641
+  link: https://remimercier.com/user-manual/
+  title: Remi's User Manual - Remi Mercier - Ruby on Rails Software Engineer
+  excerpt: The blog of Rémi Mercier, Ruby on Rails software engineer.
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://remimercier.com/media/remi-mercier.jpeg
+  media:
+  - link: https://remimercier.com/media/remi-mercier.jpeg
+    type: image
+  - link: https://media.giphy.com/media/86TYQsESJDjRJaO0am/giphy.gif
+    type: image
+  - link: https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVlam01MmF4ZnJ3bHlmcnExdzI0eGo2M2s0amFtdXBvdDZjOGdtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wSYE7n6pk9dqRXzitR/giphy.gif
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-04T14:40:11.472Z'
+  lastUpdate: '2023-12-04T14:40:12.721Z'
+  collection:
+    "$ref": collections
+    "$id": 37456469
+    oid: 37456469
+  highlights: []
+  domain: remimercier.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 689123641
+  collectionId: 37456469
   parsed: {}
