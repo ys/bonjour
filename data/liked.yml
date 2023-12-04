@@ -127,162 +127,6 @@
   sort: 688799231
   collectionId: 38035089
   parsed: {}
-- _id: 689077927
-  link: https://projects.kwon.nyc/internet-is-fun/?utm_medium=email&utm_source=substack
-  title: The internet used to be fun
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Fprojects.kwon.nyc%2Finternet-is-fun%2F%3Futm_medium%3Demail%26utm_source%3Dsubstack
-  media: []
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-12-04T11:52:12.978Z'
-  lastUpdate: '2023-12-04T11:52:14.048Z'
-  collection:
-    "$ref": collections
-    "$id": 38035089
-    oid: 38035089
-  highlights: []
-  domain: projects.kwon.nyc
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 689077927
-  collectionId: 38035089
-  parsed: {}
-- _id: 689082541
-  link: https://garden.vincentli.space/making-a-place-on-the-web---garden
-  title: "Making a Place on the Web - Garden | Vincent's \U0001F30C"
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://vli-portfolio.s3.us-east-2.amazonaws.com/garden/IMG%20-%20Making%20a%20Place%20on%20the%20Web%20-%20Garden.png
-  media:
-  - link: https://vli-portfolio.s3.us-east-2.amazonaws.com/garden/IMG%20-%20Making%20a%20Place%20on%20the%20Web%20-%20Garden.png
-    type: image
-  - link: https://vli-portfolio.s3.us-east-2.amazonaws.com/garden/IMG%20-%20Pollan%20-%20Garden%201.png
-    type: image
-  - link: https://vli-portfolio.s3.us-east-2.amazonaws.com/garden/IMG%20-%20Pollan%20-%20Garden%202.png
-    type: image
-  - link: https://vli-portfolio.s3.us-east-2.amazonaws.com/garden/IMG%20-%20Making%20a%20Place%20on%20the%20Web%20-%20Garden%20-%20Pollan%20garden%20to%20digital%20objects.png
-    type: image
-  - link: https://vli-portfolio.s3.us-east-2.amazonaws.com/garden/IMG%20-%20Making%20a%20Place%20on%20the%20Web%20-%20Garden%20-%20Digital%20Objects.png
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-12-04T12:23:06.099Z'
-  lastUpdate: '2023-12-04T12:23:10.232Z'
-  collection:
-    "$ref": collections
-    "$id": 38035089
-    oid: 38035089
-  highlights: []
-  domain: garden.vincentli.space
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 689082541
-  collectionId: 38035089
-  parsed: {}
-- _id: 689081726
-  link: https://bewrong.substack.com/p/the-hipster-internet
-  title: i really love the (hipster) internet
-  excerpt: They say the internet didn’t show up in productivity numbers, but have
-    you tried measuring the leisure ones?
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e6e4d44-d4be-4839-af6a-b928b816336e_895x685.jpeg
-  media:
-  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e6e4d44-d4be-4839-af6a-b928b816336e_895x685.jpeg
-    type: image
-  - link: https://substackcdn.com/image/fetch/w_320,h_213,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9f38bdd-6a1a-48b7-8f0c-ab190976de1f_1248x898.png
-    type: image
-  - link: https://substackcdn.com/image/fetch/w_320,h_213,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fde82de5c-3592-4110-bab2-dc253a14a210_338x450.jpeg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-12-04T12:18:12.820Z'
-  lastUpdate: '2023-12-04T12:18:12.820Z'
-  collection:
-    "$ref": collections
-    "$id": -1
-    oid: -1
-  highlights: []
-  domain: bewrong.substack.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 689081726
-  collectionId: -1
-  parsed: {}
-- _id: 689116890
-  link: http://www.vlanpodcast.fr/best-of-changer-de-vie-et-revenir-a-lessentiel-avec-pedro-correa/
-  title: "[BEST-OF] Changer de vie et revenir à l'essentiel avec Pedro Correa"
-  excerpt: Pedro Correa est polytechnicien, mais il a transformé sa vie pour devenir
-    photographe, auteur et conférencier.
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://www.vlanpodcast.fr/wp-content/uploads/2021/07/f7bd8cfa-b420-45ad-b0c8-95f51051c501.jpg
-  media:
-  - link: http://www.vlanpodcast.fr/wp-content/uploads/2021/07/f7bd8cfa-b420-45ad-b0c8-95f51051c501.jpg
-    type: image
-  - link: http://www.vlanpodcast.fr/wp-content/plugins/seriously-simple-podcasting/assets/images/no-album-art.png
-    type: image
-  - link: http://www.vlanpodcast.fr/wp-content/uploads/2023/11/edc338e3-ef2f-498b-b3aa-03991b5d4aa0-1024x1024.jpg
-    type: image
-  - link: http://www.vlanpodcast.fr/wp-content/uploads/2023/11/a8d73bda-eb6d-41e7-ae47-71d10a4eaab2-1024x1024.jpg
-    type: image
-  - link: http://www.vlanpodcast.fr/wp-content/uploads/2023/11/ed7bf370-ac0f-4327-bdc9-63d8de91ef3d-1024x1024.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-12-04T14:13:17.713Z'
-  lastUpdate: '2023-12-04T14:13:18.847Z'
-  collection:
-    "$ref": collections
-    "$id": 37603939
-    oid: 37603939
-  highlights: []
-  domain: vlanpodcast.fr
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 689116890
-  collectionId: 37603939
-  parsed: {}
 - _id: 667447359
   link: https://macwright.com/2019/01/02/paper-notes
   title: Paper notes
@@ -366,6 +210,80 @@
   sort: 655169215
   important: true
   collectionId: 38065957
+  parsed: {}
+- _id: 689082541
+  link: https://garden.vincentli.space/making-a-place-on-the-web---garden
+  title: "Making a Place on the Web - Garden | Vincent's \U0001F30C"
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://vli-portfolio.s3.us-east-2.amazonaws.com/garden/IMG%20-%20Making%20a%20Place%20on%20the%20Web%20-%20Garden.png
+  media:
+  - link: https://vli-portfolio.s3.us-east-2.amazonaws.com/garden/IMG%20-%20Making%20a%20Place%20on%20the%20Web%20-%20Garden.png
+    type: image
+  - link: https://vli-portfolio.s3.us-east-2.amazonaws.com/garden/IMG%20-%20Pollan%20-%20Garden%201.png
+    type: image
+  - link: https://vli-portfolio.s3.us-east-2.amazonaws.com/garden/IMG%20-%20Pollan%20-%20Garden%202.png
+    type: image
+  - link: https://vli-portfolio.s3.us-east-2.amazonaws.com/garden/IMG%20-%20Making%20a%20Place%20on%20the%20Web%20-%20Garden%20-%20Pollan%20garden%20to%20digital%20objects.png
+    type: image
+  - link: https://vli-portfolio.s3.us-east-2.amazonaws.com/garden/IMG%20-%20Making%20a%20Place%20on%20the%20Web%20-%20Garden%20-%20Digital%20Objects.png
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-04T12:23:06.099Z'
+  lastUpdate: '2023-12-04T12:23:10.232Z'
+  collection:
+    "$ref": collections
+    "$id": 38035089
+    oid: 38035089
+  highlights: []
+  domain: garden.vincentli.space
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 689082541
+  collectionId: 38035089
+  parsed: {}
+- _id: 689077927
+  link: https://projects.kwon.nyc/internet-is-fun/?utm_medium=email&utm_source=substack
+  title: The internet used to be fun
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fprojects.kwon.nyc%2Finternet-is-fun%2F%3Futm_medium%3Demail%26utm_source%3Dsubstack
+  media: []
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-04T11:52:12.978Z'
+  lastUpdate: '2023-12-04T11:52:14.048Z'
+  collection:
+    "$ref": collections
+    "$id": 38035089
+    oid: 38035089
+  highlights: []
+  domain: projects.kwon.nyc
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 689077927
+  collectionId: 38035089
   parsed: {}
 - _id: 687843954
   link: https://www.technologyreview.com/2023/10/17/1081194/how-to-fix-the-internet-online-discourse/
@@ -1926,6 +1844,49 @@
   sort: 647116294
   important: true
   collectionId: 37616522
+  parsed: {}
+- _id: 689116890
+  link: http://www.vlanpodcast.fr/best-of-changer-de-vie-et-revenir-a-lessentiel-avec-pedro-correa/
+  title: "[BEST-OF] Changer de vie et revenir à l'essentiel avec Pedro Correa"
+  excerpt: Pedro Correa est polytechnicien, mais il a transformé sa vie pour devenir
+    photographe, auteur et conférencier.
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://www.vlanpodcast.fr/wp-content/uploads/2021/07/f7bd8cfa-b420-45ad-b0c8-95f51051c501.jpg
+  media:
+  - link: http://www.vlanpodcast.fr/wp-content/uploads/2021/07/f7bd8cfa-b420-45ad-b0c8-95f51051c501.jpg
+    type: image
+  - link: http://www.vlanpodcast.fr/wp-content/plugins/seriously-simple-podcasting/assets/images/no-album-art.png
+    type: image
+  - link: http://www.vlanpodcast.fr/wp-content/uploads/2023/11/edc338e3-ef2f-498b-b3aa-03991b5d4aa0-1024x1024.jpg
+    type: image
+  - link: http://www.vlanpodcast.fr/wp-content/uploads/2023/11/a8d73bda-eb6d-41e7-ae47-71d10a4eaab2-1024x1024.jpg
+    type: image
+  - link: http://www.vlanpodcast.fr/wp-content/uploads/2023/11/ed7bf370-ac0f-4327-bdc9-63d8de91ef3d-1024x1024.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-04T14:13:17.713Z'
+  lastUpdate: '2023-12-04T14:13:18.847Z'
+  collection:
+    "$ref": collections
+    "$id": 37603939
+    oid: 37603939
+  highlights: []
+  domain: vlanpodcast.fr
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 689116890
+  collectionId: 37603939
   parsed: {}
 - _id: 687844434
   link: https://unscentedco.com/blogs/anies-home/welcoming-november-softly
@@ -26209,4 +26170,43 @@
     email: ''
   sort: 689123641
   collectionId: 37456469
+  parsed: {}
+- _id: 689081726
+  link: https://bewrong.substack.com/p/the-hipster-internet
+  title: i really love the (hipster) internet
+  excerpt: They say the internet didn’t show up in productivity numbers, but have
+    you tried measuring the leisure ones?
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e6e4d44-d4be-4839-af6a-b928b816336e_895x685.jpeg
+  media:
+  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e6e4d44-d4be-4839-af6a-b928b816336e_895x685.jpeg
+    type: image
+  - link: https://substackcdn.com/image/fetch/w_320,h_213,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9f38bdd-6a1a-48b7-8f0c-ab190976de1f_1248x898.png
+    type: image
+  - link: https://substackcdn.com/image/fetch/w_320,h_213,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fde82de5c-3592-4110-bab2-dc253a14a210_338x450.jpeg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-04T12:18:12.820Z'
+  lastUpdate: '2023-12-04T12:18:12.820Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  domain: bewrong.substack.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 689081726
+  collectionId: -1
   parsed: {}
