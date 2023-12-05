@@ -26210,3 +26210,79 @@
   sort: 689081726
   collectionId: -1
   parsed: {}
+- _id: 689739214
+  link: https://www.theatlantic.com/ideas/archive/2023/11/home-internet-landline-amazon-smartphone/676070/
+  title: Life Really Is Better Without the Internet
+  excerpt: What happened after my wife and I removed Wi-Fi from our home
+  note: 'I like you better without the Internet
+
+    '
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://cdn.theatlantic.com/thumbor/XZ0mXq1fkvsV-x7pcE-TeFkO7R0=/0x43:2000x1085/1200x625/media/img/mt/2023/11/nowifi/original.jpg
+  media:
+  - link: https://cdn.theatlantic.com/thumbor/XZ0mXq1fkvsV-x7pcE-TeFkO7R0=/0x43:2000x1085/1200x625/media/img/mt/2023/11/nowifi/original.jpg
+    type: image
+  - link: https://cdn.theatlantic.com/thumbor/qkRpLYKjYidZ8tJiCwJadgwswAU=/0x0:2000x1125/1952x1098/media/img/mt/2023/11/nowifi/original.jpg
+    type: image
+  - link: https://cdn.theatlantic.com/thumbor/yS2OjedotPRLKEbcNDi0P50h2ko=/70x0:935x562/400x260/media/img/mt/2023/12/TATL_EOY_Books_hp/original.gif
+    type: image
+  - link: https://cdn.theatlantic.com/thumbor/pmaYczqWcslAokrGuAvxdc3b8lM=/133x0:1864x1125/400x260/media/img/mt/2023/12/antisemitism_collage/original.jpg
+    type: image
+  - link: https://cdn.theatlantic.com/thumbor/5EsiY_3kZVwxNhanbIQHic_3SjA=/71x0:1933x1210/400x260/media/img/2023/11/WEL_TrumpPackage_Opener/original.png
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-05T20:45:54.776Z'
+  lastUpdate: '2023-12-05T20:46:07.339Z'
+  collection:
+    "$ref": collections
+    "$id": 37603939
+    oid: 37603939
+  highlights: []
+  domain: theatlantic.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 689739214
+  collectionId: 37603939
+  parsed: {}
+- _id: 689739530
+  link: https://www.adrelanine.com/comment-demarcher
+  title: Comment démarcher — Adrelanine
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fwww.adrelanine.com%2Fcomment-demarcher
+  media: []
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-05T20:48:44.292Z'
+  lastUpdate: '2023-12-05T20:48:44.292Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  domain: adrelanine.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 689739530
+  collectionId: -1
+  parsed: {}
