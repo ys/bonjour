@@ -26169,6 +26169,41 @@
   sort: 675778992
   collectionId: -1
   parsed: {}
+- _id: 689975076
+  link: https://home.omg.lol/
+  title: omg.lol - A lovable web page and email address, just for you
+  excerpt: Treat yourself to an awesome web address, a devastatingly gorgeous profile
+    page, a stellar email address, and tons more
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://cdn.cache.lol/img/social_card_2022-06-23.png
+  media:
+  - link: https://cdn.cache.lol/img/social_card_2022-06-23.png
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-06T08:48:03.697Z'
+  lastUpdate: '2023-12-06T08:48:07.825Z'
+  collection:
+    "$ref": collections
+    "$id": 38035089
+    oid: 38035089
+  highlights: []
+  domain: home.omg.lol
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 689975076
+  collectionId: 38035089
+  parsed: {}
 - _id: 689739214
   link: https://www.theatlantic.com/ideas/archive/2023/11/home-internet-landline-amazon-smartphone/676070/
   title: Life Really Is Better Without the Internet
@@ -26326,38 +26361,51 @@
   sort: 690389409
   collectionId: 37459360
   parsed: {}
-- _id: 689975076
-  link: https://home.omg.lol/
-  title: omg.lol - A lovable web page and email address, just for you
-  excerpt: Treat yourself to an awesome web address, a devastatingly gorgeous profile
-    page, a stellar email address, and tons more
+- _id: 690406751
+  link: https://yewtu.be/watch?v=W3xi3pphp9s
+  title: Joshua Tree is just something else (Cinestill 400D)
+  excerpt: "Finally, just in time for St. Nicholas Day (and about 3 months too late),
+    here's the new episode from California! \nIn today's video we explore Joshua Tree
+    National Park and watch Kai take beautiful photos in a place that has been high
+    on his bucket list.\n\nBIG THANKS to the supporter of this video @CineStillFilm\n\n///\n\nFollow
+    us on IG: \n\n@analogsfinest \n@weltkai\n@justinbaessler\n@mikekipper_\n@dominikfriess\n\n\n///\n\nBUY
+    CINESTILL 400D: \n\nhttps://www.fotoimpex.de/shop/filme/cinestill-400dynamic-farbnegativfilm-13536.html\n\n///\n\nMUSIC:\n\nThe
+    music in this video is brought to you by Artlist.io"
   note: ''
-  type: link
+  type: video
   user:
     "$ref": users
     "$id": 1617030
-  cover: https://cdn.cache.lol/img/social_card_2022-06-23.png
+  cover: https://yewtu.be/vi/W3xi3pphp9s/maxres.jpg
   media:
-  - link: https://cdn.cache.lol/img/social_card_2022-06-23.png
+  - link: https://yewtu.be/vi/W3xi3pphp9s/maxres.jpg
+    type: image
+  - link: https://yewtu.be/vi/uNSR_f09ECc/mqdefault.jpg
+    type: image
+  - link: https://yewtu.be/vi/eBKlCsnJt-0/mqdefault.jpg
+    type: image
+  - link: https://yewtu.be/vi/C2v-cJEZnzU/mqdefault.jpg
+    type: image
+  - link: https://yewtu.be/vi/I-zMUNIEFXM/mqdefault.jpg
     type: image
   tags: []
   important: true
   reminder:
     date: 
   removed: false
-  created: '2023-12-06T08:48:03.697Z'
-  lastUpdate: '2023-12-06T08:48:07.825Z'
+  created: '2023-12-06T18:00:12.790Z'
+  lastUpdate: '2023-12-06T18:00:12.790Z'
   collection:
     "$ref": collections
-    "$id": 38035089
-    oid: 38035089
+    "$id": -1
+    oid: -1
   highlights: []
-  domain: home.omg.lol
+  domain: yewtu.be
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 689975076
-  collectionId: 38035089
+  sort: 690406751
+  collectionId: -1
   parsed: {}
