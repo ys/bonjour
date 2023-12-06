@@ -31,102 +31,6 @@
   sort: 687527599
   collectionId: 38035089
   parsed: {}
-- _id: 688480672
-  link: https://manuelmoreale.com/@/page/9AhFsuW7ArG5GH14
-  title: More new mindsets, fewer new technologies – Manu
-  excerpt: For blogging to form communities (again'-ish), we're going to need new
-    protocols. I don't think HTTP is the future for growth. A tale as old as time,
-    …
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Fmanuelmoreale.com%2F%40%2Fpage%2F9AhFsuW7ArG5GH14
-  media: []
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2023-12-03T09:00:05.370Z'
-  lastUpdate: '2023-12-03T09:00:05.370Z'
-  collection:
-    "$ref": collections
-    "$id": 38035089
-    oid: 38035089
-  domain: manuelmoreale.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 688480672
-  collectionId: 38035089
-  parsed: {}
-- _id: 688480548
-  link: https://robinrendle.com/notes/figure-it-out/
-  title: Robin Rendle — Figure it out
-  excerpt: The website of Robin Rendle, a designer and writer from the UK.
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Frobinrendle.com%2Fnotes%2Ffigure-it-out%2F
-  media: []
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2023-12-03T08:59:05.447Z'
-  lastUpdate: '2023-12-03T08:59:05.447Z'
-  collection:
-    "$ref": collections
-    "$id": 37603939
-    oid: 37603939
-  domain: robinrendle.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 688480548
-  collectionId: 37603939
-  parsed: {}
-- _id: 688799231
-  link: https://unilist.raphaelbastide.com/?utm_source=substack&utm_medium=email
-  title: "⋃nilist"
-  excerpt: 'Unilist: Unicode Character list'
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://unilist.raphaelbastide.com/img/icon.png
-  media:
-  - link: http://unilist.raphaelbastide.com/img/icon.png
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-12-03T20:59:16.769Z'
-  lastUpdate: '2023-12-03T20:59:17.677Z'
-  collection:
-    "$ref": collections
-    "$id": 38035089
-    oid: 38035089
-  highlights: []
-  domain: unilist.raphaelbastide.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 688799231
-  collectionId: 38035089
-  parsed: {}
 - _id: 667447359
   link: https://macwright.com/2019/01/02/paper-notes
   title: Paper notes
@@ -283,6 +187,72 @@
     name: bonjouryannick
     email: ''
   sort: 689077927
+  collectionId: 38035089
+  parsed: {}
+- _id: 688799231
+  link: https://unilist.raphaelbastide.com/?utm_source=substack&utm_medium=email
+  title: "⋃nilist"
+  excerpt: 'Unilist: Unicode Character list'
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://unilist.raphaelbastide.com/img/icon.png
+  media:
+  - link: http://unilist.raphaelbastide.com/img/icon.png
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-03T20:59:16.769Z'
+  lastUpdate: '2023-12-03T20:59:17.677Z'
+  collection:
+    "$ref": collections
+    "$id": 38035089
+    oid: 38035089
+  highlights: []
+  domain: unilist.raphaelbastide.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 688799231
+  collectionId: 38035089
+  parsed: {}
+- _id: 688480672
+  link: https://manuelmoreale.com/@/page/9AhFsuW7ArG5GH14
+  title: More new mindsets, fewer new technologies – Manu
+  excerpt: For blogging to form communities (again'-ish), we're going to need new
+    protocols. I don't think HTTP is the future for growth. A tale as old as time,
+    …
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fmanuelmoreale.com%2F%40%2Fpage%2F9AhFsuW7ArG5GH14
+  media: []
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2023-12-03T09:00:05.370Z'
+  lastUpdate: '2023-12-03T09:00:05.370Z'
+  collection:
+    "$ref": collections
+    "$id": 38035089
+    oid: 38035089
+  domain: manuelmoreale.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 688480672
   collectionId: 38035089
   parsed: {}
 - _id: 687843954
@@ -1886,6 +1856,36 @@
     name: bonjouryannick
     email: ''
   sort: 689116890
+  collectionId: 37603939
+  parsed: {}
+- _id: 688480548
+  link: https://robinrendle.com/notes/figure-it-out/
+  title: Robin Rendle — Figure it out
+  excerpt: The website of Robin Rendle, a designer and writer from the UK.
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Frobinrendle.com%2Fnotes%2Ffigure-it-out%2F
+  media: []
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2023-12-03T08:59:05.447Z'
+  lastUpdate: '2023-12-03T08:59:05.447Z'
+  collection:
+    "$ref": collections
+    "$id": 37603939
+    oid: 37603939
+  domain: robinrendle.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 688480548
   collectionId: 37603939
   parsed: {}
 - _id: 687844434
@@ -5449,6 +5449,44 @@
     email: ''
   sort: 653502452
   collectionId: 37458074
+  parsed: {}
+- _id: 689123641
+  link: https://remimercier.com/user-manual/
+  title: Remi's User Manual - Remi Mercier - Ruby on Rails Software Engineer
+  excerpt: The blog of Rémi Mercier, Ruby on Rails software engineer.
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://remimercier.com/media/remi-mercier.jpeg
+  media:
+  - link: https://remimercier.com/media/remi-mercier.jpeg
+    type: image
+  - link: https://media.giphy.com/media/86TYQsESJDjRJaO0am/giphy.gif
+    type: image
+  - link: https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVlam01MmF4ZnJ3bHlmcnExdzI0eGo2M2s0amFtdXBvdDZjOGdtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wSYE7n6pk9dqRXzitR/giphy.gif
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-04T14:40:11.472Z'
+  lastUpdate: '2023-12-04T14:40:12.721Z'
+  collection:
+    "$ref": collections
+    "$id": 37456469
+    oid: 37456469
+  highlights: []
+  domain: remimercier.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 689123641
+  collectionId: 37456469
   parsed: {}
 - _id: 675861884
   link: https://stephango.com/flexoki
@@ -26047,6 +26085,45 @@
   important: true
   collectionId: 36308012
   parsed: {}
+- _id: 689081726
+  link: https://bewrong.substack.com/p/the-hipster-internet
+  title: i really love the (hipster) internet
+  excerpt: They say the internet didn’t show up in productivity numbers, but have
+    you tried measuring the leisure ones?
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e6e4d44-d4be-4839-af6a-b928b816336e_895x685.jpeg
+  media:
+  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e6e4d44-d4be-4839-af6a-b928b816336e_895x685.jpeg
+    type: image
+  - link: https://substackcdn.com/image/fetch/w_320,h_213,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9f38bdd-6a1a-48b7-8f0c-ab190976de1f_1248x898.png
+    type: image
+  - link: https://substackcdn.com/image/fetch/w_320,h_213,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fde82de5c-3592-4110-bab2-dc253a14a210_338x450.jpeg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-04T12:18:12.820Z'
+  lastUpdate: '2023-12-04T12:18:12.820Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  domain: bewrong.substack.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 689081726
+  collectionId: -1
+  parsed: {}
 - _id: 683311775
   link: https://www.youtube.com/watch?v=6jrmHeAixPE
   title: '1 pièce, 3 fonctions : studio YouTube, bureau et couchage. Suis-je un ninja
@@ -26131,83 +26208,6 @@
     name: bonjouryannick
     email: ''
   sort: 675778992
-  collectionId: -1
-  parsed: {}
-- _id: 689123641
-  link: https://remimercier.com/user-manual/
-  title: Remi's User Manual - Remi Mercier - Ruby on Rails Software Engineer
-  excerpt: The blog of Rémi Mercier, Ruby on Rails software engineer.
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://remimercier.com/media/remi-mercier.jpeg
-  media:
-  - link: https://remimercier.com/media/remi-mercier.jpeg
-    type: image
-  - link: https://media.giphy.com/media/86TYQsESJDjRJaO0am/giphy.gif
-    type: image
-  - link: https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVlam01MmF4ZnJ3bHlmcnExdzI0eGo2M2s0amFtdXBvdDZjOGdtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wSYE7n6pk9dqRXzitR/giphy.gif
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-12-04T14:40:11.472Z'
-  lastUpdate: '2023-12-04T14:40:12.721Z'
-  collection:
-    "$ref": collections
-    "$id": 37456469
-    oid: 37456469
-  highlights: []
-  domain: remimercier.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 689123641
-  collectionId: 37456469
-  parsed: {}
-- _id: 689081726
-  link: https://bewrong.substack.com/p/the-hipster-internet
-  title: i really love the (hipster) internet
-  excerpt: They say the internet didn’t show up in productivity numbers, but have
-    you tried measuring the leisure ones?
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e6e4d44-d4be-4839-af6a-b928b816336e_895x685.jpeg
-  media:
-  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e6e4d44-d4be-4839-af6a-b928b816336e_895x685.jpeg
-    type: image
-  - link: https://substackcdn.com/image/fetch/w_320,h_213,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9f38bdd-6a1a-48b7-8f0c-ab190976de1f_1248x898.png
-    type: image
-  - link: https://substackcdn.com/image/fetch/w_320,h_213,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_center/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fde82de5c-3592-4110-bab2-dc253a14a210_338x450.jpeg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-12-04T12:18:12.820Z'
-  lastUpdate: '2023-12-04T12:18:12.820Z'
-  collection:
-    "$ref": collections
-    "$id": -1
-    oid: -1
-  highlights: []
-  domain: bewrong.substack.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 689081726
   collectionId: -1
   parsed: {}
 - _id: 689739214
