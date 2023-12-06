@@ -31,47 +31,6 @@
   sort: 687527599
   collectionId: 38035089
   parsed: {}
-- _id: 667447359
-  link: https://macwright.com/2019/01/02/paper-notes
-  title: Paper notes
-  excerpt: How I finally became the kind of person who carries a paper notebook and
-    a pen
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://macwright.com/images/2019-01-02-paper-notes-thumbnail-image.jpg
-  media:
-  - link: https://macwright.com/images/2019-01-02-paper-notes-thumbnail-image.jpg
-    type: image
-  - link: https://macwright.com/images/2019-01-02-paper-notes-time-not-topics.webp
-    type: image
-  - link: https://macwright.com/images/2019-01-02-paper-notes-simplicity-not-heaviness.webp
-    type: image
-  - link: https://macwright.com/images/2019-01-02-paper-notes-note-box.webp
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-10-25T10:26:03.172Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 38065958
-    oid: 38065958
-  highlights: []
-  domain: macwright.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 667447359
-  collectionId: 38065958
-  parsed: {}
 - _id: 655169215
   link: https://ia.net/topics/daily-writing-habit-emergency-kit
   title: 'Daily Writing Habit: Emergency Kit'
@@ -26285,6 +26244,47 @@
     email: ''
   sort: 689739530
   collectionId: -1
+  parsed: {}
+- _id: 667447359
+  link: https://macwright.com/2019/01/02/paper-notes
+  title: Paper notes
+  excerpt: How I finally became the kind of person who carries a paper notebook and
+    a pen
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://macwright.com/images/2019-01-02-paper-notes-thumbnail-image.jpg
+  media:
+  - link: https://macwright.com/images/2019-01-02-paper-notes-thumbnail-image.jpg
+    type: image
+  - link: https://macwright.com/images/2019-01-02-paper-notes-time-not-topics.webp
+    type: image
+  - link: https://macwright.com/images/2019-01-02-paper-notes-simplicity-not-heaviness.webp
+    type: image
+  - link: https://macwright.com/images/2019-01-02-paper-notes-note-box.webp
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-10-25T10:26:03.172Z'
+  lastUpdate: '2023-12-06T10:11:59.101Z'
+  collection:
+    "$ref": collections
+    "$id": 38065957
+    oid: 38065957
+  highlights: []
+  domain: macwright.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 689990898
+  collectionId: 38065957
   parsed: {}
 - _id: 689975076
   link: https://home.omg.lol/
