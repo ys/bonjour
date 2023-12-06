@@ -26286,6 +26286,46 @@
   sort: 689990898
   collectionId: 38065957
   parsed: {}
+- _id: 690389409
+  link: https://ma-veille-juridique.com/liste-relative-au-vocabulaire-du-sport-glisse-urbaine-termes-expressions-et-definitions-adoptes/
+  title: "\U0001F7E7 Liste relative au vocabulaire du sport : glisse urbaine (termes,
+    expressions et définitions adoptés)"
+  excerpt: 'Références NOR : CTNR2332317K Source : JORF n°0281 du 5 décembre 2023,
+    texte n° 69 Article I. - Termes et définitions 1. bol, n.m. Domaine : Sports/Sports'
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://ma-veille-juridique.com/wp-content/uploads/2020/11/gavel-2492011_1920-600x400.jpg
+  media:
+  - link: https://ma-veille-juridique.com/wp-content/uploads/2020/11/gavel-2492011_1920-600x400.jpg
+    type: image
+  - link: https://ma-veille-juridique.com/wp-content/uploads/2021/03/9356947707_ec5ec8e2e0_5k-600x400.jpg
+    type: image
+  - link: https://ma-veille-juridique.com/wp-content/uploads/2020/11/Conseil-Constitutionnel-600x400.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-06T16:56:37.488Z'
+  lastUpdate: '2023-12-06T16:56:38.543Z'
+  collection:
+    "$ref": collections
+    "$id": 37459360
+    oid: 37459360
+  highlights: []
+  domain: ma-veille-juridique.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 690389409
+  collectionId: 37459360
+  parsed: {}
 - _id: 689975076
   link: https://home.omg.lol/
   title: omg.lol - A lovable web page and email address, just for you
