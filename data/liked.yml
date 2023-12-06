@@ -26286,3 +26286,38 @@
   sort: 689739530
   collectionId: -1
   parsed: {}
+- _id: 689975076
+  link: https://home.omg.lol/
+  title: omg.lol - A lovable web page and email address, just for you
+  excerpt: Treat yourself to an awesome web address, a devastatingly gorgeous profile
+    page, a stellar email address, and tons more
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://cdn.cache.lol/img/social_card_2022-06-23.png
+  media:
+  - link: https://cdn.cache.lol/img/social_card_2022-06-23.png
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-06T08:48:03.697Z'
+  lastUpdate: '2023-12-06T08:48:07.825Z'
+  collection:
+    "$ref": collections
+    "$id": 38035089
+    oid: 38035089
+  highlights: []
+  domain: home.omg.lol
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 689975076
+  collectionId: 38035089
+  parsed: {}
