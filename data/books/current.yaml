@@ -1,5 +1,18 @@
 current: true
 books:
+  - title: Les sœurs hiver
+    subtitle: ''
+    author: Jolan C. Bertrand
+    date: '2023-12-11T19:40:14.576903Z'
+    read: null
+    rating: .nan
+    isbn: '2211320317'
+    isbn13: '9782211320313'
+    pages: 134
+    cover_url: >-
+      https://books.google.com/books/publisher/content?id=BYFfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71GXWOdZ-odfgiYOlb6xgYAEBmOAboT6xLq-FKtxJDQ1XnBqqintb6ku5VPFwXbgo9VhmernjC0oxChQm5GrUuU1_PYbSs9fjOjQL-zeEblaA-vL-1yH0W9vfExPxfLOBJ53B3O&source=gbs_api
+    reading: true
+    url: https://www.italictype.com/api/books/NpXARkN/
   - title: Harlem shuffle
     subtitle: ''
     author: Colson Whitehead
