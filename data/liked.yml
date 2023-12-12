@@ -26693,7 +26693,7 @@
   excerpt: 'It all began with a simple question: What if iA Writer took the form of
     a physical notebook?'
   note: ''
-  type: link
+  type: article
   user:
     "$ref": users
     "$id": 1617030
@@ -26710,8 +26710,6 @@
   - link: https://ia.net/wp-content/uploads/2023/12/iA-Notebook-backlight-empty.jpg
     type: image
   tags: []
-  pleaseParse:
-    weight: 1
   important: true
   reminder:
     date: 
