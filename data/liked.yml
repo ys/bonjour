@@ -26732,3 +26732,49 @@
   sort: 693360277
   collectionId: -1
   parsed: {}
+- _id: 694087075
+  link: https://twitter.com/dark1x/status/1734856717144293697/photo/1
+  title: 'John Linneman @dark1x.bsky.social on X: "This is truly amazing. Playing
+    Link''s Awakening at 1:1 pixel scale with 120 fps scrolling - you can zoom the
+    map alllll the way out and the entire world is active. https://t.co/H1ZLpd3sqy
+    https://t.co/wVjqhzAVu6" / X'
+  excerpt: This is truly amazing. Playing Link's Awakening at 1:1 pixel scale with
+    120 fps scrolling - you can zoom the map alllll the way out and the entire world
+    is active.https://t.co/H1ZLpd3sqy pic.twitter.com/wVjqhzAVu6— John Linneman @dark1x.bsky.social
+    (@dark1x) December 13, 2023
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://pbs.twimg.com/media/GBNy-0MWQAAhAGx?format=jpg&name=4096x4096
+  media:
+  - link: https://pbs.twimg.com/media/GBNy-0MWQAAhAGx?format=jpg&name=4096x4096
+    type: image
+  - link: https://pbs.twimg.com/media/GBN1SxeaUAA56Wk?format=jpg&name=medium
+    type: image
+  - link: https://pbs.twimg.com/media/GBNy-0MWQAAhAGx?format=jpg&name=medium
+    type: image
+  - link: https://pbs.twimg.com/card_img/1733367298155589633/8iMD3HMB?format=jpg&name=small
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-13T17:35:19.819Z'
+  lastUpdate: '2023-12-13T17:35:21.421Z'
+  collection:
+    "$ref": collections
+    "$id": 39911296
+    oid: 39911296
+  highlights: []
+  domain: twitter.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 694087075
+  collectionId: 39911296
+  parsed: {}
