@@ -26482,6 +26482,51 @@
   important: true
   collectionId: 36308012
   parsed: {}
+- _id: 693360277
+  link: https://ia.net/topics/ia-writer-in-paper
+  title: iA Writer in Paper
+  excerpt: 'It all began with a simple question: What if iA Writer took the form of
+    a physical notebook?'
+  note: If I was sure of one thing. It is this. iA writer would do the best notebook
+    ever. If they entered the physical world, it would be an object I would love.
+    They proved me right, once again.
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://ia.net/wp-content/uploads/2023/12/iA-Notebook-closeup-1024x703.png
+  media:
+  - link: https://ia.net/wp-content/uploads/2023/12/iA-Notebook-closeup-1024x703.png
+    type: image
+  - link: https://ia.net/wp-content/uploads/2023/12/iA-Notebook-closeup.png
+    type: image
+  - link: https://ia.net/wp-content/uploads/2023/12/DSCF1189-2-scaled-1.jpg
+    type: image
+  - link: https://ia.net/wp-content/uploads/2023/12/DSCF1299-scaled-1.jpg
+    type: image
+  - link: https://ia.net/wp-content/uploads/2023/12/iA-Notebook-backlight-empty.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-12T13:04:16.348Z'
+  lastUpdate: '2023-12-12T21:43:24.651Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  domain: ia.net
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 693360277
+  collectionId: -1
+  parsed: {}
 - _id: 690406751
   link: https://yewtu.be/watch?v=W3xi3pphp9s
   title: Joshua Tree is just something else (Cinestill 400D)
@@ -26685,51 +26730,6 @@
     name: bonjouryannick
     email: ''
   sort: 675778992
-  collectionId: -1
-  parsed: {}
-- _id: 693360277
-  link: https://ia.net/topics/ia-writer-in-paper
-  title: iA Writer in Paper
-  excerpt: 'It all began with a simple question: What if iA Writer took the form of
-    a physical notebook?'
-  note: If I was sure of one thing. It is this. iA writer would do the best notebook
-    ever. If they entered the physical world, it would be an object I would love.
-    They proved me right, once again.
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://ia.net/wp-content/uploads/2023/12/iA-Notebook-closeup-1024x703.png
-  media:
-  - link: https://ia.net/wp-content/uploads/2023/12/iA-Notebook-closeup-1024x703.png
-    type: image
-  - link: https://ia.net/wp-content/uploads/2023/12/iA-Notebook-closeup.png
-    type: image
-  - link: https://ia.net/wp-content/uploads/2023/12/DSCF1189-2-scaled-1.jpg
-    type: image
-  - link: https://ia.net/wp-content/uploads/2023/12/DSCF1299-scaled-1.jpg
-    type: image
-  - link: https://ia.net/wp-content/uploads/2023/12/iA-Notebook-backlight-empty.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-12-12T13:04:16.348Z'
-  lastUpdate: '2023-12-12T21:43:24.651Z'
-  collection:
-    "$ref": collections
-    "$id": -1
-    oid: -1
-  highlights: []
-  domain: ia.net
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 693360277
   collectionId: -1
   parsed: {}
 - _id: 694087075
