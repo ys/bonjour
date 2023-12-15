@@ -1,1 +1,91 @@
---- []
+---
+- _id: 694865027
+  link: https://www.nate-stephenson-photography.com/
+  title: Nate Stephenson Photography.
+  excerpt: Nate Stephenson photography is a freelance photographer and photojournalist
+    based in Santa Barbara California. Independent high quality film Photography photo
+    prints of lifestyle, landscape and travel photography are for sale here. Photo
+    Prints and wall art for sale.
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://static1.squarespace.com/static/5d7197df4d076a0001781ead/t/5f1c91e17a84bb2a021135d6/1595707882040/Logo_Larger.png?format=1500w
+  media:
+  - link: http://static1.squarespace.com/static/5d7197df4d076a0001781ead/t/5f1c91e17a84bb2a021135d6/1595707882040/Logo_Larger.png?format=1500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/5d7197df4d076a0001781ead/1595707875294-WE9UIWARPXSNSEVDYJKJ/Logo_Larger.png?format=750w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/5d7197df4d076a0001781ead/1691708099326-R1F9FZUP2AJWV9TNA44E/Nate_Stephenson_Photo_053.jpg?format=750w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/5d7197df4d076a0001781ead/1691708465552-Q14BALR6L9SRJ33SKEKN/Nate_Stephenson_Photo_056.jpg?format=750w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/5d7197df4d076a0001781ead/1691708711459-55Q73J4T3QLQ7XOLVGWQ/Nate_Stephenson_Photo_091.jpg?format=750w
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-15T08:51:43.142Z'
+  lastUpdate: '2023-12-15T08:51:50.246Z'
+  collection:
+    "$ref": collections
+    "$id": 37577000
+    oid: 37577000
+  highlights: []
+  domain: nate-stephenson-photography.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 694865027
+  collectionId: 37577000
+  parsed: {}
+- _id: 694864439
+  link: https://www.fieldmag.com/articles/gulf-of-alaska-surf-trip-35mm
+  title: Searching for Surf and Safe Passage in the Gulf of Alaska
+  excerpt: A two-week boat trip through surfing's final frontier brings snow-capped
+    mountains, icebergs and sea lions, hot springs and epic vistas
+  note: 'Sometimes, it is freaking cold but you still cannot avoid the ocean''s call
+
+    '
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://images.ctfassets.net/r7p9m4b1iqbp/2Z9D4NvqbHYV6sqqNma2rs/542560db6e08b2e51d1941472cd63800/Nate-Stephenson-Surf-Alaska-Seaview.jpg?w=1000
+  media:
+  - link: http://images.ctfassets.net/r7p9m4b1iqbp/2Z9D4NvqbHYV6sqqNma2rs/542560db6e08b2e51d1941472cd63800/Nate-Stephenson-Surf-Alaska-Seaview.jpg?w=1000
+    type: image
+  - link: https://images.ctfassets.net/r7p9m4b1iqbp/2Z9D4NvqbHYV6sqqNma2rs/542560db6e08b2e51d1941472cd63800/Nate-Stephenson-Surf-Alaska-Seaview.jpg?w=1200&fm=webp&q=90
+    type: image
+  - link: https://images.ctfassets.net/r7p9m4b1iqbp/WR33GTkmJKYMlDNDI5DnO/f81abed74f6466302363adafe99fc097/Nate-Stephens-Alaska-Surf-Trip-3.jpg?w=1200&fm=webp&q=90
+    type: image
+  - link: https://images.ctfassets.net/r7p9m4b1iqbp/10x7qD6gDEMI6gfox1J4Or/df7e930a0215088d9c19b31c591fbbf6/Nate-Stephens-Alaska-Surf-Trip-2.jpg?w=1200&fm=webp&q=90
+    type: image
+  - link: https://images.ctfassets.net/r7p9m4b1iqbp/3xZBtT9iLFJ9LgoSPCWeDl/cc604545d8408442a10ec155f2e370b9/Nate-Stephenson-Alaska-Surf-Coastal-Mtns.jpg?w=1200&fm=webp&q=90
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-15T08:46:29.886Z'
+  lastUpdate: '2023-12-15T08:47:43.344Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  domain: fieldmag.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 694864439
+  collectionId: 37136905
+  parsed: {}
