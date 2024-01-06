@@ -27224,6 +27224,49 @@
   sort: 707537440
   collectionId: 37603939
   parsed: {}
+- _id: 709511715
+  link: https://m.youtube.com/watch?v=1UgRYVfEAJs&t=749
+  title: BRITTANY, FRANCE; intricacies of the emerald coast
+  excerpt: "Thanks to a social media post, I connected with Ian Fountain and some
+    of the locals in Brittany, France for a big winter storm.  Brittany is the largest
+    French peninsula in the NW of France and one of the hardest coasts to score, due
+    to it’s massive tides, translating to short surf windows… \nCombine that with
+    nearly 2000 miles of coastline, that’s a tough shoe to polish… \nSo why come here?
+    \nBy now I hope you have a gist for my taste in waves and surf trips… \nAnd I
+    definitely enjoy the going off the beaten path, especially when it comes to surf
+    trips. \nI had always gone to South west France… \nSo with interesting charts
+    lighting up the north \nI thought… \nWhat would it take to score waves in Brittany??\n\nFilmed
+    by : \nPaul Daniels\nGaeton Duque\n\nEdit, Music, GFX by your truly"
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/1UgRYVfEAJs/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/1UgRYVfEAJs/maxresdefault.jpg
+    type: image
+  - link: https://i.ytimg.com/vi/_cQKsYYhF20/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBE6glZVF5baRwAqytO8SWzyehL9A
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2024-01-05T22:00:13.425Z'
+  lastUpdate: '2024-01-05T22:00:13.425Z'
+  collection:
+    "$ref": collections
+    "$id": 37136909
+    oid: 37136909
+  domain: m.youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 709511715
+  collectionId: 37136909
+  parsed: {}
 - _id: 709385145
   link: https://www.youtube.com/watch?v=hkaW72y5D_M
   title: A lifetime of missing out
@@ -27321,47 +27364,4 @@
     email: ''
   sort: 709378531
   collectionId: 37456469
-  parsed: {}
-- _id: 709511715
-  link: https://m.youtube.com/watch?v=1UgRYVfEAJs&t=749
-  title: BRITTANY, FRANCE; intricacies of the emerald coast
-  excerpt: "Thanks to a social media post, I connected with Ian Fountain and some
-    of the locals in Brittany, France for a big winter storm.  Brittany is the largest
-    French peninsula in the NW of France and one of the hardest coasts to score, due
-    to it’s massive tides, translating to short surf windows… \nCombine that with
-    nearly 2000 miles of coastline, that’s a tough shoe to polish… \nSo why come here?
-    \nBy now I hope you have a gist for my taste in waves and surf trips… \nAnd I
-    definitely enjoy the going off the beaten path, especially when it comes to surf
-    trips. \nI had always gone to South west France… \nSo with interesting charts
-    lighting up the north \nI thought… \nWhat would it take to score waves in Brittany??\n\nFilmed
-    by : \nPaul Daniels\nGaeton Duque\n\nEdit, Music, GFX by your truly"
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/1UgRYVfEAJs/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/1UgRYVfEAJs/maxresdefault.jpg
-    type: image
-  - link: https://i.ytimg.com/vi/_cQKsYYhF20/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBE6glZVF5baRwAqytO8SWzyehL9A
-    type: image
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2024-01-05T22:00:13.425Z'
-  lastUpdate: '2024-01-05T22:00:13.425Z'
-  collection:
-    "$ref": collections
-    "$id": 37136909
-    oid: 37136909
-  domain: m.youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 709511715
-  collectionId: 37136909
   parsed: {}
