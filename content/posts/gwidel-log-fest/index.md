@@ -16,4 +16,6 @@ Je regrette un peu de ne pas avoir pris mon appareil aqua pour tenter de capture
 
 Il est déjà l'heure de rentrer après avoir apprécié les heats. J'en ai pris plein les yeux, me suis fait des potes, et je sais que je reviendrai pour la prochaine édition. C'était clairement l'esprit bienveillant et accueillant que j'espérais trouver. Avec le Nikonos pour la prochaine.
 
+Si tu veux, j'ai un [zine sur cet évènement](/shop/gwidel-log-fest)
+
 {{< autogrid pattern="22x" >}}
