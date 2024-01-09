@@ -15,3 +15,5 @@ L'ambiance était pleine de sourires, les gens rigolaient, ça discutait dans to
 Je regrette un peu de ne pas avoir pris mon appareil aqua pour tenter de capturer l'essence même du longboard à Gwidel. Mais l'ambiance sur la plage est tellement bonne que cela s'oublie rapidement. Je prends quelques clichés variés, je discute, je découvre le beau monde présent. Je croise des visages familiers et beaucoup de nouveaux.
 
 Il est déjà l'heure de rentrer après avoir apprécié les heats. J'en ai pris plein les yeux, me suis fait des potes, et je sais que je reviendrai pour la prochaine édition. C'était clairement l'esprit bienveillant et accueillant que j'espérais trouver. Avec le Nikonos pour la prochaine.
+
+{{< autogrid pattern="22x" >}}
