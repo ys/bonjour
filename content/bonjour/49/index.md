@@ -6,7 +6,7 @@ newsletter: true
 tags:
 - la lettre
 emoji: 💌
-title: 49 - Des liens, des liens & encore des liens
+title: "49 - Des liens, des liens & encore des liens"
 color: mauve
 slug: "49"
 resources:
