@@ -9,13 +9,12 @@ slug:
 emoji: ""
 resources:
   - src: "*.webp"
-  - src: cover.webp
-    name: cover
   - src: card.webp
     name: card
 ---
 
 *Hello, moi c'est [Yannick](https://yannickschutz.com). J'adore vous envoyer des lettres quand je ne sais pas trop quoi écrire. Vous êtes mon émulation et une sorte de cadavre exquis de l'écriture. Cela tourne souvent autour de mes passions. Parfois pas. Merci de continuer à me lire et merci de donner un sens à ces mots tapés sur un clavier. Si vous aimez ceci, partagez-le. Je ne fais pas trop de pub, sauf cette fois. Capitalisme pyramidal, mon amour.*
+
 
 ![](cover.webp)
 
