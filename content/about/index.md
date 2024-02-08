@@ -59,10 +59,11 @@ I am writing a [small letter in french](/bonjour) about all and nothing every tw
 
 I stick my pictures and some words kind of all over the web:
 
+- [refrakt](https://refrakt.app/bonjouryannick)
+- [threads.com](https://threads.com/bonjouryannick)
 - [glass.photo](https://glass.photo/yannick)
 - [imgs.so](https://imgs.so/bonjouryannick)
 - [instagram.com](https://instagram.com/bonjouryannick)
-- [twitter.com](https://twitter.com/bonjouryannick)
 - [vsco.co](https://vsco.co/bonjouryannick)
 
 I might try even more cause I am getting bored of Instagram.
