@@ -1,8 +1,8 @@
 ---
 emoji: "🌀"
 color: teal
-title: "Now, I am Yannick"
-description: "Now, now & now"
+title: "Now"
+description: "What I am doing?"
 date: 2024-02-08
 draft: false
 type: "about"
