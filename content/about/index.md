@@ -53,7 +53,7 @@ I am writing a [small letter in french](/bonjour) about all and nothing every tw
 
 ☕️ → Most of my coffee beans comes from [Mok Coffee](https://mokcoffee.be) and [Terres de café](https://terresdecafe.com). But I still like to try new roasters from time to time. Looking for suggestions
 
-🖨 → Prints come from [Ooblik](https://ooblik.com) & [Négatif+](https://negatifplus.com). I just printed [my first zine](/shop/a-thousand-tides) with [Ex Why Zed](https://exwhyzed.co.uk) but it is sold out right now.
+🖨 → Prints come from [Ooblik](https://ooblik.com) & [Négatif+](https://negatifplus.com). I soldout [my first zine](/shop/a-thousand-tides) with [Ex Why Zed](https://exwhyzed.co.uk) but you can find other fun stuff I printed on the [shop](/shop).
 
 ## Social
 
