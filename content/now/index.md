@@ -17,6 +17,7 @@ linktitle: "🌀 Now"
 ![](me.webp)
 
 ## Currently, I am: 
+- Trying to create a [membership](https://ko-fi.com/bonjouryannick/tiers) that would get real postcard sized prints from me monthly.
 - Wondering if I should get a Leica M typ 262 or a M10-p
 - Trying to get my kids school to keep all their classes and not have one closed.
 - Figuring out how to best approach brands for shooting for them
