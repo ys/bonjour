@@ -71,6 +71,7 @@ PLATFORMS
   x86_64-darwin-20
   x86_64-darwin-21
   x86_64-darwin-22
+  x86_64-darwin-23
   x86_64-linux
 
 DEPENDENCIES
@@ -89,7 +90,7 @@ DEPENDENCIES
   ruby-oembed
 
 RUBY VERSION
-   ruby 3.2.2p31
+   ruby 3.2.3p157
 
 BUNDLED WITH
    2.2.26
