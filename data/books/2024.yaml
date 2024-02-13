@@ -13,19 +13,6 @@ books:
       https://books.google.com/books/publisher/content?id=wxygEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70-NzWHZKNQHBf3g2-YmVGHz6Y3VvYiEYFpZjxqs00fjWrEMflALJ8VXoy0VMQjtYHJ-2vSrG-Y7ti92wf9-LA7BuNO_0Ww3h49kXNGjpSgYDVwKoxpHj3jfidpWSkC7sSirlh1&source=gbs_api
     reading: false
     url: https://www.italictype.com/api/books/NVEJeZ8/
-  - title: Blackwater 6 – Pluie
-    subtitle: L'épique saga de la famille Caskey
-    author: Michael MCDOWELL
-    date: '2023-12-08T20:37:29.577198Z'
-    read: '2024-02-13T19:58:20.092458Z'
-    rating: 3
-    isbn: '2381960562'
-    isbn13: '9782381960562'
-    pages: 189
-    cover_url: >-
-      https://books.google.com/books/publisher/content?id=1v9vEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71pKA7TsIv0Ya8GBFyVbYW-wsS449IwwRkSiVocoSBjC3xCjIgBIygNj9-3w3KdJl0ieRQ5WVdpJ70o7KxKs1E9ySSbCTstQVshROCidDMxP4Ksx40afeLdo2Cjvesn4dSGFDkD&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/8MV1gmN/
   - title: Blackwater 5 – La Fortune
     subtitle: L'épique saga de la famille Caskey
     author: Michael MCDOWELL
@@ -52,6 +39,19 @@ books:
       https://books.google.com/books/publisher/content?id=3PpvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70AynRVW6_ckj3d-GIoNW0oVXSjiugxo_rLV2GFDkqORa9Xcz8HSblH1lDvoAfWp8bp2HCpgETenWL8Ht84J-ypAp715hzeKZq3RYpKH448P0soplAYE-pMnyWiw2DCDb7ke7AC&source=gbs_api
     reading: false
     url: https://www.italictype.com/api/books/5ybed1v/
+  - title: Blackwater 6 – Pluie
+    subtitle: L'épique saga de la famille Caskey
+    author: Michael MCDOWELL
+    date: '2023-12-08T20:37:29.577198Z'
+    read: '2024-02-12T12:00:00Z'
+    rating: 3
+    isbn: '2381960562'
+    isbn13: '9782381960562'
+    pages: 189
+    cover_url: >-
+      https://books.google.com/books/publisher/content?id=1v9vEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71pKA7TsIv0Ya8GBFyVbYW-wsS449IwwRkSiVocoSBjC3xCjIgBIygNj9-3w3KdJl0ieRQ5WVdpJ70o7KxKs1E9ySSbCTstQVshROCidDMxP4Ksx40afeLdo2Cjvesn4dSGFDkD&source=gbs_api
+    reading: false
+    url: https://www.italictype.com/api/books/8MV1gmN/
   - title: Blackwater 3 – La Maison
     subtitle: L'épique saga de la famille Caskey
     author: Michael MCDOWELL
