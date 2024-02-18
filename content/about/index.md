@@ -15,8 +15,8 @@ menu:
 linktitle: "About"
 ---
 
-I really enjoy **telling stories and capturing the mundane moments of life.**
-When I am not coding stuff at work or for myself, you'll probably find me brewing a cup of old joe, learning how to surf, capturing moments on film or spending some quality time with the family.
+I really enjoy **telling stories and capturing moments of life.**
+When I am not coding stuff at work or for myself, you'll probably find me brewing a cup of black coffee, learning how to surf, capturing moments on film or spending some quality time with the family.
 
 We launched an amazing project with Cloé. You should follow [@douarenn](https://instagram.com/douarenn) or visit [douarenn.fr](https://douarenn.fr). This is our cabin, disconnected from the internets in the middle of Finistère, in a place called "les Monts d'Arrée". [Book it now!](https://checkout.lodgify.com/douarenn/fr/#/475377/)
 
