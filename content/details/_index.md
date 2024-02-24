@@ -6,7 +6,8 @@ seotitle: "Detail - a picture per week - ✌️ Bonjour Yannick"
 menu:
   footer:
     weight: 4
-linktitle: "😃 Sharing"
+linktitle: "😃 Detail"
+description: "I used to email a picture per week"
 ---
 
 *Détail* is a picture and that's it.  

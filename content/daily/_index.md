@@ -8,6 +8,7 @@ linktitle: "🗓️ Daily"
 year: "2023"
 skip: "cover.png"
 type: "photos"
+description: "I love to document my life"
 ---
 
 I am telling small stories like they were big.  
