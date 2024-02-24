@@ -1,10 +1,42 @@
 ---
-type: archives
 date: 2024-01-01
-title: "A list of many pages not listed in menus"
+title: "And more..."
 slug: "/more"
 menu:
   main:
     weight: 7
 linktitle: "more"
 ---
+
+## Pages not in the menu
+
+- [Daily](/daily) ⭢ I love to document my life
+- [Haikus](/haikus) ⭢ 5 - 7 - 5. Just some french haikus
+- [Books](/books) ⭢ A list per year of all the books I read
+- [Bookmarks](/bookmarks) ⭢ Just stuff I randomly find over the many weird and fun corners of the Internets.
+- [Detail](/detail) ⭢ I used to email a picture per week
+- [Bonjour](/bonjour) ⭢ Juste des petits mots dans votre boîte mail
+- [Now](/now) ⭢ What I am doing?
+
+## Blogroll
+
+
+Some great websites, blogs and portfolios of friends and great people I kind of know from the web.
+
+- [robinrendle.com](https://robinrendle.com)
+- [elisebrun.fr](https://elisebrun.fr)
+- [tbdd.be](https://tbdd.be)
+- [baty.net](https://baty.net)
+- [gregorymignard.com](https://gregorymignard.com)
+- [damienaa.substack.com](https://damienaa.substack.com)
+- [leziwok.com](https://leziwok.com)
+- [remimercier.com](https://remimercier.com)
+- [ryantatar.com](https://www.ryantatar.com)
+- [markus.is/](https://markus.is/)
+- [jeremyjanin.com](https://jeremyjanin.com)
+- [muan.co](https://muan.co)
+- [elisarouta.com](https://www.elisarouta.com)
+- [francischouquet.com](https://francischouquet.com)
+- [lawsonchapman.substack.com](https://lawsonchapman.substack.com)
+- [jefaisdelordi.com](https://jefaisdelordi.com)
+- [mathieuodin.com](https://mathieuodin.com)

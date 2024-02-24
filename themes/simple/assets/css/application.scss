@@ -184,6 +184,9 @@ hr {
   h2 + p {
     @apply mt-8;
   }
+  li {
+    @apply my-0;
+  }
   h3 {
     @apply font-semibold mt-8 py-1;
   }
