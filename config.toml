@@ -29,7 +29,7 @@ canonifyURLs = false
   ]
   backgroundColor = true
   ogURL = "https://og.yannickschutz.com"
-  footer = "👋 Bonjour Yannick - Be kind, rewind."
+  footer = " Be kind, rewind."
   text_404 = "Perdu?"
   mainSections = [ "posts", "photos" ]
   showFooter = ["posts", "photos"]
