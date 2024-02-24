@@ -1,6 +1,6 @@
 ---
 menu:
-  footer:
+  more:
     weight: 4
 linktitle: 🔖 Browsing
 title: The internets are full of random things

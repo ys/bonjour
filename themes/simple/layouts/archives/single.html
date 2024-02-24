@@ -3,7 +3,7 @@
     <div >
       <ul class="list-disc">
         {{ $current := . }}
-        {{ range .Site.Menus.footer }}
+        {{ range .Site.Menus.more }}
         {{ $active := or ($current.IsMenuCurrent .Menu .) ($current.HasMenuCurrent .Menu .) }}
         {{ $active = or $active (eq .Page $current) }}
         {{ $active = or $active (eq .Page.Section $current.Type) }}

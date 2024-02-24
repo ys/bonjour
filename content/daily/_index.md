@@ -2,7 +2,7 @@
 color: peach
 title: "Capturing details of a beautiful daily life"
 menu:
-  footer:
+  more:
     weight: 1
 linktitle: "🗓️ Daily"
 year: "2023"

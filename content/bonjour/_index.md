@@ -10,7 +10,7 @@ color: rosewater
 resources:
   - src: "*.webp"
 menu:
-  footer:
+  more:
     weight: 5
 linktitle: "💌 Bonjour"
 ---

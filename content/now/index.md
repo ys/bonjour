@@ -9,7 +9,7 @@ type: "about"
 resources:
   - src: "*.webp"
 menu:
-  footer:
+  more:
     weight: 6
 linktitle: "🌀 Now"
 ---
