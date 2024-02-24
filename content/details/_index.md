@@ -4,7 +4,7 @@ title: A picture per week in your mailbox
 hideDescription: true
 seotitle: "Detail - a picture per week - ✌️ Bonjour Yannick"
 menu:
-  footer:
+  more:
     weight: 4
 linktitle: "😃 Detail"
 description: "I used to email a picture per week"
