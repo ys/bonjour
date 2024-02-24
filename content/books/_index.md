@@ -8,7 +8,7 @@ color: yellow
 resources:
   - src: "*.webp"
 menu:
-  footer:
+  more:
     weight: 3
 linktitle: "📚 Reading"
 ---
