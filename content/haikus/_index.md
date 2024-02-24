@@ -1,5 +1,6 @@
 ---
 title: "Sometimes, I write Haikus"
+description: "5 - 7 - 5. Just some french haikus"
 date: 2023-09-28
 menu:
   footer:
