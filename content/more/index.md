@@ -8,6 +8,9 @@ menu:
 linktitle: "more"
 ---
 
+Sometimes, a menu is not enough and you want to have more pages. 
+This is where you can get the extra bang for your bucks. BTW, if you want to support me, just [buy me a coffee](https://ko-fi.com/bonjouryannick)
+
 ## Pages not in the menu
 
 - [Daily](/daily) ⭢ I love to document my life
@@ -17,6 +20,8 @@ linktitle: "more"
 - [Detail](/detail) ⭢ I used to email a picture per week
 - [Bonjour](/bonjour) ⭢ Juste des petits mots dans votre boîte mail
 - [Now](/now) ⭢ What I am doing?
+
+![](more.webp)
 
 ## Blogroll
 
