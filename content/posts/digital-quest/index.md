@@ -10,10 +10,13 @@ resources:
   - src: "*.webp"
 ---
 
-With the new year and thoughts and projects, I decided to dip another toe to the digital camera world. It has been a few years since I really touched a digital camera. I had my ideas about what I wanted but wasn't sure. A friend told me to get them second hand from mpb. Which was an idea I loved. I didn't need the latest generation of anything. I just needed something that took good enough digital pictures. I ain't a medical device. 
+With the new year and fresh thoughts on projects, I decided to dip my toe back into the world of digital cameras. It had been a few years since I really delved into using one. I had some ideas about what I wanted, but I wasn't entirely certain. A friend suggested getting one second-hand from MPB, which I thought was a great idea. I didn't necessarily need the latest generation of anything; I just wanted something that could capture good enough digital images. After all, I'm not a medical device.
 
-So here comes the quest. I decided to first test the Fuji X-pro 3, a camera I knew I wanted for a long time. I decided to test with my Leica lenses. But here comes the disappointment, it was hurting my wrists and my head. No real idea why, like when I got that Contax G2 in my hands. I knew something was wrong. I still can't really explain. It was a physical rejection. So, thanks to their generous policy, I return it. 
 
-I get my hands on a Fuji XH-2, it had a lot of appeal to me. My friend Greg could lend me some lenses, I could even get his aquatech housing if I needed. Lot of good things like those. Once again, mpb order, receiving, testing a few lenses, same dissatisfaction. Sending it back. Back to square one. 
+So, the quest began. I chose to start by testing the Fuji X-Pro 3, a camera I had been eyeing for a long time. I decided to test it with my Leica lenses. However, to my disappointment, it caused discomfort in my wrists and head. I couldn't quite pinpoint why. Same feeling when I held a Contax G2. I wanted to like this camera. But, it was a physical rejection. Fortunately, thanks to MPB's generous return policy, I was able to send it back.
 
-And then I realised I could try a lot but my heart was already set on the sibling from my M6. Could it be that simple? I have that Leica m10-p for a week or so now. I think that was the solution. I needed a slow camera. We shall see how it goes long term, but I do enjoy using something that is closer to the experience I have with film. Sure it has a screen, sure it has a memory card and it isn't film. But lord it is pleasant to use.
+Next, I tried the Fuji X-H2, which had a lot of appeal to me. My friend Greg offered to lend me some lenses, and I could even use his Aquatech housing if needed. There were many positives about it. Once again, after ordering from MPB, receiving, and testing a few lenses, I felt the same dissatisfaction and returned it. Back to square one.
+
+Then, it got clear, my heart was already set on a camera similar to my M6. I mean, Cloé knew it all along. Could it really be that simple? I've had the Leica M10-P for about a week now, and I think it might just be the solution. I needed a slower camera. Time will tell how it fares in the long term, but I'm enjoying using something that mimics the experience I have with film. Sure, it has a screen and a memory card, and it's not film. But goodness, it's a pleasure to use.
+
+![](cover.webp)
