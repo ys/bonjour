@@ -9761,38 +9761,6 @@
   important: true
   collectionId: 37456415
   parsed: {}
-- _id: 645601317
-  link: https://www.theatlantic.com/magazine/archive/2022/03/why-we-are-never-satisfied-happiness/621304/
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://cdn.theatlantic.com/thumbor/MbyUrmcbspZ6xs9Q-JlAChfreuk=/0x43:2000x1085/1200x625/media/img/2022/02/WEL_Brooks_SatisfactionOpener/original.jpg
-  media:
-  - type: image
-    link: https://cdn.theatlantic.com/thumbor/MbyUrmcbspZ6xs9Q-JlAChfreuk=/0x43:2000x1085/1200x625/media/img/2022/02/WEL_Brooks_SatisfactionOpener/original.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:48:08.366Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: theatlantic.com
-  title: How to Want Less
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601317
-  important: true
-  collectionId: 37456415
-  parsed: {}
 - _id: 645601316
   link: https://www.lemonde.fr/m-perso/article/2022/03/05/tous-ecolo-imparfaits-nos-petits-arrangements-avec-la-culpabilite-ecologique_6116228_4497916.html
   excerpt: ''
@@ -10561,6 +10529,38 @@
     name: bonjouryannick
     email: ''
   sort: 645601286
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601285
+  link: https://finisterre.com/blogs/broadcast/the-science-of-cold-water-swimming
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://finisterre.com/cdn/shop/articles/unnamed_3df22b54-89c1-419e-9b71-177645106e1d.jpg?v=1664895452
+  media:
+  - type: image
+    link: https://finisterre.com/cdn/shop/articles/unnamed_3df22b54-89c1-419e-9b71-177645106e1d.jpg?v=1664895452
+  tags: []
+  removed: false
+  created: '2023-01-26T19:47:38.486Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: finisterre.com
+  title: The Science Of Cold Water Swimming | The Broadcast
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601285
   important: true
   collectionId: 37456415
   parsed: {}
@@ -15375,38 +15375,6 @@
   important: true
   collectionId: 37456415
   parsed: {}
-- _id: 645601125
-  link: https://huckberry.com/journal/posts/shelter-karangahake-house
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://huckberry.imgix.net/journal_post_content_block_images/000/000/802/images/original/KarangahakeHouse_OutdoorRoomToEast_hero.jpg
-  media:
-  - type: image
-    link: https://huckberry.imgix.net/journal_post_content_block_images/000/000/802/images/original/KarangahakeHouse_OutdoorRoomToEast_hero.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:45:42.234Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: huckberry.com
-  title: 3 Home Improvements Inspired by New Zealand's Karangahake House
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601125
-  important: true
-  collectionId: 37456415
-  parsed: {}
 - _id: 645601124
   link: https://audacious.blog/2021/write/
   excerpt: ''
@@ -16172,6 +16140,38 @@
     name: bonjouryannick
     email: ''
   sort: 645601099
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601098
+  link: https://reallifemag.com/easy-answers/
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://reallifemag.com/wp-content/uploads/2020/12/unnamed-1024x683.jpg
+  media:
+  - type: image
+    link: https://reallifemag.com/wp-content/uploads/2020/12/unnamed-1024x683.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:24.276Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: reallifemag.com
+  title: Easy Answers — Real Life
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601098
   important: true
   collectionId: 37456415
   parsed: {}
