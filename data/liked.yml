@@ -863,6 +863,46 @@
   important: true
   collectionId: 37603939
   parsed: {}
+- _id: 645601727
+  link: https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life?utm_source=substack&utm_medium=email?utm_source=DenseDiscovery-251
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://static1.squarespace.com/static/51bf0e35e4b010d205f86840/t/645d4f15681dc8700eec2356/1683836698601/harrell20%2Bcopy.jpg?format=1500w
+  media:
+  - type: image
+    link: http://static1.squarespace.com/static/51bf0e35e4b010d205f86840/t/645d4f15681dc8700eec2356/1683836698601/harrell20%2Bcopy.jpg?format=1500w
+  tags: []
+  removed: false
+  created: '2023-09-07T12:09:31.282Z'
+  collection:
+    "$ref": collections
+    "$id": 37603939
+    oid: 37603939
+  highlights:
+  - text: I’m fine right here is the response from the edge of the room, and that
+      contentment is downright subversive.
+    note: ''
+    color: yellow
+    created: '2023-09-12T08:38:42.803Z'
+    lastUpdate: '2023-09-12T08:38:42.803Z'
+    creatorRef: 1617030
+    _id: 65002392b33c35e5303cce58
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: bittersoutherner.com
+  title: Obituary for a Quiet Life — THE BITTER SOUTHERNER
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601722
+  important: true
+  collectionId: 37603939
+  parsed: {}
 - _id: 645601698
   link: https://grateful.org/resource/gratitude-david-whyte/?utm_source=DenseDiscovery-248
   excerpt: ''
@@ -1214,6 +1254,80 @@
   sort: 645601531
   important: true
   collectionId: 37603939
+  parsed: {}
+- _id: 726732228
+  link: https://www.julienhay.fr/
+  title: Julien Hay
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://images.squarespace-cdn.com/content/v1/63f3784cc1bbbe433c573ea1/810bdc06-2292-4e77-8a4d-33b9850b4c65/Welcome%C2%A9Julien+Hay-14.JPG?format=1500w
+  media:
+  - link: https://images.squarespace-cdn.com/content/v1/63f3784cc1bbbe433c573ea1/810bdc06-2292-4e77-8a4d-33b9850b4c65/Welcome%C2%A9Julien+Hay-14.JPG?format=1500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/63f3784cc1bbbe433c573ea1/4bbec5d3-ff65-4440-ae6d-fa5ff67eafec/Welcome%C2%A9Julien+Hay-15.JPG?format=1500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/63f3784cc1bbbe433c573ea1/e222113b-82b2-480f-bf04-e6a9d7b27005/Welcome%C2%A9Julien+Hay-8.JPG?format=2500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/63f3784cc1bbbe433c573ea1/afa7d7ee-b6d6-49dc-9e80-00ce0848e922/Welcome%C2%A9Julien+Hay-3.JPG?format=1500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/63f3784cc1bbbe433c573ea1/86df3089-3335-469c-9b45-6ded39373a7b/Welcome%C2%A9Julien+Hay-7.JPG?format=2500w
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-01-31T13:40:23.495Z'
+  lastUpdate: '2024-01-31T13:40:28.242Z'
+  collection:
+    "$ref": collections
+    "$id": 37577000
+    oid: 37577000
+  highlights: []
+  domain: julienhay.fr
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 726732228
+  collectionId: 37577000
+  parsed: {}
+- _id: 722596917
+  link: https://www.josewalker.co.uk/photo
+  title: people — JOSE WALKER
+  excerpt: pieces of the year
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fwww.josewalker.co.uk%2Fphoto
+  media: []
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-01-26T22:16:57.733Z'
+  lastUpdate: '2024-01-26T22:17:03.565Z'
+  collection:
+    "$ref": collections
+    "$id": 37577000
+    oid: 37577000
+  highlights: []
+  domain: josewalker.co.uk
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 722596917
+  collectionId: 37577000
   parsed: {}
 - _id: 645601092
   link: http://www.meganshootsfilm.com/
@@ -1571,102 +1685,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601718
-  important: true
-  collectionId: 37459371
-  parsed: {}
-- _id: 645601674
-  link: https://flakphoto.substack.com/p/the-practice-of-attention
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ae3d4ef-baa2-49eb-8b7f-a896547950fc_5000x3997.jpeg
-  media:
-  - type: image
-    link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ae3d4ef-baa2-49eb-8b7f-a896547950fc_5000x3997.jpeg
-  tags: []
-  removed: false
-  created: '2023-07-11T20:03:19.831Z'
-  collection:
-    "$ref": collections
-    "$id": 37459371
-    oid: 37459371
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: flakphoto.substack.com
-  title: The Practice of Attention
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601719
-  important: true
-  collectionId: 37459371
-  parsed: {}
-- _id: 645601669
-  link: https://www.youtube.com/watch?v=_K9KVkkc_4I
-  excerpt: ''
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/_K9KVkkc_4I/maxresdefault.jpg
-  media:
-  - type: image
-    link: https://i.ytimg.com/vi/_K9KVkkc_4I/maxresdefault.jpg
-  tags: []
-  removed: false
-  created: '2023-07-05T15:39:15.944Z'
-  collection:
-    "$ref": collections
-    "$id": 37459371
-    oid: 37459371
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: youtube.com
-  title: Dear Photographers,
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601720
-  important: true
-  collectionId: 37459371
-  parsed: {}
-- _id: 645601664
-  link: https://www.youtube.com/watch?v=weNDbcaiH10
-  excerpt: ''
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/weNDbcaiH10/maxresdefault.jpg
-  media:
-  - type: image
-    link: https://i.ytimg.com/vi/weNDbcaiH10/maxresdefault.jpg
-  tags: []
-  removed: false
-  created: '2023-06-28T11:57:02.958Z'
-  collection:
-    "$ref": collections
-    "$id": 37459371
-    oid: 37459371
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: youtube.com
-  title: Où l'on parle de photo et de mon matos pro !
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601721
   important: true
   collectionId: 37459371
   parsed: {}
@@ -4888,6 +4906,39 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 645601530
+  link: http://www.lucy-ives.com/arts-writing/phone-call-with-sophie-calle
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/http%3A%2F%2Fwww.lucy-ives.com%2Farts-writing%2Fphone-call-with-sophie-calle
+  media:
+  - type: image
+    link: https://rdl.ink/render/http%3A%2F%2Fwww.lucy-ives.com%2Farts-writing%2Fphone-call-with-sophie-calle
+    screenshot: true
+  tags: []
+  removed: false
+  created: '2023-02-21T11:00:11.177Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: lucy-ives.com
+  title: L Ives
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601530
+  important: true
+  collectionId: 37456415
+  parsed: {}
 - _id: 645601528
   link: https://vimeo.com/783682847
   excerpt: ''
@@ -5658,38 +5709,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601471
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601469
-  link: https://www.youtube.com/watch?v=nD0VM0NWwSA
-  excerpt: ''
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/nD0VM0NWwSA/maxresdefault.jpg
-  media:
-  - type: image
-    link: https://i.ytimg.com/vi/nD0VM0NWwSA/maxresdefault.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:52:16.242Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: youtube.com
-  title: 'Jason Lee: The American Photo Roadtrip - An ILFORD Inspires film'
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601469
   important: true
   collectionId: 37456415
   parsed: {}
@@ -7298,38 +7317,6 @@
   important: true
   collectionId: 37456415
   parsed: {}
-- _id: 645601404
-  link: https://macwright.com/2022/09/15/hacker-news.html
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://macwright.com/images/2022-09-15-hacker-news-thumbnail-image.jpeg
-  media:
-  - type: image
-    link: https://macwright.com/images/2022-09-15-hacker-news-thumbnail-image.jpeg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:49:29.522Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: macwright.com
-  title: Hacker News
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601404
-  important: true
-  collectionId: 37456415
-  parsed: {}
 - _id: 645601403
   link: https://www.jeanjullien.com/works/gallery-target/
   excerpt: ''
@@ -8102,6 +8089,38 @@
     name: bonjouryannick
     email: ''
   sort: 645601377
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601375
+  link: https://www.zeroninemagazine.com/stories/ghosts-of-pleasure
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://static1.squarespace.com/static/5f21bde38170305a95a816bf/t/62e6aa9f277ad076247488a1/1659284138966/ZERO.NINE_BrianAnderson_02_Banner.jpg?format=1500w
+  media:
+  - type: image
+    link: http://static1.squarespace.com/static/5f21bde38170305a95a816bf/t/62e6aa9f277ad076247488a1/1659284138966/ZERO.NINE_BrianAnderson_02_Banner.jpg?format=1500w
+  tags: []
+  removed: false
+  created: '2023-01-26T19:48:58.224Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: zeroninemagazine.com
+  title: Ghosts of pleasure — ZERO.NINE
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601375
   important: true
   collectionId: 37456415
   parsed: {}
