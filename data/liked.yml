@@ -4104,6 +4104,39 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 645601588
+  link: http://www.jaynelsonart.com/
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/http%3A%2F%2Fwww.jaynelsonart.com%2F
+  media:
+  - type: image
+    link: https://rdl.ink/render/http%3A%2F%2Fwww.jaynelsonart.com%2F
+    screenshot: true
+  tags: []
+  removed: false
+  created: '2023-03-25T21:46:42.622Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: jaynelsonart.com
+  title: Jay Nelson
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601588
+  important: true
+  collectionId: 37456415
+  parsed: {}
 - _id: 645601587
   link: https://vimeo.com/714263497
   excerpt: ''
@@ -4871,39 +4904,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601531
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601530
-  link: http://www.lucy-ives.com/arts-writing/phone-call-with-sophie-calle
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/http%3A%2F%2Fwww.lucy-ives.com%2Farts-writing%2Fphone-call-with-sophie-calle
-  media:
-  - type: image
-    link: https://rdl.ink/render/http%3A%2F%2Fwww.lucy-ives.com%2Farts-writing%2Fphone-call-with-sophie-calle
-    screenshot: true
-  tags: []
-  removed: false
-  created: '2023-02-21T11:00:11.177Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: lucy-ives.com
-  title: L Ives
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601530
   important: true
   collectionId: 37456415
   parsed: {}
@@ -19351,38 +19351,6 @@
   important: true
   collectionId: 37136909
   parsed: {}
-- _id: 645601718
-  link: https://www.youtube.com/watch?v=tXBsr2xtg28
-  excerpt: ''
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/tXBsr2xtg28/maxresdefault.jpg
-  media:
-  - type: image
-    link: https://i.ytimg.com/vi/tXBsr2xtg28/maxresdefault.jpg
-  tags: []
-  removed: false
-  created: '2023-09-04T18:52:08.568Z'
-  collection:
-    "$ref": collections
-    "$id": 37136909
-    oid: 37136909
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: youtube.com
-  title: Strategic Total Utter Neglect - Episode 5
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601784
-  important: true
-  collectionId: 37136909
-  parsed: {}
 - _id: 645601714
   link: https://www.youtube.com/watch?v=s-EKUGccLtM
   excerpt: ''
@@ -20148,6 +20116,38 @@
     name: bonjouryannick
     email: ''
   sort: 645601767
+  important: true
+  collectionId: 37136909
+  parsed: {}
+- _id: 645601612
+  link: https://www.youtube.com/watch?v=3TYiX266MPU
+  excerpt: ''
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/3TYiX266MPU/maxresdefault.jpg
+  media:
+  - type: image
+    link: https://i.ytimg.com/vi/3TYiX266MPU/maxresdefault.jpg
+  tags: []
+  removed: false
+  created: '2023-05-23T12:01:29.825Z'
+  collection:
+    "$ref": collections
+    "$id": 37136909
+    oid: 37136909
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: youtube.com
+  title: THE BONO "7 GHOSTS" thAt TiDAL wAve iN iNdOnESiA
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601766
   important: true
   collectionId: 37136909
   parsed: {}
