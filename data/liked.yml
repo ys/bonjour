@@ -20129,38 +20129,6 @@
   important: true
   collectionId: 37136909
   parsed: {}
-- _id: 645601612
-  link: https://www.youtube.com/watch?v=3TYiX266MPU
-  excerpt: ''
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/3TYiX266MPU/maxresdefault.jpg
-  media:
-  - type: image
-    link: https://i.ytimg.com/vi/3TYiX266MPU/maxresdefault.jpg
-  tags: []
-  removed: false
-  created: '2023-05-23T12:01:29.825Z'
-  collection:
-    "$ref": collections
-    "$id": 37136909
-    oid: 37136909
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: youtube.com
-  title: THE BONO "7 GHOSTS" thAt TiDAL wAve iN iNdOnESiA
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601766
-  important: true
-  collectionId: 37136909
-  parsed: {}
 - _id: 645601611
   link: https://www.deflowsurf.com/dan-pascacio-nowhere-place-video/
   excerpt: ''
@@ -20928,6 +20896,38 @@
     name: bonjouryannick
     email: ''
   sort: 646762956
+  important: true
+  collectionId: 37136909
+  parsed: {}
+- _id: 645601450
+  link: https://vimeo.com/758410646?embedded=true
+  excerpt: ''
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.vimeocdn.com/video/1535925246-f80d8d8ba4a9e00ca81fcbe5582b13c75d59146e80f3cd3e7e374aa381d64ac7-d_295x166
+  media:
+  - type: image
+    link: https://i.vimeocdn.com/video/1535925246-f80d8d8ba4a9e00ca81fcbe5582b13c75d59146e80f3cd3e7e374aa381d64ac7-d_295x166
+  tags: []
+  removed: false
+  created: '2023-01-26T19:51:29.560Z'
+  collection:
+    "$ref": collections
+    "$id": 37136909
+    oid: 37136909
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: vimeo.com
+  title: AMBLE
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601752
   important: true
   collectionId: 37136909
   parsed: {}
