@@ -842,6 +842,46 @@
   important: true
   collectionId: 37603939
   parsed: {}
+- _id: 645601727
+  link: https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life?utm_source=substack&utm_medium=email?utm_source=DenseDiscovery-251
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://static1.squarespace.com/static/51bf0e35e4b010d205f86840/t/645d4f15681dc8700eec2356/1683836698601/harrell20%2Bcopy.jpg?format=1500w
+  media:
+  - type: image
+    link: http://static1.squarespace.com/static/51bf0e35e4b010d205f86840/t/645d4f15681dc8700eec2356/1683836698601/harrell20%2Bcopy.jpg?format=1500w
+  tags: []
+  removed: false
+  created: '2023-09-07T12:09:31.282Z'
+  collection:
+    "$ref": collections
+    "$id": 37603939
+    oid: 37603939
+  highlights:
+  - text: I’m fine right here is the response from the edge of the room, and that
+      contentment is downright subversive.
+    note: ''
+    color: yellow
+    created: '2023-09-12T08:38:42.803Z'
+    lastUpdate: '2023-09-12T08:38:42.803Z'
+    creatorRef: 1617030
+    _id: 65002392b33c35e5303cce58
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: bittersoutherner.com
+  title: Obituary for a Quiet Life — THE BITTER SOUTHERNER
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601722
+  important: true
+  collectionId: 37603939
+  parsed: {}
 - _id: 645601698
   link: https://grateful.org/resource/gratitude-david-whyte/?utm_source=DenseDiscovery-248
   excerpt: ''
@@ -1193,6 +1233,80 @@
   sort: 645601531
   important: true
   collectionId: 37603939
+  parsed: {}
+- _id: 726732228
+  link: https://www.julienhay.fr/
+  title: Julien Hay
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://images.squarespace-cdn.com/content/v1/63f3784cc1bbbe433c573ea1/810bdc06-2292-4e77-8a4d-33b9850b4c65/Welcome%C2%A9Julien+Hay-14.JPG?format=1500w
+  media:
+  - link: https://images.squarespace-cdn.com/content/v1/63f3784cc1bbbe433c573ea1/810bdc06-2292-4e77-8a4d-33b9850b4c65/Welcome%C2%A9Julien+Hay-14.JPG?format=1500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/63f3784cc1bbbe433c573ea1/4bbec5d3-ff65-4440-ae6d-fa5ff67eafec/Welcome%C2%A9Julien+Hay-15.JPG?format=1500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/63f3784cc1bbbe433c573ea1/e222113b-82b2-480f-bf04-e6a9d7b27005/Welcome%C2%A9Julien+Hay-8.JPG?format=2500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/63f3784cc1bbbe433c573ea1/afa7d7ee-b6d6-49dc-9e80-00ce0848e922/Welcome%C2%A9Julien+Hay-3.JPG?format=1500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/63f3784cc1bbbe433c573ea1/86df3089-3335-469c-9b45-6ded39373a7b/Welcome%C2%A9Julien+Hay-7.JPG?format=2500w
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-01-31T13:40:23.495Z'
+  lastUpdate: '2024-01-31T13:40:28.242Z'
+  collection:
+    "$ref": collections
+    "$id": 37577000
+    oid: 37577000
+  highlights: []
+  domain: julienhay.fr
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 726732228
+  collectionId: 37577000
+  parsed: {}
+- _id: 722596917
+  link: https://www.josewalker.co.uk/photo
+  title: people — JOSE WALKER
+  excerpt: pieces of the year
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fwww.josewalker.co.uk%2Fphoto
+  media: []
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-01-26T22:16:57.733Z'
+  lastUpdate: '2024-01-26T22:17:03.565Z'
+  collection:
+    "$ref": collections
+    "$id": 37577000
+    oid: 37577000
+  highlights: []
+  domain: josewalker.co.uk
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 722596917
+  collectionId: 37577000
   parsed: {}
 - _id: 645601092
   link: http://www.meganshootsfilm.com/
@@ -2033,193 +2147,40 @@
   important: true
   collectionId: 37459371
   parsed: {}
-- _id: 667453299
-  link: https://thenineclub.com/blogs/episodes/jason-lee?_pos=1&_sid=373ebada4&_ss=r
-  title: Jason Lee
-  excerpt: Jason Lee discusses growing up in Southern California, first learning 360
-    flips in his backyard, meeting Mark Gonzales for the first time, skating Christian
-    Hosoi’s backyard vert ramp, getting on Blind Skateboards, filming for “Video Days”,
-    starting Blue Skateboards with Chris Pastras, why they ended Blue and start
-  note: |-
-    "Sometimes Live goes where it need to goes"
-
-    "The pleasure of the POW" 360 flip
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://thenineclub.com/cdn/shop/articles/Jason_Lee_Cover_Page.jpg?v=1647857377
-  media:
-  - link: http://thenineclub.com/cdn/shop/articles/Jason_Lee_Cover_Page.jpg?v=1647857377
-    type: image
-  - link: https://thenineclub.com/cdn/shop/files/Circle_Logo_On_Black_7bae31a6-28b2-43a3-b201-07d402146193_220x.png?v=1688154636
-    type: image
-  - link: https://thenineclub.com/cdn/shop/files/Discount_Banner_50_Percent_2_3fcf0bcf-ca39-45fc-8c3f-3f75bf681381_2000x.jpg?v=1694660377
-    type: image
-  - link: https://thenineclub.com/cdn/shop/products/StancexNineClubWhite_900x.jpg?v=1678321735
-    type: image
-  - link: https://thenineclub.com/cdn/shop/products/The_Nine_Club_Grey_Embroidered_Crew_Neck_900x.jpg?v=1556263515
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-10-25T11:08:26.009Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 37459360
-    oid: 37459360
-  highlights: []
-  domain: thenineclub.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 667453298
-  collectionId: 37459360
-  parsed: {}
-- _id: 664440440
-  link: https://simplemagic.substack.com/p/proof-of-life-small-victories-and
-  title: Proof of life, small victories, and vision | Simply Ranked
-  excerpt: 'Plus: Rob Pace doubles down, curse of the takes, making a skate video
-    with your friends, and more.'
+- _id: 725207923
+  link: https://99percentinvisible.org/episode/the-double-kick/
+  title: The Double Kick - 99% Invisible
+  excerpt: Watch a skate video today, and you’ll notice how similarly shaped the boards
+    are. It’s called the “popsicle” design, because the deck is narrow in the middle
+    and rounded off at both ends, like a popsicle stick. This may seem stupid simple,
+    but that basic, clean popsicle shape is actually the product of a lot of experimentation
+    and
   note: ''
   type: article
   user:
     "$ref": users
     "$id": 1617030
-  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff277a8d9-a199-4e1c-a225-88046d6574e0_1200x800.jpeg
+  cover: https://99percentinvisible.org/app/uploads/2024/01/pexels-josh-hild-2422264-728x520.jpg
   media:
-  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff277a8d9-a199-4e1c-a225-88046d6574e0_1200x800.jpeg
-    type: image
-  - link: https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff277a8d9-a199-4e1c-a225-88046d6574e0_1200x800.jpeg
-    type: image
-  - link: https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89f9bd44-d7c7-4a41-be92-04993e868463_787x182.png
-    type: image
-  - link: https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a5710b9-b06a-484e-a7f7-25dc7de85845_1074x1460.png
+  - link: https://99percentinvisible.org/app/uploads/2024/01/pexels-josh-hild-2422264-728x520.jpg
     type: image
   tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-10-20T20:36:54.656Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 37459360
-    oid: 37459360
-  highlights:
-  - text: Detach from the expectations of the internet. Take your time with projects
-      because you owe it to yourself to make something original to you. There is no
-      rush.
-    note: ''
-    created: '2023-10-20T20:36:54.640Z'
-    lastUpdate: '2023-10-20T20:38:14.039Z'
-    creatorRef: 1617030
-    _id: 6532e4e6142529d6cfbfec28
-  - text: To desire to keep up with what is going on is nearly impossible in the world
-      we live in. Whether that be the standards set by social media, tricks being
-      done or the temporary styles that come and go. I advise anyone to develop their
-      own relationship with whatever craft they take on.
-    note: ''
-    color: yellow
-    created: '2023-10-20T20:38:14.038Z'
-    lastUpdate: '2023-10-20T20:38:14.039Z'
-    creatorRef: 1617030
-    _id: 6532e5367a2344a90563fcef
-  domain: simplemagic.substack.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 664440439
-  collectionId: 37459360
-  parsed: {}
-- _id: 663894751
-  link: https://thpsfilm.com/
-  title: Pretending I'm a Superman – A documentary that tells the story of how skateboarding
-    became a part of the mainstream by focusing on the success of the "Tony Hawk's
-    Pro Skater" video game franchise.
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Fthpsfilm.com%2F
-  media:
-  - type: image
-    link: https://rdl.ink/render/https%3A%2F%2Fthpsfilm.com%2F
-    screenshot: true
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-10-19T19:05:49.042Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 37459360
-    oid: 37459360
   highlights: []
-  domain: thpsfilm.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 663894750
-  collectionId: 37459360
-  parsed: {}
-- _id: 661649863
-  link: https://archive.ph/SclnQ#selection-565.0-565.460
-  title: Tony Hawk Showed Me What’s Sacred About Cities - The New York Times
-  excerpt: archived 12 Oct 2023 08:56:20 UTC
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://archive.ph/SclnQ/9f0835d1a72257220cfe9de888885a2c671cbd9a/scr.png
-  media:
-  - link: https://archive.ph/SclnQ/9f0835d1a72257220cfe9de888885a2c671cbd9a/scr.png
-    type: image
-  - link: https://archive.ph/SclnQ/eb343f6b598c5eeb6c614f433335dc66c0ade067.webp
-    type: image
-  tags: []
+  important: true
   removed: false
-  highlights:
-  - text: In real life, skating is an art form that requires constant sacrifice, physical
-      pain and public embarrassment for the sake of an ephemeral few seconds of pure
-      beauty. You have to fall a thousand times before you succeed. The Tony Hawk
-      games aren’t concerned with that. They recreate the iterative satisfaction of
-      skating — the feeling that, with enough practice, you can do something miraculous
-      — without all the concussions, bloody knees and shattered wrists.
-    note: ''
-    created: '2023-10-15T20:45:10.138Z'
-    lastUpdate: '2023-10-15T20:45:10.139Z'
-    creatorRef: 1617030
-    _id: 652c4f56614c0b09de71eb2e
-  created: '2023-10-15T20:45:10.139Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: archive.ph
+  created: '2024-01-29T09:32:48.617Z'
+  lastUpdate: '2024-01-29T09:32:48.617Z'
   collection:
     "$ref": collections
     "$id": 37459360
     oid: 37459360
+  domain: 99percentinvisible.org
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 661649863
-  important: true
+  sort: 725207923
   collectionId: 37459360
   parsed: {}
 - _id: 645601707
@@ -5731,38 +5692,6 @@
   important: true
   collectionId: 37456415
   parsed: {}
-- _id: 645601469
-  link: https://www.youtube.com/watch?v=nD0VM0NWwSA
-  excerpt: ''
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/nD0VM0NWwSA/maxresdefault.jpg
-  media:
-  - type: image
-    link: https://i.ytimg.com/vi/nD0VM0NWwSA/maxresdefault.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:52:16.242Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: youtube.com
-  title: 'Jason Lee: The American Photo Roadtrip - An ILFORD Inspires film'
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601469
-  important: true
-  collectionId: 37456415
-  parsed: {}
 - _id: 645601468
   link: https://longboardermagazine.com/2022/09/izzy-henshall-rising-style/
   excerpt: ''
@@ -6530,6 +6459,38 @@
     name: bonjouryannick
     email: ''
   sort: 645601437
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601436
+  link: https://www.youtube.com/watch?v=bspAwTq0VfE
+  excerpt: ''
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/bspAwTq0VfE/maxresdefault.jpg
+  media:
+  - type: image
+    link: https://i.ytimg.com/vi/bspAwTq0VfE/maxresdefault.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:50:31.387Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: youtube.com
+  title: "-M- / GAIL ANN DORSEY - LIFE ON MARS @ Vieilles Charrues 2022"
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601436
   important: true
   collectionId: 37456415
   parsed: {}
@@ -7336,38 +7297,6 @@
   important: true
   collectionId: 37456415
   parsed: {}
-- _id: 645601404
-  link: https://macwright.com/2022/09/15/hacker-news.html
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://macwright.com/images/2022-09-15-hacker-news-thumbnail-image.jpeg
-  media:
-  - type: image
-    link: https://macwright.com/images/2022-09-15-hacker-news-thumbnail-image.jpeg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:49:29.522Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: macwright.com
-  title: Hacker News
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601404
-  important: true
-  collectionId: 37456415
-  parsed: {}
 - _id: 645601403
   link: https://www.jeanjullien.com/works/gallery-target/
   excerpt: ''
@@ -8140,6 +8069,38 @@
     name: bonjouryannick
     email: ''
   sort: 645601377
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601375
+  link: https://www.zeroninemagazine.com/stories/ghosts-of-pleasure
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://static1.squarespace.com/static/5f21bde38170305a95a816bf/t/62e6aa9f277ad076247488a1/1659284138966/ZERO.NINE_BrianAnderson_02_Banner.jpg?format=1500w
+  media:
+  - type: image
+    link: http://static1.squarespace.com/static/5f21bde38170305a95a816bf/t/62e6aa9f277ad076247488a1/1659284138966/ZERO.NINE_BrianAnderson_02_Banner.jpg?format=1500w
+  tags: []
+  removed: false
+  created: '2023-01-26T19:48:58.224Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: zeroninemagazine.com
+  title: Ghosts of pleasure — ZERO.NINE
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601375
   important: true
   collectionId: 37456415
   parsed: {}
@@ -9737,6 +9698,38 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 645601317
+  link: https://www.theatlantic.com/magazine/archive/2022/03/why-we-are-never-satisfied-happiness/621304/
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://cdn.theatlantic.com/thumbor/MbyUrmcbspZ6xs9Q-JlAChfreuk=/0x43:2000x1085/1200x625/media/img/2022/02/WEL_Brooks_SatisfactionOpener/original.jpg
+  media:
+  - type: image
+    link: https://cdn.theatlantic.com/thumbor/MbyUrmcbspZ6xs9Q-JlAChfreuk=/0x43:2000x1085/1200x625/media/img/2022/02/WEL_Brooks_SatisfactionOpener/original.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:48:08.366Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: theatlantic.com
+  title: How to Want Less
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601317
+  important: true
+  collectionId: 37456415
+  parsed: {}
 - _id: 645601316
   link: https://www.lemonde.fr/m-perso/article/2022/03/05/tous-ecolo-imparfaits-nos-petits-arrangements-avec-la-culpabilite-ecologique_6116228_4497916.html
   excerpt: ''
@@ -10505,38 +10498,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601286
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601285
-  link: https://finisterre.com/blogs/broadcast/the-science-of-cold-water-swimming
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://finisterre.com/cdn/shop/articles/unnamed_3df22b54-89c1-419e-9b71-177645106e1d.jpg?v=1664895452
-  media:
-  - type: image
-    link: https://finisterre.com/cdn/shop/articles/unnamed_3df22b54-89c1-419e-9b71-177645106e1d.jpg?v=1664895452
-  tags: []
-  removed: false
-  created: '2023-01-26T19:47:38.486Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: finisterre.com
-  title: The Science Of Cold Water Swimming | The Broadcast
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601285
   important: true
   collectionId: 37456415
   parsed: {}
@@ -12139,38 +12100,6 @@
   important: true
   collectionId: 37456415
   parsed: {}
-- _id: 645601229
-  link: https://ia.net/topics/on-apps-and-coffee
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://ia.net/wp-content/uploads/2021/11/Lucca-M58-Stainless-Espresso-Machine-Hero.png
-  media:
-  - type: image
-    link: https://ia.net/wp-content/uploads/2021/11/Lucca-M58-Stainless-Espresso-Machine-Hero.png
-  tags: []
-  removed: false
-  created: '2023-01-26T19:46:56.968Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: ia.net
-  title: On Apps and Coffee
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601229
-  important: true
-  collectionId: 37456415
-  parsed: {}
 - _id: 645601228
   link: https://www.liberation.fr/apps/2016/06/pokemon/
   excerpt: ''
@@ -12942,6 +12871,36 @@
     name: bonjouryannick
     email: ''
   sort: 645601201
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601200
+  link: https://craigmod.com/membership/goodie_bucket/nightingalingale/
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: ''
+  media: []
+  tags: []
+  removed: false
+  created: '2023-01-26T19:46:36.822Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: craigmod.com
+  title: https://craigmod.com/membership/goodie_bucket/nightingalingale/
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601200
   important: true
   collectionId: 37456415
   parsed: {}
@@ -14552,38 +14511,6 @@
   important: true
   collectionId: 37456415
   parsed: {}
-- _id: 645601150
-  link: https://beside.media/fr/nouveaux-recits/le-monde-utopique-du-vus/
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2021/05/BESIDE_newnarrative_SUV_facebook.jpg
-  media:
-  - type: image
-    link: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2021/05/BESIDE_newnarrative_SUV_facebook.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:45:57.199Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: beside.media
-  title: Le monde utopique du VUS
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601150
-  important: true
-  collectionId: 37456415
-  parsed: {}
 - _id: 645601149
   link: https://www.instagram.com/hanaiyusuke/
   excerpt: ''
@@ -15355,6 +15282,70 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 645601125
+  link: https://huckberry.com/journal/posts/shelter-karangahake-house
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://huckberry.imgix.net/journal_post_content_block_images/000/000/802/images/original/KarangahakeHouse_OutdoorRoomToEast_hero.jpg
+  media:
+  - type: image
+    link: https://huckberry.imgix.net/journal_post_content_block_images/000/000/802/images/original/KarangahakeHouse_OutdoorRoomToEast_hero.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:42.234Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: huckberry.com
+  title: 3 Home Improvements Inspired by New Zealand's Karangahake House
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601125
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601125
+  link: https://huckberry.com/journal/posts/shelter-karangahake-house
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://huckberry.imgix.net/journal_post_content_block_images/000/000/802/images/original/KarangahakeHouse_OutdoorRoomToEast_hero.jpg
+  media:
+  - type: image
+    link: https://huckberry.imgix.net/journal_post_content_block_images/000/000/802/images/original/KarangahakeHouse_OutdoorRoomToEast_hero.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:42.234Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: huckberry.com
+  title: 3 Home Improvements Inspired by New Zealand's Karangahake House
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601125
+  important: true
+  collectionId: 37456415
+  parsed: {}
 - _id: 645601124
   link: https://audacious.blog/2021/write/
   excerpt: ''
@@ -16120,70 +16111,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601099
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601098
-  link: https://reallifemag.com/easy-answers/
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://reallifemag.com/wp-content/uploads/2020/12/unnamed-1024x683.jpg
-  media:
-  - type: image
-    link: https://reallifemag.com/wp-content/uploads/2020/12/unnamed-1024x683.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:45:24.276Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: reallifemag.com
-  title: Easy Answers — Real Life
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601098
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601098
-  link: https://reallifemag.com/easy-answers/
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://reallifemag.com/wp-content/uploads/2020/12/unnamed-1024x683.jpg
-  media:
-  - type: image
-    link: https://reallifemag.com/wp-content/uploads/2020/12/unnamed-1024x683.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:45:24.276Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: reallifemag.com
-  title: Easy Answers — Real Life
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601098
   important: true
   collectionId: 37456415
   parsed: {}
@@ -16959,6 +16886,70 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 645601070
+  link: https://daydreamsurfshop.com/pages/coffee-1
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://cdn.shopify.com/s/files/1/1046/5210/files/blossomsplash_army_4x.png?height=628&pad_color=ffffff&v=1613665743&width=1200
+  media:
+  - type: image
+    link: https://cdn.shopify.com/s/files/1/1046/5210/files/blossomsplash_army_4x.png?height=628&pad_color=ffffff&v=1613665743&width=1200
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:06.056Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: daydreamsurfshop.com
+  title: Coffee 1
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601070
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601070
+  link: https://daydreamsurfshop.com/pages/coffee-1
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://cdn.shopify.com/s/files/1/1046/5210/files/blossomsplash_army_4x.png?height=628&pad_color=ffffff&v=1613665743&width=1200
+  media:
+  - type: image
+    link: https://cdn.shopify.com/s/files/1/1046/5210/files/blossomsplash_army_4x.png?height=628&pad_color=ffffff&v=1613665743&width=1200
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:06.056Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: daydreamsurfshop.com
+  title: Coffee 1
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601070
+  important: true
+  collectionId: 37456415
+  parsed: {}
 - _id: 645601069
   link: https://www.julian.com/guide/write/intro
   excerpt: ''
@@ -17718,38 +17709,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601045
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601044
-  link: https://beside.media/fr/besiders/la-quete-dun-artisan-du-sel/
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2020/10/Thumbnail-03JacobsenExtras_Calisch_Web-9.jpg
-  media:
-  - type: image
-    link: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2020/10/Thumbnail-03JacobsenExtras_Calisch_Web-9.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:44:47.673Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: beside.media
-  title: La quête d’un artisan du sel
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601044
   important: true
   collectionId: 37456415
   parsed: {}
@@ -18552,38 +18511,6 @@
   important: true
   collectionId: 37456415
   parsed: {}
-- _id: 645601018
-  link: https://beside.media/field-notes-of-a-new-forager/
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2020/06/emily_reed_thumbnail1.jpg
-  media:
-  - type: image
-    link: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2020/06/emily_reed_thumbnail1.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:44:24.342Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: beside.media
-  title: Field Notes of a New Forager
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601018
-  important: true
-  collectionId: 37456415
-  parsed: {}
 - _id: 645601017
   link: https://www.jessicamgibson.com/
   excerpt: ''
@@ -18998,6 +18925,48 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 725229452
+  link: https://www.dunehomes.com/portfolio/southernutah?_kx=ZNSYUaE4mXnOEYYW_GvyYeFFKqXjaFpnCkMHemudBuY%3D.aVinKJ
+  title: SOUTHERN UTAH — Home
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://static1.squarespace.com/static/63a5e1ab8304d96b4e45ba45/63a5f649de89406df1b240cd/63a6116de009015eddcc8c18/1673559224160/Kitchen-8666.jpg?format=1500w
+  media:
+  - link: http://static1.squarespace.com/static/63a5e1ab8304d96b4e45ba45/63a5f649de89406df1b240cd/63a6116de009015eddcc8c18/1673559224160/Kitchen-8666.jpg?format=1500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/63a5e1ab8304d96b4e45ba45/0b4a1310-05c5-4978-a051-c0b846787cf0/Pool-9826.jpg?format=2500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/63a5e1ab8304d96b4e45ba45/8e29668a-41c2-4616-9058-a0cb52c68653/Casita-Detail-0293.jpg?format=2500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/63a5e1ab8304d96b4e45ba45/fbe8208c-4d46-4a0b-b7f0-025bc0007bde/Casita-0518.jpg?format=2500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/63a5e1ab8304d96b4e45ba45/1673822059267-R2K2O3E5XC9O0ECTJ7SQ/Casita-0331.jpg?format=2500w
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-01-29T10:52:07.382Z'
+  lastUpdate: '2024-01-29T10:52:22.827Z'
+  collection:
+    "$ref": collections
+    "$id": 37136914
+    oid: 37136914
+  highlights: []
+  domain: dunehomes.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 725229452
+  collectionId: 37136914
+  parsed: {}
 - _id: 645601721
   link: https://huckberry.com/journal/posts/huckberry-homes-ben-moon
   excerpt: ''
@@ -19258,47 +19227,6 @@
   important: true
   collectionId: 37136914
   parsed: {}
-- _id: 658009278
-  link: https://www.youtube.com/watch?v=VYmXIkkv3mQ
-  title: Pure Energy - Trevor Gordon & Bryce Baker in J Bay
-  excerpt: "Trevor Gordon and Bryce Baker heat up in J Bay in Mollusk Warm Wetsuits!
-    These guys had too much fun a perfect right point break with a few Toy Boats and
-    Radio Surfboards. Pure Energy: uncut, straight from the source!\n\nCamera work
-    by Tyge Landa and Erin Feinblatt\n\nTrevor is riding:\n-7'0 Radio ButterBlade\n-6'2
-    Toyboat Asym Pin\n-5'4 Toyboat Flathead Fish\n\nBryce is riding:\n-6'6 Radio Long
-    Fish\n-5'5 Toyboat Flathead Fish\n\nFind Mollusk Warm Wetsuits here: https://mollusksurfshop.com/pages/wetsuits\n\nFind
-    Radio Surfboards here: https://mollusksurfshop.com/collections/surfboards/radio-surfboards\n\nToy
-    Boats coming to a Mollusk near you very soon \U0001F440"
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/VYmXIkkv3mQ/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/VYmXIkkv3mQ/maxresdefault.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-10-08T18:12:41.261Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 37136909
-    oid: 37136909
-  highlights: []
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 658009278
-  collectionId: 37136909
-  parsed: {}
 - _id: 646762956
   link: https://vimeo.com/686434096
   title: RAWfilm on Vimeo
@@ -19366,6 +19294,38 @@
     name: bonjouryannick
     email: ''
   sort: 645601739
+  important: true
+  collectionId: 37136909
+  parsed: {}
+- _id: 645601718
+  link: https://www.youtube.com/watch?v=tXBsr2xtg28
+  excerpt: ''
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/tXBsr2xtg28/maxresdefault.jpg
+  media:
+  - type: image
+    link: https://i.ytimg.com/vi/tXBsr2xtg28/maxresdefault.jpg
+  tags: []
+  removed: false
+  created: '2023-09-04T18:52:08.568Z'
+  collection:
+    "$ref": collections
+    "$id": 37136909
+    oid: 37136909
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: youtube.com
+  title: Strategic Total Utter Neglect - Episode 5
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601784
   important: true
   collectionId: 37136909
   parsed: {}
