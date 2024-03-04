@@ -1,4 +1,115 @@
 ---
+- _id: 667447359
+  link: https://macwright.com/2019/01/02/paper-notes
+  title: Paper notes
+  excerpt: How I finally became the kind of person who carries a paper notebook and
+    a pen
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://macwright.com/images/2019-01-02-paper-notes-thumbnail-image.jpg
+  media:
+  - link: https://macwright.com/images/2019-01-02-paper-notes-thumbnail-image.jpg
+    type: image
+  - link: https://macwright.com/images/2019-01-02-paper-notes-time-not-topics.webp
+    type: image
+  - link: https://macwright.com/images/2019-01-02-paper-notes-simplicity-not-heaviness.webp
+    type: image
+  - link: https://macwright.com/images/2019-01-02-paper-notes-note-box.webp
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-10-25T10:26:03.172Z'
+  lastUpdate: '2023-12-06T10:11:59.101Z'
+  collection:
+    "$ref": collections
+    "$id": 38065957
+    oid: 38065957
+  highlights: []
+  domain: macwright.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 689990898
+  collectionId: 38065957
+  parsed: {}
+- _id: 661655598
+  link: https://sinanatra.github.io/turks/www/?utm_source=substack&utm_medium=email
+  title: Views from Mechanical Turk
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fsinanatra.github.io%2Fturks%2Fwww%2F%3Futm_source%3Dsubstack%26utm_medium%3Demail
+  media:
+  - type: image
+    link: https://rdl.ink/render/https%3A%2F%2Fsinanatra.github.io%2Fturks%2Fwww%2F%3Futm_source%3Dsubstack%26utm_medium%3Demail
+    screenshot: true
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-10-15T21:00:24.154Z'
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  collection:
+    "$ref": collections
+    "$id": 38035089
+    oid: 38035089
+  highlights: []
+  domain: sinanatra.github.io
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 661655598
+  collectionId: 38035089
+  parsed: {}
+- _id: 661835293
+  link: https://www.lassosurf.com/aj-dungo
+  title: AJ Dungo | Lasso
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fwww.lassosurf.com%2Faj-dungo
+  media:
+  - type: image
+    link: https://rdl.ink/render/https%3A%2F%2Fwww.lassosurf.com%2Faj-dungo
+    screenshot: true
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-10-16T07:34:15.873Z'
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  collection:
+    "$ref": collections
+    "$id": 37679989
+    oid: 37679989
+  highlights: []
+  domain: lassosurf.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 661835293
+  collectionId: 37679989
+  parsed: {}
 - _id: 645689207
   link: https://english.bouletcorp.com/2013/10/08/our-toyota-was-fantastic/
   title: Bouletcorp » Our Toyota was Fantastic.
@@ -566,178 +677,48 @@
   important: true
   collectionId: 37616522
   parsed: {}
-- _id: 728761929
-  link: https://mail.paulineharmange.fr/archive/ce-quon-tolere/
-  title: Ce qu'on tolère
-  excerpt: 'Salut, Nouvelle année pour cette newsletter, et plus ou moins grands changements
-    : j’ai décidé de quitter la plateforme Substack, que j’utilisais depuis...'
+- _id: 656209699
+  link: https://www.wired.com/story/lego-haunted-by-its-own-plastic/?mc_cid=fa04558169&mc_eid=561e2e9468
+  title: Lego Is a Company Haunted by Its Own Plastic
+  excerpt: While the toy brand kills its plans for an oil-free plastic alternative,
+    it’s still pumping out billions of non-biodegradable bricks a year. Can Lego ever
+    be sustainable?
   note: ''
   type: article
   user:
     "$ref": users
     "$id": 1617030
-  cover: https://assets.buttondown.email/images/1917c4db-8d60-4d6f-8b04-15c925918f71.png
+  cover: https://media.wired.com/photos/651733d7f8a5c34a77706619/191:100/w_1280,c_limit/gear-Boxes%20of%20Lego%20are%20stacked%2023%20meters%20high%20in%20storage%20rooms%20holding%20around%20a%20billion%20bricks%20in%20total.%20Robotic%20cranes%20fetch%20decoration%20or%20packaging%20parts%20(shot%20in%202013)%20copy.jpg
   media:
-  - link: https://assets.buttondown.email/images/1917c4db-8d60-4d6f-8b04-15c925918f71.png
+  - link: https://media.wired.com/photos/651733d7f8a5c34a77706619/191:100/w_1280,c_limit/gear-Boxes%20of%20Lego%20are%20stacked%2023%20meters%20high%20in%20storage%20rooms%20holding%20around%20a%20billion%20bricks%20in%20total.%20Robotic%20cranes%20fetch%20decoration%20or%20packaging%20parts%20(shot%20in%202013)%20copy.jpg
+    type: image
+  - link: https://media.wired.com/photos/651733d7f8a5c34a77706619/master/w_1920,c_limit/gear-Boxes%20of%20Lego%20are%20stacked%2023%20meters%20high%20in%20storage%20rooms%20holding%20around%20a%20billion%20bricks%20in%20total.%20Robotic%20cranes%20fetch%20decoration%20or%20packaging%20parts%20(shot%20in%202013)%20copy.jpg
+    type: image
+  - link: https://media.wired.com/photos/651733d7b5d44c77522e235e/master/w_1600,c_limit/lego-gear-DSC08762.jpg
+    type: image
+  - link: https://media.wired.com/photos/651733d8540791b359043b25/master/w_1600,c_limit/lego-gear-DJI_0052.jpg
+    type: image
+  - link: https://media.wired.com/photos/64a8b56120abe9537824f8ed/16:9/w_640,h_450,c_limit/undefined
     type: image
   tags: []
-  highlights: []
   important: true
+  reminder:
+    date: 
   removed: false
-  created: '2024-02-03T11:58:49.693Z'
-  lastUpdate: '2024-02-03T11:58:49.693Z'
-  collection:
-    "$ref": collections
-    "$id": 37603939
-    oid: 37603939
-  domain: mail.paulineharmange.fr
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 728761929
-  collectionId: 37603939
-  parsed: {}
-- _id: 728641270
-  link: https://gkeenan.co/avgb/rss-readers-make-me-want-to-jump-into-a-vat-of-acid
-  title: RSS readers make me want to jump into a vat of acid! — Keenan
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: ''
-  media: []
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2024-02-03T07:31:17.665Z'
-  lastUpdate: '2024-02-03T07:31:17.665Z'
-  collection:
-    "$ref": collections
-    "$id": 37603939
-    oid: 37603939
-  domain: gkeenan.co
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 728641270
-  collectionId: 37603939
-  parsed: {}
-- _id: 727025218
-  link: https://poorlydrawnlines.com/comic/purpose/
-  title: Purpose
-  excerpt: A thrice-weekly webcomic written and illustrated by Reza Farazmand. New
-    comics every Monday, Wednesday, and Friday.
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Fpoorlydrawnlines.com%2Fcomic%2Fpurpose%2F
-  media: []
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2024-01-31T22:13:08.930Z'
-  lastUpdate: '2024-01-31T22:13:08.930Z'
-  collection:
-    "$ref": collections
-    "$id": 37603939
-    oid: 37603939
-  domain: poorlydrawnlines.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 727025218
-  collectionId: 37603939
-  parsed: {}
-- _id: 725224927
-  link: https://www.codycookparrott.com/common-shapes-1/leavinginstagram
-  title: Leaving Instagram or Exiting the Portal of the Validation Loop — CODY COOK-PARROTT
-  excerpt: Welcome to season two of Common Shapes! Since last season, I took a big
-    step in my life and logged out of Instagram for good.      So in this episode,
-    I’m going to share why I left and how I did it. Not from a place of knowing-it-all,
-    but by asking the question, “what does it actually mean to be don
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://static1.squarespace.com/static/56cf543362cd940a7c36ebeb/642cbd0f1e3e1c090c16c411/65561e9a03f619620d3df229/1700142913014/Untitled+design-17.png?format=1500w
-  media:
-  - link: http://static1.squarespace.com/static/56cf543362cd940a7c36ebeb/642cbd0f1e3e1c090c16c411/65561e9a03f619620d3df229/1700142913014/Untitled+design-17.png?format=1500w
-    type: image
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2024-01-29T10:18:01.820Z'
-  lastUpdate: '2024-01-29T10:18:01.820Z'
-  collection:
-    "$ref": collections
-    "$id": 37603939
-    oid: 37603939
-  domain: codycookparrott.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 725224927
-  collectionId: 37603939
-  parsed: {}
-- _id: 652078685
-  link: https://marleegrace.substack.com/p/i-quit-instagram
-  title: I quit Instagram
-  excerpt: Leaving a practice behind
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b6ddf52-825f-40a4-a35f-6bedc615c76f_2713x3618.jpeg
-  media:
-  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b6ddf52-825f-40a4-a35f-6bedc615c76f_2713x3618.jpeg
-    type: image
-  - link: https://substackcdn.com/image/fetch/w_720,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b6ddf52-825f-40a4-a35f-6bedc615c76f_2713x3618.jpeg
-    type: image
-  - link: https://substackcdn.com/image/fetch/w_720,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37c9c3ab-608f-430a-a71a-9b9aad43bf26_4032x3024.jpeg
-    type: image
-  - link: https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F61aa1826-b474-4217-a53c-08cb39e2b03e_4032x3024.jpeg
-    type: image
-  tags: []
-  removed: false
-  highlights:
-  - text: Talking to my neighbor about poop felt so much better than being addicted
-      to my phone
-    note: ''
-    created: '2023-09-26T07:38:19.621Z'
-    lastUpdate: '2023-09-26T07:38:19.622Z'
-    creatorRef: 1617030
-    _id: 65128a6b9af2b30c20332e0c
-  created: '2023-09-26T07:38:19.621Z'
+  created: '2023-10-05T18:27:59.088Z'
   lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: marleegrace.substack.com
   collection:
     "$ref": collections
     "$id": 37603939
     oid: 37603939
+  highlights: []
+  domain: wired.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 652078685
-  important: true
+  sort: 656209699
   collectionId: 37603939
   parsed: {}
 - _id: 649176125
@@ -839,6 +820,46 @@
     name: bonjouryannick
     email: ''
   sort: 645601726
+  important: true
+  collectionId: 37603939
+  parsed: {}
+- _id: 645601727
+  link: https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life?utm_source=substack&utm_medium=email?utm_source=DenseDiscovery-251
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://static1.squarespace.com/static/51bf0e35e4b010d205f86840/t/645d4f15681dc8700eec2356/1683836698601/harrell20%2Bcopy.jpg?format=1500w
+  media:
+  - type: image
+    link: http://static1.squarespace.com/static/51bf0e35e4b010d205f86840/t/645d4f15681dc8700eec2356/1683836698601/harrell20%2Bcopy.jpg?format=1500w
+  tags: []
+  removed: false
+  created: '2023-09-07T12:09:31.282Z'
+  collection:
+    "$ref": collections
+    "$id": 37603939
+    oid: 37603939
+  highlights:
+  - text: I’m fine right here is the response from the edge of the room, and that
+      contentment is downright subversive.
+    note: ''
+    color: yellow
+    created: '2023-09-12T08:38:42.803Z'
+    lastUpdate: '2023-09-12T08:38:42.803Z'
+    creatorRef: 1617030
+    _id: 65002392b33c35e5303cce58
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: bittersoutherner.com
+  title: Obituary for a Quiet Life — THE BITTER SOUTHERNER
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601722
   important: true
   collectionId: 37603939
   parsed: {}
@@ -6493,6 +6514,38 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 645601436
+  link: https://www.youtube.com/watch?v=bspAwTq0VfE
+  excerpt: ''
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/bspAwTq0VfE/maxresdefault.jpg
+  media:
+  - type: image
+    link: https://i.ytimg.com/vi/bspAwTq0VfE/maxresdefault.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:50:31.387Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: youtube.com
+  title: "-M- / GAIL ANN DORSEY - LIFE ON MARS @ Vieilles Charrues 2022"
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601436
+  important: true
+  collectionId: 37456415
+  parsed: {}
 - _id: 645601435
   link: https://anchor.fm/petit-journal-crea/episodes/5---La-cohrence-cardiaque-e1oidk7
   excerpt: ''
@@ -8068,70 +8121,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601377
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601375
-  link: https://www.zeroninemagazine.com/stories/ghosts-of-pleasure
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://static1.squarespace.com/static/5f21bde38170305a95a816bf/t/62e6aa9f277ad076247488a1/1659284138966/ZERO.NINE_BrianAnderson_02_Banner.jpg?format=1500w
-  media:
-  - type: image
-    link: http://static1.squarespace.com/static/5f21bde38170305a95a816bf/t/62e6aa9f277ad076247488a1/1659284138966/ZERO.NINE_BrianAnderson_02_Banner.jpg?format=1500w
-  tags: []
-  removed: false
-  created: '2023-01-26T19:48:58.224Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: zeroninemagazine.com
-  title: Ghosts of pleasure — ZERO.NINE
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601375
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601375
-  link: https://www.zeroninemagazine.com/stories/ghosts-of-pleasure
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://static1.squarespace.com/static/5f21bde38170305a95a816bf/t/62e6aa9f277ad076247488a1/1659284138966/ZERO.NINE_BrianAnderson_02_Banner.jpg?format=1500w
-  media:
-  - type: image
-    link: http://static1.squarespace.com/static/5f21bde38170305a95a816bf/t/62e6aa9f277ad076247488a1/1659284138966/ZERO.NINE_BrianAnderson_02_Banner.jpg?format=1500w
-  tags: []
-  removed: false
-  created: '2023-01-26T19:48:58.224Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: zeroninemagazine.com
-  title: Ghosts of pleasure — ZERO.NINE
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601375
   important: true
   collectionId: 37456415
   parsed: {}
@@ -9729,6 +9718,38 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 645601317
+  link: https://www.theatlantic.com/magazine/archive/2022/03/why-we-are-never-satisfied-happiness/621304/
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://cdn.theatlantic.com/thumbor/MbyUrmcbspZ6xs9Q-JlAChfreuk=/0x43:2000x1085/1200x625/media/img/2022/02/WEL_Brooks_SatisfactionOpener/original.jpg
+  media:
+  - type: image
+    link: https://cdn.theatlantic.com/thumbor/MbyUrmcbspZ6xs9Q-JlAChfreuk=/0x43:2000x1085/1200x625/media/img/2022/02/WEL_Brooks_SatisfactionOpener/original.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:48:08.366Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: theatlantic.com
+  title: How to Want Less
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601317
+  important: true
+  collectionId: 37456415
+  parsed: {}
 - _id: 645601316
   link: https://www.lemonde.fr/m-perso/article/2022/03/05/tous-ecolo-imparfaits-nos-petits-arrangements-avec-la-culpabilite-ecologique_6116228_4497916.html
   excerpt: ''
@@ -10497,38 +10518,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601286
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601285
-  link: https://finisterre.com/blogs/broadcast/the-science-of-cold-water-swimming
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://finisterre.com/cdn/shop/articles/unnamed_3df22b54-89c1-419e-9b71-177645106e1d.jpg?v=1664895452
-  media:
-  - type: image
-    link: https://finisterre.com/cdn/shop/articles/unnamed_3df22b54-89c1-419e-9b71-177645106e1d.jpg?v=1664895452
-  tags: []
-  removed: false
-  created: '2023-01-26T19:47:38.486Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: finisterre.com
-  title: The Science Of Cold Water Swimming | The Broadcast
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601285
   important: true
   collectionId: 37456415
   parsed: {}
@@ -12902,6 +12891,36 @@
     name: bonjouryannick
     email: ''
   sort: 645601201
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601200
+  link: https://craigmod.com/membership/goodie_bucket/nightingalingale/
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: ''
+  media: []
+  tags: []
+  removed: false
+  created: '2023-01-26T19:46:36.822Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: craigmod.com
+  title: https://craigmod.com/membership/goodie_bucket/nightingalingale/
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601200
   important: true
   collectionId: 37456415
   parsed: {}
@@ -15315,6 +15334,38 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 645601125
+  link: https://huckberry.com/journal/posts/shelter-karangahake-house
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://huckberry.imgix.net/journal_post_content_block_images/000/000/802/images/original/KarangahakeHouse_OutdoorRoomToEast_hero.jpg
+  media:
+  - type: image
+    link: https://huckberry.imgix.net/journal_post_content_block_images/000/000/802/images/original/KarangahakeHouse_OutdoorRoomToEast_hero.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:42.234Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: huckberry.com
+  title: 3 Home Improvements Inspired by New Zealand's Karangahake House
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601125
+  important: true
+  collectionId: 37456415
+  parsed: {}
 - _id: 645601124
   link: https://audacious.blog/2021/write/
   excerpt: ''
@@ -16080,38 +16131,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601099
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601098
-  link: https://reallifemag.com/easy-answers/
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://reallifemag.com/wp-content/uploads/2020/12/unnamed-1024x683.jpg
-  media:
-  - type: image
-    link: https://reallifemag.com/wp-content/uploads/2020/12/unnamed-1024x683.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:45:24.276Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: reallifemag.com
-  title: Easy Answers — Real Life
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601098
   important: true
   collectionId: 37456415
   parsed: {}
