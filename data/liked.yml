@@ -6553,38 +6553,6 @@
   important: true
   collectionId: 37456415
   parsed: {}
-- _id: 645601436
-  link: https://www.youtube.com/watch?v=bspAwTq0VfE
-  excerpt: ''
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/bspAwTq0VfE/maxresdefault.jpg
-  media:
-  - type: image
-    link: https://i.ytimg.com/vi/bspAwTq0VfE/maxresdefault.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:50:31.387Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: youtube.com
-  title: "-M- / GAIL ANN DORSEY - LIFE ON MARS @ Vieilles Charrues 2022"
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601436
-  important: true
-  collectionId: 37456415
-  parsed: {}
 - _id: 645601435
   link: https://anchor.fm/petit-journal-crea/episodes/5---La-cohrence-cardiaque-e1oidk7
   excerpt: ''
@@ -7353,6 +7321,38 @@
     name: bonjouryannick
     email: ''
   sort: 645601405
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601404
+  link: https://macwright.com/2022/09/15/hacker-news.html
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://macwright.com/images/2022-09-15-hacker-news-thumbnail-image.jpeg
+  media:
+  - type: image
+    link: https://macwright.com/images/2022-09-15-hacker-news-thumbnail-image.jpeg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:49:29.522Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: macwright.com
+  title: Hacker News
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601404
   important: true
   collectionId: 37456415
   parsed: {}
@@ -10560,38 +10560,6 @@
   important: true
   collectionId: 37456415
   parsed: {}
-- _id: 645601285
-  link: https://finisterre.com/blogs/broadcast/the-science-of-cold-water-swimming
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://finisterre.com/cdn/shop/articles/unnamed_3df22b54-89c1-419e-9b71-177645106e1d.jpg?v=1664895452
-  media:
-  - type: image
-    link: https://finisterre.com/cdn/shop/articles/unnamed_3df22b54-89c1-419e-9b71-177645106e1d.jpg?v=1664895452
-  tags: []
-  removed: false
-  created: '2023-01-26T19:47:38.486Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: finisterre.com
-  title: The Science Of Cold Water Swimming | The Broadcast
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601285
-  important: true
-  collectionId: 37456415
-  parsed: {}
 - _id: 645601284
   link: https://beside.media/fr/nouveaux-recits/choisir-le-silence/
   excerpt: ''
@@ -11353,6 +11321,39 @@
     name: bonjouryannick
     email: ''
   sort: 645601261
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601260
+  link: https://www.vans.eu/weirdwaves.html
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fwww.vans.eu%2Fweirdwaves.html
+  media:
+  - type: image
+    link: https://rdl.ink/render/https%3A%2F%2Fwww.vans.eu%2Fweirdwaves.html
+    screenshot: true
+  tags: []
+  removed: false
+  created: '2023-01-26T19:47:19.379Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: vans.eu
+  title: Weird Waves News
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601260
   important: true
   collectionId: 37456415
   parsed: {}
@@ -17771,38 +17772,6 @@
   important: true
   collectionId: 37456415
   parsed: {}
-- _id: 645601044
-  link: https://beside.media/fr/besiders/la-quete-dun-artisan-du-sel/
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2020/10/Thumbnail-03JacobsenExtras_Calisch_Web-9.jpg
-  media:
-  - type: image
-    link: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2020/10/Thumbnail-03JacobsenExtras_Calisch_Web-9.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:44:47.673Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: beside.media
-  title: La quête d’un artisan du sel
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601044
-  important: true
-  collectionId: 37456415
-  parsed: {}
 - _id: 645601042
   link: https://www.nytimes.com/2017/07/22/opinion/sunday/lets-get-excited-about-maintenance.html
   excerpt: ''
@@ -18567,6 +18536,38 @@
     name: bonjouryannick
     email: ''
   sort: 645601019
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601018
+  link: https://beside.media/field-notes-of-a-new-forager/
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2020/06/emily_reed_thumbnail1.jpg
+  media:
+  - type: image
+    link: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2020/06/emily_reed_thumbnail1.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:44:24.342Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: beside.media
+  title: Field Notes of a New Forager
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601018
   important: true
   collectionId: 37456415
   parsed: {}
