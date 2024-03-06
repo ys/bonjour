@@ -10500,6 +10500,38 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 645601285
+  link: https://finisterre.com/blogs/broadcast/the-science-of-cold-water-swimming
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://finisterre.com/cdn/shop/articles/unnamed_3df22b54-89c1-419e-9b71-177645106e1d.jpg?v=1664895452
+  media:
+  - type: image
+    link: https://finisterre.com/cdn/shop/articles/unnamed_3df22b54-89c1-419e-9b71-177645106e1d.jpg?v=1664895452
+  tags: []
+  removed: false
+  created: '2023-01-26T19:47:38.486Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: finisterre.com
+  title: The Science Of Cold Water Swimming | The Broadcast
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601285
+  important: true
+  collectionId: 37456415
+  parsed: {}
 - _id: 645601284
   link: https://beside.media/fr/nouveaux-recits/choisir-le-silence/
   excerpt: ''
@@ -11261,39 +11293,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601261
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601260
-  link: https://www.vans.eu/weirdwaves.html
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Fwww.vans.eu%2Fweirdwaves.html
-  media:
-  - type: image
-    link: https://rdl.ink/render/https%3A%2F%2Fwww.vans.eu%2Fweirdwaves.html
-    screenshot: true
-  tags: []
-  removed: false
-  created: '2023-01-26T19:47:19.379Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: vans.eu
-  title: Weird Waves News
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601260
   important: true
   collectionId: 37456415
   parsed: {}
