@@ -842,6 +842,46 @@
   important: true
   collectionId: 37603939
   parsed: {}
+- _id: 645601727
+  link: https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life?utm_source=substack&utm_medium=email?utm_source=DenseDiscovery-251
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://static1.squarespace.com/static/51bf0e35e4b010d205f86840/t/645d4f15681dc8700eec2356/1683836698601/harrell20%2Bcopy.jpg?format=1500w
+  media:
+  - type: image
+    link: http://static1.squarespace.com/static/51bf0e35e4b010d205f86840/t/645d4f15681dc8700eec2356/1683836698601/harrell20%2Bcopy.jpg?format=1500w
+  tags: []
+  removed: false
+  created: '2023-09-07T12:09:31.282Z'
+  collection:
+    "$ref": collections
+    "$id": 37603939
+    oid: 37603939
+  highlights:
+  - text: I’m fine right here is the response from the edge of the room, and that
+      contentment is downright subversive.
+    note: ''
+    color: yellow
+    created: '2023-09-12T08:38:42.803Z'
+    lastUpdate: '2023-09-12T08:38:42.803Z'
+    creatorRef: 1617030
+    _id: 65002392b33c35e5303cce58
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: bittersoutherner.com
+  title: Obituary for a Quiet Life — THE BITTER SOUTHERNER
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601722
+  important: true
+  collectionId: 37603939
+  parsed: {}
 - _id: 645601698
   link: https://grateful.org/resource/gratitude-david-whyte/?utm_source=DenseDiscovery-248
   excerpt: ''
@@ -1193,6 +1233,80 @@
   sort: 645601531
   important: true
   collectionId: 37603939
+  parsed: {}
+- _id: 726732228
+  link: https://www.julienhay.fr/
+  title: Julien Hay
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://images.squarespace-cdn.com/content/v1/63f3784cc1bbbe433c573ea1/810bdc06-2292-4e77-8a4d-33b9850b4c65/Welcome%C2%A9Julien+Hay-14.JPG?format=1500w
+  media:
+  - link: https://images.squarespace-cdn.com/content/v1/63f3784cc1bbbe433c573ea1/810bdc06-2292-4e77-8a4d-33b9850b4c65/Welcome%C2%A9Julien+Hay-14.JPG?format=1500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/63f3784cc1bbbe433c573ea1/4bbec5d3-ff65-4440-ae6d-fa5ff67eafec/Welcome%C2%A9Julien+Hay-15.JPG?format=1500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/63f3784cc1bbbe433c573ea1/e222113b-82b2-480f-bf04-e6a9d7b27005/Welcome%C2%A9Julien+Hay-8.JPG?format=2500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/63f3784cc1bbbe433c573ea1/afa7d7ee-b6d6-49dc-9e80-00ce0848e922/Welcome%C2%A9Julien+Hay-3.JPG?format=1500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/63f3784cc1bbbe433c573ea1/86df3089-3335-469c-9b45-6ded39373a7b/Welcome%C2%A9Julien+Hay-7.JPG?format=2500w
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-01-31T13:40:23.495Z'
+  lastUpdate: '2024-01-31T13:40:28.242Z'
+  collection:
+    "$ref": collections
+    "$id": 37577000
+    oid: 37577000
+  highlights: []
+  domain: julienhay.fr
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 726732228
+  collectionId: 37577000
+  parsed: {}
+- _id: 722596917
+  link: https://www.josewalker.co.uk/photo
+  title: people — JOSE WALKER
+  excerpt: pieces of the year
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fwww.josewalker.co.uk%2Fphoto
+  media: []
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-01-26T22:16:57.733Z'
+  lastUpdate: '2024-01-26T22:17:03.565Z'
+  collection:
+    "$ref": collections
+    "$id": 37577000
+    oid: 37577000
+  highlights: []
+  domain: josewalker.co.uk
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 722596917
+  collectionId: 37577000
   parsed: {}
 - _id: 645601092
   link: http://www.meganshootsfilm.com/
@@ -1550,102 +1664,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601718
-  important: true
-  collectionId: 37459371
-  parsed: {}
-- _id: 645601674
-  link: https://flakphoto.substack.com/p/the-practice-of-attention
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ae3d4ef-baa2-49eb-8b7f-a896547950fc_5000x3997.jpeg
-  media:
-  - type: image
-    link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ae3d4ef-baa2-49eb-8b7f-a896547950fc_5000x3997.jpeg
-  tags: []
-  removed: false
-  created: '2023-07-11T20:03:19.831Z'
-  collection:
-    "$ref": collections
-    "$id": 37459371
-    oid: 37459371
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: flakphoto.substack.com
-  title: The Practice of Attention
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601719
-  important: true
-  collectionId: 37459371
-  parsed: {}
-- _id: 645601669
-  link: https://www.youtube.com/watch?v=_K9KVkkc_4I
-  excerpt: ''
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/_K9KVkkc_4I/maxresdefault.jpg
-  media:
-  - type: image
-    link: https://i.ytimg.com/vi/_K9KVkkc_4I/maxresdefault.jpg
-  tags: []
-  removed: false
-  created: '2023-07-05T15:39:15.944Z'
-  collection:
-    "$ref": collections
-    "$id": 37459371
-    oid: 37459371
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: youtube.com
-  title: Dear Photographers,
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601720
-  important: true
-  collectionId: 37459371
-  parsed: {}
-- _id: 645601664
-  link: https://www.youtube.com/watch?v=weNDbcaiH10
-  excerpt: ''
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/weNDbcaiH10/maxresdefault.jpg
-  media:
-  - type: image
-    link: https://i.ytimg.com/vi/weNDbcaiH10/maxresdefault.jpg
-  tags: []
-  removed: false
-  created: '2023-06-28T11:57:02.958Z'
-  collection:
-    "$ref": collections
-    "$id": 37459371
-    oid: 37459371
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: youtube.com
-  title: Où l'on parle de photo et de mon matos pro !
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601721
   important: true
   collectionId: 37459371
   parsed: {}
@@ -4928,39 +4946,6 @@
   important: true
   collectionId: 37456415
   parsed: {}
-- _id: 645601530
-  link: http://www.lucy-ives.com/arts-writing/phone-call-with-sophie-calle
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/http%3A%2F%2Fwww.lucy-ives.com%2Farts-writing%2Fphone-call-with-sophie-calle
-  media:
-  - type: image
-    link: https://rdl.ink/render/http%3A%2F%2Fwww.lucy-ives.com%2Farts-writing%2Fphone-call-with-sophie-calle
-    screenshot: true
-  tags: []
-  removed: false
-  created: '2023-02-21T11:00:11.177Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: lucy-ives.com
-  title: L Ives
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601530
-  important: true
-  collectionId: 37456415
-  parsed: {}
 - _id: 645601528
   link: https://vimeo.com/783682847
   excerpt: ''
@@ -5731,6 +5716,38 @@
     name: bonjouryannick
     email: ''
   sort: 645601471
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601469
+  link: https://www.youtube.com/watch?v=nD0VM0NWwSA
+  excerpt: ''
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/nD0VM0NWwSA/maxresdefault.jpg
+  media:
+  - type: image
+    link: https://i.ytimg.com/vi/nD0VM0NWwSA/maxresdefault.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:52:16.242Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: youtube.com
+  title: 'Jason Lee: The American Photo Roadtrip - An ILFORD Inspires film'
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601469
   important: true
   collectionId: 37456415
   parsed: {}
@@ -8146,38 +8163,6 @@
   important: true
   collectionId: 37456415
   parsed: {}
-- _id: 645601375
-  link: https://www.zeroninemagazine.com/stories/ghosts-of-pleasure
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://static1.squarespace.com/static/5f21bde38170305a95a816bf/t/62e6aa9f277ad076247488a1/1659284138966/ZERO.NINE_BrianAnderson_02_Banner.jpg?format=1500w
-  media:
-  - type: image
-    link: http://static1.squarespace.com/static/5f21bde38170305a95a816bf/t/62e6aa9f277ad076247488a1/1659284138966/ZERO.NINE_BrianAnderson_02_Banner.jpg?format=1500w
-  tags: []
-  removed: false
-  created: '2023-01-26T19:48:58.224Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: zeroninemagazine.com
-  title: Ghosts of pleasure — ZERO.NINE
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601375
-  important: true
-  collectionId: 37456415
-  parsed: {}
 - _id: 645601374
   link: https://finisterre.com/blogs/broadcast/summer-beach-safety-with-mike-lay?xnpe_tifc=hFoXhkx8bDsNxu4N4uhLbjpsafeWaeiWhFW6hfp3alB8bf8cRf4gVd46EMQ-tu4vaMXp4.nXxIV84do74fodbfnJ
   excerpt: ''
@@ -8941,6 +8926,38 @@
     name: bonjouryannick
     email: ''
   sort: 645601349
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601348
+  link: https://www.olow.fr/fr/blog/recit-aquatique-4
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://www.olow.fr/modules/hiblog/views/img/upload/original/2022/02/ClovisDonizetti_Olow_TL_01433-740x493.jpg
+  media:
+  - type: image
+    link: https://www.olow.fr/modules/hiblog/views/img/upload/original/2022/02/ClovisDonizetti_Olow_TL_01433-740x493.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:48:37.666Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: olow.fr
+  title: 'Récit aquatique #4'
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601348
   important: true
   collectionId: 37456415
   parsed: {}
@@ -12142,6 +12159,38 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 645601229
+  link: https://ia.net/topics/on-apps-and-coffee
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://ia.net/wp-content/uploads/2021/11/Lucca-M58-Stainless-Espresso-Machine-Hero.png
+  media:
+  - type: image
+    link: https://ia.net/wp-content/uploads/2021/11/Lucca-M58-Stainless-Espresso-Machine-Hero.png
+  tags: []
+  removed: false
+  created: '2023-01-26T19:46:56.968Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: ia.net
+  title: On Apps and Coffee
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601229
+  important: true
+  collectionId: 37456415
+  parsed: {}
 - _id: 645601228
   link: https://www.liberation.fr/apps/2016/06/pokemon/
   excerpt: ''
@@ -13711,38 +13760,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601176
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601175
-  link: https://www.fieldmag.com/articles/yawn-patrol-new-york-city-surfing-photo-book
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://images.ctfassets.net/r7p9m4b1iqbp/26n4BzS9WEth730XEKOEem/280045edd8642b8e14a80550c9b10732/Hoshi-Ludwig-Yawn-Patrol-NYC-Surfing-Book-Hero.jpg?w=1000
-  media:
-  - type: image
-    link: http://images.ctfassets.net/r7p9m4b1iqbp/26n4BzS9WEth730XEKOEem/280045edd8642b8e14a80550c9b10732/Hoshi-Ludwig-Yawn-Patrol-NYC-Surfing-Book-Hero.jpg?w=1000
-  tags: []
-  removed: false
-  created: '2023-01-26T19:46:17.650Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: fieldmag.com
-  title: Yawn Patrol's Photo Book Salutes the Vibes of NYC Surfing
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601175
   important: true
   collectionId: 37456415
   parsed: {}
@@ -18553,38 +18570,6 @@
   important: true
   collectionId: 37456415
   parsed: {}
-- _id: 645601018
-  link: https://beside.media/field-notes-of-a-new-forager/
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2020/06/emily_reed_thumbnail1.jpg
-  media:
-  - type: image
-    link: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2020/06/emily_reed_thumbnail1.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:44:24.342Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: beside.media
-  title: Field Notes of a New Forager
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601018
-  important: true
-  collectionId: 37456415
-  parsed: {}
 - _id: 645601017
   link: https://www.jessicamgibson.com/
   excerpt: ''
@@ -18999,6 +18984,48 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 725229452
+  link: https://www.dunehomes.com/portfolio/southernutah?_kx=ZNSYUaE4mXnOEYYW_GvyYeFFKqXjaFpnCkMHemudBuY%3D.aVinKJ
+  title: SOUTHERN UTAH — Home
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://static1.squarespace.com/static/63a5e1ab8304d96b4e45ba45/63a5f649de89406df1b240cd/63a6116de009015eddcc8c18/1673559224160/Kitchen-8666.jpg?format=1500w
+  media:
+  - link: http://static1.squarespace.com/static/63a5e1ab8304d96b4e45ba45/63a5f649de89406df1b240cd/63a6116de009015eddcc8c18/1673559224160/Kitchen-8666.jpg?format=1500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/63a5e1ab8304d96b4e45ba45/0b4a1310-05c5-4978-a051-c0b846787cf0/Pool-9826.jpg?format=2500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/63a5e1ab8304d96b4e45ba45/8e29668a-41c2-4616-9058-a0cb52c68653/Casita-Detail-0293.jpg?format=2500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/63a5e1ab8304d96b4e45ba45/fbe8208c-4d46-4a0b-b7f0-025bc0007bde/Casita-0518.jpg?format=2500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/63a5e1ab8304d96b4e45ba45/1673822059267-R2K2O3E5XC9O0ECTJ7SQ/Casita-0331.jpg?format=2500w
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-01-29T10:52:07.382Z'
+  lastUpdate: '2024-01-29T10:52:22.827Z'
+  collection:
+    "$ref": collections
+    "$id": 37136914
+    oid: 37136914
+  highlights: []
+  domain: dunehomes.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 725229452
+  collectionId: 37136914
+  parsed: {}
 - _id: 645601721
   link: https://huckberry.com/journal/posts/huckberry-homes-ben-moon
   excerpt: ''
@@ -19258,47 +19285,6 @@
   sort: 645601640
   important: true
   collectionId: 37136914
-  parsed: {}
-- _id: 658009278
-  link: https://www.youtube.com/watch?v=VYmXIkkv3mQ
-  title: Pure Energy - Trevor Gordon & Bryce Baker in J Bay
-  excerpt: "Trevor Gordon and Bryce Baker heat up in J Bay in Mollusk Warm Wetsuits!
-    These guys had too much fun a perfect right point break with a few Toy Boats and
-    Radio Surfboards. Pure Energy: uncut, straight from the source!\n\nCamera work
-    by Tyge Landa and Erin Feinblatt\n\nTrevor is riding:\n-7'0 Radio ButterBlade\n-6'2
-    Toyboat Asym Pin\n-5'4 Toyboat Flathead Fish\n\nBryce is riding:\n-6'6 Radio Long
-    Fish\n-5'5 Toyboat Flathead Fish\n\nFind Mollusk Warm Wetsuits here: https://mollusksurfshop.com/pages/wetsuits\n\nFind
-    Radio Surfboards here: https://mollusksurfshop.com/collections/surfboards/radio-surfboards\n\nToy
-    Boats coming to a Mollusk near you very soon \U0001F440"
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/VYmXIkkv3mQ/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/VYmXIkkv3mQ/maxresdefault.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-10-08T18:12:41.261Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 37136909
-    oid: 37136909
-  highlights: []
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 658009278
-  collectionId: 37136909
   parsed: {}
 - _id: 646762956
   link: https://vimeo.com/686434096
@@ -20170,6 +20156,38 @@
   important: true
   collectionId: 37136909
   parsed: {}
+- _id: 645601612
+  link: https://www.youtube.com/watch?v=3TYiX266MPU
+  excerpt: ''
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/3TYiX266MPU/maxresdefault.jpg
+  media:
+  - type: image
+    link: https://i.ytimg.com/vi/3TYiX266MPU/maxresdefault.jpg
+  tags: []
+  removed: false
+  created: '2023-05-23T12:01:29.825Z'
+  collection:
+    "$ref": collections
+    "$id": 37136909
+    oid: 37136909
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: youtube.com
+  title: THE BONO "7 GHOSTS" thAt TiDAL wAve iN iNdOnESiA
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601766
+  important: true
+  collectionId: 37136909
+  parsed: {}
 - _id: 645601611
   link: https://www.deflowsurf.com/dan-pascacio-nowhere-place-video/
   excerpt: ''
@@ -20937,6 +20955,38 @@
     name: bonjouryannick
     email: ''
   sort: 646762956
+  important: true
+  collectionId: 37136909
+  parsed: {}
+- _id: 645601450
+  link: https://vimeo.com/758410646?embedded=true
+  excerpt: ''
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.vimeocdn.com/video/1535925246-f80d8d8ba4a9e00ca81fcbe5582b13c75d59146e80f3cd3e7e374aa381d64ac7-d_295x166
+  media:
+  - type: image
+    link: https://i.vimeocdn.com/video/1535925246-f80d8d8ba4a9e00ca81fcbe5582b13c75d59146e80f3cd3e7e374aa381d64ac7-d_295x166
+  tags: []
+  removed: false
+  created: '2023-01-26T19:51:29.560Z'
+  collection:
+    "$ref": collections
+    "$id": 37136909
+    oid: 37136909
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: vimeo.com
+  title: AMBLE
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601752
   important: true
   collectionId: 37136909
   parsed: {}
@@ -21805,6 +21855,76 @@
   important: true
   collectionId: 37136909
   parsed: {}
+- _id: 657657329
+  link: https://finisterre.com/blogs/broadcast/the-sentinels-lighthouses-surfers-seven-seas
+  title: 'The Sentinels: Lighthouses, Surfers & Seven Seas'
+  excerpt: Mat Arney looks at the stoic history of lighthouses as a metaphor for ocean
+    guardianship.
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://finisterre.com/cdn/shop/articles/unnamed_87b1332a-4a90-48cb-9923-ec5fa51236fe.jpg?v=1696504698
+  media:
+  - link: https://finisterre.com/cdn/shop/articles/unnamed_87b1332a-4a90-48cb-9923-ec5fa51236fe.jpg?v=1696504698
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2023-10-07T20:49:35.093Z'
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  domain: finisterre.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 657657329
+  collectionId: 37136905
+  parsed: {}
+- _id: 653709961
+  link: https://www.radiofrance.fr/franceinter/podcasts/les-80/les-80-d-ali-baddou-du-vendredi-29-septembre-2023-4429223?fbclid=PAAaYK2I9oo5bujfXpFDNQbmX2g9rAHXElrJIxP56XCTTwgnbwa6puD27Tays
+  title: 'Surf : un livre-album magnifique'
+  excerpt: '"J''ignore pourquoi j''ai été - et suis toujours - à ce point hypnotisé
+    par le surf". Ces mots sont de Kelly Slater, le meilleur surfeur de tous les temps.
+    Kelly Slater qui signe la préface d''un livre album magnifique qui vient de paraître
+    chez Albin Michel.'
+  note: Les mots de Deleuze...
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://www.radiofrance.fr/s3/cruiser-production/2023/09/620ff579-905c-4c57-a2d5-7062b09ff621/1200x680_sc_surfcouv.jpg
+  media:
+  - link: https://www.radiofrance.fr/s3/cruiser-production/2023/09/620ff579-905c-4c57-a2d5-7062b09ff621/1200x680_sc_surfcouv.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-09-29T07:33:32.914Z'
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  domain: radiofrance.fr
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 653709961
+  collectionId: 37136905
+  parsed: {}
 - _id: 646751407
   link: https://www.deflowsurf.com/eliza-arbelbide-socal-video?mc_cid=23b59c1c88&mc_eid=0bd90c9ff0
   title: Eliza Arbelbide in South California - Deflow Surf & Longboard Fins
@@ -22486,103 +22606,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601706
-  important: true
-  collectionId: 37136905
-  parsed: {}
-- _id: 645601638
-  link: https://climateandboardsports.substack.com/p/we-cant-be-well-if-the-water-isnt
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42298f86-6c6e-43a6-8e55-080ac0e0102c_3936x2624.jpeg
-  media:
-  - type: image
-    link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42298f86-6c6e-43a6-8e55-080ac0e0102c_3936x2624.jpeg
-  tags: []
-  removed: false
-  created: '2023-06-08T18:24:05.177Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: climateandboardsports.substack.com
-  title: "“We can’t be well if the water isn’t well…”"
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601705
-  important: true
-  collectionId: 37136905
-  parsed: {}
-- _id: 645601637
-  link: https://longboardermagazine.com/2023/06/errant-logs-and-damaged-hipster-egos-the-leash-debate-rages-in-byron-bay/
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://longboardermagazine.com/wp-content/uploads/2023/06/Untitled-design-2-1024x512.png
-  media:
-  - type: image
-    link: https://longboardermagazine.com/wp-content/uploads/2023/06/Untitled-design-2-1024x512.png
-  tags: []
-  removed: false
-  created: '2023-06-05T20:56:54.223Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: longboardermagazine.com
-  title: 'Errant logs and damaged hipster egos: the leash debate rages in Byron Bay
-    - Longboarder Magazine'
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601707
-  important: true
-  collectionId: 37136905
-  parsed: {}
-- _id: 645601636
-  link: https://finisterre.com/blogs/broadcast/pride-a-letter-to-my-younger-self
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://finisterre.com/cdn/shop/articles/Letter-To-My-Younger-Self-Web.jpg?v=1685546022
-  media:
-  - type: image
-    link: https://finisterre.com/cdn/shop/articles/Letter-To-My-Younger-Self-Web.jpg?v=1685546022
-  tags: []
-  removed: false
-  created: '2023-06-04T18:50:54.655Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: finisterre.com
-  title: 'Pride: A Letter To My Younger Self'
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601712
   important: true
   collectionId: 37136905
   parsed: {}
