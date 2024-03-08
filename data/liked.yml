@@ -2956,42 +2956,6 @@
   important: true
   collectionId: 37459360
   parsed: {}
-- _id: 656234995
-  link: https://github.com/github/how-engineering-communicates/blob/main/how-github-engineering-communicates.md
-  title: how-engineering-communicates/how-github-engineering-communicates.md at main
-    · github/how-engineering-communicates
-  excerpt: ''
-  note: ''
-  type: document
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Fgithub.com%2Fgithub%2Fhow-engineering-communicates%2Fblob%2Fmain%2Fhow-github-engineering-communicates.md
-  media:
-  - type: image
-    link: https://rdl.ink/render/https%3A%2F%2Fgithub.com%2Fgithub%2Fhow-engineering-communicates%2Fblob%2Fmain%2Fhow-github-engineering-communicates.md
-    screenshot: true
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-10-05T21:02:45.776Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 37456469
-    oid: 37456469
-  highlights: []
-  domain: github.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 656234995
-  collectionId: 37456469
-  parsed: {}
 - _id: 651870212
   link: https://brooker.co.za/blog/2023/09/21/audience.html
   title: Writing For Somebody - Marc's Blog
@@ -3284,6 +3248,38 @@
     name: bonjouryannick
     email: ''
   sort: 645601729
+  important: true
+  collectionId: 37456469
+  parsed: {}
+- _id: 645601484
+  link: https://macwright.com/2022/12/09/activitypub.html
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://macwright.com/images/2022-12-09-activitypub-thumbnail-image.jpg
+  media:
+  - type: image
+    link: https://macwright.com/images/2022-12-09-activitypub-thumbnail-image.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:52:47.478Z'
+  collection:
+    "$ref": collections
+    "$id": 37456469
+    oid: 37456469
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: macwright.com
+  title: Playing with ActivityPub
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601730
   important: true
   collectionId: 37456469
   parsed: {}
@@ -4090,39 +4086,6 @@
   important: true
   collectionId: 37456415
   parsed: {}
-- _id: 645601588
-  link: http://www.jaynelsonart.com/
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/http%3A%2F%2Fwww.jaynelsonart.com%2F
-  media:
-  - type: image
-    link: https://rdl.ink/render/http%3A%2F%2Fwww.jaynelsonart.com%2F
-    screenshot: true
-  tags: []
-  removed: false
-  created: '2023-03-25T21:46:42.622Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: jaynelsonart.com
-  title: Jay Nelson
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601588
-  important: true
-  collectionId: 37456415
-  parsed: {}
 - _id: 645601587
   link: https://vimeo.com/714263497
   excerpt: ''
@@ -4890,6 +4853,72 @@
     name: bonjouryannick
     email: ''
   sort: 645601531
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601530
+  link: http://www.lucy-ives.com/arts-writing/phone-call-with-sophie-calle
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/http%3A%2F%2Fwww.lucy-ives.com%2Farts-writing%2Fphone-call-with-sophie-calle
+  media:
+  - type: image
+    link: https://rdl.ink/render/http%3A%2F%2Fwww.lucy-ives.com%2Farts-writing%2Fphone-call-with-sophie-calle
+    screenshot: true
+  tags: []
+  removed: false
+  created: '2023-02-21T11:00:11.177Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: lucy-ives.com
+  title: L Ives
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601530
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601530
+  link: http://www.lucy-ives.com/arts-writing/phone-call-with-sophie-calle
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/http%3A%2F%2Fwww.lucy-ives.com%2Farts-writing%2Fphone-call-with-sophie-calle
+  media:
+  - type: image
+    link: https://rdl.ink/render/http%3A%2F%2Fwww.lucy-ives.com%2Farts-writing%2Fphone-call-with-sophie-calle
+    screenshot: true
+  tags: []
+  removed: false
+  created: '2023-02-21T11:00:11.177Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: lucy-ives.com
+  title: L Ives
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601530
   important: true
   collectionId: 37456415
   parsed: {}
@@ -6500,38 +6529,6 @@
   important: true
   collectionId: 37456415
   parsed: {}
-- _id: 645601436
-  link: https://www.youtube.com/watch?v=bspAwTq0VfE
-  excerpt: ''
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/bspAwTq0VfE/maxresdefault.jpg
-  media:
-  - type: image
-    link: https://i.ytimg.com/vi/bspAwTq0VfE/maxresdefault.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:50:31.387Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: youtube.com
-  title: "-M- / GAIL ANN DORSEY - LIFE ON MARS @ Vieilles Charrues 2022"
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601436
-  important: true
-  collectionId: 37456415
-  parsed: {}
 - _id: 645601435
   link: https://anchor.fm/petit-journal-crea/episodes/5---La-cohrence-cardiaque-e1oidk7
   excerpt: ''
@@ -7300,6 +7297,38 @@
     name: bonjouryannick
     email: ''
   sort: 645601405
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601404
+  link: https://macwright.com/2022/09/15/hacker-news.html
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://macwright.com/images/2022-09-15-hacker-news-thumbnail-image.jpeg
+  media:
+  - type: image
+    link: https://macwright.com/images/2022-09-15-hacker-news-thumbnail-image.jpeg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:49:29.522Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: macwright.com
+  title: Hacker News
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601404
   important: true
   collectionId: 37456415
   parsed: {}
@@ -8876,70 +8905,6 @@
   important: true
   collectionId: 37456415
   parsed: {}
-- _id: 645601348
-  link: https://www.olow.fr/fr/blog/recit-aquatique-4
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://www.olow.fr/modules/hiblog/views/img/upload/original/2022/02/ClovisDonizetti_Olow_TL_01433-740x493.jpg
-  media:
-  - type: image
-    link: https://www.olow.fr/modules/hiblog/views/img/upload/original/2022/02/ClovisDonizetti_Olow_TL_01433-740x493.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:48:37.666Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: olow.fr
-  title: 'Récit aquatique #4'
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601348
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601348
-  link: https://www.olow.fr/fr/blog/recit-aquatique-4
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://www.olow.fr/modules/hiblog/views/img/upload/original/2022/02/ClovisDonizetti_Olow_TL_01433-740x493.jpg
-  media:
-  - type: image
-    link: https://www.olow.fr/modules/hiblog/views/img/upload/original/2022/02/ClovisDonizetti_Olow_TL_01433-740x493.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:48:37.666Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: olow.fr
-  title: 'Récit aquatique #4'
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601348
-  important: true
-  collectionId: 37456415
-  parsed: {}
 - _id: 645601346
   link: https://errr-magazine.com/daydream/
   excerpt: ''
@@ -9701,6 +9666,38 @@
     name: bonjouryannick
     email: ''
   sort: 645601318
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601317
+  link: https://www.theatlantic.com/magazine/archive/2022/03/why-we-are-never-satisfied-happiness/621304/
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://cdn.theatlantic.com/thumbor/MbyUrmcbspZ6xs9Q-JlAChfreuk=/0x43:2000x1085/1200x625/media/img/2022/02/WEL_Brooks_SatisfactionOpener/original.jpg
+  media:
+  - type: image
+    link: https://cdn.theatlantic.com/thumbor/MbyUrmcbspZ6xs9Q-JlAChfreuk=/0x43:2000x1085/1200x625/media/img/2022/02/WEL_Brooks_SatisfactionOpener/original.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:48:08.366Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: theatlantic.com
+  title: How to Want Less
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601317
   important: true
   collectionId: 37456415
   parsed: {}
@@ -17718,6 +17715,38 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 645601044
+  link: https://beside.media/fr/besiders/la-quete-dun-artisan-du-sel/
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2020/10/Thumbnail-03JacobsenExtras_Calisch_Web-9.jpg
+  media:
+  - type: image
+    link: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2020/10/Thumbnail-03JacobsenExtras_Calisch_Web-9.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:44:47.673Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: beside.media
+  title: La quête d’un artisan du sel
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601044
+  important: true
+  collectionId: 37456415
+  parsed: {}
 - _id: 645601042
   link: https://www.nytimes.com/2017/07/22/opinion/sunday/lets-get-excited-about-maintenance.html
   excerpt: ''
@@ -18482,38 +18511,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601019
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601018
-  link: https://beside.media/field-notes-of-a-new-forager/
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2020/06/emily_reed_thumbnail1.jpg
-  media:
-  - type: image
-    link: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2020/06/emily_reed_thumbnail1.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:44:24.342Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: beside.media
-  title: Field Notes of a New Forager
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601018
   important: true
   collectionId: 37456415
   parsed: {}
