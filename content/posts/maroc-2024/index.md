@@ -2,7 +2,7 @@
 title: "Entre Imsouane et Tamraght"
 slug: "/maroc-2024"
 color: yellow
-subtitle: "Mois noir au soleil"
+subtitle: "A en perdre mes clefs de voiture"
 favorite: true
 date: 2024-03-15
 emoji: "🇲🇦"
@@ -10,10 +10,10 @@ categories:
   - journal
 resources:
   - src: "*.webp"
-description: "Entre tente berbère et Riad avec piscine. Les mois noirs sont meilleurs au soleil."
+description: "Entre tente berbère et Riad avec piscine. Les mois noirs sont meilleurs au soleil. Sauf quand tu paumes les clefs de la voiture de location"
 ---
 
-Comme chaque année, on a fuit les mois noirs pour un peu de soleil. On a fait un mix de Imsouane et Tamraght. Le Maroc, c’est top. On a découvert un endroit fantastique pour dormir. Je vous conseille totalement le [Beldi Berber Camp](https://www.booking.com/hotel/ma/berber-beldi-camp.fr.html). On a adoré les tentes berbères, sa situation à deux pas d’Imsouane, le calme qu’il y règne et un staff super sympa! Bon, on avait quitté un bon coup de vent en Bretagne pour en retrouver un là-bas. Mais c’était avec le soleil et les sourires, donc ça marche. Fatima, qui bosse là, me disait préférer la pluie. Je pense que c’est parce que elle ne l’a pas comme en Bretagne parfois... Je lui laisse quand même le bénéfice du doute. Sa cuisine était fabuleuse! 
+Fin février, on a fuit les mois noirs pour un peu de soleil. On a fait un mix de Imsouane et Tamraght. Le Maroc, c’est top. On a découvert un endroit fantastique pour dormir. Je vous conseille totalement le [Beldi Berber Camp](https://www.booking.com/hotel/ma/berber-beldi-camp.fr.html). On a adoré les tentes berbères, sa situation à deux pas d’Imsouane, le calme qu’il y règne et un staff super sympa! Bon, on avait quitté un bon coup de vent en Bretagne pour en retrouver un là-bas. Mais c’était avec le soleil et les sourires, donc ça marche. Fatima, qui bosse là, me disait préférer la pluie. Je pense que c’est parce que elle ne l’a pas comme en Bretagne parfois... Je lui laisse quand même le bénéfice du doute. Sa cuisine était fabuleuse! 
 
 {{< grid images="YS294247 / YS294361 | YS294386" >}}
 
@@ -31,5 +31,8 @@ Un matin, nous décidons d’aller jusque Paradise Valley. Une vallée avec des 
 
 Au retour de cette mésaventure, on se retrouve bloqué face à un troupeau de chameaux (venez avec vos bosses, tout est chameau pour moi). J’arrête la voiture et laisse la magie s’opérer. Ils nous passent autour avec leurs bébés, dresseurs et ânes. Un moment magique qui n’aurait pas eu lieu si je n’avais pas perdu ces clés de voiture. Parfois, on dépense une heure pour retrouver ses clés pendant que les enfants jouent à la plaine de jeux. Tout le monde est gagnant sauf les gens pressés au final. Le Maroc nous apprend vraiment bien que ralentir est la clé. 
 
-
 ![](YS295064.webp)
+
+Je pourrais passer des heures à vous en dire plus sur ce voyage. Parler des autres mésaventures que l'on a eu. Mais en vrai, l'important c'est de comprendre que les mésaventures sont aussi des aventures. On en ri déjà, on les a bien vécu et surtout, c'était pas la majeure partie du séjour en fait. Sur les jours restants, on flânera dans des souks, on mangera de bons petits plats, on profitera de la plage, on admirera une punto passer une piste sur le sable. Des tonnes de vieilles peugeots, de vieux vans et de vieilles 4L peupleront mes photos. On partagera des iced latte, Tom prendre un kids latte. On s'est laissé porté par le soleil, on a pris notre temps pour s'imprégner de la façon de vivre locale. Je ne peux que conseiller le Maroc aux familles. Les gens sont tellement accueillants et bienveillants. On est rentré depuis une semaine et Louise demande encore si ce qu'elle entend c'est l'appel à la prière. Je pense que ce pays l'a marquée. Et nous aussi. 
+
+Vous pouvez aussi en apprendre plus sur les cafés que l'on a visité dans le [bonjour 51](/bonjour/51).
