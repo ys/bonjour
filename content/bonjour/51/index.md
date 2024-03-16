@@ -27,7 +27,7 @@ Au Maroc, on a aussi pu profiter des petits coffee shops qui poussent là bas. T
 
 Je me rend compte, qu’avec cette déconnexion, j’ai oublié de dire quelque chose depuis la dernière. Je tiens à remercier ceux qui nous ont soutenus pour la pétition! La quatrième classe ne fermera pas... normalement, car tout peut toujours changer. Enfin, pas cette année du moins. Il semblerait que l’obstination des pouvoirs supérieurs en face une possibilité constante. Faut bien avoir du budget pour les petits uniformes qu’on veut leur imposer. Me demande si c’est aussi Hugo Boss qui fera ceux-ci... Je divague. 
 
-Comme tu l'as peut-être lu dans l'intro, j'ai introduit un [ko-fi](https://ko-fi.com/bonjouryannick/tiers). Mon but est juste de payer les frais de cette newsletter et autres hébergements où j'écris. J'ai rajouté un tiers qui te coûte moins qu'un café par mois si cela te dit. A votre bon coeur comme on dit. Merci à ceux qui me supportent déjà d'une manière ou d'une autre. Vous vous reconnaîtrez.
+Comme tu l'as peut-être lu dans l'intro, j'ai introduit un [ko-fi](https://ko-fi.com/bonjouryannick/tiers). Mon but est juste de payer les frais de cette newsletter et autres hébergements où j'écris. J'ai rajouté un tiers qui te coûte moins qu'un café par mois si cela te dit. J'ai un peu suivi l'idée du [One a month club](https://oneamonth.club/) même si ici tout est gratuit pour vous. A votre bon coeur comme on dit. Merci à ceux qui me supportent déjà d'une manière ou d'une autre. Vous vous reconnaîtrez.
 
 Il est temps de vous laisser profiter!
 
