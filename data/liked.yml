@@ -19328,38 +19328,6 @@
   important: true
   collectionId: 37136909
   parsed: {}
-- _id: 645601718
-  link: https://www.youtube.com/watch?v=tXBsr2xtg28
-  excerpt: ''
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/tXBsr2xtg28/maxresdefault.jpg
-  media:
-  - type: image
-    link: https://i.ytimg.com/vi/tXBsr2xtg28/maxresdefault.jpg
-  tags: []
-  removed: false
-  created: '2023-09-04T18:52:08.568Z'
-  collection:
-    "$ref": collections
-    "$id": 37136909
-    oid: 37136909
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: youtube.com
-  title: Strategic Total Utter Neglect - Episode 5
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601784
-  important: true
-  collectionId: 37136909
-  parsed: {}
 - _id: 645601714
   link: https://www.youtube.com/watch?v=s-EKUGccLtM
   excerpt: ''
@@ -20125,6 +20093,38 @@
     name: bonjouryannick
     email: ''
   sort: 645601767
+  important: true
+  collectionId: 37136909
+  parsed: {}
+- _id: 645601612
+  link: https://www.youtube.com/watch?v=3TYiX266MPU
+  excerpt: ''
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/3TYiX266MPU/maxresdefault.jpg
+  media:
+  - type: image
+    link: https://i.ytimg.com/vi/3TYiX266MPU/maxresdefault.jpg
+  tags: []
+  removed: false
+  created: '2023-05-23T12:01:29.825Z'
+  collection:
+    "$ref": collections
+    "$id": 37136909
+    oid: 37136909
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: youtube.com
+  title: THE BONO "7 GHOSTS" thAt TiDAL wAve iN iNdOnESiA
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601766
   important: true
   collectionId: 37136909
   parsed: {}
