@@ -1,115 +1,4 @@
 ---
-- _id: 667447359
-  link: https://macwright.com/2019/01/02/paper-notes
-  title: Paper notes
-  excerpt: How I finally became the kind of person who carries a paper notebook and
-    a pen
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://macwright.com/images/2019-01-02-paper-notes-thumbnail-image.jpg
-  media:
-  - link: https://macwright.com/images/2019-01-02-paper-notes-thumbnail-image.jpg
-    type: image
-  - link: https://macwright.com/images/2019-01-02-paper-notes-time-not-topics.webp
-    type: image
-  - link: https://macwright.com/images/2019-01-02-paper-notes-simplicity-not-heaviness.webp
-    type: image
-  - link: https://macwright.com/images/2019-01-02-paper-notes-note-box.webp
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-10-25T10:26:03.172Z'
-  lastUpdate: '2023-12-06T10:11:59.101Z'
-  collection:
-    "$ref": collections
-    "$id": 38065957
-    oid: 38065957
-  highlights: []
-  domain: macwright.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 689990898
-  collectionId: 38065957
-  parsed: {}
-- _id: 661655598
-  link: https://sinanatra.github.io/turks/www/?utm_source=substack&utm_medium=email
-  title: Views from Mechanical Turk
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Fsinanatra.github.io%2Fturks%2Fwww%2F%3Futm_source%3Dsubstack%26utm_medium%3Demail
-  media:
-  - type: image
-    link: https://rdl.ink/render/https%3A%2F%2Fsinanatra.github.io%2Fturks%2Fwww%2F%3Futm_source%3Dsubstack%26utm_medium%3Demail
-    screenshot: true
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-10-15T21:00:24.154Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 38035089
-    oid: 38035089
-  highlights: []
-  domain: sinanatra.github.io
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 661655598
-  collectionId: 38035089
-  parsed: {}
-- _id: 661835293
-  link: https://www.lassosurf.com/aj-dungo
-  title: AJ Dungo | Lasso
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Fwww.lassosurf.com%2Faj-dungo
-  media:
-  - type: image
-    link: https://rdl.ink/render/https%3A%2F%2Fwww.lassosurf.com%2Faj-dungo
-    screenshot: true
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-10-16T07:34:15.873Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 37679989
-    oid: 37679989
-  highlights: []
-  domain: lassosurf.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 661835293
-  collectionId: 37679989
-  parsed: {}
 - _id: 645689207
   link: https://english.bouletcorp.com/2013/10/08/our-toyota-was-fantastic/
   title: Bouletcorp » Our Toyota was Fantastic.
@@ -677,48 +566,178 @@
   important: true
   collectionId: 37616522
   parsed: {}
-- _id: 656209699
-  link: https://www.wired.com/story/lego-haunted-by-its-own-plastic/?mc_cid=fa04558169&mc_eid=561e2e9468
-  title: Lego Is a Company Haunted by Its Own Plastic
-  excerpt: While the toy brand kills its plans for an oil-free plastic alternative,
-    it’s still pumping out billions of non-biodegradable bricks a year. Can Lego ever
-    be sustainable?
+- _id: 728761929
+  link: https://mail.paulineharmange.fr/archive/ce-quon-tolere/
+  title: Ce qu'on tolère
+  excerpt: 'Salut, Nouvelle année pour cette newsletter, et plus ou moins grands changements
+    : j’ai décidé de quitter la plateforme Substack, que j’utilisais depuis...'
   note: ''
   type: article
   user:
     "$ref": users
     "$id": 1617030
-  cover: https://media.wired.com/photos/651733d7f8a5c34a77706619/191:100/w_1280,c_limit/gear-Boxes%20of%20Lego%20are%20stacked%2023%20meters%20high%20in%20storage%20rooms%20holding%20around%20a%20billion%20bricks%20in%20total.%20Robotic%20cranes%20fetch%20decoration%20or%20packaging%20parts%20(shot%20in%202013)%20copy.jpg
+  cover: https://assets.buttondown.email/images/1917c4db-8d60-4d6f-8b04-15c925918f71.png
   media:
-  - link: https://media.wired.com/photos/651733d7f8a5c34a77706619/191:100/w_1280,c_limit/gear-Boxes%20of%20Lego%20are%20stacked%2023%20meters%20high%20in%20storage%20rooms%20holding%20around%20a%20billion%20bricks%20in%20total.%20Robotic%20cranes%20fetch%20decoration%20or%20packaging%20parts%20(shot%20in%202013)%20copy.jpg
-    type: image
-  - link: https://media.wired.com/photos/651733d7f8a5c34a77706619/master/w_1920,c_limit/gear-Boxes%20of%20Lego%20are%20stacked%2023%20meters%20high%20in%20storage%20rooms%20holding%20around%20a%20billion%20bricks%20in%20total.%20Robotic%20cranes%20fetch%20decoration%20or%20packaging%20parts%20(shot%20in%202013)%20copy.jpg
-    type: image
-  - link: https://media.wired.com/photos/651733d7b5d44c77522e235e/master/w_1600,c_limit/lego-gear-DSC08762.jpg
-    type: image
-  - link: https://media.wired.com/photos/651733d8540791b359043b25/master/w_1600,c_limit/lego-gear-DJI_0052.jpg
-    type: image
-  - link: https://media.wired.com/photos/64a8b56120abe9537824f8ed/16:9/w_640,h_450,c_limit/undefined
+  - link: https://assets.buttondown.email/images/1917c4db-8d60-4d6f-8b04-15c925918f71.png
     type: image
   tags: []
+  highlights: []
   important: true
-  reminder:
-    date: 
   removed: false
-  created: '2023-10-05T18:27:59.088Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
+  created: '2024-02-03T11:58:49.693Z'
+  lastUpdate: '2024-02-03T11:58:49.693Z'
   collection:
     "$ref": collections
     "$id": 37603939
     oid: 37603939
-  highlights: []
-  domain: wired.com
+  domain: mail.paulineharmange.fr
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 656209699
+  sort: 728761929
+  collectionId: 37603939
+  parsed: {}
+- _id: 728641270
+  link: https://gkeenan.co/avgb/rss-readers-make-me-want-to-jump-into-a-vat-of-acid
+  title: RSS readers make me want to jump into a vat of acid! — Keenan
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: ''
+  media: []
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2024-02-03T07:31:17.665Z'
+  lastUpdate: '2024-02-03T07:31:17.665Z'
+  collection:
+    "$ref": collections
+    "$id": 37603939
+    oid: 37603939
+  domain: gkeenan.co
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 728641270
+  collectionId: 37603939
+  parsed: {}
+- _id: 727025218
+  link: https://poorlydrawnlines.com/comic/purpose/
+  title: Purpose
+  excerpt: A thrice-weekly webcomic written and illustrated by Reza Farazmand. New
+    comics every Monday, Wednesday, and Friday.
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fpoorlydrawnlines.com%2Fcomic%2Fpurpose%2F
+  media: []
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2024-01-31T22:13:08.930Z'
+  lastUpdate: '2024-01-31T22:13:08.930Z'
+  collection:
+    "$ref": collections
+    "$id": 37603939
+    oid: 37603939
+  domain: poorlydrawnlines.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 727025218
+  collectionId: 37603939
+  parsed: {}
+- _id: 725224927
+  link: https://www.codycookparrott.com/common-shapes-1/leavinginstagram
+  title: Leaving Instagram or Exiting the Portal of the Validation Loop — CODY COOK-PARROTT
+  excerpt: Welcome to season two of Common Shapes! Since last season, I took a big
+    step in my life and logged out of Instagram for good.      So in this episode,
+    I’m going to share why I left and how I did it. Not from a place of knowing-it-all,
+    but by asking the question, “what does it actually mean to be don
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://static1.squarespace.com/static/56cf543362cd940a7c36ebeb/642cbd0f1e3e1c090c16c411/65561e9a03f619620d3df229/1700142913014/Untitled+design-17.png?format=1500w
+  media:
+  - link: http://static1.squarespace.com/static/56cf543362cd940a7c36ebeb/642cbd0f1e3e1c090c16c411/65561e9a03f619620d3df229/1700142913014/Untitled+design-17.png?format=1500w
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2024-01-29T10:18:01.820Z'
+  lastUpdate: '2024-01-29T10:18:01.820Z'
+  collection:
+    "$ref": collections
+    "$id": 37603939
+    oid: 37603939
+  domain: codycookparrott.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 725224927
+  collectionId: 37603939
+  parsed: {}
+- _id: 652078685
+  link: https://marleegrace.substack.com/p/i-quit-instagram
+  title: I quit Instagram
+  excerpt: Leaving a practice behind
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b6ddf52-825f-40a4-a35f-6bedc615c76f_2713x3618.jpeg
+  media:
+  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b6ddf52-825f-40a4-a35f-6bedc615c76f_2713x3618.jpeg
+    type: image
+  - link: https://substackcdn.com/image/fetch/w_720,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b6ddf52-825f-40a4-a35f-6bedc615c76f_2713x3618.jpeg
+    type: image
+  - link: https://substackcdn.com/image/fetch/w_720,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37c9c3ab-608f-430a-a71a-9b9aad43bf26_4032x3024.jpeg
+    type: image
+  - link: https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F61aa1826-b474-4217-a53c-08cb39e2b03e_4032x3024.jpeg
+    type: image
+  tags: []
+  removed: false
+  highlights:
+  - text: Talking to my neighbor about poop felt so much better than being addicted
+      to my phone
+    note: ''
+    created: '2023-09-26T07:38:19.621Z'
+    lastUpdate: '2023-09-26T07:38:19.622Z'
+    creatorRef: 1617030
+    _id: 65128a6b9af2b30c20332e0c
+  created: '2023-09-26T07:38:19.621Z'
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: marleegrace.substack.com
+  collection:
+    "$ref": collections
+    "$id": 37603939
+    oid: 37603939
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 652078685
+  important: true
   collectionId: 37603939
   parsed: {}
 - _id: 649176125
@@ -1214,6 +1233,80 @@
   sort: 645601531
   important: true
   collectionId: 37603939
+  parsed: {}
+- _id: 726732228
+  link: https://www.julienhay.fr/
+  title: Julien Hay
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://images.squarespace-cdn.com/content/v1/63f3784cc1bbbe433c573ea1/810bdc06-2292-4e77-8a4d-33b9850b4c65/Welcome%C2%A9Julien+Hay-14.JPG?format=1500w
+  media:
+  - link: https://images.squarespace-cdn.com/content/v1/63f3784cc1bbbe433c573ea1/810bdc06-2292-4e77-8a4d-33b9850b4c65/Welcome%C2%A9Julien+Hay-14.JPG?format=1500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/63f3784cc1bbbe433c573ea1/4bbec5d3-ff65-4440-ae6d-fa5ff67eafec/Welcome%C2%A9Julien+Hay-15.JPG?format=1500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/63f3784cc1bbbe433c573ea1/e222113b-82b2-480f-bf04-e6a9d7b27005/Welcome%C2%A9Julien+Hay-8.JPG?format=2500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/63f3784cc1bbbe433c573ea1/afa7d7ee-b6d6-49dc-9e80-00ce0848e922/Welcome%C2%A9Julien+Hay-3.JPG?format=1500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/63f3784cc1bbbe433c573ea1/86df3089-3335-469c-9b45-6ded39373a7b/Welcome%C2%A9Julien+Hay-7.JPG?format=2500w
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-01-31T13:40:23.495Z'
+  lastUpdate: '2024-01-31T13:40:28.242Z'
+  collection:
+    "$ref": collections
+    "$id": 37577000
+    oid: 37577000
+  highlights: []
+  domain: julienhay.fr
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 726732228
+  collectionId: 37577000
+  parsed: {}
+- _id: 722596917
+  link: https://www.josewalker.co.uk/photo
+  title: people — JOSE WALKER
+  excerpt: pieces of the year
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fwww.josewalker.co.uk%2Fphoto
+  media: []
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-01-26T22:16:57.733Z'
+  lastUpdate: '2024-01-26T22:17:03.565Z'
+  collection:
+    "$ref": collections
+    "$id": 37577000
+    oid: 37577000
+  highlights: []
+  domain: josewalker.co.uk
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 722596917
+  collectionId: 37577000
   parsed: {}
 - _id: 645601092
   link: http://www.meganshootsfilm.com/
@@ -2054,193 +2147,40 @@
   important: true
   collectionId: 37459371
   parsed: {}
-- _id: 667453299
-  link: https://thenineclub.com/blogs/episodes/jason-lee?_pos=1&_sid=373ebada4&_ss=r
-  title: Jason Lee
-  excerpt: Jason Lee discusses growing up in Southern California, first learning 360
-    flips in his backyard, meeting Mark Gonzales for the first time, skating Christian
-    Hosoi’s backyard vert ramp, getting on Blind Skateboards, filming for “Video Days”,
-    starting Blue Skateboards with Chris Pastras, why they ended Blue and start
-  note: |-
-    "Sometimes Live goes where it need to goes"
-
-    "The pleasure of the POW" 360 flip
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://thenineclub.com/cdn/shop/articles/Jason_Lee_Cover_Page.jpg?v=1647857377
-  media:
-  - link: http://thenineclub.com/cdn/shop/articles/Jason_Lee_Cover_Page.jpg?v=1647857377
-    type: image
-  - link: https://thenineclub.com/cdn/shop/files/Circle_Logo_On_Black_7bae31a6-28b2-43a3-b201-07d402146193_220x.png?v=1688154636
-    type: image
-  - link: https://thenineclub.com/cdn/shop/files/Discount_Banner_50_Percent_2_3fcf0bcf-ca39-45fc-8c3f-3f75bf681381_2000x.jpg?v=1694660377
-    type: image
-  - link: https://thenineclub.com/cdn/shop/products/StancexNineClubWhite_900x.jpg?v=1678321735
-    type: image
-  - link: https://thenineclub.com/cdn/shop/products/The_Nine_Club_Grey_Embroidered_Crew_Neck_900x.jpg?v=1556263515
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-10-25T11:08:26.009Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 37459360
-    oid: 37459360
-  highlights: []
-  domain: thenineclub.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 667453298
-  collectionId: 37459360
-  parsed: {}
-- _id: 664440440
-  link: https://simplemagic.substack.com/p/proof-of-life-small-victories-and
-  title: Proof of life, small victories, and vision | Simply Ranked
-  excerpt: 'Plus: Rob Pace doubles down, curse of the takes, making a skate video
-    with your friends, and more.'
+- _id: 725207923
+  link: https://99percentinvisible.org/episode/the-double-kick/
+  title: The Double Kick - 99% Invisible
+  excerpt: Watch a skate video today, and you’ll notice how similarly shaped the boards
+    are. It’s called the “popsicle” design, because the deck is narrow in the middle
+    and rounded off at both ends, like a popsicle stick. This may seem stupid simple,
+    but that basic, clean popsicle shape is actually the product of a lot of experimentation
+    and
   note: ''
   type: article
   user:
     "$ref": users
     "$id": 1617030
-  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff277a8d9-a199-4e1c-a225-88046d6574e0_1200x800.jpeg
+  cover: https://99percentinvisible.org/app/uploads/2024/01/pexels-josh-hild-2422264-728x520.jpg
   media:
-  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff277a8d9-a199-4e1c-a225-88046d6574e0_1200x800.jpeg
-    type: image
-  - link: https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff277a8d9-a199-4e1c-a225-88046d6574e0_1200x800.jpeg
-    type: image
-  - link: https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89f9bd44-d7c7-4a41-be92-04993e868463_787x182.png
-    type: image
-  - link: https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a5710b9-b06a-484e-a7f7-25dc7de85845_1074x1460.png
+  - link: https://99percentinvisible.org/app/uploads/2024/01/pexels-josh-hild-2422264-728x520.jpg
     type: image
   tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-10-20T20:36:54.656Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 37459360
-    oid: 37459360
-  highlights:
-  - text: Detach from the expectations of the internet. Take your time with projects
-      because you owe it to yourself to make something original to you. There is no
-      rush.
-    note: ''
-    created: '2023-10-20T20:36:54.640Z'
-    lastUpdate: '2023-10-20T20:38:14.039Z'
-    creatorRef: 1617030
-    _id: 6532e4e6142529d6cfbfec28
-  - text: To desire to keep up with what is going on is nearly impossible in the world
-      we live in. Whether that be the standards set by social media, tricks being
-      done or the temporary styles that come and go. I advise anyone to develop their
-      own relationship with whatever craft they take on.
-    note: ''
-    color: yellow
-    created: '2023-10-20T20:38:14.038Z'
-    lastUpdate: '2023-10-20T20:38:14.039Z'
-    creatorRef: 1617030
-    _id: 6532e5367a2344a90563fcef
-  domain: simplemagic.substack.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 664440439
-  collectionId: 37459360
-  parsed: {}
-- _id: 663894751
-  link: https://thpsfilm.com/
-  title: Pretending I'm a Superman – A documentary that tells the story of how skateboarding
-    became a part of the mainstream by focusing on the success of the "Tony Hawk's
-    Pro Skater" video game franchise.
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Fthpsfilm.com%2F
-  media:
-  - type: image
-    link: https://rdl.ink/render/https%3A%2F%2Fthpsfilm.com%2F
-    screenshot: true
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-10-19T19:05:49.042Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 37459360
-    oid: 37459360
   highlights: []
-  domain: thpsfilm.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 663894750
-  collectionId: 37459360
-  parsed: {}
-- _id: 661649863
-  link: https://archive.ph/SclnQ#selection-565.0-565.460
-  title: Tony Hawk Showed Me What’s Sacred About Cities - The New York Times
-  excerpt: archived 12 Oct 2023 08:56:20 UTC
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://archive.ph/SclnQ/9f0835d1a72257220cfe9de888885a2c671cbd9a/scr.png
-  media:
-  - link: https://archive.ph/SclnQ/9f0835d1a72257220cfe9de888885a2c671cbd9a/scr.png
-    type: image
-  - link: https://archive.ph/SclnQ/eb343f6b598c5eeb6c614f433335dc66c0ade067.webp
-    type: image
-  tags: []
+  important: true
   removed: false
-  highlights:
-  - text: In real life, skating is an art form that requires constant sacrifice, physical
-      pain and public embarrassment for the sake of an ephemeral few seconds of pure
-      beauty. You have to fall a thousand times before you succeed. The Tony Hawk
-      games aren’t concerned with that. They recreate the iterative satisfaction of
-      skating — the feeling that, with enough practice, you can do something miraculous
-      — without all the concussions, bloody knees and shattered wrists.
-    note: ''
-    created: '2023-10-15T20:45:10.138Z'
-    lastUpdate: '2023-10-15T20:45:10.139Z'
-    creatorRef: 1617030
-    _id: 652c4f56614c0b09de71eb2e
-  created: '2023-10-15T20:45:10.139Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: archive.ph
+  created: '2024-01-29T09:32:48.617Z'
+  lastUpdate: '2024-01-29T09:32:48.617Z'
   collection:
     "$ref": collections
     "$id": 37459360
     oid: 37459360
+  domain: 99percentinvisible.org
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 661649863
-  important: true
+  sort: 725207923
   collectionId: 37459360
   parsed: {}
 - _id: 645601707
@@ -3341,38 +3281,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601729
-  important: true
-  collectionId: 37456469
-  parsed: {}
-- _id: 645601484
-  link: https://macwright.com/2022/12/09/activitypub.html
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://macwright.com/images/2022-12-09-activitypub-thumbnail-image.jpg
-  media:
-  - type: image
-    link: https://macwright.com/images/2022-12-09-activitypub-thumbnail-image.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:52:47.478Z'
-  collection:
-    "$ref": collections
-    "$id": 37456469
-    oid: 37456469
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: macwright.com
-  title: Playing with ActivityPub
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601730
   important: true
   collectionId: 37456469
   parsed: {}
@@ -5755,6 +5663,38 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 645601469
+  link: https://www.youtube.com/watch?v=nD0VM0NWwSA
+  excerpt: ''
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/nD0VM0NWwSA/maxresdefault.jpg
+  media:
+  - type: image
+    link: https://i.ytimg.com/vi/nD0VM0NWwSA/maxresdefault.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:52:16.242Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: youtube.com
+  title: 'Jason Lee: The American Photo Roadtrip - An ILFORD Inspires film'
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601469
+  important: true
+  collectionId: 37456415
+  parsed: {}
 - _id: 645601468
   link: https://longboardermagazine.com/2022/09/izzy-henshall-rising-style/
   excerpt: ''
@@ -6522,6 +6462,38 @@
     name: bonjouryannick
     email: ''
   sort: 645601437
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601436
+  link: https://www.youtube.com/watch?v=bspAwTq0VfE
+  excerpt: ''
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/bspAwTq0VfE/maxresdefault.jpg
+  media:
+  - type: image
+    link: https://i.ytimg.com/vi/bspAwTq0VfE/maxresdefault.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:50:31.387Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: youtube.com
+  title: "-M- / GAIL ANN DORSEY - LIFE ON MARS @ Vieilles Charrues 2022"
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601436
   important: true
   collectionId: 37456415
   parsed: {}
@@ -7325,38 +7297,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601405
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601404
-  link: https://macwright.com/2022/09/15/hacker-news.html
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://macwright.com/images/2022-09-15-hacker-news-thumbnail-image.jpeg
-  media:
-  - type: image
-    link: https://macwright.com/images/2022-09-15-hacker-news-thumbnail-image.jpeg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:49:29.522Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: macwright.com
-  title: Hacker News
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601404
   important: true
   collectionId: 37456415
   parsed: {}
@@ -11361,39 +11301,6 @@
   important: true
   collectionId: 37456415
   parsed: {}
-- _id: 645601260
-  link: https://www.vans.eu/weirdwaves.html
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Fwww.vans.eu%2Fweirdwaves.html
-  media:
-  - type: image
-    link: https://rdl.ink/render/https%3A%2F%2Fwww.vans.eu%2Fweirdwaves.html
-    screenshot: true
-  tags: []
-  removed: false
-  created: '2023-01-26T19:47:19.379Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: vans.eu
-  title: Weird Waves News
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601260
-  important: true
-  collectionId: 37456415
-  parsed: {}
 - _id: 645601258
   link: https://beside.media/fr/nouveaux-recits/prompt-retablissement/
   excerpt: ''
@@ -13000,6 +12907,36 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 645601200
+  link: https://craigmod.com/membership/goodie_bucket/nightingalingale/
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: ''
+  media: []
+  tags: []
+  removed: false
+  created: '2023-01-26T19:46:36.822Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: craigmod.com
+  title: https://craigmod.com/membership/goodie_bucket/nightingalingale/
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601200
+  important: true
+  collectionId: 37456415
+  parsed: {}
 - _id: 645601199
   link: https://www.mangoandsalt.com/2021/10/07/7-photographes-contemporains-jadore/
   excerpt: ''
@@ -13765,38 +13702,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601176
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601175
-  link: https://www.fieldmag.com/articles/yawn-patrol-new-york-city-surfing-photo-book
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://images.ctfassets.net/r7p9m4b1iqbp/26n4BzS9WEth730XEKOEem/280045edd8642b8e14a80550c9b10732/Hoshi-Ludwig-Yawn-Patrol-NYC-Surfing-Book-Hero.jpg?w=1000
-  media:
-  - type: image
-    link: http://images.ctfassets.net/r7p9m4b1iqbp/26n4BzS9WEth730XEKOEem/280045edd8642b8e14a80550c9b10732/Hoshi-Ludwig-Yawn-Patrol-NYC-Surfing-Book-Hero.jpg?w=1000
-  tags: []
-  removed: false
-  created: '2023-01-26T19:46:17.650Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: fieldmag.com
-  title: Yawn Patrol's Photo Book Salutes the Vibes of NYC Surfing
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601175
   important: true
   collectionId: 37456415
   parsed: {}
@@ -14572,6 +14477,38 @@
     name: bonjouryannick
     email: ''
   sort: 645601151
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601150
+  link: https://beside.media/fr/nouveaux-recits/le-monde-utopique-du-vus/
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2021/05/BESIDE_newnarrative_SUV_facebook.jpg
+  media:
+  - type: image
+    link: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2021/05/BESIDE_newnarrative_SUV_facebook.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:57.199Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: beside.media
+  title: Le monde utopique du VUS
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601150
   important: true
   collectionId: 37456415
   parsed: {}
@@ -16178,6 +16115,38 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 645601098
+  link: https://reallifemag.com/easy-answers/
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://reallifemag.com/wp-content/uploads/2020/12/unnamed-1024x683.jpg
+  media:
+  - type: image
+    link: https://reallifemag.com/wp-content/uploads/2020/12/unnamed-1024x683.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:24.276Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: reallifemag.com
+  title: Easy Answers — Real Life
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601098
+  important: true
+  collectionId: 37456415
+  parsed: {}
 - _id: 645601097
   link: https://www.technologyreview.com/2021/01/06/1015779/what-buddhism-can-do-ai-ethics
   excerpt: ''
@@ -16950,38 +16919,6 @@
   important: true
   collectionId: 37456415
   parsed: {}
-- _id: 645601070
-  link: https://daydreamsurfshop.com/pages/coffee-1
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://cdn.shopify.com/s/files/1/1046/5210/files/blossomsplash_army_4x.png?height=628&pad_color=ffffff&v=1613665743&width=1200
-  media:
-  - type: image
-    link: https://cdn.shopify.com/s/files/1/1046/5210/files/blossomsplash_army_4x.png?height=628&pad_color=ffffff&v=1613665743&width=1200
-  tags: []
-  removed: false
-  created: '2023-01-26T19:45:06.056Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: daydreamsurfshop.com
-  title: Coffee 1
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601070
-  important: true
-  collectionId: 37456415
-  parsed: {}
 - _id: 645601069
   link: https://www.julian.com/guide/write/intro
   excerpt: ''
@@ -17741,6 +17678,38 @@
     name: bonjouryannick
     email: ''
   sort: 645601045
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601044
+  link: https://beside.media/fr/besiders/la-quete-dun-artisan-du-sel/
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2020/10/Thumbnail-03JacobsenExtras_Calisch_Web-9.jpg
+  media:
+  - type: image
+    link: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2020/10/Thumbnail-03JacobsenExtras_Calisch_Web-9.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:44:47.673Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: beside.media
+  title: La quête d’un artisan du sel
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601044
   important: true
   collectionId: 37456415
   parsed: {}
@@ -18540,38 +18509,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601019
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601018
-  link: https://beside.media/field-notes-of-a-new-forager/
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2020/06/emily_reed_thumbnail1.jpg
-  media:
-  - type: image
-    link: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2020/06/emily_reed_thumbnail1.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:44:24.342Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: beside.media
-  title: Field Notes of a New Forager
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601018
   important: true
   collectionId: 37456415
   parsed: {}
@@ -20995,38 +20932,6 @@
   important: true
   collectionId: 37136909
   parsed: {}
-- _id: 645601450
-  link: https://vimeo.com/758410646?embedded=true
-  excerpt: ''
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.vimeocdn.com/video/1535925246-f80d8d8ba4a9e00ca81fcbe5582b13c75d59146e80f3cd3e7e374aa381d64ac7-d_295x166
-  media:
-  - type: image
-    link: https://i.vimeocdn.com/video/1535925246-f80d8d8ba4a9e00ca81fcbe5582b13c75d59146e80f3cd3e7e374aa381d64ac7-d_295x166
-  tags: []
-  removed: false
-  created: '2023-01-26T19:51:29.560Z'
-  collection:
-    "$ref": collections
-    "$id": 37136909
-    oid: 37136909
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: vimeo.com
-  title: AMBLE
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601752
-  important: true
-  collectionId: 37136909
-  parsed: {}
 - _id: 645601443
   link: https://www.youtube.com/watch?v=MugIoMXhcQ0
   excerpt: ''
@@ -21793,6 +21698,38 @@
     name: bonjouryannick
     email: ''
   sort: 645601742
+  important: true
+  collectionId: 37136909
+  parsed: {}
+- _id: 645601083
+  link: https://vimeo.com/467260863
+  excerpt: ''
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.vimeocdn.com/video/973575352-d9d85d9cbf66074e38a8b0b6c157fb11fdd6b34909caed0a75cdcb06615d03b4-d?f=webp
+  media:
+  - type: image
+    link: https://i.vimeocdn.com/video/973575352-d9d85d9cbf66074e38a8b0b6c157fb11fdd6b34909caed0a75cdcb06615d03b4-d?f=webp
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:15.119Z'
+  collection:
+    "$ref": collections
+    "$id": 37136909
+    oid: 37136909
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: vimeo.com
+  title: LÉGENDAIRES, UNE CERTAINE HISTOIRE DU SURF BRETON
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601713
   important: true
   collectionId: 37136909
   parsed: {}
@@ -22614,6 +22551,103 @@
   important: true
   collectionId: 37136905
   parsed: {}
+- _id: 645601638
+  link: https://climateandboardsports.substack.com/p/we-cant-be-well-if-the-water-isnt
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42298f86-6c6e-43a6-8e55-080ac0e0102c_3936x2624.jpeg
+  media:
+  - type: image
+    link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42298f86-6c6e-43a6-8e55-080ac0e0102c_3936x2624.jpeg
+  tags: []
+  removed: false
+  created: '2023-06-08T18:24:05.177Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: climateandboardsports.substack.com
+  title: "“We can’t be well if the water isn’t well…”"
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601705
+  important: true
+  collectionId: 37136905
+  parsed: {}
+- _id: 645601637
+  link: https://longboardermagazine.com/2023/06/errant-logs-and-damaged-hipster-egos-the-leash-debate-rages-in-byron-bay/
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://longboardermagazine.com/wp-content/uploads/2023/06/Untitled-design-2-1024x512.png
+  media:
+  - type: image
+    link: https://longboardermagazine.com/wp-content/uploads/2023/06/Untitled-design-2-1024x512.png
+  tags: []
+  removed: false
+  created: '2023-06-05T20:56:54.223Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: longboardermagazine.com
+  title: 'Errant logs and damaged hipster egos: the leash debate rages in Byron Bay
+    - Longboarder Magazine'
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601707
+  important: true
+  collectionId: 37136905
+  parsed: {}
+- _id: 645601636
+  link: https://finisterre.com/blogs/broadcast/pride-a-letter-to-my-younger-self
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://finisterre.com/cdn/shop/articles/Letter-To-My-Younger-Self-Web.jpg?v=1685546022
+  media:
+  - type: image
+    link: https://finisterre.com/cdn/shop/articles/Letter-To-My-Younger-Self-Web.jpg?v=1685546022
+  tags: []
+  removed: false
+  created: '2023-06-04T18:50:54.655Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: finisterre.com
+  title: 'Pride: A Letter To My Younger Self'
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601712
+  important: true
+  collectionId: 37136905
+  parsed: {}
 - _id: 645601631
   link: https://longboardermagazine.com/2023/05/soul-surfer/
   excerpt: ''
@@ -23230,119 +23264,250 @@
   important: true
   collectionId: 36308012
   parsed: {}
-- _id: 727691893
-  link: https://jamesg.blog/2024/01/27/the-indie-web/
-  title: The indie web | James' Coffee Blog
-  excerpt: I went twenty-two years not knowing how to cook an egg. Cooking classes
-    were a rough time for an anxious student like I was. I did not know I was suffering
-    from anxiety at the time; that is a recent realisation. Being open about anxiety
-    is a challenge. How you think, when written as a raw thought, might have undertones
-    of paranoia. I was worried about cooking an egg, without knowing my exact worries.
-    For other foods, my worry was always food poisioning; if I cook, I'll get ill.
+- _id: 694087075
+  link: https://twitter.com/dark1x/status/1734856717144293697/photo/1
+  title: 'John Linneman @dark1x.bsky.social on X: "This is truly amazing. Playing
+    Link''s Awakening at 1:1 pixel scale with 120 fps scrolling - you can zoom the
+    map alllll the way out and the entire world is active. https://t.co/H1ZLpd3sqy
+    https://t.co/wVjqhzAVu6" / X'
+  excerpt: This is truly amazing. Playing Link's Awakening at 1:1 pixel scale with
+    120 fps scrolling - you can zoom the map alllll the way out and the entire world
+    is active.https://t.co/H1ZLpd3sqy pic.twitter.com/wVjqhzAVu6— John Linneman @dark1x.bsky.social
+    (@dark1x) December 13, 2023
   note: ''
-  type: article
+  type: link
   user:
     "$ref": users
     "$id": 1617030
-  cover: https://screenshots.jamesg.blog/?url=https://jamesg.blog/2024/01/27/the-indie-web/
+  cover: https://pbs.twimg.com/media/GBNy-0MWQAAhAGx?format=jpg&name=4096x4096
   media:
-  - link: https://screenshots.jamesg.blog/?url=https://jamesg.blog/2024/01/27/the-indie-web/
+  - link: https://pbs.twimg.com/media/GBNy-0MWQAAhAGx?format=jpg&name=4096x4096
+    type: image
+  - link: https://pbs.twimg.com/media/GBN1SxeaUAA56Wk?format=jpg&name=medium
+    type: image
+  - link: https://pbs.twimg.com/media/GBNy-0MWQAAhAGx?format=jpg&name=medium
+    type: image
+  - link: https://pbs.twimg.com/card_img/1733367298155589633/8iMD3HMB?format=jpg&name=small
     type: image
   tags: []
   important: true
   reminder:
     date: 
   removed: false
-  created: '2024-02-01T19:45:47.151Z'
-  lastUpdate: '2024-02-01T19:45:48.583Z'
+  created: '2023-12-13T17:35:19.819Z'
+  lastUpdate: '2023-12-13T17:35:21.421Z'
   collection:
     "$ref": collections
-    "$id": -1
-    oid: -1
+    "$id": 39911296
+    oid: 39911296
   highlights: []
-  domain: jamesg.blog
+  domain: twitter.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 727691893
-  collectionId: -1
+  sort: 694087075
+  collectionId: 39911296
   parsed: {}
-- _id: 727024939
-  link: https://winnielim.org/journal/the-experience-of-completing-a-sketchbook-for-my-japan-trip/
-  title: the experience of completing a sketchbook for my japan trip
-  excerpt: Last year I started sketching, and for the first time in my life I started
-    bringing art materials on my travels. I did the same when I went to Japan, except
-    a couple of days into the trip at a...
+- _id: 690754471
+  link: https://www.youtube.com/watch?v=bm51ihfi1p4
+  title: Ramones - I Wanna Be Sedated (Official Music Video)
+  excerpt: |-
+    You're watching the official music video for the Ramones - 'I Wanna Be Sedated' from the 1978 album 'Road To Ruin'. Check out 'I Wanna Be Sedated' in the new Spider-Man: Far From Home trailer https://www.youtube.com/watch?v=DYYtuKyMtY8
+
+    Director: Bill Fishman
+
+    Subscribe to the Rhino Channel! https://Rhino.lnk.to/YouTubeSubID
+
+    Check Out Our Favorite Playlists:
+    Classic Rock https://Rhino.lnk.to/YTClassicRockID
+    80s Hits https://Rhino.lnk.to/YT80sHitsID
+    80s Hard Rock https://Rhino.lnk.to/YT80sHardRockID
+    80s Alternative https://Rhino.lnk.to/YT80sAlternativeID
+    90s Hits https://Rhino.lnk.to/YT90sHitsID
+
+    Stay connected with RHINO on...
+    Facebook https://www.facebook.com/RHINO/
+    Instagram https://www.instagram.com/rhino_records
+    Twitter https://twitter.com/Rhino_Records
+    Website https://www.rhino.com/
+
+    Lyrics:
+    Twenty-twenty-twenty four hours to go
+    I wanna be sedated
+    Nothing to do nowhere to go-o-oh
+    I wanna be sedated
+
+    Just get me to the airport, put me on a plane
+    Hurry, hurry, hurry before I go insane
+    I can't control my fingers, I can't control my brain
+    Oh no-o-o-o-o
+
+    Twenty-twenty-twenty four hours to go
+    I wanna be sedated
+    Nothing to do nowhere to go-o-oh
+    I wanna be sedated
+
+    Just put me in a wheelchair, get me on a plane
+    Hurry, hurry, hurry before I go insane
+    I can't control my fingers, I can't control my brain
+    Oh no-o-o-o-o
+
+    Twenty-twenty-twenty four hours to go
+    I wanna be sedated
+    Nothing to do nowhere to go-o-oh
+    I wanna be sedated
+
+    Just put me in a wheelchair, get me to the show
+    Hurry, hurry, hurry before I go loco
+    I can't control my fingers, I can't control my toes
+    Oh no-o-o-o-o
+
+    Twenty-twenty-twenty four hours to go
+    I wanna be sedated
+    Nothing to do nowhere to go-o-oh
+    I wanna be sedated
+
+    Just put me in a wheelchair, get me to the show
+    Hurry, hurry, hurry before I go loco
+    I can't control my fingers, I can't control my toes
+    Oh no-o-o-o-o
+
+    Ba ba baba, baba ba baba, I wanna be sedated
+    Ba ba baba, baba ba baba, I wanna be sedated
+    Ba ba baba, baba ba baba, I wanna be sedated
+    Ba ba baba, baba ba baba, I wanna be sedated
+
+    ****************************************************
+
+    RHINO is the official YouTube channel of the greatest music catalog in the world. Founded in 1978, Rhino is the world's leading pop culture label specializing in classic rock, soul, and 80's and 90's alternative. The vast Rhino catalog of more than 5,000 albums, videos, and hit songs features material by Warner Music Group artists such as Van Halen, Duran Duran, Aretha Franklin, Ray Charles, The Doors, Chicago, Black Sabbath, John Coltrane, Yes, Alice Cooper, Linda Ronstadt, The Ramones, The Monkees, Carly Simon, and Curtis Mayfield, among many others. Check back for classic music videos, live performances, hand-curated playlists, the Rhino Podcast, and more!
   note: ''
-  type: article
+  type: video
   user:
     "$ref": users
     "$id": 1617030
-  cover: https://winnielim.org/wp-content/uploads/2024/01/20240111-IMG_20240111_0011.jpg
+  cover: https://i.ytimg.com/vi/bm51ihfi1p4/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGHIgTSg1MA8=&rs=AOn4CLDqqnzhJs7eN6PWn22tSfWIlvnWKg
   media:
-  - link: https://winnielim.org/wp-content/uploads/2024/01/20240111-IMG_20240111_0011.jpg
-    type: image
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2024-01-31T22:10:54.767Z'
-  lastUpdate: '2024-01-31T22:10:54.767Z'
-  collection:
-    "$ref": collections
-    "$id": -1
-    oid: -1
-  domain: winnielim.org
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 727024939
-  collectionId: -1
-  parsed: {}
-- _id: 667447359
-  link: https://macwright.com/2019/01/02/paper-notes
-  title: Paper notes
-  excerpt: How I finally became the kind of person who carries a paper notebook and
-    a pen
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://macwright.com/images/2019-01-02-paper-notes-thumbnail-image.jpg
-  media:
-  - link: https://macwright.com/images/2019-01-02-paper-notes-thumbnail-image.jpg
-    type: image
-  - link: https://macwright.com/images/2019-01-02-paper-notes-time-not-topics.webp
-    type: image
-  - link: https://macwright.com/images/2019-01-02-paper-notes-simplicity-not-heaviness.webp
-    type: image
-  - link: https://macwright.com/images/2019-01-02-paper-notes-note-box.webp
+  - link: https://i.ytimg.com/vi/bm51ihfi1p4/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGHIgTSg1MA8=&rs=AOn4CLDqqnzhJs7eN6PWn22tSfWIlvnWKg
     type: image
   tags: []
   important: true
   reminder:
     date: 
   removed: false
-  created: '2023-10-25T10:26:03.172Z'
-  lastUpdate: '2023-12-06T10:11:59.101Z'
+  created: '2023-12-07T10:16:58.472Z'
+  lastUpdate: '2023-12-07T10:16:59.786Z'
   collection:
     "$ref": collections
-    "$id": 38065957
-    oid: 38065957
+    "$id": 39748190
+    oid: 39748190
   highlights: []
-  domain: macwright.com
+  domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 689990898
-  collectionId: 38065957
+  sort: 690754471
+  collectionId: 39748190
+  parsed: {}
+- _id: 690754394
+  link: https://www.youtube.com/watch?v=LUEYNuVeA9Y
+  title: blink-182 - DANCE WITH ME (Official Video)
+  excerpt: "Official Video for “DANCE WITH ME” by blink-182\n \nListen to & Download
+    “DANCE WITH ME” out now: https://blink182.lnk.to/DANCEWITHME\n \n“ONE MORE TIME…”
+    the new album from blink-182 is out October 20th!\nPre-Order: https://blink182.lnk.to/ONEMORETIME\nPre-Save/Pre-Add:
+    https://blink182.lnk.to/presaveOMT\n \nFollow blink-182:\nhttp://facebook.com/blink182\nhttp://instagram.com/blink182\nhttp://twitter.com/blink182\nhttps://www.tiktok.com/@blink182\nhttps://www.blink182.com\n\nCredits:\nDirectors
+    - The Malloys\nProduction Company - Our Secret Handshake\nProducers – Saul Levitz,
+    Daniel Pappas, & Laura Burhenn\nLine Producer - Erikx DiSantis\nDP - Scott Henriksen\nProduction
+    Manager - Fia Oruene\n1st AD - Matthew Sanchez\n2nd AD - Max Wilbur\n1st AC -
+    Dennis Lynch\n2nd AC / Loader - Jay Hardie\nSound Mixer - Christopher Cole\nGaffer
+    - Nghia Khuu\nBBE - Danny Franco \nBBE - Victoria Chenoweth \nElectric - Jeanne
+    Mallioux\nElectric - Anthony Peluso\nKey Grip - Mike Prim\nBBG - Carlos Chavez\nGrip
+    Driver - Damian Vega\nGrip - Chad Pelsang\nGrip - Ryan Girkins\nProduction Designer
+    - Taylor Almodovar\nArt Director - Justin Gardner\nCarpenters - Mike Buckman,
+    Eric Verduyn, Andrian Brown & Jacob Buckman\nScenic Painters - Daniel Diaz & Daniel
+    Gutierrez\nSet Decorator - Keith Boos\nProp Master/On Set Dresser - Georgia Kelly
+    Moran\nSet Dressers - Laura Revel & Jared Piller\nTruck PA - Alex Hansen\nPAs
+    - Laurence Geronilla, Nolan Tiongco, Cole Malloy & Rolando Rodas\nCreative Consultant
+    - Bryan Turcotte\nCostumer - Julie Vogel\nStylist Assts - Mynka Draper & Benett
+    Rogers\nTailor - Elisabeth Heszky\nTravis Barker Stylist - Christopher Kim\nblink-182
+    Hair Stylist - Jerrod Roberts\nblink-182 Groomer - Fabiola Arancibia\nCast HMUA
+    - Mayra Godoy\nCast HMUA Assist - Sopheap Guzman\nLocation - Fat Eye Studios\nSIte
+    Rep - Haanz Noël \n \nPOST\nEditor - Cole Malloy\nPost Production - JAMM\nColorist
+    - Beau Leon\nColor Assist - Aldo Rosati\nExec Producer - Ashley Greyson\nColor
+    Producer - Dan Ginks\n \nCAST\nInterviewer - Lisa Gilroy \nNurse - Madison Sinclair
+    \nDoctor - Chris Candy\nBride - Ryann Bossetti\nBowtie Smoker - Fia Oruene\nTwo
+    Kids - Henry Malloy & Gus Malloy\nWoman in Curlers - Betsy Malloy \nCowboy - Rosendo\nPinhead
+    - Cole Malloy\nSchool Girl - Madeleine Ours\nMugger- Robert Rexx\nAcrobat - Clinton
+    Anthony Haddix\nBallerina - Anastasiia Bratchenko\nCheerleader - Bria St. Julien\nConstruction
+    Worker - Kylan Hanson\nFlamenco Dancer - Brigitt Rocha\nUnicyclist - Ian Steven
+    Peterson\n  \nLyrics:\nWhen I teach masturbation, I’m always just like, “have
+    fun with it”\n \nDon’t think maybe she won’t refuse\nShe knows everything that
+    I think \nThat girl, prettiest I could lose\nMy games, shittiest I could be\nI’ve
+    been waiting around to lose\nSo dumb, trying to make believe\nYou’re mine, what
+    are you gonna do \nCome here, do you want to come dance with me?\n \nTellin’ your
+    friends, you know you want to (dance with me)\nShaking those hips like the devil’s
+    got you (dance with me)\nWaiting all night, cause now I want you (dance with me)\nEyeing
+    that chance, here we go I got you (dance with me)\n \nOlé, Olé, Olé, Olé, Olé,
+    Olé\nYeah! We’re doing it all night long\nOlé, Olé, Olé, Olé, Olé, Olé\nYeah!
+    We’re doing it all night long\nOlé, Olé, Olé, Olé, Olé, Olé\nYeah! We’re doing
+    it all night long\nOlé, Olé, Olé, Olé, Olé, Olé\nYeah! We’re doing it all night
+    long\n \nThis song is making me beg for more \nThese drinks breaking up old routines\nMy
+    mind, pushing me out the door\nSo fucked, wishing I weren’t so green\nMe you,
+    won’t you just fall in love\nLike me, or am I just too naïve \nTonight, it’s getting
+    a bit too rough\nBut now, really wanting to make her scream \n \nTellin’ your
+    friends, you know you want to (dance with me)\nShaking those hips like the devil’s
+    got you (dance with me)\nWaiting all night, cause now I want you (dance with me)\nEyeing
+    that chance, here we go I got you (dance with me)\n \nOlé, Olé, Olé, Olé, Olé,
+    Olé\nYeah! We’re doing it all night long\nOlé, Olé, Olé, Olé, Olé, Olé\nYeah!
+    We’re doing it all night long\nOlé, Olé, Olé, Olé, Olé, Olé\nYeah! We’re doing
+    it all night long\nOlé, Olé, Olé, Olé, Olé, Olé\nYeah! We’re doing it all night
+    long\n \nDance with me, come dance with me \nDance with me, come dance with me\nBeen
+    doing it all night long\n \nOlé, Olé, Olé, Olé, Olé, Olé\nYeah! We’re doing it
+    all night long\nOlé, Olé, Olé, Olé, Olé, Olé\nYeah! We’re doing it all night long\nOlé,
+    Olé, Olé, Olé, Olé, Olé\nYeah! We’re doing it all night long\nOlé, Olé, Olé, Olé,
+    Olé, Olé\nYeah! We’re doing it all night long\n \nYou beat my heart from miles
+    away\nYeah! We’re doing it all night long \nYou spin me like a hurricane\nYeah!
+    We’re doing it all night long\nYou like to play your little games\nYeah! We’re
+    playing them all night long\nI’d like to have you every day, every way\nAnd do
+    it all night long\n \n#blink182 #DANCEWITHME #ONEMORETIME"
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/LUEYNuVeA9Y/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/LUEYNuVeA9Y/maxresdefault.jpg
+    type: image
+  - link: https://i.ytimg.com/vi/i53RECkNMsg/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAumAmeu_jsQ2lRq4c4510h8dGFDw
+    type: image
+  - link: https://i.ytimg.com/vi/A5IqxRUypdk/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCRCQXJ2t9PgY-KH0hZDZX8y_3pPQ
+    type: image
+  - link: https://i.ytimg.com/vi/zIMPoTix5Nc/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCR5Cto_q2259hSUaMVNZpgk4WFuQ
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-07T10:16:19.776Z'
+  lastUpdate: '2023-12-07T10:16:38.269Z'
+  collection:
+    "$ref": collections
+    "$id": 39748190
+    oid: 39748190
+  highlights: []
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 690754394
+  collectionId: 39748190
   parsed: {}
 - _id: 655169215
   link: https://ia.net/topics/daily-writing-habit-emergency-kit
@@ -23386,6 +23551,75 @@
   sort: 655169215
   important: true
   collectionId: 38065957
+  parsed: {}
+- _id: 693261358
+  link: https://sublime.app/?index
+  title: Sublime
+  excerpt: Experience a calmer, more human Internet
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://sublime.app/landing-preview.png
+  media:
+  - link: https://sublime.app/landing-preview.png
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-12T10:36:44.574Z'
+  lastUpdate: '2023-12-12T10:36:46.961Z'
+  collection:
+    "$ref": collections
+    "$id": 38035089
+    oid: 38035089
+  highlights: []
+  domain: sublime.app
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 693261358
+  collectionId: 38035089
+  parsed: {}
+- _id: 689975076
+  link: https://home.omg.lol/
+  title: omg.lol - A lovable web page and email address, just for you
+  excerpt: Treat yourself to an awesome web address, a devastatingly gorgeous profile
+    page, a stellar email address, and tons more
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://cdn.cache.lol/img/social_card_2022-06-23.png
+  media:
+  - link: https://cdn.cache.lol/img/social_card_2022-06-23.png
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-06T08:48:03.697Z'
+  lastUpdate: '2023-12-06T08:48:07.825Z'
+  collection:
+    "$ref": collections
+    "$id": 38035089
+    oid: 38035089
+  highlights: []
+  domain: home.omg.lol
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 689975076
+  collectionId: 38035089
   parsed: {}
 - _id: 689082541
   link: https://garden.vincentli.space/making-a-place-on-the-web---garden
@@ -23820,41 +24054,6 @@
   sort: 663604501
   collectionId: 38035089
   parsed: {}
-- _id: 661655598
-  link: https://sinanatra.github.io/turks/www/?utm_source=substack&utm_medium=email
-  title: Views from Mechanical Turk
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Fsinanatra.github.io%2Fturks%2Fwww%2F%3Futm_source%3Dsubstack%26utm_medium%3Demail
-  media:
-  - type: image
-    link: https://rdl.ink/render/https%3A%2F%2Fsinanatra.github.io%2Fturks%2Fwww%2F%3Futm_source%3Dsubstack%26utm_medium%3Demail
-    screenshot: true
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-10-15T21:00:24.154Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 38035089
-    oid: 38035089
-  highlights: []
-  domain: sinanatra.github.io
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 661655598
-  collectionId: 38035089
-  parsed: {}
 - _id: 655183090
   link: http://www.johnnycashhasbeeneverywhere.com/
   title: Johnny Cash Has Been Everywhere (Man)!
@@ -24055,41 +24254,6 @@
     name: bonjouryannick
     email: ''
   sort: 674398767
-  collectionId: 37679989
-  parsed: {}
-- _id: 661835293
-  link: https://www.lassosurf.com/aj-dungo
-  title: AJ Dungo | Lasso
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Fwww.lassosurf.com%2Faj-dungo
-  media:
-  - type: image
-    link: https://rdl.ink/render/https%3A%2F%2Fwww.lassosurf.com%2Faj-dungo
-    screenshot: true
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-10-16T07:34:15.873Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 37679989
-    oid: 37679989
-  highlights: []
-  domain: lassosurf.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 661835293
   collectionId: 37679989
   parsed: {}
 - _id: 687832802
@@ -24977,50 +25141,6 @@
   sort: 664446751
   collectionId: 37603939
   parsed: {}
-- _id: 656209699
-  link: https://www.wired.com/story/lego-haunted-by-its-own-plastic/?mc_cid=fa04558169&mc_eid=561e2e9468
-  title: Lego Is a Company Haunted by Its Own Plastic
-  excerpt: While the toy brand kills its plans for an oil-free plastic alternative,
-    it’s still pumping out billions of non-biodegradable bricks a year. Can Lego ever
-    be sustainable?
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://media.wired.com/photos/651733d7f8a5c34a77706619/191:100/w_1280,c_limit/gear-Boxes%20of%20Lego%20are%20stacked%2023%20meters%20high%20in%20storage%20rooms%20holding%20around%20a%20billion%20bricks%20in%20total.%20Robotic%20cranes%20fetch%20decoration%20or%20packaging%20parts%20(shot%20in%202013)%20copy.jpg
-  media:
-  - link: https://media.wired.com/photos/651733d7f8a5c34a77706619/191:100/w_1280,c_limit/gear-Boxes%20of%20Lego%20are%20stacked%2023%20meters%20high%20in%20storage%20rooms%20holding%20around%20a%20billion%20bricks%20in%20total.%20Robotic%20cranes%20fetch%20decoration%20or%20packaging%20parts%20(shot%20in%202013)%20copy.jpg
-    type: image
-  - link: https://media.wired.com/photos/651733d7f8a5c34a77706619/master/w_1920,c_limit/gear-Boxes%20of%20Lego%20are%20stacked%2023%20meters%20high%20in%20storage%20rooms%20holding%20around%20a%20billion%20bricks%20in%20total.%20Robotic%20cranes%20fetch%20decoration%20or%20packaging%20parts%20(shot%20in%202013)%20copy.jpg
-    type: image
-  - link: https://media.wired.com/photos/651733d7b5d44c77522e235e/master/w_1600,c_limit/lego-gear-DSC08762.jpg
-    type: image
-  - link: https://media.wired.com/photos/651733d8540791b359043b25/master/w_1600,c_limit/lego-gear-DJI_0052.jpg
-    type: image
-  - link: https://media.wired.com/photos/64a8b56120abe9537824f8ed/16:9/w_640,h_450,c_limit/undefined
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-10-05T18:27:59.088Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 37603939
-    oid: 37603939
-  highlights: []
-  domain: wired.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 656209699
-  collectionId: 37603939
-  parsed: {}
 - _id: 655012672
   link: https://stephango.com/buy-wisely
   title: Buy wisely
@@ -25171,6 +25291,51 @@
     name: bonjouryannick
     email: ''
   sort: 653725178
+  important: true
+  collectionId: 37603939
+  parsed: {}
+- _id: 652078685
+  link: https://marleegrace.substack.com/p/i-quit-instagram
+  title: I quit Instagram
+  excerpt: Leaving a practice behind
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b6ddf52-825f-40a4-a35f-6bedc615c76f_2713x3618.jpeg
+  media:
+  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b6ddf52-825f-40a4-a35f-6bedc615c76f_2713x3618.jpeg
+    type: image
+  - link: https://substackcdn.com/image/fetch/w_720,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b6ddf52-825f-40a4-a35f-6bedc615c76f_2713x3618.jpeg
+    type: image
+  - link: https://substackcdn.com/image/fetch/w_720,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37c9c3ab-608f-430a-a71a-9b9aad43bf26_4032x3024.jpeg
+    type: image
+  - link: https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F61aa1826-b474-4217-a53c-08cb39e2b03e_4032x3024.jpeg
+    type: image
+  tags: []
+  removed: false
+  highlights:
+  - text: Talking to my neighbor about poop felt so much better than being addicted
+      to my phone
+    note: ''
+    created: '2023-09-26T07:38:19.621Z'
+    lastUpdate: '2023-09-26T07:38:19.622Z'
+    creatorRef: 1617030
+    _id: 65128a6b9af2b30c20332e0c
+  created: '2023-09-26T07:38:19.621Z'
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: marleegrace.substack.com
+  collection:
+    "$ref": collections
+    "$id": 37603939
+    oid: 37603939
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 652078685
   important: true
   collectionId: 37603939
   parsed: {}
@@ -25340,368 +25505,6 @@
   sort: 679655989
   collectionId: 37459371
   parsed: {}
-- _id: 656130791
-  link: https://leica-camera.blog/2021/11/19/the-joy-is-in-capturing-the-journey/
-  title: The Joy is in Capturing the Journey - The Leica camera Blog
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i0.wp.com/leica-camera.blog/wp-content/uploads/anabele-58.jpg?w=296&h=472&ssl=1
-  media:
-  - link: https://i0.wp.com/leica-camera.blog/wp-content/uploads/anabele-58.jpg?w=296&h=472&ssl=1
-    type: image
-  - link: https://i0.wp.com/leica-camera.blog/wp-content/uploads/f-36-50.jpg?w=343&h=239&ssl=1
-    type: image
-  - link: https://i0.wp.com/leica-camera.blog/wp-content/uploads/f-23-54.jpg?w=343&h=229&ssl=1
-    type: image
-  - link: https://i0.wp.com/leica-camera.blog/wp-content/uploads/f8-69--scaled.jpg?w=309&h=472&ssl=1
-    type: image
-  - link: https://i0.wp.com/leica-camera.blog/wp-content/uploads/willis-f4-202.jpeg?w=470&h=709&ssl=1
-    type: image
-  tags: []
-  removed: false
-  highlights:
-  - text: I shoot analog for a lot of reasons, but I always jokingly say the main
-      reason is I can’t print a jpeg in my darkroom. I shoot for the print.
-    note: ''
-    created: '2023-10-05T12:04:28.394Z'
-    lastUpdate: '2023-10-05T12:04:28.395Z'
-    creatorRef: 1617030
-    _id: 651ea64c8e909474b29366f5
-  created: '2023-10-05T12:04:28.394Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: leica-camera.blog
-  collection:
-    "$ref": collections
-    "$id": 37459371
-    oid: 37459371
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 661834889
-  important: true
-  collectionId: 37459371
-  parsed: {}
-- _id: 655160269
-  link: https://www.bridddge.net/post/skateboarding-s-anthropologist-an-interview-with-ed-templeton-on-wires-crossed
-  title: 'Skateboarding’s Anthropologist: An Interview with Ed Templeton on Wires
-    Crossed'
-  excerpt: 'Ed Templeton, a legendary professional skateboarder for over 20 years,
-    is one of the few to develop a dual career: there are those who recognize Templeton
-    as a skateboarder and those that recognize him as a photographer and artist. While
-    there are certainly some cultural overlaps between these disparate audiences,
-    Templeton has successfully penetrated the art scene and established himself as
-    a photographer just as he had years earlier as a skateboarder. His previous exhibitions
-    and photobooks—su'
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://static.wixstatic.com/media/738a10_819c75d97e33452dae04801268e94092~mv2.jpg/v1/fill/w_750,h_750,al_c,q_85/738a10_819c75d97e33452dae04801268e94092~mv2.jpg
-  media:
-  - link: https://static.wixstatic.com/media/738a10_819c75d97e33452dae04801268e94092~mv2.jpg/v1/fill/w_750,h_750,al_c,q_85/738a10_819c75d97e33452dae04801268e94092~mv2.jpg
-    type: image
-  - link: https://static.wixstatic.com/media/738a10_819c75d97e33452dae04801268e94092~mv2.jpg/v1/fill/w_750,h_750,al_c,q_85,enc_auto/738a10_819c75d97e33452dae04801268e94092~mv2.jpg
-    type: image
-  - link: https://static.wixstatic.com/media/738a10_f2d316a88e634b65ad0fb923b02a4de6~mv2.jpg/v1/fill/w_279,h_188,al_c,lg_1,q_80,enc_auto/738a10_f2d316a88e634b65ad0fb923b02a4de6~mv2.jpg
-    type: image
-  - link: https://static.wixstatic.com/media/738a10_aae7c9586fd649c8ab34c90458cdeadc~mv2.jpg/v1/fill/w_278,h_189,al_c,lg_1,q_80,enc_auto/738a10_aae7c9586fd649c8ab34c90458cdeadc~mv2.jpg
-    type: image
-  - link: https://static.wixstatic.com/media/738a10_5aa5d01340db4014a831a67a7008c8c2~mv2.jpg/v1/fill/w_188,h_280,al_c,lg_1,q_80,enc_auto/738a10_5aa5d01340db4014a831a67a7008c8c2~mv2.jpg
-    type: image
-  tags:
-  - skateboarding
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-10-02T18:47:10.176Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 37459371
-    oid: 37459371
-  highlights:
-  - text: That is what the observer-participant dilemma is. We get to a swimming hole
-      and I'm sitting there like, “Do I want to document this or do I want to have
-      fun and swim?” Sometimes you can't do both. I can't just leave my camera out
-      in the dirt somewhere while I'm swimming. It's an either-or situation sometimes.
-      So that’s what I mean, there were times I just ended up participating and not
-      photographing stuff.
-    note: ''
-    created: '2023-10-02T18:48:56.449Z'
-    lastUpdate: '2023-10-02T18:55:01.231Z'
-    creatorRef: 1617030
-    _id: 651b1098a0a70a488084c419
-  - text: Video has been the currency for skateboarding for so long, teams would build
-      up clips to make a video and that was the main goal. And now, everything is
-      just shared on Instagram immediately. It has ruined the whole framework of how
-      skate videos were made, how a lot of companies made money. But that's really
-      hard to do now because there's just so much you can see online. People do save
-      up video parts, but then they drop on the Thrasher site for free and people
-      watch, and it feels like it has about a two-week shelf life. I think that's
-      why people look back to some of those older videos with nostalgia.
-    note: ''
-    created: '2023-10-02T18:55:01.230Z'
-    lastUpdate: '2023-10-02T18:55:01.231Z'
-    creatorRef: 1617030
-    _id: 651b1205611a84c07178ba6d
-  domain: bridddge.net
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 655160269
-  collectionId: 37459371
-  parsed: {}
-- _id: 653728854
-  link: https://www.trendymood.com/lutter-contre-luniformisation-des-images/?utm_source=rss&utm_medium=rss&utm_campaign=lutter-contre-luniformisation-des-images
-  title: Lutter contre l'uniformisation des images -
-  excerpt: Il y a quelque temps, j’ai commencé à suivre une directrice artistique
-    photo, Emily Keegin, hyper intéressante qui analyse régulièrement des séries et
-    tendances photo.
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://www.trendymood.com/wp-content/uploads/2023/09/Twins-sisters-in-Shining-Stanley-Kubrick-Warner-Bros.jpg
-  media:
-  - link: http://www.trendymood.com/wp-content/uploads/2023/09/Twins-sisters-in-Shining-Stanley-Kubrick-Warner-Bros.jpg
-    type: image
-  - link: https://i0.wp.com/www.trendymood.com/wp-content/uploads/2023/09/Twins-sisters-in-Shining-Stanley-Kubrick-Warner-Bros.jpg?w=1157&ssl=1
-    type: image
-  - link: https://i0.wp.com/www.trendymood.com/wp-content/uploads/2023/02/Newsletter.jpg?resize=640%2C853&ssl=1
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-09-29T09:23:34.908Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 37459371
-    oid: 37459371
-  highlights: []
-  domain: trendymood.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 653728854
-  collectionId: 37459371
-  parsed: {}
-- _id: 656130791
-  link: https://leica-camera.blog/2021/11/19/the-joy-is-in-capturing-the-journey/
-  title: The Joy is in Capturing the Journey - The Leica camera Blog
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i0.wp.com/leica-camera.blog/wp-content/uploads/anabele-58.jpg?w=296&h=472&ssl=1
-  media:
-  - link: https://i0.wp.com/leica-camera.blog/wp-content/uploads/anabele-58.jpg?w=296&h=472&ssl=1
-    type: image
-  - link: https://i0.wp.com/leica-camera.blog/wp-content/uploads/f-36-50.jpg?w=343&h=239&ssl=1
-    type: image
-  - link: https://i0.wp.com/leica-camera.blog/wp-content/uploads/f-23-54.jpg?w=343&h=229&ssl=1
-    type: image
-  - link: https://i0.wp.com/leica-camera.blog/wp-content/uploads/f8-69--scaled.jpg?w=309&h=472&ssl=1
-    type: image
-  - link: https://i0.wp.com/leica-camera.blog/wp-content/uploads/willis-f4-202.jpeg?w=470&h=709&ssl=1
-    type: image
-  tags: []
-  removed: false
-  highlights:
-  - text: I shoot analog for a lot of reasons, but I always jokingly say the main
-      reason is I can’t print a jpeg in my darkroom. I shoot for the print.
-    note: ''
-    created: '2023-10-05T12:04:28.394Z'
-    lastUpdate: '2023-10-05T12:04:28.395Z'
-    creatorRef: 1617030
-    _id: 651ea64c8e909474b29366f5
-  created: '2023-10-05T12:04:28.394Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: leica-camera.blog
-  collection:
-    "$ref": collections
-    "$id": 37459371
-    oid: 37459371
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 661834889
-  important: true
-  collectionId: 37459371
-  parsed: {}
-- _id: 655160269
-  link: https://www.bridddge.net/post/skateboarding-s-anthropologist-an-interview-with-ed-templeton-on-wires-crossed
-  title: 'Skateboarding’s Anthropologist: An Interview with Ed Templeton on Wires
-    Crossed'
-  excerpt: 'Ed Templeton, a legendary professional skateboarder for over 20 years,
-    is one of the few to develop a dual career: there are those who recognize Templeton
-    as a skateboarder and those that recognize him as a photographer and artist. While
-    there are certainly some cultural overlaps between these disparate audiences,
-    Templeton has successfully penetrated the art scene and established himself as
-    a photographer just as he had years earlier as a skateboarder. His previous exhibitions
-    and photobooks—su'
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://static.wixstatic.com/media/738a10_819c75d97e33452dae04801268e94092~mv2.jpg/v1/fill/w_750,h_750,al_c,q_85/738a10_819c75d97e33452dae04801268e94092~mv2.jpg
-  media:
-  - link: https://static.wixstatic.com/media/738a10_819c75d97e33452dae04801268e94092~mv2.jpg/v1/fill/w_750,h_750,al_c,q_85/738a10_819c75d97e33452dae04801268e94092~mv2.jpg
-    type: image
-  - link: https://static.wixstatic.com/media/738a10_819c75d97e33452dae04801268e94092~mv2.jpg/v1/fill/w_750,h_750,al_c,q_85,enc_auto/738a10_819c75d97e33452dae04801268e94092~mv2.jpg
-    type: image
-  - link: https://static.wixstatic.com/media/738a10_f2d316a88e634b65ad0fb923b02a4de6~mv2.jpg/v1/fill/w_279,h_188,al_c,lg_1,q_80,enc_auto/738a10_f2d316a88e634b65ad0fb923b02a4de6~mv2.jpg
-    type: image
-  - link: https://static.wixstatic.com/media/738a10_aae7c9586fd649c8ab34c90458cdeadc~mv2.jpg/v1/fill/w_278,h_189,al_c,lg_1,q_80,enc_auto/738a10_aae7c9586fd649c8ab34c90458cdeadc~mv2.jpg
-    type: image
-  - link: https://static.wixstatic.com/media/738a10_5aa5d01340db4014a831a67a7008c8c2~mv2.jpg/v1/fill/w_188,h_280,al_c,lg_1,q_80,enc_auto/738a10_5aa5d01340db4014a831a67a7008c8c2~mv2.jpg
-    type: image
-  tags:
-  - skateboarding
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-10-02T18:47:10.176Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 37459371
-    oid: 37459371
-  highlights:
-  - text: That is what the observer-participant dilemma is. We get to a swimming hole
-      and I'm sitting there like, “Do I want to document this or do I want to have
-      fun and swim?” Sometimes you can't do both. I can't just leave my camera out
-      in the dirt somewhere while I'm swimming. It's an either-or situation sometimes.
-      So that’s what I mean, there were times I just ended up participating and not
-      photographing stuff.
-    note: ''
-    created: '2023-10-02T18:48:56.449Z'
-    lastUpdate: '2023-10-02T18:55:01.231Z'
-    creatorRef: 1617030
-    _id: 651b1098a0a70a488084c419
-  - text: Video has been the currency for skateboarding for so long, teams would build
-      up clips to make a video and that was the main goal. And now, everything is
-      just shared on Instagram immediately. It has ruined the whole framework of how
-      skate videos were made, how a lot of companies made money. But that's really
-      hard to do now because there's just so much you can see online. People do save
-      up video parts, but then they drop on the Thrasher site for free and people
-      watch, and it feels like it has about a two-week shelf life. I think that's
-      why people look back to some of those older videos with nostalgia.
-    note: ''
-    created: '2023-10-02T18:55:01.230Z'
-    lastUpdate: '2023-10-02T18:55:01.231Z'
-    creatorRef: 1617030
-    _id: 651b1205611a84c07178ba6d
-  domain: bridddge.net
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 655160269
-  collectionId: 37459371
-  parsed: {}
-- _id: 653728854
-  link: https://www.trendymood.com/lutter-contre-luniformisation-des-images/?utm_source=rss&utm_medium=rss&utm_campaign=lutter-contre-luniformisation-des-images
-  title: Lutter contre l'uniformisation des images -
-  excerpt: Il y a quelque temps, j’ai commencé à suivre une directrice artistique
-    photo, Emily Keegin, hyper intéressante qui analyse régulièrement des séries et
-    tendances photo.
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://www.trendymood.com/wp-content/uploads/2023/09/Twins-sisters-in-Shining-Stanley-Kubrick-Warner-Bros.jpg
-  media:
-  - link: http://www.trendymood.com/wp-content/uploads/2023/09/Twins-sisters-in-Shining-Stanley-Kubrick-Warner-Bros.jpg
-    type: image
-  - link: https://i0.wp.com/www.trendymood.com/wp-content/uploads/2023/09/Twins-sisters-in-Shining-Stanley-Kubrick-Warner-Bros.jpg?w=1157&ssl=1
-    type: image
-  - link: https://i0.wp.com/www.trendymood.com/wp-content/uploads/2023/02/Newsletter.jpg?resize=640%2C853&ssl=1
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-09-29T09:23:34.908Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 37459371
-    oid: 37459371
-  highlights: []
-  domain: trendymood.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 653728854
-  collectionId: 37459371
-  parsed: {}
-- _id: 690389409
-  link: https://ma-veille-juridique.com/liste-relative-au-vocabulaire-du-sport-glisse-urbaine-termes-expressions-et-definitions-adoptes/
-  title: "\U0001F7E7 Liste relative au vocabulaire du sport : glisse urbaine (termes,
-    expressions et définitions adoptés)"
-  excerpt: 'Références NOR : CTNR2332317K Source : JORF n°0281 du 5 décembre 2023,
-    texte n° 69 Article I. - Termes et définitions 1. bol, n.m. Domaine : Sports/Sports'
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://ma-veille-juridique.com/wp-content/uploads/2020/11/gavel-2492011_1920-600x400.jpg
-  media:
-  - link: https://ma-veille-juridique.com/wp-content/uploads/2020/11/gavel-2492011_1920-600x400.jpg
-    type: image
-  - link: https://ma-veille-juridique.com/wp-content/uploads/2021/03/9356947707_ec5ec8e2e0_5k-600x400.jpg
-    type: image
-  - link: https://ma-veille-juridique.com/wp-content/uploads/2020/11/Conseil-Constitutionnel-600x400.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-12-06T16:56:37.488Z'
-  lastUpdate: '2023-12-06T16:56:38.543Z'
-  collection:
-    "$ref": collections
-    "$id": 37459360
-    oid: 37459360
-  highlights: []
-  domain: ma-veille-juridique.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 690389409
-  collectionId: 37459360
-  parsed: {}
 - _id: 686365442
   link: https://yewtu.be/watch?v=TxjnJMc_qWs
   title: Jack Black Yells "DO A KICKFLIP!" At Skateboarders From His Car
@@ -25754,6 +25557,54 @@
     name: bonjouryannick
     email: ''
   sort: 686365442
+  collectionId: 37459360
+  parsed: {}
+- _id: 667453299
+  link: https://thenineclub.com/blogs/episodes/jason-lee?_pos=1&_sid=373ebada4&_ss=r
+  title: Jason Lee
+  excerpt: Jason Lee discusses growing up in Southern California, first learning 360
+    flips in his backyard, meeting Mark Gonzales for the first time, skating Christian
+    Hosoi’s backyard vert ramp, getting on Blind Skateboards, filming for “Video Days”,
+    starting Blue Skateboards with Chris Pastras, why they ended Blue and start
+  note: |-
+    "Sometimes Live goes where it need to goes"
+
+    "The pleasure of the POW" 360 flip
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://thenineclub.com/cdn/shop/articles/Jason_Lee_Cover_Page.jpg?v=1647857377
+  media:
+  - link: http://thenineclub.com/cdn/shop/articles/Jason_Lee_Cover_Page.jpg?v=1647857377
+    type: image
+  - link: https://thenineclub.com/cdn/shop/files/Circle_Logo_On_Black_7bae31a6-28b2-43a3-b201-07d402146193_220x.png?v=1688154636
+    type: image
+  - link: https://thenineclub.com/cdn/shop/files/Discount_Banner_50_Percent_2_3fcf0bcf-ca39-45fc-8c3f-3f75bf681381_2000x.jpg?v=1694660377
+    type: image
+  - link: https://thenineclub.com/cdn/shop/products/StancexNineClubWhite_900x.jpg?v=1678321735
+    type: image
+  - link: https://thenineclub.com/cdn/shop/products/The_Nine_Club_Grey_Embroidered_Crew_Neck_900x.jpg?v=1556263515
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-10-25T11:08:26.009Z'
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  collection:
+    "$ref": collections
+    "$id": 37459360
+    oid: 37459360
+  highlights: []
+  domain: thenineclub.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 667453298
   collectionId: 37459360
   parsed: {}
 - _id: 665690563
@@ -25828,6 +25679,102 @@
     name: bonjouryannick
     email: ''
   sort: 664668080
+  collectionId: 37459360
+  parsed: {}
+- _id: 664440440
+  link: https://simplemagic.substack.com/p/proof-of-life-small-victories-and
+  title: Proof of life, small victories, and vision | Simply Ranked
+  excerpt: 'Plus: Rob Pace doubles down, curse of the takes, making a skate video
+    with your friends, and more.'
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff277a8d9-a199-4e1c-a225-88046d6574e0_1200x800.jpeg
+  media:
+  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff277a8d9-a199-4e1c-a225-88046d6574e0_1200x800.jpeg
+    type: image
+  - link: https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff277a8d9-a199-4e1c-a225-88046d6574e0_1200x800.jpeg
+    type: image
+  - link: https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89f9bd44-d7c7-4a41-be92-04993e868463_787x182.png
+    type: image
+  - link: https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a5710b9-b06a-484e-a7f7-25dc7de85845_1074x1460.png
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-10-20T20:36:54.656Z'
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  collection:
+    "$ref": collections
+    "$id": 37459360
+    oid: 37459360
+  highlights:
+  - text: Detach from the expectations of the internet. Take your time with projects
+      because you owe it to yourself to make something original to you. There is no
+      rush.
+    note: ''
+    created: '2023-10-20T20:36:54.640Z'
+    lastUpdate: '2023-10-20T20:38:14.039Z'
+    creatorRef: 1617030
+    _id: 6532e4e6142529d6cfbfec28
+  - text: To desire to keep up with what is going on is nearly impossible in the world
+      we live in. Whether that be the standards set by social media, tricks being
+      done or the temporary styles that come and go. I advise anyone to develop their
+      own relationship with whatever craft they take on.
+    note: ''
+    color: yellow
+    created: '2023-10-20T20:38:14.038Z'
+    lastUpdate: '2023-10-20T20:38:14.039Z'
+    creatorRef: 1617030
+    _id: 6532e5367a2344a90563fcef
+  domain: simplemagic.substack.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 664440439
+  collectionId: 37459360
+  parsed: {}
+- _id: 663894751
+  link: https://thpsfilm.com/
+  title: Pretending I'm a Superman – A documentary that tells the story of how skateboarding
+    became a part of the mainstream by focusing on the success of the "Tony Hawk's
+    Pro Skater" video game franchise.
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fthpsfilm.com%2F
+  media:
+  - type: image
+    link: https://rdl.ink/render/https%3A%2F%2Fthpsfilm.com%2F
+    screenshot: true
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-10-19T19:05:49.042Z'
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  collection:
+    "$ref": collections
+    "$id": 37459360
+    oid: 37459360
+  highlights: []
+  domain: thpsfilm.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 663894750
   collectionId: 37459360
   parsed: {}
 - _id: 663677925
@@ -25909,6 +25856,51 @@
     name: bonjouryannick
     email: ''
   sort: 663620755
+  collectionId: 37459360
+  parsed: {}
+- _id: 661649863
+  link: https://archive.ph/SclnQ#selection-565.0-565.460
+  title: Tony Hawk Showed Me What’s Sacred About Cities - The New York Times
+  excerpt: archived 12 Oct 2023 08:56:20 UTC
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://archive.ph/SclnQ/9f0835d1a72257220cfe9de888885a2c671cbd9a/scr.png
+  media:
+  - link: https://archive.ph/SclnQ/9f0835d1a72257220cfe9de888885a2c671cbd9a/scr.png
+    type: image
+  - link: https://archive.ph/SclnQ/eb343f6b598c5eeb6c614f433335dc66c0ade067.webp
+    type: image
+  tags: []
+  removed: false
+  highlights:
+  - text: In real life, skating is an art form that requires constant sacrifice, physical
+      pain and public embarrassment for the sake of an ephemeral few seconds of pure
+      beauty. You have to fall a thousand times before you succeed. The Tony Hawk
+      games aren’t concerned with that. They recreate the iterative satisfaction of
+      skating — the feeling that, with enough practice, you can do something miraculous
+      — without all the concussions, bloody knees and shattered wrists.
+    note: ''
+    created: '2023-10-15T20:45:10.138Z'
+    lastUpdate: '2023-10-15T20:45:10.139Z'
+    creatorRef: 1617030
+    _id: 652c4f56614c0b09de71eb2e
+  created: '2023-10-15T20:45:10.139Z'
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: archive.ph
+  collection:
+    "$ref": collections
+    "$id": 37459360
+    oid: 37459360
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 661649863
+  important: true
   collectionId: 37459360
   parsed: {}
 - _id: 654068608
@@ -26173,6 +26165,42 @@
   sort: 675861884
   collectionId: 37456469
   parsed: {}
+- _id: 656234995
+  link: https://github.com/github/how-engineering-communicates/blob/main/how-github-engineering-communicates.md
+  title: how-engineering-communicates/how-github-engineering-communicates.md at main
+    · github/how-engineering-communicates
+  excerpt: ''
+  note: ''
+  type: document
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fgithub.com%2Fgithub%2Fhow-engineering-communicates%2Fblob%2Fmain%2Fhow-github-engineering-communicates.md
+  media:
+  - type: image
+    link: https://rdl.ink/render/https%3A%2F%2Fgithub.com%2Fgithub%2Fhow-engineering-communicates%2Fblob%2Fmain%2Fhow-github-engineering-communicates.md
+    screenshot: true
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-10-05T21:02:45.776Z'
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  collection:
+    "$ref": collections
+    "$id": 37456469
+    oid: 37456469
+  highlights: []
+  domain: github.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 656234995
+  collectionId: 37456469
+  parsed: {}
 - _id: 658755191
   link: https://thedesignfiles.net/2023/02/sustainable-homes-swansong-tasmania?utm_source=DenseDiscovery-259
   title: An Owner-Designed, Off-Grid Escape In Bay Of Fires
@@ -26331,6 +26359,47 @@
   sort: 660611089
   collectionId: 37136909
   parsed: {}
+- _id: 658009278
+  link: https://www.youtube.com/watch?v=VYmXIkkv3mQ
+  title: Pure Energy - Trevor Gordon & Bryce Baker in J Bay
+  excerpt: "Trevor Gordon and Bryce Baker heat up in J Bay in Mollusk Warm Wetsuits!
+    These guys had too much fun a perfect right point break with a few Toy Boats and
+    Radio Surfboards. Pure Energy: uncut, straight from the source!\n\nCamera work
+    by Tyge Landa and Erin Feinblatt\n\nTrevor is riding:\n-7'0 Radio ButterBlade\n-6'2
+    Toyboat Asym Pin\n-5'4 Toyboat Flathead Fish\n\nBryce is riding:\n-6'6 Radio Long
+    Fish\n-5'5 Toyboat Flathead Fish\n\nFind Mollusk Warm Wetsuits here: https://mollusksurfshop.com/pages/wetsuits\n\nFind
+    Radio Surfboards here: https://mollusksurfshop.com/collections/surfboards/radio-surfboards\n\nToy
+    Boats coming to a Mollusk near you very soon \U0001F440"
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/VYmXIkkv3mQ/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/VYmXIkkv3mQ/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-10-08T18:12:41.261Z'
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  collection:
+    "$ref": collections
+    "$id": 37136909
+    oid: 37136909
+  highlights: []
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 658009278
+  collectionId: 37136909
+  parsed: {}
 - _id: 653535128
   link: https://www.youtube.com/watch?v=XrC7lTx96WI
   title: The Punk Rock Garden - Episode 6
@@ -26462,6 +26531,39 @@
   sort: 659803004
   collectionId: 37136905
   parsed: {}
+- _id: 657657329
+  link: https://finisterre.com/blogs/broadcast/the-sentinels-lighthouses-surfers-seven-seas
+  title: 'The Sentinels: Lighthouses, Surfers & Seven Seas'
+  excerpt: Mat Arney looks at the stoic history of lighthouses as a metaphor for ocean
+    guardianship.
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://finisterre.com/cdn/shop/articles/unnamed_87b1332a-4a90-48cb-9923-ec5fa51236fe.jpg?v=1696504698
+  media:
+  - link: https://finisterre.com/cdn/shop/articles/unnamed_87b1332a-4a90-48cb-9923-ec5fa51236fe.jpg?v=1696504698
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2023-10-07T20:49:35.093Z'
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  domain: finisterre.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 657657329
+  collectionId: 37136905
+  parsed: {}
 - _id: 656031861
   link: https://bloood.club/
   title: BLOOOD
@@ -26510,6 +26612,43 @@
   sort: 656031861
   collectionId: 37136905
   parsed: {}
+- _id: 653709961
+  link: https://www.radiofrance.fr/franceinter/podcasts/les-80/les-80-d-ali-baddou-du-vendredi-29-septembre-2023-4429223?fbclid=PAAaYK2I9oo5bujfXpFDNQbmX2g9rAHXElrJIxP56XCTTwgnbwa6puD27Tays
+  title: 'Surf : un livre-album magnifique'
+  excerpt: '"J''ignore pourquoi j''ai été - et suis toujours - à ce point hypnotisé
+    par le surf". Ces mots sont de Kelly Slater, le meilleur surfeur de tous les temps.
+    Kelly Slater qui signe la préface d''un livre album magnifique qui vient de paraître
+    chez Albin Michel.'
+  note: Les mots de Deleuze...
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://www.radiofrance.fr/s3/cruiser-production/2023/09/620ff579-905c-4c57-a2d5-7062b09ff621/1200x680_sc_surfcouv.jpg
+  media:
+  - link: https://www.radiofrance.fr/s3/cruiser-production/2023/09/620ff579-905c-4c57-a2d5-7062b09ff621/1200x680_sc_surfcouv.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-09-29T07:33:32.914Z'
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  domain: radiofrance.fr
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 653709961
+  collectionId: 37136905
+  parsed: {}
 - _id: 694604730
   link: https://www.finh.cc/ash
   title: ASH - Ai Pocket Field Guide
@@ -26549,51 +26688,6 @@
     name: bonjouryannick
     email: ''
   sort: 694604730
-  collectionId: -1
-  parsed: {}
-- _id: 693360277
-  link: https://ia.net/topics/ia-writer-in-paper
-  title: iA Writer in Paper
-  excerpt: 'It all began with a simple question: What if iA Writer took the form of
-    a physical notebook?'
-  note: If I was sure of one thing. It is this. iA writer would do the best notebook
-    ever. If they entered the physical world, it would be an object I would love.
-    They proved me right, once again.
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://ia.net/wp-content/uploads/2023/12/iA-Notebook-closeup-1024x703.png
-  media:
-  - link: https://ia.net/wp-content/uploads/2023/12/iA-Notebook-closeup-1024x703.png
-    type: image
-  - link: https://ia.net/wp-content/uploads/2023/12/iA-Notebook-closeup.png
-    type: image
-  - link: https://ia.net/wp-content/uploads/2023/12/DSCF1189-2-scaled-1.jpg
-    type: image
-  - link: https://ia.net/wp-content/uploads/2023/12/DSCF1299-scaled-1.jpg
-    type: image
-  - link: https://ia.net/wp-content/uploads/2023/12/iA-Notebook-backlight-empty.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-12-12T13:04:16.348Z'
-  lastUpdate: '2023-12-12T21:43:24.651Z'
-  collection:
-    "$ref": collections
-    "$id": -1
-    oid: -1
-  highlights: []
-  domain: ia.net
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 693360277
   collectionId: -1
   parsed: {}
 - _id: 690406751
@@ -26899,6 +26993,320 @@
   sort: 698511815
   collectionId: 39911296
   parsed: {}
+- _id: 694087075
+  link: https://twitter.com/dark1x/status/1734856717144293697/photo/1
+  title: 'John Linneman @dark1x.bsky.social on X: "This is truly amazing. Playing
+    Link''s Awakening at 1:1 pixel scale with 120 fps scrolling - you can zoom the
+    map alllll the way out and the entire world is active. https://t.co/H1ZLpd3sqy
+    https://t.co/wVjqhzAVu6" / X'
+  excerpt: This is truly amazing. Playing Link's Awakening at 1:1 pixel scale with
+    120 fps scrolling - you can zoom the map alllll the way out and the entire world
+    is active.https://t.co/H1ZLpd3sqy pic.twitter.com/wVjqhzAVu6— John Linneman @dark1x.bsky.social
+    (@dark1x) December 13, 2023
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://pbs.twimg.com/media/GBNy-0MWQAAhAGx?format=jpg&name=4096x4096
+  media:
+  - link: https://pbs.twimg.com/media/GBNy-0MWQAAhAGx?format=jpg&name=4096x4096
+    type: image
+  - link: https://pbs.twimg.com/media/GBN1SxeaUAA56Wk?format=jpg&name=medium
+    type: image
+  - link: https://pbs.twimg.com/media/GBNy-0MWQAAhAGx?format=jpg&name=medium
+    type: image
+  - link: https://pbs.twimg.com/card_img/1733367298155589633/8iMD3HMB?format=jpg&name=small
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-13T17:35:19.819Z'
+  lastUpdate: '2023-12-13T17:35:21.421Z'
+  collection:
+    "$ref": collections
+    "$id": 39911296
+    oid: 39911296
+  highlights: []
+  domain: twitter.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 694087075
+  collectionId: 39911296
+  parsed: {}
+- _id: 690754471
+  link: https://www.youtube.com/watch?v=bm51ihfi1p4
+  title: Ramones - I Wanna Be Sedated (Official Music Video)
+  excerpt: |-
+    You're watching the official music video for the Ramones - 'I Wanna Be Sedated' from the 1978 album 'Road To Ruin'. Check out 'I Wanna Be Sedated' in the new Spider-Man: Far From Home trailer https://www.youtube.com/watch?v=DYYtuKyMtY8
+
+    Director: Bill Fishman
+
+    Subscribe to the Rhino Channel! https://Rhino.lnk.to/YouTubeSubID
+
+    Check Out Our Favorite Playlists:
+    Classic Rock https://Rhino.lnk.to/YTClassicRockID
+    80s Hits https://Rhino.lnk.to/YT80sHitsID
+    80s Hard Rock https://Rhino.lnk.to/YT80sHardRockID
+    80s Alternative https://Rhino.lnk.to/YT80sAlternativeID
+    90s Hits https://Rhino.lnk.to/YT90sHitsID
+
+    Stay connected with RHINO on...
+    Facebook https://www.facebook.com/RHINO/
+    Instagram https://www.instagram.com/rhino_records
+    Twitter https://twitter.com/Rhino_Records
+    Website https://www.rhino.com/
+
+    Lyrics:
+    Twenty-twenty-twenty four hours to go
+    I wanna be sedated
+    Nothing to do nowhere to go-o-oh
+    I wanna be sedated
+
+    Just get me to the airport, put me on a plane
+    Hurry, hurry, hurry before I go insane
+    I can't control my fingers, I can't control my brain
+    Oh no-o-o-o-o
+
+    Twenty-twenty-twenty four hours to go
+    I wanna be sedated
+    Nothing to do nowhere to go-o-oh
+    I wanna be sedated
+
+    Just put me in a wheelchair, get me on a plane
+    Hurry, hurry, hurry before I go insane
+    I can't control my fingers, I can't control my brain
+    Oh no-o-o-o-o
+
+    Twenty-twenty-twenty four hours to go
+    I wanna be sedated
+    Nothing to do nowhere to go-o-oh
+    I wanna be sedated
+
+    Just put me in a wheelchair, get me to the show
+    Hurry, hurry, hurry before I go loco
+    I can't control my fingers, I can't control my toes
+    Oh no-o-o-o-o
+
+    Twenty-twenty-twenty four hours to go
+    I wanna be sedated
+    Nothing to do nowhere to go-o-oh
+    I wanna be sedated
+
+    Just put me in a wheelchair, get me to the show
+    Hurry, hurry, hurry before I go loco
+    I can't control my fingers, I can't control my toes
+    Oh no-o-o-o-o
+
+    Ba ba baba, baba ba baba, I wanna be sedated
+    Ba ba baba, baba ba baba, I wanna be sedated
+    Ba ba baba, baba ba baba, I wanna be sedated
+    Ba ba baba, baba ba baba, I wanna be sedated
+
+    ****************************************************
+
+    RHINO is the official YouTube channel of the greatest music catalog in the world. Founded in 1978, Rhino is the world's leading pop culture label specializing in classic rock, soul, and 80's and 90's alternative. The vast Rhino catalog of more than 5,000 albums, videos, and hit songs features material by Warner Music Group artists such as Van Halen, Duran Duran, Aretha Franklin, Ray Charles, The Doors, Chicago, Black Sabbath, John Coltrane, Yes, Alice Cooper, Linda Ronstadt, The Ramones, The Monkees, Carly Simon, and Curtis Mayfield, among many others. Check back for classic music videos, live performances, hand-curated playlists, the Rhino Podcast, and more!
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/bm51ihfi1p4/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGHIgTSg1MA8=&rs=AOn4CLDqqnzhJs7eN6PWn22tSfWIlvnWKg
+  media:
+  - link: https://i.ytimg.com/vi/bm51ihfi1p4/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGHIgTSg1MA8=&rs=AOn4CLDqqnzhJs7eN6PWn22tSfWIlvnWKg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-07T10:16:58.472Z'
+  lastUpdate: '2023-12-07T10:16:59.786Z'
+  collection:
+    "$ref": collections
+    "$id": 39748190
+    oid: 39748190
+  highlights: []
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 690754471
+  collectionId: 39748190
+  parsed: {}
+- _id: 690754394
+  link: https://www.youtube.com/watch?v=LUEYNuVeA9Y
+  title: blink-182 - DANCE WITH ME (Official Video)
+  excerpt: "Official Video for “DANCE WITH ME” by blink-182\n \nListen to & Download
+    “DANCE WITH ME” out now: https://blink182.lnk.to/DANCEWITHME\n \n“ONE MORE TIME…”
+    the new album from blink-182 is out October 20th!\nPre-Order: https://blink182.lnk.to/ONEMORETIME\nPre-Save/Pre-Add:
+    https://blink182.lnk.to/presaveOMT\n \nFollow blink-182:\nhttp://facebook.com/blink182\nhttp://instagram.com/blink182\nhttp://twitter.com/blink182\nhttps://www.tiktok.com/@blink182\nhttps://www.blink182.com\n\nCredits:\nDirectors
+    - The Malloys\nProduction Company - Our Secret Handshake\nProducers – Saul Levitz,
+    Daniel Pappas, & Laura Burhenn\nLine Producer - Erikx DiSantis\nDP - Scott Henriksen\nProduction
+    Manager - Fia Oruene\n1st AD - Matthew Sanchez\n2nd AD - Max Wilbur\n1st AC -
+    Dennis Lynch\n2nd AC / Loader - Jay Hardie\nSound Mixer - Christopher Cole\nGaffer
+    - Nghia Khuu\nBBE - Danny Franco \nBBE - Victoria Chenoweth \nElectric - Jeanne
+    Mallioux\nElectric - Anthony Peluso\nKey Grip - Mike Prim\nBBG - Carlos Chavez\nGrip
+    Driver - Damian Vega\nGrip - Chad Pelsang\nGrip - Ryan Girkins\nProduction Designer
+    - Taylor Almodovar\nArt Director - Justin Gardner\nCarpenters - Mike Buckman,
+    Eric Verduyn, Andrian Brown & Jacob Buckman\nScenic Painters - Daniel Diaz & Daniel
+    Gutierrez\nSet Decorator - Keith Boos\nProp Master/On Set Dresser - Georgia Kelly
+    Moran\nSet Dressers - Laura Revel & Jared Piller\nTruck PA - Alex Hansen\nPAs
+    - Laurence Geronilla, Nolan Tiongco, Cole Malloy & Rolando Rodas\nCreative Consultant
+    - Bryan Turcotte\nCostumer - Julie Vogel\nStylist Assts - Mynka Draper & Benett
+    Rogers\nTailor - Elisabeth Heszky\nTravis Barker Stylist - Christopher Kim\nblink-182
+    Hair Stylist - Jerrod Roberts\nblink-182 Groomer - Fabiola Arancibia\nCast HMUA
+    - Mayra Godoy\nCast HMUA Assist - Sopheap Guzman\nLocation - Fat Eye Studios\nSIte
+    Rep - Haanz Noël \n \nPOST\nEditor - Cole Malloy\nPost Production - JAMM\nColorist
+    - Beau Leon\nColor Assist - Aldo Rosati\nExec Producer - Ashley Greyson\nColor
+    Producer - Dan Ginks\n \nCAST\nInterviewer - Lisa Gilroy \nNurse - Madison Sinclair
+    \nDoctor - Chris Candy\nBride - Ryann Bossetti\nBowtie Smoker - Fia Oruene\nTwo
+    Kids - Henry Malloy & Gus Malloy\nWoman in Curlers - Betsy Malloy \nCowboy - Rosendo\nPinhead
+    - Cole Malloy\nSchool Girl - Madeleine Ours\nMugger- Robert Rexx\nAcrobat - Clinton
+    Anthony Haddix\nBallerina - Anastasiia Bratchenko\nCheerleader - Bria St. Julien\nConstruction
+    Worker - Kylan Hanson\nFlamenco Dancer - Brigitt Rocha\nUnicyclist - Ian Steven
+    Peterson\n  \nLyrics:\nWhen I teach masturbation, I’m always just like, “have
+    fun with it”\n \nDon’t think maybe she won’t refuse\nShe knows everything that
+    I think \nThat girl, prettiest I could lose\nMy games, shittiest I could be\nI’ve
+    been waiting around to lose\nSo dumb, trying to make believe\nYou’re mine, what
+    are you gonna do \nCome here, do you want to come dance with me?\n \nTellin’ your
+    friends, you know you want to (dance with me)\nShaking those hips like the devil’s
+    got you (dance with me)\nWaiting all night, cause now I want you (dance with me)\nEyeing
+    that chance, here we go I got you (dance with me)\n \nOlé, Olé, Olé, Olé, Olé,
+    Olé\nYeah! We’re doing it all night long\nOlé, Olé, Olé, Olé, Olé, Olé\nYeah!
+    We’re doing it all night long\nOlé, Olé, Olé, Olé, Olé, Olé\nYeah! We’re doing
+    it all night long\nOlé, Olé, Olé, Olé, Olé, Olé\nYeah! We’re doing it all night
+    long\n \nThis song is making me beg for more \nThese drinks breaking up old routines\nMy
+    mind, pushing me out the door\nSo fucked, wishing I weren’t so green\nMe you,
+    won’t you just fall in love\nLike me, or am I just too naïve \nTonight, it’s getting
+    a bit too rough\nBut now, really wanting to make her scream \n \nTellin’ your
+    friends, you know you want to (dance with me)\nShaking those hips like the devil’s
+    got you (dance with me)\nWaiting all night, cause now I want you (dance with me)\nEyeing
+    that chance, here we go I got you (dance with me)\n \nOlé, Olé, Olé, Olé, Olé,
+    Olé\nYeah! We’re doing it all night long\nOlé, Olé, Olé, Olé, Olé, Olé\nYeah!
+    We’re doing it all night long\nOlé, Olé, Olé, Olé, Olé, Olé\nYeah! We’re doing
+    it all night long\nOlé, Olé, Olé, Olé, Olé, Olé\nYeah! We’re doing it all night
+    long\n \nDance with me, come dance with me \nDance with me, come dance with me\nBeen
+    doing it all night long\n \nOlé, Olé, Olé, Olé, Olé, Olé\nYeah! We’re doing it
+    all night long\nOlé, Olé, Olé, Olé, Olé, Olé\nYeah! We’re doing it all night long\nOlé,
+    Olé, Olé, Olé, Olé, Olé\nYeah! We’re doing it all night long\nOlé, Olé, Olé, Olé,
+    Olé, Olé\nYeah! We’re doing it all night long\n \nYou beat my heart from miles
+    away\nYeah! We’re doing it all night long \nYou spin me like a hurricane\nYeah!
+    We’re doing it all night long\nYou like to play your little games\nYeah! We’re
+    playing them all night long\nI’d like to have you every day, every way\nAnd do
+    it all night long\n \n#blink182 #DANCEWITHME #ONEMORETIME"
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/LUEYNuVeA9Y/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/LUEYNuVeA9Y/maxresdefault.jpg
+    type: image
+  - link: https://i.ytimg.com/vi/i53RECkNMsg/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAumAmeu_jsQ2lRq4c4510h8dGFDw
+    type: image
+  - link: https://i.ytimg.com/vi/A5IqxRUypdk/oardefault.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCRCQXJ2t9PgY-KH0hZDZX8y_3pPQ
+    type: image
+  - link: https://i.ytimg.com/vi/zIMPoTix5Nc/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLCR5Cto_q2259hSUaMVNZpgk4WFuQ
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-07T10:16:19.776Z'
+  lastUpdate: '2023-12-07T10:16:38.269Z'
+  collection:
+    "$ref": collections
+    "$id": 39748190
+    oid: 39748190
+  highlights: []
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 690754394
+  collectionId: 39748190
+  parsed: {}
+- _id: 693261358
+  link: https://sublime.app/?index
+  title: Sublime
+  excerpt: Experience a calmer, more human Internet
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://sublime.app/landing-preview.png
+  media:
+  - link: https://sublime.app/landing-preview.png
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-12T10:36:44.574Z'
+  lastUpdate: '2023-12-12T10:36:46.961Z'
+  collection:
+    "$ref": collections
+    "$id": 38035089
+    oid: 38035089
+  highlights: []
+  domain: sublime.app
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 693261358
+  collectionId: 38035089
+  parsed: {}
+- _id: 689975076
+  link: https://home.omg.lol/
+  title: omg.lol - A lovable web page and email address, just for you
+  excerpt: Treat yourself to an awesome web address, a devastatingly gorgeous profile
+    page, a stellar email address, and tons more
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://cdn.cache.lol/img/social_card_2022-06-23.png
+  media:
+  - link: https://cdn.cache.lol/img/social_card_2022-06-23.png
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-06T08:48:03.697Z'
+  lastUpdate: '2023-12-06T08:48:07.825Z'
+  collection:
+    "$ref": collections
+    "$id": 38035089
+    oid: 38035089
+  highlights: []
+  domain: home.omg.lol
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 689975076
+  collectionId: 38035089
+  parsed: {}
 - _id: 704266001
   link: https://youtube.com/watch?v=GK8K4Ghhtd0&feature=shared
   title: Gou Miyagi's "TIMESCAN 2" Part
@@ -26933,6 +27341,46 @@
     name: bonjouryannick
     email: ''
   sort: 704266001
+  collectionId: 37459360
+  parsed: {}
+- _id: 690389409
+  link: https://ma-veille-juridique.com/liste-relative-au-vocabulaire-du-sport-glisse-urbaine-termes-expressions-et-definitions-adoptes/
+  title: "\U0001F7E7 Liste relative au vocabulaire du sport : glisse urbaine (termes,
+    expressions et définitions adoptés)"
+  excerpt: 'Références NOR : CTNR2332317K Source : JORF n°0281 du 5 décembre 2023,
+    texte n° 69 Article I. - Termes et définitions 1. bol, n.m. Domaine : Sports/Sports'
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://ma-veille-juridique.com/wp-content/uploads/2020/11/gavel-2492011_1920-600x400.jpg
+  media:
+  - link: https://ma-veille-juridique.com/wp-content/uploads/2020/11/gavel-2492011_1920-600x400.jpg
+    type: image
+  - link: https://ma-veille-juridique.com/wp-content/uploads/2021/03/9356947707_ec5ec8e2e0_5k-600x400.jpg
+    type: image
+  - link: https://ma-veille-juridique.com/wp-content/uploads/2020/11/Conseil-Constitutionnel-600x400.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-06T16:56:37.488Z'
+  lastUpdate: '2023-12-06T16:56:38.543Z'
+  collection:
+    "$ref": collections
+    "$id": 37459360
+    oid: 37459360
+  highlights: []
+  domain: ma-veille-juridique.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 690389409
   collectionId: 37459360
   parsed: {}
 - _id: 705073904
@@ -27053,6 +27501,51 @@
     name: bonjouryannick
     email: ''
   sort: 699553277
+  collectionId: -1
+  parsed: {}
+- _id: 693360277
+  link: https://ia.net/topics/ia-writer-in-paper
+  title: iA Writer in Paper
+  excerpt: 'It all began with a simple question: What if iA Writer took the form of
+    a physical notebook?'
+  note: If I was sure of one thing. It is this. iA writer would do the best notebook
+    ever. If they entered the physical world, it would be an object I would love.
+    They proved me right, once again.
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://ia.net/wp-content/uploads/2023/12/iA-Notebook-closeup-1024x703.png
+  media:
+  - link: https://ia.net/wp-content/uploads/2023/12/iA-Notebook-closeup-1024x703.png
+    type: image
+  - link: https://ia.net/wp-content/uploads/2023/12/iA-Notebook-closeup.png
+    type: image
+  - link: https://ia.net/wp-content/uploads/2023/12/DSCF1189-2-scaled-1.jpg
+    type: image
+  - link: https://ia.net/wp-content/uploads/2023/12/DSCF1299-scaled-1.jpg
+    type: image
+  - link: https://ia.net/wp-content/uploads/2023/12/iA-Notebook-backlight-empty.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-12T13:04:16.348Z'
+  lastUpdate: '2023-12-12T21:43:24.651Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  domain: ia.net
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 693360277
   collectionId: -1
   parsed: {}
 - _id: 710864231
@@ -27197,383 +27690,6 @@
     email: ''
   sort: 709860913
   collectionId: 37679987
-  parsed: {}
-- _id: 740249098
-  link: https://www.youtube.com/watch?v=dBqK6e9A9bE
-  title: Is PERFECTIONISM a form of COWARDICE?
-  excerpt: "Perfection vs. good enough.\n\nJoin our PATREON to support the channel
-    and gain access to Early-Release Videos, Exclusive Director’s Commentaries, Q&A
-    Livestreams, Peer Discussions,  Limited Edition Zines and Patron-Only Videos:
-    https://www.patreon.com/spiritedman\n\nAri's Instagram: https://www.instagram.com/slow_woodshop/\nAri's
-    YouTube channel:  https://www.youtube.com/@slowwoodshop\n\n0:00 The Spirited Man
-    Patreon\n0:16 Intro\n0:50 Messages from my patrons\n1:37 Golden Post-it Note:
-    Perfectionism\n3:07 Standard of excellence vs. good enough\n5:58 What makes me
-    a good enough artist\n6:59 An ode to Wes Anderson\n7:59 The reward of the good
-    enough artist\n9:57 The quality spectrum\n10:15 Gift from a patron\n11:47 The
-    two routes to excellence\n13:44 Aristotle's clue to perfection\n15:09 Join The
-    Spirited Man Patreon\n\n\U0001F9BA SPIRITED MAN MERCH:\nT-Shirts, Sweatshirts,
-    Hats - https://spiritedman.com\n  \n\U0001F4F9 GREATEST HITS:\nVAN NEISTAT: The
-    Spirited Man - https://youtu.be/eT6wYbaRrlQ\nVAN NEISTAT: Fantasy Fixing - https://youtu.be/K65UQy6t6KQ
-    \n2 things to know about women - https://youtu.be/rTYH943jiEo \nWe Are In A \"FOURTH
-    TURNING,\" What Does That Mean? - https://youtu.be/xeVyfiP0cLk \nThe Reality of
-    Owning A Vintage Truck - https://youtu.be/DloMkje1JFY \nWhy Do Details Matter?
-    - https://youtu.be/ooTN3dkYXQM \n\n\U0001F4DA READING LIST:\nShop Class as Soulcraft
-    by Matthew Crawford - https://amzn.to/3ipz4br\nThe Fourth Turning by Neil Howe,
-    William Strauss - https://amzn.to/37J9FYn \nThe Hero with a Thousand Faces by
-    Joseph Campbell - https://amzn.to/3ik8Hnm\nThe Coddling of the American Mind by
-    Greg Lukianoff, Jonathan Haidt - https://amzn.to/3qcTUzl\nBreakfast of Champions
-    by Kurt Vonnegut - https://amzn.to/3ImOHLw\nFear and Loathing in Las Vegas by
-    Hunter S. Thompson - https://amzn.to/3qjYGLw\nCollected Essays by James Baldwin
-    - https://amzn.to/3qgYInm\nThe Outlaw Bible of American Literature by Alan Kaufman
-    - https://amzn.to/3N64stJ\nWhat Is Art? by Leo Tolstoy - https://amzn.to/3u2fqI8
-    \n\n\U0001F3A5 FILMMAKING GEAR: \nCanon 1DX - https://amzn.to/3MYfq4J\nWide Lens
-    - https://amzn.to/3Jqiy6W\nMacro Lens - https://amzn.to/37BnQyt\nGoPro 10 - https://amzn.to/3u7O9nC\nRODECaster
-    - https://amzn.to/3iocSOU\nShure SM7B Microphone - https://amzn.to/3u9yOD1\nDJI
-    Mavic Air 2 Drone - https://amzn.to/3KVd8kN\n\n\U0001F9F0  ESSENTIAL TOOLS:\nSwiss
-    Champ - https://amzn.to/36b1vrl\nLeatherman - https://amzn.to/3Ilb04b\nPentel
-    0.9mm - https://amzn.to/3Io5TQX\nSledgehammer - https://amzn.to/3Io5UV1\nVice-grip
-    - https://amzn.to/3qiuccx\n\nFollow Van Neistat\n\U0001F4F7  Instagram - https://www.instagram.com/vanneistat/
-    \n\nWould you like to advertise with us, direct business inquiries to: blewis@spacestation.com
-    \n\nABOUT THE SPIRITED MAN:\nThe Spirited Man is an unlimited series about the
-    spirited man or woman who lives inside all of us (and fixing things).\n\nABOUT
-    VAN NEISTAT:\nA pioneer in digital filmmaking, Van Neistat made his first internet
-    video, The Holland Tunnel, in 2000. He went on to collaborate with New York City
-    artist Tom Sachs, directing a series of short films shown at the Guggenheim Museum
-    in Berlin. Van has since directed dozens more films for the Tom Sachs Studio.
-    In 2010 HBO aired The Neistat Brothers, an 8-episode series of short videos made
-    entirely by Van and his brother Casey Neistat. Van Neistat’s directorial debut
-    feature, A SPACE PROGRAM, co-written by Tom Sachs, premiered at the 2015 South
-    by Southwest Film Festival and opened in theaters nation-wide in spring, 2016.
-    In 2018 Neistat Directed the short film Paradox Bullets, co-written with Tom Sachs,
-    narrated by Werner Herzog, and starring Ed Rushca. Neistat has written and directed
-    commercial projects for Nike, Hurley, Kate Spade, Tory Burch, J. Crew, Twitter,
-    Sleepy Jones and Frances Valentine. His work has been exhibited in museums throughout
-    the world. He lives in Topanga, California.\n\nDisclaimer: If you use any of the
-    affiliate links above, we may earn a few cents from qualifying purchases.\n\n#VanNeistat
-    #TheSpiritedMan #Filmmaking"
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/dBqK6e9A9bE/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/dBqK6e9A9bE/maxresdefault.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-02-22T09:14:06.955Z'
-  lastUpdate: '2024-02-22T09:14:17.149Z'
-  collection:
-    "$ref": collections
-    "$id": 37603939
-    oid: 37603939
-  highlights: []
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 740249098
-  collectionId: 37603939
-  parsed: {}
-- _id: 730784014
-  link: https://www.youtube.com/watch?v=syacvv6WItM
-  title: Changes
-  excerpt: 'My portfolio, work, and presets: https://www.forrestmankins.com'
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/syacvv6WItM/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/syacvv6WItM/maxresdefault.jpg
-    type: image
-  - link: https://i.ytimg.com/vi/syacvv6WItM/hqdefault.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-02-06T20:33:41.881Z'
-  lastUpdate: '2024-02-06T20:33:47.493Z'
-  collection:
-    "$ref": collections
-    "$id": 37603939
-    oid: 37603939
-  highlights: []
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 730784014
-  collectionId: 37603939
-  parsed: {}
-- _id: 728761929
-  link: https://mail.paulineharmange.fr/archive/ce-quon-tolere/
-  title: Ce qu'on tolère
-  excerpt: 'Salut, Nouvelle année pour cette newsletter, et plus ou moins grands changements
-    : j’ai décidé de quitter la plateforme Substack, que j’utilisais depuis...'
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://assets.buttondown.email/images/1917c4db-8d60-4d6f-8b04-15c925918f71.png
-  media:
-  - link: https://assets.buttondown.email/images/1917c4db-8d60-4d6f-8b04-15c925918f71.png
-    type: image
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2024-02-03T11:58:49.693Z'
-  lastUpdate: '2024-02-03T11:58:49.693Z'
-  collection:
-    "$ref": collections
-    "$id": 37603939
-    oid: 37603939
-  domain: mail.paulineharmange.fr
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 728761929
-  collectionId: 37603939
-  parsed: {}
-- _id: 728641270
-  link: https://gkeenan.co/avgb/rss-readers-make-me-want-to-jump-into-a-vat-of-acid
-  title: RSS readers make me want to jump into a vat of acid! — Keenan
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: ''
-  media: []
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2024-02-03T07:31:17.665Z'
-  lastUpdate: '2024-02-03T07:31:17.665Z'
-  collection:
-    "$ref": collections
-    "$id": 37603939
-    oid: 37603939
-  domain: gkeenan.co
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 728641270
-  collectionId: 37603939
-  parsed: {}
-- _id: 727025218
-  link: https://poorlydrawnlines.com/comic/purpose/
-  title: Purpose
-  excerpt: A thrice-weekly webcomic written and illustrated by Reza Farazmand. New
-    comics every Monday, Wednesday, and Friday.
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Fpoorlydrawnlines.com%2Fcomic%2Fpurpose%2F
-  media: []
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2024-01-31T22:13:08.930Z'
-  lastUpdate: '2024-01-31T22:13:08.930Z'
-  collection:
-    "$ref": collections
-    "$id": 37603939
-    oid: 37603939
-  domain: poorlydrawnlines.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 727025218
-  collectionId: 37603939
-  parsed: {}
-- _id: 725224927
-  link: https://www.codycookparrott.com/common-shapes-1/leavinginstagram
-  title: Leaving Instagram or Exiting the Portal of the Validation Loop — CODY COOK-PARROTT
-  excerpt: Welcome to season two of Common Shapes! Since last season, I took a big
-    step in my life and logged out of Instagram for good.      So in this episode,
-    I’m going to share why I left and how I did it. Not from a place of knowing-it-all,
-    but by asking the question, “what does it actually mean to be don
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://static1.squarespace.com/static/56cf543362cd940a7c36ebeb/642cbd0f1e3e1c090c16c411/65561e9a03f619620d3df229/1700142913014/Untitled+design-17.png?format=1500w
-  media:
-  - link: http://static1.squarespace.com/static/56cf543362cd940a7c36ebeb/642cbd0f1e3e1c090c16c411/65561e9a03f619620d3df229/1700142913014/Untitled+design-17.png?format=1500w
-    type: image
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2024-01-29T10:18:01.820Z'
-  lastUpdate: '2024-01-29T10:18:01.820Z'
-  collection:
-    "$ref": collections
-    "$id": 37603939
-    oid: 37603939
-  domain: codycookparrott.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 725224927
-  collectionId: 37603939
-  parsed: {}
-- _id: 717178026
-  link: https://zenhabits.net/stoked/
-  title: Stoked
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: ''
-  media: []
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2024-01-18T21:33:29.922Z'
-  lastUpdate: '2024-01-18T21:33:29.922Z'
-  collection:
-    "$ref": collections
-    "$id": 37603939
-    oid: 37603939
-  domain: zenhabits.net
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 717178026
-  collectionId: 37603939
-  parsed: {}
-- _id: 715937665
-  link: https://esbueno.noahstokes.com/forty
-  title: Forty — Noah Stokes | Es Bueno
-  excerpt: Es Bueno is a blog by Noah Stokes, a design leader with over 20 years of
-    expereience, that contains articles on design, product and music.
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Fesbueno.noahstokes.com%2Fforty
-  media: []
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-01-17T09:10:24.102Z'
-  lastUpdate: '2024-01-17T09:10:24.811Z'
-  collection:
-    "$ref": collections
-    "$id": 37603939
-    oid: 37603939
-  highlights: []
-  domain: esbueno.noahstokes.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 715937665
-  collectionId: 37603939
-  parsed: {}
-- _id: 715936021
-  link: https://manage.kmail-lists.com/subscriptions/web-view?a=aVinKJ&c=01EJEM3YYYJNXDFZN393DNT3R1&k=b516e59e9076885f6812dd13b1088736&m=01HM9Z10M45WDKPWMMPGATK1Z9&r=WPcvyMh
-  title: Web view
-  excerpt: 'null'
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Fmanage.kmail-lists.com%2Fsubscriptions%2Fweb-view%3Fa%3DaVinKJ%26c%3D01EJEM3YYYJNXDFZN393DNT3R1%26k%3Db516e59e9076885f6812dd13b1088736%26m%3D01HM9Z10M45WDKPWMMPGATK1Z9%26r%3DWPcvyMh
-  media: []
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-01-17T09:07:06.413Z'
-  lastUpdate: '2024-01-17T09:07:08.161Z'
-  collection:
-    "$ref": collections
-    "$id": 37603939
-    oid: 37603939
-  highlights: []
-  domain: manage.kmail-lists.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 715936021
-  collectionId: 37603939
-  parsed: {}
-- _id: 710441500
-  link: https://winnielim.org/journal/2024-one-pull-up/
-  title: '2024: one pull up'
-  excerpt: One of my biggest goals last year was to run 10km – for me it is not just
-    a distance goal for the sake of having a distance goal, but rather cultivating
-    the health and fitness required to complete...
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://winnielim.org/wp-content/uploads/2024/01/2024-intersections.png
-  media:
-  - link: https://winnielim.org/wp-content/uploads/2024/01/2024-intersections.png
-    type: image
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2024-01-08T06:33:17.849Z'
-  lastUpdate: '2024-01-08T06:33:17.849Z'
-  collection:
-    "$ref": collections
-    "$id": 37603939
-    oid: 37603939
-  domain: winnielim.org
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 710441500
-  collectionId: 37603939
   parsed: {}
 - _id: 717178026
   link: https://zenhabits.net/stoked/
