@@ -24,4 +24,4 @@ linktitle: "🌀 Now"
 - Trying to create a [membership](https://ko-fi.com/bonjouryannick/tiers) that would have a tangible world presence.
 - Moved to [omg.lol](https://omg.lol) for my mastodon account. Find me at [@yannick](https://social.lol/@yannick)
 
-*This page has been updated on 2024.02.0. If you wanna read more about /now, [follow this](https://nownownow.com/about).*
+*This page has been updated on 2024.03.22. If you wanna read more about /now, [follow this](https://nownownow.com/about).*
