@@ -26,4 +26,4 @@ date: '2024-04-04T11:40:32.685Z'
 highlights: 
 ---
 
-
+I am always amazed at such minimalist places. I have two sides and one is definitely messy and disorganized. I would overflow such a place.

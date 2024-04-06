@@ -7,14 +7,15 @@ title: The internets are full of random things
 seotitle: A bunch of bookmarks - 🔗 Bonjour Yannick
 description: Just stuff I randomly find over the many weird and fun corners of the Internets.  
 grid: true
-groupBy: "January 2006"
+extended: true
+groupBy: "Mon, 02 Jan 2006"
 archived: true
 _build:
   render: true
 cascade:
   _build:
     list: true
-    render: false
+#    render: false
 uuid: f920935e-717e-44f7-9516-bedc27ec18db
 ---
 
