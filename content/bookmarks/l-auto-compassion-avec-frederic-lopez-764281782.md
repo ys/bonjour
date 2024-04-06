@@ -25,4 +25,6 @@ date: '2024-04-04T09:10:16.147Z'
 highlights: 
 ---
 
+Self compassion, mindfulness & other topics. Made me smile, made me want to cry.  
+Qui aurait cru que je regarderais un podcast par une ancienne miss France.
 
