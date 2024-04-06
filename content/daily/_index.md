@@ -5,7 +5,7 @@ menu:
   more:
     weight: 1
 linktitle: "🗓️ Daily"
-year: "2023"
+year: "2024"
 skip: "cover.png"
 type: "photos"
 description: "I love to document my life"
