@@ -1,0 +1,24 @@
+{{ define "main" }}
+<article class="h-entry">
+  <div class="py-6 lowercase" >
+    <a href="{{ .Params.bookmarkOf }}">
+      <img class="block relative hover:shadow-xl hover:shadow-{{$.Scratch.Get "color" }}/20 shadow-lg img" src="{{.Params.headImage}}"/>
+    </a>
+  </div>
+  {{ partial "article_content" . }}
+  <span class="text-xs mb-32  text-right font-sans  capitalize flex  justify-end gap-1">
+    {{ partial "heart" . }}
+    {{ .Site.Params.arrow }}
+    <a class="lowercase" href="{{ .Params.bookmarkOf }}">
+     {{ .Params.Domain }}
+    </a>
+    {{ .Site.Params.arrow }}
+    <a href="{{ .RelPermalink }}">
+      <time class="dt-published" datetime="{{ .Date.Format "2006-01-02t15:04:05z0700" }}">
+        {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+      </time>
+    </a>
+  </span>
+{{ partial "article_navigation" . }}
+</article>
+{{ end }}

@@ -3,13 +3,19 @@
 {{range first 1 (shuffle $.Site.Params.themeColors) }}
   {{ $color = . }}
 {{ end }}
-<article class="group">
-  <a href="{{ .Params.bookmarkOf }}"
+<article class="group pb-4">
+  <a href="{{.RelPermalink}}"
         class="text-crust dark:text-gray-100 hover:dark:text-gray-100 hover:text-crust/70">
-  <header class="bottom-4  flex flex-row justify-between place-items-center gap-2 p-2">
-    <h2 class="ellipsis break-all max-w-[60%] line-clamp-1 text-gray-800 dark:text-gray-100  no-underline ">{{ .Title }}</h2>
-    <div class=" flex-grow "><div class=" mt-2 border-t border-dotted border-gray-800 dark:border-gray-100" ></div></div>
-    <h3 class="max-w-[30%] ellipsis break-all line-clamp-1 font-sans no-underline font-normal text-xs ">{{.Params.domain }}</h3>
+  <header class="bottom-4 font-bold flex flex-row justify-between place-items-center gap-2 py-2">
+    <h2 class="ellipsis break-all  line-clamp-1 text-gray-800 dark:text-gray-100  no-underline ">{{ .Title }} </h2>
   </header>
   </a>
+  <div class="text-sm {{ if not .Content }}text-gray-500{{end}}">
+  {{ .Content | default (.Params.description |truncate 100) }}
+  </div>
+  <footer class="py-2 font-sans text-xs text-gray-600">
+    ⌁ <a href="{{ .Params.bookmarkOf }}">
+    <span class=" font-sans no-underline font-normal text-xs ">{{.Params.domain }}</span>
+  </a>
+  </footer>
 </article>
