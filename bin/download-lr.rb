@@ -15,7 +15,7 @@ class Downloader
     resp = Net::HTTP.get(URI(asset_url))
     resp = resp.sub("while (1) {}", "")
     `mkdir -p data/daily`
-    File.open("data/daily/#{@year}.json", "w") { |file| file.write(JSON.dump(JSON.parse(resp)) }
+    File.open("data/daily/#{@year}.json", "w") { |file| file.write(JSON.dump(JSON.parse(resp))) }
     assets = JSON.parse(resp)["resources"]
     `mkdir -p content/daily/#{@year}`
     assets #.sort_by { |a| DateTime.parse(a["payload"]["captureDate"]) }
