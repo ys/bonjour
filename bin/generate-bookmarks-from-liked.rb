@@ -8,11 +8,11 @@ Bundler.require(:default)
 Dotenv.load
 
 class Link
-  attr_accessor :url, :tags, :uuid, :image, :description, :title, :created_at, :category, :notes, :image_name
+  attr_accessor :url, :tags, :uuid, :image, :description, :title, :created_at, :category, :notes, :image_name, :highlights
 
   def save
     file = "content/bookmarks/#{created_at.to_datetime.strftime('%Y-%m-%d-%H-%M')}-#{title.parameterize}.md"
-    File.write(file, YAML.dump(to_h)+ "---\n#{notes}")
+    File.write(file, YAML.dump(to_h)+ "---\n#{notes}\n## highlights\n#{highlights.map{|h| '> '+h}.join("\n")}")
   end
 
   def to_h
@@ -44,6 +44,9 @@ yaml.each do |liked|
   l.description = liked["description"]
   l.image = liked.dig("image", "display", "url")
   l.image_name = liked.dig("image", "filename")
+  l.notes = liked["notes"]
+  l.highlights = liked["highlights"].map {|h| h["text"] }
+
   l.save
 end
 

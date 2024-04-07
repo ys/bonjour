@@ -8,7 +8,8 @@ domain: naiveweekly.com
 description: Elliott Cost, Cursor Magazine, and airplane sights
 tags: []
 date: '2023-10-19T07:25:52.981Z'
-highlights: 
+highlights:
 ---
+
 
 

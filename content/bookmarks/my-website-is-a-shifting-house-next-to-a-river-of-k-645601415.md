@@ -6,10 +6,11 @@ headImage: https://tci-assets.s3.amazonaws.com/uploads/laurel-schwulst-my-websit
 title: My website is a shifting house next to a river of knowledge. What could yours
   be?
 domain: thecreativeindependent.com
-description: 
+description:
 tags: []
 date: '2023-01-26T19:49:38.767Z'
-highlights: 
+highlights:
 ---
+
 
 

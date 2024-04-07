@@ -11,7 +11,8 @@ description: A la rencontre de Jean Penninck qui shape sous le nom de Naje Surfb
   de ses planches…  Retrouvez un extrait de son travail de sh
 tags: []
 date: '2023-09-18T07:18:05.953Z'
-highlights: 
+highlights:
 ---
 
+Nice podcast in French with Naje
 

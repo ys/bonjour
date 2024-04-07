@@ -11,7 +11,8 @@ description: Welcome to season two of Common Shapes! Since last season, I took a
   but by asking the question, “what does it actually mean to be don
 tags: []
 date: '2024-01-29T10:18:01.820Z'
-highlights: 
+highlights:
 ---
+
 
 

@@ -15,3 +15,7 @@ highlights: |-
 ---
 
 
+
+> Detach from the expectations of the internet. Take your time with projects because you owe it to yourself to make something original to you. There is no rush.
+
+> To desire to keep up with what is going on is nearly impossible in the world we live in. Whether that be the standards set by social media, tricks being done or the temporary styles that come and go. I advise anyone to develop their own relationship with whatever craft they take on.
