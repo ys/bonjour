@@ -38,7 +38,7 @@ description: "If you don’t know the band @lawrencetheband, you must go listen 
   schoolyard\nDown by the schoolyard"
 tags: []
 date: '2024-03-29T09:46:01.253Z'
-highlights:
+highlights: 
 ---
 
 Gimme a band that sounds right and has great cover songs. I can listen to that for ours.
