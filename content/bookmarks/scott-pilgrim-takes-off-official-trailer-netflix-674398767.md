@@ -10,7 +10,7 @@ description: "BEHOLD THE TRAILER FOR SCOTT PILGRIM TAKES OFF! \U0001F579️ \U00
   November 17.ABOUTScott Pilgrim meets ..."
 tags: []
 date: '2023-11-07T11:45:43.873Z'
-highlights:
+highlights: 
 ---
 
 

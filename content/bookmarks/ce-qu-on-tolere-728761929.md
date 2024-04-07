@@ -9,7 +9,7 @@ description: 'Salut, Nouvelle année pour cette newsletter, et plus ou moins gra
   changements : j’ai décidé de quitter la plateforme Substack, que j’utilisais depuis...'
 tags: []
 date: '2024-02-03T11:58:49.693Z'
-highlights:
+highlights: 
 ---
 
 
