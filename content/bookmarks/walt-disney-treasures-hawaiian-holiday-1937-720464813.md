@@ -9,7 +9,8 @@ description: Mickey, Minnie, Donald, Goofy, and Pluto relax in sunny Hawaii in t
   classic 1937 cartoon!
 tags: []
 date: '2024-01-24T20:12:28.569Z'
-highlights: 
+highlights:
 ---
 
+You often wonders when the term goofy comes from in surfing and skateboarding? Search no more. It is right here in front of you.
 

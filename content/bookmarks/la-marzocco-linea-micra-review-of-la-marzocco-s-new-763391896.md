@@ -28,7 +28,10 @@ description: "MY FIRST LM GB5 WAS 10 YEARS OLD NOT 20! Started on it in 2015 and
   Stream: https://inaudio.org/track/innerbloom-...\n––––––––––––––––––––––––––––––"
 tags: []
 date: '2024-04-02T11:36:20.714Z'
-highlights: 
+highlights:
 ---
 
+Testing one made me wanna see more about it.  
+ This little marvel is like a Leica to me... it feels right in my hands.   
+I ain't an expert but I feel like one when I use it.
 

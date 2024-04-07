@@ -5,10 +5,11 @@ category: link
 headImage: https://rdl.ink/render/https%3A%2F%2Fjeremylachance.com%2F
 title: Jeremy Lachance
 domain: jeremylachance.com
-description: 
+description:
 tags: []
 date: '2023-01-26T19:45:47.248Z'
-highlights: 
+highlights:
 ---
+
 
 

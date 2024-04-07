@@ -15,3 +15,5 @@ highlights: 'If you want to be a writer, you must do two things above all others
 ---
 
 
+
+> If you want to be a writer, you must do two things above all others: read a lot and write a lot. There’s no way around these two things that I’m aware of, no shortcut.
