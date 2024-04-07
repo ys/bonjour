@@ -18,3 +18,7 @@ highlights: |-
 ---
 
 
+
+> once you loosen up your brain by coming up with ten bad ideas, some good ideas may follow.
+
+But here's another thing: we're not great at judging if an idea is good or bad. So write all of your ideas down. Go back and read through your bad ideas occasionally. Something might surprise you.

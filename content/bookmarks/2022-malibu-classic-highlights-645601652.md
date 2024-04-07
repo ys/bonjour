@@ -5,10 +5,11 @@ category: video
 headImage: https://i.ytimg.com/vi/XyswXpa5LVw/maxresdefault.jpg
 title: 2022 Malibu Classic Highlights
 domain: youtube.com
-description: 
+description:
 tags: []
 date: '2023-06-15T07:56:38.362Z'
-highlights: 
+highlights:
 ---
+
 
 

@@ -24,7 +24,10 @@ description: "@RichieJacksonFC is skateboarding’s last true outlaw. The Death 
   the FREE Red Bull TV apps for all your devices:  https://go.onelink.me/351027264/35a30660"
 tags: []
 date: '2024-03-21T15:38:13.326Z'
-highlights: 
+highlights:
 ---
 
+Be at the border of stupidity
+
+"People are so good at what skateboarding is, I wanna be good at what skateboarding is not "
 

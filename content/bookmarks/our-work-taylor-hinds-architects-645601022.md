@@ -5,10 +5,11 @@ category: link
 headImage: https://rdl.ink/render/https%3A%2F%2Fwww.taylorandhinds.com.au%2Fourwork
 title: Our Work — Taylor + Hinds Architects
 domain: taylorandhinds.com.au
-description: 
+description:
 tags: []
 date: '2023-01-26T19:44:27.490Z'
-highlights: 
+highlights:
 ---
+
 
 

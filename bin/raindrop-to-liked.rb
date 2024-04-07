@@ -167,14 +167,14 @@ class Downloader
   def to_md(r)
     header = (r["type"] == "video") ? "[#{r["domain"]}](#{r["link"]})" : "![](#{r["_id"]}.webp)"
     domain = (r["type"] == "video") ? r["domain"] : "[#{r["domain"]}](#{r["link"]})"
-    ht = ""
+    ht = r["note"] + "\n"
     if r["highlights"].any?
-      ht = "## Highlights\n" + r["highlights"].map {|h| h["text"] }.join("\n")
+      ht = "\n\n" + r["highlights"].map {|h| "> " + h["text"] }.join("\n\n")
     end
     file = <<~MD
     ---
 
-    #{r["ht"]}
+    #{ht}
     MD
     YAML.dump(to_frontmatter(r)) + file
   end

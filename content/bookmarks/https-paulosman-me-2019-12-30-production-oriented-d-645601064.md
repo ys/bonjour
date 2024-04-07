@@ -5,10 +5,11 @@ category: link
 headImage: ''
 title: https://paulosman.me/2019/12/30/production-oriented-development.html
 domain: paulosman.me
-description: 
+description:
 tags: []
 date: '2023-01-26T19:45:02.909Z'
-highlights: 
+highlights:
 ---
+
 
 

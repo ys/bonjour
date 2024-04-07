@@ -20,7 +20,8 @@ description: "Jack Black cruised thru to yell 'Do a Kickflip' and—if your kick
   #Berrics #TheBerrics #SkateboardingIsFun"
 tags: []
 date: '2023-11-29T13:32:05.829Z'
-highlights: 
+highlights:
 ---
 
+Do a kick flip tenacious D edition
 

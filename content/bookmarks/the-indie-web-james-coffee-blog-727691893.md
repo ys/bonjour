@@ -13,7 +13,8 @@ description: I went twenty-two years not knowing how to cook an egg. Cooking cla
   For other foods, my worry was always food poisioning; if I cook, I'll get ill.
 tags: []
 date: '2024-02-01T19:45:47.151Z'
-highlights: 
+highlights:
 ---
+
 
 

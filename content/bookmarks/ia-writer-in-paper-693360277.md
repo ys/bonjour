@@ -9,7 +9,8 @@ description: 'It all began with a simple question: What if iA Writer took the f
   of a physical notebook?'
 tags: []
 date: '2023-12-12T13:04:16.348Z'
-highlights: 
+highlights:
 ---
 
+If I was sure of one thing. It is this. iA writer would do the best notebook ever. If they entered the physical world, it would be an object I would love. They proved me right, once again.
 

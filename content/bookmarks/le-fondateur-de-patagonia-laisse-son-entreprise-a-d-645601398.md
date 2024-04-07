@@ -6,10 +6,11 @@ headImage: https://img.lemde.fr/2022/09/15/162/0/1501/1000/1440/960/60/0/32a188e
 title: Le fondateur de Patagonia laisse son entreprise à Dame Nature, sans cession
   ni introduction en Bourse
 domain: lemonde.fr
-description: 
+description:
 tags: []
 date: '2023-01-26T19:49:21.881Z'
-highlights: 
+highlights:
 ---
+
 
 

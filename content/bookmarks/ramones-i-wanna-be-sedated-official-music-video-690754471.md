@@ -76,7 +76,8 @@ description: |-
   RHINO is the official YouTube channel of the greatest music catalog in the world. Founded in 1978, Rhino is the world's leading pop culture label specializing in classic rock, soul, and 80's and 90's alternative. The vast Rhino catalog of more than 5,000 albums, videos, and hit songs features material by Warner Music Group artists such as Van Halen, Duran Duran, Aretha Franklin, Ray Charles, The Doors, Chicago, Black Sabbath, John Coltrane, Yes, Alice Cooper, Linda Ronstadt, The Ramones, The Monkees, Carly Simon, and Curtis Mayfield, among many others. Check back for classic music videos, live performances, hand-curated playlists, the Rhino Podcast, and more!
 tags: []
 date: '2023-12-07T10:16:58.472Z'
-highlights: 
+highlights:
 ---
+
 
 

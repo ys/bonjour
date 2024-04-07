@@ -9,7 +9,8 @@ description: A Pokedex, but real, helping a new generation of Ecology Guardians 
   the magical world of nature with Ai and hands on play.
 tags: []
 date: '2023-12-14T19:57:59.984Z'
-highlights: 
+highlights:
 ---
+
 
 

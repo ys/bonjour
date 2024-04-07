@@ -5,10 +5,11 @@ category: article
 headImage: https://media.newyorker.com/photos/62f44419232d5ac259deffdd/16:9/w_1280,c_limit/220822_r40869.jpg
 title: My Dad and Kurt Cobain
 domain: newyorker.com
-description: 
+description:
 tags: []
 date: '2023-03-20T21:10:41.179Z'
-highlights: 
+highlights:
 ---
+
 
 

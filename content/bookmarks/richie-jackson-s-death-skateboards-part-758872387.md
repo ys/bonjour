@@ -9,7 +9,8 @@ description: Richie reminds us that there are no rules in skateboarding. Choose 
   own adventure. Keep up with Thrasher Magazine here:http://www.thrashermagazine.comhttp://www.facebook.com/thrashermagazinehttp://www.instagram.com/thrashermaghttp://www.twitter.com/thrashermag
 tags: []
 date: '2024-03-24T18:45:30.298Z'
-highlights: 
+highlights:
 ---
+
 
 

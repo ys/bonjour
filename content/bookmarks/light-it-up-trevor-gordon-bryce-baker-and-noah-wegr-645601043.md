@@ -5,10 +5,11 @@ category: video
 headImage: https://i.ytimg.com/vi/guhxz3k6tIo/maxresdefault.jpg
 title: Light It Up | Trevor Gordon, Bryce Baker, and Noah Wegrich
 domain: youtube.com
-description: 
+description:
 tags: []
 date: '2023-01-26T19:44:46.330Z'
-highlights: 
+highlights:
 ---
+
 
 

@@ -17,3 +17,5 @@ highlights: In real life, skating is an art form that requires constant sacrific
 ---
 
 
+
+> In real life, skating is an art form that requires constant sacrifice, physical pain and public embarrassment for the sake of an ephemeral few seconds of pure beauty. You have to fall a thousand times before you succeed. The Tony Hawk games aren’t concerned with that. They recreate the iterative satisfaction of skating — the feeling that, with enough practice, you can do something miraculous — without all the concussions, bloody knees and shattered wrists.

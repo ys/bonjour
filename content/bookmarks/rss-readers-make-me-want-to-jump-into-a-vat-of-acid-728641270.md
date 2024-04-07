@@ -5,10 +5,11 @@ category: article
 headImage: ''
 title: RSS readers make me want to jump into a vat of acid! — Keenan
 domain: gkeenan.co
-description: 
+description:
 tags: []
 date: '2024-02-03T07:31:17.665Z'
-highlights: 
+highlights:
 ---
+
 
 

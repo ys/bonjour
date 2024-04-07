@@ -5,10 +5,11 @@ category: link
 headImage: https://www.liberation.fr/apps/2016/06/pokemon/social.jpg
 title: Pokémon, traduisez-les tous
 domain: liberation.fr
-description: 
+description:
 tags: []
 date: '2023-01-26T19:46:56.507Z'
-highlights: 
+highlights:
 ---
+
 
 

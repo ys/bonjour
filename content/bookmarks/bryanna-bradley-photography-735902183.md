@@ -8,7 +8,8 @@ domain: bryannabradley.ca
 description: Vancouver Island,BC  wedding and surf photography.
 tags: []
 date: '2024-02-15T12:55:32.906Z'
-highlights: 
+highlights:
 ---
+
 
 

@@ -17,3 +17,7 @@ highlights: |-
 ---
 
 
+
+> surfing as the journey, not always the destination
+
+> If we surf to connect, to attempt to decode nature, to be open to the transfer of energy from the sea to ourselves, to carve ourselves out some personal time then surfing is a form of therapy, of meditation, medicine

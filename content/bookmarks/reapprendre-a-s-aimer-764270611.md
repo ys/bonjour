@@ -25,7 +25,8 @@ description: "Bonjour Youtube :) \nAlors moi c'est Laury, j'ai 32 ans et il y a 
   Organic Positive.\n\n\nEcrit & Produit : Laury Thilleman\nRéalisation : Jorys Lamothe"
 tags: []
 date: '2024-04-04T08:30:10.505Z'
-highlights: 
+highlights:
 ---
 
+Des images de surf, de l'amour de soi, cela marche bien sur moi.
 

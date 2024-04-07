@@ -10,7 +10,8 @@ description: "Podcast dédié au surf, aux planches et aux shapers. Nous allons 
   lexique du shape."
 tags: []
 date: '2023-09-18T07:19:21.533Z'
-highlights: 
+highlights:
 ---
+
 
 

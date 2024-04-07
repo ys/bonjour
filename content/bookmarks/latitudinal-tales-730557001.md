@@ -8,7 +8,8 @@ domain: latitudinaltales.co.uk
 description: positive vibes and images by james bowden © // website
 tags: []
 date: '2024-02-06T13:59:32.109Z'
-highlights: 
+highlights:
 ---
+
 
 

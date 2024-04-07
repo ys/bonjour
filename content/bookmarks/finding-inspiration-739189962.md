@@ -10,7 +10,8 @@ description: How finding inspiration from outside of photography helped me creat
   you si...
 tags: []
 date: '2024-02-20T20:10:36.324Z'
-highlights: 
+highlights:
 ---
+
 
 
