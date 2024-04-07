@@ -9,7 +9,7 @@ domain: joebrook.com
 description: A series of photos of people encountered while traveling.
 tags: []
 date: '2024-03-27T14:17:39.253Z'
-highlights:
+highlights: 
 ---
 
 
