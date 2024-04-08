@@ -5,10 +5,10 @@ category: article
 headImage: https://blog.rachelbinx.com/placeholder.jpg
 title: The Unbearable Sameness of the Modern Web
 domain: blog.rachelbinx.com
-description:
+description: 
 tags: []
 date: '2023-02-21T11:00:44.958Z'
-highlights:
+highlights: 
 ---
 
 
