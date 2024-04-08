@@ -9,7 +9,7 @@ description: Ambassador Sally McGee and family set off to explore Ireland's anci
   landscape and connect with fellow Finisterre Ambassadors.
 tags: []
 date: '2024-03-10T21:14:52.967Z'
-highlights:
+highlights: 
 ---
 
 

@@ -10,7 +10,7 @@ description: Taking an Internet Walk by Spencer Chang & Kristoffer Tjalve THE IN
   world “indistinguishable from magic:”…
 tags: []
 date: '2023-11-22T09:21:32.029Z'
-highlights:
+highlights: 
 ---
 
 > These sites are hidden from our everyday experiences because they are invisible to our internet navigators. Instead, our defaults are hyper-SEOified links where there is no clear person behind the content. When we encounter the kind of content created for a computer-first internet, alarm bells should sound in our heads.
