@@ -32,6 +32,7 @@ canonifyURLs = false
   footer = " Be kind, rewind."
   text_404 = "Perdu?"
   mainSections = [ "posts", "photos" ]
+  doNotIndex = ["bookmarks"]
   showFooter = ["posts", "photos"]
   showExif = ["details", "journal"]
   showCover = ["journal"]
