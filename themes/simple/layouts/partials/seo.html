@@ -17,6 +17,9 @@
 <title>{{ $title }}</title>
 <meta name="theme-color" media="(prefers-color-scheme: light)" content="{{$colorHex}}" />
 <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#232634" />
+{{ if in .Site.Params.doNotIndex .Type }}
+    <meta name="robots" content="noindex">
+{{ end }}
 <link rel="apple-touch-icon" sizes="180x180" href="/{{ $.Scratch.Get "color"}}/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/{{ $.Scratch.Get "color"}}/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/{{ $.Scratch.Get "color"}}/favicon-16x16.png">
