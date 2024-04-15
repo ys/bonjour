@@ -9071,613 +9071,6 @@
   important: true
   collectionId: 37456415
   parsed: {}
-- _id: 645601368
-  link: https://www.monsterchildren.com/a-portrait-on-jamie-thomas/
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://static1.squarespace.com/static/6398e5b4b3dd441ead33860a/t/64303a7c3e69e2746411e4b5/1680882304197/MonsterChildren_APortraitOnJamieThomas_RyanAllan_6.jpg?format=1500w
-  media:
-  - type: image
-    link: http://static1.squarespace.com/static/6398e5b4b3dd441ead33860a/t/64303a7c3e69e2746411e4b5/1680882304197/MonsterChildren_APortraitOnJamieThomas_RyanAllan_6.jpg?format=1500w
-  tags: []
-  removed: false
-  created: '2023-01-26T19:48:54.803Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: monsterchildren.com
-  title: A Portrait on jamie thomas — Monster Children
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601368
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601367
-  link: https://craigmod.com/roden/069/
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://craigmod.com/roden/img/069/069.jpg
-  media:
-  - type: image
-    link: https://craigmod.com/roden/img/069/069.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:48:54.163Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: craigmod.com
-  title: Covid. — Roden newsletter issue 069
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601367
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601366
-  link: https://craigmod.com/ridgeline/145/
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://craigmod.com/ridgeline/images/145/145.jpg
-  media:
-  - type: image
-    link: https://craigmod.com/ridgeline/images/145/145.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:48:53.626Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: craigmod.com
-  title: Walking Alec Soth
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601366
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601365
-  link: https://betterprogramming.pub/you-will-always-have-more-problems-than-engineers-aafff94a4623
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://miro.medium.com/v2/resize:fit:1200/1*DhPQsNoAw2GDlKbdpaJCBA.jpeg
-  media:
-  - type: image
-    link: https://miro.medium.com/v2/resize:fit:1200/1*DhPQsNoAw2GDlKbdpaJCBA.jpeg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:48:53.018Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: betterprogramming.pub
-  title: You will always have more problems than engineers.
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601365
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601364
-  link: https://www.nottoolateclimate.com/?utm_source=densediscovery
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://static.wixstatic.com/media/11062b_008ec8cc88a24b7e82f01d4aa6665d02~mv2.jpg/v1/fill/w_2500,h_1666,al_c/11062b_008ec8cc88a24b7e82f01d4aa6665d02~mv2.jpg
-  media:
-  - type: image
-    link: https://static.wixstatic.com/media/11062b_008ec8cc88a24b7e82f01d4aa6665d02~mv2.jpg/v1/fill/w_2500,h_1666,al_c/11062b_008ec8cc88a24b7e82f01d4aa6665d02~mv2.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:48:51.887Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: nottoolateclimate.com
-  title: Not Too Late
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601364
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601363
-  link: https://www.redbull.com/gb-en/theredbulletin/sally-mcgee-interview
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://img.redbull.com/images/c_crop,w_1002,h_501,x_0,y_282,f_auto,q_auto/c_scale,w_1200/redbullcom/2022/7/6/l7u6mnrvlr9grncncicf/sallymcgee
-  media:
-  - type: image
-    link: https://img.redbull.com/images/c_crop,w_1002,h_501,x_0,y_282,f_auto,q_auto/c_scale,w_1200/redbullcom/2022/7/6/l7u6mnrvlr9grncncicf/sallymcgee
-  tags: []
-  removed: false
-  created: '2023-01-26T19:48:51.355Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: redbull.com
-  title: Making waves with Northern soul surfer Sally McGee
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601363
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601361
-  link: https://langbrett.com/en/blogs/selber-machen/surfwachs-selber-machen
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://langbrett.com/cdn/shop/articles/surfwachs-selber-machen-126424_600x.jpg?v=1660785222
-  media:
-  - type: image
-    link: https://langbrett.com/cdn/shop/articles/surfwachs-selber-machen-126424_600x.jpg?v=1660785222
-  tags: []
-  removed: false
-  created: '2023-01-26T19:48:49.699Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: langbrett.com
-  title: make your own surf wax
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601361
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601360
-  link: https://johnedchristensen.github.io/WebbCompare/
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Fjohnedchristensen.github.io%2FWebbCompare%2F
-  media:
-  - type: image
-    link: https://rdl.ink/render/https%3A%2F%2Fjohnedchristensen.github.io%2FWebbCompare%2F
-    screenshot: true
-  tags: []
-  removed: false
-  created: '2023-01-26T19:48:48.909Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: johnedchristensen.github.io
-  title: Webb Compare
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601360
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601359
-  link: https://1x.engineer/
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://1x.engineer/img/1x.engineer.png
-  media:
-  - type: image
-    link: https://1x.engineer/img/1x.engineer.png
-  tags: []
-  removed: false
-  created: '2023-01-26T19:48:47.992Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: 1x.engineer
-  title: 1x Engineer
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601359
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601358
-  link: https://helvetiq.com/us/papa-rando
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: ''
-  media: []
-  tags: []
-  removed: false
-  created: '2023-01-26T19:48:47.393Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: helvetiq.com
-  title: https://helvetiq.com/us/papa-rando
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601358
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601357
-  link: https://youtu.be/yHlG18tMqoQ
-  excerpt: ''
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/yHlG18tMqoQ/maxresdefault.jpg
-  media:
-  - type: image
-    link: https://i.ytimg.com/vi/yHlG18tMqoQ/maxresdefault.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:48:46.145Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: youtu.be
-  title: The Freedom - An American Tale
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601357
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601356
-  link: https://existenzminima.be/existenzminimum1.html
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Fexistenzminima.be%2Fexistenzminimum1.html
-  media:
-  - type: image
-    link: https://rdl.ink/render/https%3A%2F%2Fexistenzminima.be%2Fexistenzminimum1.html
-    screenshot: true
-  tags: []
-  removed: false
-  created: '2023-01-26T19:48:44.839Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: existenzminima.be
-  title: Existenzminima - architecture camper van VW T5
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601356
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601355
-  link: https://beside.media/fr/nouveaux-recits/vous-netes-pas-responsable-des-changements-climatiques/
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: ''
-  media: []
-  tags: []
-  removed: false
-  created: '2023-01-26T19:48:43.220Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: beside.media
-  title: https://beside.media/fr/nouveaux-recits/vous-netes-pas-responsable-des-changements-climatiques/
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601355
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601354
-  link: https://finisterre.com/blogs/broadcast/a-road-to-nowhere?xnpe_tifc=4DBuhF4uh.oJxIzJ4DBNbjpsafeWaeiWhFW6hfp3alB8bf8cRf4gVd46EMQ-tu4vaMpNbdHXx.EN4FYjhk4NxDnJ
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://finisterre.com/cdn/shop/articles/unnamed_7b26e018-8d92-4cfd-8caa-d582b4b81072.jpg?v=1656063428
-  media:
-  - type: image
-    link: https://finisterre.com/cdn/shop/articles/unnamed_7b26e018-8d92-4cfd-8caa-d582b4b81072.jpg?v=1656063428
-  tags: []
-  removed: false
-  created: '2023-01-26T19:48:42.305Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: finisterre.com
-  title: The Road To Nowhere
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601354
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601353
-  link: https://theprimalrevolution.exposure.co/using-playfulness-as-an-intuitive-compass
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://exposure-marketing.accelerator.net/open-graph-image.png
-  media:
-  - type: image
-    link: https://exposure-marketing.accelerator.net/open-graph-image.png
-  tags: []
-  removed: false
-  created: '2023-01-26T19:48:41.638Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: theprimalrevolution.exposure.co
-  title: The visual storytelling platform made simple and beautiful
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601353
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601352
-  link: https://www.theguardian.com/society/2022/feb/06/i-didnt-even-know-this-was-humanly-possible-the-woman-who-can-descend-into-the-sea-on-one-breath
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.guim.co.uk/img/media/b0f584fc7924639b8529ff9ff8a39c45fc2908b6/0_179_3543_2125/master/3543.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6312ddfed5dcd938b88ef265e98adb17
-  media:
-  - type: image
-    link: https://i.guim.co.uk/img/media/b0f584fc7924639b8529ff9ff8a39c45fc2908b6/0_179_3543_2125/master/3543.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6312ddfed5dcd938b88ef265e98adb17
-  tags: []
-  removed: false
-  created: '2023-01-26T19:48:41.102Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: theguardian.com
-  title: "‘I didn’t even know this was humanly possible’: the woman who can descend
-    into the sea on one breath"
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601352
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601350
-  link: https://www.fieldmag.com/articles/baja-california-road-trip-photography-mexico
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://images.ctfassets.net/r7p9m4b1iqbp/5asFhtf8ePj6JFmoDEu3nD/0f2edc914b103b44eb75cc5fdd1330a5/Brian-Chorski-Baja-Mexico-Hero.jpg?w=1000
-  media:
-  - type: image
-    link: http://images.ctfassets.net/r7p9m4b1iqbp/5asFhtf8ePj6JFmoDEu3nD/0f2edc914b103b44eb75cc5fdd1330a5/Brian-Chorski-Baja-Mexico-Hero.jpg?w=1000
-  tags: []
-  removed: false
-  created: '2023-01-26T19:48:38.882Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: fieldmag.com
-  title: 23 Film Photos of Surf, Seafood, and Solitude in Baja Norte
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601350
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601349
-  link: https://indoek.com/article/surf-shacks-063-kyle-kennelly-becca-mantei/
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://indoek.com/wp-content/uploads/2018/08/Indoek-Surf-Shacks-Kyle-Becca-Kennelly-Datdream-Newport-California-124.jpg
-  media:
-  - type: image
-    link: https://indoek.com/wp-content/uploads/2018/08/Indoek-Surf-Shacks-Kyle-Becca-Kennelly-Datdream-Newport-California-124.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:48:38.115Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: indoek.com
-  title: Surf Shacks 063 – Kyle Kennelly + Becca Mantei
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601349
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601348
-  link: https://www.olow.fr/fr/blog/recit-aquatique-4
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://www.olow.fr/modules/hiblog/views/img/upload/original/2022/02/ClovisDonizetti_Olow_TL_01433-740x493.jpg
-  media:
-  - type: image
-    link: https://www.olow.fr/modules/hiblog/views/img/upload/original/2022/02/ClovisDonizetti_Olow_TL_01433-740x493.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:48:37.666Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: olow.fr
-  title: 'Récit aquatique #4'
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601348
-  important: true
-  collectionId: 37456415
-  parsed: {}
 - _id: 645601346
   link: https://errr-magazine.com/daydream/
   excerpt: ''
@@ -9865,6 +9258,612 @@
     name: bonjouryannick
     email: ''
   sort: 645601341
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601340
+  link: https://www.daybreakpub.com/vans-duct-tape
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://static.wixstatic.com/media/0e43c7_1b4dae9c232d46bab83ea8c6498aa9af~mv2.jpg/v1/fill/w_2500,h_3747,al_c/0e43c7_1b4dae9c232d46bab83ea8c6498aa9af~mv2.jpg
+  media:
+  - type: image
+    link: https://static.wixstatic.com/media/0e43c7_1b4dae9c232d46bab83ea8c6498aa9af~mv2.jpg/v1/fill/w_2500,h_3747,al_c/0e43c7_1b4dae9c232d46bab83ea8c6498aa9af~mv2.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:48:32.942Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: daybreakpub.com
+  title: VANS DUCT TAPE | DAYBREAK Magazine
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601340
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601339
+  link: https://jeremyjanin.com/breizhpacking/
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://jeremyjanin.com/breizhpacking/cover.jpg
+  media:
+  - type: image
+    link: https://jeremyjanin.com/breizhpacking/cover.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:48:31.515Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: jeremyjanin.com
+  title: Breizhpacking
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601339
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601338
+  link: https://beside.media/fr/village/cabane-de-peche-minimaison/
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2021/05/BESIDE_Village_Cabine_header.jpg
+  media:
+  - type: image
+    link: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2021/05/BESIDE_Village_Cabine_header.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:48:30.125Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: beside.media
+  title: Dans les Maritimes, un couple transforme une cabane de pêche en minimaison.
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601338
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601334
+  link: https://www.fieldmag.com/articles/pacific-northwest-surf-photography?mc_cid=69eb44bb09
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://images.ctfassets.net/r7p9m4b1iqbp/2nqp3msaenGMpmzPTRMWJY/50acf837ebff52cbaee82e3194a70894/Josh-Poehlein-PNW-Bad-Surfers-hero.jpg?w=1000
+  media:
+  - type: image
+    link: http://images.ctfassets.net/r7p9m4b1iqbp/2nqp3msaenGMpmzPTRMWJY/50acf837ebff52cbaee82e3194a70894/Josh-Poehlein-PNW-Bad-Surfers-hero.jpg?w=1000
+  tags: []
+  removed: false
+  created: '2023-01-26T19:48:26.830Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: fieldmag.com
+  title: What It's Like to Learn to Surf in Your 30s In the PNW
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601334
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601333
+  link: https://www.archier.com.au/projects/corner-house
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://3t2v2k2m5j0a411o4848020n-wpengine.netdna-ssl.com/wp-content/uploads/08_RGardiner1463c.jpg
+  media:
+  - type: image
+    link: https://3t2v2k2m5j0a411o4848020n-wpengine.netdna-ssl.com/wp-content/uploads/08_RGardiner1463c.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:48:25.527Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: archier.com.au
+  title: Corner House - Archier
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601333
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601332
+  link: https://www.vice.com/fr/article/g5q943/atelier-de-planches-surf-ostende
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://video-images.vice.com/articles/625594f41f031e00948ed1c6/lede/1649776758622-dsc07923.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDExeGg7MHh3LDAuMTE5eGgmcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq
+  media:
+  - type: image
+    link: https://video-images.vice.com/articles/625594f41f031e00948ed1c6/lede/1649776758622-dsc07923.jpeg?image-resize-opts=Y3JvcD0xeHc6MC44NDExeGg7MHh3LDAuMTE5eGgmcmVzaXplPTEyMDA6KiZyZXNpemU9MTIwMDoq
+  tags: []
+  removed: false
+  created: '2023-01-26T19:48:24.502Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: vice.com
+  title: 'Avant les vagues : dans un atelier de planches de surf à Ostende'
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601332
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601331
+  link: https://gif.javier.computer/
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fgif.javier.computer%2F
+  media:
+  - type: image
+    link: https://rdl.ink/render/https%3A%2F%2Fgif.javier.computer%2F
+    screenshot: true
+  tags: []
+  removed: false
+  created: '2023-01-26T19:48:23.747Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: gif.javier.computer
+  title: GIF
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601331
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601330
+  link: https://lograp.com/blogs/blog-crap/log-chats-vol-3-andy-nieblas
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://lograp.com/cdn/shop/articles/Sequence_030_1200x1200.jpg?v=1650299490
+  media:
+  - type: image
+    link: https://lograp.com/cdn/shop/articles/Sequence_030_1200x1200.jpg?v=1650299490
+  tags: []
+  removed: false
+  created: '2023-01-26T19:48:22.823Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: lograp.com
+  title: Log Chats Vol. 3 | Andy Nieblas
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601330
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601329
+  link: https://craigmod.com/roden/067/
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://craigmod.com/roden/img/067/067.jpg
+  media:
+  - type: image
+    link: https://craigmod.com/roden/img/067/067.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:48:21.788Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: craigmod.com
+  title: Breaking Bad and Leicas — Roden newsletter issue 067
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601329
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601327
+  link: https://almondsurfboards.com/blogs/news/that-first-wave-feeling?_kx=WJeE3QQCOcj1C5-kKTUTnVQwLixGXGjdFW4dPGeJnNo%3D.Hb5zTY
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://almondsurfboards.com/cdn/shop/articles/glassy_wave_1200x.jpg?v=1644437112
+  media:
+  - type: image
+    link: https://almondsurfboards.com/cdn/shop/articles/glassy_wave_1200x.jpg?v=1644437112
+  tags: []
+  removed: false
+  created: '2023-01-26T19:48:20.529Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: almondsurfboards.com
+  title: That First Wave Feeling
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601327
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601326
+  link: https://bentoism.org/blog/the-dark-forest-theory-of-the-internet
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://bentoism.org/assets/bentoism.png
+  media:
+  - type: image
+    link: https://bentoism.org/assets/bentoism.png
+  tags: []
+  removed: false
+  created: '2023-01-26T19:48:19.291Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: bentoism.org
+  title: Bentoism
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601326
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601325
+  link: https://www.fieldmag.com/articles/baja-california-road-trip-photography-mexico
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://images.ctfassets.net/r7p9m4b1iqbp/5asFhtf8ePj6JFmoDEu3nD/0f2edc914b103b44eb75cc5fdd1330a5/Brian-Chorski-Baja-Mexico-Hero.jpg?w=1000
+  media:
+  - type: image
+    link: http://images.ctfassets.net/r7p9m4b1iqbp/5asFhtf8ePj6JFmoDEu3nD/0f2edc914b103b44eb75cc5fdd1330a5/Brian-Chorski-Baja-Mexico-Hero.jpg?w=1000
+  tags: []
+  removed: false
+  created: '2023-01-26T19:48:18.191Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: fieldmag.com
+  title: 23 Film Photos of Surf, Seafood, and Solitude in Baja Norte
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601325
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601324
+  link: https://www.youtube.com/watch?v=tRji-YzuM74
+  excerpt: ''
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/tRji-YzuM74/maxresdefault.jpg
+  media:
+  - type: image
+    link: https://i.ytimg.com/vi/tRji-YzuM74/maxresdefault.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:48:17.311Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: youtube.com
+  title: 2 years of self-portraits with Lena
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601324
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601322
+  link: https://ben.balter.com/2022/03/17/why-async/
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fben.balter.com%2F2022%2F03%2F17%2Fwhy-async%2F
+  media:
+  - type: image
+    link: https://rdl.ink/render/https%3A%2F%2Fben.balter.com%2F2022%2F03%2F17%2Fwhy-async%2F
+    screenshot: true
+  tags: []
+  removed: false
+  created: '2023-01-26T19:48:14.575Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: ben.balter.com
+  title: Why you should work asynchronously
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601322
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601321
+  link: https://www.monsterchildren.com/lee-ann-curren-is-cooler-than-you/
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: ''
+  media: []
+  tags: []
+  removed: false
+  created: '2023-01-26T19:48:13.187Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: monsterchildren.com
+  title: https://www.monsterchildren.com/lee-ann-curren-is-cooler-than-you/
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601321
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601320
+  link: https://www.newstatesman.com/culture/music/2022/02/how-jim-morrison-killed-rock-n-roll
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://dl6pgk4f88hky.cloudfront.net/2022/02/202207-Jim-Morrison-800x418.jpg?1694506522
+  media:
+  - type: image
+    link: https://dl6pgk4f88hky.cloudfront.net/2022/02/202207-Jim-Morrison-800x418.jpg?1694506522
+  tags: []
+  removed: false
+  created: '2023-01-26T19:48:12.708Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: newstatesman.com
+  title: How Jim Morrison killed rock ’n’ roll
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601320
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601319
+  link: https://www.monsterchildren.com/jack-white-can-instantly-id-beatles-songs/
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: ''
+  media: []
+  tags: []
+  removed: false
+  created: '2023-01-26T19:48:11.421Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: monsterchildren.com
+  title: https://www.monsterchildren.com/jack-white-can-instantly-id-beatles-songs/
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601319
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601318
+  link: https://www.liquidsaltmag.com/frank-fellous
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://static1.squarespace.com/static/52fbe053e4b01ee2f9b9d77e/t/5ea6167b6fb8b631406be4fb/1595129904710/SanO3.jpg?format=1500w
+  media:
+  - type: image
+    link: http://static1.squarespace.com/static/52fbe053e4b01ee2f9b9d77e/t/5ea6167b6fb8b631406be4fb/1595129904710/SanO3.jpg?format=1500w
+  tags: []
+  removed: false
+  created: '2023-01-26T19:48:09.417Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: liquidsaltmag.com
+  title: Frank Fellous — Liquid Salt
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601318
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601317
+  link: https://www.theatlantic.com/magazine/archive/2022/03/why-we-are-never-satisfied-happiness/621304/
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://cdn.theatlantic.com/thumbor/MbyUrmcbspZ6xs9Q-JlAChfreuk=/0x43:2000x1085/1200x625/media/img/2022/02/WEL_Brooks_SatisfactionOpener/original.jpg
+  media:
+  - type: image
+    link: https://cdn.theatlantic.com/thumbor/MbyUrmcbspZ6xs9Q-JlAChfreuk=/0x43:2000x1085/1200x625/media/img/2022/02/WEL_Brooks_SatisfactionOpener/original.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:48:08.366Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: theatlantic.com
+  title: How to Want Less
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601317
   important: true
   collectionId: 37456415
   parsed: {}
@@ -10667,616 +10666,6 @@
   important: true
   collectionId: 37456415
   parsed: {}
-- _id: 645601304
-  link: https://www.monsterchildren.com/why-is-film-suddenly-so-expensive/
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://static1.squarespace.com/static/6398e5b4b3dd441ead33860a/6398e815f2eabd0b458bc856/63c5e93626f2c50c39f6ce1f/1676398504857/film-thumn-2-monster-chidlren.jpg?format=1500w
-  media:
-  - type: image
-    link: http://static1.squarespace.com/static/6398e5b4b3dd441ead33860a/6398e815f2eabd0b458bc856/63c5e93626f2c50c39f6ce1f/1676398504857/film-thumn-2-monster-chidlren.jpg?format=1500w
-  tags: []
-  removed: false
-  created: '2023-01-26T19:47:59.801Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: monsterchildren.com
-  title: Why is Film Suddenly So Expensive? — Monster Children
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601304
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601303
-  link: https://mailchi.mp/noahkalina/newsletter120?e=52209f9b66
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Fmailchi.mp%2Fnoahkalina%2Fnewsletter120%3Fe%3D52209f9b66
-  media:
-  - type: image
-    link: https://rdl.ink/render/https%3A%2F%2Fmailchi.mp%2Fnoahkalina%2Fnewsletter120%3Fe%3D52209f9b66
-    screenshot: true
-  tags: []
-  removed: false
-  created: '2023-01-26T19:47:59.032Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: mailchi.mp
-  title: 'Newsletter #120 - Back Up'
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601303
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601302
-  link: https://craigmod.com/ridgeline/014/
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://craigmod.com/ridgeline/images/014/014.jpg
-  media:
-  - type: image
-    link: https://craigmod.com/ridgeline/images/014/014.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:47:57.808Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: craigmod.com
-  title: The Curious Incident in the Bath in the Day-time
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601302
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601301
-  link: https://www.cabinsetc.com/p/airbnb-superhost-tips?utm_source=substack
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F93fa0eee-2081-478d-8607-bc529e8931fa_1080x720.jpeg
-  media:
-  - type: image
-    link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F93fa0eee-2081-478d-8607-bc529e8931fa_1080x720.jpeg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:47:57.232Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: cabinsetc.com
-  title: How to Win at Airbnb with Superhost @Robuilt
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601301
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601300
-  link: https://wearelookingsideways.com/podcasts/177-dr-tony-butt
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://wearelookingsideways.com/wordpress/wp-content/uploads/2022/02/TonyButt-3-scaled.jpg
-  media:
-  - type: image
-    link: https://wearelookingsideways.com/wordpress/wp-content/uploads/2022/02/TonyButt-3-scaled.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:47:55.367Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: wearelookingsideways.com
-  title: '177: Dr. Tony Butt - Looking Sideways'
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601300
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601299
-  link: https://ben.balter.com/2022/02/16/leaders-show-their-work/
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Fben.balter.com%2F2022%2F02%2F16%2Fleaders-show-their-work%2F
-  media:
-  - type: image
-    link: https://rdl.ink/render/https%3A%2F%2Fben.balter.com%2F2022%2F02%2F16%2Fleaders-show-their-work%2F
-    screenshot: true
-  tags: []
-  removed: false
-  created: '2023-01-26T19:47:53.445Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: ben.balter.com
-  title: Leaders show their work
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601299
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601298
-  link: https://www.fieldmag.com/articles/shipping-container-house-victoria-aus-shelter-streaming
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://images.ctfassets.net/r7p9m4b1iqbp/2PugRbDgyDftBYKnf8oZdx/4cc5e58384d87d1f0d635d826b00451a/eco-containers-australia-shelter-streaming-facade.jpg?w=1000
-  media:
-  - type: image
-    link: http://images.ctfassets.net/r7p9m4b1iqbp/2PugRbDgyDftBYKnf8oZdx/4cc5e58384d87d1f0d635d826b00451a/eco-containers-australia-shelter-streaming-facade.jpg?w=1000
-  tags: []
-  removed: false
-  created: '2023-01-26T19:47:52.470Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: fieldmag.com
-  title: How to Turn 3 Shipping Containers Into a Home
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601298
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601297
-  link: https://beside.media/fr/reportages/vivre-dans-le-desert/
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2021/04/BESIIDE_VisualEssay_desert-dwellers_facebook.jpg
-  media:
-  - type: image
-    link: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2021/04/BESIIDE_VisualEssay_desert-dwellers_facebook.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:47:51.694Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: beside.media
-  title: 'Vivre dans le désert: pour quiconque habite à Slab City, la liberté a un
-    prix'
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601297
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601296
-  link: https://thewatermensociety.com/quest-ce-quun-spot-expose-quest-ce-quun-spot-de-repli/
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Fthewatermensociety.com%2Fquest-ce-quun-spot-expose-quest-ce-quun-spot-de-repli%2F
-  media:
-  - type: image
-    link: https://rdl.ink/render/https%3A%2F%2Fthewatermensociety.com%2Fquest-ce-quun-spot-expose-quest-ce-quun-spot-de-repli%2F
-    screenshot: true
-  tags: []
-  removed: false
-  created: '2023-01-26T19:47:49.719Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: thewatermensociety.com
-  title: Quest ce quun spot expose quest ce quun spot de repli
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601296
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601295
-  link: https://craigmod.com/essays/memberships_work/
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://craigmod.com/essays/images/memberships_work/2022cover4.jpg
-  media:
-  - type: image
-    link: https://craigmod.com/essays/images/memberships_work/2022cover4.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:47:49.123Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: craigmod.com
-  title: Memberships Work
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601295
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601294
-  link: https://www.forrestmankins.com/film
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://static1.squarespace.com/static/540629b5e4b0c094f2dfeca5/t/5dee98a9ac43c868ac592a82/1575917746057/FM+STUDIO+copy.jpg?format=1500w
-  media:
-  - type: image
-    link: http://static1.squarespace.com/static/540629b5e4b0c094f2dfeca5/t/5dee98a9ac43c868ac592a82/1575917746057/FM+STUDIO+copy.jpg?format=1500w
-  tags: []
-  removed: false
-  created: '2023-01-26T19:47:48.488Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: forrestmankins.com
-  title: FM FILM — Forrest Mankins
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601294
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601292
-  link: https://www.aurelienjeanney.fr/journal/bilan2021
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: ''
-  media: []
-  tags: []
-  removed: false
-  created: '2023-01-26T19:47:47.374Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: aurelienjeanney.fr
-  title: https://www.aurelienjeanney.fr/journal/bilan2021
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601292
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601291
-  link: https://www.surfyonder.com/stories/2022/1/10/january-update
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://static1.squarespace.com/static/5b1ed6d45cfd793594a55bc0/5b56398d352f53f4bd8c72fe/61dc434182fb4069e4e8c73b/1641912215352/DSC_3424.jpg?format=1500w
-  media:
-  - type: image
-    link: http://static1.squarespace.com/static/5b1ed6d45cfd793594a55bc0/5b56398d352f53f4bd8c72fe/61dc434182fb4069e4e8c73b/1641912215352/DSC_3424.jpg?format=1500w
-  tags: []
-  removed: false
-  created: '2023-01-26T19:47:45.927Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: surfyonder.com
-  title: January Update — Yonder
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601291
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601290
-  link: https://wearelookingsideways.com/podcasts/173-lyndsay-mclaren
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://wearelookingsideways.com/wordpress/wp-content/uploads/2022/01/39425303-4104-459B-AAE6-42B9E7702896-scaled.jpg
-  media:
-  - type: image
-    link: https://wearelookingsideways.com/wordpress/wp-content/uploads/2022/01/39425303-4104-459B-AAE6-42B9E7702896-scaled.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:47:45.224Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: wearelookingsideways.com
-  title: '173: Lyndsay McLaren - Looking Sideways'
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601290
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601289
-  link: https://wearelookingsideways.com/podcasts/171-sam-bleakley
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://wearelookingsideways.com/wordpress/wp-content/uploads/2022/01/16.sam_bleakley_finisterre_jj__2618-copy.jpg.jpg
-  media:
-  - type: image
-    link: https://wearelookingsideways.com/wordpress/wp-content/uploads/2022/01/16.sam_bleakley_finisterre_jj__2618-copy.jpg.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:47:44.728Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: wearelookingsideways.com
-  title: '171: Sam Bleakley - Looking Sideways'
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601289
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601288
-  link: https://wreckedparis.com/quiberononfilm/
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i0.wp.com/barbessurfclub.com/wp-content/uploads/2022/01/Photo27_25-1.jpg?fit=1786%2C1190&quality=95&ssl=1
-  media:
-  - type: image
-    link: https://i0.wp.com/barbessurfclub.com/wp-content/uploads/2022/01/Photo27_25-1.jpg?fit=1786%2C1190&quality=95&ssl=1
-  tags: []
-  removed: false
-  created: '2023-01-26T19:47:43.934Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: wreckedparis.com
-  title: Quiberon on film -
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601288
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601287
-  link: https://www.forrestmankins.com/pointandshoot
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://static1.squarespace.com/static/540629b5e4b0c094f2dfeca5/t/61d773d5088c8b497c9cd1fa/1641509854051/9744-12-Edit.jpg?format=1500w
-  media:
-  - type: image
-    link: http://static1.squarespace.com/static/540629b5e4b0c094f2dfeca5/t/61d773d5088c8b497c9cd1fa/1641509854051/9744-12-Edit.jpg?format=1500w
-  tags: []
-  removed: false
-  created: '2023-01-26T19:47:42.647Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: forrestmankins.com
-  title: POINT + SHOOT — Forrest Mankins
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601287
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601286
-  link: https://damienaa.substack.com/p/46?utm_source=substack
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9706981e-1776-4983-ac91-cdf6b32ccb4e_1920x1025.jpeg
-  media:
-  - type: image
-    link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9706981e-1776-4983-ac91-cdf6b32ccb4e_1920x1025.jpeg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:47:40.601Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: damienaa.substack.com
-  title: Ma Petite Lettre 46
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601286
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601285
-  link: https://finisterre.com/blogs/broadcast/the-science-of-cold-water-swimming
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://finisterre.com/cdn/shop/articles/unnamed_3df22b54-89c1-419e-9b71-177645106e1d.jpg?v=1664895452
-  media:
-  - type: image
-    link: https://finisterre.com/cdn/shop/articles/unnamed_3df22b54-89c1-419e-9b71-177645106e1d.jpg?v=1664895452
-  tags: []
-  removed: false
-  created: '2023-01-26T19:47:38.486Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: finisterre.com
-  title: The Science Of Cold Water Swimming | The Broadcast
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601285
-  important: true
-  collectionId: 37456415
-  parsed: {}
 - _id: 645601284
   link: https://beside.media/fr/nouveaux-recits/choisir-le-silence/
   excerpt: ''
@@ -11466,6 +10855,611 @@
     name: bonjouryannick
     email: ''
   sort: 645601279
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601278
+  link: https://www.theguardian.com/environment/2021/nov/18/ten-ways-confront-climate-crisis-without-losing-hope-rebecca-solnit-reconstruction-after-covid?utm_source=densediscovery
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.guim.co.uk/img/media/fcf9f3e420bf7d9325a6c20033cf7797d238f3f0/281_161_4114_2469/master/4114.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b0a46b2d9591fafae1ebc3fb10335794
+  media:
+  - type: image
+    link: https://i.guim.co.uk/img/media/fcf9f3e420bf7d9325a6c20033cf7797d238f3f0/281_161_4114_2469/master/4114.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b0a46b2d9591fafae1ebc3fb10335794
+  tags: []
+  removed: false
+  created: '2023-01-26T19:47:33.641Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: theguardian.com
+  title: Ten ways to confront the climate crisis without losing hope | Rebecca Solnit
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601278
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601277
+  link: https://www.madebyfinn.com/book-town/
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fwww.madebyfinn.com%2Fbook-town%2F
+  media:
+  - type: image
+    link: https://rdl.ink/render/https%3A%2F%2Fwww.madebyfinn.com%2Fbook-town%2F
+    screenshot: true
+  tags: []
+  removed: false
+  created: '2023-01-26T19:47:32.947Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: madebyfinn.com
+  title: CEREAL MAGAZINE - HAY-ON-WYE — FINN BEALES
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601277
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601276
+  link: https://www.abbyleighton.com/generalstore
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: ''
+  media: []
+  tags: []
+  removed: false
+  created: '2023-01-26T19:47:32.423Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: abbyleighton.com
+  title: https://www.abbyleighton.com/generalstore
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601276
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601275
+  link: https://www.fieldmag.com/articles/abby-leighton-designer-artist-interview
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://images.ctfassets.net/r7p9m4b1iqbp/121iy1xLM7C8oPGSVBSrcZ/5cc44afdaa5ae05e96c464d691f97f35/Abby-Leighton-Headshot.jpg?w=1000
+  media:
+  - type: image
+    link: http://images.ctfassets.net/r7p9m4b1iqbp/121iy1xLM7C8oPGSVBSrcZ/5cc44afdaa5ae05e96c464d691f97f35/Abby-Leighton-Headshot.jpg?w=1000
+  tags: []
+  removed: false
+  created: '2023-01-26T19:47:31.981Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: fieldmag.com
+  title: From NYC Artist to Designing National Park Souvenirs in Moab
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601275
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601274
+  link: https://nationalparktypeface.com
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fnationalparktypeface.com
+  media:
+  - type: image
+    link: https://rdl.ink/render/https%3A%2F%2Fnationalparktypeface.com
+    screenshot: true
+  tags: []
+  removed: false
+  created: '2023-01-26T19:47:31.293Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: nationalparktypeface.com
+  title: National Park Typeface
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601274
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601273
+  link: https://huckberry.com/journal/posts/beginner-s-guide-to-meditation
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://huckberry.imgix.net/journal_post_content_block_images/000/002/549/images/original/wellness_meditation_desktop.jpg
+  media:
+  - type: image
+    link: https://huckberry.imgix.net/journal_post_content_block_images/000/002/549/images/original/wellness_meditation_desktop.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:47:30.738Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: huckberry.com
+  title: Like brushing your teeth, if you do it every morning, it'll make you a whole
+    lot easier to be around
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601273
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601272
+  link: https://craigmod.com/roden/064/
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://craigmod.com/roden/img/064/064.jpg
+  media:
+  - type: image
+    link: https://craigmod.com/roden/img/064/064.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:47:30.169Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: craigmod.com
+  title: What's at Stake? — Roden newsletter issue 064
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601272
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601271
+  link: https://www.youtube.com/watch?v=u70ibusP7HM
+  excerpt: ''
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/u70ibusP7HM/maxresdefault.jpg
+  media:
+  - type: image
+    link: https://i.ytimg.com/vi/u70ibusP7HM/maxresdefault.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:47:29.623Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: youtube.com
+  title: LESS IS MORE - version française (film complet)
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601271
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601270
+  link: https://taylorpendletonphoto.com/about
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: ''
+  media: []
+  tags: []
+  removed: false
+  created: '2023-01-26T19:47:28.470Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: taylorpendletonphoto.com
+  title: https://taylorpendletonphoto.com/about
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601270
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601269
+  link: https://www.newyorker.com/magazine/2021/12/20/can-distraction-free-devices-change-the-way-we-write
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://media.newyorker.com/photos/61b3a9cf92265f06d1eb4d91/16:9/w_1280,c_limit/211220_r39572_rd.jpg
+  media:
+  - type: image
+    link: https://media.newyorker.com/photos/61b3a9cf92265f06d1eb4d91/16:9/w_1280,c_limit/211220_r39572_rd.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:47:26.461Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: newyorker.com
+  title: Can “Distraction-Free” Devices Change the Way We Write?
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601269
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601268
+  link: https://papersky.jp/en/electric-ride-misaki/
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://papersky.jp/wp-content/uploads/2021/10/wt-cmod-papersky-5-scaled.jpg
+  media:
+  - type: image
+    link: https://papersky.jp/wp-content/uploads/2021/10/wt-cmod-papersky-5-scaled.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:47:25.238Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: papersky.jp
+  title: Electric Bike RideMisaki - PAPERSKY
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601268
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601267
+  link: https://indoek.com/article/surf-shacks-089-michael-townsend-lara-wilson/
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Findoek.com%2Farticle%2Fsurf-shacks-089-michael-townsend-lara-wilson%2F
+  media:
+  - type: image
+    link: https://rdl.ink/render/https%3A%2F%2Findoek.com%2Farticle%2Fsurf-shacks-089-michael-townsend-lara-wilson%2F
+    screenshot: true
+  tags: []
+  removed: false
+  created: '2023-01-26T19:47:24.471Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: indoek.com
+  title: Surf Shacks 089 – Michael Townsend + Lara Wilson
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601267
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601266
+  link: https://hellolaroux.com/les-bienfaits-de-la-marche/
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://hellolaroux.com/wp-content/uploads/2023/03/les-bienfaits-marche-a-pied.jpg
+  media:
+  - type: image
+    link: https://hellolaroux.com/wp-content/uploads/2023/03/les-bienfaits-marche-a-pied.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:47:23.783Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: hellolaroux.com
+  title: Les bienfaits de la marche pour être bien dans son corps et sa tête
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601266
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601265
+  link: https://www.monsterchildren.com/the-amazing-grace-of-beatrice-domond/
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: ''
+  media: []
+  tags: []
+  removed: false
+  created: '2023-01-26T19:47:23.174Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: monsterchildren.com
+  title: https://www.monsterchildren.com/the-amazing-grace-of-beatrice-domond/
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601265
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601264
+  link: https://www.fieldmag.com/articles/vanlife-pch-road-trip-film
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://images.ctfassets.net/r7p9m4b1iqbp/6c0S8P9avuyQMMU8GMIUsQ/3080d22133aafeef219dadcb948d59a7/Noah-PCH-roadtrip-10.jpg?w=1000
+  media:
+  - type: image
+    link: http://images.ctfassets.net/r7p9m4b1iqbp/6c0S8P9avuyQMMU8GMIUsQ/3080d22133aafeef219dadcb948d59a7/Noah-PCH-roadtrip-10.jpg?w=1000
+  tags: []
+  removed: false
+  created: '2023-01-26T19:47:22.208Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: fieldmag.com
+  title: 24 Film Photos From a 3 Week Road Trip Down the PCH
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601264
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601263
+  link: https://zenhabits.net/slow-holidays/
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: ''
+  media: []
+  tags: []
+  removed: false
+  created: '2023-01-26T19:47:21.595Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: zenhabits.net
+  title: https://zenhabits.net/slow-holidays/
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601263
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601262
+  link: https://thelocalproject.com.au/articles/eucalypt-house-by-not-all-architecture-project-feature-the-local-project/?utm_source=densediscovery
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://d31dpzy4bseog7.cloudfront.net/media/2021/12/01144812/Eucalypt-House-by-Not-All-Architecture-Project-Feature-The-Local-Project-Image-16.jpg
+  media:
+  - type: image
+    link: https://d31dpzy4bseog7.cloudfront.net/media/2021/12/01144812/Eucalypt-House-by-Not-All-Architecture-Project-Feature-The-Local-Project-Image-16.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:47:20.467Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: thelocalproject.com.au
+  title: Eucalypt House by Not All Architecture - Project Feature - The Local Project
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601262
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601261
+  link: https://www.newphilosopher.com/articles/apocaloptimism/
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://www.newphilosopher.com/wp-content/uploads/2020/04/apocoloptimism.png
+  media:
+  - type: image
+    link: https://www.newphilosopher.com/wp-content/uploads/2020/04/apocoloptimism.png
+  tags: []
+  removed: false
+  created: '2023-01-26T19:47:19.830Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: newphilosopher.com
+  title: Apocaloptimism
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601261
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601260
+  link: https://www.vans.eu/weirdwaves.html
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fwww.vans.eu%2Fweirdwaves.html
+  media:
+  - type: image
+    link: https://rdl.ink/render/https%3A%2F%2Fwww.vans.eu%2Fweirdwaves.html
+    screenshot: true
+  tags: []
+  removed: false
+  created: '2023-01-26T19:47:19.379Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: vans.eu
+  title: Weird Waves News
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601260
   important: true
   collectionId: 37456415
   parsed: {}
@@ -29641,437 +29635,75 @@
   sort: 731671779
   collectionId: -1
   parsed: {}
-- _id: 709378531
-  link: https://www.eiffair.fr/011-numerique-analogique/
-  title: 011 - Numérique Analogique
-  excerpt: |-
-    Notes et liens
-
-
-    Podcasts
-
-     * Relay FM
-     * Tech Ronins – Prise de notes en réunion
-     * La cerise sur le café
-
-
-    Café
-
-     * Clove coffeeshop
-     * DAK Coffee Roasters
-     * The Picky Chemist Roastery
-
-
-    Apps & Tech
-
-     * You don’t know me – Matt Birchler
-     * My subscription reset status update – Matt Birchler
-     * Day One
-     * Are.na
-     * My Mind
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://www.eiffair.fr/content/images/size/w1200/2023/12/Background-1.png
-  media:
-  - link: https://www.eiffair.fr/content/images/size/w1200/2023/12/Background-1.png
-    type: image
-  - link: https://www.eiffair.fr/content/images/size/w600/format/webp/2023/12/Nazare-2.jpg
-    type: image
-  - link: https://www.eiffair.fr/content/images/size/w600/format/webp/2023/12/Sans-titre.png
-    type: image
-  - link: https://www.eiffair.fr/content/images/size/w600/format/webp/2023/12/Aarhus.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-01-05T15:20:47.047Z'
-  lastUpdate: '2024-01-05T15:20:53.704Z'
-  collection:
-    "$ref": collections
-    "$id": 37456469
-    oid: 37456469
-  highlights: []
-  domain: eiffair.fr
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 709378531
-  collectionId: 37456469
-  parsed: {}
-- _id: 725229452
-  link: https://www.dunehomes.com/portfolio/southernutah?_kx=ZNSYUaE4mXnOEYYW_GvyYeFFKqXjaFpnCkMHemudBuY%3D.aVinKJ
-  title: SOUTHERN UTAH — Home
-  excerpt: ''
+- _id: 753954031
+  link: https://www.hoteldesdunes.com/en/rooms.html
+  title: Hotel des Dunes
+  excerpt: Discover the rooms and suites of Hotel des Dunes, a sea-view hotel near
+    Les Dunes Beach and Mimbeau Beach in Cap Ferret.
   note: ''
   type: link
   user:
     "$ref": users
     "$id": 1617030
-  cover: http://static1.squarespace.com/static/63a5e1ab8304d96b4e45ba45/63a5f649de89406df1b240cd/63a6116de009015eddcc8c18/1673559224160/Kitchen-8666.jpg?format=1500w
+  cover: https://www.hoteldesdunes.com/_img/site-social-share.jpg
   media:
-  - link: http://static1.squarespace.com/static/63a5e1ab8304d96b4e45ba45/63a5f649de89406df1b240cd/63a6116de009015eddcc8c18/1673559224160/Kitchen-8666.jpg?format=1500w
-    type: image
-  - link: https://images.squarespace-cdn.com/content/v1/63a5e1ab8304d96b4e45ba45/0b4a1310-05c5-4978-a051-c0b846787cf0/Pool-9826.jpg?format=2500w
-    type: image
-  - link: https://images.squarespace-cdn.com/content/v1/63a5e1ab8304d96b4e45ba45/8e29668a-41c2-4616-9058-a0cb52c68653/Casita-Detail-0293.jpg?format=2500w
-    type: image
-  - link: https://images.squarespace-cdn.com/content/v1/63a5e1ab8304d96b4e45ba45/fbe8208c-4d46-4a0b-b7f0-025bc0007bde/Casita-0518.jpg?format=2500w
-    type: image
-  - link: https://images.squarespace-cdn.com/content/v1/63a5e1ab8304d96b4e45ba45/1673822059267-R2K2O3E5XC9O0ECTJ7SQ/Casita-0331.jpg?format=2500w
+  - link: https://www.hoteldesdunes.com/_img/site-social-share.jpg
     type: image
   tags: []
   important: true
   reminder:
     date: 
   removed: false
-  created: '2024-01-29T10:52:07.382Z'
-  lastUpdate: '2024-01-29T10:52:22.827Z'
+  created: '2024-03-14T08:40:41.978Z'
+  lastUpdate: '2024-03-14T08:41:11.924Z'
   collection:
     "$ref": collections
-    "$id": 37136914
-    oid: 37136914
+    "$id": 42538741
+    oid: 42538741
   highlights: []
-  domain: dunehomes.com
+  domain: hoteldesdunes.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 725229452
-  collectionId: 37136914
+  sort: 753954031
+  collectionId: 42538741
   parsed: {}
-- _id: 717649438
-  link: https://vimeo.com/255492437
-  title: Death To Shoes
-  excerpt: A film by Miguel Constantino, starring Riccardo Pietra & Carlos Miguel.
-    Shot on film, super 8 and 35 mm photographs. Telecinema by Gauge Film (https://www.gaugefilm.co.uk/).
-    Music…
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.vimeocdn.com/video/685842482-fcee3971acbcd6729eb59765360674ce17eafd1400f179ba269736e45e0525b5-d?f=webp
-  media:
-  - link: https://i.vimeocdn.com/video/685842482-fcee3971acbcd6729eb59765360674ce17eafd1400f179ba269736e45e0525b5-d?f=webp
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-01-19T22:37:02.716Z'
-  lastUpdate: '2024-01-19T22:37:08.806Z'
-  collection:
-    "$ref": collections
-    "$id": 37136909
-    oid: 37136909
-  highlights: []
-  domain: vimeo.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 717649438
-  collectionId: 37136909
-  parsed: {}
-- _id: 709511715
-  link: https://m.youtube.com/watch?v=1UgRYVfEAJs&t=749
-  title: BRITTANY, FRANCE; intricacies of the emerald coast
-  excerpt: "Thanks to a social media post, I connected with Ian Fountain and some
-    of the locals in Brittany, France for a big winter storm.  Brittany is the largest
-    French peninsula in the NW of France and one of the hardest coasts to score, due
-    to it’s massive tides, translating to short surf windows… \nCombine that with
-    nearly 2000 miles of coastline, that’s a tough shoe to polish… \nSo why come here?
-    \nBy now I hope you have a gist for my taste in waves and surf trips… \nAnd I
-    definitely enjoy the going off the beaten path, especially when it comes to surf
-    trips. \nI had always gone to South west France… \nSo with interesting charts
-    lighting up the north \nI thought… \nWhat would it take to score waves in Brittany??\n\nFilmed
-    by : \nPaul Daniels\nGaeton Duque\n\nEdit, Music, GFX by your truly"
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/1UgRYVfEAJs/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/1UgRYVfEAJs/maxresdefault.jpg
-    type: image
-  - link: https://i.ytimg.com/vi/_cQKsYYhF20/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBE6glZVF5baRwAqytO8SWzyehL9A
-    type: image
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2024-01-05T22:00:13.425Z'
-  lastUpdate: '2024-01-05T22:00:13.425Z'
-  collection:
-    "$ref": collections
-    "$id": 37136909
-    oid: 37136909
-  domain: m.youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 709511715
-  collectionId: 37136909
-  parsed: {}
-- _id: 717175183
-  link: https://finisterre.com/blogs/broadcast/a-celtic-connection
-  title: A Celtic Connection
-  excerpt: Ambassador Mike Lay explores the deep-rooted celtic connections between
-    his Cornish home and the ancient granite coastline of Brittany.
+- _id: 751831183
+  link: https://craigmod.com/essays/memberships_year_five/#fnref:11
+  title: Five Years of Memberships
+  excerpt: I've been running the SPECIAL PROJECTS membership program for five years;
+    here's what I know.
   note: ''
   type: article
   user:
     "$ref": users
     "$id": 1617030
-  cover: https://finisterre.com/cdn/shop/articles/unnamed_aa71f437-c0a1-4b49-b2b9-481eba68bfb9.jpg?v=1705597966
+  cover: https://craigmod.com/essays/images/memberships_year_five/title-year-five-small.jpg
   media:
-  - link: https://finisterre.com/cdn/shop/articles/unnamed_aa71f437-c0a1-4b49-b2b9-481eba68bfb9.jpg?v=1705597966
-    type: image
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2024-01-18T21:19:00.316Z'
-  lastUpdate: '2024-01-18T21:19:00.316Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  domain: finisterre.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 717175183
-  collectionId: 37136905
-  parsed: {}
-- _id: 731671779
-  link: https://www.youtube.com/watch?v=aqsL0QQaSP4
-  title: Seafret - Oceans
-  excerpt: "Seafret – Oceans (Official Video)\nTell Me It’s Real - https://tellmeitsreal.lnk.to/seafret
-    \n\nWATCH ATLANTIS MUSIC VIDEO ► https://Seafret1.lnk.to/AtlantisOfficialVideo
-    \nWATCH BE THERE MUSIC VIDEO ► https://Seafret1.lnk.to/BeThereOfficialVideo\nWATCH
-    GIVE ME SOMETHING MUSIC VIDEO ►  https://Seafret1.lnk.to/GiveMeSomethingOfficialVideo\nWATCH
-    WILDFIRE MUSIC VIDEO ► https://Seafret1.lnk.to/Wildfire \n\nFollow Seafret:\nOfficial
-    website - https://www.seafret.com/\nFacebook - https://www.facebook.com/seafretofficial/\nTwitter
-    - https://twitter.com/seafretofficial/\nInstagram - https://www.instagram.com/seafretofficial/\n
-    \ \n#Seafret #Oceans #SeafretOfficial #OceansOfficialVideo #SeafretMusic #OceansOfficialAudio
-    #SeafretLive #SeafretEssentials #SeafretGreatestHits #SeafretOceans #BestOfSeafret
-    #SeafretWildfire #SeafretAtlantis #SeafretBeThere #SeafretGiveMeSomething #SeafretTellMsItsReal\n\nLyrics
-    \n\nI want you\nYeah I want you\nAnd nothing comes close\nTo the way that I need
-    you\nI wish I can feel your skin\nAnd I want you\nFrom somewhere within\nIt feels
-    like there's oceans\nBetween me and you once again\nWe hide our emotions\nUnder
-    the surface and tryin' to pretend\nBut it feels like there's oceans\nBetween you
-    and me\nI want you\nAnd I always will\nI wish I was worth\nBut I know what you
-    deserve\nYou know I'd rather drown\nThan to go on without you\nBut you're pulling
-    me down\nIt feels like there's oceans\nBetween you and me once again\nWe hide
-    our emotions\nUnder the surface and try to pretend\nBut it feels like there's
-    oceans\nBetween you and me\nI want you\nI want you\nAnd always will\nIt feels
-    like there's oceans\nBetween you and me\n\nSeafret, Oceans, Seafret Oceans, Seafret
-    Oceans official video, Seafret Oceans official, Seafret Oceans lyrics, Seafret
-    Oceans full album, Atlantis live, Seafret essentials, Seafret Tell Me Its Real
-    album, Seafret Tell Me Its Real, Seafret official video, Seafret full track, Seafret
-    official audio, Seafret lyrics, Oceans, Be There, Wildfire, Give me something,"
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/aqsL0QQaSP4/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/aqsL0QQaSP4/maxresdefault.jpg
-    type: image
-  - link: https://i.ytimg.com/vi/WzeSTQ3VXY0/hq2.jpg?sqp=-oaymwEdCOgCEOgCSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLBe_K8l52DMp6F_D8X7KUXZoT_lGA
-    type: image
-  - link: https://i.ytimg.com/vi/m2F1LwzKd74/hq720.jpg?sqp=-oaymwEdCJUDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLC98JM4tpAT99UlQUe8vgj9YSribQ
-    type: image
-  - link: https://i.ytimg.com/vi/jn_9jM-52Ew/hq720_2.jpg?sqp=-oaymwEdCI4CEOADSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLCfMV9eGAdhglnQPT2_aK2Sz0IctQ
+  - link: https://craigmod.com/essays/images/memberships_year_five/title-year-five-small.jpg
     type: image
   tags: []
   important: true
   reminder:
     date: 
   removed: false
-  created: '2024-02-08T14:59:32.389Z'
-  lastUpdate: '2024-02-08T14:59:32.389Z'
+  created: '2024-03-10T19:45:55.209Z'
+  lastUpdate: '2024-03-10T19:46:13.832Z'
   collection:
     "$ref": collections
-    "$id": -1
-    oid: -1
+    "$id": 38035089
+    oid: 38035089
   highlights: []
-  domain: youtube.com
+  domain: craigmod.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 731671779
-  collectionId: -1
-  parsed: {}
-- _id: 727691893
-  link: https://jamesg.blog/2024/01/27/the-indie-web/
-  title: The indie web | James' Coffee Blog
-  excerpt: I went twenty-two years not knowing how to cook an egg. Cooking classes
-    were a rough time for an anxious student like I was. I did not know I was suffering
-    from anxiety at the time; that is a recent realisation. Being open about anxiety
-    is a challenge. How you think, when written as a raw thought, might have undertones
-    of paranoia. I was worried about cooking an egg, without knowing my exact worries.
-    For other foods, my worry was always food poisioning; if I cook, I'll get ill.
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://screenshots.jamesg.blog/?url=https://jamesg.blog/2024/01/27/the-indie-web/
-  media:
-  - link: https://screenshots.jamesg.blog/?url=https://jamesg.blog/2024/01/27/the-indie-web/
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-02-01T19:45:47.151Z'
-  lastUpdate: '2024-02-01T19:45:48.583Z'
-  collection:
-    "$ref": collections
-    "$id": -1
-    oid: -1
-  highlights: []
-  domain: jamesg.blog
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 727691893
-  collectionId: -1
-  parsed: {}
-- _id: 727024939
-  link: https://winnielim.org/journal/the-experience-of-completing-a-sketchbook-for-my-japan-trip/
-  title: the experience of completing a sketchbook for my japan trip
-  excerpt: Last year I started sketching, and for the first time in my life I started
-    bringing art materials on my travels. I did the same when I went to Japan, except
-    a couple of days into the trip at a...
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://winnielim.org/wp-content/uploads/2024/01/20240111-IMG_20240111_0011.jpg
-  media:
-  - link: https://winnielim.org/wp-content/uploads/2024/01/20240111-IMG_20240111_0011.jpg
-    type: image
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2024-01-31T22:10:54.767Z'
-  lastUpdate: '2024-01-31T22:10:54.767Z'
-  collection:
-    "$ref": collections
-    "$id": -1
-    oid: -1
-  domain: winnielim.org
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 727024939
-  collectionId: -1
-  parsed: {}
-- _id: 718206668
-  link: https://www.instapaper.com/read/1645442216
-  title: Has an Old Soviet Mystery at Last Been Solved?
-  excerpt: A simple tool for saving web pages to read later on your iPhone, iPad,
-    Android, computer, or Kindle.
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://www.instapaper.com/static/img/insta_logo_large.png
-  media:
-  - link: http://www.instapaper.com/static/img/insta_logo_large.png
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-01-20T20:55:13.568Z'
-  lastUpdate: '2024-01-20T20:55:13.569Z'
-  collection:
-    "$ref": collections
-    "$id": -1
-    oid: -1
-  highlights: []
-  domain: instapaper.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 718206668
-  collectionId: -1
-  parsed: {}
-- _id: 713388266
-  link: https://worldwide.kia.com/int/pbv-lineup
-  title: Kia PBV lineup | Kia Global Brand Site | Movement that inspires
-  excerpt: Let's take a look at Kia PBV (Platform Beyond Vehicle) future lineup. All
-    Set for Every Inspiration.
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://worldwide.kia.com/int/image/og/the-new-kia-og-image.jpg
-  media:
-  - link: https://worldwide.kia.com/int/image/og/the-new-kia-og-image.jpg
-    type: image
-  - link: https://worldwide.kia.com/int/image/page/pbv/pbv-lineup/hero-lg.jpg
-    type: image
-  - link: https://worldwide.kia.com/int/image/page/pbv/pbv-lineup/intro-question-01.jpg
-    type: image
-  - link: https://worldwide.kia.com/int/image/page/pbv/pbv-lineup/intro-question-02.jpg
-    type: image
-  - link: https://worldwide.kia.com/int/image/page/pbv/pbv-lineup/intro-question-03.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-01-13T09:25:52.817Z'
-  lastUpdate: '2024-01-13T09:25:52.817Z'
-  collection:
-    "$ref": collections
-    "$id": -1
-    oid: -1
-  highlights: []
-  domain: worldwide.kia.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 713388266
-  collectionId: -1
+  sort: 751831183
+  collectionId: 38035089
   parsed: {}
 - _id: 757993484
   link: https://www.youtube.com/watch?v=rPxTYqrHkdM&list=WL&index=1
@@ -30450,6 +30082,40 @@
   sort: 757664559
   collectionId: 37459360
   parsed: {}
+- _id: 751854730
+  link: https://www.simplemagic.ca/what-is-a-skate-shop/
+  title: What is a skateboard shop?
+  excerpt: A cultural hub, capitalist outpost, the scene of my gravest sin?
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://www.simplemagic.ca/content/images/2024/02/What_is_skateboard_shop.jpg
+  media:
+  - link: https://www.simplemagic.ca/content/images/2024/02/What_is_skateboard_shop.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-03-10T21:08:21.545Z'
+  lastUpdate: '2024-03-10T21:08:27.828Z'
+  collection:
+    "$ref": collections
+    "$id": 37459360
+    oid: 37459360
+  highlights: []
+  domain: simplemagic.ca
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 751854730
+  collectionId: 37459360
+  parsed: {}
 - _id: 758055766
   link: https://www.youtube.com/watch?v=KCw-_ugEbZ4
   title: Under The Sun with Devon Howard
@@ -30496,6 +30162,386 @@
     email: ''
   sort: 758055766
   collectionId: 37136905
+  parsed: {}
+- _id: 754549290
+  link: https://www.youtube.com/watch?v=S1O96HeFcw4
+  title: Spotlight Session Episode 3 Corey Colapinto 2
+  excerpt: Welcome to Episode 3 of the First Light Surf Club Spotlight Sessions, where
+    we dive deep into the lives of entrepreneurs, creatives, and people we admire
+    bot...
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/S1O96HeFcw4/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/S1O96HeFcw4/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-03-15T13:13:03.132Z'
+  lastUpdate: '2024-03-15T13:13:04.107Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 754549290
+  collectionId: 37136905
+  parsed: {}
+- _id: 754057058
+  link: https://www.youtube.com/watch?v=C14dyIks75E
+  title: 'Dave Allee of Almond Surfboards: Even 2 ft waves can be firing'
+  excerpt: "Sign up for our free surfboard guide for sizing down volume, video library,
+    and newsletter \U0001F447\nhttps://manage.kmail-lists.com/subscriptions/subscribe?a=Xv9b5L&g=W2pNT4\n\nIn
+    this podcast I interviewed Dave Allee the founder of @almondsurfboards and talked
+    about how with the right attitude and the right equipment, even 2 ft can be firing,
+    which is their company ethos. It’s a super interesting discussion about the right
+    craft for small waves including midlengths, longboards, and single fins.\n\nChapters\n00:00
+    Introduction and the Importance of Equipment\n03:47 Origin Story of Almond Surfboards\n05:45
+    Getting Started in Shaping\n08:07 Transitioning to Alternative Boards\n10:03 Benefits
+    of Riding a Log\n14:47 Influence of Newport Beach on Almond Surfboards\n21:45
+    Regional Differences in Board Design\n24:10 Choosing a Longboard\n26:32 The Surf
+    Nice Longboard Model\n27:29 Sizing the Length of the Board\n29:24 Choosing a Board
+    for Beginners\n31:19 The Benefits of Single Fins\n32:10 Transitioning to Smaller
+    Craft\n36:00 The Philosophy of Mid-Length Boards\n44:04 The 5'4\" R Series Foamie\n47:15
+    Working with Andy Nieblas\n51:05 The Perfect Wave\n\nSubscribe for more interviews
+    with pro surfers, coaches, shapers, and everyday surfers like Matt Meola, Noel
+    Salas of Surf n Show, Victor Bernardo, Matt Parker of Album Surf, Kassia Meador,
+    Ryan Lovelace, Dylan Lightfoot, Derek Dunfee, Magnum Martinez, Isaac Stant, Nakoa
+    Decoite, and more!\n\nJoin our community of over 28k followers on IG and 15k on
+    TikTok:\nBasis Instagram https://www.instagram.com/gosurfbasis/\nBasis TikTok
+    https://www.tiktok.com/@gosurfbasis\nBasis Facebook https://www.facebook.com/gosurfbasis/\n\nThumbnail
+    credits: @thomas_henry_green\nSurfers: @andynieblas @_n.adams_ @tegan_gainan @drewmeseck\n\U0001F3A5:
+    @evan.adamson"
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/C14dyIks75E/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/C14dyIks75E/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-03-14T12:23:24.251Z'
+  lastUpdate: '2024-03-14T12:23:26.080Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 754057058
+  collectionId: 37136905
+  parsed: {}
+- _id: 752746301
+  link: https://www.huckmag.com/article/travel-diary-teachers
+  title: 'The Travel Diary: Chucking in life as a teacher in search of a…'
+  excerpt: Tom Bing packed in his life as a teacher in northern England to explore
+    South America, the continent of extremes, to escape the feeling of drowning.
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://tco.mutualcp.com/transforms/Huck/_1200x630_crop_center-center_82_none_ns/DSC_04152_2023-03-27-083938_dcjm.jpg?mtime=1679906379
+  media:
+  - link: https://tco.mutualcp.com/transforms/Huck/_1200x630_crop_center-center_82_none_ns/DSC_04152_2023-03-27-083938_dcjm.jpg?mtime=1679906379
+    type: image
+  - link: https://www.huckmag.com/_next/image?url=https%3A%2F%2Fwww.tcocdn.com%2Ftco%2Fimages%2FHuck%2FDSC_04152_2023-03-27-083938_dcjm.jpg%3F05-05&w=1920&q=75
+    type: image
+  - link: https://www.huckmag.com/_next/image?url=https%3A%2F%2Fwww.tcocdn.com%2Fwp-content%2Fuploads%2F2016%2F04%2FDSC_42791.jpg&w=1200&q=75
+    type: image
+  - link: https://www.huckmag.com/_next/image?url=https%3A%2F%2Fwww.tcocdn.com%2Fwp-content%2Fuploads%2F2016%2F04%2FDSC_07992.jpg&w=1200&q=75
+    type: image
+  - link: https://www.huckmag.com/_next/image?url=https%3A%2F%2Fwww.tcocdn.com%2Fwp-content%2Fuploads%2F2016%2F04%2Fstar-trails1.jpg&w=1200&q=75
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-03-12T11:58:04.267Z'
+  lastUpdate: '2024-03-12T11:58:05.624Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  domain: huckmag.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 752746301
+  collectionId: 37136905
+  parsed: {}
+- _id: 752741033
+  link: https://www.youtube.com/watch?v=Um8ZDSs0Lno&t=125s
+  title: Fun Floats
+  excerpt: York Beach, Maine
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/Um8ZDSs0Lno/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/Um8ZDSs0Lno/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-03-12T11:53:37.683Z'
+  lastUpdate: '2024-03-12T11:53:40.932Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 752741033
+  collectionId: 37136905
+  parsed: {}
+- _id: 751866039
+  link: https://www.fieldmag.com/articles/pacific-northwest-surf-photography
+  title: What It's Like to Learn to Surf in Your 30s In the PNW
+  excerpt: An ongoing photo series, "Bad Surfers" documents the brutal but sometimes
+    fruitful quest to log wave time in an unforgiving corner of the country
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://images.ctfassets.net/r7p9m4b1iqbp/2nqp3msaenGMpmzPTRMWJY/50acf837ebff52cbaee82e3194a70894/Josh-Poehlein-PNW-Bad-Surfers-hero.jpg?w=1000
+  media:
+  - link: http://images.ctfassets.net/r7p9m4b1iqbp/2nqp3msaenGMpmzPTRMWJY/50acf837ebff52cbaee82e3194a70894/Josh-Poehlein-PNW-Bad-Surfers-hero.jpg?w=1000
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-03-10T21:37:15.162Z'
+  lastUpdate: '2024-03-10T21:37:18.567Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  domain: fieldmag.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 751866039
+  collectionId: 37136905
+  parsed: {}
+- _id: 751861941
+  link: https://finisterre.com/blogs/broadcast/family-frontiers-an-irish-road-trip
+  title: 'Family Frontiers: An Irish Road Trip'
+  excerpt: Ambassador Sally McGee and family set off to explore Ireland's ancient
+    landscape and connect with fellow Finisterre Ambassadors.
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://finisterre.com/cdn/shop/articles/unnamed_200538fd-18cf-4de9-a218-9b8bf58c8af7.jpg?v=1709218005
+  media:
+  - link: https://finisterre.com/cdn/shop/articles/unnamed_200538fd-18cf-4de9-a218-9b8bf58c8af7.jpg?v=1709218005
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-03-10T21:14:52.967Z'
+  lastUpdate: '2024-03-10T21:14:57.387Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  domain: finisterre.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 751861941
+  collectionId: 37136905
+  parsed: {}
+- _id: 751865403
+  link: https://coffeereceiptstories.com/
+  title: Coffee Receipt Stories
+  excerpt: A collection of stories drawn on the back of coffee receipts by Odding
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://c-p.rmcdn.net/5786e7e271ace38e2c22bcbb/3636254/Screenshot-2a348530-ac4e-4310-88cd-116c3f103b5e_readyscr_1024.jpg
+  media:
+  - link: https://c-p.rmcdn.net/5786e7e271ace38e2c22bcbb/3636254/Screenshot-2a348530-ac4e-4310-88cd-116c3f103b5e_readyscr_1024.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-03-10T21:31:59.026Z'
+  lastUpdate: '2024-03-10T21:32:01.761Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  domain: coffeereceiptstories.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 751865403
+  collectionId: -1
+  parsed: {}
+- _id: 761253965
+  link: https://www.youtube.com/watch?v=vFpNJpmSHT0
+  title: Me and Julio // Paul Simon // POMPLAMOOSE ft. Lawrence
+  excerpt: "If you don’t know the band @lawrencetheband, you must go listen to them
+    NOW. I’m just so glad that we were able to do something together while they were
+    on the West Coast. And to get to do this CLASSIC PAUL SIMON song too. It was…heaven.
+    But like a surprisingly difficult heaven, where you wish you’d been able to rehearse
+    your part more but whatever it’s fine.\n\nSave this song on Spotify: https://spoti.fi/2r3Yqkh\nFollow
+    us on instagram: https://instagram.com/pomplamoosemusic\nBecome a patron of our
+    music (to vote on the songs we cover and get merch and stuff like that): http://www.patreon.com/pomplamoose\n\nA
+    cover of Paul Simon's \"Me and Julio Down by the Schoolyard\" by Pomplamoose &
+    Lawrence.\n\nMUSICIAN CREDITS\nLead Vocals/Ukulele: Clyde Lawrence of @lawrencetheband
+    \nBackground Vocals: Nataly Dawn\nBackground Vocals/Whistling: Rai Thistlethwayte\nGuitar:
+    Jack Conte\nBass: Nick Campbell\nPercussion: Ben Rose \n\nAUDIO CREDITS\nEngineer:
+    Bill Mims\nAssistant Engineer: Jack Corbett\nMixing/Mastering: Caleb Parker\n\nVIDEO
+    CREDITS\nDirector: Dom Fera\nDP: Christian Colwell\nCamera Operators: Christopher
+    Li, Austin Hughes\nGaffer: Nash White\nProduction Designer: Katie Theel\nVideo
+    Editor/Colorist: Athena Wheaton\nWardrobe/PA: Alex Allen\n\n#Pomplamoose #PaulSimon
+    #Lawrence\n\nLYRICS\nSeein' me and Julio down by the schoolyard\nSeein' me and
+    Julio down by the schoolyard\n\nWell, Mama pajama rolled outta bed\nAnd she ran
+    to the police station\nAnd when the Papa found out, and began to shout\nHe started
+    the investigation\n\nIt's against the law, it was against the law\nWhat that Mama
+    saw, oh it was against the law\n\nThe Mama looked down and spit on the ground\nEvery
+    time my name gets mentioned\nThe Papa said \"Oy! if I get that boy\nI'm gonna
+    stick him in the house of detention\"\n\nWell I'm on my way, I don't know where
+    I'm going\nI'm on my way, I'm taking my time, but I don't know where\nGoodbye
+    Rosie, the queen of Corona\nSeein' me and Julio down by the schoolyard\nSeein'
+    me and Julio down by the schoolyard\n\nIn a couple of days, they're gonna take
+    me away\nBut the press let the story leak\nWhen the radical priest come to get
+    me released\nWe was all on the cover of Newsweek\n\nWell I'm on my way, I don't
+    know where I'm going\nI'm on my way, I'm taking my time, but I don't know where\nGoodbye
+    Rosie, the queen of Corona\nSeein' me and Julio down by the schoolyard\nSeein'
+    me and Julio down by the schoolyard\nSeein' me and Julio down by the schoolyard\nSeein'
+    me and Julio down by the schoolyard\n\nOh oh, down by the schoolyard\nDown by
+    the schoolyard\nDown by the schoolyard"
+  note: Gimme a band that sounds right and has great cover songs. I can listen to
+    that for ours.
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/vFpNJpmSHT0/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/vFpNJpmSHT0/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-03-29T09:46:01.253Z'
+  collection:
+    "$ref": collections
+    "$id": 39748190
+    oid: 39748190
+  highlights: []
+  lastUpdate: '2024-04-07T19:43:37.956Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 761253965
+  collectionId: 39748190
+  parsed: {}
+- _id: 767138044
+  link: https://images.wur.nl/digital/collection/coll13/search/page/3
+  title: Browse - Wageningen University & Research - Image Collections
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://images.wur.nl/digital/api/singleitem/collection/coll13/id/915/thumbnail
+  media:
+  - link: https://images.wur.nl/digital/api/singleitem/collection/coll13/id/915/thumbnail
+    type: image
+  - link: https://images.wur.nl/digital/api/singleitem/collection/coll13/id/1000/thumbnail
+    type: image
+  - link: https://images.wur.nl/digital/api/singleitem/collection/coll13/id/537/thumbnail
+    type: image
+  - link: https://images.wur.nl/digital/api/singleitem/collection/coll13/id/544/thumbnail
+    type: image
+  - link: https://images.wur.nl/digital/api/singleitem/collection/coll13/id/330/thumbnail
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-04-10T19:17:32.300Z'
+  collection:
+    "$ref": collections
+    "$id": 38035089
+    oid: 38035089
+  highlights: []
+  lastUpdate: '2024-04-10T19:17:50.654Z'
+  domain: images.wur.nl
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 767138044
+  collectionId: 38035089
   parsed: {}
 - _id: 764889305
   link: https://gitlab.com/Screwtapello/topaz-unicode
@@ -30625,141 +30671,52 @@
   sort: 764270611
   collectionId: 37603939
   parsed: {}
-- _id: 767304167
-  link: https://www.youtube.com/watch?v=ONdwyRs7IZo
-  title: 'NTS: How a Sydney Ceramicist Lives Small'
-  excerpt: "Nestled amidst the bustling streets of the dense inner city suburb of
-    Darlinghurst, this quaint 47sqm terrace home with a small hidden courtyard garden
-    is home to Laura, Aman and their pets Eric and Annie. Inspired by their time in
-    Japan, their home and the objects they choose to bring into it, are a reflection
-    of their dedication to a more sustainable, thoughtful way of living and an appreciation
-    for good, functional design. \n\n#smallapartment #architecture #interiordesign
-    \n\nHow we live small Ep. 1\nProject name: Hidden Garden House\nOwner: Laura Butler
-    https://mennt.com.au/\nArchitect: https://www.trias.com.au/\n\nProduced by New
-    Mac Video Agency\nCreator: Colin Chee\nDirector & Cinematographer: Nam Tran\nDirector
-    & Producer: Elizabeth Price\nProducer: Lindsay Barnard \nEditor: Jess Ruasol\nMusic:
-    Where Is the Love - Instrumental Version by Johnny Gorillas\nThe Release by Walz\nThe
-    Moon in Your Eyes by Louis Adrien\nCaps Take 2 by Walz\nSultans of Streams by
-    Jozeque\nBetter by Aves\nSolstice by Michael Drake\nEchoes of Remembrance by DaniHaDani\nInner
-    Peace by Nadav Remez\nGoing Somewhere by Aves\nThe Minotaur by Julian Hartwell\nRoses
-    - Instrumental Version by sero\nBonding - No Backing Vocals by Jia Lee\nFrom artlist.co"
-  note: ''
-  type: video
+- _id: 763885098
+  link: https://www.waterbear.com/watch/out-of-step
+  title: Out of Step | WaterBear
+  excerpt: Follow the journey of surfers Tom Bing & Finisterre ambassador Sally McGee
+    as they embark on a road trip with their son Billy. Through captivating visuals
+    and candid moments, the film explores their v...
+  note: |-
+    > Doing instead of having
+
+    Such a great mantra. Love the way they talk about raising Billy and opening him on the world.
+  type: link
   user:
     "$ref": users
     "$id": 1617030
-  cover: https://i.ytimg.com/vi/ONdwyRs7IZo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgQihAMA8=&rs=AOn4CLC5R2-dYYdlkM1CA6_ohuBOIYI-aA
+  cover: https://cdn.sanity.io/images/4ejxdwee/production/04fc963622d4763fb1c15dd2a1bd8efec9df16d9-3840x2160.jpg?w=630&q=70&auto=format
   media:
-  - link: https://i.ytimg.com/vi/ONdwyRs7IZo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgQihAMA8=&rs=AOn4CLC5R2-dYYdlkM1CA6_ohuBOIYI-aA
+  - link: https://cdn.sanity.io/images/4ejxdwee/production/04fc963622d4763fb1c15dd2a1bd8efec9df16d9-3840x2160.jpg?w=630&q=70&auto=format
     type: image
-  - link: https://lh6.googleusercontent.com/proxy/H8GkAlT78iC9P_odWftnbAluyKqpTNjh4LPmFifoBL_LDxSsDofkbWTSDUGM_KXCG4txnsNQqDUED1nz1BIN7Ve3d5hKVzyrzX9x4-vHCMAuVnPwYTcFo2m6vo9dBA7433UUePkb6guFrQ
+  - link: https://cdn.sanity.io/images/4ejxdwee/production/187f1e283bff6f8d83ddc648ddf1197fd0ff6b74-1280x1920.jpg?w=568&q=70&auto=format
     type: image
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2024-04-11T07:11:28.350Z'
-  collection:
-    "$ref": collections
-    "$id": 37136914
-    oid: 37136914
-  lastUpdate: '2024-04-11T07:11:33.500Z'
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 767304167
-  collectionId: 37136914
-  parsed: {}
-- _id: 764325292
-  link: https://www.youtube.com/watch?v=hrOeEdf41cE
-  title: 'NEVER TOO SMALL: Japanese Inspired Sydney Terrace House, 47sqm/506sqft'
-  excerpt: |-
-    Our second book is now shipping worldwide. Be among the first to get your hands on it here https://www.nts-store.com/products/never-too-small-vol-2-reinventing-small-space-living?utm_medium=product_shelf&utm_source=youtube&utm_content=YT-ANKptbAKrtwtGLwNsOkwHncrv9o9iiY57brV3UlrZwvfSBCl6VmPl_8oo5a50AM8X95nxse8ow9ll1Qlke2x9m9KVQ5fMWOO0bn5-HYOl1qmV-DbuDSG2AL_aLlfW-hqVkeCdtjqmqMFsNNdFeSZOkqmPBoS-65pFzqAHOQySkYSKCzTuXso
-
-    Drawing inspiration from Japanese temples and hidden gardens, architect Jennifer McMaster of TRIAS transformed this small, dark, run-down Sydney terrace house into a peaceful, refined and personalised retreat for her creative clients and their beloved pets. McMaster’s redesign centred on opening up the lower level and introducing a central interior courtyard, creating a light-filled, green space around which to dine, work, live and unwind, with the upper level converted into an open plan bedroom–bathroom suite.  The house is filled with personalised touches, from the hand made terracotta floor tiles to the custom-designed furniture like the sofa, dining table, and daybed. A unique L-shaped bench doubles as a bookshelf, seating, and a step into the elevated kitchen area. Through the reimagining of this heritage space, Hidden Garden House illustrates the potential that lives all around us.
-
-    Ep. 171
-    Project Name: Hidden Garden House
-    Architect: https://www.trias.com.au/
-    Owner: Laura Butler https://mennt.com.au/
-
-    Produced by New Mac Video Agency
-    Creator: Colin Chee
-    Director & Cinematographer: Nam Tran
-    Producer:  Lindsay Barnard
-    Editor: Jessica Ruasol
-    Music: Rotational Flow & Deep Water by Adi Goldstein from Artlist.io
-  note: I always admire such minimalist small japanese inspired homes. I feel like
-    this is where I would live without my second half of me that is the messy one.
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/hrOeEdf41cE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgTSg9MA8=&rs=AOn4CLAbdGPWBcbSXyZ8vJ6Dx_nLYECCSA
-  media:
-  - link: https://i.ytimg.com/vi/hrOeEdf41cE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgTSg9MA8=&rs=AOn4CLAbdGPWBcbSXyZ8vJ6Dx_nLYECCSA
+  - link: https://cdn.sanity.io/images/4ejxdwee/production/3df585ef7454bd0efe29567f1e4caf85a77509b6-1280x1920.jpg?w=568&q=70&auto=format
+    type: image
+  - link: https://cdn.sanity.io/images/4ejxdwee/production/e078cb812e81dbdda34d3dbddbb8d5061cc315f1-1280x1920.jpg?w=568&q=70&auto=format
+    type: image
+  - link: https://cdn.sanity.io/images/4ejxdwee/production/120181e724ce73adaea439ea5dbcccff78031a05-1280x1920.jpg?w=568&q=70&auto=format
     type: image
   tags: []
   important: true
   reminder:
     date: 
   removed: false
-  created: '2024-04-04T11:40:32.685Z'
+  created: '2024-04-03T10:03:15.969Z'
   collection:
     "$ref": collections
-    "$id": 37136914
-    oid: 37136914
+    "$id": 37603939
+    oid: 37603939
   highlights: []
-  lastUpdate: '2024-04-07T19:39:52.393Z'
-  domain: youtube.com
+  lastUpdate: '2024-04-07T19:41:58.156Z'
+  domain: waterbear.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 764325292
-  collectionId: 37136914
-  parsed: {}
-- _id: 767135739
-  link: https://www.youtube.com/watch?v=LARqFhmRo6s
-  title: What's Good JJ Wessels | Presented by Captain Fin
-  excerpt: |-
-    We sat down with one of our favorite free surfers JJ Wessels after a surf at his home break to chat fins, surfing as a "sport", life as a dad and more. JJ's surf clips have been a staple on Log Rap since the early days, but this was the first time we every sat down with him to chat on camera and we couldn't be happier with how the conversation turned out. Big shoutout to Captain Fin for supporting this episode of What's Good.
-
-    Edit: Evan Schell
-    LogRap.com
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/LARqFhmRo6s/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/LARqFhmRo6s/maxresdefault.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-04-10T18:58:57.666Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  lastUpdate: '2024-04-10T18:58:58.589Z'
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 767135739
-  collectionId: 37136905
+  sort: 763885098
+  collectionId: 37603939
   parsed: {}
 - _id: 766947776
   link: https://www.youtube.com/watch?v=oaKRBBpA4fw
