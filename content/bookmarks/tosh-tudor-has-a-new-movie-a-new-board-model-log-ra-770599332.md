@@ -16,5 +16,5 @@ date: '2024-04-16T12:09:28.984Z'
 highlights: 
 ---
 
-
+Colors, then rails, then size, then what ? I forgot but I love that it all starts by how good does it look.
 

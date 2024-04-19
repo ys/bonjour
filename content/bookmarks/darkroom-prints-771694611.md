@@ -14,5 +14,7 @@ date: '2024-04-18T19:22:23.816Z'
 highlights: 
 ---
 
+So crazy to see all the little edits made to those analog shots. 
 
+Edits are everywhere... And I am still on the side of less of them than more
 

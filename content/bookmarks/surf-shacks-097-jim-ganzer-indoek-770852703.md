@@ -11,5 +11,6 @@ date: '2024-04-16T19:51:12.109Z'
 highlights: 
 ---
 
-
+This is just too beautiful!
+I love the record collection and all the art everywhere.
 
