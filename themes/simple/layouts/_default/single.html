@@ -1,7 +1,7 @@
 {{ define "main" }}
 <article class="h-entry">
   {{ partial "article_content" . }}
-  <span class="text-xs mb-32  text-right font-sans  capitalize flex  justify-end gap-1">
+  <span class="text-xs mb-8  text-right font-sans  capitalize flex  justify-end gap-1">
     {{ if .Params.camera }}
       <a href="{{ .RelPermalink }}">
         📷 {{ .Params.camera }} {{ with .Params.film }}{{ $.Site.Params.arrow }} {{ . }} {{ end }}
@@ -17,6 +17,6 @@
       </time>
     </a>
   </span>
-{{ partial "article_navigation" . }}
+  <!--{{ partial "article_navigation" . }}-->
 </article>
 {{ end }}

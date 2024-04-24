@@ -36,7 +36,7 @@
         </a>
       </span>
     <header class="relative py-8 md:max-w-xl md:mx-auto md:pt-36  mx-6 md:container flex flex-col md:flex-row  gap-2 ">
-      <div class="group flex flex-col h-full tracking-tighter ">
+      <div class="group flex flex-col w-full h-full items-center tracking-tighter ">
         <h1 class="text-2xl  font-bold transition ease-in-out text-{{$.Scratch.Get "color"}}">
         {{ if .Parent }}<a href="{{ .Parent.RelPermalink }}" alt="{{ .Parent.Title}}"> {{ else }}<a href="{{ "/" | relLangURL }}" alt="home">{{end}}
           {{ .Title | default .Site.Title }}</a></h1>

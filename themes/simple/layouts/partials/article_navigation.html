@@ -1,11 +1,11 @@
 <ul class="flex justify-between w-full">
   <li class="group hover:font-bold page-item{{ if not .PrevInSection }} disabled{{ end }}">
     <a {{ if .PrevInSection }}href="{{ .PrevInSection.RelPermalink }}" {{ end }} class="page-link" aria-label="Previous">
-      <span aria-hidden="true">←</span> <span class="hidden ml-2 group-hover:inline transition-all delay-150 duration-300">{{ with .PrevInSection}}{{.Title}}{{end}}</span>
+      <span aria-hidden="true">←</span> <span class="hdden ml-2 group-hover:inline transition-all delay-150 duration-300">{{ with .PrevInSection}}{{.Title}}{{end}}</span>
     </a>
   </li>
   <li class="group hover:font-bold page-item{{ if not .NextInSection }} disabled{{ end }}">
     <a {{ if .NextInSection }}href="{{ .NextInSection.RelPermalink }}" {{ end }} class="page-link" aria-label="Next">
-      <span class="hidden mr-2 group-hover:inline transition-all delay-150 duration-300">{{ with .NextInSection}}{{.Title}}{{end}}</span> <span aria-hidden="true">→</span></a>
+      <span class="hdden mr-2 group-hover:inline transition-all delay-150 duration-300">{{ with .NextInSection}}{{.Title}}{{end}}</span> <span aria-hidden="true">→</span></a>
   </li>
 </ul>
