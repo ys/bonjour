@@ -1,18 +1,5 @@
 current: true
 books:
-  - title: Welcome to the Hyunam-dong Bookshop
-    subtitle: The heart-warming Korean sensation
-    author: Hwang Bo-reum
-    date: '2024-04-10T18:30:53.352368Z'
-    read: null
-    rating: .nan
-    isbn: '1526662302'
-    isbn13: '9781526662309'
-    pages: 321
-    cover_url: >-
-      https://books.google.com/books/publisher/content?id=LN_OEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71kU4j-c94fVc3o-i3-DFCB2JC2bS7XvpllfXCx5lqoTLNYWvPqhEZ893s2CUcl4JbqZgpvq-YO9ouAhJ_yk5w_ot7yVIUNRKY7Y2MOQqbW2YDEqsuqM73FMNCPlQfGE9HYcxdo&source=gbs_api
-    reading: true
-    url: https://www.italictype.com/api/books/5kQr1X8/
   - title: The History of Surfing
     subtitle: ''
     author: Matt Warshaw
