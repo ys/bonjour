@@ -29006,6 +29006,42 @@
   sort: 689739530
   collectionId: -1
   parsed: {}
+- _id: 770542769
+  link: https://www.mayerowitz.io/blog/mario-meets-pareto
+  title: Mario meets Pareto
+  excerpt: Discover how to find the best Mario Kart 8 build using the Pareto frontier
+    method. This interactive guide explores multi-objective optimization of speed,
+    acceleration, and other key stats to help you beat your friends on the race track.
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://www.mayerowitz.io/SEO/mario-meets-pareto.png
+  media:
+  - link: https://www.mayerowitz.io/SEO/mario-meets-pareto.png
+    type: image
+  - link: https://www.mayerowitz.io/assets/pareto_mario_hat.png
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2024-04-16T09:16:38.861Z'
+  collection:
+    "$ref": collections
+    "$id": 39911296
+    oid: 39911296
+  lastUpdate: '2024-04-16T09:16:45.471Z'
+  domain: mayerowitz.io
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 770542769
+  collectionId: 39911296
+  parsed: {}
 - _id: 698511835
   link: https://www.togeproductions.com/project/a-space-for-the-unbound/
   title: A Space for the Unbound - Toge Productions
@@ -29477,6 +29513,88 @@
     email: ''
   sort: 764076070
   collectionId: 37679987
+  parsed: {}
+- _id: 775414469
+  link: https://lawsonchapman.substack.com/p/2-tips-on-raising-kids-and-some-random
+  title: 2 Tips on raising kids, and some random stuff, including a picture of the
+    moon.
+  excerpt: I never found the guide that would have been helpful, so I started creating
+    one. This is a small part of it.
+  note: Collecting books and bins. As long as my toothbrush doesn't touch the one
+    from my kids,. I should be fine continuing to collect books.
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c857a60-2906-4b2f-b12a-b0b4ba489b2d_2327x3490.jpeg
+  media:
+  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c857a60-2906-4b2f-b12a-b0b4ba489b2d_2327x3490.jpeg
+    type: image
+  - link: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Flawsonchapman.substack.com%2Fapi%2Fv1%2Fpost_preview%2F143861100%2Ftwitter.jpg%3Fversion%3D4
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2024-04-25T20:41:00.426Z'
+  collection:
+    "$ref": collections
+    "$id": 37603939
+    oid: 37603939
+  lastUpdate: '2024-04-25T20:41:50.764Z'
+  domain: lawsonchapman.substack.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 775414469
+  collectionId: 37603939
+  parsed: {}
+- _id: 771926029
+  link: https://becomingcrew.substack.com/p/episode-83-matt-barr-uncomfortable?utm_source=substack&utm_campaign=post_embed&utm_medium=web
+  title: Episode 83 - Matt Barr - Uncomfortable Conversations, Nature as Transaction
+    and the Spell of Capitalism.
+  excerpt: Something a bit different this week from the deeper more than human dive
+    we’ve been on in the last few episodes. I’m in conversation with Matthew Barr
+    of Adventure Sport Podcast Looking Sideways Matt has released nearly 250 episodes
+    on his podcast with some of the biggest, humblest and most interesting names in
+    Surfing, Snowboarding, Skateboarding and related pursuits.
+  note: "Hearing people be skeptical is always good. \nDo not trust and share by default.
+    Inform yourself. It is too easy to fall for the confirmation bias. And even think
+    people agree with you without even reading."
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10960033-dd26-4c14-a3ff-c27f30df9a8b_1080x1080.png
+  media:
+  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10960033-dd26-4c14-a3ff-c27f30df9a8b_1080x1080.png
+    type: image
+  - link: https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10960033-dd26-4c14-a3ff-c27f30df9a8b_1080x1080.png
+    type: image
+  - link: https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff90026af-1114-4d6f-b326-ffa9fe851461_1080x1080.png
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-04-19T10:23:48.501Z'
+  collection:
+    "$ref": collections
+    "$id": 37603939
+    oid: 37603939
+  highlights: []
+  lastUpdate: '2024-04-19T10:24:48.706Z'
+  domain: becomingcrew.substack.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 771926029
+  collectionId: 37603939
   parsed: {}
 - _id: 764270611
   link: https://www.youtube.com/watch?v=XEYuOGI5zx8
@@ -30720,6 +30838,46 @@
   sort: 734249329
   collectionId: 37136909
   parsed: {}
+- _id: 770599332
+  link: https://www.youtube.com/watch?v=MxYqgGhbrYY
+  title: Tosh Tudor Has A New Movie & A New Board Model!? | Log Rap Board Review
+  excerpt: "We caught up with Tosh Tudor the day after his new movie Tube Therapy
+    premiered in San Diego to find out more about his new board model with THC Surfboards
+    shaped y Wayne Rich. Even though the waves were just average, the board looked
+    like it worked well and talking to Wayne even he was surprised how well Tosh was
+    able to surf the thing after just 1 session. \n\nIf you'd like to order one of
+    these boards please contact Resin Craft on instagram:\nhttps://www.instagram.com/resincraft/"
+  note: Colors, then rails, then size, then what ? I forgot but I love that it all
+    starts by how good does it look.
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/MxYqgGhbrYY/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/MxYqgGhbrYY/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-04-16T12:09:28.984Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2024-04-19T10:34:32.461Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 770599332
+  collectionId: 37136905
+  parsed: {}
 - _id: 762800163
   link: https://m.youtube.com/watch?si=KmM1p73PD43jiPwm&v=9cGwttnCRBk&feature=youtu.be
   title: Chebakia
@@ -30883,6 +31041,41 @@
     email: ''
   sort: 659803004
   collectionId: 37136905
+  parsed: {}
+- _id: 770675699
+  link: https://www.youtube.com/watch?v=5CXnNpPMKms
+  title: Why Top French Michelin Star Chefs Swear by This Butter (Beurre Bordier)
+  excerpt: Top Tier French Butter Factory ! Let our sponsor Betterhelp connect you
+    to a therapist who can support you from the comfort of home. Visit https://betterhelp...
+  note: Du Beurre Han han han
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/5CXnNpPMKms/hqdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/5CXnNpPMKms/hqdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-04-16T14:08:10.984Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2024-04-19T10:34:07.057Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 770675699
+  collectionId: -1
   parsed: {}
 - _id: 765729457
   link: https://garden.mattstein.com/notes/i-can-t-afford-free-things
@@ -31475,199 +31668,6 @@
     email: ''
   sort: 775066459
   collectionId: 36103677
-  parsed: {}
-- _id: 770542769
-  link: https://www.mayerowitz.io/blog/mario-meets-pareto
-  title: Mario meets Pareto
-  excerpt: Discover how to find the best Mario Kart 8 build using the Pareto frontier
-    method. This interactive guide explores multi-objective optimization of speed,
-    acceleration, and other key stats to help you beat your friends on the race track.
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://www.mayerowitz.io/SEO/mario-meets-pareto.png
-  media:
-  - link: https://www.mayerowitz.io/SEO/mario-meets-pareto.png
-    type: image
-  - link: https://www.mayerowitz.io/assets/pareto_mario_hat.png
-    type: image
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2024-04-16T09:16:38.861Z'
-  collection:
-    "$ref": collections
-    "$id": 39911296
-    oid: 39911296
-  lastUpdate: '2024-04-16T09:16:45.471Z'
-  domain: mayerowitz.io
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 770542769
-  collectionId: 39911296
-  parsed: {}
-- _id: 771926029
-  link: https://becomingcrew.substack.com/p/episode-83-matt-barr-uncomfortable?utm_source=substack&utm_campaign=post_embed&utm_medium=web
-  title: Episode 83 - Matt Barr - Uncomfortable Conversations, Nature as Transaction
-    and the Spell of Capitalism.
-  excerpt: Something a bit different this week from the deeper more than human dive
-    we’ve been on in the last few episodes. I’m in conversation with Matthew Barr
-    of Adventure Sport Podcast Looking Sideways Matt has released nearly 250 episodes
-    on his podcast with some of the biggest, humblest and most interesting names in
-    Surfing, Snowboarding, Skateboarding and related pursuits.
-  note: "Hearing people be skeptical is always good. \nDo not trust and share by default.
-    Inform yourself. It is too easy to fall for the confirmation bias. And even think
-    people agree with you without even reading."
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10960033-dd26-4c14-a3ff-c27f30df9a8b_1080x1080.png
-  media:
-  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10960033-dd26-4c14-a3ff-c27f30df9a8b_1080x1080.png
-    type: image
-  - link: https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10960033-dd26-4c14-a3ff-c27f30df9a8b_1080x1080.png
-    type: image
-  - link: https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff90026af-1114-4d6f-b326-ffa9fe851461_1080x1080.png
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-04-19T10:23:48.501Z'
-  collection:
-    "$ref": collections
-    "$id": 37603939
-    oid: 37603939
-  highlights: []
-  lastUpdate: '2024-04-19T10:24:48.706Z'
-  domain: becomingcrew.substack.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 771926029
-  collectionId: 37603939
-  parsed: {}
-- _id: 770599332
-  link: https://www.youtube.com/watch?v=MxYqgGhbrYY
-  title: Tosh Tudor Has A New Movie & A New Board Model!? | Log Rap Board Review
-  excerpt: "We caught up with Tosh Tudor the day after his new movie Tube Therapy
-    premiered in San Diego to find out more about his new board model with THC Surfboards
-    shaped y Wayne Rich. Even though the waves were just average, the board looked
-    like it worked well and talking to Wayne even he was surprised how well Tosh was
-    able to surf the thing after just 1 session. \n\nIf you'd like to order one of
-    these boards please contact Resin Craft on instagram:\nhttps://www.instagram.com/resincraft/"
-  note: Colors, then rails, then size, then what ? I forgot but I love that it all
-    starts by how good does it look.
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/MxYqgGhbrYY/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/MxYqgGhbrYY/maxresdefault.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-04-16T12:09:28.984Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  lastUpdate: '2024-04-19T10:34:32.461Z'
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 770599332
-  collectionId: 37136905
-  parsed: {}
-- _id: 770675699
-  link: https://www.youtube.com/watch?v=5CXnNpPMKms
-  title: Why Top French Michelin Star Chefs Swear by This Butter (Beurre Bordier)
-  excerpt: Top Tier French Butter Factory ! Let our sponsor Betterhelp connect you
-    to a therapist who can support you from the comfort of home. Visit https://betterhelp...
-  note: Du Beurre Han han han
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/5CXnNpPMKms/hqdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/5CXnNpPMKms/hqdefault.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-04-16T14:08:10.984Z'
-  collection:
-    "$ref": collections
-    "$id": -1
-    oid: -1
-  highlights: []
-  lastUpdate: '2024-04-19T10:34:07.057Z'
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 770675699
-  collectionId: -1
-  parsed: {}
-- _id: 775414469
-  link: https://lawsonchapman.substack.com/p/2-tips-on-raising-kids-and-some-random
-  title: 2 Tips on raising kids, and some random stuff, including a picture of the
-    moon.
-  excerpt: I never found the guide that would have been helpful, so I started creating
-    one. This is a small part of it.
-  note: Collecting books and bins. As long as my toothbrush doesn't touch the one
-    from my kids,. I should be fine continuing to collect books.
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c857a60-2906-4b2f-b12a-b0b4ba489b2d_2327x3490.jpeg
-  media:
-  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c857a60-2906-4b2f-b12a-b0b4ba489b2d_2327x3490.jpeg
-    type: image
-  - link: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Flawsonchapman.substack.com%2Fapi%2Fv1%2Fpost_preview%2F143861100%2Ftwitter.jpg%3Fversion%3D4
-    type: image
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2024-04-25T20:41:00.426Z'
-  collection:
-    "$ref": collections
-    "$id": 37603939
-    oid: 37603939
-  lastUpdate: '2024-04-25T20:41:50.764Z'
-  domain: lawsonchapman.substack.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 775414469
-  collectionId: 37603939
   parsed: {}
 - _id: 782365917
   link: https://www.youtube.com/watch?v=yrv9dmWpNKA&list=WL&index=2
