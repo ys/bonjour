@@ -27793,6 +27793,41 @@
   sort: 653728854
   collectionId: 37459371
   parsed: {}
+- _id: 790475253
+  link: https://www.jenkemmag.com/home/2024/05/08/turning-classic-skate-soundtracks-into-a-radio-show-with-nts-skate-muzik/
+  title: TURNING CLASSIC SKATE SOUNDTRACKS INTO AN NTS RADIO SHOW - Jenkem Magazine
+  excerpt: His episodes centered around different skate themes give you a musical
+    deep dive found nowhere else.
+  note: I wished I knew this show years ago. Such a great thing to listen to
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://www.jenkemmag.com/home/wp-content/uploads/2024/05/Muzik.jpg
+  media:
+  - link: https://www.jenkemmag.com/home/wp-content/uploads/2024/05/Muzik.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-05-24T11:19:14.279Z'
+  collection:
+    "$ref": collections
+    "$id": 37459360
+    oid: 37459360
+  highlights: []
+  lastUpdate: '2024-05-24T11:19:41.446Z'
+  domain: jenkemmag.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 790475253
+  collectionId: 37459360
+  parsed: {}
 - _id: 758872387
   link: https://youtube.com/watch?v=8gXpZmQ7j70&feature=shared
   title: Richie Jackson's "Death Skateboards" Part
@@ -28458,6 +28493,43 @@
     email: ''
   sort: 658009278
   collectionId: 37136909
+  parsed: {}
+- _id: 790485451
+  link: https://www.returntozerofilm.com/
+  title: Return to Zero
+  excerpt: ''
+  note: |-
+    I just watched this surf movie and loved the vibe. The quotes in it are quite beautiful too and just the 16mm film !
+
+    > All is Impermanent!
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://static1.squarespace.com/static/634241a4f75efe54e6481116/t/65f4565b4fbe0f67efc5d884/1710511707641/Screenshot+2024-03-15+at+7.08.05+AM.png?format=1500w
+  media:
+  - link: http://static1.squarespace.com/static/634241a4f75efe54e6481116/t/65f4565b4fbe0f67efc5d884/1710511707641/Screenshot+2024-03-15+at+7.08.05+AM.png?format=1500w
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-05-24T11:50:58.347Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2024-05-24T11:51:51.741Z'
+  domain: returntozerofilm.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 790485451
+  collectionId: 37136905
   parsed: {}
 - _id: 758055766
   link: https://www.youtube.com/watch?v=KCw-_ugEbZ4
@@ -30838,95 +30910,6 @@
   sort: 734249329
   collectionId: 37136909
   parsed: {}
-- _id: 735900848
-  link: https://www.youtube.com/watch?v=FuQZlzSb19o&t=1s
-  title: '"Hireth" a short surf film presented by Finisterre'
-  excerpt: "Hireth is a short film by award winning Director Seth Hughes exploring
-    the deep but often lost connection we have to home and our homeshores. \n\nFilmed
-    on the Outer Hebrides in the Scottish Isles, Finisterre Ambassador, Mike Lay and
-    Isalnder, Colin MacLeod exchange waves and reconnect with the land and waters
-    that have shaped their lives so far. \n\nSet against the backdrop of the Atlantic
-    Ocean, where the raw, uninterrupted swells meet the rugged beauty of the Scottish
-    coastline, Seth Hughes beautifully weaves together breathtaking cinematography,
-    landscape, surf and soundtrack to capture the profound link between people and
-    place.\n\n#surfing #surffilm #coldwatersurf #cinematography #shortfilms"
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/FuQZlzSb19o/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/FuQZlzSb19o/maxresdefault.jpg
-    type: image
-  - link: https://i.ytimg.com/vi/FuQZlzSb19o/mqdefault.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-02-15T12:47:46.456Z'
-  lastUpdate: '2024-02-15T12:47:50.355Z'
-  collection:
-    "$ref": collections
-    "$id": 37136909
-    oid: 37136909
-  highlights: []
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 735900848
-  collectionId: 37136909
-  parsed: {}
-- _id: 734249329
-  link: https://www.youtube.com/watch?v=gmwD6xzrk-w
-  title: Talk Story featuring Bryce Baker & Kamalei Alexander
-  excerpt: |-
-    It's always a good time hanging with Bryce Baker. Talk Story is for your eyes balls and ear holes, so enjoy the trip with Bryce and Kamalei Alexander.
-
-    Boards from Radio, Modern Hawaiian Collective, Steve Lis, and Toy Boat
-
-    Video by Will Adler with addition filming by:
-    94 Video, Graham Bell, Dylan Howes, Kamalei Alexander, Alex Gorman, Bali Satoshi, and Alberto Fuentes
-
-    Find our collection of Radio Surfboards and Toy Boats here:
-    https://mollusksurfshop.com/collections/surfboards
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/gmwD6xzrk-w/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/gmwD6xzrk-w/maxresdefault.jpg
-    type: image
-  - link: https://lh5.googleusercontent.com/proxy/_Ne-HGdSrRKMtKhZNrZ0CHeEnLrzzkfhjabIWDcBk1_-hZHKlOgdSc5TNQSuQJfzQ3ygvfuzJy445phNai-YRXVVU5M-HJEthvrNnH-_uWUHpr2xhEQ2ro7jgvetrkqiaP8
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-02-12T09:31:28.759Z'
-  lastUpdate: '2024-02-12T09:31:30.321Z'
-  collection:
-    "$ref": collections
-    "$id": 37136909
-    oid: 37136909
-  highlights: []
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 734249329
-  collectionId: 37136909
-  parsed: {}
 - _id: 770599332
   link: https://www.youtube.com/watch?v=MxYqgGhbrYY
   title: Tosh Tudor Has A New Movie & A New Board Model!? | Log Rap Board Review
@@ -32158,5 +32141,39 @@
     name: bonjouryannick
     email: ''
   sort: 781371988
+  collectionId: -1
+  parsed: {}
+- _id: 790676190
+  link: https://daylightcomputer.com/
+  title: Daylight | A More Caring Computer
+  excerpt: The world’s first blue-light free computer.
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://cdn.sanity.io/images/dfdrtmi3/production/7e3f4b5dcfa15652f3d4f7433a6b1a80da8af395-1200x630.jpg?rect=0,2,1200,627&w=1200&h=627&fit=crop&auto=format
+  media:
+  - link: https://cdn.sanity.io/images/dfdrtmi3/production/7e3f4b5dcfa15652f3d4f7433a6b1a80da8af395-1200x630.jpg?rect=0,2,1200,627&w=1200&h=627&fit=crop&auto=format
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-05-24T21:15:53.872Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2024-05-24T21:15:53.872Z'
+  domain: daylightcomputer.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 790676190
   collectionId: -1
   parsed: {}
