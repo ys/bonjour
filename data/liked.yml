@@ -32177,41 +32177,6 @@
   sort: 790676190
   collectionId: -1
   parsed: {}
-- _id: 790766530
-  link: https://climateandboardsports.substack.com/p/an-electoral-period-is-when-we-have
-  title: "“An electoral period is when we have the most power”"
-  excerpt: An interview with surfer and activist Lucy Small, who is from Western Australia
-  note: "> An electoral period is when we have the most power and the biggest voice
-    in politics"
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6963d45-ddf3-4cad-b449-118ef58c9a14_1080x863.jpeg
-  media:
-  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6963d45-ddf3-4cad-b449-118ef58c9a14_1080x863.jpeg
-    type: image
-  - link: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fclimateandboardsports.substack.com%2Fapi%2Fv1%2Fpost_preview%2F144936260%2Ftwitter.jpg%3Fversion%3D4
-    type: image
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2024-05-25T05:32:05.983Z'
-  collection:
-    "$ref": collections
-    "$id": 37576759
-    oid: 37576759
-  lastUpdate: '2024-05-25T05:32:20.961Z'
-  domain: climateandboardsports.substack.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 790766530
-  collectionId: 37576759
-  parsed: {}
 - _id: 790765796
   link: https://www.huckmag.com/article/joel-sternfelds-landmark-portrait-of-american-pathos-dreams
   title: Joel Sternfeld’s landmark portrait of American pathos & dreams
@@ -32246,4 +32211,39 @@
     email: ''
   sort: 790765796
   collectionId: 37459371
+  parsed: {}
+- _id: 790766530
+  link: https://climateandboardsports.substack.com/p/an-electoral-period-is-when-we-have
+  title: "“An electoral period is when we have the most power”"
+  excerpt: An interview with surfer and activist Lucy Small, who is from Western Australia
+  note: "> An electoral period is when we have the most power and the biggest voice
+    in politics"
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6963d45-ddf3-4cad-b449-118ef58c9a14_1080x863.jpeg
+  media:
+  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6963d45-ddf3-4cad-b449-118ef58c9a14_1080x863.jpeg
+    type: image
+  - link: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fclimateandboardsports.substack.com%2Fapi%2Fv1%2Fpost_preview%2F144936260%2Ftwitter.jpg%3Fversion%3D4
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2024-05-25T05:32:05.983Z'
+  collection:
+    "$ref": collections
+    "$id": 37576759
+    oid: 37576759
+  lastUpdate: '2024-05-25T05:32:20.961Z'
+  domain: climateandboardsports.substack.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 790766530
+  collectionId: 37576759
   parsed: {}
