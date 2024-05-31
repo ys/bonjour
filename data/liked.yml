@@ -32392,3 +32392,48 @@
   sort: 792722911
   collectionId: 37459371
   parsed: {}
+- _id: 794031241
+  link: https://open.spotify.com/episode/6F1eUnonaI2GVPJ3s2lMVz?si=KHIofiKZTX2tP6Wkxn1vuQ&nd=1&dlsi=26291b7aa35348b2
+  title: '095 Apprendre aux enfants avec les éditions Chocolatine'
+  excerpt: 'Listen to this episode from Apprenti Surfeur - débuter en surf on Spotify.
+    Je reçois Florence Delcloy, fondatrice des éditions chocolatine. On discute de
+    ses livres pour enfants, liés à l’océan et à la culture surf. Elle nous donne
+    aussi tous ses bons conseils pour apprendre aux enfants à surfer.Son site Internet:
+    www.editionschocolatine.comN''oublie pas de t''abonner, tu trouveras aussi des
+    articles complets sur le site https://apprentisurfeur.com et notamment le guide
+    gratuit pour apprendre et améliorer ton take off https://apprentisurfeur.com/guide.Si
+    tu souhaites échanger avec d''autres apprenti surfeurs, rejoins le groupe Facebook
+    https://apprentisurfeur.com/groupe.Tu peux également me suivre sur Instagram @apprenti_surfeur'
+  note: Apprendre le surf et l'eau aux enfants. Chouette écoute! Hate de lire les
+    livres!
+  type: audio
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.scdn.co/image/ab67656300005f1fc23ada5d55c8b7e022952bc2
+  media:
+  - link: https://i.scdn.co/image/ab67656300005f1fc23ada5d55c8b7e022952bc2
+    type: image
+  - link: https://i.scdn.co/image/ab6765630000ba8ac23ada5d55c8b7e022952bc2
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-05-31T10:08:25.513Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2024-05-31T10:09:07.998Z'
+  domain: open.spotify.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 794031241
+  collectionId: 37136905
+  parsed: {}
