@@ -1,9 +1,9 @@
 {
   "redirects": [
     {
-      source: '/portfolio',
-      destination: '/',
-      permanent: true,
+      "source": "/portfolio",
+      "destination": "/",
+      "permanent": true,
     }
   ],
   "headers": [
