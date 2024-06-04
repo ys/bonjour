@@ -17,7 +17,9 @@ rows: 3
 ---
 
 I am a **documentary style photographer based in Finistère, France**.
-I love to capture the [beautiful, **ordinary details**](/portfolio) of daily life and **lives as they happen**.
-I often wander with a camera, a pencil and/or a small notebook.
+I love to capture the [beautiful, **ordinary details**](/portfolio) of daily life.
+I often wander with a camera, a pencil and a small notebook.
+
+For your editorial photography, photo reports, products documentaries, life portraits, or things, bonjour.
 
 I would love to hear more about your projects, do not hesitate to [Contact me](mailto:hello@yannickschutz.com)

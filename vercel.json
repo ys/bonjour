@@ -1,5 +1,11 @@
 {
-  "redirects": [],
+  "redirects": [
+    {
+      source: '/portfolio',
+      destination: '/',
+      permanent: true,
+    }
+  ],
   "headers": [
     {
       "source": "(.*).(webp|jpg|jpeg|gif|png|woff2|woff)",
