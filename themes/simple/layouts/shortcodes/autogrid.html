@@ -23,7 +23,7 @@
 {{ end }}
 {{ $rows = merge $rows (dict (string $rowid) $columns) }}
 <div data-pswp >
-  <div class=" my-8 inset-x-2/4 w-[80vw] relative -mx-[40vw]">
+  <div class=" -mx-2 my-8 md:inset-x-2/4 md:w-[80vw] relative md:-mx-[40vw]">
     {{ partial "grid" $rows }}
   </div>
 </div>
