@@ -43,8 +43,8 @@
         {{ with .Params.subtitle }}
         <span class="tracking-normal text-sm font-sans">{{.}}</span>
         {{ else }}
+        <nav class="main_menu font-sans text-sm hover:opacity-100 opacity-50">
         {{ $current := . }}
-        <nav class="main_menu font-sans text-sm">
             <ul class="inline leading-relaxed">
               {{ $menu := .Site.Menus.main}}
               {{ range  $menu }}

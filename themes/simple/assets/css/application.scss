@@ -108,10 +108,10 @@ $colors: {{ range .Site.Params.themeColors }}{{.}}, {{end}};
     @apply my-4 lg:-mx-6 -ml-4 px-4 lg:pr-6 py-1 lg:pl-6 border-l-4 border-#{$color} bg-gray-100 dark:bg-gray-800;
   }
   .content-#{$color} .link{
-    @apply font-normal decoration-dotted underline  decoration-#{$color} ;
+    @apply decoration-dotted underline  decoration-#{$color} ;
   }
   .content-#{$color} .prose a {
-    @apply  font-normal decoration-dotted underline decoration-#{$color}  relative ;
+    @apply decoration-dotted underline decoration-#{$color}  relative ;
     &:hover {
       @apply text-#{$color}  underline relative;
     }
@@ -215,7 +215,7 @@ table {
   }
 }
 .link, .with-links a, .content a {
-  @apply font-normal  decoration-solid decoration-yellow underline relative transition duration-500 ease-in-out;
+  @apply  decoration-solid decoration-yellow underline relative transition duration-500 ease-in-out;
   &:hover {
     @apply  text-yellow underline relative;
   }
