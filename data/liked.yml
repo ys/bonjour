@@ -32472,3 +32472,39 @@
   sort: 795984331
   collectionId: 37456469
   parsed: {}
+- _id: 796456747
+  link: https://youtu.be/-XDthMjB1iI
+  title: Antihero X Thrasher "Cross Contamination" Video
+  excerpt: Full commitment in every clip, GT, Raney, Austin, Nick, TNT and company
+    cover everything from the tightest pools to the crustiest streets with unmitigated
+    en...
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/-XDthMjB1iI/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/-XDthMjB1iI/maxresdefault.jpg
+    type: image
+  - link: https://i.ytimg.com/vi/-XDthMjB1iI/hqdefault.jpg
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2024-06-05T18:43:11.834Z'
+  collection:
+    "$ref": collections
+    "$id": 37459360
+    oid: 37459360
+  lastUpdate: '2024-06-05T18:43:20.539Z'
+  domain: youtu.be
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 796456747
+  collectionId: 37459360
+  parsed: {}
