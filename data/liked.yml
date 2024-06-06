@@ -32437,41 +32437,6 @@
   sort: 794031241
   collectionId: 37136905
   parsed: {}
-- _id: 795984331
-  link: https://github.com/lgarron/folderify?ref=thisdevbrain.com
-  title: GitHub - lgarron/folderify at thisdevbrain.com
-  excerpt: ":file_folder: Generate pixel-perfect macOS folder icons in the native
-    style. - lgarron/folderify"
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://repository-images.githubusercontent.com/2321480/a8848300-24b1-11eb-81c8-53e4adcb5a92
-  media:
-  - link: https://repository-images.githubusercontent.com/2321480/a8848300-24b1-11eb-81c8-53e4adcb5a92
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-06-04T16:50:55.536Z'
-  collection:
-    "$ref": collections
-    "$id": 37456469
-    oid: 37456469
-  highlights: []
-  lastUpdate: '2024-06-04T16:51:02.780Z'
-  domain: github.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 795984331
-  collectionId: 37456469
-  parsed: {}
 - _id: 796456747
   link: https://youtu.be/-XDthMjB1iI
   title: Antihero X Thrasher "Cross Contamination" Video
@@ -32543,4 +32508,39 @@
     email: ''
   sort: 796468101
   collectionId: -1
+  parsed: {}
+- _id: 795984331
+  link: https://github.com/lgarron/folderify?ref=thisdevbrain.com
+  title: GitHub - lgarron/folderify at thisdevbrain.com
+  excerpt: ":file_folder: Generate pixel-perfect macOS folder icons in the native
+    style. - lgarron/folderify"
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://repository-images.githubusercontent.com/2321480/a8848300-24b1-11eb-81c8-53e4adcb5a92
+  media:
+  - link: https://repository-images.githubusercontent.com/2321480/a8848300-24b1-11eb-81c8-53e4adcb5a92
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-06-04T16:50:55.536Z'
+  collection:
+    "$ref": collections
+    "$id": 37456469
+    oid: 37456469
+  highlights: []
+  lastUpdate: '2024-06-04T16:51:02.780Z'
+  domain: github.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 795984331
+  collectionId: 37456469
   parsed: {}
