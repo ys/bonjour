@@ -32544,6 +32544,44 @@
   sort: 794031241
   collectionId: 37136905
   parsed: {}
+- _id: 797669808
+  link: https://www.youtube.com/watch?v=HMGO5OXoLiA
+  title: 'adidas Skateboarding Presents /// TYSHAWN II: The Way You Walk'
+  excerpt: As we introduce Tyshawn II, we present a candid and unfiltered look at
+    Tyshawn Jones as his story unfolds and his character evolves. This modern depiction,
+    p...
+  note: Great to see the story mostly told by his mom! It is such a powerful video
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/HMGO5OXoLiA/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/HMGO5OXoLiA/maxresdefault.jpg
+    type: image
+  - link: https://i.ytimg.com/vi/HMGO5OXoLiA/hqdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-06-07T11:46:43.871Z'
+  collection:
+    "$ref": collections
+    "$id": 37459360
+    oid: 37459360
+  highlights: []
+  lastUpdate: '2024-06-07T11:47:04.314Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 797669808
+  collectionId: 37459360
+  parsed: {}
 - _id: 797114459
   link: https://soundcloud.com/inside-eurosima-podcast/damien-marly-et-julie-pollet-le-chipiron-a-la-landaise
   title: Julie Pollet et Damien Marly, le Chipiron à la Landaise by Inside Eurosima
@@ -32626,42 +32664,4 @@
     email: ''
   sort: 797114459
   collectionId: 37136905
-  parsed: {}
-- _id: 797669808
-  link: https://www.youtube.com/watch?v=HMGO5OXoLiA
-  title: 'adidas Skateboarding Presents /// TYSHAWN II: The Way You Walk'
-  excerpt: As we introduce Tyshawn II, we present a candid and unfiltered look at
-    Tyshawn Jones as his story unfolds and his character evolves. This modern depiction,
-    p...
-  note: Great to see the story mostly told by his mom! It is such a powerful video
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/HMGO5OXoLiA/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/HMGO5OXoLiA/maxresdefault.jpg
-    type: image
-  - link: https://i.ytimg.com/vi/HMGO5OXoLiA/hqdefault.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-06-07T11:46:43.871Z'
-  collection:
-    "$ref": collections
-    "$id": 37459360
-    oid: 37459360
-  highlights: []
-  lastUpdate: '2024-06-07T11:47:04.314Z'
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 797669808
-  collectionId: 37459360
   parsed: {}
