@@ -32709,3 +32709,35 @@
   sort: 802343272
   collectionId: 37603939
   parsed: {}
+- _id: 803015510
+  link: https://www.dimensions.com.au/ps1/
+  title: MS1
+  excerpt: ''
+  note: I would love a trailer like this for days like surf
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fwww.dimensions.com.au%2Fps1%2F
+  media: []
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-06-18T09:19:23.346Z'
+  collection:
+    "$ref": collections
+    "$id": 37136914
+    oid: 37136914
+  highlights: []
+  lastUpdate: '2024-06-18T09:19:43.278Z'
+  domain: dimensions.com.au
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 803015510
+  collectionId: 37136914
+  parsed: {}
