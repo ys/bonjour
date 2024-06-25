@@ -29586,6 +29586,50 @@
   sort: 764076070
   collectionId: 37679987
   parsed: {}
+- _id: 802343272
+  link: https://arestlesstransplant.substack.com/p/perfection-is-a-direction
+  title: '"Perfection is a Direction"'
+  excerpt: Lloyd Kahn in his in San Francisco and his home.
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc194691-419f-4891-b17f-06918f328e7c_2048x1358.jpeg
+  media:
+  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc194691-419f-4891-b17f-06918f328e7c_2048x1358.jpeg
+    type: image
+  - link: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Farestlesstransplant.substack.com%2Fapi%2Fv1%2Fpost_preview%2F144783807%2Ftwitter.jpg%3Fversion%3D4
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-06-17T08:48:55.084Z'
+  collection:
+    "$ref": collections
+    "$id": 37603939
+    oid: 37603939
+  highlights:
+  - text: '"Perfection is a direction." To me, this highlights the importance of not
+      being too precious with individual creations and instead focusing on making
+      improvements along the way.'
+    note: ''
+    created: '2024-06-17T08:49:43.518Z'
+    lastUpdate: '2024-06-17T08:49:43.519Z'
+    creatorRef: 1617030
+    _id: 666ff8a7a25e5861ee3b22e0
+  lastUpdate: '2024-06-17T08:49:43.518Z'
+  domain: arestlesstransplant.substack.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 802343272
+  collectionId: 37603939
+  parsed: {}
 - _id: 775414469
   link: https://lawsonchapman.substack.com/p/2-tips-on-raising-kids-and-some-random
   title: 2 Tips on raising kids, and some random stuff, including a picture of the
@@ -29666,60 +29710,6 @@
     name: bonjouryannick
     email: ''
   sort: 771926029
-  collectionId: 37603939
-  parsed: {}
-- _id: 764270611
-  link: https://www.youtube.com/watch?v=XEYuOGI5zx8
-  title: Réapprendre à s'aimer
-  excerpt: "Bonjour Youtube :) \nAlors moi c'est Laury, j'ai 32 ans et il y a 3 ans
-    j'ai lancé un podcast dans lequel je me questionne sur mes failles et mes vulnérabilités.\nEt
-    justement, il y a quelques mois, mon corps, mon coeur et ma tête m'ont crié STOP
-    !\n\nJ'ai donc eu besoin de mettre toute ma vie sur pause. Et cette émission a
-    été la première à sauter car il m'était devenu difficile de vous donner des pistes
-    pour avancer dans la vie quand j'avais le sentiment de m'y noyer. \nAlors j’ai
-    préféré pendant un temps vivre les choses, plutôt que les dire. J’avais besoin
-    de comprendre, d’infuser et de déconstruire pour mieux reconstruire...\nBesoin
-    de m’autoriser cette pause nécessaire pour mieux accueillir, cette transformation.\n\nAlors
-    pour débuter cette nouvelle saison j'avais envie de faire les choses différemment...
-    et d'ouvrir ce podcast à la vidéo (comme beaucoup me l'avez réclamé :) \n\nVoici
-    l'épisode 0, dans lequel je vous en dis un peu plus sur ce qui a motivé ce retour.
-    \n\nAlors d’avance merci pour votre indulgence et bon visionnage !\n\nPour les
-    prochains épisodes, je vous donne rendez-vous tous les 1er du mois. \n\nAlors
-    see you le 1er avril avec un invité plus que spécial :) \n\nEt si vous voulez
-    être au taquet pour chaque sortie, n’hésitez pas à vous abonner sur l’appli de
-    votre choix, ou à me suivre sur Instagram. Vous pouvez également me retrouver
-    en librairie, avec mes méthodes Au TOP ! : Tonic Organic Positive.\n\n\nEcrit
-    & Produit : Laury Thilleman\nRéalisation : Jorys Lamothe"
-  note: Des images de surf, de l'amour de soi, cela marche bien sur moi.
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/XEYuOGI5zx8/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/XEYuOGI5zx8/maxresdefault.jpg
-    type: image
-  - link: https://lh4.googleusercontent.com/proxy/YHuBYje7pvHNfnQF9V6k_uvRmpf7zQzx1SwpUqzqD9h0N7xiht_dqqDqw8zqxo86Td0B3Coh4jHnauRF8WQw7nmtwYMy3FKHXJKmRQs4N-HRow-S7ranjnpBtXZxGLjKcSI
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-04-04T08:30:10.505Z'
-  collection:
-    "$ref": collections
-    "$id": 37603939
-    oid: 37603939
-  highlights: []
-  lastUpdate: '2024-04-07T19:40:17.567Z'
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 764270611
   collectionId: 37603939
   parsed: {}
 - _id: 763885098
