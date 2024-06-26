@@ -32911,3 +32911,49 @@
   sort: 807074293
   collectionId: 39748190
   parsed: {}
+- _id: 807084651
+  link: https://www.youtube.com/watch?v=fbNNnQZzJtg
+  title: How This Photographer Crafted His Vintage Adventure Van | Huckberry Homes
+    Ep. 8 James Barkman
+  excerpt: "Subscribe to Huckberry's YouTube: https://bit.ly/4blFPUK\n\nOn this episode
+    of Huckberry Homes, we caught our good friend and photographer James Barkman out
+    in the wild. He gave us a tour of his vintage \"Yellow Submarine\" inspired VW
+    Van and broke down some of the modifications he has made to make this adventure
+    bus feel more like home. \n\nOn Huckberry Homes, we’ll be tapping into the most
+    inspiring members of the Huckberry community to offer an inside peek into how
+    they’ve crafted the place they call home. We will showcase everything from cold
+    plunges to vinyl listening rooms, home gyms and offices, and other tools that
+    inspire creativity and high-performing lives.\n\nLevel up your space with the
+    Huckberry Home Shop: https://bit.ly/3zfku2f"
+  note: The yellow submarine and the guide book to how to keep it alive
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/fbNNnQZzJtg/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/fbNNnQZzJtg/maxresdefault.jpg
+    type: image
+  - link: https://i.ytimg.com/vi/fbNNnQZzJtg/mqdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-06-26T13:07:32.083Z'
+  collection:
+    "$ref": collections
+    "$id": 37679925
+    oid: 37679925
+  highlights: []
+  lastUpdate: '2024-06-26T13:07:47.205Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 807084651
+  collectionId: 37679925
+  parsed: {}
