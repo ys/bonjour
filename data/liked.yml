@@ -32872,3 +32872,42 @@
   sort: 803996271
   collectionId: 37459360
   parsed: {}
+- _id: 807074293
+  link: https://www.youtube.com/watch?v=P_vI3FV1H4U
+  title: Weezer - The Blue Album LIVE | Spotify THIRTY - The 30th Anniversary
+  excerpt: Weezer came to Spotify Studios, Los Angeles for a special performance to
+    celebrate the 30th anniversary of “Weezer”, also known as “The Blue Album”. Listen
+    t...
+  note: That band is amazing and good to hear that special performance of the blue
+    album.
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/P_vI3FV1H4U/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/P_vI3FV1H4U/maxresdefault.jpg
+    type: image
+  - link: https://i.ytimg.com/vi/P_vI3FV1H4U/hqdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-06-26T12:35:26.419Z'
+  collection:
+    "$ref": collections
+    "$id": 39748190
+    oid: 39748190
+  highlights: []
+  lastUpdate: '2024-06-26T12:35:50.154Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 807074293
+  collectionId: 39748190
+  parsed: {}
