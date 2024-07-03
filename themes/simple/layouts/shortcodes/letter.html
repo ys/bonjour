@@ -1,10 +1,6 @@
 <div class=" py-6 text-gray-700  text-base">
   <div class="container lg:max-w-xl">
-    <form class="flex flex-col items-start"
-          action="https://buttondown.email/api/emails/embed-subscribe/{{ .Get "account" }}" method="post"
-      target="popupwindow"
-      onsubmit="window.open('https://buttondown.email/{{ .Get "account" }}', 'popupwindow')"
-      class="embeddable-buttondown-form">
+    <form class="flex flex-col items-start" target="popupwindow" action="https://list.yannickschutz.com/subscription/form" method="post">
       <label class="bd-email my-6 text-xl decoration-solid {{ with .Get "accent"}}decoration-{{.}}{{else}}decoration-accent{{end}}">
         {{ .Get "msg" }}
       </label>
@@ -13,7 +9,7 @@
         <input
             class="bg-transparent focus:shadow-none focus:ring-0 focus:outline-none focus:ring-offset-0 border-0 border-b-2 {{ with .Get "accent"}}caret-{{.}}  focus:border-{{.}} border-{{.}} hover:border-{{.}}{{else}}focus:border-accent border-accent hover:border-accent{{end}}form-input pl-2 rounded-none appearance-none  w-full py-2 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
           type="email" name="email" id="bd-email" placeholder="💌 ton@email.com"/>
-        <input type="hidden" value="1" name="embed" />
+        <input type="hidden" name="l" checked value="{{ .Get "account" }}" />
         <input
             class="font-sans shadow-md hover:shadow-lg rounded-sm {{ with .Get "accent"}}border-{{.}} border-solid bg-{{.}} {{else}} bg-accent{{ end}}  text-white hover:shadow-xl transition duration ease-in-out font-bold py-2 appearance-none px-4 outline-none focus:shadow-outline cursor-pointer"
           type="submit" value="{{ T "subscribe" }}" />
