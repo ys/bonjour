@@ -22,7 +22,7 @@ All will be archived here in high def. You will find them all on [the detail's p
 
 Like the rest of this website, I didn't want to include comments. My email is enough. I like simple and slow conversations over vanity metrics like comments count. So please, feel free to email me back and chat.
 
-{{< letter account="detail" accent="green" msg="Detail, a picture per week. Feel free to subscribe!" >}}
+{{< letter account="df6c65b0-e036-4016-87b1-9735bb57ccaf" msg="" accent="green" >}}
 
 ***
 
@@ -34,4 +34,4 @@ This is just a simple experiment. Therapy actually. Wanting to share by email to
 
 If you are interested, don't hesitate to subscribe! Adventure starts soon. This first set will be complete when the grid looks good. Be ready.
 
-{{< letter account="detail" msg="Detail, sign up here!" >}}
+{{< letter account="df6c65b0-e036-4016-87b1-9735bb57ccaf" msg="Detail, sign up here!" accent="green" >}}
