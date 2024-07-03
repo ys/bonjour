@@ -18,4 +18,4 @@ An email containing only one picture.
 
 I hope it will inspire you to scroll less.  
 
-{{< letter account="detail" msg="" accent="green" >}}
+{{< letter account="df6c65b0-e036-4016-87b1-9735bb57ccaf" msg="" accent="green" >}}
