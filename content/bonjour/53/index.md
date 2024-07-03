@@ -14,7 +14,7 @@ resources:
 ---
 *Hello, c'est [Yannick](https://yannickschutz.com). Je pensais pouvoir écrire des lettres toutes les deux semaines, mais ma vie n'est pas aussi folle. Où alors, justement, elle l'est trop et je n'ai pas le temps. J'avoue écrire pas mal sur papier ces temps-ci. Peut-être que tu voudrais voir ça. N'hésite pas à me [supporter via mon ko-fi](https://ko-fi.com/bonjouryannick/tiers).*
 
-![](https://stuff.yannick.computer/22x38-0712-14.jpg)
+![](cover.webp)
 
 Bonjour,
 
