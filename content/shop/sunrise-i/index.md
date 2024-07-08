@@ -3,7 +3,7 @@ title: "Sunrise I"
 grid: "cover"
 subtitle: "50€"
 price: "50.00"
-pricetag: "~~50€~~ soldout"
+pricetag: "~~50€~~ SOLD OUT"
 soldout: true
 emoji: 🌄
 currency: "EUR"

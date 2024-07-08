@@ -7,7 +7,9 @@ emoji: "🏄‍♂️"
 pricetag: "9€ worldwide shipping included"
 grid: "IMG_2533 / logfest_11 | logfest_3 | logfest_18 "
 currency: "EUR"
-price: "9.00"
+pricetag: "~~9.00€~~ SOLD OUT"
+price: "9"
+soldout: true
 price_id:  "price_1MewJpFaA8Wpl3EpZ3NrCiLY"
 resources:
   - src: "*.webm"

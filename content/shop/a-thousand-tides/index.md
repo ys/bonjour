@@ -6,7 +6,7 @@ subtitle: "soldout"
 soldout: true
 price: "18.00"
 currency: "EUR"
-pricetag: "~~18€~~ soldout"
+pricetag: "~~18€~~ SOLD OUT"
 emoji: 🌊
 price_id: "price_1KhdAaFaA8Wpl3EpuCoGpElU"
 resources:

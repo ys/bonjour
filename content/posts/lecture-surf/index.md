@@ -22,7 +22,7 @@ color: teal
 ---
 
 
-J'adore [lire]({{< ref "/suggestions-lecture" >}}). Je voyage beaucoup par la simple lecture. Je me motive à faire et me surpasser rien qu'en lisant. J'ai lu de chouettes livres sur [le surf avant de m'y mettre]({{< ref "/se-mettre-a-l-eau" >}}). Ces livres m'ont poussé à l'eau. Je me suis dit que vous faire une petite note sur deux de mes favoris vous ferait plaisir. C'est l'été, on a tous besoin d'un bouquin à mettre dans le sac pour ces vacances au jardin.
+J'adore lire. Je voyage beaucoup par la simple lecture. Je me motive à faire et me surpasser rien qu'en lisant. J'ai lu de chouettes livres sur [le surf avant de m'y mettre](/se-mettre-a-l-eau). Ces livres m'ont poussé à l'eau. Je me suis dit que vous faire une petite note sur deux de mes favoris vous ferait plaisir. C'est l'été, on a tous besoin d'un bouquin à mettre dans le sac pour ces vacances au jardin.
 
 ## [In waves](https://www.librairiesindependantes.com/product/9782203192393/) - AJ Dungo
 
