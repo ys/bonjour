@@ -63,8 +63,8 @@
     <picture class="block relative hover:shadow-xl hover:shadow-{{$.Page.Scratch.Get "color" }}/20 shadow-lg {{ if gt $src.Height $src.Width }} mx-auto w-2/3{{ end }} img" style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover">
       <img loading="lazy" alt="{{ with .Text }}{{ . }}{{ else }}{{ .Destination }}{{ end }}"
         class="cursor-pointer m-0 h-auto w-full lazyload" data-action="zoom"
-        data-zoom-src="{{ $src.RelPermalink}}" src="{{ $small.RelPermalink }}" width="{{ $src.Width }}"
-        height="{{ $src.Height }}">
+        data-zoom-src="{{ $src.RelPermalink}}" src="{{ $small.RelPermalink }}" width="{{ $small.Width }}"
+        height="{{ $small.Height }}">
     </picture>
     {{ with .Title }}
     <figcaption class="text-center -mt-18 text-sm  text-gray-500 ">
