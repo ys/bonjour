@@ -1,0 +1,54 @@
+{{ $allimages := slice }}
+{{ if .Params.shuffle }}
+{{ range shuffle (.Resources.ByType "image")}}
+  {{ if (and (ne .Name "cover") (ne .Name "card")) }}
+    {{ $allimages = $allimages | append (dict "Image" .  ) }}
+  {{ end }}
+{{ end }}
+{{ else }}
+{{ range sort (.Resources.ByType "image") "Name" "desc"}}
+  {{ if (and (ne .Name "cover") (ne .Name "card")) }}
+    {{ $allimages = $allimages | append (dict "Image" .  ) }}
+  {{ end }}
+{{ end }}
+{{ end }}
+  <div data-pswp >
+    <div class=" h-96 justify-center flex flex-row">
+<div class="md:ml-16 ml-4 snap-x snap-proximity overflow-x-auto list-none overflow-y-hidden flex flex-row gap-4">
+{{ range $index, $img :=  $allimages }}
+{{/* get file that matches the filename as specified as src="" in shortcode */}}
+  {{ $src := $img.Image }}
+
+  {{ if $src }}
+    {{ $xs := "20x" }}
+    {{ $md := "800x" }}
+    {{ if .Ratio }}
+      {{ $width := index (split .Ratio "/") 0 }}
+      {{ $height :=index (split .Ratio "/") 1 }}
+      {{ $xs := printf "%s0x%s0" $width $height }}
+      {{ $md := printf "%s00x%s00" (mul $width 2) (mul $height 2) }}
+    {{ end }}
+    {{ $lqip := $src.Resize (printf "%s webp" $xs) }}
+    {{ $small := $src.Resize (printf "%s webp" $md) }}
+    {{ if eq $src.MediaType.SubType "gif" }}
+       {{ $lqip = $src.Resize (printf "%s" $xs) }}
+       {{ $small = $src }}
+     {{ end }}
+       <picture class="snap-center snap-normal {{ .ExtraClasses }} aspect-[{{.Image.Width}}/{{.Image.Height}}] block relative h-full">
+        <img
+          loading="lazy"
+          style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover"
+          alt="{{ .Description }}"
+          class="rmelative hover:shadow-{{ $.Scratch.Get "color" }}/20 shadow-md hover:shadow-xl   cursor-pointer lazy"
+          data-action="zoom"
+          data-zoom-src="{{ $src.RelPermalink}}"
+          src="{{ $lqip.RelPermalink }}"
+          msrc="{{ $lqip.RelPermalink }}"
+          data-src="{{ $small.RelPermalink }}"
+          width="{{ $small.Width }}" height="{{ $small.Height }}"/>
+      </picture>
+  {{ end }}
+  {{ end }}
+</div>
+    </div>
+  </div>
