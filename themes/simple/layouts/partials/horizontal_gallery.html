@@ -14,7 +14,7 @@
 {{ end }}
   <div data-pswp >
     <div class=" h-96 justify-center flex flex-row relative ">
-<div class="md:ml-16 ml-4 snap-x snap-proximity overflow-x-auto list-none overflow-y-hidden flex flex-row gap-4">
+<div class=" snap-x snap-proximity overflow-x-auto list-none overflow-y-hidden flex flex-row gap-4">
 {{ range $index, $img :=  $allimages }}
 {{/* get file that matches the filename as specified as src="" in shortcode */}}
   {{ $src := $img.Image }}
@@ -50,7 +50,7 @@
   {{ end }}
   {{ end }}
 </div>
-  <div class="md:ml-16 ml-4 absolute top-0 left-0 w-24 md:bg-gradient-to-l from-transparent to-{{ $.Scratch.Get "color" }}/20 dark:to-crust h-full"></div>
+  <div class="absolute top-0 left-0 w-24 md:bg-gradient-to-l from-transparent to-{{ $.Scratch.Get "color" }}/20 dark:to-crust h-full"></div>
   <div class="absolute top-0 right-0 w-24 md:bg-gradient-to-r from-transparent to-{{ $.Scratch.Get "color" }}/20 dark:to-crust h-full"></div>
     </div>
   </div>
