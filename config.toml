@@ -45,6 +45,7 @@ canonifyURLs = false
   emoji = "✌️"
   withEmoji = true
   arrow = "—"
+  categorySymbol = "✺"
 [params.author]
   name = "Yannick Schutz"
 
@@ -52,6 +53,14 @@ canonifyURLs = false
   username = "bonjouryannick"
   title = "💌 Ma petite lettre"
   message = "Si tu aimes ce que tu as lu, j'envoie une petite lettre sur tout et rien toutes les deux semaines."
+
+[params.categoriesColors]
+  video = "yellow"
+  article = "sky"
+  link = "peach"
+  audio = "flamingo"
+  image = "green"
+  document = "maroon"
 
 [params.indiekit]
   url = "https://bonjour-indie.herokuapp.com"

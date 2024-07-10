@@ -26,5 +26,11 @@
   </nav>
   {{ end}}
 {{ $current := index (where .RegularPages ".Params.default" true) 0 }}
-{{ partial "horizontal_gallery" $current }}
+{{ range $current := .RegularPages }}
+<div class="my-6">
+  <h3 class="font-bold my-4 ml-4 md:ml-16 text-xl">{{ $current.Params.subtitle }}</h3>
+  {{ partial "horizontal_gallery" $current }}
+</div>
+{{ end}}
+
   {{ end }}
