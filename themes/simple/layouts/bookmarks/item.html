@@ -14,7 +14,7 @@
   {{ .Content | default (.Params.description |truncate 100) }}
   </div>
   <footer class="py-2 font-sans text-xs text-gray-600">
-    ⌁ <a href="{{ .Params.bookmarkOf }}">
+    <span class="text-{{ index $.Site.Params.categoriesColors .Params.category}}">{{$.Site.Params.categorySymbol}}</span> <a href="{{ .Params.bookmarkOf }}">
     <span class=" font-sans no-underline font-normal text-xs ">{{.Params.domain }}</span>
   </a>
   </footer>
