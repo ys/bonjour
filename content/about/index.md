@@ -1,6 +1,6 @@
 ---
 color: teal
-seotitle: "A little bit about me - Bonjour Yannick"
+seotitle: "A little bit about me - Yannick Schutz"
 title: "Bonjour, I am Yannick"
 description: "If you wanted to know more about me, this is the place."
 date: 2020-10-07T12:57:50+02:00

@@ -1,6 +1,7 @@
 ---
 color: peach
-title: "Capturing details of a beautiful daily life"
+title: "Daily details of a beautiful life"
+seotitle: "Daily details of a beautiful life – Yannick Schutz"
 menu:
   more:
     weight: 1

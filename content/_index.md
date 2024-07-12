@@ -1,6 +1,6 @@
 ---
 title: "Bonjour, I am Yannick"
-seotitle: "Bonjour Yannick - Documentary style Photographer from Finistère"
+seotitle: "Documentary style Photographer from Finistère – Yannick Schutz"
 description: "Documenting ordinary details"
 color: yellow
 date: 2017-10-26T22:57:50+02:00
