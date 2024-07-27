@@ -1,5 +1,18 @@
 current: true
 books:
+  - title: La ballade de l'impossible
+    subtitle: ''
+    author: Haruki Murakami
+    date: '2024-07-27T20:13:07.949307Z'
+    read: null
+    rating: .nan
+    isbn: '2714498906'
+    isbn13: '9782714498908'
+    pages: 324
+    cover_url: >-
+      https://books.google.com/books/publisher/content?id=fiCbEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72CTkxFVc9PBFfVQU3NZcqRzY5aEncfYRMCb6C_wHIT8INBtFweorJxn7TguTUeKnlJ033GN4mL8dBv0VbskD1sIcWKD0tfyPVmnlsYV8VJ0Nshxo4Us9WBK3BqhxKGM5LoIPSD&source=gbs_api
+    reading: true
+    url: https://www.italictype.com/api/books/5y3ZW08/
   - title: The History of Surfing
     subtitle: ''
     author: Matt Warshaw
