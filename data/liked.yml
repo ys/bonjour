@@ -28831,6 +28831,195 @@
   sort: 658009278
   collectionId: 37136909
   parsed: {}
+- _id: 790485451
+  link: https://www.returntozerofilm.com/
+  title: Return to Zero
+  excerpt: ''
+  note: |-
+    I just watched this surf movie and loved the vibe. The quotes in it are quite beautiful too and just the 16mm film !
+
+    > All is Impermanent!
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://static1.squarespace.com/static/634241a4f75efe54e6481116/t/65f4565b4fbe0f67efc5d884/1710511707641/Screenshot+2024-03-15+at+7.08.05+AM.png?format=1500w
+  media:
+  - link: http://static1.squarespace.com/static/634241a4f75efe54e6481116/t/65f4565b4fbe0f67efc5d884/1710511707641/Screenshot+2024-03-15+at+7.08.05+AM.png?format=1500w
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-05-24T11:50:58.347Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2024-05-24T11:51:51.741Z'
+  domain: returntozerofilm.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 790485451
+  collectionId: 37136905
+  parsed: {}
+- _id: 758055766
+  link: https://www.youtube.com/watch?v=KCw-_ugEbZ4
+  title: Under The Sun with Devon Howard
+  excerpt: |-
+    Devon Howard and the word style are often used in the same sentence.
+
+    Born and raised in San Diego, California, Devon has been a pivotal figure in the alternative craft scene since the late 90s, with his contributions to modern day midlength surfing being most notable.
+
+    His effortless surfing has been featured in seminal counter culture surf films that include Thomas Campbell’s The Seedling and Sprout, as well as Jason Baffa’s Single Fin Yellow and One California Day.
+
+    A few clicks north of where he grew up, Devon now resides in Ventura County where he splits his time between surfing, raising a young family, being a husband and designing and developing shapes for Channel Island Surfboards.
+
+    https://www.katinusa.com/
+    https://www.instagram.com/katinusa/
+    https://www.facebook.com/KatinUSA/
+
+    #devonhoward #midlength #underthesun
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/KCw-_ugEbZ4/hqdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/KCw-_ugEbZ4/hqdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-03-22T13:08:20.314Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2024-03-22T13:08:26.984Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 758055766
+  collectionId: 37136905
+  parsed: {}
+- _id: 754549290
+  link: https://www.youtube.com/watch?v=S1O96HeFcw4
+  title: Spotlight Session Episode 3 Corey Colapinto 2
+  excerpt: Welcome to Episode 3 of the First Light Surf Club Spotlight Sessions, where
+    we dive deep into the lives of entrepreneurs, creatives, and people we admire
+    bot...
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/S1O96HeFcw4/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/S1O96HeFcw4/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-03-15T13:13:03.132Z'
+  lastUpdate: '2024-03-15T13:13:04.107Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 754549290
+  collectionId: 37136905
+  parsed: {}
+- _id: 720464813
+  link: https://www.youtube.com/watch?v=SdIaEQCUVbk
+  title: Walt Disney Treasures - Hawaiian Holiday (1937)
+  excerpt: Mickey, Minnie, Donald, Goofy, and Pluto relax in sunny Hawaii in this
+    classic 1937 cartoon!
+  note: You often wonders when the term goofy comes from in surfing and skateboarding?
+    Search no more. It is right here in front of you.
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/SdIaEQCUVbk/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGD8gZShhMA8=&rs=AOn4CLAc4NdaDTOICSWtJizkElItw1GhKA
+  media:
+  - link: https://i.ytimg.com/vi/SdIaEQCUVbk/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGD8gZShhMA8=&rs=AOn4CLAc4NdaDTOICSWtJizkElItw1GhKA
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-01-24T20:12:28.569Z'
+  lastUpdate: '2024-02-13T09:48:26.561Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 720464813
+  collectionId: 37136905
+  parsed: {}
+- _id: 717175183
+  link: https://finisterre.com/blogs/broadcast/a-celtic-connection
+  title: A Celtic Connection
+  excerpt: Ambassador Mike Lay explores the deep-rooted celtic connections between
+    his Cornish home and the ancient granite coastline of Brittany.
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://finisterre.com/cdn/shop/articles/unnamed_aa71f437-c0a1-4b49-b2b9-481eba68bfb9.jpg?v=1705597966
+  media:
+  - link: https://finisterre.com/cdn/shop/articles/unnamed_aa71f437-c0a1-4b49-b2b9-481eba68bfb9.jpg?v=1705597966
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2024-01-18T21:19:00.316Z'
+  lastUpdate: '2024-01-18T21:19:00.316Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  domain: finisterre.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 717175183
+  collectionId: 37136905
+  parsed: {}
 - _id: 694864439
   link: https://www.fieldmag.com/articles/gulf-of-alaska-surf-trip-35mm
   title: Searching for Surf and Safe Passage in the Gulf of Alaska
@@ -29657,208 +29846,6 @@
     email: ''
   sort: 663704865
   collectionId: 38035089
-  parsed: {}
-- _id: 663604501
-  link: https://www.naiveweekly.com/p/i-send-you-a-mp3
-  title: I Send You a MP3
-  excerpt: Elliott Cost, Cursor Magazine, and airplane sights
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfbb2bbd-8ab6-41c5-83d8-f8b08e2139c2_1080x1349.jpeg
-  media:
-  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfbb2bbd-8ab6-41c5-83d8-f8b08e2139c2_1080x1349.jpeg
-    type: image
-  - link: https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfbb2bbd-8ab6-41c5-83d8-f8b08e2139c2_1080x1349.jpeg
-    type: image
-  - link: https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e5fbbdb-56a1-46e5-9f66-d486afc9a414_2542x1424.png
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-10-19T07:25:52.981Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 38035089
-    oid: 38035089
-  highlights: []
-  domain: naiveweekly.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 663604501
-  collectionId: 38035089
-  parsed: {}
-- _id: 764076070
-  link: https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following
-  title: Everyone’s a sellout now
-  excerpt: So you want to be an artist. Do you have to start a TikTok?
-  note: Art is complicated and doing it right is even harder. In our consumerist civilisation,
-    it is complex to do something for the sake of something. But I feel like we should
-    be able to.
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://cdn.vox-cdn.com/thumbor/yVutDtQu361G6Vlc1zzxandIs0I=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25258757/Vox_EleniKalorkoti.jpg
-  media:
-  - link: https://cdn.vox-cdn.com/thumbor/yVutDtQu361G6Vlc1zzxandIs0I=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25258757/Vox_EleniKalorkoti.jpg
-    type: image
-  - link: https://cdn.vox-cdn.com/thumbor/ey6SXvwTVCihxKS-9KgibzUX_U8=/0x60:1920x1020/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/25258757/Vox_EleniKalorkoti.jpg
-    type: image
-  - link: https://cdn.vox-cdn.com/thumbor/0zcOz8xRvF3Bw5JMR5Dd8Mwe7cQ=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/25258757/Vox_EleniKalorkoti.jpg
-    type: image
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2024-04-03T20:35:50.604Z'
-  collection:
-    "$ref": collections
-    "$id": 37679987
-    oid: 37679987
-  lastUpdate: '2024-04-07T19:41:01.904Z'
-  domain: vox.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 764076070
-  collectionId: 37679987
-  parsed: {}
-- _id: 802343272
-  link: https://arestlesstransplant.substack.com/p/perfection-is-a-direction
-  title: '"Perfection is a Direction"'
-  excerpt: Lloyd Kahn in his in San Francisco and his home.
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc194691-419f-4891-b17f-06918f328e7c_2048x1358.jpeg
-  media:
-  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc194691-419f-4891-b17f-06918f328e7c_2048x1358.jpeg
-    type: image
-  - link: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Farestlesstransplant.substack.com%2Fapi%2Fv1%2Fpost_preview%2F144783807%2Ftwitter.jpg%3Fversion%3D4
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-06-17T08:48:55.084Z'
-  collection:
-    "$ref": collections
-    "$id": 37603939
-    oid: 37603939
-  highlights:
-  - text: '"Perfection is a direction." To me, this highlights the importance of not
-      being too precious with individual creations and instead focusing on making
-      improvements along the way.'
-    note: ''
-    created: '2024-06-17T08:49:43.518Z'
-    lastUpdate: '2024-06-17T08:49:43.519Z'
-    creatorRef: 1617030
-    _id: 666ff8a7a25e5861ee3b22e0
-  lastUpdate: '2024-06-17T08:49:43.518Z'
-  domain: arestlesstransplant.substack.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 802343272
-  collectionId: 37603939
-  parsed: {}
-- _id: 775414469
-  link: https://lawsonchapman.substack.com/p/2-tips-on-raising-kids-and-some-random
-  title: 2 Tips on raising kids, and some random stuff, including a picture of the
-    moon.
-  excerpt: I never found the guide that would have been helpful, so I started creating
-    one. This is a small part of it.
-  note: Collecting books and bins. As long as my toothbrush doesn't touch the one
-    from my kids,. I should be fine continuing to collect books.
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c857a60-2906-4b2f-b12a-b0b4ba489b2d_2327x3490.jpeg
-  media:
-  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c857a60-2906-4b2f-b12a-b0b4ba489b2d_2327x3490.jpeg
-    type: image
-  - link: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Flawsonchapman.substack.com%2Fapi%2Fv1%2Fpost_preview%2F143861100%2Ftwitter.jpg%3Fversion%3D4
-    type: image
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2024-04-25T20:41:00.426Z'
-  collection:
-    "$ref": collections
-    "$id": 37603939
-    oid: 37603939
-  lastUpdate: '2024-04-25T20:41:50.764Z'
-  domain: lawsonchapman.substack.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 775414469
-  collectionId: 37603939
-  parsed: {}
-- _id: 771926029
-  link: https://becomingcrew.substack.com/p/episode-83-matt-barr-uncomfortable?utm_source=substack&utm_campaign=post_embed&utm_medium=web
-  title: Episode 83 - Matt Barr - Uncomfortable Conversations, Nature as Transaction
-    and the Spell of Capitalism.
-  excerpt: Something a bit different this week from the deeper more than human dive
-    we’ve been on in the last few episodes. I’m in conversation with Matthew Barr
-    of Adventure Sport Podcast Looking Sideways Matt has released nearly 250 episodes
-    on his podcast with some of the biggest, humblest and most interesting names in
-    Surfing, Snowboarding, Skateboarding and related pursuits.
-  note: "Hearing people be skeptical is always good. \nDo not trust and share by default.
-    Inform yourself. It is too easy to fall for the confirmation bias. And even think
-    people agree with you without even reading."
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10960033-dd26-4c14-a3ff-c27f30df9a8b_1080x1080.png
-  media:
-  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10960033-dd26-4c14-a3ff-c27f30df9a8b_1080x1080.png
-    type: image
-  - link: https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10960033-dd26-4c14-a3ff-c27f30df9a8b_1080x1080.png
-    type: image
-  - link: https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff90026af-1114-4d6f-b326-ffa9fe851461_1080x1080.png
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-04-19T10:23:48.501Z'
-  collection:
-    "$ref": collections
-    "$id": 37603939
-    oid: 37603939
-  highlights: []
-  lastUpdate: '2024-04-19T10:24:48.706Z'
-  domain: becomingcrew.substack.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 771926029
-  collectionId: 37603939
   parsed: {}
 - _id: 663604501
   link: https://www.naiveweekly.com/p/i-send-you-a-mp3
