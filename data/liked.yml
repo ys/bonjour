@@ -25533,6 +25533,172 @@
   sort: 653502452
   collectionId: 37458074
   parsed: {}
+- _id: 751854730
+  link: https://www.simplemagic.ca/what-is-a-skate-shop/
+  title: What is a skateboard shop?
+  excerpt: A cultural hub, capitalist outpost, the scene of my gravest sin?
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://www.simplemagic.ca/content/images/2024/02/What_is_skateboard_shop.jpg
+  media:
+  - link: https://www.simplemagic.ca/content/images/2024/02/What_is_skateboard_shop.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-03-10T21:08:21.545Z'
+  lastUpdate: '2024-03-10T21:08:27.828Z'
+  collection:
+    "$ref": collections
+    "$id": 37459360
+    oid: 37459360
+  highlights: []
+  domain: simplemagic.ca
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 751854730
+  collectionId: 37459360
+  parsed: {}
+- _id: 686365442
+  link: https://yewtu.be/watch?v=TxjnJMc_qWs
+  title: Jack Black Yells "DO A KICKFLIP!" At Skateboarders From His Car
+  excerpt: "Jack Black cruised thru to yell 'Do a Kickflip' and—if your kickflip was
+    tenacious enough—gave away boards! Exclusive signed Jack Black x The Berrics 'Do
+    a Kickflip!' decks are available now in The Canteen. \U0001F449https://canteen.theberrics.com/\n\nSubscribe
+    to The Berrics: http://bit.ly/TheBerricsYoutube\n\nThe Berrics was founded by
+    professional skateboarders Steve Berra and Eric Koston in December of 2007. With
+    over 10,000 skateboarding videos under their belt, including Battle at The Berrics,
+    Do A Kickflip and Life on Video, The Berrics is not only one of the most popular
+    online platforms in skate culture but the one of the most famous skate spots in
+    the world. Berra + Eric = Berrics. \n\nDaily Videos and More: http://theberrics.com\nShop
+    our Online Store: https://canteen.theberrics.com/\nFollow The Berrics on Instagram:
+    http://instagram.com/berrics\nFollow The Berrics on TikTok: https://www.tiktok.com/@berrics?\nFollow
+    The Berrics on Facebook: http://fb.com/berrics\nFollow The Berrics on Twitter:
+    http://twitter.com/berrics\n\n#Skateboarding #Berrics #TheBerrics #SkateboardingIsFun"
+  note: Do a kick flip tenacious D edition
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://yewtu.be/vi/TxjnJMc_qWs/maxres.jpg
+  media:
+  - link: https://yewtu.be/vi/TxjnJMc_qWs/maxres.jpg
+    type: image
+  - link: https://yewtu.be/vi/Fx0GwQK2zhk/mqdefault.jpg
+    type: image
+  - link: https://yewtu.be/vi/X9QPKow7GEk/mqdefault.jpg
+    type: image
+  - link: https://yewtu.be/vi/L1R1Ch-2JBs/mqdefault.jpg
+    type: image
+  - link: https://yewtu.be/vi/OEO8tRcpqLY/mqdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-11-29T13:32:05.829Z'
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  collection:
+    "$ref": collections
+    "$id": 37459360
+    oid: 37459360
+  highlights: []
+  domain: yewtu.be
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 686365442
+  collectionId: 37459360
+  parsed: {}
+- _id: 682809784
+  link: https://build.mmm.page/
+  title: explore
+  excerpt: Websites don't have to be so cookie cutter. Make a website that feels uniquely
+    you in under five minutes.
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://asset.mmm.page/3f/bd6752a5dc42c2ab33234b5611aa29/pzbn64.png
+  media:
+  - link: https://asset.mmm.page/3f/bd6752a5dc42c2ab33234b5611aa29/pzbn64.png
+    type: image
+  - link: https://asset.mmm.dev/5b/797ad2da9e40bd94b9405815cd3fc5/Abstract-3d-Shape---62.png?width=1024
+    type: image
+  - link: https://asset.mmm.dev/96/7d2140afae4e0687926cd116f649ed/Abstract-3d-Shape---66.png?width=512
+    type: image
+  - link: https://media1.giphy.com/media/PjgaBrjenOaxDLu85A/giphy.webp
+    type: image
+  - link: https://asset.mmm.dev/9e/20441c63b6478d98e49c39188345b8/Abstract-3d-Shape---59.png?width=512
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-11-22T09:25:02.775Z'
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  collection:
+    "$ref": collections
+    "$id": 37458074
+    oid: 37458074
+  highlights: []
+  domain: build.mmm.page
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 682809784
+  collectionId: 37458074
+  parsed: {}
+- _id: 653502452
+  link: https://github.com/catppuccin/catppuccin
+  title: "catppuccin/catppuccin: \U0001F638 Soothing pastel theme for the high-spirited!"
+  excerpt: "\U0001F638 Soothing pastel theme for the high-spirited! Contribute to
+    catppuccin/catppuccin development by creating an account on GitHub."
+  note: Amazing pastel colors
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://repository-images.githubusercontent.com/425134686/7ae77a27-976a-4da5-bf76-d2fcba939d68
+  media:
+  - link: https://repository-images.githubusercontent.com/425134686/7ae77a27-976a-4da5-bf76-d2fcba939d68
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-09-28T18:34:12.859Z'
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  collection:
+    "$ref": collections
+    "$id": 37458074
+    oid: 37458074
+  highlights: []
+  domain: github.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 653502452
+  collectionId: 37458074
+  parsed: {}
 - _id: 681828688
   link: https://www.youtube.com/watch?v=uaeamUAN8gU&t=1375s
   title: JOB and the surfing culture in San Francisco | NO CONTEST OFF TOUR
@@ -25865,6 +26031,65 @@
     email: ''
   sort: 656031861
   collectionId: 37136905
+  parsed: {}
+- _id: 817807427
+  link: https://www.youtube.com/watch?v=qRNATADvHG4
+  title: 'Pilgrim Surf + Supply: A Guide to Alternative Surfboards'
+  excerpt: "Sign up for our free surfboard guide for sizing down volume, video library,
+    and newsletter \U0001F447\nhttps://www.surfbasis.com/ \n\nSUMMARY\nChris Gentille,
+    the owner of Pilgrim Surf + Supply (@pilgrimsurfsupply), joined me in this week’s
+    episode of Basis Surf Podcast to talk about the importance of choosing the right
+    board, the concept of edge boards, his background as an artist and how he directed
+    the film “Self Discovery For Social Survival,” and the connection between skateboarding
+    and surfing.\n\nChapters\n00:00 Introduction and the Community at Pilgrim Surf
+    Supply\n02:24 Chris's Introduction to Surfing and Skateboarding\n05:17 The Scarcity
+    and Desirability of Surfing in the Northeast\n10:24 The Origin and Meaning of
+    the Name 'Pilgrim'\n16:38 From Florida to Owning a Surf Shop in Brooklyn\n28:33
+    The Versatility of Gliders: Riding Small Waves at High Speeds\n35:10 Exploring
+    Edge Boards: A Unique Surfing Experience\n43:17 The Importance of Bottom Contours
+    and Rail Design\n44:43 The Resurgence of George Green's Designs\n49:06 The Diverse
+    Community of Shapers and Surfers at Surf Supply\n56:17 The Creative Process Behind
+    'Self Discovery for Social Survival'\n01:09:12 The Significance of Style in Surfing\n01:18:42
+    The Benefits of Riding Different Types of Surfboards\n\nSubscribe for more interviews
+    with pro surfers, coaches, shapers, and everyday surfers like Victor Bernardo,
+    Matt Parker of Album Surf, Matt Meola, Ryan Lovelace, Noel Salas of Surf n Show,
+    Kassia Meador, Clayton of Ombe Surf, Dylan Lightfoot, Derek Dunfee, Magnum Martinez,
+    Isaac Stant, Nakoa Decoite, and more!\n\nJoin our community of over 55k followers
+    across IG, TikTok, Facebook, and YouTube:\nBasis Instagram https://www.instagram.com/gosurfbasis/\nBasis
+    TikTok https://www.tiktok.com/@gosurfbasis\nBasis Facebook https://www.facebook.com/gosurfbasis/"
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/qRNATADvHG4/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/qRNATADvHG4/maxresdefault.jpg
+    type: image
+  - link: https://i.ytimg.com/vi/qRNATADvHG4/mqdefault.jpg
+    type: image
+  tags:
+  - surf
+  - video
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-07-16T09:27:05.311Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2024-07-16T09:28:19.611Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 817807427
+  collectionId: -1
   parsed: {}
 - _id: 751865403
   link: https://coffeereceiptstories.com/
@@ -26436,191 +26661,6 @@
     name: bonjouryannick
     email: ''
   sort: 688480672
-  collectionId: 38035089
-  parsed: {}
-- _id: 687527599
-  link: https://cyber.dabamos.de/88x31/index5.html
-  title: The 88x31 GIF Collection | Part 5
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Fcyber.dabamos.de%2F88x31%2Findex5.html
-  media: []
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-12-01T14:09:23.063Z'
-  lastUpdate: '2023-12-01T14:09:24.314Z'
-  collection:
-    "$ref": collections
-    "$id": 38035089
-    oid: 38035089
-  highlights: []
-  domain: cyber.dabamos.de
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 687527599
-  collectionId: 38035089
-  parsed: {}
-- _id: 683961106
-  link: https://manuelmoreale.com/pb-robin-rendle?utm_source=peopleandblogs&utm_medium=email&utm_campaign=pb-robin-rendle
-  title: 'P&B: Robin Rendle – Manu'
-  excerpt: This is the 13th edition of People and Blogs, the series where I ask interesting
-    people to talk about themselves and their blogs. Today we have Robin …
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Fmanuelmoreale.com%2Fpb-robin-rendle%3Futm_source%3Dpeopleandblogs%26utm_medium%3Demail%26utm_campaign%3Dpb-robin-rendle
-  media: []
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-11-24T22:23:14.548Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 38035089
-    oid: 38035089
-  highlights: []
-  domain: manuelmoreale.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 683961106
-  collectionId: 38035089
-  parsed: {}
-- _id: 661655598
-  link: https://sinanatra.github.io/turks/www/?utm_source=substack&utm_medium=email
-  title: Views from Mechanical Turk
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Fsinanatra.github.io%2Fturks%2Fwww%2F%3Futm_source%3Dsubstack%26utm_medium%3Demail
-  media:
-  - type: image
-    link: https://rdl.ink/render/https%3A%2F%2Fsinanatra.github.io%2Fturks%2Fwww%2F%3Futm_source%3Dsubstack%26utm_medium%3Demail
-    screenshot: true
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-10-15T21:00:24.154Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 38035089
-    oid: 38035089
-  highlights: []
-  domain: sinanatra.github.io
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 661655598
-  collectionId: 38035089
-  parsed: {}
-- _id: 655183090
-  link: http://www.johnnycashhasbeeneverywhere.com/
-  title: Johnny Cash Has Been Everywhere (Man)!
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://www.johnnycashhasbeeneverywhere.com/screenshot.jpg
-  media:
-  - link: https://www.johnnycashhasbeeneverywhere.com/screenshot.jpg
-    type: image
-  - link: http://www.johnnycashhasbeeneverywhere.com/finger.png
-    type: image
-  - link: https://maps.google.com/maps/vt?pb=!1m5!1m4!1i3!2i1!3i4!4i256!2m3!1e0!2sm!3i665405669!3m12!2sen-GB!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!5f2&key=AIzaSyBhQ3siXbk1eCV9V-Pg1L8gvRVrMXnkx60&token=113899
-    type: image
-  - link: https://maps.google.com/maps/vt?pb=!1m5!1m4!1i3!2i1!3i5!4i256!2m3!1e0!2sm!3i665405045!3m12!2sen-GB!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!5f2&key=AIzaSyBhQ3siXbk1eCV9V-Pg1L8gvRVrMXnkx60&token=121794
-    type: image
-  - link: https://maps.google.com/maps/vt?pb=!1m5!1m4!1i3!2i3!3i5!4i256!2m3!1e0!2sm!3i665405777!3m12!2sen-GB!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!4e0!5m1!5f2&key=AIzaSyBhQ3siXbk1eCV9V-Pg1L8gvRVrMXnkx60&token=82435
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-10-02T21:12:48.548Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 38035089
-    oid: 38035089
-  highlights: []
-  domain: johnnycashhasbeeneverywhere.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 655183090
-  collectionId: 38035089
-  parsed: {}
-- _id: 655182896
-  link: https://mangotango.mmm.page/zine_night_6_15_23
-  title: zine_night_6_15_23
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://preview.mmm.page/?url=mangotango.mmm.page/zine_night_6_15_23
-  media:
-  - link: https://media1.giphy.com/media/U6otCwqjnPlu6LwXkt/giphy.gif
-    type: image
-  - link: https://media0.giphy.com/media/Kcb05nMA25BKNJG8fu/giphy.gif
-    type: image
-  - link: https://media4.giphy.com/media/MZ391sZrzFMfIwcV9B/giphy.gif
-    type: image
-  - link: https://media4.giphy.com/media/CG3UjAXU2xyKEFGjgL/giphy.gif
-    type: image
-  - link: https://media3.giphy.com/media/CbkGave3nh13hyubsP/giphy.gif
-    type: image
-  tags:
-  - notes
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-10-02T21:10:28.641Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 38035089
-    oid: 38035089
-  highlights: []
-  domain: mangotango.mmm.page
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 655182896
   collectionId: 38035089
   parsed: {}
 - _id: 655182715
