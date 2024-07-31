@@ -33078,3 +33078,43 @@
   sort: 790676190
   collectionId: -1
   parsed: {}
+- _id: 826006283
+  link: https://www.youtube.com/watch?v=INQ--Af7Pts
+  title: DIRT Director Shares Her EDC Essentials For Travel & Filming Around The World
+    | Huckberry Gear Lab
+  excerpt: https://bit.ly/3sjazWf | Read more about Kate's EDC on the Huckberry Journal
+    In-between filming episodes of DIRT, the Director of Huckberry Presents Kate Wes...
+  note: 'Always carry gummy bears
+
+    '
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/INQ--Af7Pts/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/INQ--Af7Pts/maxresdefault.jpg
+    type: image
+  - link: https://i.ytimg.com/vi/INQ--Af7Pts/hqdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-07-31T13:08:43.767Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2024-07-31T13:08:52.405Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 826006283
+  collectionId: -1
+  parsed: {}
