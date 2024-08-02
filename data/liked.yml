@@ -33118,3 +33118,38 @@
   sort: 826006283
   collectionId: -1
   parsed: {}
+- _id: 817456716
+  link: https://facultydept.com/
+  title: Homepage
+  excerpt: A study on lifestyle.
+  note: 'Documenting people work place, artists and artisans. It is soooo beautiful
+
+    '
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Ffacultydept.com%2F
+  media: []
+  tags:
+  - inspiration
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-07-15T15:29:07.412Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2024-08-02T10:07:20.402Z'
+  domain: facultydept.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 817456716
+  collectionId: -1
+  parsed: {}
