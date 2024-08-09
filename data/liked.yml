@@ -33296,3 +33296,37 @@
   sort: 832161412
   collectionId: -1
   parsed: {}
+- _id: 832188852
+  link: https://www.monsterchildren.com/articles/watch-memory-banks-episode-1-with-bella-gilchrist
+  title: 'Watch: Memory Banks Episode One With Bella Gilchrist — Monster Children'
+  excerpt: Introducing Bella Gilchrist of Road Surf in Encinitas.
+  note: We need more woman shaper center stage!
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://static1.squarespace.com/static/6398e5b4b3dd441ead33860a/6398e815f2eabd0b458bc856/6659908f7c6bb222d6d8700d/1721691775975/MCXFCS_SHAPERS-35.jpeg?format=1500w
+  media:
+  - link: http://static1.squarespace.com/static/6398e5b4b3dd441ead33860a/6398e815f2eabd0b458bc856/6659908f7c6bb222d6d8700d/1721691775975/MCXFCS_SHAPERS-35.jpeg?format=1500w
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-08-09T11:24:04.544Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2024-08-09T11:24:27.714Z'
+  domain: monsterchildren.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 832188852
+  collectionId: -1
+  parsed: {}
