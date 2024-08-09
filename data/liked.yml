@@ -33330,3 +33330,39 @@
   sort: 832161412
   collectionId: -1
   parsed: {}
+- _id: 832449681
+  link: https://www.surfsession.com/actu/edouard-delpero-et-damien-castera-explorent-la-baja-california/
+  title: Edouard Delpero et Damien Castera explorent la Baja California - Surf Session
+    Magazine
+  excerpt: Immortalisés avec talent par Kevin Métailler, les surfeurs ont trouvé de
+    quoi s'exprimer le long de la côte Pacifique.
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://www.surfsession.com/wp-content/uploads/2024/08/Edouard_Action05_BajaCalifornia_0323_KevinMetallier-1.jpg
+  media:
+  - link: https://www.surfsession.com/wp-content/uploads/2024/08/Edouard_Action05_BajaCalifornia_0323_KevinMetallier-1.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-08-09T21:08:24.543Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2024-08-09T21:08:32.143Z'
+  domain: surfsession.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 832449681
+  collectionId: 37136905
+  parsed: {}
