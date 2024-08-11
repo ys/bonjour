@@ -33078,6 +33078,144 @@
   sort: 790676190
   collectionId: -1
   parsed: {}
+- _id: 832449681
+  link: https://www.surfsession.com/actu/edouard-delpero-et-damien-castera-explorent-la-baja-california/
+  title: Edouard Delpero et Damien Castera explorent la Baja California - Surf Session
+    Magazine
+  excerpt: Immortalisés avec talent par Kevin Métailler, les surfeurs ont trouvé de
+    quoi s'exprimer le long de la côte Pacifique.
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://www.surfsession.com/wp-content/uploads/2024/08/Edouard_Action05_BajaCalifornia_0323_KevinMetallier-1.jpg
+  media:
+  - link: https://www.surfsession.com/wp-content/uploads/2024/08/Edouard_Action05_BajaCalifornia_0323_KevinMetallier-1.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-08-09T21:08:24.543Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2024-08-09T21:08:32.143Z'
+  domain: surfsession.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 832449681
+  collectionId: 37136905
+  parsed: {}
+- _id: 832188852
+  link: https://www.monsterchildren.com/articles/watch-memory-banks-episode-1-with-bella-gilchrist
+  title: 'Watch: Memory Banks Episode One With Bella Gilchrist — Monster Children'
+  excerpt: Introducing Bella Gilchrist of Road Surf in Encinitas.
+  note: We need more woman shaper center stage!
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://static1.squarespace.com/static/6398e5b4b3dd441ead33860a/6398e815f2eabd0b458bc856/6659908f7c6bb222d6d8700d/1721691775975/MCXFCS_SHAPERS-35.jpeg?format=1500w
+  media:
+  - link: http://static1.squarespace.com/static/6398e5b4b3dd441ead33860a/6398e815f2eabd0b458bc856/6659908f7c6bb222d6d8700d/1721691775975/MCXFCS_SHAPERS-35.jpeg?format=1500w
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-08-09T11:24:04.544Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2024-08-09T11:24:27.714Z'
+  domain: monsterchildren.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 832188852
+  collectionId: -1
+  parsed: {}
+- _id: 832161412
+  link: https://www.simplemagic.ca/here-we-are-where-we-have-always-been/
+  title: Here we are, where we have always been
+  excerpt: Chris Cole and skateboarding’s foundational inability to hold itself —
+    and its heroes — to account.
+  note: Accountability and openness!!
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://www.simplemagic.ca/content/images/2024/08/Here_we_are_where_we_have_always_been.jpg
+  media:
+  - link: https://www.simplemagic.ca/content/images/2024/08/Here_we_are_where_we_have_always_been.jpg
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2024-08-09T10:20:34.960Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  lastUpdate: '2024-08-09T10:21:05.930Z'
+  domain: simplemagic.ca
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 832161412
+  collectionId: -1
+  parsed: {}
+- _id: 817456716
+  link: https://facultydept.com/
+  title: Homepage
+  excerpt: A study on lifestyle.
+  note: 'Documenting people work place, artists and artisans. It is soooo beautiful
+
+    '
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Ffacultydept.com%2F
+  media: []
+  tags:
+  - inspiration
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-07-15T15:29:07.412Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2024-08-02T10:07:20.402Z'
+  domain: facultydept.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 817456716
+  collectionId: -1
+  parsed: {}
 - _id: 827318367
   link: https://www.youtube.com/watch?v=OwDwqMT1SKE
   title: Au Maroc, surfeurs et artistes face à l'insta-gentrification | Tracks | ARTE
@@ -33227,142 +33365,4 @@
     email: ''
   sort: 826006283
   collectionId: -1
-  parsed: {}
-- _id: 817456716
-  link: https://facultydept.com/
-  title: Homepage
-  excerpt: A study on lifestyle.
-  note: 'Documenting people work place, artists and artisans. It is soooo beautiful
-
-    '
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Ffacultydept.com%2F
-  media: []
-  tags:
-  - inspiration
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-07-15T15:29:07.412Z'
-  collection:
-    "$ref": collections
-    "$id": -1
-    oid: -1
-  highlights: []
-  lastUpdate: '2024-08-02T10:07:20.402Z'
-  domain: facultydept.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 817456716
-  collectionId: -1
-  parsed: {}
-- _id: 832188852
-  link: https://www.monsterchildren.com/articles/watch-memory-banks-episode-1-with-bella-gilchrist
-  title: 'Watch: Memory Banks Episode One With Bella Gilchrist — Monster Children'
-  excerpt: Introducing Bella Gilchrist of Road Surf in Encinitas.
-  note: We need more woman shaper center stage!
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://static1.squarespace.com/static/6398e5b4b3dd441ead33860a/6398e815f2eabd0b458bc856/6659908f7c6bb222d6d8700d/1721691775975/MCXFCS_SHAPERS-35.jpeg?format=1500w
-  media:
-  - link: http://static1.squarespace.com/static/6398e5b4b3dd441ead33860a/6398e815f2eabd0b458bc856/6659908f7c6bb222d6d8700d/1721691775975/MCXFCS_SHAPERS-35.jpeg?format=1500w
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-08-09T11:24:04.544Z'
-  collection:
-    "$ref": collections
-    "$id": -1
-    oid: -1
-  highlights: []
-  lastUpdate: '2024-08-09T11:24:27.714Z'
-  domain: monsterchildren.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 832188852
-  collectionId: -1
-  parsed: {}
-- _id: 832161412
-  link: https://www.simplemagic.ca/here-we-are-where-we-have-always-been/
-  title: Here we are, where we have always been
-  excerpt: Chris Cole and skateboarding’s foundational inability to hold itself —
-    and its heroes — to account.
-  note: Accountability and openness!!
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://www.simplemagic.ca/content/images/2024/08/Here_we_are_where_we_have_always_been.jpg
-  media:
-  - link: https://www.simplemagic.ca/content/images/2024/08/Here_we_are_where_we_have_always_been.jpg
-    type: image
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2024-08-09T10:20:34.960Z'
-  collection:
-    "$ref": collections
-    "$id": -1
-    oid: -1
-  lastUpdate: '2024-08-09T10:21:05.930Z'
-  domain: simplemagic.ca
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 832161412
-  collectionId: -1
-  parsed: {}
-- _id: 832449681
-  link: https://www.surfsession.com/actu/edouard-delpero-et-damien-castera-explorent-la-baja-california/
-  title: Edouard Delpero et Damien Castera explorent la Baja California - Surf Session
-    Magazine
-  excerpt: Immortalisés avec talent par Kevin Métailler, les surfeurs ont trouvé de
-    quoi s'exprimer le long de la côte Pacifique.
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://www.surfsession.com/wp-content/uploads/2024/08/Edouard_Action05_BajaCalifornia_0323_KevinMetallier-1.jpg
-  media:
-  - link: https://www.surfsession.com/wp-content/uploads/2024/08/Edouard_Action05_BajaCalifornia_0323_KevinMetallier-1.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-08-09T21:08:24.543Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  lastUpdate: '2024-08-09T21:08:32.143Z'
-  domain: surfsession.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 832449681
-  collectionId: 37136905
   parsed: {}
