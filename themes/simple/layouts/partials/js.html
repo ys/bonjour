@@ -3,7 +3,7 @@
 {{ end }}
 {{ $.Scratch.Set "jslibs" slice }}
 {{ $libs := slice "js/lunr.min.js" "js/photoswipe.js" "js/photoswipe-ui-default.js" "js/photoswipe-simplify.js" "js/lazyload.min.js" "js/main.js" }}
-{{ range $libs }} {{ $.Scratch.Add "jslibs" (resources.Get . ) }} {{ end }} {{ $js := .Scratch.Get "jslibs" | resources.Concat "js/main.js" }} {{ if .Site.IsServer }}
+{{ range $libs }} {{ $.Scratch.Add "jslibs" (resources.Get . ) }} {{ end }} {{ $js := .Scratch.Get "jslibs" | resources.Concat "js/main.js" }} {{ if hugo.IsServer }}
   <script src="{{ $js.RelPermalink }}"></script>
 {{ else }} {{ $js := $js | minify | fingerprint "sha512"}}
   <script src="{{ $js.RelPermalink }}"></script>
