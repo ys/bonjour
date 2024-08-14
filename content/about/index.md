@@ -68,7 +68,7 @@ I stick my pictures and some words kind of all over the web:
 
 I might try even more cause I am getting bored of [Instagram](https://instagram.com/bonjouryannick).
 
-You can find me writing short stuff on [Mastodon](https://social.lol/@yannick) or [Threads](https://www.threads.net/@bonjouryannick). I am still on [Twitter](https://twitter.com/bonjouryannick)
+You can find me writing short stuff on [Mastodon](https://social.lol/@yannick) or [Threads](https://www.threads.net/@bonjouryannick). 
 
 ## Colophon
 
