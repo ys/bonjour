@@ -33474,3 +33474,80 @@
   sort: 790039885
   collectionId: 37577000
   parsed: {}
+- _id: 796312985
+  link: https://www.youtube.com/watch?v=e9VhfTPcVaw
+  title: INTERSTELLAR LOW WAYS-Displacement Hulls Fantastic Acid- full movie
+  excerpt: "INTER STELLAR LOW WAYS \nA short story of 15 minutes which delves into
+    the fascination of the Displacement Hull universe.  Filmed in black and white
+    through the eyes of Fantastic Acid, a contemporary entity immersed in the research
+    and development of the convex bottom surfboard design.  DVD release in July 2019
+    via the website www.fantasticacid.com"
+  note: There is something about Displacement hulls...
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/e9VhfTPcVaw/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/e9VhfTPcVaw/maxresdefault.jpg
+    type: image
+  - link: https://i.ytimg.com/vi/e9VhfTPcVaw/mqdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-06-05T12:00:55.420Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2024-06-05T12:01:09.218Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 796312985
+  collectionId: 37136905
+  parsed: {}
+- _id: 800265523
+  link: https://www.youtube.com/watch?v=ZqRFMSjsBeE
+  title: I built a perfect home film scanner
+  excerpt: IG - https://www.instagram.com/jessesenkoHere's the 3d Printer file for
+    the film holder. I just printed the part i needed - https://www.thingiverse.com/thing...
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/ZqRFMSjsBeE/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/ZqRFMSjsBeE/maxresdefault.jpg
+    type: image
+  - link: https://i.ytimg.com/vi/ZqRFMSjsBeE/hqdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-06-12T20:06:00.187Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2024-06-12T20:06:02.051Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 800265523
+  collectionId: -1
+  parsed: {}
