@@ -33608,3 +33608,42 @@
   sort: 839307562
   collectionId: 39270608
   parsed: {}
+- _id: 840012382
+  link: https://www.wearelookingsideways.com/p/insights-how-creative-freelancers
+  title: 'Insights: How Creative Freelancers REALLY Make Money - Part 1'
+  excerpt: Read | Ed Leigh, Sophie Hellyer, Demi Taylor, Owen Tozer and Gilly McArthur
+    on the reality of the creative life.
+  note: Amazing interviews about how creative folks wear tons of hats and are always
+    on multiple things. Great to hear also that they also need to work for food and
+    so it is not all that glamorous and sometimes a basic day job is needed
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F276ee7fd-88c2-452f-a08e-5447a3ebb86e_3000x2000.heic
+  media:
+  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F276ee7fd-88c2-452f-a08e-5447a3ebb86e_3000x2000.heic
+    type: image
+  - link: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Flookingsideways.substack.com%2Fapi%2Fv1%2Fpost_preview%2F147677923%2Ftwitter.jpg%3Fversion%3D4
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-08-22T12:50:46.206Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2024-08-22T12:52:07.651Z'
+  domain: wearelookingsideways.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 840012382
+  collectionId: -1
+  parsed: {}
