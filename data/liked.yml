@@ -9821,6 +9821,38 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 645601329
+  link: https://craigmod.com/roden/067/
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://craigmod.com/roden/img/067/067.jpg
+  media:
+  - type: image
+    link: https://craigmod.com/roden/img/067/067.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:48:21.788Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: craigmod.com
+  title: Breaking Bad and Leicas — Roden newsletter issue 067
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601329
+  important: true
+  collectionId: 37456415
+  parsed: {}
 - _id: 645601327
   link: https://almondsurfboards.com/blogs/news/that-first-wave-feeling?_kx=WJeE3QQCOcj1C5-kKTUTnVQwLixGXGjdFW4dPGeJnNo%3D.Hb5zTY
   excerpt: ''
@@ -10587,39 +10619,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601297
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601296
-  link: https://thewatermensociety.com/quest-ce-quun-spot-expose-quest-ce-quun-spot-de-repli/
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Fthewatermensociety.com%2Fquest-ce-quun-spot-expose-quest-ce-quun-spot-de-repli%2F
-  media:
-  - type: image
-    link: https://rdl.ink/render/https%3A%2F%2Fthewatermensociety.com%2Fquest-ce-quun-spot-expose-quest-ce-quun-spot-de-repli%2F
-    screenshot: true
-  tags: []
-  removed: false
-  created: '2023-01-26T19:47:49.719Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: thewatermensociety.com
-  title: Quest ce quun spot expose quest ce quun spot de repli
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601296
   important: true
   collectionId: 37456415
   parsed: {}
@@ -24445,6 +24444,272 @@
   sort: 689077927
   collectionId: 38035089
   parsed: {}
+- _id: 688799231
+  link: https://unilist.raphaelbastide.com/?utm_source=substack&utm_medium=email
+  title: "⋃nilist"
+  excerpt: 'Unilist: Unicode Character list'
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://unilist.raphaelbastide.com/img/icon.png
+  media:
+  - link: http://unilist.raphaelbastide.com/img/icon.png
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-12-03T20:59:16.769Z'
+  lastUpdate: '2023-12-03T20:59:17.677Z'
+  collection:
+    "$ref": collections
+    "$id": 38035089
+    oid: 38035089
+  highlights: []
+  domain: unilist.raphaelbastide.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 688799231
+  collectionId: 38035089
+  parsed: {}
+- _id: 687843954
+  link: https://www.technologyreview.com/2023/10/17/1081194/how-to-fix-the-internet-online-discourse/
+  title: How to fix the internet
+  excerpt: If we want online discourse to improve, we need to move beyond the big
+    platforms.
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://wp.technologyreview.com/wp-content/uploads/2023/10/Memes_Hi-thumb.jpg?resize=1200,600
+  media:
+  - link: https://wp.technologyreview.com/wp-content/uploads/2023/10/Memes_Hi-thumb.jpg?resize=1200,600
+    type: image
+  - link: https://wp.technologyreview.com/wp-content/uploads/2023/10/Trashphone_Hi.jpg?resize=854,569
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2023-12-01T22:46:49.296Z'
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  collection:
+    "$ref": collections
+    "$id": 38035089
+    oid: 38035089
+  domain: technologyreview.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 687843954
+  collectionId: 38035089
+  parsed: {}
+- _id: 682810350
+  link: https://you-are-laurel-right.neocities.org/
+  title: You are Laurel, right?
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://you-are-laurel-right.neocities.org/assets/images/og-image.jpg
+  media:
+  - link: https://you-are-laurel-right.neocities.org/assets/images/og-image.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-11-22T09:27:00.766Z'
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  collection:
+    "$ref": collections
+    "$id": 38035089
+    oid: 38035089
+  highlights: []
+  domain: you-are-laurel-right.neocities.org
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 682810350
+  collectionId: 38035089
+  parsed: {}
+- _id: 682809319
+  link: https://syllabusproject.org/syllabus-for-taking-an-internet-walk/
+  title: Taking an Internet Walk
+  excerpt: Taking an Internet Walk by Spencer Chang & Kristoffer Tjalve THE INTERNET
+    AS WE KNOW IT In futuristic and cyberpunk media, we were promised a technological
+    world “indistinguishable from magic:”…
+  note: "> These sites are hidden from our everyday experiences because they are invisible
+    to our internet navigators. Instead, our defaults are hyper-SEOified links where
+    there is no clear person behind the content. When we encounter the kind of content
+    created for a computer-first internet, alarm bells should sound in our heads."
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://syllabusproject.files.wordpress.com/2023/11/image4.png
+  media:
+  - link: https://syllabusproject.files.wordpress.com/2023/11/image4.png
+    type: image
+  - link: https://syllabusproject.files.wordpress.com/2023/11/image5.png
+    type: image
+  - link: https://syllabusproject.files.wordpress.com/2023/11/image7.png
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-11-22T09:21:32.029Z'
+  lastUpdate: '2024-02-13T09:46:03.253Z'
+  collection:
+    "$ref": collections
+    "$id": 38035089
+    oid: 38035089
+  highlights: []
+  domain: syllabusproject.org
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 682809319
+  collectionId: 38035089
+  parsed: {}
+- _id: 679657480
+  link: https://usurpatormag.com/
+  title: USURPATOR
+  excerpt: Cargo
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://freight.cargo.site/w/468/q/94/i/90e549a3f0f6be21b60b810b4a2c5848b1bb47a6bc4f5cae4376fca0d9ff65eb/Frame-834.png
+  media:
+  - link: https://freight.cargo.site/w/468/q/94/i/90e549a3f0f6be21b60b810b4a2c5848b1bb47a6bc4f5cae4376fca0d9ff65eb/Frame-834.png
+    type: image
+  - link: https://freight.cargo.site/w/700/q/75/i/82fe204077b3e02538ae6dbee302c477ce968cbb4c01b52546cb9f327d1311c2/Frame-796-2.png
+    type: image
+  - link: https://freight.cargo.site/w/700/q/75/i/1977004eb83483abc61429b2f98b33882609b2c8c46406d7a42049ebac6cbc41/Frame-151-5.png
+    type: image
+  - link: https://freight.cargo.site/w/700/q/75/i/4d69f01302ad91e264a6f7394077d5cf9f1636cc64e7a21fbe396b03323783d2/Frame-47.png
+    type: image
+  - link: https://freight.cargo.site/w/588/q/94/i/21efae51958e66ea2d5936f9cd14c1b0fc2d925f0bbdbfaf5dc289f88231e728/key333.gif
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-11-16T22:47:13.573Z'
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  collection:
+    "$ref": collections
+    "$id": 38035089
+    oid: 38035089
+  highlights: []
+  domain: usurpatormag.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 679657480
+  collectionId: 38035089
+  parsed: {}
+- _id: 654736182
+  link: https://bjhess.bearblog.dev/remember-the-photo-blog/
+  title: Remember the Photo Blog
+  excerpt: |-
+    I'm going to toy with an old school post in the style of the 2000s. This post inspired by someone else's blog post. Skoobs writes:
+
+    I’ve had a dedicated phot...
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fbjhess.bearblog.dev%2Fremember-the-photo-blog%2F
+  media:
+  - type: image
+    link: https://rdl.ink/render/https%3A%2F%2Fbjhess.bearblog.dev%2Fremember-the-photo-blog%2F
+    screenshot: true
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2023-10-01T16:09:28.473Z'
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  collection:
+    "$ref": collections
+    "$id": 38035089
+    oid: 38035089
+  highlights: []
+  domain: bjhess.bearblog.dev
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 654736182
+  collectionId: 38035089
+  parsed: {}
+- _id: 750581349
+  link: https://m.youtube.com/watch?si=jP4re4xyNUck3Mo9&v=_oYSiPBUuC8&feature=youtu.be
+  title: "...Baby One More Time (from Kung Fu Panda 4) by Tenacious D (official video)"
+  excerpt: "Official music video for \"...Baby One More Time” from@kungfupanda and
+    @UniversalPictures \nGet ready for a whole new level of SKADOOSH \U0001F4A5 Experience
+    #KungFuPanda 4 only in theaters! \n\nGet tickets now: www.KungFuPandaTickets.com\nListen
+    here: https://backlotmusic.ffm.to/babyonemoretime\n\nFOLLOW US FOR MORE:\nYouTube.com/@TenaciousD\nYouTube.com/@JablinskiGames\nYouTube.com/@kylegass9760\nInstagram.com/Tenaciousd\nInstagram.com/JackBlack\nInstagram.com/therealKyleGass\nFacebook.com/Tenacious\nFacebook.com/JackBlack\nFacebook.com/GassLeak\nTwitter.com/TenaciousD\nTwitter.com/JackBlack\nTwitter.com/Gassleak\nTikTok.com/@JackBlack\nwww.TenaciousD.com\n\nFOLLOW
+    #KUNGFUPANDA FOR MORE:\nYouTube.com/@UCGD2Ss9bORlhsA3ADHQLBPA \nInstagram.com/KungFuPanda\nInstagram.com/UniversalPictures
+    \nInstagram.com/DreamWorks\nFacebook.com/KungFuPanda\nTwitter.com/DreamWorks  \nTikTok.com/@dreamworks
+    \ \nwww.KungFuPanda.com"
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/_oYSiPBUuC8/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/_oYSiPBUuC8/maxresdefault.jpg
+    type: image
+  - link: https://i.ytimg.com/vi/93A1ryc-WW0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBm9UEwa0VdwM8xiB8tanaq8y3pTw
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2024-03-09T06:42:21.462Z'
+  lastUpdate: '2024-03-09T06:42:21.462Z'
+  collection:
+    "$ref": collections
+    "$id": 37679987
+    oid: 37679987
+  domain: m.youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 750581349
+  collectionId: 37679987
+  parsed: {}
 - _id: 687832802
   link: https://www.spaceageapp.com/
   title: 'Space Age: A Game of Space Adventure for iOS and Mac'
@@ -25207,424 +25472,6 @@
     email: ''
   sort: 654815256
   collectionId: 37603939
-  parsed: {}
-- _id: 649176125
-  link: https://www.are.na/blog/on-motivation
-  title: On Motivation — Are.na
-  excerpt: Are.na is a platform for connecting ideas and building knowledge.
-  note: Our ideal outcome as a company is not becoming the next Facebook (god forbid),
-    it’s becoming the next Nishiyama Onsen Keiunkan, a hot spring hotel in Japan,
-    and one of the world’s oldest businesses (founded in 705 AD).
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://images.ctfassets.net/xq10wb7ogoji/4EhU8C2Mz9lYS2QKl8gONO/48b3d18c69e413956fb0675bba6fa8b8/image2.jpg?w=500
-  media:
-  - link: https://images.ctfassets.net/xq10wb7ogoji/4EhU8C2Mz9lYS2QKl8gONO/48b3d18c69e413956fb0675bba6fa8b8/image2.jpg?w=500
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-09-19T20:14:35.693Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 37603939
-    oid: 37603939
-  highlights: []
-  domain: are.na
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 649176125
-  collectionId: 37603939
-  parsed: {}
-- _id: 654809402
-  link: https://goodenough.us/blog/2023-09-28-how-we-made-a-good-enough-zine/
-  title: How We Made A Good Enough Zine — Good Enough
-  excerpt: "We made a zine!\nThe first issue was released in August, and I finished
-    the second issue just last week. Right now, a hundred copies are on their way
-    from the printer to me (update: they've just arrived!). Today I'd like to share
-    the story of how this zine came about.\nBad Idea: Zine\nA Good Enough Zine was
-    one of our bad ideas. On May 11, 2023, Arun suggested:\n\n  \n\nMy initial reaction:
-    What a terrible idea!\nWhy so terrible? Because making a zine is a sh*t ton of
-    work. (I know—I've made several issues of a comics zine, and it is a lot of work!)
-    And really, who's reading zines these days and who cares about what we're doing
-    at Good Enough?"
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://goodenough.us/social-preview.png
-  media:
-  - link: https://goodenough.us/social-preview.png
-    type: image
-  - link: https://goodenough.us/images/blog-230928-zineletter.png
-    type: image
-  - link: https://goodenough.us/images/blog-230928-indesign.png
-    type: image
-  - link: https://goodenough.us/images/blog-230928-mixam.png
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-10-01T21:21:14.871Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 37577005
-    oid: 37577005
-  highlights: []
-  domain: goodenough.us
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 654809402
-  collectionId: 37577005
-  parsed: {}
-- _id: 717176243
-  link: https://breanamazzagatte.com/#/558508/
-  title: Breana Mazzagatte - Krop
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://cache.krop.com/beamazzagatte-64d416f22a98d90.jpg
-  media:
-  - link: https://cache.krop.com/beamazzagatte-64d416f22a98d90.jpg
-    type: image
-  - link: https://images.krop.com/beamazzagatte-64dbdb642a9f5e4.jpg
-    type: image
-  - link: https://images.krop.com/beamazzagatte-64dbdd092a9f64a.jpg
-    type: image
-  - link: https://images.krop.com/beamazzagatte-64dbdd122a9f661.jpg
-    type: image
-  - link: https://images.krop.com/beamazzagatte-64dbee152a9f68b.jpg
-    type: image
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2024-01-18T21:24:43.019Z'
-  lastUpdate: '2024-01-18T21:24:43.019Z'
-  collection:
-    "$ref": collections
-    "$id": 37577000
-    oid: 37577000
-  domain: breanamazzagatte.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 717176243
-  collectionId: 37577000
-  parsed: {}
-- _id: 719610303
-  link: https://www.youtube.com/watch?v=zO1jutBWvIE
-  title: 'FILM PHOTOGRAPHY: 3 Great Things About It'
-  excerpt: "Visit my sponsor https://betterhelp.com/VanNeistat for a 10% discount
-    on your first month of therapy.\n\nFilm photography is great for three fundamental
-    reasons.\n\n0:00 Support for The Spirited Man\n1:05 Intro\n1:48 Film cameras are
-    cool\n3:53 The process of your local photo shop\n5:02 Photo albums\n6:58 This
-    week on the Patreon\n\nTHE PHOTO ALBUMS (this is an unpaid promotion): https://shop.mochithings.com/products/137896\n\nJoin
-    our PATREON to support the channel and gain access to Early-Release Videos, Exclusive
-    Director’s Commentaries, Q&A Livestreams, Peer Discussions,  Limited Edition Zines
-    and Patron-Only Videos: https://www.patreon.com/spiritedman\n\n\U0001F9BA SPIRITED
-    MAN MERCH:\nT-Shirts, Sweatshirts, Hats - https://spiritedman.com\n  \n\U0001F4F9
-    GREATEST HITS:\nVAN NEISTAT: The Spirited Man - https://youtu.be/eT6wYbaRrlQ\nVAN
-    NEISTAT: Fantasy Fixing - https://youtu.be/K65UQy6t6KQ \n2 things to know about
-    women - https://youtu.be/rTYH943jiEo \nWe Are In A \"FOURTH TURNING,\" What Does
-    That Mean? - https://youtu.be/xeVyfiP0cLk \nThe Reality of Owning A Vintage Truck
-    - https://youtu.be/DloMkje1JFY \nWhy Do Details Matter? - https://youtu.be/ooTN3dkYXQM
-    \n\n\U0001F4DA READING LIST:\nShop Class as Soulcraft by Matthew Crawford - https://amzn.to/3ipz4br\nThe
-    Fourth Turning by Neil Howe, William Strauss - https://amzn.to/37J9FYn \nThe Hero
-    with a Thousand Faces by Joseph Campbell - https://amzn.to/3ik8Hnm\nThe Coddling
-    of the American Mind by Greg Lukianoff, Jonathan Haidt - https://amzn.to/3qcTUzl\nBreakfast
-    of Champions by Kurt Vonnegut - https://amzn.to/3ImOHLw\nFear and Loathing in
-    Las Vegas by Hunter S. Thompson - https://amzn.to/3qjYGLw\nCollected Essays by
-    James Baldwin - https://amzn.to/3qgYInm\nThe Outlaw Bible of American Literature
-    by Alan Kaufman - https://amzn.to/3N64stJ\nWhat Is Art? by Leo Tolstoy - https://amzn.to/3u2fqI8
-    \n\n\U0001F3A5 FILMMAKING GEAR: \nCanon 1DX - https://amzn.to/3MYfq4J\nWide Lens
-    - https://amzn.to/3Jqiy6W\nMacro Lens - https://amzn.to/37BnQyt\nGoPro 10 - https://amzn.to/3u7O9nC\nRODECaster
-    - https://amzn.to/3iocSOU\nShure SM7B Microphone - https://amzn.to/3u9yOD1\nDJI
-    Mavic Air 2 Drone - https://amzn.to/3KVd8kN\n\n\U0001F9F0  ESSENTIAL TOOLS:\nSwiss
-    Champ - https://amzn.to/36b1vrl\nLeatherman - https://amzn.to/3Ilb04b\nPentel
-    0.9mm - https://amzn.to/3Io5TQX\nSledgehammer - https://amzn.to/3Io5UV1\nVice-grip
-    - https://amzn.to/3qiuccx\n\nFollow Van Neistat\n\U0001F4F7  Instagram - https://www.instagram.com/vanneistat/\n\nWould
-    you like to advertise with us, direct business inquiries to: blewis@spacestation.com
-    \n\nABOUT THE SPIRITED MAN:\nThe Spirited Man is an unlimited series about the
-    spirited man or woman who lives inside all of us (and fixing things).\n\nABOUT
-    VAN NEISTAT:\nA pioneer in digital filmmaking, Van Neistat made his first internet
-    video, The Holland Tunnel, in 2000. He went on to collaborate with New York City
-    artist Tom Sachs, directing a series of short films shown at the Guggenheim Museum
-    in Berlin. Van has since directed dozens more films for the Tom Sachs Studio.
-    In 2010 HBO aired The Neistat Brothers, an 8-episode series of short videos made
-    entirely by Van and his brother Casey Neistat. Van Neistat’s directorial debut
-    feature, A SPACE PROGRAM, co-written by Tom Sachs, premiered at the 2015 South
-    by Southwest Film Festival and opened in theaters nation-wide in spring, 2016.
-    In 2018 Neistat Directed the short film Paradox Bullets, co-written with Tom Sachs,
-    narrated by Werner Herzog, and starring Ed Rushca. Neistat has written and directed
-    commercial projects for Nike, Hurley, Kate Spade, Tory Burch, J. Crew, Twitter,
-    Sleepy Jones and Frances Valentine. His work has been exhibited in museums throughout
-    the world. He lives in Topanga, California.\n\nDisclaimer: If you use any of the
-    affiliate links above, we may earn a few cents from qualifying purchases.\n\n#VanNeistat
-    #TheSpiritedMan #Photography"
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/zO1jutBWvIE/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/zO1jutBWvIE/maxresdefault.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-01-23T12:12:04.444Z'
-  lastUpdate: '2024-01-23T12:12:09.442Z'
-  collection:
-    "$ref": collections
-    "$id": 37459371
-    oid: 37459371
-  highlights: []
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 719610303
-  collectionId: 37459371
-  parsed: {}
-- _id: 716011075
-  link: https://onion.tube/watch?v=XfyJ0nSzv1w
-  title: Shooting with a 60 year old camera
-  excerpt: |-
-    my presets: https://www.forrestmankins.com/presets
-
-    Well, I bought a TLR for the first time. It's a Yashica Mat LM that I got off Ebay for $150, and in this video I have no clue if it works at all. It shoots medium format film in a 6x6, and is super fun for both portraits and landscapes. The dogs and I hop in Big Green and drive into the woods to meet our friend McKenna to take some portraits and drink some coffee. Shooting Portra 800 film of course, with scans by State Film Lab, my absolute favorite lab that I have been using, going on 7 years now.
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://onion.tube/vi/XfyJ0nSzv1w/maxres.jpg
-  media:
-  - link: https://onion.tube/vi/XfyJ0nSzv1w/maxres.jpg
-    type: image
-  - link: https://onion.tube/vi/l5_d0QBx_Ho/mqdefault.jpg
-    type: image
-  - link: https://onion.tube/vi/hkaW72y5D_M/mqdefault.jpg
-    type: image
-  - link: https://onion.tube/vi/4TW38GVeJjc/mqdefault.jpg
-    type: image
-  - link: https://onion.tube/vi/lLxoeJf5pqM/mqdefault.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-01-17T13:08:15.181Z'
-  lastUpdate: '2024-01-17T13:08:16.353Z'
-  collection:
-    "$ref": collections
-    "$id": 37459371
-    oid: 37459371
-  highlights: []
-  domain: onion.tube
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 716011075
-  collectionId: 37459371
-  parsed: {}
-- _id: 679655989
-  link: https://pjonori.blog/posts/photo-site-design/
-  title: An opinionated guide to designing a photography site
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://pjonori.blog/posts/photo-site-design/the-americans.jpg
-  media:
-  - link: https://pjonori.blog/posts/photo-site-design/the-americans.jpg
-    type: image
-  - link: https://pjonori.blog/posts/photo-site-design/gypsies.jpg
-    type: image
-  - link: https://pjonori.blog/posts/photo-site-design/minutes-to-midnight.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2023-11-16T22:37:12.127Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 37459371
-    oid: 37459371
-  highlights: []
-  domain: pjonori.blog
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 679655989
-  collectionId: 37459371
-  parsed: {}
-- _id: 803996271
-  link: https://www.youtube.com/watch?v=9FhkimD1YLY&t=6s
-  title: Ben Harper | The Nine Club With Chris Roberts - Episode 16
-  excerpt: |-
-    The show that has skateboarders talking - This week Ben Harper discusses what it's like to play in front of a sold out audience, his love for skateboarding, growing up with Chris Miller, the parallels between music and skateboarding, his involvement with Roller Horror, the struggle to find the perfect set up, his thoughts on Justin Bieber and Lil' Wayne skateboarding, music rights, song writing, Chris's future baby momma (Taylor Swift), why he still uses a flip phone and much more....
-
-    LIKE and SUBSCRIBE if you back The Nine Club!
-
-    Also check out The Nine Club EXPERIENCE Show every other Thursday: http://bit.ly/thenineclub-experience
-
-
-    SHOP:
-
-    The Nine Club Store: http://bit.ly/thenineclub-store
-    Chris Roberts Chocolate Decks: http://bit.ly/crailstore-roberts
-    Donate to The Nine Club: http://bit.ly/thenineclub-donate
-
-
-    PRODUCTS WE USE TO MAKE THE SHOW:
-
-    Microphones: http://amzn.to/2yufRgg
-    Mic Stand: http://amzn.to/2zC6EWv
-    Headphones: http://amzn.to/2zAOyEu
-    Main Camera: http://amzn.to/2zz0dUp
-    Second Camera: http://amzn.to/2ht0amg
-    Other Cameras: http://amzn.to/2ADPR3M
-    Memory Cards: http://amzn.to/2AFC38O
-    Tripods: http://amzn.to/2ifgC6S
-    Lighting: http://amzn.to/2AJMZ5r
-    Behringer Mixer: http://amzn.to/2i7XuYh
-    Cloudlifter (for audio gain): http://amzn.to/2ADjLFa
-    Audio Box: http://amzn.to/2AA8CEZ
-    Hard Drive: http://amzn.to/2ABUhrz
-    Macbook Pro: http://amzn.to/2zBbJhZ
-    XLR Cables: http://amzn.to/2htNesZ
-    La Croix Pamplemousse: http://amzn.to/2yv0nsp
-
-    Visit our Amazon Page: https://www.amazon.com/shop/thenineclub
-
-
-    AUDIO PODCAST:
-
-    Apple Podcast: http://bit.ly/thenineclubpodcast-itunes
-    Google Play: http://bit.ly/thenineclubpodcast-googleplay
-    SoundCloud: http://bit.ly/thenineclubpodcast-soundcloud
-    iHeart Radio: http://bit.ly/thenineclubpodcast-iheartradio
-    Tunein: http://bit.ly/thenineclubpodcast-tunein
-    Stitcher: http://bit.ly/thenineclubpodcast-stitcher
-    Amazon Echo: "Alexa, play The Nine Club With Chris Roberts Podcast"
-
-    -------------------------------------
-
-    Shot By: Eric Longden
-    Edited By: Chris Roberts & Roger Bagley
-
-    -------------------------------------
-
-    LINKS WE TALKED ABOUT:
-
-    Switchflip Switch Manny: http://bit.ly/youtube-switchflipswitchmanny
-
-
-    SOCIAL MEDIA:
-
-    The Nine Club
-    Instagram: http://bit.ly/instagram-thenineclubshow
-    Twitter: http://bit.ly/twitter-thenineclubshow
-    Facebook: http://bit.ly/facebook-thenineclubshow
-    Website: http://bit.ly/thenineclub
-
-    Ben Harper
-    Instagram: https://www.instagram.com/benharper
-    Instagram: https://www.instagram.com/harperbenjamin
-    Twitter: https://twitter.com/benharper
-    Website: http://www.rollerhorror.com
-
-    Chris Roberts
-    Instagram: http://bit.ly/instagram-chrisroberts
-    Twitter: http://bit.ly/twitter-chris_roberts1
-    Snapchat: http://bit.ly/snapchat-chris_roberts1
-    Facebook: http://bit.ly/facebook-chrisroberts7
-
-    Roger Bagley
-    Instagram: http://bit.ly/instagram-the_breadcrumb_trail
-
-    Kelly Hart
-    Instagram: http://bit.ly/instagram-kellyhart
-    Twitter: http://bit.ly/twitter-kellyhart
-    Snapchat: http://bit.ly/snapchat-kellymhart
-    Facebook: http://bit.ly/facebook-kellyhartskate
-
-    Eric Longden
-    Instagram: http://bit.ly/instagram-ericlongden
-    Twitter: http://bit.ly/twitter-eric_longden
-    Facebook: http://bit.ly/facebook-ericlongden5
-    Website: http://bit.ly/ericlongdenfilms
-  note: 'Mixing Skateboarding and Ben Harper, this is magical. I wanna see him again
-    and hit the skatepark with him
-
-    '
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/9FhkimD1YLY/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/9FhkimD1YLY/maxresdefault.jpg
-    type: image
-  - link: https://i.ytimg.com/vi/9FhkimD1YLY/mqdefault.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-06-19T13:45:38.558Z'
-  collection:
-    "$ref": collections
-    "$id": 37459360
-    oid: 37459360
-  highlights: []
-  lastUpdate: '2024-06-19T13:46:09.598Z'
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 803996271
-  collectionId: 37459360
   parsed: {}
 - _id: 649176125
   link: https://www.are.na/blog/on-motivation
@@ -33595,6 +33442,102 @@
   sort: 826006283
   collectionId: -1
   parsed: {}
+- _id: 839307562
+  link: https://www.instagram.com/p/C-5U1Bvu8IM/
+  title: 'Pat Schmidt on Instagram: "The connection I got to form with Andrew since
+    moving to the east end is unexplainable. We always felt in sync. I felt like if
+    he was on the beach I could surf a certain way that worked well with the way he
+    wanted to capture images of surfing. I could see where he was moving on the rocks,
+    know right away the shot he was trying to get and adjust my position accordingly.
+    I’ve never had that before. I’ve never even wanted that before, but with Andrew
+    it was different. I’m such a fan of his work that I wanted to do whatever I could
+    to be a part of it. We had 5 days in a row earlier this summer that we passed
+    each other on nappegue meadow in the same exact spot, both with middle fingers
+    held high followed by a phone call cracking up about it that would end up lasting
+    hours. I will miss those times but am so grateful to experience them. Love you
+    Andrew, thanks for taking me under your wing. @blauschild"'
+  excerpt: '1,910 likes, 133 comments - patschmidt on August 20, 2024: "The connection
+    I got to form with Andrew since moving to the east end is unexplainable. We always
+    felt in sync. I felt like if he was on the beach I could surf a certain way that
+    worked well with the way he wanted to capture images of surfing. I could see where
+    he was moving on the rocks, know right away the shot he was trying to get and
+    adjust my position accordingly. I’ve never had that before. I’ve never even wanted
+    that before, but with Andrew it was different. I’m such a fan of his work that
+    I wanted to do whatever I could to be a part of it. We had 5 days in a row earlier
+    this summer that we passed each other on nappegue meadow in the same exact spot,
+    both with middle fingers held high followed by a phone call cracking up about
+    it that would end up lasting hours. I will miss those times but am so grateful
+    to experience them. Love you Andrew, thanks for taking me under your wing. @blauschild".'
+  note: "> There is something about film, it is sharp but it is soft. It has a life
+    in it\n"
+  type: image
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://scontent.cdninstagram.com/v/t51.29350-15/456452791_7991624574278801_1150898828537870563_n.jpg?stp=dst-jpg_e15_s640x640&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_ohc=e-KArKl9Ik8Q7kNvgG8PgJN&edm=AMO9-JQAAAAA&ccb=7-5&oh=00_AYCWEBwgvBDVXnRM5g3paB8dEY6xXZYlH-m-u8gjTDWyiA&oe=66CB8034&_nc_sid=cc8940
+  media:
+  - link: https://scontent.cdninstagram.com/v/t51.29350-15/456452791_7991624574278801_1150898828537870563_n.jpg?stp=dst-jpg_e15_s640x640&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_ohc=e-KArKl9Ik8Q7kNvgG8PgJN&edm=AMO9-JQAAAAA&ccb=7-5&oh=00_AYCWEBwgvBDVXnRM5g3paB8dEY6xXZYlH-m-u8gjTDWyiA&oe=66CB8034&_nc_sid=cc8940
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-08-21T09:02:42.925Z'
+  collection:
+    "$ref": collections
+    "$id": 39270608
+    oid: 39270608
+  highlights: []
+  lastUpdate: '2024-08-21T09:03:12.907Z'
+  domain: instagram.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 839307562
+  collectionId: 39270608
+  parsed: {}
+- _id: 840012382
+  link: https://www.wearelookingsideways.com/p/insights-how-creative-freelancers
+  title: 'Insights: How Creative Freelancers REALLY Make Money - Part 1'
+  excerpt: Read | Ed Leigh, Sophie Hellyer, Demi Taylor, Owen Tozer and Gilly McArthur
+    on the reality of the creative life.
+  note: Amazing interviews about how creative folks wear tons of hats and are always
+    on multiple things. Great to hear also that they also need to work for food and
+    so it is not all that glamorous and sometimes a basic day job is needed
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F276ee7fd-88c2-452f-a08e-5447a3ebb86e_3000x2000.heic
+  media:
+  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F276ee7fd-88c2-452f-a08e-5447a3ebb86e_3000x2000.heic
+    type: image
+  - link: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Flookingsideways.substack.com%2Fapi%2Fv1%2Fpost_preview%2F147677923%2Ftwitter.jpg%3Fversion%3D4
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-08-22T12:50:46.206Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2024-08-22T12:52:07.651Z'
+  domain: wearelookingsideways.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 840012382
+  collectionId: -1
+  parsed: {}
 - _id: 790039885
   link: https://www.stvnthoms.co.uk/gallery
   title: GALLERY — STP
@@ -33702,101 +33645,5 @@
     name: bonjouryannick
     email: ''
   sort: 800265523
-  collectionId: -1
-  parsed: {}
-- _id: 839307562
-  link: https://www.instagram.com/p/C-5U1Bvu8IM/
-  title: 'Pat Schmidt on Instagram: "The connection I got to form with Andrew since
-    moving to the east end is unexplainable. We always felt in sync. I felt like if
-    he was on the beach I could surf a certain way that worked well with the way he
-    wanted to capture images of surfing. I could see where he was moving on the rocks,
-    know right away the shot he was trying to get and adjust my position accordingly.
-    I’ve never had that before. I’ve never even wanted that before, but with Andrew
-    it was different. I’m such a fan of his work that I wanted to do whatever I could
-    to be a part of it. We had 5 days in a row earlier this summer that we passed
-    each other on nappegue meadow in the same exact spot, both with middle fingers
-    held high followed by a phone call cracking up about it that would end up lasting
-    hours. I will miss those times but am so grateful to experience them. Love you
-    Andrew, thanks for taking me under your wing. @blauschild"'
-  excerpt: '1,910 likes, 133 comments - patschmidt on August 20, 2024: "The connection
-    I got to form with Andrew since moving to the east end is unexplainable. We always
-    felt in sync. I felt like if he was on the beach I could surf a certain way that
-    worked well with the way he wanted to capture images of surfing. I could see where
-    he was moving on the rocks, know right away the shot he was trying to get and
-    adjust my position accordingly. I’ve never had that before. I’ve never even wanted
-    that before, but with Andrew it was different. I’m such a fan of his work that
-    I wanted to do whatever I could to be a part of it. We had 5 days in a row earlier
-    this summer that we passed each other on nappegue meadow in the same exact spot,
-    both with middle fingers held high followed by a phone call cracking up about
-    it that would end up lasting hours. I will miss those times but am so grateful
-    to experience them. Love you Andrew, thanks for taking me under your wing. @blauschild".'
-  note: "> There is something about film, it is sharp but it is soft. It has a life
-    in it\n"
-  type: image
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://scontent.cdninstagram.com/v/t51.29350-15/456452791_7991624574278801_1150898828537870563_n.jpg?stp=dst-jpg_e15_s640x640&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_ohc=e-KArKl9Ik8Q7kNvgG8PgJN&edm=AMO9-JQAAAAA&ccb=7-5&oh=00_AYCWEBwgvBDVXnRM5g3paB8dEY6xXZYlH-m-u8gjTDWyiA&oe=66CB8034&_nc_sid=cc8940
-  media:
-  - link: https://scontent.cdninstagram.com/v/t51.29350-15/456452791_7991624574278801_1150898828537870563_n.jpg?stp=dst-jpg_e15_s640x640&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_ohc=e-KArKl9Ik8Q7kNvgG8PgJN&edm=AMO9-JQAAAAA&ccb=7-5&oh=00_AYCWEBwgvBDVXnRM5g3paB8dEY6xXZYlH-m-u8gjTDWyiA&oe=66CB8034&_nc_sid=cc8940
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-08-21T09:02:42.925Z'
-  collection:
-    "$ref": collections
-    "$id": 39270608
-    oid: 39270608
-  highlights: []
-  lastUpdate: '2024-08-21T09:03:12.907Z'
-  domain: instagram.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 839307562
-  collectionId: 39270608
-  parsed: {}
-- _id: 840012382
-  link: https://www.wearelookingsideways.com/p/insights-how-creative-freelancers
-  title: 'Insights: How Creative Freelancers REALLY Make Money - Part 1'
-  excerpt: Read | Ed Leigh, Sophie Hellyer, Demi Taylor, Owen Tozer and Gilly McArthur
-    on the reality of the creative life.
-  note: Amazing interviews about how creative folks wear tons of hats and are always
-    on multiple things. Great to hear also that they also need to work for food and
-    so it is not all that glamorous and sometimes a basic day job is needed
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F276ee7fd-88c2-452f-a08e-5447a3ebb86e_3000x2000.heic
-  media:
-  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F276ee7fd-88c2-452f-a08e-5447a3ebb86e_3000x2000.heic
-    type: image
-  - link: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Flookingsideways.substack.com%2Fapi%2Fv1%2Fpost_preview%2F147677923%2Ftwitter.jpg%3Fversion%3D4
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-08-22T12:50:46.206Z'
-  collection:
-    "$ref": collections
-    "$id": -1
-    oid: -1
-  highlights: []
-  lastUpdate: '2024-08-22T12:52:07.651Z'
-  domain: wearelookingsideways.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 840012382
   collectionId: -1
   parsed: {}
