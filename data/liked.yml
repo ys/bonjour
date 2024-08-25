@@ -33690,3 +33690,41 @@
   sort: 840489796
   collectionId: 37136905
   parsed: {}
+- _id: 841541559
+  link: https://www.nytimes.com/video/opinion/100000009382183/a-new-wave.html
+  title: 'Video: Opinion | A New Wave'
+  excerpt: Michael February, a boundary-breaking surfer and the first Black South
+    African on the World Surf League Championship Tour, embarks on a transformative
+    journey.
+  note: "> Let me play it and I will tell you what it is"
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://static01.nyt.com/images/2024/06/04/opinion/opdoc-surfing/opdoc-surfing-facebookJumbo.jpg?video-overlay
+  media:
+  - link: https://static01.nyt.com/images/2024/06/04/opinion/opdoc-surfing/opdoc-surfing-facebookJumbo.jpg?video-overlay
+    type: image
+  - link: https://static01.nyt.com/images/2024/06/04/opinion/opdoc-surfing/opdoc-surfing-videoSixteenByNineJumbo1600.jpg?video-overlay
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-08-25T18:58:49.599Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2024-08-25T18:59:13.206Z'
+  domain: nytimes.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 841541559
+  collectionId: 37136905
+  parsed: {}
