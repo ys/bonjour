@@ -33762,3 +33762,36 @@
   sort: 841728940
   collectionId: 37679987
   parsed: {}
+- _id: 841780357
+  link: https://www.surfsession.com/culture-surf/demande-a-la-poussiere-le-recit-dun-trip-en-baja-california-signe-damien-castera/
+  title: Le récit d'un trip en Baja California signé Damien Castera - Surf Session
+    Magazine
+  excerpt: Un texte illustré par les photographies de Kevin Métallier.
+  note: Road tripping across Baja. Definitely has a feel of old Kerouac and friends
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://www.surfsession.com/wp-content/uploads/2024/08/Damien_Action10_BajaCalifornia_0323_KevinMetallier-1.jpg
+  media:
+  - link: https://www.surfsession.com/wp-content/uploads/2024/08/Damien_Action10_BajaCalifornia_0323_KevinMetallier-1.jpg
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2024-08-26T08:54:09.578Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  lastUpdate: '2024-08-26T08:54:50.016Z'
+  domain: surfsession.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 841780357
+  collectionId: 37136905
+  parsed: {}
