@@ -33728,3 +33728,37 @@
   sort: 841541559
   collectionId: 37136905
   parsed: {}
+- _id: 841728940
+  link: https://open.substack.com/pub/stphoto94/p/gypsy?r=5cjn3&utm_medium=ios
+  title: "☼Gypsy☼"
+  excerpt: Life on the road
+  note: "> Having less doesn’t mean being less"
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F272cd311-1508-4b60-b70c-ba373bf61026_1616x1080.jpeg
+  media:
+  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F272cd311-1508-4b60-b70c-ba373bf61026_1616x1080.jpeg
+    type: image
+  - link: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fstphoto94.substack.com%2Fapi%2Fv1%2Fpost_preview%2F147563666%2Ftwitter.jpg%3Fversion%3D4
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2024-08-26T06:11:37.369Z'
+  collection:
+    "$ref": collections
+    "$id": 37679987
+    oid: 37679987
+  lastUpdate: '2024-08-26T06:11:54.649Z'
+  domain: open.substack.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 841728940
+  collectionId: 37679987
+  parsed: {}
