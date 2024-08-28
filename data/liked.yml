@@ -33795,3 +33795,36 @@
   sort: 841541559
   collectionId: 37136905
   parsed: {}
+- _id: 842570322
+  link: https://departuremono.com/
+  title: Departure Mono
+  excerpt: A monospaced pixel font with a lo-fi, techy vibe.
+  note: I do love mono fonts
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://departuremono.com/assets/departure-og.png
+  media:
+  - link: https://departuremono.com/assets/departure-og.png
+    type: image
+  tags:
+  - fonts
+  highlights: []
+  important: true
+  removed: false
+  created: '2024-08-28T06:17:44.288Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  lastUpdate: '2024-08-28T06:18:14.371Z'
+  domain: departuremono.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 842570322
+  collectionId: -1
+  parsed: {}
