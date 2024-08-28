@@ -33647,49 +33647,6 @@
   sort: 800265523
   collectionId: -1
   parsed: {}
-- _id: 840489796
-  link: https://www.youtube.com/watch?v=0Xlvae-wZIA
-  title: Lundy... Good... A Surf Edit by Maddie Meddings.
-  excerpt: "Finisterre Ambassador Mike Lay is joined by architect Jacob Down and artist
-    Holly Bendall, as they share waves on the shores of Lundy - the Shipping Forecast
-    area that runs along Cornwall's north-facing coastline. \n\nTaking advantage of
-    fair winds and a favourable forecast, the crew set out to make the most of the
-    impossibly blue Atlantic waters at the westernmost edge of the land.\n\nCREDITS:
-    \nSurfers: \n- Mike Lay \n- Holly Bendall\n- Jacob Down\n\nMusic: \n- Track 1:
-    Sunflowers Of Your Mind, Daisy Rickman \n- Track 2: Chick Habit, The Velvet Hands\n\n#coldwatersurf
-    #surfing #surffilm #nostalgicfilms"
-  note: Always good to see Mike noseriding!
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/0Xlvae-wZIA/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/0Xlvae-wZIA/maxresdefault.jpg
-    type: image
-  - link: https://i.ytimg.com/vi/0Xlvae-wZIA/mqdefault.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-08-23T11:51:39.630Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  lastUpdate: '2024-08-23T11:51:54.857Z'
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 840489796
-  collectionId: 37136905
-  parsed: {}
 - _id: 841728940
   link: https://open.substack.com/pub/stphoto94/p/gypsy?r=5cjn3&utm_medium=ios
   title: "☼Gypsy☼"
@@ -33793,6 +33750,49 @@
     name: bonjouryannick
     email: ''
   sort: 841541559
+  collectionId: 37136905
+  parsed: {}
+- _id: 840489796
+  link: https://www.youtube.com/watch?v=0Xlvae-wZIA
+  title: Lundy... Good... A Surf Edit by Maddie Meddings.
+  excerpt: "Finisterre Ambassador Mike Lay is joined by architect Jacob Down and artist
+    Holly Bendall, as they share waves on the shores of Lundy - the Shipping Forecast
+    area that runs along Cornwall's north-facing coastline. \n\nTaking advantage of
+    fair winds and a favourable forecast, the crew set out to make the most of the
+    impossibly blue Atlantic waters at the westernmost edge of the land.\n\nCREDITS:
+    \nSurfers: \n- Mike Lay \n- Holly Bendall\n- Jacob Down\n\nMusic: \n- Track 1:
+    Sunflowers Of Your Mind, Daisy Rickman \n- Track 2: Chick Habit, The Velvet Hands\n\n#coldwatersurf
+    #surfing #surffilm #nostalgicfilms"
+  note: Always good to see Mike noseriding!
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/0Xlvae-wZIA/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/0Xlvae-wZIA/maxresdefault.jpg
+    type: image
+  - link: https://i.ytimg.com/vi/0Xlvae-wZIA/mqdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-08-23T11:51:39.630Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2024-08-23T11:51:54.857Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 840489796
   collectionId: 37136905
   parsed: {}
 - _id: 842570322
