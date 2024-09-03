@@ -33828,6 +33828,42 @@
   sort: 842570322
   collectionId: -1
   parsed: {}
+- _id: 846745748
+  link: https://surfgirlmag.com/family-time-surf-trip-mexico/
+  title: 'Sendero: Sally''s Warm Water Escape - SurfGirl Magazine'
+  excerpt: Sally McGee heads to Central America in search of good waves on a family
+    surf trip.
+  note: "> Tent, triple coffin bag, shameful budget, no plans. This time with a folder
+    full of national curriculum reading books and worksheets too. "
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://surfgirlmag.com/wp-content/uploads/2024/05/sally3.jpg
+  media:
+  - link: https://surfgirlmag.com/wp-content/uploads/2024/05/sally3.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-09-03T11:01:50.689Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2024-09-03T11:02:08.450Z'
+  domain: surfgirlmag.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 846745748
+  collectionId: 37136905
+  parsed: {}
 - _id: 813447338
   link: https://vimeo.com/970123958
   title: A Fantastic Residency
@@ -33870,79 +33906,6 @@
   sort: 813447338
   collectionId: 37136905
   parsed: {}
-- _id: 846454492
-  link: https://www.vox.com/culture/367059/raygun-olympic-controversy-breaking-corruption
-  title: How Raygun earned her spot — fair and square — as an Olympics breaker
-  excerpt: The truth behind the ongoing controversy over the Australian b-girl.
-  note: |-
-    > Score by score, Raygun’s dancing isn’t actually that bad. Really.
-
-    I love this article showing a lot about how easily we judge. And in the end... It was mostly a fun test she did
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://platform.vox.com/wp-content/uploads/sites/2/2024/08/gettyimages-2166052398.jpg?quality=90&strip=all&crop=0%2C10.946006078222%2C100%2C78.107987843557&w=1200
-  media:
-  - link: https://platform.vox.com/wp-content/uploads/sites/2/2024/08/gettyimages-2166052398.jpg?quality=90&strip=all&crop=0%2C10.946006078222%2C100%2C78.107987843557&w=1200
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-09-02T18:45:22.372Z'
-  collection:
-    "$ref": collections
-    "$id": -1
-    oid: -1
-  highlights: []
-  lastUpdate: '2024-09-02T18:48:07.769Z'
-  domain: vox.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 846454492
-  collectionId: -1
-  parsed: {}
-- _id: 846745748
-  link: https://surfgirlmag.com/family-time-surf-trip-mexico/
-  title: 'Sendero: Sally''s Warm Water Escape - SurfGirl Magazine'
-  excerpt: Sally McGee heads to Central America in search of good waves on a family
-    surf trip.
-  note: "> Tent, triple coffin bag, shameful budget, no plans. This time with a folder
-    full of national curriculum reading books and worksheets too. "
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://surfgirlmag.com/wp-content/uploads/2024/05/sally3.jpg
-  media:
-  - link: https://surfgirlmag.com/wp-content/uploads/2024/05/sally3.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-09-03T11:01:50.689Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  lastUpdate: '2024-09-03T11:02:08.450Z'
-  domain: surfgirlmag.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 846745748
-  collectionId: 37136905
-  parsed: {}
 - _id: 846738405
   link: https://www.wearelookingsideways.com/p/insights-how-creative-freelancers-523
   title: 'Insights: How Creative Freelancers REALLY Make Money - Part 2'
@@ -33979,5 +33942,42 @@
     name: bonjouryannick
     email: ''
   sort: 846738405
+  collectionId: -1
+  parsed: {}
+- _id: 846454492
+  link: https://www.vox.com/culture/367059/raygun-olympic-controversy-breaking-corruption
+  title: How Raygun earned her spot — fair and square — as an Olympics breaker
+  excerpt: The truth behind the ongoing controversy over the Australian b-girl.
+  note: |-
+    > Score by score, Raygun’s dancing isn’t actually that bad. Really.
+
+    I love this article showing a lot about how easily we judge. And in the end... It was mostly a fun test she did
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://platform.vox.com/wp-content/uploads/sites/2/2024/08/gettyimages-2166052398.jpg?quality=90&strip=all&crop=0%2C10.946006078222%2C100%2C78.107987843557&w=1200
+  media:
+  - link: https://platform.vox.com/wp-content/uploads/sites/2/2024/08/gettyimages-2166052398.jpg?quality=90&strip=all&crop=0%2C10.946006078222%2C100%2C78.107987843557&w=1200
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-09-02T18:45:22.372Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2024-09-02T18:48:07.769Z'
+  domain: vox.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 846454492
   collectionId: -1
   parsed: {}
