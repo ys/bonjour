@@ -33907,6 +33907,42 @@
   sort: 846454492
   collectionId: -1
   parsed: {}
+- _id: 846745748
+  link: https://surfgirlmag.com/family-time-surf-trip-mexico/
+  title: 'Sendero: Sally''s Warm Water Escape - SurfGirl Magazine'
+  excerpt: Sally McGee heads to Central America in search of good waves on a family
+    surf trip.
+  note: "> Tent, triple coffin bag, shameful budget, no plans. This time with a folder
+    full of national curriculum reading books and worksheets too. "
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://surfgirlmag.com/wp-content/uploads/2024/05/sally3.jpg
+  media:
+  - link: https://surfgirlmag.com/wp-content/uploads/2024/05/sally3.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-09-03T11:01:50.689Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2024-09-03T11:02:08.450Z'
+  domain: surfgirlmag.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 846745748
+  collectionId: 37136905
+  parsed: {}
 - _id: 846738405
   link: https://www.wearelookingsideways.com/p/insights-how-creative-freelancers-523
   title: 'Insights: How Creative Freelancers REALLY Make Money - Part 2'
@@ -33944,40 +33980,4 @@
     email: ''
   sort: 846738405
   collectionId: -1
-  parsed: {}
-- _id: 846745748
-  link: https://surfgirlmag.com/family-time-surf-trip-mexico/
-  title: 'Sendero: Sally''s Warm Water Escape - SurfGirl Magazine'
-  excerpt: Sally McGee heads to Central America in search of good waves on a family
-    surf trip.
-  note: "> Tent, triple coffin bag, shameful budget, no plans. This time with a folder
-    full of national curriculum reading books and worksheets too. "
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://surfgirlmag.com/wp-content/uploads/2024/05/sally3.jpg
-  media:
-  - link: https://surfgirlmag.com/wp-content/uploads/2024/05/sally3.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-09-03T11:01:50.689Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  lastUpdate: '2024-09-03T11:02:08.450Z'
-  domain: surfgirlmag.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 846745748
-  collectionId: 37136905
   parsed: {}
