@@ -34037,3 +34037,79 @@
   sort: 847754383
   collectionId: 37136905
   parsed: {}
+- _id: 847991108
+  link: https://climateandboardsports.substack.com/p/people-are-delighted-that-surf-tourism
+  title: "“People are delighted surf tourism came and changed their lives.”"
+  excerpt: An interview with Jersey-based surfer and filmmaker Rebecca Coley
+  note: This definitely resonates with me and the few stuff I read about Imsouane
+    recently. Make sure that your tourism money gets to the locals
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd688bc6-4991-4c20-9583-f0b6bc26bc6e_4240x2832.jpeg
+  media:
+  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd688bc6-4991-4c20-9583-f0b6bc26bc6e_4240x2832.jpeg
+    type: image
+  - link: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fclimateandboardsports.substack.com%2Fapi%2Fv1%2Fpost_preview%2F148308556%2Ftwitter.jpg%3Fversion%3D4
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-09-04T18:49:27.980Z'
+  collection:
+    "$ref": collections
+    "$id": 37603939
+    oid: 37603939
+  highlights: []
+  lastUpdate: '2024-09-04T18:50:02.171Z'
+  domain: climateandboardsports.substack.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 847991108
+  collectionId: 37603939
+  parsed: {}
+- _id: 848000040
+  link: https://sfstandard.com/opinion/2024/08/15/skaters-mecca-embarcadero-plaza/
+  title: San Francisco's Embarcadero Plaza is a skateboarding shrine — don't desecrate
+    it
+  excerpt: Skater and art historian Ted Barrow on what would be lost if the city overhauls
+    Embarcadero Plaza.
+  note: "> Once our Colosseum, Embarcadero is still a pilgrimage site whose poignant
+    beauty rests in a reverie of what once was. "
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://content.sfstandard.com/wp-content/uploads/2024/08/ellisasteamer-nocomply-bramphoto-hires-8796.jpg?crop=0px%2C89px%2C8256px%2C4334px&w=1200
+  media:
+  - link: https://content.sfstandard.com/wp-content/uploads/2024/08/ellisasteamer-nocomply-bramphoto-hires-8796.jpg?crop=0px%2C89px%2C8256px%2C4334px&w=1200
+    type: image
+  - link: https://content.sfstandard.com/wp-content/uploads/2024/08/ellisasteamer-nocomply-bramphoto-hires-8796.jpg?crop=0px%2C34px%2C8256px%2C4334px&w=2048
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-09-04T18:56:50.124Z'
+  collection:
+    "$ref": collections
+    "$id": 37459360
+    oid: 37459360
+  highlights: []
+  lastUpdate: '2024-09-04T18:57:20.669Z'
+  domain: sfstandard.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 848000040
+  collectionId: 37459360
+  parsed: {}
