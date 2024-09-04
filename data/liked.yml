@@ -34037,6 +34037,43 @@
   sort: 847754383
   collectionId: 37136905
   parsed: {}
+- _id: 848004898
+  link: https://www.monsterchildren.com/articles/how-to-be-less-of-a-shit-all-the-time
+  title: How To Be Less Of A Shit All The Time — Monster Children
+  excerpt: Man to man.
+  note: |-
+    > be less shit
+    > be less shit
+    > be less shit
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://static1.squarespace.com/static/6398e5b4b3dd441ead33860a/6398e815f2eabd0b458bc856/66396bb3e3ca47246d48bbad/1715398477146/E1n9V3mVUAM-g2o.jpg-large.jpg?format=1500w
+  media:
+  - link: http://static1.squarespace.com/static/6398e5b4b3dd441ead33860a/6398e815f2eabd0b458bc856/66396bb3e3ca47246d48bbad/1715398477146/E1n9V3mVUAM-g2o.jpg-large.jpg?format=1500w
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-09-04T19:08:24.018Z'
+  collection:
+    "$ref": collections
+    "$id": 37603939
+    oid: 37603939
+  highlights: []
+  lastUpdate: '2024-09-04T19:08:35.771Z'
+  domain: monsterchildren.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 848004898
+  collectionId: 37603939
+  parsed: {}
 - _id: 847991108
   link: https://climateandboardsports.substack.com/p/people-are-delighted-that-surf-tourism
   title: "“People are delighted surf tourism came and changed their lives.”"
@@ -34112,4 +34149,79 @@
     email: ''
   sort: 848000040
   collectionId: 37459360
+  parsed: {}
+- _id: 848011662
+  link: https://finisterre.com/blogs/broadcast/ming-hui-brown-keeping-it-local
+  title: 'Ming-Hui Brown: Staying Local'
+  excerpt: We talk to Ming-Hui Brown about surfing, body positivity and the reality
+    of being a Ventura local.
+  note: "> I think some brands are doing better. I think they're understanding that
+    their clients aren't just 20-year-old super-cute fit girls. There are other women
+    in the world who shop and surf and buy clothes, and we all look different"
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://finisterre.com/cdn/shop/articles/unnamed_10912eb7-e16a-40fd-b91b-b60b7e828548.jpg?v=1715681878
+  media:
+  - link: https://finisterre.com/cdn/shop/articles/unnamed_10912eb7-e16a-40fd-b91b-b60b7e828548.jpg?v=1715681878
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-09-04T19:28:05.988Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2024-09-04T19:28:12.878Z'
+  domain: finisterre.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 848011662
+  collectionId: 37136905
+  parsed: {}
+- _id: 848016706
+  link: https://finisterre.com/blogs/broadcast/jeff-canham-colour-culture
+  title: 'Jeff Canham: Colour & Culture'
+  excerpt: We talk to artist, sign writer and former Art Director of Surfer Magazine,
+    Jeff Canham.
+  note: |-
+    > You can find a community for whatever type of board you ride and whatever kind of surfer you want to be.
+
+    Love the art Jeff Canham is doing
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://finisterre.com/cdn/shop/articles/unnamed_4acdf817-f6f1-4278-aff6-c5944f6f32e4.jpg?v=1715244478
+  media:
+  - link: https://finisterre.com/cdn/shop/articles/unnamed_4acdf817-f6f1-4278-aff6-c5944f6f32e4.jpg?v=1715244478
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-09-04T19:46:03.144Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2024-09-04T19:46:27.808Z'
+  domain: finisterre.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 848016706
+  collectionId: 37136905
   parsed: {}
