@@ -34225,3 +34225,40 @@
   sort: 847754383
   collectionId: 37136905
   parsed: {}
+- _id: 849405926
+  link: https://www.youtube.com/watch?v=8wrkIBG54l4&t=1913s
+  title: HEART - A Tribute to Skateshops - Part 1
+  excerpt: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  note: |-
+    I love the vibe you have in a skate shop. It will never be the same online...
+    Online shopping sucks so much, compared to a good small shop with the right vibe
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/8wrkIBG54l4/hqdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/8wrkIBG54l4/hqdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-09-06T13:45:04.331Z'
+  collection:
+    "$ref": collections
+    "$id": 37459360
+    oid: 37459360
+  highlights: []
+  lastUpdate: '2024-09-08T15:47:34.447Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 849405926
+  collectionId: 37459360
+  parsed: {}
