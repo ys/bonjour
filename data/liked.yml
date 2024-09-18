@@ -34183,6 +34183,43 @@
   sort: 846738405
   collectionId: -1
   parsed: {}
+- _id: 846454492
+  link: https://www.vox.com/culture/367059/raygun-olympic-controversy-breaking-corruption
+  title: How Raygun earned her spot — fair and square — as an Olympics breaker
+  excerpt: The truth behind the ongoing controversy over the Australian b-girl.
+  note: |-
+    > Score by score, Raygun’s dancing isn’t actually that bad. Really.
+
+    I love this article showing a lot about how easily we judge. And in the end... It was mostly a fun test she did
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://platform.vox.com/wp-content/uploads/sites/2/2024/08/gettyimages-2166052398.jpg?quality=90&strip=all&crop=0%2C10.946006078222%2C100%2C78.107987843557&w=1200
+  media:
+  - link: https://platform.vox.com/wp-content/uploads/sites/2/2024/08/gettyimages-2166052398.jpg?quality=90&strip=all&crop=0%2C10.946006078222%2C100%2C78.107987843557&w=1200
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-09-02T18:45:22.372Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2024-09-02T18:48:07.769Z'
+  domain: vox.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 846454492
+  collectionId: -1
+  parsed: {}
 - _id: 842570322
   link: https://departuremono.com/
   title: Departure Mono
@@ -34325,71 +34362,4 @@
     email: ''
   sort: 790676190
   collectionId: -1
-  parsed: {}
-- _id: 856050362
-  link: https://www.youtube.com/watch?v=_usvQvtJMLE
-  title: Frank Carter and The Rattlesnakes - Hellfest 2024 – ARTE Concert
-  excerpt: "#FRANKCARTER #FRANKCARTERANDTHERATTLESNAKES\n\n\U0001F1EB\U0001F1F7  Le
-    mariage entre @andtherattlesnakes  a vite été consommé : l’album Blossom a été
-    publié quelques mois seulement après leur rencontre. Vite fait ne veut pas dire
-    pour autant mal fait : on découvrait grâce à ce premier opus un Frank Carter au
-    sommet de son art. Cette maîtrise permet au Britannique d’osciller entre rage
-    et mélodie, et s’offrir même des pas de côté tirant vers la balade et le blues.\n\nSuite
-    à ces débuts fracassants, Frank Carter & The Rattlesnakes ont publié quatre albums
-    : Modern Ruin (2017), End of Suffering (2019), Sticky (2021) et Dark Rainbow (2024).
-    Un album presque tous les deux ans, voilà un groupe réglé comme du papier à musique…
-    mais une musique qui tape !\n\nEntouré des Rattlesnakes, Frank Carter prend plaisir
-    à jouer une musique sauvage. Avec une voix et des instruments poussés à l’extrême,
-    l’ancien membre de Gallows et de Pure Love délivre une énergie dingue sur scène,
-    comme si chacune était la dernière. Ce concert au Hellfest ne fait pas exception.\n\nFilmé
-    le 30 juin 2024 au Hellfest Open Air Festival, Clisson.\n\n____________ \n\n\U0001F1E9\U0001F1EA
-    Aus der Verbindung von Frank Carter und The Rattlesnakes ging bereits wenige Monate
-    nach ihrer ersten Begegnung das Album „Blossom“ hervor. Doch schnell und gut gemacht
-    schließen einander nicht aus: Frank Carter zeigt sich hier auf dem Höhepunkt seines
-    Schaffens: Die Musik des Briten schwankt zwischen rabiat und melodisch, mit dem
-    einen oder anderen Abstecher hin zu Balladen oder Blues-Stücken.\n\nSeit ihrem
-    fulminanten Debüt haben Frank Carter & The Rattlesnakes vier weitere Alben veröffentlicht:
-    „Modern Ruin“(2017), „End of Suffering“ (2019), „Sticky“ (2021) und „Dark Rainbow“
-    (2024). Alle zwei Jahre ein neues Album, das ist schon fast getaktet wie ein Uhrwerk.
-    Die Stunden aber schlägt stets der Punk.\n\nIn Begleitung der Rattlesnakes lässt
-    Frank Carter es auf der Bühne so richtig krachen. Das ehemalige Bandmitglied von
-    Gallows und Pure Love holt das Äußerste aus seiner Stimme und den Instrumenten
-    heraus. Er entfaltet eine Energie, als wäre jeder Auftritt sein letzter – dieses
-    Konzert auf dem Hellfest macht da keine Ausnahme.\n\nAufzeichnung vom 30. Juni
-    2024 beim Hellfest Open Air Festival, Clisson\n____________ \n\n[AVAILABLE UNTIL
-    29/06/2025]\n\nMore concerts on our website: https://www.arteconcert.com \nYou
-    can also find us on: \nFacebook: https://www.facebook.com/ARTEConcert/ \nTwitter:
-    https://twitter.com/ARTEconcertFR \nInstagram FR: https://www.instagram.com/arteconcertfr/
-    \nInstagram DE: https://www.instagram.com/arteconcertde/"
-  note: What a treat!
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/_usvQvtJMLE/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/_usvQvtJMLE/maxresdefault.jpg
-    type: image
-  - link: https://i.ytimg.com/vi/_usvQvtJMLE/mqdefault.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-09-17T09:24:58.912Z'
-  collection:
-    "$ref": collections
-    "$id": 39748190
-    oid: 39748190
-  highlights: []
-  lastUpdate: '2024-09-17T09:25:15.418Z'
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 856050362
-  collectionId: 39748190
   parsed: {}
