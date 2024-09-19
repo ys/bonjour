@@ -34422,3 +34422,45 @@
   sort: 857132084
   collectionId: 37136905
   parsed: {}
+- _id: 857287542
+  link: https://www.youtube.com/watch?v=QDVmKn6kKts
+  title: 3 Simple Tips to Become a Latte Art Pro
+  excerpt: "Hope you enjoyed this little refresher on latte art! Been a while since
+    I had done anything and a few subs were asking for another video. Hope you find
+    these tips helpful!\nI think they're super cute.\nSpout Proximity\nGoing Floward\nCanvas
+    Viscosity\n\nLINKS\n__________________\nJoin my Patreon community at:\nhttps://www.patreon.com/lancehedrick\n\nFind
+    me on IG at:\nhttps://www.instagram.com/lancehedrick\n\nFind me on Facebook at:
+    \nhttps://www.facebook.com/lancehedrickcoffee\n\nMy storefront: https://www.amazon.com/shop/lancehedrick\n\nMy
+    SECOND Channel:\nLance Hedrick Unfiltered\nhttps://www.youtube.com/channel/UCvNpZQzurSNZQ8e2QNGNXsA\n__________________"
+  note: 'Love how he explains Latte Art
+
+    '
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/QDVmKn6kKts/hqdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/QDVmKn6kKts/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-09-19T18:06:07.760Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2024-09-19T18:06:25.041Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 857287542
+  collectionId: -1
+  parsed: {}
