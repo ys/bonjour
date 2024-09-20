@@ -34464,3 +34464,35 @@
   sort: 857287542
   collectionId: -1
   parsed: {}
+- _id: 858103628
+  link: https://www.simplemagic.ca/complex-phenomena/
+  title: Complex phenomena
+  excerpt: On brand relationships and loyalty.
+  note: Funny how some brands make a better impression
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://www.simplemagic.ca/content/images/2024/09/Complex_phenomena.jpg
+  media:
+  - link: https://www.simplemagic.ca/content/images/2024/09/Complex_phenomena.jpg
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2024-09-20T21:06:24.105Z'
+  collection:
+    "$ref": collections
+    "$id": 37459360
+    oid: 37459360
+  lastUpdate: '2024-09-20T21:06:51.658Z'
+  domain: simplemagic.ca
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 858103628
+  collectionId: 37459360
+  parsed: {}
