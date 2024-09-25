@@ -34565,3 +34565,39 @@
   sort: 790676190
   collectionId: -1
   parsed: {}
+- _id: 860636471
+  link: https://overcast.fm/+AA8TxzbJoiw
+  title: "#25 - Equilibre entre Travail et Repos — Petit journal d’un créatif"
+  excerpt: 'Petit comeback du podcast après une interruption de quelques mois. Nouvel
+    épisode de réflexion entre travail et repos, ce qui n''est jamais facile à gérer
+    pour moi mais qui est important pour mieux avancer. Petite note: La musique a
+    changé malheureusement, Spotify for Podcasters ayant arrêté l''option du fond
+    sonore. J''espère que cette nouvelle musique vous conviendra :)'
+  note: Apprendre à ralentir, se reposer et faire moins
+  type: audio
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://public.overcast-cdn.com/art/3952412?v1
+  media:
+  - link: https://public.overcast-cdn.com/art/3952412?v1
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2024-09-25T09:39:20.028Z'
+  collection:
+    "$ref": collections
+    "$id": 37603939
+    oid: 37603939
+  lastUpdate: '2024-09-25T09:39:38.629Z'
+  domain: overcast.fm
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 860636471
+  collectionId: 37603939
+  parsed: {}
