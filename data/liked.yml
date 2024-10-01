@@ -34601,3 +34601,47 @@
   sort: 860636471
   collectionId: 37603939
   parsed: {}
+- _id: 864661073
+  link: https://www.youtube.com/watch?v=1JhMOnf5bgY
+  title: the Leica Q for ME | Leica Q3 43
+  excerpt: |-
+    The brand new Leica Q3 43 is officially here and I'm sharing my thoughts after one week with the camera earlier this summer.
+
+    Order a copy of Surveyor: https://www.mattdayphoto.com/shop/surveyor
+
+    Shop with KEH: https://shrsl.com/4m23j
+    DAY24: Get 5% off your first order on KEH!
+    DAY24-SELL: Get a 5% bonus when you sell your gear on KEH!
+  note: 'Almost considering it... Had the Q3 in my hands earlier today and I take
+    back what I said about that big lense
+
+    '
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/1JhMOnf5bgY/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/1JhMOnf5bgY/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-10-01T10:39:15.483Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2024-10-01T10:39:42.873Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 864661073
+  collectionId: -1
+  parsed: {}
