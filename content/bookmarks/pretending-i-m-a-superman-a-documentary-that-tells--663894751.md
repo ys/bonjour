@@ -7,10 +7,10 @@ title: Pretending I'm a Superman – A documentary that tells the story of how s
   became a part of the mainstream by focusing on the success of the "Tony Hawk's Pro
   Skater" video game franchise.
 domain: thpsfilm.com
-description: 
+description:
 tags: []
 date: '2023-10-19T19:05:49.042Z'
-highlights: 
+highlights:
 ---
 
 

@@ -9,7 +9,7 @@ description: Mat Arney looks at the stoic history of lighthouses as a metaphor f
   ocean guardianship.
 tags: []
 date: '2023-10-07T20:49:35.093Z'
-highlights: 
+highlights:
 ---
 
 

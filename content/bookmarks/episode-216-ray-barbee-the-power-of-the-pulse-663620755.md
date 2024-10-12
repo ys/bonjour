@@ -9,7 +9,7 @@ description: Listen now (96 mins) | One of the all-time great talks the connecti
   between skating, music and photography; and how his faith helped him navigate fame.
 tags: []
 date: '2023-10-19T08:45:53.136Z'
-highlights: 
+highlights:
 ---
 
 "I am not where I want to be but I am not where I was"

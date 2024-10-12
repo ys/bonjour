@@ -21,7 +21,7 @@ description: "Subscribe to Huckberry's YouTube: https://bit.ly/3QnVuLG\n\nOn thi
   Cam's Bathroom Art\n11:08 The Bedroom\n12:37 The Office \n15:08 Final Thoughts"
 tags: []
 date: '2024-05-05T18:40:42.024Z'
-highlights: 
+highlights:
 ---
 
 > Anything can be done on your own, you just need to watch the right Youtube videos

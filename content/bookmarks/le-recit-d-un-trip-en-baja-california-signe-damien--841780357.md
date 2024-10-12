@@ -8,7 +8,7 @@ domain: surfsession.com
 description: Un texte illustré par les photographies de Kevin Métallier.
 tags: []
 date: '2024-08-26T08:54:09.578Z'
-highlights: 
+highlights:
 ---
 
 Road tripping across Baja. Definitely has a feel of old Kerouac and friends

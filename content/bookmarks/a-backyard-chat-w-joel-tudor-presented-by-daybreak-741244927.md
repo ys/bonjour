@@ -10,7 +10,7 @@ description: On a trip to the east coast late last summer with Joel we had some 
   cu...
 tags: []
 date: '2024-02-23T15:19:20.530Z'
-highlights: 
+highlights:
 ---
 
 Funny to listen to Joel chatting about all and nothing

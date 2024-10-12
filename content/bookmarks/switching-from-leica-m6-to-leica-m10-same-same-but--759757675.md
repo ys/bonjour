@@ -33,7 +33,7 @@ description: "The Leica M6 has been my main camera for the last 4,5 years and I 
   purchasing through these links."
 tags: []
 date: '2024-03-26T10:57:59.373Z'
-highlights: 
+highlights:
 ---
 
 

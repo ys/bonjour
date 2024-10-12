@@ -8,7 +8,7 @@ domain: monsterchildren.com
 description: Man to man.
 tags: []
 date: '2024-09-04T19:08:24.018Z'
-highlights: 
+highlights:
 ---
 
 > be less shit

@@ -9,7 +9,7 @@ description: A two-week boat trip through surfing's final frontier brings snow-c
   mountains, icebergs and sea lions, hot springs and epic vistas
 tags: []
 date: '2023-12-15T08:46:29.886Z'
-highlights: 
+highlights:
 ---
 
 Sometimes, it is freaking cold but you still cannot avoid the ocean's call

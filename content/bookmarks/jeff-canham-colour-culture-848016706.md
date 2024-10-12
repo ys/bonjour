@@ -9,7 +9,7 @@ description: We talk to artist, sign writer and former Art Director of Surfer Ma
   Jeff Canham.
 tags: []
 date: '2024-09-04T19:46:03.144Z'
-highlights: 
+highlights:
 ---
 
 > You can find a community for whatever type of board you ride and whatever kind of surfer you want to be.

@@ -8,7 +8,7 @@ domain: oliviamfredricks.com
 description: Bookmaking handouts Dowload pdf
 tags: []
 date: '2024-08-19T09:36:47.402Z'
-highlights: 
+highlights:
 ---
 
 Make some zines they said
