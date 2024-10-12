@@ -9,7 +9,7 @@ description: Ambassador Mike Lay explores the deep-rooted celtic connections bet
   his Cornish home and the ancient granite coastline of Brittany.
 tags: []
 date: '2024-01-18T21:19:00.316Z'
-highlights: 
+highlights:
 ---
 
 

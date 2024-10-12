@@ -8,7 +8,7 @@ domain: alexstrohl.substack.com
 description: An analog journey through O'ahu & a dive into my espresso renaissance
 tags: []
 date: '2024-06-05T19:37:18.215Z'
-highlights: 
+highlights:
 ---
 
 Espresso and film... I am here for this

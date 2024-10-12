@@ -17,7 +17,7 @@ description: |-
   You can choose to react differently.
 tags: []
 date: '2023-11-13T09:04:57.522Z'
-highlights: 
+highlights:
 ---
 
 

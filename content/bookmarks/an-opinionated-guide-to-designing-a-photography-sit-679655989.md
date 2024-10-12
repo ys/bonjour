@@ -5,10 +5,10 @@ category: article
 headImage: https://pjonori.blog/posts/photo-site-design/the-americans.jpg
 title: An opinionated guide to designing a photography site
 domain: pjonori.blog
-description: 
+description:
 tags: []
 date: '2023-11-16T22:37:12.127Z'
-highlights: 
+highlights:
 ---
 
 

@@ -8,7 +8,7 @@ domain: coffeereceiptstories.com
 description: A collection of stories drawn on the back of coffee receipts by Odding
 tags: []
 date: '2024-03-10T21:31:59.026Z'
-highlights: 
+highlights:
 ---
 
 

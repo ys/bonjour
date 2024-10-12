@@ -13,7 +13,7 @@ description: "We caught up with Tosh Tudor the day after his new movie Tube Ther
   boards please contact Resin Craft on instagram:\nhttps://www.instagram.com/resincraft/"
 tags: []
 date: '2024-04-16T12:09:28.984Z'
-highlights: 
+highlights:
 ---
 
 Colors, then rails, then size, then what ? I forgot but I love that it all starts by how good does it look.

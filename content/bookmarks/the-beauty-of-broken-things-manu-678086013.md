@@ -9,7 +9,7 @@ description: Owning and using broken things can be both incredibly beautiful and
   liberating. And I'm not talking about the Japanese concept of …
 tags: []
 date: '2023-11-13T22:27:32.758Z'
-highlights: 
+highlights:
 ---
 
 

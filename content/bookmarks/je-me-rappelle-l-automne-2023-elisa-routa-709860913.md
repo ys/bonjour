@@ -9,7 +9,7 @@ description: Depuis 39 ans on fête mon anniversaire la veille de Noël pas par 
   ni par manque de temps mais le hasard du calendrier
 tags: []
 date: '2024-01-06T19:23:27.501Z'
-highlights: 
+highlights:
 ---
 
 

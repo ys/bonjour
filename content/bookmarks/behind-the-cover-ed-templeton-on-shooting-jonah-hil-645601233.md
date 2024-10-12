@@ -6,10 +6,10 @@ headImage: https://www.1854.photography/wp-content/uploads/2021/09/Jonah-Hill-Ed
 title: 'Behind the Cover: Ed Templeton on shooting Jonah Hill for GQ Style - 1854
   Photography'
 domain: 1854.photography
-description: 
+description:
 tags: []
 date: '2023-01-26T19:46:59.041Z'
-highlights: 
+highlights:
 ---
 
 

@@ -16,7 +16,7 @@ description: "Hireth is a short film by award winning Director Seth Hughes explo
   #surffilm #coldwatersurf #cinematography #shortfilms"
 tags: []
 date: '2024-02-15T12:47:46.456Z'
-highlights: 
+highlights:
 ---
 
 

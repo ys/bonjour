@@ -6,10 +6,10 @@ headImage: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:
 title: "“There is a smugness that comes with surfing. But research shows surfers don’t
   do enough when it comes to the environment.”"
 domain: climateandboardsports.substack.com
-description: 
+description:
 tags: []
 date: '2023-06-08T18:33:57.755Z'
-highlights: 
+highlights:
 ---
 
 

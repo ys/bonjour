@@ -5,10 +5,10 @@ category: video
 headImage: https://i.ytimg.com/vi/8EKtCKbm-L4/maxresdefault.jpg
 title: Asics Skateboarding - TOTAL ACTUAL COMFORT
 domain: youtube.com
-description: 
+description:
 tags: []
 date: '2023-07-15T19:03:24.715Z'
-highlights: 
+highlights:
 ---
 
 

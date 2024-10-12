@@ -7,10 +7,10 @@ title: 'Marynn Letemplier on Instagram: "She loves to spend hours watching cars 
   by. He loves to float around in her head. I love to make stories about it. . Filmed
   & Directed by @sebastienabes Music by @sentinel.sjl for @quiksilver.womens"'
 domain: instagram.com
-description: 
+description:
 tags: []
 date: '2023-01-26T19:46:05.435Z'
-highlights: 
+highlights:
 ---
 
 

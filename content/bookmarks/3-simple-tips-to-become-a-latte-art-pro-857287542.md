@@ -14,7 +14,7 @@ description: "Hope you enjoyed this little refresher on latte art! Been a while 
   SECOND Channel:\nLance Hedrick Unfiltered\nhttps://www.youtube.com/channel/UCvNpZQzurSNZQ8e2QNGNXsA\n__________________"
 tags: []
 date: '2024-09-19T18:06:07.760Z'
-highlights: 
+highlights:
 ---
 
 Love how he explains Latte Art

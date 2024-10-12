@@ -8,7 +8,7 @@ domain: remimercier.com
 description: The blog of Rémi Mercier, Ruby on Rails software engineer.
 tags: []
 date: '2023-12-04T14:40:11.472Z'
-highlights: 
+highlights:
 ---
 
 

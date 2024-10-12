@@ -5,10 +5,10 @@ category: article
 headImage: https://lograp.com/cdn/shop/articles/Sequence_030_1200x1200.jpg?v=1650299490
 title: Log Chats Vol. 3 | Andy Nieblas
 domain: lograp.com
-description: 
+description:
 tags: []
 date: '2023-01-26T19:48:22.823Z'
-highlights: 
+highlights:
 ---
 
 

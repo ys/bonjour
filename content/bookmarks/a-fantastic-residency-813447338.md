@@ -15,7 +15,7 @@ description: "Craftsmanship. Collaboration. Community.\n\nTristan Mausse aka FAN
   Magnus Ringblom Quartet\n-Mystery Garden - Brandon Moeller"
 tags: []
 date: '2024-07-08T11:54:20.682Z'
-highlights: 
+highlights:
 ---
 
 Fantastic Acid talking about their craft is quite powerful to listen to. With a cool soundtrack

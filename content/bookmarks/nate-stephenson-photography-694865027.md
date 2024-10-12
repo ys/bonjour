@@ -11,7 +11,7 @@ description: Nate Stephenson photography is a freelance photographer and photojo
   and wall art for sale.
 tags: []
 date: '2023-12-15T08:51:43.142Z'
-highlights: 
+highlights:
 ---
 
 

@@ -8,7 +8,7 @@ domain: simplemagic.ca
 description: A cultural hub, capitalist outpost, the scene of my gravest sin?
 tags: []
 date: '2024-03-10T21:08:21.545Z'
-highlights: 
+highlights:
 ---
 
 
