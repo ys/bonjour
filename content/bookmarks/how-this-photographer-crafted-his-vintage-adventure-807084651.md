@@ -18,7 +18,7 @@ description: "Subscribe to Huckberry's YouTube: https://bit.ly/4blFPUK\n\nOn thi
   https://bit.ly/3zfku2f"
 tags: []
 date: '2024-06-26T13:07:32.083Z'
-highlights: 
+highlights:
 ---
 
 The yellow submarine and the guide book to how to keep it alive

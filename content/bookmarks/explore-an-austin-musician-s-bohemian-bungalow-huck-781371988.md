@@ -25,7 +25,7 @@ description: "https://bit.ly/47bfNme | Huckberry delivers the best of adventure,
   home on the Huckberry Journal"
 tags: []
 date: '2024-05-05T19:02:33.056Z'
-highlights: 
+highlights:
 ---
 
 Texas has something unique and US houses too. A lot of minimalism just took us to soulless places...

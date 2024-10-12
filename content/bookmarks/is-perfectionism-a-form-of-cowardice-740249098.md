@@ -55,7 +55,7 @@ description: "Perfection vs. good enough.\n\nJoin our PATREON to support the cha
   #Filmmaking"
 tags: []
 date: '2024-02-22T09:14:06.955Z'
-highlights: 
+highlights:
 ---
 
 

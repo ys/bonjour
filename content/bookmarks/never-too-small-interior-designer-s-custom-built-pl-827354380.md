@@ -25,7 +25,7 @@ description: "We’ve made a magazine! Subscribe now to get it first (and with f
   by Duplex Heart from Epidemic Sound"
 tags: []
 date: '2024-08-02T12:50:52.053Z'
-highlights: 
+highlights:
 ---
 
 Plywood appartments are the best

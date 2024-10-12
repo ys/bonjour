@@ -8,7 +8,7 @@ domain: vox.com
 description: So you want to be an artist. Do you have to start a TikTok?
 tags: []
 date: '2024-04-03T20:35:50.604Z'
-highlights: 
+highlights:
 ---
 
 Art is complicated and doing it right is even harder. In our consumerist civilisation, it is complex to do something for the sake of something. But I feel like we should be able to.

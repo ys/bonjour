@@ -30,7 +30,7 @@ description: |-
   These are affiliate links to KEH Camera, a sponsor of the channel. Simply purchasing through these links and using my discount codes, you’re supporting the channel with no additional cost to your purchase. It’s greatly appreciated.
 tags: []
 date: '2024-03-27T13:39:00.377Z'
-highlights: 
+highlights:
 ---
 
 

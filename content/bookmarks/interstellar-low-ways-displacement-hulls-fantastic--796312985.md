@@ -12,7 +12,7 @@ description: "INTER STELLAR LOW WAYS \nA short story of 15 minutes which delves 
   www.fantasticacid.com"
 tags: []
 date: '2024-06-05T12:00:55.420Z'
-highlights: 
+highlights:
 ---
 
 There is something about Displacement hulls...

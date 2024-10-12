@@ -11,7 +11,7 @@ description: https://bit.ly/3sjazWf | Read more about Kate's EDC on the Huckberr
   Kate Wes...
 tags: []
 date: '2024-07-31T13:08:43.767Z'
-highlights: 
+highlights:
 ---
 
 Always carry gummy bears
