@@ -9,7 +9,7 @@ description: Chris Cole and skateboarding’s foundational inability to hold its
   — and its heroes — to account.
 tags: []
 date: '2024-08-09T10:20:34.960Z'
-highlights:
+highlights: 
 ---
 
 Accountability and openness!!

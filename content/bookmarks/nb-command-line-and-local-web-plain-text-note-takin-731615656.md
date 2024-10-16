@@ -10,7 +10,7 @@ description: A CLI and local web plain text note-taking, bookmarking, archiving,
   knowledge base application.
 tags: []
 date: '2024-02-08T13:16:56.097Z'
-highlights:
+highlights: 
 ---
 
 

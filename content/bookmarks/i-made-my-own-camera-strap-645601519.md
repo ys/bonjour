@@ -5,10 +5,10 @@ category: video
 headImage: https://i.ytimg.com/vi/UTIlzAjK5CA/maxresdefault.jpg
 title: I made my own camera strap
 domain: youtube.com
-description:
+description: 
 tags: []
 date: '2023-02-02T09:46:32.073Z'
-highlights:
+highlights: 
 ---
 
 

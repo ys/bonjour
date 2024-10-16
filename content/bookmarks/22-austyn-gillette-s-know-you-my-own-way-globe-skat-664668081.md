@@ -11,7 +11,7 @@ description: "Austyn puts his whole heart into video parts, blending powerful li
   up with Thrasher Magazine here:\r\nhttp://www.thrashermagazine.com\r\nhttp://www.facebook.com/thrashermagazine\r\nhttp://www.instagram.com/thrashermag\r\nhttp://www.twitter.com/thrashermag"
 tags: []
 date: '2023-10-21T09:49:58.029Z'
-highlights:
+highlights: 
 ---
 
 

@@ -5,7 +5,7 @@ category: article
 headImage: https://rdl.ink/render/https%3A%2F%2Fgarden.mattstein.com%2Fnotes%2Fi-can-t-afford-free-things
 title: I Can’t Afford Free Things
 domain: garden.mattstein.com
-description:
+description: 
 tags: []
 date: '2024-04-07T20:34:44.792Z'
 highlights: |-

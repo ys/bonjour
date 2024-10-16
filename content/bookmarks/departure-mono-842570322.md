@@ -8,7 +8,7 @@ domain: departuremono.com
 description: A monospaced pixel font with a lo-fi, techy vibe.
 tags: []
 date: '2024-08-28T06:17:44.288Z'
-highlights:
+highlights: 
 ---
 
 I do love mono fonts

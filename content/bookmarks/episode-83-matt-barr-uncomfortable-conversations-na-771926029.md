@@ -13,7 +13,7 @@ description: Something a bit different this week from the deeper more than human
   Snowboarding, Skateboarding and related pursuits.
 tags: []
 date: '2024-04-19T10:23:48.501Z'
-highlights:
+highlights: 
 ---
 
 Hearing people be skeptical is always good. 

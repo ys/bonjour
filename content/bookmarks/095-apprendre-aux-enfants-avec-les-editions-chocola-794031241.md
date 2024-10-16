@@ -15,7 +15,7 @@ description: 'Listen to this episode from Apprenti Surfeur - débuter en surf on
   https://apprentisurfeur.com/groupe.Tu peux également me suivre sur Instagram @apprenti_surfeur'
 tags: []
 date: '2024-05-31T10:08:25.513Z'
-highlights:
+highlights: 
 ---
 
 Apprendre le surf et l'eau aux enfants. Chouette écoute! Hate de lire les livres!

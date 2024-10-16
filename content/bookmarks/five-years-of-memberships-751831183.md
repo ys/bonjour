@@ -9,7 +9,7 @@ description: I've been running the SPECIAL PROJECTS membership program for five 
   here's what I know.
 tags: []
 date: '2024-03-10T19:45:55.209Z'
-highlights:
+highlights: 
 ---
 
 
