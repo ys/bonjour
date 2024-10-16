@@ -51,7 +51,7 @@ description: "Join our PATREON to gain access to unpublished videos, interviews,
   #Gear"
 tags: []
 date: '2024-05-14T07:02:47.420Z'
-highlights:
+highlights: 
 ---
 
 > We just stupid but we've got soul

@@ -9,7 +9,7 @@ description: The pressure to make simplistic declarations about the Israel-Gaza 
   is not helping anyone.
 tags: []
 date: '2023-11-11T21:55:02.385Z'
-highlights:
+highlights: 
 ---
 
 

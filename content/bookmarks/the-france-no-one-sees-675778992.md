@@ -13,7 +13,7 @@ description: "One week in La Manche, France, during their stormy season to captu
   https://www.instagram.com/isaacsjohnston/"
 tags: []
 date: '2023-11-10T09:34:40.688Z'
-highlights:
+highlights: 
 ---
 
 

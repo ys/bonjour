@@ -9,7 +9,7 @@ description: I never found the guide that would have been helpful, so I started 
   one. This is a small part of it.
 tags: []
 date: '2024-04-25T20:41:00.426Z'
-highlights:
+highlights: 
 ---
 
 Collecting books and bins. As long as my toothbrush doesn't touch the one from my kids,. I should be fine continuing to collect books.

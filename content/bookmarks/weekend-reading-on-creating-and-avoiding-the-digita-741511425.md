@@ -9,7 +9,7 @@ description: 'This week I was thinking about a simple term: Creativity. A short 
   to thinking about it.'
 tags: []
 date: '2024-02-24T08:10:32.995Z'
-highlights:
+highlights: 
 ---
 
 

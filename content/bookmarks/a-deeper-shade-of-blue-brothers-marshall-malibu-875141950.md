@@ -8,7 +8,7 @@ domain: youtube.com
 description: The Malibu section from Jack McCoys "A Deeper Shade of Blue"
 tags: []
 date: '2024-10-14T08:12:01.983Z'
-highlights:
+highlights: 
 ---
 
 Part historical, part fun surfing

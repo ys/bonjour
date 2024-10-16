@@ -5,10 +5,10 @@ category: article
 headImage: https://adamwiggins.com/making-computers-better/mcb-unfurl.png
 title: making computers better · Adam Wiggins
 domain: adamwiggins.com
-description:
+description: 
 tags: []
 date: '2023-01-26T19:44:56.197Z'
-highlights:
+highlights: 
 ---
 
 

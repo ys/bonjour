@@ -9,7 +9,7 @@ description: Tom Bing packed in his life as a teacher in northern England to exp
   South America, the continent of extremes, to escape the feeling of drowning.
 tags: []
 date: '2024-03-12T11:58:04.267Z'
-highlights:
+highlights: 
 ---
 
 

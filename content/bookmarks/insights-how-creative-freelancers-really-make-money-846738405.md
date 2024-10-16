@@ -9,7 +9,7 @@ description: Read | Charlie Dark, Matt Pycroft, Phil Young, Soraya Abdel-Hadi an
   Mikey Lay on the reality of the creative life.
 tags: []
 date: '2024-09-03T10:51:25.262Z'
-highlights:
+highlights: 
 ---
 
 Amazing read on how creative makes money. Real people interviews, full of inspiration

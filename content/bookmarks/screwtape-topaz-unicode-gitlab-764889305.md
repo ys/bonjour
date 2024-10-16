@@ -8,7 +8,7 @@ domain: gitlab.com
 description: A version of the Amiga 500 "Topaz" font updated for the 21st century
 tags: []
 date: '2024-04-05T20:47:59.584Z'
-highlights:
+highlights: 
 ---
 
 I am all in for those weird vintage fonts from old gaming devices.

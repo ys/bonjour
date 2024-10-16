@@ -9,7 +9,7 @@ description: For blogging to form communities (again'-ish), we're going to need 
   protocols. I don't think HTTP is the future for growth. A tale as old as time, …
 tags: []
 date: '2023-12-03T09:00:05.370Z'
-highlights:
+highlights: 
 ---
 
 

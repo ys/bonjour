@@ -15,7 +15,7 @@ description: "We made a zine!\nThe first issue was released in August, and I fin
   who's reading zines these days and who cares about what we're doing at Good Enough?"
 tags: []
 date: '2023-10-01T21:21:14.871Z'
-highlights:
+highlights: 
 ---
 
 

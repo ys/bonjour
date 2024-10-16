@@ -5,10 +5,10 @@ category: article
 headImage: https://finisterre.com/cdn/shop/articles/unnamed_d2852b1c-5d1f-4dcb-b286-d9759121bfe9.jpg?v=1677840134
 title: From Dad To Daughter
 domain: finisterre.com
-description:
+description: 
 tags: []
 date: '2023-07-11T20:06:00.912Z'
-highlights:
+highlights: 
 ---
 
 

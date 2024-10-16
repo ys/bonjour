@@ -5,7 +5,7 @@ category: article
 headImage: https://i0.wp.com/leica-camera.blog/wp-content/uploads/anabele-58.jpg?w=296&h=472&ssl=1
 title: The Joy is in Capturing the Journey - The Leica camera Blog
 domain: leica-camera.blog
-description:
+description: 
 tags: []
 date: '2023-10-05T12:04:28.394Z'
 highlights: I shoot analog for a lot of reasons, but I always jokingly say the main

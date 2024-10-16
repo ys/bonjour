@@ -10,7 +10,7 @@ description: Il revient sur l'histoire du surf shop, évoquant également la sc�
   et surf new yorkaise.
 tags: []
 date: '2024-10-14T07:44:49.009Z'
-highlights:
+highlights: 
 ---
 
 A good chat with Chris Gentile, in French 

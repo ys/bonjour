@@ -30,7 +30,7 @@ description: '1,910 likes, 133 comments - patschmidt on August 20, 2024: "The co
   you Andrew, thanks for taking me under your wing. @blauschild".'
 tags: []
 date: '2024-08-21T09:02:42.925Z'
-highlights:
+highlights: 
 ---
 
 > There is something about film, it is sharp but it is soft. It has a life in it

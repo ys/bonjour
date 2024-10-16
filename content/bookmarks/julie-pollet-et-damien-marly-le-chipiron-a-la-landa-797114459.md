@@ -55,7 +55,7 @@ description: "Episode  #14 (Français/French). Enregistré à Hossegor le 26 j
   and Apple Podcasts, SoundCloud, Google Podcasts, Spotify and Deezer."
 tags: []
 date: '2024-06-06T11:27:36.396Z'
-highlights:
+highlights: 
 ---
 
 A really nice success story that breaks some of the classical codes

@@ -8,7 +8,7 @@ domain: monsterchildren.com
 description: A series exploring how artists push forward with their practice.
 tags: []
 date: '2023-11-21T09:16:54.297Z'
-highlights:
+highlights: 
 ---
 
 boring as art

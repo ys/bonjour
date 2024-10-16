@@ -9,7 +9,7 @@ description: We talk to Ming-Hui Brown about surfing, body positivity and the re
   of being a Ventura local.
 tags: []
 date: '2024-09-04T19:28:05.988Z'
-highlights:
+highlights: 
 ---
 
 > I think some brands are doing better. I think they're understanding that their clients aren't just 20-year-old super-cute fit girls. There are other women in the world who shop and surf and buy clothes, and we all look different

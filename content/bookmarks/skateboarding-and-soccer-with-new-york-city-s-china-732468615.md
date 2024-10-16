@@ -9,7 +9,7 @@ description: The CSC is a longstanding institution of the Lower East Side of Man
   that’s been meeting over the last twenty years for friendly pickup soccer. The leag...
 tags: []
 date: '2024-02-09T21:20:44.440Z'
-highlights:
+highlights: 
 ---
 
 

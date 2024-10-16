@@ -24,7 +24,7 @@ description: "Head to https://www.nts-store.com/collections/bundles to grab all 
   by MEOD & After by Red City Hero from Artlist.io"
 tags: []
 date: '2024-04-23T15:12:27.282Z'
-highlights:
+highlights: 
 ---
 
 Small space and soooo creative. Low how it accomodates a non square place

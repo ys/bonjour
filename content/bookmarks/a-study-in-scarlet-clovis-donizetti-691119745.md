@@ -11,7 +11,7 @@ description: "Clovis Donizetti surfing his 'Scarlet Begonia' model by Christenso
   : \n@thomaslodin - thomaslodin.com\n@christensonsurfboards - christensonsurfboards.com\n@clovisdonizetti"
 tags: []
 date: '2023-12-07T20:08:14.222Z'
-highlights:
+highlights: 
 ---
 
 

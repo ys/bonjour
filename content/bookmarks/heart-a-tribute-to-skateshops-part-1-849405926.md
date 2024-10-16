@@ -9,7 +9,7 @@ description: Enjoy the videos and music you love, upload original content, and s
   it all with friends, family, and the world on YouTube.
 tags: []
 date: '2024-09-06T13:45:04.331Z'
-highlights:
+highlights: 
 ---
 
 I love the vibe you have in a skate shop. It will never be the same online...

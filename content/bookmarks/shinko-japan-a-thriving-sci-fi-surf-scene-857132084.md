@@ -32,7 +32,7 @@ description: "Welcome to Shinko, a unique and unexpected surf scene in Japan. A 
   for more?\ncheckout dylangraves.fun"
 tags: []
 date: '2024-09-19T12:35:39.359Z'
-highlights:
+highlights: 
 ---
 
 Japanese surf scene seems so welcoming

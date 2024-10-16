@@ -15,7 +15,7 @@ description: "Finisterre Ambassador Mike Lay is joined by architect Jacob Down a
   #surfing #surffilm #nostalgicfilms"
 tags: []
 date: '2024-08-23T11:51:39.630Z'
-highlights:
+highlights: 
 ---
 
 Always good to see Mike noseriding!

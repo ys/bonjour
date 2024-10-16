@@ -14,7 +14,7 @@ description: This is truly amazing. Playing Link's Awakening at 1:1 pixel scale 
   (@dark1x) December 13, 2023
 tags: []
 date: '2023-12-13T17:35:19.819Z'
-highlights:
+highlights: 
 ---
 
 

@@ -15,7 +15,7 @@ description: |-
   DAY24-SELL: Get a 5% bonus when you sell your gear on KEH!
 tags: []
 date: '2024-10-01T10:39:15.483Z'
-highlights:
+highlights: 
 ---
 
 Almost considering it... Had the Q3 in my hands earlier today and I take back what I said about that big lense

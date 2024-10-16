@@ -9,7 +9,7 @@ description: ":file_folder: Generate pixel-perfect macOS folder icons in the nat
   style. - lgarron/folderify"
 tags: []
 date: '2024-06-04T16:50:55.536Z'
-highlights:
+highlights: 
 ---
 
 

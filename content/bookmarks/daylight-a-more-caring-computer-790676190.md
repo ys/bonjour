@@ -8,7 +8,7 @@ domain: daylightcomputer.com
 description: The world’s first blue-light free computer.
 tags: []
 date: '2024-05-24T21:15:53.872Z'
-highlights:
+highlights: 
 ---
 
 

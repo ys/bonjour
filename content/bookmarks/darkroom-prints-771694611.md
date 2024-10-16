@@ -11,7 +11,7 @@ description: Magnum Darkroom Prints reveal an analog history — how depth and l
   Featuring the marks and inscriptions by Magnum master printer Pablo Inirio, or in
 tags: []
 date: '2024-04-18T19:22:23.816Z'
-highlights:
+highlights: 
 ---
 
 So crazy to see all the little edits made to those analog shots. 

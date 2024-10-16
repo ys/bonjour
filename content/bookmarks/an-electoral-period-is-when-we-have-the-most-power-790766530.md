@@ -9,7 +9,7 @@ description: An interview with surfer and activist Lucy Small, who is from Weste
   Australia
 tags: []
 date: '2024-05-25T05:32:05.983Z'
-highlights:
+highlights: 
 ---
 
 > An electoral period is when we have the most power and the biggest voice in politics

@@ -100,7 +100,7 @@ description: |-
   Website: http://bit.ly/ericlongdenfilms
 tags: []
 date: '2024-06-19T13:45:38.558Z'
-highlights:
+highlights: 
 ---
 
 Mixing Skateboarding and Ben Harper, this is magical. I wanna see him again and hit the skatepark with him

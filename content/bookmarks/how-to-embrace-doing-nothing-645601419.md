@@ -5,10 +5,10 @@ category: article
 headImage: https://cdn.theatlantic.com/thumbor/YrmbU_94s3LgCzQsAFQNm4pKI8o=/0x64:2995x1624/1200x625/media/img/mt/2022/08/HowToBuildALife102/original.jpg
 title: How to Embrace Doing Nothing
 domain: theatlantic.com
-description:
+description: 
 tags: []
 date: '2023-01-26T19:49:44.806Z'
-highlights:
+highlights: 
 ---
 
 

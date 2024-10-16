@@ -10,7 +10,7 @@ description: Skater and art historian Ted Barrow on what would be lost if the ci
   overhauls Embarcadero Plaza.
 tags: []
 date: '2024-09-04T18:56:50.124Z'
-highlights:
+highlights: 
 ---
 
 > Once our Colosseum, Embarcadero is still a pilgrimage site whose poignant beauty rests in a reverie of what once was. 

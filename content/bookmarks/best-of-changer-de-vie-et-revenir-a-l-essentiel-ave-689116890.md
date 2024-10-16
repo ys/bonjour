@@ -9,7 +9,7 @@ description: Pedro Correa est polytechnicien, mais il a transformé sa vie pour 
   photographe, auteur et conférencier.
 tags: []
 date: '2023-12-04T14:13:17.713Z'
-highlights:
+highlights: 
 ---
 
 

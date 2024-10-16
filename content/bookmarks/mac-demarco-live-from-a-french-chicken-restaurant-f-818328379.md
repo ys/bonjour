@@ -33,7 +33,7 @@ description: "Fin de service with @macdemarco - Shot at Le Bar Fleuri , Paris - 
   #livemusic"
 tags: []
 date: '2024-07-17T13:03:57.558Z'
-highlights:
+highlights: 
 ---
 
 Fuck yeah, chicken and songs

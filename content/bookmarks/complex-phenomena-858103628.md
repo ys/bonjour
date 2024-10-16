@@ -8,7 +8,7 @@ domain: simplemagic.ca
 description: On brand relationships and loyalty.
 tags: []
 date: '2024-09-20T21:06:24.105Z'
-highlights:
+highlights: 
 ---
 
 Funny how some brands make a better impression

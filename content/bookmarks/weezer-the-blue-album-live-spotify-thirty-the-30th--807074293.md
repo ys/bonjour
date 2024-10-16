@@ -10,7 +10,7 @@ description: Weezer came to Spotify Studios, Los Angeles for a special performan
   t...
 tags: []
 date: '2024-06-26T12:35:26.419Z'
-highlights:
+highlights: 
 ---
 
 That band is amazing and good to hear that special performance of the blue album.
