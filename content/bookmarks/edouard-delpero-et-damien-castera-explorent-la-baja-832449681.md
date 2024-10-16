@@ -10,7 +10,7 @@ description: Immortalisés avec talent par Kevin Métailler, les surfeurs ont tr
   de quoi s'exprimer le long de la côte Pacifique.
 tags: []
 date: '2024-08-09T21:08:24.543Z'
-highlights:
+highlights: 
 ---
 
 

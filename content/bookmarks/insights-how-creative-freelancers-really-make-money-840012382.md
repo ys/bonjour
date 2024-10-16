@@ -9,7 +9,7 @@ description: Read | Ed Leigh, Sophie Hellyer, Demi Taylor, Owen Tozer and Gilly 
   on the reality of the creative life.
 tags: []
 date: '2024-08-22T12:50:46.206Z'
-highlights:
+highlights: 
 ---
 
 Amazing interviews about how creative folks wear tons of hats and are always on multiple things. Great to hear also that they also need to work for food and so it is not all that glamorous and sometimes a basic day job is needed

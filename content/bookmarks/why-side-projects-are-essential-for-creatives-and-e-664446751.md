@@ -10,7 +10,7 @@ description: Why side projects are essential for creatives—and employers shoul
   them
 tags: []
 date: '2023-10-20T20:51:20.670Z'
-highlights:
+highlights: 
 ---
 
 

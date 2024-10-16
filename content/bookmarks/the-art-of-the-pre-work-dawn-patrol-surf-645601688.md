@@ -5,10 +5,10 @@ category: article
 headImage: https://firstlightsurf.club/cdn/shop/articles/Dawn-patrol.jpg?v=1688863794
 title: The Art Of The Pre Work Dawn Patrol Surf
 domain: firstlightsurf.club
-description:
+description: 
 tags: []
 date: '2023-07-15T20:43:16.241Z'
-highlights:
+highlights: 
 ---
 
 

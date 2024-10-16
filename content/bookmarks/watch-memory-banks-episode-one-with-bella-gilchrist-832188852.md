@@ -8,7 +8,7 @@ domain: monsterchildren.com
 description: Introducing Bella Gilchrist of Road Surf in Encinitas.
 tags: []
 date: '2024-08-09T11:24:04.544Z'
-highlights:
+highlights: 
 ---
 
 We need more woman shaper center stage!

@@ -9,7 +9,7 @@ description: Sally McGee heads to Central America in search of good waves on a f
   surf trip.
 tags: []
 date: '2024-09-03T11:01:50.689Z'
-highlights:
+highlights: 
 ---
 
 > Tent, triple coffin bag, shameful budget, no plans. This time with a folder full of national curriculum reading books and worksheets too. 

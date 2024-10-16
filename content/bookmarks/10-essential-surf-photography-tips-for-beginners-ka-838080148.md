@@ -10,7 +10,7 @@ description: Getting started with surf photography can be both thrilling and cha
   Here are 10 essential tips to help you start your surf photography journey.
 tags: []
 date: '2024-08-19T07:54:14.483Z'
-highlights:
+highlights: 
 ---
 
 Patience and knowing your gear. Zen mode like

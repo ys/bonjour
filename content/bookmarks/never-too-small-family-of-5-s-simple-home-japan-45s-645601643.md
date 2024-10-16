@@ -5,10 +5,10 @@ category: video
 headImage: https://i.ytimg.com/vi/mv714wR3Sd4/maxresdefault.jpg
 title: 'NEVER TOO SMALL: Family of 5’s Simple Home, Japan 45sqm/483sqft'
 domain: youtube.com
-description:
+description: 
 tags: []
 date: '2023-06-12T17:37:31.230Z'
-highlights:
+highlights: 
 ---
 
 

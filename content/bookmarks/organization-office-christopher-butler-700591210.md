@@ -9,7 +9,7 @@ description: This is the office.   My wife and I work here, Monday through Frida
   9 to 5. Our children play and create in here just as often. It’s where we
 tags: []
 date: '2023-12-22T14:49:59.816Z'
-highlights:
+highlights: 
 ---
 
 
