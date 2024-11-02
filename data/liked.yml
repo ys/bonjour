@@ -34795,3 +34795,43 @@
   sort: 790676190
   collectionId: -1
   parsed: {}
+- _id: 890462433
+  link: https://craigmod.com/roden/096/
+  title: Voting For Train Man — Roden newsletter issue 096
+  excerpt: Play? Yes, please.
+  note: A letter to fun freedom
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://craigmod.com/roden/img/096/096.jpg
+  media:
+  - link: https://craigmod.com/roden/img/096/096.jpg
+    type: image
+  - link: https://craigmod.com/roden/img/096/1.jpg
+    type: image
+  - link: https://craigmod.com/roden/img/096/2.jpg
+    type: image
+  - link: https://craigmod.com/roden/img/096/3.jpg
+    type: image
+  - link: https://craigmod.com/roden/img/096/4.jpg
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2024-11-02T08:49:40.289Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  lastUpdate: '2024-11-02T08:49:49.538Z'
+  domain: craigmod.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 890462433
+  collectionId: -1
+  parsed: {}
