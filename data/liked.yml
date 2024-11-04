@@ -34835,3 +34835,39 @@
   sort: 890462433
   collectionId: -1
   parsed: {}
+- _id: 892577919
+  link: https://www.youtube.com/watch?v=azxOOBL_U4Y
+  title: How This Surfer Built His Dream Home on the Nova Scotia Coast | Huckberry
+    Homes
+  excerpt: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  note: DIY and surf, that is the kind of house I do love
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/azxOOBL_U4Y/hqdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/azxOOBL_U4Y/hqdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-11-04T12:14:21.239Z'
+  collection:
+    "$ref": collections
+    "$id": 37136914
+    oid: 37136914
+  highlights: []
+  lastUpdate: '2024-11-04T12:23:52.222Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 892577919
+  collectionId: 37136914
+  parsed: {}
