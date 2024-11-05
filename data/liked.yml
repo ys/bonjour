@@ -34871,3 +34871,38 @@
   sort: 892577919
   collectionId: 37136914
   parsed: {}
+- _id: 893332746
+  link: https://www.thatch.co/guide/12owtun1nsjqc/view
+  title: Traveler's California Surf Road Trip | Traveler Surf Club
+  excerpt: If you're looking to embark on your dream California surf trip but; - aren't
+    sure where to go - don't want to travel with your boards or wetsuits - ar...
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://cdn.thatch.in/cdn-cgi/image/width=1600,quality=80,format=webp/images/by-user/vcR3sVSlJogFBKOCXvhFT0cyVsz2/boards/61052/1x0togh-blob.jpg
+  media:
+  - link: https://cdn.thatch.in/cdn-cgi/image/width=1600,quality=80,format=webp/images/by-user/vcR3sVSlJogFBKOCXvhFT0cyVsz2/boards/61052/1x0togh-blob.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-11-05T09:34:47.564Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2024-11-05T09:34:47.564Z'
+  domain: thatch.co
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 893332746
+  collectionId: -1
+  parsed: {}
