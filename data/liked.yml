@@ -34795,41 +34795,6 @@
   sort: 790676190
   collectionId: -1
   parsed: {}
-- _id: 893332746
-  link: https://www.thatch.co/guide/12owtun1nsjqc/view
-  title: Traveler's California Surf Road Trip | Traveler Surf Club
-  excerpt: If you're looking to embark on your dream California surf trip but; - aren't
-    sure where to go - don't want to travel with your boards or wetsuits - ar...
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://cdn.thatch.in/cdn-cgi/image/width=1600,quality=80,format=webp/images/by-user/vcR3sVSlJogFBKOCXvhFT0cyVsz2/boards/61052/1x0togh-blob.jpg
-  media:
-  - link: https://cdn.thatch.in/cdn-cgi/image/width=1600,quality=80,format=webp/images/by-user/vcR3sVSlJogFBKOCXvhFT0cyVsz2/boards/61052/1x0togh-blob.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-11-05T09:34:47.564Z'
-  collection:
-    "$ref": collections
-    "$id": -1
-    oid: -1
-  highlights: []
-  lastUpdate: '2024-11-05T09:34:47.564Z'
-  domain: thatch.co
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 893332746
-  collectionId: -1
-  parsed: {}
 - _id: 890462433
   link: https://craigmod.com/roden/096/
   title: Voting For Train Man — Roden newsletter issue 096
@@ -34940,4 +34905,78 @@
     email: ''
   sort: 895948848
   collectionId: 37136905
+  parsed: {}
+- _id: 896621950
+  link: https://www.youtube.com/watch?app=desktop&v=UdzW7DBnZx0
+  title: ONE MORNING WITH LAURE MAYER
+  excerpt: |-
+    Filmed and edited by Cokoif with Super 8 Canon 514XL
+    With Laure Mayer
+    Music Billie Holiday, Solitude
+  note: Jazzy music, longboard and super 8
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/UdzW7DBnZx0/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/UdzW7DBnZx0/maxresdefault.jpg
+    type: image
+  - link: https://i.ytimg.com/vi/UdzW7DBnZx0/mqdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-11-09T13:31:21.454Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2024-11-09T13:31:34.745Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 896621950
+  collectionId: 37136905
+  parsed: {}
+- _id: 893332746
+  link: https://www.thatch.co/guide/12owtun1nsjqc/view
+  title: Traveler's California Surf Road Trip | Traveler Surf Club
+  excerpt: If you're looking to embark on your dream California surf trip but; - aren't
+    sure where to go - don't want to travel with your boards or wetsuits - ar...
+  note: Looking at this road trip for our future adventures in California
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://cdn.thatch.in/cdn-cgi/image/width=1600,quality=80,format=webp/images/by-user/vcR3sVSlJogFBKOCXvhFT0cyVsz2/boards/61052/1x0togh-blob.jpg
+  media:
+  - link: https://cdn.thatch.in/cdn-cgi/image/width=1600,quality=80,format=webp/images/by-user/vcR3sVSlJogFBKOCXvhFT0cyVsz2/boards/61052/1x0togh-blob.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-11-05T09:34:47.564Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2024-11-09T13:32:26.397Z'
+  domain: thatch.co
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 893332746
+  collectionId: -1
   parsed: {}
