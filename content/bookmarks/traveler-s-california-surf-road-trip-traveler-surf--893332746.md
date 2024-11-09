@@ -12,5 +12,5 @@ date: '2024-11-05T09:34:47.564Z'
 highlights: 
 ---
 
-
+Looking at this road trip for our future adventures in California
 
