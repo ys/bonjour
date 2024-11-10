@@ -34871,41 +34871,6 @@
   sort: 892577919
   collectionId: 37136914
   parsed: {}
-- _id: 895948848
-  link: https://nobodysurf.com/natsu-no-owari-with-kenta-ishikawa/
-  title: '"natsu no owari" with Kenta Ishikawa | NobodySurf'
-  excerpt: Kenta Ishikawa surfing small waves in Shonan. 2min surf video created by
-    Oki Inoue in 2024.
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://cdn.nobodysurf.com/video/thumb/7dc9d6b91aef5c615a0713fabf3988c4.png
-  media:
-  - link: https://cdn.nobodysurf.com/video/thumb/7dc9d6b91aef5c615a0713fabf3988c4.png
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-11-08T13:05:25.328Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  lastUpdate: '2024-11-08T13:05:26.653Z'
-  domain: nobodysurf.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 895948848
-  collectionId: 37136905
-  parsed: {}
 - _id: 896621950
   link: https://www.youtube.com/watch?app=desktop&v=UdzW7DBnZx0
   title: ONE MORNING WITH LAURE MAYER
@@ -34979,4 +34944,39 @@
     email: ''
   sort: 893332746
   collectionId: -1
+  parsed: {}
+- _id: 895948848
+  link: https://nobodysurf.com/natsu-no-owari-with-kenta-ishikawa/
+  title: '"natsu no owari" with Kenta Ishikawa | NobodySurf'
+  excerpt: Kenta Ishikawa surfing small waves in Shonan. 2min surf video created by
+    Oki Inoue in 2024.
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://cdn.nobodysurf.com/video/thumb/7dc9d6b91aef5c615a0713fabf3988c4.png
+  media:
+  - link: https://cdn.nobodysurf.com/video/thumb/7dc9d6b91aef5c615a0713fabf3988c4.png
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-11-08T13:05:25.328Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2024-11-08T13:05:26.653Z'
+  domain: nobodysurf.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 895948848
+  collectionId: 37136905
   parsed: {}
