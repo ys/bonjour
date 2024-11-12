@@ -34980,3 +34980,45 @@
   sort: 895948848
   collectionId: 37136905
   parsed: {}
+- _id: 898792088
+  link: https://www.nts.live/shows/guests/episodes/ed-templeton-14th-october-2024?__readwiseLocation=
+  title: ED TEMPLETON 14th October 2024
+  excerpt: "Playing Noise Rock, Hardcore Punk. Photographer, Toy Machine founder and
+    bona fide skateboarding royalty Ed Templeton picks out his favourite musical moments
+    from the annals of skate video history. \nIncluding tracks from classic video
+    parts on Blind’s “Video Days”, Vision’s “Skatevisions” and many more."
+  note: Loved to hear the little stories behind each song. Or just where it came to
+    Ed
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://media2.ntslive.co.uk/resize/1600x1600/9ea7a8cf-be9c-4bc6-b6f4-a1f53cd131d9_1728604800.jpeg
+  media:
+  - link: https://media2.ntslive.co.uk/resize/1600x1600/9ea7a8cf-be9c-4bc6-b6f4-a1f53cd131d9_1728604800.jpeg
+    type: image
+  - link: https://media2.ntslive.co.uk/resize/800x800/874f7a2e-7591-45b6-a5fc-8f64b91ff39f_1731369600.jpeg
+    type: image
+  - link: https://media2.ntslive.co.uk/resize/800x800/acc2c2f8-538e-4ccd-87bd-d46616e7b175_1627430400.jpeg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-11-12T13:15:09.689Z'
+  collection:
+    "$ref": collections
+    "$id": 37679987
+    oid: 37679987
+  highlights: []
+  lastUpdate: '2024-11-12T13:15:11.043Z'
+  domain: nts.live
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 898792088
+  collectionId: 37679987
+  parsed: {}
