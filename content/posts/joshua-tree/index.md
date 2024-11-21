@@ -1,4 +1,4 @@
-
+---
 title: "Joshua Tree"
 slug: "joshua-tree"
 color: yellow
