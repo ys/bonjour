@@ -35022,3 +35022,41 @@
   sort: 898792088
   collectionId: 37679987
   parsed: {}
+- _id: 905568712
+  link: https://barbessurfclub.com/a14isout/
+  title: A14 is out!
+  excerpt: It’s finally out there!
+  note: A French documentary for all the land locked surfers
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i0.wp.com/barbessurfclub.com/wp-content/uploads/2024/11/Capture-decran-2024-11-20-a-14.43.27.png?fit=1200%2C779&quality=95&ssl=1
+  media:
+  - link: https://i0.wp.com/barbessurfclub.com/wp-content/uploads/2024/11/Capture-decran-2024-11-20-a-14.43.27.png?fit=1200%2C779&quality=95&ssl=1
+    type: image
+  - link: https://i0.wp.com/barbessurfclub.com/wp-content/uploads/2024/11/Capture-decran-2024-11-20-a-14.43.27.png?fit=600%2C390&quality=95&ssl=1
+    type: image
+  - link: https://i0.wp.com/barbessurfclub.com/wp-content/uploads/2024/11/Capture-decran-2024-11-20-a-14.43.27.png?fit=1200%2C779&quality=95&ssl=1&w=640
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-11-21T08:55:38.093Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2024-11-21T08:55:53.553Z'
+  domain: barbessurfclub.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 905568712
+  collectionId: -1
+  parsed: {}
