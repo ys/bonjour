@@ -7,7 +7,7 @@
 		"description": "{{ .Site.Params.description }}",
 		{{ end }}
 		{{ if isset .Site.Params "author" }}
-		"author": { "name": "{{ .Site.Author.name }}" },
+		"author": { "name": "{{ .Site.Params.Author.name }}" },
 		{{ end }}
 			"items": [
       {{ range $i, $e := first 1000 (where .RegularPages  ".Params.hidden" "!=" "true") }}
