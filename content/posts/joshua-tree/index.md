@@ -15,8 +15,9 @@ description: "La première fois que j'ai pris la Highway 62, je ne connaissais p
 
 ![](card)
 
-La première fois que j'ai pris la Highway 62, je ne connaissais pas son nom. Elle était juste la route du désert pour moi. Ce ne fut qu'en croisant Jason Lee dans son magasin et en parlant avec lui que je sus comment l'appeler. J'allais la recroiser pour la seconde fois. D'un coup, sur ses bords, les arbres de Josué. Ensuite, des couleurs vives amenées par l'homme. L'art est omniprésent. Depuis les peintures rupestres jusqu'aux fresques et sculptures présentes tout le long de la 62.
-Un an après le super bloom, nous revoilà dans le désert. Ce lieu où la créativité remplace l'eau. Il ne pleut pas ici, cela se voit. Les cactus font leurs réserves et vous regardent de haut, sachant que vos mains ne les frôleront pas.
+La première fois que j'ai pris la Highway 62, elle était juste la route du désert. Ce ne fut qu'en croisant Jason Lee dans son magasin et en parlant avec lui que j'appris son nom. J'allais la recroiser pour la seconde fois. Elle est le genre de route qui me fait rêver les road trips américains. Aux côtés de la highway 1, j'ai adoré les traverser.
+
+Un an après le super bloom, nous revoilà dans le désert. Ce lieu où la créativité remplace l'eau. Il ne pleut pas ici, cela se voit. Les cactus font leurs réserves et vous regardent de haut, sachant que vos mains ne les frôleront pas. D'un coup, sur ses bords, les arbres de Josué. Ensuite, des couleurs vives amenées par l'homme. L'art est omniprésent. Depuis les peintures rupestres jusqu'aux fresques et sculptures présentes tout le long de la 62.
 
 {{< grid images="35.webp | 19.webp " >}}
 
