@@ -45,6 +45,9 @@ canonifyURLs = false
   emoji = "✌️"
   withEmoji = true
   arrow = "—"
+[params.author]
+  name = "Yannick Schutz"
+
 [params.tinyletter]
   username = "bonjouryannick"
   title = "💌 Ma petite lettre"
@@ -112,8 +115,6 @@ canonifyURLs = false
   name = "film"
   weight =  4 # We don't really need thisfilm but omitting it would disable the indice.
 
-[author]
-  name = "Yannick Schutz"
 
 [permalinks]
   posts = "/:slug"
