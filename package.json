@@ -6,7 +6,7 @@
     "gulp"
   ],
   "scripts": {
-    "build": "hugo --minify -b https://${BASE_URL:-bonjour-git-$VERCEL_GIT_COMMIT_REF-ys1.vercel.app}",
+    "build": "hugo --templateMetrics --templateMetricsHints --printUnusedTemplates --minify -b https://${BASE_URL:-bonjour-git-$VERCEL_GIT_COMMIT_REF-ys1.vercel.app}",
     "build-preview": "hugo --minify -F -D -b https://${BASE_URL:-bonjour-git-$VERCEL_GIT_COMMIT_REF-ys1.vercel.app}",
     "gulp": "gulp",
     "build-images": "gulp img:build",
