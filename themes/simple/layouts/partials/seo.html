@@ -72,11 +72,11 @@
         "name": ["French","English"]
       },
       {{- $images := $.Resources.ByType "image" -}}{{- $featured := $images.GetMatch "*feature*" -}}{{- $featured := cond (ne $featured nil) $featured ($images.GetMatch "{*cover*,*thumbnail*}") -}}{{- with $featured -}}"image" : {{ $featured.Permalink }},{{ else -}}{{- with $.Site.Params.images -}}"image" : {{ index . 0 | absURL }},{{ end }}{{ end }}
-      "author" : {{ range .Site.Author }}{{ . }}{{ end }},
-      "creator" : {{ range .Site.Author }}{{ . }}{{ end }},
-      "publisher": {{ range .Site.Author }}{{ . }}{{ end }},
-      "accountablePerson" : {{ range .Site.Author }}{{ . }}{{ end }},
-      "copyrightHolder" : {{ range .Site.Author }}{{ . }}{{ end }},
+      "author" : {{ range .Site.Params.Author }}{{ . }}{{ end }},
+      "creator" : {{ range .Site.Params.Author }}{{ . }}{{ end }},
+      "publisher": {{ range .Site.Params.Author }}{{ . }}{{ end }},
+      "accountablePerson" : {{ range .Site.Params.Author }}{{ . }}{{ end }},
+      "copyrightHolder" : {{ range .Site.Params.Author }}{{ . }}{{ end }},
       "copyrightYear" : {{ .Date.Format "2006" }},
       "datePublished": {{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }},
       "dateModified" : {{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" | safeHTML }},
