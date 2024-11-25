@@ -34945,41 +34945,6 @@
   sort: 893332746
   collectionId: -1
   parsed: {}
-- _id: 895948848
-  link: https://nobodysurf.com/natsu-no-owari-with-kenta-ishikawa/
-  title: '"natsu no owari" with Kenta Ishikawa | NobodySurf'
-  excerpt: Kenta Ishikawa surfing small waves in Shonan. 2min surf video created by
-    Oki Inoue in 2024.
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://cdn.nobodysurf.com/video/thumb/7dc9d6b91aef5c615a0713fabf3988c4.png
-  media:
-  - link: https://cdn.nobodysurf.com/video/thumb/7dc9d6b91aef5c615a0713fabf3988c4.png
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date: 
-  removed: false
-  created: '2024-11-08T13:05:25.328Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  lastUpdate: '2024-11-08T13:05:26.653Z'
-  domain: nobodysurf.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 895948848
-  collectionId: 37136905
-  parsed: {}
 - _id: 898792088
   link: https://www.nts.live/shows/guests/episodes/ed-templeton-14th-october-2024?__readwiseLocation=
   title: ED TEMPLETON 14th October 2024
@@ -35021,6 +34986,41 @@
     email: ''
   sort: 898792088
   collectionId: 37679987
+  parsed: {}
+- _id: 895948848
+  link: https://nobodysurf.com/natsu-no-owari-with-kenta-ishikawa/
+  title: '"natsu no owari" with Kenta Ishikawa | NobodySurf'
+  excerpt: Kenta Ishikawa surfing small waves in Shonan. 2min surf video created by
+    Oki Inoue in 2024.
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://cdn.nobodysurf.com/video/thumb/7dc9d6b91aef5c615a0713fabf3988c4.png
+  media:
+  - link: https://cdn.nobodysurf.com/video/thumb/7dc9d6b91aef5c615a0713fabf3988c4.png
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-11-08T13:05:25.328Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2024-11-08T13:05:26.653Z'
+  domain: nobodysurf.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 895948848
+  collectionId: 37136905
   parsed: {}
 - _id: 905568712
   link: https://barbessurfclub.com/a14isout/
