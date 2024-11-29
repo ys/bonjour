@@ -35060,3 +35060,50 @@
   sort: 905568712
   collectionId: -1
   parsed: {}
+- _id: 911431124
+  link: https://www.youtube.com/watch?v=8uhZber08S4&list=WL&index=1
+  title: WAVE GODS
+  excerpt: "Log Rap presents Wave Gods brought to you by Ross Concepts. It's been
+    a few months since we've posted a straight clip, but this one is sure to be an
+    instant classic. The level of longboarding that Mencos, Augusto and Tedi are doing
+    right now just feels like a breath of fresh air. Feels like each of these guys
+    is pushing longboarding in a new direction while all remaining true to themselves.
+    Happy to be able to link up with Ross and Matt to bring you guys some new surf
+    porn.\n\nBoards ridden:\n9'6 Magic Mix\nhttps://rossconcept.com/surfboard-models/p/magic-mix\n
+    \n9'6 Fluid Drive \nhttps://rossconcept.com/surfboard-models/p/fluid-drive\n\n9'7
+    Fluid Drive\nhttps://rossconcept.com/surfboard-models/p/fluid-drive\n\nFilmer/Footage
+    Coordinator\nMatt Powers\n\nEdit\nRyan Cannon\n\nMusic \nNas - Wave Gods\nNas-
+    Deja Vu \nLogRap.com"
+  note: Trying to analyse moves and stuff... Love those videos. Add the cool music
+    and you get something nice
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/8uhZber08S4/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/8uhZber08S4/maxresdefault.jpg
+    type: image
+  - link: https://i.ytimg.com/vi/8uhZber08S4/mqdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-11-29T15:47:20.242Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2024-11-29T15:47:56.429Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 911431124
+  collectionId: 37136905
+  parsed: {}
