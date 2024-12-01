@@ -1,4 +1,5 @@
 ---
+archived: true
 title: "Sunrise I"
 grid: "cover"
 subtitle: "50€"

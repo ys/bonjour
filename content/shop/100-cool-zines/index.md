@@ -1,11 +1,13 @@
 ---
+archived: true
 emoji: 🫶🏻
 color: yellow
 favorite: true
 title: "One hundred cool things in twenty twenty two"
 subtitle: "My favorite moments of the year and some shots"
+soldout: true
 date: 2023-01-04
-pricetag: "From 7€"
+pricetag: ~~7€~~ SOLD OUT"
 price: "7.00"
 grid: "cover / 100things_5 | 100things_6"
 currency: "EUR"
