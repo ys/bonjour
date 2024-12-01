@@ -2,7 +2,7 @@
 color: green
 title: A picture per week in your mailbox
 hideDescription: true
-seotitle: "Detail - a picture per week - ✌️ Bonjour Yannick"
+seotitle: "Detail - a picture per mail - Yannick Schutz"
 menu:
   more:
     weight: 4
