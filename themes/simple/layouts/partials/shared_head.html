@@ -3,7 +3,7 @@
 
 
 {{ $styles := resources.Get "css/application.scss" | resources.ExecuteAsTemplate "main.css" . | toCSS}}
-{{ $styles = $styles | resources.PostCSS }}
+{{ $styles = $styles | css.PostCSS }}
 {{ if  hugo.IsProduction  }}
     {{ $styles = $styles | minify | fingerprint | resources.PostProcess }}
     {{ else if hugo.IsServer }}
