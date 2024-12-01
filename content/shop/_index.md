@@ -1,4 +1,5 @@
 ---
+seotitle: "Shop - Yannick Schutz"
 title: "A little shop full of zines and prints"
 emoji: "💸"
 menu:

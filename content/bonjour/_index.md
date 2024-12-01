@@ -1,5 +1,5 @@
 ---
-seotitle: "Bonjour, une newsletter - Bonjour Yannick"
+seotitle: "Bonjour, une newsletter - Yannick Schutz"
 title: "Envoyer des mots doux et raconter n'importe quoi"
 emoji: 💌
 description: "Juste des petits mots dans votre boîte mail"
