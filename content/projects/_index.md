@@ -1,9 +1,9 @@
 ---
 color: peach
-title: "Projects I captured"
+title: "Those are good projects"
 seotitle: "Projects - Yannick Schutz"
 menu:
-  more:
+  main:
     weight: 1
 linktitle: "Projects"
 skip: "cover.png"
