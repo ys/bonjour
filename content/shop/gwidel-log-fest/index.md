@@ -1,7 +1,6 @@
 ---
-archived: true
 color: sky
-title: "Gwidel Log Fest (zine only)"
+title: "Gwidel Log Fest"
 subtitle: "Emgav longboard dre bedadenn"
 date: 2023-02-01
 emoji: "🏄‍♂️"
