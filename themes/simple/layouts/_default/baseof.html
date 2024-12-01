@@ -24,7 +24,6 @@
 
   <body
       class="{{ .Site.Params.themePalette}} content-{{$.Scratch.Get "color" }} font-serif  antialiased  dark:bg-crust dark:text-white text-crust {{if or .Params.backgroundColor $.Site.Params.backgroundColor }}{{with .Params.background}}bg-{{.}} {{end}} bg-{{$.Scratch.Get "color" }} bg-opacity-10 selection:bg-opacity-20 selection:bg-{{$.Scratch.Get "color"}}{{else}}selection:bg-{{$.Scratch.Get "color"}} selection:bg-opacity-20{{end}}">
-        <div class="z-50 fixed top-0 right-0 w-full h-32 md:bg-gradient-to-t from-transparent to-{{ $.Scratch.Get "color" }}/10 dark:to-crust "></div>
 
       <span class="md:fixed mt-6 mx-auto md:mt-0 md:ml-0 md:top-6 md:left-6 relative block logo hover:animate-spin text-center text-6xl w-10 text-{{$.Scratch.Get "color"}}  ">
         {{ if .Parent }}<a href="{{ .Parent.RelPermalink }}" arial-label="{{.Parent.Title}}" alt="{{ .Parent.Title}}">{{ else }}<a href="{{ "/" | relLangURL }}" alt="Get me back to the home" aria-label="Get me back to the home">{{end}}
