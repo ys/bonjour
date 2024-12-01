@@ -1,4 +1,5 @@
 ---
+archived: true
 date: "2021-05-01"
 title: "A thousand tides - zine"
 grid: "es6 / es2 | es3 | es4"
