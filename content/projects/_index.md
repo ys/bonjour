@@ -7,7 +7,7 @@ menu:
     weight: 1
 linktitle: "Projects"
 skip: "cover.png"
-type: "photos"
+type: "projects"
 description: "Capturing other people details"
 ---
 

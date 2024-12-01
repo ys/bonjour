@@ -25,21 +25,7 @@
       </ul>
   </nav>
   {{ end}}
-{{ $current := index (where .RegularPages ".Params.default" true) 0 }}
-{{ if not $current }}
-  {{ range $current := .RegularPages }}
-  <div class="ml-4 md:ml-16 mt-6 mb-16">
-    <h3 class="underline decoration-dotted font-bold my-4  text-xl"><a href="{{ $current.RelPermalink }}">{{ $current.Title }}</a></h3>
-    <div class="mb-10 content-{{  $.Scratch.Get "color" }}">
-      <div  class="post dark:prose-invert prose ">
-        {{.Content}}
-      </div>
-    </div>
-    {{ partial "horizontal_gallery" $current }}
-  </div>
-  {{ end}}
-{{ else }}
-    {{ partial "horizontal_gallery" $current }}
-{{ end }}
+  {{ $current := index (where .RegularPages ".Params.default" true) 0 }}
+  {{ partial "autogrid" $current }}
 
   {{ end }}
