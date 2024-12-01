@@ -25,7 +25,8 @@ We launched an amazing project with Cloé. You should follow [@douarenn](https:/
 ## Photography
 
 Current gear:
-- [Leica M6](/leica-m6) with a summicron 50mm
+- Leica M10-P
+- [Leica M6](/leica-m6)
 - A small Contax T3
 - [Nikonos V](/nikonos-v) with a 35mm
 
