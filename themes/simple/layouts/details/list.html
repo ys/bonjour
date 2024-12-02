@@ -1,0 +1,55 @@
+{{ define "main" }}
+<div class="mb-10 content-{{  $.Scratch.Get "color" }}">
+  <div  class="post dark:prose-invert prose  ">
+    {{.Content}}
+  </div>
+</div>
+{{end}}
+{{ define "full" }}
+  , {{ $paginator := (.Paginate (where (where (where .Site.AllPages "Type" .Type) "Kind" "==" "page") ".Params.archived" "!=" true)  2500) }}
+    {{ range $paginator.Pages.GroupByDate (.Params.groupBy | default "2006") }}
+  <div class="ml-4 md:ml-16 mt-6 mb-16">
+      <header class="flex gap-2 my-4 text-xl items-center">
+        <h2 id="{{.Key}}" class=" font-bold"> {{partial "moon" .}} {{ .Key }}</h2>
+      </header>
+  <div >
+    <div class=" h-96 justify-center flex flex-row relative ">
+<div class=" snap-x snap-proximity overflow-x-auto list-none overflow-y-hidden flex flex-row gap-4">
+      {{ range .Pages }}
+    {{ $images := .Resources.ByType "image" }}
+    {{ $src := $images.GetMatch "cover" }}
+    {{ $src := $images.GetMatch "*feature*" }}
+    {{ $src := cond (ne $src nil) $src ($images.GetMatch "{*cover*,*thumbnail*}") }}
+    {{ $src := cond (ne $src nil) $src (index $images 0) }}
+
+  {{ $xs := "20x" }}
+  {{ $md := "800x" }}
+  {{ $lqip := $src.Resize (printf "%s webp" $xs) }}
+  {{ $small := $src.Resize (printf "%s webp" $md) }}
+  {{ if eq $src.MediaType.SubType "gif" }}
+     {{ $lqip = $src.Resize (printf "%s" $xs) }}
+     {{ $small = $src }}
+   {{ end }}
+     <a href="{{.RelPermalink}}" class="aspect-[{{$src.Width}}/{{$src.Height}}] block h-full cursor-pointer relative group gap-2 flex flex-col">
+       <picture class="snap-center snap-normal  aspect-[{{$src.Width}}/{{$src.Height}}] block relative h-full">
+        <img
+          loading="lazy"
+          style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover"
+          alt="{{ .Description }}"
+          class="rmelative hover:shadow-{{ $.Scratch.Get "color" }}/20 shadow-md hover:shadow-xl   cursor-pointer lazy"
+          src="{{ $lqip.RelPermalink }}"
+          msrc="{{ $lqip.RelPermalink }}"
+          data-src="{{ $small.RelPermalink }}"
+          width="{{ $small.Width }}" height="{{ $small.Height }}"/>
+    </picture>
+          </a>
+      {{ end }}
+    </div>
+    </div>
+    </div>
+    </div>
+  {{ end }}
+  <div class="">
+    {{ partial "pagination.html" . }}
+  </div>
+  {{ end }}

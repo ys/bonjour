@@ -22,10 +22,15 @@ We launched an amazing project with Cloé. You should follow [@douarenn](https:/
 
 ![me and my leica](me.webp "Photo by [Studio Payol](https://studiopayol.com)")
 
+
+This website has so much [more](/more) in it than what you see in the menu. 
+Feel free to browse and see what I am doing [now](/now)
+
 ## Photography
 
 Current gear:
-- [Leica M6](/leica-m6) with a summicron 50mm
+- Leica M10-P
+- [Leica M6](/leica-m6)
 - A small Contax T3
 - [Nikonos V](/nikonos-v) with a 35mm
 
