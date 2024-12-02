@@ -22,6 +22,10 @@ We launched an amazing project with Cloé. You should follow [@douarenn](https:/
 
 ![me and my leica](me.webp "Photo by [Studio Payol](https://studiopayol.com)")
 
+
+This website has so much [more](/more) in it than what you see in the menu. 
+Feel free to browse and see what I am doing [now](/now)
+
 ## Photography
 
 Current gear:

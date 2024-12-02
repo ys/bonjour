@@ -2,9 +2,6 @@
 date: 2024-01-01
 title: "And more..."
 slug: "/more"
-menu:
-  main:
-    weight: 7
 linktitle: "more"
 ---
 
