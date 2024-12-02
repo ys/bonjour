@@ -40,6 +40,7 @@ yaml.each do |liked|
     l.title = liked["generated_title"]
   end
   l.created_at = liked["created_at"]
+  l.category = liked["type"]
   l.url = liked.dig("source", "url")
   l.description = liked["description"]
   l.image = liked.dig("image", "display", "url")

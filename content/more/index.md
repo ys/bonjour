@@ -2,9 +2,6 @@
 date: 2024-01-01
 title: "And more..."
 slug: "/more"
-menu:
-  main:
-    weight: 7
 linktitle: "more"
 ---
 
@@ -14,10 +11,11 @@ This is where you can get the extra bang for your bucks. BTW, if you want to sup
 ## Pages not in the menu
 
 - [Daily](/daily) ⭢ I love to document my life
+- [Projects](/projects) ⭢ Mostly photography, less words
 - [Haikus](/haikus) ⭢ 5 - 7 - 5. Just some french haikus
 - [Books](/books) ⭢ A list per year of all the books I read
 - [Bookmarks](/bookmarks) ⭢ Just stuff I randomly find over the many weird and fun corners of the Internets.
-- [Detail](/detail) ⭢ I used to email a picture per week
+- [Detail](/details) ⭢ I used to email a picture per week
 - [Bonjour](/bonjour) ⭢ Juste des petits mots dans votre boîte mail
 - [Now](/now) ⭢ What I am doing?
 

@@ -8,7 +8,7 @@ seotitle: A bunch of bookmarks - 🔗 Bonjour Yannick
 description: Just stuff I randomly find over the many weird and fun corners of the Internets.  
 grid: true
 extended: true
-groupBy: "Mon, 02 Jan 2006"
+groupBy: "Jan 2006"
 archived: true
 _build:
   render: true
