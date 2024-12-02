@@ -35107,3 +35107,64 @@
   sort: 911431124
   collectionId: 37136905
   parsed: {}
+- _id: 912917331
+  link: https://substack.com/home/post/p-152340290
+  title: Make Art
+  excerpt: All the time and don't care what the others think
+  note: "> I wanted to find a way to take away the permission I felt I needed from
+    the online world ie. Instagram to create art and express myself without having
+    to fit into one of the prescribed parameters."
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9986a3db-a4c0-4a4a-bff6-4fb3bd334463_3387x4910.jpeg
+  media:
+  - link: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fstphoto94.substack.com%2Fapi%2Fv1%2Fpost_preview%2F152340290%2Ftwitter.jpg%3Fversion%3D4
+    type: image
+  - link: https://substackcdn.com/image/fetch/w_512,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F329b1130-9b09-4762-8a9c-53fe31f7ef2c_1800x1215.jpeg
+    type: image
+  - link: https://substackcdn.com/image/fetch/w_512,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25424d7d-be77-4210-a908-244b191b8544_1456x1092.webp
+    type: image
+  - link: https://substackcdn.com/image/fetch/w_512,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F100c9891-474a-45ea-b318-34d5eaf6b152_459x376.png
+    type: image
+  - link: https://substackcdn.com/image/fetch/w_512,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F152248639%2Ffd99d0dc-dcce-4118-9214-af5f6061d844%2Ftranscoded-1732734439.png
+    type: image
+  tags: []
+  removed: false
+  highlights:
+  - text: I wanted to find a way to take away the permission I felt I needed from
+      the online world ie. Instagram to create art and express myself without having
+      to fit into one of the prescribed parameters.
+    note: ''
+    color: yellow
+    created: '2024-12-02T12:44:16.454Z'
+    lastUpdate: '2024-12-02T12:44:51.387Z'
+    creatorRef: 1617030
+    _id: 674daba06f552476431aa1e7
+  - text: If there is a message here then I would say do whatever the fuck you want
+      and try and do it well. I think as a creative who doesn’t want to make stupid
+      videos to post on social media or make things that don’t align with who I am
+      it’s difficult to get recognition and become somewhat of a name in this field.
+    note: ''
+    color: yellow
+    created: '2024-12-02T12:44:51.387Z'
+    lastUpdate: '2024-12-02T12:44:51.387Z'
+    creatorRef: 1617030
+    _id: 674dabc30970f3e6a4fa8f9a
+  created: '2024-12-02T12:44:16.454Z'
+  lastUpdate: '2024-12-02T12:45:16.674Z'
+  domain: substack.com
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 912917331
+  important: true
+  collectionId: -1
+  parsed: {}
