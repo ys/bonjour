@@ -4,9 +4,9 @@ seotitle: "Daily pictures - Yannick Schutz"
 title: "Daily details of a beautiful life"
 seotitle: "Daily details of a beautiful life – Yannick Schutz"
 menu:
-  more:
+  main:
     weight: 1
-linktitle: "🗓️ Daily"
+linktitle: "Point & Shoot"
 year: "2024"
 skip: "cover.png"
 type: "photos"

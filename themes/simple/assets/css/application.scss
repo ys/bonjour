@@ -84,11 +84,8 @@ html{
   decoration-style: dotted;
 }
 
-.main_menu li:not(:last-child):not(:first-child):before {
-  content: ", "
-}
-.main_menu li:last-child:before {
-  content: " & "
+.main_menu li:not(:first-child):before {
+  content: " • "
 }
 :root {
   --gap: 20px;

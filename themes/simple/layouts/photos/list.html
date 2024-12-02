@@ -25,6 +25,7 @@
       </ul>
   </nav>
   {{ end}}
-{{ $current := index (where .RegularPages ".Params.default" true) 0 }}
-{{ partial "autogrid" $current }}
+  {{ $current := index (where .RegularPages ".Params.default" true) 0 }}
+  {{ partial "autogrid" $current }}
+
   {{ end }}
