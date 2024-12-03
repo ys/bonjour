@@ -7,11 +7,11 @@
     },
     {
       "source": "/bonjour",
-      "destination": "https://bonjour.yannickschutz.com",
+      "destination": "https://bonjour.yannickschutz.com"
     },
     {
       "source": "/bonjour/:slug",
-      "destination": "https://bonjour.yannickschutz.com/:slug",
+      "destination": "https://bonjour.yannickschutz.com/:slug"
     }
   ],
   "headers": [
