@@ -35222,3 +35222,35 @@
   sort: 913075396
   collectionId: -1
   parsed: {}
+- _id: 913838714
+  link: https://nora.zone/manifesto.html
+  title: The Website Manifesto
+  excerpt: ''
+  note: You should own your data as much as possible
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fnora.zone%2Fmanifesto.html
+  media: []
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-12-03T21:46:39.065Z'
+  collection:
+    "$ref": collections
+    "$id": 37643117
+    oid: 37643117
+  highlights: []
+  lastUpdate: '2024-12-03T21:46:57.240Z'
+  domain: nora.zone
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 913838714
+  collectionId: 37643117
+  parsed: {}
