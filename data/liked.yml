@@ -35288,3 +35288,33 @@
   sort: 914043877
   collectionId: -1
   parsed: {}
+- _id: 914204317
+  link: https://blog.ayjay.org/substack-vs-indie/
+  title: Substack vs. Indie – The Homebound Symphony
+  excerpt: ''
+  note: 'It is quite a hard dilemma to me recently about where to put my newsletter '
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: ''
+  media: []
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2024-12-04T14:01:46.139Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  lastUpdate: '2024-12-04T14:02:19.036Z'
+  domain: blog.ayjay.org
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 914204317
+  collectionId: -1
+  parsed: {}
