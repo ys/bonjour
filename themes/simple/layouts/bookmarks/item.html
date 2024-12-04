@@ -13,7 +13,7 @@
   <div class="prose-blockquote:border-l-slate-500 prose-blockquote:border-l prose-sm text-sm {{ if not .Content }}text-gray-500{{end}}">
   {{ .Content | default (.Params.description |truncate 100) }}
   </div>
-  <footer class="py-2 font-sans text-xs text-gray-600">
+  <footer class="py-2 font-sans text-xs dark:text-gray-300 text-gray-600">
     <span class="text-{{ index $.Site.Params.categoriesColors .Params.category}}">{{$.Site.Params.categorySymbol}}</span> <a href="{{ .Params.bookmarkOf }}">
     <span class=" font-sans no-underline font-normal text-xs ">{{.Params.domain }}</span>
   </a>
