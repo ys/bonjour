@@ -35318,3 +35318,37 @@
   sort: 914043877
   collectionId: -1
   parsed: {}
+- _id: 914360467
+  link: https://www.interroban.gg/post/how-i-bookmark/
+  title: Luke Mitchell | How I collect & create bookmarks
+  excerpt: How on earth do collect all my bookmarks? It must be a tangled mess of
+    single page applications, nope, it's a tangled mess of DIY stuff that I've built
+    over the years.
+  note: I basically do the same thing using raindrop as a backend for this
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fwww.interroban.gg%2Fpost%2Fhow-i-bookmark%2F
+  media: []
+  tags: []
+  important: true
+  reminder:
+    date: 
+  removed: false
+  created: '2024-12-04T20:02:58.093Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2024-12-04T20:08:45.139Z'
+  domain: interroban.gg
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 914360467
+  collectionId: -1
+  parsed: {}
