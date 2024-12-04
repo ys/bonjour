@@ -1,5 +1,19 @@
 <div class=" py-6 text-gray-700  text-base">
   <div class="container lg:max-w-xl">
-    <div style="min-height: 58px;max-width: 440px;margin: 0 auto;width: 100%"><script src="https://cdn.jsdelivr.net/ghost/signup-form@~0.2/umd/signup-form.min.js" data-button-color="#ffd600" data-button-text-color="#000000" data-site="https://bonjour.yannickschutz.com/" data-locale="fr" async></script></div>
+    <form class="flex flex-col items-start" target="popupwindow" action="https://bonjour.yannickschutz.com/subscription/form" method="post">
+      <label class="bd-email my-6 text-xl decoration-solid {{ with .Get "accent"}}decoration-{{.}}{{else}}decoration-accent{{end}}">
+        {{ .Get "msg" }}
+      </label>
+      <div
+          class="border-0 w-full flex flex-row justify-between gap-4    {{ with .Get "accent"}}border-{{.}} hover:border-{{.}}{{else}}border-accent hover:border-accent{{end}} tranistion duration ease-in-out">
+        <input type="hidden" name="l" checked value="{{ .Get "account" }}" />
+        <input
+            class="bg-rosewater-100 focus:shadow-none focus:ring-0 focus:outline-none focus:ring-offset-0 border-2 rounded-sm {{ with .Get "accent"}}caret-{{.}}  focus:border-{{.}} border-{{.}} hover:border-{{.}}{{else}}focus:border-accent border-accent hover:border-accent{{end}}form-input pl-2 rounded-none appearance-none  w-full py-2 text-gray-700 leading-tight focus:outline-none focus:shadow-outline font-mono"
+          type="email" name="email" id="bd-email" placeholder="💌 your@email.com"/>
+        <input
+            class="font-sans shadow-md hover:shadow-lg rounded-sm {{ with .Get "accent"}}border-{{.}} border-solid bg-{{.}} hover:bg-{{.}}-600 {{else}} bg-accent{{ end}}  dark:text-crust text-white dark:hover:shadow-white-50 hover:shadow-xl transition duration ease-in-out font-bold py-2 appearance-none px-4 outline-none focus:shadow-outline cursor-pointer"
+          type="submit" value="{{ T "subscribe" }}" />
+      </div>
+    </form>
   </div>
 </div>

@@ -5,8 +5,7 @@ emoji: 💌
 description: "Juste des petits mots dans votre boîte mail"
 date: 2020-10-07T12:57:50+02:00
 draft: false
-color: rosewater
-
+color: yellow
 resources:
   - src: "*.webp"
 menu:
@@ -21,7 +20,7 @@ Des choses que j'aime et de sourires sans doute.
 Jamais que des mots, sur un piano, tout ça.
 
 
-{{< letter account="6cb45f77-c915-4e40-a35f-6c63a25f24b1" accent="rosewater" >}}
+{{< letter account="6cb45f77-c915-4e40-a35f-6c63a25f24b1" accent="yellow" >}}
 
 <small>
 * Promis je ne revends pas tes données et je ne te spammerai pas. Je déteste cela
