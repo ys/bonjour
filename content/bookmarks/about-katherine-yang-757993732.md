@@ -8,7 +8,7 @@ domain: kayserifserif.place
 description: Some information about me.
 tags: []
 date: '2024-03-22T08:28:15.819Z'
-highlights: 
+highlights:
 ---
 
 

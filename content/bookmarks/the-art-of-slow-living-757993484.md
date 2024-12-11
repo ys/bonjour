@@ -25,7 +25,7 @@ description: |-
   Peter Mckinnon 25L Backpack: https://amzn.to/3M3Ut9p
 tags: []
 date: '2024-03-22T08:26:15.406Z'
-highlights: 
+highlights:
 ---
 
 

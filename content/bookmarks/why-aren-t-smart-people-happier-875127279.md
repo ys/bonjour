@@ -8,7 +8,7 @@ domain: experimental-history.com
 description: A new way to think about brainpower.
 tags: []
 date: '2024-10-14T07:41:26.311Z'
-highlights: 
+highlights:
 ---
 
 > You’ll spend your whole life trying to solve problems with cleverness when what you really need is wisdom. And you’ll wonder why it never really seems to work.

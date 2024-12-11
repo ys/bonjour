@@ -11,7 +11,7 @@ description: "Playing Noise Rock, Hardcore Punk. Photographer, Toy Machine found
   video parts on Blind’s “Video Days”, Vision’s “Skatevisions” and many more."
 tags: []
 date: '2024-11-12T13:15:09.689Z'
-highlights: 
+highlights:
 ---
 
 Loved to hear the little stories behind each song. Or just where it came to Ed

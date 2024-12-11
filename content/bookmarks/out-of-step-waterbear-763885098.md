@@ -10,7 +10,7 @@ description: Follow the journey of surfers Tom Bing & Finisterre ambassador Sall
   and candid moments, the film explores their v...
 tags: []
 date: '2024-04-03T10:03:15.969Z'
-highlights: 
+highlights:
 ---
 
 > Doing instead of having

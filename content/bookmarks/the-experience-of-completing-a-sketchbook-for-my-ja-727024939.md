@@ -10,7 +10,7 @@ description: Last year I started sketching, and for the first time in my life I 
   a couple of days into the trip at a...
 tags: []
 date: '2024-01-31T22:10:54.767Z'
-highlights: 
+highlights:
 ---
 
 

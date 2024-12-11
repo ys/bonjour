@@ -5,10 +5,10 @@ category: article
 headImage: https://eliselaine.com/wp-content/uploads/2023/06/DSC_9434-scaled.jpg
 title: Vans Duct Tape Invitational headed to Rio de Janeiro - Elise Lainé
 domain: eliselaine.com
-description: 
+description:
 tags: []
 date: '2023-08-10T11:24:12.531Z'
-highlights: 
+highlights:
 ---
 
 
