@@ -9,7 +9,7 @@ description: An ongoing photo series, "Bad Surfers" documents the brutal but som
   fruitful quest to log wave time in an unforgiving corner of the country
 tags: []
 date: '2024-03-10T21:37:15.162Z'
-highlights: 
+highlights:
 ---
 
 

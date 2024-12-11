@@ -10,7 +10,7 @@ description: How on earth do collect all my bookmarks? It must be a tangled mess
   over the years.
 tags: []
 date: '2024-12-04T20:02:58.093Z'
-highlights: 
+highlights:
 ---
 
 I basically do the same thing using raindrop as a backend for this

@@ -5,10 +5,10 @@ category: article
 headImage: https://cdn.arcgis.com/sharing/rest/content/items/f28691f602904888878c3b427aa00e8d/resources/YZmLgVV0GIrfmrFjG6UG1.jpeg?w=400
 title: "(old) A Virtual Road Trip"
 domain: storymaps.arcgis.com
-description: 
+description:
 tags: []
 date: '2023-01-26T19:45:13.909Z'
-highlights: 
+highlights:
 ---
 
 

@@ -5,10 +5,10 @@ category: video
 headImage: https://i.ytimg.com/vi/15jIrWfpBQA/maxresdefault.jpg
 title: 6 Months of Quarantine Self-Portraits on film
 domain: youtube.com
-description: 
+description:
 tags: []
 date: '2023-01-26T19:44:39.569Z'
-highlights: 
+highlights:
 ---
 
 

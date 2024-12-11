@@ -15,7 +15,7 @@ description: "Trevor Gordon and Bryce Baker heat up in J Bay in Mollusk Warm Wet
   Boats coming to a Mollusk near you very soon \U0001F440"
 tags: []
 date: '2023-10-08T18:12:41.261Z'
-highlights: 
+highlights:
 ---
 
 

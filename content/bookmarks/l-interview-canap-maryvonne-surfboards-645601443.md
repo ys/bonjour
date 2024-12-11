@@ -5,10 +5,10 @@ category: video
 headImage: https://i.ytimg.com/vi/MugIoMXhcQ0/hqdefault.jpg
 title: L'interview Canap' - Maryvonne Surfboards
 domain: youtube.com
-description: 
+description:
 tags: []
 date: '2023-01-26T19:51:09.387Z'
-highlights: 
+highlights:
 ---
 
 

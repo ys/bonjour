@@ -9,7 +9,7 @@ description: I was listening to the most recent Vergecast episode last night and
   interview with Josh Miller, CEO of The Browser Company, makers of the ARC …
 tags: []
 date: '2024-02-08T08:53:33.386Z'
-highlights: 
+highlights:
 ---
 
 

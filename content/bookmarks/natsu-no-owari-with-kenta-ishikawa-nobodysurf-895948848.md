@@ -9,7 +9,7 @@ description: Kenta Ishikawa surfing small waves in Shonan. 2min surf video creat
   by Oki Inoue in 2024.
 tags: []
 date: '2024-11-08T13:05:25.328Z'
-highlights: 
+highlights:
 ---
 
 

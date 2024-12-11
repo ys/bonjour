@@ -8,7 +8,7 @@ domain: craigmod.com
 description: Notes on aloneness vs. solitude
 tags: []
 date: '2023-11-09T22:15:43.421Z'
-highlights: 
+highlights:
 ---
 
 

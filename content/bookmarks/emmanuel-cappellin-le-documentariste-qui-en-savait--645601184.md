@@ -6,10 +6,10 @@ headImage: https://img.lemde.fr/2021/09/13/313/0/997/664/1440/960/60/0/7c6078c_1
 title: Emmanuel Cappellin, le documentariste qui en savait trop sur l’avenir de la
   planète
 domain: lemonde.fr
-description: 
+description:
 tags: []
 date: '2023-01-26T19:46:24.447Z'
-highlights: 
+highlights:
 ---
 
 

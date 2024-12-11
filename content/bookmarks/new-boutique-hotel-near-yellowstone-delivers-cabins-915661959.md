@@ -9,7 +9,7 @@ description: What to expect from a 48 hour visit to the new boutique hospitality
   offering easy access to fishing, skiing, and Yellowstone National Park
 tags: []
 date: '2024-12-06T14:14:00.269Z'
-highlights: 
+highlights:
 ---
 
 That kind of place to stay

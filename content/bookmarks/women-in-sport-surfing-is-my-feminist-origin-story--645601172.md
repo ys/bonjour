@@ -6,10 +6,10 @@ headImage: http://static1.squarespace.com/static/57157d427da24f6b3fa395e4/594b21
 title: 'Women in Sport: ‘Surfing Is My Feminist Origin Story (in That I Left for the
   Arts Swiftly, and Remained Angry)’, by Holly Isemonger — The Lifted Brow'
 domain: theliftedbrow.com
-description: 
+description:
 tags: []
 date: '2023-01-26T19:46:16.086Z'
-highlights: 
+highlights:
 ---
 
 

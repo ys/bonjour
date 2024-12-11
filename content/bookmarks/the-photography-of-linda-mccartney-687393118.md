@@ -9,7 +9,7 @@ description: 'November 27, 2023 issue #100 – She was a professional photograph
   she met Paul.'
 tags: []
 date: '2023-12-01T08:10:46.462Z'
-highlights: 
+highlights:
 ---
 
 

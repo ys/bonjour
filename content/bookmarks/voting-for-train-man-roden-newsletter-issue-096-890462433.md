@@ -8,7 +8,7 @@ domain: craigmod.com
 description: Play? Yes, please.
 tags: []
 date: '2024-11-02T08:49:40.289Z'
-highlights: 
+highlights:
 ---
 
 A letter to fun freedom

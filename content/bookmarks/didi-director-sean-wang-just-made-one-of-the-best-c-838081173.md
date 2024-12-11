@@ -9,7 +9,7 @@ domain: monsterchildren.com
 description: Dìdi (弟弟) just slotted itself into our top ten.
 tags: []
 date: '2024-08-19T08:04:42.468Z'
-highlights: 
+highlights:
 ---
 
 > what if I took a movie like Stand By Me and set it in a place that I know and have it star kids who look and talk and felt like me and my friends,

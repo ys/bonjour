@@ -5,10 +5,10 @@ category: video
 headImage: https://i.ytimg.com/vi/weNDbcaiH10/maxresdefault.jpg
 title: Où l'on parle de photo et de mon matos pro !
 domain: youtube.com
-description: 
+description:
 tags: []
 date: '2023-06-28T11:57:02.958Z'
-highlights: 
+highlights:
 ---
 
 

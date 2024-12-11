@@ -10,7 +10,7 @@ description: Contemporary cycling is all about spandex and personal bests. The b
   comfortable bikes, and go easy.
 tags: []
 date: '2024-10-14T07:40:32.567Z'
-highlights: 
+highlights:
 ---
 
 Amazing critic of modern biking. Should we just slow down?

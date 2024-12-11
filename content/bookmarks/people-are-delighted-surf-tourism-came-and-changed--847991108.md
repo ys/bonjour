@@ -8,7 +8,7 @@ domain: climateandboardsports.substack.com
 description: An interview with Jersey-based surfer and filmmaker Rebecca Coley
 tags: []
 date: '2024-09-04T18:49:27.980Z'
-highlights: 
+highlights:
 ---
 
 This definitely resonates with me and the few stuff I read about Imsouane recently. Make sure that your tourism money gets to the locals

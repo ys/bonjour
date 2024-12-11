@@ -26,7 +26,7 @@ description: "Self esteem is defined as the degree to which qualities and charac
   self-esteem. ideas.ted.com. Retrieved from ideas.ted.com/5-ways-to-build-lasting-self-esteem/."
 tags: []
 date: '2024-12-02T16:47:23.351Z'
-highlights: 
+highlights:
 ---
 
 Always good to remember and focus on what matters. Baby steps

@@ -11,7 +11,7 @@ description: Dive into the world of winter surf with dedicated wave chasers from
   perfect wave in freezing temperatures.
 tags: []
 date: '2024-02-14T21:57:17.502Z'
-highlights: 
+highlights:
 ---
 
 

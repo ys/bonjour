@@ -8,7 +8,7 @@ domain: theatlantic.com
 description: What happened after my wife and I removed Wi-Fi from our home
 tags: []
 date: '2023-12-05T20:45:54.776Z'
-highlights: 
+highlights:
 ---
 
 I like you better without the Internet

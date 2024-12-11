@@ -11,7 +11,7 @@ description: |-
   Music Billie Holiday, Solitude
 tags: []
 date: '2024-11-09T13:31:21.454Z'
-highlights: 
+highlights:
 ---
 
 Jazzy music, longboard and super 8

@@ -29,7 +29,7 @@ description: "Sign up for our free surfboard guide for sizing down volume, video
   https://www.tiktok.com/@gosurfbasis\nBasis Facebook https://www.facebook.com/gosurfbasis/"
 tags: []
 date: '2024-07-16T09:27:05.311Z'
-highlights: 
+highlights:
 ---
 
 

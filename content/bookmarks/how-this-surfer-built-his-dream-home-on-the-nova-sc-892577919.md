@@ -9,7 +9,7 @@ description: Enjoy the videos and music you love, upload original content, and s
   it all with friends, family, and the world on YouTube.
 tags: []
 date: '2024-11-04T12:14:21.239Z'
-highlights: 
+highlights:
 ---
 
 DIY and surf, that is the kind of house I do love

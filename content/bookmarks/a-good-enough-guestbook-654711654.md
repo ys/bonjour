@@ -8,7 +8,7 @@ domain: guestbook.goodenough.us
 description: This is a gallery of all the wonderful doodles our little printer received.
 tags: []
 date: '2023-10-01T14:15:59.293Z'
-highlights: 
+highlights:
 ---
 
 

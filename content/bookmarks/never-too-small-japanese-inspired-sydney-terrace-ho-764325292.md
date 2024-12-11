@@ -23,7 +23,7 @@ description: |-
   Music: Rotational Flow & Deep Water by Adi Goldstein from Artlist.io
 tags: []
 date: '2024-04-04T11:40:32.685Z'
-highlights: 
+highlights:
 ---
 
 I always admire such minimalist small japanese inspired homes. I feel like this is where I would live without my second half of me that is the messy one.

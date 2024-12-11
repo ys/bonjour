@@ -21,7 +21,7 @@ description: |-
   #adventure #travel #culture #food
 tags: []
 date: '2024-05-07T11:52:38.153Z'
-highlights: 
+highlights:
 ---
 
 Surf, food and Japan... Need nothing else I guess.

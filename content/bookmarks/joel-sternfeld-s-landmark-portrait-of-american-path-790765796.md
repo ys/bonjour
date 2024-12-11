@@ -9,7 +9,7 @@ description: A new edition of the iconic photographer’s seminal photobook Amer
   Prospects captures late empire like no other.
 tags: []
 date: '2024-05-25T05:23:11.977Z'
-highlights: 
+highlights:
 ---
 
 All of this with a 8x10 … such dedication to complex street photography

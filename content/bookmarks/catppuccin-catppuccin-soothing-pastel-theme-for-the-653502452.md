@@ -9,7 +9,7 @@ description: "\U0001F638 Soothing pastel theme for the high-spirited! Contribute
   catppuccin/catppuccin development by creating an account on GitHub."
 tags: []
 date: '2023-09-28T18:34:12.859Z'
-highlights: 
+highlights:
 ---
 
 Amazing pastel colors
