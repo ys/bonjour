@@ -38,7 +38,7 @@ description: "#FRANKCARTER #FRANKCARTERANDTHERATTLESNAKES\n\n\U0001F1EB\U0001F1F
   \nInstagram FR: https://www.instagram.com/arteconcertfr/ \nInstagram DE: https://www.instagram.com/arteconcertde/"
 tags: []
 date: '2024-09-17T09:24:58.912Z'
-highlights: 
+highlights:
 ---
 
 What a treat!

@@ -17,7 +17,7 @@ description: |-
   https://mollusksurfshop.com/collections/surfboards
 tags: []
 date: '2024-02-12T09:31:28.759Z'
-highlights: 
+highlights:
 ---
 
 

@@ -8,7 +8,7 @@ domain: are.na
 description: Are.na is a platform for connecting ideas and building knowledge.
 tags: []
 date: '2023-09-19T20:14:35.693Z'
-highlights: 
+highlights:
 ---
 
 Our ideal outcome as a company is not becoming the next Facebook (god forbid), it’s becoming the next Nishiyama Onsen Keiunkan, a hot spring hotel in Japan, and one of the world’s oldest businesses (founded in 705 AD).

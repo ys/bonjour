@@ -26,7 +26,7 @@ description: "Comment résister à la vague de la gentrification touristique… 
   \n\nRetrouvez Tracks Instagram : \nhttps://instagram.com/ARTEtracks"
 tags: []
 date: '2024-08-02T11:25:29.245Z'
-highlights: 
+highlights:
 ---
 
 > They destroyed the village, not the wave

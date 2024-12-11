@@ -10,7 +10,7 @@ description: As we introduce Tyshawn II, we present a candid and unfiltered look
   p...
 tags: []
 date: '2024-06-07T11:46:43.871Z'
-highlights: 
+highlights:
 ---
 
 Great to see the story mostly told by his mom! It is such a powerful video

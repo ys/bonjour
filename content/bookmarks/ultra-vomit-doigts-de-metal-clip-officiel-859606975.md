@@ -40,7 +40,7 @@ description: "Premier clip extrait du nouvel album “Le Pouvoir de la Puissance
   doigts de metal dans les airs !"
 tags: []
 date: '2024-09-23T08:49:50.750Z'
-highlights: 
+highlights:
 ---
 
 Des doigts de métal dans le ciel

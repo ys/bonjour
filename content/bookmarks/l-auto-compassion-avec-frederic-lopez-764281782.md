@@ -22,7 +22,7 @@ description: "Pour débuter cette nouvelle saison de podcast, je voulais y invit
   : Mako\n\nUn grand merci au studio FRENCH THEORY pour l'accueil chaleureux."
 tags: []
 date: '2024-04-04T09:10:16.147Z'
-highlights: 
+highlights:
 ---
 
 Self compassion, mindfulness & other topics. Made me smile, made me want to cry.
