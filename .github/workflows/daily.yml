@@ -27,7 +27,7 @@ jobs:
       - name: Convert to webp
         run: |
           for file in $(find content/daily \( -iname "*.jpg" -or -iname "*.jpeg" -or -iname "*.png" -or -iname "*.tif" -or -iname "*.bmp" \)) ; do
-            convert ${file} -format webp ${file%.*}.webp;
+            convert ${file} -quality 80 -resize 1500x1500 -density 72x72 -format webp ${file%.*}.webp;
           done
       - name: Remove jpgs
         run: |
