@@ -35260,6 +35260,51 @@
   sort: 911431124
   collectionId: 37136905
   parsed: {}
+- _id: 919952316
+  link: https://www.youtube.com/watch?v=w-Z86vZZO4g
+  title: OUT OF OFFICE
+  excerpt: "\"OUT OF OFFICE\" is a short film exploring the concept of finding the
+    balancing between work, family life, and the pull for those personal adventures
+    that inspire you - what would you do with 3 days away from work? \nCentered around
+    the Westfjords Way bikepacking route that Chris developed several years ago in
+    Western Iceland, the film follows Burkard as he establishes the first, unsupported
+    individual time trial in the summer of 2024. \n\nSpecial thanks to our partners:
+    \nARI BIKES / MAAP / SCHWALBE TIRES / TAILFIN CYCLING / INFINITY BIKE SEAT / KRIA
+    CYCLES\n\nFilmed by: \n@joelbarger_\n@isleifureli\n\nStory & Edit by: \n@fielderfilms\n@bobcatdavis\n@benweiland\n\nPlease
+    visit: http://www.chrisburkard.com to see more work, and follow here:\r\n\r\nFACEBOOK:
+    http://on.fb.me/1wcwNW5\r\nINSTAGRAM: http://bit.ly/1vpibBX\r\nBLOG: http://bit.ly/1FdCQJ7"
+  note: Self care is important, don't forget to disconnect and get out of here.
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/w-Z86vZZO4g/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/w-Z86vZZO4g/maxresdefault.jpg
+    type: image
+  - link: https://i.ytimg.com/vi/w-Z86vZZO4g/mqdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2024-12-12T08:30:10.075Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2024-12-12T08:30:32.459Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 919952316
+  collectionId: -1
+  parsed: {}
 - _id: 912917331
   link: https://substack.com/home/post/p-152340290
   title: Make Art
@@ -35385,50 +35430,5 @@
     name: bonjouryannick
     email: ''
   sort: 914043877
-  collectionId: -1
-  parsed: {}
-- _id: 919952316
-  link: https://www.youtube.com/watch?v=w-Z86vZZO4g
-  title: OUT OF OFFICE
-  excerpt: "\"OUT OF OFFICE\" is a short film exploring the concept of finding the
-    balancing between work, family life, and the pull for those personal adventures
-    that inspire you - what would you do with 3 days away from work? \nCentered around
-    the Westfjords Way bikepacking route that Chris developed several years ago in
-    Western Iceland, the film follows Burkard as he establishes the first, unsupported
-    individual time trial in the summer of 2024. \n\nSpecial thanks to our partners:
-    \nARI BIKES / MAAP / SCHWALBE TIRES / TAILFIN CYCLING / INFINITY BIKE SEAT / KRIA
-    CYCLES\n\nFilmed by: \n@joelbarger_\n@isleifureli\n\nStory & Edit by: \n@fielderfilms\n@bobcatdavis\n@benweiland\n\nPlease
-    visit: http://www.chrisburkard.com to see more work, and follow here:\r\n\r\nFACEBOOK:
-    http://on.fb.me/1wcwNW5\r\nINSTAGRAM: http://bit.ly/1vpibBX\r\nBLOG: http://bit.ly/1FdCQJ7"
-  note: Self care is important, don't forget to disconnect and get out of here.
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/w-Z86vZZO4g/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/w-Z86vZZO4g/maxresdefault.jpg
-    type: image
-  - link: https://i.ytimg.com/vi/w-Z86vZZO4g/mqdefault.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2024-12-12T08:30:10.075Z'
-  collection:
-    "$ref": collections
-    "$id": -1
-    oid: -1
-  highlights: []
-  lastUpdate: '2024-12-12T08:30:32.459Z'
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 919952316
   collectionId: -1
   parsed: {}
