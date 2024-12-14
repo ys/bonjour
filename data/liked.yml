@@ -35144,40 +35144,37 @@
   sort: 790676190
   collectionId: -1
   parsed: {}
-- _id: 915661959
-  link: https://www.fieldmag.com/articles/yellowstone-peaks-hotel-review-island-park-idaho
-  title: New Boutique Hotel Near Yellowstone Delivers Cabins and Hot Tubs
-  excerpt: What to expect from a 48 hour visit to the new boutique hospitality project
-    offering easy access to fishing, skiing, and Yellowstone National Park
-  note: That kind of place to stay
-  type: article
+- _id: 913838714
+  link: https://nora.zone/manifesto.html
+  title: The Website Manifesto
+  excerpt: ''
+  note: You should own your data as much as possible
+  type: link
   user:
     "$ref": users
     "$id": 1617030
-  cover: https://images.ctfassets.net/r7p9m4b1iqbp/3TIR0DBiPysNx6UBZWb9nS/b6bfd7c32a838c13a2ffd2a751e1f097/Yellowstone-Peaks-Hotel-Review-Danielle-Vilaplana-firepit.jpg?w=1000
-  media:
-  - link: https://images.ctfassets.net/r7p9m4b1iqbp/3TIR0DBiPysNx6UBZWb9nS/b6bfd7c32a838c13a2ffd2a751e1f097/Yellowstone-Peaks-Hotel-Review-Danielle-Vilaplana-firepit.jpg?w=1000
-    type: image
+  cover: https://rdl.ink/render/https%3A%2F%2Fnora.zone%2Fmanifesto.html
+  media: []
   tags: []
   important: true
   reminder:
     date:
   removed: false
-  created: '2024-12-06T14:14:00.269Z'
+  created: '2024-12-03T21:46:39.065Z'
   collection:
     "$ref": collections
-    "$id": -1
-    oid: -1
+    "$id": 37643117
+    oid: 37643117
   highlights: []
-  lastUpdate: '2024-12-06T14:14:08.782Z'
-  domain: fieldmag.com
+  lastUpdate: '2024-12-03T21:46:57.240Z'
+  domain: nora.zone
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 915661959
-  collectionId: -1
+  sort: 913838714
+  collectionId: 37643117
   parsed: {}
 - _id: 915661959
   link: https://www.fieldmag.com/articles/yellowstone-peaks-hotel-review-island-park-idaho
