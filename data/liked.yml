@@ -35179,6 +35179,41 @@
   sort: 915661959
   collectionId: -1
   parsed: {}
+- _id: 915661959
+  link: https://www.fieldmag.com/articles/yellowstone-peaks-hotel-review-island-park-idaho
+  title: New Boutique Hotel Near Yellowstone Delivers Cabins and Hot Tubs
+  excerpt: What to expect from a 48 hour visit to the new boutique hospitality project
+    offering easy access to fishing, skiing, and Yellowstone National Park
+  note: That kind of place to stay
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://images.ctfassets.net/r7p9m4b1iqbp/3TIR0DBiPysNx6UBZWb9nS/b6bfd7c32a838c13a2ffd2a751e1f097/Yellowstone-Peaks-Hotel-Review-Danielle-Vilaplana-firepit.jpg?w=1000
+  media:
+  - link: https://images.ctfassets.net/r7p9m4b1iqbp/3TIR0DBiPysNx6UBZWb9nS/b6bfd7c32a838c13a2ffd2a751e1f097/Yellowstone-Peaks-Hotel-Review-Danielle-Vilaplana-firepit.jpg?w=1000
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2024-12-06T14:14:00.269Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2024-12-06T14:14:08.782Z'
+  domain: fieldmag.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 915661959
+  collectionId: -1
+  parsed: {}
 - _id: 914360467
   link: https://www.interroban.gg/post/how-i-bookmark/
   title: Luke Mitchell | How I collect & create bookmarks
@@ -35211,6 +35246,40 @@
     name: bonjouryannick
     email: ''
   sort: 914360467
+  collectionId: -1
+  parsed: {}
+- _id: 914043877
+  link: https://open.substack.com/pub/stphoto94/p/cool-water?selection=ce1ce0d1-6f9e-4765-b156-0d90b7a60651&r=5cjn3&utm_medium=ios
+  title: Cool Water
+  excerpt: Wave sliding
+  note: "> The silhouettes of people came, passed and vanished like they were never
+    there. Only their footprints and welcome greetings a sign that the beach was comparatively
+    busy"
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fstphoto94.substack.com%2Fapi%2Fv1%2Fpost_selection_preview%2F151782061%2Fce1ce0d1-6f9e-4765-b156-0d90b7a60651.jpg%3Fversion%3D9
+  media:
+  - link: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fstphoto94.substack.com%2Fapi%2Fv1%2Fpost_selection_preview%2F151782061%2Fce1ce0d1-6f9e-4765-b156-0d90b7a60651.jpg%3Fversion%3D9
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2024-12-04T06:40:03.358Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  lastUpdate: '2024-12-04T06:40:12.293Z'
+  domain: open.substack.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 914043877
   collectionId: -1
   parsed: {}
 - _id: 911431124
@@ -35364,72 +35433,6 @@
     email: ''
   sort: 912917331
   important: true
-  collectionId: -1
-  parsed: {}
-- _id: 913838714
-  link: https://nora.zone/manifesto.html
-  title: The Website Manifesto
-  excerpt: ''
-  note: You should own your data as much as possible
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Fnora.zone%2Fmanifesto.html
-  media: []
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2024-12-03T21:46:39.065Z'
-  collection:
-    "$ref": collections
-    "$id": 37643117
-    oid: 37643117
-  highlights: []
-  lastUpdate: '2024-12-03T21:46:57.240Z'
-  domain: nora.zone
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 913838714
-  collectionId: 37643117
-  parsed: {}
-- _id: 914043877
-  link: https://open.substack.com/pub/stphoto94/p/cool-water?selection=ce1ce0d1-6f9e-4765-b156-0d90b7a60651&r=5cjn3&utm_medium=ios
-  title: Cool Water
-  excerpt: Wave sliding
-  note: "> The silhouettes of people came, passed and vanished like they were never
-    there. Only their footprints and welcome greetings a sign that the beach was comparatively
-    busy"
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fstphoto94.substack.com%2Fapi%2Fv1%2Fpost_selection_preview%2F151782061%2Fce1ce0d1-6f9e-4765-b156-0d90b7a60651.jpg%3Fversion%3D9
-  media:
-  - link: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fstphoto94.substack.com%2Fapi%2Fv1%2Fpost_selection_preview%2F151782061%2Fce1ce0d1-6f9e-4765-b156-0d90b7a60651.jpg%3Fversion%3D9
-    type: image
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2024-12-04T06:40:03.358Z'
-  collection:
-    "$ref": collections
-    "$id": -1
-    oid: -1
-  lastUpdate: '2024-12-04T06:40:12.293Z'
-  domain: open.substack.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 914043877
   collectionId: -1
   parsed: {}
 - _id: 920904362
