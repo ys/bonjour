@@ -35543,43 +35543,6 @@
   sort: 925570613
   collectionId: 37136914
   parsed: {}
-- _id: 925571266
-  link: https://www.scienceofsurfing.com/p/ocean-smell
-  title: Why does the ocean smell like ocean?
-  excerpt: The ocean has a distinctive smell, easily recognizable when the wind shifts
-    onshore and you get past the sunscreen-lathered tourists on the beach.
-  note: 'So now you know that when seaweeds get stressed, it smells. '
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff652d604-0f7a-4969-9a0c-4dcadcfc03be_2048x1024.jpeg
-  media:
-  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff652d604-0f7a-4969-9a0c-4dcadcfc03be_2048x1024.jpeg
-    type: image
-  - link: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fscienceofsurfing.substack.com%2Fapi%2Fv1%2Fpost_preview%2F152671851%2Ftwitter.jpg%3Fversion%3D4
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2024-12-20T08:48:53.896Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  lastUpdate: '2024-12-20T08:49:38.100Z'
-  domain: scienceofsurfing.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 925571266
-  collectionId: 37136905
-  parsed: {}
 - _id: 925571935
   link: https://www.monsterchildren.com/articles/rewatch-ten-things-i-hate-with-mike-anderson
   title: 'Rewatch: Ten Things I Hate With Mike Anderson — Monster Children'
@@ -35613,6 +35576,49 @@
     email: ''
   sort: 925571935
   collectionId: 37459360
+  parsed: {}
+- _id: 925588700
+  link: https://www.youtube.com/watch?v=DCTNlh-3hKw
+  title: Using 20,000 matches to make a coffee table
+  excerpt: "Go to https://www.kiwico.com/SIMONE to try your first box of KiwiCo for
+    free!\n\nYou're no match for me, table. Thanks everyone who helped out on this
+    project!\n\nEvan & Katelyn for giving me epoxy advice: https://www.youtube.com/user/EvanAndKatelyn\n\nJenn
+    Schachter for trying out different epoxy combos: https://www.instagram.com/schac_attack/\n\nAnd
+    Jackie Grieff for collaborating with me on this edit! https://www.instagram.com/oxymoronic_misanthrope/\n\n\U0001F447
+    places where I post things \U0001F447\nTWITTER: http://twitter.com/simonegiertz\nFACEBOOK:
+    https://www.facebook.com/simonegiertz/\nINSTAGRAM: https://instagram.com/simonegiertz/\nPATREON:
+    https://www.patreon.com/simonegiertz\nMERCH: https://teespring.com/stores/simone-giertz-store"
+  note: This is kind of nuts and amazing and weird and perfect
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/DCTNlh-3hKw/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/DCTNlh-3hKw/maxresdefault.jpg
+    type: image
+  - link: https://i.ytimg.com/vi/DCTNlh-3hKw/mqdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2024-12-20T09:28:21.835Z'
+  collection:
+    "$ref": collections
+    "$id": 37136914
+    oid: 37136914
+  highlights: []
+  lastUpdate: '2024-12-20T09:28:40.576Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 925588700
+  collectionId: 37136914
   parsed: {}
 - _id: 925572786
   link: https://www.scienceofsurfing.com/p/sharks-nearby
@@ -35651,5 +35657,42 @@
     name: bonjouryannick
     email: ''
   sort: 925572786
+  collectionId: 37136905
+  parsed: {}
+- _id: 925571266
+  link: https://www.scienceofsurfing.com/p/ocean-smell
+  title: Why does the ocean smell like ocean?
+  excerpt: The ocean has a distinctive smell, easily recognizable when the wind shifts
+    onshore and you get past the sunscreen-lathered tourists on the beach.
+  note: 'So now you know that when seaweeds get stressed, it smells. '
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff652d604-0f7a-4969-9a0c-4dcadcfc03be_2048x1024.jpeg
+  media:
+  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff652d604-0f7a-4969-9a0c-4dcadcfc03be_2048x1024.jpeg
+    type: image
+  - link: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fscienceofsurfing.substack.com%2Fapi%2Fv1%2Fpost_preview%2F152671851%2Ftwitter.jpg%3Fversion%3D4
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2024-12-20T08:48:53.896Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2024-12-20T08:49:38.100Z'
+  domain: scienceofsurfing.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 925571266
   collectionId: 37136905
   parsed: {}
