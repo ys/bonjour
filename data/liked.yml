@@ -35507,3 +35507,149 @@
   sort: 920904362
   collectionId: -1
   parsed: {}
+- _id: 925570613
+  link: https://www.youtube.com/watch?v=7vAiloW7phc
+  title: 'NTS: Inside Inventor Simone Giertz’s Small Los Angeles Home, 58sqm/630sqft'
+  excerpt: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  note: "A real life never too small episode. I love it. \n\n> Weird over boring\n>
+    Ugly over boring"
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/7vAiloW7phc/hqdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/7vAiloW7phc/hqdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2024-12-20T08:44:18.994Z'
+  collection:
+    "$ref": collections
+    "$id": 37136914
+    oid: 37136914
+  highlights: []
+  lastUpdate: '2024-12-20T08:44:47.669Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 925570613
+  collectionId: 37136914
+  parsed: {}
+- _id: 925571266
+  link: https://www.scienceofsurfing.com/p/ocean-smell
+  title: Why does the ocean smell like ocean?
+  excerpt: The ocean has a distinctive smell, easily recognizable when the wind shifts
+    onshore and you get past the sunscreen-lathered tourists on the beach.
+  note: 'So now you know that when seaweeds get stressed, it smells. '
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff652d604-0f7a-4969-9a0c-4dcadcfc03be_2048x1024.jpeg
+  media:
+  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff652d604-0f7a-4969-9a0c-4dcadcfc03be_2048x1024.jpeg
+    type: image
+  - link: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fscienceofsurfing.substack.com%2Fapi%2Fv1%2Fpost_preview%2F152671851%2Ftwitter.jpg%3Fversion%3D4
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2024-12-20T08:48:53.896Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2024-12-20T08:49:38.100Z'
+  domain: scienceofsurfing.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 925571266
+  collectionId: 37136905
+  parsed: {}
+- _id: 925571935
+  link: https://www.monsterchildren.com/articles/rewatch-ten-things-i-hate-with-mike-anderson
+  title: 'Rewatch: Ten Things I Hate With Mike Anderson — Monster Children'
+  excerpt: Rewatch the classic for free at MCTV.
+  note: 'Fucking love the idea of 10 things I hate. '
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://static1.squarespace.com/static/6398e5b4b3dd441ead33860a/t/67632566e6ac6875202a5941/1734550893157/Screen+Shot+2024-12-18+at+2.31.39+PM.png?format=1500w
+  media:
+  - link: http://static1.squarespace.com/static/6398e5b4b3dd441ead33860a/t/67632566e6ac6875202a5941/1734550893157/Screen+Shot+2024-12-18+at+2.31.39+PM.png?format=1500w
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2024-12-20T08:53:40.199Z'
+  collection:
+    "$ref": collections
+    "$id": 37459360
+    oid: 37459360
+  highlights: []
+  lastUpdate: '2024-12-20T08:54:07.954Z'
+  domain: monsterchildren.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 925571935
+  collectionId: 37459360
+  parsed: {}
+- _id: 925572786
+  link: https://www.scienceofsurfing.com/p/sharks-nearby
+  title: How often are there sharks near you?
+  excerpt: This of course depends on many factors, but for some spots in San Diego
+    County, a recent study reveals that juvenile white sharks are present about 97%
+    of the time.
+  note: No need to fear the sharks that much I guess. More time to be angry at the
+    SUP folks
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a07a306-5636-42f8-b84d-3b3f217a3ae7_1308x746.png
+  media:
+  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a07a306-5636-42f8-b84d-3b3f217a3ae7_1308x746.png
+    type: image
+  - link: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fscienceofsurfing.substack.com%2Fapi%2Fv1%2Fpost_preview%2F152693578%2Ftwitter.jpg%3Fversion%3D4
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2024-12-20T08:59:13.935Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2024-12-20T08:59:35.108Z'
+  domain: scienceofsurfing.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 925572786
+  collectionId: 37136905
+  parsed: {}
