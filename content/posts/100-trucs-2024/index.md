@@ -100,20 +100,19 @@ date: 2024-12-23
 91. Passer le week-end d'anniversaire de Tom à la cabane
 92. Reprendre le pintail et se rendre compte que j'ai progressé
 93. Enfin parler à une psychologue
-94. Faire du yoga toutes les semaines
+94. Faire du yoga plus souvent
 95. Cuisiner grâce à [Whoogy's](https://www.youtube.com/@Whoogys)
 96. Aller manger au tire bouchon à Carhaix
 97. Voir Cloé sortir tourner ses premières pièces et les cuire dans son four
 98. Aller à ma première réunion parents-élèves avec Tom
-99. Passer un week-end au gîte
-100. Manger des tonnes de clémentines de Corse 🍊
-101. Recevoir un paquet de café de Sable avec une de mes photos dessus
-102. Voir les illuminations de Noël du chateau de Trévarez
-103. Reprendre la méditation 🧘
-104. Faire une première séance d'acupuncture
-105. Voir Louise participer au spectacle de Noël
-106. Préparer un prochain voyage dans les grands parcs
-107. Apprécier le chemin parcouru cette année et curieux du futur ☮︎
+99. Manger des tonnes de clémentines de Corse 🍊
+100. Recevoir un paquet de café de Sable avec une de mes photos dessus
+101. Voir les illuminations de Noël du chateau de Trévarez
+102. Reprendre la méditation 🧘
+103. Faire une première séance d'acupuncture
+104. Voir Louise participer au spectacle de Noël
+105. Préparer un prochain voyage dans les grands parcs
+106. Apprécier le chemin parcouru cette année et curieux du futur ☮︎
 
 Y'en a un peu plus mais je vous le met quand même.
 
