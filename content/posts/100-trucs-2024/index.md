@@ -7,8 +7,6 @@ date: 2024-12-23
 
 ![](cover)
 
-Je vais corriger la numérotation et quelques petits détails de formatage. Voici la liste corrigée :
-
 1. Me lever avant le soleil et aller à l'eau avec l'ami [Grégory](https://gregorymignard.com) 🌊
 2. Jouer aux petits jeux de société de Louise
 3. Marcher le vent dans les oreilles
