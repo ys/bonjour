@@ -1,6 +1,6 @@
 ---
 slug: 56
-date: 2025-12-23 
+date: 2024-12-23 
 title: "56 - le wokisme, la déconnexion et des liens"
 ---
 
