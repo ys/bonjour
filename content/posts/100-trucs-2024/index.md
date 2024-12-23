@@ -49,6 +49,7 @@ date: 2024-12-23
 37. Me refaire tatouer par [Jeanne](https://www.instagram.com/lapislazuli.tattoo/)
 38. Faire des burritos avec Tom 🌯
 39. Les sessions surf au coucher de soleil
+40. Avoir les cheveux plus long que Cloé
 40. Refaire notre chambre et avoir des grands placards magnifiques
 41. Préparer un voyage pour la Californie 
 42. Avoir les incisives belles pour la première fois de ma vie
@@ -60,6 +61,7 @@ date: 2024-12-23
 48. Tester un Canon EOS 33v pour l'argentique en autofocus
 49. Apprendre à pitcher mes projets photos avec [Gladys Tan](https://program.gladys-tan.fr)
 50. Rencontrer plein de photographes qui se posent autant de questions
+50. Les jeudis au cul du foodtruck avec la socca 
 51. Envoyer ma combi d'hiver à réparer #wornwear
 52. Voir Tom devenir un peu plus adolescent
 53. Acheter ma première voiture, une Volvo xc70
