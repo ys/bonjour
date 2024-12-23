@@ -48,7 +48,7 @@ Je vais corriger la numérotation et quelques petits détails de formatage. Voic
 37. Lire tout One Piece après Tom
 38. Passer quelques jours face à la mer à Kersiny
 39. Découvrir St Tugen sous le soleil
-40. Me refaire tatouer par [Jeanne](https://www.instagram.com/lapislazuli.tattoo/)
+40. Me refaire tatouer, cette fois-ci par [Jeanne](https://www.instagram.com/lapislazuli.tattoo/)
 41. Faire des burritos avec Tom 🌯
 42. Les sessions surf au coucher de soleil
 43. Avoir les cheveux plus long que Cloé
