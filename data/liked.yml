@@ -35854,3 +35854,53 @@
   sort: 932999363
   collectionId: -1
   parsed: {}
+- _id: 933274355
+  link: https://www.newyorker.com/culture/infinite-scroll/have-iphone-cameras-become-too-smart
+  title: Have iPhone Cameras Become Too Smart?
+  excerpt: Apple’s newest smartphone models use machine learning to make every image
+    look professionally taken. That doesn’t mean the photos are good.
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://media.newyorker.com/photos/6233b1adbb9e4c8f282d03cd/16:9/w_1280,c_limit/chayka_iphone_social_2.jpg
+  media:
+  - link: https://media.newyorker.com/photos/6233b1adbb9e4c8f282d03cd/16:9/w_1280,c_limit/chayka_iphone_social_2.jpg
+    type: image
+  tags: []
+  highlights:
+  - text: We are all pro photographers now, at the tap of a finger, but that doesn’t
+      mean our photos are good
+    note: ''
+    color: yellow
+    created: '2024-12-30T07:36:28.024Z'
+    lastUpdate: '2024-12-30T07:37:25.109Z'
+    creatorRef: 1617030
+    _id: 67724d809326a2fa82c8f51b
+  - text: the fundamental qualities of new-generation iPhone photographs remain. They
+      are coldly crisp and vaguely inhuman, caught in the uncanny valley where creative
+      expression meets machine learning.
+    note: ''
+    color: yellow
+    created: '2024-12-30T07:37:22.663Z'
+    lastUpdate: '2024-12-30T07:37:25.110Z'
+    creatorRef: 1617030
+    _id: 67724db5b845e073e1247d8d
+  important: true
+  removed: false
+  created: '2024-12-30T07:36:28.024Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  lastUpdate: '2024-12-30T07:37:25.109Z'
+  domain: newyorker.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 933274355
+  collectionId: -1
+  parsed: {}
