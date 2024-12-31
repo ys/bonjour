@@ -35818,42 +35818,6 @@
   important: true
   collectionId: 37136905
   parsed: {}
-- _id: 932999363
-  link: https://substack.com/@tonybutt/p-152314357
-  title: Good for me, Good for the Planet
-  excerpt: The act of riding a wave can generate enormous helpings of joy and happiness.
-  note: The best is when it is good for us and the planet. Stop destroying the ship.
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F100c9891-474a-45ea-b318-34d5eaf6b152_459x376.png
-  media:
-  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F100c9891-474a-45ea-b318-34d5eaf6b152_459x376.png
-    type: image
-  - link: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Ftonybutt.substack.com%2Fapi%2Fv1%2Fpost_preview%2F152314357%2Ftwitter.jpg%3Fversion%3D4
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2024-12-29T20:02:05.849Z'
-  collection:
-    "$ref": collections
-    "$id": -1
-    oid: -1
-  highlights: []
-  lastUpdate: '2024-12-29T20:02:29.820Z'
-  domain: substack.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 932999363
-  collectionId: -1
-  parsed: {}
 - _id: 933274355
   link: https://www.newyorker.com/culture/infinite-scroll/have-iphone-cameras-become-too-smart
   title: Have iPhone Cameras Become Too Smart?
@@ -35902,5 +35866,41 @@
     name: bonjouryannick
     email: ''
   sort: 933274355
+  collectionId: -1
+  parsed: {}
+- _id: 932999363
+  link: https://substack.com/@tonybutt/p-152314357
+  title: Good for me, Good for the Planet
+  excerpt: The act of riding a wave can generate enormous helpings of joy and happiness.
+  note: The best is when it is good for us and the planet. Stop destroying the ship.
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F100c9891-474a-45ea-b318-34d5eaf6b152_459x376.png
+  media:
+  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F100c9891-474a-45ea-b318-34d5eaf6b152_459x376.png
+    type: image
+  - link: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Ftonybutt.substack.com%2Fapi%2Fv1%2Fpost_preview%2F152314357%2Ftwitter.jpg%3Fversion%3D4
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2024-12-29T20:02:05.849Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2024-12-29T20:02:29.820Z'
+  domain: substack.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 932999363
   collectionId: -1
   parsed: {}
