@@ -35904,3 +35904,57 @@
   sort: 932999363
   collectionId: -1
   parsed: {}
+- _id: 935030256
+  link: https://www.youtube.com/watch?v=xJunTbay6Jc
+  title: how to actually improve as a photographer in 2025
+  excerpt: "Let's make the new year count. \U0001F91D\n\nShop with KEH: https://shrsl.com/4m23j\nDAY12–
+    5% off your shop order\nDAY12-SELL– 5% bonus on your quote when you sell your
+    gear\n\nOrder a copy of Surveyor: https://www.mattdayphoto.com/shop/surveyor"
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/xJunTbay6Jc/hqdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/xJunTbay6Jc/maxresdefault.jpg
+    type: image
+  tags: []
+  removed: false
+  highlights:
+  - text: |-
+      2:00
+      2:02
+    note: ''
+    color: yellow
+    created: '2025-01-01T13:25:05.069Z'
+    lastUpdate: '2025-01-01T13:27:09.378Z'
+    creatorRef: 1617030
+    _id: 67754231927db2dbf4bdcc0d
+  - text: |-
+      5:27
+      5:29
+      5:30
+      5:32
+    note: ''
+    color: yellow
+    created: '2025-01-01T13:27:09.378Z'
+    lastUpdate: '2025-01-01T13:27:09.379Z'
+    creatorRef: 1617030
+    _id: 677542adee1e59b9f988dcad
+  created: '2025-01-01T13:25:05.069Z'
+  lastUpdate: '2025-01-01T13:40:10.759Z'
+  domain: youtube.com
+  collection:
+    "$ref": collections
+    "$id": 37459371
+    oid: 37459371
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 935030256
+  important: true
+  collectionId: 37459371
+  parsed: {}
