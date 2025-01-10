@@ -36077,3 +36077,44 @@
   sort: 938887627
   collectionId: 37459360
   parsed: {}
+- _id: 942326161
+  link: https://www.youtube.com/watch?v=GlKSr6KY1IU
+  title: How To Start Platinum Palladium Printing?
+  excerpt: Printing in platinum is an old process that requires both skills and some
+    specific equipment. In this video, Matt goes through everything for you to start
+    pr...
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/GlKSr6KY1IU/hqdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/GlKSr6KY1IU/maxresdefault.jpg
+    type: image
+  tags: []
+  removed: false
+  highlights:
+  - text: How To Start Platinum Palladium Printing?
+    note: ''
+    color: yellow
+    created: '2025-01-10T19:31:46.521Z'
+    lastUpdate: '2025-01-10T19:31:46.521Z'
+    creatorRef: 1617030
+    _id: 678175a2fe8fce4d0436cf84
+  created: '2025-01-10T19:31:46.521Z'
+  lastUpdate: '2025-01-10T19:31:58.227Z'
+  domain: youtube.com
+  collection:
+    "$ref": collections
+    "$id": 37459371
+    oid: 37459371
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 942326161
+  important: true
+  collectionId: 37459371
+  parsed: {}
