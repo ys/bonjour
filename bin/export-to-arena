@@ -13,8 +13,12 @@ existing = YAML.load(File.read("data/synced_to_arena.yml"))
 
 YAML.load(File.read("data/liked.yml")).reverse.each do |i|
   next if existing.include?(i["link"])
-  pp Arena.channel_add_block(1977086, source: i["link"])
-  existing << i["link"]
+  begin
+    pp Arena.channel_add_block(1977086, source: i["link"])
+    existing << i["link"]
+  rescue e
+    pp e
+  end
 end
 
 File.open("data/synced_to_arena.yml", "w") { |file| file.write(YAML.dump(existing)) }
