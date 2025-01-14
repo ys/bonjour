@@ -16,7 +16,7 @@ YAML.load(File.read("data/liked.yml")).reverse.each do |i|
   begin
     pp Arena.channel_add_block(1977086, source: i["link"])
     existing << i["link"]
-  rescue e
+  rescue StandardError => e
     pp e
   end
 end
