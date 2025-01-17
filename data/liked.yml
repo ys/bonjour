@@ -36363,3 +36363,36 @@
   sort: 946877581
   collectionId: 37136905
   parsed: {}
+- _id: 947948153
+  link: https://youtube.com/watch?v=MOEULOSVNK4&si=AwMdT1kJF9B0O0o8
+  title: OK Go - A Stone Only Rolls Downhill (Official Video)
+  excerpt: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  note: "Creativity is good \nThis is crazy"
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/MOEULOSVNK4/hqdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/MOEULOSVNK4/hqdefault.jpg
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2025-01-17T13:54:45.273Z'
+  collection:
+    "$ref": collections
+    "$id": 39748190
+    oid: 39748190
+  lastUpdate: '2025-01-17T13:55:20.231Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 947948153
+  collectionId: 39748190
+  parsed: {}
