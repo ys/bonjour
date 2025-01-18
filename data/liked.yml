@@ -36231,79 +36231,41 @@
   sort: 945692321
   collectionId: 37459371
   parsed: {}
-- _id: 945694717
-  link: https://www.surfersjournal.com/editorial/noseride-obsessive/
-  title: Noseride Obsessive - The Surfers Journal
-  excerpt: 'Noseriding: “The whole thing feels like a cool, sophisticated LSD trip.”'
-  note: An ode to noseride
-  type: link
+- _id: 945683117
+  link: https://stphoto94.substack.com/p/living-creatively
+  title: Living Creatively
+  excerpt: Part two
+  note: Just make stuff
+  type: article
   user:
     "$ref": users
     "$id": 1617030
-  cover: https://media.surfersjournal.com/wp-content/uploads/2024/02/20104003/tatsuo_takei1-2.jpg
+  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9e4a528-5d72-4d1d-9dc2-e6334428c34e_1545x2000.jpeg
   media:
-  - link: https://media.surfersjournal.com/wp-content/uploads/2024/02/20104003/tatsuo_takei1-2.jpg
+  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9e4a528-5d72-4d1d-9dc2-e6334428c34e_1545x2000.jpeg
+    type: image
+  - link: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fstphoto94.substack.com%2Fapi%2Fv1%2Fpost_preview%2F154175644%2Ftwitter.jpg%3Fversion%3D4
     type: image
   tags: []
   important: true
   reminder:
     date:
   removed: false
-  created: '2025-01-14T20:48:03.041Z'
+  created: '2025-01-14T20:12:21.570Z'
   collection:
     "$ref": collections
-    "$id": 37136905
-    oid: 37136905
+    "$id": 37459371
+    oid: 37459371
   highlights: []
-  lastUpdate: '2025-01-14T20:48:11.882Z'
-  domain: surfersjournal.com
+  lastUpdate: '2025-01-14T20:12:51.106Z'
+  domain: stphoto94.substack.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 945694717
-  collectionId: 37136905
-  parsed: {}
-- _id: 945683416
-  link: https://www.simplemagic.ca/doubles-the-state-of-skate-videos/?ref=simple-magic-newsletter&__readwiseLocation=#ghost-comments
-  title: 'Doubles: the state of skate videos'
-  excerpt: A tête-à-tête with Andrew Murrell.
-  note: Love the concept of social media flattening culture... I wanna read Filterworld
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://www.simplemagic.ca/content/images/2025/01/Doubles_Hero.jpg
-  media:
-  - link: https://www.simplemagic.ca/content/images/2025/01/Doubles_Hero.jpg
-    type: image
-  tags: []
-  removed: false
-  highlights:
-  - text: More people seeing something doesn’t make it good or inspiring. It just
-      means they’ve seen it.
-    note: ''
-    color: yellow
-    created: '2025-01-14T20:13:52.542Z'
-    lastUpdate: '2025-01-14T20:13:52.543Z'
-    creatorRef: 1617030
-    _id: 6786c5809b1d09acd61aeb5d
-  created: '2025-01-14T20:13:52.543Z'
-  lastUpdate: '2025-01-14T20:14:42.655Z'
-  domain: simplemagic.ca
-  collection:
-    "$ref": collections
-    "$id": 37459360
-    oid: 37459360
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 945683416
-  important: true
-  collectionId: 37459360
+  sort: 945683117
+  collectionId: 37459371
   parsed: {}
 - _id: 946877581
   link: https://www.youtube.com/watch?v=EWkGYormb34
@@ -36360,38 +36322,39 @@
   sort: 946877581
   collectionId: 37136905
   parsed: {}
-- _id: 947948153
-  link: https://youtube.com/watch?v=MOEULOSVNK4&si=AwMdT1kJF9B0O0o8
-  title: OK Go - A Stone Only Rolls Downhill (Official Video)
-  excerpt: Enjoy the videos and music you love, upload original content, and share
-    it all with friends, family, and the world on YouTube.
-  note: "Creativity is good \nThis is crazy"
-  type: video
+- _id: 945694717
+  link: https://www.surfersjournal.com/editorial/noseride-obsessive/
+  title: Noseride Obsessive - The Surfers Journal
+  excerpt: 'Noseriding: “The whole thing feels like a cool, sophisticated LSD trip.”'
+  note: An ode to noseride
+  type: link
   user:
     "$ref": users
     "$id": 1617030
-  cover: https://i.ytimg.com/vi/MOEULOSVNK4/hqdefault.jpg
+  cover: https://media.surfersjournal.com/wp-content/uploads/2024/02/20104003/tatsuo_takei1-2.jpg
   media:
-  - link: https://i.ytimg.com/vi/MOEULOSVNK4/hqdefault.jpg
+  - link: https://media.surfersjournal.com/wp-content/uploads/2024/02/20104003/tatsuo_takei1-2.jpg
     type: image
   tags: []
-  highlights: []
   important: true
+  reminder:
+    date:
   removed: false
-  created: '2025-01-17T13:54:45.273Z'
+  created: '2025-01-14T20:48:03.041Z'
   collection:
     "$ref": collections
-    "$id": 39748190
-    oid: 39748190
-  lastUpdate: '2025-01-17T13:55:20.231Z'
-  domain: youtube.com
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2025-01-14T20:48:11.882Z'
+  domain: surfersjournal.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 947948153
-  collectionId: 39748190
+  sort: 945694717
+  collectionId: 37136905
   parsed: {}
 - _id: 948139281
   link: https://youtube.com/watch?v=nAr0VW2KXXA&si=FCxDgIWE1uwyWYST
@@ -36425,4 +36388,44 @@
     email: ''
   sort: 948139281
   collectionId: -1
+  parsed: {}
+- _id: 945683416
+  link: https://www.simplemagic.ca/doubles-the-state-of-skate-videos/?ref=simple-magic-newsletter&__readwiseLocation=#ghost-comments
+  title: 'Doubles: the state of skate videos'
+  excerpt: A tête-à-tête with Andrew Murrell.
+  note: Love the concept of social media flattening culture... I wanna read Filterworld
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://www.simplemagic.ca/content/images/2025/01/Doubles_Hero.jpg
+  media:
+  - link: https://www.simplemagic.ca/content/images/2025/01/Doubles_Hero.jpg
+    type: image
+  tags: []
+  removed: false
+  highlights:
+  - text: More people seeing something doesn’t make it good or inspiring. It just
+      means they’ve seen it.
+    note: ''
+    color: yellow
+    created: '2025-01-14T20:13:52.542Z'
+    lastUpdate: '2025-01-14T20:13:52.543Z'
+    creatorRef: 1617030
+    _id: 6786c5809b1d09acd61aeb5d
+  created: '2025-01-14T20:13:52.543Z'
+  lastUpdate: '2025-01-14T20:14:42.655Z'
+  domain: simplemagic.ca
+  collection:
+    "$ref": collections
+    "$id": 37459360
+    oid: 37459360
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 945683416
+  important: true
+  collectionId: 37459360
   parsed: {}
