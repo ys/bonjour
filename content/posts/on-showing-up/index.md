@@ -1,0 +1,16 @@
+---
+date: 2025-01-19
+title: "On showing up, failing and learning"
+---
+
+With Tom, we have been surfing together since our first lesson. Every time he gets in the water, I try to get in too. I love bringing him with me in smaller waves where I don’t have to be thinking about what could happen to him too much. As a dad, I’ll be always thinking about his safety. Once he will be getting there alone, he will do whatever he wants. I will still be worried but that would be his choices. I enjoy sharing waves with him, enjoy seeing him take one to the beach and come back paddling towards me with a huge smile. Those are moments I will cherish for the rest of my life. I hope to continue to share fun waves with him forever. 
+
+Yesterday, it was low tide. Our usual spot when doing dad & son’s session works better at half tide. So we went to another one. A favorite of many, one that I always feared. I am a small waves surfer. It was a bit more engaged than what we are used to. The bigger sets were too big for us but we went anyway. We were with friends knowing this place and caring about our safety too. We can always let the bigger sets pass and take the smaller ones. We walked with our boards passed the rocks. Attach the leash. Time to paddle out.
+
+We wait a moment for the sets to pass so we can easily paddle out. But a set comes by and Tom gets hit by his board. We keep paddling. A bigger set arrives, I get washed out but see him paddling and passing the set. When I come back to him, I see that something is wrong. He is scared. I mean, I won't blame him, I was scared for him too. He is 11 and thinks before he acts. After a quick chat, we decide to paddle back to shore. While paddling back, we try to catch a smaller set but it is a quite intense one that arrives. We get washed back to the shore. We are getting in the rocks zone. Time to walk and be careful. Once on the beach, we pause and talk. 
+
+Now, I see his tears and that breaks me. I am crying inside. But I am proud of him for trying and fighting his fears. I am so proud of him to accept it was too much for him. I tell him I wasn't comfortable there also. I dislike bigger stronger waves. The worst part for me was seeing my fears and knowing Tom might have the same. This was a real bonding moment for us. I saw my fears through him. I spent the next five minutes holding him in my arms.
+
+His coach arrives for a session and tells him that already showing up and going out is brave today. I am so proud of him and am so happy of the way his coach had that positive thinking. I have a lot to learn on how to positively communicate some stuff back to my kids and love to see inspiring people around me.
+
+We get back to the parking lot to change. Time to grab the camera to remember this session. It was one of the shortest of my life but also one of the most intense emotionally. Once dressed up, we enjoy the waves from the parking lot. We chat with our friends, drink some hot tea, eat some cookies and, essentially, have a great time off the water. I am proud of my son for trying and accepting to be vulnerable. We have so much to learn from our kids. I grew up a bit wiser and kinder of that day too. And for that, I will always be thankful to my children.
