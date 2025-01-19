@@ -1,8 +1,10 @@
 ---
 date: 2025-01-10
-title: "Me, myself & surf"
-subtitle: "Late thirty salty hair"
+title: "On becoming a kook"
+subtitle: "Me, myself and surf"
 ---
+
+**First published on [Substack](https://bonjouryannick.substack.com/p/on-becoming-a-kook)**
 
 ![](24x26-0831-26.webp)
 
@@ -21,3 +23,5 @@ I still have a lot to learn. I still am not that good. I guess starting when you
 It is not just a grateful passion; it is often infuriating. But there I go, I keep coming back to the ocean. I would never have thought I would want to organize my life around a sport. But in the end, it is way more than just a sport. I guess it is my life now.
 
 ![](22x36-0609-08.webp)
+
+
