@@ -9,12 +9,15 @@
   {{ if hasPrefix $url "//" }}
     {{ $url = printf "https:%s" $url }}
   {{ end }}
+  {{fmt.Warnf "URL %s" $url}}
   {{ with resources.GetRemote $url }}
     {{ with .Err }}
       {{ warnf "%s" . }}
     {{ else }}
       {{ $src = . }}
     {{ end }}
+  {{ else }}
+    {{ errorf "Unable to get remote resource %q" $url }}
   {{ end }}
 {{ end }}
 
