@@ -1,5 +1,5 @@
 ---
-date: 2025-01-08
+date: 2025-01-22
 title: "Leica M10-P"
 subtitle: "Le plaisir d'un argentique avec un écran"
 slug: "leica-m10p"
@@ -12,13 +12,13 @@ resources:
   - src: "*.webp"
 ---
 
-## Un an déjà
-
 Cela va bientôt faire un an que j'ai repris le numérique. Je ne m'y fait pas encore totalement mais clairement cela à changé ma pratique de l'argentique. Un peu comme un cheat code, j'ai avancé dans ma pratique en pouvant refaire des erreurs. Je me permet plus d'expérimentation depuis que ce boîtier m'a rejoint.
 
 Il m'a suivi dans tous mes voyages de l'année et ne m'a jamais déçu. Je l'ai trimballé au Maroc, sur les côtes atlantiques et en Californie. En combo avec le M6, il est parfait. Une petite pochette peak design dans un tote bag et me voilà avec deux boîtiers et trois objectifs. Je peux jouer les plans larges avec le numérique et rapprochés à l'argentique. Interchanger et avoir mal à l'épaule le soir. Car ces deux briques pèsent leur poids... 
 
 Je peux aussi prendre que le numérique et un point and shoot et c'est le kit ultra léger parfait pour moi. J'y pense d'ailleurs pour le prochain voyage. Histoire de ne pas me détruire les épaules. Car c'est quand même utile comme partie du corps, je trouve. Je ne sais pas si vous avez déjà essayé de vous en passer pendant une journée, mais c'est plutôt compliqué. Cela tient bien les bras en place.
+
+![Un numérique avec des pellicules](cover.webp "Un numérique avec des pellicules")
 
 ## Alors? C'est comment?
 
@@ -41,3 +41,5 @@ Les fichiers sont un plaisir à éditer même si je me prend toujours autant la 
 ## Si tu pouvais conclure, ça serait pas mal
 
 C'est un appareil plutôt agréable à utiliser. Est-ce que tu peux faire les mêmes photos pour moins cher? Sans aucun doute. Même si je trouve que Leica a ce petit je ne sais quoi que les gens détestent entendre venant des propriétaires de Leica. Ce n'est clairement pas un appareil à mettre dans toutes les mains. Il n'est pas forcément fait pour un débutant, ni pour la plupart des photographes qui préfèreront les DSLRs. Je comprend totalement, mais moi j'y ai retrouvé une acceptation du numérique que je ne trouvais pas ailleurs. Pas faute d'avoir essayé comme vous pouvez le lire dans mon article sur la [quête digitale](/digital-quest) (il est en anglais). Parfois, il m'est difficile de choisir entre lui et le M6 pour sortir. Mais je ne regrette jamais lorsque je le prend.
+
+{{< autogrid pattern="YS" >}}
