@@ -36527,3 +36527,38 @@
   important: true
   collectionId: 37459360
   parsed: {}
+- _id: 953119611
+  link: https://www.youtube.com/watch?v=Vd7ssAtckko
+  title: 1 Hour of Smooth 70s-80s Japanese Grooves | City Pop & More
+  excerpt: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  note: An hour of pure joy
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/Vd7ssAtckko/hqdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/Vd7ssAtckko/hqdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-01-23T19:57:15.403Z'
+  collection:
+    "$ref": collections
+    "$id": 39748190
+    oid: 39748190
+  highlights: []
+  lastUpdate: '2025-01-23T19:57:30.913Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 953119611
+  collectionId: 39748190
+  parsed: {}
