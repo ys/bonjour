@@ -1,2 +1,15 @@
 current: true
-books: []
+books:
+  - title: Coyote
+    subtitle: ''
+    author: Sylvain Prudhomme
+    date: '2025-01-24T16:05:21.246399Z'
+    read: null
+    rating: .nan
+    isbn: 270735564X
+    isbn13: '9782707355645'
+    pages: 213
+    cover_url: >-
+      https://books.google.com/books/publisher/content?id=F1odEQAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70O5dUp7JFcfEtAOhYoktwC_xV6kpUghcNh3n-b-SbOAWVnQ2iNEx0Ywp3BM05QkUSpuuL-8ZL_ypmGUbUeZtb-hTL5tt9759mCOBYZocDRuuw6F-2pnGwAzI4E5on1l2L7BYZd&source=gbs_api
+    reading: true
+    url: https://www.italictype.com/api/books/NY4DMn8/
