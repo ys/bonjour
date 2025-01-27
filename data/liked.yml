@@ -22417,41 +22417,6 @@
   important: true
   collectionId: 36308012
   parsed: {}
-- _id: 838094876
-  link: https://oliviamfredricks.com/Open-Source
-  title: Open Source — Olivia Fredricks
-  excerpt: Bookmaking handouts Dowload pdf
-  note: Make some zines they said
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://freight.cargo.site/w/1200/i/16cf5f119a5a15b6ba6f4dbbfa235af32817364d7cfaf0560fa7cd729b9c6e80/CB_Bookmaking-handouts-9.png
-  media:
-  - link: https://freight.cargo.site/w/1200/i/16cf5f119a5a15b6ba6f4dbbfa235af32817364d7cfaf0560fa7cd729b9c6e80/CB_Bookmaking-handouts-9.png
-    type: image
-  tags:
-  - zines
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2024-08-19T09:36:47.402Z'
-  collection:
-    "$ref": collections
-    "$id": 36103677
-    oid: 36103677
-  highlights: []
-  lastUpdate: '2024-08-19T09:37:21.000Z'
-  domain: oliviamfredricks.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 838094876
-  collectionId: 36103677
-  parsed: {}
 - _id: 832188852
   link: https://www.monsterchildren.com/articles/watch-memory-banks-episode-1-with-bella-gilchrist
   title: 'Watch: Memory Banks Episode One With Bella Gilchrist — Monster Children'
@@ -33574,57 +33539,6 @@
   sort: 795984331
   collectionId: 37456469
   parsed: {}
-- _id: 775066459
-  link: https://www.radiusbooks.org/limited-editions/p/barbara-bosworth-the-sea-limited-editions
-  title: 'Barbara Bosworth: The Sea — Radius Books'
-  excerpt: 'Limited Edition:  $250  Edition of 100 Includes (1) signed digital print
-    of your choice of the cover image  Edition 1  (black and white) or  Edition 2  (color),
-    4x6-inch image on 5x7-inch paper each, and a signed copy of the book.     Deluxe
-    Edition : $2000  Edition of 20 Includes (1) signed digital'
-  note: I would love to have that book in my hands
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://static1.squarespace.com/static/5eb95b79c7eb587825c233f6/5eced9afbd69a776fa88c39c/621d8eab2accfb35f094c9c0/1696263696272/Bosworth+Limited+1+Framed.jpg?format=1500w
-  media:
-  - link: http://static1.squarespace.com/static/5eb95b79c7eb587825c233f6/5eced9afbd69a776fa88c39c/621d8eab2accfb35f094c9c0/1696263696272/Bosworth+Limited+1+Framed.jpg?format=1500w
-    type: image
-  - link: https://images.squarespace-cdn.com/content/v1/5eb95b79c7eb587825c233f6/1646155121365-Z79FCE0C0HUXHQ40STY3/Bosworth+Limited+1+Framed.jpg?format=1000w
-    type: image
-  - link: https://images.squarespace-cdn.com/content/v1/5eb95b79c7eb587825c233f6/1646108451464-J9TKMCLVHFEX28JSQV5Q/Bosworth+Limited+1.png?format=2500w
-    type: image
-  - link: https://images.squarespace-cdn.com/content/v1/5eb95b79c7eb587825c233f6/1646155118771-1M33RQKYH5M0SVYGPIVG/Bosworth+Limited+2+Framed.jpg?format=1000w
-    type: image
-  - link: https://images.squarespace-cdn.com/content/v1/5eb95b79c7eb587825c233f6/1646159317113-MF68YMNPDA0Z7A84EKLL/SQ-Bosworth+Limited+1+Framed.jpg?format=1000w
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2024-04-25T11:52:57.460Z'
-  collection:
-    "$ref": collections
-    "$id": 36103677
-    oid: 36103677
-  highlights:
-  - text: 'Barbara Bosworth: The Sea'
-    note: ''
-    created: '2024-04-25T11:52:57.445Z'
-    lastUpdate: '2024-04-25T11:52:57.460Z'
-    creatorRef: 1617030
-    _id: 662a44194f458a61f7f25bd8
-  lastUpdate: '2024-04-25T11:52:58.604Z'
-  domain: radiusbooks.org
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 775066459
-  collectionId: 36103677
-  parsed: {}
 - _id: 859606975
   link: https://www.youtube.com/watch?v=_HtXHReDaTI
   title: Ultra Vomit - DOIGTS DE METAL (Clip Officiel)
@@ -36561,4 +36475,90 @@
     email: ''
   sort: 944531858
   collectionId: -1
+  parsed: {}
+- _id: 838094876
+  link: https://oliviamfredricks.com/Open-Source
+  title: Open Source — Olivia Fredricks
+  excerpt: Bookmaking handouts Dowload pdf
+  note: Make some zines they said
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://freight.cargo.site/w/1200/i/16cf5f119a5a15b6ba6f4dbbfa235af32817364d7cfaf0560fa7cd729b9c6e80/CB_Bookmaking-handouts-9.png
+  media:
+  - link: https://freight.cargo.site/w/1200/i/16cf5f119a5a15b6ba6f4dbbfa235af32817364d7cfaf0560fa7cd729b9c6e80/CB_Bookmaking-handouts-9.png
+    type: image
+  tags:
+  - zines
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2024-08-19T09:36:47.402Z'
+  collection:
+    "$ref": collections
+    "$id": 36103677
+    oid: 36103677
+  highlights: []
+  lastUpdate: '2024-08-19T09:37:21.000Z'
+  domain: oliviamfredricks.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 838094875
+  collectionId: 36103677
+  parsed: {}
+- _id: 775066459
+  link: https://www.radiusbooks.org/limited-editions/p/barbara-bosworth-the-sea-limited-editions
+  title: 'Barbara Bosworth: The Sea — Radius Books'
+  excerpt: 'Limited Edition:  $250  Edition of 100 Includes (1) signed digital print
+    of your choice of the cover image  Edition 1  (black and white) or  Edition 2  (color),
+    4x6-inch image on 5x7-inch paper each, and a signed copy of the book.     Deluxe
+    Edition : $2000  Edition of 20 Includes (1) signed digital'
+  note: I would love to have that book in my hands
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://static1.squarespace.com/static/5eb95b79c7eb587825c233f6/5eced9afbd69a776fa88c39c/621d8eab2accfb35f094c9c0/1696263696272/Bosworth+Limited+1+Framed.jpg?format=1500w
+  media:
+  - link: http://static1.squarespace.com/static/5eb95b79c7eb587825c233f6/5eced9afbd69a776fa88c39c/621d8eab2accfb35f094c9c0/1696263696272/Bosworth+Limited+1+Framed.jpg?format=1500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/5eb95b79c7eb587825c233f6/1646155121365-Z79FCE0C0HUXHQ40STY3/Bosworth+Limited+1+Framed.jpg?format=1000w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/5eb95b79c7eb587825c233f6/1646108451464-J9TKMCLVHFEX28JSQV5Q/Bosworth+Limited+1.png?format=2500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/5eb95b79c7eb587825c233f6/1646155118771-1M33RQKYH5M0SVYGPIVG/Bosworth+Limited+2+Framed.jpg?format=1000w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/5eb95b79c7eb587825c233f6/1646159317113-MF68YMNPDA0Z7A84EKLL/SQ-Bosworth+Limited+1+Framed.jpg?format=1000w
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2024-04-25T11:52:57.460Z'
+  collection:
+    "$ref": collections
+    "$id": 36103677
+    oid: 36103677
+  highlights:
+  - text: 'Barbara Bosworth: The Sea'
+    note: ''
+    created: '2024-04-25T11:52:57.445Z'
+    lastUpdate: '2024-04-25T11:52:57.460Z'
+    creatorRef: 1617030
+    _id: 662a44194f458a61f7f25bd8
+  lastUpdate: '2024-04-25T11:52:58.604Z'
+  domain: radiusbooks.org
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 775066458
+  collectionId: 36103677
   parsed: {}
