@@ -9,6 +9,9 @@ resources:
   - src: card.webp
     name: card
 ---
+
+![](24x39-1030-31.webp)
+
 ✌🏻
 Bonjour,
 
