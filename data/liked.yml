@@ -36562,3 +36562,38 @@
   sort: 775066458
   collectionId: 36103677
   parsed: {}
+- _id: 963477347
+  link: https://www.youtube.com/watch?v=TXyaiPqUWXA
+  title: My honest opinion on the Boox Palma
+  excerpt: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/TXyaiPqUWXA/hqdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/TXyaiPqUWXA/hqdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-02-04T19:30:32.803Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2025-02-04T19:30:34.422Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 963477347
+  collectionId: -1
+  parsed: {}
