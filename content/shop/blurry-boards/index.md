@@ -15,10 +15,6 @@ shipping_rates:
     value: "shr_1QqLMCFaA8Wpl3EphoEPg60w"
   - name: "10€ • Rest of the world"
     value: "shr_1QqLLWFaA8Wpl3EpPPTIAW1F"
-resources:
-  - src: "*.webp"
-  - src: "cover.webp"
-    name: "card"
 ---
 
 *Limited edition of 5. Signed and numbered.*

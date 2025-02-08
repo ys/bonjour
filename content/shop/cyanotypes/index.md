@@ -21,9 +21,6 @@ price_ids:
     value: "price_1QqLJMFaA8Wpl3EpyvknwpUO"
   - name: "25€ • Large (A4)"
     value: "price_1QqLJhFaA8Wpl3Epu7eMxIcj"
-resources:
-  - src: "*.webm"
-  - src: "*.webp"
 ---
 
 Those cyanotypes are all unique. 

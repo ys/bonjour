@@ -8,12 +8,6 @@ emoji: 📷
 currency: "EUR"
 date: "2025-02-07"
 price_id: "price_1QpFh4FaA8Wpl3EpE2iVA9Ex"
-resources:
-  - src: "*.webp"
-  - src: "cover.webp"
-    name: "card"
-  - src: "cover.webp"
-    name: "cover"
 shipping_rates:
   - name: "Free • France"
     value: "shr_1QqLLpFaA8Wpl3EpTYC2CeEX"
