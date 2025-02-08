@@ -1,0 +1,33 @@
+---
+title: "Cyanotypes"
+subtitle: "Various prints, various sizes"
+pricetag: "From 7€"
+grid: "cover / small | medium | large"
+date: 2025-02-08
+price: "7.00"
+currency: "EUR"
+shipping_rates:
+  - name: "Free • France"
+    value: "shr_1QqLLpFaA8Wpl3EpTYC2CeEX"
+  - name: "5€ • Europe"
+    value: "shr_1QqLMCFaA8Wpl3EphoEPg60w"
+  - name: "10€ • Rest of the world"
+    value: "shr_1QqLLWFaA8Wpl3EpPPTIAW1F"
+
+price_ids:
+  - name: "7€ • Small"
+    value: "price_1QqLIrFaA8Wpl3EpiVXisVTO"
+  - name: "15€ • Medium"
+    value: "price_1QqLJMFaA8Wpl3EpyvknwpUO"
+  - name: "25€ • Large"
+    value: "price_1QqLJhFaA8Wpl3Epu7eMxIcj"
+resources:
+  - src: "*.webm"
+  - src: "*.webp"
+---
+
+Those cyanotypes are all unique. 
+I might reprint some but there will always be slight variations.
+
+*Price Small: 7€ • Medium: 15€ • Large: 25€*
+

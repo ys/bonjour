@@ -8,6 +8,13 @@ emoji: 📷
 currency: "EUR"
 date: "2025-02-07"
 price_id: "price_1QpFuvFaA8Wpl3EpuIpSB9VC"
+shipping_rates:
+  - name: "Free • France"
+    value: "shr_1QqLLpFaA8Wpl3EpTYC2CeEX"
+  - name: "5€ • Europe"
+    value: "shr_1QqLMCFaA8Wpl3EphoEPg60w"
+  - name: "10€ • Rest of the world"
+    value: "shr_1QqLLWFaA8Wpl3EpPPTIAW1F"
 ---
 Limited edition of 5. Signed and numbered.
 

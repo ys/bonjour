@@ -42,13 +42,22 @@
       <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
       <form action="" class="mt-4 dark:prose" method="post" id="stripe-form{{ if .Params.soldout }}-nope{{ end }}">
         {{ if .Params.price_ids }}
+        <label class="prose dark:prose-invert" for="price_id">Choose:</label>
         <select name="price_id">
         {{ range .Params.price_ids }}
-        <option value="{{.value}}" >{{.name}}</option>
+          <option value="{{.value}}" >{{.name}}</option>
         {{ end }}
         </select>
         {{ else }}
           <input type="hidden" name="price_id" value="{{.Params.price_id}}" />
+        {{ end }}
+        {{ if .Params.shipping_rates }}
+        <label class="prose dark:prose-invert" for="shipping_rate">Shipping:</label>
+        <select name="shipping_rate">
+        {{ range .Params.shipping_rates }}
+          <option value="{{.value}}" >{{.name}}</option>
+        {{ end }}
+        </select>
         {{ end }}
         <button
           onclick="this.querySelector('svg').classList.toggle('hidden');this.querySelector('span').classList.toggle('hidden');"
