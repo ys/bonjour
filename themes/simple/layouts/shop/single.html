@@ -58,6 +58,8 @@
           <option value="{{.value}}" >{{.name}}</option>
         {{ end }}
         </select>
+        {{ else }}
+          <input type="hidden" name="price_id" value="{{.Site.Params.shop.default_shipping_rate}}" />
         {{ end }}
         <button
           onclick="this.querySelector('svg').classList.toggle('hidden');this.querySelector('span').classList.toggle('hidden');"
