@@ -15,11 +15,11 @@ shipping_rates:
     value: "shr_1QqLLWFaA8Wpl3EpPPTIAW1F"
 
 price_ids:
-  - name: "7€ • Small"
+  - name: "7€ • Small (A6)"
     value: "price_1QqLIrFaA8Wpl3EpiVXisVTO"
-  - name: "15€ • Medium"
+  - name: "15€ • Medium (A5)"
     value: "price_1QqLJMFaA8Wpl3EpyvknwpUO"
-  - name: "25€ • Large"
+  - name: "25€ • Large (A4)"
     value: "price_1QqLJhFaA8Wpl3Epu7eMxIcj"
 resources:
   - src: "*.webm"
