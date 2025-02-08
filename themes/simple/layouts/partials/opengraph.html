@@ -7,7 +7,10 @@
 {{ with $card }}
 <meta property="og:image" content="{{ .Permalink }}"/>
 {{ else }}
-<meta property="og:image" content="{{ $.Site.Params.ogURL }}/api/og?{{ (querify "title" .Title "subtitle" (.Params.subtitle | default "") "description" (.Description | default "") "color" ($.Scratch.Get "color") )}} "/>
+{{- $cover := $images.GetMatch "cover*" -}}
+{{ with $cover }}
+<meta property="og:image" content="{{ .Permalink }}"/>
+{{ end }}
 {{ end }}
 
 {{- if .IsPage }}

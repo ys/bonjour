@@ -15,10 +15,18 @@ shipping_rates:
     value: "shr_1QqLMCFaA8Wpl3EphoEPg60w"
   - name: "10€ • Rest of the world"
     value: "shr_1QqLLWFaA8Wpl3EpPPTIAW1F"
+resources:
+  - src: "*.webp"
+  - src: "cover.webp"
+    name: "card"
 ---
-Limited edition of 5. Signed and numbered.
 
-*50€*
+*Limited edition of 5. Signed and numbered.*
 
-- Print size of 20x30cm. Printed on [Hahnemühle Fine Art Bamboo](https://www.hahnemuehle.com/fr/digital-fineart/les-papiers-a-jet-dencre-fineart/natural-line/p/Product/show/202/1036.html) 290g/m²
-- 90% bambou' fibers, 10% cotton
+<p class="text-xs">
+Printed on <a href="https://www.hahnemuehle.com/fr/digital-fineart/les-papiers-a-jet-dencre-fineart/natural-line/p/Product/show/202/1036.html" >Hahnemühle Fine Art Bamboo</a>. I personally love the texture of that paper. And it is also a greener alternative.
+</p>
+
+| Price | Size |
+|:---:|:---:|
+| 50€ | 20x30 cm |
