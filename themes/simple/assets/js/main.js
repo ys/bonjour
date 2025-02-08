@@ -47,6 +47,7 @@ function handleFormSubmission(event) {
 
     data = {
       price_id: form.get('price_id'),
+      shipping_rate: form.get('shipping_rate'),
       slug: window.location.pathname
     };
 
