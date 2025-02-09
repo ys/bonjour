@@ -29,6 +29,10 @@ This set mostly is about California.
 With a few exceptions.
 
 
+*Send me an email to [hello@yannickschutz.com](mailto:hello@yannickschutz.com) to tell me which one you want.*  
+*We will figure it out if that one is missing.*
+
+
 | Small | Medium | Large |
 |:---:|:---:|:---:|
 | 7€ | 15€ | 25€ |
