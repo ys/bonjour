@@ -1,4 +1,5 @@
 ---
+archived: true
 color: sky
 title: "Gwidel Log Fest"
 subtitle: "Emgav longboard dre bedadenn"

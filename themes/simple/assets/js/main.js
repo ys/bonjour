@@ -42,27 +42,42 @@ document.addEventListener("DOMContentLoaded", function () {
 })
 
 function handleFormSubmission(event) {
-    event.preventDefault();
-    form = new FormData(event.target);
+  event.preventDefault();
 
-    data = {
-      price_id: form.get('price_id'),
-      slug: window.location.pathname
-    };
+  var htmlForm = document.getElementById('stripe-form');
+  if (htmlForm.checkValidity() == false) {
+    var list = htmlForm.querySelectorAll(':invalid');
+    for (var item of list) {
+      item.focus();
+    }
+    return null;
+  }
 
-    fetch('/api/checkout', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(data),
-    }).then( res => res.json() )
-      .then( response => {
-        stripe = Stripe(response.publishableKey);
-        stripe.redirectToCheckout({sessionId: response.sessionId});
-      }).then( res => {
-        if (res.error()) {
-       console.error(res.error());
-        }
-      });
+  var submit = document.getElementById('checkout-button')
+  submit.querySelector('svg').classList.toggle('hidden')
+  submit.querySelector('span').classList.toggle('hidden')
+
+  form = new FormData(event.target);
+
+  data = {
+    price_id: form.get('price_id'),
+    shipping_rate: form.get('shipping_rate'),
+    slug: window.location.pathname
+  };
+
+  fetch('/api/checkout', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(data),
+  }).then( res => res.json() )
+    .then( response => {
+      stripe = Stripe(response.publishableKey);
+      stripe.redirectToCheckout({sessionId: response.sessionId});
+    }).then( res => {
+      if (res.error()) {
+        console.error(res.error());
+      }
+    });
 
 }
 

@@ -41,17 +41,32 @@
     {{ if .Params.price }}
       <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
       <form action="" class="mt-4 dark:prose" method="post" id="stripe-form{{ if .Params.soldout }}-nope{{ end }}">
+        <div class="flex justify-between">
         {{ if .Params.price_ids }}
-        <select name="price_id">
+        <select required name="price_id">
+          <option selected="selected" disabled="disabled" value="">Select an option</option>
         {{ range .Params.price_ids }}
-        <option value="{{.value}}" >{{.name}}</option>
+          <option value="{{.value}}" >{{.name}}</option>
         {{ end }}
         </select>
         {{ else }}
           <input type="hidden" name="price_id" value="{{.Params.price_id}}" />
         {{ end }}
+        {{ if .Params.shipping_rates }}
+          <div>
+            <label class="prose dark:prose-invert" for="shipping_rate">Shipping:</label>
+            <select required name="shipping_rate">
+              <option selected="selected" disabled="disabled" value="">Pick a shipping destination</option>
+            {{ range .Params.shipping_rates }}
+              <option value="{{.value}}" >{{.name}}</option>
+            {{ end }}
+            </select>
+            {{ else }}
+              <input type="hidden" name="price_id" value="{{.Site.Params.shop.default_shipping_rate}}" />
+            {{ end }}
+          </div>
+        </div>
         <button
-          onclick="this.querySelector('svg').classList.toggle('hidden');this.querySelector('span').classList.toggle('hidden');"
           class="font-sans w-full mt-4 {{ if .Params.soldout }} bg-gray-300 line-through{{ else}}bg-{{$.Scratch.Get "color"}}{{ end}} hover:drop-shadow-xl rounded-sm transition duration-500 ease-in-out text-white font-bold py-2 m-0 appearance-none px-4 cursor-pointer"
           id="checkout-button"
           type="submit"
