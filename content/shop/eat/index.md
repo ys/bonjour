@@ -25,6 +25,8 @@ Come back another time to find the new dinosaurs’ outfit.
 
 *Limited edition of 5. Signed and numbered.*
 
+**Frame not included**
+
 <p class="text-xs">
 Printed on <a href="https://www.hahnemuehle.com/fr/digital-fineart/les-papiers-a-jet-dencre-fineart/natural-line/p/Product/show/202/1036.html" >Hahnemühle Fine Art Bamboo</a>. I personally love the texture of that paper. And it is also a greener alternative.
 </p>
