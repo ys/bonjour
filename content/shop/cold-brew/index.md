@@ -16,6 +16,14 @@ shipping_rates:
   - name: "10€ • Rest of the world"
     value: "shr_1QqLLWFaA8Wpl3EpPPTIAW1F"
 ---
+
+A small coastal town.  
+The only supermarket around.  
+We love the vibe supermarkets have in other countries.  
+Not talking about Walmarts and others.  
+Those little independents shops.  
+This one was in Cambria.  
+
 *Limited edition of 5. Signed and numbered.*
 
 <p class="text-xs">

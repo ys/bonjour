@@ -24,7 +24,11 @@ price_ids:
 ---
 
 Those cyanotypes are all unique. 
-I might reprint some but there will always be slight variations.
+I might reprint some but there will always be slight variations.  
+This set mostly is about California.  
+With a few exceptions.
 
-*Price Small: 7€ • Medium: 15€ • Large: 25€*
 
+| Small | Medium | Large |
+|:---:|:---:|:---:|
+| 7€ | 15€ | 25€ |

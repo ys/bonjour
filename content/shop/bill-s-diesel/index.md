@@ -17,9 +17,11 @@ shipping_rates:
     value: "shr_1QqLLWFaA8Wpl3EpPPTIAW1F"
 
 ---
-Taken in the middle of the Joshua Tree desert.  
-I noticed that old garage and had to stop.
 
+Taken in the middle of the Joshua Tree desert.   
+I noticed that old garage and had to stop.  
+It was right before our departure.  
+Early morning shots are my favorites on the road.
 
 *Limited edition of 5. Signed and numbered.*
 

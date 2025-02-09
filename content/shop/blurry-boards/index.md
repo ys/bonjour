@@ -17,6 +17,11 @@ shipping_rates:
     value: "shr_1QqLLWFaA8Wpl3EpPPTIAW1F"
 ---
 
+Stopping by surf shops in California is a must for me.   
+I love to look at boards aligned.  
+Sometimes, I miss the focus.  
+Like this time at Mollusk.
+
 *Limited edition of 5. Signed and numbered.*
 
 <p class="text-xs">

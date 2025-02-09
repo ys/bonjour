@@ -16,6 +16,13 @@ shipping_rates:
   - name: "10€ • Rest of the world"
     value: "shr_1QqLLWFaA8Wpl3EpPPTIAW1F"
 ---
+
+It was our first time in San Onofre.  
+The vibe of that parking lot facing the ocean.  
+I was without a board.  
+I need to come back and surf here.  
+The universe was telling me something.
+
 *Limited edition of 5. Signed and numbered.*
 
 <p class="text-xs">

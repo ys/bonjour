@@ -16,6 +16,12 @@ shipping_rates:
   - name: "10€ • Rest of the world"
     value: "shr_1QqLLWFaA8Wpl3EpPPTIAW1F"
 ---
+
+Pausing on the road to Costa Mesa.  
+I had to quickly grab the camera.  
+That scene was a perfect moment.  
+Every road trip is full of those.
+
 *Limited edition of 5. Signed and numbered.*
 
 <p class="text-xs">

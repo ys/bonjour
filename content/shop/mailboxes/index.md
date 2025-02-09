@@ -16,6 +16,14 @@ shipping_rates:
   - name: "10€ • Rest of the world"
     value: "shr_1QqLLWFaA8Wpl3EpPPTIAW1F"
 ---
+
+All our time in the desert, I was on the lookout for mailboxes.  
+It represents the road trip classic moment to me.  
+I had to find the right set.  
+I parked the car cross street,  
+Made sure I was safe.  
+And snapped a few around those mailboxes.  
+
 *Limited edition of 5. Signed and numbered.*
 
 <p class="text-xs">

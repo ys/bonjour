@@ -16,6 +16,14 @@ shipping_rates:
   - name: "10€ • Rest of the world"
     value: "shr_1QqLLWFaA8Wpl3EpPPTIAW1F"
 ---
+
+Sometimes, you feel like the universe is trying to tell you something.  
+Sometimes, you know exactly what it is trying to tell.  
+Get that holy surfboard and go enjoy the waves.  
+Pausing at Daydream, get an avocado toast.  
+And maybe a new board.  
+But also look at that light.
+
 *Limited edition of 5. Signed and numbered.*
 
 <p class="text-xs">
