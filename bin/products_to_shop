@@ -1,0 +1,51 @@
+#!/usr/bin/env ruby
+require "rubygems"
+require "bundler/setup"
+require "json"
+require "yaml"
+require "active_support/all"
+Bundler.require(:default)
+Dotenv.load
+require "pp"
+
+
+Product = Data.define(:name, :images, :description, :price_id) do
+  def slug
+    name.parameterize
+  end
+
+  def index
+    <<~MSG
+---
+title: "#{name}"
+grid: "cover"
+subtitle: "50€"
+price: "50.00"
+pricetag: "50€"
+emoji: 📷
+currency: "EUR"
+date: "#{DateTime.current.strftime("%Y-%m-%d")}"
+price_id: "#{price_id}"
+---
+Limited edition of 5. Signed and numbered.
+
+*50€*
+
+- Print size of 20x30cm. Printed on [Hahnemühle Fine Art Bamboo](https://www.hahnemuehle.com/fr/digital-fineart/les-papiers-a-jet-dencre-fineart/natural-line/p/Product/show/202/1036.html) 290g/m²
+- 90% bambou' fibers, 10% cotton
+    MSG
+  end
+end
+
+JSON.parse(File.read("data/stripe.json"))["products"].each do |p|
+  p = Product.new(
+    name: p["name"],
+    images: p["images"],
+    description: p["description"],
+    price_id: p["price_id"],
+  )
+  `mkdir content/shop/#{p.slug}`
+  File.write("content/shop/#{p.slug}/index.md", p.index)
+  `wget -O content/shop/#{p.slug}/cover.jpg #{p.images[0]}`
+end
+

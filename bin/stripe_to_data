@@ -1,0 +1,3 @@
+#!/bin/zsh
+
+stripe prices list --live --limit 20 -d "expand[0]=data.product" | jq '{products: [ .data[] | select(.product.description != null) | {price_id: .id, images: .product.images, name: .product.name, description: .product.description} ]}' > data/stripe.json
