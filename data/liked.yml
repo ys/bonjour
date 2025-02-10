@@ -36562,6 +36562,40 @@
   sort: 775066458
   collectionId: 36103677
   parsed: {}
+- _id: 968455361
+  link: https://youtube.com/watch?v=Pkr5A_UZElE&si=oot_xGYnzzTkE_q5
+  title: SURF & CAMPING - Brittany in Winter Vanagon Edition
+  excerpt: Weekend by the coast, in the fresh, damp January air of French Brittany.
+    I wanted to try out my new Fujifilm XT5 for the first time, and make a little
+    raw vi...
+  note: De la Bretagne et du T3
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/Pkr5A_UZElE/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/Pkr5A_UZElE/maxresdefault.jpg
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2025-02-10T13:07:55.476Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  lastUpdate: '2025-02-10T13:08:07.794Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 968455361
+  collectionId: -1
+  parsed: {}
 - _id: 963477347
   link: https://www.youtube.com/watch?v=TXyaiPqUWXA
   title: My honest opinion on the Boox Palma
@@ -36595,39 +36629,5 @@
     name: bonjouryannick
     email: ''
   sort: 963477347
-  collectionId: -1
-  parsed: {}
-- _id: 968455361
-  link: https://youtube.com/watch?v=Pkr5A_UZElE&si=oot_xGYnzzTkE_q5
-  title: SURF & CAMPING - Brittany in Winter Vanagon Edition
-  excerpt: Weekend by the coast, in the fresh, damp January air of French Brittany.
-    I wanted to try out my new Fujifilm XT5 for the first time, and make a little
-    raw vi...
-  note: De la Bretagne et du T3
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/Pkr5A_UZElE/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/Pkr5A_UZElE/maxresdefault.jpg
-    type: image
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2025-02-10T13:07:55.476Z'
-  collection:
-    "$ref": collections
-    "$id": -1
-    oid: -1
-  lastUpdate: '2025-02-10T13:08:07.794Z'
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 968455361
   collectionId: -1
   parsed: {}
