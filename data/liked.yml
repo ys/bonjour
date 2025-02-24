@@ -36631,3 +36631,40 @@
   sort: 963477347
   collectionId: -1
   parsed: {}
+- _id: 978382904
+  link: https://www.youtube.com/watch?v=hywUe8GHbxc
+  title: Chromance Vol II - Mathieu Marechal
+  excerpt: ''
+  note: |-
+    > Une bonne session, ça peut juste être une lumière.
+
+    Love it
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/hywUe8GHbxc/hqdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/hywUe8GHbxc/hqdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-02-24T09:29:47.841Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2025-02-24T09:30:08.808Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 978382904
+  collectionId: 37136905
+  parsed: {}
