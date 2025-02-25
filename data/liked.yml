@@ -28735,1028 +28735,704 @@
   important: true
   collectionId: 37456415
   parsed: {}
-- _id: 794031241
-  link: https://open.spotify.com/episode/6F1eUnonaI2GVPJ3s2lMVz?si=KHIofiKZTX2tP6Wkxn1vuQ&nd=1&dlsi=26291b7aa35348b2
-  title: '095 Apprendre aux enfants avec les éditions Chocolatine'
-  excerpt: 'Listen to this episode from Apprenti Surfeur - débuter en surf on Spotify.
-    Je reçois Florence Delcloy, fondatrice des éditions chocolatine. On discute de
-    ses livres pour enfants, liés à l’océan et à la culture surf. Elle nous donne
-    aussi tous ses bons conseils pour apprendre aux enfants à surfer.Son site Internet:
-    www.editionschocolatine.comN''oublie pas de t''abonner, tu trouveras aussi des
-    articles complets sur le site https://apprentisurfeur.com et notamment le guide
-    gratuit pour apprendre et améliorer ton take off https://apprentisurfeur.com/guide.Si
-    tu souhaites échanger avec d''autres apprenti surfeurs, rejoins le groupe Facebook
-    https://apprentisurfeur.com/groupe.Tu peux également me suivre sur Instagram @apprenti_surfeur'
-  note: Apprendre le surf et l'eau aux enfants. Chouette écoute! Hate de lire les
-    livres!
-  type: audio
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.scdn.co/image/ab67656300005f1fc23ada5d55c8b7e022952bc2
-  media:
-  - link: https://i.scdn.co/image/ab67656300005f1fc23ada5d55c8b7e022952bc2
-    type: image
-  - link: https://i.scdn.co/image/ab6765630000ba8ac23ada5d55c8b7e022952bc2
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2024-05-31T10:08:25.513Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  lastUpdate: '2024-05-31T10:09:07.998Z'
-  domain: open.spotify.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 794031240
-  collectionId: 37136905
-  parsed: {}
-- _id: 790485451
-  link: https://www.returntozerofilm.com/
-  title: Return to Zero
+- _id: 645601145
+  link: https://finisterre.com/blogs/broadcast/peace-found-in-saltwater
   excerpt: ''
-  note: |-
-    I just watched this surf movie and loved the vibe. The quotes in it are quite beautiful too and just the 16mm film !
-
-    > All is Impermanent!
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://static1.squarespace.com/static/634241a4f75efe54e6481116/t/65f4565b4fbe0f67efc5d884/1710511707641/Screenshot+2024-03-15+at+7.08.05+AM.png?format=1500w
-  media:
-  - link: http://static1.squarespace.com/static/634241a4f75efe54e6481116/t/65f4565b4fbe0f67efc5d884/1710511707641/Screenshot+2024-03-15+at+7.08.05+AM.png?format=1500w
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2024-05-24T11:50:58.347Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  lastUpdate: '2024-05-24T11:51:51.741Z'
-  domain: returntozerofilm.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 790485450
-  collectionId: 37136905
-  parsed: {}
-- _id: 770852703
-  link: https://indoek.com/article/surf-shacks-097-jim-ganzer/
-  title: Surf Shacks 097 – Jim Ganzer – Indoek
-  excerpt: ''
-  note: |-
-    This is just too beautiful!
-    I love the record collection and all the art everywhere.
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://indoek.com/wp-content/uploads/2024/04/Indoek-Surf-Shacks-Jim-Ganzer-Malibu-CA-Matt-Titone-13.jpg
-  media:
-  - link: https://indoek.com/wp-content/uploads/2024/04/Indoek-Surf-Shacks-Jim-Ganzer-Malibu-CA-Matt-Titone-13.jpg
-    type: image
-  - link: https://indoek.com/wp-content/uploads/2024/04/Indoek-Surf-Shacks-Jim-Ganzer-Malibu-Matt-Titone-188.jpg
-    type: image
-  - link: https://indoek.com/wp-content/uploads/2024/04/Indoek-Surf-Shacks-Jim-Ganzer-Malibu-CA-Matt-Titone-.jpg
-    type: image
-  - link: https://indoek.com/wp-content/uploads/2024/04/Indoek-Surf-Shacks-Jim-Ganzer-Malibu-Matt-Titone-170.jpg
-    type: image
-  - link: https://indoek.com/wp-content/uploads/2024/04/Indoek-Surf-Shacks-Jim-Ganzer-Malibu-CA-Matt-Titone-6.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2024-04-16T19:51:12.109Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  lastUpdate: '2024-04-19T10:33:52.413Z'
-  domain: indoek.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 770852702
-  collectionId: 37136905
-  parsed: {}
-- _id: 770599332
-  link: https://www.youtube.com/watch?v=MxYqgGhbrYY
-  title: Tosh Tudor Has A New Movie & A New Board Model!? | Log Rap Board Review
-  excerpt: "We caught up with Tosh Tudor the day after his new movie Tube Therapy
-    premiered in San Diego to find out more about his new board model with THC Surfboards
-    shaped y Wayne Rich. Even though the waves were just average, the board looked
-    like it worked well and talking to Wayne even he was surprised how well Tosh was
-    able to surf the thing after just 1 session. \n\nIf you'd like to order one of
-    these boards please contact Resin Craft on instagram:\nhttps://www.instagram.com/resincraft/"
-  note: Colors, then rails, then size, then what ? I forgot but I love that it all
-    starts by how good does it look.
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/MxYqgGhbrYY/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/MxYqgGhbrYY/maxresdefault.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2024-04-16T12:09:28.984Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  lastUpdate: '2024-04-19T10:34:32.461Z'
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 770599331
-  collectionId: 37136905
-  parsed: {}
-- _id: 767135739
-  link: https://www.youtube.com/watch?v=LARqFhmRo6s
-  title: What's Good JJ Wessels | Presented by Captain Fin
-  excerpt: |-
-    We sat down with one of our favorite free surfers JJ Wessels after a surf at his home break to chat fins, surfing as a "sport", life as a dad and more. JJ's surf clips have been a staple on Log Rap since the early days, but this was the first time we every sat down with him to chat on camera and we couldn't be happier with how the conversation turned out. Big shoutout to Captain Fin for supporting this episode of What's Good.
-
-    Edit: Evan Schell
-    LogRap.com
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/LARqFhmRo6s/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/LARqFhmRo6s/maxresdefault.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2024-04-10T18:58:57.666Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  lastUpdate: '2024-04-10T18:58:58.589Z'
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 767135738
-  collectionId: 37136905
-  parsed: {}
-- _id: 766300760
-  link: https://almondsurfboards.com/en-fr/blogs/news/how-do-you-find-more-time-to-surf?_kx=WJeE3QQCOcj1C5-kKTUTnVQwLixGXGjdFW4dPGeJnNo.Hb5zTY
-  title: How Do You Find More Time to Surf?
-  excerpt: |-
-    Last month, we sent out our annual customer survey and to the surprise of very few, you all stated that the biggest pain point in your surfing experience was: not enough time.
-    And when asked what your goal was for your surfing this year, the #1 answer wasn't
-  note: "> just go\n\nI need that advice "
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://almondsurfboards.com/cdn/shop/articles/AC-19.jpg?v=1712608010&width=1200
-  media:
-  - link: http://almondsurfboards.com/cdn/shop/articles/AC-19.jpg?v=1712608010&width=1200
-    type: image
-  - link: https://almondsurfboards.com/cdn/shop/articles/AC-19.jpg?v=1712608010&width=2400
-    type: image
-  - link: https://almondsurfboards.com/cdn/shop/articles/B33A7435.jpg?v=1712350156&width=1200
-    type: image
-  - link: https://almondsurfboards.com/cdn/shop/articles/2E1A2843_0057ad01-b6bf-4902-be75-68598738b60b.jpg?v=1711399178&width=1200
-    type: image
-  tags: []
-  highlights:
-  - text: No one ever regrets a surf, even in terrible conditions.  Some of the most
-      fun comes when expectations are low and the surf surprises us.
-    note: ''
-    color: yellow
-    created: '2024-04-09T05:29:48.864Z'
-    lastUpdate: '2024-04-09T05:30:09.310Z'
-    creatorRef: 1617030
-    _id: 6614d2613a392543a8632678
-  important: true
-  removed: false
-  created: '2024-04-09T05:29:48.864Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  lastUpdate: '2024-04-09T05:30:09.309Z'
-  domain: almondsurfboards.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 766300759
-  collectionId: 37136905
-  parsed: {}
-- _id: 762800163
-  link: https://m.youtube.com/watch?si=KmM1p73PD43jiPwm&v=9cGwttnCRBk&feature=youtu.be
-  title: Chebakia
-  excerpt: "A story about two goofy-foot surfers, Paul-Alexis with his 7'6 mid-pin
-    & egg shaped under his brand Mimosa Surfboards, and Felix with his 5'5 Flathead
-    fish shaped by Trevor Gordon. Lost in the Moroccan right-hand paradise, they are
-    on the hunt for some left-hand and Chebakia pastries.\n\nStarring and Editing
-    :\nFelix Lesouef (https://www.instagram.com/felixlesouef)\nPaul-Alexis Leveugle
-    (https://www.instagram.com/mimosa.surfboards)\n\nAdditional Footage : \nRomane
-    Martin (https://www.instagram.com/sunnyromie)\n\nMusic :\nElectric Jalaba - Fulan\nArc
-    De Soleil - The Thief In Marrakech\nDaniel Ögren - Annalena"
-  note: "When buddies are making a surf movie, I am all in.   \nI especially love
-    the boards in that video. Would love to try them.  "
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/9cGwttnCRBk/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/9cGwttnCRBk/maxresdefault.jpg
-    type: image
-  - link: https://i.ytimg.com/vi/-D1LjSa_n-M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBqlw31J7OOLomafmyKuavzBcnE1w
-    type: image
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2024-04-01T13:13:20.481Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  lastUpdate: '2024-04-07T19:43:16.116Z'
-  domain: m.youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 762800162
-  collectionId: 37136905
-  parsed: {}
-- _id: 758055766
-  link: https://www.youtube.com/watch?v=KCw-_ugEbZ4
-  title: Under The Sun with Devon Howard
-  excerpt: |-
-    Devon Howard and the word style are often used in the same sentence.
-
-    Born and raised in San Diego, California, Devon has been a pivotal figure in the alternative craft scene since the late 90s, with his contributions to modern day midlength surfing being most notable.
-
-    His effortless surfing has been featured in seminal counter culture surf films that include Thomas Campbell’s The Seedling and Sprout, as well as Jason Baffa’s Single Fin Yellow and One California Day.
-
-    A few clicks north of where he grew up, Devon now resides in Ventura County where he splits his time between surfing, raising a young family, being a husband and designing and developing shapes for Channel Island Surfboards.
-
-    https://www.katinusa.com/
-    https://www.instagram.com/katinusa/
-    https://www.facebook.com/KatinUSA/
-
-    #devonhoward #midlength #underthesun
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/KCw-_ugEbZ4/hqdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/KCw-_ugEbZ4/hqdefault.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2024-03-22T13:08:20.314Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  lastUpdate: '2024-03-22T13:08:26.984Z'
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 758055765
-  collectionId: 37136905
-  parsed: {}
-- _id: 754549290
-  link: https://www.youtube.com/watch?v=S1O96HeFcw4
-  title: Spotlight Session Episode 3 Corey Colapinto 2
-  excerpt: Welcome to Episode 3 of the First Light Surf Club Spotlight Sessions, where
-    we dive deep into the lives of entrepreneurs, creatives, and people we admire
-    bot...
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/S1O96HeFcw4/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/S1O96HeFcw4/maxresdefault.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2024-03-15T13:13:03.132Z'
-  lastUpdate: '2024-03-15T13:13:04.107Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 754549289
-  collectionId: 37136905
-  parsed: {}
-- _id: 754057058
-  link: https://www.youtube.com/watch?v=C14dyIks75E
-  title: 'Dave Allee of Almond Surfboards: Even 2 ft waves can be firing'
-  excerpt: "Sign up for our free surfboard guide for sizing down volume, video library,
-    and newsletter \U0001F447\nhttps://manage.kmail-lists.com/subscriptions/subscribe?a=Xv9b5L&g=W2pNT4\n\nIn
-    this podcast I interviewed Dave Allee the founder of @almondsurfboards and talked
-    about how with the right attitude and the right equipment, even 2 ft can be firing,
-    which is their company ethos. It’s a super interesting discussion about the right
-    craft for small waves including midlengths, longboards, and single fins.\n\nChapters\n00:00
-    Introduction and the Importance of Equipment\n03:47 Origin Story of Almond Surfboards\n05:45
-    Getting Started in Shaping\n08:07 Transitioning to Alternative Boards\n10:03 Benefits
-    of Riding a Log\n14:47 Influence of Newport Beach on Almond Surfboards\n21:45
-    Regional Differences in Board Design\n24:10 Choosing a Longboard\n26:32 The Surf
-    Nice Longboard Model\n27:29 Sizing the Length of the Board\n29:24 Choosing a Board
-    for Beginners\n31:19 The Benefits of Single Fins\n32:10 Transitioning to Smaller
-    Craft\n36:00 The Philosophy of Mid-Length Boards\n44:04 The 5'4\" R Series Foamie\n47:15
-    Working with Andy Nieblas\n51:05 The Perfect Wave\n\nSubscribe for more interviews
-    with pro surfers, coaches, shapers, and everyday surfers like Matt Meola, Noel
-    Salas of Surf n Show, Victor Bernardo, Matt Parker of Album Surf, Kassia Meador,
-    Ryan Lovelace, Dylan Lightfoot, Derek Dunfee, Magnum Martinez, Isaac Stant, Nakoa
-    Decoite, and more!\n\nJoin our community of over 28k followers on IG and 15k on
-    TikTok:\nBasis Instagram https://www.instagram.com/gosurfbasis/\nBasis TikTok
-    https://www.tiktok.com/@gosurfbasis\nBasis Facebook https://www.facebook.com/gosurfbasis/\n\nThumbnail
-    credits: @thomas_henry_green\nSurfers: @andynieblas @_n.adams_ @tegan_gainan @drewmeseck\n\U0001F3A5:
-    @evan.adamson"
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/C14dyIks75E/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/C14dyIks75E/maxresdefault.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2024-03-14T12:23:24.251Z'
-  lastUpdate: '2024-03-14T12:23:26.080Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 754057057
-  collectionId: 37136905
-  parsed: {}
-- _id: 752746301
-  link: https://www.huckmag.com/article/travel-diary-teachers
-  title: 'The Travel Diary: Chucking in life as a teacher in search of a…'
-  excerpt: Tom Bing packed in his life as a teacher in northern England to explore
-    South America, the continent of extremes, to escape the feeling of drowning.
   note: ''
   type: article
   user:
     "$ref": users
     "$id": 1617030
-  cover: https://tco.mutualcp.com/transforms/Huck/_1200x630_crop_center-center_82_none_ns/DSC_04152_2023-03-27-083938_dcjm.jpg?mtime=1679906379
-  media:
-  - link: https://tco.mutualcp.com/transforms/Huck/_1200x630_crop_center-center_82_none_ns/DSC_04152_2023-03-27-083938_dcjm.jpg?mtime=1679906379
-    type: image
-  - link: https://www.huckmag.com/_next/image?url=https%3A%2F%2Fwww.tcocdn.com%2Ftco%2Fimages%2FHuck%2FDSC_04152_2023-03-27-083938_dcjm.jpg%3F05-05&w=1920&q=75
-    type: image
-  - link: https://www.huckmag.com/_next/image?url=https%3A%2F%2Fwww.tcocdn.com%2Fwp-content%2Fuploads%2F2016%2F04%2FDSC_42791.jpg&w=1200&q=75
-    type: image
-  - link: https://www.huckmag.com/_next/image?url=https%3A%2F%2Fwww.tcocdn.com%2Fwp-content%2Fuploads%2F2016%2F04%2FDSC_07992.jpg&w=1200&q=75
-    type: image
-  - link: https://www.huckmag.com/_next/image?url=https%3A%2F%2Fwww.tcocdn.com%2Fwp-content%2Fuploads%2F2016%2F04%2Fstar-trails1.jpg&w=1200&q=75
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2024-03-12T11:58:04.267Z'
-  lastUpdate: '2024-03-12T11:58:05.624Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  domain: huckmag.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 752746300
-  collectionId: 37136905
-  parsed: {}
-- _id: 752741033
-  link: https://www.youtube.com/watch?v=Um8ZDSs0Lno&t=125s
-  title: Fun Floats
-  excerpt: York Beach, Maine
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/Um8ZDSs0Lno/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/Um8ZDSs0Lno/maxresdefault.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2024-03-12T11:53:37.683Z'
-  lastUpdate: '2024-03-12T11:53:40.932Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 752741032
-  collectionId: 37136905
-  parsed: {}
-- _id: 751866039
-  link: https://www.fieldmag.com/articles/pacific-northwest-surf-photography
-  title: What It's Like to Learn to Surf in Your 30s In the PNW
-  excerpt: An ongoing photo series, "Bad Surfers" documents the brutal but sometimes
-    fruitful quest to log wave time in an unforgiving corner of the country
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://images.ctfassets.net/r7p9m4b1iqbp/2nqp3msaenGMpmzPTRMWJY/50acf837ebff52cbaee82e3194a70894/Josh-Poehlein-PNW-Bad-Surfers-hero.jpg?w=1000
-  media:
-  - link: http://images.ctfassets.net/r7p9m4b1iqbp/2nqp3msaenGMpmzPTRMWJY/50acf837ebff52cbaee82e3194a70894/Josh-Poehlein-PNW-Bad-Surfers-hero.jpg?w=1000
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2024-03-10T21:37:15.162Z'
-  lastUpdate: '2024-03-10T21:37:18.567Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  domain: fieldmag.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 751866038
-  collectionId: 37136905
-  parsed: {}
-- _id: 751861941
-  link: https://finisterre.com/blogs/broadcast/family-frontiers-an-irish-road-trip
-  title: 'Family Frontiers: An Irish Road Trip'
-  excerpt: Ambassador Sally McGee and family set off to explore Ireland's ancient
-    landscape and connect with fellow Finisterre Ambassadors.
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://finisterre.com/cdn/shop/articles/unnamed_200538fd-18cf-4de9-a218-9b8bf58c8af7.jpg?v=1709218005
-  media:
-  - link: https://finisterre.com/cdn/shop/articles/unnamed_200538fd-18cf-4de9-a218-9b8bf58c8af7.jpg?v=1709218005
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2024-03-10T21:14:52.967Z'
-  lastUpdate: '2024-03-10T21:14:57.387Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  domain: finisterre.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 751861940
-  collectionId: 37136905
-  parsed: {}
-- _id: 739327050
-  link: https://www.surfyonder.com/stories/2024/2/19/mindset-surfing-and-fishing?fbclid=PAAaY0g82qVMeSDC4j4aRwTZwuc_c-mKJ225-lEpY3u_XU8YPM1FJMA25E9dc_aem_AXiqvuiF9CzUr4ALEbSfBBgNSoaws_g68fDKZQ40oJ0_4RshX0o1RP5z3zCcxA-FHI0
-  title: Mindset - Surfing and Fishing — Yonder
-  excerpt: This is a little musing on mindset and surfing, hope you enjoy!  Surfing
-    is a big industry and Southern California is at the centre of it. When Gidget
-    first blew up surf spots around the world with the commercial idea of surfing;
-    the first place she ‘Gidged’ was Malibu, just a short drive from the m
-  note: Surfing is a journey, not the destination
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://static1.squarespace.com/static/5b1ed6d45cfd793594a55bc0/t/65d4f931549b185220894377/1708456241648/DSC03839.jpg?format=1500w
-  media:
-  - link: http://static1.squarespace.com/static/5b1ed6d45cfd793594a55bc0/t/65d4f931549b185220894377/1708456241648/DSC03839.jpg?format=1500w
-    type: image
-  - link: https://images.squarespace-cdn.com/content/v1/5b1ed6d45cfd793594a55bc0/d7b79219-ac8f-4c92-9c09-e93794b004f4/DSC03958.jpg?format=1500w
-    type: image
-  tags: []
-  highlights:
-  - text: surfing as the journey, not always the destination
-    note: ''
-    color: yellow
-    created: '2024-02-20T22:54:27.596Z'
-    lastUpdate: '2024-02-20T22:54:45.681Z'
-    creatorRef: 1617030
-    _id: 65d52da893aee54c1f242efc
-  - text: If we surf to connect, to attempt to decode nature, to be open to the transfer
-      of energy from the sea to ourselves, to carve ourselves out some personal time
-      then surfing is a form of therapy, of meditation, medicine
-    note: ''
-    color: yellow
-    created: '2024-02-20T22:54:42.925Z'
-    lastUpdate: '2024-02-20T22:54:45.681Z'
-    creatorRef: 1617030
-    _id: 65d52db56561a0431f785edb
-  important: true
-  removed: false
-  created: '2024-02-20T22:53:06.932Z'
-  lastUpdate: '2024-02-20T22:54:45.681Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  domain: surfyonder.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 739327049
-  collectionId: 37136905
-  parsed: {}
-- _id: 738387592
-  link: https://substack.com/home/post/p-141693074
-  title: "“No wanted to surf when the bulldozers were destroying the village.”"
-  excerpt: An interview with Younes Fizazi, surfer, photographer, and former homeowner
-    in Imsouane, Morocco
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9879a7ae-5cb8-42fb-aea0-14d265762a14_2016x1512.jpeg
-  media:
-  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9879a7ae-5cb8-42fb-aea0-14d265762a14_2016x1512.jpeg
-    type: image
-  - link: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fclimateandboardsports.substack.com%2Fapi%2Fv1%2Fpost_preview%2F141693074%2Ftwitter.jpg%3Fversion%3D4
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2024-02-19T21:11:40.762Z'
-  lastUpdate: '2024-02-19T21:11:43.859Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  domain: substack.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 738387591
-  collectionId: 37136905
-  parsed: {}
-- _id: 735902317
-  link: https://www.youtube.com/watch?v=jBvZz5dI9gE
-  title: 'Introducing: Lydia Ricard'
-  excerpt: "Lydia Ricard is a smile in the line-up and a mainstay of the surfing community
-    on Vancouver Island. \n\nAs well as being a self-proclaimed cheese addict, Longboard
-    coach and President of the Goofy Club, she's known for bringing it right back
-    to basics – sharing the stoke and doing it just for fun.​\n\nLearn more about
-    Lydia in this new film by Ben Giesbrecht \nWith Images by Bryanna Bradley\n\n#surf
-    #coldwatersurfing #tofino #tofinosurf #surfcommunity"
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/jBvZz5dI9gE/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/jBvZz5dI9gE/maxresdefault.jpg
-    type: image
-  - link: https://i.ytimg.com/vi/jBvZz5dI9gE/mqdefault.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2024-02-15T12:56:55.486Z'
-  lastUpdate: '2024-02-15T12:57:00.160Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 735902316
-  collectionId: 37136905
-  parsed: {}
-- _id: 735611461
-  link: https://longboardermagazine.com/2024/02/why-we-do-it/
-  title: Why We Do It. - Longboarder Magazine
-  excerpt: Dive into the world of winter surf with dedicated wave chasers from the
-    Northeast. Brave the cold alongside Lara Marcantonio, Ashley Cunningham, and Caralee
-    Murphy as they share their tales of adrenaline, dedication, and the pursuit of
-    the perfect wave in freezing temperatures.
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://longboardermagazine.com/wp-content/uploads/2024/02/DSC_6251-31-2-2-2-1024x731.jpg
-  media:
-  - link: https://longboardermagazine.com/wp-content/uploads/2024/02/DSC_6251-31-2-2-2-1024x731.jpg
-    type: image
-  - link: https://longboardermagazine.com/wp-content/uploads/2024/02/DSC_6251-31-2-2-2-1536x1097.jpg
-    type: image
-  - link: https://longboardermagazine.com/wp-content/uploads/2024/02/0C6A1078-1536x1024.jpg
-    type: image
-  - link: https://longboardermagazine.com/wp-content/uploads/2024/02/Ashley-soft-Proof-243-1536x1024.jpg
-    type: image
-  - link: https://longboardermagazine.com/wp-content/uploads/2024/02/CWW_Snow_Lifestyle_2021_12_1106-1536x1024.jpg
-    type: image
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2024-02-14T21:57:17.502Z'
-  lastUpdate: '2024-02-14T21:57:17.502Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  domain: longboardermagazine.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 735611460
-  collectionId: 37136905
-  parsed: {}
-- _id: 720464813
-  link: https://www.youtube.com/watch?v=SdIaEQCUVbk
-  title: Walt Disney Treasures - Hawaiian Holiday (1937)
-  excerpt: Mickey, Minnie, Donald, Goofy, and Pluto relax in sunny Hawaii in this
-    classic 1937 cartoon!
-  note: You often wonders when the term goofy comes from in surfing and skateboarding?
-    Search no more. It is right here in front of you.
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/SdIaEQCUVbk/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGD8gZShhMA8=&rs=AOn4CLAc4NdaDTOICSWtJizkElItw1GhKA
-  media:
-  - link: https://i.ytimg.com/vi/SdIaEQCUVbk/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGD8gZShhMA8=&rs=AOn4CLAc4NdaDTOICSWtJizkElItw1GhKA
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2024-01-24T20:12:28.569Z'
-  lastUpdate: '2024-02-13T09:48:26.561Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 720464812
-  collectionId: 37136905
-  parsed: {}
-- _id: 717175183
-  link: https://finisterre.com/blogs/broadcast/a-celtic-connection
-  title: A Celtic Connection
-  excerpt: Ambassador Mike Lay explores the deep-rooted celtic connections between
-    his Cornish home and the ancient granite coastline of Brittany.
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://finisterre.com/cdn/shop/articles/unnamed_aa71f437-c0a1-4b49-b2b9-481eba68bfb9.jpg?v=1705597966
-  media:
-  - link: https://finisterre.com/cdn/shop/articles/unnamed_aa71f437-c0a1-4b49-b2b9-481eba68bfb9.jpg?v=1705597966
-    type: image
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2024-01-18T21:19:00.316Z'
-  lastUpdate: '2024-01-18T21:19:00.316Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  domain: finisterre.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 717175182
-  collectionId: 37136905
-  parsed: {}
-- _id: 694864439
-  link: https://www.fieldmag.com/articles/gulf-of-alaska-surf-trip-35mm
-  title: Searching for Surf and Safe Passage in the Gulf of Alaska
-  excerpt: A two-week boat trip through surfing's final frontier brings snow-capped
-    mountains, icebergs and sea lions, hot springs and epic vistas
-  note: 'Sometimes, it is freaking cold but you still cannot avoid the ocean''s call
-
-    '
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://images.ctfassets.net/r7p9m4b1iqbp/2Z9D4NvqbHYV6sqqNma2rs/542560db6e08b2e51d1941472cd63800/Nate-Stephenson-Surf-Alaska-Seaview.jpg?w=1000
-  media:
-  - link: http://images.ctfassets.net/r7p9m4b1iqbp/2Z9D4NvqbHYV6sqqNma2rs/542560db6e08b2e51d1941472cd63800/Nate-Stephenson-Surf-Alaska-Seaview.jpg?w=1000
-    type: image
-  - link: https://images.ctfassets.net/r7p9m4b1iqbp/2Z9D4NvqbHYV6sqqNma2rs/542560db6e08b2e51d1941472cd63800/Nate-Stephenson-Surf-Alaska-Seaview.jpg?w=1200&fm=webp&q=90
-    type: image
-  - link: https://images.ctfassets.net/r7p9m4b1iqbp/WR33GTkmJKYMlDNDI5DnO/f81abed74f6466302363adafe99fc097/Nate-Stephens-Alaska-Surf-Trip-3.jpg?w=1200&fm=webp&q=90
-    type: image
-  - link: https://images.ctfassets.net/r7p9m4b1iqbp/10x7qD6gDEMI6gfox1J4Or/df7e930a0215088d9c19b31c591fbbf6/Nate-Stephens-Alaska-Surf-Trip-2.jpg?w=1200&fm=webp&q=90
-    type: image
-  - link: https://images.ctfassets.net/r7p9m4b1iqbp/3xZBtT9iLFJ9LgoSPCWeDl/cc604545d8408442a10ec155f2e370b9/Nate-Stephenson-Alaska-Surf-Coastal-Mtns.jpg?w=1200&fm=webp&q=90
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2023-12-15T08:46:29.886Z'
-  lastUpdate: '2023-12-15T08:47:43.344Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  domain: fieldmag.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 694864438
-  collectionId: 37136905
-  parsed: {}
-- _id: 659803004
-  link: http://www.documentsdartistes.org/artistes/millagou/repro-video.html
-  title: Olivier MILLAGOU - Documents d'artistes PACA
-  excerpt: documentation et diffusion de l activite des artistes visuels de Provence-Alpes-Cotes
-    d Azur. Artistes dans le champ de l art contemporain, vivant principalement a
-    Marseille Nice. Dossiers d artistes traduits en anglais et actualises reproductions
-    d'oeuvres, CV, bibliographie et textes de critiques d art.
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/http%3A%2F%2Fwww.documentsdartistes.org%2Fartistes%2Fmillagou%2Frepro-video.html
+  cover: https://finisterre.com/cdn/shop/articles/unnamed_29e9f0ca-ce84-469e-bbb0-2c22800a220d.jpg?v=1643034192
   media:
   - type: image
-    link: https://rdl.ink/render/http%3A%2F%2Fwww.documentsdartistes.org%2Fartistes%2Fmillagou%2Frepro-video.html
-    screenshot: true
+    link: https://finisterre.com/cdn/shop/articles/unnamed_29e9f0ca-ce84-469e-bbb0-2c22800a220d.jpg?v=1643034192
   tags: []
-  important: true
-  reminder:
-    date:
   removed: false
-  created: '2023-10-11T18:32:56.239Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
+  created: '2023-01-26T19:45:54.062Z'
   collection:
     "$ref": collections
-    "$id": 37136905
-    oid: 37136905
+    "$id": 37456415
+    oid: 37456415
   highlights: []
-  domain: documentsdartistes.org
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 659803003
-  collectionId: 37136905
-  parsed: {}
-- _id: 657657329
-  link: https://finisterre.com/blogs/broadcast/the-sentinels-lighthouses-surfers-seven-seas
-  title: 'The Sentinels: Lighthouses, Surfers & Seven Seas'
-  excerpt: Mat Arney looks at the stoic history of lighthouses as a metaphor for ocean
-    guardianship.
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://finisterre.com/cdn/shop/articles/unnamed_87b1332a-4a90-48cb-9923-ec5fa51236fe.jpg?v=1696504698
-  media:
-  - link: https://finisterre.com/cdn/shop/articles/unnamed_87b1332a-4a90-48cb-9923-ec5fa51236fe.jpg?v=1696504698
-    type: image
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2023-10-07T20:49:35.093Z'
   lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
   domain: finisterre.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 657657328
-  collectionId: 37136905
+  title: Peace Found In Saltwater | Blog | The Finisterre Broadcast
+  creatorRef: 1617030
+  sort: 645601145
+  important: true
+  collectionId: 37456415
   parsed: {}
-- _id: 656031861
-  link: https://bloood.club/
-  title: BLOOOD
+- _id: 645601144
+  link: https://outofthevalley.co.uk/cabins/nomad-studio/
   excerpt: ''
   note: ''
   type: link
   user:
     "$ref": users
     "$id": 1617030
-  cover: https://s0.wp.com/i/blank.jpg
+  cover: https://outofthevalley.co.uk/wp-content/uploads/2021/01/Office2.jpg
   media:
-  - link: https://s0.wp.com/i/blank.jpg
-    type: image
-  - link: https://blooodtv.files.wordpress.com/2023/03/bloood-logo-web-cabecera-2.png?w=536
-    type: image
-  - link: https://blooodtv.files.wordpress.com/2023/02/ce4b8f6a-7d67-436f-af97-081866c7a6de.jpeg
-    type: image
-  - link: https://blooodtv.files.wordpress.com/2023/10/otair2-1rr.jpg
-    type: image
-  - link: https://blooodtv.files.wordpress.com/2023/09/ps.jpg?w=2048
-    type: image
+  - type: image
+    link: https://outofthevalley.co.uk/wp-content/uploads/2021/01/Office2.jpg
   tags: []
-  important: true
-  reminder:
-    date:
   removed: false
-  created: '2023-10-05T07:37:55.035Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
+  created: '2023-01-26T19:45:53.511Z'
   collection:
     "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights:
-  - text: SURF FOR LOVE, NOT FOR BUSINESS
-    note: ''
-    created: '2023-10-05T07:38:33.503Z'
-    lastUpdate: '2023-10-05T07:38:33.504Z'
-    creatorRef: 1617030
-    _id: 651e67f9fd27dd69c7cf4c3c
-  domain: bloood.club
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 656031860
-  collectionId: 37136905
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: outofthevalley.co.uk
+  title: Nomad Studio
+  creatorRef: 1617030
+  sort: 645601144
+  important: true
+  collectionId: 37456415
   parsed: {}
-- _id: 653709961
-  link: https://www.radiofrance.fr/franceinter/podcasts/les-80/les-80-d-ali-baddou-du-vendredi-29-septembre-2023-4429223?fbclid=PAAaYK2I9oo5bujfXpFDNQbmX2g9rAHXElrJIxP56XCTTwgnbwa6puD27Tays
-  title: 'Surf : un livre-album magnifique'
-  excerpt: '"J''ignore pourquoi j''ai été - et suis toujours - à ce point hypnotisé
-    par le surf". Ces mots sont de Kelly Slater, le meilleur surfeur de tous les temps.
-    Kelly Slater qui signe la préface d''un livre album magnifique qui vient de paraître
-    chez Albin Michel.'
-  note: Les mots de Deleuze...
+- _id: 645601143
+  link: https://www.fieldmag.com/articles/hut-on-sleds-nz-beach-cabin
+  excerpt: ''
+  note: ''
   type: article
   user:
     "$ref": users
     "$id": 1617030
-  cover: https://www.radiofrance.fr/s3/cruiser-production/2023/09/620ff579-905c-4c57-a2d5-7062b09ff621/1200x680_sc_surfcouv.jpg
+  cover: http://images.ctfassets.net/r7p9m4b1iqbp/1pGshrWlqoKkIC0mWm4Kam/60a4541d1a2f5465f4876998a3ec6e41/Crosson-Arch-Hut-Sled-thumb.jpg?w=1000
   media:
-  - link: https://www.radiofrance.fr/s3/cruiser-production/2023/09/620ff579-905c-4c57-a2d5-7062b09ff621/1200x680_sc_surfcouv.jpg
-    type: image
+  - type: image
+    link: http://images.ctfassets.net/r7p9m4b1iqbp/1pGshrWlqoKkIC0mWm4Kam/60a4541d1a2f5465f4876998a3ec6e41/Crosson-Arch-Hut-Sled-thumb.jpg?w=1000
   tags: []
-  important: true
-  reminder:
-    date:
   removed: false
-  created: '2023-09-29T07:33:32.914Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
+  created: '2023-01-26T19:45:53.047Z'
   collection:
     "$ref": collections
-    "$id": 37136905
-    oid: 37136905
+    "$id": 37456415
+    oid: 37456415
   highlights: []
-  domain: radiofrance.fr
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 653709960
-  collectionId: 37136905
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: fieldmag.com
+  title: This Kiwi Beach Hut Is Designed to Respond to Climate Change
+  creatorRef: 1617030
+  sort: 645601143
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601142
+  link: https://craigmod.com/ridgeline/116/
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://craigmod.com/ridgeline/images/116/116.jpg
+  media:
+  - type: image
+    link: https://craigmod.com/ridgeline/images/116/116.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:52.385Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: craigmod.com
+  title: A Walk is a Platform for Creative Work
+  creatorRef: 1617030
+  sort: 645601142
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601141
+  link: https://www.fieldmag.com/articles/48-nord-landscape-hotel-france
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://images.ctfassets.net/r7p9m4b1iqbp/3JuiSNA7asfcdCySPv5aQx/c82e1b97ed9db1fc6e6327a38a905c31/Hotel-48-Nord-France-Reiulf-Ramstad-Arkitekter-4.jpg?w=1000
+  media:
+  - type: image
+    link: http://images.ctfassets.net/r7p9m4b1iqbp/3JuiSNA7asfcdCySPv5aQx/c82e1b97ed9db1fc6e6327a38a905c31/Hotel-48-Nord-France-Reiulf-Ramstad-Arkitekter-4.jpg?w=1000
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:51.759Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: fieldmag.com
+  title: Stay in 1 of 14 Futuristic Cabins at New French Landscape Hotel
+  creatorRef: 1617030
+  sort: 645601141
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601140
+  link: https://www.fieldmag.com/articles/nagano-forest-bathing-cabin-hiroshi-nakamura-nap-architects
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://images.ctfassets.net/r7p9m4b1iqbp/11dm3F8DErgVcJfO4KSvZO/a67bfd1e724e43aff42345862c14bef9/Cockpit-Cabin-Hiroshi-Nakamura-NAP-1.jpg?w=1000
+  media:
+  - type: image
+    link: http://images.ctfassets.net/r7p9m4b1iqbp/11dm3F8DErgVcJfO4KSvZO/a67bfd1e724e43aff42345862c14bef9/Cockpit-Cabin-Hiroshi-Nakamura-NAP-1.jpg?w=1000
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:51.307Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: fieldmag.com
+  title: This Modest Mountain Cabin Embraces Forest Bathing
+  creatorRef: 1617030
+  sort: 645601140
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601139
+  link: https://vimeo.com/517147655
+  excerpt: ''
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.vimeocdn.com/video/1075762564-e399dff3fe905e55fb9c015ff3eed6fd9f872282f40c14ad824da69ae47686b9-d_295x166
+  media:
+  - type: image
+    link: https://i.vimeocdn.com/video/1075762564-e399dff3fe905e55fb9c015ff3eed6fd9f872282f40c14ad824da69ae47686b9-d_295x166
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:50.490Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: vimeo.com
+  title: The Ripple Effect
+  creatorRef: 1617030
+  sort: 645601139
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601138
+  link: https://finisterre.com/blogs/broadcast/south-west-coast-path-photographer-of-the-year-2020
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: ''
+  media: []
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:49.882Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: finisterre.com
+  title: https://finisterre.com/blogs/broadcast/south-west-coast-path-photographer-of-the-year-2020
+  creatorRef: 1617030
+  sort: 645601138
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601137
+  link: https://youtube.com/watch?v=i5SLi-GZ0Z4&feature=share
+  excerpt: ''
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/i5SLi-GZ0Z4/maxresdefault.jpg
+  media:
+  - type: image
+    link: https://i.ytimg.com/vi/i5SLi-GZ0Z4/maxresdefault.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:49.233Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: youtube.com
+  title: 'Pizza Toast & Coffee: Kissa Būgen'
+  creatorRef: 1617030
+  sort: 645601137
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601136
+  link: https://meganemurgia.com/capitaine-lea
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://static1.squarespace.com/static/5d1c7e94b321ce00012f3f52/t/5d209d05eb83b800010e5262/1562418451764/M.Murgia_31052019-34.jpg?format=1500w
+  media:
+  - type: image
+    link: http://static1.squarespace.com/static/5d1c7e94b321ce00012f3f52/t/5d209d05eb83b800010e5262/1562418451764/M.Murgia_31052019-34.jpg?format=1500w
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:48.733Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: meganemurgia.com
+  title: Capitaine Léa — Mégane Murgia
+  creatorRef: 1617030
+  sort: 645601136
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601135
+  link: https://www.patagonia.com/stories/our-quest-for-circularity/story-96496.html
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://www.patagonia.com/blog/wp-content/uploads/2021/03/hedden_d_0110_cc_web-2250x1266-1.jpg
+  media:
+  - type: image
+    link: https://www.patagonia.com/blog/wp-content/uploads/2021/03/hedden_d_0110_cc_web-2250x1266-1.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:48.247Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: patagonia.com
+  title: Our Quest for Circularity - Patagonia Stories
+  creatorRef: 1617030
+  sort: 645601135
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601134
+  link: https://www.dwell.com/article/the-nook-shelter-design-studio-a50e75c6
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://images.dwell.com/photos-6676846327473246208/6680850722912505856-large/the-nook-exterior-features-shiplap-cypress-siding-a-reclaimed-oak-deck-and-an-entranceway-of-oak-blackened-in-the-traditional-japanese-method.jpg
+  media:
+  - type: image
+    link: https://images.dwell.com/photos-6676846327473246208/6680850722912505856-large/the-nook-exterior-features-shiplap-cypress-siding-a-reclaimed-oak-deck-and-an-entranceway-of-oak-blackened-in-the-traditional-japanese-method.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:47.786Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: dwell.com
+  title: A Tiny Cabin in North Carolina Is an Enchanting Mix of Japanese and Scandinavian
+    Style
+  creatorRef: 1617030
+  sort: 645601134
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601133
+  link: https://jeremylachance.com/
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fjeremylachance.com%2F
+  media:
+  - type: image
+    link: https://rdl.ink/render/https%3A%2F%2Fjeremylachance.com%2F
+    screenshot: true
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:47.248Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: jeremylachance.com
+  title: Jeremy Lachance
+  creatorRef: 1617030
+  sort: 645601133
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601132
+  link: https://craigmod.com/essays/sms_publishing/
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://craigmod.com/essays/images/sms_publishing/cover_sms.jpg
+  media:
+  - type: image
+    link: https://craigmod.com/essays/images/sms_publishing/cover_sms.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:46.225Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: craigmod.com
+  title: SMS Publishing
+  creatorRef: 1617030
+  sort: 645601132
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601131
+  link: https://craigmod.com/roden/054/
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fcraigmod.com%2Froden%2F054%2F
+  media:
+  - type: image
+    link: https://rdl.ink/render/https%3A%2F%2Fcraigmod.com%2Froden%2F054%2F
+    screenshot: true
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:45.716Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: craigmod.com
+  title: 'New WIRED Essay: Code & Therapy — Roden newsletter issue 054'
+  creatorRef: 1617030
+  sort: 645601131
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601130
+  link: https://joelhooks.com/digital-garden
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://joelhooks-opengraph-images.netlify.app/opengraph?title=%F0%9F%8C%B1%20My%20blog%20is%20a%20digital%20garden%2C%20not%20a%20blog&author=https%3A%2F%2Ftwitter.com%2Fjhooks&v=420
+  media:
+  - type: image
+    link: https://joelhooks-opengraph-images.netlify.app/opengraph?title=%F0%9F%8C%B1%20My%20blog%20is%20a%20digital%20garden%2C%20not%20a%20blog&author=https%3A%2F%2Ftwitter.com%2Fjhooks&v=420
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:45.149Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: joelhooks.com
+  title: "\U0001F331 My blog is a digital garden, not a blog"
+  creatorRef: 1617030
+  sort: 645601130
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601129
+  link: https://casanumarjournal.com/home/lechatsauvage
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://static1.squarespace.com/static/5d9645686fdee62119569dec/5da462722d11583e99b2ba77/605f2b63b721401f99db1fe1/1616940233107/robinfalxa_casanumar_flotsbleus-29jan_tl_09353.JPG?format=1500w
+  media:
+  - type: image
+    link: http://static1.squarespace.com/static/5d9645686fdee62119569dec/5da462722d11583e99b2ba77/605f2b63b721401f99db1fe1/1616940233107/robinfalxa_casanumar_flotsbleus-29jan_tl_09353.JPG?format=1500w
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:44.302Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: casanumarjournal.com
+  title: Le chat sauvage — Nu Mar Journal
+  creatorRef: 1617030
+  sort: 645601129
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601128
+  link: https://www.wired.com/story/healing-power-javascript-code-programming/
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://media.wired.com/photos/606b9824464552bbcdd172d6/191:100/w_1280,c_limit/ideas-coding-therapy.jpg
+  media:
+  - type: image
+    link: https://media.wired.com/photos/606b9824464552bbcdd172d6/191:100/w_1280,c_limit/ideas-coding-therapy.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:43.765Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: wired.com
+  title: The Healing Power of JavaScript
+  creatorRef: 1617030
+  sort: 645601128
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601127
+  link: https://newrepublic.com/article/161106/defense-nothing
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://images.newrepublic.com/6a511daeebb26f196c59b8f649453b1352d55798.png?w=1200&h=630&crop=faces&fit=crop&fm=jpg
+  media:
+  - type: image
+    link: https://images.newrepublic.com/6a511daeebb26f196c59b8f649453b1352d55798.png?w=1200&h=630&crop=faces&fit=crop&fm=jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:43.334Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: newrepublic.com
+  title: In Defense of Doing Nothing
+  creatorRef: 1617030
+  sort: 645601127
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601126
+  link: https://www.lesothers.com/surf-trip-algarve
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://www.lesothers.com/wp-content/uploads/2021/03/lesothers-outdoor-aventure-roadtrip-surftrip-algarve-portugal-ete-7.jpeg
+  media:
+  - type: image
+    link: https://www.lesothers.com/wp-content/uploads/2021/03/lesothers-outdoor-aventure-roadtrip-surftrip-algarve-portugal-ete-7.jpeg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:42.801Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: lesothers.com
+  title: 'Surf-trip en Algarve : le camping-car, le hibou et les vagues — Les Others'
+  creatorRef: 1617030
+  sort: 645601126
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601125
+  link: https://huckberry.com/journal/posts/shelter-karangahake-house
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://huckberry.imgix.net/journal_post_content_block_images/000/000/802/images/original/KarangahakeHouse_OutdoorRoomToEast_hero.jpg
+  media:
+  - type: image
+    link: https://huckberry.imgix.net/journal_post_content_block_images/000/000/802/images/original/KarangahakeHouse_OutdoorRoomToEast_hero.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:42.234Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: huckberry.com
+  title: 3 Home Improvements Inspired by New Zealand's Karangahake House
+  creatorRef: 1617030
+  sort: 645601125
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601124
+  link: https://audacious.blog/2021/write/
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://audacious.blog/og-image.png
+  media:
+  - type: image
+    link: https://audacious.blog/og-image.png
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:41.780Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: audacious.blog
+  title: Write Sentences, Not Too Many, Mostly Active
+  creatorRef: 1617030
+  sort: 645601124
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601123
+  link: https://www.vice.com/fr/article/akdb9b/avec-les-surfeurs-marseillais
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://video-images.vice.com/articles/60535d966f2c220093ff1781/lede/1616076461822-nicomallaret2.jpeg?image-resize-opts=Y3JvcD0xeHc6MC45NzA1MTM5MDA1ODk3MjJ4aDtjZW50ZXIsY2VudGVyJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg
+  media:
+  - type: image
+    link: https://video-images.vice.com/articles/60535d966f2c220093ff1781/lede/1616076461822-nicomallaret2.jpeg?image-resize-opts=Y3JvcD0xeHc6MC45NzA1MTM5MDA1ODk3MjJ4aDtjZW50ZXIsY2VudGVyJnJlc2l6ZT0xMjAwOiomcmVzaXplPTEyMDA6Kg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:41.358Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: vice.com
+  title: Avec les surfeurs marseillais
+  creatorRef: 1617030
+  sort: 645601123
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601122
+  link: https://twitter.com/kevinbparry/status/1310276317221449731?s=20
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://pbs.twimg.com/amplify_video_thumb/1310275251411050497/img/flHwJicNb5d7i0JC.jpg:large
+  media:
+  - type: image
+    link: https://pbs.twimg.com/amplify_video_thumb/1310275251411050497/img/flHwJicNb5d7i0JC.jpg:large
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:40.906Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: twitter.com
+  title: Kevin Parry on Twitter
+  creatorRef: 1617030
+  sort: 645601122
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601121
+  link: https://www.h-eva.com/
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: ''
+  media: []
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:40.010Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: h-eva.com
+  title: https://www.h-eva.com/
+  creatorRef: 1617030
+  sort: 645601121
+  important: true
+  collectionId: 37456415
   parsed: {}
 - _id: 645601120
   link: https://www.leroymerlin.fr/inspiration/revelez-votre-style/style-industriel-esprit-atelier-et-materiaux-bruts/une-piece-en-plus-pour-travailler-ou-recevoir-en-pleine-nature.html
