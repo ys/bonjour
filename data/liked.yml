@@ -36668,3 +36668,115 @@
   sort: 978382904
   collectionId: 37136905
   parsed: {}
+- _id: 979249189
+  link: https://www.monsterchildren.com/articles/revisit-the-kate-bellm-interview
+  title: 'Revisit: The Kate Bellm Interview — Monster Children'
+  excerpt: 'From issue #65.'
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://static1.squarespace.com/static/6398e5b4b3dd441ead33860a/6398e815f2eabd0b458bc856/67b39d6997383940eab29c1d/1739830875766/60x40cm.jpg?format=1500w
+  media:
+  - link: http://static1.squarespace.com/static/6398e5b4b3dd441ead33860a/6398e815f2eabd0b458bc856/67b39d6997383940eab29c1d/1739830875766/60x40cm.jpg?format=1500w
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-02-25T08:59:16.943Z'
+  collection:
+    "$ref": collections
+    "$id": 37459371
+    oid: 37459371
+  highlights:
+  - text: It started with this piece of foil a friend gave me in Berlin; this iridescent
+      kind of foil, and I would put it in front of my lens and make like this double-exposure,
+      colour grade insanity, you know? Later, I found these psychedelic films that
+      kind of produced the same effect with certain cameras that I have, that I know
+      leak light.
+    note: ''
+    color: yellow
+    created: '2025-02-25T08:59:46.545Z'
+    lastUpdate: '2025-02-25T08:59:46.546Z'
+    creatorRef: 1617030
+    _id: 67bd868257b6b3738698af1b
+  lastUpdate: '2025-02-25T08:59:46.546Z'
+  domain: monsterchildren.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 979249189
+  collectionId: 37459371
+  parsed: {}
+- _id: 979249855
+  link: https://hotelcorazon.com/about
+  title: Hotel Corazón – About
+  excerpt: Hotel Corazón is a 15-room Mallorca luxury hotel, farm, restaurant, art
+    space, halfway between Deià and Sóller, in a renovated historic finca amidst the
+    Tramuntana mountains and the Mediterranean Sea.
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fhotelcorazon.com%2Fabout
+  media: []
+  tags:
+  - places
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-02-25T09:01:26.446Z'
+  collection:
+    "$ref": collections
+    "$id": 37679925
+    oid: 37679925
+  highlights: []
+  lastUpdate: '2025-02-25T09:01:38.038Z'
+  domain: hotelcorazon.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 979249855
+  collectionId: 37679925
+  parsed: {}
+- _id: 979250141
+  link: https://katebellm.com/index.html#!/home
+  title: Kate Bellm
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fkatebellm.com%2Findex.html%23!%2Fhome
+  media: []
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-02-25T09:02:34.050Z'
+  collection:
+    "$ref": collections
+    "$id": 37459371
+    oid: 37459371
+  highlights: []
+  lastUpdate: '2025-02-25T09:02:45.268Z'
+  domain: katebellm.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 979250141
+  collectionId: 37459371
+  parsed: {}
