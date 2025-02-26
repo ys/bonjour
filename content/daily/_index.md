@@ -7,7 +7,7 @@ menu:
   main:
     weight: 1
 linktitle: "Point & Shoot"
-year: "2024"
+year: "2025"
 skip: "cover.png"
 type: "photos"
 description: "I love to document my life"
