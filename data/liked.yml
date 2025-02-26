@@ -3,7 +3,7 @@
   link: https://katebellm.com/index.html#!/home
   title: Kate Bellm
   excerpt: ''
-  note: ''
+  note: The subject, the experimentation and the results are just a pleasure to watch
   type: link
   user:
     "$ref": users
@@ -21,42 +21,11 @@
     "$id": 37459371
     oid: 37459371
   highlights: []
-  lastUpdate: '2025-02-25T09:02:45.268Z'
+  lastUpdate: '2025-02-26T20:54:23.074Z'
   domain: katebellm.com
   creatorRef: 1617030
   sort: 979250141
   collectionId: 37459371
-  parsed: {}
-- _id: 979249855
-  link: https://hotelcorazon.com/about
-  title: Hotel Corazón – About
-  excerpt: Hotel Corazón is a 15-room Mallorca luxury hotel, farm, restaurant, art
-    space, halfway between Deià and Sóller, in a renovated historic finca amidst the
-    Tramuntana mountains and the Mediterranean Sea.
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Fhotelcorazon.com%2Fabout
-  media: []
-  tags:
-  - places
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2025-02-25T09:01:26.446Z'
-  collection:
-    "$ref": collections
-    "$id": 37679925
-    oid: 37679925
-  highlights: []
-  lastUpdate: '2025-02-25T09:01:38.038Z'
-  domain: hotelcorazon.com
-  creatorRef: 1617030
-  sort: 979249855
-  collectionId: 37679925
   parsed: {}
 - _id: 979249189
   link: https://www.monsterchildren.com/articles/revisit-the-kate-bellm-interview
