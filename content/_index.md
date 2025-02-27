@@ -17,7 +17,7 @@ resources:
 rows: 3
 ---
 
-I am a freelance **documentary style photographer** for business, product & lifestyle photography. Based in Finistère, France.  
+I am a **freelance photographer** doing editorial, documentary & lifestyle photography. Based in Finistère, France.  
 I love to capture the beautiful, ordinary details of daily life.   
 I often wander with a camera, a pencil and a small notebook.
 
