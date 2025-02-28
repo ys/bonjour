@@ -1,4 +1,34 @@
 ---
+- _id: 981874164
+  link: https://www.youtube.com/watch?v=gSoM46oufhc
+  title: Travel, Waves, And Island Living -旅と波と島暮らし- Harada Mitsunori
+  excerpt: ''
+  note: 'Wise words. '
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/gSoM46oufhc/hqdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/gSoM46oufhc/hqdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-02-28T15:31:37.638Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2025-02-28T15:32:00.712Z'
+  domain: youtube.com
+  creatorRef: 1617030
+  sort: 981874164
+  collectionId: 37136905
+  parsed: {}
 - _id: 981868223
   link: https://www.youtube.com/watch?v=JC3XpurwlRE
   title: Kirk Putnam & Jamie Brisick Talk MPE P38 - Featuring Trevor Gordon
