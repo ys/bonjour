@@ -1,4 +1,32 @@
 ---
+- _id: 981986225
+  link: https://psychblues.com/film
+  title: Film Shop — Psych Blues
+  excerpt: Shop Psychedelic Blues films here
+  note: Look at those films!
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fpsychblues.com%2Ffilm
+  media: []
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-02-28T21:28:35.643Z'
+  collection:
+    "$ref": collections
+    "$id": 37459371
+    oid: 37459371
+  highlights: []
+  lastUpdate: '2025-02-28T21:28:47.230Z'
+  domain: psychblues.com
+  creatorRef: 1617030
+  sort: 981986225
+  collectionId: 37459371
+  parsed: {}
 - _id: 981874164
   link: https://www.youtube.com/watch?v=gSoM46oufhc
   title: Travel, Waves, And Island Living -旅と波と島暮らし- Harada Mitsunori
