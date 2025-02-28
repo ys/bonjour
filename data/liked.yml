@@ -1,4 +1,34 @@
 ---
+- _id: 981868223
+  link: https://www.youtube.com/watch?v=JC3XpurwlRE
+  title: Kirk Putnam & Jamie Brisick Talk MPE P38 - Featuring Trevor Gordon
+  excerpt: ''
+  note: look at that board
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/JC3XpurwlRE/hqdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/JC3XpurwlRE/hqdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-02-28T15:03:03.460Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2025-02-28T15:03:16.262Z'
+  domain: youtube.com
+  creatorRef: 1617030
+  sort: 981868223
+  collectionId: 37136905
+  parsed: {}
 - _id: 979250141
   link: https://katebellm.com/index.html#!/home
   title: Kate Bellm
