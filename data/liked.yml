@@ -1,4 +1,35 @@
 ---
+- _id: 985659204
+  link: https://www.itsamyliz.com/journal/how-to-cyanotypes?utm_source=substack&utm_medium=email
+  title: How to-Cyanotypes — Amy Elizabeth
+  excerpt: Want to make your own prints but don’t have a darkroom?  Cyanotypes are
+    the perfect option; learn about them here!
+  note: I just love those blues
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://static1.squarespace.com/static/6269fad344c82f0cce719c2e/6366e81a2ff5e829c33876e9/63d7ff56fef7034e33c4d916/1738075497424/Scans-2.jpg?format=1500w
+  media:
+  - link: http://static1.squarespace.com/static/6269fad344c82f0cce719c2e/6366e81a2ff5e829c33876e9/63d7ff56fef7034e33c4d916/1738075497424/Scans-2.jpg?format=1500w
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-03-05T08:44:19.918Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2025-03-05T08:44:27.879Z'
+  domain: itsamyliz.com
+  creatorRef: 1617030
+  sort: 985659204
+  collectionId: -1
+  parsed: {}
 - _id: 981986225
   link: https://psychblues.com/film
   title: Film Shop — Psych Blues
