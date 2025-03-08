@@ -1,4 +1,34 @@
 ---
+- _id: 987894153
+  link: https://www.youtube.com/watch?v=Sq0lLVihPqY
+  title: FROTHIN' in Byron Bay with Laure Mayer
+  excerpt: ''
+  note: Frothing, love the Aussie slang
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/Sq0lLVihPqY/hqdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/Sq0lLVihPqY/hqdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-03-08T13:40:09.116Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2025-03-08T13:40:17.519Z'
+  domain: youtube.com
+  creatorRef: 1617030
+  sort: 987894153
+  collectionId: 37136905
+  parsed: {}
 - _id: 985659204
   link: https://www.itsamyliz.com/journal/how-to-cyanotypes?utm_source=substack&utm_medium=email
   title: How to-Cyanotypes — Amy Elizabeth
