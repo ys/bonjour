@@ -834,7 +834,11 @@
     oid: -1
   lastUpdate: '2025-01-18T06:49:41.462Z'
   domain: theguardian.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 948392287
   collectionId: -1
   parsed: {}
@@ -863,7 +867,11 @@
     oid: -1
   lastUpdate: '2025-01-17T20:09:49.455Z'
   domain: youtube.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 948139281
   collectionId: -1
   parsed: {}
@@ -892,7 +900,11 @@
     oid: 39748190
   lastUpdate: '2025-01-17T13:55:20.231Z'
   domain: youtube.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 947948153
   collectionId: 39748190
   parsed: {}
@@ -943,7 +955,11 @@
   highlights: []
   lastUpdate: '2025-01-16T12:34:00.769Z'
   domain: youtube.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 946877581
   collectionId: 37136905
   parsed: {}
@@ -973,7 +989,11 @@
   highlights: []
   lastUpdate: '2025-01-14T20:48:11.882Z'
   domain: surfersjournal.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 945694717
   collectionId: 37136905
   parsed: {}
@@ -1005,7 +1025,11 @@
   highlights: []
   lastUpdate: '2025-01-14T20:44:27.633Z'
   domain: substack.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 945692321
   collectionId: 37459371
   parsed: {}
@@ -1040,7 +1064,11 @@
     "$ref": collections
     "$id": 37459360
     oid: 37459360
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 945683416
   important: true
   collectionId: 37459360
@@ -1073,7 +1101,11 @@
   highlights: []
   lastUpdate: '2025-01-14T20:12:51.106Z'
   domain: stphoto94.substack.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 945683117
   collectionId: 37459371
   parsed: {}
@@ -1113,7 +1145,11 @@
     oid: -1
   lastUpdate: '2025-01-13T15:18:32.568Z'
   domain: youtube.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 944531858
   collectionId: -1
   parsed: {}
@@ -1149,7 +1185,11 @@
     "$ref": collections
     "$id": 37459371
     oid: 37459371
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 942326161
   important: true
   collectionId: 37459371
@@ -1201,7 +1241,11 @@
   highlights: []
   lastUpdate: '2025-01-06T08:44:13.196Z'
   domain: youtube.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 938887627
   collectionId: 37459360
   parsed: {}
@@ -1261,7 +1305,11 @@
   highlights: []
   lastUpdate: '2025-01-02T19:34:13.138Z'
   domain: instagram.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 936034139
   collectionId: 37136905
   parsed: {}
@@ -1310,7 +1358,11 @@
     "$ref": collections
     "$id": 37459371
     oid: 37459371
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 935030256
   important: true
   collectionId: 37459371
@@ -1357,7 +1409,11 @@
     oid: -1
   lastUpdate: '2024-12-30T07:37:25.109Z'
   domain: newyorker.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 933274355
   collectionId: -1
   parsed: {}
@@ -1402,7 +1458,11 @@
     "$ref": collections
     "$id": 37136905
     oid: 37136905
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 933000054
   important: true
   collectionId: 37136905
@@ -1435,7 +1495,11 @@
   highlights: []
   lastUpdate: '2024-12-29T20:04:13.336Z'
   domain: flakphoto.news
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 932999813
   collectionId: 37459371
   parsed: {}
@@ -1467,7 +1531,11 @@
   highlights: []
   lastUpdate: '2024-12-29T20:03:00.417Z'
   domain: stphoto94.substack.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 932999600
   collectionId: 37459371
   parsed: {}
@@ -1499,7 +1567,11 @@
   highlights: []
   lastUpdate: '2024-12-29T20:02:29.820Z'
   domain: substack.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 932999363
   collectionId: -1
   parsed: {}
@@ -1538,7 +1610,11 @@
   highlights: []
   lastUpdate: '2024-12-20T09:28:40.576Z'
   domain: youtube.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 925588700
   collectionId: 37136914
   parsed: {}
@@ -1573,7 +1649,11 @@
   highlights: []
   lastUpdate: '2024-12-20T08:59:35.108Z'
   domain: scienceofsurfing.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 925572786
   collectionId: 37136905
   parsed: {}
@@ -1603,7 +1683,11 @@
   highlights: []
   lastUpdate: '2024-12-20T08:54:07.954Z'
   domain: monsterchildren.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 925571935
   collectionId: 37459360
   parsed: {}
@@ -1636,7 +1720,11 @@
   highlights: []
   lastUpdate: '2024-12-20T08:49:38.100Z'
   domain: scienceofsurfing.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 925571266
   collectionId: 37136905
   parsed: {}
@@ -1668,7 +1756,11 @@
   highlights: []
   lastUpdate: '2024-12-20T08:44:47.669Z'
   domain: youtube.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 925570613
   collectionId: 37136914
   parsed: {}
@@ -1704,7 +1796,11 @@
   highlights: []
   lastUpdate: '2024-12-18T09:01:00.735Z'
   domain: youtube.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 924194378
   collectionId: 37136905
   parsed: {}
@@ -1735,7 +1831,11 @@
     oid: -1
   lastUpdate: '2024-12-13T14:24:47.009Z'
   domain: open.substack.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 920904362
   collectionId: -1
   parsed: {}
@@ -4786,7 +4886,11 @@
     oid: 37459371
   lastUpdate: '2024-05-25T05:24:01.219Z'
   domain: huckmag.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 790765796
   collectionId: 37459371
   parsed: {}
@@ -4816,7 +4920,11 @@
   highlights: []
   lastUpdate: '2024-05-24T21:15:53.872Z'
   domain: daylightcomputer.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 790676190
   collectionId: -1
   parsed: {}
@@ -4849,7 +4957,11 @@
   highlights: []
   lastUpdate: '2024-05-24T11:51:51.741Z'
   domain: returntozerofilm.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 790485450
   collectionId: 37136905
   parsed: {}
@@ -4880,7 +4992,11 @@
   highlights: []
   lastUpdate: '2024-05-24T11:19:41.446Z'
   domain: jenkemmag.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 790475253
   collectionId: 37459360
   parsed: {}
@@ -4908,7 +5024,11 @@
   highlights: []
   lastUpdate: '2024-05-23T11:49:43.133Z'
   domain: stvnthoms.co.uk
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 790039885
   collectionId: 37577000
   parsed: {}
@@ -4941,7 +5061,11 @@
   highlights: []
   lastUpdate: '2024-05-17T07:54:41.814Z'
   domain: tiarebowman.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 786716974
   collectionId: 37577000
   parsed: {}
@@ -5003,7 +5127,11 @@
     _id: 6645ca29969d6aa1aa3b28e1
   lastUpdate: '2024-05-16T08:56:09.189Z'
   domain: ia.net
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 786172781
   collectionId: -1
   parsed: {}
@@ -5076,7 +5204,11 @@
   highlights: []
   lastUpdate: '2024-05-17T07:55:06.505Z'
   domain: youtube.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 785216526
   collectionId: -1
   parsed: {}
@@ -5119,7 +5251,11 @@
   highlights: []
   lastUpdate: '2024-05-07T11:53:03.462Z'
   domain: youtube.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 782365917
   collectionId: 37679919
   parsed: {}
@@ -5157,7 +5293,11 @@
   highlights: []
   lastUpdate: '2024-05-06T14:54:54.940Z'
   domain: bentsai.mmm.page
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 781720417
   collectionId: 37576903
   parsed: {}
@@ -5205,7 +5345,11 @@
   highlights: []
   lastUpdate: '2024-05-05T19:04:11.069Z'
   domain: youtube.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 781371988
   collectionId: -1
   parsed: {}
@@ -5250,7 +5394,11 @@
   highlights: []
   lastUpdate: '2024-05-05T18:46:18.649Z'
   domain: youtube.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 781280329
   collectionId: 37136914
   parsed: {}
@@ -5283,7 +5431,11 @@
     oid: 37603939
   lastUpdate: '2024-04-25T20:41:50.764Z'
   domain: lawsonchapman.substack.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 775414469
   collectionId: 37603939
   parsed: {}
@@ -5330,7 +5482,11 @@
     _id: 662a44194f458a61f7f25bd8
   lastUpdate: '2024-04-25T11:52:58.604Z'
   domain: radiusbooks.org
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 775066458
   collectionId: 36103677
   parsed: {}
@@ -5368,7 +5524,11 @@
   highlights: []
   lastUpdate: '2024-04-23T20:09:45.138Z'
   domain: barbessurfclub.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 774175284
   collectionId: -1
   parsed: {}
@@ -5416,7 +5576,11 @@
   highlights: []
   lastUpdate: '2024-04-23T15:12:48.231Z'
   domain: youtube.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 774097200
   collectionId: -1
   parsed: {}
@@ -5457,7 +5621,11 @@
   highlights: []
   lastUpdate: '2024-04-19T10:24:48.706Z'
   domain: becomingcrew.substack.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 771926029
   collectionId: 37603939
   parsed: {}
@@ -5498,7 +5666,11 @@
     oid: 37459371
   lastUpdate: '2024-04-19T10:32:46.371Z'
   domain: store.magnumphotos.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 771694611
   collectionId: 37459371
   parsed: {}
@@ -5538,7 +5710,11 @@
   highlights: []
   lastUpdate: '2024-04-19T10:33:52.413Z'
   domain: indoek.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 770852702
   collectionId: 37136905
   parsed: {}
@@ -5569,7 +5745,11 @@
   highlights: []
   lastUpdate: '2024-04-19T10:34:07.057Z'
   domain: youtube.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 770675699
   collectionId: -1
   parsed: {}
@@ -5605,7 +5785,11 @@
   highlights: []
   lastUpdate: '2024-04-19T10:34:32.461Z'
   domain: youtube.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 770599331
   collectionId: 37136905
   parsed: {}
@@ -5637,7 +5821,11 @@
     oid: 39911296
   lastUpdate: '2024-04-16T09:16:45.471Z'
   domain: mayerowitz.io
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 770542769
   collectionId: 39911296
   parsed: {}
@@ -5681,7 +5869,11 @@
     oid: 37136914
   lastUpdate: '2024-04-11T07:11:33.500Z'
   domain: youtube.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 767304167
   collectionId: 37136914
   parsed: {}
@@ -5719,7 +5911,11 @@
   highlights: []
   lastUpdate: '2024-04-10T19:17:50.654Z'
   domain: images.wur.nl
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 767138044
   collectionId: 38035089
   parsed: {}
@@ -5753,7 +5949,11 @@
   highlights: []
   lastUpdate: '2024-04-10T18:58:58.589Z'
   domain: youtube.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 767135738
   collectionId: 37136905
   parsed: {}
@@ -5834,7 +6034,11 @@
     _id: 6616471ae04abf3bdbc5b412
   lastUpdate: '2024-04-10T08:00:26.648Z'
   domain: youtube.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 766947776
   collectionId: 37576903
   parsed: {}
@@ -5878,7 +6082,11 @@
     oid: 37136905
   lastUpdate: '2024-04-09T05:30:09.309Z'
   domain: almondsurfboards.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 766300759
   collectionId: 37136905
   parsed: {}
@@ -5916,7 +6124,11 @@
     "$ref": collections
     "$id": -1
     oid: -1
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 765729457
   important: true
   collectionId: -1
@@ -5949,7 +6161,11 @@
   highlights: []
   lastUpdate: '2024-04-07T19:41:31.076Z'
   domain: gitlab.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 764889305
   collectionId: 38035089
   parsed: {}
@@ -5995,7 +6211,11 @@
   highlights: []
   lastUpdate: '2024-04-07T19:39:52.393Z'
   domain: youtube.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 764325292
   collectionId: 37136914
   parsed: {}
@@ -6044,7 +6264,11 @@
   highlights: []
   lastUpdate: '2024-04-07T19:39:56.187Z'
   domain: youtube.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 764281782
   collectionId: -1
   parsed: {}
@@ -6094,7 +6318,11 @@
   highlights: []
   lastUpdate: '2024-04-07T19:40:17.567Z'
   domain: youtube.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 764270611
   collectionId: 37603939
   parsed: {}
@@ -6128,7 +6356,11 @@
     oid: 37679987
   lastUpdate: '2024-04-07T19:41:01.904Z'
   domain: vox.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 764076070
   collectionId: 37679987
   parsed: {}
@@ -6171,7 +6403,11 @@
   highlights: []
   lastUpdate: '2024-04-07T19:41:58.156Z'
   domain: waterbear.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 763885098
   collectionId: 37603939
   parsed: {}
@@ -6223,7 +6459,11 @@
   highlights: []
   lastUpdate: '2024-04-07T19:42:49.348Z'
   domain: youtube.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 763391896
   collectionId: 37576903
   parsed: {}
@@ -6261,7 +6501,11 @@
     oid: 37136905
   lastUpdate: '2024-04-07T19:43:16.116Z'
   domain: m.youtube.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 762800162
   collectionId: 37136905
   parsed: {}
@@ -6323,7 +6567,11 @@
   highlights: []
   lastUpdate: '2024-04-07T19:43:37.956Z'
   domain: youtube.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 761253965
   collectionId: 39748190
   parsed: {}
@@ -6362,7 +6610,11 @@
   highlights: []
   lastUpdate: '2024-03-27T14:17:40.803Z'
   domain: joebrook.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 760413048
   collectionId: 37577000
   parsed: {}
@@ -6414,7 +6666,11 @@
   highlights: []
   lastUpdate: '2024-03-27T13:39:01.706Z'
   domain: youtube.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 760398418
   collectionId: 37459360
   parsed: {}
@@ -6452,7 +6708,11 @@
   highlights: []
   lastUpdate: '2024-03-27T12:23:49.024Z'
   domain: blabacphoto.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 760377126
   collectionId: 37577000
   parsed: {}
@@ -6511,7 +6771,11 @@
   highlights: []
   lastUpdate: '2024-03-26T10:58:00.954Z'
   domain: youtube.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 759757675
   collectionId: 37459371
   parsed: {}
@@ -6542,7 +6806,11 @@
     oid: 37459360
   lastUpdate: '2024-03-24T18:45:49.968Z'
   domain: youtube.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 758872387
   collectionId: 37459360
   parsed: {}
@@ -6585,7 +6853,11 @@
   highlights: []
   lastUpdate: '2024-03-22T13:08:26.984Z'
   domain: youtube.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 758055765
   collectionId: 37136905
   parsed: {}
@@ -6613,7 +6885,11 @@
   highlights: []
   lastUpdate: '2024-03-22T08:28:17.124Z'
   domain: kayserifserif.place
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 757993732
   collectionId: 37577000
   parsed: {}
@@ -6660,7 +6936,11 @@
   highlights: []
   lastUpdate: '2024-03-22T08:26:20.480Z'
   domain: youtube.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 757993484
   collectionId: 37603939
   parsed: {}
@@ -6711,7 +6991,11 @@
   highlights: []
   lastUpdate: '2024-03-21T15:42:17.203Z'
   domain: youtube.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 757664559
   collectionId: 37459360
   parsed: {}
@@ -6743,7 +7027,11 @@
     oid: 37136905
   highlights: []
   domain: youtube.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 754549289
   collectionId: 37136905
   parsed: {}
@@ -6794,7 +7082,11 @@
     oid: 37136905
   highlights: []
   domain: youtube.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 754057057
   collectionId: 37136905
   parsed: {}
@@ -6825,7 +7117,11 @@
     oid: 42538741
   highlights: []
   domain: hoteldesdunes.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 753954031
   collectionId: 42538741
   parsed: {}
@@ -6864,7 +7160,11 @@
     oid: 37136905
   highlights: []
   domain: huckmag.com
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 752746300
   collectionId: 37136905
   parsed: {}
@@ -19175,7 +19475,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: nytimes.com
   title: Opinion | The Tyranny of Convenience (Published 2018)
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601725
   important: true
   collectionId: 37603939
@@ -19203,7 +19507,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: monsterchildren.com
   title: Looking Back At Our Favorite enjoi Ads — Monster Children
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601705
   important: true
   collectionId: 37459360
@@ -19231,7 +19539,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: vimeo.com
   title: LET US ROAM - Ray Barbee
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601723
   important: true
   collectionId: 37459371
@@ -19259,7 +19571,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: youtube.com
   title: 'Ray Barbee: A Common Thread - An ILFORD Inspires film'
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601722
   important: true
   collectionId: 37459371
@@ -19287,7 +19603,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: vimeo.com
   title: 'Ed Templeton: A Professional Skateboarder Turns Artist'
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601687
   important: true
   collectionId: 37459360
@@ -19315,7 +19635,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: gear.vogelius.se
   title: GEAR - Leica M 262 in the family tree
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601724
   important: true
   collectionId: 37459371
@@ -19344,7 +19668,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: indoek.com
   title: Surf Shacks 092 – Mario Wehle + Petrina Reddy
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 646624082
   important: true
   collectionId: 37136914
@@ -19372,7 +19700,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: saints-at-sea.com
   title: Interior Design in Lisbon District | Saints at Sea Ericeira
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601640
   important: true
   collectionId: 37136914
@@ -19400,7 +19732,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: fieldmag.herokuapp.com
   title: How Three Women Sailed Across the Atlantic in a 50-Year-Old Boat
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601563
   important: true
   collectionId: 37679925
@@ -19428,7 +19764,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: craigmod.com
   title: Walking Zelda
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601544
   important: true
   collectionId: 37456415
@@ -19456,7 +19796,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: finisterre.com
   title: 'Matty Snelling: Creative Everyday'
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601543
   important: true
   collectionId: 37456415
@@ -19484,7 +19828,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: vimeo.com
   title: DÉPLACER LE SILENCE with Lola Mignot
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601758
   important: true
   collectionId: 37136909
@@ -19513,7 +19861,11 @@
   domain: youtube.com
   title: 'The Physics of Noseriding: The science of surfing’s fluid dance | Patagonia
     Films'
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601730
   important: true
   collectionId: 37136909
@@ -19541,7 +19893,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: mentalhellth.xyz
   title: Making Space for Fun Under Capitalism
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601540
   important: true
   collectionId: 37456415
@@ -19570,7 +19926,11 @@
   domain: nytimes.com
   title: A Big-Wave Photographer Faces Frigid Water, Sharks and Currents to Get the
     Shot
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601715
   important: true
   collectionId: 37136905
@@ -19598,7 +19958,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: medium.com
   title: On Belonging
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601538
   important: true
   collectionId: 37456415
@@ -19624,7 +19988,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: zenhabits.net
   title: https://zenhabits.net/we-make-everything-harder/
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601530
   important: true
   collectionId: 37603939
@@ -19652,7 +20020,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: rauno.me
   title: Web Interface Guidelines
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601724
   important: true
   collectionId: 37456469
@@ -19680,7 +20052,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: youtube.com
   title: Le MEILLEUR LABO ARGENTIQUE en EUROPE ? | Carmencita Lab Review
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601725
   important: true
   collectionId: 37459371
@@ -19708,7 +20084,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: fieldmag.herokuapp.com
   title: This LA Photographer Is Empowering Black Surfers With a New Book
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601716
   important: true
   collectionId: 37136905
@@ -19736,7 +20116,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: blog.rachelbinx.com
   title: The Unbearable Sameness of the Modern Web
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601533
   important: true
   collectionId: 37456415
@@ -19764,7 +20148,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: notes.ashsmash.com
   title: Notes from Ash Huang
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601532
   important: true
   collectionId: 37456415
@@ -19792,7 +20180,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: rachelbinx.com
   title: Rachel Binx
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601531
   important: true
   collectionId: 37456415
@@ -19821,7 +20213,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: lucy-ives.com
   title: L Ives
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601530
   important: true
   collectionId: 37456415
@@ -19849,7 +20245,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: youtube.com
   title: If you need an excuse to buy another camera - here you go
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601726
   important: true
   collectionId: 37459371
@@ -26794,7 +27194,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: wearelookingsideways.com
   title: '171: Sam Bleakley - Looking Sideways'
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601289
   important: true
   collectionId: 37456415
@@ -26822,7 +27226,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: wreckedparis.com
   title: Quiberon on film -
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601288
   important: true
   collectionId: 37456415
@@ -26850,7 +27258,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: forrestmankins.com
   title: POINT + SHOOT — Forrest Mankins
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601287
   important: true
   collectionId: 37456415
@@ -26878,7 +27290,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: damienaa.substack.com
   title: Ma Petite Lettre 46
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601286
   important: true
   collectionId: 37456415
@@ -26906,7 +27322,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: finisterre.com
   title: The Science Of Cold Water Swimming | The Broadcast
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601285
   important: true
   collectionId: 37456415
@@ -26934,7 +27354,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: beside.media
   title: Choisir le silence
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601284
   important: true
   collectionId: 37456415
@@ -26962,7 +27386,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: akurat.studio
   title: Work — Akurat
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601283
   important: true
   collectionId: 37456415
@@ -26990,7 +27418,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: saltwater-magazine.com
   title: OFF ROAD — Salt Water.
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601282
   important: true
   collectionId: 37456415
@@ -27018,7 +27450,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: finisterre.com
   title: "'Tribe' - Mike Lay"
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601281
   important: true
   collectionId: 37456415
@@ -27046,7 +27482,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: foglietto.fr
   title: Kit
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601280
   important: true
   collectionId: 37456415
@@ -27074,7 +27514,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: usbeketrica.com
   title: "« Happycratie » : faut-il en finir avec le développement personnel ?"
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601279
   important: true
   collectionId: 37456415
@@ -27102,7 +27546,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: theguardian.com
   title: Ten ways to confront the climate crisis without losing hope | Rebecca Solnit
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601278
   important: true
   collectionId: 37456415
@@ -27131,7 +27579,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: madebyfinn.com
   title: CEREAL MAGAZINE - HAY-ON-WYE — FINN BEALES
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601277
   important: true
   collectionId: 37456415
@@ -27157,7 +27609,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: abbyleighton.com
   title: https://www.abbyleighton.com/generalstore
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601276
   important: true
   collectionId: 37456415
@@ -27185,7 +27641,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: fieldmag.com
   title: From NYC Artist to Designing National Park Souvenirs in Moab
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601275
   important: true
   collectionId: 37456415
@@ -27214,7 +27674,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: nationalparktypeface.com
   title: National Park Typeface
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601274
   important: true
   collectionId: 37456415
@@ -27243,7 +27707,11 @@
   domain: huckberry.com
   title: Like brushing your teeth, if you do it every morning, it'll make you a whole
     lot easier to be around
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601273
   important: true
   collectionId: 37456415
@@ -27271,7 +27739,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: craigmod.com
   title: What's at Stake? — Roden newsletter issue 064
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601272
   important: true
   collectionId: 37456415
@@ -27299,7 +27771,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: youtube.com
   title: LESS IS MORE - version française (film complet)
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601271
   important: true
   collectionId: 37456415
@@ -27325,7 +27801,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: taylorpendletonphoto.com
   title: https://taylorpendletonphoto.com/about
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601270
   important: true
   collectionId: 37456415
@@ -27353,7 +27833,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: newyorker.com
   title: Can “Distraction-Free” Devices Change the Way We Write?
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601269
   important: true
   collectionId: 37456415
@@ -27381,7 +27865,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: papersky.jp
   title: Electric Bike RideMisaki - PAPERSKY
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601268
   important: true
   collectionId: 37456415
@@ -27410,7 +27898,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: indoek.com
   title: Surf Shacks 089 – Michael Townsend + Lara Wilson
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601267
   important: true
   collectionId: 37456415
@@ -27438,7 +27930,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: hellolaroux.com
   title: Les bienfaits de la marche pour être bien dans son corps et sa tête
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601266
   important: true
   collectionId: 37456415
@@ -27464,7 +27960,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: monsterchildren.com
   title: https://www.monsterchildren.com/the-amazing-grace-of-beatrice-domond/
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601265
   important: true
   collectionId: 37456415
@@ -30399,7 +30899,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: realfunwow.com
   title: Design & Humor Blended Together Creating Home Goods, Art & Apparel
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601162
   important: true
   collectionId: 37456415
@@ -30429,7 +30933,11 @@
   title: 'Marynn Letemplier on Instagram: "She loves to spend hours watching cars
     passing by. He loves to float around in her head. I love to make stories about
     it. . Filmed & Directed by @sebastienabes Music by @sentinel.sjl for @quiksilver.womens"'
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601161
   important: true
   collectionId: 37456415
@@ -30457,7 +30965,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: lesothers.com
   title: 'Un road trip en Alaska : 3000 km au coeur de ses grands espaces'
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601160
   important: true
   collectionId: 37456415
@@ -30485,7 +30997,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: netflix.com
   title: Watch The Mitchells vs. The Machines | Netflix Official Site
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601159
   important: true
   collectionId: 37456415
@@ -30513,7 +31029,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: disney.fr
   title: Luca - Exclusivement en streaming dès maintenant | Disney
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601158
   important: true
   collectionId: 37456415
@@ -30542,7 +31062,11 @@
   domain: craigmod.com
   title: Big Walk Energy, Story Demystified, Film Review — Roden newsletter issue
     056
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601157
   important: true
   collectionId: 37456415
@@ -30571,7 +31095,11 @@
   domain: lemonde.fr
   title: 'Dérèglement climatique : l’humanité à l’aube de retombées cataclysmiques,
     alerte un projet de rapport du GIEC'
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601156
   important: true
   collectionId: 37456415
@@ -30599,7 +31127,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: wearelookingsideways.com
   title: '156: Sally McGee - Looking Sideways'
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601155
   important: true
   collectionId: 37456415
@@ -30627,7 +31159,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: loudandquiet.com
   title: 'Soulwax: Midnight Chats – Episode 108 - Loud And Quiet'
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601154
   important: true
   collectionId: 37456415
@@ -30655,7 +31191,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: warm-collective.com
   title: Just Go Fucking Surfing - Warm Collective
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601153
   important: true
   collectionId: 37456415
@@ -30683,7 +31223,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: julian.digital
   title: A Meta-Layer for Notes
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601152
   important: true
   collectionId: 37456415
@@ -30712,7 +31256,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: briankoberlein.com
   title: The Quiet Web | by Brian Koberlein
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601151
   important: true
   collectionId: 37456415
@@ -30740,7 +31288,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: beside.media
   title: Le monde utopique du VUS
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601150
   important: true
   collectionId: 37456415
@@ -30768,7 +31320,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: instagram.com
   title: Instagram (@hanaiyusuke)
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601149
   important: true
   collectionId: 37456415
@@ -30796,7 +31352,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: friedcactusdc.com
   title: Fried Cactus Studio
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601148
   important: true
   collectionId: 37456415
@@ -30825,7 +31385,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: stefanhunt.com
   title: ART — Stefan Hunt
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601147
   important: true
   collectionId: 37456415
@@ -30854,7 +31418,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: robinrendle.com
   title: The Return of the Blogroll
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601146
   important: true
   collectionId: 37456415
@@ -30882,7 +31450,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: finisterre.com
   title: Peace Found In Saltwater | Blog | The Finisterre Broadcast
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601145
   important: true
   collectionId: 37456415
@@ -30910,7 +31482,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: outofthevalley.co.uk
   title: Nomad Studio
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601144
   important: true
   collectionId: 37456415
@@ -30938,7 +31514,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: fieldmag.com
   title: This Kiwi Beach Hut Is Designed to Respond to Climate Change
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601143
   important: true
   collectionId: 37456415
@@ -30966,7 +31546,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: craigmod.com
   title: A Walk is a Platform for Creative Work
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601142
   important: true
   collectionId: 37456415
@@ -30994,7 +31578,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: fieldmag.com
   title: Stay in 1 of 14 Futuristic Cabins at New French Landscape Hotel
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601141
   important: true
   collectionId: 37456415
@@ -31022,7 +31610,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: fieldmag.com
   title: This Modest Mountain Cabin Embraces Forest Bathing
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601140
   important: true
   collectionId: 37456415
@@ -31050,7 +31642,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: vimeo.com
   title: The Ripple Effect
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601139
   important: true
   collectionId: 37456415
@@ -31076,7 +31672,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: finisterre.com
   title: https://finisterre.com/blogs/broadcast/south-west-coast-path-photographer-of-the-year-2020
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601138
   important: true
   collectionId: 37456415
@@ -34207,7 +34807,11 @@
   domain: unevenearth.org
   title: 'Utopia, not futurism: Why doing the impossible is the most rational thing
     we can do - Uneven Earth'
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601035
   important: true
   collectionId: 37456415
@@ -34233,7 +34837,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: julian.com
   title: https://www.julian.com/guide/write/introductions
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601034
   important: true
   collectionId: 37456415
@@ -34261,7 +34869,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: graphics.reuters.com
   title: Drowning in plastic
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601033
   important: true
   collectionId: 37456415
@@ -34290,7 +34902,11 @@
   domain: huckberry.com
   title: New York Times Bestselling Author James Nestor explains how better breathing
     will change your life
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601032
   important: true
   collectionId: 37456415
@@ -34319,7 +34935,11 @@
   domain: eu.patagonia.com
   title: What One Small Farm Can Teach Us About Our Broken Food System - Patagonia
     Stories
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601031
   important: true
   collectionId: 37456415
@@ -34347,7 +34967,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: beside.media
   title: Comment cuisiner sur le feu
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601030
   important: true
   collectionId: 37456415
@@ -34375,7 +34999,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: beside.media
   title: Air salin et liberté
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601029
   important: true
   collectionId: 37456415
@@ -34403,7 +35031,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: theguardian.com
   title: "'People don't want to fly': Covid-19 reawakens Europe's sleeper trains"
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601028
   important: true
   collectionId: 37456415
@@ -34431,7 +35063,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: lesothers.com
   title: 6 spots de surf en France
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601027
   important: true
   collectionId: 37456415
@@ -34459,7 +35095,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: cleversupply.co
   title: Minimal Anchor Strap (Peak Design AL)
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601026
   important: true
   collectionId: 37456415
@@ -34488,7 +35128,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: ryantatar.com
   title: Ryan Tatar Photography book — Ryan Tatar Photography
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601025
   important: true
   collectionId: 37456415
@@ -34516,7 +35160,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: lagreensession.com
   title: Rencontre avec Lea Brassy une waterwoman engagée - La Green Session
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601024
   important: true
   collectionId: 37456415
@@ -34542,7 +35190,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: chilowe.com
   title: https://www.chilowe.com/aventure-enfant-famille/
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601023
   important: true
   collectionId: 37456415
@@ -34571,7 +35223,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: taylorandhinds.com.au
   title: Our Work — Taylor + Hinds Architects
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601022
   important: true
   collectionId: 37456415
@@ -34597,7 +35253,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: salty-design.com
   title: https://salty-design.com/
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601021
   important: true
   collectionId: 37456415
@@ -34625,7 +35285,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: beside.media
   title: L'architecte de communauté
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601020
   important: true
   collectionId: 37456415
@@ -34653,7 +35317,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: youtube.com
   title: 'Un avenir désirable pour 2030 : Ce qu''il nous reste à faire'
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601019
   important: true
   collectionId: 37456415
@@ -34681,7 +35349,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: beside.media
   title: Field Notes of a New Forager
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601018
   important: true
   collectionId: 37456415
@@ -34709,7 +35381,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: jessicamgibson.com
   title: Jessica Gibson
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601017
   important: true
   collectionId: 37456415
@@ -34737,7 +35413,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: mailchi.mp
   title: Noah Kalina
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601016
   important: true
   collectionId: 37456415
@@ -34765,7 +35445,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: le-chien-a-taches.com
   title: Mes boutiques déco préférées
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601015
   important: true
   collectionId: 37456415
@@ -34794,7 +35478,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: joeyart.com
   title: Joey Chou
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601014
   important: true
   collectionId: 37456415
@@ -34822,7 +35510,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: beside.media
   title: Les ongles sales
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601013
   important: true
   collectionId: 37456415
@@ -34850,7 +35542,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: beside.media
   title: L’autonomie solidaire
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601012
   important: true
   collectionId: 37456415
@@ -34879,7 +35575,11 @@
   lastUpdate: '2023-12-04T11:44:11.477Z'
   domain: tinykat.cafe
   title: Loading...
-  creatorRef: 1617030
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
   sort: 645601011
   important: true
   collectionId: 37456415
