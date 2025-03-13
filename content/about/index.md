@@ -34,7 +34,7 @@ Current gear:
 - A small Contax T3
 - [Nikonos V](/nikonos-v) with a 35mm
 
-I stopped thinking about home scans thanks to my great relationship with my beloved lab, [Mori](https://morifilmlab.com). It is way better to build relationship than skills. But hey, it is still somewhere, always.
+I send most of my films to [Malvarrosa Film Lab](https://malvarrosafilmlab.com/). They are great and have a really good service.
 
 
 ## Surf
@@ -54,7 +54,7 @@ I am writing a [small letter in french](/bonjour) about all and nothing every tw
 
 ## Favorites
 
-📷 → Negatives get developed and scanned mostly by [Mori Film Lab](https://morifilmlab.com).
+📷 → Negatives get developed and scanned mostly by [Malvarrosa Film Lab](https://malvarrosafilmlab.com).
 
 ☕️ → Most of my coffee beans comes from [Mok Coffee](https://mokcoffee.be) and [Terres de café](https://terresdecafe.com). But I still like to try new roasters from time to time. Looking for suggestions
 

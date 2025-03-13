@@ -1,5 +1,7 @@
 ---
 title: "Mori Film Lab"
+archive: true
+published: false
 slug: "mori"
 subtitle: "Le labo au milieu de la Forest"
 description: "Quelques mots sur mon labo argentique actuel"
