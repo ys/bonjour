@@ -1,4 +1,38 @@
 ---
+- _id: 992665757
+  link: https://www.youtube.com/watch?v=JAv5ChlwJ68&list=WL&index=12
+  title: CATALOG by Log Rap
+  excerpt: ''
+  note: Hip-hop and Log
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/JAv5ChlwJ68/hqdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/JAv5ChlwJ68/hqdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-03-14T18:39:36.990Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2025-03-14T18:39:48.714Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 992665757
+  collectionId: 37136905
+  parsed: {}
 - _id: 988993064
   link: https://www.surfersjournal.com/editorial/soundings-ed-templeton/
   title: Ed Templeton - The Surfers Journal
