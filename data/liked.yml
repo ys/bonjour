@@ -1,4 +1,38 @@
 ---
+- _id: 993879852
+  link: https://www.youtube.com/watch?v=zCJEtSVfJ2Y
+  title: After School - False Bay Logging
+  excerpt: ''
+  note: Obsessed at looking at feet at takeoff
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/zCJEtSVfJ2Y/hqdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/zCJEtSVfJ2Y/hqdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-03-16T13:29:21.038Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2025-03-16T13:29:41.640Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 993879852
+  collectionId: 37136905
+  parsed: {}
 - _id: 992665757
   link: https://www.youtube.com/watch?v=JAv5ChlwJ68&list=WL&index=12
   title: CATALOG by Log Rap
