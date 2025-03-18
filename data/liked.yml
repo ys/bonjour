@@ -1,4 +1,39 @@
 ---
+- _id: 994893321
+  link: https://www.youtube.com/watch?v=5EolHiQa2lo&list=WL&index=6
+  title: I MADE The ULTIMATE Gameboy Advance | Livestream, HDMI, USB-C, IPS Screen
+    Install
+  excerpt: ''
+  note: I kind of want to do it
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/5EolHiQa2lo/hqdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/5EolHiQa2lo/hqdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-03-18T09:09:14.684Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2025-03-18T09:09:22.107Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 994893321
+  collectionId: -1
+  parsed: {}
 - _id: 993879852
   link: https://www.youtube.com/watch?v=zCJEtSVfJ2Y
   title: After School - False Bay Logging
