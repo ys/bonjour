@@ -1,4 +1,81 @@
 ---
+- _id: 996951437
+  link: https://libraryman.se/romain-laprade-no-water/
+  title: Romain Laprade — No Water — Libraryman
+  excerpt: 21,5 x 27,5 cm. 32 pages. 22 color plates. Color offset printed paperbound
+    hardcover. Linen thread bound. Beige headband. Typography on front cover, spine
+    and back cover in white foil.
+  note: 'Look at that book, desert, film and nostlagia
+
+    '
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Flibraryman.se%2Fromain-laprade-no-water%2F
+  media: []
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-03-21T10:44:29.784Z'
+  collection:
+    "$ref": collections
+    "$id": 36103677
+    oid: 36103677
+  highlights: []
+  lastUpdate: '2025-03-21T10:44:51.114Z'
+  domain: libraryman.se
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 996951437
+  collectionId: 36103677
+  parsed: {}
+- _id: 996951380
+  link: https://selectco.uk/blogs/books/books-annemarieke-van-drimmelen
+  title: 'Books: Annemarieke Van Drimmelen'
+  excerpt: As a collaborative effort between photographer Annemarieke Van Drimmelen
+    and painter Jasper Krabbe, this series of works were shot on the Greek island
+    of Hydra to “…reimagine a child’s gaze that still has an untethered and pristine
+    view of the world” in the words of Swedish publisher, Libraryman. The artist couple
+    foun
+  note: 'Just discovered her through her last campaign for Zara kids and her work
+    is stunning
+
+    '
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://selectco.uk/cdn/shop/articles/01.jpg?v=1663610332
+  media:
+  - link: http://selectco.uk/cdn/shop/articles/01.jpg?v=1663610332
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-03-21T10:44:02.554Z'
+  collection:
+    "$ref": collections
+    "$id": 37459371
+    oid: 37459371
+  highlights: []
+  lastUpdate: '2025-03-21T10:44:24.032Z'
+  domain: selectco.uk
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 996951380
+  collectionId: 37459371
+  parsed: {}
 - _id: 994893321
   link: https://www.youtube.com/watch?v=5EolHiQa2lo&list=WL&index=6
   title: I MADE The ULTIMATE Gameboy Advance | Livestream, HDMI, USB-C, IPS Screen
