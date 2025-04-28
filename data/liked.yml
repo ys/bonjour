@@ -1,4 +1,42 @@
 ---
+- _id: 1026996074
+  link: https://www.youtube.com/watch?v=fr8ZTK980zY
+  title: Inside This Entrepreneur & Former Pro Surfer's Coastal New Jersey Home |
+    Huckberry Homes
+  excerpt: 'Shop Luke’s Outfit on Huckberry: https://bit.ly/42smMqPMeet Luke DiTella—once
+    a pro surfer, now the founder of Frank August whiskey, and an all-around Renais...'
+  note: Love when people design their place with such intensity
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/fr8ZTK980zY/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/fr8ZTK980zY/maxresdefault.jpg
+    type: image
+  - link: https://www.youtube.com/embed/fr8ZTK980zY
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-04-28T10:41:11.683Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2025-04-28T10:41:24.925Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1026996074
+  collectionId: -1
+  parsed: {}
 - _id: 999371951
   link: https://youtube.com/watch?v=fmr_hhZ7RpE&si=VoHUiORiD6-wm4aL
   title: Gaël Faye en live chez Radio Nova | Chambre noire
