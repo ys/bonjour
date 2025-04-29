@@ -1,4 +1,38 @@
 ---
+- _id: 1028037742
+  link: https://youtube.com/watch?v=3tVtlco6VZY&si=9nDMvjVPeSggA3p0
+  title: The Photography of Jerry Hsu
+  excerpt: In this video I'm sitting down for a conversation with Jerry Hsu to discuss
+    his photographyThanks Squarespace for making this video possible. Go to https://w...
+  note: Love how he talks about his photography, his projects and skateboarding. Also
+    his anti conformism to hi res
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/3tVtlco6VZY/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/3tVtlco6VZY/maxresdefault.jpg
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2025-04-29T09:32:19.056Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  lastUpdate: '2025-04-29T09:41:26.485Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1028037742
+  collectionId: -1
+  parsed: {}
 - _id: 1026996074
   link: https://www.youtube.com/watch?v=fr8ZTK980zY
   title: Inside This Entrepreneur & Former Pro Surfer's Coastal New Jersey Home |
