@@ -1,4 +1,43 @@
 ---
+- _id: 1029345512
+  link: https://www.youtube.com/watch?v=W_tqf570tss
+  title: Why This Japanese Artist Still Practices the Millennium Old Art of Paper
+    Making | DIRT Uncut
+  excerpt: 'Watch the full episode of DIRT Kansai: https://bit.ly/43IdJDfIn this DIRT
+    Uncut, Josh got a chance to met up with a Japanese Artist and Washi Maker Wataru
+    Ha...'
+  note: 'Paper nerd here
+
+    '
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/W_tqf570tss/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/W_tqf570tss/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-05-01T08:39:52.566Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2025-05-01T08:39:58.956Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1029345512
+  collectionId: -1
+  parsed: {}
 - _id: 1028037742
   link: https://youtube.com/watch?v=3tVtlco6VZY&si=9nDMvjVPeSggA3p0
   title: The Photography of Jerry Hsu
