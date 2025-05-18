@@ -1,4 +1,38 @@
 ---
+- _id: 1043754508
+  link: https://www.youtube.com/watch?v=M30eOMGqIkc
+  title: これが宮崎のサーフィンとロングボーダー達「Welcome to Miyazaki」 Chapter3 ／ bmpcc4k
+  excerpt: これが宮崎のサーフィンとサーファー達のスタイル「Welcome to Miyazaki 」Chapter 3.日本を代表するロングボーダーの聖地が宮崎にはある。独自のルールとマナーが確立され、いがみ合う事なく、いつもピースフルな空気が流れ笑顔が溢れている。その波質はまるでマリブ。ひとたびテイクオフすればあなたを天...
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/M30eOMGqIkc/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/M30eOMGqIkc/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-05-18T19:03:30.283Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2025-05-18T19:03:34.103Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1043754508
+  collectionId: 37136905
+  parsed: {}
 - _id: 1043753608
   link: https://www.youtube.com/watch?v=NqVwF6oLM10
   title: Small, Windy Fun at The Pass
