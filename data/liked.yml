@@ -1,4 +1,40 @@
 ---
+- _id: 1044948771
+  link: https://www.youtube.com/watch?v=oxSbXoz-BFE
+  title: 'Tenerife : surfer dans des eaux usées | ARTE Regards'
+  excerpt: 'Disponible jusqu''au 17/02/2026Destination de rêve, Tenerife se heurte
+    pourtant à un problème peu ragoûtant : face à l’afflux de touristes et à la croissance
+    ...'
+  note: Clean the crap off the water! Your poop makes surfers sick
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/oxSbXoz-BFE/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/oxSbXoz-BFE/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-05-20T08:25:29.701Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2025-05-20T08:25:50.095Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1044948771
+  collectionId: 37136905
+  parsed: {}
 - _id: 1043754508
   link: https://www.youtube.com/watch?v=M30eOMGqIkc
   title: これが宮崎のサーフィンとロングボーダー達「Welcome to Miyazaki」 Chapter3 ／ bmpcc4k
