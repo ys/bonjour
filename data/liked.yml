@@ -1,4 +1,40 @@
 ---
+- _id: 1081224744
+  link: https://www.youtube.com/watch?v=0UVvnbid7uc
+  title: VILLAGE PM - FIRST TIMES ARE SPECIAL
+  excerpt: FIRST TIMES ARE SPECIALIn order of appearanceThaynan CostaJoffrey MorelNico
+    GisonnoLogan Da Silva OrtizAugustin DesiréFilmed by Elliot BonnabelComposed by
+    Hu...
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/0UVvnbid7uc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHsB4AC0AWKAgwIABABGC8gPCh_MA8=&rs=AOn4CLB2JZNZTQJn5EY0_md13MTuDCx2cw
+  media:
+  - link: https://i.ytimg.com/vi/0UVvnbid7uc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHsB4AC0AWKAgwIABABGC8gPCh_MA8=&rs=AOn4CLB2JZNZTQJn5EY0_md13MTuDCx2cw
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-05-24T18:51:36.111Z'
+  collection:
+    "$ref": collections
+    "$id": 37459360
+    oid: 37459360
+  highlights: []
+  lastUpdate: '2025-05-24T18:51:40.410Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1081224744
+  collectionId: 37459360
+  parsed: {}
 - _id: 1045947663
   link: https://youtube.com/watch?v=Z0y231icJhQ&si=F_Q2E8hNFFgpzsOP
   title: PETITE ÉCRIN | A Surf Short by Harrison Roach, Featuring Victoria Vergara
