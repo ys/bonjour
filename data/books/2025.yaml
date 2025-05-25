@@ -1,5 +1,44 @@
 year: 2025
 books:
+  - title: Hexa
+    subtitle: roman
+    author: Gabrielle Filteau-Chiba
+    date: '2025-05-25T18:29:30.441634Z'
+    read: '2025-05-25T18:29:36.721252Z'
+    rating: 5
+    isbn: '2897724579'
+    isbn13: '9782897724573'
+    pages: 318
+    cover_url: >-
+      https://books.google.com/books/content?id=xnls0AEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE707pCzcpWT55be3qLtXEOwz91pqYoiNaKrxhwjSG0R0X7KqyajQ0e5apGpndYrGcmQDMe_Vf4gRFNeiY3G2VAln4ENw7Jy3ebDVf3AFXkUahzqTszb6ZR4WLgtVIPx4hDZorgTI&source=gbs_api
+    reading: false
+    url: https://www.italictype.com/api/books/5XOwPON/
+  - title: Jacaranda
+    subtitle: Prix Renaudot 2024
+    author: Gaël Faye
+    date: '2025-05-25T18:28:58.075396Z'
+    read: '2025-05-25T18:29:03.598714Z'
+    rating: 5
+    isbn: '2246831466'
+    isbn13: '9782246831464'
+    pages: 261
+    cover_url: >-
+      https://books.google.com/books/publisher/content?id=9jsNEQAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70a_LakWzQ5FAF7hVvzfBMhtV--lgwRb2UhTEGfGUE1xsfAPoGyHXIT514FXNSUBXy5AX_CY5G3LQ92_xJYeKo5uSAd_WQFr--1iI5NXfeNWye9fyGjZNJ8QtQxTvE0OCDmiB4v&source=gbs_api
+    reading: false
+    url: https://www.italictype.com/api/books/8eZYxXN/
+  - title: Dark Matter
+    subtitle: ''
+    author: Blake Crouch
+    date: '2025-05-25T18:27:14.576564Z'
+    read: '2025-05-25T18:27:24.451632Z'
+    rating: 4
+    isbn: '2290116750'
+    isbn13: '9782290116753'
+    pages: 316
+    cover_url: >-
+      https://books.google.com/books/publisher/content?id=hsyeDQAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73sMKgPhSQR41rUfONkWsLzZPhe_u-mKIt-jRXwLRrDkeuEBSRowRpBgoMDRDKD-4mMEfIy55yJGw0X05BQ6yhaD0Hdz-4oe1j7QF0yqmJPOSWkMvt9gdD64t_p2FOiVy7SjtB4&source=gbs_api
+    reading: false
+    url: https://www.italictype.com/api/books/5yr0B3v/
   - title: Coyote
     subtitle: ''
     author: Sylvain Prudhomme
