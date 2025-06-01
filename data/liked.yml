@@ -1,4 +1,39 @@
 ---
+- _id: 1126330339
+  link: https://www.youtube.com/watch?v=4Pt0WUv-K3E
+  title: small prints, BIG IMPACTS
+  excerpt: 'Get 10% Off! Sell Photos and other digital assets! http://squarespace.com/mckinnon
+    Here is a list of the things in the kit I use: Cube Carrying Case: https:/...'
+  note: Print and gift your stuff
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/4Pt0WUv-K3E/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/4Pt0WUv-K3E/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-06-01T09:58:54.950Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2025-06-01T09:59:03.517Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1126330339
+  collectionId: -1
+  parsed: {}
 - _id: 1081224744
   link: https://www.youtube.com/watch?v=0UVvnbid7uc
   title: VILLAGE PM - FIRST TIMES ARE SPECIAL
