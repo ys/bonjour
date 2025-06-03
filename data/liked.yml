@@ -1,4 +1,39 @@
 ---
+- _id: 1132981285
+  link: https://youtube.com/watch?v=gqxX2-yL0PE&si=6S5FsAU2FpOpPQ0D
+  title: Podcast The Flare Club - Rencontre avec la photographe de mode argentique
+    Gladys Tan
+  excerpt: Retrouvez le travail de Gladys Tan sur son site et son compte Instagram
+    @gladys.tanDans cet épidode, elle cite :- le livre "The magic of thinking big"
+    de Dav...
+  note: Love Gladys view on working as a photographer
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/gqxX2-yL0PE/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/gqxX2-yL0PE/maxresdefault.jpg
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2025-06-03T11:35:57.111Z'
+  collection:
+    "$ref": collections
+    "$id": 37459371
+    oid: 37459371
+  lastUpdate: '2025-06-03T11:36:23.683Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1132981285
+  collectionId: 37459371
+  parsed: {}
 - _id: 1126330339
   link: https://www.youtube.com/watch?v=4Pt0WUv-K3E
   title: small prints, BIG IMPACTS
