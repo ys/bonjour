@@ -1,4 +1,39 @@
 ---
+- _id: 1139064411
+  link: https://youtube.com/watch?v=jdJkJ7cZdkI&si=CSKk65B9TOfmtC9c
+  title: How We Made the Best Adventure Travel Show on the Internet | Huckberry’s
+    DIRT Origin Story
+  excerpt: 'Catch up on past episodes of DIRT: https://bit.ly/43DwSoaAfter 13 episodes
+    and millions of views, one of the most common questions we get about DIRT is “How
+    ...'
+  note: "I love how Dirt is made! \n“Go out and explore”"
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/jdJkJ7cZdkI/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/jdJkJ7cZdkI/maxresdefault.jpg
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2025-06-05T12:10:57.862Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  lastUpdate: '2025-06-05T12:11:14.431Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1139064411
+  collectionId: -1
+  parsed: {}
 - _id: 1137424788
   link: https://www.youtube.com/watch?v=XfJkMTVWu3U
   title: 'Turnstile: Tiny Desk (Home) Concert'
