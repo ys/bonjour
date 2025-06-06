@@ -1,4 +1,41 @@
 ---
+- _id: 1141304126
+  link: https://www.youtube.com/watch?v=eUlmGYon5mk&list=PLjHRKTS-Q5-CeCo66kFGivBMF8qB8orPh&index=25&t=22s
+  title: Louisiana's Wild Food & Award-Winning Cuisine | Hog Hunting, Swamp Fishing
+    & MORE | DIRT New Orleans
+  excerpt: http://bit.ly/3UkpLu8 | Check out more on DIRT.In DIRT Episode II, New
+    Orleans, Josh links up with Mason Hereford (owner of award-winning sandwich shop
+    Turke...
+  note: Ok, it is on our list for travelling
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/eUlmGYon5mk/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/eUlmGYon5mk/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-06-06T11:31:28.428Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2025-06-06T11:31:44.790Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1141304126
+  collectionId: -1
+  parsed: {}
 - _id: 1139064411
   link: https://youtube.com/watch?v=jdJkJ7cZdkI&si=CSKk65B9TOfmtC9c
   title: How We Made the Best Adventure Travel Show on the Internet | Huckberry’s
