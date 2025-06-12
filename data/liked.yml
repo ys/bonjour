@@ -1791,6 +1791,61 @@
   sort: 947948153
   collectionId: 39748190
   parsed: {}
+- _id: 946877581
+  link: https://www.youtube.com/watch?v=EWkGYormb34
+  title: Surf & Turf - A South African surfing adventure
+  excerpt: "When Arthur Auclert (https://instagram.com/el.druido) and Felix Lesouef
+    (https://instagram.com/felixlesouef) set off from Cape Town in their trusty sand-colored
+    car, Ernest their goal was simple: to explore South Africa’s breathtaking coastline,
+    ride its iconic waves, and soak in the beauty of life on the road.\n\nOver a month
+    and 7000 kilometers, their journey unfolded like a patchwork of experiences—some
+    planned, many unexpected. From the legendary surf breaks of Jeffrey’s Bay to the
+    quiet charm of the wild coast, from tropical beaches around Umzumbe to starlit
+    nights in Hluhluwe National Park, they discovered the heart of South Africa through
+    its landscapes, waves, and people.\n\nThis is a story of friendship and discovery.
+    It’s about slowing down, taking in the small moments and finding connection in
+    every corner of this remarkable country.\n\nA film by Arthur Auclert & Félix Lesouef.\n\nMusic
+    : \n\n\"Mood Bender\"\nShawn Lee Ping Pong Orchestra\n\n\"Tropidélico\"\nThe Quantic
+    Soul Orchestra\n\n\"Sexy Motherfucker\"\nPrince\n\n\"Ndokulandela\"\nBongeziwe
+    Mabandla \n\n\"Please do\"\nAmir Bresler\n\n\"Iguana Swing\"\nMike Sanders\n\n\"Pata
+    Pata\"\nMiriam Makeba\n\n\"Takumba\"\nBakithi Kumalo\n\n\"Walk On By\"\nIsaac
+    Hayes\n\n\"Love Me or Leave Me Alone\"\nKabelo\n\n\"Weekend Special\"\nBrenda
+    & The Big Dudes\n\n\"We Madoda\"\nThe Brother Moves On\n\n\"No Time to Play\"\nGuru\n\n\"Sunday
+    Runway\"\nPWNT\n\n\"Warico\"\nCheikh Lô\n\n\"Two Generations of Excess\"\nUnknown
+    Mortal Orchestra\n\n\"The Ocean\"\nRichard Hawley\n\nSurf & Turf Soundtrack Spotify
+    playlist via: https://open.spotify.com/playlist/7mWI7sjX44gErdr2gPw2xc?si=euyQGlAIQJm4PdmQxQJ1DA"
+  note: Two beautiful souls wandering and surfing in South Africa
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/EWkGYormb34/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/EWkGYormb34/maxresdefault.jpg
+    type: image
+  - link: https://i.ytimg.com/vi/EWkGYormb34/mqdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-01-16T12:33:42.377Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2025-01-16T12:34:00.769Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 946877581
+  collectionId: 37136905
+  parsed: {}
 - _id: 945694717
   link: https://www.surfersjournal.com/editorial/noseride-obsessive/
   title: Noseride Obsessive - The Surfers Journal
@@ -3874,43 +3929,6 @@
   sort: 849405926
   collectionId: 37459360
   parsed: {}
-- _id: 849405926
-  link: https://www.youtube.com/watch?v=8wrkIBG54l4&t=1913s
-  title: HEART - A Tribute to Skateshops - Part 1
-  excerpt: Enjoy the videos and music you love, upload original content, and share
-    it all with friends, family, and the world on YouTube.
-  note: |-
-    I love the vibe you have in a skate shop. It will never be the same online...
-    Online shopping sucks so much, compared to a good small shop with the right vibe
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/8wrkIBG54l4/hqdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/8wrkIBG54l4/hqdefault.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2024-09-06T13:45:04.331Z'
-  collection:
-    "$ref": collections
-    "$id": 37459360
-    oid: 37459360
-  highlights: []
-  lastUpdate: '2024-09-08T15:47:34.447Z'
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 849405926
-  collectionId: 37459360
-  parsed: {}
 - _id: 848016706
   link: https://finisterre.com/blogs/broadcast/jeff-canham-colour-culture
   title: 'Jeff Canham: Colour & Culture'
@@ -4863,6 +4881,46 @@
     email: ''
   sort: 827318366
   collectionId: 37136905
+  parsed: {}
+- _id: 826006283
+  link: https://www.youtube.com/watch?v=INQ--Af7Pts
+  title: DIRT Director Shares Her EDC Essentials For Travel & Filming Around The World
+    | Huckberry Gear Lab
+  excerpt: https://bit.ly/3sjazWf | Read more about Kate's EDC on the Huckberry Journal
+    In-between filming episodes of DIRT, the Director of Huckberry Presents Kate Wes...
+  note: 'Always carry gummy bears
+
+    '
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/INQ--Af7Pts/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/INQ--Af7Pts/maxresdefault.jpg
+    type: image
+  - link: https://i.ytimg.com/vi/INQ--Af7Pts/hqdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2024-07-31T13:08:43.767Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2024-07-31T13:08:52.405Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 826006283
+  collectionId: -1
   parsed: {}
 - _id: 818328379
   link: https://www.youtube.com/watch?v=LCjQsB0sDW8
@@ -5989,41 +6047,6 @@
     email: ''
   sort: 790485450
   collectionId: 37136905
-  parsed: {}
-- _id: 790475253
-  link: https://www.jenkemmag.com/home/2024/05/08/turning-classic-skate-soundtracks-into-a-radio-show-with-nts-skate-muzik/
-  title: TURNING CLASSIC SKATE SOUNDTRACKS INTO AN NTS RADIO SHOW - Jenkem Magazine
-  excerpt: His episodes centered around different skate themes give you a musical
-    deep dive found nowhere else.
-  note: I wished I knew this show years ago. Such a great thing to listen to
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://www.jenkemmag.com/home/wp-content/uploads/2024/05/Muzik.jpg
-  media:
-  - link: https://www.jenkemmag.com/home/wp-content/uploads/2024/05/Muzik.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2024-05-24T11:19:14.279Z'
-  collection:
-    "$ref": collections
-    "$id": 37459360
-    oid: 37459360
-  highlights: []
-  lastUpdate: '2024-05-24T11:19:41.446Z'
-  domain: jenkemmag.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 790475253
-  collectionId: 37459360
   parsed: {}
 - _id: 790475253
   link: https://www.jenkemmag.com/home/2024/05/08/turning-classic-skate-soundtracks-into-a-radio-show-with-nts-skate-muzik/
@@ -9375,6 +9398,43 @@
   sort: 732465303
   collectionId: -1
   parsed: {}
+- _id: 732460962
+  link: https://youtube.com/watch?v=qfR46clM5BM&feature=shared
+  title: 'The Skate Legend Who Escaped Death & Saved Thrasher: Don ''Nuge'' Nguyen
+    | Epicly Later''d'
+  excerpt: Epicly Later’d returns with a brand new season. On this premiere episode
+    we sit down with Don ‘Nuge’ Nguyen to learn about his origins in Oklahoma, his
+    move ...
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/qfR46clM5BM/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/qfR46clM5BM/maxresdefault.jpg
+    type: image
+  - link: https://i.ytimg.com/vi/qfR46clM5BM/hqdefault.jpg
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2024-02-09T20:53:16.725Z'
+  lastUpdate: '2024-02-09T20:53:16.725Z'
+  collection:
+    "$ref": collections
+    "$id": 37459360
+    oid: 37459360
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 732460962
+  collectionId: 37459360
+  parsed: {}
 - _id: 731671779
   link: https://www.youtube.com/watch?v=aqsL0QQaSP4
   title: Seafret - Oceans
@@ -10312,47 +10372,6 @@
     email: ''
   sort: 717178026
   collectionId: 37603939
-  parsed: {}
-- _id: 717177641
-  link: https://www.monsterchildren.com/articles/behind-right-down-circle-tony-hawks-pro-skater-a-book-about-tony-hawks-pro-skater-with-author-cole-nowickinbsp
-  title: "‘Behind Right, Down + Circle: Tony Hawk’s Pro Skater’, a book about Tony
-    Hawk’s Pro Skater with Author Cole Nowicki — Monster Children"
-  excerpt: How to 900 on Tony Hawk’s Pro Skater.
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://static1.squarespace.com/static/6398e5b4b3dd441ead33860a/t/65a836cb597fb8190e352009/1705522895865/RD%2BC_ECW_Press.jpeg?format=1500w
-  media:
-  - link: http://static1.squarespace.com/static/6398e5b4b3dd441ead33860a/t/65a836cb597fb8190e352009/1705522895865/RD%2BC_ECW_Press.jpeg?format=1500w
-    type: image
-  - link: https://images.squarespace-cdn.com/content/v1/6398e5b4b3dd441ead33860a/f361e9f7-cdb9-4273-976b-3e0d6e8443d9/RD%2BC_ECW_Press.jpeg?format=2500w
-    type: image
-  - link: https://images.squarespace-cdn.com/content/v1/6398e5b4b3dd441ead33860a/fbb2633e-0e23-490b-88a5-9d9cdbbec147/RD%2BC_Book_Launch.jpeg?format=2500w
-    type: image
-  - link: https://images.squarespace-cdn.com/content/v1/6398e5b4b3dd441ead33860a/8066d359-5aee-4d13-b2d4-ccf3a34d343b/Cole_Leeside_Switch-Tailblock_Carter-Spinks_Photo.jpg?format=2500w
-    type: image
-  - link: https://images.squarespace-cdn.com/content/v1/6398e5b4b3dd441ead33860a/e331f822-54c6-4f7b-91cd-ff93b5eb0a71/Cole_Blunt_Front_Heel_KITTY.gif?format=2500w
-    type: image
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2024-01-18T21:30:35.546Z'
-  lastUpdate: '2024-01-18T21:30:35.546Z'
-  collection:
-    "$ref": collections
-    "$id": 37459360
-    oid: 37459360
-  domain: monsterchildren.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 717177641
-  collectionId: 37459360
   parsed: {}
 - _id: 717176243
   link: https://breanamazzagatte.com/#/558508/
@@ -19600,6 +19619,38 @@
   important: true
   collectionId: 37136909
   parsed: {}
+- _id: 645601600
+  link: https://youtu.be/mcF2cuExdsA
+  excerpt: ''
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/mcF2cuExdsA/maxresdefault.jpg
+  media:
+  - type: image
+    link: https://i.ytimg.com/vi/mcF2cuExdsA/maxresdefault.jpg
+  tags: []
+  removed: false
+  created: '2023-05-03T18:45:39.650Z'
+  collection:
+    "$ref": collections
+    "$id": 37136909
+    oid: 37136909
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: youtu.be
+  title: HAIKU | Surf Film | Karina Rozunko | VANS
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601734
+  important: true
+  collectionId: 37136909
+  parsed: {}
 - _id: 645601599
   link: https://www.youtube.com/watch?v=pyhK22C4OiE
   excerpt: ''
@@ -21172,38 +21223,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601723
-  important: true
-  collectionId: 37459371
-  parsed: {}
-- _id: 645601550
-  link: https://www.youtube.com/watch?v=_ODhIMer054
-  excerpt: ''
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/_ODhIMer054/sddefault.jpg
-  media:
-  - type: image
-    link: https://i.ytimg.com/vi/_ODhIMer054/sddefault.jpg
-  tags: []
-  removed: false
-  created: '2023-03-02T11:50:48.908Z'
-  collection:
-    "$ref": collections
-    "$id": 37459371
-    oid: 37459371
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: youtube.com
-  title: 'Ray Barbee: A Common Thread - An ILFORD Inspires film'
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601722
   important: true
   collectionId: 37459371
   parsed: {}
@@ -24416,6 +24435,38 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 645601444
+  link: https://finisterre.com/blogs/broadcast/joy-in-the-process
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://finisterre.com/cdn/shop/articles/unnamed_8ba43253-ba1a-426c-8a83-93152fffea5f.jpg?v=1666176638
+  media:
+  - type: image
+    link: https://finisterre.com/cdn/shop/articles/unnamed_8ba43253-ba1a-426c-8a83-93152fffea5f.jpg?v=1666176638
+  tags: []
+  removed: false
+  created: '2023-01-26T19:51:10.782Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: finisterre.com
+  title: Joy In The Process
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601444
+  important: true
+  collectionId: 37456415
+  parsed: {}
 - _id: 645601443
   link: https://www.youtube.com/watch?v=MugIoMXhcQ0
   excerpt: ''
@@ -25183,38 +25234,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601420
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601419
-  link: https://www.theatlantic.com/family/archive/2022/08/benefits-of-doing-nothing/671035/?mc_cid=a4a816f326
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://cdn.theatlantic.com/thumbor/YrmbU_94s3LgCzQsAFQNm4pKI8o=/0x64:2995x1624/1200x625/media/img/mt/2022/08/HowToBuildALife102/original.jpg
-  media:
-  - type: image
-    link: https://cdn.theatlantic.com/thumbor/YrmbU_94s3LgCzQsAFQNm4pKI8o=/0x64:2995x1624/1200x625/media/img/mt/2022/08/HowToBuildALife102/original.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:49:44.806Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: theatlantic.com
-  title: How to Embrace Doing Nothing
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601419
   important: true
   collectionId: 37456415
   parsed: {}
@@ -38035,6 +38054,36 @@
     name: bonjouryannick
     email: ''
   sort: 645601008
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601007
+  link: https://tinyletter.com/pepibumur/letters/an-online-mind-in-an-offline-world
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: ''
+  media: []
+  tags: []
+  removed: false
+  created: '2023-01-26T19:44:13.480Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: tinyletter.com
+  title: https://tinyletter.com/pepibumur/letters/an-online-mind-in-an-offline-world
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601007
   important: true
   collectionId: 37456415
   parsed: {}
