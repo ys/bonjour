@@ -10424,6 +10424,77 @@
   sort: 717649438
   collectionId: 37136909
   parsed: {}
+- _id: 717178026
+  link: https://zenhabits.net/stoked/
+  title: Stoked
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: ''
+  media: []
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2024-01-18T21:33:29.922Z'
+  lastUpdate: '2024-01-18T21:33:29.922Z'
+  collection:
+    "$ref": collections
+    "$id": 37603939
+    oid: 37603939
+  domain: zenhabits.net
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 717178026
+  collectionId: 37603939
+  parsed: {}
+- _id: 717177641
+  link: https://www.monsterchildren.com/articles/behind-right-down-circle-tony-hawks-pro-skater-a-book-about-tony-hawks-pro-skater-with-author-cole-nowickinbsp
+  title: "‘Behind Right, Down + Circle: Tony Hawk’s Pro Skater’, a book about Tony
+    Hawk’s Pro Skater with Author Cole Nowicki — Monster Children"
+  excerpt: How to 900 on Tony Hawk’s Pro Skater.
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://static1.squarespace.com/static/6398e5b4b3dd441ead33860a/t/65a836cb597fb8190e352009/1705522895865/RD%2BC_ECW_Press.jpeg?format=1500w
+  media:
+  - link: http://static1.squarespace.com/static/6398e5b4b3dd441ead33860a/t/65a836cb597fb8190e352009/1705522895865/RD%2BC_ECW_Press.jpeg?format=1500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/6398e5b4b3dd441ead33860a/f361e9f7-cdb9-4273-976b-3e0d6e8443d9/RD%2BC_ECW_Press.jpeg?format=2500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/6398e5b4b3dd441ead33860a/fbb2633e-0e23-490b-88a5-9d9cdbbec147/RD%2BC_Book_Launch.jpeg?format=2500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/6398e5b4b3dd441ead33860a/8066d359-5aee-4d13-b2d4-ccf3a34d343b/Cole_Leeside_Switch-Tailblock_Carter-Spinks_Photo.jpg?format=2500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/6398e5b4b3dd441ead33860a/e331f822-54c6-4f7b-91cd-ff93b5eb0a71/Cole_Blunt_Front_Heel_KITTY.gif?format=2500w
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2024-01-18T21:30:35.546Z'
+  lastUpdate: '2024-01-18T21:30:35.546Z'
+  collection:
+    "$ref": collections
+    "$id": 37459360
+    oid: 37459360
+  domain: monsterchildren.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 717177641
+  collectionId: 37459360
+  parsed: {}
 - _id: 717176243
   link: https://breanamazzagatte.com/#/558508/
   title: Breana Mazzagatte - Krop
@@ -12424,77 +12495,6 @@
     email: ''
   sort: 687527599
   collectionId: 38035089
-  parsed: {}
-- _id: 687393118
-  link: https://open.substack.com/pub/anthonymorganti/p/the-photography-of-linda-mccartney?r=5cjn3&utm_medium=ios&utm_campaign=post
-  title: The Photography of Linda McCartney
-  excerpt: 'November 27, 2023 issue #100 – She was a professional photographer before
-    she met Paul.'
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F044e2d86-d731-4231-b875-9e7f40b16449.heic
-  media:
-  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F044e2d86-d731-4231-b875-9e7f40b16449.heic
-    type: image
-  - link: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fanthonymorganti.substack.com%2Fapi%2Fv1%2Fpost_preview%2F139208454%2Ftwitter.jpg%3Fversion%3D3
-    type: image
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2023-12-01T08:10:46.462Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 37459371
-    oid: 37459371
-  domain: open.substack.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 687393118
-  collectionId: 37459371
-  parsed: {}
-- _id: 687187752
-  link: https://twitter.com/kepano/status/1730289205551702388
-  title: kepano on Twitter / X
-  excerpt: Disney wanted to simulate droids so they invented real droids. I wonder
-    what Baudrillard would think. pic.twitter.com/CxuNyoYiAL— kepano (@kepano) November
-    30, 2023
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://pbs.twimg.com/ext_tw_video_thumb/1730288573881163776/pu/img/lQlC24pmqr14F2A3?format=jpg&name=medium
-  media:
-  - link: https://pbs.twimg.com/ext_tw_video_thumb/1730288573881163776/pu/img/lQlC24pmqr14F2A3?format=jpg&name=medium
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2023-11-30T19:58:01.813Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 37679987
-    oid: 37679987
-  highlights: []
-  domain: twitter.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 687187752
-  collectionId: 37679987
   parsed: {}
 - _id: 687187752
   link: https://twitter.com/kepano/status/1730289205551702388
@@ -17266,6 +17266,38 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 645601684
+  link: https://barbessurfclub.com/vcommevolvo/
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i0.wp.com/barbessurfclub.com/wp-content/uploads/2019/06/tumblr_omr1ex25Gx1rwwqtpo1_640.jpg?fit=640%2C423&quality=95&ssl=1
+  media:
+  - type: image
+    link: https://i0.wp.com/barbessurfclub.com/wp-content/uploads/2019/06/tumblr_omr1ex25Gx1rwwqtpo1_640.jpg?fit=640%2C423&quality=95&ssl=1
+  tags: []
+  removed: false
+  created: '2023-07-15T17:49:00.994Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: barbessurfclub.com
+  title: V comme Volvo -
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601684
+  important: true
+  collectionId: 37456415
+  parsed: {}
 - _id: 645601683
   link: https://www.huckmag.com/article/chuck-treece-is-kicking-down-doors-so-others-can-roll-through
   excerpt: ''
@@ -18033,38 +18065,6 @@
   sort: 645601692
   important: true
   collectionId: 37459360
-  parsed: {}
-- _id: 645601658
-  link: https://climateandboardsports.substack.com/p/we-dont-take-care-of-the-ocean-like?utm_source=post-email-title&publication_id=1089183&post_id=127134711&isFreemail=true&utm_medium=email
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd1c2e12-15f6-479d-89ed-59c8ced15876_2800x1867.jpeg
-  media:
-  - type: image
-    link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd1c2e12-15f6-479d-89ed-59c8ced15876_2800x1867.jpeg
-  tags: []
-  removed: false
-  created: '2023-06-22T20:17:38.105Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: climateandboardsports.substack.com
-  title: "“We don’t take care of the ocean like it takes care of us.”"
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601700
-  important: true
-  collectionId: 37136905
   parsed: {}
 - _id: 645601656
   link: https://www.youtube.com/watch?v=9g0UMuAyAg0
@@ -26898,6 +26898,70 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 645601366
+  link: https://craigmod.com/ridgeline/145/
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://craigmod.com/ridgeline/images/145/145.jpg
+  media:
+  - type: image
+    link: https://craigmod.com/ridgeline/images/145/145.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:48:53.626Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: craigmod.com
+  title: Walking Alec Soth
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601366
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601365
+  link: https://betterprogramming.pub/you-will-always-have-more-problems-than-engineers-aafff94a4623
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://miro.medium.com/v2/resize:fit:1200/1*DhPQsNoAw2GDlKbdpaJCBA.jpeg
+  media:
+  - type: image
+    link: https://miro.medium.com/v2/resize:fit:1200/1*DhPQsNoAw2GDlKbdpaJCBA.jpeg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:48:53.018Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: betterprogramming.pub
+  title: You will always have more problems than engineers.
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601365
+  important: true
+  collectionId: 37456415
+  parsed: {}
 - _id: 645601364
   link: https://www.nottoolateclimate.com/?utm_source=densediscovery
   excerpt: ''
@@ -28431,70 +28495,6 @@
   important: true
   collectionId: 37456415
   parsed: {}
-- _id: 645601316
-  link: https://www.lemonde.fr/m-perso/article/2022/03/05/tous-ecolo-imparfaits-nos-petits-arrangements-avec-la-culpabilite-ecologique_6116228_4497916.html
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://img.lemde.fr/2022/03/03/0/0/5467/3644/1440/960/60/0/302c5f1_1646319320629-p750m2100688.jpeg
-  media:
-  - type: image
-    link: https://img.lemde.fr/2022/03/03/0/0/5467/3644/1440/960/60/0/302c5f1_1646319320629-p750m2100688.jpeg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:48:07.499Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: lemonde.fr
-  title: Tous écolo-imparfaits ! Nos petits arrangements avec la culpabilité écologique
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601316
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601315
-  link: https://www.imagotv.fr/emissions/les-mavericks/14
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://asset.imagotv.fr/img/content/tvshow/episod/les_mavericks/hd/14.jpg
-  media:
-  - type: image
-    link: https://asset.imagotv.fr/img/content/tvshow/episod/les_mavericks/hd/14.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:48:06.965Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: imagotv.fr
-  title: Les Mavericks
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601315
-  important: true
-  collectionId: 37456415
-  parsed: {}
 - _id: 645601315
   link: https://www.imagotv.fr/emissions/les-mavericks/14
   excerpt: ''
@@ -29298,6 +29298,70 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 645601287
+  link: https://www.forrestmankins.com/pointandshoot
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://static1.squarespace.com/static/540629b5e4b0c094f2dfeca5/t/61d773d5088c8b497c9cd1fa/1641509854051/9744-12-Edit.jpg?format=1500w
+  media:
+  - type: image
+    link: http://static1.squarespace.com/static/540629b5e4b0c094f2dfeca5/t/61d773d5088c8b497c9cd1fa/1641509854051/9744-12-Edit.jpg?format=1500w
+  tags: []
+  removed: false
+  created: '2023-01-26T19:47:42.647Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: forrestmankins.com
+  title: POINT + SHOOT — Forrest Mankins
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601287
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601286
+  link: https://damienaa.substack.com/p/46?utm_source=substack
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9706981e-1776-4983-ac91-cdf6b32ccb4e_1920x1025.jpeg
+  media:
+  - type: image
+    link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9706981e-1776-4983-ac91-cdf6b32ccb4e_1920x1025.jpeg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:47:40.601Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: damienaa.substack.com
+  title: Ma Petite Lettre 46
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601286
+  important: true
+  collectionId: 37456415
+  parsed: {}
 - _id: 645601285
   link: https://finisterre.com/blogs/broadcast/the-science-of-cold-water-swimming
   excerpt: ''
@@ -30027,70 +30091,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601263
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601262
-  link: https://thelocalproject.com.au/articles/eucalypt-house-by-not-all-architecture-project-feature-the-local-project/?utm_source=densediscovery
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://d31dpzy4bseog7.cloudfront.net/media/2021/12/01144812/Eucalypt-House-by-Not-All-Architecture-Project-Feature-The-Local-Project-Image-16.jpg
-  media:
-  - type: image
-    link: https://d31dpzy4bseog7.cloudfront.net/media/2021/12/01144812/Eucalypt-House-by-Not-All-Architecture-Project-Feature-The-Local-Project-Image-16.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:47:20.467Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: thelocalproject.com.au
-  title: Eucalypt House by Not All Architecture - Project Feature - The Local Project
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601262
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601261
-  link: https://www.newphilosopher.com/articles/apocaloptimism/
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://www.newphilosopher.com/wp-content/uploads/2020/04/apocoloptimism.png
-  media:
-  - type: image
-    link: https://www.newphilosopher.com/wp-content/uploads/2020/04/apocoloptimism.png
-  tags: []
-  removed: false
-  created: '2023-01-26T19:47:19.830Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: newphilosopher.com
-  title: Apocaloptimism
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601261
   important: true
   collectionId: 37456415
   parsed: {}
@@ -30862,6 +30862,38 @@
   sort: 645601238
   important: true
   collectionId: 37456415
+  parsed: {}
+- _id: 645601237
+  link: https://youtu.be/lf4sFVEER3A
+  excerpt: ''
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/lf4sFVEER3A/maxresdefault.jpg
+  media:
+  - type: image
+    link: https://i.ytimg.com/vi/lf4sFVEER3A/maxresdefault.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:47:01.585Z'
+  collection:
+    "$ref": collections
+    "$id": 37136909
+    oid: 37136909
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: youtu.be
+  title: 'Vans Surf Presents: Cadavre Exquis | Surf | VANS'
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601714
+  important: true
+  collectionId: 37136909
   parsed: {}
 - _id: 645601237
   link: https://youtu.be/lf4sFVEER3A
@@ -31668,38 +31700,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601213
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601212
-  link: https://youtube.com/watch?v=KClAPipnKqw&feature=share
-  excerpt: ''
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/KClAPipnKqw/maxresdefault.jpg
-  media:
-  - type: image
-    link: https://i.ytimg.com/vi/KClAPipnKqw/maxresdefault.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:46:45.476Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: youtube.com
-  title: 'Technical leadership and glue work - Tanya Reilly | #LeadDevNewYork'
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601212
   important: true
   collectionId: 37456415
   parsed: {}
