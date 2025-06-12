@@ -1,4 +1,41 @@
 ---
+- _id: 1141566683
+  link: https://www.youtube.com/watch?v=3gNph25gxhw&list=PLjHRKTS-Q5-CeCo66kFGivBMF8qB8orPh&index=19
+  title: 'Exploring New York City''s Hidden Culinary Gems: Cooking Goat Brains, Lobster
+    & MORE | DIRT NYC'
+  excerpt: http://bit.ly/3SkySvz | More on DIRTNew. York. City. That’s where our host
+    Josh Rosen kicks off his journey in Episode 4—and where he lived for 16 years
+    and ...
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/3gNph25gxhw/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/3gNph25gxhw/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-06-06T11:58:04.249Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2025-06-06T11:58:04.819Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1141566683
+  collectionId: -1
+  parsed: {}
 - _id: 1141304126
   link: https://www.youtube.com/watch?v=eUlmGYon5mk&list=PLjHRKTS-Q5-CeCo66kFGivBMF8qB8orPh&index=25&t=22s
   title: Louisiana's Wild Food & Award-Winning Cuisine | Hog Hunting, Swamp Fishing
@@ -1753,61 +1790,6 @@
     email: ''
   sort: 947948153
   collectionId: 39748190
-  parsed: {}
-- _id: 946877581
-  link: https://www.youtube.com/watch?v=EWkGYormb34
-  title: Surf & Turf - A South African surfing adventure
-  excerpt: "When Arthur Auclert (https://instagram.com/el.druido) and Felix Lesouef
-    (https://instagram.com/felixlesouef) set off from Cape Town in their trusty sand-colored
-    car, Ernest their goal was simple: to explore South Africa’s breathtaking coastline,
-    ride its iconic waves, and soak in the beauty of life on the road.\n\nOver a month
-    and 7000 kilometers, their journey unfolded like a patchwork of experiences—some
-    planned, many unexpected. From the legendary surf breaks of Jeffrey’s Bay to the
-    quiet charm of the wild coast, from tropical beaches around Umzumbe to starlit
-    nights in Hluhluwe National Park, they discovered the heart of South Africa through
-    its landscapes, waves, and people.\n\nThis is a story of friendship and discovery.
-    It’s about slowing down, taking in the small moments and finding connection in
-    every corner of this remarkable country.\n\nA film by Arthur Auclert & Félix Lesouef.\n\nMusic
-    : \n\n\"Mood Bender\"\nShawn Lee Ping Pong Orchestra\n\n\"Tropidélico\"\nThe Quantic
-    Soul Orchestra\n\n\"Sexy Motherfucker\"\nPrince\n\n\"Ndokulandela\"\nBongeziwe
-    Mabandla \n\n\"Please do\"\nAmir Bresler\n\n\"Iguana Swing\"\nMike Sanders\n\n\"Pata
-    Pata\"\nMiriam Makeba\n\n\"Takumba\"\nBakithi Kumalo\n\n\"Walk On By\"\nIsaac
-    Hayes\n\n\"Love Me or Leave Me Alone\"\nKabelo\n\n\"Weekend Special\"\nBrenda
-    & The Big Dudes\n\n\"We Madoda\"\nThe Brother Moves On\n\n\"No Time to Play\"\nGuru\n\n\"Sunday
-    Runway\"\nPWNT\n\n\"Warico\"\nCheikh Lô\n\n\"Two Generations of Excess\"\nUnknown
-    Mortal Orchestra\n\n\"The Ocean\"\nRichard Hawley\n\nSurf & Turf Soundtrack Spotify
-    playlist via: https://open.spotify.com/playlist/7mWI7sjX44gErdr2gPw2xc?si=euyQGlAIQJm4PdmQxQJ1DA"
-  note: Two beautiful souls wandering and surfing in South Africa
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/EWkGYormb34/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/EWkGYormb34/maxresdefault.jpg
-    type: image
-  - link: https://i.ytimg.com/vi/EWkGYormb34/mqdefault.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2025-01-16T12:33:42.377Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  lastUpdate: '2025-01-16T12:34:00.769Z'
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 946877581
-  collectionId: 37136905
   parsed: {}
 - _id: 945694717
   link: https://www.surfersjournal.com/editorial/noseride-obsessive/
@@ -3892,6 +3874,43 @@
   sort: 849405926
   collectionId: 37459360
   parsed: {}
+- _id: 849405926
+  link: https://www.youtube.com/watch?v=8wrkIBG54l4&t=1913s
+  title: HEART - A Tribute to Skateshops - Part 1
+  excerpt: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  note: |-
+    I love the vibe you have in a skate shop. It will never be the same online...
+    Online shopping sucks so much, compared to a good small shop with the right vibe
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/8wrkIBG54l4/hqdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/8wrkIBG54l4/hqdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2024-09-06T13:45:04.331Z'
+  collection:
+    "$ref": collections
+    "$id": 37459360
+    oid: 37459360
+  highlights: []
+  lastUpdate: '2024-09-08T15:47:34.447Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 849405926
+  collectionId: 37459360
+  parsed: {}
 - _id: 848016706
   link: https://finisterre.com/blogs/broadcast/jeff-canham-colour-culture
   title: 'Jeff Canham: Colour & Culture'
@@ -4844,46 +4863,6 @@
     email: ''
   sort: 827318366
   collectionId: 37136905
-  parsed: {}
-- _id: 826006283
-  link: https://www.youtube.com/watch?v=INQ--Af7Pts
-  title: DIRT Director Shares Her EDC Essentials For Travel & Filming Around The World
-    | Huckberry Gear Lab
-  excerpt: https://bit.ly/3sjazWf | Read more about Kate's EDC on the Huckberry Journal
-    In-between filming episodes of DIRT, the Director of Huckberry Presents Kate Wes...
-  note: 'Always carry gummy bears
-
-    '
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/INQ--Af7Pts/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/INQ--Af7Pts/maxresdefault.jpg
-    type: image
-  - link: https://i.ytimg.com/vi/INQ--Af7Pts/hqdefault.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2024-07-31T13:08:43.767Z'
-  collection:
-    "$ref": collections
-    "$id": -1
-    oid: -1
-  highlights: []
-  lastUpdate: '2024-07-31T13:08:52.405Z'
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 826006283
-  collectionId: -1
   parsed: {}
 - _id: 818328379
   link: https://www.youtube.com/watch?v=LCjQsB0sDW8
@@ -6010,6 +5989,41 @@
     email: ''
   sort: 790485450
   collectionId: 37136905
+  parsed: {}
+- _id: 790475253
+  link: https://www.jenkemmag.com/home/2024/05/08/turning-classic-skate-soundtracks-into-a-radio-show-with-nts-skate-muzik/
+  title: TURNING CLASSIC SKATE SOUNDTRACKS INTO AN NTS RADIO SHOW - Jenkem Magazine
+  excerpt: His episodes centered around different skate themes give you a musical
+    deep dive found nowhere else.
+  note: I wished I knew this show years ago. Such a great thing to listen to
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://www.jenkemmag.com/home/wp-content/uploads/2024/05/Muzik.jpg
+  media:
+  - link: https://www.jenkemmag.com/home/wp-content/uploads/2024/05/Muzik.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2024-05-24T11:19:14.279Z'
+  collection:
+    "$ref": collections
+    "$id": 37459360
+    oid: 37459360
+  highlights: []
+  lastUpdate: '2024-05-24T11:19:41.446Z'
+  domain: jenkemmag.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 790475253
+  collectionId: 37459360
   parsed: {}
 - _id: 790475253
   link: https://www.jenkemmag.com/home/2024/05/08/turning-classic-skate-soundtracks-into-a-radio-show-with-nts-skate-muzik/
@@ -9361,43 +9375,6 @@
   sort: 732465303
   collectionId: -1
   parsed: {}
-- _id: 732460962
-  link: https://youtube.com/watch?v=qfR46clM5BM&feature=shared
-  title: 'The Skate Legend Who Escaped Death & Saved Thrasher: Don ''Nuge'' Nguyen
-    | Epicly Later''d'
-  excerpt: Epicly Later’d returns with a brand new season. On this premiere episode
-    we sit down with Don ‘Nuge’ Nguyen to learn about his origins in Oklahoma, his
-    move ...
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/qfR46clM5BM/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/qfR46clM5BM/maxresdefault.jpg
-    type: image
-  - link: https://i.ytimg.com/vi/qfR46clM5BM/hqdefault.jpg
-    type: image
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2024-02-09T20:53:16.725Z'
-  lastUpdate: '2024-02-09T20:53:16.725Z'
-  collection:
-    "$ref": collections
-    "$id": 37459360
-    oid: 37459360
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 732460962
-  collectionId: 37459360
-  parsed: {}
 - _id: 731671779
   link: https://www.youtube.com/watch?v=aqsL0QQaSP4
   title: Seafret - Oceans
@@ -12449,6 +12426,42 @@
   sort: 687187752
   collectionId: 37679987
   parsed: {}
+- _id: 687187752
+  link: https://twitter.com/kepano/status/1730289205551702388
+  title: kepano on Twitter / X
+  excerpt: Disney wanted to simulate droids so they invented real droids. I wonder
+    what Baudrillard would think. pic.twitter.com/CxuNyoYiAL— kepano (@kepano) November
+    30, 2023
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://pbs.twimg.com/ext_tw_video_thumb/1730288573881163776/pu/img/lQlC24pmqr14F2A3?format=jpg&name=medium
+  media:
+  - link: https://pbs.twimg.com/ext_tw_video_thumb/1730288573881163776/pu/img/lQlC24pmqr14F2A3?format=jpg&name=medium
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2023-11-30T19:58:01.813Z'
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  collection:
+    "$ref": collections
+    "$id": 37679987
+    oid: 37679987
+  highlights: []
+  domain: twitter.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 687187752
+  collectionId: 37679987
+  parsed: {}
 - _id: 686869041
   link: https://yewtu.be/watch?si=oL4J-fIGYZrU89_b&_kx=ZNSYUaE4mXnOEYYW_GvyYeFFKqXjaFpnCkMHemudBuY%3D.aVinKJ&v=Eb1VqPliC7U&feature=youtu.be
   title: Chet Faker - Oh Me Oh My (Live Sessions)
@@ -13424,49 +13437,6 @@
     email: ''
   sort: 674398767
   collectionId: 37679989
-  parsed: {}
-- _id: 670584580
-  link: https://marleegrace.substack.com/p/the-ghosts-of-love
-  title: The ghosts of love
-  excerpt: Loneliness when the veil is thin
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff930e65b-0aaf-4d35-b2d2-ae9be106bec9_1170x1901.jpeg
-  media:
-  - link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff930e65b-0aaf-4d35-b2d2-ae9be106bec9_1170x1901.jpeg
-    type: image
-  - link: https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff930e65b-0aaf-4d35-b2d2-ae9be106bec9_1170x1901.jpeg
-    type: image
-  tags: []
-  highlights:
-  - text: I downloaded the apps for five minutes each and then I deleted them one
-      by one. I have done this on a number of occasions. Download, swipe swipe swipe,
-      delete. I am left feeling more alone and less inspired.
-    note: ''
-    color: yellow
-    created: '2023-10-31T08:03:34.031Z'
-    lastUpdate: '2023-10-31T08:03:44.892Z'
-    creatorRef: 1617030
-    _id: 6540b4e0854cee0114909b9c
-  important: true
-  removed: false
-  created: '2023-10-31T08:03:34.031Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 37603939
-    oid: 37603939
-  domain: marleegrace.substack.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 670584580
-  collectionId: 37603939
   parsed: {}
 - _id: 667453299
   link: https://thenineclub.com/blogs/episodes/jason-lee?_pos=1&_sid=373ebada4&_ss=r
@@ -14444,6 +14414,49 @@
     name: bonjouryannick
     email: ''
   sort: 655183090
+  collectionId: 38035089
+  parsed: {}
+- _id: 655182896
+  link: https://mangotango.mmm.page/zine_night_6_15_23
+  title: zine_night_6_15_23
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://preview.mmm.page/?url=mangotango.mmm.page/zine_night_6_15_23
+  media:
+  - link: https://media1.giphy.com/media/U6otCwqjnPlu6LwXkt/giphy.gif
+    type: image
+  - link: https://media0.giphy.com/media/Kcb05nMA25BKNJG8fu/giphy.gif
+    type: image
+  - link: https://media4.giphy.com/media/MZ391sZrzFMfIwcV9B/giphy.gif
+    type: image
+  - link: https://media4.giphy.com/media/CG3UjAXU2xyKEFGjgL/giphy.gif
+    type: image
+  - link: https://media3.giphy.com/media/CbkGave3nh13hyubsP/giphy.gif
+    type: image
+  tags:
+  - notes
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2023-10-02T21:10:28.641Z'
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  collection:
+    "$ref": collections
+    "$id": 38035089
+    oid: 38035089
+  highlights: []
+  domain: mangotango.mmm.page
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 655182896
   collectionId: 38035089
   parsed: {}
 - _id: 655182896
@@ -17979,38 +17992,6 @@
   important: true
   collectionId: 37136905
   parsed: {}
-- _id: 645601657
-  link: https://www.radiofrance.fr/franceinter/podcasts/l-invite-de-7h50/l-invite-de-7h50-du-lundi-19-juin-2023-7433000
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://www.radiofrance.fr/s3/cruiser-production/2023/06/d43f6a20-41c2-4a95-b5e0-53eea5116e5c/1200x680_sc_000-par7780085.jpg
-  media:
-  - type: image
-    link: https://www.radiofrance.fr/s3/cruiser-production/2023/06/d43f6a20-41c2-4a95-b5e0-53eea5116e5c/1200x680_sc_000-par7780085.jpg
-  tags: []
-  removed: false
-  created: '2023-06-22T09:03:06.072Z'
-  collection:
-    "$ref": collections
-    "$id": 37576759
-    oid: 37576759
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: radiofrance.fr
-  title: 'Alain Damasio : "On a épuisé toutes les façons douces de faire les choses"'
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 646621888
-  important: true
-  collectionId: 37576759
-  parsed: {}
 - _id: 645601656
   link: https://www.youtube.com/watch?v=9g0UMuAyAg0
   excerpt: ''
@@ -21226,6 +21207,38 @@
   important: true
   collectionId: 37459371
   parsed: {}
+- _id: 645601550
+  link: https://www.youtube.com/watch?v=_ODhIMer054
+  excerpt: ''
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/_ODhIMer054/sddefault.jpg
+  media:
+  - type: image
+    link: https://i.ytimg.com/vi/_ODhIMer054/sddefault.jpg
+  tags: []
+  removed: false
+  created: '2023-03-02T11:50:48.908Z'
+  collection:
+    "$ref": collections
+    "$id": 37459371
+    oid: 37459371
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: youtube.com
+  title: 'Ray Barbee: A Common Thread - An ILFORD Inspires film'
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601722
+  important: true
+  collectionId: 37459371
+  parsed: {}
 - _id: 645601549
   link: https://vimeo.com/42242442?embedded=true&source=vimeo_logo&owner=1689513
   excerpt: ''
@@ -22801,39 +22814,6 @@
   important: true
   collectionId: 37456469
   parsed: {}
-- _id: 645601494
-  link: https://peteschaffner.com//blog/2019-05-22-2142/
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Fpeteschaffner.com%2F%2Fblog%2F2019-05-22-2142%2F
-  media:
-  - type: image
-    link: https://rdl.ink/render/https%3A%2F%2Fpeteschaffner.com%2F%2Fblog%2F2019-05-22-2142%2F
-    screenshot: true
-  tags: []
-  removed: false
-  created: '2023-01-26T19:53:21.342Z'
-  collection:
-    "$ref": collections
-    "$id": 37603939
-    oid: 37603939
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: peteschaffner.com
-  title: May 22, 2019 at 9:42 PM · Pete Schaffner
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601731
-  important: true
-  collectionId: 37603939
-  parsed: {}
 - _id: 645601493
   link: https://craigmod.com/ridgeline/153/
   excerpt: ''
@@ -23636,6 +23616,38 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 645601469
+  link: https://www.youtube.com/watch?v=nD0VM0NWwSA
+  excerpt: ''
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/nD0VM0NWwSA/maxresdefault.jpg
+  media:
+  - type: image
+    link: https://i.ytimg.com/vi/nD0VM0NWwSA/maxresdefault.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:52:16.242Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: youtube.com
+  title: 'Jason Lee: The American Photo Roadtrip - An ILFORD Inspires film'
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601469
+  important: true
+  collectionId: 37456415
+  parsed: {}
 - _id: 645601468
   link: https://longboardermagazine.com/2022/09/izzy-henshall-rising-style/
   excerpt: ''
@@ -24401,38 +24413,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601445
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601444
-  link: https://finisterre.com/blogs/broadcast/joy-in-the-process
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://finisterre.com/cdn/shop/articles/unnamed_8ba43253-ba1a-426c-8a83-93152fffea5f.jpg?v=1666176638
-  media:
-  - type: image
-    link: https://finisterre.com/cdn/shop/articles/unnamed_8ba43253-ba1a-426c-8a83-93152fffea5f.jpg?v=1666176638
-  tags: []
-  removed: false
-  created: '2023-01-26T19:51:10.782Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: finisterre.com
-  title: Joy In The Process
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601444
   important: true
   collectionId: 37456415
   parsed: {}
@@ -25238,6 +25218,38 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 645601419
+  link: https://www.theatlantic.com/family/archive/2022/08/benefits-of-doing-nothing/671035/?mc_cid=a4a816f326
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://cdn.theatlantic.com/thumbor/YrmbU_94s3LgCzQsAFQNm4pKI8o=/0x64:2995x1624/1200x625/media/img/mt/2022/08/HowToBuildALife102/original.jpg
+  media:
+  - type: image
+    link: https://cdn.theatlantic.com/thumbor/YrmbU_94s3LgCzQsAFQNm4pKI8o=/0x64:2995x1624/1200x625/media/img/mt/2022/08/HowToBuildALife102/original.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:49:44.806Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: theatlantic.com
+  title: How to Embrace Doing Nothing
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601419
+  important: true
+  collectionId: 37456415
+  parsed: {}
 - _id: 645601418
   link: https://www.deflowsurf.com/single-fin-guide/
   excerpt: ''
@@ -26006,38 +26018,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601391
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601390
-  link: https://youtu.be/SeQLZg7Fh4Y
-  excerpt: ''
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/SeQLZg7Fh4Y/maxresdefault.jpg
-  media:
-  - type: image
-    link: https://i.ytimg.com/vi/SeQLZg7Fh4Y/maxresdefault.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:49:11.492Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: youtu.be
-  title: 'Abnormal Communication: Episode 4'
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601390
   important: true
   collectionId: 37456415
   parsed: {}
@@ -28442,6 +28422,38 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 645601315
+  link: https://www.imagotv.fr/emissions/les-mavericks/14
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://asset.imagotv.fr/img/content/tvshow/episod/les_mavericks/hd/14.jpg
+  media:
+  - type: image
+    link: https://asset.imagotv.fr/img/content/tvshow/episod/les_mavericks/hd/14.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:48:06.965Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: imagotv.fr
+  title: Les Mavericks
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601315
+  important: true
+  collectionId: 37456415
+  parsed: {}
 - _id: 645601314
   link: https://bonpote.com/33-milliards-detres-humains-exposes-au-changement-climatique-le-nouveau-rapport-du-giec-est-sans-appel/
   excerpt: ''
@@ -29213,38 +29225,6 @@
   important: true
   collectionId: 37456415
   parsed: {}
-- _id: 645601286
-  link: https://damienaa.substack.com/p/46?utm_source=substack
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9706981e-1776-4983-ac91-cdf6b32ccb4e_1920x1025.jpeg
-  media:
-  - type: image
-    link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9706981e-1776-4983-ac91-cdf6b32ccb4e_1920x1025.jpeg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:47:40.601Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: damienaa.substack.com
-  title: Ma Petite Lettre 46
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601286
-  important: true
-  collectionId: 37456415
-  parsed: {}
 - _id: 645601285
   link: https://finisterre.com/blogs/broadcast/the-science-of-cold-water-swimming
   excerpt: ''
@@ -30006,6 +29986,38 @@
     name: bonjouryannick
     email: ''
   sort: 645601262
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601261
+  link: https://www.newphilosopher.com/articles/apocaloptimism/
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://www.newphilosopher.com/wp-content/uploads/2020/04/apocoloptimism.png
+  media:
+  - type: image
+    link: https://www.newphilosopher.com/wp-content/uploads/2020/04/apocoloptimism.png
+  tags: []
+  removed: false
+  created: '2023-01-26T19:47:19.830Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: newphilosopher.com
+  title: Apocaloptimism
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601261
   important: true
   collectionId: 37456415
   parsed: {}
@@ -31618,38 +31630,6 @@
   important: true
   collectionId: 37456415
   parsed: {}
-- _id: 645601211
-  link: https://www.atlasobscura.com/articles/what-is-pizza-toast-kissaten-japan
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://img.atlasobscura.com/_-VzHSyWyHJ8LP3uSQkeFPvUSl3mRF33IhUBsm5sEPw/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9lNTA4YmFmNDQ1/NmZkOWU2NDlfcGl6/emF0b2FzdC0wMS5q/cGc.jpg
-  media:
-  - type: image
-    link: https://img.atlasobscura.com/_-VzHSyWyHJ8LP3uSQkeFPvUSl3mRF33IhUBsm5sEPw/rt:fit/w:600/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9lNTA4YmFmNDQ1/NmZkOWU2NDlfcGl6/emF0b2FzdC0wMS5q/cGc.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:46:44.591Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: atlasobscura.com
-  title: The Man Who Walked Across Japan for Pizza Toast
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601211
-  important: true
-  collectionId: 37456415
-  parsed: {}
 - _id: 645601210
   link: https://www.wired.com/story/to-do-apps-failed-productivity-tools/
   excerpt: ''
@@ -32411,6 +32391,39 @@
     name: bonjouryannick
     email: ''
   sort: 645601185
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601184
+  link: https://www.lemonde.fr/m-le-mag/article/2021/09/22/emmanuel-cappellin-le-documentariste-qui-en-savait-trop-sur-l-avenir-de-la-planete_6095522_4500055.html
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://img.lemde.fr/2021/09/13/313/0/997/664/1440/960/60/0/7c6078c_135747-3238380.jpg
+  media:
+  - type: image
+    link: https://img.lemde.fr/2021/09/13/313/0/997/664/1440/960/60/0/7c6078c_135747-3238380.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:46:24.447Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: lemonde.fr
+  title: Emmanuel Cappellin, le documentariste qui en savait trop sur l’avenir de
+    la planète
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601184
   important: true
   collectionId: 37456415
   parsed: {}
@@ -33220,38 +33233,6 @@
   important: true
   collectionId: 37456415
   parsed: {}
-- _id: 645601159
-  link: https://www.netflix.com/fr-en/title/81399614?source=35
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://occ-0-299-1167.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVdASLpUVRzyQpN0GikVcYGjkqPmoS4OIjmHw4xYKbP-tBZzSQ_3EGr2I9nzEPKSKzEg0c9RLj6blTe_Q6lguzfYU7DMn7d_lfmO.jpg?r=a2b
-  media:
-  - type: image
-    link: https://occ-0-299-1167.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVdASLpUVRzyQpN0GikVcYGjkqPmoS4OIjmHw4xYKbP-tBZzSQ_3EGr2I9nzEPKSKzEg0c9RLj6blTe_Q6lguzfYU7DMn7d_lfmO.jpg?r=a2b
-  tags: []
-  removed: false
-  created: '2023-01-26T19:46:04.354Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: netflix.com
-  title: Watch The Mitchells vs. The Machines | Netflix Official Site
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601159
-  important: true
-  collectionId: 37456415
-  parsed: {}
 - _id: 645601158
   link: https://disney.fr/films/luca
   excerpt: ''
@@ -34020,6 +34001,39 @@
     name: bonjouryannick
     email: ''
   sort: 645601135
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601134
+  link: https://www.dwell.com/article/the-nook-shelter-design-studio-a50e75c6
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://images.dwell.com/photos-6676846327473246208/6680850722912505856-large/the-nook-exterior-features-shiplap-cypress-siding-a-reclaimed-oak-deck-and-an-entranceway-of-oak-blackened-in-the-traditional-japanese-method.jpg
+  media:
+  - type: image
+    link: https://images.dwell.com/photos-6676846327473246208/6680850722912505856-large/the-nook-exterior-features-shiplap-cypress-siding-a-reclaimed-oak-deck-and-an-entranceway-of-oak-blackened-in-the-traditional-japanese-method.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:47.786Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: dwell.com
+  title: A Tiny Cabin in North Carolina Is an Enchanting Mix of Japanese and Scandinavian
+    Style
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601134
   important: true
   collectionId: 37456415
   parsed: {}
@@ -38021,36 +38035,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601008
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601007
-  link: https://tinyletter.com/pepibumur/letters/an-online-mind-in-an-offline-world
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: ''
-  media: []
-  tags: []
-  removed: false
-  created: '2023-01-26T19:44:13.480Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: tinyletter.com
-  title: https://tinyletter.com/pepibumur/letters/an-online-mind-in-an-offline-world
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601007
   important: true
   collectionId: 37456415
   parsed: {}
