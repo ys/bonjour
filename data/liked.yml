@@ -7234,6 +7234,49 @@
   sort: 766300759
   collectionId: 37136905
   parsed: {}
+- _id: 765729457
+  link: https://garden.mattstein.com/notes/i-can-t-afford-free-things
+  title: I Can’t Afford Free Things
+  excerpt: ''
+  note: I'd rather pay with money than with personal things may it be time or information
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fgarden.mattstein.com%2Fnotes%2Fi-can-t-afford-free-things
+  tags: []
+  removed: false
+  media: []
+  highlights:
+  - text: I’d rather use fewer things, create some of my own things, and pay for the
+      rest of the things I decide I need to use.
+    note: ''
+    created: '2024-04-07T20:34:44.792Z'
+    lastUpdate: '2024-04-07T20:35:33.994Z'
+    creatorRef: 1617030
+    _id: 6613036453a49cf1172e9a22
+  - text: When something’s free, that just means the cost is hidden.
+    note: ''
+    created: '2024-04-07T20:35:33.993Z'
+    lastUpdate: '2024-04-07T20:35:33.994Z'
+    creatorRef: 1617030
+    _id: 66130395c0fe4f7b16416af4
+  created: '2024-04-07T20:34:44.792Z'
+  lastUpdate: '2024-04-07T20:36:14.635Z'
+  domain: garden.mattstein.com
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 765729457
+  important: true
+  collectionId: -1
+  parsed: {}
 - _id: 764889305
   link: https://gitlab.com/Screwtapello/topaz-unicode
   title: Screwtape / topaz-unicode · GitLab
@@ -9381,40 +9424,6 @@
     email: ''
   sort: 732468615
   collectionId: 37459360
-  parsed: {}
-- _id: 732465303
-  link: https://youtube.com/watch?v=GYsELUKFlvc&feature=shared
-  title: The snobification of outdoor sports.
-  excerpt: 'Instagram: https://www.instagram.com/shaffernickel/You should get into
-    extreme sports like mountain biking! All you need is a 10k$ bike, 2k$ worth of
-    gear, a...'
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/GYsELUKFlvc/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/GYsELUKFlvc/maxresdefault.jpg
-    type: image
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2024-02-09T21:06:13.300Z'
-  lastUpdate: '2024-02-09T21:06:13.300Z'
-  collection:
-    "$ref": collections
-    "$id": -1
-    oid: -1
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 732465303
-  collectionId: -1
   parsed: {}
 - _id: 732465303
   link: https://youtube.com/watch?v=GYsELUKFlvc&feature=shared
@@ -16434,6 +16443,38 @@
   important: true
   collectionId: 37136905
   parsed: {}
+- _id: 645601709
+  link: https://www.youtube.com/watch?v=vwSRqaZGsPw
+  excerpt: ''
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/vwSRqaZGsPw/hqdefault.jpg
+  media:
+  - type: image
+    link: https://i.ytimg.com/vi/vwSRqaZGsPw/hqdefault.jpg
+  tags: []
+  removed: false
+  created: '2023-08-23T11:47:46.357Z'
+  collection:
+    "$ref": collections
+    "$id": 37679987
+    oid: 37679987
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: youtube.com
+  title: Gil Scott-Heron - Revolution Will Not Be Televised (Official Audio)
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601726
+  important: true
+  collectionId: 37679987
+  parsed: {}
 - _id: 645601708
   link: https://www.youtube.com/watch?v=Ul4nqKb-tys
   excerpt: ''
@@ -17203,38 +17244,6 @@
   sort: 645601702
   important: true
   collectionId: 37459360
-  parsed: {}
-- _id: 645601684
-  link: https://barbessurfclub.com/vcommevolvo/
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i0.wp.com/barbessurfclub.com/wp-content/uploads/2019/06/tumblr_omr1ex25Gx1rwwqtpo1_640.jpg?fit=640%2C423&quality=95&ssl=1
-  media:
-  - type: image
-    link: https://i0.wp.com/barbessurfclub.com/wp-content/uploads/2019/06/tumblr_omr1ex25Gx1rwwqtpo1_640.jpg?fit=640%2C423&quality=95&ssl=1
-  tags: []
-  removed: false
-  created: '2023-07-15T17:49:00.994Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: barbessurfclub.com
-  title: V comme Volvo -
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601684
-  important: true
-  collectionId: 37456415
   parsed: {}
 - _id: 645601684
   link: https://barbessurfclub.com/vcommevolvo/
@@ -22857,6 +22866,72 @@
   important: true
   collectionId: 37459360
   parsed: {}
+- _id: 645601495
+  link: https://peteschaffner.com//blog/2022-12-20-2055/
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fpeteschaffner.com%2F%2Fblog%2F2022-12-20-2055%2F
+  media:
+  - type: image
+    link: https://rdl.ink/render/https%3A%2F%2Fpeteschaffner.com%2F%2Fblog%2F2022-12-20-2055%2F
+    screenshot: true
+  tags: []
+  removed: false
+  created: '2023-01-26T19:53:25.813Z'
+  collection:
+    "$ref": collections
+    "$id": 37456469
+    oid: 37456469
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: peteschaffner.com
+  title: Link Styling · Pete Schaffner
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601729
+  important: true
+  collectionId: 37456469
+  parsed: {}
+- _id: 645601494
+  link: https://peteschaffner.com//blog/2019-05-22-2142/
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fpeteschaffner.com%2F%2Fblog%2F2019-05-22-2142%2F
+  media:
+  - type: image
+    link: https://rdl.ink/render/https%3A%2F%2Fpeteschaffner.com%2F%2Fblog%2F2019-05-22-2142%2F
+    screenshot: true
+  tags: []
+  removed: false
+  created: '2023-01-26T19:53:21.342Z'
+  collection:
+    "$ref": collections
+    "$id": 37603939
+    oid: 37603939
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: peteschaffner.com
+  title: May 22, 2019 at 9:42 PM · Pete Schaffner
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601731
+  important: true
+  collectionId: 37603939
+  parsed: {}
 - _id: 645601493
   link: https://craigmod.com/ridgeline/153/
   excerpt: ''
@@ -23592,70 +23667,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601471
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601470
-  link: https://www.youtube.com/watch?v=oOLNknoGJvU
-  excerpt: ''
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/oOLNknoGJvU/maxresdefault.jpg
-  media:
-  - type: image
-    link: https://i.ytimg.com/vi/oOLNknoGJvU/maxresdefault.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:52:19.888Z'
-  collection:
-    "$ref": collections
-    "$id": 37136909
-    oid: 37136909
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: youtube.com
-  title: Lost in the Swell - Le Niglo Frites
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601754
-  important: true
-  collectionId: 37136909
-  parsed: {}
-- _id: 645601469
-  link: https://www.youtube.com/watch?v=nD0VM0NWwSA
-  excerpt: ''
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/nD0VM0NWwSA/maxresdefault.jpg
-  media:
-  - type: image
-    link: https://i.ytimg.com/vi/nD0VM0NWwSA/maxresdefault.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:52:16.242Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: youtube.com
-  title: 'Jason Lee: The American Photo Roadtrip - An ILFORD Inspires film'
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601469
   important: true
   collectionId: 37456415
   parsed: {}
@@ -34078,6 +34089,38 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 645601135
+  link: https://www.patagonia.com/stories/our-quest-for-circularity/story-96496.html
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://www.patagonia.com/blog/wp-content/uploads/2021/03/hedden_d_0110_cc_web-2250x1266-1.jpg
+  media:
+  - type: image
+    link: https://www.patagonia.com/blog/wp-content/uploads/2021/03/hedden_d_0110_cc_web-2250x1266-1.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:48.247Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: patagonia.com
+  title: Our Quest for Circularity - Patagonia Stories
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601135
+  important: true
+  collectionId: 37456415
+  parsed: {}
 - _id: 645601134
   link: https://www.dwell.com/article/the-nook-shelter-design-studio-a50e75c6
   excerpt: ''
@@ -34843,38 +34886,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601111
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601110
-  link: https://craigmod.com/huh/welcome/
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://craigmod.com/huh/images/welcome/high/welcome.jpg
-  media:
-  - type: image
-    link: https://craigmod.com/huh/images/welcome/high/welcome.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:45:30.755Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: craigmod.com
-  title: Subscribe to Huh ⧇ A Cafe with a View of the Waterfall
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601110
   important: true
   collectionId: 37456415
   parsed: {}
