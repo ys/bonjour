@@ -1,4 +1,40 @@
 ---
+- _id: 1174075258
+  link: https://www.youtube.com/watch?v=wXed4e5uzwg
+  title: 3 plats faciles et rapides à faire en semaine en rentrant du boulot ! ⏱
+  excerpt: 'Aujourd''hui, 3 recettes faciles et rapides à faire à la maison quand
+    on veut manger bien sans trop se prendre la tête : Bienvenu dans Dailycieux, épisode
+    3.U...'
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/wXed4e5uzwg/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/wXed4e5uzwg/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-06-17T07:46:17.115Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2025-06-17T07:46:18.074Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1174075258
+  collectionId: -1
+  parsed: {}
 - _id: 1141566683
   link: https://www.youtube.com/watch?v=3gNph25gxhw&list=PLjHRKTS-Q5-CeCo66kFGivBMF8qB8orPh&index=19
   title: 'Exploring New York City''s Hidden Culinary Gems: Cooking Goat Brains, Lobster
