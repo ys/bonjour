@@ -1,4 +1,75 @@
 ---
+- _id: 1182961465
+  link: https://www.wearelookingsideways.com/p/insights-how-photographers-really-db3
+  title: 'Insights: How Photographers REALLY Make Money - Part 2'
+  excerpt: Read | Christa Funk, Nathan Gallagher, James North and Bethany Mercer on
+    the realities of life as freelance photographer.
+  note: Always amazed by those interviews! Thanks Matt
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Flookingsideways.substack.com%2Fapi%2Fv1%2Fpost_preview%2F158649495%2Ftwitter.jpg%3Fversion%3D4
+  media:
+  - link: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Flookingsideways.substack.com%2Fapi%2Fv1%2Fpost_preview%2F158649495%2Ftwitter.jpg%3Fversion%3D4
+    type: image
+  - link: https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b0b687f-49a2-4a88-9a4a-bc2e3277d875_5243x3495.jpeg
+    type: image
+  - link: https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc430c09d-5c16-4ca7-b72f-c04207579c3a_2000x1334.jpeg
+    type: image
+  - link: https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4965249-326f-4dd3-b342-fe85ec96f2e5_2560x1706.jpeg
+    type: image
+  - link: https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd135cbc0-f960-4923-b945-3f3ba77c1026_5472x3648.jpeg
+    type: image
+  tags: []
+  removed: false
+  highlights:
+  - text: I think the thing I worry about most is social media completely devaluing
+      photography as an art form because it's so saturated. The brands I work with
+      still need photos for social and paid advertising - they still need imagery
+      that isn't film or motion. But everybody has a camera now. Which is fine, but
+      I do worry about photography getting completely devalued and people losing sight
+      of how an amazing image can convey meaning.
+    note: ''
+    color: yellow
+    position: 0
+    created: '2025-06-19T18:33:28.908Z'
+    lastUpdate: '2025-06-19T18:40:16.277Z'
+    creatorRef: 1617030
+    _id: 685457f83c3656692844c71a
+  - text: The client is number one, but don't forget to be creative.
+    note: ''
+    color: yellow
+    position: 0
+    created: '2025-06-19T18:34:41.815Z'
+    lastUpdate: '2025-06-19T18:40:16.277Z'
+    creatorRef: 1617030
+    _id: 685458415b00e85bfd3d3d14
+  - text: put your work out there. The worst someone can say is no. But if you don’t
+      even try, you’ll never know if they might have said yes
+    note: ''
+    color: yellow
+    position: 0
+    created: '2025-06-19T18:40:16.276Z'
+    lastUpdate: '2025-06-19T18:40:16.277Z'
+    creatorRef: 1617030
+    _id: 685459907851a98698f9a4e5
+  created: '2025-06-19T18:33:28.908Z'
+  lastUpdate: '2025-06-19T18:55:00.884Z'
+  domain: wearelookingsideways.com
+  collection:
+    "$ref": collections
+    "$id": 37459371
+    oid: 37459371
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1182961465
+  important: true
+  collectionId: 37459371
+  parsed: {}
 - _id: 1174075258
   link: https://www.youtube.com/watch?v=wXed4e5uzwg
   title: 3 plats faciles et rapides à faire en semaine en rentrant du boulot ! ⏱
