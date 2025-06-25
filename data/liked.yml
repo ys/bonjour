@@ -1,4 +1,38 @@
 ---
+- _id: 1192554780
+  link: https://youtube.com/watch?v=vCjo4saMVMg&si=f-yHDeTe_Kg9ZdH1
+  title: Madness - Prince du ska, roi de la pop | Documentaire complet | ARTE
+  excerpt: 'Documentaire disponible jusqu''au 23/09/2025Cuivres éclatants, rythmes
+    bondissants, synthétiseurs fous : retour en images sur la déferlante britannique
+    Madnes...'
+  note: 'Nice documentary about the life of madness '
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/vCjo4saMVMg/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/vCjo4saMVMg/maxresdefault.jpg
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2025-06-25T10:02:07.235Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  lastUpdate: '2025-06-25T10:02:26.864Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1192554780
+  collectionId: -1
+  parsed: {}
 - _id: 1182961465
   link: https://www.wearelookingsideways.com/p/insights-how-photographers-really-db3
   title: 'Insights: How Photographers REALLY Make Money - Part 2'
