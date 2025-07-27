@@ -1,4 +1,39 @@
 ---
+- _id: 1269871618
+  link: https://www.youtube.com/watch?v=cF0-xOWOnFU
+  title: Arto Saari - Shooting Film & Talking Photography
+  excerpt: We met up with Arto during CPH Open to shoot on some super rare 8x10 Polaroid
+    film and talk about photography in between. He shares how his experience of sho...
+  note: Would love to try 8x10 someday
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/cF0-xOWOnFU/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/cF0-xOWOnFU/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-07-27T12:59:26.081Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2025-07-27T12:59:37.112Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1269871618
+  collectionId: -1
+  parsed: {}
 - _id: 1256967021
   link: https://www.youtube.com/watch?v=5f5hFJ4fLPI
   title: Super Secession
