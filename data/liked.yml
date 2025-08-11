@@ -1,4 +1,76 @@
 ---
+- _id: 1294587859
+  link: https://www.youtube.com/watch?v=NbxvGWjMPG0
+  title: 'Photographer Ed Templeton: I''m Obsessed With People'
+  excerpt: Ed Templeton is a renowned American artist, celebrated for his multifaceted
+    career as a professional skateboarder, painter, and photographer. Born on July
+    28...
+  note: Interesting to see the backstage of his brain in this
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/NbxvGWjMPG0/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/NbxvGWjMPG0/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-08-11T12:19:11.951Z'
+  collection:
+    "$ref": collections
+    "$id": 37459371
+    oid: 37459371
+  highlights: []
+  lastUpdate: '2025-08-11T12:19:35.588Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1294587859
+  collectionId: 37459371
+  parsed: {}
+- _id: 1294587294
+  link: https://www.youtube.com/watch?v=gaOiBCvVqgs&t=2s
+  title: 'Photographier le surf au plus près : immersion avec Thomas Lodin'
+  excerpt: Jean Sinelle s’est mouillé (vraiment) pour suivre Thomas Lodin dans une
+    session photo avec Clovis Donizetti, et discuter sur son approche singulière de
+    la ph...
+  note: Dessiner la lumière
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/gaOiBCvVqgs/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/gaOiBCvVqgs/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-08-11T12:17:45.480Z'
+  collection:
+    "$ref": collections
+    "$id": 37459371
+    oid: 37459371
+  highlights: []
+  lastUpdate: '2025-08-11T12:18:01.321Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1294587294
+  collectionId: 37459371
+  parsed: {}
 - _id: 1269871618
   link: https://www.youtube.com/watch?v=cF0-xOWOnFU
   title: Arto Saari - Shooting Film & Talking Photography
