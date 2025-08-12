@@ -1,4 +1,40 @@
 ---
+- _id: 1296252923
+  link: https://www.youtube.com/watch?v=NgPY0zNODN8
+  title: Field Notes 29 Grant Noble
+  excerpt: It’s summer and the south swells are among us! We have had a fun run of
+    decent summer swells here in Southern California, nothing big, but we’ve had a
+    ton of...
+  note: The flow and the music
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/NgPY0zNODN8/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/NgPY0zNODN8/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-08-12T17:30:21.712Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2025-08-12T17:30:35.671Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1296252923
+  collectionId: 37136905
+  parsed: {}
 - _id: 1294587859
   link: https://www.youtube.com/watch?v=NbxvGWjMPG0
   title: 'Photographer Ed Templeton: I''m Obsessed With People'
