@@ -1,4 +1,5 @@
 ---
+archived: true
 title: "Cyanotypes"
 subtitle: "Various prints, various sizes"
 pricetag: "From 7€"
