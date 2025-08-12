@@ -1,4 +1,5 @@
 ---
+archived: true
 title: "Bill's Diesel"
 grid: "cover"
 subtitle: "50€"
@@ -18,9 +19,9 @@ shipping_rates:
 
 ---
 
-Taken in the middle of the Joshua Tree desert.   
-I noticed that old garage and had to stop.  
-It was right before our departure.  
+Taken in the middle of the Joshua Tree desert.
+I noticed that old garage and had to stop.
+It was right before our departure.
 Early morning shots are my favorites on the road.
 
 *Limited edition of 5. Signed and numbered.*

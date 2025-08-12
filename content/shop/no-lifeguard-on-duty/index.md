@@ -1,4 +1,5 @@
 ---
+archived: true
 title: "No Lifeguard On Duty"
 grid: "cover"
 subtitle: "50€"
@@ -17,10 +18,10 @@ shipping_rates:
     value: "shr_1QqLLWFaA8Wpl3EpPPTIAW1F"
 ---
 
-Palm trees and lifeguard huts.   
-The coast is full of those and they are as picturesque as you can think.  
-It wasn’t Malibu, it was  close to Oceanside.  
-No lifeguard on duty anymore.  
+Palm trees and lifeguard huts.
+The coast is full of those and they are as picturesque as you can think.
+It wasn’t Malibu, it was  close to Oceanside.
+No lifeguard on duty anymore.
 Stay safe.
 
 *Limited edition of 5. Signed and numbered.*

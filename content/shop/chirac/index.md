@@ -1,4 +1,5 @@
 ---
+archived: true
 title: "Chirac"
 draft: true
 grid: "cover"

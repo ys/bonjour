@@ -1,4 +1,5 @@
 ---
+archived: true
 title: "Lost In Stripes"
 grid: "cover"
 subtitle: "50€"
@@ -16,11 +17,11 @@ shipping_rates:
   - name: "10€ • Rest of the world"
     value: "shr_1QqLLWFaA8Wpl3EpPPTIAW1F"
 ---
-On our way to Yosemite, we cross path with this barn.  
-Just the time to grab the camera, capture and hope for the best.  
-Time to drive again.  
-I love how you have to act fast on the road.  
-With all manual cameras, fast can still be slow.  
+On our way to Yosemite, we cross path with this barn.
+Just the time to grab the camera, capture and hope for the best.
+Time to drive again.
+I love how you have to act fast on the road.
+With all manual cameras, fast can still be slow.
 But this time, I was fast enough.
 
 *Limited edition of 5. Signed and numbered.*

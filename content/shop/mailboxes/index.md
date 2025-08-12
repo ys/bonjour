@@ -1,4 +1,5 @@
 ---
+archived: true
 title: "Mailboxes"
 grid: "cover"
 subtitle: "50€"
@@ -17,12 +18,12 @@ shipping_rates:
     value: "shr_1QqLLWFaA8Wpl3EpPPTIAW1F"
 ---
 
-All our time in the desert, I was on the lookout for mailboxes.  
-It represents the road trip classic moment to me.  
-I had to find the right set.  
-I parked the car cross street,  
-Made sure I was safe.  
-And snapped a few around those mailboxes.  
+All our time in the desert, I was on the lookout for mailboxes.
+It represents the road trip classic moment to me.
+I had to find the right set.
+I parked the car cross street,
+Made sure I was safe.
+And snapped a few around those mailboxes.
 
 *Limited edition of 5. Signed and numbered.*
 

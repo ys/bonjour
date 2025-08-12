@@ -1,4 +1,5 @@
 ---
+archived: true
 title: "Eat"
 grid: "cover"
 subtitle: "50€"
@@ -17,10 +18,10 @@ shipping_rates:
     value: "shr_1QqLLWFaA8Wpl3EpPPTIAW1F"
 ---
 
-On the road to Palm Springs,  
-You have to stop by Cabazon.  
-Their dinosaurs are all the vibe.  
-But that gaz station sign is even better.  
+On the road to Palm Springs,
+You have to stop by Cabazon.
+Their dinosaurs are all the vibe.
+But that gaz station sign is even better.
 Come back another time to find the new dinosaurs’ outfit.
 
 *Limited edition of 5. Signed and numbered.*

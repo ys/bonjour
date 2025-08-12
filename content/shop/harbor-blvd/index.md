@@ -1,4 +1,5 @@
 ---
+archived: true
 title: "Harbor Blvd"
 grid: "cover"
 subtitle: "50€"
@@ -17,9 +18,9 @@ shipping_rates:
     value: "shr_1QqLLWFaA8Wpl3EpPPTIAW1F"
 ---
 
-Pausing on the road to Costa Mesa.  
-I had to quickly grab the camera.  
-That scene was a perfect moment.  
+Pausing on the road to Costa Mesa.
+I had to quickly grab the camera.
+That scene was a perfect moment.
 Every road trip is full of those.
 
 *Limited edition of 5. Signed and numbered.*
