@@ -1,4 +1,38 @@
 ---
+- _id: 1308606936
+  link: https://open.substack.com/pub/thehyphen/p/the-most-days-theory?r=5cjn3&utm_medium=ios
+  title: The "Most Days" theory
+  excerpt: "(you've probably heard about 'Let Them' — this one is better, imo)"
+  note: Most days… don’t beat yourself up for some days
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://substackcdn.com/image/fetch/$s_!FFSF!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f41f71d-4b0b-481d-aa4f-f233513987df_2088x1436.jpeg
+  media:
+  - link: https://substackcdn.com/image/fetch/$s_!FFSF!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f41f71d-4b0b-481d-aa4f-f233513987df_2088x1436.jpeg
+    type: image
+  - link: https://substackcdn.com/image/fetch/$s_!VPLz!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fthehyphen.substack.com%2Fapi%2Fv1%2Fpost_preview%2F168089049%2Ftwitter.jpg%3Fversion%3D4
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2025-08-22T06:09:09.712Z'
+  collection:
+    "$ref": collections
+    "$id": 37603939
+    oid: 37603939
+  lastUpdate: '2025-08-22T06:09:34.388Z'
+  domain: open.substack.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1308606936
+  collectionId: 37603939
+  parsed: {}
 - _id: 1296252923
   link: https://www.youtube.com/watch?v=NgPY0zNODN8
   title: Field Notes 29 Grant Noble
