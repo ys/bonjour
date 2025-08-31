@@ -1,4 +1,36 @@
 ---
+- _id: 1319725519
+  link: https://baty.net/posts/2025/08/its-just-that-i-prefer-film/
+  title: It's just that I prefer film
+  excerpt: Sometimes I think I should quit shooting film. But I never do.
+  note: I don’t do the home scanning but feels the same
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://baty.net/posts/2025/08/its-just-that-i-prefer-film/Roll-046-03.jpg
+  media:
+  - link: https://baty.net/posts/2025/08/its-just-that-i-prefer-film/Roll-046-03.jpg
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2025-08-31T05:22:40.868Z'
+  collection:
+    "$ref": collections
+    "$id": 37459371
+    oid: 37459371
+  lastUpdate: '2025-08-31T05:22:58.809Z'
+  domain: baty.net
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1319725519
+  collectionId: 37459371
+  parsed: {}
 - _id: 1308606936
   link: https://open.substack.com/pub/thehyphen/p/the-most-days-theory?r=5cjn3&utm_medium=ios
   title: The "Most Days" theory
