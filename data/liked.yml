@@ -1,4 +1,40 @@
 ---
+- _id: 1324379131
+  link: https://www.youtube.com/watch?v=shLzWTecmpM
+  title: HEART - A conversation about Skateboarding - Part 2
+  excerpt: HEART is a 428 pages book celebrating 40 years of skate shops’ history.
+    After the release of the book in 2022, we decided to visit almost every skate
+    shop fe...
+  note: 'Just love this 2 part documentary '
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/shLzWTecmpM/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/shLzWTecmpM/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-09-04T08:41:51.768Z'
+  collection:
+    "$ref": collections
+    "$id": 37459360
+    oid: 37459360
+  highlights: []
+  lastUpdate: '2025-09-04T08:42:07.707Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1324379131
+  collectionId: 37459360
+  parsed: {}
 - _id: 1319725519
   link: https://baty.net/posts/2025/08/its-just-that-i-prefer-film/
   title: It's just that I prefer film
