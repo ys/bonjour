@@ -1,4 +1,39 @@
 ---
+- _id: 1326277630
+  link: https://lawsonchapman.substack.com/p/pursuit-of-the-ordinary
+  title: Pursuit of the Ordinary
+  excerpt: 'The digital space is laced with Red #5 and there is no warning label.'
+  note: We are having a lot of those chats at home with my son. He is closer than
+    ever to get his own doom device but yet doesn’t see the point. Which I admire
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://substackcdn.com/image/fetch/$s_!YwrI!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c3c6299-e7b2-42d1-9669-733a7d91cff1_4901x3267.jpeg
+  media:
+  - link: https://substackcdn.com/image/fetch/$s_!YwrI!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c3c6299-e7b2-42d1-9669-733a7d91cff1_4901x3267.jpeg
+    type: image
+  - link: https://substackcdn.com/image/fetch/$s_!OiED!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Flawsonchapman.substack.com%2Fapi%2Fv1%2Fpost_preview%2F172884727%2Ftwitter.jpg%3Fversion%3D4
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2025-09-06T06:12:40.088Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  lastUpdate: '2025-09-06T06:13:35.991Z'
+  domain: lawsonchapman.substack.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1326277630
+  collectionId: -1
+  parsed: {}
 - _id: 1324603859
   link: https://youtube.com/watch?v=j29tGv3d53A&si=ZXeYbPwNY4mBWbhu
   title: PEOPLE OF SURFING EP01 | Laure Mayer meeting the surfing community of New
