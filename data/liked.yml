@@ -1,4 +1,38 @@
 ---
+- _id: 1335072419
+  link: https://youtube.com/watch?v=4MFKkATK2Hs&si=5YbpNxMDUs8hqK4D
+  title: Souffleurs de Breizh - portrait de Mathieu Jacq
+  excerpt: 'A Saint-Malo, Mathieu Jacq a le surf dans la peau. A 5 mn de la grande
+    plage du Sillon, il a ouvert L’Atelier de la Glisse, un surf shop engagé : les
+    planche...'
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/4MFKkATK2Hs/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/4MFKkATK2Hs/maxresdefault.jpg
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2025-09-11T18:46:50.363Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  lastUpdate: '2025-09-11T18:46:55.606Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1335072419
+  collectionId: -1
+  parsed: {}
 - _id: 1326277630
   link: https://lawsonchapman.substack.com/p/pursuit-of-the-ordinary
   title: Pursuit of the Ordinary
@@ -879,41 +913,6 @@
   sort: 1043754508
   collectionId: 37136905
   parsed: {}
-- _id: 1043753608
-  link: https://www.youtube.com/watch?v=NqVwF6oLM10
-  title: Small, Windy Fun at The Pass
-  excerpt: 'Bryce Baker and Ari Browne trade waves in Byron on their MPE P38s: 8''6"
-    and 9''2"Check out our selection of P38s here:https://mollusksurfshop.com/collections/...'
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/NqVwF6oLM10/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/NqVwF6oLM10/maxresdefault.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2025-05-18T18:58:02.957Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  lastUpdate: '2025-05-18T18:58:06.859Z'
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 1043753608
-  collectionId: 37136905
-  parsed: {}
 - _id: 1032391750
   link: https://youtube.com/watch?v=-x9SBCODnOA&si=SI9NQpxTGrcdMnyW
   title: En Californie, dessine-moi une vague | Invitation au voyage | ARTE
@@ -1764,6 +1763,41 @@
     email: ''
   sort: 987894153
   collectionId: 37136905
+  parsed: {}
+- _id: 985659204
+  link: https://www.itsamyliz.com/journal/how-to-cyanotypes?utm_source=substack&utm_medium=email
+  title: How to-Cyanotypes — Amy Elizabeth
+  excerpt: Want to make your own prints but don’t have a darkroom?  Cyanotypes are
+    the perfect option; learn about them here!
+  note: I just love those blues
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://static1.squarespace.com/static/6269fad344c82f0cce719c2e/6366e81a2ff5e829c33876e9/63d7ff56fef7034e33c4d916/1738075497424/Scans-2.jpg?format=1500w
+  media:
+  - link: http://static1.squarespace.com/static/6269fad344c82f0cce719c2e/6366e81a2ff5e829c33876e9/63d7ff56fef7034e33c4d916/1738075497424/Scans-2.jpg?format=1500w
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-03-05T08:44:19.918Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2025-03-05T08:44:27.879Z'
+  domain: itsamyliz.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 985659204
+  collectionId: -1
   parsed: {}
 - _id: 985659204
   link: https://www.itsamyliz.com/journal/how-to-cyanotypes?utm_source=substack&utm_medium=email
@@ -2852,56 +2886,6 @@
   sort: 933274355
   collectionId: -1
   parsed: {}
-- _id: 933274355
-  link: https://www.newyorker.com/culture/infinite-scroll/have-iphone-cameras-become-too-smart
-  title: Have iPhone Cameras Become Too Smart?
-  excerpt: Apple’s newest smartphone models use machine learning to make every image
-    look professionally taken. That doesn’t mean the photos are good.
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://media.newyorker.com/photos/6233b1adbb9e4c8f282d03cd/16:9/w_1280,c_limit/chayka_iphone_social_2.jpg
-  media:
-  - link: https://media.newyorker.com/photos/6233b1adbb9e4c8f282d03cd/16:9/w_1280,c_limit/chayka_iphone_social_2.jpg
-    type: image
-  tags: []
-  highlights:
-  - text: We are all pro photographers now, at the tap of a finger, but that doesn’t
-      mean our photos are good
-    note: ''
-    color: yellow
-    created: '2024-12-30T07:36:28.024Z'
-    lastUpdate: '2024-12-30T07:37:25.109Z'
-    creatorRef: 1617030
-    _id: 67724d809326a2fa82c8f51b
-  - text: the fundamental qualities of new-generation iPhone photographs remain. They
-      are coldly crisp and vaguely inhuman, caught in the uncanny valley where creative
-      expression meets machine learning.
-    note: ''
-    color: yellow
-    created: '2024-12-30T07:37:22.663Z'
-    lastUpdate: '2024-12-30T07:37:25.110Z'
-    creatorRef: 1617030
-    _id: 67724db5b845e073e1247d8d
-  important: true
-  removed: false
-  created: '2024-12-30T07:36:28.024Z'
-  collection:
-    "$ref": collections
-    "$id": -1
-    oid: -1
-  lastUpdate: '2024-12-30T07:37:25.109Z'
-  domain: newyorker.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 933274355
-  collectionId: -1
-  parsed: {}
 - _id: 933000054
   link: https://climateandboardsports.substack.com/p/yulex-doesnt-want-to-see-neoprene
   title: "“Yulex doesn’t want to see neoprene wetsuits in landfills.”"
@@ -3849,6 +3833,41 @@
     email: ''
   sort: 895948848
   collectionId: 37136905
+  parsed: {}
+- _id: 893332746
+  link: https://www.thatch.co/guide/12owtun1nsjqc/view
+  title: Traveler's California Surf Road Trip | Traveler Surf Club
+  excerpt: If you're looking to embark on your dream California surf trip but; - aren't
+    sure where to go - don't want to travel with your boards or wetsuits - ar...
+  note: Looking at this road trip for our future adventures in California
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://cdn.thatch.in/cdn-cgi/image/width=1600,quality=80,format=webp/images/by-user/vcR3sVSlJogFBKOCXvhFT0cyVsz2/boards/61052/1x0togh-blob.jpg
+  media:
+  - link: https://cdn.thatch.in/cdn-cgi/image/width=1600,quality=80,format=webp/images/by-user/vcR3sVSlJogFBKOCXvhFT0cyVsz2/boards/61052/1x0togh-blob.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2024-11-05T09:34:47.564Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2024-11-09T13:32:26.397Z'
+  domain: thatch.co
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 893332746
+  collectionId: -1
   parsed: {}
 - _id: 892577919
   link: https://www.youtube.com/watch?v=azxOOBL_U4Y
@@ -4849,39 +4868,6 @@
     name: bonjouryannick
     email: ''
   sort: 846454492
-  collectionId: -1
-  parsed: {}
-- _id: 842570322
-  link: https://departuremono.com/
-  title: Departure Mono
-  excerpt: A monospaced pixel font with a lo-fi, techy vibe.
-  note: I do love mono fonts
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://departuremono.com/assets/departure-og.png
-  media:
-  - link: https://departuremono.com/assets/departure-og.png
-    type: image
-  tags:
-  - fonts
-  highlights: []
-  important: true
-  removed: false
-  created: '2024-08-28T06:17:44.288Z'
-  collection:
-    "$ref": collections
-    "$id": -1
-    oid: -1
-  lastUpdate: '2024-08-28T06:18:14.371Z'
-  domain: departuremono.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 842570322
   collectionId: -1
   parsed: {}
 - _id: 841780357
@@ -7140,6 +7126,57 @@
   sort: 775066458
   collectionId: 36103677
   parsed: {}
+- _id: 775066459
+  link: https://www.radiusbooks.org/limited-editions/p/barbara-bosworth-the-sea-limited-editions
+  title: 'Barbara Bosworth: The Sea — Radius Books'
+  excerpt: 'Limited Edition:  $250  Edition of 100 Includes (1) signed digital print
+    of your choice of the cover image  Edition 1  (black and white) or  Edition 2  (color),
+    4x6-inch image on 5x7-inch paper each, and a signed copy of the book.     Deluxe
+    Edition : $2000  Edition of 20 Includes (1) signed digital'
+  note: I would love to have that book in my hands
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://static1.squarespace.com/static/5eb95b79c7eb587825c233f6/5eced9afbd69a776fa88c39c/621d8eab2accfb35f094c9c0/1696263696272/Bosworth+Limited+1+Framed.jpg?format=1500w
+  media:
+  - link: http://static1.squarespace.com/static/5eb95b79c7eb587825c233f6/5eced9afbd69a776fa88c39c/621d8eab2accfb35f094c9c0/1696263696272/Bosworth+Limited+1+Framed.jpg?format=1500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/5eb95b79c7eb587825c233f6/1646155121365-Z79FCE0C0HUXHQ40STY3/Bosworth+Limited+1+Framed.jpg?format=1000w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/5eb95b79c7eb587825c233f6/1646108451464-J9TKMCLVHFEX28JSQV5Q/Bosworth+Limited+1.png?format=2500w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/5eb95b79c7eb587825c233f6/1646155118771-1M33RQKYH5M0SVYGPIVG/Bosworth+Limited+2+Framed.jpg?format=1000w
+    type: image
+  - link: https://images.squarespace-cdn.com/content/v1/5eb95b79c7eb587825c233f6/1646159317113-MF68YMNPDA0Z7A84EKLL/SQ-Bosworth+Limited+1+Framed.jpg?format=1000w
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2024-04-25T11:52:57.460Z'
+  collection:
+    "$ref": collections
+    "$id": 36103677
+    oid: 36103677
+  highlights:
+  - text: 'Barbara Bosworth: The Sea'
+    note: ''
+    created: '2024-04-25T11:52:57.445Z'
+    lastUpdate: '2024-04-25T11:52:57.460Z'
+    creatorRef: 1617030
+    _id: 662a44194f458a61f7f25bd8
+  lastUpdate: '2024-04-25T11:52:58.604Z'
+  domain: radiusbooks.org
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 775066458
+  collectionId: 36103677
+  parsed: {}
 - _id: 774175284
   link: https://barbessurfclub.com/chebakia/
   title: Chebakia
@@ -8267,62 +8304,6 @@
     email: ''
   sort: 760413048
   collectionId: 37577000
-  parsed: {}
-- _id: 760398418
-  link: https://www.youtube.com/watch?v=iwFMWWToDGM
-  title: a conversation with Mike Blabac | from Skateboarding to Huberman Lab
-  excerpt: |-
-    I’m joined by Mike Blabac today to talk all about photographing skateboarding for the last 30 years and his current role as the photographer for the Huberman Lab Podcast. For 10% off your first purchase, go to https://squarespace.com/mattday and use code MATTDAY at checkout
-
-    Check out Mike’s work at:
-    https://www.instagram.com/blabacphoto
-    https://blabacshop.com
-
-    WEBSITE: http://www.mattdayphoto.com
-    INSTAGRAM: https://instagram.com/mattdayphoto
-
-    —————————————————————————————————
-
-    USE CODE “DAY” AT KEH FOR 5% OFF!
-    https://shareasale.com/r.cfm?b=1662504&u=2528818&m=66875&urllink=&afftrack=
-
-    SHOP LEICA: https://shrsl.com/34vak
-    SHOP HASSELBAD: https://shrsl.com/34van
-    SHOP 35MM: https://shrsl.com/34vao
-    SHOP MEDIUM FORMAT: https://shrsl.com/34vaq
-    SHOP LARGE FORMAT: https://shrsl.com/34var
-    SHOP POLAROID: https://shrsl.com/34vau
-
-    These are affiliate links to KEH Camera, a sponsor of the channel. Simply purchasing through these links and using my discount codes, you’re supporting the channel with no additional cost to your purchase. It’s greatly appreciated.
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/iwFMWWToDGM/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/iwFMWWToDGM/maxresdefault.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2024-03-27T13:39:00.377Z'
-  collection:
-    "$ref": collections
-    "$id": 37459360
-    oid: 37459360
-  highlights: []
-  lastUpdate: '2024-03-27T13:39:01.706Z'
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 760398418
-  collectionId: 37459360
   parsed: {}
 - _id: 760398418
   link: https://www.youtube.com/watch?v=iwFMWWToDGM
@@ -11369,6 +11350,39 @@
   sort: 710441500
   collectionId: 37603939
   parsed: {}
+- _id: 709860913
+  link: https://www.elisarouta.com/journal/je-me-rappelle-lautomne-2023
+  title: Je me rappelle l'automne 2023 — Elisa Routa
+  excerpt: Depuis 39 ans on fête mon anniversaire la veille de Noël pas par fétichisme
+    ni par manque de temps mais le hasard du calendrier
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://static1.squarespace.com/static/5fa1bd84033d177e51af4cd2/t/6599250fe029d7086465fcc2/1704535321493/B036236-R1-24-13.JPG?format=1500w
+  media:
+  - link: http://static1.squarespace.com/static/5fa1bd84033d177e51af4cd2/t/6599250fe029d7086465fcc2/1704535321493/B036236-R1-24-13.JPG?format=1500w
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2024-01-06T19:23:27.501Z'
+  lastUpdate: '2024-01-06T19:23:27.501Z'
+  collection:
+    "$ref": collections
+    "$id": 37679987
+    oid: 37679987
+  domain: elisarouta.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 709860913
+  collectionId: 37679987
+  parsed: {}
 - _id: 709511715
   link: https://m.youtube.com/watch?v=1UgRYVfEAJs&t=749
   title: BRITTANY, FRANCE; intricacies of the emerald coast
@@ -13476,48 +13490,6 @@
     email: ''
   sort: 682809319
   collectionId: 38035089
-  parsed: {}
-- _id: 682201875
-  link: https://www.monsterchildren.com/articles/watch-forward-with-chloe-smith
-  title: 'Watch: Forward With Chloe Smith — Monster Children'
-  excerpt: A series exploring how artists push forward with their practice.
-  note: "boring as art\n\nelevating the mundane "
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://static1.squarespace.com/static/6398e5b4b3dd441ead33860a/6398e815f2eabd0b458bc856/65555fb203f619620d238359/1700433654022/monster-children-Foward_Chloe_Smith_Artist+%281+of+1%29.jpg?format=1500w
-  media:
-  - link: http://static1.squarespace.com/static/6398e5b4b3dd441ead33860a/6398e815f2eabd0b458bc856/65555fb203f619620d238359/1700433654022/monster-children-Foward_Chloe_Smith_Artist+%281+of+1%29.jpg?format=1500w
-    type: image
-  - link: https://images.squarespace-cdn.com/content/v1/6398e5b4b3dd441ead33860a/1700098342064-GI234PHUBHD8ZENVTK9V/monster-children-Foward_Chloe_Smith_Artist+%282+of+5%29.jpg?format=1500w
-    type: image
-  - link: https://images.squarespace-cdn.com/content/v1/6398e5b4b3dd441ead33860a/1700098342098-XX6KG360SQH5DHZDRO9M/monster-children-Foward_Chloe_Smith_Artist+%283+of+5%29.jpg?format=1500w
-    type: image
-  - link: https://images.squarespace-cdn.com/content/v1/6398e5b4b3dd441ead33860a/1700098344107-8MD28N1QNSBKCUMNPV1J/monster-children-Foward_Chloe_Smith_Artist+%284+of+5%29.jpg?format=1500w
-    type: image
-  - link: https://images.squarespace-cdn.com/content/v1/6398e5b4b3dd441ead33860a/9dee5656-c8dd-4071-b0c1-5413c2659fcf/monster-children-Foward_Chloe_Smith_Artist+%281+of+5%29.jpg?format=2500w
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2023-11-21T09:16:54.297Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 37679987
-    oid: 37679987
-  highlights: []
-  domain: monsterchildren.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 682201875
-  collectionId: 37679987
   parsed: {}
 - _id: 681828688
   link: https://www.youtube.com/watch?v=uaeamUAN8gU&t=1375s
@@ -18159,6 +18131,38 @@
   important: true
   collectionId: 37459371
   parsed: {}
+- _id: 645601673
+  link: https://vimeo.com/758410646
+  excerpt: ''
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.vimeocdn.com/video/1535925246-f80d8d8ba4a9e00ca81fcbe5582b13c75d59146e80f3cd3e7e374aa381d64ac7-d_295x166
+  media:
+  - type: image
+    link: https://i.vimeocdn.com/video/1535925246-f80d8d8ba4a9e00ca81fcbe5582b13c75d59146e80f3cd3e7e374aa381d64ac7-d_295x166
+  tags: []
+  removed: false
+  created: '2023-07-11T19:59:26.343Z'
+  collection:
+    "$ref": collections
+    "$id": 37136909
+    oid: 37136909
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: vimeo.com
+  title: AMBLE
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601777
+  important: true
+  collectionId: 37136909
+  parsed: {}
 - _id: 645601672
   link: https://mpora.com/surfing/the-rise-of-surf-activism-surfers-against-sewage/
   excerpt: ''
@@ -18927,38 +18931,6 @@
   sort: 646624079
   important: true
   collectionId: 37136914
-  parsed: {}
-- _id: 645601647
-  link: https://lookingsideways.substack.com/p/calum-macintyre-5-reasons-our-community
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d764709-1318-41b6-a2d4-25ad411ec3ea_9253x6169.jpeg
-  media:
-  - type: image
-    link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d764709-1318-41b6-a2d4-25ad411ec3ea_9253x6169.jpeg
-  tags: []
-  removed: false
-  created: '2023-06-13T21:15:35.378Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: lookingsideways.substack.com
-  title: 'Calum Macintyre: 5 Reasons Our Community Does Not Genuinely Engage'
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601647
-  important: true
-  collectionId: 37456415
   parsed: {}
 - _id: 645601647
   link: https://lookingsideways.substack.com/p/calum-macintyre-5-reasons-our-community
@@ -21372,6 +21344,38 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 645601565
+  link: https://www.youtube.com/watch?app=desktop&v=eV_753wIUzo
+  excerpt: ''
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/eV_753wIUzo/maxresdefault.jpg
+  media:
+  - type: image
+    link: https://i.ytimg.com/vi/eV_753wIUzo/maxresdefault.jpg
+  tags: []
+  removed: false
+  created: '2023-03-12T11:53:45.044Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: youtube.com
+  title: What's Next? | Patagonia
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601565
+  important: true
+  collectionId: 37456415
+  parsed: {}
 - _id: 645601564
   link: https://mathieuodin.com/achat-et-amenagement-du-camping-car
   excerpt: ''
@@ -22142,38 +22146,6 @@
   sort: 645601730
   important: true
   collectionId: 37136909
-  parsed: {}
-- _id: 645601540
-  link: https://mentalhellth.xyz/p/making-space-for-fun-under-capitalism
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1888af2a-8421-4889-a4c1-5e420646e31b_879x653.png
-  media:
-  - type: image
-    link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1888af2a-8421-4889-a4c1-5e420646e31b_879x653.png
-  tags: []
-  removed: false
-  created: '2023-02-26T22:18:32.178Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: mentalhellth.xyz
-  title: Making Space for Fun Under Capitalism
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601540
-  important: true
-  collectionId: 37456415
   parsed: {}
 - _id: 645601539
   link: https://www.nytimes.com/2023/02/17/sports/big-wave-surfing-sachi-cunningham.html
@@ -24583,6 +24555,38 @@
   important: true
   collectionId: 37576903
   parsed: {}
+- _id: 645601459
+  link: https://indoek.com/article/surf-shacks-090-jonathan-mareike-weaver/
+  excerpt: ''
+  note: Portugal and words about community in a beautiful house, yeah!
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://indoek.com/wp-content/uploads/2022/11/Indoek-Surf-Shacks-Jonathan-Weaver-Ericeira-Portugal-Matt-Titone-089.jpg
+  media:
+  - type: image
+    link: https://indoek.com/wp-content/uploads/2022/11/Indoek-Surf-Shacks-Jonathan-Weaver-Ericeira-Portugal-Matt-Titone-089.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:51:55.032Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2024-10-14T08:01:58.719Z'
+  domain: indoek.com
+  title: Surf Shacks 090 – Jonathan + Mareike Weaver
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 875127903
+  important: true
+  collectionId: 37136905
+  parsed: {}
 - _id: 645601458
   link: https://beside.media/fr/besiders/ptit-belliveau/
   excerpt: ''
@@ -25348,38 +25352,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601435
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601434
-  link: https://www.kisskissbankbank.com/fr/projects/finistere-le-livre
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://d3v4jsc54141g1.cloudfront.net/uploads/project/avatar/267692/cropped_a5ebc80a-ecdb-4f71-8566-21adca724be5.gif
-  media:
-  - type: image
-    link: https://d3v4jsc54141g1.cloudfront.net/uploads/project/avatar/267692/cropped_a5ebc80a-ecdb-4f71-8566-21adca724be5.gif
-  tags: []
-  removed: false
-  created: '2023-01-26T19:50:25.056Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: kisskissbankbank.com
-  title: Finistère, le beau-livre engagé pour une vie consciente par Nomades
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601434
   important: true
   collectionId: 37456415
   parsed: {}
@@ -26995,6 +26967,46 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 645601380
+  link: https://www.instagram.com/reel/ChCBsHFjMf8/?igshid=MDJmNzVkMjY=
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://scontent-iad3-2.cdninstagram.com/v/t51.36329-15/298116091_589537589340490_5571623785094952105_n.jpg?stp=c81.0.243.243a_dst-jpg_s640x640&_nc_cat=105&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=nP2Ojg2zYOIAX9nqzCK&_nc_ht=scontent-iad3-2.cdninstagram.com&oh=00_AfD4rgbSNk9uwNtCEcPU21jWC2l3HzNfWF_iQUDF8c34MQ&oe=6505C078
+  media:
+  - type: image
+    link: https://scontent-iad3-2.cdninstagram.com/v/t51.36329-15/298116091_589537589340490_5571623785094952105_n.jpg?stp=c81.0.243.243a_dst-jpg_s640x640&_nc_cat=105&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=nP2Ojg2zYOIAX9nqzCK&_nc_ht=scontent-iad3-2.cdninstagram.com&oh=00_AfD4rgbSNk9uwNtCEcPU21jWC2l3HzNfWF_iQUDF8c34MQ&oe=6505C078
+  tags: []
+  removed: false
+  created: '2023-01-26T19:49:02.425Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: instagram.com
+  title: "Ocean Flow | Barbara Peisl on Instagram: \"Nostalgia de invierno \U0001F90D
+    Memories of our Longboard Days in March together with @itsonlywater We cannot
+    wait to be back in the water with you! Next dates: - Nov 12 - 19 (1 spot left)
+    - Dec 3 -10 (4 spots left) - Dec 18 - 25 Christmas edition Check out our longboard
+    & yoga retreats www.yogaoceanflow.com/longboard-yoga-retreat ✨ Requests and bookings
+    via mail -> yogaoceanflow@gmail.com See you soon \U0001F31E #longboarddays #longboardretreat
+    #flowlikewaves #itsonlywater #longwinter #elpalmar #longboard #surfretreat #surfyoga
+    #yogaforsurfers #oceanflow #yogaoceanflow \U0001F3A5 Barbara Peisl / One Inch
+    Dreams\""
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601380
+  important: true
+  collectionId: 37456415
+  parsed: {}
 - _id: 645601379
   link: https://tr.af/100
   excerpt: ''
@@ -28556,38 +28568,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601331
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601330
-  link: https://lograp.com/blogs/blog-crap/log-chats-vol-3-andy-nieblas
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://lograp.com/cdn/shop/articles/Sequence_030_1200x1200.jpg?v=1650299490
-  media:
-  - type: image
-    link: https://lograp.com/cdn/shop/articles/Sequence_030_1200x1200.jpg?v=1650299490
-  tags: []
-  removed: false
-  created: '2023-01-26T19:48:22.823Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: lograp.com
-  title: Log Chats Vol. 3 | Andy Nieblas
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601330
   important: true
   collectionId: 37456415
   parsed: {}
@@ -30990,6 +30970,38 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 645601251
+  link: https://www.fieldmag.com/articles/wood-fired-hot-tub-guide
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: http://images.ctfassets.net/r7p9m4b1iqbp/4KfiT5IeETKGxEruO83h1n/ad9eba093559171938496b49c59823eb/Wood-Fired-Hot-Tub-Shayd-Johnson-thumb.jpg?w=1000
+  media:
+  - type: image
+    link: http://images.ctfassets.net/r7p9m4b1iqbp/4KfiT5IeETKGxEruO83h1n/ad9eba093559171938496b49c59823eb/Wood-Fired-Hot-Tub-Shayd-Johnson-thumb.jpg?w=1000
+  tags: []
+  removed: false
+  created: '2023-01-26T19:47:11.654Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: fieldmag.com
+  title: All You've Ever Wanted to Know About Wood Fired Hot Tubs
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601251
+  important: true
+  collectionId: 37456415
+  parsed: {}
 - _id: 645601250
   link: https://almondsurfboards.com/products/92-rseries-surf-thump-in-store?_kx=WJeE3QQCOcj1C5-kKTUTnVQwLixGXGjdFW4dPGeJnNo%3D.Hb5zTY
   excerpt: ''
@@ -31756,38 +31768,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601227
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601226
-  link: https://www.mcsweeneys.net/articles/an-afternoon-with-me-the-man-in-an-rei-print-ad
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://edge.mcsw.net/mcsweeneys/1m2ap07drnn75oa6l68910ej2nmg
-  media:
-  - type: image
-    link: http://edge.mcsw.net/mcsweeneys/1m2ap07drnn75oa6l68910ej2nmg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:46:55.557Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: mcsweeneys.net
-  title: An Afternoon with Me, the Man in an REI Print Ad
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601226
   important: true
   collectionId: 37456415
   parsed: {}
@@ -32560,6 +32540,38 @@
     name: bonjouryannick
     email: ''
   sort: 645601200
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601199
+  link: https://www.mangoandsalt.com/2021/10/07/7-photographes-contemporains-jadore/
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://www.mangoandsalt.com/wp-content/uploads/2021/10/photographes-contemporains-preferes.jpg
+  media:
+  - type: image
+    link: https://www.mangoandsalt.com/wp-content/uploads/2021/10/photographes-contemporains-preferes.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:46:36.377Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: mangoandsalt.com
+  title: 7 photographes contemporains que j'adore - Mango and Salt
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601199
   important: true
   collectionId: 37456415
   parsed: {}
@@ -34167,38 +34179,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601150
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601149
-  link: https://www.instagram.com/hanaiyusuke/
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/274055021_441044161091932_665615497120823332_n.jpg?stp=dst-jpg_s100x100&_nc_cat=104&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=llLa-UPqobcAX9E89Qh&_nc_ht=scontent-iad3-1.cdninstagram.com&oh=00_AfCYXIasG7c2Lb-HtkXcZ9Y7dJZRTGjhcD8FFH4j3Ve2xQ&oe=6505E6DB
-  media:
-  - type: image
-    link: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/274055021_441044161091932_665615497120823332_n.jpg?stp=dst-jpg_s100x100&_nc_cat=104&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=llLa-UPqobcAX9E89Qh&_nc_ht=scontent-iad3-1.cdninstagram.com&oh=00_AfCYXIasG7c2Lb-HtkXcZ9Y7dJZRTGjhcD8FFH4j3Ve2xQ&oe=6505E6DB
-  tags: []
-  removed: false
-  created: '2023-01-26T19:45:56.622Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: instagram.com
-  title: Instagram (@hanaiyusuke)
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601149
   important: true
   collectionId: 37456415
   parsed: {}
@@ -36609,6 +36589,39 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 645601072
+  link: https://dann.thatportfolio.com/
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fdann.thatportfolio.com%2F
+  media:
+  - type: image
+    link: https://rdl.ink/render/https%3A%2F%2Fdann.thatportfolio.com%2F
+    screenshot: true
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:07.231Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: dann.thatportfolio.com
+  title: Dann
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601072
+  important: true
+  collectionId: 37456415
+  parsed: {}
 - _id: 645601071
   link: https://www.47-degree.com/focus-shift/nokton-35mm-1-4-classic-ii-review
   excerpt: ''
@@ -37368,38 +37381,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601048
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601047
-  link: https://retrofutur.fr/enceintes/920-la-boite-concept-pr-01.html
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://retrofutur.fr/11735-thickbox/la-boite-concept-pr-01.jpg
-  media:
-  - type: image
-    link: https://retrofutur.fr/11735-thickbox/la-boite-concept-pr-01.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:44:49.877Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: retrofutur.fr
-  title: PR/01
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601047
   important: true
   collectionId: 37456415
   parsed: {}
