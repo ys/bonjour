@@ -2852,6 +2852,56 @@
   sort: 933274355
   collectionId: -1
   parsed: {}
+- _id: 933274355
+  link: https://www.newyorker.com/culture/infinite-scroll/have-iphone-cameras-become-too-smart
+  title: Have iPhone Cameras Become Too Smart?
+  excerpt: Apple’s newest smartphone models use machine learning to make every image
+    look professionally taken. That doesn’t mean the photos are good.
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://media.newyorker.com/photos/6233b1adbb9e4c8f282d03cd/16:9/w_1280,c_limit/chayka_iphone_social_2.jpg
+  media:
+  - link: https://media.newyorker.com/photos/6233b1adbb9e4c8f282d03cd/16:9/w_1280,c_limit/chayka_iphone_social_2.jpg
+    type: image
+  tags: []
+  highlights:
+  - text: We are all pro photographers now, at the tap of a finger, but that doesn’t
+      mean our photos are good
+    note: ''
+    color: yellow
+    created: '2024-12-30T07:36:28.024Z'
+    lastUpdate: '2024-12-30T07:37:25.109Z'
+    creatorRef: 1617030
+    _id: 67724d809326a2fa82c8f51b
+  - text: the fundamental qualities of new-generation iPhone photographs remain. They
+      are coldly crisp and vaguely inhuman, caught in the uncanny valley where creative
+      expression meets machine learning.
+    note: ''
+    color: yellow
+    created: '2024-12-30T07:37:22.663Z'
+    lastUpdate: '2024-12-30T07:37:25.110Z'
+    creatorRef: 1617030
+    _id: 67724db5b845e073e1247d8d
+  important: true
+  removed: false
+  created: '2024-12-30T07:36:28.024Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  lastUpdate: '2024-12-30T07:37:25.109Z'
+  domain: newyorker.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 933274355
+  collectionId: -1
+  parsed: {}
 - _id: 933000054
   link: https://climateandboardsports.substack.com/p/yulex-doesnt-want-to-see-neoprene
   title: "“Yulex doesn’t want to see neoprene wetsuits in landfills.”"
@@ -3799,41 +3849,6 @@
     email: ''
   sort: 895948848
   collectionId: 37136905
-  parsed: {}
-- _id: 893332746
-  link: https://www.thatch.co/guide/12owtun1nsjqc/view
-  title: Traveler's California Surf Road Trip | Traveler Surf Club
-  excerpt: If you're looking to embark on your dream California surf trip but; - aren't
-    sure where to go - don't want to travel with your boards or wetsuits - ar...
-  note: Looking at this road trip for our future adventures in California
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://cdn.thatch.in/cdn-cgi/image/width=1600,quality=80,format=webp/images/by-user/vcR3sVSlJogFBKOCXvhFT0cyVsz2/boards/61052/1x0togh-blob.jpg
-  media:
-  - link: https://cdn.thatch.in/cdn-cgi/image/width=1600,quality=80,format=webp/images/by-user/vcR3sVSlJogFBKOCXvhFT0cyVsz2/boards/61052/1x0togh-blob.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2024-11-05T09:34:47.564Z'
-  collection:
-    "$ref": collections
-    "$id": -1
-    oid: -1
-  highlights: []
-  lastUpdate: '2024-11-09T13:32:26.397Z'
-  domain: thatch.co
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 893332746
-  collectionId: -1
   parsed: {}
 - _id: 892577919
   link: https://www.youtube.com/watch?v=azxOOBL_U4Y
@@ -8309,6 +8324,62 @@
   sort: 760398418
   collectionId: 37459360
   parsed: {}
+- _id: 760398418
+  link: https://www.youtube.com/watch?v=iwFMWWToDGM
+  title: a conversation with Mike Blabac | from Skateboarding to Huberman Lab
+  excerpt: |-
+    I’m joined by Mike Blabac today to talk all about photographing skateboarding for the last 30 years and his current role as the photographer for the Huberman Lab Podcast. For 10% off your first purchase, go to https://squarespace.com/mattday and use code MATTDAY at checkout
+
+    Check out Mike’s work at:
+    https://www.instagram.com/blabacphoto
+    https://blabacshop.com
+
+    WEBSITE: http://www.mattdayphoto.com
+    INSTAGRAM: https://instagram.com/mattdayphoto
+
+    —————————————————————————————————
+
+    USE CODE “DAY” AT KEH FOR 5% OFF!
+    https://shareasale.com/r.cfm?b=1662504&u=2528818&m=66875&urllink=&afftrack=
+
+    SHOP LEICA: https://shrsl.com/34vak
+    SHOP HASSELBAD: https://shrsl.com/34van
+    SHOP 35MM: https://shrsl.com/34vao
+    SHOP MEDIUM FORMAT: https://shrsl.com/34vaq
+    SHOP LARGE FORMAT: https://shrsl.com/34var
+    SHOP POLAROID: https://shrsl.com/34vau
+
+    These are affiliate links to KEH Camera, a sponsor of the channel. Simply purchasing through these links and using my discount codes, you’re supporting the channel with no additional cost to your purchase. It’s greatly appreciated.
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/iwFMWWToDGM/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/iwFMWWToDGM/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2024-03-27T13:39:00.377Z'
+  collection:
+    "$ref": collections
+    "$id": 37459360
+    oid: 37459360
+  highlights: []
+  lastUpdate: '2024-03-27T13:39:01.706Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 760398418
+  collectionId: 37459360
+  parsed: {}
 - _id: 760377126
   link: https://www.blabacphoto.com/
   title: Home - Blabac Photo
@@ -11297,39 +11368,6 @@
     email: ''
   sort: 710441500
   collectionId: 37603939
-  parsed: {}
-- _id: 709860913
-  link: https://www.elisarouta.com/journal/je-me-rappelle-lautomne-2023
-  title: Je me rappelle l'automne 2023 — Elisa Routa
-  excerpt: Depuis 39 ans on fête mon anniversaire la veille de Noël pas par fétichisme
-    ni par manque de temps mais le hasard du calendrier
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://static1.squarespace.com/static/5fa1bd84033d177e51af4cd2/t/6599250fe029d7086465fcc2/1704535321493/B036236-R1-24-13.JPG?format=1500w
-  media:
-  - link: http://static1.squarespace.com/static/5fa1bd84033d177e51af4cd2/t/6599250fe029d7086465fcc2/1704535321493/B036236-R1-24-13.JPG?format=1500w
-    type: image
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2024-01-06T19:23:27.501Z'
-  lastUpdate: '2024-01-06T19:23:27.501Z'
-  collection:
-    "$ref": collections
-    "$id": 37679987
-    oid: 37679987
-  domain: elisarouta.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 709860913
-  collectionId: 37679987
   parsed: {}
 - _id: 709511715
   link: https://m.youtube.com/watch?v=1UgRYVfEAJs&t=749
@@ -16514,6 +16552,39 @@
   important: true
   collectionId: 37136905
   parsed: {}
+- _id: 645601723
+  link: https://vimeo.com/229153243
+  excerpt: ''
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.vimeocdn.com/video/649390564-f6f84753b847347cac18bf2e6640446ae69a905cc698781f101ad98172f5c3f6-d_640
+  media:
+  - type: image
+    link: https://i.vimeocdn.com/video/649390564-f6f84753b847347cac18bf2e6640446ae69a905cc698781f101ad98172f5c3f6-d_640
+  tags:
+  - art
+  removed: false
+  created: '2023-09-07T10:55:15.774Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: vimeo.com
+  title: Small Talks | Jay Nelson
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601718
+  important: true
+  collectionId: 37136905
+  parsed: {}
 - _id: 645601722
   link: https://www.ebay.com/itm/164673117066
   excerpt: ''
@@ -18088,38 +18159,6 @@
   important: true
   collectionId: 37459371
   parsed: {}
-- _id: 645601673
-  link: https://vimeo.com/758410646
-  excerpt: ''
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.vimeocdn.com/video/1535925246-f80d8d8ba4a9e00ca81fcbe5582b13c75d59146e80f3cd3e7e374aa381d64ac7-d_295x166
-  media:
-  - type: image
-    link: https://i.vimeocdn.com/video/1535925246-f80d8d8ba4a9e00ca81fcbe5582b13c75d59146e80f3cd3e7e374aa381d64ac7-d_295x166
-  tags: []
-  removed: false
-  created: '2023-07-11T19:59:26.343Z'
-  collection:
-    "$ref": collections
-    "$id": 37136909
-    oid: 37136909
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: vimeo.com
-  title: AMBLE
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601777
-  important: true
-  collectionId: 37136909
-  parsed: {}
 - _id: 645601672
   link: https://mpora.com/surfing/the-rise-of-surf-activism-surfers-against-sewage/
   excerpt: ''
@@ -18888,6 +18927,38 @@
   sort: 646624079
   important: true
   collectionId: 37136914
+  parsed: {}
+- _id: 645601647
+  link: https://lookingsideways.substack.com/p/calum-macintyre-5-reasons-our-community
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d764709-1318-41b6-a2d4-25ad411ec3ea_9253x6169.jpeg
+  media:
+  - type: image
+    link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2d764709-1318-41b6-a2d4-25ad411ec3ea_9253x6169.jpeg
+  tags: []
+  removed: false
+  created: '2023-06-13T21:15:35.378Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: lookingsideways.substack.com
+  title: 'Calum Macintyre: 5 Reasons Our Community Does Not Genuinely Engage'
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601647
+  important: true
+  collectionId: 37456415
   parsed: {}
 - _id: 645601647
   link: https://lookingsideways.substack.com/p/calum-macintyre-5-reasons-our-community
@@ -20495,39 +20566,6 @@
   sort: 645601591
   important: true
   collectionId: 37456415
-  parsed: {}
-- _id: 645601590
-  link: https://mitchellh.com/writing/my-startup-banking-story
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Fmitchellh.com%2Fwriting%2Fmy-startup-banking-story
-  media:
-  - type: image
-    link: https://rdl.ink/render/https%3A%2F%2Fmitchellh.com%2Fwriting%2Fmy-startup-banking-story
-    screenshot: true
-  tags: []
-  removed: false
-  created: '2023-03-28T12:47:28.489Z'
-  collection:
-    "$ref": collections
-    "$id": 37456469
-    oid: 37456469
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: mitchellh.com
-  title: My Startup Banking Story
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601727
-  important: true
-  collectionId: 37456469
   parsed: {}
 - _id: 645601589
   link: https://www.robinrendle.com/notes/your-reading-should-be-messy/
@@ -22941,6 +22979,38 @@
   important: true
   collectionId: 37576759
   parsed: {}
+- _id: 645601509
+  link: https://finisterre.com/pages/sea7-masterclass-batch-1
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://finisterre.com/cdn/shop/files/finisterre-black-logo.png?v=1613602454
+  media:
+  - type: image
+    link: https://finisterre.com/cdn/shop/files/finisterre-black-logo.png?v=1613602454
+  tags: []
+  removed: false
+  created: '2023-01-29T16:50:44.430Z'
+  collection:
+    "$ref": collections
+    "$id": 37576759
+    oid: 37576759
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: finisterre.com
+  title: Sea7 Masterclasses | Batch 1 | Finisterre
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 646621889
+  important: true
+  collectionId: 37576759
+  parsed: {}
 - _id: 645601508
   link: https://www.youtube.com/watch?v=YO_J2f3pzCI
   excerpt: ''
@@ -24513,38 +24583,6 @@
   important: true
   collectionId: 37576903
   parsed: {}
-- _id: 645601459
-  link: https://indoek.com/article/surf-shacks-090-jonathan-mareike-weaver/
-  excerpt: ''
-  note: Portugal and words about community in a beautiful house, yeah!
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://indoek.com/wp-content/uploads/2022/11/Indoek-Surf-Shacks-Jonathan-Weaver-Ericeira-Portugal-Matt-Titone-089.jpg
-  media:
-  - type: image
-    link: https://indoek.com/wp-content/uploads/2022/11/Indoek-Surf-Shacks-Jonathan-Weaver-Ericeira-Portugal-Matt-Titone-089.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:51:55.032Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  lastUpdate: '2024-10-14T08:01:58.719Z'
-  domain: indoek.com
-  title: Surf Shacks 090 – Jonathan + Mareike Weaver
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 875127903
-  important: true
-  collectionId: 37136905
-  parsed: {}
 - _id: 645601458
   link: https://beside.media/fr/besiders/ptit-belliveau/
   excerpt: ''
@@ -25310,6 +25348,38 @@
     name: bonjouryannick
     email: ''
   sort: 645601435
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601434
+  link: https://www.kisskissbankbank.com/fr/projects/finistere-le-livre
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://d3v4jsc54141g1.cloudfront.net/uploads/project/avatar/267692/cropped_a5ebc80a-ecdb-4f71-8566-21adca724be5.gif
+  media:
+  - type: image
+    link: https://d3v4jsc54141g1.cloudfront.net/uploads/project/avatar/267692/cropped_a5ebc80a-ecdb-4f71-8566-21adca724be5.gif
+  tags: []
+  removed: false
+  created: '2023-01-26T19:50:25.056Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: kisskissbankbank.com
+  title: Finistère, le beau-livre engagé pour une vie consciente par Nomades
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601434
   important: true
   collectionId: 37456415
   parsed: {}
@@ -26113,38 +26183,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601406
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601405
-  link: https://www.creativepeptalk.com/episodes/380
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://images.podpage.com/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F4e866010-eca3-48bf-95ab-1d0101ed9285%2Ff4487308-e04b-46b1-9a24-dc23dcbe90fb%2F3000x3000%2F317.jpg%3Faid%3Drss_feed?auto=format&fill=blur&fit=fill&h=628&w=1200&s=e9c6f8198ea2c063450870d3ec9fcd3d
-  media:
-  - type: image
-    link: https://images.podpage.com/https%3A%2F%2Fimage.simplecastcdn.com%2Fimages%2F4e866010-eca3-48bf-95ab-1d0101ed9285%2Ff4487308-e04b-46b1-9a24-dc23dcbe90fb%2F3000x3000%2F317.jpg%3Faid%3Drss_feed?auto=format&fill=blur&fit=fill&h=628&w=1200&s=e9c6f8198ea2c063450870d3ec9fcd3d
-  tags: []
-  removed: false
-  created: '2023-01-26T19:49:30.693Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: creativepeptalk.com
-  title: 380 - Sick of Your Own Work? How to Make Work You Love Again in 5 Steps REPLAY
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601405
   important: true
   collectionId: 37456415
   parsed: {}
@@ -34164,6 +34202,38 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 645601149
+  link: https://www.instagram.com/hanaiyusuke/
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/274055021_441044161091932_665615497120823332_n.jpg?stp=dst-jpg_s100x100&_nc_cat=104&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=llLa-UPqobcAX9E89Qh&_nc_ht=scontent-iad3-1.cdninstagram.com&oh=00_AfCYXIasG7c2Lb-HtkXcZ9Y7dJZRTGjhcD8FFH4j3Ve2xQ&oe=6505E6DB
+  media:
+  - type: image
+    link: https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/274055021_441044161091932_665615497120823332_n.jpg?stp=dst-jpg_s100x100&_nc_cat=104&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=llLa-UPqobcAX9E89Qh&_nc_ht=scontent-iad3-1.cdninstagram.com&oh=00_AfCYXIasG7c2Lb-HtkXcZ9Y7dJZRTGjhcD8FFH4j3Ve2xQ&oe=6505E6DB
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:56.622Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: instagram.com
+  title: Instagram (@hanaiyusuke)
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601149
+  important: true
+  collectionId: 37456415
+  parsed: {}
 - _id: 645601148
   link: https://www.friedcactusdc.com/
   excerpt: ''
@@ -34932,38 +35002,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601125
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601124
-  link: https://audacious.blog/2021/write/
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://audacious.blog/og-image.png
-  media:
-  - type: image
-    link: https://audacious.blog/og-image.png
-  tags: []
-  removed: false
-  created: '2023-01-26T19:45:41.780Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: audacious.blog
-  title: Write Sentences, Not Too Many, Mostly Active
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601124
   important: true
   collectionId: 37456415
   parsed: {}
@@ -37330,6 +37368,38 @@
     name: bonjouryannick
     email: ''
   sort: 645601048
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601047
+  link: https://retrofutur.fr/enceintes/920-la-boite-concept-pr-01.html
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://retrofutur.fr/11735-thickbox/la-boite-concept-pr-01.jpg
+  media:
+  - type: image
+    link: https://retrofutur.fr/11735-thickbox/la-boite-concept-pr-01.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:44:49.877Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: retrofutur.fr
+  title: PR/01
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601047
   important: true
   collectionId: 37456415
   parsed: {}
