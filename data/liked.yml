@@ -1,4 +1,39 @@
 ---
+- _id: 1349720324
+  link: https://www.youtube.com/watch?v=VH1hHfOqEqc
+  title: Since ‘93 - L’histoire du P.L.O Skate Club
+  excerpt: Since ‘93 - L’histoire du P.L.O Skate Club Un documentaire retraçant l’histoire
+    du P.L.O Skate Club et la genèse du projet de nouveau skatepark initié en 201...
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/VH1hHfOqEqc/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/VH1hHfOqEqc/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-09-19T20:01:56.996Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2025-09-19T20:01:57.809Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1349720324
+  collectionId: -1
+  parsed: {}
 - _id: 1335733817
   link: https://www.youtube.com/watch?v=KjKr4IawndA&list=WL&index=13
   title: 'Sarah Meurle: Creating a world where photography and skateboarding combine'
