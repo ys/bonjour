@@ -1,4 +1,46 @@
 ---
+- _id: 1353208401
+  link: https://www.youtube.com/watch?v=RiSFA42vvBI
+  title: 'Inside the Home of the World’s Best Plant Designer | Huckberry Homes: Hilton
+    Carter - YouTube'
+  excerpt: 'Shop Hilton''s Flint and Tinder Look on Huckberry: https://bit.ly/3W058XeIn
+    this episode of Huckberry Homes, we travel to Baltimore to visit the home of Hilto...'
+  note: Chase the light
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/RiSFA42vvBI/maxresdefault.jpg
+  tags: []
+  removed: false
+  media:
+  - type: image
+    link: https://i.ytimg.com/vi/RiSFA42vvBI/maxresdefault.jpg
+  highlights:
+  - text: Hilton Carter
+    note: ''
+    color: yellow
+    position: 0
+    created: '2025-09-22T08:55:43.571Z'
+    lastUpdate: '2025-09-22T08:55:43.572Z'
+    creatorRef: 1617030
+    _id: 68d10f0f6eb36f1e770f3a6a
+  created: '2025-09-22T08:55:43.572Z'
+  lastUpdate: '2025-09-22T08:55:53.589Z'
+  domain: youtube.com
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1353208401
+  important: true
+  collectionId: -1
+  parsed: {}
 - _id: 1351830132
   link: https://www.youtube.com/watch?v=uA1zhlQj6pA
   title: OCEANTREE ~ Born from Tree ~
