@@ -1,4 +1,39 @@
 ---
+- _id: 1357577714
+  link: https://www.youtube.com/watch?v=GDQ_F8yIRQ4&list=WL&index=2
+  title: the art of documenting skateboarding w/ Matt Price
+  excerpt: 'Discussing the importance of documentation in the world of skateboarding
+    with my good friend, Matt Price! Check out Matt''s work: https://www.instagram.com/pr...'
+  note: "> I don't need a meter, I don't need to count the stairs"
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/GDQ_F8yIRQ4/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/GDQ_F8yIRQ4/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-09-25T11:54:14.356Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2025-09-25T11:54:27.335Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1357577714
+  collectionId: -1
+  parsed: {}
 - _id: 1353497317
   link: https://www.youtube.com/watch?v=XtIRrHmNUZA
   title: The Glory of the Glide
