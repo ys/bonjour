@@ -1,4 +1,44 @@
 ---
+- _id: 1369554469
+  link: https://surfrepotes.fr/forum/articles-interviews-surf/interview-barbes-surf-club-t10212.html
+  title: surfrepotes.fr • Afficher le sujet - Interview - Barbes Surf Club
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://surfrepotes.fr/forum/styles/prosilver_se/imageset/banniere.png
+  media:
+  - link: https://surfrepotes.fr/forum/styles/prosilver_se/imageset/banniere.png
+    type: image
+  - link: https://surfrepotes.fr/interviews/Barbessurfclub/Screenshot%202025-10-04%20at%2011-50-41%20Instagram.png
+    type: image
+  - link: https://surfrepotes.fr/interviews/Barbessurfclub/Screenshot%202025-10-04%20at%2011-45-24%20Instagram.png
+    type: image
+  - link: https://surfrepotes.fr/interviews/Barbessurfclub/Screenshot%202025-10-04%20at%2011-46-03%20Instagram.png
+    type: image
+  - link: https://surfrepotes.fr/interviews/Barbessurfclub/Screenshot%202025-10-04%20at%2011-48-50%20Instagram.png
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2025-10-04T12:45:34.898Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  lastUpdate: '2025-10-04T12:45:45.314Z'
+  domain: surfrepotes.fr
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1369554469
+  collectionId: -1
+  parsed: {}
 - _id: 1357577714
   link: https://www.youtube.com/watch?v=GDQ_F8yIRQ4&list=WL&index=2
   title: the art of documenting skateboarding w/ Matt Price
