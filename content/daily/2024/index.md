@@ -1,5 +1,4 @@
 ---
-default: true
 color: peach
 title: "Capturing details of a beautiful daily life"
 subtitle: "2024 • Digital & film"
