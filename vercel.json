@@ -4,26 +4,6 @@
       "source": "/portfolio",
       "destination": "/",
       "permanent": true
-    },
-    {
-      "source": "/shop",
-      "destination": "https://shop.yannickschutz.com",
-      "permanent": true
-    },
-    {
-      "source": "/shop/:slug",
-      "destination": "https://shop.yannickschutz.com/products/:slug",
-      "permanent": true
-    },
-    {
-      "source": "/shop/",
-      "destination": "https://shop.yannickschutz.com",
-      "permanent": true
-    },
-    {
-      "source": "/shop/:slug/",
-      "destination": "https://shop.yannickschutz.com/products/:slug",
-      "permanent": true
     }
   ],
   "headers": [
