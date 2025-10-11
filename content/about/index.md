@@ -56,24 +56,9 @@ I am writing a [small letter in french](/bonjour) about all and nothing every tw
 
 📷 → Negatives get developed and scanned mostly by [Malvarrosa Film Lab](https://malvarrosafilmlab.com).
 
-☕️ → Most of my coffee beans comes from [Mok Coffee](https://mokcoffee.be) and [Terres de café](https://terresdecafe.com). But I still like to try new roasters from time to time. Looking for suggestions
+☕️ → Most of my coffee beans comes from [Miche Coffee](https://michecoffee.com) & [Horizon Café](https://www.instagram.com/horizoncafe.nantes/), a cave à café. But I still like to try new roasters from time to time. Looking for suggestions
 
 🖨 → Prints come from [Ooblik](https://ooblik.com) & [Négatif+](https://negatifplus.com). I soldout [my first zine](/shop/a-thousand-tides) with [Ex Why Zed](https://exwhyzed.co.uk) but you can find other fun stuff I printed on the [shop](/shop).
-
-## Social
-
-I stick my pictures and some words kind of all over the web:
-
-- [refrakt](https://refrakt.app/bonjouryannick)
-- [threads.com](https://threads.com/bonjouryannick)
-- [glass.photo](https://glass.photo/yannick)
-- [imgs.so](https://imgs.so/bonjouryannick)
-- [instagram.com](https://instagram.com/bonjouryannick)
-- [vsco.co](https://vsco.co/bonjouryannick)
-
-I might try even more cause I am getting bored of [Instagram](https://instagram.com/bonjouryannick).
-
-You can find me writing short stuff on [Mastodon](https://social.lol/@yannick) or [Threads](https://www.threads.net/@bonjouryannick). 
 
 ## Colophon
 
