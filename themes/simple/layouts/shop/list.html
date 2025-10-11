@@ -31,7 +31,7 @@
    {{ end }}
    <article>
      <a href="{{.RelPermalink}}" class="cursor-pointer relative group gap-2 flex flex-col">
-     <picture class="  aspect-[{{$src.Width}}/{{$src.Height}}] relative box-border block ">
+     <picture class="  aspect-square relative box-border block ">
       <img
         loading="lazy"
         style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover"
@@ -43,11 +43,11 @@
         data-src="{{ $small.RelPermalink }}"
         width="{{ $src.Width }}" height="{{ $src.Height }}"/>
     </picture>
-      <header class="text-center font-sans pl-4 pb-8 group-hover:backdrop-blur-sm group- group-hover:block  group-hover:flex flex-col mdenter justify-center  lace-items-center group-hover:block">
+      <header class="text-left font-sans pb-8 group-hover:backdrop-blur-sm group- group-hover:block  group-hover:flex flex-col mdenter justify-center  lace-items-center group-hover:block">
             <h2 class=" font-semibold group-hover:underline {{ with .Params.Color }}group-hover:decoration-{{ . }} {{ end }} ">
                 {{ .Title  |markdownify}}
             </h2>
-            <h3 class="font-sans tracking-tight text-xs transition ease-in-out duration-200 ">
+            <h3 class="font-sans tracking-tight transition ease-in-out duration-200 ">
               {{ with .Params.pricetag }}
                 {{ . | markdownify }}
               {{ else }}
