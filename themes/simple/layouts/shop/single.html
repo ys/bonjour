@@ -36,9 +36,9 @@
       {{ partial "grid" $rows }}
     </div>
   {{ end }}
-  <div  class="prose dark:prose-invert mt-8">
-    {{.Content}}
+  <div  class="font-sans prose dark:prose-invert mt-8">
     {{ if .Params.price }}
+      <span class="font-bold text-lg font-sans">{{ if .Params.soldout}}Sold out{{ else }}{{ .Params.pricetag }}{{ end }}</span>
       <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
       <form action="" class="mt-4 dark:prose" method="post" id="stripe-form{{ if .Params.soldout }}-nope{{ end }}">
         <div class="flex justify-between">
@@ -56,7 +56,7 @@
           <div>
             <label class="prose dark:prose-invert" for="shipping_rate">Shipping:</label>
             <select required name="shipping_rate">
-              <option selected="selected" disabled="disabled" value="">Pick a shipping destination</option>
+              <option selected="selected" disabled="disabled" value="">Pick your location</option>
             {{ range .Params.shipping_rates }}
               <option value="{{.value}}" >{{.name}}</option>
             {{ end }}
@@ -76,13 +76,14 @@
 						<circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
 						<path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
 					</svg>
-                                        <span class="">{{ if .Params.soldout}}Sold out{{ else }}Buy now {{ if not .Params.price_ids}}• {{ .Params.price }}€{{end}}{{ end }}</span>
+                                        <span class="">{{ if .Params.soldout}}Sold out{{ else }}Buy now {{ if not .Params.price_ids}}{{end}}{{ end }}</span>
         </button>
       </form>
 
       <div id="error-message"></div>
 
     {{ end }}
+    {{.Content}}
   </div>
 </div>
 
