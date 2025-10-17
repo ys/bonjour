@@ -1,8 +1,9 @@
 ---
 color: "yellow"
-title: "Beach Days Zine"
+title: "Beach Days - Zine"
+slug: "/beach-days-zine"
 subtitle: "36 pages of sand, wax and sun"
-date: 2025-07-22
+date: 2025-10-17
 emoji: "🌞"
 grid: "cover / YS293652 | YS293653 | YS293654"
 currency: "EUR"
