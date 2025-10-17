@@ -5,9 +5,9 @@
       Merci pour cet achat, #SHIPPING_NAME#!
     </div>
 </div>
-<div data-pswp class="flex flex-col mb-10 max-w-prose content-{{  $.Scratch.Get "color" }}">
+<div data-pswp class=" lg:grid lg:grid-cols-2 mb-10 gap-8 content-{{  $.Scratch.Get "color" }}">
   {{ with .Params.grid }}
-    <div  class="">
+    <div  class="photogrid">
       {{ $rowsslice := split . "/" }}
       {{ $rows := dict }}
       {{ range $rowIndex, $row := $rowsslice}}
