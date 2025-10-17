@@ -68,7 +68,7 @@
         {{end}}
       </div>
     </header>
-    <main class="md:container mx-auto  md:max-w-xl w-full  grid grid-cols-1 gap-16 min-h-1/2">
+    <main class="md:container mx-auto  {{ if ne .Type "shop" }}md:max-w-xl{{ end }} w-full  grid grid-cols-1 gap-16 min-h-1/2">
       <div class="mx-6 md:mx-0 relative">
         {{ block "main" . }}
         {{ end }}
