@@ -4,7 +4,7 @@
   {{ $color = . }}
 {{ end }}
 <article class="group pb-4">
-  <a href="{{.RelPermalink}}"
+  <a href="{{.Params.bookmarkOf}}"
         class="text-crust dark:text-gray-100 hover:dark:text-gray-100 hover:text-crust/70">
   <header class="bottom-4 font-bold flex flex-row justify-between place-items-center gap-2 py-2">
     <h2 class="ellipsis break-all  line-clamp-1 text-gray-800 dark:text-gray-100  no-underline ">{{ .Title }} </h2>
