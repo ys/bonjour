@@ -3,11 +3,11 @@
 {{- if .Description -}}
   {{ $description = .Description }}
 {{- else if .Summary -}}
-  {{ $description = .Summary | plainify | replaceRE "\n" " " | replaceRE "\\s+" " " | replaceRE "^\\s+|\\s+$" "" }}
+  {{ $description = .Summary | plainify | replaceRE "\n" " " | replaceRE "\\s+" " " | strings.TrimSpace }}
 {{- else if .Content -}}
   {{- $firstPara := findRE "(?s)^.*?[.!?]\\s" (.Content | plainify | replaceRE "\n" " " | replaceRE "\\s+" " ") 1 -}}
   {{- if $firstPara -}}
-    {{ $description = index $firstPara 0 | replaceRE "^\\s+|\\s+$" "" }}
+    {{ $description = index $firstPara 0 | strings.TrimSpace }}
   {{- end -}}
 {{- end -}}
 {{- if not $description -}}
