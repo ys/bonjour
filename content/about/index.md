@@ -3,7 +3,7 @@ color: teal
 seotitle: "About me - Yannick Schutz"
 title: "Bonjour, I am Yannick"
 description: "If you wanted to know more about me, this is the place."
-date: 2020-10-07T12:57:50+02:00
+date: 2025-11-12T12:57:50+02:00
 draft: false
 color: yellow
 type: "about"
