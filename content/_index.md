@@ -1,7 +1,7 @@
 ---
 title: "Bonjour, I am Yannick"
-seotitle: "Yannick Schutz - Documentary style Photographer from Finistère"
-description: "Documenting ordinary details"
+seotitle: "Yannick Schutz - Photographer from Finistère"
+description: "Yannick is a lifestyle photographer"
 color: yellow
 shuffle: true
 date: 2017-10-26T22:57:50+02:00
@@ -11,6 +11,7 @@ tags:
 - editorial
 - documentary
 - photoshoot
+- lifestyle
 hideSubscribe: true
 type: index
 resources:
@@ -22,6 +23,6 @@ resources:
 rows: 3
 ---
 
-I am a **photographer** doing editorial, documentary & lifestyle photography. Based in Finistère, France.  
+I am a **photographer** based in Finistère, France.
 
 [**💌 Contact me**](mailto:hello@yannickschutz.com), I would love to hear more about your projects and work with you. 
