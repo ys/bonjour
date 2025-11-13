@@ -23,7 +23,6 @@ resources:
   - src: "*.webp"
   - src: "9.webp"
     name: "cover"
-description: "On est déjà fin mai. Le temps file. Le jardin a repris vie. Le potager recommence maintenant que les Saints de glace sont passés. On a hâte de pouvoir recommencer à consommer nos produits. Pierre notre voisin nous a proposé de planter nos tomates dans sa serre. Tom recommence à grimper aux arbres et trouve de nouvelles cachettes secrètes. Nous on a ressorti le barbecue, en fait on l’a pas vraiment rangé. On a sorti aussi les fauteuils de jardin. Quel plaisir de passer autant de temps en plein air."
 ---
 
 On est déjà fin mai. Le temps file. Le jardin a repris vie. Le potager recommence maintenant que les Saints de glace sont passés. On a hâte de pouvoir recommencer à consommer nos produits. Pierre notre voisin nous a proposé de planter nos tomates dans sa serre. Tom recommence à grimper aux arbres et trouve de nouvelles cachettes secrètes. Nous on a ressorti le barbecue, en fait on l’a pas vraiment rangé. On a sorti aussi les fauteuils de jardin. Quel plaisir de passer autant de temps en plein air.

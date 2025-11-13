@@ -15,7 +15,7 @@ color: rosewater
 title: "29 - Camping de luxe, volcans et Horcruxe"
 slug: "29"
 ---
-![21x37-1130-06](21x37-1130-06.jpg)
+![21x37-1130-06](21x37-1130-06.webp)
 ​​
 ---
 
