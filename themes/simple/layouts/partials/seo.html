@@ -13,12 +13,30 @@
   {{ $title = printf "%s - %s" .Title $.Site.Title }}
 {{ end }}
 {{ $colorHex := index  .Site.Data.palette (.Site.Params.themePalette) ($.Scratch.Get "color") "hex"  }}
+{{- /* Generate description: use explicit description, then summary, then first paragraph, then site default */ -}}
+{{ $description := "" }}
+{{- if .Description -}}
+  {{ $description = .Description }}
+{{- else if .Summary -}}
+  {{ $description = .Summary | plainify | replaceRE "\n" " " | replaceRE "\\s+" " " | strings.TrimSpace }}
+{{- else if .Content -}}
+  {{- $firstPara := findRE "(?s)^.*?[.!?]\\s" (.Content | plainify | replaceRE "\n" " " | replaceRE "\\s+" " ") 1 -}}
+  {{- if $firstPara -}}
+    {{ $description = index $firstPara 0 | strings.TrimSpace }}
+  {{- end -}}
+{{- end -}}
+{{- if not $description -}}
+  {{ $description = .Site.Params.description | default "" }}
+{{- end -}}
+{{ $description = $description | truncate 160 }}
 
 <title>{{ $title }}</title>
 <meta name="theme-color" media="(prefers-color-scheme: light)" content="{{$colorHex}}" />
 <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#232634" />
 {{ if in .Site.Params.doNotIndex .Type }}
-    <meta name="robots" content="noindex">
+    <meta name="robots" content="noindex, nofollow">
+{{ else }}
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 {{ end }}
 <link rel="apple-touch-icon" sizes="180x180" href="/{{ $.Scratch.Get "color"}}/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/{{ $.Scratch.Get "color"}}/favicon-32x32.png">
@@ -28,61 +46,326 @@
 <meta name="apple-mobile-web-app-title" content="Bonjour Yannick">
 <meta name="application-name" content="Bonjour Yannick">
 <meta name="msapplication-TileColor" content="{{$colorHex}}">
-<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}" />
-<meta name="keywords" content="{{ $tags }}">
+<meta name="description" content="{{ $description }}" />
+{{ if $tags }}<meta name="keywords" content="{{ $tags }}">{{ end }}
 <link rel="canonical" href="{{ .Permalink }}" />
+<meta name="author" content="{{ .Site.Params.author.name | default "Yannick Schutz" }}" />
 <meta name="p:domain_verify" content="{{ .Site.Params.pinterestVerify }}" />
+{{ if .IsTranslated }}
+  {{ range .Translations }}
+    <link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}" />
+  {{ end }}
+  <link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}" />
+{{ end }}
+{{- $images := $.Resources.ByType "image" -}}
+{{- $featured := $images.GetMatch "*feature*" -}}
+{{- $featured := cond (ne $featured nil) $featured ($images.GetMatch "{*cover*,*thumbnail*}") -}}
+{{- $card := $images.GetMatch "card*" -}}
+{{- $ogImage := cond (ne $card nil) $card $featured -}}
+{{- $ogImage = cond (ne $ogImage nil) $ogImage (index ($.Site.Params.images | default slice) 0) -}}
+
 <script type="application/ld+json">
+[
 {{ if and (eq .Type "shop") .IsPage}}
 {
 "@context": "https://schema.org/",
 "@type": "Product",
-      "name" : {{ $title | safeHTML }},
-      "headline" : {{ $title | safeHTML}},
-      "description" : {{ with (.Description | default (replaceRE "\n" " " (.Summary | truncate 170))) }}{{ . | safeHTML }}{{ else}}""{{ end }},
-      "inLanguage" : "{{.Lang}}",
-      "availableLanguage": {
-        "@type": "Language",
-        "name": ["French","English"]
-      },
-      {{- $images := $.Resources.ByType "image" -}}{{- $featured := $images.GetMatch "*feature*" -}}{{- $featured := cond (ne $featured nil) $featured ($images.GetMatch "{*cover*,*thumbnail*}") -}}{{- with $featured -}}"image" : {{ $featured.Permalink }},{{ else -}}{{- with $.Site.Params.images -}}"image" : {{ index . 0 | absURL }},{{ end }}{{ end }}
+"name": {{ $title | jsonify }},
+"headline": {{ $title | jsonify }},
+"description": {{ $description | jsonify }},
+"inLanguage": "{{.Lang}}",
+{{- with $featured -}}
+"image": {
+  "@type": "ImageObject",
+  "url": {{ .Permalink | jsonify }},
+  "width": {{ .Width | default 1200 }},
+  "height": {{ .Height | default 630 }}
+},
+{{- else -}}
+{{- with $ogImage -}}
+"image": {{ if reflect.IsString . }}{{ . | absURL | jsonify }}{{ else }}{{ . | jsonify }}{{ end }},
+{{- end -}}
+{{- end -}}
 "offers": {
-"@type": "Offer",
-"priceCurrency": {{ .Params.currency }},
-"price": "{{.Params.price }}",
-"priceValidUntil": "2029-11-05",
-"availability": "http://schema.org/InStock"
+  "@type": "Offer",
+  "priceCurrency": {{ .Params.currency | default "EUR" | jsonify }},
+  "price": "{{.Params.price }}",
+  "priceValidUntil": "2029-11-05",
+  "availability": "{{ if .Params.soldout }}http://schema.org/SoldOut{{ else }}http://schema.org/InStock{{ end }}",
+  "url": {{ .Permalink | jsonify }},
+  "seller": {
+    "@type": "Person",
+    "name": {{ $.Site.Params.author.name | default "Yannick Schutz" | jsonify }}
+  }
+},
+"brand": {
+  "@type": "Brand",
+  "name": {{ $.Site.Title | jsonify }}
 }
+{{- /* Add Review/Rating schema if ratings exist */ -}}
+{{- if or .Params.rating .Params.reviews -}}
+,
+"aggregateRating": {
+  "@type": "AggregateRating",
+  "ratingValue": {{ .Params.rating | default 5 | jsonify }},
+  "reviewCount": {{ .Params.reviews | default 1 | jsonify }},
+  "bestRating": "5",
+  "worstRating": "1"
+}
+{{- end -}}
 }
 {{ else }}
-  {
-      "@context" : "http://schema.org",
-      "@type" : "BlogPosting",
-      "mainEntityOfPage": {
-           "@type": "WebPage",
-           "@id": {{ .Site.BaseURL }}
-      },
-      "articleSection" : {{ .Section }},
-      "name" : {{ $title | safeHTML }},
-      "headline" : {{ $title | safeHTML}},
-      "description" : {{ with (.Description | default (replaceRE "\n" " " (.Summary | truncate 170))) }}{{ . | safeHTML }}{{ else}}""{{ end }},
-      "inLanguage" : "{{.Lang}}",
-      "availableLanguage": {
-        "@type": "Language",
-        "name": ["French","English"]
-      },
-      {{- $images := $.Resources.ByType "image" -}}{{- $featured := $images.GetMatch "*feature*" -}}{{- $featured := cond (ne $featured nil) $featured ($images.GetMatch "{*cover*,*thumbnail*}") -}}{{- with $featured -}}"image" : {{ $featured.Permalink }},{{ else -}}{{- with $.Site.Params.images -}}"image" : {{ index . 0 | absURL }},{{ end }}{{ end }}
-      "author" : {{ range .Site.Params.Author }}{{ . }}{{ end }},
-      "creator" : {{ range .Site.Params.Author }}{{ . }}{{ end }},
-      "publisher": {{ range .Site.Params.Author }}{{ . }}{{ end }},
-      "accountablePerson" : {{ range .Site.Params.Author }}{{ . }}{{ end }},
-      "copyrightHolder" : {{ range .Site.Params.Author }}{{ . }}{{ end }},
-      "copyrightYear" : {{ .Date.Format "2006" }},
-      "datePublished": {{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }},
-      "dateModified" : {{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" | safeHTML }},
-      "url" : {{ .Permalink }},
-      "wordCount" : {{ .WordCount }},
-      "keywords" : [{{ $tags }}]
-  }
+{
+"@context": "https://schema.org",
+{{- /* Map categories to article types */ -}}
+{{- $articleType := "BlogPosting" -}}
+{{- if .Params.categories -}}
+  {{- if in .Params.categories "voyages" -}}
+    {{- $articleType = "TravelArticle" -}}
+  {{- else if in .Params.categories "journal" -}}
+    {{- $articleType = "BlogPosting" -}}
+  {{- else -}}
+    {{- $articleType = "Article" -}}
+  {{- end -}}
+{{- end -}}
+"@type": {{ $articleType | jsonify }},
+"mainEntityOfPage": {
+  "@type": "WebPage",
+  "@id": {{ .Permalink | jsonify }}
+},
+"articleSection": {{ .Section | jsonify }},
+"name": {{ $title | jsonify }},
+"headline": {{ $title | jsonify }},
+"description": {{ $description | jsonify }},
+"inLanguage": "{{.Lang}}",
+{{- with $featured -}}
+"image": {
+  "@type": "ImageObject",
+  "url": {{ .Permalink | jsonify }},
+  "width": {{ .Width | default 1200 }},
+  "height": {{ .Height | default 630 }}
+},
+{{- else -}}
+{{- with $ogImage -}}
+"image": {{ . | absURL | jsonify }},
+{{- end -}}
+{{- end -}}
+"author": {
+  "@type": "Person",
+  "name": {{ $.Site.Params.author.name | default "Yannick Schutz" | jsonify }},
+  "url": {{ $.Site.BaseURL | jsonify }},
+  {{- with $.Site.Params.social.email -}}
+  "email": {{ . | jsonify }},
+  {{- end -}}
+  {{- with $.Site.Params.social.instagram -}}
+  "sameAs": ["https://instagram.com/{{ . }}"]
+  {{- end -}}
+},
+"publisher": {
+  "@type": "Person",
+  "name": {{ $.Site.Params.author.name | default "Yannick Schutz" | jsonify }},
+  "url": {{ $.Site.BaseURL | jsonify }}
+},
+"copyrightHolder": {
+  "@type": "Person",
+  "name": {{ $.Site.Params.author.name | default "Yannick Schutz" | jsonify }}
+},
+"copyrightYear": "{{ .Date.Format "2006" }}",
+"datePublished": {{ .Date.Format "2006-01-02T15:04:05Z07:00" | jsonify }},
+"dateModified": {{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" | jsonify }},
+"url": {{ .Permalink | jsonify }},
+"wordCount": {{ .WordCount }},
+{{- if $tags -}}
+"keywords": {{ if reflect.IsSlice .Params.tags }}{{ .Params.tags | jsonify }}{{ else }}{{ split $tags ", " | jsonify }}{{ end }},
+{{- end -}}
+"breadcrumb": {
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": {{ $.Site.BaseURL | jsonify }}
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": {{ .Section | title | jsonify }},
+      "item": {{ ($.Site.GetPage .Section).Permalink | jsonify }}
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": {{ .Title | jsonify }},
+      "item": {{ .Permalink | jsonify }}
+    }
+  ]
+}
+{{- /* Add geo-location data for travel/location posts */ -}}
+{{- $locationTags := slice "californie" "bretagne" "france" "belgium" "maroc" "lanzarote" "yosemite" "joshua-tree" "palm-springs" "los-angeles" "san-francisco" -}}
+{{- $hasLocation := false -}}
+{{- $locationName := "" -}}
+{{- range $locationTags -}}
+  {{- if or (in $.Params.tags .) (in $.Params.categories .) (findRE . $.Title) -}}
+    {{- $hasLocation = true -}}
+    {{- $locationName = . | title -}}
+    {{- break -}}
+  {{- end -}}
+{{- end -}}
+{{- if $hasLocation -}},
+"contentLocation": {
+  "@type": "Place",
+  "name": {{ $locationName | jsonify }}{{ if eq $locationName "Californie" }},
+  "address": {
+    "@type": "PostalAddress",
+    "addressRegion": "California",
+    "addressCountry": "US"
+  }{{ else if or (eq $locationName "Bretagne") (eq $locationName "France") }},
+  "address": {
+    "@type": "PostalAddress",
+    "addressRegion": {{ $locationName | jsonify }},
+    "addressCountry": "FR"
+  }{{ else if eq $locationName "Maroc" }},
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "MA"
+  }{{ end }}
+}
+{{- end -}}
+}
 {{ end }}
+{{- /* Add ImageGallery schema for pages with multiple images */ -}}
+{{- if and .IsPage (not (eq .Type "shop")) -}}
+{{- $allImages := .Resources.ByType "image" -}}
+{{- $galleryImages := slice -}}
+{{- range $allImages -}}
+  {{- $isCover := or (hasPrefix .Name "cover") (hasPrefix .Name "card") -}}
+  {{- $isFeature := findRE "feature" .Name -}}
+  {{- if and (not $isCover) (not $isFeature) -}}
+    {{- $galleryImages = $galleryImages | append . -}}
+  {{- end -}}
+{{- end -}}
+{{- if gt (len $galleryImages) 2 -}}
+,
+{
+"@context": "https://schema.org",
+"@type": "ImageGallery",
+"name": {{ $title | jsonify }},
+"description": {{ $description | jsonify }},
+"url": {{ .Permalink | jsonify }},
+"numberOfItems": {{ len $galleryImages }},
+"image": [
+  {{- range $index, $img := first 10 $galleryImages -}}
+  {
+    "@type": "ImageObject",
+    "url": {{ $img.Permalink | jsonify }},
+    "width": {{ $img.Width | default 0 }},
+    "height": {{ $img.Height | default 0 }},
+    "caption": {{ (printf "%s - Image %d" $title (add $index 1)) | jsonify }}
+  }{{ if ne $index (sub (len (first 10 $galleryImages)) 1) }},{{ end }}
+  {{- end -}}
+]
+}
+{{- end -}}
+{{- end -}}
+{{- /* Add VideoObject schema for video content */ -}}
+{{- if .IsPage -}}
+{{- $videos := .Resources.ByType "video" -}}
+{{- $webmFiles := .Resources.Match "*.webm" -}}
+{{- $mp4Files := .Resources.Match "*.mp4" -}}
+{{- $allVideos := $videos | union $webmFiles | union $mp4Files -}}
+{{- if gt (len $allVideos) 0 -}}
+{{- range first 1 $allVideos -}}
+,
+{
+"@context": "https://schema.org",
+"@type": "VideoObject",
+"name": {{ $.Title | jsonify }},
+"description": {{ $description | jsonify }},
+"thumbnailUrl": {{ (cond (ne $featured nil) $featured.Permalink ($.Site.Params.images | default slice | index 0 | absURL)) | jsonify }},
+"uploadDate": {{ $.Date.Format "2006-01-02T15:04:05Z07:00" | jsonify }},
+"contentUrl": {{ .Permalink | jsonify }},
+"embedUrl": {{ .Permalink | jsonify }}
+}
+{{- end -}}
+{{- end -}}
+{{- end -}}
+{{- /* Add FAQ schema if FAQ parameter exists */ -}}
+{{- if .Params.faq -}}
+,
+{
+"@context": "https://schema.org",
+"@type": "FAQPage",
+"mainEntity": [
+  {{- range $index, $faq := .Params.faq -}}
+  {
+    "@type": "Question",
+    "name": {{ $faq.question | jsonify }},
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": {{ $faq.answer | jsonify }}
+    }
+  }{{ if ne $index (sub (len $.Params.faq) 1) }},{{ end }}
+  {{- end -}}
+]
+}
+{{- end -}},
+{
+"@context": "https://schema.org",
+"@type": "Person",
+"name": {{ $.Site.Params.author.name | default "Yannick Schutz" | jsonify }},
+"jobTitle": "Photographer",
+"url": {{ $.Site.BaseURL | jsonify }},
+{{- $sameAs := slice -}}
+{{- with $.Site.Params.social.instagram -}}{{- $sameAs = $sameAs | append (printf "https://instagram.com/%s" .) -}}{{- end -}}
+{{- with $.Site.Params.social.twitter -}}{{- $sameAs = $sameAs | append (printf "https://twitter.com/%s" .) -}}{{- end -}}
+{{- with $.Site.Params.social.github -}}{{- $sameAs = $sameAs | append (printf "https://github.com/%s" .) -}}{{- end -}}
+{{- with $.Site.Params.social.mastodon -}}{{- $sameAs = $sameAs | append (printf "https://%s/@%s" .domain .username) -}}{{- end -}}
+{{- if gt (len $sameAs) 0 -}}
+"sameAs": {{ $sameAs | jsonify }},
+{{- end -}}
+"address": {
+  "@type": "PostalAddress",
+  "addressRegion": "Finistère",
+  "addressCountry": "FR"
+},
+{{- with $.Site.Params.social.email -}}
+"email": {{ . | jsonify }},
+{{- end -}}
+"description": {{ $.Site.Params.description | jsonify }}
+}
+{{- if .IsHome -}}
+,
+{
+"@context": "https://schema.org",
+"@type": "WebSite",
+"name": {{ $.Site.Title | jsonify }},
+"url": {{ $.Site.BaseURL | jsonify }},
+"description": {{ $.Site.Params.description | jsonify }},
+"author": {
+  "@type": "Person",
+  "name": {{ $.Site.Params.author.name | default "Yannick Schutz" | jsonify }}
+},
+"publisher": {
+  "@type": "Person",
+  "name": {{ $.Site.Params.author.name | default "Yannick Schutz" | jsonify }}
+},
+{{- with $.Site.Params.social.email -}}
+"contactPoint": {
+  "@type": "ContactPoint",
+  "email": {{ . | jsonify }},
+  "contactType": "customer service"
+},
+{{- end -}}
+"potentialAction": {
+  "@type": "SearchAction",
+  "target": {
+    "@type": "EntryPoint",
+    "urlTemplate": {{ (printf "%s/search?q={search_term_string}" $.Site.BaseURL) | jsonify }}
+  },
+  "query-input": "required name=search_term_string"
+}
+}
+{{- end -}}
+]
 </script>

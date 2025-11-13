@@ -1,16 +1,48 @@
-<meta property="og:title" content="{{ .Title }}" />
-<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}" />
-<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
-<meta property="og:url" content="{{ .Permalink }}" />
+{{- /* Use same description logic as seo.html */ -}}
+{{- $description := "" -}}
+{{- if .Description -}}
+  {{ $description = .Description }}
+{{- else if .Summary -}}
+  {{ $description = .Summary | plainify | replaceRE "\n" " " | replaceRE "\\s+" " " | strings.TrimSpace }}
+{{- else if .Content -}}
+  {{- $firstPara := findRE "(?s)^.*?[.!?]\\s" (.Content | plainify | replaceRE "\n" " " | replaceRE "\\s+" " ") 1 -}}
+  {{- if $firstPara -}}
+    {{ $description = index $firstPara 0 | strings.TrimSpace }}
+  {{- end -}}
+{{- end -}}
+{{- if not $description -}}
+  {{ $description = .Site.Params.description | default "" }}
+{{- end -}}
+{{- $description = $description | truncate 200 -}}
 {{- $images := $.Resources.ByType "image" -}}
 {{- $card := $images.GetMatch "card*" -}}
-{{ with $card }}
-<meta property="og:image" content="{{ .Permalink }}"/>
-{{ else }}
 {{- $cover := $images.GetMatch "cover*" -}}
-{{ with $cover }}
+{{- $featured := $images.GetMatch "*feature*" -}}
+{{- $ogImage := cond (ne $card nil) $card (cond (ne $cover nil) $cover $featured) -}}
+
+<meta property="og:title" content="{{ .Title }}" />
+<meta property="og:description" content="{{ $description }}" />
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:site_name" content="{{ .Site.Title }}" />
+<meta property="og:locale" content="{{ .Language.LanguageCode | default "en_US" }}" />
+{{ with $ogImage }}
 <meta property="og:image" content="{{ .Permalink }}"/>
-{{ end }}
+<meta property="og:image:secure_url" content="{{ .Permalink }}"/>
+<meta property="og:image:type" content="image/webp"/>
+{{- if .Width -}}
+<meta property="og:image:width" content="{{ .Width }}"/>
+{{- end -}}
+{{- if .Height -}}
+<meta property="og:image:height" content="{{ .Height }}"/>
+{{- end -}}
+<meta property="og:image:alt" content="{{ $.Title }}"/>
+{{ else }}
+{{- with $.Site.Params.images -}}
+{{- $defaultImage := index . 0 -}}
+<meta property="og:image" content="{{ $defaultImage | absURL }}"/>
+<meta property="og:image:secure_url" content="{{ $defaultImage | absURL }}"/>
+{{- end -}}
 {{ end }}
 
 {{- if .IsPage }}

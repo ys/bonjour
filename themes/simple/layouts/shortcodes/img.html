@@ -28,7 +28,21 @@
   {{/* set the sizes attribute to (minwidth: 35em) 1200px, 100vw unless overridden in shortcode */}}
 
   <picture class="block relative {{ if .Get " noshadow" }} {{ else}}shadowlg{{end}} {{ if (and (gt $src.Height $src.Width) (not .Parent)) }} mxauto w2/3{{ end }} img" {{ if .Get "nolqip" }} {{ else }}style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode  }}); backgroundsize: cover" {{ end }}>
-    <img loading="lazy" alt="{{ with .Get " alt" }}{{ . }}{{ else }}{{ .Get "src" }}{{ end }}"
+    {{- /* Generate better alt text: use explicit alt, then caption, then generate from context */ -}}
+    {{- $altText := "" -}}
+    {{- if .Get "alt" -}}
+      {{ $altText = .Get "alt" }}
+    {{- else if .Get "caption" -}}
+      {{ $altText = .Get "caption" | plainify }}
+    {{- else -}}
+      {{- $filename := .Get "src" | path.Base | replaceRE "\\.[^.]+$" "" | humanize | title -}}
+      {{- if $.Page.Title -}}
+        {{ $altText = printf "%s - %s" $.Page.Title $filename }}
+      {{- else -}}
+        {{ $altText = $filename }}
+      {{- end -}}
+    {{- end -}}
+    <img loading="lazy" alt="{{ $altText }}"
       class="cursorpointer m0 hauto wfull lazyload" {{ if not (.Get "nozoom" ) }} dataaction="zoom" {{ end }}
       datazoomsrc="{{ $src.RelPermalink}}" src="{{ $small.RelPermalink }}" width="{{ $src.Width }}"
       height="{{ $src.Height }}">

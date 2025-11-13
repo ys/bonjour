@@ -64,7 +64,22 @@
     {{/* set the sizes attribute to (min-width: 35em) 1200px, 100vw unless overridden in shortcode */}}
 
     <picture class="block relative hover:shadow-xl hover:shadow-{{$.Page.Scratch.Get "color" }}/20 shadow-lg {{ if gt $src.Height $src.Width }} mx-auto w-2/3{{ end }} img" style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover">
-      <img loading="lazy" alt="{{ with .Text }}{{ . }}{{ else }}{{ .Destination }}{{ end }}"
+      {{- /* Generate better alt text: use explicit alt, then title, then caption, then generate from context */ -}}
+      {{- $altText := "" -}}
+      {{- if .Text -}}
+        {{ $altText = .Text }}
+      {{- else if .Title -}}
+        {{ $altText = .Title | plainify }}
+      {{- else -}}
+        {{- /* Generate descriptive alt from page context */ -}}
+        {{- $filename := .Destination | path.Base | replaceRE "\\.[^.]+$" "" | humanize | title -}}
+        {{- if $.Page.Title -}}
+          {{ $altText = printf "%s - %s" $.Page.Title $filename }}
+        {{- else -}}
+          {{ $altText = $filename }}
+        {{- end -}}
+      {{- end -}}
+      <img loading="lazy" alt="{{ $altText }}"
         class="cursor-pointer m-0 h-auto w-full lazyload" data-action="zoom"
         data-zoom-src="{{ $src.RelPermalink}}" src="{{ $small.RelPermalink }}" width="{{ $small.Width }}"
         height="{{ $small.Height }}">
