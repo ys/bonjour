@@ -1,4 +1,18 @@
-{{- $description := with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end -}}
+{{- /* Use same description logic as seo.html */ -}}
+{{- $description := "" -}}
+{{- if .Description -}}
+  {{ $description = .Description }}
+{{- else if .Summary -}}
+  {{ $description = .Summary | plainify | replaceRE "\n" " " | replaceRE "\\s+" " " | trim }}
+{{- else if .Content -}}
+  {{- $firstPara := findRE "(?s)^.*?[.!?]\\s" (.Content | plainify | replaceRE "\n" " " | replaceRE "\\s+" " ") 1 -}}
+  {{- if $firstPara -}}
+    {{ $description = index $firstPara 0 | trim }}
+  {{- end -}}
+{{- end -}}
+{{- if not $description -}}
+  {{ $description = .Site.Params.description | default "" }}
+{{- end -}}
 {{- $description = $description | truncate 200 -}}
 {{- $images := $.Resources.ByType "image" -}}
 {{- $card := $images.GetMatch "card*" -}}

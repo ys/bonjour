@@ -13,7 +13,21 @@
   {{ $title = printf "%s - %s" .Title $.Site.Title }}
 {{ end }}
 {{ $colorHex := index  .Site.Data.palette (.Site.Params.themePalette) ($.Scratch.Get "color") "hex"  }}
-{{ $description := with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}
+{{- /* Generate description: use explicit description, then summary, then first paragraph, then site default */ -}}
+{{ $description := "" }}
+{{- if .Description -}}
+  {{ $description = .Description }}
+{{- else if .Summary -}}
+  {{ $description = .Summary | plainify | replaceRE "\n" " " | replaceRE "\\s+" " " | trim }}
+{{- else if .Content -}}
+  {{- $firstPara := findRE "(?s)^.*?[.!?]\\s" (.Content | plainify | replaceRE "\n" " " | replaceRE "\\s+" " ") 1 -}}
+  {{- if $firstPara -}}
+    {{ $description = index $firstPara 0 | trim }}
+  {{- end -}}
+{{- end -}}
+{{- if not $description -}}
+  {{ $description = .Site.Params.description | default "" }}
+{{- end -}}
 {{ $description = $description | truncate 160 }}
 
 <title>{{ $title }}</title>
@@ -58,7 +72,7 @@
 "@type": "Product",
 "name": {{ $title | jsonify }},
 "headline": {{ $title | jsonify }},
-"description": {{ with (.Description | default (replaceRE "\n" " " (.Summary | truncate 170))) }}{{ . | jsonify }}{{ else }}""{{ end }},
+"description": {{ $description | jsonify }},
 "inLanguage": "{{.Lang}}",
 {{- with $featured -}}
 "image": {
@@ -88,11 +102,33 @@
   "@type": "Brand",
   "name": {{ $.Site.Title | jsonify }}
 }
+{{- /* Add Review/Rating schema if ratings exist */ -}}
+{{- if or .Params.rating .Params.reviews -}}
+,
+"aggregateRating": {
+  "@type": "AggregateRating",
+  "ratingValue": {{ .Params.rating | default 5 | jsonify }},
+  "reviewCount": {{ .Params.reviews | default 1 | jsonify }},
+  "bestRating": "5",
+  "worstRating": "1"
+}
+{{- end -}}
 }
 {{ else }}
 {
 "@context": "https://schema.org",
-"@type": "BlogPosting",
+{{- /* Map categories to article types */ -}}
+{{- $articleType := "BlogPosting" -}}
+{{- if .Params.categories -}}
+  {{- if in .Params.categories "voyages" -}}
+    {{- $articleType = "TravelArticle" -}}
+  {{- else if in .Params.categories "journal" -}}
+    {{- $articleType = "BlogPosting" -}}
+  {{- else -}}
+    {{- $articleType = "Article" -}}
+  {{- end -}}
+{{- end -}}
+"@type": {{ $articleType | jsonify }},
 "mainEntityOfPage": {
   "@type": "WebPage",
   "@id": {{ .Permalink | jsonify }}
@@ -100,7 +136,7 @@
 "articleSection": {{ .Section | jsonify }},
 "name": {{ $title | jsonify }},
 "headline": {{ $title | jsonify }},
-"description": {{ with (.Description | default (replaceRE "\n" " " (.Summary | truncate 170))) }}{{ . | jsonify }}{{ else }}""{{ end }},
+"description": {{ $description | jsonify }},
 "inLanguage": "{{.Lang}}",
 {{- with $featured -}}
 "image": {
@@ -165,8 +201,115 @@
     }
   ]
 }
+{{- /* Add geo-location data for travel/location posts */ -}}
+{{- $locationTags := slice "californie" "bretagne" "france" "belgium" "maroc" "lanzarote" "yosemite" "joshua-tree" "palm-springs" "los-angeles" "san-francisco" -}}
+{{- $hasLocation := false -}}
+{{- $locationName := "" -}}
+{{- range $locationTags -}}
+  {{- if or (in $.Params.tags .) (in $.Params.categories .) (findRE . $.Title) -}}
+    {{- $hasLocation = true -}}
+    {{- $locationName = . | title -}}
+    {{- break -}}
+  {{- end -}}
+{{- end -}}
+{{- if $hasLocation -}},
+"contentLocation": {
+  "@type": "Place",
+  "name": {{ $locationName | jsonify }}{{ if eq $locationName "Californie" }},
+  "address": {
+    "@type": "PostalAddress",
+    "addressRegion": "California",
+    "addressCountry": "US"
+  }{{ else if or (eq $locationName "Bretagne") (eq $locationName "France") }},
+  "address": {
+    "@type": "PostalAddress",
+    "addressRegion": {{ $locationName | jsonify }},
+    "addressCountry": "FR"
+  }{{ else if eq $locationName "Maroc" }},
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "MA"
+  }{{ end }}
 }
-{{ end }},
+{{- end -}}
+}
+{{ end }}
+{{- /* Add ImageGallery schema for pages with multiple images */ -}}
+{{- if and .IsPage (not (eq .Type "shop")) -}}
+{{- $allImages := .Resources.ByType "image" -}}
+{{- $galleryImages := slice -}}
+{{- range $allImages -}}
+  {{- $isCover := or (hasPrefix .Name "cover") (hasPrefix .Name "card") -}}
+  {{- $isFeature := findRE "feature" .Name -}}
+  {{- if and (not $isCover) (not $isFeature) -}}
+    {{- $galleryImages = $galleryImages | append . -}}
+  {{- end -}}
+{{- end -}}
+{{- if gt (len $galleryImages) 2 -}}
+,
+{
+"@context": "https://schema.org",
+"@type": "ImageGallery",
+"name": {{ $title | jsonify }},
+"description": {{ $description | jsonify }},
+"url": {{ .Permalink | jsonify }},
+"numberOfItems": {{ len $galleryImages }},
+"image": [
+  {{- range $index, $img := first 10 $galleryImages -}}
+  {
+    "@type": "ImageObject",
+    "url": {{ $img.Permalink | jsonify }},
+    "width": {{ $img.Width | default 0 }},
+    "height": {{ $img.Height | default 0 }},
+    "caption": {{ (printf "%s - Image %d" $title (add $index 1)) | jsonify }}
+  }{{ if ne $index (sub (len (first 10 $galleryImages)) 1) }},{{ end }}
+  {{- end -}}
+]
+}
+{{- end -}}
+{{- end -}}
+{{- /* Add VideoObject schema for video content */ -}}
+{{- if .IsPage -}}
+{{- $videos := .Resources.ByType "video" -}}
+{{- $webmFiles := .Resources.Match "*.webm" -}}
+{{- $mp4Files := .Resources.Match "*.mp4" -}}
+{{- $allVideos := $videos | union $webmFiles | union $mp4Files -}}
+{{- if gt (len $allVideos) 0 -}}
+{{- range first 1 $allVideos -}}
+,
+{
+"@context": "https://schema.org",
+"@type": "VideoObject",
+"name": {{ $.Title | jsonify }},
+"description": {{ $description | jsonify }},
+"thumbnailUrl": {{ (cond (ne $featured nil) $featured.Permalink ($.Site.Params.images | default slice | index 0 | absURL)) | jsonify }},
+"uploadDate": {{ $.Date.Format "2006-01-02T15:04:05Z07:00" | jsonify }},
+"contentUrl": {{ .Permalink | jsonify }},
+"embedUrl": {{ .Permalink | jsonify }}
+}
+{{- end -}}
+{{- end -}}
+{{- end -}}
+{{- /* Add FAQ schema if FAQ parameter exists */ -}}
+{{- if .Params.faq -}}
+,
+{
+"@context": "https://schema.org",
+"@type": "FAQPage",
+"mainEntity": [
+  {{- range $index, $faq := .Params.faq -}}
+  {
+    "@type": "Question",
+    "name": {{ $faq.question | jsonify }},
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": {{ $faq.answer | jsonify }}
+    }
+  }{{ if ne $index (sub (len $.Params.faq) 1) }},{{ end }}
+  {{- end -}}
+]
+}
+{{- end -}},
 {
 "@context": "https://schema.org",
 "@type": "Person",
