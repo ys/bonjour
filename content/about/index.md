@@ -1,5 +1,4 @@
 ---
-color: teal
 seotitle: "About me - Yannick Schutz"
 title: "Bonjour, I am Yannick"
 description: "If you wanted to know more about me, this is the place."

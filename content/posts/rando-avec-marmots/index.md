@@ -27,7 +27,6 @@ resources:
   - src: "*.webp"
   - src: "cover.webp"
     name: "cover"
-description: "Cela fait maintenant 5 ans que l'on se balade dans la nature avec notre petit bout. Peu importe la saison, on aime sortir et prendre l'air. Ce n'est pas toujours facile et motiver un petit garçon de 5 ans, cela peut être une aventure en soi."
 ---
 
 Cela fait maintenant 5 ans que l'on se balade dans la nature avec notre petit bout. Peu importe la saison, on aime sortir et prendre l'air. Ce n'est pas toujours facile et motiver un petit garçon de 5 ans, cela peut être une aventure en soi. Je me suis dit qu'avec la sortie de la [newsletter des marmots](https://www.lesothers.com/marmots), il était temps de vous donner mes petites astuces et conseils pour des vadrouilles pleines de plaisir avec vos chérubins.

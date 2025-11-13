@@ -15,7 +15,8 @@ color: rosewater
 title: "11 - Des livres, du CSV et Mowgli"
 slug: "11"
 ---
-![](0e594c3e-1cc0-46e5-8a53-ec3d5a5aebf7.JPG.jpg)
+
+![](0e594c3e-1cc0-46e5-8a53-ec3d5a5aebf7.webp)
 
 👋
 

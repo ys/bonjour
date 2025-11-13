@@ -26,7 +26,6 @@ resources:
   - src: "*.webp"
   - src: "cover.webp"
     name: "cover"
-description: "C'est l'été, vous êtes en vacances. Vous ne savez pas quoi lire. Laissez moi vous aider. J’ai une habitude qui tient, c’est la lecture. Quasi quotidienne, elle me permet en fin de journée de me détendre."
 ---
 
 C'est l'été, vous êtes en vacances. Vous ne savez pas quoi lire. Laissez moi vous aider.

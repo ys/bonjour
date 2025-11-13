@@ -4,7 +4,6 @@ title: "Leica M10-P"
 subtitle: "Le plaisir d'un argentique avec un écran"
 slug: "leica-m10p"
 tags: ["Leica", "Leica M10-P", "Leica M10", "Leica M11", "Numérique", "digital"]
-resources:
 emoji: "📸"
 categories:
   - journal

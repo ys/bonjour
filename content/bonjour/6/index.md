@@ -16,7 +16,7 @@ title: "6 - Biographies, films de Noël et Amour papier"
 slug: "6"
 description: "Moi, c'est Yannick et j'ai beaucoup trop de passions. Elles vont, elles viennent."
 ---
-![Souvenir de San Francisco 2011](Souvenir_de_San_Francisco_2011.jpg)
+![Souvenir de San Francisco 2011](Souvenir_de_San_Francisco_2011.webp)
 
 
 👋🏻

@@ -17,7 +17,7 @@ slug: "1"
 description: "C'est une première, un retour aux choses simples. Une envie d'écrire, une envie de partager."
 ---
 
-![](d7716c9d-31b2-420f-aa69-8308884ab159.jpg)
+![](d7716c9d-31b2-420f-aa69-8308884ab159.webp)
 
 Bonjour,
 

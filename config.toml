@@ -88,7 +88,7 @@ canonifyURLs = false
   [privacy.instagram]
     disable = false
     simple = true
-  [privacy.twitter]
+  [privacy.x]
     disable = false
     enableDNT = true
     simple = true
@@ -134,7 +134,7 @@ canonifyURLs = false
   photos = "/:section/:slug"
   portfolio = "/portfolio/:slug"
   categories = "/c/:slug"
-  journal = "/:filename"
+  journal = "/:contentbasename"
 
 [imaging]
   resampleFilter = "lanczos"
