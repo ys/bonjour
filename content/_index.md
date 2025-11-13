@@ -24,6 +24,4 @@ rows: 3
 
 I am a **photographer** doing editorial, documentary & lifestyle photography. Based in Finistère, France.  
 
-I love telling simple stories. I capture slices of life on film. My work focuses on human portraits, travel serendipities, and the ocean. If I could, I would spend my days on beaches surfing and photographing people and their lives with my film camera.  
-
-[**💌 Contact me**](mailto:hello@yannickschutz.com) me, I would love to hear more about your projects. 
+[**💌 Contact me**](mailto:hello@yannickschutz.com), I would love to hear more about your projects and work with you. 
