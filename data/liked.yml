@@ -1,4 +1,38 @@
 ---
+- _id: 1431918868
+  link: https://youtube.com/watch?v=7odWkvEFPzc&si=F7EMW1BKzUYszYFx
+  title: 'Geoff McFetridge | The Nine Club #389'
+  excerpt: Geoff McFetridge discusses making the Chocolate titles in the "Mouse" video,
+    meeting a lot of skaters at Cal Arts, becoming the art director of "Grand Royal"...
+  note: McFetridge is amazing to listen to. Just love the way he approaches business,
+    art & design
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/7odWkvEFPzc/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/7odWkvEFPzc/maxresdefault.jpg
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2025-11-13T10:23:02.845Z'
+  collection:
+    "$ref": collections
+    "$id": 37459360
+    oid: 37459360
+  lastUpdate: '2025-11-13T10:23:43.651Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1431918868
+  collectionId: 37459360
+  parsed: {}
 - _id: 1419785354
   link: https://youtu.be/wdvxC_Sjw8Y?si=YQXyzJ-L9FAZr9bW
   title: The Music of Huckberry’s DIRT | Chances With Wolves Full DJ Set
