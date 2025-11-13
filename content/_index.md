@@ -1,7 +1,7 @@
 ---
 title: "Bonjour, I am Yannick"
-seotitle: "Yannick Schutz - Photographer from Finistère"
-description: "Yannick is a lifestyle photographer"
+seotitle: "Yannick Schutz - Photographer from Finistère, France"
+description: "Yannick is a lifestyle photographer living in Finistère, France"
 color: yellow
 shuffle: true
 date: 2017-10-26T22:57:50+02:00
