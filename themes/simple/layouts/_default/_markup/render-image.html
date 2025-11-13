@@ -72,7 +72,7 @@
         {{ $altText = .Title | plainify }}
       {{- else -}}
         {{- /* Generate descriptive alt from page context */ -}}
-        {{- $filename := .Destination | baseFileName | humanize | title -}}
+        {{- $filename := .Destination | path.Base | replaceRE "\\.[^.]+$" "" | humanize | title -}}
         {{- if $.Page.Title -}}
           {{ $altText = printf "%s - %s" $.Page.Title $filename }}
         {{- else -}}

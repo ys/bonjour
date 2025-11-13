@@ -35,7 +35,7 @@
     {{- else if .Get "caption" -}}
       {{ $altText = .Get "caption" | plainify }}
     {{- else -}}
-      {{- $filename := .Get "src" | baseFileName | humanize | title -}}
+      {{- $filename := .Get "src" | path.Base | replaceRE "\\.[^.]+$" "" | humanize | title -}}
       {{- if $.Page.Title -}}
         {{ $altText = printf "%s - %s" $.Page.Title $filename }}
       {{- else -}}

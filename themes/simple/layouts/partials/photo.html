@@ -23,10 +23,10 @@
       {{- if .Description -}}
         {{ $altText = .Description }}
       {{- else if .Page -}}
-        {{- $filename := $src.Name | baseFileName | humanize | title -}}
+        {{- $filename := $src.Name | path.Base | replaceRE "\\.[^.]+$" "" | humanize | title -}}
         {{ $altText = printf "%s - %s" .Page.Title $filename }}
       {{- else -}}
-        {{ $altText = $src.Name | baseFileName | humanize | title }}
+        {{ $altText = $src.Name | path.Base | replaceRE "\\.[^.]+$" "" | humanize | title }}
       {{- end -}}
       <img
         loading="lazy"
