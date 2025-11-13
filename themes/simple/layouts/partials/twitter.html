@@ -1,16 +1,23 @@
 {{- $images := $.Resources.ByType "image" -}}
 {{- $card := $images.GetMatch "card*" -}}
-<meta name="twitter:card" content="summary_large_image"/>
-{{ with $card }}
-<meta property="twitter:image" content="{{ .Permalink }}"/>
-{{ else }}
 {{- $cover := $images.GetMatch "cover*" -}}
-{{ with $cover }}
-<meta property="twitter:image" content="{{ .Permalink }}"/>
-{{ end }}
-{{ end }}
+{{- $featured := $images.GetMatch "*feature*" -}}
+{{- $twitterImage := cond (ne $card nil) $card (cond (ne $cover nil) $cover $featured) -}}
+{{- $description := with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end -}}
+{{- $description = $description | truncate 200 -}}
+
+<meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:title" content="{{ .Title }}"/>
-<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end -}}"/>
+<meta name="twitter:description" content="{{ $description }}"/>
+{{ with $twitterImage }}
+<meta name="twitter:image" content="{{ .Permalink }}"/>
+<meta name="twitter:image:alt" content="{{ $.Title }}"/>
+{{ else }}
+{{- with $.Site.Params.images -}}
+<meta name="twitter:image" content="{{ index . 0 | absURL }}"/>
+{{- end -}}
+{{ end }}
 {{ with .Site.Params.Social.twitter -}}
 <meta name="twitter:site" content="@{{ . }}"/>
+<meta name="twitter:creator" content="@{{ . }}"/>
 {{ end -}}

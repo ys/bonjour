@@ -1,6 +1,15 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-
+{{- /* Performance: Preconnect to external domains */ -}}
+<link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+<link rel="dns-prefetch" href="https://indieauth.com">
+{{- with .Site.Params.indiekit.url -}}
+<link rel="dns-prefetch" href="{{ . }}">
+{{- end -}}
+{{- with .Site.Params.ogURL -}}
+<link rel="dns-prefetch" href="{{ . }}">
+{{- end -}}
 
 {{ $styles := resources.Get "css/application.scss" | resources.ExecuteAsTemplate "main.css" . | toCSS}}
 {{ $styles = $styles | css.PostCSS }}
