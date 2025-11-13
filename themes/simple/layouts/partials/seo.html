@@ -147,7 +147,7 @@
 },
 {{- else -}}
 {{- with $ogImage -}}
-"image": {{ if reflect.IsString . }}{{ . | absURL | jsonify }}{{ else }}{{ . | jsonify }}{{ end }},
+"image": {{ . | absURL | jsonify }},
 {{- end -}}
 {{- end -}}
 "author": {
