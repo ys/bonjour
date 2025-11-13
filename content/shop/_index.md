@@ -7,5 +7,3 @@ menu:
     weight: 5
 linktitle: "Shop"
 ---
-
-Beautiful prints on great paper, sometimes in a frame, sometimes in a zine.
