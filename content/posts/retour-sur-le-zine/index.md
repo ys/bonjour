@@ -6,7 +6,6 @@ slug: "retour-sur-le-zine"
 favorite: true
 seotitle: "Retour sur la genèse de A thousand tides - mon premier zine"
 description: "Vouloir mettre du papier dans les mains des gens, tout un travail. Petit retour sur la conception de mon premier zine"
-description: "Vouloir mettre du papier dans les mains des gens, tout un travail. Petit retour sur la conception de mon premier zine"
 tags:
   - argentique
   - pellicule

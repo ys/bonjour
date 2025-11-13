@@ -15,7 +15,7 @@ color: rosewater
 title: "28 - Nouvel an, parcs et jeux vidéos"
 slug: "28"
 ---
-![21x26-0803-18.jpg](21x26-0803-18.jpg)
+![21x26-0803-18.jpg](21x26-0803-18.webp)
 
 > Cette newsletter a été écrite rien que pour vous. Oui, vous. Merci d'être là.
 > Je suis votre hôte aujourd'hui et je m'appelle [Yannick](https://yannickschutz.com) et cette lettre, c'est [Bonjour](https://yannickschutz.com/bonjour).

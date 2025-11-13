@@ -15,7 +15,7 @@ color: rosewater
 title: "23 - habitudes, lectures et psychologie"
 slug: "23"
 ---
-![21x20-0620-01.jpg](21x20-0620-01.jpg)
+![21x20-0620-01.jpg](21x20-0620-01.webp)
 
 _Cette newsletter est écrite par [Yannick](https://yannickschutz.com/now), il ne voit pas le temps passer, il a eu un été mi figue niveau météo et il porte un pull jaune. Il va encore vous raconter sa vie et ce qu'il a vu/lu/entendu. Soyez prêt! Et merci, d'être là._
 

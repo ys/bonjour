@@ -25,7 +25,6 @@ resources:
   - src: "penn-al-lann-7.webp"
     name: "cover"
   - src: "*.webp"
-description: "Une petite plage à l’abris des gens et du vent, plus connue sous le nom de plage de Tahiti."
 ---
 
 > 48°27’42.436"N, 3°48’52.736"O
