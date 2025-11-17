@@ -1,4 +1,39 @@
 ---
+- _id: 1437697471
+  link: https://www.youtube.com/watch?v=HcBpo7iVUak
+  title: Animal Crossing in LEGO! 42 Acre Isle
+  excerpt: Beyond the Brick's Joshua Hanlon talks with Becky Clapshaw about her LEGO
+    Animal Crossing display at Bricks Cascade 2025. This video is sponsored by Brickman...
+  note: This is crazy thinking it is her real island
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/HcBpo7iVUak/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/HcBpo7iVUak/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-11-17T20:11:47.306Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2025-11-17T20:12:11.796Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1437697471
+  collectionId: -1
+  parsed: {}
 - _id: 1433036837
   link: https://www.youtube.com/watch?v=yf4OjpcGRhc
   title: 'Clique X Orelsan : la quête continue'
