@@ -1,4 +1,40 @@
 ---
+- _id: 1461317420
+  link: https://www.youtube.com/watch?v=IESveEMI1RE
+  title: The Perfect Home Scanning Setup (Autocarrier 135)
+  excerpt: Did you ever wish to own a Fuji Frontier film scanner yourself? If this
+    dream also feels out of reach for you, don't look further because this might be
+    the c...
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/IESveEMI1RE/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/IESveEMI1RE/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-11-29T19:55:30.621Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2025-11-29T19:55:31.866Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1461317420
+  collectionId: -1
+  parsed: {}
 - _id: 1437697471
   link: https://www.youtube.com/watch?v=HcBpo7iVUak
   title: Animal Crossing in LEGO! 42 Acre Isle
