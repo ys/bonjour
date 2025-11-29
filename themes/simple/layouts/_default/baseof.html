@@ -25,24 +25,24 @@
   <body
       class="{{ .Site.Params.themePalette}} content-{{$.Scratch.Get "color" }} font-serif  antialiased  dark:bg-crust dark:text-white text-crust {{if or .Params.backgroundColor $.Site.Params.backgroundColor }}{{with .Params.background}}bg-{{.}} {{end}} bg-{{$.Scratch.Get "color" }} bg-opacity-10 selection:bg-opacity-20 selection:bg-{{$.Scratch.Get "color"}}{{else}}selection:bg-{{$.Scratch.Get "color"}} selection:bg-opacity-20{{end}}">
 
-      <span class="md:fixed mt-6 mx-auto md:mt-0 md:ml-0 md:top-6 md:left-6 relative block logo hover:animate-spin text-center text-6xl w-10 text-{{$.Scratch.Get "color"}}  ">
-        {{ if .Parent }}<a href="{{ .Parent.RelPermalink }}" arial-label="{{.Parent.Title}}" alt="{{ .Parent.Title}}">{{ else }}<a href="{{ "/" | relLangURL }}" alt="Get me back to the home" aria-label="Get me back to the home">{{end}}
-          {{ if fileExists "/static/logo.svg" }}
-            {{ readFile "/static/logo.svg" | safeHTML}}
-            <span class="hidden">Get me back to the home</span>
-          {{ else }}
-            {{.Params.emoji | default .Site.Params.emoji}}
-          {{ end }}
-        </a>
-      </span>
-    <header class="relative py-8 md:max-w-xl md:mx-auto md:pt-36  mx-6 md:container flex flex-col md:flex-row  gap-2 ">
-      <div class="group flex flex-col w-full h-full items-center tracking-tighter ">
-        <h1 class="text-2xl  font-bold transition ease-in-out text-{{$.Scratch.Get "color"}}">
+    <header class="py-8 md:pt-32 xl:mx-auto mx-6 max-w-6xl flex flex-col md:flex-row  gap-2 ">
+      <div class="group flex flex-col w-full h-full items-left tracking-tighter ">
+        <span class="relative mb-4 block logo hover:animate-spin text-center text-6xl w-10 text-{{$.Scratch.Get "color"}}  ">
+          {{ if .Parent }}<a href="{{ .Parent.RelPermalink }}" arial-label="{{.Parent.Title}}" alt="{{ .Parent.Title}}">{{ else }}<a href="{{ "/" | relLangURL }}" alt="Get me back to the home" aria-label="Get me back to the home">{{end}}
+            {{ if fileExists "/static/logo.svg" }}
+              {{ readFile "/static/logo.svg" | safeHTML}}
+              <span class="hidden">Get me back to the home</span>
+            {{ else }}
+              {{.Params.emoji | default .Site.Params.emoji}}
+            {{ end }}
+          </a>
+        </span>
+        <h1 class="text-3xl  font-bold transition ease-in-out text-{{$.Scratch.Get "color"}}">
         {{ if .Parent }}<a href="{{ .Parent.RelPermalink }}" alt="{{ .Parent.Title}}"> {{ else }}<a href="{{ "/" | relLangURL }}" alt="home">{{end}}
           {{ .Title | default .Site.Title }}</a></h1>
         {{ with .Params.subtitle }}
-        <span class="tracking-normal text-sm font-sans">{{.}}</span>
-        {{ else }}
+        <span class="tracking-normal text-normal font-sans">{{.}}</span>
+        {{ end }}
         <nav class="main_menu font-sans text-sm hover:opacity-100 opacity-50">
         {{ $current := . }}
             <ul class="inline leading-relaxed">
@@ -65,14 +65,11 @@
               {{ end }}
             </ul>
         </nav>
-        {{end}}
       </div>
     </header>
-    <main class="md:container mx-auto  {{ if ne .Type "shop" }}md:max-w-xl{{ end }} w-full  grid grid-cols-1 gap-16 min-h-1/2">
-      <div class="mx-6 md:mx-0 relative">
+    <main class="xl:mx-auto mx-6 max-w-6xl grid grid-cols-1 gap-16">
         {{ block "main" . }}
         {{ end }}
-      </div>
     </main>
     {{ block "full" . }}
     {{ end }}
