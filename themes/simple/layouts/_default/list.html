@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div class="z-20 dark:prose-invert prose  mb-16 with-links relative">
+<div class="z-20 dark:prose-invert prose  mb-16 with-links relative text-xl">
   {{ .Content }}
 </div>
     {{ $paginator := (.Paginate (where (where (where .Site.AllPages "Type" .Type) "Kind" "==" "page") ".Params.archived" "!=" true)  2500) }}
