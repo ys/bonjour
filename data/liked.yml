@@ -1,4 +1,74 @@
 ---
+- _id: 1468338171
+  link: https://www.youtube.com/watch?v=9PxaPNHo0-8
+  title: "'25 Creators Gathering: Above The Noise"
+  excerpt: "~~~ NEW EPISODE DROPS EVERY FRIDAY, SUBSCRIBE FOR UPDATES ~~~Every winter,
+    the Vissla family packs up the shaping bay, rounds up our crew of shapers, artists..."
+  note: Shaping is such an art
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/9PxaPNHo0-8/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/9PxaPNHo0-8/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-12-02T09:44:41.999Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2025-12-02T09:44:56.360Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1468338171
+  collectionId: -1
+  parsed: {}
+- _id: 1468260128
+  link: https://www.youtube.com/watch?v=GimHXc3zlEE
+  title: Reverie 16mm Surf Short by Sam Nassar
+  excerpt: Reverie is a state of being pleasantly lost in one's thoughts; a daydream.
+    Sam Nassar's 16mm film features surfing in boardshorts and skateboarding in bowls....
+  note: 16mm, surf and rock music. My kind of summer day
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/GimHXc3zlEE/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/GimHXc3zlEE/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-12-02T09:16:59.223Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2025-12-02T09:17:11.901Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1468260128
+  collectionId: -1
+  parsed: {}
 - _id: 1461357791
   link: https://www.youtube.com/watch?v=lkS0-AR7aFM
   title: Powell-Peralta Presents | SEEN HIM | By Zenga Bros | Featuring Andy Anderson
