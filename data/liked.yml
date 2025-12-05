@@ -247,39 +247,6 @@
   sort: 1431918868
   collectionId: 37459360
   parsed: {}
-- _id: 1419785354
-  link: https://youtu.be/wdvxC_Sjw8Y?si=YQXyzJ-L9FAZr9bW
-  title: The Music of Huckberry’s DIRT | Chances With Wolves Full DJ Set
-  excerpt: 'Stream “The Best of DIRT Vol.1 Japan” from Actual Magic: https://spoti.fi/42PfFIYOne
-    frequently asked question about our flagship adventure series DIRT is “W...'
-  note: An amazing set, wished I got the record
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/wdvxC_Sjw8Y/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/wdvxC_Sjw8Y/maxresdefault.jpg
-    type: image
-  tags: []
-  removed: false
-  collection:
-    "$ref": collections
-    "$id": 39748190
-    oid: 39748190
-  created: '2025-11-03T09:43:01.738Z'
-  lastUpdate: '2025-11-03T09:43:17.881Z'
-  domain: youtu.be
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 1419785354
-  highlights: []
-  important: true
-  collectionId: 39748190
-  parsed: {}
 - _id: 1369554469
   link: https://surfrepotes.fr/forum/articles-interviews-surf/interview-barbes-surf-club-t10212.html
   title: surfrepotes.fr • Afficher le sujet - Interview - Barbes Surf Club
@@ -851,6 +818,41 @@
     email: ''
   sort: 1294587294
   collectionId: 37459371
+  parsed: {}
+- _id: 1271139108
+  link: https://www.youtube.com/watch?v=kEm7HfiIYak
+  title: Why I Sold My Steam Deck for a Switch 2...
+  excerpt: "My full review of the Steam Deck Vs The Nintendo Switch 2 and why I decided
+    to switch!\U0001F3AE Protect your Switch 2 with the Belkin Travel Case: https://belkin.ev..."
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/kEm7HfiIYak/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/kEm7HfiIYak/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-07-28T11:43:35.985Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2025-07-28T11:43:37.200Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1271139108
+  collectionId: -1
   parsed: {}
 - _id: 1269871618
   link: https://www.youtube.com/watch?v=cF0-xOWOnFU
