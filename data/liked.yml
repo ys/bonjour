@@ -889,6 +889,41 @@
   sort: 1269871618
   collectionId: -1
   parsed: {}
+- _id: 1269871618
+  link: https://www.youtube.com/watch?v=cF0-xOWOnFU
+  title: Arto Saari - Shooting Film & Talking Photography
+  excerpt: We met up with Arto during CPH Open to shoot on some super rare 8x10 Polaroid
+    film and talk about photography in between. He shares how his experience of sho...
+  note: Would love to try 8x10 someday
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/cF0-xOWOnFU/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/cF0-xOWOnFU/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-07-27T12:59:26.081Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2025-07-27T12:59:37.112Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1269871618
+  collectionId: -1
+  parsed: {}
 - _id: 1256967021
   link: https://www.youtube.com/watch?v=5f5hFJ4fLPI
   title: Super Secession
@@ -1781,40 +1816,6 @@
   sort: 994893321
   collectionId: -1
   parsed: {}
-- _id: 993879852
-  link: https://www.youtube.com/watch?v=zCJEtSVfJ2Y
-  title: After School - False Bay Logging
-  excerpt: ''
-  note: Obsessed at looking at feet at takeoff
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/zCJEtSVfJ2Y/hqdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/zCJEtSVfJ2Y/hqdefault.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2025-03-16T13:29:21.038Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  lastUpdate: '2025-03-16T13:29:41.640Z'
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 993879852
-  collectionId: 37136905
-  parsed: {}
 - _id: 992665757
   link: https://www.youtube.com/watch?v=JAv5ChlwJ68&list=WL&index=12
   title: CATALOG by Log Rap
@@ -2658,6 +2659,41 @@
     email: ''
   sort: 963477347
   collectionId: -1
+  parsed: {}
+- _id: 953119611
+  link: https://www.youtube.com/watch?v=Vd7ssAtckko
+  title: 1 Hour of Smooth 70s-80s Japanese Grooves | City Pop & More
+  excerpt: Enjoy the videos and music you love, upload original content, and share
+    it all with friends, family, and the world on YouTube.
+  note: An hour of pure joy
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/Vd7ssAtckko/hqdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/Vd7ssAtckko/hqdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-01-23T19:57:15.403Z'
+  collection:
+    "$ref": collections
+    "$id": 39748190
+    oid: 39748190
+  highlights: []
+  lastUpdate: '2025-01-23T19:57:30.913Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 953119611
+  collectionId: 39748190
   parsed: {}
 - _id: 953119611
   link: https://www.youtube.com/watch?v=Vd7ssAtckko
@@ -3739,42 +3775,6 @@
   sort: 925571266
   collectionId: 37136905
   parsed: {}
-- _id: 925570613
-  link: https://www.youtube.com/watch?v=7vAiloW7phc
-  title: 'NTS: Inside Inventor Simone Giertz’s Small Los Angeles Home, 58sqm/630sqft'
-  excerpt: Enjoy the videos and music you love, upload original content, and share
-    it all with friends, family, and the world on YouTube.
-  note: "A real life never too small episode. I love it. \n\n> Weird over boring\n>
-    Ugly over boring"
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/7vAiloW7phc/hqdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/7vAiloW7phc/hqdefault.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2024-12-20T08:44:18.994Z'
-  collection:
-    "$ref": collections
-    "$id": 37136914
-    oid: 37136914
-  highlights: []
-  lastUpdate: '2024-12-20T08:44:47.669Z'
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 925570613
-  collectionId: 37136914
-  parsed: {}
 - _id: 924194378
   link: https://www.youtube.com/watch?v=idJ2ItbS-oQ
   title: Log Rap BTS 2024 MSA Comp
@@ -4716,6 +4716,75 @@
     email: ''
   sort: 860636471
   collectionId: 37603939
+  parsed: {}
+- _id: 859606975
+  link: https://www.youtube.com/watch?v=_HtXHReDaTI
+  title: Ultra Vomit - DOIGTS DE METAL (Clip Officiel)
+  excerpt: "Premier clip extrait du nouvel album “Le Pouvoir de la Puissance”, sortie
+    le 27/09/2024\n\n▶Commander ULTRA VOMIT ET LE POUVOIR DE LA PUISSANCE : https://ultravomit.lnk.to/Pouvoir\n▶Écouter
+    DOIGTS DE METAL : https://ultravomit.lnk.to/DoigtsDeMetal\n\nEcrit et composé
+    par Ultra Vomit avec la participation d’Andréas Martin\nEnregistrement et mixage
+    par Fred Duquesne\nMastering par Thibault Chaumont (www.deviantlab.com)\nVidéo
+    réalisée par Julien Josselin (https://www.instagram.com/gobuddyprod/)\n- - - -
+    - - - - \nSuivez-nous :\nYoutube : https://www.youtube.com/user/UltraVomitOfficiel/\nFacebook
+    : https://www.facebook.com/ultravomitofficiel/\nInstagram : https://www.instagram.com/ultravomitofficiel/\nSpotify
+    : https://open.spotify.com/artist/4mnp6YW545j0Qb5PYS9Wmv\nDeezer : https://www.deezer.com/fr/artist/14563\nApple
+    : https://music.apple.com/fr/artist/ultra-vomit/269394962\n- - - - - - - - \nPAROLES:\n\nOk
+    Fred, j'espère que t’enregistres, je fais qu’une prise !\n\nJ’ai toujours cru
+    que les métalleux étaient des gens bizarres\nAvec leur tatoos tête de mort, habillés
+    tout en noir\nMais en fait c’est juste des gros nounours\nLe genre de personnes
+    qui feraient pas de mal à une mouche\n\nAlors t’inquiète pas, ils sont pas venus
+    pour sacrifier ta grand-mère\nMais juste pour passer du bon temps et boire un
+    max de bière\nLes doigts de metal dans les airs\nEn écoutant du gros son tout
+    droit sorti des enfers\n\nL’index levé vers le ciel\nL'auriculaire vers le ciel\nLe
+    pouce préhensile sur le majeur et l'annulaire\nLève les doigts de metal dans les
+    airs\n\nL’index levé vers le ciel\nL'auriculaire vers le ciel\nTout le monde saute
+    tout le monde chante tout le monde danse\nAvec les doigts de metal dans les airs\nEt
+    si tu sais pas comment faire, regarde\nC’est simple comme un jeu d’enfer\nL’index
+    levé vers le ciel\nL'auriculaire vers le ciel\nLève les doigts de metal dans les
+    airs\n\nPutain !\nPlus j’écoute la batterie\nPlus j’comprends rien !\n\nMÉLANGE
+    !\nLe sucré de Kiss et l’acidité d’AC/DC\nRAJOUTE !\nUne pincée de riffs de Slayer
+    et secoue le shaker\nMÉLANGE !\nLa groove de Gojira, le gras de Pantera\nAllez
+    branche ta gratte et lève ta pinte au pentagramme\nSanté !\n\nL’index levé vers
+    le ciel\nL'auriculaire vers le ciel\nLe pouce préhensile vient jouxter le majeur
+    et l’annulaire\n\nOrelfest ! J’veux voir vos doigts de metal dans les airs !\n\nJ’kiffe
+    le thrash, j’quitte le rap\nJ'ai pris mon pass, ma vieille Queshua, ma veste a
+    patch\nJ’suis dans la fosse, j’suis dans les crashs\nLes slams, les pogos, l'apéro,
+    les walls of death !\n\nAvec les doigts de metal dans les airs \nEt si tu sais
+    pas comment faire\nRegarde ! C’est simple comme un jeu d’enfer\nL’index levé vers
+    le ciel\nL'auriculaire vers le ciel\nLe pouce préhensile sur le majeur et l’annulaire\n\nBasse-Normandie\nLoire-Atlantique\nLes
+    doigts de metal dans les airs !"
+  note: 'Des doigts de métal dans le ciel
+
+    '
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/_HtXHReDaTI/hqdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/_HtXHReDaTI/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2024-09-23T08:49:50.750Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2024-09-23T08:50:02.539Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 859606975
+  collectionId: -1
   parsed: {}
 - _id: 859606975
   link: https://www.youtube.com/watch?v=_HtXHReDaTI
@@ -10285,49 +10354,6 @@
   sort: 735900848
   collectionId: 37136909
   parsed: {}
-- _id: 735611461
-  link: https://longboardermagazine.com/2024/02/why-we-do-it/
-  title: Why We Do It. - Longboarder Magazine
-  excerpt: Dive into the world of winter surf with dedicated wave chasers from the
-    Northeast. Brave the cold alongside Lara Marcantonio, Ashley Cunningham, and Caralee
-    Murphy as they share their tales of adrenaline, dedication, and the pursuit of
-    the perfect wave in freezing temperatures.
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://longboardermagazine.com/wp-content/uploads/2024/02/DSC_6251-31-2-2-2-1024x731.jpg
-  media:
-  - link: https://longboardermagazine.com/wp-content/uploads/2024/02/DSC_6251-31-2-2-2-1024x731.jpg
-    type: image
-  - link: https://longboardermagazine.com/wp-content/uploads/2024/02/DSC_6251-31-2-2-2-1536x1097.jpg
-    type: image
-  - link: https://longboardermagazine.com/wp-content/uploads/2024/02/0C6A1078-1536x1024.jpg
-    type: image
-  - link: https://longboardermagazine.com/wp-content/uploads/2024/02/Ashley-soft-Proof-243-1536x1024.jpg
-    type: image
-  - link: https://longboardermagazine.com/wp-content/uploads/2024/02/CWW_Snow_Lifestyle_2021_12_1106-1536x1024.jpg
-    type: image
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2024-02-14T21:57:17.502Z'
-  lastUpdate: '2024-02-14T21:57:17.502Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  domain: longboardermagazine.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 735611460
-  collectionId: 37136905
-  parsed: {}
 - _id: 734286684
   link: https://www.youtube.com/watch?v=06xafivFSe4
   title: Juilliard Jazz Prof Hears Nirvana For The First Time
@@ -11251,6 +11277,38 @@
     email: ''
   sort: 725207923
   collectionId: 37459360
+  parsed: {}
+- _id: 722596917
+  link: https://www.josewalker.co.uk/photo
+  title: people — JOSE WALKER
+  excerpt: pieces of the year
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fwww.josewalker.co.uk%2Fphoto
+  media: []
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2024-01-26T22:16:57.733Z'
+  lastUpdate: '2024-01-26T22:17:03.565Z'
+  collection:
+    "$ref": collections
+    "$id": 37577000
+    oid: 37577000
+  highlights: []
+  domain: josewalker.co.uk
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 722596917
+  collectionId: 37577000
   parsed: {}
 - _id: 722596917
   link: https://www.josewalker.co.uk/photo
@@ -15361,39 +15419,6 @@
   sort: 658009278
   collectionId: 37136909
   parsed: {}
-- _id: 657657329
-  link: https://finisterre.com/blogs/broadcast/the-sentinels-lighthouses-surfers-seven-seas
-  title: 'The Sentinels: Lighthouses, Surfers & Seven Seas'
-  excerpt: Mat Arney looks at the stoic history of lighthouses as a metaphor for ocean
-    guardianship.
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://finisterre.com/cdn/shop/articles/unnamed_87b1332a-4a90-48cb-9923-ec5fa51236fe.jpg?v=1696504698
-  media:
-  - link: https://finisterre.com/cdn/shop/articles/unnamed_87b1332a-4a90-48cb-9923-ec5fa51236fe.jpg?v=1696504698
-    type: image
-  tags: []
-  highlights: []
-  important: true
-  removed: false
-  created: '2023-10-07T20:49:35.093Z'
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  domain: finisterre.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 657657328
-  collectionId: 37136905
-  parsed: {}
 - _id: 656234995
   link: https://github.com/github/how-engineering-communicates/blob/main/how-github-engineering-communicates.md
   title: how-engineering-communicates/how-github-engineering-communicates.md at main
@@ -16482,6 +16507,47 @@
     email: ''
   sort: 651870212
   collectionId: 37456469
+  parsed: {}
+- _id: 649406201
+  link: https://www.pushkin.fm/podcasts/lost-hills/lost-hills-season-3-the-dark-prince
+  title: 'Lost Hills Season 3: The Dark Prince | Lost Hills'
+  excerpt: 'There’s an evil undercurrent that runs through the surf world, and it
+    all leads back to the Dark Prince of Malibu: Miki Dora. A surfer who ruled Malibu
+    from the 1950s to the 1970s, he was also a con man and led the FBI on a 7-year
+    manhunt around the world.'
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://e1.nmcdn.io/pushkin/wp-content/uploads/2023/05/LH_S3_PUSHKIN_BANNER_1200x628.png/v:1-width:1200-height:630-fit:cover/LH_S3_PUSHKIN_BANNER_1200x628.png?signature=ca04b306
+  media:
+  - link: https://e1.nmcdn.io/pushkin/wp-content/uploads/2023/05/LH_S3_PUSHKIN_BANNER_1200x628.png/v:1-width:1200-height:630-fit:cover/LH_S3_PUSHKIN_BANNER_1200x628.png?signature=ca04b306
+    type: image
+  - link: https://e1.nmcdn.io/pushkin/wp-content/uploads/2023/05/LOSTHILLS_S3_COVER_3000x3000.png/v:1-dynamic:1-aspect:1-fit:cover/LOSTHILLS_S3_COVER_3000x3000--600.webp
+    type: image
+  - link: https://e1.nmcdn.io/pushkin/wp-content/uploads/imported-files/Dana-Waves-300x300.jpg/v:1-dynamic:1-aspect:1-fit:cover/Dana-Waves-300x300--600.webp
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2023-09-20T13:00:07.778Z'
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  collection:
+    "$ref": collections
+    "$id": 37679916
+    oid: 37679916
+  highlights: []
+  domain: pushkin.fm
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 649406201
+  collectionId: 37679916
   parsed: {}
 - _id: 649406201
   link: https://www.pushkin.fm/podcasts/lost-hills/lost-hills-season-3-the-dark-prince
@@ -18152,38 +18218,6 @@
   important: true
   collectionId: 37136909
   parsed: {}
-- _id: 645601689
-  link: https://www.youtube.com/watch?v=1EXgRm1gaBM
-  excerpt: ''
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/1EXgRm1gaBM/maxresdefault.jpg
-  media:
-  - type: image
-    link: https://i.ytimg.com/vi/1EXgRm1gaBM/maxresdefault.jpg
-  tags: []
-  removed: false
-  created: '2023-07-18T19:27:28.483Z'
-  collection:
-    "$ref": collections
-    "$id": 37136909
-    oid: 37136909
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: youtube.com
-  title: ANDY NIEBLAS | BAJA
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601778
-  important: true
-  collectionId: 37136909
-  parsed: {}
 - _id: 645601688
   link: https://firstlightsurf.club/blogs/news/the-art-of-the-pre-work-dawn-patrol-surf
   excerpt: ''
@@ -18951,6 +18985,38 @@
   sort: 645601721
   important: true
   collectionId: 37459371
+  parsed: {}
+- _id: 645601663
+  link: https://www.youtube.com/watch?v=bbUGVFEO9Yc
+  excerpt: ''
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/bbUGVFEO9Yc/maxresdefault.jpg
+  media:
+  - type: image
+    link: https://i.ytimg.com/vi/bbUGVFEO9Yc/maxresdefault.jpg
+  tags: []
+  removed: false
+  created: '2023-06-28T11:31:40.770Z'
+  collection:
+    "$ref": collections
+    "$id": 37459360
+    oid: 37459360
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: youtube.com
+  title: How Wes Kremer Lives An Analog Life | SKATE TALES
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601694
+  important: true
+  collectionId: 37459360
   parsed: {}
 - _id: 645601663
   link: https://www.youtube.com/watch?v=bbUGVFEO9Yc
@@ -20558,39 +20624,6 @@
   important: true
   collectionId: 37136905
   parsed: {}
-- _id: 645601606
-  link: https://youtube.com/watch?v=LxDp_Waoc4Q&feature=share
-  excerpt: ''
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/LxDp_Waoc4Q/maxresdefault.jpg
-  media:
-  - type: image
-    link: https://i.ytimg.com/vi/LxDp_Waoc4Q/maxresdefault.jpg
-  tags: []
-  removed: false
-  created: '2023-05-15T20:03:12.210Z'
-  collection:
-    "$ref": collections
-    "$id": 37136909
-    oid: 37136909
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: youtube.com
-  title: D'amour et d'eau frette | Documentaire sur le surf aux Îles-de-la-Madeleine
-    avec Alexis Boudreau
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601735
-  important: true
-  collectionId: 37136909
-  parsed: {}
 - _id: 645601605
   link: https://www.surfsession.com/culture-surf/maroc-le-surf-tourisme-toujours-au-coeur-des-discussions-2/
   excerpt: ''
@@ -21362,6 +21395,38 @@
   sort: 645601759
   important: true
   collectionId: 37136909
+  parsed: {}
+- _id: 645601581
+  link: https://www.somelikeitclassicfilm.com/
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://static.wixstatic.com/media/dcae4a_5a90ddc5b3b94f65b1d6625111982bfa~mv2.jpg/v1/fill/w_1818,h_1228,al_c/dcae4a_5a90ddc5b3b94f65b1d6625111982bfa~mv2.jpg
+  media:
+  - type: image
+    link: https://static.wixstatic.com/media/dcae4a_5a90ddc5b3b94f65b1d6625111982bfa~mv2.jpg/v1/fill/w_1818,h_1228,al_c/dcae4a_5a90ddc5b3b94f65b1d6625111982bfa~mv2.jpg
+  tags: []
+  removed: false
+  created: '2023-03-23T14:15:41.494Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: somelikeitclassicfilm.com
+  title: Some Like It Classic, A super 16mm Documentary surf film
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601581
+  important: true
+  collectionId: 37456415
   parsed: {}
 - _id: 645601581
   link: https://www.somelikeitclassicfilm.com/
@@ -23773,38 +23838,6 @@
   important: true
   collectionId: 37456415
   parsed: {}
-- _id: 645601500
-  link: https://craigmod.com/roden/075/
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://craigmod.com/roden/img/075/075.jpg
-  media:
-  - type: image
-    link: https://craigmod.com/roden/img/075/075.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:53:37.530Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: craigmod.com
-  title: Archetypes Revisited — Roden newsletter issue 075
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601500
-  important: true
-  collectionId: 37456415
-  parsed: {}
 - _id: 645601499
   link: https://beside.media/fr/besiders/elisabeth-cardin/
   excerpt: ''
@@ -24573,6 +24606,38 @@
     name: bonjouryannick
     email: ''
   sort: 645601476
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601475
+  link: https://explorewhatworks.com/busyness-decoded-how-to-limit-what-you-say-yes-to/
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://ihzgvq.infiniteuploads.cloud/2022/11/thought-catalog-UK78i6vK3sc-unsplash-scaled.jpg
+  media:
+  - type: image
+    link: https://ihzgvq.infiniteuploads.cloud/2022/11/thought-catalog-UK78i6vK3sc-unsplash-scaled.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:52:32.838Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: explorewhatworks.com
+  title: 'Busyness Decoded: How to Limit What You Say "Yes" To'
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601475
   important: true
   collectionId: 37456415
   parsed: {}
@@ -30985,39 +31050,6 @@
   important: true
   collectionId: 37456415
   parsed: {}
-- _id: 645601267
-  link: https://indoek.com/article/surf-shacks-089-michael-townsend-lara-wilson/
-  excerpt: ''
-  note: ''
-  type: link
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://rdl.ink/render/https%3A%2F%2Findoek.com%2Farticle%2Fsurf-shacks-089-michael-townsend-lara-wilson%2F
-  media:
-  - type: image
-    link: https://rdl.ink/render/https%3A%2F%2Findoek.com%2Farticle%2Fsurf-shacks-089-michael-townsend-lara-wilson%2F
-    screenshot: true
-  tags: []
-  removed: false
-  created: '2023-01-26T19:47:24.471Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: indoek.com
-  title: Surf Shacks 089 – Michael Townsend + Lara Wilson
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601267
-  important: true
-  collectionId: 37456415
-  parsed: {}
 - _id: 645601266
   link: https://hellolaroux.com/les-bienfaits-de-la-marche/
   excerpt: ''
@@ -31780,6 +31812,38 @@
     name: bonjouryannick
     email: ''
   sort: 645601243
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601242
+  link: https://daydreamsurfshop.com/blogs/news
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://cdn.shopify.com/s/files/1/1046/5210/files/blossomsplash_army_4x.png?height=628&pad_color=ffffff&v=1613665743&width=1200
+  media:
+  - type: image
+    link: https://cdn.shopify.com/s/files/1/1046/5210/files/blossomsplash_army_4x.png?height=628&pad_color=ffffff&v=1613665743&width=1200
+  tags: []
+  removed: false
+  created: '2023-01-26T19:47:05.288Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: daydreamsurfshop.com
+  title: News
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601242
   important: true
   collectionId: 37456415
   parsed: {}
@@ -35795,38 +35859,6 @@
   important: true
   collectionId: 37456415
   parsed: {}
-- _id: 645601115
-  link: https://craigmod.com/ridgeline/107/
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://craigmod.com/ridgeline/images/107/107.jpg
-  media:
-  - type: image
-    link: https://craigmod.com/ridgeline/images/107/107.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:45:35.304Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: craigmod.com
-  title: A Late Night Walk in a Small Southern Town
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601115
-  important: true
-  collectionId: 37456415
-  parsed: {}
 - _id: 645601114
   link: https://cmhb.de/
   excerpt: ''
@@ -37395,6 +37427,38 @@
     name: bonjouryannick
     email: ''
   sort: 645601064
+  important: true
+  collectionId: 37456415
+  parsed: {}
+- _id: 645601063
+  link: https://anotherescape.com/journal/changing-things-up-our-new-chapter
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://s3.anotherescape.com/Featured-Stories-new-website/_1200x630_crop_center-center_82_none/CI1A4950-Edit.jpg?mtime=20201119155505&focal=none&tmtime=20230712062131
+  media:
+  - type: image
+    link: https://s3.anotherescape.com/Featured-Stories-new-website/_1200x630_crop_center-center_82_none/CI1A4950-Edit.jpg?mtime=20201119155505&focal=none&tmtime=20230712062131
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:02.097Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: anotherescape.com
+  title: Another Escape | An independent media company for those who love the…
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601063
   important: true
   collectionId: 37456415
   parsed: {}
