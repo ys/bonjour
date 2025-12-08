@@ -23806,6 +23806,38 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 645601500
+  link: https://craigmod.com/roden/075/
+  excerpt: ''
+  note: ''
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://craigmod.com/roden/img/075/075.jpg
+  media:
+  - type: image
+    link: https://craigmod.com/roden/img/075/075.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:53:37.530Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: craigmod.com
+  title: Archetypes Revisited — Roden newsletter issue 075
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601500
+  important: true
+  collectionId: 37456415
+  parsed: {}
 - _id: 645601499
   link: https://beside.media/fr/besiders/elisabeth-cardin/
   excerpt: ''
@@ -24574,38 +24606,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601476
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601475
-  link: https://explorewhatworks.com/busyness-decoded-how-to-limit-what-you-say-yes-to/
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://ihzgvq.infiniteuploads.cloud/2022/11/thought-catalog-UK78i6vK3sc-unsplash-scaled.jpg
-  media:
-  - type: image
-    link: https://ihzgvq.infiniteuploads.cloud/2022/11/thought-catalog-UK78i6vK3sc-unsplash-scaled.jpg
-  tags: []
-  removed: false
-  created: '2023-01-26T19:52:32.838Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: explorewhatworks.com
-  title: 'Busyness Decoded: How to Limit What You Say "Yes" To'
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601475
   important: true
   collectionId: 37456415
   parsed: {}
