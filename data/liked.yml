@@ -35828,6 +35828,38 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 645601115
+  link: https://craigmod.com/ridgeline/107/
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://craigmod.com/ridgeline/images/107/107.jpg
+  media:
+  - type: image
+    link: https://craigmod.com/ridgeline/images/107/107.jpg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:45:35.304Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: craigmod.com
+  title: A Late Night Walk in a Small Southern Town
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601115
+  important: true
+  collectionId: 37456415
+  parsed: {}
 - _id: 645601114
   link: https://cmhb.de/
   excerpt: ''
@@ -36599,38 +36631,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601089
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601088
-  link: https://www.fieldmag.com/articles/how-to-build-cabin-for-cheap-diy-timelapse-video
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://images.ctfassets.net/r7p9m4b1iqbp/6tfRotsxvZp6cojepKa6Td/d15cf38d91f947791f2d85bb8704016c/DIY-Cabin-Interview-Graeme-Jenvey-16.jpg?w=1000
-  media:
-  - type: image
-    link: http://images.ctfassets.net/r7p9m4b1iqbp/6tfRotsxvZp6cojepKa6Td/d15cf38d91f947791f2d85bb8704016c/DIY-Cabin-Interview-Graeme-Jenvey-16.jpg?w=1000
-  tags: []
-  removed: false
-  created: '2023-01-26T19:45:18.037Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: fieldmag.com
-  title: How This Filmmaker Built a DIY Cabin During Lockdown
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601088
   important: true
   collectionId: 37456415
   parsed: {}
