@@ -852,41 +852,6 @@
   sort: 1294587294
   collectionId: 37459371
   parsed: {}
-- _id: 1271139108
-  link: https://www.youtube.com/watch?v=kEm7HfiIYak
-  title: Why I Sold My Steam Deck for a Switch 2...
-  excerpt: "My full review of the Steam Deck Vs The Nintendo Switch 2 and why I decided
-    to switch!\U0001F3AE Protect your Switch 2 with the Belkin Travel Case: https://belkin.ev..."
-  note: ''
-  type: video
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: https://i.ytimg.com/vi/kEm7HfiIYak/maxresdefault.jpg
-  media:
-  - link: https://i.ytimg.com/vi/kEm7HfiIYak/maxresdefault.jpg
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2025-07-28T11:43:35.985Z'
-  collection:
-    "$ref": collections
-    "$id": -1
-    oid: -1
-  highlights: []
-  lastUpdate: '2025-07-28T11:43:37.200Z'
-  domain: youtube.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 1271139108
-  collectionId: -1
-  parsed: {}
 - _id: 1269871618
   link: https://www.youtube.com/watch?v=cF0-xOWOnFU
   title: Arto Saari - Shooting Film & Talking Photography
@@ -4819,6 +4784,75 @@
   sort: 859606975
   collectionId: -1
   parsed: {}
+- _id: 859606975
+  link: https://www.youtube.com/watch?v=_HtXHReDaTI
+  title: Ultra Vomit - DOIGTS DE METAL (Clip Officiel)
+  excerpt: "Premier clip extrait du nouvel album “Le Pouvoir de la Puissance”, sortie
+    le 27/09/2024\n\n▶Commander ULTRA VOMIT ET LE POUVOIR DE LA PUISSANCE : https://ultravomit.lnk.to/Pouvoir\n▶Écouter
+    DOIGTS DE METAL : https://ultravomit.lnk.to/DoigtsDeMetal\n\nEcrit et composé
+    par Ultra Vomit avec la participation d’Andréas Martin\nEnregistrement et mixage
+    par Fred Duquesne\nMastering par Thibault Chaumont (www.deviantlab.com)\nVidéo
+    réalisée par Julien Josselin (https://www.instagram.com/gobuddyprod/)\n- - - -
+    - - - - \nSuivez-nous :\nYoutube : https://www.youtube.com/user/UltraVomitOfficiel/\nFacebook
+    : https://www.facebook.com/ultravomitofficiel/\nInstagram : https://www.instagram.com/ultravomitofficiel/\nSpotify
+    : https://open.spotify.com/artist/4mnp6YW545j0Qb5PYS9Wmv\nDeezer : https://www.deezer.com/fr/artist/14563\nApple
+    : https://music.apple.com/fr/artist/ultra-vomit/269394962\n- - - - - - - - \nPAROLES:\n\nOk
+    Fred, j'espère que t’enregistres, je fais qu’une prise !\n\nJ’ai toujours cru
+    que les métalleux étaient des gens bizarres\nAvec leur tatoos tête de mort, habillés
+    tout en noir\nMais en fait c’est juste des gros nounours\nLe genre de personnes
+    qui feraient pas de mal à une mouche\n\nAlors t’inquiète pas, ils sont pas venus
+    pour sacrifier ta grand-mère\nMais juste pour passer du bon temps et boire un
+    max de bière\nLes doigts de metal dans les airs\nEn écoutant du gros son tout
+    droit sorti des enfers\n\nL’index levé vers le ciel\nL'auriculaire vers le ciel\nLe
+    pouce préhensile sur le majeur et l'annulaire\nLève les doigts de metal dans les
+    airs\n\nL’index levé vers le ciel\nL'auriculaire vers le ciel\nTout le monde saute
+    tout le monde chante tout le monde danse\nAvec les doigts de metal dans les airs\nEt
+    si tu sais pas comment faire, regarde\nC’est simple comme un jeu d’enfer\nL’index
+    levé vers le ciel\nL'auriculaire vers le ciel\nLève les doigts de metal dans les
+    airs\n\nPutain !\nPlus j’écoute la batterie\nPlus j’comprends rien !\n\nMÉLANGE
+    !\nLe sucré de Kiss et l’acidité d’AC/DC\nRAJOUTE !\nUne pincée de riffs de Slayer
+    et secoue le shaker\nMÉLANGE !\nLa groove de Gojira, le gras de Pantera\nAllez
+    branche ta gratte et lève ta pinte au pentagramme\nSanté !\n\nL’index levé vers
+    le ciel\nL'auriculaire vers le ciel\nLe pouce préhensile vient jouxter le majeur
+    et l’annulaire\n\nOrelfest ! J’veux voir vos doigts de metal dans les airs !\n\nJ’kiffe
+    le thrash, j’quitte le rap\nJ'ai pris mon pass, ma vieille Queshua, ma veste a
+    patch\nJ’suis dans la fosse, j’suis dans les crashs\nLes slams, les pogos, l'apéro,
+    les walls of death !\n\nAvec les doigts de metal dans les airs \nEt si tu sais
+    pas comment faire\nRegarde ! C’est simple comme un jeu d’enfer\nL’index levé vers
+    le ciel\nL'auriculaire vers le ciel\nLe pouce préhensile sur le majeur et l’annulaire\n\nBasse-Normandie\nLoire-Atlantique\nLes
+    doigts de metal dans les airs !"
+  note: 'Des doigts de métal dans le ciel
+
+    '
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/_HtXHReDaTI/hqdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/_HtXHReDaTI/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2024-09-23T08:49:50.750Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2024-09-23T08:50:02.539Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 859606975
+  collectionId: -1
+  parsed: {}
 - _id: 858103628
   link: https://www.simplemagic.ca/complex-phenomena/
   title: Complex phenomena
@@ -5792,43 +5826,6 @@
     email: ''
   sort: 838081173
   collectionId: 37459360
-  parsed: {}
-- _id: 838080148
-  link: https://www.karlmackieshop.com/articles/10-surf-photography-tips-for-beginners
-  title: 10 Essential Surf Photography Tips for Beginners | Karl Mackie Prints and
-    Workshops
-  excerpt: Getting started with surf photography can be both thrilling and challenging.
-    It combines the dynamic motion of the ocean with the fast-paced action of surfing.
-    Here are 10 essential tips to help you start your surf photography journey.
-  note: Patience and knowing your gear. Zen mode like
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://static1.squarespace.com/static/55f2abdce4b00eb5577dae31/t/66bdfd850a182e1b86c544e2/1723727242253/10-SURF-PHOTOGRAPHY-TIPS-FOR-BEGINNERS-USING-DIGITAL-35MM-FILM.jpg?format=1500w
-  media:
-  - link: http://static1.squarespace.com/static/55f2abdce4b00eb5577dae31/t/66bdfd850a182e1b86c544e2/1723727242253/10-SURF-PHOTOGRAPHY-TIPS-FOR-BEGINNERS-USING-DIGITAL-35MM-FILM.jpg?format=1500w
-    type: image
-  tags: []
-  important: true
-  reminder:
-    date:
-  removed: false
-  created: '2024-08-19T07:54:14.483Z'
-  collection:
-    "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  highlights: []
-  lastUpdate: '2024-08-19T07:54:35.451Z'
-  domain: karlmackieshop.com
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 838080147
-  collectionId: 37136905
   parsed: {}
 - _id: 832449681
   link: https://www.surfsession.com/actu/edouard-delpero-et-damien-castera-explorent-la-baja-california/
@@ -34256,6 +34253,38 @@
   important: true
   collectionId: 37456415
   parsed: {}
+- _id: 645601165
+  link: https://lookingsideways.substack.com/p/easkey-brittons-5-things-to-do-for-the-ocean
+  excerpt: ''
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F576f45c6-58e8-4387-8cec-b50c018812fe_638x634.jpeg
+  media:
+  - type: image
+    link: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F576f45c6-58e8-4387-8cec-b50c018812fe_638x634.jpeg
+  tags: []
+  removed: false
+  created: '2023-01-26T19:46:08.599Z'
+  collection:
+    "$ref": collections
+    "$id": 37456415
+    oid: 37456415
+  highlights: []
+  lastUpdate: '2023-12-04T11:44:11.477Z'
+  domain: lookingsideways.substack.com
+  title: 'Easkey Britton: 5 Things To Do For The Ocean'
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 645601165
+  important: true
+  collectionId: 37456415
+  parsed: {}
 - _id: 645601164
   link: https://www.lesothers.com/peche-saumon-alaska
   excerpt: ''
@@ -35028,38 +35057,6 @@
     name: bonjouryannick
     email: ''
   sort: 645601141
-  important: true
-  collectionId: 37456415
-  parsed: {}
-- _id: 645601140
-  link: https://www.fieldmag.com/articles/nagano-forest-bathing-cabin-hiroshi-nakamura-nap-architects
-  excerpt: ''
-  note: ''
-  type: article
-  user:
-    "$ref": users
-    "$id": 1617030
-  cover: http://images.ctfassets.net/r7p9m4b1iqbp/11dm3F8DErgVcJfO4KSvZO/a67bfd1e724e43aff42345862c14bef9/Cockpit-Cabin-Hiroshi-Nakamura-NAP-1.jpg?w=1000
-  media:
-  - type: image
-    link: http://images.ctfassets.net/r7p9m4b1iqbp/11dm3F8DErgVcJfO4KSvZO/a67bfd1e724e43aff42345862c14bef9/Cockpit-Cabin-Hiroshi-Nakamura-NAP-1.jpg?w=1000
-  tags: []
-  removed: false
-  created: '2023-01-26T19:45:51.307Z'
-  collection:
-    "$ref": collections
-    "$id": 37456415
-    oid: 37456415
-  highlights: []
-  lastUpdate: '2023-12-04T11:44:11.477Z'
-  domain: fieldmag.com
-  title: This Modest Mountain Cabin Embraces Forest Bathing
-  creatorRef:
-    _id: 1617030
-    avatar: ''
-    name: bonjouryannick
-    email: ''
-  sort: 645601140
   important: true
   collectionId: 37456415
   parsed: {}
