@@ -1,4 +1,42 @@
 ---
+- _id: 1518844500
+  link: https://www.youtube.com/watch?v=zFS29bUVKnE
+  title: Everything This Pro Photographer Packs to Shoot Surfing in Hawaii
+  excerpt: 'Watch Ben''s latest episode of Type 2 Fun: https://bit.ly/4plROsp Ben
+    Ono is a photographer and adventurer from Hawaii and a longtime friend of Huckberry.
+    Las...'
+  note: 'Don''t cramp
+
+    '
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/zFS29bUVKnE/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/zFS29bUVKnE/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-12-31T13:34:22.679Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2025-12-31T13:34:29.421Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1518844500
+  collectionId: -1
+  parsed: {}
 - _id: 1494770139
   link: https://www.youtube.com/watch?v=ggC60RheNKk&list=WL&index=16
   title: 'Inside Johnny Cash’s Cabin and Recording Studio | Huckberry Homes: Cash
