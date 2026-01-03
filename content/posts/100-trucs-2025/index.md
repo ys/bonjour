@@ -11,7 +11,7 @@ J'ai encore oublié d'écrire plein de choses cette année. Mais c'est pas grave
 
 1. S’endormir contre sa peau
 2. Cuire la choucroute du premier janvier
-3. Surfer la gauche de Toul An Ouch [redacted]
+3. Surfer la gauche de [redacted]
 4. Un nouveau tattoo de [Jeanne](https://instagram.com/lapislazuli.tattoo/)
 5. Voir Cloé se faire tatouer
 6. Aller surfer à Mogué avec Tom en plein hiver et croiser les copains
