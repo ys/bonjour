@@ -83,7 +83,11 @@
 },
 {{- else -}}
 {{- with $ogImage -}}
-"image": {{ if reflect.IsString . }}{{ . | absURL | jsonify }}{{ else }}{{ . | jsonify }}{{ end }},
+{{- if eq (printf "%T" .) "string" -}}
+"image": {{ . | absURL | jsonify }},
+{{- else -}}
+"image": {{ . | jsonify }},
+{{- end -}}
 {{- end -}}
 {{- end -}}
 "offers": {
