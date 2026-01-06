@@ -1,5 +1,43 @@
 year: 2025
 books:
+  - title: À l'ombre des choses
+    subtitle: ''
+    author: Anatole Edouard Nicolo
+    date: '2025-12-24T10:34:36.058537Z'
+    read: '2025-12-24T10:34:44.944200Z'
+    rating: 4
+    isbn: '2702192017'
+    isbn13: '9782702192016'
+    pages: 104
+    cover_url: >-
+      https://books.google.com/books/publisher/content?id=Me0OEQAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70CavsNKzPBjuSG7eNyQsgkq9n7pl-reRyPTiPzuiGxBRipiSno8_yBzhc6SJ-gdDGrkrbB8fZWOdCYGACiL9fmBGZ2U1pJLLILLYWq8aPiHvyXyIqqgRRy82T77Z1inN06y60Z&source=gbs_api
+    reading: false
+    url: https://www.italictype.com/api/books/5kY4798/
+  - title: Les éphémères
+    subtitle: ''
+    author: Andrew O'Hagan
+    date: '2025-12-24T10:33:38.645941Z'
+    read: '2025-12-24T10:33:49.880699Z'
+    rating: 5
+    isbn: ''
+    isbn13: '9791041423804'
+    pages: 307
+    cover_url: https://www.italictype.com/static/images/bookcover-not-found.png
+    reading: false
+    url: https://www.italictype.com/api/books/v1PRr45/
+  - title: On Muscle
+    subtitle: The Stuff That Moves Us and Why It Matters
+    author: Bonnie Tsui
+    date: '2025-12-23T21:26:42.555457Z'
+    read: '2025-12-23T21:26:54.398150Z'
+    rating: 3
+    isbn: '1643757296'
+    isbn13: '9781643757292'
+    pages: 195
+    cover_url: >-
+      https://books.google.com/books/publisher/content?id=OfMeEQAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73y6OH_K-XcwSF8D9EJqL8ZFaeHCYsdoI_sy2LmWyRmvxPB0NQ429uFBq1FdOZ3eiKgjygYE-yqYyS-KXdEXix-SqdTUtXixk6d1r6MzRGEX6QSikp1aYZQMuhR2lR8AxVWM_4D&source=gbs_api
+    reading: false
+    url: https://www.italictype.com/api/books/5bLgXG8/
   - title: Welcome to Paradise, Now Go to Hell
     subtitle: A True Story of Violence, Corruption, and the Soul of Surfing
     author: Chas Smith
