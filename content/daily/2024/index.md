@@ -7,7 +7,7 @@ skip: "cover.png"
 slug: "2024"
 menu:
   daily:
-    weight: 2
+    weight: 10
 linktitle: "2024"
 type: "photos"
 ---
