@@ -24,10 +24,10 @@
   created: '2025-12-31T13:34:22.679Z'
   collection:
     "$ref": collections
-    "$id": -1
-    oid: -1
+    "$id": 37136905
+    oid: 37136905
   highlights: []
-  lastUpdate: '2025-12-31T13:34:29.421Z'
+  lastUpdate: '2026-01-08T08:01:54.942Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
@@ -35,7 +35,7 @@
     name: bonjouryannick
     email: ''
   sort: 1518844500
-  collectionId: -1
+  collectionId: 37136905
   parsed: {}
 - _id: 1494770139
   link: https://www.youtube.com/watch?v=ggC60RheNKk&list=WL&index=16
@@ -60,10 +60,10 @@
   created: '2025-12-18T08:54:51.462Z'
   collection:
     "$ref": collections
-    "$id": -1
-    oid: -1
+    "$id": 37679987
+    oid: 37679987
   highlights: []
-  lastUpdate: '2025-12-18T08:55:00.600Z'
+  lastUpdate: '2026-01-08T08:02:02.806Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
@@ -71,7 +71,78 @@
     name: bonjouryannick
     email: ''
   sort: 1494770139
-  collectionId: -1
+  collectionId: 37679987
+  parsed: {}
+- _id: 1494756985
+  link: https://www.youtube.com/watch?v=s9xZM4ua7FM
+  title: How a Japanese Family of Five Live in Their Small Open Air Home, Tokyo 57sqm/613sqft
+  excerpt: Give the gift of a 4-issue NTS Sub Club subscription this Christmas — four
+    issues, delivered quarterly https://www.nts-store.com/products/nts-magazine-4-issu...
+  note: 'I keep coming back to this home... I love it '
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/s9xZM4ua7FM/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/s9xZM4ua7FM/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-12-18T08:25:04.920Z'
+  collection:
+    "$ref": collections
+    "$id": 37136914
+    oid: 37136914
+  highlights: []
+  lastUpdate: '2026-01-08T08:02:31.074Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1494756985
+  collectionId: 37136914
+  parsed: {}
+- _id: 1485176197
+  link: https://www.youtube.com/watch?v=dut1q5cMAKc
+  title: Pond | Longboard Surf Film by Cameron Staunton feat. Izzy Henshall in Australia
+  excerpt: 'Pond: “a small body of still water formed naturally or by artificial means”
+    - pretty much sums up what it looked like every surf. Due to our setting out to
+    s...'
+  note: 'Long boards, long waves and an interesting colorimetry '
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/dut1q5cMAKc/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/dut1q5cMAKc/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-12-12T09:12:12.978Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2026-01-08T08:02:40.774Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1518844501
+  collectionId: 37136905
   parsed: {}
 - _id: 1468338171
   link: https://www.youtube.com/watch?v=9PxaPNHo0-8
@@ -95,18 +166,18 @@
   created: '2025-12-02T09:44:41.999Z'
   collection:
     "$ref": collections
-    "$id": -1
-    oid: -1
+    "$id": 37136905
+    oid: 37136905
   highlights: []
-  lastUpdate: '2025-12-02T09:44:56.360Z'
+  lastUpdate: '2026-01-08T08:02:52.119Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1468338171
-  collectionId: -1
+  sort: 1518844502
+  collectionId: 37136905
   parsed: {}
 - _id: 1468260128
   link: https://www.youtube.com/watch?v=GimHXc3zlEE
@@ -130,18 +201,18 @@
   created: '2025-12-02T09:16:59.223Z'
   collection:
     "$ref": collections
-    "$id": -1
-    oid: -1
+    "$id": 37136905
+    oid: 37136905
   highlights: []
-  lastUpdate: '2025-12-02T09:17:11.901Z'
+  lastUpdate: '2026-01-08T08:02:58.737Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1468260128
-  collectionId: -1
+  sort: 1518844503
+  collectionId: 37136905
   parsed: {}
 - _id: 1461357791
   link: https://www.youtube.com/watch?v=lkS0-AR7aFM
@@ -165,10 +236,10 @@
   created: '2025-11-29T20:23:20.416Z'
   collection:
     "$ref": collections
-    "$id": -1
-    oid: -1
+    "$id": 37459360
+    oid: 37459360
   highlights: []
-  lastUpdate: '2025-11-29T20:23:21.544Z'
+  lastUpdate: '2026-01-08T08:03:03.588Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
@@ -176,7 +247,7 @@
     name: bonjouryannick
     email: ''
   sort: 1461357791
-  collectionId: -1
+  collectionId: 37459360
   parsed: {}
 - _id: 1461317420
   link: https://www.youtube.com/watch?v=IESveEMI1RE
@@ -201,10 +272,10 @@
   created: '2025-11-29T19:55:30.621Z'
   collection:
     "$ref": collections
-    "$id": -1
-    oid: -1
+    "$id": 37459371
+    oid: 37459371
   highlights: []
-  lastUpdate: '2025-11-29T19:55:31.866Z'
+  lastUpdate: '2026-01-08T08:03:08.155Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
@@ -212,7 +283,7 @@
     name: bonjouryannick
     email: ''
   sort: 1461317420
-  collectionId: -1
+  collectionId: 37459371
   parsed: {}
 - _id: 1437697471
   link: https://www.youtube.com/watch?v=HcBpo7iVUak
@@ -236,18 +307,18 @@
   created: '2025-11-17T20:11:47.306Z'
   collection:
     "$ref": collections
-    "$id": -1
-    oid: -1
+    "$id": 37679987
+    oid: 37679987
   highlights: []
-  lastUpdate: '2025-11-17T20:12:11.796Z'
+  lastUpdate: '2026-01-08T08:03:32.545Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1437697471
-  collectionId: -1
+  sort: 1494770140
+  collectionId: 37679987
   parsed: {}
 - _id: 1433036837
   link: https://www.youtube.com/watch?v=yf4OjpcGRhc
@@ -274,18 +345,18 @@
   created: '2025-11-14T09:47:34.371Z'
   collection:
     "$ref": collections
-    "$id": -1
-    oid: -1
+    "$id": 37679987
+    oid: 37679987
   highlights: []
-  lastUpdate: '2025-11-14T09:47:47.435Z'
+  lastUpdate: '2026-01-08T08:03:49.155Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1433036837
-  collectionId: -1
+  sort: 1494770141
+  collectionId: 37679987
   parsed: {}
 - _id: 1431918868
   link: https://youtube.com/watch?v=7odWkvEFPzc&si=F7EMW1BKzUYszYFx
@@ -382,17 +453,17 @@
   created: '2025-10-04T12:45:34.898Z'
   collection:
     "$ref": collections
-    "$id": -1
-    oid: -1
-  lastUpdate: '2025-10-04T12:45:45.314Z'
+    "$id": 37136905
+    oid: 37136905
+  lastUpdate: '2026-01-08T08:04:02.354Z'
   domain: surfrepotes.fr
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1369554469
-  collectionId: -1
+  sort: 1518844504
+  collectionId: 37136905
   parsed: {}
 - _id: 1357577714
   link: https://www.youtube.com/watch?v=GDQ_F8yIRQ4&list=WL&index=2
@@ -416,18 +487,18 @@
   created: '2025-09-25T11:54:14.356Z'
   collection:
     "$ref": collections
-    "$id": -1
-    oid: -1
+    "$id": 37459360
+    oid: 37459360
   highlights: []
-  lastUpdate: '2025-09-25T11:54:27.335Z'
+  lastUpdate: '2026-01-08T08:04:07.316Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1357577714
-  collectionId: -1
+  sort: 1461357792
+  collectionId: 37459360
   parsed: {}
 - _id: 1353497317
   link: https://www.youtube.com/watch?v=XtIRrHmNUZA
@@ -492,20 +563,20 @@
     creatorRef: 1617030
     _id: 68d10f0f6eb36f1e770f3a6a
   created: '2025-09-22T08:55:43.572Z'
-  lastUpdate: '2025-09-22T08:55:53.589Z'
+  lastUpdate: '2026-01-08T08:04:16.346Z'
   domain: youtube.com
   collection:
     "$ref": collections
-    "$id": -1
-    oid: -1
+    "$id": 37136914
+    oid: 37136914
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1353208401
+  sort: 1494756986
   important: true
-  collectionId: -1
+  collectionId: 37136914
   parsed: {}
 - _id: 1351830132
   link: https://www.youtube.com/watch?v=uA1zhlQj6pA
@@ -529,18 +600,18 @@
   created: '2025-09-21T07:40:07.236Z'
   collection:
     "$ref": collections
-    "$id": -1
-    oid: -1
+    "$id": 37136905
+    oid: 37136905
   highlights: []
-  lastUpdate: '2025-09-21T07:40:19.160Z'
+  lastUpdate: '2026-01-08T08:04:24.671Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1351830132
-  collectionId: -1
+  sort: 1518844505
+  collectionId: 37136905
   parsed: {}
 - _id: 1349720324
   link: https://www.youtube.com/watch?v=VH1hHfOqEqc
@@ -564,18 +635,18 @@
   created: '2025-09-19T20:01:56.996Z'
   collection:
     "$ref": collections
-    "$id": -1
-    oid: -1
+    "$id": 37459360
+    oid: 37459360
   highlights: []
-  lastUpdate: '2025-09-19T20:01:57.809Z'
+  lastUpdate: '2026-01-08T08:04:29.505Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1349720324
-  collectionId: -1
+  sort: 1461357793
+  collectionId: 37459360
   parsed: {}
 - _id: 1335733817
   link: https://www.youtube.com/watch?v=KjKr4IawndA&list=WL&index=13
@@ -600,18 +671,18 @@
   created: '2025-09-12T12:07:04.868Z'
   collection:
     "$ref": collections
-    "$id": -1
-    oid: -1
+    "$id": 37459360
+    oid: 37459360
   highlights: []
-  lastUpdate: '2025-09-12T12:07:25.010Z'
+  lastUpdate: '2026-01-08T08:04:35.738Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1335733817
-  collectionId: -1
+  sort: 1461357794
+  collectionId: 37459360
   parsed: {}
 - _id: 1335072419
   link: https://youtube.com/watch?v=4MFKkATK2Hs&si=5YbpNxMDUs8hqK4D
@@ -635,17 +706,17 @@
   created: '2025-09-11T18:46:50.363Z'
   collection:
     "$ref": collections
-    "$id": -1
-    oid: -1
-  lastUpdate: '2025-09-11T18:46:55.606Z'
+    "$id": 37136905
+    oid: 37136905
+  lastUpdate: '2026-01-08T08:04:40.103Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1335072419
-  collectionId: -1
+  sort: 1518844506
+  collectionId: 37136905
   parsed: {}
 - _id: 1326277630
   link: https://lawsonchapman.substack.com/p/pursuit-of-the-ordinary
@@ -670,9 +741,9 @@
   created: '2025-09-06T06:12:40.088Z'
   collection:
     "$ref": collections
-    "$id": -1
-    oid: -1
-  lastUpdate: '2025-09-06T06:13:35.991Z'
+    "$id": 37603939
+    oid: 37603939
+  lastUpdate: '2026-01-08T08:04:48.642Z'
   domain: lawsonchapman.substack.com
   creatorRef:
     _id: 1617030
@@ -680,7 +751,7 @@
     name: bonjouryannick
     email: ''
   sort: 1326277630
-  collectionId: -1
+  collectionId: 37603939
   parsed: {}
 - _id: 1324603859
   link: https://youtube.com/watch?v=j29tGv3d53A&si=ZXeYbPwNY4mBWbhu
@@ -704,17 +775,17 @@
   created: '2025-09-04T12:32:06.578Z'
   collection:
     "$ref": collections
-    "$id": -1
-    oid: -1
-  lastUpdate: '2025-09-04T12:32:21.288Z'
+    "$id": 37136905
+    oid: 37136905
+  lastUpdate: '2026-01-08T08:04:53.306Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1324603859
-  collectionId: -1
+  sort: 1518844507
+  collectionId: 37136905
   parsed: {}
 - _id: 1324379131
   link: https://www.youtube.com/watch?v=shLzWTecmpM
@@ -1162,10 +1233,10 @@
   created: '2025-06-06T11:58:04.249Z'
   collection:
     "$ref": collections
-    "$id": -1
-    oid: -1
+    "$id": 37679925
+    oid: 37679925
   highlights: []
-  lastUpdate: '2025-06-06T11:58:04.819Z'
+  lastUpdate: '2026-01-08T08:05:00.551Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
@@ -1173,7 +1244,7 @@
     name: bonjouryannick
     email: ''
   sort: 1141566683
-  collectionId: -1
+  collectionId: 37679925
   parsed: {}
 - _id: 1141304126
   link: https://www.youtube.com/watch?v=eUlmGYon5mk&list=PLjHRKTS-Q5-CeCo66kFGivBMF8qB8orPh&index=25&t=22s
@@ -1199,18 +1270,18 @@
   created: '2025-06-06T11:31:28.428Z'
   collection:
     "$ref": collections
-    "$id": -1
-    oid: -1
+    "$id": 37679925
+    oid: 37679925
   highlights: []
-  lastUpdate: '2025-06-06T11:31:44.790Z'
+  lastUpdate: '2026-01-08T08:05:04.606Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1141304126
-  collectionId: -1
+  sort: 1141566684
+  collectionId: 37679925
   parsed: {}
 - _id: 1139064411
   link: https://youtube.com/watch?v=jdJkJ7cZdkI&si=CSKk65B9TOfmtC9c
@@ -1235,17 +1306,17 @@
   created: '2025-06-05T12:10:57.862Z'
   collection:
     "$ref": collections
-    "$id": -1
-    oid: -1
-  lastUpdate: '2025-06-05T12:11:14.431Z'
+    "$id": 37679925
+    oid: 37679925
+  lastUpdate: '2026-01-08T08:05:10.570Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1139064411
-  collectionId: -1
+  sort: 1141566685
+  collectionId: 37679925
   parsed: {}
 - _id: 1137424788
   link: https://www.youtube.com/watch?v=XfJkMTVWu3U
@@ -1270,18 +1341,18 @@
   created: '2025-06-04T18:56:25.870Z'
   collection:
     "$ref": collections
-    "$id": -1
-    oid: -1
+    "$id": 37679987
+    oid: 37679987
   highlights: []
-  lastUpdate: '2025-06-04T18:56:26.612Z'
+  lastUpdate: '2026-01-08T08:05:17.171Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1137424788
-  collectionId: -1
+  sort: 1494770142
+  collectionId: 37679987
   parsed: {}
 - _id: 1137384778
   link: https://www.youtube.com/watch?v=xWag5lNUlz4
@@ -1305,18 +1376,18 @@
   created: '2025-06-04T18:38:18.849Z'
   collection:
     "$ref": collections
-    "$id": -1
-    oid: -1
+    "$id": 37679987
+    oid: 37679987
   highlights: []
-  lastUpdate: '2025-06-04T18:38:29.124Z'
+  lastUpdate: '2026-01-08T08:05:26.218Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1137384778
-  collectionId: -1
+  sort: 1494770143
+  collectionId: 37679987
   parsed: {}
 - _id: 1132981285
   link: https://youtube.com/watch?v=gqxX2-yL0PE&si=6S5FsAU2FpOpPQ0D
@@ -1375,18 +1446,18 @@
   created: '2025-06-01T09:58:54.950Z'
   collection:
     "$ref": collections
-    "$id": -1
-    oid: -1
+    "$id": 37459371
+    oid: 37459371
   highlights: []
-  lastUpdate: '2025-06-01T09:59:03.517Z'
+  lastUpdate: '2026-01-08T08:05:28.477Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1126330339
-  collectionId: -1
+  sort: 1461317421
+  collectionId: 37459371
   parsed: {}
 - _id: 1081224744
   link: https://www.youtube.com/watch?v=0UVvnbid7uc
@@ -1622,18 +1693,18 @@
   created: '2025-05-01T08:39:52.566Z'
   collection:
     "$ref": collections
-    "$id": -1
-    oid: -1
+    "$id": 37679925
+    oid: 37679925
   highlights: []
-  lastUpdate: '2025-05-01T08:39:58.956Z'
+  lastUpdate: '2026-01-08T08:05:38.586Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1029345512
-  collectionId: -1
+  sort: 1141566686
+  collectionId: 37679925
   parsed: {}
 - _id: 1028037742
   link: https://youtube.com/watch?v=3tVtlco6VZY&si=9nDMvjVPeSggA3p0
@@ -1657,17 +1728,17 @@
   created: '2025-04-29T09:32:19.056Z'
   collection:
     "$ref": collections
-    "$id": -1
-    oid: -1
-  lastUpdate: '2025-04-29T09:41:26.485Z'
+    "$id": 37459360
+    oid: 37459360
+  lastUpdate: '2026-01-08T08:05:43.059Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1028037742
-  collectionId: -1
+  sort: 1461357795
+  collectionId: 37459360
   parsed: {}
 - _id: 1026996074
   link: https://www.youtube.com/watch?v=fr8ZTK980zY
@@ -1694,18 +1765,18 @@
   created: '2025-04-28T10:41:11.683Z'
   collection:
     "$ref": collections
-    "$id": -1
-    oid: -1
+    "$id": 37136905
+    oid: 37136905
   highlights: []
-  lastUpdate: '2025-04-28T10:41:24.925Z'
+  lastUpdate: '2026-01-08T08:05:47.540Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1026996074
-  collectionId: -1
+  sort: 1518844508
+  collectionId: 37136905
   parsed: {}
 - _id: 999371951
   link: https://youtube.com/watch?v=fmr_hhZ7RpE&si=VoHUiORiD6-wm4aL
