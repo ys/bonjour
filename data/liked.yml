@@ -1,4 +1,40 @@
 ---
+- _id: 1540583165
+  link: https://www.youtube.com/watch?v=Oj5eUuLGfWk&list=WL&index=2
+  title: A Dad, an Old El Camino, and a Coffee Business | Go West Ep. 1
+  excerpt: In Episode One of Go West, a short film series from Dad Day, we follow
+    Robert Huffman, founder of Camino Caffeino, a mobile coffee concept built out
+    of an ol...
+  note: Coffee from the back of a car...
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/Oj5eUuLGfWk/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/Oj5eUuLGfWk/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2026-01-13T08:40:48.869Z'
+  collection:
+    "$ref": collections
+    "$id": 37576903
+    oid: 37576903
+  highlights: []
+  lastUpdate: '2026-01-13T08:41:03.818Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1540583165
+  collectionId: 37576903
+  parsed: {}
 - _id: 1518844500
   link: https://www.youtube.com/watch?v=zFS29bUVKnE
   title: Everything This Pro Photographer Packs to Shoot Surfing in Hawaii
