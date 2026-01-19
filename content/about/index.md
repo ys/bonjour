@@ -19,7 +19,7 @@ When I am not coding stuff at work or for myself, you'll probably find me brewin
 
 We launched an amazing project with Cloé. You should follow [@douarenn](https://instagram.com/douarenn) or visit [douarenn.fr](https://douarenn.fr). This is our cabin, disconnected from the internets in the middle of Finistère, in a place called "les Monts d'Arrée". [Book it now!](https://checkout.lodgify.com/douarenn/fr/#/475377/)
 
-![me and my leica](me.webp "Photo by [Studio Payol](https://studiopayol.com)")
+![me and my leica](me.webp)
 
 
 This website has so much [more](/more) in it than what you see in the menu. 
