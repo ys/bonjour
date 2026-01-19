@@ -8,8 +8,8 @@ emoji: "🌞"
 grid: "cover / YS293652 | YS293653 | YS293654"
 currency: "EUR"
 price: 15
-soldout: true
-pricetag: "~~€15,00 EUR~~ SOLD OUT"
+soldout: false
+pricetag: "€15,00 EUR"
 price_id:  "price_1Rnem5FaA8Wpl3Ep9NfgxMra"
 shipping_rates:
   - name: "Free • We have to meet"
