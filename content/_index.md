@@ -22,7 +22,3 @@ resources:
   name: "cover"
 rows: 3
 ---
-
-I am a **photographer** based in Finistère, France.
-
-[**💌 Contact me**](mailto:hello@yannickschutz.com), I would love to hear more about your projects and work with you. 
