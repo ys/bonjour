@@ -5,8 +5,9 @@ date: 2025-07-22T00:00:20
 emoji: "🌞"
 grid: "cover"
 currency: "EUR"
+soldout: true
 price: 50  
-pricetag: "€50,00 EUR"
+pricetag: "~~€50,00 EUR~~ SOLD OUT"
 price_id:  "price_1SJDfaFaA8Wpl3Ep6Cli8Y6r"
 shipping_rates:
   - name: "Free • We have to meet"
