@@ -20,5 +20,5 @@ resources:
   name: "card"
 - src: "cover.webp"
   name: "cover"
-rows: 3
+rows: 5
 ---
