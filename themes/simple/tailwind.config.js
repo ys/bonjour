@@ -5,6 +5,7 @@ fs = require('fs');
 const classes = JSON.parse(fs.readFileSync("./hugo_stats.json"))["htmlElements"]["classes"]
 
 module.exports = {
+  darkMode: false,
   content: {
     files: [
       './themes/simple/layouts/**/*.html',
