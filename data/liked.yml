@@ -1,4 +1,37 @@
 ---
+- _id: 1556667619
+  link: https://www.surfersjournal.com/editorial/james-nestor/
+  title: James Nestor - The Surfers Journal
+  excerpt: James Nestor on the fundamentals of breathwork, writing books, and Ocean
+    Beach.
+  note: Read his book! I love to hear his OB life too
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://media.surfersjournal.com/wp-content/uploads/2025/12/18163003/EPISODE_82_JAMES_NESTOR_IMG_5328-1.jpg
+  media:
+  - link: https://media.surfersjournal.com/wp-content/uploads/2025/12/18163003/EPISODE_82_JAMES_NESTOR_IMG_5328-1.jpg
+    type: image
+  tags: []
+  highlights: []
+  important: true
+  removed: false
+  created: '2026-01-22T10:16:16.546Z'
+  collection:
+    "$ref": collections
+    "$id": 36103677
+    oid: 36103677
+  lastUpdate: '2026-01-22T10:16:48.951Z'
+  domain: surfersjournal.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1556667619
+  collectionId: 36103677
+  parsed: {}
 - _id: 1540583165
   link: https://www.youtube.com/watch?v=Oj5eUuLGfWk&list=WL&index=2
   title: A Dad, an Old El Camino, and a Coffee Business | Go West Ep. 1
