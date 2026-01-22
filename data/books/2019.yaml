@@ -1,314 +1,420 @@
 year: 2019
 books:
-- title: "In Waves"
-  author: "A.J. Dungo"
-  isbn: "1910620300"
-  isbn13: "9781910620304"
-  rating: 5
-  pages: 376
-  date: "2019-12-15"
-  read: "2019-12-15"
-- title: "Digital Minimalism"
-  author: "Cal Newport"
-  isbn: "0525536515"
-  isbn13: "9780525536512"
-  rating: 5
-  pages: 304
-  date: "2019-12-15"
-  read: "2019-12-15"
-- title: "The Salt Path"
-  author: "Raynor Winn"
-  isbn: "0241349648"
-  isbn13: "9780241349649"
-  rating: 4
-  pages: 288
-  date: "2019-12-12"
-  read: "2020-02-02"
-- title: "The Art of Frugal Hedonism"
-  author: "Annie Raser-Rowland"
-  isbn: "0994392818"
-  isbn13: "9780994392817"
-  rating: 3
-  pages: 256
-  date: "2019-12-09"
-  read: "2019-12-12"
-- title: "Stillness Is the Key"
-  author: "Ryan Holiday"
-  isbn: "0525538585"
-  isbn13: "9780525538585"
-  rating: 4
-  pages: 288
-  date: "2019-12-08"
-  read: "2019-12-08"
-- title: "Un Fou Ordinaire"
-  author: "Edward Abbey"
-  isbn: "2351780213"
-  isbn13: "9782351780213"
-  rating: 5
-  pages: 247
-  date: "2019-12-01"
-  read: "2019-12-01"
-- title: "You Are a Badass"
-  author: "Jen Sincero"
-  isbn: "0762447699"
-  isbn13: "9780762447695"
-  rating: 3
-  pages: 244
-  date: "2019-11-20"
-  read: "2019-11-20"
-- title: "La Panthère des neiges"
-  author: "Sylvain Tesson"
-  isbn: "2072822327"
-  isbn13: "9782072822322"
-  rating: 4
-  pages: 176
-  date: "2019-11-04"
-  read: "2019-11-04"
-- title: "Spirou - l'espoir malgré tout"
-  author: "Émile Bravo"
-  isbn: ""
-  isbn13: "9791034731626"
-  rating: 5
-  pages: 92
-  date: "2019-10-09"
-  read: "2019-10-09"
-- title: "Outpost"
-  author: "Dan Richards"
-  isbn: "1786891557"
-  isbn13: "9781786891556"
-  rating: 4
-  pages: 336
-  date: "2019-10-02"
-  read: "2019-10-18"
-- title: "Algues vertes, l'histoire interdite"
-  author: "Inès Léraud"
-  isbn: "241301036X"
-  isbn13: "9782413010364"
-  rating: 5
-  pages: 159
-  date: "2019-09-19"
-  read: "2019-09-19"
-- title: "lettres pour le monde sauvage"
-  author: "Wallace Stegner"
-  isbn: ""
-  isbn13: ""
-  rating: 5
-  pages: 
-  date: "2019-09-16"
-  read: "2019-10-02"
-- title: "Un hiver en Bretagne"
-  author: "Michel Le Bris"
-  isbn: "2020310163"
-  isbn13: "9782020310161"
-  rating: 3
-  pages: 191
-  date: "2019-09-16"
-  read: "2019-09-16"
-- title: "My Midsummer Morning"
-  author: "Alastair Humphreys"
-  isbn: "0008331820"
-  isbn13: "9780008331825"
-  rating: 4
-  pages: 272
-  date: "2019-09-06"
-  read: "2019-09-06"
-- title: "Sans jamais atteindre le sommet. Voyage dans l'Himalaya"
-  author: "Paolo Cognetti"
-  isbn: ""
-  isbn13: "9782234087545"
-  rating: 4
-  pages: 176
-  date: "2019-08-21"
-  read: "2019-08-21"
-- title: "Desert Solitaire"
-  author: "Edward Abbey"
-  isbn: "0345326490"
-  isbn13: "9780345326492"
-  rating: 5
-  pages: 337
-  date: "2019-08-21"
-  read: "2019-08-08"
-- title: "Ré-ensauvageons la France"
-  author: "Gilbert Cochet"
-  isbn: "233009616X"
-  isbn13: "9782330096168"
-  rating: 4
-  pages: 176
-  date: "2019-07-14"
-  read: "2019-07-14"
-- title: "This Is Not A Drill"
-  author: "Extinction Rebellion"
-  isbn: "0141991445"
-  isbn13: "9780141991443"
-  rating: 4
-  pages: 208
-  date: "2019-06-20"
-  read: "2019-06-24"
-- title: "Le phare, voyage immobile"
-  author: "Paolo Rumiz"
-  isbn: "2842305272"
-  isbn13: "9782842305277"
-  rating: 4
-  pages: 163
-  date: "2019-06-19"
-  read: "2019-06-19"
-- title: "Sur les chemins noirs"
-  author: "Sylvain Tesson"
-  isbn: ""
-  isbn13: ""
-  rating: 3
-  pages: 144
-  date: "2019-05-25"
-  read: "2019-06-13"
-- title: "Do Lead"
-  author: "Les McKeown"
-  isbn: "1907974172"
-  isbn13: "9781907974175"
-  rating: 3
-  pages: 112
-  date: "2019-05-24"
-  read: "2019-05-24"
-- title: "How to Do Nothing"
-  author: "Jenny Odell"
-  isbn: "1612197493"
-  isbn13: "9781612197494"
-  rating: 5
-  pages: 225
-  date: "2019-05-19"
-  read: "2020-04-12"
-- title: "Do Story"
-  author: "Bobette Buster"
-  isbn: "1907974059"
-  isbn13: "9781907974052"
-  rating: 4
-  pages: 112
-  date: "2019-05-19"
-  read: "2019-05-19"
-- title: "Do Pause"
-  author: "Robert Poynton"
-  isbn: "1907974636"
-  isbn13: "9781907974632"
-  rating: 4
-  pages: 128
-  date: "2019-05-09"
-  read: "2019-05-09"
-- title: "Famille en transition écologique"
-  author: "Jérémie Pichon"
-  isbn: ""
-  isbn13: ""
-  rating: 3
-  pages: 232
-  date: "2019-05-01"
-  read: "2019-05-01"
-- title: "Rewild Yourself"
-  author: "Simon Barnes"
-  isbn: "1471175405"
-  isbn13: "9781471175404"
-  rating: 4
-  pages: 198
-  date: "2019-04-24"
-  read: "2019-04-29"
-- title: "50 Shades of the USA"
-  author: "Anna McNuff"
-  isbn: "1999765818"
-  isbn13: "9781999765811"
-  rating: 4
-  pages: 486
-  date: "2019-04-24"
-  read: "2019-04-24"
-- title: "Le retour à la terre #6"
-  author: "Manu Larcenet"
-  isbn: "2205067664"
-  isbn13: "9782205067668"
-  rating: 4
-  pages: 46
-  date: "2019-03-31"
-  read: "2019-03-31"
-- title: "Berezina"
-  author: "Sylvain Tesson"
-  isbn: "2352210895"
-  isbn13: "9782352210894"
-  rating: 3
-  pages: 199
-  date: "2019-03-27"
-  read: "2019-03-27"
-- title: "The Kindness of Strangers"
-  author: "Fearghal O'Nuallain"
-  isbn: ""
-  isbn13: ""
-  rating: 3
-  pages: 278
-  date: "2019-03-10"
-  read: "2019-03-18"
-- title: "L'Arabe du futur 3"
-  author: "Riad Sattouf"
-  isbn: "2370730943"
-  isbn13: "9782370730947"
-  rating: 4
-  pages: 150
-  date: "2019-03-09"
-  read: "2019-03-09"
-- title: "L'Arabe du futur 4"
-  author: "Riad Sattouf"
-  isbn: "2370731257"
-  isbn13: "9782370731258"
-  rating: 4
-  pages: 280
-  date: "2019-03-09"
-  read: "2019-03-09"
-- title: "En Arrée"
-  author: "Marc Pennec"
-  isbn: ""
-  isbn13: "9782369450627"
-  rating: 4
-  pages: 101
-  date: "2019-03-06"
-  read: "2019-03-06"
-- title: "Walden"
-  author: "Henry David Thoreau"
-  isbn: ""
-  isbn13: ""
-  rating: 3
-  pages: 352
-  date: "2019-02-24"
-  read: "2019-03-05"
-- title: "Internet ou le retour à la bougie"
-  author: "Hervé Krief"
-  isbn: ""
-  isbn13: ""
-  rating: 3
-  pages: 96
-  date: "2019-02-23"
-  read: "2019-02-23"
-- title: "Désobéir et grandir: vers une société de décroissance"
-  author: "Paul Ariès"
-  isbn: "2923165470"
-  isbn13: "9782923165479"
-  rating: 2
-  pages: 211
-  date: "2019-02-14"
-  read: "2019-02-14"
-- title: "Petit manuel de résistance contemporaine"
-  author: "Cyril Dion"
-  isbn: ""
-  isbn13: ""
-  rating: 4
-  pages: 96
-  date: "2019-01-19"
-  read: "2019-01-29"
-- title: "Atomic Habits"
-  author: "James Clear"
-  isbn: "1847941834"
-  isbn13: "978-1847941831"
-  rating: 5
-  pages: 319
-  date: "2019-01-11"
-  read: "2019-01-11"
-- title: "Marcher"
-  author: "Henry David Thoreau"
-  isbn: ""
-  isbn13: "9782360543915"
-  rating: 4
-  pages: 96
-  date: "2019-01-10"
-  read: "2019-01-10"
+  - title: "How to Do Nothing: Resisting the Attention Economy"
+    author: Jenny Odell
+    subtitle: ""
+    date: 2019-05-19
+    read: 2019-05-19
+    rating: 4
+    pages: 232
+    isbn: "1612197493"
+    isbn13: "9781612197494"
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550724373l/42771901._SX318_SY475_.jpg
+    reading: false
+    url: >-
+      https://www.goodreads.com/review/show/8288043995?utm_medium=api&utm_source=rss
+  - title: Stillness Is the Key
+    author: Ryan Holiday
+    subtitle: ""
+    date: 2019-12-08
+    read: 2019-12-08
+    rating: 4
+    pages: 288
+    isbn: "0525538585"
+    isbn13: "9780525538585"
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566883842l/43582733.jpg
+    reading: false
+    url: >-
+      https://www.goodreads.com/review/show/8288043640?utm_medium=api&utm_source=rss
+  - title: "Digital Minimalism: Choosing a Focused Life in a Noisy World"
+    author: Cal Newport
+    subtitle: ""
+    date: 2019-12-15
+    read: 2019-12-15
+    rating: 5
+    pages: 284
+    isbn: "0525536515"
+    isbn13: "9780525536512"
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544192948l/40405444.jpg
+    reading: false
+    url: >-
+      https://www.goodreads.com/review/show/8288043597?utm_medium=api&utm_source=rss
+  - title: In Waves
+    author: A.J. Dungo
+    subtitle: ""
+    date: 2019-12-15
+    read: 2019-12-15
+    rating: 5
+    pages: 376
+    isbn: "1910620300"
+    isbn13: "9781910620304"
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566413487l/42133149._SX318_.jpg
+    reading: false
+    url: >-
+      https://www.goodreads.com/review/show/8288043571?utm_medium=api&utm_source=rss
+  - title: >-
+      The Art of Frugal Hedonism: A Guide to Spending Less While Enjoying
+      Everything More
+    author: Annie Raser-Rowland
+    subtitle: ""
+    date: 2019-12-12
+    read: 2019-12-12
+    rating: 4
+    pages: 256
+    isbn: "0994392818"
+    isbn13: "9780994392817"
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476696732l/30259572._SX318_.jpg
+    reading: false
+    url: >-
+      https://www.goodreads.com/review/show/8288043529?utm_medium=api&utm_source=rss
+  - title: >-
+      Atomic Habits: An Easy and Proven Way to Build Good Habits and Break Bad
+      Ones
+    author: James Clear
+    subtitle: ""
+    date: 2019-01-11
+    read: 2019-01-11
+    rating: 5
+    pages: 307
+    isbn: "0735211302"
+    isbn13: "9780735211308"
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545008679l/42411572._SY475_.jpg
+    reading: false
+    url: >-
+      https://www.goodreads.com/review/show/8288043497?utm_medium=api&utm_source=rss
+  - title: >-
+      You Are a Badass: How to Stop Doubting Your Greatness and Start Living an
+      Awesome Life
+    author: Jen Sincero
+    subtitle: ""
+    date: 2019-11-20
+    read: 2019-11-20
+    rating: 3
+    pages: 254
+    isbn: "0762447699"
+    isbn13: "9780762447695"
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351539051l/15843166._SY475_.jpg
+    reading: false
+    url: >-
+      https://www.goodreads.com/review/show/8288043463?utm_medium=api&utm_source=rss
+  - title: "Outpost: A Journey to the Wild Ends of the Earth"
+    author: Dan   Richards
+    subtitle: ""
+    date: 2019-10-18
+    read: 2019-10-18
+    rating: 4
+    pages: 336
+    isbn: "1786891557"
+    isbn13: "9781786891556"
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547379026l/43552762.jpg
+    reading: false
+    url: >-
+      https://www.goodreads.com/review/show/8288043434?utm_medium=api&utm_source=rss
+  - title: Where the Bluebird Sings to the Lemonade Springs
+    author: Wallace Stegner
+    subtitle: ""
+    date: 2019-10-02
+    read: 2019-10-02
+    rating: 5
+    pages: 256
+    isbn: "0140174028"
+    isbn13: "9780140174021"
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1189370771l/1862042.jpg
+    reading: false
+    url: >-
+      https://www.goodreads.com/review/show/8288043402?utm_medium=api&utm_source=rss
+  - title: Un hiver en Bretagne
+    author: Michel Le Bris
+    subtitle: ""
+    date: 2019-09-16
+    read: 2019-09-16
+    rating: 3
+    pages: 224
+    isbn: "2020310163"
+    isbn13: "9782020310161"
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552239247l/5260714._SY475_.jpg
+    reading: false
+    url: >-
+      https://www.goodreads.com/review/show/8288043351?utm_medium=api&utm_source=rss
+  - title: Documents Connected with the History of Ludlow, and the Lords Marchers
+    author: Robert-Henry Clive
+    subtitle: ""
+    date: 2019-01-10
+    read: 2019-01-10
+    rating: 4
+    pages: 388
+    isbn: "0344324192"
+    isbn13: "9780344324192"
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544284723l/43144344.jpg
+    reading: false
+    url: >-
+      https://www.goodreads.com/review/show/8288043319?utm_medium=api&utm_source=rss
+  - title: "My Midsummer Morning: Rediscovering a Life of Adventure"
+    author: Alastair Humphreys
+    subtitle: ""
+    date: 2019-09-06
+    read: 2019-09-06
+    rating: 5
+    pages: 272
+    isbn: "0008331820"
+    isbn13: "9780008331825"
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557235685l/43239368._SY475_.jpg
+    reading: false
+    url: >-
+      https://www.goodreads.com/review/show/8288043289?utm_medium=api&utm_source=rss
+  - title: Desert Solitaire
+    author: Edward Abbey
+    subtitle: ""
+    date: 2019-08-08
+    read: 2019-08-08
+    rating: 5
+    pages: 238
+    isbn: "0816510571"
+    isbn13: "9780816510573"
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312008370l/877316.jpg
+    reading: false
+    url: >-
+      https://www.goodreads.com/review/show/8288043262?utm_medium=api&utm_source=rss
+  - title: "Ré-ensauvageons la France : Plaidoyer pour une nature sauvage et libre"
+    author: Gilbert Cochet
+    subtitle: ""
+    date: 2019-07-14
+    read: 2019-07-14
+    rating: 4
+    pages: 176
+    isbn: 233009616X
+    isbn13: "9782330096168"
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572080611l/40737202._SY475_.jpg
+    reading: false
+    url: >-
+      https://www.goodreads.com/review/show/8288043221?utm_medium=api&utm_source=rss
+  - title: "This Is Not a Drill: An Extinction Rebellion Handbook"
+    author: Extinction Rebellion
+    subtitle: ""
+    date: 2019-06-24
+    read: 2019-06-24
+    rating: 5
+    pages: 208
+    isbn: "0141991445"
+    isbn13: "9780141991443"
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559314992l/45308227._SY475_.jpg
+    reading: false
+    url: >-
+      https://www.goodreads.com/review/show/8288043176?utm_medium=api&utm_source=rss
+  - title: "Darhan 2 : Les chemins de la guerre (French Edition)"
+    author: Sylvain Hotte
+    subtitle: ""
+    date: 2019-06-13
+    read: 2019-06-13
+    rating: 4
+    pages: 174
+    isbn: "2895496676"
+    isbn13: "9782895496670"
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1765811574l/245294424._SY475_.jpg
+    reading: false
+    url: >-
+      https://www.goodreads.com/review/show/8288043136?utm_medium=api&utm_source=rss
+  - title: >-
+      Do Lead: Share your vision. Inspire others. Achieve the impossible. (Do
+      Books, 9)
+    author: Les McKeown
+    subtitle: ""
+    date: 2019-05-24
+    read: 2019-05-24
+    rating: 5
+    pages: 112
+    isbn: "1907974172"
+    isbn13: "9781907974175"
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384159747l/18722365.jpg
+    reading: false
+    url: >-
+      https://www.goodreads.com/review/show/8288043096?utm_medium=api&utm_source=rss
+  - title: "Do/ Story/: How to Tell Your Story So the World Listens"
+    author: Bobette Buster
+    subtitle: ""
+    date: 2019-05-19
+    read: 2019-05-19
+    rating: 4
+    pages: 112
+    isbn: "1907974059"
+    isbn13: "9781907974052"
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1378950841l/18477436.jpg
+    reading: false
+    url: >-
+      https://www.goodreads.com/review/show/8288043058?utm_medium=api&utm_source=rss
+  - title: "Do Pause: You are not a To Do list. (Do Books, 19)"
+    author: Robert Poynton
+    subtitle: ""
+    date: 2019-05-09
+    read: 2019-05-09
+    rating: 4
+    pages: 128
+    isbn: "1907974636"
+    isbn13: "9781907974632"
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555113171l/42284142.jpg
+    reading: false
+    url: >-
+      https://www.goodreads.com/review/show/8288043019?utm_medium=api&utm_source=rss
+  - title: "Rewild Yourself: Making Nature More Visible in our Lives"
+    author: Simon Barnes
+    subtitle: ""
+    date: 2019-04-29
+    read: 2019-04-29
+    rating: 4
+    pages: 196
+    isbn: "1643132849"
+    isbn13: "9781643132846"
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569902392l/52150897._SX318_SY475_.jpg
+    reading: false
+    url: >-
+      https://www.goodreads.com/review/show/8288042980?utm_medium=api&utm_source=rss
+  - title: >-
+      50 Shades of the USA: One Woman's 11,000 Mile Cycling Adventure Through
+      Every State of America
+    author: Anna McNuff
+    subtitle: ""
+    date: 2019-04-24
+    read: 2019-04-24
+    rating: 5
+    pages: 484
+    isbn: "1999765818"
+    isbn13: "9781999765811"
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537238058l/41888215._SY475_.jpg
+    reading: false
+    url: >-
+      https://www.goodreads.com/review/show/8288042943?utm_medium=api&utm_source=rss
+  - title: "Berezina: From Moscow to Paris Following Napoleon’s Epic Fail"
+    author: Sylvain Tesson
+    subtitle: ""
+    date: 2019-03-27
+    read: 2019-03-27
+    rating: 4
+    pages: 224
+    isbn: 160945555X
+    isbn13: "9781609455552"
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569968273l/52189192._SX318_SY475_.jpg
+    reading: false
+    url: >-
+      https://www.goodreads.com/review/show/8288042857?utm_medium=api&utm_source=rss
+  - title: "The Kindness of Strangers: Travel Stories That Make Your Heart Grow"
+    author: Fearghal O&apos;Nuallain
+    subtitle: ""
+    date: 2019-03-18
+    read: 2019-03-18
+    rating: 4
+    pages: 320
+    isbn: "1786855313"
+    isbn13: "9781786855312"
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530096458l/40655093._SY475_.jpg
+    reading: false
+    url: >-
+      https://www.goodreads.com/review/show/8288042822?utm_medium=api&utm_source=rss
+  - title: >-
+      The Arab of the Future 4: A Graphic Memoir of a Childhood in the Middle
+      East, 1987-1992
+    author: Riad Sattouf
+    subtitle: ""
+    date: 2019-03-09
+    read: 2019-03-09
+    rating: 5
+    pages: 288
+    isbn: "1250150663"
+    isbn13: "9781250150660"
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554342301l/43565325.jpg
+    reading: false
+    url: >-
+      https://www.goodreads.com/review/show/8288042785?utm_medium=api&utm_source=rss
+  - title: "The Arab of the Future 3: A Childhood in the Middle East, 1985-1987"
+    author: Riad Sattouf
+    subtitle: ""
+    date: 2019-03-09
+    read: 2019-03-09
+    rating: 4
+    pages: 160
+    isbn: "1627793534"
+    isbn13: "9781627793537"
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523747522l/33911350.jpg
+    reading: false
+    url: >-
+      https://www.goodreads.com/review/show/8288042755?utm_medium=api&utm_source=rss
+  - title: Walden (Cosimo Classics)
+    author: Henry David Thoreau
+    subtitle: ""
+    date: 2019-03-05
+    read: 2019-03-05
+    rating: 3
+    pages: 226
+    isbn: "1605207314"
+    isbn13: "9781605207315"
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348666325l/7550258.jpg
+    reading: false
+    url: >-
+      https://www.goodreads.com/review/show/8288042714?utm_medium=api&utm_source=rss
+  - title: Big Sur
+    author: Jack Kerouac
+    subtitle: ""
+    date: 2019-02-09
+    read: 2019-02-09
+    rating: 4
+    pages: 177
+    isbn: "1101548819"
+    isbn13: "9781101548813"
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385276058l/18924650.jpg
+    reading: false
+    url: >-
+      https://www.goodreads.com/review/show/8288042679?utm_medium=api&utm_source=rss
+  - title: "Essentialism: The Disciplined Pursuit of Less"
+    author: Greg McKeown
+    subtitle: ""
+    date: 2019-01-21
+    read: 2019-01-21
+    rating: 4
+    pages: 260
+    isbn: "0804137382"
+    isbn13: "9780804137386"
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403165375l/18077875.jpg
+    reading: false
+    url: >-
+      https://www.goodreads.com/review/show/8288042637?utm_medium=api&utm_source=rss
+  - title: The Dharma Bums
+    author: Jack Kerouac
+    subtitle: ""
+    date: 2019-01-08
+    read: 2019-01-08
+    rating: 5
+    pages: 244
+    isbn: "0140042520"
+    isbn13: "9780140042528"
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549854683l/43912052.jpg
+    reading: false
+    url: >-
+      https://www.goodreads.com/review/show/8288042593?utm_medium=api&utm_source=rss

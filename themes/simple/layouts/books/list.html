@@ -5,14 +5,65 @@
 </div>
 
 <div class="max-w-prose mb-8">
-  {{ range sort .Site.Data.books "year" "desc" }}
+  {{/* Show currently reading books first */}}
+  {{ with .Site.Data.books.current }}
+    {{ if .books }}
+      <div class="py-8">
+        <header class="my-4 flex flex-row items-center">
+          <span class="font-sans">{{ partial "moon" .}}</span>
+          <h2 id="currently-reading" class="font-bold">{{ T "reading" }}</h2>
+          <span class="ml-1 font-sans text-md opacity-70"> • {{ len .books}}</span>
+        </header>
+        {{ $readingBooks := sort .books "date" "desc" }}
+        {{ range $readingBooks }}
+          {{ $color := "accent" }}
+          {{range first 1 (shuffle $.Site.Params.themeColors) }}
+            {{ $color = . }}
+          {{ end }}
+          {{ with .Params.color }}
+            {{ $color = . }}
+          {{ end }}
+          <article class="group">
+            <header class="bottom-4  flex flex-row justify-between place-items-center gap-2 p-2">
+              <h2 class="ellipsis break-all max-w-[60%] line-clamp-1 group-hover:text-crust/70 group-hover:dark:text-gray-100 text-crust dark:text-gray-100  no-underline ">{{ .title }}</h2>
+              <div class=" flex-grow "><div class=" mt-2 border-t border-dotted border-gray-800 dark:border-gray-100" ></div></div>
+              <h3 class="max-w-[30%] ellipsis break-all line-clamp-1 font-sans no-underline font-normal text-xs ">
+                <span class="group-hover:hidden visible">
+                {{.author}}
+                </span>
+                <span class="group-hover:block hidden">
+                  {{ if .reading }}
+                  {{ T "reading" }}
+                  {{ else }}
+                  {{ with .rating }}{{ strings.Repeat . "★" }}{{end}}
+                  {{ end }}
+                </span>
+              </h3>
+            </header>
+          </article>
+        {{ end }}
+      </div>
+    {{ end }}
+  {{ end }}
+
+  {{/* Show books by year */}}
+  {{ $booksData := slice }}
+  {{ range $key, $value := .Site.Data.books }}
+    {{ if $value.year }}
+      {{ $booksData = $booksData | append $value }}
+    {{ end }}
+  {{ end }}
+  {{ range sort $booksData "year" "desc" }}
   <div class="py-8">
     <header class="my-4 flex flex-row items-center">
       <span class="font-sans">{{ partial "moon" .}}</span>
       <h2 id="{{.year}}" class="font-bold">{{ .year }}</h2>
       <span class="ml-1 font-sans text-md opacity-70"> • {{ len .books}}</span>
     </header>
-    {{ range sort .books "date" "desc" }}
+    {{ $readingBooks := sort (where .books "read" "==" nil) "date" "desc" }}
+    {{ $readBooks := sort (where .books "read" "!=" nil) "read" "desc" }}
+    {{ $allBooks := append $readingBooks $readBooks }}
+    {{ range $allBooks }}
         {{ $color := "accent" }}
         {{range first 1 (shuffle $.Site.Params.themeColors) }}
           {{ $color = . }}

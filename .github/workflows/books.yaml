@@ -3,14 +3,16 @@ name: Books
 on:
   push:
     paths:
-      - .github/workflows/books.yml # Only run a new workflow every time this file (flat.yaml) file changes
-  workflow_dispatch: # Required even though this is currently empty
+      - .github/workflows/books.yaml # Only run a new workflow every time this file changes
+  workflow_dispatch: # Manual trigger
   schedule:
-    - cron: "*/30 * * * *" # Run this workflow every 5 minutes
+    - cron: "0 */6 * * *" # Run this workflow every 6 hours
 
 jobs:
   scheduled:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
@@ -18,26 +20,13 @@ jobs:
         uses: denoland/setup-deno@main
         with:
           deno-version: v1.x
-      - name: Get API token
-        id: get-api-token
+      - name: Fetch Goodreads data
         run: |
-          token=$(curl 'https://www.italictype.com/api/auth/jwt/create/' \
-          -X POST \
-          -H 'accept: application/json, text/plain, */*' \
-          -H 'content-type: application/json;charset=UTF-8' \
-          --data-raw '{"username":"yannick","password":"${{ secrets.ITALICTYPE_PASSWORD }}"}' | jq -r .access)
-          echo "::set-output name=italictype_token::${token}"
-      - name: Fetch ItalicType data
-        uses: githubocto/flat@v3
-        with:
-          http_url: "https://www.italictype.com/api/bookqueueitems/?queue=1"
-          downloaded_filename: data/italictype_current.json
-          authorization: "Bearer ${{ steps.get-api-token.outputs.italictype_token }}"
-          postprocess: flat/italictype_current.ts
-      - name: Fetch ItalicType data
-        uses: githubocto/flat@v3
-        with:
-          http_url: "https://www.italictype.com/api/bookqueueitems/?queue=2&limit=2000"
-          downloaded_filename: data/italictype.json
-          authorization: "Bearer ${{ steps.get-api-token.outputs.italictype_token }}"
-          postprocess: flat/italictype.ts
+          deno run --allow-net --allow-read --allow-write --allow-import flat/goodreads.ts "https://www.goodreads.com/review/list_rss/3062737"
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/books/*.yaml
+          git diff --staged --quiet || git commit -m "Update books from Goodreads"
+          git push
