@@ -22,7 +22,7 @@ jobs:
           deno-version: v1.x
       - name: Fetch Goodreads data
         run: |
-          deno run --allow-net --allow-read --allow-write --allow-import flat/goodreads.ts "https://www.goodreads.com/review/list_rss/3062737"
+          deno run --allow-net --allow-read --allow-write flat/goodreads.ts "https://www.goodreads.com/review/list_rss/3062737"
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
