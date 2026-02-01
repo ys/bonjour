@@ -1,4 +1,36 @@
 ---
+- _id: 1571861094
+  link: https://walzr.com/sf-graffiti
+  title: San Francisco Graffiti
+  excerpt: ''
+  note: turning city inspector work into a gallery of art
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fwalzr.com%2Fsf-graffiti
+  media: []
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2026-02-01T09:22:17.728Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2026-02-01T09:22:31.026Z'
+  domain: walzr.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1571861094
+  collectionId: -1
+  parsed: {}
 - _id: 1556774210
   link: https://www.youtube.com/watch?v=jCEEPoNSyLQ&list=WL&index=6
   title: 2025 Hobie Team Film - "Since 1950"
