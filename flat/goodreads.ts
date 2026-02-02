@@ -37,6 +37,13 @@ function parseXmlTag(xml: string, tagName: string): string {
 // Parse Goodreads RSS feed item
 function parseGoodreadsItem(itemXml: string): Book | null {
 	try {
+		// Exclude books that are only on the to-read shelf (not started/read)
+		const shelvesText = parseXmlTag(itemXml, 'user_shelves');
+		const shelves = shelvesText ? shelvesText.split(',').map((s: string) => s.trim().toLowerCase()) : [];
+		if (shelves.includes('to-read')) {
+			return null;
+		}
+
 		// Extract title (just the title, not "Title by Author")
 		const title = parseXmlTag(itemXml, 'title');
 
@@ -137,6 +144,10 @@ if (filename?.startsWith('http')) {
 	}
 	const xmlText = await response.text();
 
+	// Keep original file in data/books
+	await Deno.writeTextFile('./data/books/goodreads-rss.xml', xmlText);
+	console.log('Saved original feed to data/books/goodreads-rss.xml');
+
 	// Parse RSS feed items
 	const itemMatches = xmlText.matchAll(/<item>(.*?)<\/item>/gs);
 	const items: string[] = [];
@@ -153,7 +164,12 @@ if (filename?.startsWith('http')) {
 		.filter((book: Book | null) => book !== null) as Book[];
 } else {
 	// Read from local JSON file
-	const data = await readJSON(filename);
+	const rawText = await Deno.readTextFile(filename);
+	const data = JSON.parse(rawText);
+
+	// Keep original file in data/books
+	await Deno.writeTextFile('./data/books/goodreads.json', rawText);
+	console.log('Saved original file to data/books/goodreads.json');
 
 	// Handle different JSON formats
 	if (data.reviews) {
@@ -197,16 +213,17 @@ if (filename?.startsWith('http')) {
 	}
 }
 
-// Group books by year
+// Only include books with a read date in year files; books without go to "currently reading"
+const booksWithReadDate = books.filter((b: Book) => b.read != null);
+const currentlyReading = books.filter((b: Book) => b.read == null);
+
+// Group by year read (only books that have been read)
 const byYear = (b: Book) => {
-	if (b.read == null) {
-		return new Date().getFullYear();
-	}
 	const readDate = typeof b.read === 'string' ? new Date(b.read) : b.read;
 	return readDate.getFullYear();
 };
 
-const booksbyyear = _.groupBy(books, byYear) as BooksByYear;
+const booksbyyear = _.groupBy(booksWithReadDate, byYear) as BooksByYear;
 
 // Format date for YAML (ISO 8601 date format)
 function formatDateForYaml(date: Date | string | null): any {
@@ -237,7 +254,20 @@ function yamlReplacer(key: string, value: any): any {
 	return value;
 }
 
-// Write books for all years found
+// Write current.yaml with books that have no read date (currently reading)
+const currentForYaml = prepareBooksForYaml(currentlyReading);
+let currentYamlOutput = yaml.dump({ current: true, books: currentForYaml }, {
+	quotingType: '"',
+	forceQuotes: false,
+	replacer: yamlReplacer
+});
+currentYamlOutput = currentYamlOutput.replace(/date: "(\d{4}-\d{2}-\d{2})"/g, 'date: $1');
+currentYamlOutput = currentYamlOutput.replace(/read: "(\d{4}-\d{2}-\d{2})"/g, 'read: $1');
+currentYamlOutput = currentYamlOutput.replace(/read: null/g, 'read: null');
+await Deno.writeTextFile('./data/books/current.yaml', currentYamlOutput);
+console.log(`Wrote current.yaml with ${currentlyReading.length} book(s) currently reading`);
+
+// Write books for all years found (only books with a read date)
 const years = Object.keys(booksbyyear).map(y => parseInt(y)).sort((a, b) => b - a);
 for (const year of years) {
 	const booksForYear = prepareBooksForYaml(booksbyyear[year] || []);
