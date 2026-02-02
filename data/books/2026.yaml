@@ -1,5 +1,75 @@
 year: 2026
 books:
+  - title: Top of Mason
+    author: Walker Ryan
+    subtitle: ""
+    date: 2026-02-02
+    read: null
+    rating: 0
+    pages: 243
+    isbn: ""
+    isbn13: ""
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622824152l/56160768._SX318_.jpg
+    reading: true
+    url: >-
+      https://www.goodreads.com/review/show/8323627317?utm_medium=api&utm_source=rss
+  - title: Off Clark
+    author: Walker Ryan
+    subtitle: ""
+    date: 2026-02-02
+    read: null
+    rating: 0
+    pages: 275
+    isbn: ""
+    isbn13: ""
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1672176360l/75356230._SY475_.jpg
+    reading: true
+    url: >-
+      https://www.goodreads.com/review/show/8323627333?utm_medium=api&utm_source=rss
+  - title: High Street Lows (Streets of Lissé)
+    author: Walker Ryan
+    subtitle: ""
+    date: 2026-02-02
+    read: null
+    rating: 0
+    pages: 380
+    isbn: "1300701900"
+    isbn13: "9781300701903"
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1750192783l/236749342._SY475_.jpg
+    reading: true
+    url: >-
+      https://www.goodreads.com/review/show/8323627087?utm_medium=api&utm_source=rss
+  - title: Planetarium Ghost Travel T2
+    author: Sakana Sakatsuki
+    subtitle: ""
+    date: 2026-02-01
+    read: 2026-02-01
+    rating: 5
+    pages: 262
+    isbn: "2810208646"
+    isbn13: "9782810208647"
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1734411953l/219271643._SX318_.jpg
+    reading: false
+    url: >-
+      https://www.goodreads.com/review/show/8323626408?utm_medium=api&utm_source=rss
+  - title: Planetarium Ghost Travel T1
+    author: Sakana Sakatsuki
+    subtitle: ""
+    date: 2026-02-01
+    read: 2026-02-01
+    rating: 5
+    pages: 252
+    isbn: "2810208719"
+    isbn13: "9782810208715"
+    cover_url: >-
+      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1729655482l/216635296._SX318_.jpg
+    reading: false
+    url: >-
+      https://www.goodreads.com/review/show/8288031239?utm_medium=api&utm_source=rss
   - title: Planetarium Ghost Travel T0
     author: Sakana Sakatsuki
     subtitle: ""
@@ -14,17 +84,3 @@ books:
     reading: false
     url: >-
       https://www.goodreads.com/review/show/8288040320?utm_medium=api&utm_source=rss
-  - title: American Tiger
-    author: Adam Skolnick
-    subtitle: ""
-    date: 2026-01-10
-    read: 2026-01-10
-    rating: 4
-    pages: 326
-    isbn: "1544549857"
-    isbn13: "9781544549859"
-    cover_url: >-
-      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1759339360l/242287828._SY475_.jpg
-    reading: false
-    url: >-
-      https://www.goodreads.com/review/show/8288040701?utm_medium=api&utm_source=rss
