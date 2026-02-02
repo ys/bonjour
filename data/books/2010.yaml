@@ -1,18 +1,18 @@
 year: 2010
 books:
-- title: "The Zombie Survival Guide"
-  author: "Max Brooks"
-  isbn: "1400049628"
-  isbn13: "9781400049622"
-  rating: 3
-  pages: 255
-  date: "2010-01-19"
-  read: "2010-01-19"
-- title: "Pride and Prejudice and Zombies"
-  author: "Seth Grahame-Smith"
-  isbn: "1594743347"
-  isbn13: "9781594743344"
-  rating: 3
-  pages: 320
-  date: "2010-01-19"
-  read: "2010-02-12"
+  - title: The Zombie Survival Guide
+    author: Max Brooks
+    isbn: "1400049628"
+    isbn13: "9781400049622"
+    rating: 3
+    pages: 255
+    date: 2010-01-19
+    read: 2010-01-19
+  - title: Pride and Prejudice and Zombies
+    author: Seth Grahame-Smith
+    isbn: "1594743347"
+    isbn13: "9781594743344"
+    rating: 3
+    pages: 320
+    date: 2010-01-19
+    read: 2010-02-12
