@@ -8165,7 +8165,11 @@
           "user_book_status": {
             "slug": "read"
           },
-          "user_book_reads": [],
+          "user_book_reads": [
+            {
+              "finished_at": "2025-07-05"
+            }
+          ],
           "edition": {
             "isbn_10": "2073025811",
             "isbn_13": "9782073025814",
