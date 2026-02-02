@@ -24,7 +24,7 @@ jobs:
         env:
           HARDCOVER_TOKEN: ${{ secrets.HARDCOVER_TOKEN }}
         run: |
-          deno run --allow-net --allow-read --allow-write --allow-env --allow-import flat/hardcover.ts
+          deno run --allow-net --allow-read --allow-write --allow-env  flat/hardcover.ts
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
