@@ -6,3 +6,6 @@ public
 .netlify
 .now
 .vercel
+
+# Hardcover API token (use HARDCOVER_TOKEN env var instead)
+data/books/.hardcover-token

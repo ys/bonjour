@@ -1,18 +1,53 @@
 year: 2010
 books:
-  - title: The Zombie Survival Guide
-    author: Max Brooks
-    isbn: "1400049628"
-    isbn13: "9781400049622"
-    rating: 3
-    pages: 255
-    date: 2010-01-19
-    read: 2010-01-19
   - title: Pride and Prejudice and Zombies
     author: Seth Grahame-Smith
+    subtitle: The Deluxe Heirloom Edition
+    date: 2010-02-12
+    read: 2010-02-12
+    rating: 4
+    pages: 320
     isbn: "1594743347"
     isbn13: "9781594743344"
-    rating: 3
-    pages: 320
-    date: 2010-01-19
+    cover_url: >-
+      https://assets.hardcover.app/edition/4319320/b3dc00d5ffd6afa94029c36fadac3955c2813aab.jpeg
+    reading: false
+    url: https://hardcover.app/books/pride-and-prejudice-and-zombies
+  - title: "The Polaroid Book: Selections from the Polaroid Collections of Photography"
+    author: Steve Crist
+    subtitle: Selections from the Polaroid Collections of Photography
+    date: 2010-02-12
     read: 2010-02-12
+    rating: 5
+    pages: 399
+    isbn: "3822830720"
+    isbn13: "9783822830727"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/59795456/abd37c3ac00acc86b62cc81c11bf5252673bb535.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-polaroid-book
+  - title: "World War Z: An Oral History of the Zombie War"
+    author: Max Brooks
+    subtitle: An Oral History of the Zombie War
+    date: 2010-01-19
+    read: 2010-01-19
+    rating: 5
+    pages: 354
+    isbn: "0307346609"
+    isbn13: "9780307346605"
+    cover_url: https://assets.hardcover.app/edition/3129764/6391724-L.jpg
+    reading: false
+    url: https://hardcover.app/books/world-war-z
+  - title: "The Zombie Survival Guide: Complete Protection from the Living Dead"
+    author: Max Brooks
+    subtitle: Complete Protection from the Living Dead
+    date: 2010-01-19
+    read: 2010-01-19
+    rating: 0
+    pages: 274
+    isbn: "1400049628"
+    isbn13: "9781400049622"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/61661302/26e10c99eadbca2106913ddae6c060dddb8420c6.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-zombie-survival-guide

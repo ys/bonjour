@@ -1,5 +1,324 @@
 year: 2017
 books:
+  - title: "Wild: From Lost to Found on the Pacific Crest Trail"
+    author: Cheryl Strayed
+    subtitle: From Lost to Found on the Pacific Crest Trail
+    date: 2017-10-15
+    read: 2017-10-15
+    rating: 4
+    pages: 315
+    isbn: "0857897772"
+    isbn13: "9780857897770"
+    cover_url: >-
+      https://assets.hardcover.app/edition/30399514/22140b322f82e27240bdbaa199d8264252b72f22.jpeg
+    reading: false
+    url: https://hardcover.app/books/wild
+  - title: Astrophysics for People in a Hurry
+    author: Neil deGrasse Tyson
+    subtitle: ""
+    date: 2017-08-21
+    read: 2017-08-21
+    rating: 4
+    pages: 222
+    isbn: "0393609405"
+    isbn13: "9780393609400"
+    cover_url: >-
+      https://assets.hardcover.app/editions/30401760/6c6dc8b1-2e02-4c20-b0a3-572ff516feab-astro.jpg
+    reading: false
+    url: https://hardcover.app/books/astrophysics-for-people-in-a-hurry
+  - title: "Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity"
+    author: Kim Malone Scott
+    subtitle: Be a Kick-Ass Boss Without Losing Your Humanity
+    date: 2017-09-24
+    read: 2017-09-24
+    rating: 4
+    pages: 288
+    isbn: "1250103517"
+    isbn13: "9781250103512"
+    cover_url: >-
+      https://assets.hardcover.app/book_mappings/7333175/223a591bee86613f87269b0010589a4f62368c1f.jpeg
+    reading: false
+    url: https://hardcover.app/books/radical-candor
+  - title: "The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change"
+    author: Camille Fournier
+    subtitle: A Guide for Tech Leaders Navigating Growth and Change
+    date: 2017-04-18
+    read: 2017-04-18
+    rating: 0
+    pages: 243
+    isbn: "1491973862"
+    isbn13: "9781491973868"
+    cover_url: >-
+      https://assets.hardcover.app/edition/30401041/08ec59bb97efa9b2b6fb604fb0d83a7e6614a17d.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-managers-path
+  - title: >-
+      10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without
+      Losing My Edge, and Found Self-Help That Actually Works
+    author: Dan   Harris
+    subtitle: >-
+      How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge,
+      and Found Self-Help That Actually Works
+    date: 2017-03-16
+    read: 2017-03-16
+    rating: 5
+    pages: 256
+    isbn: "0062265423"
+    isbn13: "9780062265425"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/44165253/1943405c93dd1d736e671155e11b3a04182acfe5.jpeg
+    reading: false
+    url: https://hardcover.app/books/10-happier
+  - title: Into the Forest
+    author: Jean Hegland
+    subtitle: ""
+    date: 2017-12-30
+    read: 2017-12-30
+    rating: 5
+    pages: 243
+    isbn: "0553379615"
+    isbn13: "9780553379617"
+    cover_url: https://assets.hardcover.app/edition/8859862/8349045-L.jpg
+    reading: false
+    url: https://hardcover.app/books/into-the-forest
+  - title: "A Walk in the Woods: Rediscovering America Along the Appalachian Trail"
+    author: Bill Bryson
+    subtitle: Rediscovering America Along the Appalachian Trail
+    date: 2017-08-06
+    read: 2017-08-06
+    rating: 5
+    pages: 304
+    isbn: "0307717836"
+    isbn13: "9780307717832"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/23192672/a9715fe5d555d4912d14abf39483689a0b3873f8.jpeg
+    reading: false
+    url: >-
+      https://hardcover.app/books/a-walk-in-the-woods-rediscovering-america-along-the-appalachian-trail
+  - title: >-
+      The Obstacle is the Way: The Timeless Art of Turning Adversity to
+      Advantage
+    author: Ryan Holiday
+    subtitle: The Timeless Art of Turning Adversity to Advantage
+    date: 2017-04-07
+    read: 2017-04-07
+    rating: 4
+    pages: 229
+    isbn: "1782830057"
+    isbn13: "9781591846352"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/43298322/8a1fe15ef772beaf1c04d7d385ad057c097e5b9a.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-obstacle-is-the-way
+  - title: Into the Wild
+    author: Jon Krakauer
+    subtitle: ""
+    date: 2017-11-14
+    read: 2017-11-14
+    rating: 5
+    pages: 207
+    isbn: "0385486804"
+    isbn13: "9780385486804"
+    cover_url: >-
+      https://assets.hardcover.app/edition/22348762/5e762a03aee646b40ddc2756408901b2d471bfec.jpeg
+    reading: false
+    url: https://hardcover.app/books/into-the-wild
+  - title: "Let My People Go Surfing: The Education of a Reluctant Businessman"
+    author: Yvon Chouinard
+    subtitle: The Education of a Reluctant Businessman
+    date: 2017-07-05
+    read: 2017-07-05
+    rating: 5
+    pages: 272
+    isbn: "0143037838"
+    isbn13: "9780143037835"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/59364474/f2a715b0911fa8d3544dbd7ec6c495ba5dfe15ef.jpeg
+    reading: false
+    url: https://hardcover.app/books/let-my-people-go-surfing
+  - title: You're Never Weird on the Internet
+    author: Felicia Day
+    subtitle: ""
+    date: 2017-03-06
+    read: 2017-03-06
+    rating: 0
+    pages: 272
+    isbn: "1476785651"
+    isbn13: "9781476785653"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/61596173/5a5e9eecdb88cff1f179de7abbe3e41f630bc3f7.jpeg
+    reading: false
+    url: https://hardcover.app/books/youre-never-weird-on-the-internet
+  - title: Saga, Vol. 6
+    author: Brian K. Vaughan
+    subtitle: ""
+    date: 2017-05-17
+    read: 2017-05-17
+    rating: 0
+    pages: 152
+    isbn: 163215711X
+    isbn13: "9781632157119"
+    cover_url: >-
+      https://assets.hardcover.app/edition/30390642/497a78c7013fd0698527a44e110693096ef2d075.jpeg
+    reading: false
+    url: https://hardcover.app/books/saga-vol-6
+  - title: Paper Girls, Vol. 3
+    author: Brian K. Vaughan
+    subtitle: ""
+    date: 2017-08-30
+    read: 2017-08-30
+    rating: 4
+    pages: 125
+    isbn: "1534302239"
+    isbn13: "9781534302235"
+    cover_url: >-
+      https://assets.hardcover.app/edition/6101336/b66c9df87ce0ce4f893438d9fc17e8c71dad6976.jpeg
+    reading: false
+    url: https://hardcover.app/books/paper-girls-vol-3-2016
+  - title: Everything That Remains
+    author: Joshua Fields Millburn
+    subtitle: ""
+    date: 2017-05-02
+    read: 2017-05-02
+    rating: 4
+    pages: 234
+    isbn: "1938793188"
+    isbn13: "9781938793189"
+    cover_url: https://assets.hardcover.app/edition/30405449/content.jpeg
+    reading: false
+    url: https://hardcover.app/books/everything-that-remains
+  - title: Clutterfree with Kids
+    author: Joshua Becker
+    subtitle: ""
+    date: 2017-01-21
+    read: 2017-01-21
+    rating: 4
+    pages: 197
+    isbn: "0991438604"
+    isbn13: "9780991438600"
+    cover_url: https://assets.hardcover.app/edition/2795684/10333239-L.jpg
+    reading: false
+    url: https://hardcover.app/books/clutterfree-with-kids
+  - title: Paper Girls, Vol. 2
+    author: Brian K. Vaughan
+    subtitle: ""
+    date: 2017-03-19
+    read: 2017-03-19
+    rating: 5
+    pages: 128
+    isbn: "1632158957"
+    isbn13: "9781632158956"
+    cover_url: >-
+      https://assets.hardcover.app/edition/24202055/48cc02b0ae9b096aab999f61002e5e7c09042888.jpeg
+    reading: false
+    url: https://hardcover.app/books/paper-girls-vol-2
+  - title: Bored and Brilliant
+    author: Manoush Zomorodi
+    subtitle: How Spacing Out Can Unlock Your Most Productive & Creative Self
+    date: 2017-11-26
+    read: 2017-11-26
+    rating: 5
+    pages: 192
+    isbn: "1250124964"
+    isbn13: "9781250124968"
+    cover_url: https://assets.hardcover.app/edition/23963729/10142388-L.jpg
+    reading: false
+    url: https://hardcover.app/books/bored-and-brilliant
+  - title: "The Big Tiny: A Built-It-Myself Memoir"
+    author: Dee  Williams
+    subtitle: A Built-It-Myself Memoir
+    date: 2017-01-22
+    read: 2017-01-22
+    rating: 4
+    pages: 304
+    isbn: "0399166173"
+    isbn13: "9780399166174"
+    cover_url: >-
+      https://assets.hardcover.app/edition/30435150/de9e797d8578e01ce111c9f99953b820e9c61684.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-big-tiny-a-built-it-myself-memoir
+  - title: "The Buddha Walks into a Bar...: A Guide to Life for a New Generation"
+    author: Lodro Rinzler
+    subtitle: A Guide to Life for a New Generation
+    date: 2017-06-22
+    read: 2017-06-22
+    rating: 4
+    pages: 211
+    isbn: "1590309375"
+    isbn13: "9781590309377"
+    cover_url: >-
+      https://assets.hardcover.app/edition/30527778/6f9bee3383f5926dbcd90be672eb904869c24db5.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-buddha-walks-into-a-bar
+  - title: "Saltwater Buddha: A Surfer's Quest to Find Zen on the Sea"
+    author: Jaimal Yogis
+    subtitle: A Surfer's Quest to Find Zen on the Sea
+    date: 2017-09-25
+    read: 2017-09-25
+    rating: 4
+    pages: 0
+    isbn: ""
+    isbn13: ""
+    cover_url: ""
+    reading: false
+    url: >-
+      https://hardcover.app/books/saltwater-buddha-a-surfers-quest-to-find-zen-on-the-sea
+  - title: >-
+      The Credibility Code: How to Project Confidence and Competence When It
+      Matters Most
+    author: Cara Hale Alter
+    subtitle: How to Project Confidence and Competence When It Matters Most
+    date: 2017-03-21
+    read: 2017-03-21
+    rating: 5
+    pages: 160
+    isbn: "0985265604"
+    isbn13: "9780985265601"
+    cover_url: ""
+    reading: false
+    url: https://hardcover.app/books/the-credibility-code
+  - title: "Indian Creek Chronicles: A Winter Alone in the Wilderness"
+    author: Pete Fromm
+    subtitle: A Winter Alone in the Wilderness
+    date: 2017-12-20
+    read: 2017-12-20
+    rating: 5
+    pages: 212
+    isbn: "0312422725"
+    isbn13: "9780312422721"
+    cover_url: >-
+      https://assets.hardcover.app/edition/31108775/4728e56263309ed3e625333fb044269bc0ee27c8.jpeg
+    reading: false
+    url: https://hardcover.app/books/indian-creek-chronicles
+  - title: >-
+      You Can Buy Happiness (and It's Cheap): How One Woman Radically Simplified
+      Her Life and How You Can Too
+    author: Tammy  Strobel
+    subtitle: How One Woman Radically Simplified Her Life and How You Can Too
+    date: 2017-07-25
+    read: 2017-07-25
+    rating: 5
+    pages: 226
+    isbn: "1608680843"
+    isbn13: "9781608680849"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2457966/5f342ceea552e4d8b8690070c2121c339fce7631.jpeg
+    reading: false
+    url: >-
+      https://hardcover.app/books/you-can-buy-happiness-and-its-cheap-how-one-woman-radically-simplified-her-life-and-how-you-can-too
+  - title: Un été dans l'Ouest
+    author: Philippe Labro
+    subtitle: ""
+    date: 2017-12-13
+    read: 2017-12-13
+    rating: 4
+    pages: 284
+    isbn: "2070382583"
+    isbn13: "9782070382583"
+    cover_url: >-
+      https://assets.hardcover.app/edition/31924071/1f122ac9e36e1345960c0aae54ed3b4c4c6bec90.jpeg
+    reading: false
+    url: https://hardcover.app/books/un-ete-dans-louest
   - title: >-
       Positive Discipline by Nelsen Ed.D., Jane [Ballantine,2006] (Paperback)
       Revised edition
@@ -11,56 +330,13 @@ books:
     pages: 0
     isbn: ""
     isbn13: ""
-    cover_url: >-
-      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699067365l/145653371.jpg
+    cover_url: ""
     reading: false
     url: >-
-      https://www.goodreads.com/review/show/8288042165?utm_medium=api&utm_source=rss
-  - title: "Indian Creek Chronicles: A Winter Alone in the Wilderness"
-    author: Pete Fromm
-    subtitle: ""
-    date: 2017-12-20
-    read: 2017-12-20
-    rating: 5
-    pages: 208
-    isbn: "0312422725"
-    isbn13: "9780312422721"
-    cover_url: >-
-      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316739056l/156956.jpg
-    reading: false
-    url: >-
-      https://www.goodreads.com/review/show/8288041606?utm_medium=api&utm_source=rss
-  - title: Into the Forest
-    author: Jean Hegland
-    subtitle: ""
-    date: 2017-12-30
-    read: 2017-12-30
-    rating: 5
-    pages: 243
-    isbn: "0553379615"
-    isbn13: "9780553379617"
-    cover_url: >-
-      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479868647l/86236.jpg
-    reading: false
-    url: >-
-      https://www.goodreads.com/review/show/8288041568?utm_medium=api&utm_source=rss
-  - title: Un été dans l&apos;Ouest
-    author: Philippe Labro
-    subtitle: ""
-    date: 2017-12-13
-    read: 2017-12-13
-    rating: 4
-    pages: 297
-    isbn: "2070382583"
-    isbn13: "9782070382583"
-    cover_url: >-
-      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1188663818l/1810919.jpg
-    reading: false
-    url: >-
-      https://www.goodreads.com/review/show/8288041537?utm_medium=api&utm_source=rss
+      https://hardcover.app/books/positive-discipline-by-nelsen-edd-jane-ballantine-2006-paperback-revised-edition
   - title: "Wild Muir: Twenty-Two of John Muir's Greatest Adventures"
     author: Lee Stetson
-    subtitle: ""
+    subtitle: Twenty-Two of John Muir's Greatest Adventures
     date: 2017-12-08
     read: 2017-12-08
     rating: 4
@@ -68,95 +344,33 @@ books:
     isbn: "1306446716"
     isbn13: "9781306446716"
     cover_url: >-
-      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410785081l/21803665.jpg
+      https://assets.hardcover.app/external_data/2458043/ca4f5a58221b1471927a6efbfdf012898ccb3446.jpeg
     reading: false
-    url: >-
-      https://www.goodreads.com/review/show/8288041501?utm_medium=api&utm_source=rss
-  - title: >-
-      Bored and Brilliant: How Spacing Out Can Unlock Your Most Productive and
-      Creative Self
-    author: Manoush Zomorodi
-    subtitle: ""
-    date: 2017-11-26
-    read: 2017-11-26
-    rating: 5
-    pages: 192
-    isbn: "1250124964"
-    isbn13: "9781250124968"
-    cover_url: >-
-      https://s.gr-assets.com/assets/nophoto/book/111x148-675b3b2743c83e96e2540d2929d5f4d2.png
-    reading: false
-    url: >-
-      https://www.goodreads.com/review/show/8288041477?utm_medium=api&utm_source=rss
-  - title: Into the Wild
-    author: Jon Krakauer
-    subtitle: ""
-    date: 2017-11-14
-    read: 2017-11-14
-    rating: 5
-    pages: 207
-    isbn: "0385486804"
-    isbn13: "9780385486804"
-    cover_url: >-
-      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1634587789l/1845.jpg
-    reading: false
-    url: >-
-      https://www.goodreads.com/review/show/8288041421?utm_medium=api&utm_source=rss
+    url: https://hardcover.app/books/wild-muir
   - title: Time Runs Out
     author: Lisa M. Ross
     subtitle: ""
     date: 2017-11-05
     read: 2017-11-05
     rating: 4
-    pages: 162
+    pages: 0
     isbn: "1299119638"
     isbn13: "9781299119635"
     cover_url: >-
-      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410780774l/18418259.jpg
+      https://assets.hardcover.app/edition/32675881/cbe8dcff39730f998c098f1165c003ac9ef7a5c8.jpeg
     reading: false
-    url: >-
-      https://www.goodreads.com/review/show/8288041366?utm_medium=api&utm_source=rss
-  - title: "Wild: A Journey from Lost to Found"
-    author: Cheryl Strayed
+    url: https://hardcover.app/books/time-runs-out-2009
+  - title: Je résiste aux personnalités toxiques, et autres casse-pieds
+    author: Christophe André
     subtitle: ""
-    date: 2017-10-15
-    read: 2017-10-15
+    date: 2017-05-19
+    read: 2017-05-19
     rating: 4
-    pages: 479
-    isbn: "0857897772"
-    isbn13: "9780857897770"
+    pages: 222
+    isbn: "2757817841"
+    isbn13: "9782757817841"
     cover_url: >-
-      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1665925897l/16387265._SY475_.jpg
+      https://assets.hardcover.app/edition/32675884/b0acec3ee27e6ff86525083160acbbc13c333346.jpeg
     reading: false
     url: >-
-      https://www.goodreads.com/review/show/8288041328?utm_medium=api&utm_source=rss
-  - title: "Saltwater Buddha: A Surfer's Quest to Find Zen on the Sea"
-    author: Jaimal Yogis
-    subtitle: ""
-    date: 2017-09-25
-    read: 2017-09-25
-    rating: 4
-    pages: 266
-    isbn: "0861719980"
-    isbn13: "9780861719983"
-    cover_url: >-
-      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328357920l/9408990.jpg
-    reading: false
-    url: >-
-      https://www.goodreads.com/review/show/8288041299?utm_medium=api&utm_source=rss
-  - title: >-
-      Radical Candor: Fully Revised & Updated Edition: Be a Kick-Ass Boss
-      Without Losing Your Humanity
-    author: Kim Malone Scott
-    subtitle: ""
-    date: 2017-09-24
-    read: 2017-09-24
-    rating: 4
-    pages: 288
-    isbn: "1250103517"
-    isbn13: "9781250103512"
-    cover_url: >-
-      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496840836l/34964870._SY475_.jpg
-    reading: false
-    url: >-
-      https://www.goodreads.com/review/show/8288041240?utm_medium=api&utm_source=rss
+      https://hardcover.app/books/je-resiste-aux-personnalites-toxiques-et-autres-casse-pieds
