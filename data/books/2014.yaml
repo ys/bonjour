@@ -1,98 +1,98 @@
 year: 2014
 books:
-- title: "The Passionate Programmer"
-  author: "Chad Fowler"
-  isbn: "1934356344"
-  isbn13: "9781934356340"
-  rating: 3
-  pages: 219
-  date: "2014-12-31"
-  read: "2014-12-31"
-- title: "The No Asshole Rule"
-  author: "Robert I. Sutton"
-  isbn: "0446526568"
-  isbn13: "9780446526562"
-  rating: 3
-  pages: 210
-  date: "2014-12-31"
-  read: "2015-05-07"
-- title: "The Year Without Pants"
-  author: "Scott Berkun"
-  isbn: "1118660633"
-  isbn13: "9781118660638"
-  rating: 4
-  pages: 258
-  date: "2014-12-30"
-  read: "2015-01-31"
-- title: "The House of Silk"
-  author: "Anthony Horowitz"
-  isbn: ""
-  isbn13: ""
-  rating: 5
-  pages: 304
-  date: "2014-12-28"
-  read: "2016-10-03"
-- title: "Moriarty"
-  author: "Anthony Horowitz"
-  isbn: "0062377183"
-  isbn13: "9780062377180"
-  rating: 5
-  pages: 285
-  date: "2014-12-28"
-  read: "2016-11-15"
-- title: "Becoming a Technical Leader"
-  author: "Gerald M. Weinberg"
-  isbn: ""
-  isbn13: "9780932633026"
-  rating: 3
-  pages: 304
-  date: "2014-12-09"
-  read: "2014-12-28"
-- title: "How to Win Friends and Influence People"
-  author: "Dale Carnegie"
-  isbn: ""
-  isbn13: ""
-  rating: 3
-  pages: 288
-  date: "2014-12-07"
-  read: "2015-06-14"
-- title: "Why We Get Fat: And What to Do About It"
-  author: "Gary Taubes"
-  isbn: ""
-  isbn13: ""
-  rating: 4
-  pages: 288
-  date: "2014-12-07"
-  read: "2015-05-07"
-- title: "Manage Your Day-to-Day"
-  author: "Jocelyn K. Glei"
-  isbn: "1477800670"
-  isbn13: "9781477800676"
-  rating: 3
-  pages: 248
-  date: "2014-09-27"
-  read: "2015-05-20"
-- title: "Don't Make Me Think"
-  author: "Steve Krug"
-  isbn: ""
-  isbn13: ""
-  rating: 4
-  pages: 216
-  date: "2014-06-08"
-  read: "2014-06-08"
-- title: "Slack"
-  author: "Tom DeMarco"
-  isbn: ""
-  isbn13: ""
-  rating: 5
-  pages: 240
-  date: "2014-05-22"
-  read: "2014-05-22"
-- title: "The Blue Bottle Craft of Coffee"
-  author: "James Freeman"
-  isbn: ""
-  isbn13: ""
-  rating: 3
-  pages: 240
-  date: "2014-04-01"
-  read: "2014-09-27"
+  - title: The Passionate Programmer
+    author: Chad Fowler
+    isbn: "1934356344"
+    isbn13: "9781934356340"
+    rating: 3
+    pages: 219
+    date: 2014-12-31
+    read: 2014-12-31
+  - title: The No Asshole Rule
+    author: Robert I. Sutton
+    isbn: "0446526568"
+    isbn13: "9780446526562"
+    rating: 3
+    pages: 210
+    date: 2014-12-31
+    read: 2015-05-07
+  - title: The Year Without Pants
+    author: Scott Berkun
+    isbn: "1118660633"
+    isbn13: "9781118660638"
+    rating: 4
+    pages: 258
+    date: 2014-12-30
+    read: 2015-01-31
+  - title: The House of Silk
+    author: Anthony Horowitz
+    isbn: ""
+    isbn13: ""
+    rating: 5
+    pages: 304
+    date: 2014-12-28
+    read: 2016-10-03
+  - title: Moriarty
+    author: Anthony Horowitz
+    isbn: "0062377183"
+    isbn13: "9780062377180"
+    rating: 5
+    pages: 285
+    date: 2014-12-28
+    read: 2016-11-15
+  - title: Becoming a Technical Leader
+    author: Gerald M. Weinberg
+    isbn: ""
+    isbn13: "9780932633026"
+    rating: 3
+    pages: 304
+    date: 2014-12-09
+    read: 2014-12-28
+  - title: How to Win Friends and Influence People
+    author: Dale Carnegie
+    isbn: ""
+    isbn13: ""
+    rating: 3
+    pages: 288
+    date: 2014-12-07
+    read: 2015-06-14
+  - title: "Why We Get Fat: And What to Do About It"
+    author: Gary Taubes
+    isbn: ""
+    isbn13: ""
+    rating: 4
+    pages: 288
+    date: 2014-12-07
+    read: 2015-05-07
+  - title: Manage Your Day-to-Day
+    author: Jocelyn K. Glei
+    isbn: "1477800670"
+    isbn13: "9781477800676"
+    rating: 3
+    pages: 248
+    date: 2014-09-27
+    read: 2015-05-20
+  - title: Don't Make Me Think
+    author: Steve Krug
+    isbn: ""
+    isbn13: ""
+    rating: 4
+    pages: 216
+    date: 2014-06-08
+    read: 2014-06-08
+  - title: Slack
+    author: Tom DeMarco
+    isbn: ""
+    isbn13: ""
+    rating: 5
+    pages: 240
+    date: 2014-05-22
+    read: 2014-05-22
+  - title: The Blue Bottle Craft of Coffee
+    author: James Freeman
+    isbn: ""
+    isbn13: ""
+    rating: 3
+    pages: 240
+    date: 2014-04-01
+    read: 2014-09-27

@@ -1,82 +1,82 @@
 year: 2015
 books:
-- title: "Understanding Comics: The Invisible Art"
-  author: "Scott McCloud"
-  isbn: ""
-  isbn13: ""
-  rating: 4
-  pages: 215
-  date: "2015-12-31"
-  read: "2015-07-06"
-- title: "Les ignorants"
-  author: "Étienne Davodeau"
-  isbn: "2754803823"
-  isbn13: "9782754803823"
-  rating: 4
-  pages: 272
-  date: "2015-12-31"
-  read: "2015-10-02"
-- title: "Managing Oneself"
-  author: "Peter F. Drucker"
-  isbn: ""
-  isbn13: ""
-  rating: 3
-  pages: 70
-  date: "2015-12-31"
-  read: "2016-05-07"
-- title: "The Carter Family: Don't Forget This Song"
-  author: "Frank M. Young"
-  isbn: "0810988364"
-  isbn13: "9780810988361"
-  rating: 3
-  pages: 192
-  date: "2015-12-31"
-  read: "2015-09-05"
-- title: "Meanwhile in San Francisco: The City in its Own Words"
-  author: "Wendy MacNaughton"
-  isbn: "1452113890"
-  isbn13: "9781452113890"
-  rating: 2
-  pages: 176
-  date: "2015-12-31"
-  read: "2015-07-04"
-- title: "Logicomix: An Epic Search for Truth"
-  author: "Apostolos Doxiadis"
-  isbn: "1596914521"
-  isbn13: "9781596914520"
-  rating: 3
-  pages: 352
-  date: "2015-12-30"
-  read: "2015-06-04"
-- title: "Killing and Dying: Stories"
-  author: "Adrian Tomine"
-  isbn: "1770462090"
-  isbn13: "9781770462090"
-  rating: 4
-  pages: 121
-  date: "2015-12-30"
-  read: "2015-12-15"
-- title: "The Happiness Advantage"
-  author: "Shawn Achor"
-  isbn: ""
-  isbn13: ""
-  rating: 4
-  pages: 258
-  date: "2015-12-15"
-  read: "2016-01-10"
-- title: "Remote Pairing"
-  author: "Joe Kutner"
-  isbn: "1937785742"
-  isbn13: "9781937785741"
-  rating: 3
-  pages: 108
-  date: "2015-08-15"
-  read: "2015-08-15"
-- title: "The Healthy Programmer"
-  author: "Joe Kutner"
-  isbn: "1937785319"
-  isbn13: "9781937785314"
-  rating: 3
-  pages: 220
-  date: "2015-01-10"
-  read: "2015-05-07"
+  - title: "Understanding Comics: The Invisible Art"
+    author: Scott McCloud
+    isbn: ""
+    isbn13: ""
+    rating: 4
+    pages: 215
+    date: 2015-12-31
+    read: 2015-07-06
+  - title: Les ignorants
+    author: Étienne Davodeau
+    isbn: "2754803823"
+    isbn13: "9782754803823"
+    rating: 4
+    pages: 272
+    date: 2015-12-31
+    read: 2015-10-02
+  - title: Managing Oneself
+    author: Peter F. Drucker
+    isbn: ""
+    isbn13: ""
+    rating: 3
+    pages: 70
+    date: 2015-12-31
+    read: 2016-05-07
+  - title: "The Carter Family: Don't Forget This Song"
+    author: Frank M. Young
+    isbn: "0810988364"
+    isbn13: "9780810988361"
+    rating: 3
+    pages: 192
+    date: 2015-12-31
+    read: 2015-09-05
+  - title: "Meanwhile in San Francisco: The City in its Own Words"
+    author: Wendy MacNaughton
+    isbn: "1452113890"
+    isbn13: "9781452113890"
+    rating: 2
+    pages: 176
+    date: 2015-12-31
+    read: 2015-07-04
+  - title: "Logicomix: An Epic Search for Truth"
+    author: Apostolos Doxiadis
+    isbn: "1596914521"
+    isbn13: "9781596914520"
+    rating: 3
+    pages: 352
+    date: 2015-12-30
+    read: 2015-06-04
+  - title: "Killing and Dying: Stories"
+    author: Adrian Tomine
+    isbn: "1770462090"
+    isbn13: "9781770462090"
+    rating: 4
+    pages: 121
+    date: 2015-12-30
+    read: 2015-12-15
+  - title: The Happiness Advantage
+    author: Shawn Achor
+    isbn: ""
+    isbn13: ""
+    rating: 4
+    pages: 258
+    date: 2015-12-15
+    read: 2016-01-10
+  - title: Remote Pairing
+    author: Joe Kutner
+    isbn: "1937785742"
+    isbn13: "9781937785741"
+    rating: 3
+    pages: 108
+    date: 2015-08-15
+    read: 2015-08-15
+  - title: The Healthy Programmer
+    author: Joe Kutner
+    isbn: "1937785319"
+    isbn13: "9781937785314"
+    rating: 3
+    pages: 220
+    date: 2015-01-10
+    read: 2015-05-07
