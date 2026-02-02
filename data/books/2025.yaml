@@ -1,26 +1,26 @@
 year: 2025
 books:
   - title: À l'ombre des choses
-    subtitle: ''
+    subtitle: ""
     author: Anatole Edouard Nicolo
-    date: '2025-12-24T10:34:36.058537Z'
-    read: '2025-12-24T10:34:44.944200Z'
+    date: 2025-12-24
+    read: 2025-12-24
     rating: 4
-    isbn: '2702192017'
-    isbn13: '9782702192016'
+    isbn: "2702192017"
+    isbn13: "9782702192016"
     pages: 104
     cover_url: >-
       https://books.google.com/books/publisher/content?id=Me0OEQAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70CavsNKzPBjuSG7eNyQsgkq9n7pl-reRyPTiPzuiGxBRipiSno8_yBzhc6SJ-gdDGrkrbB8fZWOdCYGACiL9fmBGZ2U1pJLLILLYWq8aPiHvyXyIqqgRRy82T77Z1inN06y60Z&source=gbs_api
     reading: false
     url: https://www.italictype.com/api/books/5kY4798/
   - title: Les éphémères
-    subtitle: ''
+    subtitle: ""
     author: Andrew O'Hagan
-    date: '2025-12-24T10:33:38.645941Z'
-    read: '2025-12-24T10:33:49.880699Z'
+    date: 2025-12-24
+    read: 2025-12-24
     rating: 5
-    isbn: ''
-    isbn13: '9791041423804'
+    isbn: ""
+    isbn13: "9791041423804"
     pages: 307
     cover_url: https://www.italictype.com/static/images/bookcover-not-found.png
     reading: false
@@ -28,11 +28,11 @@ books:
   - title: On Muscle
     subtitle: The Stuff That Moves Us and Why It Matters
     author: Bonnie Tsui
-    date: '2025-12-23T21:26:42.555457Z'
-    read: '2025-12-23T21:26:54.398150Z'
+    date: 2025-12-23
+    read: 2025-12-23
     rating: 3
-    isbn: '1643757296'
-    isbn13: '9781643757292'
+    isbn: "1643757296"
+    isbn13: "9781643757292"
     pages: 195
     cover_url: >-
       https://books.google.com/books/publisher/content?id=OfMeEQAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73y6OH_K-XcwSF8D9EJqL8ZFaeHCYsdoI_sy2LmWyRmvxPB0NQ429uFBq1FdOZ3eiKgjygYE-yqYyS-KXdEXix-SqdTUtXixk6d1r6MzRGEX6QSikp1aYZQMuhR2lR8AxVWM_4D&source=gbs_api
@@ -41,24 +41,24 @@ books:
   - title: Welcome to Paradise, Now Go to Hell
     subtitle: A True Story of Violence, Corruption, and the Soul of Surfing
     author: Chas Smith
-    date: '2025-09-15T20:12:08.988641Z'
-    read: '2025-09-15T20:12:24.405300Z'
+    date: 2025-09-15
+    read: 2025-09-15
     rating: 3
-    isbn: '0062202545'
-    isbn13: '9780062202543'
+    isbn: "0062202545"
+    isbn13: "9780062202543"
     pages: 196
     cover_url: >-
       https://books.google.com/books/publisher/content?id=XbweAAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72-Girjq2Sok_BEj1mUSi1O6_BAyqOnxiw9ua7Rn39I_npAKt1istzAGJDhsM5ccIwJsfOJnr4H0yEmEjQPUjg116hE7PpxFtlEIjEXXzYJtZZ7FYqI4ri4DuguxZeiO6PRxDmA&source=gbs_api
     reading: false
     url: https://www.italictype.com/api/books/8W4pPGN/
   - title: Le Jeudi suivant
-    subtitle: ''
+    subtitle: ""
     author: Richard Osman
-    date: '2025-09-01T18:29:27.529487Z'
-    read: '2025-09-01T18:29:38.561146Z'
+    date: 2025-09-01
+    read: 2025-09-01
     rating: 4
-    isbn: '2702448100'
-    isbn13: '9782702448106'
+    isbn: "2702448100"
+    isbn13: "9782702448106"
     pages: 496
     cover_url: >-
       https://books.google.com/books/publisher/content?id=uY1hEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE721FOTFqDtABQ2Rf4kr6yl5XppgOQPUY_HY5yF6ppWmtlv1wjWEGPLWIzwdAgTz6x94TESRpbJ10RiME5W7rC_2B0idC2uSIjLZegIouehpd2VusSs8NjNY0Mj42p8baIsQPgj4&source=gbs_api
@@ -67,24 +67,24 @@ books:
   - title: The Dead Do Not Improve
     subtitle: A Novel
     author: Jay Caspian Kang
-    date: '2025-08-13T18:43:39.830970Z'
-    read: '2025-08-13T18:43:47.075974Z'
+    date: 2025-08-13
+    read: 2025-08-13
     rating: 4
-    isbn: '0307953904'
-    isbn13: '9780307953902'
+    isbn: "0307953904"
+    isbn13: "9780307953902"
     pages: 274
     cover_url: >-
       https://books.google.com/books/content?id=8ri3cc-vjs0C&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72pbcadpdN2sWWZXBLYvFfY0SFflU98t_ZC8xFvYcNGNmzseBrD2x_mnA7Uy1GptIe2rIu0ZTXd8vtZFKNGDlgFjstj01YojEC47dZIFKW2WUjXoFigjPXRyYOCvSWc-72dmyKq&source=gbs_api
     reading: false
     url: https://www.italictype.com/api/books/vEglqnN/
   - title: Le Murder Club du jeudi
-    subtitle: ''
+    subtitle: ""
     author: Richard Osman
-    date: '2025-08-13T18:43:03.731820Z'
-    read: '2025-08-13T18:43:16.299322Z'
+    date: 2025-08-13
+    read: 2025-08-13
     rating: 5
-    isbn: '2702448097'
-    isbn13: '9782702448090'
+    isbn: "2702448097"
+    isbn13: "9782702448090"
     pages: 499
     cover_url: >-
       https://books.google.com/books/publisher/content?id=YFEXEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72dY3inFrGAqNM_ioFWHjVKjA8B3Pl67sJ497Me_nAYzjiggCVtPCUAjr0EI3C_59MS-pZIST1YeiezARJy0kYxU7dIQnhuyrG96TuSMMCoVq6Af5iqCdYIX5ZTUMiGoF1GMDNn&source=gbs_api
@@ -93,11 +93,11 @@ books:
   - title: Deep
     subtitle: Freediving, Renegade Science, and what the Ocean Tells Us about Ourselves
     author: James Nestor
-    date: '2025-08-13T18:41:47.669104Z'
-    read: '2025-08-13T18:41:56.040176Z'
+    date: 2025-08-13
+    read: 2025-08-13
     rating: 4
-    isbn: '0547985525'
-    isbn13: '9780547985527'
+    isbn: "0547985525"
+    isbn13: "9780547985527"
     pages: 285
     cover_url: >-
       https://books.google.com/books/publisher/content?id=eYi9AwAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70mx8UvCbycTSygsvKVSr5RgEbkNnGEW_gAAwXmzrU6JDuVlnywrqWIdDkRXbSHcRwe7xKxM9ycnC-xjrNIdRdblr7tHDqFyEV69-5lGbhEjOtebWx0CJzOfdIqWQ9vpwN1zCu1&source=gbs_api
@@ -106,11 +106,11 @@ books:
   - title: Respire
     subtitle: A nova ciência de uma arte perdida - Nova edição
     author: James Nestor
-    date: '2025-08-13T18:40:21.797785Z'
-    read: '2025-08-13T18:40:31.218744Z'
+    date: 2025-08-13
+    read: 2025-08-13
     rating: 5
-    isbn: '8551009567'
-    isbn13: '9788551009567'
+    isbn: "8551009567"
+    isbn13: "9788551009567"
     pages: 317
     cover_url: >-
       https://books.google.com/books/publisher/content?id=mfYOEQAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70IqFxstiwW1PKvxcQVCCh1rPZHuwVvdiH_Fdp3iw62UFk6YDrVAQ9pjo0i5wTxicACa_Casp9OPNzHH-d3xcHhTGisPf-gA8onVRhmnosa3F--hSaKR7xCadlr-NNHFuYy7R9e&source=gbs_api
@@ -119,26 +119,26 @@ books:
   - title: >-
       La méthode WIM HOF - La thérapie par le froid pour devenir fort, heureux
       et en bonne santé
-    subtitle: ''
+    subtitle: ""
     author: Wim Hof
-    date: '2025-08-13T18:38:23.992416Z'
-    read: '2025-08-13T18:38:33.217200Z'
+    date: 2025-08-13
+    read: 2025-08-13
     rating: 3
-    isbn: '2813226416'
-    isbn13: '9782813226419'
+    isbn: "2813226416"
+    isbn13: "9782813226419"
     pages: 231
     cover_url: >-
       https://books.google.com/books/publisher/content?id=-ix4EAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73grWAkCijmKp5LfKjo8huc8mjHsk0eyl6MIgXvP033fiLFt-_6z5ccn_AzAMAQRFNHTOVHHmrUVoYuscWYfhnSKNt_8X0XmUTaTIT9M_mIfOC-70ETWfU4hC5kH_HvI3cBH7VC&source=gbs_api
     reading: false
     url: https://www.italictype.com/api/books/8rJBjX8/
   - title: La Disparition de Stéphanie Mailer
-    subtitle: ''
+    subtitle: ""
     author: Joël Dicker
-    date: '2025-08-13T18:37:38.063407Z'
-    read: '2025-08-13T18:37:47.381814Z'
+    date: 2025-08-13
+    read: 2025-08-13
     rating: 5
-    isbn: '2889730131'
-    isbn13: '9782889730131'
+    isbn: "2889730131"
+    isbn13: "9782889730131"
     pages: 863
     cover_url: >-
       https://books.google.com/books/publisher/content?id=3a9VEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73A85wUcZnNllLTf8BRmjL7rW7VvlJcfKUD1wp5p1Ds-1efNLPLagl1MzejOXhLXS2DZYJAvvQ-zkRTy-N9UawfGy8jO0PdO9TFm4uigmA7meweT15RJkQgUTXwTuZEoaVV1PrW&source=gbs_api
@@ -147,11 +147,11 @@ books:
   - title: Hexa
     subtitle: roman
     author: Gabrielle Filteau-Chiba
-    date: '2025-05-25T18:29:30.441634Z'
-    read: '2025-05-25T18:29:36.721252Z'
+    date: 2025-05-25
+    read: 2025-05-25
     rating: 5
-    isbn: '2897724579'
-    isbn13: '9782897724573'
+    isbn: "2897724579"
+    isbn13: "9782897724573"
     pages: 318
     cover_url: >-
       https://books.google.com/books/content?id=xnls0AEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE707pCzcpWT55be3qLtXEOwz91pqYoiNaKrxhwjSG0R0X7KqyajQ0e5apGpndYrGcmQDMe_Vf4gRFNeiY3G2VAln4ENw7Jy3ebDVf3AFXkUahzqTszb6ZR4WLgtVIPx4hDZorgTI&source=gbs_api
@@ -160,50 +160,50 @@ books:
   - title: Jacaranda
     subtitle: Prix Renaudot 2024
     author: Gaël Faye
-    date: '2025-05-25T18:28:58.075396Z'
-    read: '2025-05-25T18:29:03.598714Z'
+    date: 2025-05-25
+    read: 2025-05-25
     rating: 5
-    isbn: '2246831466'
-    isbn13: '9782246831464'
+    isbn: "2246831466"
+    isbn13: "9782246831464"
     pages: 261
     cover_url: >-
       https://books.google.com/books/publisher/content?id=9jsNEQAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70a_LakWzQ5FAF7hVvzfBMhtV--lgwRb2UhTEGfGUE1xsfAPoGyHXIT514FXNSUBXy5AX_CY5G3LQ92_xJYeKo5uSAd_WQFr--1iI5NXfeNWye9fyGjZNJ8QtQxTvE0OCDmiB4v&source=gbs_api
     reading: false
     url: https://www.italictype.com/api/books/8eZYxXN/
   - title: Dark Matter
-    subtitle: ''
+    subtitle: ""
     author: Blake Crouch
-    date: '2025-05-25T18:27:14.576564Z'
-    read: '2025-05-25T18:27:24.451632Z'
+    date: 2025-05-25
+    read: 2025-05-25
     rating: 4
-    isbn: '2290116750'
-    isbn13: '9782290116753'
+    isbn: "2290116750"
+    isbn13: "9782290116753"
     pages: 316
     cover_url: >-
       https://books.google.com/books/publisher/content?id=hsyeDQAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73sMKgPhSQR41rUfONkWsLzZPhe_u-mKIt-jRXwLRrDkeuEBSRowRpBgoMDRDKD-4mMEfIy55yJGw0X05BQ6yhaD0Hdz-4oe1j7QF0yqmJPOSWkMvt9gdD64t_p2FOiVy7SjtB4&source=gbs_api
     reading: false
     url: https://www.italictype.com/api/books/5yr0B3v/
   - title: Coyote
-    subtitle: ''
+    subtitle: ""
     author: Sylvain Prudhomme
-    date: '2025-01-24T16:05:21.246399Z'
-    read: '2025-02-07T13:21:54.305942Z'
+    date: 2025-01-24
+    read: 2025-02-07
     rating: 5
     isbn: 270735564X
-    isbn13: '9782707355645'
+    isbn13: "9782707355645"
     pages: 213
     cover_url: >-
       https://books.google.com/books/publisher/content?id=F1odEQAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70O5dUp7JFcfEtAOhYoktwC_xV6kpUghcNh3n-b-SbOAWVnQ2iNEx0Ywp3BM05QkUSpuuL-8ZL_ypmGUbUeZtb-hTL5tt9759mCOBYZocDRuuw6F-2pnGwAzI4E5on1l2L7BYZd&source=gbs_api
     reading: false
     url: https://www.italictype.com/api/books/NY4DMn8/
   - title: Seuls sont les indomptés
-    subtitle: ''
+    subtitle: ""
     author: Edward Abbey
-    date: '2025-01-24T16:03:57.938501Z'
-    read: '2025-01-24T16:04:09.956515Z'
+    date: 2025-01-24
+    read: 2025-01-24
     rating: 3
-    isbn: '2846669929'
-    isbn13: '9782846669924'
+    isbn: "2846669929"
+    isbn13: "9782846669924"
     pages: 497
     cover_url: https://www.italictype.com/static/images/bookcover-not-found.png
     reading: false
