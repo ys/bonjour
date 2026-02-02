@@ -20,13 +20,15 @@ jobs:
         uses: denoland/setup-deno@main
         with:
           deno-version: v1.x
-      - name: Fetch Goodreads data
+      - name: Fetch Hardcover data
+        env:
+          HARDCOVER_TOKEN: ${{ secrets.HARDCOVER_TOKEN }}
         run: |
-          deno run --allow-net --allow-read --allow-write flat/goodreads.ts "https://www.goodreads.com/review/list_rss/3062737"
+          deno run --allow-net --allow-read --allow-write --allow-env --allow-import flat/hardcover.ts
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/books/*.yaml
-          git diff --staged --quiet || git commit -m "Update books from Goodreads"
+          git add data/books/*.yaml data/books/hardcover.json
+          git diff --staged --quiet || git commit -m "Update books from Hardcover"
           git push

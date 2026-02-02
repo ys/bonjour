@@ -1,15 +1,29 @@
 current: true
 books:
-  - title: Blank Space
-    subtitle: A Cultural History of the Twenty-First Century
+  - title: Du même bois
+    author: Marion Fayolle
+    subtitle: ""
+    date: 2024-03-17
+    read: null
+    rating: 3
+    pages: 128
+    isbn: "2073025811"
+    isbn13: "9782073025814"
+    cover_url: >-
+      https://assets.hardcover.app/edition/31984880/388403f7e51e37ab021cb6a7b9c5770dc948f650.jpeg
+    reading: true
+    url: https://hardcover.app/books/du-meme-bois-2024
+  - title: "Blank Space: A Cultural History of the Twenty-First Century"
     author: W. David Marx
+    subtitle: A Cultural History of the Twenty-First Century
     date: 2026-01-20
     read: null
-    rating: .nan
+    rating: 0
+    pages: 387
     isbn: "0593834003"
     isbn13: "9780593834008"
-    pages: 387
     cover_url: >-
-      https://books.google.com/books/publisher/content?id=ptBHEQAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71gRMufyOYoZi1RiTBY6k-WOA28rX-XqsVcynuZ4jVx3Y4fEjylZIsdAbFFssD4NJuycp0cLuWmjWWr87VOAtrAidRBZ350HchX9S5zHCOSSNT-86eNGWZyxj18u5C0jFEl_PR9&source=gbs_api
+      https://assets.hardcover.app/edition/32260534/b9b3c5c4c16e580622428d474bf3b1cc6bd5383b.jpeg
     reading: true
-    url: https://www.italictype.com/api/books/8G6Zbgv/
+    url: >-
+      https://hardcover.app/books/blank-space-a-cultural-history-of-the-twenty-first-century

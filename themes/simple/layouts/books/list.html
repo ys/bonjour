@@ -58,12 +58,10 @@
     <header class="my-4 flex flex-row items-center">
       <span class="font-sans">{{ partial "moon" .}}</span>
       <h2 id="{{.year}}" class="font-bold">{{ .year }}</h2>
-      <span class="ml-1 font-sans text-md opacity-70"> • {{ len .books}}</span>
+      <span class="ml-1 font-sans text-md opacity-70"> • {{ len (where .books "read" "!=" nil) }}</span>
     </header>
-    {{ $readingBooks := sort (where .books "read" "==" nil) "date" "desc" }}
     {{ $readBooks := sort (where .books "read" "!=" nil) "read" "desc" }}
-    {{ $allBooks := append $readingBooks $readBooks }}
-    {{ range $allBooks }}
+    {{ range $readBooks }}
         {{ $color := "accent" }}
         {{range first 1 (shuffle $.Site.Params.themeColors) }}
           {{ $color = . }}

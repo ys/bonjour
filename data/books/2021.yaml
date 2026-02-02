@@ -1,19 +1,56 @@
 year: 2021
 books:
-  - title: Surf city
-    author: Kem Nunn
-    subtitle: ""
-    date: 2021-01-26
-    read: 2021-01-26
+  - title: Normal People
+    author: Sally Rooney
+    subtitle: A Novel
+    date: 2021-03-26
+    read: 2021-03-26
     rating: 3
-    pages: 352
-    isbn: "2070304817"
-    isbn13: "9782070304813"
-    cover_url: >-
-      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364185677l/11736400.jpg
+    pages: 320
+    isbn: "2823615253"
+    isbn13: "9782823615258"
+    cover_url: https://assets.hardcover.app/editions/30402559/2802629647590855.jpeg
     reading: false
-    url: >-
-      https://www.goodreads.com/review/show/8288044962?utm_medium=api&utm_source=rss
+    url: https://hardcover.app/books/normal-people
+  - title: Breath
+    author: Tim Winton
+    subtitle: ""
+    date: 2021-01-06
+    read: 2021-01-06
+    rating: 5
+    pages: 285
+    isbn: "0374116342"
+    isbn13: "9780374116347"
+    cover_url: >-
+      https://assets.hardcover.app/edition/14337995/4cfe4cfecb916ba5f4cf506b601585e10f3dd5b9.jpeg
+    reading: false
+    url: https://hardcover.app/books/breath-2008
+  - title: "Make Time: How to Focus on What Matters Every Day"
+    author: Jake Knapp
+    subtitle: How to Focus on What Matters Every Day
+    date: 2021-03-26
+    read: 2021-03-26
+    rating: 3
+    pages: 304
+    isbn: "1473552915"
+    isbn13: "9781473552913"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/42059605/4c768048b7e2bf34c08716b693c707ed564dbd7d.jpeg
+    reading: false
+    url: https://hardcover.app/books/make-time
+  - title: "Humankind: A Hopeful History"
+    author: Rutger Bregman
+    subtitle: A Hopeful History
+    date: 2021-12-05
+    read: 2021-12-05
+    rating: 3
+    pages: 496
+    isbn: "1408898969"
+    isbn13: "9781408898963"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/39440706/a086a399255ae908aaeb8b825028240a1cbeb3d6.jpeg
+    reading: false
+    url: https://hardcover.app/books/humankind
   - title: Rusty Brown
     author: Chris Ware
     subtitle: ""
@@ -24,21 +61,435 @@ books:
     isbn: "0375424326"
     isbn13: "9780375424328"
     cover_url: >-
-      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549915368l/43475261.jpg
+      https://assets.hardcover.app/edition/5162406/116228c0d6cb51dad1ab5272b06930727777ce53.jpeg
     reading: false
-    url: >-
-      https://www.goodreads.com/review/show/8288044936?utm_medium=api&utm_source=rss
-  - title: Breath
-    author: Tim Winton
+    url: https://hardcover.app/books/rusty-brown
+  - title: The Travelling Cat Chronicles
+    author: Hiro Arikawa
     subtitle: ""
-    date: 2021-01-06
-    read: 2021-01-06
-    rating: 5
-    pages: 218
-    isbn: "0374116342"
-    isbn13: "9780374116347"
+    date: 2021-10-11
+    read: 2021-10-11
+    rating: 4
+    pages: 239
+    isbn: "2330084447"
+    isbn13: "9782330084448"
     cover_url: >-
-      https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317792624l/2176735.jpg
+      https://assets.hardcover.app/external_data/61242096/a62fef28ee2472f9e68b6eee25687cbaaa7c5950.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-travelling-cat-chronicles
+  - title: "Do Walk: Navigate earth, mind and body. Step by step."
+    author: Libby DeLana
+    subtitle: Navigate earth, mind and body. Step by step.
+    date: 2021-06-14
+    read: 2021-06-14
+    rating: 3
+    pages: 128
+    isbn: "1907974962"
+    isbn13: "9781907974960"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/60178966/9fc4ee4c5ef02123309a37a8d05caa820807176f.jpeg
+    reading: false
+    url: https://hardcover.app/books/do-walk
+  - title: The Doorstep Mile
+    author: Alastair Humphreys
+    subtitle: Live More Adventurously Every Day
+    date: 2021-06-07
+    read: 2021-06-07
+    rating: 4
+    pages: 308
+    isbn: "1916308805"
+    isbn13: "9781916308800"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458295/eb91f4bb4cfee9386cd64ee979c36d71ade094b9.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-doorstep-mile
+  - title: Saltwater in the Blood
+    author: Easkey Britton
+    subtitle: Surfing, Natural Cycles and the Sea's Power to Heal
+    date: 2021-12-26
+    read: 2021-12-26
+    rating: 4
+    pages: 256
+    isbn: ""
+    isbn13: "9781786785558"
+    cover_url: https://assets.hardcover.app/edition/30647039/58295954._SX98_.jpg
+    reading: false
+    url: https://hardcover.app/books/saltwater-in-the-blood
+  - title: L'incroyable histoire du homard qui sauva sa carapace
+    author: Thomas GERBEAUX
+    subtitle: ""
+    date: 2021-09-12
+    read: 2021-09-12
+    rating: 4
+    pages: 136
+    isbn: "2889087379"
+    isbn13: "9782889087372"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/59865834/4b04656d78965e762e5e65d7f06b30bd66910dc6.jpeg
     reading: false
     url: >-
-      https://www.goodreads.com/review/show/8288044885?utm_medium=api&utm_source=rss
+      https://hardcover.app/books/lincroyable-histoire-du-homard-qui-sauva-sa-carapace
+  - title: Miss Islande
+    author: Auður Ava Ólafsdóttir
+    subtitle: roman
+    date: 2021-03-26
+    read: 2021-03-26
+    rating: 3
+    pages: 261
+    isbn: "2843048699"
+    isbn13: "9782843048692"
+    cover_url: >-
+      https://assets.hardcover.app/edition/30825095/41d60d527d8ffaf82aa070f2f278bb033d044e6b.jpeg
+    reading: false
+    url: https://hardcover.app/books/miss-islande
+  - title: Les Garçons de l'été
+    author: Rebecca Lighieri
+    subtitle: ""
+    date: 2021-07-22
+    read: 2021-07-22
+    rating: 4
+    pages: 0
+    isbn: "2072755204"
+    isbn13: "9782072755200"
+    cover_url: >-
+      https://assets.hardcover.app/edition/30825676/1c2538291ffec188fb9d2e2f3f85424ce0a1ea1e.jpeg
+    reading: false
+    url: https://hardcover.app/books/les-garcons-de-lete
+  - title: "Path: A short story about reciprocity"
+    author: Louisa Thomsen Brits
+    subtitle: A short story about reciprocity
+    date: 2021-06-07
+    read: 2021-06-07
+    rating: 3
+    pages: 0
+    isbn: 190797458X
+    isbn13: "9781907974588"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/60316080/c4656cc2b0ce8a52d4f784766e6dad1dc19e4694.jpeg
+    reading: false
+    url: https://hardcover.app/books/path
+  - title: Encabanée
+    author: Gabrielle Filteau-Chiba
+    subtitle: ""
+    date: 2021-05-16
+    read: 2021-05-16
+    rating: 4
+    pages: 68
+    isbn: "2361397048"
+    isbn13: "9782361397043"
+    cover_url: >-
+      https://assets.hardcover.app/edition/31229671/19b2a31944f59ca341227171962eea0ca07ac609.jpeg
+    reading: false
+    url: https://hardcover.app/books/encabanee
+  - title: Au prochain arrêt
+    author: Hiro Arikawa
+    subtitle: ""
+    date: 2021-07-30
+    read: 2021-07-30
+    rating: 3
+    pages: 184
+    isbn: "2330150121"
+    isbn13: "9782330150129"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/60390611/19b6b72decb04066c58facb7a0024f99d813961b.jpeg
+    reading: false
+    url: https://hardcover.app/books/au-prochain-arret
+  - title: En mer
+    author: Toine Heijmans
+    subtitle: ""
+    date: 2021-05-16
+    read: 2021-05-16
+    rating: 4
+    pages: 155
+    isbn: "2267025280"
+    isbn13: "9782267025286"
+    cover_url: >-
+      https://assets.hardcover.app/edition/31298882/69fa97d961715d7fd04dcdb02c7c2d10a18ae938.jpeg
+    reading: false
+    url: https://hardcover.app/books/en-mer
+  - title: The Lovers
+    author: Paolo Cognetti
+    subtitle: ""
+    date: 2021-12-13
+    read: 2021-12-13
+    rating: 4
+    pages: 178
+    isbn: ""
+    isbn13: ""
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2056823/672a2301ab83b1396cf848a0ffc54539ce9a0fc4.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-lovers-2021
+  - title: Le grand marin
+    author: Catherine Poulain
+    subtitle: ""
+    date: 2021-05-10
+    read: 2021-05-10
+    rating: 4
+    pages: 294
+    isbn: ""
+    isbn13: ""
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2457970/fb0c3c2745dd13194fcb00e395e5e186e477f457.jpeg
+    reading: false
+    url: https://hardcover.app/books/le-grand-marin
+  - title: Chroniques de jeunesse
+    author: Guy Delisle
+    subtitle: ""
+    date: 2021-03-26
+    read: 2021-03-26
+    rating: 3
+    pages: 136
+    isbn: "2413039317"
+    isbn13: "9782413039310"
+    cover_url: >-
+      https://assets.hardcover.app/edition/31653158/b3cc9cdf6f3af7af9c62d0e8fed39a59e8784ae3.jpeg
+    reading: false
+    url: https://hardcover.app/books/chroniques-de-jeunesse
+  - title: Fuki-no-tô
+    author: Aki Shimazaki
+    subtitle: ""
+    date: 2021-09-21
+    read: 2021-09-21
+    rating: 3
+    pages: 78
+    isbn: "2330140096"
+    isbn13: "9782330140090"
+    cover_url: >-
+      https://assets.hardcover.app/edition/31744636/76c2f70a9b1e68a3de816ef94f4a03d0f7842bd5.jpeg
+    reading: false
+    url: https://hardcover.app/books/fuki-no-to-2017
+  - title: Sans alcool
+    author: Claire Touzard
+    subtitle: ""
+    date: 2021-06-07
+    read: 2021-06-07
+    rating: 5
+    pages: 220
+    isbn: "2080232770"
+    isbn13: "9782080232779"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/1061185/95c984d5056eb629797e5fa9ce753c3965ed32c8.jpeg
+    reading: false
+    url: https://hardcover.app/books/sans-alcool-2021
+  - title: "Do Earth: Healing strategies for humankind."
+    author: Tamsin Omond
+    subtitle: Healing strategies for humankind.
+    date: 2021-11-05
+    read: 2021-11-05
+    rating: 4
+    pages: 0
+    isbn: "1914168003"
+    isbn13: "9781914168000"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/1629148/24432b33653982b3154826a5fd4e5a74ed81c2de.jpeg
+    reading: false
+    url: https://hardcover.app/books/do-earth-healing-strategies-for-humankind
+  - title: Soudain, seuls
+    author: Isabelle Autissier
+    subtitle: ""
+    date: 2021-04-01
+    read: 2021-04-01
+    rating: 4
+    pages: 126
+    isbn: "2234077109"
+    isbn13: "9782234077102"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32589759/9fb19094d9d194c460cb79bc0797c4f72805c73e.jpeg
+    reading: false
+    url: https://hardcover.app/books/soudain-seuls-2015
+  - title: Surf city
+    author: Kem Nunn
+    subtitle: ""
+    date: 2021-01-26
+    read: 2021-01-26
+    rating: 3
+    pages: 334
+    isbn: "2070304817"
+    isbn13: "9782070304813"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675854/9fc3a32e77f4993fbed79a4796da35a06c1c791e.jpeg
+    reading: false
+    url: https://hardcover.app/books/surf-city-1984
+  - title: That Oceanic Feeling
+    author: Fiona Capp
+    subtitle: ""
+    date: 2021-03-26
+    read: 2021-03-26
+    rating: 4
+    pages: 304
+    isbn: "1741144736"
+    isbn13: "9781741144734"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675886/6eff76bde5c90f2608eb60915b6139d5d49d786c.jpeg
+    reading: false
+    url: https://hardcover.app/books/that-oceanic-feeling-2003
+  - title: Printemps silencieux
+    author: Rachel Carson
+    subtitle: ""
+    date: 2021-03-26
+    read: 2021-03-26
+    rating: 4
+    pages: 343
+    isbn: "2918490997"
+    isbn13: "9782918490999"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458225/8116077313bbb94b55da05e61828089a4b5d016b.jpeg
+    reading: false
+    url: https://hardcover.app/books/printemps-silencieux-1962
+  - title: Besoin de mer
+    author: Hervé Hamon
+    subtitle: ""
+    date: 2021-05-10
+    read: 2021-05-10
+    rating: 3
+    pages: 208
+    isbn: "2021339025"
+    isbn13: "9782021339024"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458088/ce28a1fc4b939eefaed64e2b6e8a8248efc51487.jpeg
+    reading: false
+    url: https://hardcover.app/books/besoin-de-mer-1999
+  - title: "Le Syndrome de Palo Alto: roman"
+    author: Loïc Hecht
+    subtitle: roman
+    date: 2021-06-22
+    read: 2021-06-22
+    rating: 4
+    pages: 0
+    isbn: "2756113069"
+    isbn13: "9782756113067"
+    cover_url: ""
+    reading: false
+    url: https://hardcover.app/books/le-syndrome-de-palo-alto-roman
+  - title: Avec Mollie
+    author: William Finnegan
+    subtitle: ""
+    date: 2021-07-08
+    read: 2021-07-08
+    rating: 4
+    pages: 95
+    isbn: "2364685729"
+    isbn13: "9782364685727"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458100/6efde1f6d2e32e89e8004d152819c08fc363cdf8.jpeg
+    reading: false
+    url: https://hardcover.app/books/avec-mollie-2021
+  - title: Surf - Une histoire de la glisse
+    author: Jérémy Lemarie
+    subtitle: ""
+    date: 2021-08-17
+    read: 2021-08-17
+    rating: 3
+    pages: 235
+    isbn: "2918682446"
+    isbn13: "9782918682448"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675893/c51f615a87e8ad7d8f97ecf3cdd6e63d110298d8.jpeg
+    reading: false
+    url: https://hardcover.app/books/surf-une-histoire-de-la-glisse
+  - title: Tu m'avais dit Ouessant
+    author: Gwenaëlle ABOLIVIER
+    subtitle: ""
+    date: 2021-08-07
+    read: 2021-08-07
+    rating: 4
+    pages: 130
+    isbn: "2361390892"
+    isbn13: "9782361390891"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458120/7198f4f318ab688801922886b518fb9966bbec4d.jpeg
+    reading: false
+    url: https://hardcover.app/books/tu-mavais-dit-ouessant-2019
+  - title: Grand Océan
+    author: Fabien Grolleau
+    subtitle: ""
+    date: 2021-07-30
+    read: 2021-07-30
+    rating: 4
+    pages: 148
+    isbn: "2366244444"
+    isbn13: "9782366244441"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675896/a9a1ee4838834d87123cb0abce706a30c9f4528a.jpeg
+    reading: false
+    url: https://hardcover.app/books/grand-ocean-2019
+  - title: Le nageur d'Aral
+    author: Louis Grall
+    subtitle: ""
+    date: 2021-08-07
+    read: 2021-08-07
+    rating: 3
+    pages: 60
+    isbn: "2358876658"
+    isbn13: "9782358876650"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458143/0341bb5d2dca27351ff6d8d177e109b8b8e292a7.jpeg
+    reading: false
+    url: https://hardcover.app/books/le-nageur-daral-2021
+  - title: Le Retour
+    author: Anna Enquist
+    subtitle: ""
+    date: 2021-09-10
+    read: 2021-09-10
+    rating: 3
+    pages: 327
+    isbn: "2330007817"
+    isbn13: "9782330007812"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458196/c7546a2b1765c57bff226233ac258ac7b80d32f0.jpeg
+    reading: false
+    url: https://hardcover.app/books/le-retour-2005
+  - title: Petite philosophie illustrée de la vague
+    author: Mathieu Accoh
+    subtitle: ""
+    date: 2021-10-26
+    read: 2021-10-26
+    rating: 3
+    pages: 156
+    isbn: ""
+    isbn13: ""
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458138/85c2bd8dbae084f3e9b449d4c366cd5b51057e53.jpeg
+    reading: false
+    url: >-
+      https://hardcover.app/books/petite-philosophie-illustree-de-la-vague-5eb47fe8-8863-404e-a193-e6160b4e4e04
+  - title: Jamais la même vague
+    author: Frédéric Schiffter
+    subtitle: ""
+    date: 2021-11-10
+    read: 2021-11-10
+    rating: 3
+    pages: 186
+    isbn: "2081411512"
+    isbn13: "9782081411517"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458204/8b9926b851ada21885a89cbaab18880e537fb033.jpeg
+    reading: false
+    url: https://hardcover.app/books/jamais-la-meme-vague-2020
+  - title: Thermae Romae I
+    author: Mari Yamazaki
+    subtitle: ""
+    date: 2021-12-08
+    read: 2021-12-08
+    rating: 3
+    pages: 374
+    isbn: 031623222X
+    isbn13: "9780316232227"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458214/cea9a0b5a6cc2123279ac131c8d2df68f2d0b5b5.jpeg
+    reading: false
+    url: https://hardcover.app/books/thermae-romae-i-2009
+  - title: Thermae Romae, Vol. 2
+    author: Mari Yamazaki
+    subtitle: ""
+    date: 2021-12-08
+    read: 2021-12-08
+    rating: 4
+    pages: 382
+    isbn: "0316232238"
+    isbn13: "9780316232234"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458207/70cb6a01980faf1a843ecd61ebbe8ee0e7b250d9.jpeg
+    reading: false
+    url: https://hardcover.app/books/thermae-romae-vol-2-2011

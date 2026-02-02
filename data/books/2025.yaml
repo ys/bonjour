@@ -1,210 +1,213 @@
 year: 2025
 books:
-  - title: À l'ombre des choses
-    subtitle: ""
-    author: Anatole Edouard Nicolo
-    date: 2025-12-24
-    read: 2025-12-24
-    rating: 4
-    isbn: "2702192017"
-    isbn13: "9782702192016"
-    pages: 104
-    cover_url: >-
-      https://books.google.com/books/publisher/content?id=Me0OEQAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70CavsNKzPBjuSG7eNyQsgkq9n7pl-reRyPTiPzuiGxBRipiSno8_yBzhc6SJ-gdDGrkrbB8fZWOdCYGACiL9fmBGZ2U1pJLLILLYWq8aPiHvyXyIqqgRRy82T77Z1inN06y60Z&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/5kY4798/
-  - title: Les éphémères
-    subtitle: ""
-    author: Andrew O'Hagan
-    date: 2025-12-24
-    read: 2025-12-24
-    rating: 5
-    isbn: ""
-    isbn13: "9791041423804"
-    pages: 307
-    cover_url: https://www.italictype.com/static/images/bookcover-not-found.png
-    reading: false
-    url: https://www.italictype.com/api/books/v1PRr45/
-  - title: On Muscle
-    subtitle: The Stuff That Moves Us and Why It Matters
-    author: Bonnie Tsui
-    date: 2025-12-23
-    read: 2025-12-23
+  - title: Dark Matter
+    author: Blake Crouch
+    subtitle: A Novel
+    date: 2025-05-25
+    read: 2025-05-25
     rating: 3
-    isbn: "1643757296"
-    isbn13: "9781643757292"
-    pages: 195
+    pages: 293
+    isbn: "2290116750"
+    isbn13: "9782290116753"
     cover_url: >-
-      https://books.google.com/books/publisher/content?id=OfMeEQAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73y6OH_K-XcwSF8D9EJqL8ZFaeHCYsdoI_sy2LmWyRmvxPB0NQ429uFBq1FdOZ3eiKgjygYE-yqYyS-KXdEXix-SqdTUtXixk6d1r6MzRGEX6QSikp1aYZQMuhR2lR8AxVWM_4D&source=gbs_api
+      https://assets.hardcover.app/book_mappings/7332342/e3c5928fc0a24ca97940c68f03dd2b503e42ba4f.jpeg
     reading: false
-    url: https://www.italictype.com/api/books/5bLgXG8/
+    url: https://hardcover.app/books/dark-matter
+  - title: The Thursday Murder Club
+    author: Richard Osman
+    subtitle: ""
+    date: 2025-08-13
+    read: 2025-08-13
+    rating: 4
+    pages: 499
+    isbn: "2702448097"
+    isbn13: "9782702448090"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/47667262/f7aa5ab35a99f0b0f24d4b75d06e02b96a81dcec.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-thursday-murder-club
+  - title: Deep
+    author: James Nestor
+    subtitle: ""
+    date: 2025-08-13
+    read: 2025-08-13
+    rating: 4
+    pages: 266
+    isbn: "0547985525"
+    isbn13: "9780547985527"
+    cover_url: https://assets.hardcover.app/edition/7995432/8957691-L.jpg
+    reading: false
+    url: https://hardcover.app/books/deep
   - title: Welcome to Paradise, Now Go to Hell
-    subtitle: A True Story of Violence, Corruption, and the Soul of Surfing
     author: Chas Smith
+    subtitle: ""
     date: 2025-09-15
     read: 2025-09-15
     rating: 3
+    pages: 256
     isbn: "0062202545"
     isbn13: "9780062202543"
-    pages: 196
     cover_url: >-
-      https://books.google.com/books/publisher/content?id=XbweAAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72-Girjq2Sok_BEj1mUSi1O6_BAyqOnxiw9ua7Rn39I_npAKt1istzAGJDhsM5ccIwJsfOJnr4H0yEmEjQPUjg116hE7PpxFtlEIjEXXzYJtZZ7FYqI4ri4DuguxZeiO6PRxDmA&source=gbs_api
+      https://assets.hardcover.app/external_data/59608420/dcd99b223ae0331bc62fcf9e7f59bd7cdf1eee20.jpeg
     reading: false
-    url: https://www.italictype.com/api/books/8W4pPGN/
-  - title: Le Jeudi suivant
-    subtitle: ""
-    author: Richard Osman
-    date: 2025-09-01
-    read: 2025-09-01
-    rating: 4
-    isbn: "2702448100"
-    isbn13: "9782702448106"
-    pages: 496
-    cover_url: >-
-      https://books.google.com/books/publisher/content?id=uY1hEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE721FOTFqDtABQ2Rf4kr6yl5XppgOQPUY_HY5yF6ppWmtlv1wjWEGPLWIzwdAgTz6x94TESRpbJ10RiME5W7rC_2B0idC2uSIjLZegIouehpd2VusSs8NjNY0Mj42p8baIsQPgj4&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/5gj2OoN/
+    url: https://hardcover.app/books/welcome-to-paradise-now-go-to-hell
   - title: The Dead Do Not Improve
-    subtitle: A Novel
     author: Jay Caspian Kang
+    subtitle: ""
     date: 2025-08-13
     read: 2025-08-13
     rating: 4
+    pages: 274
     isbn: "0307953904"
     isbn13: "9780307953902"
-    pages: 274
     cover_url: >-
-      https://books.google.com/books/content?id=8ri3cc-vjs0C&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72pbcadpdN2sWWZXBLYvFfY0SFflU98t_ZC8xFvYcNGNmzseBrD2x_mnA7Uy1GptIe2rIu0ZTXd8vtZFKNGDlgFjstj01YojEC47dZIFKW2WUjXoFigjPXRyYOCvSWc-72dmyKq&source=gbs_api
+      https://assets.hardcover.app/external_data/60423725/fdba60b1175ab241166b9c89001c7167208e74b2.jpeg
     reading: false
-    url: https://www.italictype.com/api/books/vEglqnN/
-  - title: Le Murder Club du jeudi
+    url: https://hardcover.app/books/the-dead-do-not-improve
+  - title: Jacaranda
+    author: Gaël Faye
     subtitle: ""
-    author: Richard Osman
-    date: 2025-08-13
-    read: 2025-08-13
-    rating: 5
-    isbn: "2702448097"
-    isbn13: "9782702448090"
-    pages: 499
+    date: 2025-05-25
+    read: 2025-05-25
+    rating: 4
+    pages: 261
+    isbn: ""
+    isbn13: "9782246831464"
     cover_url: >-
-      https://books.google.com/books/publisher/content?id=YFEXEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72dY3inFrGAqNM_ioFWHjVKjA8B3Pl67sJ497Me_nAYzjiggCVtPCUAjr0EI3C_59MS-pZIST1YeiezARJy0kYxU7dIQnhuyrG96TuSMMCoVq6Af5iqCdYIX5ZTUMiGoF1GMDNn&source=gbs_api
+      https://assets.hardcover.app/edition/31721165/6d72836c2d74b4aaf196185215dca7022c418bdd.jpeg
     reading: false
-    url: https://www.italictype.com/api/books/8G6KjEv/
-  - title: Deep
-    subtitle: Freediving, Renegade Science, and what the Ocean Tells Us about Ourselves
-    author: James Nestor
+    url: https://hardcover.app/books/jacaranda-2024
+  - title: Hexa
+    author: Gabrielle Filteau-Chiba
+    subtitle: ""
+    date: 2025-05-25
+    read: 2025-05-25
+    rating: 5
+    pages: 296
+    isbn: ""
+    isbn13: "9782897724573"
+    cover_url: >-
+      https://assets.hardcover.app/editions/31938308/e475401e-9bce-4c28-aef9-d6055864d767.jpg
+    reading: false
+    url: https://hardcover.app/books/hexa
+  - title: "On Muscle: The Stuff That Moves Us and Why It Matters"
+    author: Bonnie Tsui
+    subtitle: The Stuff That Moves Us and Why It Matters
+    date: 2025-12-23
+    read: 2025-12-23
+    rating: 3
+    pages: 195
+    isbn: "1643757296"
+    isbn13: "9781643757292"
+    cover_url: >-
+      https://assets.hardcover.app/edition/31993019/c7290a36cc8c931decbe965979b138228fd1447d.jpeg
+    reading: false
+    url: https://hardcover.app/books/on-muscle
+  - title: La Disparition de Stéphanie Mailer
+    author: Joël Dicker
+    subtitle: ""
     date: 2025-08-13
     read: 2025-08-13
     rating: 4
-    isbn: "0547985525"
-    isbn13: "9780547985527"
-    pages: 285
+    pages: 863
+    isbn: "2889730131"
+    isbn13: "9782889730131"
     cover_url: >-
-      https://books.google.com/books/publisher/content?id=eYi9AwAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70mx8UvCbycTSygsvKVSr5RgEbkNnGEW_gAAwXmzrU6JDuVlnywrqWIdDkRXbSHcRwe7xKxM9ycnC-xjrNIdRdblr7tHDqFyEV69-5lGbhEjOtebWx0CJzOfdIqWQ9vpwN1zCu1&source=gbs_api
+      https://assets.hardcover.app/external_data/2458326/7c509c0ef360d0494f9d46cf2f180e79c7069fb9.jpeg
     reading: false
-    url: https://www.italictype.com/api/books/5yOda38/
-  - title: Respire
-    subtitle: A nova ciência de uma arte perdida - Nova edição
-    author: James Nestor
-    date: 2025-08-13
-    read: 2025-08-13
-    rating: 5
-    isbn: "8551009567"
-    isbn13: "9788551009567"
-    pages: 317
-    cover_url: >-
-      https://books.google.com/books/publisher/content?id=mfYOEQAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70IqFxstiwW1PKvxcQVCCh1rPZHuwVvdiH_Fdp3iw62UFk6YDrVAQ9pjo0i5wTxicACa_Casp9OPNzHH-d3xcHhTGisPf-gA8onVRhmnosa3F--hSaKR7xCadlr-NNHFuYy7R9e&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/v0JnbwN/
+    url: https://hardcover.app/books/la-disparition-de-stephanie-mailer-2018
   - title: >-
       La méthode WIM HOF - La thérapie par le froid pour devenir fort, heureux
       et en bonne santé
-    subtitle: ""
     author: Wim Hof
+    subtitle: ""
     date: 2025-08-13
     read: 2025-08-13
-    rating: 3
+    rating: 2
+    pages: 231
     isbn: "2813226416"
     isbn13: "9782813226419"
-    pages: 231
     cover_url: >-
-      https://books.google.com/books/publisher/content?id=-ix4EAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73grWAkCijmKp5LfKjo8huc8mjHsk0eyl6MIgXvP033fiLFt-_6z5ccn_AzAMAQRFNHTOVHHmrUVoYuscWYfhnSKNt_8X0XmUTaTIT9M_mIfOC-70ETWfU4hC5kH_HvI3cBH7VC&source=gbs_api
+      https://assets.hardcover.app/external_data/2458230/a03cdfdeafd6520d4df3cd7df8f34f88b8c1e512.jpeg
     reading: false
-    url: https://www.italictype.com/api/books/8rJBjX8/
-  - title: La Disparition de Stéphanie Mailer
-    subtitle: ""
-    author: Joël Dicker
-    date: 2025-08-13
-    read: 2025-08-13
-    rating: 5
-    isbn: "2889730131"
-    isbn13: "9782889730131"
-    pages: 863
-    cover_url: >-
-      https://books.google.com/books/publisher/content?id=3a9VEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73A85wUcZnNllLTf8BRmjL7rW7VvlJcfKUD1wp5p1Ds-1efNLPLagl1MzejOXhLXS2DZYJAvvQ-zkRTy-N9UawfGy8jO0PdO9TFm4uigmA7meweT15RJkQgUTXwTuZEoaVV1PrW&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/NppyXDN/
-  - title: Hexa
-    subtitle: roman
-    author: Gabrielle Filteau-Chiba
-    date: 2025-05-25
-    read: 2025-05-25
-    rating: 5
-    isbn: "2897724579"
-    isbn13: "9782897724573"
-    pages: 318
-    cover_url: >-
-      https://books.google.com/books/content?id=xnls0AEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE707pCzcpWT55be3qLtXEOwz91pqYoiNaKrxhwjSG0R0X7KqyajQ0e5apGpndYrGcmQDMe_Vf4gRFNeiY3G2VAln4ENw7Jy3ebDVf3AFXkUahzqTszb6ZR4WLgtVIPx4hDZorgTI&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/5XOwPON/
-  - title: Jacaranda
-    subtitle: Prix Renaudot 2024
-    author: Gaël Faye
-    date: 2025-05-25
-    read: 2025-05-25
-    rating: 5
-    isbn: "2246831466"
-    isbn13: "9782246831464"
-    pages: 261
-    cover_url: >-
-      https://books.google.com/books/publisher/content?id=9jsNEQAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70a_LakWzQ5FAF7hVvzfBMhtV--lgwRb2UhTEGfGUE1xsfAPoGyHXIT514FXNSUBXy5AX_CY5G3LQ92_xJYeKo5uSAd_WQFr--1iI5NXfeNWye9fyGjZNJ8QtQxTvE0OCDmiB4v&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/8eZYxXN/
-  - title: Dark Matter
-    subtitle: ""
-    author: Blake Crouch
-    date: 2025-05-25
-    read: 2025-05-25
-    rating: 4
-    isbn: "2290116750"
-    isbn13: "9782290116753"
-    pages: 316
-    cover_url: >-
-      https://books.google.com/books/publisher/content?id=hsyeDQAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73sMKgPhSQR41rUfONkWsLzZPhe_u-mKIt-jRXwLRrDkeuEBSRowRpBgoMDRDKD-4mMEfIy55yJGw0X05BQ6yhaD0Hdz-4oe1j7QF0yqmJPOSWkMvt9gdD64t_p2FOiVy7SjtB4&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/5yr0B3v/
+    url: >-
+      https://hardcover.app/books/la-methode-wim-hof-la-therapie-par-le-froid-pour-devenir-fort-heureux-et-en-bonne-sante
   - title: Coyote
-    subtitle: ""
     author: Sylvain Prudhomme
-    date: 2025-01-24
+    subtitle: ""
+    date: 2025-02-07
     read: 2025-02-07
-    rating: 5
+    rating: 4
+    pages: 213
     isbn: 270735564X
     isbn13: "9782707355645"
-    pages: 213
     cover_url: >-
-      https://books.google.com/books/publisher/content?id=F1odEQAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70O5dUp7JFcfEtAOhYoktwC_xV6kpUghcNh3n-b-SbOAWVnQ2iNEx0Ywp3BM05QkUSpuuL-8ZL_ypmGUbUeZtb-hTL5tt9759mCOBYZocDRuuw6F-2pnGwAzI4E5on1l2L7BYZd&source=gbs_api
+      https://assets.hardcover.app/external_data/2458186/3ad18e4fcfa600285fd40ed82710fc42bcdbaa08.jpeg
     reading: false
-    url: https://www.italictype.com/api/books/NY4DMn8/
-  - title: Seuls sont les indomptés
+    url: https://hardcover.app/books/coyote-2024
+  - title: "Respire: A nova ciência de uma arte perdida - Nova edição"
+    author: James Nestor
+    subtitle: A nova ciência de uma arte perdida - Nova edição
+    date: 2025-08-13
+    read: 2025-08-13
+    rating: 4
+    pages: 317
+    isbn: "8551009567"
+    isbn13: "9788551009567"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458275/b4fc5b7a5d77492964987e2280a72e2a4da702a9.jpeg
+    reading: false
+    url: >-
+      https://hardcover.app/books/respire-a-nova-ciencia-de-uma-arte-perdida-nova-edicao
+  - title: Les Éphémères
+    author: Andrew O'Hagan
     subtitle: ""
+    date: 2025-12-24
+    read: 2025-12-24
+    rating: 4
+    pages: 0
+    isbn: ""
+    isbn13: "9791041423804"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675970/83f3ca48bfa050e39a5bebbd5a013564b49605e6.jpeg
+    reading: false
+    url: https://hardcover.app/books/les-ephemeres
+  - title: À l'ombre des choses
+    author: Anatole Edouard Nicolo
+    subtitle: ""
+    date: 2025-12-24
+    read: 2025-12-24
+    rating: 4
+    pages: 104
+    isbn: "2702192017"
+    isbn13: "9782702192016"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458271/d5c03f9fb38254bc4d2ed4d72d1ce5c0d46c1888.jpeg
+    reading: false
+    url: https://hardcover.app/books/a-lombre-des-choses
+  - title: Le Jeudi suivant
+    author: Richard Osman
+    subtitle: ""
+    date: 2025-09-01
+    read: 2025-09-01
+    rating: 4
+    pages: 496
+    isbn: "2702448100"
+    isbn13: "9782702448106"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458200/93be1c5e5f68872467462ea375fbe289e8dae558.jpeg
+    reading: false
+    url: https://hardcover.app/books/le-jeudi-suivant
+  - title: Seuls sont les indomptés
     author: Edward Abbey
+    subtitle: ""
     date: 2025-01-24
     read: 2025-01-24
     rating: 3
+    pages: 497
     isbn: "2846669929"
     isbn13: "9782846669924"
-    pages: 497
-    cover_url: https://www.italictype.com/static/images/bookcover-not-found.png
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675981/867fe340443641ac838928c4aee5e7ab362e12dd.jpeg
     reading: false
-    url: https://www.italictype.com/api/books/vL97KW8/
+    url: https://hardcover.app/books/seuls-sont-les-indomptes
