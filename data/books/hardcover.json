@@ -8511,12 +8511,16 @@
         },
         {
           "book_id": 2073036,
-          "rating": null,
+          "rating": 3.5,
           "date_added": "2026-01-20",
           "user_book_status": {
-            "slug": "currently-reading"
+            "slug": "read"
           },
-          "user_book_reads": [],
+          "user_book_reads": [
+            {
+              "finished_at": "2026-02-03"
+            }
+          ],
           "edition": {
             "isbn_10": "0593834003",
             "isbn_13": "9780593834008",
