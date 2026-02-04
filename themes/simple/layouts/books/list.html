@@ -1,8 +1,8 @@
-{{ define "main" }}
+{{ define "main" }} {{ if .Content }}
 <div class="z-20 dark:prose-invert prose mb-16 with-links relative">
   {{ .Content }}
 </div>
-{{ end }} {{ define "full" }}
+{{end}} {{ end }} {{ define "full" }}
 <div class="w-full px-4 mb-8">
   {{/* Show currently reading books first */}} {{ with .Site.Data.books.current
   }} {{ if .books }}
