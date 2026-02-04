@@ -6,7 +6,7 @@
 {{ end }}
 {{ define "full" }}
   {{ $paginator := (.Paginate (where .RegularPages ".Params.archived" "!=" true) 250) }}
-  <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 mx-6 xl:mx-auto max-w-6xl">
+  <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 mx-6 xl:ml-6 max-w-6xl">
   {{ range $paginator.Pages }}
       {{ $color := "yellow" }}
       {{range first 1 (shuffle $.Site.Params.themeColors) }}
@@ -57,7 +57,7 @@
           </header>
           </a>
    </article>
-       
+
   {{ end }}
   </div>
 {{ end }}
