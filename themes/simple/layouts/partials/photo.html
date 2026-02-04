@@ -16,7 +16,7 @@
      {{ $lqip = $src.Resize (printf "%s" $xs) }}
      {{ $small = $src }}
    {{ end }}
-   <div class="relative group " >
+   <div class="masonry-item relative group" >
      <picture class="{{ .ExtraClasses }} aspect-[{{.Image.Width}}/{{.Image.Height}}] relative box-border block ">
       {{- /* Generate better alt text: use description, then page title, then filename */ -}}
       {{- $altText := "" -}}
