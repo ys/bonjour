@@ -3476,17 +3476,19 @@
             "release_date": "2019-01-01"
           },
           "book": {
-            "title": "IN WAVES.",
+            "title": "In Waves",
             "subtitle": null,
             "slug": "in-waves",
             "contributions": [
               {
                 "author": {
-                  "name": "AJ. DUNGO"
+                  "name": "A.J. Dungo"
                 }
               }
             ],
-            "image": null
+            "image": {
+              "url": "https://assets.hardcover.app/external_data/59399289/174f4f636da6e89baaff7696662ed47c3ede9930.jpeg"
+            }
           }
         },
         {
@@ -8718,7 +8720,9 @@
                 }
               }
             ],
-            "image": null
+            "image": {
+              "url": "https://assets.hardcover.app/edition/32621498/8f9a0cd1-967a-4338-9c3f-adf66b5b36e8.jpeg"
+            }
           }
         },
         {
