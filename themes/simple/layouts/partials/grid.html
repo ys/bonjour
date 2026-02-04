@@ -1,60 +1,43 @@
 <div class="-mx-2 mgrid md:flex flex-wrap justify-end">
-{{ range $index, $columns := sort .}}
-  {{ $width := 0 }}
-  {{ range $cindex, $images := $columns }}
-    {{ $subwidth := 0 }}
-    {{ range $images.Images }}
-      {{ $subwidth =  add $subwidth (div (float .Image.Height) .Image.Width) }}
+  {{ range $index, $columns := sort .}} {{ $width := 0 }} {{ range $cindex,
+  $images := $columns }} {{ $subwidth := 0 }} {{ range $images.Images }} {{
+  $subwidth = add $subwidth (div (float .Image.Height) .Image.Width) }} {{ end
+  }} {{ $width = add $width (div 1.0 $subwidth) }} {{ end }} {{ range $cindex,
+  $images := $columns }} {{ $div := 0 }} {{ range $images.Images }} {{ $div =
+  add $div (div (float .Image.Height) .Image.Width) }} {{ end }} {{ $colwidth :=
+  div (div 1.0 $div) $width }} {{ if (eq (len $columns) 1) }}
+  <div
+    class="lg:flex flex-col min-h-full inherit"
+    style="flex: 1 0 {{ mul 100.0 $colwidth -}}%"
+  >
+    {{ range $images.Images }} {{ if .Blank }}
+    <div
+      class="aspect-[{{.Image.Width}}/{{.Image.Height}}]"
+      class="relative lg:block hidden"
+    ></div>
+    {{ else }} {{ if isset . "Link" }}
+    <a href="{{ .Link }}"> {{ partial "photo" . }} </a>
+    {{ else }} {{ partial "photo" . }} {{ end }} {{ end }} {{ end }}
+  </div>
+  {{ else }}
+  <div
+    class="flex flex-col min-h-full inherit"
+    style="flex: 1 0 {{ mul 100.0 $colwidth -}}%"
+  >
+    {{ range $images.Images }} {{ $dimension := div (div (mul 100.0
+    .Image.Height ) .Image.Width) $div }}
+    <div class="gap-6" style="flex: 1 0  {{ $dimension -}}%">
+      {{ if .Blank }}
+      <div
+        class="aspect-[{{.Image.Width}}/{{.Image.Height}}] relative lg:block hidden"
+      ></div>
+      {{ else }} {{ if isset . "Link" }}
+      <a href="{{ .Link }}"> {{ partial "photo" . }} </a>
+      {{ else if isset . "Page" }}
+      <a href="{{ .Page.RelPermalink }}"> {{ partial "photo" . }} </a>
+      {{ else }} {{ partial "photo" . }} {{ end }} {{ end }}
+    </div>
     {{ end }}
-    {{ $width = add $width (div 1.0 $subwidth) }}
-  {{ end }}
-  {{ range $cindex, $images := $columns }}
-      {{ $div := 0 }}
-      {{ range $images.Images }}
-        {{ $div = add $div (div (float .Image.Height) .Image.Width) }}
-      {{ end }}
-      {{ $colwidth := div (div 1.0 $div) $width }}
-      {{ if (eq (len $columns) 1) }}
-      <div class="lg:flex flex-col min-h-full inherit" style="flex: 1 0 {{ mul 100.0 $colwidth -}}%">
-          {{ range $images.Images }}
-            {{ if .Blank  }}
-            <div class="aspect-[{{.Image.Width}}/{{.Image.Height}}]" class="relative lg:block hidden"></div>
-            {{ else }}
-
-              {{ if isset . "Link" }}
-                <a href="{{ .Link }}">
-                  {{ partial "photo" . }}
-                </a>
-              {{ else }}
-                {{ partial "photo" . }}
-              {{ end }}
-            {{ end }}
-          {{ end }}
-        </div>
-      {{ else }}
-        <div class="flex flex-col min-h-full inherit " style="flex: 1 0 {{ mul 100.0 $colwidth -}}%">
-          {{ range $images.Images }}
-              {{ $dimension := div (div (mul 100.0 .Image.Height ) .Image.Width) $div }}
-              <div class="gap-6" style="flex: 1 0  {{ $dimension -}}%">
-                {{ if .Blank  }}
-                  <div  class="aspect-[{{.Image.Width}}/{{.Image.Height}}] relative lg:block hidden"></div>
-                {{ else }}
-                  {{ if isset . "Link" }}
-                    <a href="{{ .Link }}">
-                      {{ partial "photo" . }}
-                    </a>
-                  {{ else if isset . "Page" }}
-                    <a href="{{ .Page.RelPermalink }}">
-                      {{ partial "photo" . }}
-                    </a>
-                  {{ else }}
-                    {{ partial "photo" . }}
-                  {{ end }}
-                {{ end }}
-              </div>
-          {{ end }}
-        </div>
-      {{ end }}
-    {{ end }}
-  {{ end }}
+  </div>
+  {{ end }} {{ end }} {{ end }}
 </div>
