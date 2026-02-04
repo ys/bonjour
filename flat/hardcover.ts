@@ -105,32 +105,156 @@ async function graphql<T>(
   return json.data as T;
 }
 
-async function findCoverUrl(isbn: string, isbn13: string): Promise<string> {
-  // Try multiple Amazon endpoints for cover images
-  const endpoints = [
-    `https://images-na.ssl-images-amazon.com/images/P/${isbn13 || isbn}.01.LZZZZZZZ.jpg`,
-    `https://m.media-amazon.com/images/P/${isbn13 || isbn}.01._SCLZZZZZZZ_SX500_.jpg`,
-  ];
+const MIN_COVER_SIZE = 10000; // 10KB – anything smaller is likely a placeholder
 
-  for (const url of endpoints) {
-    try {
-      const response = await fetch(url, { method: "HEAD" });
-      const contentLength = parseInt(
-        response.headers.get("content-length") || "0",
-      );
-      const contentType = response.headers.get("content-type") || "";
+async function checkCoverSize(url: string): Promise<boolean> {
+  try {
+    const response = await fetch(url, { method: "HEAD" });
+    const contentLength = parseInt(
+      response.headers.get("content-length") || "0",
+    );
+    const contentType = response.headers.get("content-type") || "";
+    return (
+      response.ok &&
+      contentType.includes("image") &&
+      contentLength > MIN_COVER_SIZE
+    );
+  } catch {
+    return false;
+  }
+}
 
-      // Real covers are usually > 10KB
-      if (
-        response.ok &&
-        contentType.includes("image") &&
-        contentLength > 10000
-      ) {
-        console.log(`  ✅ Found cover via Amazon: ${url.substring(0, 60)}...`);
+async function findOpenLibraryCover(isbn: string): Promise<string> {
+  // Open Library returns a 302 redirect when a cover exists, 404 otherwise
+  try {
+    const url = `https://covers.openlibrary.org/b/isbn/${isbn}-S.jpg?default=false`;
+    const response = await fetch(url, { redirect: "manual" });
+    if (response.status === 302) {
+      const location = response.headers.get("location") || "";
+      // Return the large variant
+      const large = location.replace(/-S\./g, "-L.");
+      if (await checkCoverSize(large)) {
+        return large;
+      }
+    }
+  } catch {
+    // ignore
+  }
+  return "";
+}
+
+async function findGoogleBooksCover(isbn: string): Promise<string> {
+  try {
+    const url = `https://www.googleapis.com/books/v1/volumes?q=isbn:${isbn}`;
+    const response = await fetch(url);
+    if (!response.ok) return "";
+    const data = await response.json();
+    const items = data.items ?? [];
+    for (const item of items) {
+      const thumbnail = item.volumeInfo?.imageLinks?.thumbnail;
+      if (thumbnail) {
+        // Google returns http URLs with zoom=1; upgrade to https and bigger zoom
+        const large = thumbnail
+          .replace("http://", "https://")
+          .replace("zoom=1", "zoom=3");
+        if (await checkCoverSize(large)) {
+          return large;
+        }
+      }
+    }
+  } catch {
+    // ignore
+  }
+  return "";
+}
+
+async function findAmazonSearchCover(isbn: string): Promise<string> {
+  // Scrape Amazon search results page for higher-res cover images via srcset
+  try {
+    const searchUrl = `https://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&unfiltered=1&field-isbn=${isbn}&sort=relevanceexprank`;
+    const response = await fetch(searchUrl, {
+      headers: {
+        "User-Agent":
+          "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        Accept: "text/html,application/xhtml+xml",
+        "Accept-Language": "en-US,en;q=0.9",
+      },
+    });
+    if (!response.ok) return "";
+    const html = await response.text();
+
+    // Extract srcset from s-image elements — pick the highest resolution URL
+    const srcsetPattern = /class="s-image"[^>]*srcset="([^"]+)"/g;
+    const match = srcsetPattern.exec(html);
+    if (!match) return "";
+
+    const srcset = match[1];
+    const candidates = srcset
+      .split(",")
+      .map((s) => s.trim().split(/\s+/))
+      .filter((parts) => parts.length === 2)
+      .map(([url, descriptor]) => ({
+        url,
+        scale: parseFloat(descriptor) || 1,
+      }))
+      .sort((a, b) => b.scale - a.scale);
+
+    for (const { url } of candidates) {
+      if (await checkCoverSize(url)) {
         return url;
       }
-    } catch {
-      // Try next endpoint
+    }
+  } catch {
+    // ignore
+  }
+  return "";
+}
+
+async function findCoverUrl(isbn: string, isbn13: string): Promise<string> {
+  const id = isbn13 || isbn;
+
+  // 1. Amazon direct image URLs
+  const amazonEndpoints = [
+    `https://images-na.ssl-images-amazon.com/images/P/${id}.01.LZZZZZZZ.jpg`,
+    `https://m.media-amazon.com/images/P/${id}.01._SCLZZZZZZZ_SX500_.jpg`,
+  ];
+  for (const url of amazonEndpoints) {
+    if (await checkCoverSize(url)) {
+      console.log(`  ✅ Found cover via Amazon: ${url.substring(0, 60)}...`);
+      return url;
+    }
+  }
+
+  // 2. Amazon search scrape (higher-res srcset images)
+  for (const candidate of [isbn13, isbn].filter(Boolean)) {
+    const url = await findAmazonSearchCover(candidate);
+    if (url) {
+      console.log(
+        `  ✅ Found cover via Amazon search: ${url.substring(0, 60)}...`,
+      );
+      return url;
+    }
+  }
+
+  // 3. Open Library
+  for (const candidate of [isbn13, isbn].filter(Boolean)) {
+    const url = await findOpenLibraryCover(candidate);
+    if (url) {
+      console.log(
+        `  ✅ Found cover via Open Library: ${url.substring(0, 60)}...`,
+      );
+      return url;
+    }
+  }
+
+  // 4. Google Books
+  for (const candidate of [isbn13, isbn].filter(Boolean)) {
+    const url = await findGoogleBooksCover(candidate);
+    if (url) {
+      console.log(
+        `  ✅ Found cover via Google Books: ${url.substring(0, 60)}...`,
+      );
+      return url;
     }
   }
 
@@ -163,12 +287,26 @@ async function mapUserBook(ub: any): Promise<Book | null> {
   const isbn = edition.isbn_10 ?? "";
   const isbn13 = edition.isbn_13 ?? "";
 
-  // If no cover URL from Hardcover, try to find one from Amazon
-  if (!coverUrl && (isbn || isbn13)) {
-    console.log(`  🔍 No cover for "${title}", searching...`);
-    coverUrl = await findCoverUrl(isbn, isbn13);
+  // Check if the existing cover is missing or too small, and try Amazon fallback
+  if (isbn || isbn13) {
     if (!coverUrl) {
-      console.log(`  ❌ No cover found for "${title}"`);
+      console.log(`  🔍 No cover for "${title}", searching...`);
+      coverUrl = await findCoverUrl(isbn, isbn13);
+      if (!coverUrl) {
+        console.log(`  ❌ No cover found for "${title}"`);
+      }
+    } else if (!(await checkCoverSize(coverUrl))) {
+      console.log(
+        `  🔍 Cover too small for "${title}", searching for a better one...`,
+      );
+      const betterUrl = await findCoverUrl(isbn, isbn13);
+      if (betterUrl) {
+        coverUrl = betterUrl;
+      } else {
+        console.log(
+          `  ⚠️ Keeping small cover for "${title}" (no better one found)`,
+        );
+      }
     }
   }
 
