@@ -322,20 +322,20 @@ table {
 	As animating opacity is much faster than animating rgba() background-color.
 */
 .pswp__bg {
-  @apply dark:bg-crust bg-white bg-opacity-60 dark:bg-opacity-60 backdrop-filter backdrop-blur-md;
   position: absolute;
   left: 0;
   top: 0;
   width: 100%;
   height: 100%;
+  background: rgba(0, 0, 0, 0.70);
   opacity: 0;}
 
 .pswp__scroll-wrap {
   position: absolute;
-  left: 0;
+  left: 60px;
+  right: 60px;
   top: 0;
-  width: 100%;
-  height: 100%;
+  bottom: 0;
   overflow: hidden; }
 
 .pswp__zoom-wrap {
@@ -368,6 +368,7 @@ table {
 .pswp__zoom-wrap {
   position: absolute;
   width: 100%;
+  transform-origin: 0 0;
 }
 
 .pswp--animated-in .pswp__bg,
@@ -385,14 +386,20 @@ table {
   right: 0;
   top: 0;
   bottom: 0;
-  overflow: hidden; }
+  overflow: visible; }
 
 .pswp__img {
   position: absolute;
   width: auto;
   height: auto;
   top: 0;
-  left: 0; }
+  left: 0;
+  box-shadow:
+    inset 0 0 0 0 white,
+    0 0 0 24px white,
+    0 56px 0 24px white,
+    0 8px 40px 28px rgba(0, 0, 0, 0.35);
+}
 
 /*
 	stretched thumbnail or div placeholder element (see below)
@@ -406,7 +413,7 @@ table {
 	large image loads on top of it
 */
 .pswp__img--placeholder--blank {
-  background: rgba(0,0,0,0.5);
+  background: white;
  }
 
 .pswp--ie .pswp__img {
