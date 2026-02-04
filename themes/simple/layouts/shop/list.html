@@ -1,63 +1,59 @@
 {{ define "main" }}
-
-  <div class="z-20 dark:prose-invert prose  mb-16 with-links relative">
+  {{ if .Content }}
+  <div class="z-20 dark:prose-invert prose mb-8 with-links relative">
     {{ .Content }}
   </div>
+  {{ end }}
 {{ end }}
+
 {{ define "full" }}
   {{ $paginator := (.Paginate (where .RegularPages ".Params.archived" "!=" true) 250) }}
-  <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 mx-6 xl:ml-6 max-w-6xl">
-  {{ range $paginator.Pages }}
-      {{ $color := "yellow" }}
-      {{range first 1 (shuffle $.Site.Params.themeColors) }}
-        {{ $color = . }}
-      {{ end }}
-      {{ with .Params.color }}
-        {{ $color = . }}
-      {{ end }}
-    {{ $images := .Resources.ByType "image" }}
-    {{ $src := $images.GetMatch "cover" }}
-    {{ $src := $images.GetMatch "*feature*" }}
-    {{ $src := cond (ne $src nil) $src ($images.GetMatch "{*cover*,*thumbnail*}") }}
-    {{ $src := cond (ne $src nil) $src (index $images 0) }}
-
-  {{ $xs := "20x" }}
-  {{ $md := "800x" }}
-  {{ $lqip := $src.Resize (printf "%s webp" $xs) }}
-  {{ $small := $src.Resize (printf "%s webp" $md) }}
-  {{ if eq $src.MediaType.SubType "gif" }}
-     {{ $lqip = $src.Resize (printf "%s" $xs) }}
-     {{ $small = $src }}
-   {{ end }}
-   <article>
-     <a href="{{.RelPermalink}}" class="cursor-pointer relative group gap-2 flex flex-col">
-     <picture class="  aspect-square relative box-border block ">
-      <img
-        loading="lazy"
-        style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover"
-        alt="{{ .Description }}"
-        class="hover:shadow-{{ $.Scratch.Get "color" }}/20 shadow-md hover:shadow-xl   cursor-pointer object-cover lazy absolute top-0 left-0 w-full h-full"
-        data-action="zoom"
-        data-zoom-src="{{ $src.RelPermalink}}"
-        src="{{ $small.RelPermalink }}"
-        data-src="{{ $small.RelPermalink }}"
-        width="{{ $src.Width }}" height="{{ $src.Height }}"/>
-    </picture>
-      <header class="text-left font-sans pb-8 group-hover:backdrop-blur-sm group- group-hover:block  group-hover:flex flex-col mdenter justify-center  lace-items-center group-hover:block">
-            <h2 class=" font-semibold group-hover:underline {{ with .Params.Color }}group-hover:decoration-{{ . }} {{ end }} ">
-                {{ .Title  |markdownify}}
-            </h2>
-            <h3 class="font-sans tracking-tight transition ease-in-out duration-200 ">
-              {{ with .Params.pricetag }}
-                {{ . | markdownify }}
-              {{ else }}
-                {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
-              {{ end }}
-            </h3>
-          </header>
+  <div class="w-full px-4 mt-0">
+    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 2xl:grid-cols-5 gap-4 md:gap-6">
+      {{ range $paginator.Pages }}
+        {{ $color := "yellow" }}
+        {{ range first 1 (shuffle $.Site.Params.themeColors) }}
+          {{ $color = . }}
+        {{ end }}
+        {{ with .Params.color }}
+          {{ $color = . }}
+        {{ end }}
+        
+        {{ $images := .Resources.ByType "image" }}
+        {{ $src := $images.GetMatch "cover" }}
+        {{ $src := $images.GetMatch "*feature*" }}
+        {{ $src := cond (ne $src nil) $src ($images.GetMatch "{*cover*,*thumbnail*}") }}
+        {{ $src := cond (ne $src nil) $src (index $images 0) }}
+        
+        {{ $xs := "20x" }}
+        {{ $md := "800x" }}
+        {{ $lqip := $src.Resize (printf "%s webp" $xs) }}
+        {{ $small := $src.Resize (printf "%s webp" $md) }}
+        {{ if eq $src.MediaType.SubType "gif" }}
+          {{ $lqip = $src.Resize (printf "%s" $xs) }}
+          {{ $small = $src }}
+        {{ end }}
+        
+        <article class="group">
+          <a href="{{.RelPermalink}}" class="block">
+            <div class="transition-all duration-300 group-hover:-translate-y-1">
+              <picture class="aspect-square relative block overflow-hidden bg-gray-100 dark:bg-gray-800">
+                <img loading="lazy" style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode }}); background-size: cover" alt="{{ .Description }}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" src="{{ $small.RelPermalink }}" width="{{ $src.Width }}" height="{{ $src.Height }}"/>
+              </picture>
+              <div class="mt-2">
+                <h2 class="font-sans text-lg font-bold group-hover:text-{{ $color }} transition-colors duration-200 line-clamp-2">{{ .Title | markdownify }}</h2>
+                <p class="font-sans text-sm mt-1 text-gray-900 dark:text-gray-100">
+                  {{ with .Params.pricetag }}
+                    {{ . | markdownify }}
+                  {{ else }}
+                    {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+                  {{ end }}
+                </p>
+              </div>
+            </div>
           </a>
-   </article>
-
-  {{ end }}
+        </article>
+      {{ end }}
+    </div>
   </div>
 {{ end }}

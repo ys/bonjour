@@ -6,4 +6,5 @@ menu:
   main:
     weight: 5
 linktitle: "Shop"
+type: "shop"
 ---

@@ -434,3 +434,19 @@ table {
 .pswp__ui {
   @apply hidden;
 }
+
+// Shop page - reduce top spacing
+.type-shop header {
+  @apply md:pt-8;
+}
+
+.type-shop main {
+  @apply gap-4;
+}
+
+// Hide main block when empty on shop page
+.type-shop main:empty {
+  @apply hidden;
+}
+
+// Shop page - horizontal logo/title layout
