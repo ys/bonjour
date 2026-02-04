@@ -24,6 +24,7 @@ jobs:
         env:
           HARDCOVER_TOKEN: ${{ secrets.HARDCOVER_TOKEN }}
         run: |
+          # Script now automatically searches for missing covers using Amazon
           deno run --allow-net --allow-read --allow-write --allow-env  flat/hardcover.ts
       - name: Commit changes
         run: |
