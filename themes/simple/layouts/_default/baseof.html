@@ -25,7 +25,7 @@
   <body
       class="{{ .Site.Params.themePalette}} content-{{$.Scratch.Get "color" }} font-serif  antialiased  dark:bg-crust dark:text-white text-crust {{if or .Params.backgroundColor $.Site.Params.backgroundColor }}{{with .Params.background}}bg-{{.}} {{end}} bg-{{$.Scratch.Get "color" }} bg-opacity-10 selection:bg-opacity-20 selection:bg-{{$.Scratch.Get "color"}}{{else}}selection:bg-{{$.Scratch.Get "color"}} selection:bg-opacity-20{{end}}">
 
-    <header class="py-8 md:pt-32 xl:mx-auto mx-6 max-w-6xl flex flex-col md:flex-row  gap-2 ">
+    <header class="py-8 md:pt-32  mx-6 max-w-6xl flex flex-col md:flex-row  gap-2 ">
       <div class="group flex flex-col w-full h-full items-left tracking-tighter ">
         <span class="relative mb-4 block logo hover:animate-spin text-center text-6xl w-10 text-{{$.Scratch.Get "color"}}  ">
           {{ if .Parent }}<a href="{{ .Parent.RelPermalink }}" arial-label="{{.Parent.Title}}" alt="{{ .Parent.Title}}">{{ else }}<a href="{{ "/" | relLangURL }}" alt="Get me back to the home" aria-label="Get me back to the home">{{end}}
@@ -67,7 +67,7 @@
         </nav>
       </div>
     </header>
-    <main class="xl:mx-auto mx-6 max-w-6xl grid grid-cols-1 gap-16">
+    <main class="mx-6 max-w-6xl grid grid-cols-1 gap-16">
         {{ block "main" . }}
         {{ end }}
     </main>
