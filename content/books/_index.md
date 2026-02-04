@@ -12,5 +12,3 @@ menu:
     weight: 3
 linktitle: "📚 Reading"
 ---
-
-Most books I read in the last couple of years.

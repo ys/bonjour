@@ -16,27 +16,23 @@ linktitle: "About"
 
 ![me and my leica](me.webp)
 
-I am a **documentary style photographer** living in Finistère, France.
-
-Feel free to contact me at [hello@yannickschutz.com](mailto:hello@yannickschutz.com). 
-
-
-I really enjoy **telling stories and capturing moments of life.**  
-
+I am a **documentary style photographer** living in Finistère, France.  
+Feel free to contact me at [hello@yannickschutz.com](mailto:hello@yannickschutz.com).  
+I really enjoy **telling stories and capturing moments of life.**
 
 If you are looking for me, you'll probably find me brewing a cup of black coffee, surfing some mellow waves, capturing moments on film or spending some quality time with the family.
 
-We launched an amazing project with Cloé. You should take a look at [@douarenn](https://instagram.com/douarenn) or visit [douarenn.fr](https://douarenn.fr). This is our cabin, disconnected from the internets in the middle of Finistère, in a place called "les Monts d'Arrée". 
+We launched an amazing project with Cloé. You should take a look at [@douarenn](https://instagram.com/douarenn) or visit [douarenn.fr](https://douarenn.fr). This is our cabin, disconnected from the internets in the middle of Finistère, in a place called "les Monts d'Arrée".
 
 ---
 
-
-This website has so much [more](/more) in it than what you see in the menu. 
+This website has so much [more](/more) in it than what you see in the menu.
 Feel free to browse and see what I am doing [now](/now)
 
 ## Photography
 
 Current gear:
+
 - Leica M10-P
 - [Leica M6](/leica-m6)
 - A small Contax T3
@@ -44,13 +40,11 @@ Current gear:
 
 I send most of my films to [Malvarrosa Film Lab](https://malvarrosafilmlab.com/). They are great and have a really good service.
 
-
 ## Surf
 
 I started taking [pictures in the water](/nikonos-glaz) with some fins and a Nikonos. Salty water is my favorite kind of drug. I got my first longboard shaped by [Mimosa](https://mimosa-surfboards.com). It is a beauty. But I am still a kook. But at least a kook with a damn good looking board. I try to avoid Neoprene and prefer Yulex
 
 ![My feet](now2.webp "My feet by Grégory Mignard")
-
 
 ## Coffee
 
@@ -75,4 +69,3 @@ This is a static website built with [Hugo](https://gohugo.io). Hosting is provid
 Most of the content is copyrighted but open to discussion if you wanna re-use some of it.
 
 **Contact:** [hello@yannickschutz.com](mailto://hello@yannickschutz.com)
-
