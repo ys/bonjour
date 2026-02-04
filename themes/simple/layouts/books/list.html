@@ -8,9 +8,11 @@
   }} {{ if .books }}
   <div class="py-8">
     <header class="my-4 flex flex-row items-center">
-      <span class="font-sans">{{ partial "moon" .}}</span>
-      <h2 id="currently-reading" class="font-bold">{{ T "reading" }}</h2>
-      <span class="ml-1 font-sans text-md opacity-70"> • {{ len .books}}</span>
+      <span class="font-sans text-2xl">{{ partial "moon" .}}</span>
+      <h2 id="currently-reading" class="text-2xl font-bold">
+        {{ T "reading" }}
+      </h2>
+      <span class="ml-2 font-sans text-md opacity-70"> • {{ len .books}}</span>
     </header>
     {{ $readingBooks := sort .books "date" "desc" }}
     <div
@@ -85,9 +87,9 @@
   "year" "desc" }}
   <div class="py-8">
     <header class="my-4 flex flex-row items-center">
-      <span class="font-sans">{{ partial "moon" .}}</span>
-      <h2 id="{{.year}}" class="font-bold">{{ .year }}</h2>
-      <span class="ml-1 font-sans text-md opacity-70">
+      <span class="font-sans text-2xl">{{ partial "moon" .}}</span>
+      <h2 id="{{.year}}" class="text-2xl font-bold">{{ .year }}</h2>
+      <span class="ml-2 font-sans text-md opacity-70">
         • {{ len (where .books "read" "!=" nil) }}</span
       >
     </header>
