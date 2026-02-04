@@ -128,8 +128,8 @@ books:
     cover_url: https://assets.hardcover.app/edition/30404743/11746784-L.jpg
     reading: false
     url: https://hardcover.app/books/50-shades-of-the-usa
-  - title: IN WAVES.
-    author: AJ. DUNGO
+  - title: In Waves
+    author: A.J. Dungo
     subtitle: ""
     date: 2019-12-15
     read: 2019-12-15
@@ -137,7 +137,8 @@ books:
     pages: 376
     isbn: "1910620300"
     isbn13: "9781910620304"
-    cover_url: "https://m.media-amazon.com/images/I/71yuk25WmDL._SY522_.jpg"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/59399289/174f4f636da6e89baaff7696662ed47c3ede9930.jpeg
     reading: false
     url: https://hardcover.app/books/in-waves
   - title: This Is Not A Drill
@@ -276,7 +277,7 @@ books:
     pages: 0
     isbn: "0008331820"
     isbn13: "9780008331825"
-    cover_url: https://images-na.ssl-images-amazon.com/images/P/0008331820.01.LZZZZZZZ.jpg
+    cover_url: ""
     reading: false
     url: https://hardcover.app/books/my-midsummer-morning
   - title: "Rewild Yourself: Making Nature More Visible in Our Lives"
