@@ -118,6 +118,7 @@ footer ul li:not(:last-child):after {
 // Masonry layout styles
 .masonry-container {
   column-count: 1;
+  column-fill: auto;
   column-gap: 0.5rem; // 8px - small margins
   padding: 0.5rem; // 8px padding from edges
 
@@ -147,6 +148,8 @@ footer ul li:not(:last-child):after {
 }
 
 .masonry-container > div {
+  display: inline-block;
+  width: 100%;
   break-inside: avoid;
   page-break-inside: avoid;
   -webkit-column-break-inside: avoid;
