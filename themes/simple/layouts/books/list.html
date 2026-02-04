@@ -1,45 +1,163 @@
 {{ define "main" }}
-
-<div class="z-20 dark:prose-invert prose  mb-16 with-links relative">
+<div class="z-20 dark:prose-invert prose mb-16 with-links relative">
   {{ .Content }}
 </div>
-
-<div class="max-w-prose mb-8">
-  {{ range sort .Site.Data.books "year" "desc" }}
+{{ end }} {{ define "full" }}
+<div class="w-full px-4 mb-8">
+  {{/* Show currently reading books first */}} {{ with .Site.Data.books.current
+  }} {{ if .books }}
+  <div class="py-8">
+    <header class="my-4 flex flex-row items-center">
+      <span class="font-sans">{{ partial "moon" .}}</span>
+      <h2 id="currently-reading" class="font-bold">{{ T "reading" }}</h2>
+      <span class="ml-1 font-sans text-md opacity-70"> • {{ len .books}}</span>
+    </header>
+    {{ $readingBooks := sort .books "date" "desc" }}
+    <div
+      class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 2xl:grid-cols-7 gap-4 md:gap-6"
+    >
+      {{ range $readingBooks }}
+      <article class="group relative">
+        {{ if .url }}
+        <a
+          href="{{ .url }}"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="block"
+        >
+          {{ end }}
+          <div
+            class="aspect-[2/3] overflow-hidden rounded shadow-md hover:shadow-xl transition-shadow"
+          >
+            {{ if .cover_url }}
+            <img
+              src="{{ .cover_url }}"
+              alt="{{ .title }}"
+              class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+              loading="lazy"
+            />
+            {{ else }}
+            <div
+              class="w-full h-full bg-gradient-to-br from-slate-100 to-slate-200 dark:from-slate-800 dark:to-slate-900 flex flex-col items-center justify-center p-6 border border-slate-300 dark:border-slate-700"
+            >
+              <div class="text-center">
+                <p
+                  class="text-base font-bold text-slate-800 dark:text-slate-200 leading-tight mb-2"
+                >
+                  {{ .title }}
+                </p>
+                <p
+                  class="text-xs font-medium text-slate-600 dark:text-slate-400"
+                >
+                  {{ .author }}
+                </p>
+              </div>
+            </div>
+            {{ end }}
+            <div
+              class="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-60 transition-all duration-300 flex items-end p-3"
+            >
+              <div
+                class="text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300"
+              >
+                <h3 class="font-semibold text-sm line-clamp-2 mb-1">
+                  {{ .title }}
+                </h3>
+                <p class="text-xs opacity-90">{{ .author }}</p>
+                {{ if .reading }}
+                <p class="text-xs mt-1 opacity-90">{{ T "reading" }}</p>
+                {{ else }} {{ with .rating }}
+                <p class="text-xs mt-1">{{ strings.Repeat . "★" }}</p>
+                {{ end }} {{ end }}
+              </div>
+            </div>
+          </div>
+          {{ if .url }}
+        </a>
+        {{ end }}
+      </article>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }} {{ end }} {{/* Show books by year */}} {{ $booksData := slice }} {{
+  range $key, $value := .Site.Data.books }} {{ if $value.year }} {{ $booksData =
+  $booksData | append $value }} {{ end }} {{ end }} {{ range sort $booksData
+  "year" "desc" }}
   <div class="py-8">
     <header class="my-4 flex flex-row items-center">
       <span class="font-sans">{{ partial "moon" .}}</span>
       <h2 id="{{.year}}" class="font-bold">{{ .year }}</h2>
-      <span class="ml-1 font-sans text-md opacity-70"> • {{ len .books}}</span>
+      <span class="ml-1 font-sans text-md opacity-70">
+        • {{ len (where .books "read" "!=" nil) }}</span
+      >
     </header>
-    {{ range sort .books "date" "desc" }}
-        {{ $color := "accent" }}
-        {{range first 1 (shuffle $.Site.Params.themeColors) }}
-          {{ $color = . }}
-        {{ end }}
-        {{ with .Params.color }}
-          {{ $color = . }}
-        {{ end }}
-        <article class="group">
-          <header class="bottom-4  flex flex-row justify-between place-items-center gap-2 p-2">
-            <h2 class="ellipsis break-all max-w-[60%] line-clamp-1 group-hover:text-crust/70 group-hover:dark:text-gray-100 text-crust dark:text-gray-100  no-underline ">{{ .title }}</h2>
-            <div class=" flex-grow "><div class=" mt-2 border-t border-dotted border-gray-800 dark:border-gray-100" ></div></div>
-            <h3 class="max-w-[30%] ellipsis break-all line-clamp-1 font-sans no-underline font-normal text-xs ">
-              <span class="group-hover:hidden visible">
-              {{.author}}
-              </span>
-              <span class="group-hover:block hidden">
+    {{ $readBooks := sort (where .books "read" "!=" nil) "read" "desc" }}
+    <div
+      class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 2xl:grid-cols-7 gap-4 md:gap-6"
+    >
+      {{ range $readBooks }}
+      <article class="group relative">
+        {{ if .url }}
+        <a
+          href="{{ .url }}"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="block"
+        >
+          {{ end }}
+          <div
+            class="aspect-[2/3] overflow-hidden rounded shadow-md hover:shadow-xl transition-shadow"
+          >
+            {{ if .cover_url }}
+            <img
+              src="{{ .cover_url }}"
+              alt="{{ .title }}"
+              class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+              loading="lazy"
+            />
+            {{ else }}
+            <div
+              class="w-full h-full bg-gradient-to-br from-slate-100 to-slate-200 dark:from-slate-800 dark:to-slate-900 flex flex-col items-center justify-center p-6 border border-slate-300 dark:border-slate-700"
+            >
+              <div class="text-center">
+                <p
+                  class="text-base font-bold text-slate-800 dark:text-slate-200 leading-tight mb-2"
+                >
+                  {{ .title }}
+                </p>
+                <p
+                  class="text-xs font-medium text-slate-600 dark:text-slate-400"
+                >
+                  {{ .author }}
+                </p>
+              </div>
+            </div>
+            {{ end }}
+            <div
+              class="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-60 transition-all duration-300 flex items-end p-3"
+            >
+              <div
+                class="text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300"
+              >
+                <h3 class="font-semibold text-sm line-clamp-2 mb-1">
+                  {{ .title }}
+                </h3>
+                <p class="text-xs opacity-90">{{ .author }}</p>
                 {{ if .reading }}
-                {{ T "reading" }}
-                {{ else }}
-                {{ with .rating }}{{ strings.Repeat . "★" }}{{end}}
-                {{ end }}
-              </span>
-            </h3>
-          </header>
-        </article>
-    {{ end }}
+                <p class="text-xs mt-1 opacity-90">{{ T "reading" }}</p>
+                {{ else }} {{ with .rating }}
+                <p class="text-xs mt-1">{{ strings.Repeat . "★" }}</p>
+                {{ end }} {{ end }}
+              </div>
+            </div>
+          </div>
+          {{ if .url }}
+        </a>
+        {{ end }}
+      </article>
+      {{ end }}
     </div>
+  </div>
   {{ end }}
 </div>
 

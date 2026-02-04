@@ -1,384 +1,389 @@
 year: 2022
 books:
-  - title: L'Amérique
-    subtitle: ''
-    author: Joan Didion
-    date: '2022-11-29T22:20:14.874612Z'
-    read: '2022-12-15T22:26:45.496363Z'
-    rating: 4
-    isbn: 224680471X
-    isbn13: '9782246804710'
-    pages: 201
-    cover_url: >-
-      https://books.google.com/books/publisher/content?id=EqdYEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71REJZY--mkeeNQIMmsC6cqDlvkeH5ax5ayTMlMTjylkDuSeatMsOP41dQ5AyQCkpjtlB4HPj3TPTz9xCd-DR5NM4hyG1Cn5xpq70fKYPc_2-tCVdGpUz_TNagnkwm6QEr_2dXd&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/8W0DReN/
-  - title: L'année de la pensée magique
-    subtitle: ''
-    author: Joan Didion
-    date: '2022-11-29T15:46:30.436185Z'
-    read: '2022-11-29T15:46:39.657727Z'
-    rating: 5
-    isbn: '2246804922'
-    isbn13: '9782246804925'
-    pages: 101
-    cover_url: >-
-      https://books.google.com/books/publisher/content?id=9asoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE708b_SXF54ksBoraIJiil8iXYOS9pfTy3qME7hM6QZNewEZK6_ApZwpEYrPWhR-oiVhK0GcY3mZm9JzcM2tEyn_RIDvhus_jV2FZPbcWNHkmhVPzJFnFayQuDujUUB4wD8KmdtP&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/vx4Y1av/
-  - title: Waves and Beaches
-    subtitle: The Powerful Dynamics of Sea and Coast
-    author: Kim McCoy
-    date: '2022-10-11T20:35:59.323070Z'
-    read: '2022-11-09T20:01:25.871035Z'
-    rating: 4
-    isbn: '1938340957'
-    isbn13: '9781938340956'
-    pages: 400
-    cover_url: >-
-      https://books.google.com/books/content?id=4G1syAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70Ot7dOZej8pLhxJhdmayQo86vM_egu25C4Y60TMUyP6YS5qUbXGRo4cTTkx1KozvGoPh3uo0kBD4BflwM9Rq8MP6hVzcxAspD0UkSnHrJFp3EUYSA0cyYZRy411GlY0sg-T3dA&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/8dYD0EN/
-  - title: Coffee time
-    subtitle: ''
-    author: Tetsuya Toyoda
-    date: '2022-10-12T18:55:53.513469Z'
-    read: '2022-10-12T18:56:05.938596Z'
-    rating: 4
-    isbn: '2355927561'
-    isbn13: '9782355927560'
-    pages: 206
-    cover_url: https://www.italictype.com/static/images/bookcover-not-found.png
-    reading: false
-    url: https://www.italictype.com/api/books/82lZY65/
-  - title: Mindfulness and Surfing
-    subtitle: ''
-    author: Sam Bleakley
-    date: '2022-01-25T11:24:54.756009Z'
-    read: '2022-10-11T20:33:06.520707Z'
-    rating: 4
-    isbn: '1782407596'
-    isbn13: '9781782407591'
-    pages: 144
-    cover_url: >-
-      https://books.google.com/books/content?id=aw7FvgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE700uBTjemQvAsXgo3vZC_TjazJIN0tr-UU3TUmw75pVzEe9dvEBAhZQlT4yJXMTVNMVmgEwOo7H-HmDQjm52f73s4uLG0ErFUetdK6srGNz_b0Hvk0YWJkrIoIknzQlNlfKEiQT&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/0vareB8/
-  - title: La grande traversée de l'Ouest en bus
-    subtitle: et autres textes beat
-    author: Jack Kerouac
-    date: '2022-10-09T18:38:19.359303Z'
-    read: '2022-10-09T18:38:30.556781Z'
-    rating: 3
-    isbn: '2072885434'
-    isbn13: '9782072885433'
-    pages: 99
-    cover_url: https://www.italictype.com/static/images/bookcover-not-found.png
-    reading: false
-    url: https://www.italictype.com/api/books/Nw4OzR5/
-  - title: Olympia Kyklos (Tome 1)
-    subtitle: ''
-    author: Mari Yamazaki
-    date: '2022-09-29T18:41:09.563067Z'
-    read: '2022-09-29T18:41:20.374115Z'
-    rating: 4
-    isbn: '2203244860'
-    isbn13: '9782203244863'
-    pages: 201
-    cover_url: >-
-      https://books.google.com/books/publisher/content?id=fVlaEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72OYc_lJFfNIvtwodQ0OTnOlMwFZ56KzQmmLVh_bHQIcWpb4kSYRERV1rAAHTsstUqFf7Ca_ZQCnLWzGj_jKzlYgRwQda3fRfId3cYMumLjmuIrDxdHdeZiVGxCeTWKuRq3hsq1&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/5XX3bZ5/
-  - title: Beautiful World, Where Are You
-    subtitle: A Novel
-    author: Sally Rooney
-    date: '2022-09-22T19:07:33.471513Z'
-    read: '2022-09-22T19:07:47.859606Z'
-    rating: 4
-    isbn: '1250859042'
-    isbn13: '9781250859044'
-    pages: 368
-    cover_url: >-
-      https://books.google.com/books/publisher/content?id=R2dYEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70GkUDjUeMo-rgEyXZWRC9vp2MbEr5w0OiAwq-wYsOVF5JCv1zU_QkRm9fJgM0_zabKgzlngCLf631VfPCIHdRVTOQErbgHi_RvLF6OBnUDdQjc-AbvFMm8lor6-M2UQhDfsO3F&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/zvjDRJN/
-  - title: Lightfall (Tome 1) - La dernière flamme
-    subtitle: ''
-    author: Tim Probert
-    date: '2022-09-12T18:39:04.210519Z'
-    read: '2022-09-12T18:39:28.227743Z'
-    rating: 5
-    isbn: '2075152624'
-    isbn13: '9782075152624'
-    pages: 518
-    cover_url: >-
-      https://books.google.com/books/publisher/content?id=s2MhEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72PTrftOU_F7mKRaA7n-gD_8TArObMFOzZ9xhHtkCQ5AnH2ZZd0BNnzy58XQH97rOV3ZzPdj32-b2PFjvSQUdQYYU_yKrf6E-xZoVjlTYbXlgwpjUBSGw6cHpXrR96anY1oCn9W&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/vx4Dq6v/
-  - title: Five Rules for Rebellion
-    subtitle: Let's Change the World Ourselves
-    author: Sophie Walker
-    date: '2022-09-04T20:16:41.954747Z'
-    read: '2022-09-04T20:16:49.468894Z'
-    rating: 4
-    isbn: '1785786040'
-    isbn13: '9781785786044'
-    pages: 162
-    cover_url: >-
-      https://books.google.com/books/publisher/content?id=KcO9DwAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71-zbSRltxx8dc9gQc0xLTnAoiFaWh1GWjGVRBbzEAAXORHj0fB1_92ANniB4e-TAPN9K3xUi5qt_gklYDxpWrAmqnQWq89JeADMl0JrYOzzzNrKNJ18aEMr0gYNhenRvENSaio&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/q8Wk198/
-  - title: Patagonie route 203
-    subtitle: ''
-    author: Eduardo Fernando Varela
-    date: '2022-08-27T19:52:30.507510Z'
-    read: '2022-08-27T19:52:49.218743Z'
-    rating: 4
-    isbn: ''
-    isbn13: '9791022610766'
-    pages: 241
-    cover_url: >-
-      https://books.google.com/books/publisher/content?id=ejDtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72SUvZSLOjA5bnT3AowqOkdYY6xeKy2kJLapaD8VGfgcPS2yZfJkDq-m7w9WESGDTcq_3AdeWhayDPX6OjPADHnlCRJP5gKF3XiQZfMXvu969WKL99fxpO_5fdj6CTFc5uv-s1k&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/vz1zoO5/
-  - title: Ranking of kings
-    subtitle: ''
-    author: Sosuke Toka
-    date: '2022-06-30T19:14:13.577664Z'
-    read: '2022-06-30T19:14:25.350522Z'
-    rating: 5
-    isbn: ''
-    isbn13: '9791032712191'
-    pages: null
-    cover_url: https://www.italictype.com/static/images/bookcover-not-found.png
-    reading: false
-    url: https://www.italictype.com/api/books/5bqlbXN/
-  - title: Le Monde sans fin, miracle énergétique et dérive climatique
-    subtitle: ''
-    author: Jean-Marc Jancovici
-    date: '2022-05-23T19:53:16.000380Z'
-    read: '2022-05-23T19:53:28.102820Z'
-    rating: 4
-    isbn: '2205089315'
-    isbn13: '9782205089318'
-    pages: 202
-    cover_url: >-
-      https://books.google.com/books/publisher/content?id=9CA_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71dqwbIQR6L9Bhbfke0jowjwicfcuOpgHXSWNVH48Kpqzp7Ax1xf6h_pRo2iEVHDzfd1VbG6vE7jbNS2pN-6TNnOtVaWXAu9pZHqDtR4mmJWwl2v-Yb-uk8e036XYFOcx8Lqjdl&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/v0PJgdv/
-  - title: Une odyssée américaine
-    subtitle: roman
-    author: Jim Harrison
-    date: '2022-05-20T19:55:13.158489Z'
-    read: '2022-05-20T19:55:24.147910Z'
-    rating: 4
-    isbn: '2290252786'
-    isbn13: '9782290252789'
-    pages: 283
-    cover_url: https://www.italictype.com/static/images/bookcover-not-found.png
-    reading: false
-    url: https://www.italictype.com/api/books/vaZ6998/
-  - title: Les Spectres de la terre brisée
-    subtitle: ''
-    author: S. Craig Zahler
-    date: '2022-05-09T20:41:36.209783Z'
-    read: '2022-05-09T20:41:52.908128Z'
-    rating: 4
-    isbn: '2404008269'
-    isbn13: '9782404008264'
-    pages: 407
-    cover_url: >-
-      https://books.google.com/books/publisher/content?id=49L-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72R-nToKOfXVipTvNJZIUFOWxKeAauK8GH0-HWVVzbMJ3YV1Bxzp73HLm4XZHHqqtgD6t28cta2n1UG1jM2lLaYTmsC1ltww25AfdEasNE_PG-x4uJSTux6Fu-_wfnGSgfWQ_7L&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/vEpnDZ5/
-  - title: Nom
-    subtitle: ''
-    author: Constance Debré
-    date: '2022-04-03T19:55:39.887115Z'
-    read: '2022-04-03T19:55:56.042451Z'
-    rating: 4
-    isbn: '2081515946'
-    isbn13: '9782081515949'
-    pages: 116
-    cover_url: >-
-      https://books.google.com/books/publisher/content?id=g0pVEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73OsxoYOpZ1mAugqkShgrEVTzcP9pNuHt6UunusHDqXCpA-zjfN2EdYJxBpyJjH0gSQJp3xMyzBzsGA7blKLpeB_btH-rfLoftgfIUJgrD7glW_ypX7YQ50mItZEwAw3BCU7gSC&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/vQooM9N/
-  - title: En attendant Bojangles
-    subtitle: ''
-    author: Olivier Bourdeaut
-    date: '2022-03-29T19:37:20.008785Z'
-    read: '2022-03-29T19:37:40.472049Z'
-    rating: 5
-    isbn: '2363390636'
-    isbn13: '9782363390639'
-    pages: 158
-    cover_url: https://www.italictype.com/static/images/bookcover-not-found.png
-    reading: false
-    url: https://www.italictype.com/api/books/5ga6Gy8/
-  - title: Breath
-    subtitle: The New Science of a Lost Art
-    author: James Nestor
-    date: '2022-03-23T21:35:26.915563Z'
-    read: '2022-03-23T21:35:50.640828Z'
-    rating: 4
-    isbn: '0241289092'
-    isbn13: '9780241289099'
-    pages: 200
-    cover_url: >-
-      https://books.google.com/books/publisher/content?id=-ZuzDwAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72007dLUpMVMKT1vLHrnxvTBJv9QzEosv-y2ZOnQnwj3EHGT51nx3O7t8c1W8nh_dUlSS0AVJgTwkbUv84qtJf573MSrqtorZw2BDNerrDXR-2WNg0veQ9oRDO4Bc-Affm9VLwv&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/y5b4Qw8/
-  - title: Le Mont Analogue
-    subtitle: roman d'aventures alpines, non euclidiennes et symboliquement authentiques
-    author: René Daumal
-    date: '2022-03-14T19:59:48.575504Z'
-    read: '2022-03-14T20:00:07.877382Z'
-    rating: 4
-    isbn: '2070228770'
-    isbn13: '9782070228775'
-    pages: 175
-    cover_url: https://www.italictype.com/static/images/bookcover-not-found.png
-    reading: false
-    url: https://www.italictype.com/api/books/r5nl0b8/
-  - title: The Storyteller
-    subtitle: Tales of Life and Music
-    author: David Grohl
-    date: '2022-03-07T20:16:32.554859Z'
-    read: '2022-03-07T20:16:47.889838Z'
-    rating: 5
-    isbn: '1760859974'
-    isbn13: '9781760859978'
-    pages: 352
-    cover_url: >-
-      https://books.google.com/books/content?id=uZCUzgEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70uydZv9hUZHSv_P3n78fQc6GQWHhGalJxYohTh-06Q7iUNS28kpLna5Hay2yMacmBcts7OcKPbplIG13BSAvuAncznIOF_XKfRuxi_QII6cLEtiHk1OgVo8TqrnRW7p2kSGHQ0&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/rNwVRg8/
-  - title: Play Boy
-    subtitle: ''
-    author: Constance Debré
-    date: '2022-02-15T15:08:58.587823Z'
-    read: '2022-02-15T15:09:08.326939Z'
-    rating: 4
-    isbn: '2234084180'
-    isbn13: '9782234084186'
-    pages: 131
-    cover_url: >-
-      https://books.google.com/books/publisher/content?id=TJtFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73kWpHN4efTybayIPCZybp_xSm03aKmnHExtzWYoJP6ItaZ7_-O0NelR7YPl6Y4NHciTCDMXJjaNRCuvVdRt7ARQdeDZakmAoZ_1zUzMwNkO5gY0i4rDxOiSnyw6b72FScJgDcM&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/ZNBgpg5/
-  - title: Mindful Thoughts for Surfers
-    subtitle: Tuning in to the tides
-    author: Sam Bleakley
-    date: '2022-02-04T20:32:57.891329Z'
-    read: '2022-02-04T20:33:14.502559Z'
-    rating: 3
-    isbn: '1782408959'
-    isbn13: '9781782408956'
-    pages: 163
-    cover_url: >-
-      https://books.google.com/books/publisher/content?id=UZnSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70-584CVuIdSli8dNQYxdyj_gys9zee3lEp4ufFpk70OUOFsxEk-JQXCMYSofxeDlzc-S6rPnVAwTLS-wytsLqVRyGr5DxS0eTOoJc78BEMENsr1VJB4QcCD_hFZqfUs_DY5dTZ&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/BN9rXD5/
-  - title: Sauvagines
-    subtitle: ''
-    author: Gabrielle Filteau-Chiba
-    date: '2022-01-29T21:37:21.410725Z'
-    read: '2022-01-29T21:37:33.825814Z'
-    rating: 5
-    isbn: '2234091853'
-    isbn13: '9782234091856'
-    pages: 297
-    cover_url: >-
-      https://books.google.com/books/publisher/content?id=3ohUEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE732svvxbugEoKDGvebpYox9EBgQyiAuBiIC9IpesUFhZ_lX5bVRHPyxYeKoXkl9FgCVqBbTSnbws-cu9hRF_YMGmp1go5TRKrMi-ztucI2ekBfavg59ksLLD5ecCHMof3E4C9vp&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/g5RLA68/
-  - title: Thermae Romae, Vol. 3
-    subtitle: ''
-    author: Mari Yamazaki
-    date: '2022-01-21T21:28:30.852436Z'
-    read: '2022-01-21T21:28:45.710524Z'
-    rating: 4
-    isbn: '0316376205'
-    isbn13: '9780316376204'
-    pages: 388
-    cover_url: >-
-      https://books.google.com/books/publisher/content?id=JiZEAgAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70Sk1Tm8TtTcma_It8xooxLL0rAGuKupZvKegsWR3bdfNuHoDkJMw_FgDFHZSwl2_DyAMkhIpXGIkSmWiiO_e9UfWydbN46vvQaWWhaIxL9jKdMgAsCcnVw8pN5D9Y7fuTJeV9u&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/0varZ68/
-  - title: Nickel Boys
-    subtitle: ''
-    author: Colson Whitehead
-    date: '2022-01-19T20:28:18.953144Z'
-    read: '2022-01-19T20:28:36.654874Z'
-    rating: 5
-    isbn: '2226449787'
-    isbn13: '9782226449788'
-    pages: 193
-    cover_url: >-
-      https://books.google.com/books/publisher/content?id=2rK8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71hr2njudbRR-edtzZ6jei6I0iD7fbOzzezDINbKoX5wcufm_pyMcoiaQQRefNz74yDKXlagmM5q8yvYATnap-LDN4NlHLPlz1LmiqzlrYQf8hHBqkr-RCffLjdOLK_Rx6WeTb6&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/JvQA49v/
-  - title: Tant que le café est encore chaud
-    subtitle: ''
-    author: Toshikazu Kawaguchi
-    date: '2022-01-13T20:59:09.310001Z'
-    read: '2022-01-13T20:59:22.566257Z'
-    rating: 4
-    isbn: 222646915X
-    isbn13: '9782226469151'
-    pages: 162
-    cover_url: >-
-      https://books.google.com/books/publisher/content?id=DNw_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71-xZ_oiCHD4QnKoHhAn01JUK73sfAPhPeszs5udrfv2B8LRgAE8UwZrkX3D68Df_i-A6fYLv7urJpLYs7InEYmq4kVGNWIjW8XdN_4psaMo7Qc-mOGbsZbqmgsTRqz7UGVxEl9&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/6vLB1aN/
-  - title: Le droit du sol
-    subtitle: Journal d'un vertige
-    author: Etienne Davodeau
-    date: '2022-01-09T20:56:56.846854Z'
-    read: '2022-01-09T20:57:17.399787Z'
-    rating: 5
-    isbn: '2754829210'
-    isbn13: '9782754829212'
-    pages: 206
-    cover_url: https://www.italictype.com/static/images/bookcover-not-found.png
-    reading: false
-    url: https://www.italictype.com/api/books/X5X7PZN/
-  - title: L'alchimiste
-    subtitle: ''
-    author: Paulo Coelho
-    date: '2022-01-08T20:23:46.418785Z'
-    read: '2022-01-08T20:24:01.501710Z'
-    rating: 4
-    isbn: '2253150908'
-    isbn13: '9782253150909'
-    pages: 188
-    cover_url: >-
-      https://books.google.com/books/content?id=t39CPgAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70mEFntDtnzBGzRPRWOSunxV9GJXWMRQcaKKNS-N5io4LpI9z6QcgpAp3y_U25A9xvXiaxJiITZp4DNSXixmOatJKgIJsBzEcvzROWciNmtRmeOgorAwKspN4jYhN-Z2BK3tSBJ&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/e8e1Vr8/
-  - title: How to Read Water
-    subtitle: Clues and Patterns from Puddles to the Sea
+  - title: How to Read Water Clues and Patterns from Puddles to the Sea
     author: Tristan Gooley
-    date: '2021-10-11T18:47:45.242386Z'
-    read: '2022-01-05T16:39:48.531937Z'
-    rating: 4
-    isbn: '1615193588'
-    isbn13: '9781615193585'
-    pages: 400
+    subtitle: Clues & Patterns from Puddles to the Sea
+    date: 2022-01-05
+    read: 2022-01-05
+    rating: 3
+    pages: 393
+    isbn: "1615193588"
+    isbn13: "9781615193585"
     cover_url: >-
-      https://cai.italictype.com/media/imgs/1347/9781615193585_2927111d7a664c8594dba953cba4a911.jpg
+      https://assets.hardcover.app/external_data/45075095/6064e49477412030198a8aca423fe4d1a86df72b.jpeg
     reading: false
-    url: https://www.italictype.com/api/books/E83zY0v/
-  - title: Aventures de Vincent Lacoste au cinéma
-    subtitle: ''
-    author: Vincent Lacoste
-    date: '2022-01-02T20:22:29.704033Z'
-    read: '2022-01-02T20:22:48.927465Z'
+    url: >-
+      https://hardcover.app/books/how-to-read-water-clues-and-patterns-from-puddles-to-the-sea-2016
+  - title: The Alchemist
+    author: Paulo Coelho
+    subtitle: A Fable About Following Your Dream
+    date: 2022-01-08
+    read: 2022-01-08
+    rating: 3
+    pages: 188
+    isbn: "2253150908"
+    isbn13: "9782253150909"
+    cover_url: https://assets.hardcover.app/editions/30399646/6724991536065856.jpg
+    reading: false
+    url: https://hardcover.app/books/the-alchemist
+  - title: "Breath: The New Science of a Lost Art"
+    author: James Nestor
+    subtitle: The New Science of a Lost Art
+    date: 2022-03-23
+    read: 2022-03-23
+    rating: 3
+    pages: 304
+    isbn: "0241289092"
+    isbn13: "9780241289099"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/59521983/deeb9c79adeda728adf23993499d4d9a9bebaa9c.jpeg
+    reading: false
+    url: https://hardcover.app/books/breath
+  - title: Beautiful World, Where Are You
+    author: Sally Rooney
+    subtitle: ""
+    date: 2022-09-22
+    read: 2022-09-22
+    rating: 3
+    pages: 368
+    isbn: "1250859042"
+    isbn13: "9781250859044"
+    cover_url: >-
+      https://assets.hardcover.app/edition/16054307/391f1f94eb939ee13b163099f5e95657093fa2b9.jpeg
+    reading: false
+    url: https://hardcover.app/books/beautiful-world-where-are-you
+  - title: Before the Coffee Gets Cold
+    author: Toshikazu Kawaguchi
+    subtitle: Der Blick zurück öffnet den Weg nach vorn
+    date: 2022-01-13
+    read: 2022-01-13
     rating: 4
-    isbn: '2957813106'
-    isbn13: '9782957813100'
-    pages: 144
-    cover_url: https://www.italictype.com/static/images/bookcover-not-found.png
+    pages: 165
+    isbn: 222646915X
+    isbn13: "9782226469151"
+    cover_url: >-
+      https://assets.hardcover.app/editions/24086923/8822767016251445-81GoE0na35L._AC_UF1000,1000_QL80_.jpg
     reading: false
-    url: https://www.italictype.com/api/books/O8oeKd5/
+    url: https://hardcover.app/books/before-the-coffee-gets-cold
+  - title: Waves and Beaches
+    author: Willard Bascom
+    subtitle: The Dynamics of the Ocean Surface
+    date: 2022-11-09
+    read: 2022-11-09
+    rating: 4
+    pages: 440
+    isbn: ""
+    isbn13: "9781938340956"
+    cover_url: https://m.media-amazon.com/images/I/61Eeo31SF9L._SY522_.jpg
+    reading: false
+    url: https://hardcover.app/books/waves-and-beaches
+  - title: La dernière flamme
+    author: Tim Probert
+    subtitle: The Girl & the Galdurian
+    date: 2022-09-12
+    read: 2022-09-12
+    rating: 5
+    pages: 260
+    isbn: "2075152624"
+    isbn13: "9782075152624"
+    cover_url: https://assets.hardcover.app/edition/26457084/10096852-L.jpg
+    reading: false
+    url: https://hardcover.app/books/la-derniere-flamme
+  - title: Le Monde sans fin
+    author: Jean-Marc Jancovici
+    subtitle: ""
+    date: 2022-05-23
+    read: 2022-05-23
+    rating: 4
+    pages: 202
+    isbn: "2205089315"
+    isbn13: "9782205089318"
+    cover_url: >-
+      https://assets.hardcover.app/edition/30518535/42d4d001de9485cd46c7203583b7ea4e9bd6addb.jpeg
+    reading: false
+    url: https://hardcover.app/books/le-monde-sans-fin
+  - title: Mount Analogue
+    author: René Daumal
+    subtitle: Roman d'aventures alpines, non euclidiennes et symboliquement authentiques
+    date: 2022-03-14
+    read: 2022-03-14
+    rating: 4
+    pages: 175
+    isbn: "2070228770"
+    isbn13: "9782070228775"
+    cover_url: >-
+      https://assets.hardcover.app/book_mappings/7336192/55e317d9cc0bfcda3e61b116eeb6c220f8179265.jpeg
+    reading: false
+    url: https://hardcover.app/books/mount-analogue
+  - title: "The Storyteller: Tales of Life and Music"
+    author: Dave Grohl
+    subtitle: Tales of Life and Music
+    date: 2022-03-07
+    read: 2022-03-07
+    rating: 4
+    pages: 0
+    isbn: "1398506710"
+    isbn13: "9781398506718"
+    cover_url: >-
+      https://assets.hardcover.app/edition/30797240/e64fb6c1-0802-4c65-b2b0-0c6414e6784e.jpg
+    reading: false
+    url: https://hardcover.app/books/the-storyteller-tales-of-life-and-music
+  - title: Waiting for Bojangles
+    author: Olivier Bourdeaut
+    subtitle: ""
+    date: 2022-03-29
+    read: 2022-03-29
+    rating: 4
+    pages: 159
+    isbn: "2363390636"
+    isbn13: "9782363390639"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/27298302/60406d464c23b19d0a876e7c5b8d4084edbeeaaf.jpeg
+    reading: false
+    url: https://hardcover.app/books/waiting-for-bojangles
+  - title: Ranking of Kings, Vol. 1
+    author: Sosuke Toka
+    subtitle: ""
+    date: 2022-06-30
+    read: 2022-06-30
+    rating: 4
+    pages: 228
+    isbn: ""
+    isbn13: "9791032712191"
+    cover_url: https://assets.hardcover.app/editions/31581177/5796395885909278.png
+    reading: false
+    url: https://hardcover.app/books/ranking-of-kings-vol-1
+  - title: Play Boy
+    author: Constance Debré
+    subtitle: ""
+    date: 2022-02-15
+    read: 2022-02-15
+    rating: 3
+    pages: 147
+    isbn: "2234084180"
+    isbn13: "9782234084186"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/47593614/ce0f7f705581eb0d5414bcc2191dbbec4e17b655.jpeg
+    reading: false
+    url: https://hardcover.app/books/play-boy
+  - title: "Five Rules for Rebellion: Let's Change the World Ourselves"
+    author: Sophie Walker
+    subtitle: Let's Change the World Ourselves
+    date: 2022-09-04
+    read: 2022-09-04
+    rating: 3
+    pages: 0
+    isbn: "1785786032"
+    isbn13: ""
+    cover_url: https://images-na.ssl-images-amazon.com/images/P/1785786032.01.LZZZZZZZ.jpg
+    reading: false
+    url: https://hardcover.app/books/five-rules-for-rebellion
+  - title: Nom
+    author: Constance Debré
+    subtitle: ""
+    date: 2022-04-03
+    read: 2022-04-03
+    rating: 4
+    pages: 116
+    isbn: "2081515946"
+    isbn13: "9782081515949"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/61214940/ac253eb6faea6d821f4384ee7580eeeea08c9430.jpeg
+    reading: false
+    url: https://hardcover.app/books/nom
+  - title: "Mindfulness and Surfing: Reflections for Saltwater Souls"
+    author: Sam Bleakley
+    subtitle: Reflections for Saltwater Souls
+    date: 2022-10-11
+    read: 2022-10-11
+    rating: 3
+    pages: 144
+    isbn: "1782407596"
+    isbn13: "9781782403296"
+    cover_url: >-
+      https://assets.hardcover.app/edition/31569967/a0b402f4c010901b68a0f3876355dd4ab1c8fd7f.jpeg
+    reading: false
+    url: https://hardcover.app/books/mindfulness-and-surfing
+  - title: Le droit du sol - Journal d'un vertige
+    author: Étienne Davodeau
+    subtitle: Journal d'un vertige
+    date: 2022-01-09
+    read: 2022-01-09
+    rating: 4
+    pages: 206
+    isbn: "2754829210"
+    isbn13: "9782754829212"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/61651494/6063205a9718e217462c572b0cc4e8aabb5fac2c.jpeg
+    reading: false
+    url: https://hardcover.app/books/le-droit-du-sol-journal-dun-vertige
+  - title: "Le jeune acteur 1 : Aventures de Vincent Lacoste au cinéma"
+    author: Riad Sattouf
+    subtitle: Aventures de Vincent Lacoste au cinéma
+    date: 2022-01-02
+    read: 2022-01-02
+    rating: 4
+    pages: 140
+    isbn: "2957813106"
+    isbn13: "9782957813100"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/61651513/e43be658e523ce6927f4ebd0c0d5bd4e9876cac5.jpeg
+    reading: false
+    url: https://hardcover.app/books/le-jeune-acteur-1
+  - title: Sauvagines
+    author: Gabrielle Filteau-Chiba
+    subtitle: ""
+    date: 2022-01-29
+    read: 2022-01-29
+    rating: 5
+    pages: 298
+    isbn: "2234091853"
+    isbn13: "9782234091856"
+    cover_url: >-
+      https://assets.hardcover.app/edition/31990245/e82bc5a1a5a1086b662c821387e2176eaba56ff0.jpeg
+    reading: false
+    url: https://hardcover.app/books/sauvagines-2019
+  - title: La grande traversée de l’Ouest en bus
+    author: Jack Kerouac
+    subtitle: ""
+    date: 2022-10-09
+    read: 2022-10-09
+    rating: 3
+    pages: 112
+    isbn: "2072885434"
+    isbn13: "9782072885433"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32041217/e976601a38f50242b7228b302df258b697139fdf.jpeg
+    reading: false
+    url: https://hardcover.app/books/la-grande-traversee-de-l-ouest-en-bus
+  - title: Nickel boys
+    author: Colson Whitehead
+    subtitle: ""
+    date: 2022-01-19
+    read: 2022-01-19
+    rating: 5
+    pages: 197
+    isbn: "2226449787"
+    isbn13: "9782226449788"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32140902/ada95e5a1998f8390a6aa62dd42cba2e944e224b.jpeg
+    reading: false
+    url: https://hardcover.app/books/nickel-boys-2019
+  - title: L'Année de la pensée magique
+    author: Joan Didion
+    subtitle: ""
+    date: 2022-11-29
+    read: 2022-11-29
+    rating: 5
+    pages: 137
+    isbn: ""
+    isbn13: ""
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458092/ff94845d4ccc61db0fbc612ec03ba49842d511c1.jpeg
+    reading: false
+    url: https://hardcover.app/books/lannee-de-la-pensee-magique-2005
+  - title: Coffee time
+    author: Tetsuya Toyoda
+    subtitle: ""
+    date: 2022-10-12
+    read: 2022-10-12
+    rating: 3
+    pages: 206
+    isbn: "2355927561"
+    isbn13: "9782355927560"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32369972/3ce209362529c6e86e01aa4c084ca3e68efacd20.jpeg
+    reading: false
+    url: https://hardcover.app/books/coffee-time-2009
+  - title: "Mindful Thoughts for Surfers: Balance and salt water flow"
+    author: Sam Bleakley
+    subtitle: Balance and salt water flow
+    date: 2022-02-04
+    read: 2022-02-04
+    rating: 3
+    pages: 163
+    isbn: "1782408959"
+    isbn13: "9781782408956"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675924/05290bb41342df1644e56a69ac07722f8430d964.jpeg
+    reading: false
+    url: >-
+      https://hardcover.app/books/mindful-thoughts-for-surfers-balance-and-salt-water-flow
+  - title: Patagonie route 203
+    author: Eduardo Fernando Varela
+    subtitle: ""
+    date: 2022-08-27
+    read: 2022-08-27
+    rating: 4
+    pages: 260
+    isbn: ""
+    isbn13: "9791022610766"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458140/cc81871899b5fc1d82d7599f04c8a93821166a56.jpeg
+    reading: false
+    url: https://hardcover.app/books/patagonie-route-203-2019
+  - title: L'Amérique
+    author: Joan Didion
+    subtitle: ""
+    date: 2022-12-15
+    read: 2022-12-15
+    rating: 3
+    pages: 201
+    isbn: 224680471X
+    isbn13: "9782246804710"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458263/2499de6034ea4f8b930f6fedaa981e6b095e83ed.jpeg
+    reading: false
+    url: https://hardcover.app/books/lamerique-2003
+  - title: Les Spectres de la terre brisée
+    author: S. Craig Zahler
+    subtitle: ""
+    date: 2022-05-09
+    read: 2022-05-09
+    rating: 3
+    pages: 417
+    isbn: "2404008269"
+    isbn13: "9782404008264"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458322/e1043fd91faa78a4de71f9d98e93c905e2d50c33.jpeg
+    reading: false
+    url: https://hardcover.app/books/les-spectres-de-la-terre-brisee-2013
+  - title: Olympia Kyklos
+    author: Mari Yamazaki
+    subtitle: ""
+    date: 2022-09-29
+    read: 2022-09-29
+    rating: 4
+    pages: 201
+    isbn: "2203244860"
+    isbn13: "9782203244863"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458256/d52a23a10ab1c2cbb9eba19e0d1c7c1d7c30a7f6.jpeg
+    reading: false
+    url: https://hardcover.app/books/olympia-kyklos-2018
+  - title: Une odyssée américaine
+    author: Jim Harrison
+    subtitle: ""
+    date: 2022-05-20
+    read: 2022-05-20
+    rating: 3
+    pages: 283
+    isbn: "2290252786"
+    isbn13: "9782290252789"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675950/150349079dd60e624ec5f6ae83f89d5b86abef76.jpeg
+    reading: false
+    url: https://hardcover.app/books/une-odyssee-americaine-2008
+  - title: Thermae Romae, Vol. 3
+    author: Mari Yamazaki
+    subtitle: ""
+    date: 2022-01-21
+    read: 2022-01-21
+    rating: 4
+    pages: 388
+    isbn: "0316376205"
+    isbn13: "9780316376204"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458148/7a1d9d4c06daa6a7dc4b87dcd6103407aa92a222.jpeg
+    reading: false
+    url: https://hardcover.app/books/thermae-romae-vol-3-2014

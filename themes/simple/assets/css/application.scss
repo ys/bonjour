@@ -27,7 +27,7 @@ open-heart:not([disabled]):focus {
   transform: scale(1.2);
 }
 
-[aria-pressed="true"] .on { 
+[aria-pressed="true"] .on {
   transform: scale(1);
   opacity: 1;
 }
@@ -36,7 +36,7 @@ open-heart:not([disabled]):focus {
 
 [aria-pressed="true"] { color: #f00; }
 
-[aria-busy="true"] { 
+[aria-busy="true"] {
   @apply animate-pulse;
 }
 
@@ -113,6 +113,59 @@ footer ul li:not(:last-child):after {
   height: calc(100% - var(--gap, 0px));
   left: calc(var(--gap, 0px) * 0.5);
   top: calc(var(--gap, 0px) * 0.5);
+}
+
+// Masonry layout styles
+.masonry-container {
+  column-count: 1;
+  column-gap: 0.5rem; // 8px - small margins
+  padding: 0.5rem; // 8px padding from edges
+
+  @media (min-width: 640px) {
+    column-count: 2;
+    column-gap: 0.75rem; // 12px
+    padding: 0.75rem;
+  }
+
+  @media (min-width: 768px) {
+    column-count: 3;
+    column-gap: 1rem; // 16px
+    padding: 1rem;
+  }
+
+  @media (min-width: 1024px) {
+    column-count: 4;
+    column-gap: 1rem; // 16px
+    padding: 1rem;
+  }
+
+  @media (min-width: 1536px) {
+    column-count: 5;
+    column-gap: 1.25rem; // 20px
+    padding: 1.25rem;
+  }
+}
+
+.masonry-container > div {
+  break-inside: avoid;
+  page-break-inside: avoid;
+  -webkit-column-break-inside: avoid;
+
+  margin-bottom: 0.5rem;
+
+  @media (min-width: 640px) {
+    margin-bottom: 0.75rem;
+  }
+
+  @media (min-width: 768px) {
+    margin-bottom: 1rem;
+  }
+}
+
+.masonry-container img {
+  width: 100%;
+  height: auto;
+  display: block;
 }
 
 .wide-width {

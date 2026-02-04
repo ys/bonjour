@@ -1,10 +1,13 @@
 <div class="font-sans mx-6 xl:mx-auto max-w-6xl ">
   <footer class="relative py-10 dark:text-gray-100 text-gray-600  flex flex-col  justify-items-center items-left gap-2 text-sm">
+    <span class="font-light text-md text-center">
+      {{ .Site.Params.footerDescription }}
+    </span>
     <span class="font-light text-xs">
     {{ .Site.Params.author.location }} • <a href="mailto:{{ .Site.Params.social.email }}">{{ .Site.Params.social.email }}</a> • <a href="https://instagram.com/{{ .Site.Params.social.instagram }}">@{{ .Site.Params.social.instagram }}</a>
 
     </span>
-    <span class="text-xs text-gray-400 dark:text-gray-600">Tous droits réservés ©</span>
+    <span class="text-xs text-gray-400 dark:text-gray-600">{{ .Site.Params.copyright }}</span>
 
     <a href="#" alt="Get me back to the top" aria-label="Get me back to the top" class="mt-8 hover:rotate-180 duration-500 w-8 text-{{ $.Scratch.Get "color" }} ">
       {{ if fileExists "/static/negative-logo.svg" }}

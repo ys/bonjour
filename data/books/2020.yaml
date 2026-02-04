@@ -1,346 +1,367 @@
 year: 2020
 books:
-  - title: "Chroniques du royaume"
-    author: "Elisa Routa"
-    isbn: "9782957550"
-    isbn13: ""
-    rating: 5
-    pages: 150
-    date: "2020-12-23"
-    read: "2020-12-23"
-  - title: "Chiisakobé #4"
-    author: "Minetarō Mochizuki"
-    isbn: ""
-    isbn13: ""
-    rating: 5
-    pages:
-    date: "2020-12-15"
-    read: "2020-12-15"
-  - title: "Under the Stars"
-    author: "Matt Gaw"
-    isbn: "1783964634"
-    isbn13: "9781783964635"
-    rating: 4
-    pages: 208
-    date: "2020-12-15"
-    read: "2020-12-19"
-  - title: "L’Île au trésor"
-    author: "Robert Louis Stevenson"
-    isbn: ""
-    isbn13: ""
-    rating: 4
-    pages: 275
-    date: "2020-12-08"
-    read: "2020-12-09"
-  - title: "Visa Transit #2"
-    author: "Nicolas de Crécy"
-    isbn: ""
-    isbn13: ""
-    rating: 4
-    pages:
-    date: "2020-12-08"
-    read: "2020-12-08"
-  - title: "Histoires de mers"
-    author: "Hubert Delahaye"
-    isbn: ""
-    isbn13: ""
-    rating: 3
-    pages:
-    date: "2020-12-06"
-    read: "2020-12-06"
-  - title: "Le Feu sur la montagne"
-    author: "Edward Abbey"
-    isbn: "2351780930"
-    isbn13: "9782351780930"
-    rating: 4
-    pages: 211
-    date: "2020-11-26"
-    read: "2020-11-30"
-  - title: "Les vieux fourneaux #6"
-    author: "Wilfrid Lupano"
-    isbn: ""
-    isbn13: "9782505083368"
-    rating: 3
-    pages: 56
-    date: "2020-11-25"
-    read: "2020-11-25"
-  - title: "The Surfboard"
-    author: "Dan Kieran"
-    isbn: "1783526386"
-    isbn13: "9781783526383"
-    rating: 3
-    pages: 320
-    date: "2020-11-08"
-    read: "2020-11-08"
-  - title: "Board"
-    author: "David C. Flanagan"
-    isbn: ""
-    isbn13: ""
-    rating: 4
-    pages: 204
-    date: "2020-11-05"
-    read: "2020-11-05"
-  - title: "Underground Railroad"
-    author: "Colson Whitehead"
-    isbn: "0385542364"
-    isbn13: "9780385542364"
-    rating: 5
-    pages: 306
-    date: "2020-10-25"
-    read: "2020-10-31"
-  - title: "Le surf change le monde"
-    author: "Gibus de Soultrait"
-    isbn: ""
-    isbn13: "9782956913702"
-    rating: 4
-    pages:
-    date: "2020-10-25"
-    read: "2020-12-13"
-  - title: "Castelmaure"
-    author: "Alfred"
-    isbn: ""
-    isbn13: ""
-    rating: 4
-    pages: 170
-    date: "2020-10-16"
-    read: "2020-10-16"
-  - title: "Utopia for Realists"
-    author: "Rutger Bregman"
-    isbn: ""
-    isbn13: ""
+  - title: "Utopia for Realists: How We Can Build the Ideal World"
+    author: Rutger Bregman
+    subtitle: How We Can Build the Ideal World
+    date: 2020-10-16
+    read: 2020-10-16
     rating: 4
     pages: 262
-    date: "2020-10-07"
-    read: "2020-10-16"
-  - title: "La République du bonheur"
-    author: "Ito Ogawa"
-    isbn: "2809714967"
-    isbn13: "9782809714968"
-    rating: 3
-    pages: 282
-    date: "2020-10-06"
-    read: "2020-10-06"
-  - title: "Broadway"
-    author: "Fabrice Caro"
-    isbn: ""
-    isbn13: "9782072907210"
-    rating: 4
-    pages: 208
-    date: "2020-09-30"
-    read: "2020-09-29"
-  - title: "Les Impatients"
-    author: "Maria Pourchet"
-    isbn: ""
-    isbn13: "9782072831454"
-    rating: 3
-    pages: 188
-    date: "2020-09-30"
-    read: "2020-10-03"
-  - title: "Les Vermeilles"
-    author: "Camille Jourdy"
-    isbn: "2330126204"
-    isbn13: "9782330126209"
-    rating: 5
-    pages: 155
-    date: "2020-09-25"
-    read: "2020-10-03"
-  - title: "La Divine Chanson"
-    author: "Abdourahman A. Waberi"
-    isbn: "2843047323"
-    isbn13: "9782843047329"
-    rating: 5
-    pages: 240
-    date: "2020-09-25"
-    read: "2020-09-25"
-  - title: "Americana"
-    author: "Luke Healy"
-    isbn: "2203211938"
-    isbn13: "9782203211933"
-    rating: 4
-    pages: 332
-    date: "2020-09-07"
-    read: "2020-09-08"
-  - title: "Prosélytisme & Morts-Vivants"
-    author: "Lewis Trondheim"
-    isbn: ""
-    isbn13: "9782844147462"
-    rating: 4
-    pages: 44
-    date: "2020-09-05"
-    read: "2020-09-05"
-  - title: "Do Make"
-    author: "James Otter"
-    isbn: "1907974865"
-    isbn13: "9781907974861"
-    rating: 5
-    pages: 128
-    date: "2020-09-03"
-    read: "2020-11-05"
-  - title: "Do Sourdough"
-    author: "Andrew Whitley"
-    isbn: "1907974113"
-    isbn13: "9781907974113"
-    rating: 3
-    pages: 160
-    date: "2020-09-03"
-    read: "2020-09-03"
-  - title: "Inconspicuous Consumption"
-    author: "Tatiana Schlossberg"
-    isbn: "1538747081"
-    isbn13: "9781538747087"
-    rating: 3
-    pages: 288
-    date: "2020-09-03"
-    read: "2020-09-11"
-  - title: "La mer autour de nous"
-    author: "Rachel Carson"
-    isbn: "0195069978"
-    isbn13: "9780195069976"
-    rating: 4
-    pages: 288
-    date: "2020-09-03"
-    read: "2020-10-10"
-  - title: "Peau d'homme"
-    author: "Hubert"
-    isbn: "2344010645"
-    isbn13: "9782344010648"
-    rating: 5
-    pages: 160
-    date: "2020-08-19"
-    read: "2020-08-19"
-  - title: "Nos cabanes"
-    author: "Marielle Macé"
-    isbn: ""
-    isbn13: ""
-    rating: 3
-    pages: 122
-    date: "2020-08-15"
-    read: "2020-08-15"
-  - title: "Petit traité d'écologie sauvage"
-    author: "Alessandro Pignocchi"
-    isbn: ""
-    isbn13: "9782368461075"
-    rating: 3
-    pages: 128
-    date: "2020-08-14"
-    read: "2020-08-14"
-  - title: "Les Grandes Marées"
-    author: "Jim Lynch"
-    isbn: ""
-    isbn13: "9782351785751"
-    rating: 4
-    pages: 288
-    date: "2020-07-28"
-    read: "2020-07-28"
-  - title: "Petite éloge du surf"
-    author: "Joël de Rosnay"
-    isbn: ""
-    isbn13: "9791025204917"
-    rating: 4
-    pages: 128
-    date: "2020-06-29"
-    read: "2020-06-29"
-  - title: "Éloge de la marée"
-    author: "Hervé Hamon"
-    isbn: ""
-    isbn13: "9782369450634"
-    rating: 4
-    pages:
-    date: "2020-06-18"
-    read: "2020-06-18"
+    isbn: "0316471917"
+    isbn13: "9780316471916"
+    cover_url: >-
+      https://assets.hardcover.app/edition/30404791/f7e7763061920c6c0799965fc397432e4e7c73a7.jpeg
+    reading: false
+    url: https://hardcover.app/books/utopia-for-realists
   - title: "On Writing: A Memoir of the Craft"
-    author: "Stephen King"
-    isbn: "0743455967"
-    isbn13: "9780743455961"
+    author: Stephen King
+    subtitle: 10th Anniversary Edition
+    date: 2020-06-17
+    read: 2020-06-17
     rating: 4
-    pages: 320
-    date: "2020-05-28"
-    read: "2020-06-17"
-  - title: "Nagori"
-    author: "Ryoko Sekiguchi"
-    isbn: ""
-    isbn13: ""
-    rating: 3
-    pages: 144
-    date: "2020-05-17"
-    read: "2020-07-12"
-  - title: "There Is No Planet B"
-    author: "Mike Berners-Lee"
-    isbn: "1108439586"
-    isbn13: "9781108439589"
-    rating: 4
-    pages: 302
-    date: "2020-05-07"
-    read: "2020-05-28"
-  - title: "Do What You Want: The Story of Bad Religion"
-    author: "Bad Religion"
-    isbn: "0306922223"
-    isbn13: "9780306922220"
-    rating: 4
-    pages: 336
-    date: "2020-05-07"
-    read: "2020-11-25"
-  - title: "Burn the Place: A Memoir"
-    author: "Iliana Regan"
-    isbn: "1572842679"
-    isbn13: "9781572842670"
-    rating: 5
-    pages: 250
-    date: "2020-04-21"
-    read: "2020-05-01"
-  - title: "Les Rois d'Islande"
-    author: "Einar Már Guðmundsson"
-    isbn: ""
-    isbn13: ""
-    rating: 3
-    pages: 172
-    date: "2020-04-20"
-    read: "2020-04-20"
-  - title: "J'aurais pu devenir millionnaire, j'ai choisi d'être vagabond"
-    author: "Alexis Jenni"
-    isbn: "2375020898"
-    isbn13: "9782375020890"
-    rating: 3
-    pages: 220
-    date: "2020-04-02"
-    read: "2020-04-02"
-  - title: "Uncanny Valley"
-    author: "Anna Wiener"
-    isbn: "0374278016"
-    isbn13: "9780374278014"
+    pages: 351
+    isbn: "1444723251"
+    isbn13: "9781444723250"
+    cover_url: >-
+      https://assets.hardcover.app/edition/22655097/547380e475b340366b8a8447f1cd0964bb62c558.jpeg
+    reading: false
+    url: https://hardcover.app/books/on-writing
+  - title: Uncanny Valley
+    author: Anna Wiener
+    subtitle: ""
+    date: 2020-02-28
+    read: 2020-02-28
     rating: 5
     pages: 281
-    date: "2020-02-28"
-    read: "2020-02-28"
-  - title: "The Courage to Be Disliked"
-    author: "Ichiro Kishimi"
-    isbn: "176063073X"
-    isbn13: "9781760630737"
+    isbn: "0374278016"
+    isbn13: "9780374278014"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/59375164/507d7c2cfd3621218ce517f31efaccf85784cf9e.jpeg
+    reading: false
+    url: https://hardcover.app/books/uncanny-valley
+  - title: The Courage to Be Disliked
+    author: Ichiro Kishimi
+    subtitle: >-
+      The Japanese Phenomenon That Shows You How to Change Your Life and Achieve
+      Real Happiness
+    date: 2020-02-18
+    read: 2020-02-18
     rating: 4
-    pages: 288
-    date: "2020-02-15"
-    read: "2020-02-18"
+    pages: 309
+    isbn: "1760638269"
+    isbn13: "9781760638269"
+    cover_url: >-
+      https://assets.hardcover.app/edition/7407969/101d1db40717bb170589895f6a3323f2a0c8008c.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-courage-to-be-disliked
+  - title: "Burn the Place: A Memoir"
+    author: Iliana Regan
+    subtitle: A Memoir
+    date: 2020-05-01
+    read: 2020-05-01
+    rating: 5
+    pages: 256
+    isbn: "1982157771"
+    isbn13: "9781982157777"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/59379277/098bd24171bba358af70c5bad3dd5b675aed4f1e.jpeg
+    reading: false
+    url: https://hardcover.app/books/burn-the-place
+  - title: The Salt Path
+    author: Raynor Winn
+    subtitle: A Memoir
+    date: 2020-02-02
+    read: 2020-02-02
+    rating: 5
+    pages: 289
+    isbn: "0143134116"
+    isbn13: "9780143134114"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/46825297/52d699aa4910ae610897a94fbb0b2f1db88a6391.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-salt-path
+  - title: There Is No Planet B
+    author: Mike Berners-Lee
+    subtitle: A Handbook for the Make or Break Years
+    date: 2020-05-28
+    read: 2020-05-28
+    rating: 4
+    pages: 303
+    isbn: "1108439586"
+    isbn13: "9781108439589"
+    cover_url: https://assets.hardcover.app/edition/30465276/content.jpeg
+    reading: false
+    url: https://hardcover.app/books/there-is-no-planet-b
   - title: "The Longing for Less: Living with Minimalism"
-    author: "Kyle Chayka"
-    isbn: "163557210X"
-    isbn13: "9781635572100"
-    rating: 3
-    pages: 272
-    date: "2020-02-02"
-    read: "2020-02-12"
-  - title: "The Manual"
-    author: "Epictetus"
-    isbn: ""
-    isbn13: ""
-    rating: 3
-    pages: 66
-    date: "2020-01-20"
-    read: "2020-01-21"
-  - title: "Visa Transit #1"
-    author: "Nicolas de Crécy"
-    isbn: ""
-    isbn13: ""
+    author: Kyle Chayka
+    subtitle: Living with Minimalism
+    date: 2020-02-12
+    read: 2020-02-12
     rating: 4
-    pages: 136
-    date: "2020-01-11"
-    read: "2020-01-11"
+    pages: 273
+    isbn: 163557210X
+    isbn13: "9781635572100"
+    cover_url: >-
+      https://assets.hardcover.app/edition/30487672/a820fd02d9afebd25194d6eca03bc46cc0d2587f.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-longing-for-less-living-with-minimalism
+  - title: The Sea Around Us
+    author: Rachel Carson
+    subtitle: ""
+    date: 2020-10-10
+    read: 2020-10-10
+    rating: 5
+    pages: 256
+    isbn: "0195069978"
+    isbn13: "9780195069976"
+    cover_url: >-
+      https://assets.hardcover.app/book_mappings/7335990/6e9bb78aa5635162c3d30946b51c4d403482ef04.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-sea-around-us
+  - title: Do Sourdough
+    author: Andrew Whitley
+    subtitle: ""
+    date: 2020-09-03
+    read: 2020-09-03
+    rating: 0
+    pages: 157
+    isbn: "1907974113"
+    isbn13: "9781907974113"
+    cover_url: https://assets.hardcover.app/edition/30609703/content.jpeg
+    reading: false
+    url: https://hardcover.app/books/do-sourdough
+  - title: Do What You Want
+    author: Bad Religion
+    subtitle: ""
+    date: 2020-11-25
+    read: 2020-11-25
+    rating: 4
+    pages: 336
+    isbn: "0306922223"
+    isbn13: "9780306922220"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/59684782/a42bdbc88eed3f057315f96b4307ae257da73d2b.jpeg
+    reading: false
+    url: >-
+      https://hardcover.app/books/do-what-you-want-0f834f48-343b-45a4-89be-df58f5378f2d
+  - title: Under the Stars
+    author: Matt Gaw
+    subtitle: ""
+    date: 2020-12-19
+    read: 2020-12-19
+    rating: 5
+    pages: 224
+    isbn: "1783965827"
+    isbn13: "9781783965823"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/59886654/d7fba36993acb55b7fded451354f6739f8b3a767.jpeg
+    reading: false
+    url: https://hardcover.app/books/under-the-stars-2021
+  - title: "The Surfboard: How Using My Hands Helped Unlock My Mind"
+    author: Dan Kieran
+    subtitle: How Using My Hands Helped Unlock My Mind
+    date: 2020-11-08
+    read: 2020-11-08
+    rating: 4
+    pages: 0
+    isbn: "1783526386"
+    isbn13: "9781783526383"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/59921806/317cd496191b4fb6ef64d24f3d1f369335662e83.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-surfboard
+  - title: Americana
+    author: Luke Healy
+    subtitle: ""
+    date: 2020-09-09
+    read: 2020-09-09
+    rating: 4
+    pages: 0
+    isbn: "1910620610"
+    isbn13: "9781910620618"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/60221104/7e0e9bd21d2a04962bdd1a61be6fe971752830a0.jpeg
+    reading: false
+    url: https://hardcover.app/books/americana-2019
+  - title: The Underground Railroad
+    author: Colson Whitehead
+    subtitle: Winner of the Pulitzer Prize for Fiction 2017
+    date: 2020-10-31
+    read: 2020-10-31
+    rating: 5
+    pages: 313
+    isbn: "0345804325"
+    isbn13: "9780345804327"
+    cover_url: >-
+      https://assets.hardcover.app/edition/29620225/f008ccbc2d8fe0ea58cd84bbbcf294a46f869876.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-underground-railroad-2016
+  - title: >-
+      Inconspicuous Consumption: The Environmental Impact You Don't Know You
+      Have
+    author: Tatiana Schlossberg
+    subtitle: The Environmental Impact You Don't Know You Have
+    date: 2020-09-11
+    read: 2020-09-11
+    rating: 3
+    pages: 276
+    isbn: 153874709X
+    isbn13: "9781538747094"
+    cover_url: >-
+      https://assets.hardcover.app/edition/31544603/b8e6f4a423537de0dc414049ce6a29bd4b8ede29.jpeg
+    reading: false
+    url: >-
+      https://hardcover.app/books/inconspicuous-consumption-the-environmental-impact-you-dont-know-you-have
+  - title: "Do Make: The Power of Your Own Two Hands"
+    author: James Otter
+    subtitle: The power of your own two hands.
+    date: 2020-11-05
+    read: 2020-11-05
+    rating: 5
+    pages: 128
+    isbn: ""
+    isbn13: "9781907974861"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/27620254/d585f542a4e66317caa71015bab2511d3d8ebc23.jpeg
+    reading: false
+    url: https://hardcover.app/books/do-make
+  - title: "Little Nothings 3: Uneasy Happiness"
+    author: Lewis Trondheim
+    subtitle: Uneasy Happiness
+    date: 2020-03-28
+    read: 2020-03-28
+    rating: 4
+    pages: 123
+    isbn: "1561635766"
+    isbn13: "9781561635764"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/22961345/e897c3cdf42dbe6f7f75e1d2e464bcd2fbf30a2c.jpeg
+    reading: false
+    url: https://hardcover.app/books/little-nothings-3
+  - title: Board
+    author: David C. Flanagan
+    subtitle: ""
+    date: 2020-11-05
+    read: 2020-11-05
+    rating: 4
+    pages: 204
+    isbn: "1905916949"
+    isbn13: ""
+    cover_url: "https://m.media-amazon.com/images/I/31phskPFR0L.jpg"
+    reading: false
+    url: https://hardcover.app/books/board-2015
+  - title: >-
+      Les Filles Femmes Et Les Femmes Filles, Ou Le Monde Changé: Conte Qui N'en
+      Est Pas Un...
+    author: Louis De Boissy
+    subtitle: Conte Qui N'en Est Pas Un...
+    date: 2020-12-13
+    read: 2020-12-13
+    rating: 4
+    pages: 0
+    isbn: "1271220350"
+    isbn13: "9781271220359"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675853/8b74ca02859d17a1ba09735c15d88426de1d9a6b.jpeg
+    reading: false
+    url: >-
+      https://hardcover.app/books/les-filles-femmes-et-les-femmes-filles-ou-le-monde-change-conte-qui-nen-est-pas-un
+  - title: "Learn All About Backlinks: Techniques for Flourishing Business"
+    author: Edward Abbey
+    subtitle: Techniques for Flourishing Business
+    date: 2020-11-30
+    read: 2020-11-30
+    rating: 5
+    pages: 74
+    isbn: "1505450160"
+    isbn13: "9781505450163"
+    cover_url: https://assets.hardcover.app/edition/6696301/10457079-L.jpg
+    reading: false
+    url: >-
+      https://hardcover.app/books/learn-all-about-backlinks-techniques-for-flourishing-business
+  - title: La Regle Du Je Dans l'Age d'Homme de Michel Leiris
+    author: Hubert De Phalese
+    subtitle: ""
+    date: 2020-08-19
+    read: 2020-08-19
+    rating: 5
+    pages: 157
+    isbn: "2707812854"
+    isbn13: "9782707812858"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458025/2f954e3b76feb7aa2a947d96fe02a302f166a73e.jpeg
+    reading: false
+    url: >-
+      https://hardcover.app/books/la-regle-du-je-dans-lage-dhomme-de-michel-leiris-2004
+  - title: La mer à mots choisis
+    author: Hervé Hamon
+    subtitle: ""
+    date: 2020-06-18
+    read: 2020-06-18
+    rating: 4
+    pages: 106
+    isbn: "2823300104"
+    isbn13: "9782823300109"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2457976/1ea13d9d481c2ec171609c607b8a25c0ddb83cf1.jpeg
+    reading: false
+    url: https://hardcover.app/books/la-mer-a-mots-choisis-2011
+  - title: 99 Aventures Dans les grandes histories bibliques
+    author: Dr. Jim Cook
+    subtitle: ""
+    date: 2020-07-28
+    read: 2020-07-28
+    rating: 5
+    pages: 500
+    isbn: 172964404X
+    isbn13: "9781729644041"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675861/354953ec48cdb51802277520fb045bdffd69649a.jpeg
+    reading: false
+    url: >-
+      https://hardcover.app/books/99-aventures-dans-les-grandes-histories-bibliques-2018
+  - title: Beau Austin
+    author: William Ernest Henley
+    subtitle: ""
+    date: 2020-12-09
+    read: 2020-12-09
+    rating: 4
+    pages: 52
+    isbn: "1522761896"
+    isbn13: "9781522761891"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458012/2f4310ce441e27ade110fa7fb20db553ce34d8d4.jpeg
+    reading: false
+    url: https://hardcover.app/books/beau-austin-1884
+  - title: The Divine Song
+    author: Abdourahman A. Waberi
+    subtitle: ""
+    date: 2020-09-25
+    read: 2020-09-25
+    rating: 5
+    pages: 180
+    isbn: 085742694X
+    isbn13: "9780857426949"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675863/648950e1a6a02b5a786f36a0bda8efe009336af9.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-divine-song-2015
+  - title: >-
+      The Manual of Epictetus, the Philosopher. Made English From the Original
+      Greek, by a Person of Quality: And now First Published by W. Bond, Esq: to
+      ... I. The Character of a Wicked Politician. II
+    author: Epictetus
+    subtitle: >-
+      And now First Published by W. Bond, Esq: to ... I. The Character of a
+      Wicked Politician. II
+    date: 2020-01-21
+    read: 2020-01-21
+    rating: 4
+    pages: 144
+    isbn: "1385774037"
+    isbn13: "9781385774038"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675864/b2be2e663a3f5a342d9cec0ade2f65583628fb70.jpeg
+    reading: false
+    url: >-
+      https://hardcover.app/books/the-manual-of-epictetus-the-philosopher-made-english-from-the-original-greek-by-a-person-of-quality-and-now-first-published-by-w-bond-esq-to-i-the-character-of-a-wicked-politician-ii

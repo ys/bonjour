@@ -1,256 +1,269 @@
 year: 2023
 books:
-  - title: Blackwater 1 - La crue
-    subtitle: L'épique saga de la famille Caskey
-    author: Michael MCDOWELL
-    date: '2023-12-08T20:37:34.498900Z'
-    read: '2023-12-08T20:37:46.609937Z'
-    rating: 4
-    isbn: '2381960511'
-    isbn13: '9782381960517'
-    pages: 170
-    cover_url: >-
-      https://books.google.com/books/publisher/content?id=SxNfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73XDnpLGwfrPEuZuxtSRWwu3TxaUrNIcMpYbC7kJc6YU_JubYEXYUJN3yzKejS_Hv0bEnvhpFobWl_7S4xJmwHlimYV2LWThjOypmeFiuVr_YqIxRa4tJouJoBJnz46DEnwThL4&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/5Rz3Rl5/
-  - title: La bibliothèque des rêves secrets
-    subtitle: ''
-    author: Michiko Aoyama
-    date: '2023-11-28T19:59:11.267934Z'
-    read: '2023-11-28T19:59:19.334255Z'
-    rating: 4
-    isbn: 249381603X
-    isbn13: '9782493816030'
-    pages: 276
-    cover_url: >-
-      https://books.google.com/books/publisher/content?id=43KrEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71f7YfmiHSFlVjuYDZx3TeH3lrhTP9l6yZVfza9zxOobYmCN8r3VduI7-Rr8iYWJJ8bfno6ptRtXTa1Isyl4_QrKzrEOiomi1UvPSZscx3mouTIaWYY2sDDHB0u3lpNOzCgyle2&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/8OxAmVN/
-  - title: >-
-      Demain, et demain, et demain : Rentrée littéraire 2023 - Le roman
-      phénomène aux Etats-Unis
-    subtitle: ''
-    author: Gabrielle Zevin
-    date: '2023-10-24T06:59:53.179670Z'
-    read: '2023-11-28T19:59:00.472510Z'
-    rating: 4
-    isbn: 226515654X
-    isbn13: '9782265156548'
-    pages: 449
-    cover_url: >-
-      https://books.google.com/books/publisher/content?id=zqDAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72_yB_pNHvoVJXI5jV_-r6sdhKpXrROkvNvhtclv22KE8mQ6VrQ2Lgnhtd5CXv663mVRruSnHfU-WVoIP5z9wNsjgZ7mB2PlYPjaxQf5EiYlakLPOPWY2OoDmRVPaOw1TfEP611&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/NAwR1Dv/
-  - title: Right, Down + Circle
-    subtitle: Tony Hawk’s Pro Skater
-    author: Cole Nowicki
-    date: '2023-10-19T08:10:15.081771Z'
-    read: '2023-10-22T19:18:42.258239Z'
-    rating: 4
-    isbn: '1778521975'
-    isbn13: '9781778521973'
-    pages: 124
-    cover_url: >-
-      https://books.google.com/books/publisher/content?id=k2XDEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70LXX_ltxfWyW6ce1kcip71sf9DIJh-UlYRGulyKE7lGuanckERGfjVP2JrkJ2HkDO_9G45uzM26MKHjOne3lNxC6BuVUReL_GEDJ0DP_1n3BFhlc_xzcuMudh4l-svTtHoyjWP&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/vZmJqg5/
-  - title: L'étranger
-    subtitle: ''
+  - title: The Stranger
     author: Albert Camus
-    date: '2023-10-13T21:47:30.357733Z'
-    read: '2023-10-13T21:47:45.462451Z'
-    rating: 4
-    isbn: 207030602X
-    isbn13: '9782070306022'
+    subtitle: The Original Unabridged and Complete Edition
+    date: 2023-10-13
+    read: 2023-10-13
+    rating: 3
     pages: 206
+    isbn: 207030602X
+    isbn13: "9782070306022"
     cover_url: >-
-      https://books.google.com/books/content?id=u3hkngEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71BcoalERUek2fHO0BY5Uz6tAiQC8TOtTTRGJ7OfGI9LS5ao2dIlphgstKBoXmCdSzavqYZsK49anZ9yHxVU34mRhFEHbaTS_wnhDBzanG8RK70FOVFPVPHuqbg2-qwiAsGWBzU&source=gbs_api
+      https://assets.hardcover.app/external_data/60312166/8578c1362e1b2d64fc867cc4b84178b7b8231e3d.jpeg
     reading: false
-    url: https://www.italictype.com/api/books/5gRleBN/
-  - title: Chroniques de San Francisco
-    subtitle: ''
-    author: Armistead Maupin
-    date: '2023-09-30T07:40:27.399053Z'
-    read: '2023-09-30T07:40:42.586780Z'
-    rating: 3
-    isbn: '2264029951'
-    isbn13: '9782264029959'
-    pages: 381
-    cover_url: >-
-      https://books.google.com/books/content?id=EPsnHQAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70No3f8lCspjiap0SEJNiYfLM0BQonpkHfemNvag_dQqgXC5CqloJ7JVOvuBmY7UDTsSZ8ksJ4S5_yT0YKHsB4OAqvUAFdC3moYhy9nhWLeWymZxrQbNUTjMeMu7QOwcoUDG6ML&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/NpXeVDN/
-  - title: Where the Waves Turn Back
-    subtitle: A Forty-Day Pilgrimage Along the California Coast
-    author: Tyson Motsenbocker
-    date: '2023-09-16T16:11:56.325513Z'
-    read: '2023-09-26T07:01:30.319445Z'
+    url: https://hardcover.app/books/the-stranger
+  - title: Tomorrow, and Tomorrow, and Tomorrow
+    author: Gabrielle Zevin
+    subtitle: A novel
+    date: 2023-11-28
+    read: 2023-11-28
     rating: 4
-    isbn: '1546003460'
-    isbn13: '9781546003465'
-    pages: 245
+    pages: 448
+    isbn: 226515654X
+    isbn13: "9782265156548"
     cover_url: >-
-      https://books.google.com/books/publisher/content?id=8FaAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73y_6D7_EhuH00bnFhOBx5HcsaumyaJF9ETM_QS2ooShiJyqWmDUKrVmIxpctkoyY3JMr9wH1hDWDG8Iw-Y-IUbhf-otLancJyynAkApVh04nTkc_-3U5Rd3g9YIJ28zg6ifP6a&source=gbs_api
+      https://assets.hardcover.app/edition/30535150/2efdfd508a803c89913fd6e987f69048a17c89c6.jpeg
     reading: false
-    url: https://www.italictype.com/api/books/v0bQ7PN/
-  - title: Ebb and Flow
-    subtitle: How to Connect with the Patterns and Power of Water
-    author: Easkey Britton
-    date: '2023-09-19T21:58:39.075959Z'
-    read: '2023-09-19T21:58:49.662707Z'
-    rating: 4
-    isbn: '1786786680'
-    isbn13: '9781786786685'
-    pages: 214
-    cover_url: >-
-      https://books.google.com/books/publisher/content?id=219UEAAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71pskFpD0JvZT8mjYo-Fjsb3rIiLm0cs1zzSXvi8L7tsemYWUGDZixiFXMQx7f3_Wyo_HafpP_Mu-_TIgyXaKEWC4sKpGzIJyIeflB-6uNJxXpcrUj8cnZDS60pRCb53wQiDyP3&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/NBrYo2N/
+    url: https://hardcover.app/books/tomorrow-and-tomorrow-and-tomorrow
   - title: Last Exit to Brooklyn
-    subtitle: ''
-    author: Hubert Selby
-    date: '2023-08-24T18:56:25.531393Z'
-    read: '2023-08-24T18:56:49.085219Z'
-    rating: 3
-    isbn: '0802131379'
-    isbn13: '9780802131379'
+    author: Hubert Selby Jr.
+    subtitle: ""
+    date: 2023-08-24
+    read: 2023-08-24
+    rating: 2
     pages: 308
+    isbn: "0802131379"
+    isbn13: "9780802131379"
     cover_url: >-
-      https://books.google.com/books/content?id=kK2GyMp3ymYC&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE7031Pzdu-3kWA6raXdLl_SAKLbgzg6MlLwAAWRvZjCvYNs5uzMoAOPqs7UL6hUzVeu3fI18CJkZCFN3kcDVp1fWMxzMBoiuV45K8w2rNaURYp_TKp1iVTI9scG4iZPZRWdgZIKc&source=gbs_api
+      https://assets.hardcover.app/edition/30436301/135c1d3688984e45d8cb4dc934b7146df31b1a16.jpeg
     reading: false
-    url: https://www.italictype.com/api/books/8ede3Yv/
-  - title: Surf Is Where You Find It
-    subtitle: The Wisdom of Waves, Any Time, Anywhere, Any Way
-    author: Gerry Lopez
-    date: '2023-08-22T20:35:01.404365Z'
-    read: '2023-08-22T20:35:20.895498Z'
-    rating: 3
-    isbn: '1938340949'
-    isbn13: '9781938340949'
-    pages: 416
+    url: https://hardcover.app/books/last-exit-to-brooklyn
+  - title: >-
+      Where the Waves Turn Back: A Forty-Day Pilgrimage Along the California
+      Coast
+    author: Tyson Motsenbocker
+    subtitle: A Forty-Day Pilgrimage Along the California Coast
+    date: 2023-09-26
+    read: 2023-09-26
+    rating: 4
+    pages: 244
+    isbn: "1546003460"
+    isbn13: "9781546003465"
     cover_url: >-
-      https://books.google.com/books/content?id=_jBJyQEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70fVvZx4WphWg4rrTjuxTENM4C68GkJk3BE8F41CYUb-z2xQol_3ZuqmL-ld6xenudLQ4Keq4qJNvhsqR3dkB06BKDAHQuW4DTAgRwwAC_8G8gowNtYfhYDCYB-WHVJYvPjRCVh&source=gbs_api
+      https://m.media-amazon.com/images/I/A1FOldfHPfL._SY522_.jpg
     reading: false
-    url: https://www.italictype.com/api/books/NmqgOGN/
-  - title: Et au milieu coule une rivière
-    subtitle: ''
-    author: Norman MacLean
-    date: '2023-05-25T19:58:29.863127Z'
-    read: '2023-05-25T19:58:44.192427Z'
-    rating: 4
-    isbn: '2743658525'
-    isbn13: '9782743658526'
-    pages: 205
-    cover_url: https://www.italictype.com/static/images/bookcover-not-found.png
-    reading: false
-    url: https://www.italictype.com/api/books/82Vn0M8/
-  - title: Satori in Paris
-    subtitle: ''
-    author: Jack Kerouac
-    date: '2023-05-14T19:22:18.761840Z'
-    read: '2023-05-14T19:22:33.075062Z'
-    rating: 4
-    isbn: '0141972017'
-    isbn13: '9780141972015'
-    pages: 90
-    cover_url: >-
-      https://books.google.com/books/content?id=Up5Z7rwL1RIC&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70PAF-RufzUKoAUCxtg2L4LC7yjKOZbiOxecSgjpvovjdN9015Ya6BaugAuGJfchBs1p_U5RFwm__qGzfG06mnVgIM-hvNp4cAGE22zlG9HC21SUk4JAirFPxMNUXhQSnPxRoqh&source=gbs_api
-    reading: false
-    url: https://www.italictype.com/api/books/vjdMEMN/
-  - title: Carnets de New York
-    subtitle: ''
-    author: Paolo Cognetti
-    date: '2023-05-09T20:52:31.191443Z'
-    read: '2023-05-09T20:52:42.478550Z'
-    rating: 4
-    isbn: '2234086329'
-    isbn13: '9782234086326'
-    pages: 203
-    cover_url: https://www.italictype.com/static/images/bookcover-not-found.png
-    reading: false
-    url: https://www.italictype.com/api/books/Nw7xl0N/
+    url: https://hardcover.app/books/where-the-waves-turn-back
   - title: L'homme qui marche
-    subtitle: ''
     author: Jirō Taniguchi
-    date: '2023-04-01T09:14:38.060888Z'
-    read: '2023-04-01T09:14:57.190848Z'
+    subtitle: ""
+    date: 2023-04-01
+    read: 2023-04-01
     rating: 5
-    isbn: '2203093803'
-    isbn13: '9782203093805'
     pages: 226
-    cover_url: https://www.italictype.com/static/images/bookcover-not-found.png
+    isbn: "2203093803"
+    isbn13: "9782203093805"
+    cover_url: https://images-na.ssl-images-amazon.com/images/P/2203093803.01.LZZZZZZZ.jpg
     reading: false
-    url: https://www.italictype.com/api/books/8rjjoB8/
-  - title: La vie de Bouddha
-    subtitle: intégrale
-    author: Osamu Tezuka
-    date: '2023-03-20T20:17:23.259987Z'
-    read: '2023-03-20T20:17:32.261725Z'
-    rating: 5
-    isbn: '2413009094'
-    isbn13: '9782413009092'
-    pages: 770
-    cover_url: https://www.italictype.com/static/images/bookcover-not-found.png
-    reading: false
-    url: https://www.italictype.com/api/books/83jRq0v/
-  - title: La vie de Bouddha
-    subtitle: intégrale
-    author: Osamu Tezuka
-    date: '2023-03-20T20:16:01.236151Z'
-    read: '2023-03-20T20:16:37.170776Z'
-    rating: 4
-    isbn: '2413009086'
-    isbn13: '9782413009085'
-    pages: 693
-    cover_url: https://www.italictype.com/static/images/bookcover-not-found.png
-    reading: false
-    url: https://www.italictype.com/api/books/Nq4Ml08/
-  - title: La vie de Bouddha
-    subtitle: intégrale
-    author: Osamu Tezuka
-    date: '2023-03-20T20:15:31.640431Z'
-    read: '2023-03-20T20:15:37.719778Z'
-    rating: 4
-    isbn: '2413009078'
-    isbn13: '9782413009078'
-    pages: 683
-    cover_url: https://www.italictype.com/static/images/bookcover-not-found.png
-    reading: false
-    url: https://www.italictype.com/api/books/vx74M65/
-  - title: Seeing Fatima's Eyes
-    subtitle: ''
-    date: '2023-03-20T20:13:35.358725Z'
-    read: '2023-03-20T20:13:44.301718Z'
-    rating: 5
-    isbn: '0985361131'
-    isbn13: '9780985361136'
-    pages: 144
+    url: https://hardcover.app/books/lhomme-qui-marche-2015
+  - title: Satori in Paris
+    author: Jack Kerouac
+    subtitle: ""
+    date: 2023-05-14
+    read: 2023-05-14
+    rating: 3
+    pages: 95
+    isbn: "0141972017"
+    isbn13: "9780141972015"
     cover_url: >-
-      https://books.google.com/books/content?id=IYS5oAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71fyQcz8aKp5KIcck0Vq8qNbuCWar7Lx1tiAVAB49qQqxCGWep8XpF0Sdyv3TmW5kECkeJZ3J1xDDFSvmr0V1e46iedhgCj5Cx5v-y2KgMG69mT82NL0J6B1aAaVAGDsgPYnAFs&source=gbs_api
+      https://assets.hardcover.app/edition/30882965/91d356db7faa81d497f2d2183182e0fca0e2361d.jpeg
     reading: false
-    url: https://www.italictype.com/api/books/vQ3oBYN/
+    url: https://hardcover.app/books/satori-in-paris
+  - title: The Flood
+    author: Michael McDowell
+    subtitle: The Flood
+    date: 2023-12-08
+    read: 2023-12-08
+    rating: 3
+    pages: 171
+    isbn: "2381960511"
+    isbn13: "9782381960517"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/61545506/884a4acf02c661e81e9888b0d12ea5f300142bb2.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-flood-1983
+  - title: La bibliothèque des rêves secrets
+    author: Michiko Aoyama
+    subtitle: ""
+    date: 2023-11-28
+    read: 2023-11-28
+    rating: 3
+    pages: 276
+    isbn: 249381603X
+    isbn13: "9782493816030"
+    cover_url: >-
+      https://assets.hardcover.app/edition/31605501/415a7a4796fcf3ccb03a835be4991539deb83d1e.jpeg
+    reading: false
+    url: https://hardcover.app/books/la-bibliotheque-des-reves-secrets
+  - title: Chroniques de San Francisco
+    author: Isabelle Bauthian
+    subtitle: ""
+    date: 2023-09-30
+    read: 2023-09-30
+    rating: 3
+    pages: 381
+    isbn: "2264029951"
+    isbn13: "9782264029959"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/60499820/fc7d848575764b3316698869e049791df88ea424.jpeg
+    reading: false
+    url: https://hardcover.app/books/chroniques-de-san-francisco
   - title: Jours barbares
-    subtitle: ''
     author: William Finnegan
-    date: '2023-03-13T20:34:04.462822Z'
-    read: '2023-03-13T20:34:22.486289Z'
+    subtitle: ""
+    date: 2023-03-13
+    read: 2023-03-13
     rating: 5
-    isbn: '2364681820'
-    isbn13: '9782364681828'
-    pages: 429
+    pages: 464
+    isbn: "2364681820"
+    isbn13: "9782364681828"
     cover_url: >-
-      https://books.google.com/books/publisher/content?id=sktIDgAAQBAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72ddgRWj3K28rp_7r5RYSV9ne7_SdqTnaF7KZVh9jUhc6oza6PP6yCeoGjrvpN-vIDoYhzKplshR66PM_gEdjykhrTlklyEfL0QuAn1oDNg373XLaAnxoQ94Ub8rvnDFV9cWTmM&source=gbs_api
+      https://assets.hardcover.app/external_data/2458211/a1bc49888f6e6ef302e8d33e2f0dfb19ae8d3054.jpeg
     reading: false
-    url: https://www.italictype.com/api/books/8WWwLL8/
-  - title: La vie de Bouddha
-    subtitle: intégrale
+    url: https://hardcover.app/books/jours-barbares-2015
+  - title: La Vie de Bouddha, Intégrale, Vol. 4
     author: Osamu Tezuka
-    date: '2023-01-23T20:38:59.365997Z'
-    read: '2023-01-23T20:39:10.308012Z'
+    subtitle: ""
+    date: 2023-03-20
+    read: 2023-03-20
     rating: 4
-    isbn: 241300906X
-    isbn13: '9782413009061'
-    pages: 809
-    cover_url: https://www.italictype.com/static/images/bookcover-not-found.png
+    pages: 784
+    isbn: "2413009094"
+    isbn13: "9782413009092"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675931/07c465c87a7f3eceb5c37e13c6e850f8ac864a03.jpeg
     reading: false
-    url: https://www.italictype.com/api/books/5ybyblv/
+    url: https://hardcover.app/books/la-vie-de-bouddha-integrale-vol-4
+  - title: "Ebb and Flow: How to Connect with the Patterns and Power of Water"
+    author: Easkey Britton
+    subtitle: How to Connect with the Patterns and Power of Water
+    date: 2023-09-19
+    read: 2023-09-19
+    rating: 3
+    pages: 212
+    isbn: "1786786680"
+    isbn13: "9781786786685"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458111/077cdb4a45ea67f6693d9949bba8333c485ba8d4.jpeg
+    reading: false
+    url: >-
+      https://hardcover.app/books/ebb-and-flow-how-to-connect-with-the-patterns-and-power-of-water-2023
+  - title: "Right, Down + Circle: Tony Hawk’s Pro Skater"
+    author: Cole Nowicki
+    subtitle: Tony Hawk’s Pro Skater
+    date: 2023-10-22
+    read: 2023-10-22
+    rating: 4
+    pages: 124
+    isbn: "1778521975"
+    isbn13: "9781778521973"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458233/05119916c5a08b1c5c29bf749a67c6e16bb16296.jpeg
+    reading: false
+    url: https://hardcover.app/books/right-down-circle-tony-hawk-s-pro-skater
+  - title: Carnets de New York
+    author: Paolo Cognetti
+    subtitle: ""
+    date: 2023-05-09
+    read: 2023-05-09
+    rating: 4
+    pages: 207
+    isbn: "2234086329"
+    isbn13: "9782234086326"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458363/f3466c7a26cef314517a5131dd73ee2d641b02fb.jpeg
+    reading: false
+    url: https://hardcover.app/books/carnets-de-new-york-2015
+  - title: >-
+      Thomas Campbell: Seeing Fatima's Eyes: Surf, Life, Stuff, Morocco, North
+      Africa
+    author: Thomas Campbell
+    subtitle: "Seeing Fatima's Eyes: Surf, Life, Stuff, Morocco, North Africa"
+    date: 2023-03-20
+    read: 2023-03-20
+    rating: 4
+    pages: 144
+    isbn: "0985361131"
+    isbn13: "9780985361136"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675954/eaf086eb6a3505f51bb6b22d8eb6c68f255a905e.jpeg
+    reading: false
+    url: https://hardcover.app/books/thomas-campbell
+  - title: Et au milieu coule une rivière
+    author: Norman Maclean
+    subtitle: ""
+    date: 2023-05-25
+    read: 2023-05-25
+    rating: 4
+    pages: 0
+    isbn: "2743658525"
+    isbn13: "9782743658526"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675949/fbbce7d269b3b43b8ee1e1c5d614599291ab5d6e.jpeg
+    reading: false
+    url: https://hardcover.app/books/et-au-milieu-coule-une-riviere-1976
+  - title: >-
+      Surf Is Where You Find It: The Wisdom of Waves, Any Time, Anywhere, Any
+      Way
+    author: Gerry Lopez
+    subtitle: The Wisdom of Waves, Any Time, Anywhere, Any Way
+    date: 2023-08-22
+    read: 2023-08-22
+    rating: 3
+    pages: 416
+    isbn: "1938340949"
+    isbn13: "9781938340949"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675952/b072f62cfe6ee38a889b747aaccba38376a59188.jpeg
+    reading: false
+    url: >-
+      https://hardcover.app/books/surf-is-where-you-find-it-the-wisdom-of-waves-any-time-anywhere-any-way-2008
+  - title: La Vie de Bouddha, Intégrale, Vol. 1
+    author: Osamu Tezuka
+    subtitle: ""
+    date: 2023-01-23
+    read: 2023-01-23
+    rating: 3
+    pages: 816
+    isbn: 241300906X
+    isbn13: "9782413009061"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675957/edcf21fde9660b7bf9fd5530a90e79901364dd21.jpeg
+    reading: false
+    url: https://hardcover.app/books/la-vie-de-bouddha-integrale-vol-1
+  - title: La Vie de Bouddha, Intégrale, Vol. 3
+    author: Osamu Tezuka
+    subtitle: ""
+    date: 2023-03-20
+    read: 2023-03-20
+    rating: 4
+    pages: 704
+    isbn: "2413009086"
+    isbn13: "9782413009085"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675960/248d07bc0ff143c5679a064be6bb3a30b8a881c5.jpeg
+    reading: false
+    url: https://hardcover.app/books/la-vie-de-bouddha-integrale-vol-3
+  - title: La Vie de Bouddha, Intégrale, Vol. 2
+    author: Osamu Tezuka
+    subtitle: ""
+    date: 2023-03-20
+    read: 2023-03-20
+    rating: 4
+    pages: 680
+    isbn: "2413009078"
+    isbn13: "9782413009078"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675961/9a2bad99fba0af2e562c70c9ac9e2c3611c167cc.jpeg
+    reading: false
+    url: https://hardcover.app/books/la-vie-de-bouddha-integrale-vol-2

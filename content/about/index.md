@@ -14,12 +14,21 @@ menu:
 linktitle: "About"
 ---
 
-I really enjoy **telling stories and capturing moments of life.**
-When I am not coding stuff at work or for myself, you'll probably find me brewing a cup of black coffee, learning how to surf, capturing moments on film or spending some quality time with the family.
+![me and my leica](me.webp)
 
-We launched an amazing project with Cloé. You should follow [@douarenn](https://instagram.com/douarenn) or visit [douarenn.fr](https://douarenn.fr). This is our cabin, disconnected from the internets in the middle of Finistère, in a place called "les Monts d'Arrée". [Book it now!](https://checkout.lodgify.com/douarenn/fr/#/475377/)
+I am a **documentary style photographer** living in Finistère, France.
 
-![me and my leica](me.webp "Photo by [Studio Payol](https://studiopayol.com)")
+Feel free to contact me at [hello@yannickschutz.com](mailto:hello@yannickschutz.com). 
+
+
+I really enjoy **telling stories and capturing moments of life.**  
+
+
+If you are looking for me, you'll probably find me brewing a cup of black coffee, surfing some mellow waves, capturing moments on film or spending some quality time with the family.
+
+We launched an amazing project with Cloé. You should take a look at [@douarenn](https://instagram.com/douarenn) or visit [douarenn.fr](https://douarenn.fr). This is our cabin, disconnected from the internets in the middle of Finistère, in a place called "les Monts d'Arrée". 
+
+---
 
 
 This website has so much [more](/more) in it than what you see in the menu. 

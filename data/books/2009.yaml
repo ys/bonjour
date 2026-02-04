@@ -1,26 +1,15 @@
 year: 2009
 books:
-- title: "World War Z"
-  author: "Max Brooks"
-  isbn: "0307346609"
-  isbn13: "9780307346605"
-  rating: 4
-  pages: 342
-  date: "2009-12-26"
-  read: "2010-01-19"
-- title: "Une Journée Sans Vague"
-  author: "Raphaël Zarka"
-  isbn: "2917855053"
-  isbn13: "9782917855058"
-  rating: 4
-  pages: 123
-  date: "2009-12-26"
-  read: "2014-04-01"
-- title: "Le combat ordinaire"
-  author: "Manu Larcenet"
-  isbn: "1561634239"
-  isbn13: "9781561634231"
-  rating: 3
-  pages: 128
-  date: "2009-12-21"
-  read: "2009-12-21"
+  - title: Le combat ordinaire T.1
+    author: Manu Larcenet
+    subtitle: ""
+    date: 2009-12-21
+    read: 2009-12-21
+    rating: 0
+    pages: 124
+    isbn: "1561634239"
+    isbn13: "9781561634231"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/34593329/1684d5b1571e76f00ecdfc4944e3586af0d856b5.jpeg
+    reading: false
+    url: https://hardcover.app/books/le-combat-ordinaire-t1
