@@ -22,7 +22,8 @@ books:
     pages: 304
     isbn: "0525536515"
     isbn13: "9780525536512"
-    cover_url: https://m.media-amazon.com/images/I/81x+9opgESL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/59340601/d5cda8f52cd8e844683d4a762edebd859a32c853.jpeg
     reading: false
     url: https://hardcover.app/books/digital-minimalism
   - title: Big Sur
@@ -185,7 +186,7 @@ books:
     pages: 128
     isbn: "1907974636"
     isbn13: "9781907974632"
-    cover_url: https://m.media-amazon.com/images/I/811jZD-sVVL._AC_UY654_QL65_.jpg
+    cover_url: https://assets.hardcover.app/edition/30636232/42284142._SX98_.jpg
     reading: false
     url: https://hardcover.app/books/do-pause
   - title: Do Lead
@@ -235,7 +236,7 @@ books:
     pages: 0
     isbn: ""
     isbn13: "9781627793537"
-    cover_url: https://m.media-amazon.com/images/I/819lk2Uq-bL._AC_UY654_QL65_.jpg
+    cover_url: ""
     reading: false
     url: https://hardcover.app/books/the-arab-of-the-future-3
   - title: >-
@@ -249,7 +250,8 @@ books:
     pages: 0
     isbn: "1250150663"
     isbn13: "9781250150660"
-    cover_url: https://m.media-amazon.com/images/I/81Yr5R9-YSL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/60251488/a2e6c76fe1fa14f6987946a9f8bfa5cbeae7d49e.jpeg
     reading: false
     url: https://hardcover.app/books/the-arab-of-the-future-4
   - title: "Outpost: A Journey to the Wild Ends of the Earth"
@@ -261,7 +263,8 @@ books:
     pages: 336
     isbn: "1786891557"
     isbn13: "9781786891556"
-    cover_url: https://m.media-amazon.com/images/I/91mg9ZXLKGL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/60254978/9278c492fa99e54216a457208b0380b6c75acfa9.jpeg
     reading: false
     url: >-
       https://hardcover.app/books/outpost-a-journey-to-the-wild-ends-of-the-earth
@@ -274,7 +277,7 @@ books:
     pages: 0
     isbn: "0008331820"
     isbn13: "9780008331825"
-    cover_url: https://m.media-amazon.com/images/I/81zTncsAv5L._AC_UY654_QL65_.jpg
+    cover_url: ""
     reading: false
     url: https://hardcover.app/books/my-midsummer-morning
   - title: "Rewild Yourself: Making Nature More Visible in Our Lives"
@@ -302,7 +305,8 @@ books:
     pages: 224
     isbn: 160945555X
     isbn13: "9781609455552"
-    cover_url: https://m.media-amazon.com/images/I/81PDLXYzrBL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/60827965/fe8f65e0e37b9fd52363e80617e66bb3ea9fb904.jpeg
     reading: false
     url: https://hardcover.app/books/berezina
   - title: "The Kindness of Strangers: Travel Stories That Make Your Heart Grow"
@@ -369,6 +373,6 @@ books:
     pages: 0
     isbn: "2895496676"
     isbn13: "9782895496670"
-    cover_url: https://m.media-amazon.com/images/I/91JDpAj-f+L._AC_UY654_QL65_.jpg
+    cover_url: ""
     reading: false
     url: https://hardcover.app/books/darhan-2-les-chemins-de-la-guerre

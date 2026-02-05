@@ -8478,6 +8478,40 @@
           }
         },
         {
+          "book_id": 2038152,
+          "rating": null,
+          "date_added": "2026-02-04",
+          "user_book_status": {
+            "slug": "currently-reading"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": null
+            }
+          ],
+          "edition": {
+            "isbn_10": "2226483551",
+            "isbn_13": "9782226483553",
+            "pages": null,
+            "release_date": "2024-01-10"
+          },
+          "book": {
+            "title": "Comment j'ai retrouvé Xavier Dupont de Ligonnès",
+            "subtitle": null,
+            "slug": "comment-jai-retrouve-xavier-dupont-de-ligonnes",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Romain Puértolas"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/edition/32216823/35fdef2d097c7f1cb9d9c9f27f0e0fad14a2c704.jpeg"
+            }
+          }
+        },
+        {
           "book_id": 2042572,
           "rating": 5,
           "date_added": "2021-03-26",
@@ -8655,6 +8689,28 @@
             "image": {
               "url": "https://assets.hardcover.app/external_data/1629148/24432b33653982b3154826a5fd4e5a74ed81c2de.jpeg"
             }
+          }
+        },
+        {
+          "book_id": 2243474,
+          "rating": null,
+          "date_added": "2026-02-04",
+          "user_book_status": {
+            "slug": "want-to-read"
+          },
+          "user_book_reads": [],
+          "edition": {
+            "isbn_10": null,
+            "isbn_13": null,
+            "pages": null,
+            "release_date": null
+          },
+          "book": {
+            "title": "The World in the Curl: An Unconventional History of Surfing",
+            "subtitle": null,
+            "slug": "the-world-in-the-curl",
+            "contributions": [],
+            "image": null
           }
         },
         {
@@ -11937,6 +11993,40 @@
             ],
             "image": {
               "url": "https://assets.hardcover.app/edition/32675991/33ce2c15-b7d8-4fb3-81c9-b686f784b2d3.jpeg"
+            }
+          }
+        },
+        {
+          "book_id": 2414151,
+          "rating": 4,
+          "date_added": "2026-02-04",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2026-02-04"
+            }
+          ],
+          "edition": {
+            "isbn_10": "2353481469",
+            "isbn_13": "9782353481460",
+            "pages": 320,
+            "release_date": "2012-07-30"
+          },
+          "book": {
+            "title": "Summer of lave",
+            "subtitle": null,
+            "slug": "summer-of-lave",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Keigo Shinzō"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/edition/32685267/2118438f96f72f941e99d434e0dfc2bede6d0f79.jpeg"
             }
           }
         }

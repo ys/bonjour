@@ -132,7 +132,8 @@ books:
     pages: 272
     isbn: "0143037838"
     isbn13: "9780143037835"
-    cover_url: https://m.media-amazon.com/images/I/91JyBf0AfUL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/59364474/f2a715b0911fa8d3544dbd7ec6c495ba5dfe15ef.jpeg
     reading: false
     url: https://hardcover.app/books/let-my-people-go-surfing
   - title: You're Never Weird on the Internet
@@ -273,7 +274,7 @@ books:
     pages: 160
     isbn: "0985265604"
     isbn13: "9780985265601"
-    cover_url: https://m.media-amazon.com/images/I/61GER8sLsYL._AC_UY654_QL65_.jpg
+    cover_url: ""
     reading: false
     url: https://hardcover.app/books/the-credibility-code
   - title: "Indian Creek Chronicles: A Winter Alone in the Wilderness"
@@ -342,7 +343,8 @@ books:
     pages: 225
     isbn: "1306446716"
     isbn13: "9781306446716"
-    cover_url: https://m.media-amazon.com/images/I/81HitIClTHL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458043/ca4f5a58221b1471927a6efbfdf012898ccb3446.jpeg
     reading: false
     url: https://hardcover.app/books/wild-muir
   - title: Time Runs Out
