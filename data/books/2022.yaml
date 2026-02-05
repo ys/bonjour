@@ -74,7 +74,7 @@ books:
     pages: 440
     isbn: ""
     isbn13: "9781938340956"
-    cover_url: https://m.media-amazon.com/images/I/61SMYq+2OwL._AC_UY654_QL65_.jpg
+    cover_url: https://assets.hardcover.app/edition/14521888/4394585-L.jpg
     reading: false
     url: https://hardcover.app/books/waves-and-beaches
   - title: La dernière flamme
@@ -319,7 +319,8 @@ books:
     pages: 260
     isbn: ""
     isbn13: "9791022610766"
-    cover_url: https://m.media-amazon.com/images/I/81HitIClTHL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458140/cc81871899b5fc1d82d7599f04c8a93821166a56.jpeg
     reading: false
     url: https://hardcover.app/books/patagonie-route-203-2019
   - title: L'Amérique
@@ -383,6 +384,7 @@ books:
     pages: 388
     isbn: "0316376205"
     isbn13: "9780316376204"
-    cover_url: https://m.media-amazon.com/images/I/81RYTr3VomL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458148/7a1d9d4c06daa6a7dc4b87dcd6103407aa92a222.jpeg
     reading: false
     url: https://hardcover.app/books/thermae-romae-vol-3-2014
