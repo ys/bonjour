@@ -22,7 +22,8 @@ books:
     pages: 304
     isbn: "0525536515"
     isbn13: "9780525536512"
-    cover_url: https://m.media-amazon.com/images/I/81x+9opgESL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://books.google.com/books/content?id=1eGCDwAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api
     reading: false
     url: https://hardcover.app/books/digital-minimalism
   - title: Big Sur
@@ -185,7 +186,7 @@ books:
     pages: 128
     isbn: "1907974636"
     isbn13: "9781907974632"
-    cover_url: https://assets.hardcover.app/edition/30636232/42284142._SX98_.jpg
+    cover_url: https://m.media-amazon.com/images/I/811jZD-sVVL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/do-pause
   - title: Do Lead
