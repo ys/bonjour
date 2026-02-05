@@ -424,7 +424,8 @@ books:
     pages: 60
     isbn: "2358876658"
     isbn13: "9782358876650"
-    cover_url: https://m.media-amazon.com/images/I/71Iu8bIlsrL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458143/0341bb5d2dca27351ff6d8d177e109b8b8e292a7.jpeg
     reading: false
     url: https://hardcover.app/books/le-nageur-daral-2021
   - title: Le Retour
@@ -476,7 +477,8 @@ books:
     pages: 374
     isbn: 031623222X
     isbn13: "9780316232227"
-    cover_url: https://m.media-amazon.com/images/I/815N3UhFptL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458214/cea9a0b5a6cc2123279ac131c8d2df68f2d0b5b5.jpeg
     reading: false
     url: https://hardcover.app/books/thermae-romae-i-2009
   - title: Thermae Romae, Vol. 2
