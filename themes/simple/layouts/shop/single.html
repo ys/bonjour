@@ -38,7 +38,7 @@
   {{ end }}
   <div  class="font-sans prose dark:prose-invert mt-8">
     {{ if .Params.price }}
-      <span class="font-bold text-lg font-sans">{{ if .Params.soldout}}Sold out{{ else }}{{ .Params.pricetag }}{{ end }}</span>
+      <span class="font-bold text-lg font-sans" id="price-label" data-pricetag="{{ .Params.pricetag }}">{{ if .Params.soldout}}Sold out{{ else }}{{ .Params.pricetag }}{{ end }}</span>
       <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
       <form action="" class="mt-4 dark:prose" method="post" id="stripe-form{{ if .Params.soldout }}-nope{{ end }}">
         <div class="flex justify-between">
@@ -50,14 +50,22 @@
         {{ end }}
         </select>
         {{ else }}
-          <input type="hidden" name="price_id" value="{{.Params.price_id}}" />
+          {{ $priceId := .Params.price_id }}
+          {{ if and (ne hugo.Environment "production") .Params.testing_price_id }}
+            {{ $priceId = .Params.testing_price_id }}
+          {{ end }}
+          <input type="hidden" name="price_id" value="{{ $priceId }}" />
         {{ end }}
-        {{ if .Params.shipping_rates }}
+        {{ $shippingRates := .Params.shipping_rates }}
+        {{ if and (ne hugo.Environment "production") .Params.testing_shipping_rates }}
+          {{ $shippingRates = .Params.testing_shipping_rates }}
+        {{ end }}
+        {{ if $shippingRates }}
           <div>
             <label class="prose dark:prose-invert" for="shipping_rate">Shipping:</label>
             <select required name="shipping_rate">
               <option selected="selected" disabled="disabled" value="">Pick your location</option>
-            {{ range .Params.shipping_rates }}
+            {{ range $shippingRates }}
               <option value="{{.value}}" >{{.name}}</option>
             {{ end }}
             </select>
