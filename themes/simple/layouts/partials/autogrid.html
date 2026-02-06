@@ -1,12 +1,22 @@
-{{ $allimages := slice }} {{ if .Params.shuffle }} {{ range shuffle
-(.Resources.ByType "image")}} {{ if (and (ne .Name "cover") (ne .Name "card"))
-}} {{ $allimages = $allimages | append (dict "Image" . ) }} {{ end }} {{ end }}
-{{ else }} {{ range sort (.Resources.ByType "image") "Name" "desc"}} {{ if (and
-(ne .Name "cover") (ne .Name "card")) }} {{ $allimages = $allimages | append
-(dict "Image" . ) }} {{ end }} {{ end }} {{ end }}
+{{ $allimages := slice }}
+{{ if .Params.shuffle }}
+  {{ range shuffle (.Resources.ByType "image") }}
+    {{ if (and (ne .Name "cover") (ne .Name "card")) }}
+      {{ $allimages = $allimages | append (dict "Image" .) }}
+    {{ end }}
+  {{ end }}
+{{ else }}
+  {{ range sort (.Resources.ByType "image") "Name" "desc" }}
+    {{ if (and (ne .Name "cover") (ne .Name "card")) }}
+      {{ $allimages = $allimages | append (dict "Image" .) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
 
 <div data-pswp>
   <div class="masonry-container">
-    {{ range $allimages }} {{ partial "photo" . }} {{ end }}
+    {{ range $allimages }}
+      {{ partial "photo" . }}
+    {{ end }}
   </div>
 </div>

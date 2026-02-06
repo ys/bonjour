@@ -40,7 +40,96 @@ document.addEventListener("DOMContentLoaded", function () {
   if (form) {
     form.addEventListener("submit", handleFormSubmission);
   }
+
+  // Check stock on single product page
+  var stockForm = form || document.querySelector("#stripe-form-nope");
+  if (stockForm) {
+    var priceInput = stockForm.querySelector('input[name="price_id"]');
+    if (priceInput && priceInput.value) {
+      checkStock(priceInput.value);
+    }
+  }
+
+  // Check stock on shop list page (single batch call)
+  var articles = document.querySelectorAll("article[data-price-id]");
+  if (articles.length > 0) {
+    var articlesByPriceId = {};
+    articles.forEach(function (article) {
+      var priceId = article.getAttribute("data-price-id");
+      if (!articlesByPriceId[priceId]) articlesByPriceId[priceId] = [];
+      articlesByPriceId[priceId].push(article);
+    });
+    var priceIds = Object.keys(articlesByPriceId);
+    fetch("/api/stock?price_ids=" + priceIds.map(encodeURIComponent).join(","))
+      .then(function (res) { return res.json(); })
+      .then(function (results) {
+        priceIds.forEach(function (priceId) {
+          var data = results[priceId];
+          if (data && data.soldout) {
+            articlesByPriceId[priceId].forEach(function (article) {
+              var picture = article.querySelector("picture");
+              if (picture) {
+                var banner = document.createElement("span");
+                banner.className = "absolute top-2 left-2 bg-black/80 text-white text-xs font-bold px-2 py-1 z-10 font-sans uppercase tracking-wide";
+                banner.textContent = "Sold out";
+                picture.prepend(banner);
+              }
+              var pricetag = article.querySelector(".shop-pricetag");
+              if (pricetag) {
+                var currentPrice = pricetag.textContent.trim();
+                pricetag.innerHTML = "<del>" + currentPrice + "</del> SOLD OUT";
+              }
+            });
+          }
+        });
+      })
+      .catch(function () {});
+  }
 });
+
+function checkStock(priceId) {
+  fetch("/api/stock?price_id=" + encodeURIComponent(priceId))
+    .then(function (res) {
+      return res.json();
+    })
+    .then(function (data) {
+      if (data.soldout) {
+        var label = document.getElementById("price-label");
+        if (label) {
+          var pricetag = label.getAttribute("data-pricetag") || "";
+          // Strip markdown strikethrough (~~...~~) and "SOLD OUT" text to get clean price
+          var cleanPrice = pricetag.replace(/~~/g, "").replace(/\s*SOLD\s*OUT\s*/i, "").trim();
+          if (cleanPrice) {
+            label.innerHTML = "<del>" + cleanPrice + "</del> Sold out";
+          } else {
+            label.innerText = "Sold out";
+          }
+        }
+        var submit = document.getElementById("checkout-button");
+        if (submit) {
+          submit.disabled = true;
+          submit.classList.add("bg-gray-300", "line-through", "cursor-not-allowed");
+          submit.classList.remove("cursor-pointer", "hover:drop-shadow-xl");
+          // Remove any theme color classes (bg-{color})
+          submit.className.split(" ").forEach(function (cls) {
+            if (cls.match(/^bg-/) && cls !== "bg-gray-300") {
+              submit.classList.remove(cls);
+            }
+          });
+          var span = submit.querySelector("span");
+          if (span) {
+            span.innerText = "Sold out";
+          }
+        }
+        // Disable the form to prevent submission
+        var form = document.getElementById("stripe-form");
+        if (form) {
+          form.removeEventListener("submit", handleFormSubmission);
+        }
+      }
+    })
+    .catch(function () {});
+}
 
 function handleFormSubmission(event) {
   event.preventDefault();
@@ -71,14 +160,36 @@ function handleFormSubmission(event) {
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify(data),
   })
-    .then((res) => res.json())
-    .then((response) => {
+    .then(function (res) {
+      if (!res.ok) {
+        return res.json().then(function (err) {
+          throw err;
+        });
+      }
+      return res.json();
+    })
+    .then(function (response) {
       stripe = Stripe(response.publishableKey);
       stripe.redirectToCheckout({ sessionId: response.sessionId });
     })
-    .then((res) => {
-      if (res.error()) {
-        console.error(res.error());
+    .catch(function (err) {
+      submit.querySelector("svg").classList.add("hidden");
+      submit.querySelector("span").classList.remove("hidden");
+      if (err.error === "sold_out") {
+        document.getElementById("error-message").innerText =
+          "Sorry, this item is now sold out!";
+        submit.disabled = true;
+        submit.classList.add("bg-gray-300", "line-through", "cursor-not-allowed");
+        submit.classList.remove("cursor-pointer", "hover:drop-shadow-xl");
+        submit.className.split(" ").forEach(function (cls) {
+          if (cls.match(/^bg-/) && cls !== "bg-gray-300") {
+            submit.classList.remove(cls);
+          }
+        });
+        submit.querySelector("span").innerText = "Sold out";
+      } else {
+        document.getElementById("error-message").innerText =
+          "Something went wrong. Please try again.";
       }
     });
 }
