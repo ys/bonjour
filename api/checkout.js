@@ -7,48 +7,21 @@ module.exports = async (req, res) => {
     url = `https://${process.env.BASE_URL}`;
   }
 
-  // Check stock: defaults to 1, set metadata.stock on Price for higher quantities
-  // Set metadata.stock = "0" to mark as sold out
+  // Check stock: metadata.stock represents remaining inventory
+  // Defaults to 1 if not set. Set metadata.stock = "0" to mark as sold out.
   const price = await stripe.prices.retrieve(price_id);
-  const totalStock =
+  const remaining =
     price.metadata && "stock" in price.metadata
       ? parseInt(price.metadata.stock, 10)
       : 1;
 
-  if (totalStock <= 0) {
+  if (remaining <= 0) {
     res.statusCode = 400;
     res.setHeader("Content-Type", "application/json");
     res.end(
       JSON.stringify({ error: "sold_out", message: "This item is sold out." }),
     );
     return;
-  }
-
-  {
-    const result = await stripe.paymentIntents.search({
-      query: `status:'succeeded' AND metadata['price_id']:'${price_id}'`,
-    });
-    let soldCount = result.data.length;
-    let page = result;
-    while (page.has_more) {
-      page = await stripe.paymentIntents.search({
-        query: `status:'succeeded' AND metadata['price_id']:'${price_id}'`,
-        page: page.next_page,
-      });
-      soldCount += page.data.length;
-    }
-
-    if (soldCount >= totalStock) {
-      res.statusCode = 400;
-      res.setHeader("Content-Type", "application/json");
-      res.end(
-        JSON.stringify({
-          error: "sold_out",
-          message: "This item is sold out.",
-        }),
-      );
-      return;
-    }
   }
 
   const session = await stripe.checkout.sessions.create({
