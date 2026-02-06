@@ -8,6 +8,7 @@ currency: "EUR"
 price: 75  
 pricetag: "€75,00 EUR"
 price_id:  "price_1SJDV6FaA8Wpl3EpAji3yqYq"
+testing_price_id: "price_1SxpdBFaA8Wpl3Epx4K0wiH9"
 shipping_rates:
   - name: "Free • We have to meet"
     value: "shr_1RnetBFaA8Wpl3EpY58Nk23f"
@@ -15,6 +16,13 @@ shipping_rates:
     value: "shr_1SJCm5FaA8Wpl3EpfNqONglC"
   - name: "50€ • Rest of the world"
     value: "shr_1SJCnLFaA8Wpl3Epirhls2X6"
+testing_shipping_rates:
+  - name: "Free • We have to meet"
+    value: "shr_1SxuvIFaA8Wpl3Ep1gTSgJhn"
+  - name: "15€ • France"
+    value: "shr_1SxuvQFaA8Wpl3EpaQVBEKZe"
+  - name: "50€ • Rest of the world"
+    value: "shr_1SxuvXFaA8Wpl3EpY0uXFatX"
 resources:
   - src: "*.webm"
   - src: "*.webp"

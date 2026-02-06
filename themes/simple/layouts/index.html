@@ -1,8 +1,14 @@
-{{ define "main" }} {{ if .Content }}
-<div
-  data-pswp
-  class="z-20 with-links relative mb-10 dark:prose-invert prose index text-xl"
->
-  {{ .Content }}
-</div>
-{{ end }} {{ end }} {{ define "full" }} {{ partial "autogrid" . }} {{end}}
+{{ define "main" }}
+  {{ if .Content }}
+    <div
+      data-pswp
+      class="z-20 with-links relative mb-10 dark:prose-invert prose index text-xl"
+    >
+      {{ .Content }}
+    </div>
+  {{ end }}
+{{ end }}
+
+{{ define "full" }}
+  {{ partial "autogrid" . }}
+{{ end }}
