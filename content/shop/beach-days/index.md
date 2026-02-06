@@ -19,6 +19,13 @@ shipping_rates:
     value: "shr_1IkUjnFaA8Wpl3EpVDYSu2a6"
   - name: "15€ • Rest of the world"
     value: "shr_1RnerqFaA8Wpl3EpaU1C93k9"
+testing_shipping_rates:
+  - name: "Free • We have to meet"
+    value: "shr_1SxuvIFaA8Wpl3Ep1gTSgJhn"
+  - name: "5€ • France"
+    value: "shr_1SxuvNFaA8Wpl3EpG9qIODG3"
+  - name: "15€ • Rest of the world"
+    value: "shr_1SxuvUFaA8Wpl3Epx4naimqP"
 resources:
   - src: "*.webm"
   - src: "*.webp"

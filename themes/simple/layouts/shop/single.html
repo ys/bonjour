@@ -56,12 +56,16 @@
           {{ end }}
           <input type="hidden" name="price_id" value="{{ $priceId }}" />
         {{ end }}
-        {{ if .Params.shipping_rates }}
+        {{ $shippingRates := .Params.shipping_rates }}
+        {{ if and (ne hugo.Environment "production") .Params.testing_shipping_rates }}
+          {{ $shippingRates = .Params.testing_shipping_rates }}
+        {{ end }}
+        {{ if $shippingRates }}
           <div>
             <label class="prose dark:prose-invert" for="shipping_rate">Shipping:</label>
             <select required name="shipping_rate">
               <option selected="selected" disabled="disabled" value="">Pick your location</option>
-            {{ range .Params.shipping_rates }}
+            {{ range $shippingRates }}
               <option value="{{.value}}" >{{.name}}</option>
             {{ end }}
             </select>
