@@ -37,6 +37,9 @@
           <a href="{{ .RelPermalink }}" class="block">
             <div class="transition-all duration-300 group-hover:-translate-y-1">
               <picture class="aspect-square relative block overflow-hidden bg-gray-100 dark:bg-gray-800">
+                {{ if .Params.soldout }}
+                  <span class="absolute top-2 left-2 bg-black/80 text-white text-xs font-bold px-2 py-1 z-10 font-sans uppercase tracking-wide">Sold out</span>
+                {{ end }}
                 <img
                   loading="lazy"
                   style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode }}); background-size: cover"

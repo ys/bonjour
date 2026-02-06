@@ -57,9 +57,17 @@ document.addEventListener("DOMContentLoaded", function () {
       })
       .then(function (data) {
         if (data.soldout) {
+          var picture = article.querySelector("picture");
+          if (picture) {
+            var banner = document.createElement("span");
+            banner.className = "absolute top-2 left-2 bg-black/80 text-white text-xs font-bold px-2 py-1 z-10 font-sans uppercase tracking-wide";
+            banner.textContent = "Sold out";
+            picture.prepend(banner);
+          }
           var pricetag = article.querySelector(".shop-pricetag");
           if (pricetag) {
-            pricetag.innerText = "Sold out";
+            var currentPrice = pricetag.textContent.trim();
+            pricetag.innerHTML = "<del>" + currentPrice + "</del> SOLD OUT";
           }
         }
       })
