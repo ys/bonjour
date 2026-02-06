@@ -33,12 +33,17 @@
           {{ $small = $src }}
         {{ end }}
 
-        <article class="group" {{ with .Params.price_id }}data-price-id="{{ . }}"{{ end }}>
+        {{ $priceId := .Params.price_id }}
+        {{ if and (ne hugo.Environment "production") .Params.testing_price_id }}
+          {{ $priceId = .Params.testing_price_id }}
+        {{ end }}
+        <article class="group" {{ with $priceId }}data-price-id="{{ . }}"{{ end }}>
           <a href="{{ .RelPermalink }}" class="block">
             <div class="transition-all duration-300 group-hover:-translate-y-1">
               <picture class="aspect-square relative block overflow-hidden bg-gray-100 dark:bg-gray-800">
                 {{ if .Params.soldout }}
-                  <span class="absolute top-2 left-2 bg-black/80 text-white text-xs font-bold px-2 py-1 z-10 font-sans uppercase tracking-wide">Sold out</span>
+                  <div class="absolute inset-0 bg-black/40 z-10"></div>
+                  <span class="absolute top-2 left-2 bg-black/80 text-white text-xs font-bold px-2 py-1 z-20 font-sans uppercase tracking-wide">Sold out</span>
                 {{ end }}
                 <img
                   loading="lazy"

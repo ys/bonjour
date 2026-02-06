@@ -39,9 +39,12 @@ document.addEventListener("DOMContentLoaded", function () {
   form = document.querySelector("#stripe-form");
   if (form) {
     form.addEventListener("submit", handleFormSubmission);
+  }
 
-    // Check stock on single product page
-    var priceInput = form.querySelector('input[name="price_id"]');
+  // Check stock on single product page
+  var stockForm = form || document.querySelector("#stripe-form-nope");
+  if (stockForm) {
+    var priceInput = stockForm.querySelector('input[name="price_id"]');
     if (priceInput && priceInput.value) {
       checkStock(priceInput.value);
     }
@@ -84,15 +87,35 @@ function checkStock(priceId) {
       if (data.soldout) {
         var label = document.getElementById("price-label");
         if (label) {
-          label.innerText = "Sold out";
+          var pricetag = label.getAttribute("data-pricetag") || "";
+          // Strip markdown strikethrough (~~...~~) and "SOLD OUT" text to get clean price
+          var cleanPrice = pricetag.replace(/~~/g, "").replace(/\s*SOLD\s*OUT\s*/i, "").trim();
+          if (cleanPrice) {
+            label.innerHTML = "<del>" + cleanPrice + "</del> Sold out";
+          } else {
+            label.innerText = "Sold out";
+          }
         }
         var submit = document.getElementById("checkout-button");
         if (submit) {
           submit.disabled = true;
+          submit.classList.add("bg-gray-300", "line-through", "cursor-not-allowed");
+          submit.classList.remove("cursor-pointer", "hover:drop-shadow-xl");
+          // Remove any theme color classes (bg-{color})
+          submit.className.split(" ").forEach(function (cls) {
+            if (cls.match(/^bg-/) && cls !== "bg-gray-300") {
+              submit.classList.remove(cls);
+            }
+          });
           var span = submit.querySelector("span");
           if (span) {
             span.innerText = "Sold out";
           }
+        }
+        // Disable the form to prevent submission
+        var form = document.getElementById("stripe-form");
+        if (form) {
+          form.removeEventListener("submit", handleFormSubmission);
         }
       }
     })
@@ -147,6 +170,13 @@ function handleFormSubmission(event) {
         document.getElementById("error-message").innerText =
           "Sorry, this item is now sold out!";
         submit.disabled = true;
+        submit.classList.add("bg-gray-300", "line-through", "cursor-not-allowed");
+        submit.classList.remove("cursor-pointer", "hover:drop-shadow-xl");
+        submit.className.split(" ").forEach(function (cls) {
+          if (cls.match(/^bg-/) && cls !== "bg-gray-300") {
+            submit.classList.remove(cls);
+          }
+        });
         submit.querySelector("span").innerText = "Sold out";
       } else {
         document.getElementById("error-message").innerText =

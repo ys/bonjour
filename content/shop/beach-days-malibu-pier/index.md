@@ -8,6 +8,7 @@ currency: "EUR"
 price: 75  
 pricetag: "€75,00 EUR"
 price_id:  "price_1SJDWhFaA8Wpl3EpiIkyvv4s"
+testing_price_id: "price_1Sxpd5FaA8Wpl3EpCsaun6uz"
 shipping_rates:
   - name: "Free • We have to meet"
     value: "shr_1RnetBFaA8Wpl3EpY58Nk23f"

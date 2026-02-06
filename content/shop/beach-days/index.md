@@ -11,6 +11,7 @@ price: 15
 soldout: false
 pricetag: "€15,00 EUR"
 price_id:  "price_1Rnem5FaA8Wpl3Ep9NfgxMra"
+testing_price_id: "price_1SxprsFaA8Wpl3EpaqIMbLhQ"
 shipping_rates:
   - name: "Free • We have to meet"
     value: "shr_1RnetBFaA8Wpl3EpY58Nk23f"

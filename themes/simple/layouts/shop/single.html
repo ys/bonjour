@@ -50,7 +50,11 @@
         {{ end }}
         </select>
         {{ else }}
-          <input type="hidden" name="price_id" value="{{.Params.price_id}}" />
+          {{ $priceId := .Params.price_id }}
+          {{ if and (ne hugo.Environment "production") .Params.testing_price_id }}
+            {{ $priceId = .Params.testing_price_id }}
+          {{ end }}
+          <input type="hidden" name="price_id" value="{{ $priceId }}" />
         {{ end }}
         {{ if .Params.shipping_rates }}
           <div>

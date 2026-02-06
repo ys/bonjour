@@ -9,6 +9,7 @@ soldout: true
 price: 50  
 pricetag: "~~€50,00 EUR~~ SOLD OUT"
 price_id:  "price_1SJDfaFaA8Wpl3Ep6Cli8Y6r"
+testing_price_id: "price_1Sxpd2FaA8Wpl3EpaLLXcJlw"
 shipping_rates:
   - name: "Free • We have to meet"
     value: "shr_1RnetBFaA8Wpl3EpY58Nk23f"
