@@ -1,8 +1,8 @@
 {{ define "main" }}
   {{ if .Content }}
-  <div class="z-20 dark:prose-invert prose mb-8 with-links relative">
-    {{ .Content }}
-  </div>
+    <div class="z-20 dark:prose-invert prose mb-8 with-links relative">
+      {{ .Content }}
+    </div>
   {{ end }}
 {{ end }}
 
@@ -18,13 +18,12 @@
         {{ with .Params.color }}
           {{ $color = . }}
         {{ end }}
-        
+
         {{ $images := .Resources.ByType "image" }}
         {{ $src := $images.GetMatch "cover" }}
         {{ $src := $images.GetMatch "*feature*" }}
         {{ $src := cond (ne $src nil) $src ($images.GetMatch "{*cover*,*thumbnail*}") }}
         {{ $src := cond (ne $src nil) $src (index $images 0) }}
-        
         {{ $xs := "20x" }}
         {{ $md := "800x" }}
         {{ $lqip := $src.Resize (printf "%s webp" $xs) }}
@@ -33,16 +32,26 @@
           {{ $lqip = $src.Resize (printf "%s" $xs) }}
           {{ $small = $src }}
         {{ end }}
-        
-        <article class="group">
-          <a href="{{.RelPermalink}}" class="block">
+
+        <article class="group" {{ with .Params.price_id }}data-price-id="{{ . }}"{{ end }}>
+          <a href="{{ .RelPermalink }}" class="block">
             <div class="transition-all duration-300 group-hover:-translate-y-1">
               <picture class="aspect-square relative block overflow-hidden bg-gray-100 dark:bg-gray-800">
-                <img loading="lazy" style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode }}); background-size: cover" alt="{{ .Description }}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" src="{{ $small.RelPermalink }}" width="{{ $src.Width }}" height="{{ $src.Height }}"/>
+                <img
+                  loading="lazy"
+                  style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode }}); background-size: cover"
+                  alt="{{ .Description }}"
+                  class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                  src="{{ $small.RelPermalink }}"
+                  width="{{ $src.Width }}"
+                  height="{{ $src.Height }}"
+                />
               </picture>
               <div class="mt-2">
-                <h2 class="font-sans text-lg font-bold group-hover:text-{{ $color }} transition-colors duration-200 line-clamp-2">{{ .Title | markdownify }}</h2>
-                <p class="font-sans text-sm mt-1 text-gray-900 dark:text-gray-100">
+                <h2 class="font-sans text-lg font-bold group-hover:text-{{ $color }} transition-colors duration-200 line-clamp-2">
+                  {{ .Title | markdownify }}
+                </h2>
+                <p class="font-sans text-sm mt-1 text-gray-900 dark:text-gray-100 shop-pricetag">
                   {{ with .Params.pricetag }}
                     {{ . | markdownify }}
                   {{ else }}

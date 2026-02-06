@@ -38,7 +38,7 @@
   {{ end }}
   <div  class="font-sans prose dark:prose-invert mt-8">
     {{ if .Params.price }}
-      <span class="font-bold text-lg font-sans">{{ if .Params.soldout}}Sold out{{ else }}{{ .Params.pricetag }}{{ end }}</span>
+      <span class="font-bold text-lg font-sans" id="price-label" data-pricetag="{{ .Params.pricetag }}">{{ if .Params.soldout}}Sold out{{ else }}{{ .Params.pricetag }}{{ end }}</span>
       <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
       <form action="" class="mt-4 dark:prose" method="post" id="stripe-form{{ if .Params.soldout }}-nope{{ end }}">
         <div class="flex justify-between">
