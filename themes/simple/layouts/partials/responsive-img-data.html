@@ -1,0 +1,97 @@
+{{/*
+  responsive-img-data: Generate responsive image variants with multi-size srcset
+  Uses Scratch to pass data back (avoids Go 1.25 return keyword conflict).
+  Generates AVIF srcset only if Hugo actually supports AVIF encoding.
+
+  Input (dict):
+    "src"     - image resource (required)
+    "wide"    - bool, use 1200px default instead of 800px
+    "scratch" - a newScratch instance to write results to
+
+  Sets on scratch:
+    "lqip"         - tiny placeholder image resource
+    "default"      - default display image (webp)
+    "zoom"         - zoom image capped at 1600px (webp)
+    "srcset_avif"  - srcset string for avif sources (empty if unsupported)
+    "srcset_webp"  - srcset string for webp sources
+    "has_avif"     - whether real AVIF was generated
+    "width"        - original width
+    "height"       - original height
+    "is_gif"       - whether source is gif
+*/}}
+
+{{- $src := .src -}}
+{{- $s := .scratch -}}
+{{- $is_gif := eq $src.MediaType.SubType "gif" -}}
+
+{{- $lqip_spec := "20x webp" -}}
+{{- if gt $src.Height $src.Width -}}
+  {{- $lqip_spec = "x20 webp" -}}
+{{- end -}}
+
+{{- if $is_gif -}}
+  {{- $s.Set "lqip" ($src.Resize "20x") -}}
+  {{- $s.Set "default" $src -}}
+  {{- $s.Set "zoom" $src -}}
+  {{- $s.Set "srcset_avif" "" -}}
+  {{- $s.Set "srcset_webp" "" -}}
+  {{- $s.Set "has_avif" false -}}
+  {{- $s.Set "width" $src.Width -}}
+  {{- $s.Set "height" $src.Height -}}
+  {{- $s.Set "is_gif" true -}}
+{{- else -}}
+  {{- $lqip := $src.Resize $lqip_spec -}}
+
+  {{/* Detect AVIF support: try to generate one and check if the output is actually AVIF */}}
+  {{- $avif_test := $src.Resize "20x avif" -}}
+  {{- $has_avif := eq $avif_test.MediaType.SubType "avif" -}}
+
+  {{- $widths := slice 480 800 1200 1600 -}}
+  {{- $srcset_avif := slice -}}
+  {{- $srcset_webp := slice -}}
+
+  {{- range $w := $widths -}}
+    {{- if le $w $src.Width -}}
+      {{- $webp := $src.Resize (printf "%dx webp" $w) -}}
+      {{- $srcset_webp = $srcset_webp | append (printf "%s %dw" $webp.RelPermalink $w) -}}
+      {{- if $has_avif -}}
+        {{- $avif := $src.Resize (printf "%dx avif" $w) -}}
+        {{- $srcset_avif = $srcset_avif | append (printf "%s %dw" $avif.RelPermalink $w) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{/* Fallback if source is smaller than all standard widths */}}
+  {{- if eq (len $srcset_webp) 0 -}}
+    {{- $webp := $src.Resize (printf "%dx webp" $src.Width) -}}
+    {{- $srcset_webp = $srcset_webp | append (printf "%s %dw" $webp.RelPermalink $src.Width) -}}
+    {{- if $has_avif -}}
+      {{- $avif := $src.Resize (printf "%dx avif" $src.Width) -}}
+      {{- $srcset_avif = $srcset_avif | append (printf "%s %dw" $avif.RelPermalink $src.Width) -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- $default_width := 800 -}}
+  {{- if .wide -}}
+    {{- $default_width = 1200 -}}
+  {{- end -}}
+  {{- if gt $default_width $src.Width -}}
+    {{- $default_width = $src.Width -}}
+  {{- end -}}
+  {{- $small := $src.Resize (printf "%dx webp" $default_width) -}}
+
+  {{- $zoom := $src -}}
+  {{- if gt $src.Width 1600 -}}
+    {{- $zoom = $src.Resize "1600x webp" -}}
+  {{- end -}}
+
+  {{- $s.Set "lqip" $lqip -}}
+  {{- $s.Set "default" $small -}}
+  {{- $s.Set "zoom" $zoom -}}
+  {{- $s.Set "srcset_avif" (delimit $srcset_avif ", ") -}}
+  {{- $s.Set "srcset_webp" (delimit $srcset_webp ", ") -}}
+  {{- $s.Set "has_avif" $has_avif -}}
+  {{- $s.Set "width" $src.Width -}}
+  {{- $s.Set "height" $src.Height -}}
+  {{- $s.Set "is_gif" false -}}
+{{- end -}}

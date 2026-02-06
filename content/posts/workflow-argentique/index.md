@@ -24,14 +24,13 @@ color: yellow
 description: "Petit manuel numérique à l'attention du photographe argentique ordonné. Vous venez de recevoir de nouveaux scans de votre labo préféré. Un petit guide utile sur mon workflow actuel. Quels sont les outils que j'utilise? Mes trucs et astuces?"
 resources:
 - src: "*.webp"
-- src: "*.png"
-- src:  "lightroom.png"
+- src:  "lightroom.webp"
   name: "cover"
 ---
 
 J'avais envie de vous parler workflow pour la photo argentique. En parler me permet de le figer dans le temps alors qu'il ne cesse de changer et qu'il rechangera avec et avant vos retours. J'en suis certain.
 
-![photos.png](photos.png)
+![photos.webp](photos.webp)
 
 Pour cette recette, il vous faudra:
 - Un frigo
@@ -56,7 +55,7 @@ Ceci n'est que mon workflow actuel, elle n'engage que moi et marche pour le mome
 - Laissez reposer le temps de l'arrivée des scans sur votre ordinateur.
 - Une fois arrivés, utilisez votre outil favori pour les télécharger et rangez les dans un dossier de votre choix.
 
-![finder.png](finder.png)
+![finder.webp](finder.webp)
 
 {{% note %}}
 En local, j'utilise une arborescence du type `scans/2021/2021-01-10-description-pellicule`.
@@ -107,7 +106,7 @@ Mon export fait en général 3000px sur le long côté.
 - Appréciez vos métadonnées dans la recherche. Tout se trouve si facilement. C'est un peu vos contact sheets modernes si vous y pensez.
 - Utilisez votre outil favori de pré-traitement avant de les partagez sur vos réseaux sociaux favoris. Ajoutez des bords blancs dans [Darkroom](https://darkroom.co) par exemple et copiez y vos hashtags favoris.
 
-![exif.png](exif.png)
+![exif.webp](exif.webp)
 
 {{% note %}}
 Comme précisé, j'ai des albums intelligents se basant sur les EXIF et tags par appareil et par film. J'ai aussi un dossier Scans avec des albums par date qui copient un rien les dossiers physiques de mon disque.

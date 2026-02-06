@@ -7,7 +7,6 @@ subtitle: "Adding weather and geoloc to notes"
 resources: 
 - name: '*.webp'
 - name: '*.mp4'
-- name: '*.png'
 color: teal
 date: 2022-10-27
 ---
@@ -52,4 +51,4 @@ You probably want to change the vault name in the callback URL. I used the `cmd+
 
 My settings for Obsidian Shortcut Launcher Looks like this:
 
-![](settings.png)
+![](settings.webp)

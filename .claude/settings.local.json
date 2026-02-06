@@ -11,7 +11,18 @@
       "WebFetch(domain:)",
       "WebFetch(domain:yannickschutz.com)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(find:*)",
+      "Bash(identify:*)",
+      "Bash(python3 -c \" from PIL import Image import os, glob files = glob.glob\\(''/Users/ys/src/github.com/ys/bonjour/content/posts/gwidel-log-fest/*.webp''\\) for f in sorted\\(files\\)[:10]: img = Image.open\\(f\\) size = os.path.getsize\\(f\\) print\\(f''{img.size[0]}x{img.size[1]} {size//1024}KB {os.path.basename\\(f\\)}''\\) \")",
+      "Bash(sips:*)",
+      "Bash(hugo version:*)",
+      "Bash(/opt/homebrew/bin/hugo version:*)",
+      "Bash(hugo config:*)",
+      "Bash(hugo list:*)",
+      "Bash(hugo env:*)",
+      "WebSearch",
+      "Bash(cwebp:*)"
     ]
   }
 }

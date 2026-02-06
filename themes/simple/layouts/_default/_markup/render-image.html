@@ -40,30 +40,11 @@
   </figure>
 {{ else }}
   {{ if $src }}
-
+  {{ $s := newScratch }}
+  {{ partial "responsive-img-data" (dict "src" $src "scratch" $s) }}
 
   <figure class="bg-transparent my-6">
-    {{/* set image sizes, these are hardcoded for now, x dictates that images are resized to this width */}}
-    {{ $format := "webp" }}
-    {{ if eq $src.MediaType.SubType "gif" }}
-      {{ $format = "gif" }}
-    {{ end }}
-
-    {{ $lqipr := printf "20x %s" $format }}
-    {{ $smallr :=  printf "800x %s" $format }}
-    {{ if gt $src.Height $src.Width }}
-      {{ $lqipr = printf "x20 %s" $format }}
-      {{ $smallr = printf "x800 %s" $format }}
-    {{ end }}
-    {{ $lqip := $src.Resize $lqipr }}
-    {{ $small := $src.Resize $smallr}}
-    {{ if eq $src.MediaType.SubType "gif" }}
-      {{ $small = $src }}
-    {{ end }}
-    {{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
-    {{/* set the sizes attribute to (min-width: 35em) 1200px, 100vw unless overridden in shortcode */}}
-
-    <picture class="block relative hover:shadow-xl hover:shadow-{{$.Page.Scratch.Get "color" }}/20 shadow-lg {{ if gt $src.Height $src.Width }} mx-auto w-2/3{{ end }} img" style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover">
+    <picture class="block relative hover:shadow-xl hover:shadow-{{$.Page.Scratch.Get "color" }}/20 shadow-lg {{ if gt $src.Height $src.Width }} mx-auto w-2/3{{ end }} img" style="background: url(data:image/webp;base64,{{ ($s.Get "lqip").Content | base64Encode  }}); background-size: cover">
       {{- /* Generate better alt text: use explicit alt, then title, then caption, then generate from context */ -}}
       {{- $altText := "" -}}
       {{- if .Text -}}
@@ -79,10 +60,17 @@
           {{ $altText = $filename }}
         {{- end -}}
       {{- end -}}
+      {{ if $s.Get "has_avif" }}
+        <source type="image/avif" srcset="{{ $s.Get "srcset_avif" }}" sizes="(min-width: 48rem) 800px, 100vw">
+      {{ end }}
       <img loading="lazy" alt="{{ $altText }}"
         class="cursor-pointer m-0 h-auto w-full lazyload" data-action="zoom"
-        data-zoom-src="{{ $src.RelPermalink}}" src="{{ $small.RelPermalink }}" width="{{ $small.Width }}"
-        height="{{ $small.Height }}">
+        {{ if not ($s.Get "is_gif") }}
+          srcset="{{ $s.Get "srcset_webp" }}"
+          sizes="(min-width: 48rem) 800px, 100vw"
+        {{ end }}
+        data-zoom-src="{{ ($s.Get "zoom").RelPermalink }}" src="{{ ($s.Get "default").RelPermalink }}" width="{{ ($s.Get "default").Width }}"
+        height="{{ ($s.Get "default").Height }}">
     </picture>
     {{ with .Title }}
     <figcaption class="text-center -mt-18 text-sm  text-gray-500 ">

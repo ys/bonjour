@@ -23,7 +23,6 @@ resources:
 - name: "cover"
   src: "cover.webp"
 - src: ".webp"
-- src: ".png"
 ---
 
 Il y a peu, j'ai eu une chance incroyable. J'ai été invité par la maitresse de Tom pour participer à un atelier de sensibilisation autour de l'eau et de comment la préserver. Cela faisait un moment que j'étais en contact avec Eldrine. J'essayais de réussir à les faire venir dans la classe de Tom. Pas simple vu la pandémie et tout le reste. Mais on y est finalement arrivé. Oh excusez-moi, je fais un pas en arrière, je ne vous ai pas présenté Eldrine. Elle tient avec son compagnon l'antenne locale de la [Water Family](https://waterfamily.org).

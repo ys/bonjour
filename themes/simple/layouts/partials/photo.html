@@ -2,20 +2,8 @@
 {{ $src := .Image }}
 
 {{ if $src }}
-  {{ $xs := "20x" }}
-  {{ $md := "800x" }}
-  {{ if .Ratio }}
-    {{ $width := index (split .Ratio "/") 0 }}
-    {{ $height :=index (split .Ratio "/") 1 }}
-    {{ $xs := printf "%s0x%s0" $width $height }}
-    {{ $md := printf "%s00x%s00" (mul $width 2) (mul $height 2) }}
-  {{ end }}
-  {{ $lqip := $src.Resize (printf "%s webp" $xs) }}
-  {{ $small := $src.Resize (printf "%s webp" $md) }}
-  {{ if eq $src.MediaType.SubType "gif" }}
-     {{ $lqip = $src.Resize (printf "%s" $xs) }}
-     {{ $small = $src }}
-   {{ end }}
+  {{ $s := newScratch }}
+  {{ partial "responsive-img-data" (dict "src" $src "scratch" $s) }}
    <div class="masonry-item relative group" >
      <picture class="{{ .ExtraClasses }} aspect-[{{.Image.Width}}/{{.Image.Height}}] relative box-border block ">
       {{- /* Generate better alt text: use description, then page title, then filename */ -}}
@@ -28,17 +16,24 @@
       {{- else -}}
         {{ $altText = $src.Name | path.Base | replaceRE "\\.[^.]+$" "" | humanize | title }}
       {{- end -}}
+      {{ if $s.Get "has_avif" }}
+        <source type="image/avif" srcset="{{ $s.Get "srcset_avif" }}" sizes="(min-width: 48rem) 33vw, 100vw">
+      {{ end }}
       <img
         loading="lazy"
-        style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover"
+        style="background: url(data:image/webp;base64,{{ ($s.Get "lqip").Content | base64Encode  }}); background-size: cover"
         alt="{{ $altText }}"
         class="{{if .Page }}group-hover:opacity-40 {{ end }} hover:shadow-{{ $.Scratch.Get "color" }}/20 shadow-md hover:shadow-xl   cursor-pointer object-cover lazy absolute top-0 left-0 w-full h-full"
         data-action="zoom"
-        data-zoom-src="{{ $src.RelPermalink}}"
-        src="{{ $small.RelPermalink }}"
-        msrc="{{ $lqip.RelPermalink }}"
-        data-src="{{ $small.RelPermalink }}"
-        width="{{ $small.Width }}" height="{{ $small.Height }}"/>
+        {{ if not ($s.Get "is_gif") }}
+          srcset="{{ $s.Get "srcset_webp" }}"
+          sizes="(min-width: 48rem) 33vw, 100vw"
+        {{ end }}
+        data-zoom-src="{{ ($s.Get "zoom").RelPermalink }}"
+        src="{{ ($s.Get "default").RelPermalink }}"
+        msrc="{{ ($s.Get "lqip").RelPermalink }}"
+        data-src="{{ ($s.Get "default").RelPermalink }}"
+        width="{{ ($s.Get "default").Width }}" height="{{ ($s.Get "default").Height }}"/>
     </picture>
     {{ with .Page }}
       <div class=" pl-4 pb-8 lg:pb-0 lg:absolute top-0 left-0 h-full w-full group-hover:backdrop-blur-sm group- group-hover:block  group-hover:flex flex-col mdenter justify-center  lace-items-center lg:hidden group-hover:block">

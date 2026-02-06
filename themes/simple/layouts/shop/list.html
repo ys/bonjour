@@ -24,14 +24,8 @@
         {{ $src := $images.GetMatch "*feature*" }}
         {{ $src := cond (ne $src nil) $src ($images.GetMatch "{*cover*,*thumbnail*}") }}
         {{ $src := cond (ne $src nil) $src (index $images 0) }}
-        {{ $xs := "20x" }}
-        {{ $md := "800x" }}
-        {{ $lqip := $src.Resize (printf "%s webp" $xs) }}
-        {{ $small := $src.Resize (printf "%s webp" $md) }}
-        {{ if eq $src.MediaType.SubType "gif" }}
-          {{ $lqip = $src.Resize (printf "%s" $xs) }}
-          {{ $small = $src }}
-        {{ end }}
+        {{ $s := newScratch }}
+        {{ partial "responsive-img-data" (dict "src" $src "scratch" $s) }}
 
         {{ $priceId := .Params.price_id }}
         {{ if and (ne hugo.Environment "production") .Params.testing_price_id }}
@@ -45,14 +39,21 @@
                   <div class="absolute inset-0 bg-black/40 z-10"></div>
                   <span class="absolute top-2 left-2 bg-black/80 text-white text-xs font-bold px-2 py-1 z-20 font-sans uppercase tracking-wide">Sold out</span>
                 {{ end }}
+                {{ if $s.Get "has_avif" }}
+                  <source type="image/avif" srcset="{{ $s.Get "srcset_avif" }}" sizes="(min-width: 1536px) 20vw, (min-width: 768px) 33vw, (min-width: 640px) 50vw, 100vw">
+                {{ end }}
                 <img
                   loading="lazy"
-                  style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode }}); background-size: cover"
+                  style="background: url(data:image/webp;base64,{{ ($s.Get "lqip").Content | base64Encode }}); background-size: cover"
                   alt="{{ .Description }}"
                   class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-                  src="{{ $small.RelPermalink }}"
-                  width="{{ $src.Width }}"
-                  height="{{ $src.Height }}"
+                  {{ if not ($s.Get "is_gif") }}
+                    srcset="{{ $s.Get "srcset_webp" }}"
+                    sizes="(min-width: 1536px) 20vw, (min-width: 768px) 33vw, (min-width: 640px) 50vw, 100vw"
+                  {{ end }}
+                  src="{{ ($s.Get "default").RelPermalink }}"
+                  width="{{ $s.Get "width" }}"
+                  height="{{ $s.Get "height" }}"
                 />
               </picture>
               <div class="mt-2">

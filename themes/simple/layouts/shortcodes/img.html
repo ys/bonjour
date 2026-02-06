@@ -2,35 +2,14 @@
 {{ $src := .Page.Resources.GetMatch (printf "*%s*" (.Get "src")) }}
 
 {{ if $src }}
+  {{ $s := newScratch }}
+  {{ partial "responsive-img-data" (dict "src" $src "wide" (.Get "wide") "scratch" $s) }}
   <figure class="{{ if .Parent }}{{ else }} my6 lg:mx16 {{ end }}{{ if .Get "wide" }}lg:mr64 {{ end }}">
-    {{/* set image sizes, these are hardcoded for now, x dictates that images are resized to this width */}}
-    {{ $format := "webp" }}
-    {{ if eq $src.MediaType.SubType "gif" }}
-      {{ $format = "gif" }}
-    {{ end }}
-
-    {{ $lqipr := printf "20x %s" $format }}
-    {{ $smallr := printf "800x %s" $format }}
-    {{ if gt $src.Height $src.Width }}
-      {{ $lqipr = printf "x20 %s" $format }}
-      {{ $smallr = printf "x800 %s" $format }}
-    {{ end }}
-    {{ if .Get "wide" }}
-      {{ $smallr = printf "1200x %s" $format }}
-    {{ end }}
-    {{ $lqip := $src.Resize $lqipr }}
-    {{ $small := $src.Resize $smallr }}
-    {{ if eq $src.MediaType.SubType "gif" }}
-      {{ $small = $src }}
-    {{ end }}
-    {{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
-    {{/* set the sizes attribute to (minwidth: 35em) 1200px, 100vw unless overridden in shortcode */}}
-
     <picture
       class="block relative {{ if .Get "noshadow" }}{{ else }}shadowlg{{ end }} {{ if (and (gt $src.Height $src.Width) (not .Parent)) }}mxauto w2/3{{ end }} img"
       {{ if .Get "nolqip" }}
       {{ else }}
-        style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode }}); backgroundsize: cover"
+        style="background: url(data:image/webp;base64,{{ ($s.Get "lqip").Content | base64Encode }}); backgroundsize: cover"
       {{ end }}
     >
       {{- /* Generate better alt text: use explicit alt, then caption, then generate from context */ -}}
@@ -47,6 +26,9 @@
           {{ $altText = $filename }}
         {{- end -}}
       {{- end -}}
+      {{ if $s.Get "has_avif" }}
+        <source type="image/avif" srcset="{{ $s.Get "srcset_avif" }}" sizes="(min-width: 48rem) {{ if .Get "wide" }}1200px{{ else }}800px{{ end }}, 100vw">
+      {{ end }}
       <img
         loading="lazy"
         alt="{{ $altText }}"
@@ -54,10 +36,14 @@
         {{ if not (.Get "nozoom") }}
           dataaction="zoom"
         {{ end }}
-        datazoomsrc="{{ $src.RelPermalink }}"
-        src="{{ $small.RelPermalink }}"
-        width="{{ $src.Width }}"
-        height="{{ $src.Height }}"
+        {{ if not ($s.Get "is_gif") }}
+          srcset="{{ $s.Get "srcset_webp" }}"
+          sizes="(min-width: 48rem) {{ if .Get "wide" }}1200px{{ else }}800px{{ end }}, 100vw"
+        {{ end }}
+        datazoomsrc="{{ ($s.Get "zoom").RelPermalink }}"
+        src="{{ ($s.Get "default").RelPermalink }}"
+        width="{{ $s.Get "width" }}"
+        height="{{ $s.Get "height" }}"
       >
     </picture>
     {{ with .Get "caption" }}

@@ -21,34 +21,29 @@
         {{ $src := $img.Image }}
 
         {{ if $src }}
-          {{ $xs := "20x" }}
-          {{ $md := "800x" }}
-          {{ if .Ratio }}
-            {{ $width := index (split .Ratio "/") 0 }}
-            {{ $height := index (split .Ratio "/") 1 }}
-            {{ $xs := printf "%s0x%s0" $width $height }}
-            {{ $md := printf "%s00x%s00" (mul $width 2) (mul $height 2) }}
-          {{ end }}
-          {{ $lqip := $src.Resize (printf "%s webp" $xs) }}
-          {{ $small := $src.Resize (printf "%s webp" $md) }}
-          {{ if eq $src.MediaType.SubType "gif" }}
-            {{ $lqip = $src.Resize (printf "%s" $xs) }}
-            {{ $small = $src }}
-          {{ end }}
+          {{ $s := newScratch }}
+          {{ partial "responsive-img-data" (dict "src" $src "scratch" $s) }}
 
           <picture class="snap-center snap-normal {{ .ExtraClasses }} aspect-[{{.Image.Width}}/{{.Image.Height}}] block relative h-full">
+            {{ if $s.Get "has_avif" }}
+              <source type="image/avif" srcset="{{ $s.Get "srcset_avif" }}" sizes="50vw">
+            {{ end }}
             <img
               loading="lazy"
-              style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode }}); background-size: cover"
+              style="background: url(data:image/webp;base64,{{ ($s.Get "lqip").Content | base64Encode }}); background-size: cover"
               alt="{{ .Description }}"
               class="rmelative hover:shadow-{{ $.Scratch.Get "color" }}/20 shadow-md hover:shadow-xl cursor-pointer lazy"
               data-action="zoom"
-              data-zoom-src="{{ $src.RelPermalink }}"
-              src="{{ $lqip.RelPermalink }}"
-              msrc="{{ $lqip.RelPermalink }}"
-              data-src="{{ $small.RelPermalink }}"
-              width="{{ $small.Width }}"
-              height="{{ $small.Height }}"
+              {{ if not ($s.Get "is_gif") }}
+                srcset="{{ $s.Get "srcset_webp" }}"
+                sizes="50vw"
+              {{ end }}
+              data-zoom-src="{{ ($s.Get "zoom").RelPermalink }}"
+              src="{{ ($s.Get "lqip").RelPermalink }}"
+              msrc="{{ ($s.Get "lqip").RelPermalink }}"
+              data-src="{{ ($s.Get "default").RelPermalink }}"
+              width="{{ ($s.Get "default").Width }}"
+              height="{{ ($s.Get "default").Height }}"
             />
           </picture>
         {{ end }}
