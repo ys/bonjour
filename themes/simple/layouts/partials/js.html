@@ -1,13 +1,21 @@
 {{ if eq .Type "shop" }}
   <script src="https://js.stripe.com/v3"></script>
 {{ end }}
+
 {{ $.Scratch.Set "jslibs" slice }}
 {{ $libs := slice "js/lunr.min.js" "js/photoswipe.js" "js/photoswipe-ui-default.js" "js/photoswipe-simplify.js" "js/lazyload.min.js" "js/main.js" }}
-{{ range $libs }} {{ $.Scratch.Add "jslibs" (resources.Get . ) }} {{ end }} {{ $js := .Scratch.Get "jslibs" | resources.Concat "js/main.js" }} {{ if hugo.IsServer }}
+{{ range $libs }}
+  {{ $.Scratch.Add "jslibs" (resources.Get .) }}
+{{ end }}
+{{ $js := .Scratch.Get "jslibs" | resources.Concat "js/main.js" }}
+
+{{ if hugo.IsServer }}
   <script src="{{ $js.RelPermalink }}"></script>
-{{ else }} {{ $js := $js | minify | fingerprint "sha512"}}
+{{ else }}
+  {{ $js := $js | minify | fingerprint "sha512" }}
   <script src="{{ $js.RelPermalink }}"></script>
 {{ end }}
+
 <script defer src="/_vercel/insights/script.js"></script>
 {{- $hearts := resources.Get "js/hearts.js" -}}
-<script defer src="{{$hearts.RelPermalink}}" type="module"></script>
+<script defer src="{{ $hearts.RelPermalink }}" type="module"></script>

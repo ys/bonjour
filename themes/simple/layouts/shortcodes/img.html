@@ -2,55 +2,68 @@
 {{ $src := .Page.Resources.GetMatch (printf "*%s*" (.Get "src")) }}
 
 {{ if $src }}
+  <figure class="{{ if .Parent }}{{ else }} my6 lg:mx16 {{ end }}{{ if .Get "wide" }}lg:mr64 {{ end }}">
+    {{/* set image sizes, these are hardcoded for now, x dictates that images are resized to this width */}}
+    {{ $format := "webp" }}
+    {{ if eq $src.MediaType.SubType "gif" }}
+      {{ $format = "gif" }}
+    {{ end }}
 
-  <figure class="{{ if .Parent }}{{ else }} my6  lg:mx16 {{end}} {{ if .Get "wide" }}lg:mr64 {{end}}">
-  {{/* set image sizes, these are hardcoded for now, x dictates that images are resized to this width */}}
-  {{ $format := "webp" }}
-  {{ if eq $src.MediaType.SubType "gif" }}
-    {{ $format = "gif" }}
-  {{ end }}
+    {{ $lqipr := printf "20x %s" $format }}
+    {{ $smallr := printf "800x %s" $format }}
+    {{ if gt $src.Height $src.Width }}
+      {{ $lqipr = printf "x20 %s" $format }}
+      {{ $smallr = printf "x800 %s" $format }}
+    {{ end }}
+    {{ if .Get "wide" }}
+      {{ $smallr = printf "1200x %s" $format }}
+    {{ end }}
+    {{ $lqip := $src.Resize $lqipr }}
+    {{ $small := $src.Resize $smallr }}
+    {{ if eq $src.MediaType.SubType "gif" }}
+      {{ $small = $src }}
+    {{ end }}
+    {{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
+    {{/* set the sizes attribute to (minwidth: 35em) 1200px, 100vw unless overridden in shortcode */}}
 
-  {{ $lqipr := printf "20x %s" $format }}
-  {{ $smallr :=  printf "800x %s" $format }}
-  {{ if gt $src.Height $src.Width }}
-    {{ $lqipr = printf "x20 %s" $format }}
-    {{ $smallr = printf "x800 %s" $format }}
-  {{ end }}
-  {{ if .Get "wide" }}
-    {{ $smallr = printf "1200x %s" $format }}
-  {{ end }}
-  {{ $lqip := $src.Resize $lqipr }}
-  {{ $small := $src.Resize $smallr}}
-  {{ if eq $src.MediaType.SubType "gif" }}
-    {{ $small = $src }}
-  {{ end }}
-  {{/* only use images smaller than or equal to the src (original) image size, as Hugo will upscale small images */}}
-  {{/* set the sizes attribute to (minwidth: 35em) 1200px, 100vw unless overridden in shortcode */}}
-
-  <picture class="block relative {{ if .Get " noshadow" }} {{ else}}shadowlg{{end}} {{ if (and (gt $src.Height $src.Width) (not .Parent)) }} mxauto w2/3{{ end }} img" {{ if .Get "nolqip" }} {{ else }}style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode  }}); backgroundsize: cover" {{ end }}>
-    {{- /* Generate better alt text: use explicit alt, then caption, then generate from context */ -}}
-    {{- $altText := "" -}}
-    {{- if .Get "alt" -}}
-      {{ $altText = .Get "alt" }}
-    {{- else if .Get "caption" -}}
-      {{ $altText = .Get "caption" | plainify }}
-    {{- else -}}
-      {{- $filename := .Get "src" | path.Base | replaceRE "\\.[^.]+$" "" | humanize | title -}}
-      {{- if $.Page.Title -}}
-        {{ $altText = printf "%s - %s" $.Page.Title $filename }}
+    <picture
+      class="block relative {{ if .Get "noshadow" }}{{ else }}shadowlg{{ end }} {{ if (and (gt $src.Height $src.Width) (not .Parent)) }}mxauto w2/3{{ end }} img"
+      {{ if .Get "nolqip" }}
+      {{ else }}
+        style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode }}); backgroundsize: cover"
+      {{ end }}
+    >
+      {{- /* Generate better alt text: use explicit alt, then caption, then generate from context */ -}}
+      {{- $altText := "" -}}
+      {{- if .Get "alt" -}}
+        {{ $altText = .Get "alt" }}
+      {{- else if .Get "caption" -}}
+        {{ $altText = .Get "caption" | plainify }}
       {{- else -}}
-        {{ $altText = $filename }}
+        {{- $filename := .Get "src" | path.Base | replaceRE "\\.[^.]+$" "" | humanize | title -}}
+        {{- if $.Page.Title -}}
+          {{ $altText = printf "%s - %s" $.Page.Title $filename }}
+        {{- else -}}
+          {{ $altText = $filename }}
+        {{- end -}}
       {{- end -}}
-    {{- end -}}
-    <img loading="lazy" alt="{{ $altText }}"
-      class="cursorpointer m0 hauto wfull lazyload" {{ if not (.Get "nozoom" ) }} dataaction="zoom" {{ end }}
-      datazoomsrc="{{ $src.RelPermalink}}" src="{{ $small.RelPermalink }}" width="{{ $src.Width }}"
-      height="{{ $src.Height }}">
-  </picture>
-  {{ with .Get "caption" }}
-  <figcaption class="textcenter mt18 textsm  textgray500 ">
-    {{ . }}
-  </figcaption>
-  {{ end }}
-</figure>
+      <img
+        loading="lazy"
+        alt="{{ $altText }}"
+        class="cursorpointer m0 hauto wfull lazyload"
+        {{ if not (.Get "nozoom") }}
+          dataaction="zoom"
+        {{ end }}
+        datazoomsrc="{{ $src.RelPermalink }}"
+        src="{{ $small.RelPermalink }}"
+        width="{{ $src.Width }}"
+        height="{{ $src.Height }}"
+      >
+    </picture>
+    {{ with .Get "caption" }}
+      <figcaption class="textcenter mt18 textsm textgray500">
+        {{ . }}
+      </figcaption>
+    {{ end }}
+  </figure>
 {{ end }}
