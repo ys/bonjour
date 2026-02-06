@@ -1,4 +1,41 @@
 ---
+- _id: 1582344288
+  link: https://www.youtube.com/watch?v=pQjK7O78_B0
+  title: 'Inside This Award-Winning Sommelier''s Curated Brooklyn Home | Huckberry
+    Homes: André Hueston Mack'
+  excerpt: 'Shop homegoods and elevate your space on Huckberry: https://bit.ly/4kkJ2dlIn
+    this episode of Huckberry Homes, we head to New York City to step inside André
+    H...'
+  note: "> Make it feel good to you"
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/pQjK7O78_B0/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/pQjK7O78_B0/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2026-02-06T09:56:24.999Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2026-02-06T09:56:35.404Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1582344288
+  collectionId: -1
+  parsed: {}
 - _id: 1571861094
   link: https://walzr.com/sf-graffiti
   title: San Francisco Graffiti
