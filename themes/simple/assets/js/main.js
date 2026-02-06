@@ -50,32 +50,41 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   }
 
-  // Check stock on shop list page
+  // Check stock on shop list page (single batch call)
   var articles = document.querySelectorAll("article[data-price-id]");
-  articles.forEach(function (article) {
-    var priceId = article.getAttribute("data-price-id");
-    fetch("/api/stock?price_id=" + encodeURIComponent(priceId))
-      .then(function (res) {
-        return res.json();
-      })
-      .then(function (data) {
-        if (data.soldout) {
-          var picture = article.querySelector("picture");
-          if (picture) {
-            var banner = document.createElement("span");
-            banner.className = "absolute top-2 left-2 bg-black/80 text-white text-xs font-bold px-2 py-1 z-10 font-sans uppercase tracking-wide";
-            banner.textContent = "Sold out";
-            picture.prepend(banner);
+  if (articles.length > 0) {
+    var articlesByPriceId = {};
+    articles.forEach(function (article) {
+      var priceId = article.getAttribute("data-price-id");
+      if (!articlesByPriceId[priceId]) articlesByPriceId[priceId] = [];
+      articlesByPriceId[priceId].push(article);
+    });
+    var priceIds = Object.keys(articlesByPriceId);
+    fetch("/api/stock?price_ids=" + priceIds.map(encodeURIComponent).join(","))
+      .then(function (res) { return res.json(); })
+      .then(function (results) {
+        priceIds.forEach(function (priceId) {
+          var data = results[priceId];
+          if (data && data.soldout) {
+            articlesByPriceId[priceId].forEach(function (article) {
+              var picture = article.querySelector("picture");
+              if (picture) {
+                var banner = document.createElement("span");
+                banner.className = "absolute top-2 left-2 bg-black/80 text-white text-xs font-bold px-2 py-1 z-10 font-sans uppercase tracking-wide";
+                banner.textContent = "Sold out";
+                picture.prepend(banner);
+              }
+              var pricetag = article.querySelector(".shop-pricetag");
+              if (pricetag) {
+                var currentPrice = pricetag.textContent.trim();
+                pricetag.innerHTML = "<del>" + currentPrice + "</del> SOLD OUT";
+              }
+            });
           }
-          var pricetag = article.querySelector(".shop-pricetag");
-          if (pricetag) {
-            var currentPrice = pricetag.textContent.trim();
-            pricetag.innerHTML = "<del>" + currentPrice + "</del> SOLD OUT";
-          }
-        }
+        });
       })
       .catch(function () {});
-  });
+  }
 });
 
 function checkStock(priceId) {
