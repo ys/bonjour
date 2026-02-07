@@ -23,7 +23,7 @@ books:
     isbn: "0525536515"
     isbn13: "9780525536512"
     cover_url: >-
-      https://assets.hardcover.app/external_data/59340601/d5cda8f52cd8e844683d4a762edebd859a32c853.jpeg
+      https://books.google.com/books/content?id=1eGCDwAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api
     reading: false
     url: https://hardcover.app/books/digital-minimalism
   - title: Big Sur
@@ -263,7 +263,8 @@ books:
     pages: 336
     isbn: "1786891557"
     isbn13: "9781786891556"
-    cover_url: https://m.media-amazon.com/images/I/91xYmBr+mFL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/60254978/9278c492fa99e54216a457208b0380b6c75acfa9.jpeg
     reading: false
     url: >-
       https://hardcover.app/books/outpost-a-journey-to-the-wild-ends-of-the-earth
