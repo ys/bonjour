@@ -1414,7 +1414,7 @@
             "contributions": [
               {
                 "author": {
-                  "name": "Krug Steve"
+                  "name": "Steve Krug"
                 }
               }
             ],
@@ -4883,6 +4883,36 @@
           }
         },
         {
+          "book_id": 601253,
+          "rating": null,
+          "date_added": "2023-08-22",
+          "user_book_status": {
+            "slug": "want-to-read"
+          },
+          "user_book_reads": [],
+          "edition": {
+            "isbn_10": "0593242718",
+            "isbn_13": "9780593242711",
+            "pages": null,
+            "release_date": "2023-01-01"
+          },
+          "book": {
+            "title": "Saving Time: Discovering a Life Beyond the Clock",
+            "subtitle": "Discovering a Life Beyond the Clock",
+            "slug": "saving-time-discovering-a-life-beyond-the-clock-2023",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Jenny Odell"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/external_data/2496821/6e159e9795b87b2f3869f9527f11d4b8b626fa9c.jpeg"
+            }
+          }
+        },
+        {
           "book_id": 606976,
           "rating": null,
           "date_added": "2021-09-19",
@@ -6180,36 +6210,6 @@
             ],
             "image": {
               "url": "https://assets.hardcover.app/edition/31051027/d7be3395b54aa3899984308ff383f11574def202.jpeg"
-            }
-          }
-        },
-        {
-          "book_id": 1047374,
-          "rating": null,
-          "date_added": "2023-08-22",
-          "user_book_status": {
-            "slug": "want-to-read"
-          },
-          "user_book_reads": [],
-          "edition": {
-            "isbn_10": "0593242718",
-            "isbn_13": "9780593242711",
-            "pages": null,
-            "release_date": "2023-03-07"
-          },
-          "book": {
-            "title": "Saving Time: Discovering a Life Beyond the Clock",
-            "subtitle": "Discovering a Life Beyond the Clock",
-            "slug": "saving-time-discovering-a-life-beyond-the-clock",
-            "contributions": [
-              {
-                "author": {
-                  "name": "Jenny Odell"
-                }
-              }
-            ],
-            "image": {
-              "url": "https://assets.hardcover.app/edition/32291586/06a6f6ea265c91c724923c7a8885e3409db139c0.jpeg"
             }
           }
         },
