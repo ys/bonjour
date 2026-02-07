@@ -2,7 +2,7 @@
 seotitle: "About me - Yannick Schutz"
 title: "Bonjour, I am Yannick"
 description: "If you wanted to know more about me, this is the place."
-date: 2025-11-12T12:57:50+02:00
+date: 2026-02-06T12:57:50+02:00
 draft: false
 color: yellow
 type: "about"
@@ -48,19 +48,17 @@ I started taking [pictures in the water](/nikonos-glaz) with some fins and a Nik
 
 ## Coffee
 
-I love a good cup of coffee. Using v60, Kalita or aeropress. My heart says stop but I keep drinking it. We got an espresso machine cause it is hard to get a good flat white around here but my latte art sucks.
+I love a good cup of coffee. Using v60, Kalita or origami. My heart says stop but I keep drinking it. We got an espresso machine cause it is hard to get a good flat white around here but my latte art sucks. It is good enough.
+
+Most of my coffee beans comes from [Miche Coffee](https://michecoffee.com) & [Horizon Café](https://www.instagram.com/horizoncafe.nantes/), a cave à café. But I still like to try new roasters from time to time. Looking for suggestions
 
 ## Writing
 
 I am writing a [small letter in french](/bonjour) about all and nothing every two weeks. It is quite delightful. It forces me to write on a regular basis. I don't have many readers but they respond to those letters. So that makes me happy.
 
-## Favorites
+## Prints
 
-📷 → Negatives get developed and scanned mostly by [Malvarrosa Film Lab](https://malvarrosafilmlab.com).
-
-☕️ → Most of my coffee beans comes from [Miche Coffee](https://michecoffee.com) & [Horizon Café](https://www.instagram.com/horizoncafe.nantes/), a cave à café. But I still like to try new roasters from time to time. Looking for suggestions
-
-🖨 → Prints come from [Ooblik](https://ooblik.com) & [Négatif+](https://negatifplus.com). I soldout [my first zine](/shop/a-thousand-tides) with [Ex Why Zed](https://exwhyzed.co.uk) but you can find other fun stuff I printed on the [shop](/shop).
+Prints come from [Ooblik](https://ooblik.com) & [Négatif+](https://negatifplus.com). I soldout [my first zine](/shop/a-thousand-tides) with [Ex Why Zed](https://exwhyzed.co.uk) but you can find other fun stuff I printed on the [shop](/shop).
 
 ## Colophon
 
