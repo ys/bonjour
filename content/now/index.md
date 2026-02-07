@@ -14,8 +14,6 @@ menu:
 linktitle: "🌀 Now"
 ---
 
-![](me.avif)
-
 ## Currently, I am: 
 - Drinking an amazing cup from [Parcel Torrefaction](https://parcelcoffee.fr/) & another from [9 postcards](https://www.9andsol.com/)
 - Packing my stuff for a trip to Morocco
