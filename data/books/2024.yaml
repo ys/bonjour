@@ -101,7 +101,7 @@ books:
     isbn: "2889730018"
     isbn13: "9782889730018"
     cover_url: >-
-      https://assets.hardcover.app/external_data/59867484/d0c82dabc108db1220f041e2ba98db2b94f593f2.jpeg
+      https://books.google.com/books/content?id=4a9VEAAAQBAJ&printsec=frontcover&img=1&zoom=3&source=gbs_api
     reading: false
     url: https://hardcover.app/books/laffaire-alaska-sanders
   - title: Norwegian Wood
@@ -322,7 +322,7 @@ books:
     isbn: "2710376520"
     isbn13: "9782710376521"
     cover_url: >-
-      https://assets.hardcover.app/external_data/2458299/4edbc08bc3e5cd293cc464c08b77ab2bc0987316.jpeg
+      https://books.google.com/books/content?id=VkC8EAAAQBAJ&printsec=frontcover&img=1&zoom=3&source=gbs_api
     reading: false
     url: https://hardcover.app/books/l-invitee-2023
   - title: Hirayasumi, tome 2
@@ -387,7 +387,8 @@ books:
     pages: 318
     isbn: 226405090X
     isbn13: "9782264050908"
-    cover_url: https://m.media-amazon.com/images/I/61R4PX8DAWL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675938/008ee9a6e03e883f800afdda1978008f62b64679.jpeg
     reading: false
     url: https://hardcover.app/books/legendes-dautomne-edition-speciale-2009
   - title: Little Women
@@ -413,7 +414,7 @@ books:
     isbn: "2714496016"
     isbn13: "9782714496010"
     cover_url: >-
-      https://assets.hardcover.app/external_data/2458242/25960ad415da84f5c8b1c95f94360d45a2850845.jpeg
+      https://books.google.com/books/content?id=XKhMEAAAQBAJ&printsec=frontcover&img=1&zoom=3&source=gbs_api
     reading: false
     url: https://hardcover.app/books/1q84-livre-3-octobre-decembre-2010
   - title: Le Sommet des Dieux - Tome 1
