@@ -5759,6 +5759,36 @@
           }
         },
         {
+          "book_id": 811996,
+          "rating": null,
+          "date_added": "2026-02-08",
+          "user_book_status": {
+            "slug": "want-to-read"
+          },
+          "user_book_reads": [],
+          "edition": {
+            "isbn_10": "1423611020",
+            "isbn_13": "9781423611028",
+            "pages": null,
+            "release_date": "2009-09-01"
+          },
+          "book": {
+            "title": "Surfer's Code",
+            "subtitle": null,
+            "slug": "surfers-code",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Patrick J. Moser"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/external_data/59959933/2f25c841364281728ab84ff14cc1bf61d4f3f8e0.jpeg"
+            }
+          }
+        },
+        {
           "book_id": 815167,
           "rating": 3,
           "date_added": "2021-03-26",
