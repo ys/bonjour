@@ -9,6 +9,7 @@ grid: "cover / YS293652 | YS293653 | YS293654"
 currency: "EUR"
 price: 15
 soldout: false
+total_stock: 50
 pricetag: "€15,00 EUR"
 price_id:  "price_1Rnem5FaA8Wpl3Ep9NfgxMra"
 testing_price_id: "price_1SxprsFaA8Wpl3EpaqIMbLhQ"
