@@ -5,7 +5,7 @@ date: 2025-07-22T00:00:40
 emoji: "🌞"
 grid: "cover"
 currency: "EUR"
-price: 75  
+price: 75
 pricetag: "€75,00 EUR"
 price_id:  "price_1SJDVjFaA8Wpl3Ep9WDNYLqZ"
 testing_price_id: "price_1Sxpd8FaA8Wpl3EpFddjY8bo"
