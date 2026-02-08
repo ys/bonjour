@@ -50,19 +50,6 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   }
 
-  function updateStockLabel(el, remaining, stockTotal) {
-    var total = stockTotal || parseInt(el.getAttribute("data-stock-total"), 10);
-    if (!total) return;
-    var prefix = el.id === "stock-label" ? "\u2014 " : " \u2022 ";
-    el.textContent = prefix + remaining + "/" + total + " left";
-    el.classList.remove("hidden", "text-gray-500", "dark:text-gray-400", "text-red-600", "dark:text-red-400", "font-bold");
-    if (remaining <= 5) {
-      el.classList.add("text-red-600", "dark:text-red-400", "font-bold");
-    } else {
-      el.classList.add("text-gray-500", "dark:text-gray-400");
-    }
-  }
-
   // Check stock on shop list page (single batch call)
   var articles = document.querySelectorAll("article[data-price-id]");
   if (articles.length > 0) {
@@ -106,6 +93,19 @@ document.addEventListener("DOMContentLoaded", function () {
       .catch(function () {});
   }
 });
+
+function updateStockLabel(el, remaining, stockTotal) {
+  var total = stockTotal || parseInt(el.getAttribute("data-stock-total"), 10);
+  if (!total) return;
+  var prefix = el.id === "stock-label" ? "\u2014 " : " \u2022 ";
+  el.textContent = prefix + remaining + "/" + total + " left";
+  el.classList.remove("hidden", "text-gray-500", "dark:text-gray-400", "text-red-600", "dark:text-red-400", "font-bold");
+  if (remaining <= 5) {
+    el.classList.add("text-red-600", "dark:text-red-400", "font-bold");
+  } else {
+    el.classList.add("text-gray-500", "dark:text-gray-400");
+  }
+}
 
 function checkStock(priceId) {
   fetch("/api/stock?price_id=" + encodeURIComponent(priceId))
