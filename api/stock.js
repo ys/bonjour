@@ -5,7 +5,11 @@ function stockFromPrice(price) {
     price.metadata && "stock" in price.metadata
       ? parseInt(price.metadata.stock, 10)
       : 1;
-  return { remaining: Math.max(remaining, 0), soldout: remaining <= 0 };
+  const result = { remaining: Math.max(remaining, 0), soldout: remaining <= 0 };
+  if (price.metadata && "stock_total" in price.metadata) {
+    result.stock_total = parseInt(price.metadata.stock_total, 10);
+  }
+  return result;
 }
 
 module.exports = async (req, res) => {
