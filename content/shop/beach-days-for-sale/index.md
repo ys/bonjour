@@ -7,8 +7,6 @@ grid: "cover"
 currency: "EUR"
 price: 75
 pricetag: "€75,00 EUR"
-stock: 3
-stock_total: 50
 price_id:  "price_1SJDVjFaA8Wpl3Ep9WDNYLqZ"
 testing_price_id: "price_1Sxpd8FaA8Wpl3EpFddjY8bo"
 shipping_rates:
