@@ -23,7 +23,7 @@ books:
     isbn: "0525536515"
     isbn13: "9780525536512"
     cover_url: >-
-      https://books.google.com/books/content?id=1eGCDwAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api
+      https://assets.hardcover.app/external_data/59340601/d5cda8f52cd8e844683d4a762edebd859a32c853.jpeg
     reading: false
     url: https://hardcover.app/books/digital-minimalism
   - title: Big Sur
@@ -236,7 +236,7 @@ books:
     pages: 0
     isbn: ""
     isbn13: "9781627793537"
-    cover_url: ""
+    cover_url: https://m.media-amazon.com/images/I/819lk2Uq-bL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/the-arab-of-the-future-3
   - title: >-
@@ -250,8 +250,7 @@ books:
     pages: 0
     isbn: "1250150663"
     isbn13: "9781250150660"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/60251488/a2e6c76fe1fa14f6987946a9f8bfa5cbeae7d49e.jpeg
+    cover_url: https://m.media-amazon.com/images/I/81Yr5R9-YSL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/the-arab-of-the-future-4
   - title: "Outpost: A Journey to the Wild Ends of the Earth"
