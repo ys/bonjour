@@ -65,6 +65,7 @@
                   {{ else }}
                     {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
                   {{ end }}
+                  <span class="shop-stock hidden"{{ with .Params.stock_total }} data-stock-total="{{ . }}"{{ end }}></span>
                 </p>
               </div>
             </div>

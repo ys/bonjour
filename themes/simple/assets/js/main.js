@@ -50,6 +50,19 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   }
 
+  function updateStockLabel(el, remaining, stockTotal) {
+    var total = stockTotal || parseInt(el.getAttribute("data-stock-total"), 10);
+    if (!total) return;
+    var prefix = el.id === "stock-label" ? "\u2014 " : " \u2022 ";
+    el.textContent = prefix + remaining + "/" + total + " left";
+    el.classList.remove("hidden", "text-gray-500", "dark:text-gray-400", "text-red-600", "dark:text-red-400", "font-bold");
+    if (remaining <= 5) {
+      el.classList.add("text-red-600", "dark:text-red-400", "font-bold");
+    } else {
+      el.classList.add("text-gray-500", "dark:text-gray-400");
+    }
+  }
+
   // Check stock on shop list page (single batch call)
   var articles = document.querySelectorAll("article[data-price-id]");
   if (articles.length > 0) {
@@ -65,8 +78,15 @@ document.addEventListener("DOMContentLoaded", function () {
       .then(function (results) {
         priceIds.forEach(function (priceId) {
           var data = results[priceId];
-          if (data && data.soldout) {
-            articlesByPriceId[priceId].forEach(function (article) {
+          if (!data) return;
+          articlesByPriceId[priceId].forEach(function (article) {
+            // Update stock count
+            var stockEl = article.querySelector(".shop-stock");
+            if (stockEl) {
+              updateStockLabel(stockEl, data.remaining, data.stock_total);
+            }
+
+            if (data.soldout) {
               var picture = article.querySelector("picture");
               if (picture) {
                 var banner = document.createElement("span");
@@ -79,8 +99,8 @@ document.addEventListener("DOMContentLoaded", function () {
                 var currentPrice = pricetag.textContent.trim();
                 pricetag.innerHTML = "<del>" + currentPrice + "</del> SOLD OUT";
               }
-            });
-          }
+            }
+          });
         });
       })
       .catch(function () {});
@@ -93,6 +113,22 @@ function checkStock(priceId) {
       return res.json();
     })
     .then(function (data) {
+      // Update stock label on single product page
+      var stockLabel = document.getElementById("stock-label");
+      if (stockLabel) {
+        updateStockLabel(stockLabel, data.remaining, data.stock_total);
+      }
+
+      // Update stock in buy button
+      var total = data.stock_total || (stockLabel && parseInt(stockLabel.getAttribute("data-stock-total"), 10));
+      if (total && !data.soldout) {
+        var btnLabel = document.getElementById("stock-button-label");
+        if (btnLabel) {
+          btnLabel.textContent = " \u2022 " + data.remaining + "/" + total + " left";
+          btnLabel.classList.remove("hidden");
+        }
+      }
+
       if (data.soldout) {
         var label = document.getElementById("price-label");
         if (label) {

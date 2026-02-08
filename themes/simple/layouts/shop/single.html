@@ -39,6 +39,7 @@
   <div  class="font-sans prose dark:prose-invert mt-8">
     {{ if .Params.price }}
       <span class="font-bold text-lg font-sans" id="price-label" data-pricetag="{{ .Params.pricetag }}">{{ if .Params.soldout}}Sold out{{ else }}{{ .Params.pricetag }}{{ end }}</span>
+      <span id="stock-label" class="font-sans text-sm ml-2 text-gray-500 dark:text-gray-400 hidden"{{ with .Params.stock_total }} data-stock-total="{{ . }}"{{ end }}></span>
       <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
       <form action="" class="mt-4 dark:prose" method="post" id="stripe-form{{ if .Params.soldout }}-nope{{ end }}">
         <div class="flex justify-between">
@@ -84,7 +85,7 @@
 						<circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
 						<path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
 					</svg>
-                                        <span class="">{{ if .Params.soldout}}Sold out{{ else }}Buy now {{ if not .Params.price_ids}}{{end}}{{ end }}</span>
+                                        <span class="">{{ if .Params.soldout}}Sold out{{ else }}Buy now{{ end }}</span><span id="stock-button-label" class="hidden"></span>
         </button>
       </form>
 
