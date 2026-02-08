@@ -97,8 +97,7 @@ document.addEventListener("DOMContentLoaded", function () {
 function updateStockLabel(el, remaining, stockTotal) {
   var total = stockTotal || parseInt(el.getAttribute("data-stock-total"), 10);
   if (!total) return;
-  var prefix = el.id === "stock-label" ? "\u2014 " : " \u2022 ";
-  el.textContent = prefix + remaining + "/" + total + " left";
+  el.textContent = " \u2022 " + remaining + "/" + total + " left";
   el.classList.remove("hidden", "text-gray-500", "dark:text-gray-400", "text-red-600", "dark:text-red-400", "font-bold");
   if (remaining <= 5) {
     el.classList.add("text-red-600", "dark:text-red-400", "font-bold");
@@ -113,14 +112,8 @@ function checkStock(priceId) {
       return res.json();
     })
     .then(function (data) {
-      // Update stock label on single product page
-      var stockLabel = document.getElementById("stock-label");
-      if (stockLabel) {
-        updateStockLabel(stockLabel, data.remaining, data.stock_total);
-      }
-
       // Update stock in buy button
-      var total = data.stock_total || (stockLabel && parseInt(stockLabel.getAttribute("data-stock-total"), 10));
+      var total = data.stock_total;
       if (total && !data.soldout) {
         var btnLabel = document.getElementById("stock-button-label");
         if (btnLabel) {
