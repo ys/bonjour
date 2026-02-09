@@ -12059,6 +12059,40 @@
               "url": "https://assets.hardcover.app/edition/32685267/2118438f96f72f941e99d434e0dfc2bede6d0f79.jpeg"
             }
           }
+        },
+        {
+          "book_id": 2423503,
+          "rating": null,
+          "date_added": "2026-02-08",
+          "user_book_status": {
+            "slug": "currently-reading"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": null
+            }
+          ],
+          "edition": {
+            "isbn_10": "2810209391",
+            "isbn_13": "9782810209392",
+            "pages": null,
+            "release_date": null
+          },
+          "book": {
+            "title": "Planetarium Ghost Travel T3",
+            "subtitle": null,
+            "slug": "planetarium-ghost-travel-t3",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Sakana Sakatsuki"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/edition/32696563/7ca07a45225283178621a9e9422d74a9d813d758.jpeg"
+            }
+          }
         }
       ]
     }
