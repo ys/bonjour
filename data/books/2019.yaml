@@ -23,7 +23,7 @@ books:
     isbn: "0525536515"
     isbn13: "9780525536512"
     cover_url: >-
-      https://assets.hardcover.app/external_data/59340601/d5cda8f52cd8e844683d4a762edebd859a32c853.jpeg
+      https://books.google.com/books/content?id=1eGCDwAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api
     reading: false
     url: https://hardcover.app/books/digital-minimalism
   - title: Big Sur
@@ -305,8 +305,7 @@ books:
     pages: 224
     isbn: 160945555X
     isbn13: "9781609455552"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/60827965/fe8f65e0e37b9fd52363e80617e66bb3ea9fb904.jpeg
+    cover_url: https://m.media-amazon.com/images/I/81wNoYc0JDL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/berezina
   - title: "The Kindness of Strangers: Travel Stories That Make Your Heart Grow"
