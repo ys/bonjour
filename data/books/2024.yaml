@@ -100,7 +100,8 @@ books:
     pages: 507
     isbn: "2889730018"
     isbn13: "9782889730018"
-    cover_url: https://m.media-amazon.com/images/I/71i3Gw2VXjL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://books.google.com/books/content?id=4a9VEAAAQBAJ&printsec=frontcover&img=1&zoom=3&source=gbs_api
     reading: false
     url: https://hardcover.app/books/laffaire-alaska-sanders
   - title: Norwegian Wood
