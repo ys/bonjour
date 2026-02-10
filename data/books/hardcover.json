@@ -8509,14 +8509,14 @@
         },
         {
           "book_id": 2038152,
-          "rating": null,
+          "rating": 4,
           "date_added": "2026-02-04",
           "user_book_status": {
-            "slug": "currently-reading"
+            "slug": "read"
           },
           "user_book_reads": [
             {
-              "finished_at": null
+              "finished_at": "2026-02-10"
             }
           ],
           "edition": {
