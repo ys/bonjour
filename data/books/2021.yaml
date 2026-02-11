@@ -164,7 +164,8 @@ books:
     pages: 0
     isbn: 190797458X
     isbn13: "9781907974588"
-    cover_url: https://m.media-amazon.com/images/I/711zFs9mTlL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/60316080/c4656cc2b0ce8a52d4f784766e6dad1dc19e4694.jpeg
     reading: false
     url: https://hardcover.app/books/path
   - title: Encabanée
@@ -372,7 +373,7 @@ books:
     isbn: "2364685729"
     isbn13: "9782364685727"
     cover_url: >-
-      https://books.google.com/books/content?id=JOYrEAAAQBAJ&printsec=frontcover&img=1&zoom=3&source=gbs_api
+      https://assets.hardcover.app/external_data/2458100/6efde1f6d2e32e89e8004d152819c08fc363cdf8.jpeg
     reading: false
     url: https://hardcover.app/books/avec-mollie-2021
   - title: Surf - Une histoire de la glisse

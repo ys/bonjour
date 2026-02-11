@@ -202,7 +202,8 @@ books:
     pages: 0
     isbn: "1468314920"
     isbn13: "9781468314922"
-    cover_url: https://m.media-amazon.com/images/I/71oWps4m0iL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/60061065/4536cb6ab9b3ef7641d2d6138d5d77c3bea800e8.jpeg
     reading: false
     url: https://hardcover.app/books/floating-a-life-regained
   - title: "The Pull of the River: A Journey into the Wild and Watery Heart of Britain"
@@ -228,7 +229,7 @@ books:
     isbn: "1561635073"
     isbn13: "9781561635078"
     cover_url: >-
-      https://books.google.com/books/content?id=nSw6gsgZXUMC&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api
+      https://assets.hardcover.app/external_data/60463870/21bf2e116827e673fe1596f2fb212e25cd7bd16e.jpeg
     reading: false
     url: https://hardcover.app/books/dungeon-parade-vol-2
   - title: Une vie à coucher dehors
