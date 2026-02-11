@@ -8435,6 +8435,40 @@
           }
         },
         {
+          "book_id": 2031067,
+          "rating": 3.5,
+          "date_added": "2026-02-10",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2026-02-10"
+            }
+          ],
+          "edition": {
+            "isbn_10": "1974755495",
+            "isbn_13": "9781974755493",
+            "pages": 160,
+            "release_date": "2025-08-19"
+          },
+          "book": {
+            "title": "Hirayasumi, Vol. 6",
+            "subtitle": null,
+            "slug": "hirayasumi-vol-6",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Keigo Shinzō"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/edition/32207696/0bc15e67aedaf9d7b6b16e071252bd529c22fea9.jpeg"
+            }
+          }
+        },
+        {
           "book_id": 2033679,
           "rating": 5,
           "date_added": "2022-11-29",
@@ -8576,6 +8610,36 @@
           }
         },
         {
+          "book_id": 2062764,
+          "rating": null,
+          "date_added": "2026-02-10",
+          "user_book_status": {
+            "slug": "want-to-read"
+          },
+          "user_book_reads": [],
+          "edition": {
+            "isbn_10": "1974758869",
+            "isbn_13": "9781974758869",
+            "pages": 192,
+            "release_date": "2025-11-18"
+          },
+          "book": {
+            "title": "Hirayasumi, Vol. 7",
+            "subtitle": null,
+            "slug": "hirayasumi-vol-7",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Keigo Shinzō"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/edition/32247432/83b151d63b9e3aff182782b7ba9e5f5c25dc5ad1.jpeg"
+            }
+          }
+        },
+        {
           "book_id": 2073036,
           "rating": 3.5,
           "date_added": "2026-01-20",
@@ -8606,6 +8670,36 @@
             ],
             "image": {
               "url": "https://assets.hardcover.app/edition/32260534/b9b3c5c4c16e580622428d474bf3b1cc6bd5383b.jpeg"
+            }
+          }
+        },
+        {
+          "book_id": 2137020,
+          "rating": null,
+          "date_added": "2026-02-10",
+          "user_book_status": {
+            "slug": "want-to-read"
+          },
+          "user_book_reads": [],
+          "edition": {
+            "isbn_10": "1974762149",
+            "isbn_13": "9781974762149",
+            "pages": 208,
+            "release_date": "2026-02-17"
+          },
+          "book": {
+            "title": "Hirayasumi, Vol. 8",
+            "subtitle": null,
+            "slug": "hirayasumi-vol-8",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Keigo Shinzō"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/edition/32342014/0dc720ff644ea67fe6f39385e00c99ad5c121a6f.jpeg"
             }
           }
         },
