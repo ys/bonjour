@@ -4952,9 +4952,13 @@
           "rating": null,
           "date_added": "2026-01-20",
           "user_book_status": {
-            "slug": "want-to-read"
+            "slug": "currently-reading"
           },
-          "user_book_reads": [],
+          "user_book_reads": [
+            {
+              "finished_at": null
+            }
+          ],
           "edition": {
             "isbn_10": "2265159441",
             "isbn_13": "9782265159440",
