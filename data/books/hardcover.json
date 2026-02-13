@@ -5690,7 +5690,7 @@
               }
             ],
             "image": {
-              "url": "https://assets.hardcover.app/edition/30797240/e64fb6c1-0802-4c65-b2b0-0c6414e6784e.jpg"
+              "url": "https://assets.hardcover.app/external_data/61495138/1ef69ae46debe8855af335adaac4d0bb20fc6995.jpeg"
             }
           }
         },
@@ -8618,9 +8618,13 @@
           "rating": null,
           "date_added": "2026-02-10",
           "user_book_status": {
-            "slug": "want-to-read"
+            "slug": "currently-reading"
           },
-          "user_book_reads": [],
+          "user_book_reads": [
+            {
+              "finished_at": null
+            }
+          ],
           "edition": {
             "isbn_10": "1974758869",
             "isbn_13": "9781974758869",
