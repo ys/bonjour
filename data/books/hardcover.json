@@ -3492,6 +3492,40 @@
           }
         },
         {
+          "book_id": 444788,
+          "rating": 4,
+          "date_added": "2024-11-09",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2024-11-09"
+            }
+          ],
+          "edition": {
+            "isbn_10": "2714495990",
+            "isbn_13": "9782714495990",
+            "pages": 404,
+            "release_date": "2009-05-11"
+          },
+          "book": {
+            "title": "1Q84: Book 1",
+            "subtitle": "april-juni",
+            "slug": "1q84-book-1",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Haruki Murakami"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/editions/28310660/7690577800292837.jpeg"
+            }
+          }
+        },
+        {
           "book_id": 444938,
           "rating": 5,
           "date_added": "2021-03-26",
@@ -6171,6 +6205,45 @@
             ],
             "image": {
               "url": "https://assets.hardcover.app/external_data/60065428/69ec65eb0de1d8d02908bc9c3b5eb1798ab080dd.jpeg"
+            }
+          }
+        },
+        {
+          "book_id": 931981,
+          "rating": 3,
+          "date_added": "2024-11-26",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2024-12-18"
+            }
+          ],
+          "edition": {
+            "isbn_10": "2714496016",
+            "isbn_13": "9782714496010",
+            "pages": 441,
+            "release_date": "2010-01-01"
+          },
+          "book": {
+            "title": "1Q84: Book 3",
+            "subtitle": "Book 3",
+            "slug": "1q84-book-3",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Haruki Murakami"
+                }
+              },
+              {
+                "author": {
+                  "name": "Philip Gabriel"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/edition/30957118/5a25a2034d7329d4e8ed5e2cb2ef2fc6e5b77fdc.jpeg"
             }
           }
         },
@@ -11803,45 +11876,6 @@
           }
         },
         {
-          "book_id": 2406612,
-          "rating": 3,
-          "date_added": "2024-11-26",
-          "user_book_status": {
-            "slug": "read"
-          },
-          "user_book_reads": [
-            {
-              "finished_at": "2024-12-18"
-            }
-          ],
-          "edition": {
-            "isbn_10": "2714496016",
-            "isbn_13": "9782714496010",
-            "pages": 441,
-            "release_date": "2010-01-01"
-          },
-          "book": {
-            "title": "1Q84 - livre 3 Octobre-Décembre",
-            "subtitle": null,
-            "slug": "1q84-livre-3-octobre-decembre-2010",
-            "contributions": [
-              {
-                "author": {
-                  "name": "Haruki Murakami"
-                }
-              },
-              {
-                "author": {
-                  "name": "Hélène Morita"
-                }
-              }
-            ],
-            "image": {
-              "url": "https://assets.hardcover.app/external_data/2458242/25960ad415da84f5c8b1c95f94360d45a2850845.jpeg"
-            }
-          }
-        },
-        {
           "book_id": 2406613,
           "rating": 4,
           "date_added": "2025-12-24",
@@ -11984,45 +12018,6 @@
             ],
             "image": {
               "url": "https://assets.hardcover.app/external_data/2458291/4daaee5f6287a23c56c0fef54719262131399cb7.jpeg"
-            }
-          }
-        },
-        {
-          "book_id": 2406618,
-          "rating": 4,
-          "date_added": "2024-11-09",
-          "user_book_status": {
-            "slug": "read"
-          },
-          "user_book_reads": [
-            {
-              "finished_at": "2024-11-09"
-            }
-          ],
-          "edition": {
-            "isbn_10": "2714495990",
-            "isbn_13": "9782714495990",
-            "pages": 404,
-            "release_date": "2009-05-11"
-          },
-          "book": {
-            "title": "1Q84 - Livre 1 Avril-Juin",
-            "subtitle": null,
-            "slug": "1q84-livre-1-avril-juin-2009",
-            "contributions": [
-              {
-                "author": {
-                  "name": "Haruki Murakami"
-                }
-              },
-              {
-                "author": {
-                  "name": "Hélène Morita"
-                }
-              }
-            ],
-            "image": {
-              "url": "https://assets.hardcover.app/external_data/2458307/d22463dfd76518f9c46a48e3492391f286e9f2a8.jpeg"
             }
           }
         },
