@@ -1171,6 +1171,41 @@
   sort: 1294587294
   collectionId: 37459371
   parsed: {}
+- _id: 1271139108
+  link: https://www.youtube.com/watch?v=kEm7HfiIYak
+  title: Why I Sold My Steam Deck for a Switch 2...
+  excerpt: "My full review of the Steam Deck Vs The Nintendo Switch 2 and why I decided
+    to switch!\U0001F3AE Protect your Switch 2 with the Belkin Travel Case: https://belkin.ev..."
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/kEm7HfiIYak/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/kEm7HfiIYak/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2025-07-28T11:43:35.985Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2025-07-28T11:43:37.200Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1271139108
+  collectionId: -1
+  parsed: {}
 - _id: 1269871618
   link: https://www.youtube.com/watch?v=cF0-xOWOnFU
   title: Arto Saari - Shooting Film & Talking Photography
