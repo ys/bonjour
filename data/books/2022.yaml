@@ -39,6 +39,19 @@ books:
       https://books.google.com/books/content?id=-ZuzDwAAQBAJ&printsec=frontcover&img=1&zoom=3&source=gbs_api
     reading: false
     url: https://hardcover.app/books/breath
+  - title: The Nickel Boys
+    author: Colson Whitehead
+    subtitle: ""
+    date: 2022-01-19
+    read: 2022-01-19
+    rating: 5
+    pages: 197
+    isbn: "2226449787"
+    isbn13: "9782226449788"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/22653371/7521d17c0457188b18004dfe55f88689baf5491d.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-nickel-boys
   - title: Beautiful World, Where Are You
     author: Sally Rooney
     subtitle: ""
@@ -257,19 +270,6 @@ books:
       https://assets.hardcover.app/edition/32041217/e976601a38f50242b7228b302df258b697139fdf.jpeg
     reading: false
     url: https://hardcover.app/books/la-grande-traversee-de-l-ouest-en-bus
-  - title: Nickel boys
-    author: Colson Whitehead
-    subtitle: ""
-    date: 2022-01-19
-    read: 2022-01-19
-    rating: 5
-    pages: 197
-    isbn: "2226449787"
-    isbn13: "9782226449788"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32140902/ada95e5a1998f8390a6aa62dd42cba2e944e224b.jpeg
-    reading: false
-    url: https://hardcover.app/books/nickel-boys-2019
   - title: L'Année de la pensée magique
     author: Joan Didion
     subtitle: ""

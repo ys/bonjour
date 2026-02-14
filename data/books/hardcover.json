@@ -2451,6 +2451,45 @@
           }
         },
         {
+          "book_id": 430515,
+          "rating": 5,
+          "date_added": "2022-01-19",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2022-01-19"
+            }
+          ],
+          "edition": {
+            "isbn_10": "2226449787",
+            "isbn_13": "9782226449788",
+            "pages": 197,
+            "release_date": "2019-07-16"
+          },
+          "book": {
+            "title": "The Nickel Boys",
+            "subtitle": null,
+            "slug": "the-nickel-boys",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Colson Whitehead"
+                }
+              },
+              {
+                "author": {
+                  "name": "J.D. Jackson"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/external_data/22653371/7521d17c0457188b18004dfe55f88689baf5491d.jpeg"
+            }
+          }
+        },
+        {
           "book_id": 431209,
           "rating": null,
           "date_added": "2023-10-24",
@@ -8469,45 +8508,6 @@
             ],
             "image": {
               "url": "https://assets.hardcover.app/external_data/755955/1f8ab2433f9d3c733ba05f99e592b0dfb23e6634.jpeg"
-            }
-          }
-        },
-        {
-          "book_id": 1977424,
-          "rating": 5,
-          "date_added": "2022-01-19",
-          "user_book_status": {
-            "slug": "read"
-          },
-          "user_book_reads": [
-            {
-              "finished_at": "2022-01-19"
-            }
-          ],
-          "edition": {
-            "isbn_10": "2226449787",
-            "isbn_13": "9782226449788",
-            "pages": 197,
-            "release_date": "2019-07-16"
-          },
-          "book": {
-            "title": "Nickel boys",
-            "subtitle": null,
-            "slug": "nickel-boys-2019",
-            "contributions": [
-              {
-                "author": {
-                  "name": "Colson Whitehead"
-                }
-              },
-              {
-                "author": {
-                  "name": "Charles Recoursé"
-                }
-              }
-            ],
-            "image": {
-              "url": "https://assets.hardcover.app/edition/32140902/ada95e5a1998f8390a6aa62dd42cba2e944e224b.jpeg"
             }
           }
         },
