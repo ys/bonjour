@@ -4434,6 +4434,40 @@
           }
         },
         {
+          "book_id": 510515,
+          "rating": null,
+          "date_added": "2026-02-15",
+          "user_book_status": {
+            "slug": "currently-reading"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": null
+            }
+          ],
+          "edition": {
+            "isbn_10": "1460928261",
+            "isbn_13": "9781460928264",
+            "pages": 212,
+            "release_date": "2010-04-15"
+          },
+          "book": {
+            "title": "Famous",
+            "subtitle": null,
+            "slug": "famous-2010",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Blake Crouch"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/edition/30462591/10329241-L.jpg"
+            }
+          }
+        },
+        {
           "book_id": 510564,
           "rating": 4,
           "date_added": "2021-03-26",
@@ -5022,14 +5056,14 @@
         },
         {
           "book_id": 614962,
-          "rating": null,
+          "rating": 3.5,
           "date_added": "2026-01-20",
           "user_book_status": {
-            "slug": "currently-reading"
+            "slug": "read"
           },
           "user_book_reads": [
             {
-              "finished_at": null
+              "finished_at": "2026-02-15"
             }
           ],
           "edition": {
