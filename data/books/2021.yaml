@@ -269,7 +269,8 @@ books:
     pages: 220
     isbn: "2080232770"
     isbn13: "9782080232779"
-    cover_url: https://m.media-amazon.com/images/I/71TzuxU-BjL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://books.google.com/books/content?id=WKcPEAAAQBAJ&printsec=frontcover&img=1&zoom=3&source=gbs_api
     reading: false
     url: https://hardcover.app/books/sans-alcool-2021
   - title: "Do Earth: Healing strategies for humankind."
