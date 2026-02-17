@@ -9021,6 +9021,36 @@
           }
         },
         {
+          "book_id": 2376151,
+          "rating": null,
+          "date_added": "2026-02-17",
+          "user_book_status": {
+            "slug": "want-to-read"
+          },
+          "user_book_reads": [],
+          "edition": {
+            "isbn_10": "1783353058",
+            "isbn_13": "9781783353057",
+            "pages": 320,
+            "release_date": "2026-02-12"
+          },
+          "book": {
+            "title": "Super Nintendo",
+            "subtitle": "How One Japanese Company Helped the World Have Fun",
+            "slug": "super-nintendo-2026",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Keza MacDonald"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/edition/32639311/bb75e27c284708fc2848575f39384492ca2e4564.jpeg"
+            }
+          }
+        },
+        {
           "book_id": 2405814,
           "rating": 5,
           "date_added": "2021-03-26",
