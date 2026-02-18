@@ -63,8 +63,7 @@ books:
     pages: 256
     isbn: "1982157771"
     isbn13: "9781982157777"
-    cover_url: >-
-      https://books.google.com/books/content?id=GMLvDwAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api
+    cover_url: https://m.media-amazon.com/images/I/81hE9g0swOL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/burn-the-place
   - title: The Salt Path
