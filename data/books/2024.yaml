@@ -113,7 +113,7 @@ books:
     isbn: "2889730018"
     isbn13: "9782889730018"
     cover_url: >-
-      https://assets.hardcover.app/external_data/59867484/d0c82dabc108db1220f041e2ba98db2b94f593f2.jpeg
+      https://books.google.com/books/content?id=4a9VEAAAQBAJ&printsec=frontcover&img=1&zoom=3&source=gbs_api
     reading: false
     url: https://hardcover.app/books/laffaire-alaska-sanders
   - title: Norwegian Wood
@@ -346,7 +346,8 @@ books:
     pages: 242
     isbn: "2710376520"
     isbn13: "9782710376521"
-    cover_url: https://m.media-amazon.com/images/I/91hXVtj-SxL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://books.google.com/books/content?id=VkC8EAAAQBAJ&printsec=frontcover&img=1&zoom=3&source=gbs_api
     reading: false
     url: https://hardcover.app/books/l-invitee-2023
   - title: Hirayasumi, tome 2
