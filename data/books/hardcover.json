@@ -4435,14 +4435,14 @@
         },
         {
           "book_id": 510515,
-          "rating": null,
+          "rating": 2,
           "date_added": "2026-02-15",
           "user_book_status": {
-            "slug": "currently-reading"
+            "slug": "read"
           },
           "user_book_reads": [
             {
-              "finished_at": null
+              "finished_at": "2026-02-19"
             }
           ],
           "edition": {
