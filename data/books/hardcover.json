@@ -6894,6 +6894,45 @@
           }
         },
         {
+          "book_id": 1190100,
+          "rating": null,
+          "date_added": "2026-02-19",
+          "user_book_status": {
+            "slug": "want-to-read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": null
+            }
+          ],
+          "edition": {
+            "isbn_10": "1787304477",
+            "isbn_13": "9781787304475",
+            "pages": 448,
+            "release_date": "2023-04-13"
+          },
+          "book": {
+            "title": "The City and Its Uncertain Walls",
+            "subtitle": null,
+            "slug": "the-city-and-its-uncertain-walls",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Haruki Murakami"
+                }
+              },
+              {
+                "author": {
+                  "name": "Philip Gabriel"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/edition/31214891/dbd0e52c215b3e088f9e6c6e6bf4b493f101de48.jpeg"
+            }
+          }
+        },
+        {
           "book_id": 1204731,
           "rating": 4,
           "date_added": "2021-05-11",
@@ -7522,9 +7561,13 @@
           "rating": null,
           "date_added": "2026-02-01",
           "user_book_status": {
-            "slug": "want-to-read"
+            "slug": "currently-reading"
           },
-          "user_book_reads": [],
+          "user_book_reads": [
+            {
+              "finished_at": null
+            }
+          ],
           "edition": {
             "isbn_10": null,
             "isbn_13": null,
