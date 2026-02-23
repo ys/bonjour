@@ -8760,14 +8760,14 @@
         },
         {
           "book_id": 2062764,
-          "rating": null,
+          "rating": 4,
           "date_added": "2026-02-10",
           "user_book_status": {
-            "slug": "currently-reading"
+            "slug": "read"
           },
           "user_book_reads": [
             {
-              "finished_at": null
+              "finished_at": "2026-02-23"
             }
           ],
           "edition": {
@@ -8828,12 +8828,16 @@
         },
         {
           "book_id": 2137020,
-          "rating": null,
+          "rating": 4,
           "date_added": "2026-02-10",
           "user_book_status": {
-            "slug": "want-to-read"
+            "slug": "read"
           },
-          "user_book_reads": [],
+          "user_book_reads": [
+            {
+              "finished_at": "2026-02-23"
+            }
+          ],
           "edition": {
             "isbn_10": "1974762149",
             "isbn_13": "9781974762149",
