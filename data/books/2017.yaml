@@ -132,8 +132,7 @@ books:
     pages: 272
     isbn: "0143037838"
     isbn13: "9780143037835"
-    cover_url: >-
-      https://books.google.com/books/content?id=sjBAfE-8-fQC&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api
+    cover_url: https://m.media-amazon.com/images/I/91JyBf0AfUL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/let-my-people-go-surfing
   - title: You're Never Weird on the Internet
@@ -274,7 +273,7 @@ books:
     pages: 160
     isbn: "0985265604"
     isbn13: "9780985265601"
-    cover_url: ""
+    cover_url: https://m.media-amazon.com/images/I/61GER8sLsYL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/the-credibility-code
   - title: "Indian Creek Chronicles: A Winter Alone in the Wilderness"
