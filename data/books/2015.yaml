@@ -37,7 +37,8 @@ books:
     pages: 210
     isbn: "0446526568"
     isbn13: "9780446526562"
-    cover_url: https://m.media-amazon.com/images/I/617+hexo3hL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/59479199/075c3d63dde5951709a59fb2d36d573a68e08030.jpeg
     reading: false
     url: https://hardcover.app/books/the-no-asshole-rule
   - title: How to Win Friends and Influence People
@@ -124,7 +125,7 @@ books:
     pages: 0
     isbn: "1937785319"
     isbn13: "9781937785314"
-    cover_url: https://m.media-amazon.com/images/I/81Bzdd2eygL._AC_UY654_QL65_.jpg
+    cover_url: https://assets.hardcover.app/edition/30480586/content.jpeg
     reading: false
     url: https://hardcover.app/books/the-healthy-programmer
   - title: "The Carter Family: Don't Forget This Song"
