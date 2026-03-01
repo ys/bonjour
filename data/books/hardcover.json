@@ -12296,6 +12296,43 @@
               "url": "https://assets.hardcover.app/edition/32696563/7ca07a45225283178621a9e9422d74a9d813d758.jpeg"
             }
           }
+        },
+        {
+          "book_id": 2463816,
+          "rating": null,
+          "date_added": "2026-03-01",
+          "user_book_status": {
+            "slug": "currently-reading"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": null
+            }
+          ],
+          "edition": {
+            "isbn_10": "2203282010",
+            "isbn_13": "9782203282018",
+            "pages": 210,
+            "release_date": "2026-03-18"
+          },
+          "book": {
+            "title": "Skating Wilder",
+            "subtitle": null,
+            "slug": "skating-wilder",
+            "contributions": [
+              {
+                "author": {
+                  "name": "AJ Dungo"
+                }
+              },
+              {
+                "author": {
+                  "name": "Brandon Dumais"
+                }
+              }
+            ],
+            "image": null
+          }
         }
       ]
     }
