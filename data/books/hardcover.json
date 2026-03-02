@@ -12299,14 +12299,14 @@
         },
         {
           "book_id": 2463816,
-          "rating": null,
+          "rating": 4.5,
           "date_added": "2026-03-01",
           "user_book_status": {
-            "slug": "currently-reading"
+            "slug": "read"
           },
           "user_book_reads": [
             {
-              "finished_at": null
+              "finished_at": "2026-03-01"
             }
           ],
           "edition": {
