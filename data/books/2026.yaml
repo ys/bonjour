@@ -175,9 +175,10 @@ books:
     date: 2026-03-01
     read: 2026-03-01
     rating: 5
-    pages: 210
+    pages: 208
     isbn: "2203282010"
     isbn13: "9782203282018"
-    cover_url: ""
+    cover_url: >-
+      https://assets.hardcover.app/edition/32747990/d8098e90-3d4a-4a0b-b3ea-ed47fcfbef4b.jpg
     reading: false
     url: https://hardcover.app/books/skating-wilder

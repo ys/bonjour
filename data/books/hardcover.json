@@ -12312,7 +12312,7 @@
           "edition": {
             "isbn_10": "2203282010",
             "isbn_13": "9782203282018",
-            "pages": 210,
+            "pages": 208,
             "release_date": "2026-03-18"
           },
           "book": {
@@ -12331,7 +12331,9 @@
                 }
               }
             ],
-            "image": null
+            "image": {
+              "url": "https://assets.hardcover.app/edition/32747990/d8098e90-3d4a-4a0b-b3ea-ed47fcfbef4b.jpg"
+            }
           }
         }
       ]
