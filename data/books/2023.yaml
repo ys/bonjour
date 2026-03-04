@@ -63,7 +63,7 @@ books:
     pages: 226
     isbn: "2203093803"
     isbn13: "9782203093805"
-    cover_url: ""
+    cover_url: https://m.media-amazon.com/images/I/81vzjmEvK3L._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/lhomme-qui-marche-2015
   - title: Satori in Paris
@@ -127,8 +127,7 @@ books:
     pages: 464
     isbn: "2364681820"
     isbn13: "9782364681828"
-    cover_url: >-
-      https://books.google.com/books/content?id=cEjqDwAAQBAJ&printsec=frontcover&img=1&zoom=3&source=gbs_api
+    cover_url: https://m.media-amazon.com/images/I/91YdcXHs8JL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/jours-barbares-2015
   - title: La Vie de Bouddha, Intégrale, Vol. 4
