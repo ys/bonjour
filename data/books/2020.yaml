@@ -35,7 +35,8 @@ books:
     pages: 281
     isbn: "0374278016"
     isbn13: "9780374278014"
-    cover_url: https://m.media-amazon.com/images/I/71OtRfWWYbL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/59375164/507d7c2cfd3621218ce517f31efaccf85784cf9e.jpeg
     reading: false
     url: https://hardcover.app/books/uncanny-valley
   - title: The Courage to Be Disliked
