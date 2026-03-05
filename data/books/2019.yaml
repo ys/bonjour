@@ -104,7 +104,7 @@ books:
     cover_url: https://assets.hardcover.app/edition/21484051/9130310-L.jpg
     reading: false
     url: https://hardcover.app/books/stillness-is-the-key
-  - title: Hábitos Atómicos
+  - title: "Atomic habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"
     author: James Clear
     subtitle: An Easy & Proven Way to Build Good Habits & Break Bad Ones
     date: 2019-01-11
@@ -113,9 +113,10 @@ books:
     pages: 320
     isbn: "0735211302"
     isbn13: "9780735211308"
-    cover_url: https://assets.hardcover.app/editions/30400296/214994214060325.jpg
+    cover_url: >-
+      https://assets.hardcover.app/edition/12605395/b42cef3682e39a6bad722790e48ee64bdf8bd7fb.jpeg
     reading: false
-    url: https://hardcover.app/books/habitos-atomicos-2016
+    url: https://hardcover.app/books/atomic-habits
   - title: 50 Shades of the USA
     author: Anna McNuff
     subtitle: One woman's 11,000 mile cycling adventure through every state of America
