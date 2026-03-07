@@ -112,7 +112,7 @@ books:
     pages: 256
     isbn: ""
     isbn13: "9781786785558"
-    cover_url: https://assets.hardcover.app/edition/30647039/58295954._SX98_.jpg
+    cover_url: https://m.media-amazon.com/images/I/91b-boZUVYS._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/saltwater-in-the-blood
   - title: L'incroyable histoire du homard qui sauva sa carapace
@@ -190,7 +190,8 @@ books:
     pages: 184
     isbn: "2330150121"
     isbn13: "9782330150129"
-    cover_url: https://m.media-amazon.com/images/I/51BIGQluAQL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/60390611/19b6b72decb04066c58facb7a0024f99d813961b.jpeg
     reading: false
     url: https://hardcover.app/books/au-prochain-arret
   - title: En mer
