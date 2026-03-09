@@ -8146,9 +8146,13 @@
           "rating": null,
           "date_added": "2026-02-01",
           "user_book_status": {
-            "slug": "want-to-read"
+            "slug": "currently-reading"
           },
-          "user_book_reads": [],
+          "user_book_reads": [
+            {
+              "finished_at": null
+            }
+          ],
           "edition": {
             "isbn_10": null,
             "isbn_13": null,
@@ -8200,6 +8204,45 @@
             ],
             "image": {
               "url": "https://assets.hardcover.app/edition/31512381/0c2a3d87a36222d118b0d4ccdba9c2082b915387.jpeg"
+            }
+          }
+        },
+        {
+          "book_id": 1799148,
+          "rating": 5,
+          "date_added": "2026-03-08",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2026-03-08"
+            }
+          ],
+          "edition": {
+            "isbn_10": "1646092961",
+            "isbn_13": "9781646092963",
+            "pages": 176,
+            "release_date": "2024-09-03"
+          },
+          "book": {
+            "title": "The Apothecary Diaries Manga, Vol. 12",
+            "subtitle": "Diários de uma Apotecária",
+            "slug": "the-apothecary-diaries-manga-vol-12",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Nekokurage"
+                }
+              },
+              {
+                "author": {
+                  "name": "Natsu Hyuuga"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/edition/31916759/5e5211912f4f349f0ec49063299873e1729800dc.jpeg"
             }
           }
         },
@@ -8545,6 +8588,55 @@
             ],
             "image": {
               "url": "https://assets.hardcover.app/edition/32041217/e976601a38f50242b7228b302df258b697139fdf.jpeg"
+            }
+          }
+        },
+        {
+          "book_id": 1901435,
+          "rating": 4.5,
+          "date_added": "2026-03-08",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2026-03-08"
+            }
+          ],
+          "edition": {
+            "isbn_10": "1646094220",
+            "isbn_13": "9781646094226",
+            "pages": 176,
+            "release_date": "2025-10-07"
+          },
+          "book": {
+            "title": "The Apothecary Diaries Manga, Vol. 14",
+            "subtitle": null,
+            "slug": "the-apothecary-diaries-manga-vol-14",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Nekokurage"
+                }
+              },
+              {
+                "author": {
+                  "name": "Natsu Hyuuga"
+                }
+              },
+              {
+                "author": {
+                  "name": "Touco Shino"
+                }
+              },
+              {
+                "author": {
+                  "name": "Itsuki Nanao"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/edition/32045806/450069fd104d73cadce91966610baf5b5bb83a22.jpeg"
             }
           }
         },
@@ -12333,6 +12425,50 @@
             ],
             "image": {
               "url": "https://assets.hardcover.app/edition/32747990/d8098e90-3d4a-4a0b-b3ea-ed47fcfbef4b.jpg"
+            }
+          }
+        },
+        {
+          "book_id": 2471759,
+          "rating": 4,
+          "date_added": "2026-03-08",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2026-03-08"
+            }
+          ],
+          "edition": {
+            "isbn_10": null,
+            "isbn_13": "9791032717158",
+            "pages": null,
+            "release_date": "2023-02-25"
+          },
+          "book": {
+            "title": "Les Carnets de l'Apothicaire, Tome 13",
+            "subtitle": null,
+            "slug": "les-carnets-de-lapothicaire-tome-13",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Nekokurage"
+                }
+              },
+              {
+                "author": {
+                  "name": "Natsu Hyuuga"
+                }
+              },
+              {
+                "author": {
+                  "name": "Itsuki Nanao"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/edition/32758334/be8bee51dc00effb494ec7283f506806be0a8815.jpeg"
             }
           }
         }

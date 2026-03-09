@@ -1,2 +1,14 @@
 current: true
-books: []
+books:
+  - title: Off Clark
+    author: Walker Ryan
+    subtitle: ""
+    date: 2026-02-01
+    read: null
+    rating: 0
+    pages: 0
+    isbn: ""
+    isbn13: ""
+    cover_url: ""
+    reading: true
+    url: https://hardcover.app/books/off-clark
