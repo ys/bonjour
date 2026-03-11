@@ -9185,6 +9185,40 @@
           }
         },
         {
+          "book_id": 2401179,
+          "rating": 4,
+          "date_added": "2026-03-10",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2026-03-10"
+            }
+          ],
+          "edition": {
+            "isbn_10": "1974763331",
+            "isbn_13": "9781974763337",
+            "pages": 208,
+            "release_date": "2026-05-19"
+          },
+          "book": {
+            "title": "Hirayasumi, Vol. 9",
+            "subtitle": null,
+            "slug": "hirayasumi-vol-9",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Keigo Shinzō"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/edition/32668566/349496faaa94484552f0b64a57864ead7cf0dd3b.jpeg"
+            }
+          }
+        },
+        {
           "book_id": 2405814,
           "rating": 5,
           "date_added": "2021-03-26",
