@@ -4267,6 +4267,36 @@
           }
         },
         {
+          "book_id": 484845,
+          "rating": null,
+          "date_added": "2021-12-04",
+          "user_book_status": {
+            "slug": "want-to-read"
+          },
+          "user_book_reads": [],
+          "edition": {
+            "isbn_10": null,
+            "isbn_13": null,
+            "pages": 303,
+            "release_date": "2021-09-28"
+          },
+          "book": {
+            "title": "Courage Is Calling: Fortune Favors the Brave",
+            "subtitle": "Fortune Favors the Brave",
+            "slug": "courage-is-calling",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Ryan Holiday"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/edition/30425562/0d20d418dabe0e37fcc5222bb65def6ca5bcacb7.jpeg"
+            }
+          }
+        },
+        {
           "book_id": 488259,
           "rating": 4,
           "date_added": "2021-03-26",
@@ -6958,36 +6988,6 @@
             ],
             "image": {
               "url": "https://assets.hardcover.app/edition/31229671/19b2a31944f59ca341227171962eea0ca07ac609.jpeg"
-            }
-          }
-        },
-        {
-          "book_id": 1205811,
-          "rating": null,
-          "date_added": "2021-12-04",
-          "user_book_status": {
-            "slug": "want-to-read"
-          },
-          "user_book_reads": [],
-          "edition": {
-            "isbn_10": null,
-            "isbn_13": null,
-            "pages": 303,
-            "release_date": "2021-09-28"
-          },
-          "book": {
-            "title": "Courage Is Calling: Fortune Favors the Brave",
-            "subtitle": "Fortune Favors the Brave",
-            "slug": "courage-is-calling-fortune-favors-the-brave",
-            "contributions": [
-              {
-                "author": {
-                  "name": "Ryan Holiday"
-                }
-              }
-            ],
-            "image": {
-              "url": "https://assets.hardcover.app/edition/31230869/0efd011e-4f58-4f08-b622-d2eb7de8a1f9.jpg"
             }
           }
         },
