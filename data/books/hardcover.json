@@ -3705,11 +3705,11 @@
             "isbn_10": "1607068095",
             "isbn_13": "9781607068099",
             "pages": 106,
-            "release_date": "2013-10-09"
+            "release_date": "2013-01-01"
           },
           "book": {
             "title": "Lazarus, Vol. 1: Family",
-            "subtitle": "Pour la famille",
+            "subtitle": "Family",
             "slug": "lazarus-vol-1-family",
             "contributions": [
               {
@@ -3721,10 +3721,15 @@
                 "author": {
                   "name": "Michael Lark"
                 }
+              },
+              {
+                "author": {
+                  "name": "Santiago Arcas"
+                }
               }
             ],
             "image": {
-              "url": "https://assets.hardcover.app/edition/16983125/a71616c93b1d49795328d0726444a467f4c1e83e.jpeg"
+              "url": "https://assets.hardcover.app/edition/16983125/1bce83b3dda387241fb5fdfad334ed20b90bb718.jpeg"
             }
           }
         },
