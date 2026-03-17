@@ -12507,6 +12507,34 @@
               "url": "https://assets.hardcover.app/edition/32758334/be8bee51dc00effb494ec7283f506806be0a8815.jpeg"
             }
           }
+        },
+        {
+          "book_id": 2489200,
+          "rating": null,
+          "date_added": "2026-03-17",
+          "user_book_status": {
+            "slug": "want-to-read"
+          },
+          "user_book_reads": [],
+          "edition": {
+            "isbn_10": "1917523599",
+            "isbn_13": "9781917523592",
+            "pages": null,
+            "release_date": null
+          },
+          "book": {
+            "title": "A Year of Nothing: As heard on BBC Woman’s Hour",
+            "subtitle": "As heard on BBC Woman’s Hour",
+            "slug": "a-year-of-nothing-as-heard-on-bbc-woman-s-hour",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Emma Gannon"
+                }
+              }
+            ],
+            "image": null
+          }
         }
       ]
     }
