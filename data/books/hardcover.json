@@ -8926,6 +8926,45 @@
           }
         },
         {
+          "book_id": 2137003,
+          "rating": 4,
+          "date_added": "2026-03-17",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2026-03-17"
+            }
+          ],
+          "edition": {
+            "isbn_10": "1974757757",
+            "isbn_13": "9781974757756",
+            "pages": 200,
+            "release_date": "2026-02-03"
+          },
+          "book": {
+            "title": "Ichi the Witch, Vol. 1",
+            "subtitle": null,
+            "slug": "ichi-the-witch-vol-1",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Osamu Nishi"
+                }
+              },
+              {
+                "author": {
+                  "name": "Shiro Usazaki"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/edition/32341997/3bd77746775d11955459602d48ec828d1390d564.jpeg"
+            }
+          }
+        },
+        {
           "book_id": 2137020,
           "rating": 4,
           "date_added": "2026-02-10",
