@@ -443,7 +443,8 @@
     type: image
   - link: https://www.upcoming.studio/_next/image?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0571%2F7373%2F7537%2Ffiles%2F20251113-DSCF9633-2.jpg%3Fv%3D1763118715&w=1200&q=75
     type: image
-  tags: []
+  tags:
+  - surf
   highlights: []
   important: true
   removed: false
@@ -452,14 +453,14 @@
     "$ref": collections
     "$id": 37136905
     oid: 37136905
-  lastUpdate: '2026-03-18T12:47:58.061Z'
+  lastUpdate: '2026-03-18T14:24:42.016Z'
   domain: upcoming.studio
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391934
+  sort: 1648391953
   cache:
     status: ready
     created: '2026-03-18T11:30:21.532Z'
@@ -1179,29 +1180,30 @@
     type: image
   - link: https://kimonorie.com/cdn/shop/files/kimono-long-de-plage-cache-coeur-blanc-perle-unique-1174097736.jpg?v=1757002389&width=1024
     type: image
-  tags: []
+  tags:
+  - gear
   highlights: []
   important: true
   removed: false
   created: '2025-11-22T11:40:35.341Z'
   collection:
     "$ref": collections
-    "$id": 37136905
-    oid: 37136905
-  lastUpdate: '2026-03-18T12:47:58.061Z'
+    "$id": 37576965
+    oid: 37576965
+  lastUpdate: '2026-03-18T14:24:42.434Z'
   domain: kimonorie.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391933
+  sort: 1648391939
   cache:
     status: ready
     created: '2026-03-18T11:30:28.382Z'
     size: 1064533
   broken: false
-  collectionId: 37136905
+  collectionId: 37576965
   parsed: {}
 - _id: 1437774484
   link: https://www.setantabooks.com/products/tales-from-the-city?variant=55910108037502#
@@ -1700,29 +1702,30 @@
     "$id": 1617030
   cover: ''
   media: []
-  tags: []
+  tags:
+  - tech
   highlights: []
   important: true
   removed: false
   created: '2025-10-12T11:39:51.109Z'
   collection:
     "$ref": collections
-    "$id": 37679987
-    oid: 37679987
-  lastUpdate: '2026-03-18T12:47:58.921Z'
+    "$id": 38035089
+    oid: 38035089
+  lastUpdate: '2026-03-18T14:24:42.509Z'
   domain: leorattez.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391934
+  sort: 1648391951
   cache:
     status: ready
     created: '2026-03-18T11:30:30.358Z'
     size: 2153755
   broken: false
-  collectionId: 37679987
+  collectionId: 38035089
   parsed: {}
 - _id: 1369554469
   link: https://surfrepotes.fr/forum/articles-interviews-surf/interview-barbes-surf-club-t10212.html
@@ -2538,7 +2541,8 @@
   media:
   - link: https://i.ytimg.com/vi/YvMrHMLhJf0/maxresdefault.jpg
     type: image
-  tags: []
+  tags:
+  - gear
   important: true
   reminder:
     date:
@@ -2549,14 +2553,14 @@
     "$id": 37576965
     oid: 37576965
   highlights: []
-  lastUpdate: '2026-03-18T12:47:58.700Z'
+  lastUpdate: '2026-03-18T14:24:42.434Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391789
+  sort: 1648391937
   cache:
     status: invalid-origin
   broken: false
@@ -2614,7 +2618,8 @@
   media:
   - link: https://i.ytimg.com/vi/kEm7HfiIYak/maxresdefault.jpg
     type: image
-  tags: []
+  tags:
+  - culture
   important: true
   reminder:
     date:
@@ -2622,21 +2627,21 @@
   created: '2025-07-28T11:43:35.985Z'
   collection:
     "$ref": collections
-    "$id": 37576965
-    oid: 37576965
+    "$id": 37679987
+    oid: 37679987
   highlights: []
-  lastUpdate: '2026-03-18T12:47:58.700Z'
+  lastUpdate: '2026-03-18T14:24:42.665Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391788
+  sort: 1648391951
   cache:
     status: invalid-origin
   broken: false
-  collectionId: 37576965
+  collectionId: 37679987
   parsed: {}
 - _id: 1270850565
   link: https://open.substack.com/pub/oncein/p/the-london-recommendations-i-send?r=5cjn3&utm_medium=ios
@@ -2772,7 +2777,8 @@
   media:
   - link: http://www.saltwaterpath.co.uk/cdn/shop/files/SP_SOCIAL_MEDIA_AVATAR-TIDAL.jpg?v=1725543696
     type: image
-  tags: []
+  tags:
+  - surf
   highlights: []
   important: true
   removed: false
@@ -2781,14 +2787,14 @@
     "$ref": collections
     "$id": 37136905
     oid: 37136905
-  lastUpdate: '2026-03-18T12:47:58.061Z'
+  lastUpdate: '2026-03-18T14:24:42.016Z'
   domain: saltwaterpath.co.uk
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391932
+  sort: 1648391952
   cache:
     status: ready
     created: '2026-03-18T11:30:28.339Z'
@@ -3761,7 +3767,8 @@
     type: image
   - link: https://images.squarespace-cdn.com/content/v1/635fe07bbf69d1230df23751/693c6e30-d519-4b2a-87c6-6bb5259adbc8/Screenshot2024-04-05at16.36.54.png?format=750w
     type: image
-  tags: []
+  tags:
+  - culture
   highlights: []
   important: true
   removed: false
@@ -3770,14 +3777,14 @@
     "$ref": collections
     "$id": 37679987
     oid: 37679987
-  lastUpdate: '2026-03-18T12:47:58.921Z'
+  lastUpdate: '2026-03-18T14:24:42.665Z'
   domain: averyeswail.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391933
+  sort: 1648391970
   cache:
     status: ready
     created: '2026-03-18T11:30:20.404Z'
@@ -4040,7 +4047,8 @@
     "$id": 1617030
   cover: https://rdl.ink/render/https%3A%2F%2Fwww.amoderncraft.com%2Fabout
   media: []
-  tags: []
+  tags:
+  - culture
   highlights: []
   important: true
   removed: false
@@ -4049,14 +4057,14 @@
     "$ref": collections
     "$id": 37679987
     oid: 37679987
-  lastUpdate: '2026-03-18T12:47:58.921Z'
+  lastUpdate: '2026-03-18T14:24:42.665Z'
   domain: amoderncraft.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391932
+  sort: 1648391968
   cache:
     status: ready
     created: '2026-03-18T11:30:19.593Z'
@@ -5091,7 +5099,8 @@
     link: https://www.dropbox.com/temp_thumb_from_token/c/rvqy2ngp0asuinszi3jw1?preserve_transparency=False&rlkey=4gpujk6z02jehx7hw06i18e4t&secure_hash=&size=1200x600&size_mode=4
   - type: image
     link: https://www.dropbox.com/temp_thumb_from_token/c/rvqy2ngp0asuinszi3jw1?preserve_transparency=False&rlkey=4gpujk6z02jehx7hw06i18e4t&secure_hash=&size=1200x1200&size_mode=4
-  tags: []
+  tags:
+  - surf
   highlights: []
   important: true
   removed: false
@@ -5100,14 +5109,14 @@
     "$ref": collections
     "$id": 37136905
     oid: 37136905
-  lastUpdate: '2026-03-18T12:47:58.061Z'
+  lastUpdate: '2026-03-18T14:24:42.016Z'
   domain: dropbox.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391931
+  sort: 1648391951
   cache:
     status: ready
     created: '2026-03-18T11:30:24.284Z'
@@ -5665,29 +5674,30 @@
     type: image
   - link: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Flookingsideways.substack.com%2Fapi%2Fv1%2Fpost_preview%2F154489902%2Ftwitter.jpg%3Fversion%3D4
     type: image
-  tags: []
+  tags:
+  - surf
   highlights: []
   important: true
   removed: false
   created: '2025-01-14T08:53:14.009Z'
   collection:
     "$ref": collections
-    "$id": 37679987
-    oid: 37679987
-  lastUpdate: '2026-03-18T12:47:58.921Z'
+    "$id": 37136905
+    oid: 37136905
+  lastUpdate: '2026-03-18T14:24:42.016Z'
   domain: open.substack.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391931
+  sort: 1648391950
   cache:
     status: ready
     created: '2026-03-18T11:30:25.751Z'
     size: 4443141
   broken: false
-  collectionId: 37679987
+  collectionId: 37136905
   parsed: {}
 - _id: 944531858
   link: https://youtube.com/watch?v=nlQQxvfSotQ&si=0uNuUXrX2v3vQwU2
@@ -6371,7 +6381,8 @@
   media:
   - link: https://substackcdn.com/image/fetch/w_400,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Freader%2Fnotes-thumbnail.jpg
     type: image
-  tags: []
+  tags:
+  - culture
   important: true
   reminder:
     date:
@@ -6382,14 +6393,14 @@
     "$id": 37679987
     oid: 37679987
   highlights: []
-  lastUpdate: '2026-03-18T12:47:58.921Z'
+  lastUpdate: '2026-03-18T14:24:42.665Z'
   domain: substack.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391930
+  sort: 1648391967
   cache:
     status: ready
     created: '2026-03-18T11:30:25.263Z'
@@ -6718,29 +6729,30 @@
     type: image
   - link: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Flookingsideways.substack.com%2Fapi%2Fv1%2Fpost_preview%2F152248639%2Ftwitter.jpg%3Fversion%3D4
     type: image
-  tags: []
+  tags:
+  - surf
   highlights: []
   important: true
   removed: false
   created: '2024-12-13T14:24:09.822Z'
   collection:
     "$ref": collections
-    "$id": 37679987
-    oid: 37679987
-  lastUpdate: '2026-03-18T12:47:58.921Z'
+    "$id": 37136905
+    oid: 37136905
+  lastUpdate: '2026-03-18T14:24:42.016Z'
   domain: open.substack.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391929
+  sort: 1648391948
   cache:
     status: ready
     created: '2026-03-18T11:30:24.669Z'
     size: 3774648
   broken: false
-  collectionId: 37679987
+  collectionId: 37136905
   parsed: {}
 - _id: 920848986
   link: https://www.youtube.com/watch?v=liEHmEAwzs4
@@ -6763,7 +6775,8 @@
     type: image
   - link: https://i.ytimg.com/vi/liEHmEAwzs4/mqdefault.jpg
     type: image
-  tags: []
+  tags:
+  - surf
   important: true
   reminder:
     date:
@@ -6774,14 +6787,14 @@
     "$id": 37136905
     oid: 37136905
   highlights: []
-  lastUpdate: '2026-03-18T12:47:58.061Z'
+  lastUpdate: '2026-03-18T14:24:42.016Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391930
+  sort: 1648391949
   cache:
     status: invalid-origin
   broken: false
@@ -6811,7 +6824,8 @@
     type: image
   - link: https://i.ytimg.com/vi/w-Z86vZZO4g/mqdefault.jpg
     type: image
-  tags: []
+  tags:
+  - culture
   important: true
   reminder:
     date:
@@ -6822,14 +6836,14 @@
     "$id": 37679987
     oid: 37679987
   highlights: []
-  lastUpdate: '2026-03-18T12:47:58.921Z'
+  lastUpdate: '2026-03-18T14:24:42.665Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391928
+  sort: 1648391965
   cache:
     status: invalid-origin
   broken: false
@@ -7107,7 +7121,8 @@
     type: image
   - link: https://substackcdn.com/image/fetch/w_512,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F152248639%2Ffd99d0dc-dcce-4118-9214-af5f6061d844%2Ftranscoded-1732734439.png
     type: image
-  tags: []
+  tags:
+  - culture
   removed: false
   highlights:
   - text: I wanted to find a way to take away the permission I felt I needed from
@@ -7130,7 +7145,7 @@
     creatorRef: 1617030
     _id: 674dabc30970f3e6a4fa8f9a
   created: '2024-12-02T12:44:16.454Z'
-  lastUpdate: '2026-03-18T12:47:58.921Z'
+  lastUpdate: '2026-03-18T14:24:42.665Z'
   domain: substack.com
   collection:
     "$ref": collections
@@ -7141,7 +7156,7 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391926
+  sort: 1648391962
   important: true
   cache:
     status: ready
@@ -7262,7 +7277,8 @@
     type: image
   - link: https://i0.wp.com/barbessurfclub.com/wp-content/uploads/2024/11/Capture-decran-2024-11-20-a-14.43.27.png?fit=1200%2C779&quality=95&ssl=1&w=640
     type: image
-  tags: []
+  tags:
+  - surf
   important: true
   reminder:
     date:
@@ -7273,14 +7289,14 @@
     "$id": 37136905
     oid: 37136905
   highlights: []
-  lastUpdate: '2026-03-18T12:47:58.061Z'
+  lastUpdate: '2026-03-18T14:24:42.016Z'
   domain: barbessurfclub.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391929
+  sort: 1648391947
   cache:
     status: ready
     created: '2026-03-18T11:30:24.342Z'
@@ -7602,7 +7618,8 @@
   media:
   - type: image
     link: https://flexbuddy.com/cdn/shop/files/flexbuddy_product5_1200x1200.jpg?v=1677156025
-  tags: []
+  tags:
+  - wellbeing
   highlights: []
   important: true
   removed: false
@@ -7611,14 +7628,14 @@
     "$ref": collections
     "$id": 37603939
     oid: 37603939
-  lastUpdate: '2026-03-18T12:47:58.557Z'
+  lastUpdate: '2026-03-18T14:24:42.267Z'
   domain: facebook.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391954
+  sort: 1648391965
   cache:
     status: invalid-origin
   broken: false
@@ -7650,6 +7667,7 @@
     type: image
   tags:
   - tom
+  - travel
   highlights: []
   important: true
   removed: false
@@ -7658,14 +7676,14 @@
     "$ref": collections
     "$id": 37679925
     oid: 37679925
-  lastUpdate: '2026-03-18T12:47:58.634Z'
+  lastUpdate: '2026-03-18T14:24:42.361Z'
   domain: tokyotreat.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391788
+  sort: 1648391929
   cache:
     retries: 1
     retryAfter: '2026-03-19T17:31:05.579Z'
@@ -8019,7 +8037,8 @@
   media:
   - link: https://i.ytimg.com/vi/_HtXHReDaTI/maxresdefault.jpg
     type: image
-  tags: []
+  tags:
+  - culture
   important: true
   reminder:
     date:
@@ -8030,14 +8049,14 @@
     "$id": 37679987
     oid: 37679987
   highlights: []
-  lastUpdate: '2026-03-18T12:47:58.921Z'
+  lastUpdate: '2026-03-18T14:24:42.665Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391925
+  sort: 1648391961
   cache:
     status: invalid-origin
   broken: false
@@ -9365,7 +9384,8 @@
   media:
   - link: https://www.simplemagic.ca/content/images/2024/08/Here_we_are_where_we_have_always_been.jpg
     type: image
-  tags: []
+  tags:
+  - culture
   highlights: []
   important: true
   removed: false
@@ -9374,14 +9394,14 @@
     "$ref": collections
     "$id": 37679987
     oid: 37679987
-  lastUpdate: '2026-03-18T12:47:58.921Z'
+  lastUpdate: '2026-03-18T14:24:42.665Z'
   domain: simplemagic.ca
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391924
+  sort: 1648391960
   cache:
     status: ready
     created: '2026-03-18T11:30:23.851Z'
@@ -9552,7 +9572,8 @@
     type: image
   - link: https://i.ytimg.com/vi/f1kysesvzTI/mqdefault.jpg
     type: image
-  tags: []
+  tags:
+  - surf
   important: true
   reminder:
     date:
@@ -9563,14 +9584,14 @@
     "$id": 37136905
     oid: 37136905
   highlights: []
-  lastUpdate: '2026-03-18T12:47:58.061Z'
+  lastUpdate: '2026-03-18T14:24:42.016Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391928
+  sort: 1648391946
   cache:
     status: invalid-origin
   broken: false
@@ -9978,7 +9999,8 @@
   media:
   - link: https://app.raindrop.io/assets/og.8f80436569bfdbdc1a79f7ee9f1c43af.png
     type: image
-  tags: []
+  tags:
+  - tech
   important: true
   reminder:
     date:
@@ -9989,14 +10011,14 @@
     "$id": 38035089
     oid: 38035089
   highlights: []
-  lastUpdate: '2026-03-18T12:47:58.771Z'
+  lastUpdate: '2026-03-18T14:24:42.509Z'
   domain: app.raindrop.io
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391938
+  sort: 1648391955
   cache:
     status: invalid-origin
   broken: false
@@ -10013,7 +10035,8 @@
     "$id": 1617030
   cover: https://rdl.ink/render/https%3A%2F%2Fx.com%2Fzatax%2Fstatus%2F1810758687029350826
   media: []
-  tags: []
+  tags:
+  - book
   important: true
   reminder:
     date:
@@ -10024,7 +10047,7 @@
     "$id": 36103677
     oid: 36103677
   highlights: []
-  lastUpdate: '2026-03-18T12:47:58.201Z'
+  lastUpdate: '2026-03-18T14:24:42.170Z'
   domain: x.com
   creatorRef:
     _id: 1617030
@@ -10141,7 +10164,8 @@
     link: https://wearecircles.com/cdn/shop/files/Product_DIGEST_3_1200x1200.jpg?v=1710098381
   - type: image
     link: http://cdn.shopify.com/s/files/1/0559/5922/4490/files/Product_DIGEST.jpg?v=1710098381
-  tags: []
+  tags:
+  - wellbeing
   highlights: []
   important: true
   removed: false
@@ -10150,14 +10174,14 @@
     "$ref": collections
     "$id": 37603939
     oid: 37603939
-  lastUpdate: '2026-03-18T12:47:58.557Z'
+  lastUpdate: '2026-03-18T14:24:42.267Z'
   domain: wearecircles.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391953
+  sort: 1648391964
   cache:
     status: ready
     created: '2026-03-18T11:30:36.220Z'
@@ -10177,7 +10201,8 @@
     "$id": 1617030
   cover: https://rdl.ink/render/https%3A%2F%2Fwww.everydays.de%2Ffr-fr
   media: []
-  tags: []
+  tags:
+  - wellbeing
   highlights: []
   important: true
   removed: false
@@ -10186,14 +10211,14 @@
     "$ref": collections
     "$id": 37603939
     oid: 37603939
-  lastUpdate: '2026-03-18T12:47:58.557Z'
+  lastUpdate: '2026-03-18T14:24:42.267Z'
   domain: everydays.de
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391952
+  sort: 1648391963
   cache:
     status: ready
     created: '2026-03-18T11:31:02.310Z'
@@ -10215,7 +10240,8 @@
   media:
   - type: image
     link: https://www.ginetteetjosiane.com/wp-content/uploads/2024/04/GinetteJosiane-2023-%C2%A9albindurand@_albin_-ID-0041-14335_-1024x683.jpg
-  tags: []
+  tags:
+  - wellbeing
   highlights: []
   important: true
   removed: false
@@ -10224,14 +10250,14 @@
     "$ref": collections
     "$id": 37603939
     oid: 37603939
-  lastUpdate: '2026-03-18T12:47:58.557Z'
+  lastUpdate: '2026-03-18T14:24:42.267Z'
   domain: ginetteetjosiane.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391951
+  sort: 1648391962
   cache:
     status: ready
     created: '2026-03-18T11:30:35.732Z'
@@ -10314,7 +10340,8 @@
   media:
   - type: image
     link: https://static.wixstatic.com/media/8830e3_15f53f82150e4cc6af16e5de400f44a5~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg
-  tags: []
+  tags:
+  - gear
   highlights: []
   important: true
   removed: false
@@ -10323,14 +10350,14 @@
     "$ref": collections
     "$id": 37576965
     oid: 37576965
-  lastUpdate: '2026-03-18T12:47:58.700Z'
+  lastUpdate: '2026-03-18T14:24:42.434Z'
   domain: socool-pyla.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391787
+  sort: 1648391936
   cache:
     status: ready
     created: '2026-03-18T11:30:24.285Z'
@@ -10586,7 +10613,8 @@
     type: image
   - link: https://www.hejhej-mats.com/cdn/shop/files/hejhej-family_1200x1200_crop_center.jpg?v=1696866268
     type: image
-  tags: []
+  tags:
+  - wellbeing
   highlights: []
   important: true
   removed: false
@@ -10595,14 +10623,14 @@
     "$ref": collections
     "$id": 37603939
     oid: 37603939
-  lastUpdate: '2026-03-18T12:47:58.557Z'
+  lastUpdate: '2026-03-18T14:24:42.267Z'
   domain: hejhej-mats.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391950
+  sort: 1648391961
   cache:
     status: ready
     created: '2026-03-18T11:30:31.527Z'
@@ -10714,7 +10742,8 @@
     type: image
   - link: https://i.ytimg.com/vi/ZqRFMSjsBeE/hqdefault.jpg
     type: image
-  tags: []
+  tags:
+  - photography
   important: true
   reminder:
     date:
@@ -10722,21 +10751,21 @@
   created: '2024-06-12T20:06:00.187Z'
   collection:
     "$ref": collections
-    "$id": -1
-    oid: -1
+    "$id": 37459371
+    oid: 37459371
   highlights: []
-  lastUpdate: '2024-06-12T20:06:02.051Z'
+  lastUpdate: '2026-03-18T14:24:42.098Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 800265523
+  sort: 1648391915
   cache:
     status: invalid-origin
   broken: false
-  collectionId: -1
+  collectionId: 37459371
   parsed: {}
 - _id: 797669808
   link: https://www.youtube.com/watch?v=HMGO5OXoLiA
@@ -10886,7 +10915,9 @@
     type: image
   - link: https://i.ytimg.com/vi/2j5RFFFINPA/hqdefault.jpg
     type: image
-  tags: []
+  tags:
+  - food
+  - coffee
   important: true
   reminder:
     date:
@@ -10897,14 +10928,14 @@
     "$id": 37576903
     oid: 37576903
   highlights: []
-  lastUpdate: '2026-03-18T12:47:58.855Z'
+  lastUpdate: '2026-03-18T14:24:42.592Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391909
+  sort: 1648391953
   cache:
     status: invalid-origin
   broken: false
@@ -10925,7 +10956,8 @@
     type: image
   - link: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Falexstrohl.substack.com%2Fapi%2Fv1%2Fpost_preview%2F144779648%2Ftwitter.jpg%3Fversion%3D4
     type: image
-  tags: []
+  tags:
+  - travel
   important: true
   reminder:
     date:
@@ -10933,23 +10965,23 @@
   created: '2024-06-05T19:37:18.215Z'
   collection:
     "$ref": collections
-    "$id": 37136905
-    oid: 37136905
+    "$id": 37679925
+    oid: 37679925
   highlights: []
-  lastUpdate: '2026-03-18T12:47:58.061Z'
+  lastUpdate: '2026-03-18T14:24:42.361Z'
   domain: alexstrohl.substack.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391927
+  sort: 1648391930
   cache:
     status: ready
     created: '2026-03-18T11:30:27.479Z'
     size: 5732914
   broken: false
-  collectionId: 37136905
+  collectionId: 37679925
   parsed: {}
 - _id: 796456747
   link: https://youtu.be/-XDthMjB1iI
@@ -11099,29 +11131,30 @@
     type: image
   - link: https://freight.cargo.site/w/300/q/94/i/9b949841d4f2fa726b3eebd7bc850823c48bb859ca01f2afff5d577aff461da8/DEMIRONDE.jpg
     type: image
-  tags: []
+  tags:
+  - culture
   highlights: []
   important: true
   removed: false
   created: '2024-06-04T07:40:27.695Z'
   collection:
     "$ref": collections
-    "$id": 37576965
-    oid: 37576965
-  lastUpdate: '2026-03-18T12:47:58.700Z'
+    "$id": 37679987
+    oid: 37679987
+  lastUpdate: '2026-03-18T14:24:42.665Z'
   domain: edgarflauw.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391786
+  sort: 1648391949
   cache:
     retries: 1
     retryAfter: '2026-03-20T07:30:52.158Z'
     status: retry
   broken: false
-  collectionId: 37576965
+  collectionId: 37679987
   parsed: {}
 - _id: 794031241
   link: https://open.spotify.com/episode/6F1eUnonaI2GVPJ3s2lMVz?si=KHIofiKZTX2tP6Wkxn1vuQ&nd=1&dlsi=26291b7aa35348b2
@@ -11186,7 +11219,8 @@
     "$id": 1617030
   cover: https://rdl.ink/render/https%3A%2F%2Fwww.instagram.com%2Fdirect%2Ft%2F17844810932757750%2F
   media: []
-  tags: []
+  tags:
+  - culture
   important: true
   reminder:
     date:
@@ -11197,14 +11231,14 @@
     "$id": 37679987
     oid: 37679987
   highlights: []
-  lastUpdate: '2026-03-18T12:47:58.921Z'
+  lastUpdate: '2026-03-18T14:24:42.665Z'
   domain: instagram.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391935
+  sort: 1648391971
   broken: false
   cache:
     status: invalid-origin
@@ -11341,29 +11375,31 @@
     link: https://spacegoods.com/cdn/shop/files/rainbow-dust-premium-starter-kit-chocolate-Spacegoods-59367069_1200x1200.jpg?v=1698916599
   - type: image
     link: http://cdn.shopify.com/s/files/1/0588/9307/4615/files/rainbow-dust-premium-starter-kit-chocolate-Spacegoods-59367069.jpg?v=1698916599
-  tags: []
+  tags:
+  - food
+  - coffee
   highlights: []
   important: true
   removed: false
   created: '2024-05-28T20:31:45.386Z'
   collection:
     "$ref": collections
-    "$id": 37603939
-    oid: 37603939
-  lastUpdate: '2026-03-18T12:47:58.557Z'
+    "$id": 37576903
+    oid: 37576903
+  lastUpdate: '2026-03-18T14:24:42.592Z'
   domain: spacegoods.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391949
+  sort: 1648391956
   cache:
     retries: 1
     retryAfter: '2026-03-20T06:31:05.651Z'
     status: retry
   broken: false
-  collectionId: 37603939
+  collectionId: 37576903
   parsed: {}
 - _id: 792468052
   link: https://www.everydays.de/fr-fr/products/digest
@@ -11389,7 +11425,8 @@
     type: image
   - link: https://www.everydays.de/cdn/shop/files/FR_digest_06.jpg?v=1703091147&width=1080
     type: image
-  tags: []
+  tags:
+  - wellbeing
   highlights: []
   important: true
   removed: false
@@ -11398,14 +11435,14 @@
     "$ref": collections
     "$id": 37603939
     oid: 37603939
-  lastUpdate: '2026-03-18T12:47:58.557Z'
+  lastUpdate: '2026-03-18T14:24:42.267Z'
   domain: everydays.de
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391948
+  sort: 1648391960
   cache:
     retries: 1
     retryAfter: '2026-03-19T17:31:05.665Z'
@@ -11425,7 +11462,8 @@
     "$id": 1617030
   cover: https://rdl.ink/render/https%3A%2F%2Ftimharek.no%2F
   media: []
-  tags: []
+  tags:
+  - tech
   important: true
   reminder:
     date:
@@ -11436,14 +11474,14 @@
     "$id": 38035089
     oid: 38035089
   highlights: []
-  lastUpdate: '2026-03-18T12:47:58.771Z'
+  lastUpdate: '2026-03-18T14:24:42.509Z'
   domain: timharek.no
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391937
+  sort: 1648391954
   cache:
     status: ready
     created: '2026-03-18T11:30:18.653Z'
@@ -11591,7 +11629,8 @@
   media:
   - link: https://cdn.sanity.io/images/dfdrtmi3/production/7e3f4b5dcfa15652f3d4f7433a6b1a80da8af395-1200x630.jpg?rect=0,2,1200,627&w=1200&h=627&fit=crop&auto=format
     type: image
-  tags: []
+  tags:
+  - tech
   important: true
   reminder:
     date:
@@ -11602,14 +11641,14 @@
     "$id": 38035089
     oid: 38035089
   highlights: []
-  lastUpdate: '2026-03-18T12:47:58.771Z'
+  lastUpdate: '2026-03-18T14:24:42.509Z'
   domain: daylightcomputer.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391936
+  sort: 1648391953
   cache:
     status: ready
     created: '2026-03-18T11:30:22.312Z'
@@ -11677,7 +11716,8 @@
     type: image
   - link: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Flawsonchapman.substack.com%2Fapi%2Fv1%2Fpost_preview%2F144409267%2Ftwitter.jpg%3Fversion%3D4
     type: image
-  tags: []
+  tags:
+  - wellbeing
   important: true
   reminder:
     date:
@@ -11688,14 +11728,14 @@
     "$id": 37603939
     oid: 37603939
   highlights: []
-  lastUpdate: '2026-03-18T12:47:58.557Z'
+  lastUpdate: '2026-03-18T14:24:42.267Z'
   domain: lawsonchapman.substack.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391947
+  sort: 1648391959
   cache:
     status: ready
     created: '2026-03-18T11:30:25.272Z'
@@ -11799,7 +11839,8 @@
     type: image
   - link: https://i.etsystatic.com/ivp/2bf70f/4599351951/ivp_fullxfull.4599351951_75nzij8a.jpg?version=0
     type: image
-  tags: []
+  tags:
+  - surf
   important: true
   reminder:
     date:
@@ -11810,14 +11851,14 @@
     "$id": 37136905
     oid: 37136905
   highlights: []
-  lastUpdate: '2026-03-18T12:47:58.061Z'
+  lastUpdate: '2026-03-18T14:24:42.016Z'
   domain: etsy.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391926
+  sort: 1648391945
   cache:
     retries: 1
     retryAfter: '2026-03-20T09:30:24.590Z'
@@ -11841,7 +11882,9 @@
   media:
   - link: https://bonjourdrink.co/cdn/shop/files/7-web_1_5d006426-4b13-4824-b880-acf825a115d9.jpg?v=1708002972
     type: image
-  tags: []
+  tags:
+  - food
+  - coffee
   important: true
   reminder:
     date:
@@ -11852,14 +11895,14 @@
     "$id": 37576903
     oid: 37576903
   highlights: []
-  lastUpdate: '2026-03-18T12:47:58.855Z'
+  lastUpdate: '2026-03-18T14:24:42.592Z'
   domain: bonjourdrink.co
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391908
+  sort: 1648391952
   cache:
     status: ready
     created: '2026-03-18T11:30:42.608Z'
@@ -11934,7 +11977,8 @@
     type: image
   - link: https://ia.net/wp-content/uploads/2024/04/Reichenstein-Interview-Tages-Anzeiger-KI.png
     type: image
-  tags: []
+  tags:
+  - culture
   important: true
   reminder:
     date:
@@ -11942,8 +11986,8 @@
   created: '2024-05-16T08:55:15.102Z'
   collection:
     "$ref": collections
-    "$id": 37603939
-    oid: 37603939
+    "$id": 37679987
+    oid: 37679987
   highlights:
   - text: Being real also means risking to feel really sad. And that is one reason
       why, so often, we prefer iPads over guitars.
@@ -11967,20 +12011,20 @@
     lastUpdate: '2024-05-16T08:56:09.190Z'
     creatorRef: 1617030
     _id: 6645ca29969d6aa1aa3b28e1
-  lastUpdate: '2026-03-18T12:47:58.557Z'
+  lastUpdate: '2026-03-18T14:24:42.665Z'
   domain: ia.net
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391946
+  sort: 1648391974
   cache:
     status: ready
     created: '2026-03-18T11:30:24.073Z'
     size: 6352158
   broken: false
-  collectionId: 37603939
+  collectionId: 37679987
   parsed: {}
 - _id: 785216526
   link: https://www.youtube.com/watch?v=yAbbcRtZdlY
@@ -12038,7 +12082,8 @@
   media:
   - link: https://i.ytimg.com/vi/yAbbcRtZdlY/maxresdefault.jpg
     type: image
-  tags: []
+  tags:
+  - photography
   important: true
   reminder:
     date:
@@ -12046,21 +12091,21 @@
   created: '2024-05-14T07:02:47.420Z'
   collection:
     "$ref": collections
-    "$id": -1
-    oid: -1
+    "$id": 37459371
+    oid: 37459371
   highlights: []
-  lastUpdate: '2024-05-17T07:55:06.505Z'
+  lastUpdate: '2026-03-18T14:24:42.098Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 785216526
+  sort: 1648391914
   cache:
     status: invalid-origin
   broken: false
-  collectionId: -1
+  collectionId: 37459371
   parsed: {}
 - _id: 782492652
   link: https://vetsak.com/pages/vetsak-aspesi
@@ -12078,29 +12123,30 @@
   media:
   - type: image
     link: https://cdn.shopify.com/s/files/1/0411/9917/3789/files/vetsak_Logo_black-svg.png?height=628&pad_color=fafaf1&v=1703863509&width=1200
-  tags: []
+  tags:
+  - home
   highlights: []
   important: true
   removed: false
   created: '2024-05-07T19:12:53.931Z'
   collection:
     "$ref": collections
-    "$id": 37576965
-    oid: 37576965
-  lastUpdate: '2026-03-18T12:47:58.700Z'
+    "$id": 37136914
+    oid: 37136914
+  lastUpdate: '2026-03-18T14:24:42.759Z'
   domain: vetsak.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391785
+  sort: 1648391891
   cache:
     status: ready
     created: '2026-03-18T11:30:28.503Z'
     size: 656458
   broken: false
-  collectionId: 37576965
+  collectionId: 37136914
   parsed: {}
 - _id: 782365917
   link: https://www.youtube.com/watch?v=yrv9dmWpNKA&list=WL&index=2
@@ -12233,7 +12279,8 @@
   media:
   - link: https://i.ytimg.com/vi/g62tweFqDh0/maxresdefault.jpg
     type: image
-  tags: []
+  tags:
+  - home
   important: true
   reminder:
     date:
@@ -12244,14 +12291,14 @@
     "$id": 37136914
     oid: 37136914
   highlights: []
-  lastUpdate: '2026-03-18T12:47:58.999Z'
+  lastUpdate: '2026-03-18T14:24:42.759Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391889
+  sort: 1648391893
   cache:
     status: invalid-origin
   broken: false
@@ -12332,7 +12379,8 @@
     type: image
   - link: https://external.xx.fbcdn.net/emg1/v/t13/6333344004132114002?stp=dst-src&url=https%3A%2F%2Fmedia1.giphy.com%2Fmedia%2Fv1.Y2lkPTA1NzQyMTNjZ3NxeWF0dTVpbWFwczBtZGNhZDFraDloeHU0bGZpc2d2dDY1anZvYyZlcD12MV9naWZzX2dpZklkJmN0PWc%2Fl0MYGb1LuZ3n7dRnO%2F200.webp&utld=giphy.com&ccb=13-1&oh=06_Q3992Zqt1nxf6UJeOIpJNQa9h0WKpSlP77T6J_dCCMvd31Y&oe=66308E8B&_nc_sid=1d65fc
     type: image
-  tags: []
+  tags:
+  - culture
   important: true
   reminder:
     date:
@@ -12343,14 +12391,14 @@
     "$id": 37679987
     oid: 37679987
   highlights: []
-  lastUpdate: '2026-03-18T12:47:58.921Z'
+  lastUpdate: '2026-03-18T14:24:42.665Z'
   domain: threads.net
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391923
+  sort: 1648391959
   cache:
     status: ready
     created: '2026-03-18T11:30:23.642Z'
@@ -12479,7 +12527,9 @@
     type: image
   - link: https://i0.wp.com/barbessurfclub.com/wp-content/uploads/2024/04/WhatsApp-Image-2024-04-20-at-17.25.30.jpeg?w=1800&quality=95&ssl=1
     type: image
-  tags: []
+  tags:
+  - food
+  - coffee
   important: true
   reminder:
     date:
@@ -12487,23 +12537,23 @@
   created: '2024-04-23T20:09:29.584Z'
   collection:
     "$ref": collections
-    "$id": 37136905
-    oid: 37136905
+    "$id": 37576903
+    oid: 37576903
   highlights: []
-  lastUpdate: '2026-03-18T12:47:58.061Z'
+  lastUpdate: '2026-03-18T14:24:42.592Z'
   domain: barbessurfclub.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391925
+  sort: 1648391955
   cache:
     status: ready
     created: '2026-03-18T11:30:20.735Z'
     size: 513131
   broken: false
-  collectionId: 37136905
+  collectionId: 37576903
   parsed: {}
 - _id: 774097200
   link: https://www.youtube.com/watch?v=1pqALAxqUlk
@@ -12536,7 +12586,8 @@
     type: image
   - link: https://lh5.googleusercontent.com/proxy/h882hBcN8RNPst-kirGgjwrl_Hhc4b3IJ28yc9rwufQEjU8m6-J49vT950MhQYtC55VUXGIKlPmJGCUEnV82iO41ciLKCQFV3_AHYHlzeTl7VW75gGhntpT6qk95pzeMtA
     type: image
-  tags: []
+  tags:
+  - home
   important: true
   reminder:
     date:
@@ -12547,14 +12598,14 @@
     "$id": 37136914
     oid: 37136914
   highlights: []
-  lastUpdate: '2026-03-18T12:47:58.999Z'
+  lastUpdate: '2026-03-18T14:24:42.759Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391888
+  sort: 1648391892
   cache:
     status: invalid-origin
   broken: false
@@ -12574,7 +12625,8 @@
   media:
   - link: https://webkit.org/wp-content/uploads/image1-masonry-light.png
     type: image
-  tags: []
+  tags:
+  - tech
   highlights: []
   important: true
   removed: false
@@ -12583,14 +12635,14 @@
     "$ref": collections
     "$id": 38035089
     oid: 38035089
-  lastUpdate: '2026-03-18T12:47:58.771Z'
+  lastUpdate: '2026-03-18T14:24:42.509Z'
   domain: webkit.org
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391935
+  sort: 1648391952
   cache:
     status: ready
     created: '2026-03-18T11:30:25.570Z'
@@ -12764,29 +12816,30 @@
   media:
   - link: https://bureau.navailles.fr/wp-content/uploads/2023/03/1980.png
     type: image
-  tags: []
+  tags:
+  - home
   highlights: []
   important: true
   removed: false
   created: '2024-04-16T18:14:10.388Z'
   collection:
     "$ref": collections
-    "$id": 37576965
-    oid: 37576965
-  lastUpdate: '2026-03-18T12:47:58.700Z'
+    "$id": 37136914
+    oid: 37136914
+  lastUpdate: '2026-03-18T14:24:42.759Z'
   domain: bureau.navailles.fr
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391784
+  sort: 1648391890
   cache:
     status: ready
     created: '2026-03-18T11:30:39.125Z'
     size: 4558386
   broken: false
-  collectionId: 37576965
+  collectionId: 37136914
   parsed: {}
 - _id: 770675699
   link: https://www.youtube.com/watch?v=5CXnNpPMKms
@@ -12802,7 +12855,9 @@
   media:
   - link: https://i.ytimg.com/vi/5CXnNpPMKms/hqdefault.jpg
     type: image
-  tags: []
+  tags:
+  - food
+  - coffee
   important: true
   reminder:
     date:
@@ -12813,14 +12868,14 @@
     "$id": 37576903
     oid: 37576903
   highlights: []
-  lastUpdate: '2026-03-18T12:47:58.855Z'
+  lastUpdate: '2026-03-18T14:24:42.592Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391907
+  sort: 1648391951
   cache:
     status: invalid-origin
   broken: false
@@ -13210,7 +13265,8 @@
     "$ref": users
     "$id": 1617030
   cover: https://rdl.ink/render/https%3A%2F%2Fgarden.mattstein.com%2Fnotes%2Fi-can-t-afford-free-things
-  tags: []
+  tags:
+  - culture
   removed: false
   media: []
   highlights:
@@ -13228,7 +13284,7 @@
     creatorRef: 1617030
     _id: 66130395c0fe4f7b16416af4
   created: '2024-04-07T20:34:44.792Z'
-  lastUpdate: '2026-03-18T12:47:58.921Z'
+  lastUpdate: '2026-03-18T14:24:42.665Z'
   domain: garden.mattstein.com
   collection:
     "$ref": collections
@@ -13239,7 +13295,7 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391922
+  sort: 1648391958
   important: true
   cache:
     status: ready
@@ -13378,7 +13434,8 @@
     type: image
   - link: https://lh6.googleusercontent.com/proxy/PUnOIb6xxZQn-FRIwxTBBcTTOkE_00zo-Ypz6660l7mT-PjRqsY-02kRBUBiuH6jaPHiIXtoYyDTja89LmJuMdYvr-AJeIjzgiMKgLdFRc9BVOJD574n4Wcoy2LRYsNV_Q
     type: image
-  tags: []
+  tags:
+  - wellbeing
   important: true
   reminder:
     date:
@@ -13389,14 +13446,14 @@
     "$id": 37603939
     oid: 37603939
   highlights: []
-  lastUpdate: '2026-03-18T12:47:58.557Z'
+  lastUpdate: '2026-03-18T14:24:42.267Z'
   domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391945
+  sort: 1648391958
   cache:
     status: invalid-origin
   broken: false
@@ -13977,7 +14034,8 @@
   media:
   - link: https://morewavesnow.com/hosted/images/09/912c10bc1a11e7b5fc21ef1d97d874/water-mark-finished.png
     type: image
-  tags: []
+  tags:
+  - surf
   highlights: []
   important: true
   removed: false
@@ -13986,14 +14044,14 @@
     "$ref": collections
     "$id": 37136905
     oid: 37136905
-  lastUpdate: '2026-03-18T12:47:58.061Z'
+  lastUpdate: '2026-03-18T14:24:42.016Z'
   domain: morewavesnow.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391924
+  sort: 1648391944
   cache:
     status: ready
     created: '2026-03-18T11:30:25.649Z'
@@ -14054,7 +14112,8 @@
   media:
   - type: image
     link: https://www.yogabody.com/wp-content/uploads/2021/10/Science-of-Stretching.jpg
-  tags: []
+  tags:
+  - wellbeing
   highlights: []
   important: true
   removed: false
@@ -14063,14 +14122,14 @@
     "$ref": collections
     "$id": 37603939
     oid: 37603939
-  lastUpdate: '2026-03-18T12:47:58.557Z'
+  lastUpdate: '2026-03-18T14:24:42.267Z'
   domain: yogabody.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391944
+  sort: 1648391957
   cache:
     status: ready
     created: '2026-03-18T11:30:43.735Z'
@@ -14097,6 +14156,7 @@
     type: image
   tags:
   - stuff
+  - culture
   important: true
   reminder:
     date:
@@ -14104,23 +14164,23 @@
   created: '2024-03-22T14:40:04.372Z'
   collection:
     "$ref": collections
-    "$id": 38035089
-    oid: 38035089
+    "$id": 37679987
+    oid: 37679987
   highlights: []
-  lastUpdate: '2026-03-18T12:47:58.771Z'
+  lastUpdate: '2026-03-18T14:24:42.665Z'
   domain: github.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391942
+  sort: 1648391972
   cache:
     status: ready
     created: '2026-03-18T11:30:26.535Z'
     size: 5361740
   broken: false
-  collectionId: 38035089
+  collectionId: 37679987
   parsed: {}
 - _id: 758055766
   link: https://www.youtube.com/watch?v=KCw-_ugEbZ4
@@ -14337,29 +14397,30 @@
     "$id": 1617030
   cover: https://rdl.ink/render/https%3A%2F%2Fwww.leak-hifi.co.uk%2Fstereo230%2F
   media: []
-  tags: []
+  tags:
+  - culture
   highlights: []
   important: true
   removed: false
   created: '2024-03-16T10:26:43.534Z'
-  lastUpdate: '2026-03-18T12:47:58.700Z'
+  lastUpdate: '2026-03-18T14:24:42.665Z'
   collection:
     "$ref": collections
-    "$id": 37576965
-    oid: 37576965
+    "$id": 37679987
+    oid: 37679987
   domain: leak-hifi.co.uk
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391783
+  sort: 1648391948
   cache:
     status: ready
     created: '2026-03-18T11:30:27.445Z'
     size: 643592
   broken: false
-  collectionId: 37576965
+  collectionId: 37679987
   parsed: {}
 - _id: 754549290
   link: https://www.youtube.com/watch?v=S1O96HeFcw4
@@ -14473,12 +14534,13 @@
   media:
   - link: https://www.navidrome.org/featured-background.jpg
     type: image
-  tags: []
+  tags:
+  - tech
   highlights: []
   important: true
   removed: false
   created: '2024-03-14T11:21:50.735Z'
-  lastUpdate: '2026-03-18T12:47:58.771Z'
+  lastUpdate: '2026-03-18T14:24:42.509Z'
   collection:
     "$ref": collections
     "$id": 38035089
@@ -14489,7 +14551,7 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391934
+  sort: 1648391950
   cache:
     status: ready
     created: '2026-03-18T11:30:19.634Z'
@@ -14512,29 +14574,30 @@
   media:
   - link: https://mikebell.io/47
     type: image
-  tags: []
+  tags:
+  - culture
   highlights: []
   important: true
   removed: false
   created: '2024-03-14T11:21:16.126Z'
-  lastUpdate: '2026-03-18T12:47:58.771Z'
+  lastUpdate: '2026-03-18T14:24:42.665Z'
   collection:
     "$ref": collections
-    "$id": 38035089
-    oid: 38035089
+    "$id": 37679987
+    oid: 37679987
   domain: mikebell.io
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391933
+  sort: 1648391969
   cache:
     status: ready
     created: '2026-03-18T11:30:19.043Z'
     size: 230823
   broken: false
-  collectionId: 38035089
+  collectionId: 37679987
   parsed: {}
 - _id: 754016897
   link: https://beets.readthedocs.io/en/stable/index.html
@@ -14547,12 +14610,13 @@
     "$id": 1617030
   cover: https://rdl.ink/render/https%3A%2F%2Fbeets.readthedocs.io%2Fen%2Fstable%2Findex.html
   media: []
-  tags: []
+  tags:
+  - tech
   highlights: []
   important: true
   removed: false
   created: '2024-03-14T11:21:09.281Z'
-  lastUpdate: '2026-03-18T12:47:58.771Z'
+  lastUpdate: '2026-03-18T14:24:42.509Z'
   collection:
     "$ref": collections
     "$id": 38035089
@@ -14563,7 +14627,7 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391932
+  sort: 1648391949
   cache:
     status: ready
     created: '2026-03-18T11:30:20.199Z'
@@ -14754,13 +14818,14 @@
   media:
   - link: https://james.tf/media/2022/05/james_taylor-foster_2022-scaled.jpg
     type: image
-  tags: []
+  tags:
+  - tech
   important: true
   reminder:
     date:
   removed: false
   created: '2024-03-10T21:33:40.308Z'
-  lastUpdate: '2026-03-18T12:47:58.771Z'
+  lastUpdate: '2026-03-18T14:24:42.509Z'
   collection:
     "$ref": collections
     "$id": 38035089
@@ -14772,7 +14837,7 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391931
+  sort: 1648391948
   cache:
     status: ready
     created: '2026-03-18T11:30:17.804Z'
@@ -14793,13 +14858,15 @@
   media:
   - link: https://c-p.rmcdn.net/5786e7e271ace38e2c22bcbb/3636254/Screenshot-2a348530-ac4e-4310-88cd-116c3f103b5e_readyscr_1024.jpg
     type: image
-  tags: []
+  tags:
+  - food
+  - coffee
   important: true
   reminder:
     date:
   removed: false
   created: '2024-03-10T21:31:59.026Z'
-  lastUpdate: '2026-03-18T12:47:58.855Z'
+  lastUpdate: '2026-03-18T14:24:42.592Z'
   collection:
     "$ref": collections
     "$id": 37576903
@@ -14811,7 +14878,7 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391906
+  sort: 1648391950
   cache:
     status: ready
     created: '2026-03-18T11:30:28.146Z'
@@ -15009,12 +15076,13 @@
   media:
   - link: https://help.micro.blog/uploads/db8362/original/1X/62a5bd6cbdd7ecc6ebb7ce2518b0c6293d8e1ba5.png
     type: image
-  tags: []
+  tags:
+  - tech
   highlights: []
   important: true
   removed: false
   created: '2024-03-09T06:36:36.241Z'
-  lastUpdate: '2026-03-18T12:47:58.771Z'
+  lastUpdate: '2026-03-18T14:24:42.509Z'
   collection:
     "$ref": collections
     "$id": 38035089
@@ -15025,7 +15093,7 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391930
+  sort: 1648391947
   cache:
     status: ready
     created: '2026-03-18T11:30:22.263Z'
@@ -15047,12 +15115,13 @@
   media:
   - link: https://scontent-lhr6-2.cdninstagram.com/v/t51.2885-19/359678247_1049811199338763_1262192373323617045_n.jpg?stp=dst-jpg_s100x100&_nc_cat=105&ccb=1-7&_nc_sid=3fd06f&_nc_ohc=_zDhH3ZXKpsAX-PDREZ&_nc_ht=scontent-lhr6-2.cdninstagram.com&oh=00_AfDmMKBENfqEgzD3gbRu48aorML_mftsdxg-HwNJaH0bZg&oe=65EE643E
     type: image
-  tags: []
+  tags:
+  - gear
   highlights: []
   important: true
   removed: false
   created: '2024-03-07T12:52:10.285Z'
-  lastUpdate: '2026-03-18T12:47:58.700Z'
+  lastUpdate: '2026-03-18T14:24:42.434Z'
   collection:
     "$ref": collections
     "$id": 37576965
@@ -15063,7 +15132,7 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391782
+  sort: 1648391935
   cache:
     status: ready
     created: '2026-03-18T11:30:19.539Z'
@@ -15198,7 +15267,7 @@
     date:
   removed: false
   created: '2024-02-23T15:41:01.090Z'
-  lastUpdate: '2026-03-18T12:47:58.061Z'
+  lastUpdate: '2026-03-18T14:24:42.016Z'
   collection:
     "$ref": collections
     "$id": 37136905
@@ -15210,7 +15279,7 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391942
+  sort: 1648391961
   cache:
     status: invalid-origin
   broken: false
@@ -15238,7 +15307,7 @@
     date:
   removed: false
   created: '2024-02-23T15:19:20.530Z'
-  lastUpdate: '2026-03-18T12:47:58.061Z'
+  lastUpdate: '2026-03-18T14:24:42.016Z'
   collection:
     "$ref": collections
     "$id": 37136905
@@ -15250,7 +15319,7 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391941
+  sort: 1648391960
   cache:
     status: invalid-origin
   broken: false
@@ -15269,17 +15338,18 @@
   media:
   - link: https://daftsocial.com/_img/daftsocial.png
     type: image
-  tags: []
+  tags:
+  - culture
   important: true
   reminder:
     date:
   removed: false
   created: '2024-02-22T22:03:40.487Z'
-  lastUpdate: '2026-03-18T12:47:58.771Z'
+  lastUpdate: '2026-03-18T14:24:42.665Z'
   collection:
     "$ref": collections
-    "$id": 38035089
-    oid: 38035089
+    "$id": 37679987
+    oid: 37679987
   highlights: []
   domain: daftsocial.com
   creatorRef:
@@ -15287,13 +15357,13 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391929
+  sort: 1648391966
   cache:
     status: ready
     created: '2026-03-18T11:30:21.890Z'
     size: 16752777
   broken: false
-  collectionId: 38035089
+  collectionId: 37679987
   parsed: {}
 - _id: 740371230
   link: https://www.jackcohen.com/
@@ -15605,17 +15675,18 @@
     type: image
   - link: https://i.ytimg.com/vi/WcWbuHehQeo/hqdefault.jpg
     type: image
-  tags: []
+  tags:
+  - culture
   important: true
   reminder:
     date:
   removed: false
   created: '2024-02-20T19:57:09.843Z'
-  lastUpdate: '2026-03-18T12:47:58.999Z'
+  lastUpdate: '2026-03-18T14:24:42.665Z'
   collection:
     "$ref": collections
-    "$id": 37136914
-    oid: 37136914
+    "$id": 37679987
+    oid: 37679987
   highlights: []
   domain: youtube.com
   creatorRef:
@@ -15623,11 +15694,11 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391887
+  sort: 1648391952
   cache:
     status: invalid-origin
   broken: false
-  collectionId: 37136914
+  collectionId: 37679987
   parsed: {}
 - _id: 738387592
   link: https://substack.com/home/post/p-141693074
@@ -15826,7 +15897,7 @@
     date:
   removed: false
   created: '2024-02-15T12:47:46.456Z'
-  lastUpdate: '2026-03-18T12:47:58.061Z'
+  lastUpdate: '2026-03-18T14:24:42.016Z'
   collection:
     "$ref": collections
     "$id": 37136905
@@ -15838,7 +15909,7 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391940
+  sort: 1648391959
   cache:
     status: invalid-origin
   broken: false
@@ -15907,13 +15978,14 @@
   media:
   - link: http://images.ctfassets.net/r7p9m4b1iqbp/4uUVFbnDwzG4yuRKndLWz1/414c5d344099465c5cc5fc1ca4a9aa79/Finisterre-Film-Surf-Shot.jpeg?w=1000
     type: image
-  tags: []
+  tags:
+  - surf
   important: true
   reminder:
     date:
   removed: false
   created: '2024-02-14T19:00:20.557Z'
-  lastUpdate: '2026-03-18T12:47:58.061Z'
+  lastUpdate: '2026-03-18T14:24:42.016Z'
   collection:
     "$ref": collections
     "$id": 37136905
@@ -15925,7 +15997,7 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391939
+  sort: 1648391958
   broken: false
   cache:
     status: ready
@@ -16057,7 +16129,7 @@
     date:
   removed: false
   created: '2024-02-12T09:31:28.759Z'
-  lastUpdate: '2026-03-18T12:47:58.061Z'
+  lastUpdate: '2026-03-18T14:24:42.016Z'
   collection:
     "$ref": collections
     "$id": 37136905
@@ -16069,7 +16141,7 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391938
+  sort: 1648391957
   cache:
     status: invalid-origin
   broken: false
@@ -16130,27 +16202,28 @@
   media:
   - link: https://i.ytimg.com/vi/GYsELUKFlvc/maxresdefault.jpg
     type: image
-  tags: []
+  tags:
+  - culture
   highlights: []
   important: true
   removed: false
   created: '2024-02-09T21:06:13.300Z'
-  lastUpdate: '2026-03-18T12:47:58.557Z'
+  lastUpdate: '2026-03-18T14:24:42.665Z'
   collection:
     "$ref": collections
-    "$id": 37603939
-    oid: 37603939
+    "$id": 37679987
+    oid: 37679987
   domain: youtube.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391943
+  sort: 1648391973
   cache:
     status: invalid-origin
   broken: false
-  collectionId: 37603939
+  collectionId: 37679987
   parsed: {}
 - _id: 732460962
   link: https://youtube.com/watch?v=qfR46clM5BM&feature=shared
@@ -16235,17 +16308,18 @@
     type: image
   - link: https://i.ytimg.com/vi/jn_9jM-52Ew/hq720_2.jpg?sqp=-oaymwEdCI4CEOADSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLCfMV9eGAdhglnQPT2_aK2Sz0IctQ
     type: image
-  tags: []
+  tags:
+  - culture
   important: true
   reminder:
     date:
   removed: false
   created: '2024-02-08T14:59:32.389Z'
-  lastUpdate: '2026-03-18T12:47:58.634Z'
+  lastUpdate: '2026-03-18T14:24:42.665Z'
   collection:
     "$ref": collections
-    "$id": 37679925
-    oid: 37679925
+    "$id": 37679987
+    oid: 37679987
   highlights: []
   domain: youtube.com
   creatorRef:
@@ -16253,11 +16327,11 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391787
+  sort: 1648391950
   cache:
     status: invalid-origin
   broken: false
-  collectionId: 37679925
+  collectionId: 37679987
   parsed: {}
 - _id: 731615656
   link: https://xwmx.github.io/nb/
@@ -16284,12 +16358,13 @@
     type: image
   tags:
   - stuff
+  - tech
   important: true
   reminder:
     date:
   removed: false
   created: '2024-02-08T13:16:56.097Z'
-  lastUpdate: '2026-03-18T12:47:58.771Z'
+  lastUpdate: '2026-03-18T14:24:42.509Z'
   collection:
     "$ref": collections
     "$id": 38035089
@@ -16301,7 +16376,7 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391941
+  sort: 1648391958
   cache:
     status: ready
     created: '2026-03-18T11:30:30.892Z'
@@ -16708,17 +16783,18 @@
   media:
   - link: https://screenshots.jamesg.blog/?url=https://jamesg.blog/2024/01/27/the-indie-web/
     type: image
-  tags: []
+  tags:
+  - culture
   important: true
   reminder:
     date:
   removed: false
   created: '2024-02-01T19:45:47.151Z'
-  lastUpdate: '2026-03-18T12:47:58.771Z'
+  lastUpdate: '2026-03-18T14:24:42.665Z'
   collection:
     "$ref": collections
-    "$id": 38035089
-    oid: 38035089
+    "$id": 37679987
+    oid: 37679987
   highlights: []
   domain: jamesg.blog
   creatorRef:
@@ -16726,13 +16802,13 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391928
+  sort: 1648391964
   cache:
     status: ready
     created: '2026-03-18T11:30:17.657Z'
     size: 78383
   broken: false
-  collectionId: 38035089
+  collectionId: 37679987
   parsed: {}
 - _id: 727025218
   link: https://poorlydrawnlines.com/comic/purpose/
@@ -16786,29 +16862,30 @@
   media:
   - link: https://winnielim.org/wp-content/uploads/2024/01/20240111-IMG_20240111_0011.jpg
     type: image
-  tags: []
+  tags:
+  - travel
   highlights: []
   important: true
   removed: false
   created: '2024-01-31T22:10:54.767Z'
-  lastUpdate: '2026-03-18T12:47:58.201Z'
+  lastUpdate: '2026-03-18T14:24:42.361Z'
   collection:
     "$ref": collections
-    "$id": 36103677
-    oid: 36103677
+    "$id": 37679925
+    oid: 37679925
   domain: winnielim.org
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1556667621
+  sort: 1648391928
   cache:
     status: ready
     created: '2026-03-18T11:30:24.073Z'
     size: 10565445
   broken: false
-  collectionId: 36103677
+  collectionId: 37679925
   parsed: {}
 - _id: 726732228
   link: https://www.julienhay.fr/
@@ -16999,12 +17076,13 @@
   media: []
   tags:
   - stuff
+  - tech
   important: true
   reminder:
     date:
   removed: false
   created: '2024-01-28T10:28:38.828Z'
-  lastUpdate: '2026-03-18T12:47:58.771Z'
+  lastUpdate: '2026-03-18T14:24:42.509Z'
   collection:
     "$ref": collections
     "$id": 38035089
@@ -17016,7 +17094,7 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391940
+  sort: 1648391957
   cache:
     status: ready
     created: '2026-03-18T11:30:19.247Z'
@@ -17035,12 +17113,13 @@
     "$id": 1617030
   cover: https://rdl.ink/render/https%3A%2F%2Ffriendeditions.com%2F
   media: []
-  tags: []
+  tags:
+  - culture
   highlights: []
   important: true
   removed: false
   created: '2024-01-28T07:45:30.025Z'
-  lastUpdate: '2026-03-18T12:47:58.921Z'
+  lastUpdate: '2026-03-18T14:24:42.665Z'
   collection:
     "$ref": collections
     "$id": 37679987
@@ -17051,7 +17130,7 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391921
+  sort: 1648391956
   cache:
     status: ready
     created: '2026-03-18T11:30:36.302Z'
@@ -17070,17 +17149,18 @@
     "$id": 1617030
   cover: https://rdl.ink/render/https%3A%2F%2Fl.instagram.com%2F%3Fu%3Dhttps%253A%252F%252Fwww.tegenjewellery.com%252F%26e%3DAT3nf8U9XYmLf5c18nyZfmMkKdiEx-YalZP5aCDle9M2sIJuIkjporEZhoaoQaEqghpSN4JKShsDMYf9G21jgpfDGCPgSeHaXFC5
   media: []
-  tags: []
+  tags:
+  - gear
   important: true
   reminder:
     date:
   removed: false
   created: '2024-01-26T22:19:23.342Z'
-  lastUpdate: '2026-03-18T12:47:58.921Z'
+  lastUpdate: '2026-03-18T14:24:42.434Z'
   collection:
     "$ref": collections
-    "$id": 37679987
-    oid: 37679987
+    "$id": 37576965
+    oid: 37576965
   highlights: []
   domain: l.instagram.com
   creatorRef:
@@ -17088,13 +17168,13 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391920
+  sort: 1648391938
   cache:
     status: ready
     created: '2026-03-18T11:30:21.926Z'
     size: 1452952
   broken: false
-  collectionId: 37679987
+  collectionId: 37576965
   parsed: {}
 - _id: 722596917
   link: https://www.josewalker.co.uk/photo
@@ -17273,13 +17353,14 @@
   media:
   - link: http://www.instapaper.com/static/img/insta_logo_large.png
     type: image
-  tags: []
+  tags:
+  - culture
   important: true
   reminder:
     date:
   removed: false
   created: '2024-01-20T20:55:13.568Z'
-  lastUpdate: '2026-03-18T12:47:58.921Z'
+  lastUpdate: '2026-03-18T14:24:42.665Z'
   collection:
     "$ref": collections
     "$id": 37679987
@@ -17291,7 +17372,7 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391919
+  sort: 1648391955
   cache:
     status: invalid-origin
   broken: false
@@ -17319,7 +17400,7 @@
     date:
   removed: false
   created: '2024-01-19T22:37:02.716Z'
-  lastUpdate: '2026-03-18T12:47:58.061Z'
+  lastUpdate: '2026-03-18T14:24:42.016Z'
   collection:
     "$ref": collections
     "$id": 37136905
@@ -17331,7 +17412,7 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391937
+  sort: 1648391956
   cache:
     status: ready
     created: '2026-03-18T11:30:36.263Z'
@@ -17521,29 +17602,30 @@
   media:
   - link: https://cdn.shopify.com/s/files/1/0056/5611/7282/files/Logo_tagline_test.png?height=628&pad_color=ffffff&v=1614767452&width=1200
     type: image
-  tags: []
+  tags:
+  - culture
   highlights: []
   important: true
   removed: false
   created: '2024-01-18T18:50:19.330Z'
-  lastUpdate: '2026-03-18T12:47:58.201Z'
+  lastUpdate: '2026-03-18T14:24:42.665Z'
   collection:
     "$ref": collections
-    "$id": 36103677
-    oid: 36103677
+    "$id": 37679987
+    oid: 37679987
   domain: mofelitopaperito.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1556667620
+  sort: 1648391947
   cache:
     status: ready
     created: '2026-03-18T11:30:24.391Z'
     size: 1743816
   broken: false
-  collectionId: 36103677
+  collectionId: 37679987
   parsed: {}
 - _id: 716011075
   link: https://onion.tube/watch?v=XfyJ0nSzv1w
@@ -17698,12 +17780,13 @@
   tags:
   - coffee
   - roaster
+  - food
   important: true
   reminder:
     date:
   removed: false
   created: '2024-01-15T16:47:46.756Z'
-  lastUpdate: '2026-03-18T12:47:58.855Z'
+  lastUpdate: '2026-03-18T14:24:42.592Z'
   collection:
     "$ref": collections
     "$id": 37576903
@@ -17715,7 +17798,7 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391910
+  sort: 1648391954
   cache:
     status: ready
     created: '2026-03-18T11:30:22.320Z'
@@ -17746,13 +17829,14 @@
     type: image
   - link: https://worldwide.kia.com/int/image/page/pbv/pbv-lineup/intro-question-03.jpg
     type: image
-  tags: []
+  tags:
+  - gear
   important: true
   reminder:
     date:
   removed: false
   created: '2024-01-13T09:25:52.817Z'
-  lastUpdate: '2026-03-18T12:47:58.700Z'
+  lastUpdate: '2026-03-18T14:24:42.434Z'
   collection:
     "$ref": collections
     "$id": 37576965
@@ -17764,7 +17848,7 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391781
+  sort: 1648391934
   cache:
     status: ready
     created: '2026-03-18T11:30:27.481Z'
@@ -17839,7 +17923,7 @@
     date:
   removed: false
   created: '2024-01-08T17:15:09.874Z'
-  lastUpdate: '2026-03-18T12:47:58.557Z'
+  lastUpdate: '2026-03-18T14:24:42.267Z'
   collection:
     "$ref": collections
     "$id": 37603939
@@ -17851,7 +17935,7 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391955
+  sort: 1648391966
   cache:
     status: invalid-origin
   broken: false
@@ -17968,7 +18052,7 @@
   important: true
   removed: false
   created: '2024-01-05T22:00:13.425Z'
-  lastUpdate: '2026-03-18T12:47:58.061Z'
+  lastUpdate: '2026-03-18T14:24:42.016Z'
   collection:
     "$ref": collections
     "$id": 37136905
@@ -17979,7 +18063,7 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391936
+  sort: 1648391955
   cache:
     status: ready
     created: '2026-03-18T11:30:30.152Z'
@@ -18117,13 +18201,14 @@
     type: image
   - link: https://static.wixstatic.com/media/a03dce_69785bdc4db6407baa05493d546191de~mv2.png/v1/fill/w_466,h_620,q_90/a03dce_69785bdc4db6407baa05493d546191de~mv2.webp
     type: image
-  tags: []
+  tags:
+  - wellbeing
   important: true
   reminder:
     date:
   removed: false
   created: '2024-01-04T15:32:06.404Z'
-  lastUpdate: '2026-03-18T12:47:58.557Z'
+  lastUpdate: '2026-03-18T14:24:42.267Z'
   collection:
     "$ref": collections
     "$id": 37603939
@@ -18135,7 +18220,7 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391942
+  sort: 1648391956
   cache:
     status: ready
     created: '2026-03-18T11:30:32.846Z'
@@ -18297,7 +18382,7 @@
   important: true
   removed: false
   created: '2023-12-29T19:10:21.146Z'
-  lastUpdate: '2026-03-18T12:47:58.771Z'
+  lastUpdate: '2026-03-18T14:24:42.509Z'
   collection:
     "$ref": collections
     "$id": 38035089
@@ -18308,7 +18393,7 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391939
+  sort: 1648391956
   cache:
     status: ready
     created: '2026-03-18T11:30:28.278Z'
@@ -18367,29 +18452,30 @@
     "$id": 1617030
   cover: https://rdl.ink/render/https%3A%2F%2Fmovie-web.app%2F
   media: []
-  tags: []
+  tags:
+  - culture
   highlights: []
   important: true
   removed: false
   created: '2023-12-28T09:04:03.090Z'
-  lastUpdate: '2026-03-18T12:47:58.771Z'
+  lastUpdate: '2026-03-18T14:24:42.665Z'
   collection:
     "$ref": collections
-    "$id": 38035089
-    oid: 38035089
+    "$id": 37679987
+    oid: 37679987
   domain: movie-web.app
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391927
+  sort: 1648391963
   cache:
     status: ready
     created: '2026-03-18T11:30:34.503Z'
     size: 759710
   broken: false
-  collectionId: 38035089
+  collectionId: 37679987
   parsed: {}
 - _id: 700591210
   link: https://www.chrbutler.com/organization-office
@@ -18413,13 +18499,14 @@
     type: image
   - link: https://cdn.blot.im/blog_a7eb7cf1ab024efcb17c380ef69c53f4/_image_cache/58507484-e94a-4aa0-ad71-72c58427649c.jpg
     type: image
-  tags: []
+  tags:
+  - tech
   important: true
   reminder:
     date:
   removed: false
   created: '2023-12-22T14:49:59.816Z'
-  lastUpdate: '2026-03-18T12:47:58.771Z'
+  lastUpdate: '2026-03-18T14:24:42.509Z'
   collection:
     "$ref": collections
     "$id": 38035089
@@ -18431,7 +18518,7 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391926
+  sort: 1648391946
   cache:
     status: ready
     created: '2026-03-18T11:30:24.245Z'
@@ -18453,13 +18540,14 @@
   media:
   - link: https://i.ytimg.com/vi/M-FIjWE2Sdc/maxresdefault.jpg
     type: image
-  tags: []
+  tags:
+  - tech
   important: true
   reminder:
     date:
   removed: false
   created: '2023-12-21T14:24:30.530Z'
-  lastUpdate: '2026-03-18T12:47:58.771Z'
+  lastUpdate: '2026-03-18T14:24:42.509Z'
   collection:
     "$ref": collections
     "$id": 38035089
@@ -18471,7 +18559,7 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391925
+  sort: 1648391945
   cache:
     status: invalid-origin
   broken: false
@@ -18712,12 +18800,13 @@
     type: image
   - link: https://assets-global.website-files.com/5ffa0b43f68ce366f94f392f/6197d4f775cc919d86f78eeb_Ash_01-p-1080.jpeg
     type: image
-  tags: []
+  tags:
+  - tech
   highlights: []
   important: true
   removed: false
   created: '2023-12-14T19:57:59.984Z'
-  lastUpdate: '2026-03-18T12:47:58.771Z'
+  lastUpdate: '2026-03-18T14:24:42.509Z'
   collection:
     "$ref": collections
     "$id": 38035089
@@ -18728,7 +18817,7 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391924
+  sort: 1648391944
   cache:
     status: ready
     created: '2026-03-18T11:30:25.447Z'
@@ -18812,13 +18901,14 @@
     type: image
   - link: https://ia.net/wp-content/uploads/2023/12/iA-Notebook-backlight-empty.jpg
     type: image
-  tags: []
+  tags:
+  - tech
   important: true
   reminder:
     date:
   removed: false
   created: '2023-12-12T13:04:16.348Z'
-  lastUpdate: '2026-03-18T12:47:58.771Z'
+  lastUpdate: '2026-03-18T14:24:42.509Z'
   collection:
     "$ref": collections
     "$id": 38035089
@@ -18830,7 +18920,7 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391923
+  sort: 1648391943
   cache:
     status: ready
     created: '2026-03-18T11:30:26.011Z'
@@ -18857,17 +18947,18 @@
     type: image
   - link: https://d36syl5mhjs16o.cloudfront.net/nightsonearth/graphics/newBgTransparentLess3.png
     type: image
-  tags: []
+  tags:
+  - culture
   important: true
   reminder:
     date:
   removed: false
   created: '2023-12-12T10:37:14.587Z'
-  lastUpdate: '2026-03-18T12:47:58.771Z'
+  lastUpdate: '2026-03-18T14:24:42.665Z'
   collection:
     "$ref": collections
-    "$id": 38035089
-    oid: 38035089
+    "$id": 37679987
+    oid: 37679987
   highlights: []
   domain: nightsonearth.com
   creatorRef:
@@ -18875,13 +18966,13 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391922
+  sort: 1648391957
   cache:
     status: ready
     created: '2026-03-18T11:30:32.051Z'
     size: 6418754
   broken: false
-  collectionId: 38035089
+  collectionId: 37679987
   parsed: {}
 - _id: 693261358
   link: https://sublime.app/?index
@@ -18955,29 +19046,30 @@
     type: image
   - link: https://www.atelierserrejoint.com/wp-content/uploads/2023/09/SABLE-4-copie.jpg.webp
     type: image
-  tags: []
+  tags:
+  - surf
   highlights: []
   important: true
   removed: false
   created: '2023-12-10T06:58:11.323Z'
-  lastUpdate: '2026-03-18T12:47:58.634Z'
+  lastUpdate: '2026-03-18T14:24:42.016Z'
   collection:
     "$ref": collections
-    "$id": 37679925
-    oid: 37679925
+    "$id": 37136905
+    oid: 37136905
   domain: atelierserrejoint.com
   creatorRef:
     _id: 1617030
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391786
+  sort: 1648391943
   cache:
     status: ready
     created: '2026-03-18T11:30:56.066Z'
     size: 887015
   broken: true
-  collectionId: 37679925
+  collectionId: 37136905
   parsed: {}
 - _id: 691119745
   link: https://yewtu.be/watch?v=pVfPg8djrvI
@@ -19011,7 +19103,7 @@
     date:
   removed: false
   created: '2023-12-07T20:08:14.222Z'
-  lastUpdate: '2026-03-18T12:47:58.061Z'
+  lastUpdate: '2026-03-18T14:24:42.016Z'
   collection:
     "$ref": collections
     "$id": 37136905
@@ -19023,7 +19115,7 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391935
+  sort: 1648391954
   cache:
     retries: 1
     retryAfter: '2026-03-19T13:31:09.908Z'
@@ -19264,11 +19356,12 @@
     type: image
   tags:
   - games
+  - culture
   highlights: []
   important: true
   removed: false
   created: '2023-12-06T21:50:22.722Z'
-  lastUpdate: '2026-03-18T12:47:58.921Z'
+  lastUpdate: '2026-03-18T14:24:42.665Z'
   collection:
     "$ref": collections
     "$id": 37679987
@@ -19279,7 +19372,7 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391918
+  sort: 1648391954
   cache:
     status: ready
     created: '2026-03-18T11:30:34.676Z'
@@ -19309,11 +19402,12 @@
     type: image
   tags:
   - games
+  - culture
   highlights: []
   important: true
   removed: false
   created: '2023-12-06T21:49:30.881Z'
-  lastUpdate: '2026-03-18T12:47:58.921Z'
+  lastUpdate: '2026-03-18T14:24:42.665Z'
   collection:
     "$ref": collections
     "$id": 37679987
@@ -19324,7 +19418,7 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 1648391917
+  sort: 1648391953
   cache:
     status: ready
     created: '2026-03-18T11:30:41.516Z'
@@ -19359,17 +19453,18 @@
     type: image
   - link: https://yewtu.be/vi/I-zMUNIEFXM/mqdefault.jpg
     type: image
-  tags: []
+  tags:
+  - photography
   important: true
   reminder:
     date:
   removed: false
   created: '2023-12-06T18:00:12.790Z'
-  lastUpdate: '2023-12-06T18:00:12.790Z'
+  lastUpdate: '2026-03-18T14:24:42.098Z'
   collection:
     "$ref": collections
-    "$id": -1
-    oid: -1
+    "$id": 37459371
+    oid: 37459371
   highlights: []
   domain: yewtu.be
   creatorRef:
@@ -19377,13 +19472,13 @@
     avatar: ''
     name: bonjouryannick
     email: ''
-  sort: 690406751
+  sort: 1648391913
   cache:
     retries: 1
     retryAfter: '2026-03-20T05:30:50.271Z'
     status: retry
   broken: false
-  collectionId: -1
+  collectionId: 37459371
   parsed: {}
 - _id: 690389409
   link: https://ma-veille-juridique.com/liste-relative-au-vocabulaire-du-sport-glisse-urbaine-termes-expressions-et-definitions-adoptes/
