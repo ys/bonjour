@@ -36,7 +36,7 @@
             {{ $small = $src }}
           {{ end }}
 
-          <picture class="snap-center snap-normal {{ .ExtraClasses }} aspect-[{{.Image.Width}}/{{.Image.Height}}] block relative h-full">
+          <picture class="snap-center snap-normal {{ .ExtraClasses }} block relative h-full" style="aspect-ratio: {{ .Image.Width }} / {{ .Image.Height }};">
             <img
               loading="lazy"
               style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode }}); background-size: cover"
@@ -54,7 +54,7 @@
         {{ end }}
       {{ end }}
     </div>
-    <div class="absolute top-0 left-0 w-24 md:bg-gradient-to-l from-transparent to-{{ $.Scratch.Get "color" }}/20 dark:to-crust h-full"></div>
-    <div class="absolute top-0 right-0 w-24 md:bg-gradient-to-r from-transparent to-{{ $.Scratch.Get "color" }}/20 dark:to-crust h-full"></div>
+    <div class="absolute top-0 left-0 w-24 md:bg-linear-to-l from-transparent to-{{ $.Scratch.Get "color" }}/20 dark:to-crust h-full"></div>
+    <div class="absolute top-0 right-0 w-24 md:bg-linear-to-r from-transparent to-{{ $.Scratch.Get "color" }}/20 dark:to-crust h-full"></div>
   </div>
 </div>

@@ -35,7 +35,7 @@
                       loading="lazy"
                     />
                   {{ else }}
-                    <div class="w-full h-full bg-gradient-to-br from-slate-100 to-slate-200 dark:from-slate-800 dark:to-slate-900 flex flex-col items-center justify-center p-6 border border-slate-300 dark:border-slate-700">
+                    <div class="w-full h-full bg-linear-to-br from-slate-100 to-slate-200 dark:from-slate-800 dark:to-slate-900 flex flex-col items-center justify-center p-6 border border-slate-300 dark:border-slate-700">
                       <div class="text-center">
                         <p class="text-base font-bold text-slate-800 dark:text-slate-200 leading-tight mb-2">
                           {{ .title }}
@@ -46,7 +46,7 @@
                       </div>
                     </div>
                   {{ end }}
-                  <div class="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-60 transition-all duration-300 flex items-end p-3">
+                  <div class="absolute inset-0 bg-black/0 group-hover:bg-black/60 transition-all duration-300 flex items-end p-3">
                     <div class="text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                       <h3 class="font-semibold text-sm line-clamp-2 mb-1">
                         {{ .title }}
@@ -105,7 +105,7 @@
                     loading="lazy"
                   />
                 {{ else }}
-                  <div class="w-full h-full bg-gradient-to-br from-slate-100 to-slate-200 dark:from-slate-800 dark:to-slate-900 flex flex-col items-center justify-center p-6 border border-slate-300 dark:border-slate-700">
+                  <div class="w-full h-full bg-linear-to-br from-slate-100 to-slate-200 dark:from-slate-800 dark:to-slate-900 flex flex-col items-center justify-center p-6 border border-slate-300 dark:border-slate-700">
                     <div class="text-center">
                       <p class="text-base font-bold text-slate-800 dark:text-slate-200 leading-tight mb-2">
                         {{ .title }}
@@ -116,7 +116,7 @@
                     </div>
                   </div>
                 {{ end }}
-                <div class="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-60 transition-all duration-300 flex items-end p-3">
+                <div class="absolute inset-0 bg-black/0 group-hover:bg-black/60 transition-all duration-300 flex items-end p-3">
                   <div class="text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                     <h3 class="font-semibold text-sm line-clamp-2 mb-1">
                       {{ .title }}

@@ -11,8 +11,9 @@
 <link rel="dns-prefetch" href="{{ . }}">
 {{- end -}}
 
-{{ $styles := resources.Get "css/application.scss" | resources.ExecuteAsTemplate "main.css" . | toCSS}}
-{{ $styles = $styles | css.PostCSS }}
+{{ $tailwind := resources.Get "css/tailwind.css" }}
+{{ $app := resources.Get "css/application.scss" | resources.ExecuteAsTemplate "main.scss" . | toCSS }}
+{{ $styles := slice $tailwind $app | resources.Concat "bundle.css" | css.PostCSS }}
 {{ if  hugo.IsProduction  }}
     {{ $styles = $styles | minify | fingerprint | resources.PostProcess }}
     {{ else if hugo.IsServer }}

@@ -24,8 +24,8 @@
           {{ range $images.Images }}
             {{ if .Blank }}
               <div
-                class="aspect-[{{.Image.Width}}/{{.Image.Height}}]"
                 class="relative lg:block hidden"
+                style="aspect-ratio: {{ .Image.Width }} / {{ .Image.Height }};"
               ></div>
             {{ else }}
               {{ if isset . "Link" }}
@@ -46,7 +46,8 @@
             <div class="gap-6" style="flex: 1 0 {{ $dimension -}}%">
               {{ if .Blank }}
                 <div
-                  class="aspect-[{{.Image.Width}}/{{.Image.Height}}] relative lg:block hidden"
+                  class="relative lg:block hidden"
+                  style="aspect-ratio: {{ .Image.Width }} / {{ .Image.Height }};"
                 ></div>
               {{ else }}
                 {{ if isset . "Link" }}

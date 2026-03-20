@@ -1,0 +1,47 @@
+/*
+  Do not use source(none) here: Hugo runs PostCSS on a concatenated virtual bundle, so
+  @source paths relative to this file do not resolve and Tailwind would emit no utilities.
+  Default scanning uses the Hugo project root (cwd) and picks up layouts, content, assets, etc.
+  Gitignored trees (e.g. public/, node_modules/) are skipped automatically.
+*/
+@import "tailwindcss";
+@import "@catppuccin/tailwindcss/frappe.css";
+/*
+  Same basename as this file: CLI resolves from themes/simple/assets/css/.
+  Hugo’s bundle resolves from site root — keep a root symlink catppuccin-aliases.css → this file.
+*/
+@import "./catppuccin-aliases.css";
+
+@plugin "@tailwindcss/typography";
+@plugin "@tailwindcss/forms";
+
+/*
+  Hugo emits color utilities only at runtime (e.g. bg-{{ color }}/10). Tailwind cannot see those
+  strings in templates, so we enumerate the scratch palette via @source inline (v4 safelist).
+*/
+@source inline("{hover:,}bg-{rosewater,flamingo,pink,mauve,red,maroon,peach,yellow,green,teal,sky,sapphire,blue,lavender,accent}");
+@source inline("bg-{rosewater,flamingo,pink,mauve,red,maroon,peach,yellow,green,teal,sky,sapphire,blue,lavender,accent}/10");
+@source inline("{selection:,}bg-{rosewater,flamingo,pink,mauve,red,maroon,peach,yellow,green,teal,sky,sapphire,blue,lavender,accent}/20");
+@source inline("{hover:,}bg-{rosewater,flamingo,pink,mauve,red,maroon,peach,yellow,green,teal,sky,sapphire,blue,lavender,accent}/70");
+@source inline("{hover:,}bg-{rosewater,flamingo,pink,mauve,red,maroon,peach,yellow,green,teal,sky,sapphire,blue,lavender,accent}-600");
+@source inline("text-{rosewater,flamingo,pink,mauve,red,maroon,peach,yellow,green,teal,sky,sapphire,blue,lavender,accent}");
+@source inline("{hover:,}text-{rosewater,flamingo,pink,mauve,red,maroon,peach,yellow,green,teal,sky,sapphire,blue,lavender,accent}");
+@source inline("border-{rosewater,flamingo,pink,mauve,red,maroon,peach,yellow,green,teal,sky,sapphire,blue,lavender,accent}");
+@source inline("border-{rosewater,flamingo,pink,mauve,red,maroon,peach,yellow,green,teal,sky,sapphire,blue,lavender,accent}/20");
+@source inline("{hover:,}border-{rosewater,flamingo,pink,mauve,red,maroon,peach,yellow,green,teal,sky,sapphire,blue,lavender,accent}");
+@source inline("{focus:,}border-{rosewater,flamingo,pink,mauve,red,maroon,peach,yellow,green,teal,sky,sapphire,blue,lavender,accent}");
+@source inline("decoration-{rosewater,flamingo,pink,mauve,red,maroon,peach,yellow,green,teal,sky,sapphire,blue,lavender,accent}");
+@source inline("{hover:,}shadow-{rosewater,flamingo,pink,mauve,red,maroon,peach,yellow,green,teal,sky,sapphire,blue,lavender,accent}/20");
+@source inline("to-{rosewater,flamingo,pink,mauve,red,maroon,peach,yellow,green,teal,sky,sapphire,blue,lavender,accent}/20");
+@source inline("caret-{rosewater,flamingo,pink,mauve,red,maroon,peach,yellow,green,teal,sky,sapphire,blue,lavender,accent}");
+@source inline("group-hover:text-{rosewater,flamingo,pink,mauve,red,maroon,peach,yellow,green,teal,sky,sapphire,blue,lavender,accent}-600");
+@source inline("hover:bg-{rosewater,flamingo,pink,mauve,red,maroon,peach,yellow,green,teal,sky,sapphire,blue,lavender,accent}-600");
+@source inline("bg-rosewater-100");
+
+@theme {
+  --font-mono: "iA Writer Quattro", "SFMono-Regular", ui-monospace, monospace;
+  --font-sans: -apple-system, "BlinkMacSystemFont", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-serif: -apple-system-ui-serif, "Iowan Old Style", "Apple Garamond", Baskerville,
+    "Times New Roman", "Droid Serif", Times, "Source Serif Pro", serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+}
