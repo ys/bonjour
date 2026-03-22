@@ -9335,9 +9335,13 @@
           "rating": null,
           "date_added": "2026-02-01",
           "user_book_status": {
-            "slug": "want-to-read"
+            "slug": "currently-reading"
           },
-          "user_book_reads": [],
+          "user_book_reads": [
+            {
+              "finished_at": null
+            }
+          ],
           "edition": {
             "isbn_10": "1300701900",
             "isbn_13": "9781300701903",
@@ -12569,6 +12573,43 @@
               {
                 "author": {
                   "name": "Emma Gannon"
+                }
+              }
+            ],
+            "image": null
+          }
+        },
+        {
+          "book_id": 2501815,
+          "rating": 4,
+          "date_added": "2026-03-21",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2026-03-21"
+            }
+          ],
+          "edition": {
+            "isbn_10": "2203296461",
+            "isbn_13": "9782203296466",
+            "pages": null,
+            "release_date": null
+          },
+          "book": {
+            "title": "Thermae Romae Redux",
+            "subtitle": null,
+            "slug": "thermae-romae-redux",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Mari Yamazaki"
+                }
+              },
+              {
+                "author": {
+                  "name": "Unknown Author"
                 }
               }
             ],
