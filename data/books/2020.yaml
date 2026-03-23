@@ -35,7 +35,8 @@ books:
     pages: 281
     isbn: "0374278016"
     isbn13: "9780374278014"
-    cover_url: https://m.media-amazon.com/images/I/71OtRfWWYbL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/59375164/507d7c2cfd3621218ce517f31efaccf85784cf9e.jpeg
     reading: false
     url: https://hardcover.app/books/uncanny-valley
   - title: The Courage to Be Disliked
@@ -166,7 +167,8 @@ books:
     pages: 0
     isbn: "1783526386"
     isbn13: "9781783526383"
-    cover_url: https://m.media-amazon.com/images/I/61OQ8vL1o-L._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/59921806/317cd496191b4fb6ef64d24f3d1f369335662e83.jpeg
     reading: false
     url: https://hardcover.app/books/the-surfboard
   - title: Americana
@@ -178,8 +180,7 @@ books:
     pages: 0
     isbn: "1910620610"
     isbn13: "9781910620618"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/60221104/7e0e9bd21d2a04962bdd1a61be6fe971752830a0.jpeg
+    cover_url: https://m.media-amazon.com/images/I/818-EhUnSML._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/americana-2019
   - title: The Underground Railroad
