@@ -47,7 +47,8 @@ books:
     pages: 0
     isbn: ""
     isbn13: ""
-    cover_url: ""
+    cover_url: >-
+      https://assets.hardcover.app/edition/31835822/f8841059-fe38-4ffc-a4f5-e03a7c7754c5.jpg
     reading: false
     url: https://hardcover.app/books/off-clark
   - title: The Apothecary Diaries Manga, Vol. 12
@@ -281,6 +282,7 @@ books:
     pages: 0
     isbn: "2203296461"
     isbn13: "9782203296466"
-    cover_url: ""
+    cover_url: >-
+      https://assets.hardcover.app/edition/32794227/35a2f712-9166-4f68-952d-f2308a50274d.jpg
     reading: false
     url: https://hardcover.app/books/thermae-romae-redux
