@@ -112,7 +112,8 @@ books:
     pages: 256
     isbn: ""
     isbn13: "9781786785558"
-    cover_url: https://assets.hardcover.app/edition/30647039/58295954._SX98_.jpg
+    cover_url: >-
+      https://books.google.com/books/content?id=2PmQEAAAQBAJ&printsec=frontcover&img=1&zoom=3&source=gbs_api
     reading: false
     url: https://hardcover.app/books/saltwater-in-the-blood
   - title: L'incroyable histoire du homard qui sauva sa carapace
@@ -490,6 +491,7 @@ books:
     pages: 382
     isbn: "0316232238"
     isbn13: "9780316232234"
-    cover_url: https://m.media-amazon.com/images/I/81VvQXmuMqL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://books.google.com/books/content?id=GSttfsbGdGcC&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api
     reading: false
     url: https://hardcover.app/books/thermae-romae-vol-2-2011
