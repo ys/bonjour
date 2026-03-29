@@ -1,132 +1,5 @@
 year: 2015
 books:
-  - title: Understanding Comics
-    author: Scott McCloud
-    subtitle: The Invisible Art
-    date: 2015-07-06
-    read: 2015-07-06
-    rating: 0
-    pages: 0
-    isbn: "1627652736"
-    isbn13: "9781627652735"
-    cover_url: https://assets.hardcover.app/edition/29549403/42616-L.jpg
-    reading: false
-    url: https://hardcover.app/books/understanding-comics-1993
-  - title: "Why We Get Fat: And What to Do About It"
-    author: Gary Taubes
-    subtitle: And What to Do About It
-    date: 2015-05-07
-    read: 2015-05-07
-    rating: 5
-    pages: 0
-    isbn: "1299154212"
-    isbn13: "9781299154216"
-    cover_url: >-
-      https://assets.hardcover.app/edition/24429661/ce443de94e0cf27e971323fb5e0d97be66dff98f.jpeg
-    reading: false
-    url: >-
-      https://hardcover.app/books/why-we-get-fat-7ac9e351-b54e-47ba-87ed-b07b765873ab
-  - title: >-
-      The No Asshole Rule: Building a Civilized Workplace and Surviving One That
-      Isn't
-    author: Robert I. Sutton
-    subtitle: Building a Civilized Workplace and Surviving One That Isn't
-    date: 2015-05-07
-    read: 2015-05-07
-    rating: 4
-    pages: 210
-    isbn: "0446526568"
-    isbn13: "9780446526562"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/59479199/075c3d63dde5951709a59fb2d36d573a68e08030.jpeg
-    reading: false
-    url: https://hardcover.app/books/the-no-asshole-rule
-  - title: How to Win Friends and Influence People
-    author: Dale Carnegie
-    subtitle: Die Kunst, beliebt und einflussreich zu werden
-    date: 2015-06-14
-    read: 2015-06-14
-    rating: 5
-    pages: 288
-    isbn: "1443433160"
-    isbn13: "9781443433167"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/59970685/82ad188ab1a8168fa9267f69356def4798f60086.jpeg
-    reading: false
-    url: https://hardcover.app/books/how-to-win-friends-and-influence-people
-  - title: Manage Your Day-To-Day
-    author: Jocelyn K. Glei
-    subtitle: Build Your Routine, Find Your Focus, and Sharpen Your Creative Mind
-    date: 2015-05-20
-    read: 2015-05-20
-    rating: 4
-    pages: 253
-    isbn: "1477800670"
-    isbn13: "9781477800676"
-    cover_url: https://assets.hardcover.app/edition/24083105/content.jpeg
-    reading: false
-    url: https://hardcover.app/books/manage-your-day-to-day
-  - title: The Year Without Pants
-    author: Scott Berkun
-    subtitle: WordPress.com and the Future of Work
-    date: 2015-01-31
-    read: 2015-01-31
-    rating: 5
-    pages: 272
-    isbn: "1118660633"
-    isbn13: "9781118660638"
-    cover_url: https://assets.hardcover.app/edition/24789159/7859733-L.jpg
-    reading: false
-    url: https://hardcover.app/books/the-year-without-pants
-  - title: Logicomix
-    author: Apostolos Doxiadis
-    subtitle: ""
-    date: 2015-06-04
-    read: 2015-06-04
-    rating: 0
-    pages: 352
-    isbn: "1596914521"
-    isbn13: "9781596914520"
-    cover_url: https://assets.hardcover.app/edition/1487835/8689155-L.jpg
-    reading: false
-    url: https://hardcover.app/books/logicomix
-  - title: "Killing and Dying: Stories"
-    author: Adrian Tomine
-    subtitle: ""
-    date: 2015-12-15
-    read: 2015-12-15
-    rating: 5
-    pages: 121
-    isbn: "1770462090"
-    isbn13: "9781770462090"
-    cover_url: https://assets.hardcover.app/edition/27866499/12577840-L.jpg
-    reading: false
-    url: https://hardcover.app/books/killing-and-dying-stories
-  - title: The Healthy Programmer
-    author: Joe Kutner
-    subtitle: ""
-    date: 2015-05-07
-    read: 2015-05-07
-    rating: 4
-    pages: 0
-    isbn: "1937785319"
-    isbn13: "9781937785314"
-    cover_url: https://assets.hardcover.app/edition/30480586/content.jpeg
-    reading: false
-    url: https://hardcover.app/books/the-healthy-programmer
-  - title: "The Carter Family: Don't Forget This Song"
-    author: Frank M. Young
-    subtitle: Don't Forget This Song
-    date: 2015-09-05
-    read: 2015-09-05
-    rating: 0
-    pages: 192
-    isbn: "0810988364"
-    isbn13: "9780810988361"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/175309/a0f063ec970329c59f6281af433de35bf6285fc3.jpeg
-    reading: false
-    url: https://hardcover.app/books/the-carter-family
   - title: "Meanwhile in San Francisco: The City in its Own Words"
     author: Wendy MacNaughton
     subtitle: The City in its Own Words
@@ -154,3 +27,130 @@ books:
     reading: false
     url: >-
       https://hardcover.app/books/remote-pairing-collaborative-tools-for-distributed-development
+  - title: "Killing and Dying: Stories"
+    author: Adrian Tomine
+    subtitle: ""
+    date: 2015-12-15
+    read: 2015-12-15
+    rating: 5
+    pages: 121
+    isbn: "1770462090"
+    isbn13: "9781770462090"
+    cover_url: https://assets.hardcover.app/edition/27866499/12577840-L.jpg
+    reading: false
+    url: https://hardcover.app/books/killing-and-dying-stories
+  - title: How to Win Friends and Influence People
+    author: Dale Carnegie
+    subtitle: Die Kunst, beliebt und einflussreich zu werden
+    date: 2015-06-14
+    read: 2015-06-14
+    rating: 5
+    pages: 288
+    isbn: "1443433160"
+    isbn13: "9781443433167"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/59970685/82ad188ab1a8168fa9267f69356def4798f60086.jpeg
+    reading: false
+    url: https://hardcover.app/books/how-to-win-friends-and-influence-people
+  - title: Logicomix
+    author: Apostolos Doxiadis
+    subtitle: ""
+    date: 2015-06-04
+    read: 2015-06-04
+    rating: 0
+    pages: 352
+    isbn: "1596914521"
+    isbn13: "9781596914520"
+    cover_url: https://assets.hardcover.app/edition/1487835/8689155-L.jpg
+    reading: false
+    url: https://hardcover.app/books/logicomix
+  - title: "Why We Get Fat: And What to Do About It"
+    author: Gary Taubes
+    subtitle: And What to Do About It
+    date: 2015-05-07
+    read: 2015-05-07
+    rating: 5
+    pages: 0
+    isbn: "1299154212"
+    isbn13: "9781299154216"
+    cover_url: >-
+      https://assets.hardcover.app/edition/24429661/ce443de94e0cf27e971323fb5e0d97be66dff98f.jpeg
+    reading: false
+    url: >-
+      https://hardcover.app/books/why-we-get-fat-7ac9e351-b54e-47ba-87ed-b07b765873ab
+  - title: Understanding Comics
+    author: Scott McCloud
+    subtitle: The Invisible Art
+    date: 2015-07-06
+    read: 2015-07-06
+    rating: 0
+    pages: 0
+    isbn: "1627652736"
+    isbn13: "9781627652735"
+    cover_url: https://assets.hardcover.app/edition/29549403/42616-L.jpg
+    reading: false
+    url: https://hardcover.app/books/understanding-comics-1993
+  - title: The Healthy Programmer
+    author: Joe Kutner
+    subtitle: ""
+    date: 2015-05-07
+    read: 2015-05-07
+    rating: 4
+    pages: 0
+    isbn: "1937785319"
+    isbn13: "9781937785314"
+    cover_url: https://assets.hardcover.app/edition/30480586/content.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-healthy-programmer
+  - title: Manage Your Day-To-Day
+    author: Jocelyn K. Glei
+    subtitle: Build Your Routine, Find Your Focus, and Sharpen Your Creative Mind
+    date: 2015-05-20
+    read: 2015-05-20
+    rating: 4
+    pages: 253
+    isbn: "1477800670"
+    isbn13: "9781477800676"
+    cover_url: https://assets.hardcover.app/edition/24083105/content.jpeg
+    reading: false
+    url: https://hardcover.app/books/manage-your-day-to-day
+  - title: The Year Without Pants
+    author: Scott Berkun
+    subtitle: WordPress.com and the Future of Work
+    date: 2015-01-31
+    read: 2015-01-31
+    rating: 5
+    pages: 272
+    isbn: "1118660633"
+    isbn13: "9781118660638"
+    cover_url: https://assets.hardcover.app/edition/24789159/7859733-L.jpg
+    reading: false
+    url: https://hardcover.app/books/the-year-without-pants
+  - title: "The Carter Family: Don't Forget This Song"
+    author: Frank M. Young
+    subtitle: Don't Forget This Song
+    date: 2015-09-05
+    read: 2015-09-05
+    rating: 0
+    pages: 192
+    isbn: "0810988364"
+    isbn13: "9780810988361"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/175309/a0f063ec970329c59f6281af433de35bf6285fc3.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-carter-family
+  - title: >-
+      The No Asshole Rule: Building a Civilized Workplace and Surviving One That
+      Isn't
+    author: Robert I. Sutton
+    subtitle: Building a Civilized Workplace and Surviving One That Isn't
+    date: 2015-05-07
+    read: 2015-05-07
+    rating: 4
+    pages: 210
+    isbn: "0446526568"
+    isbn13: "9780446526562"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/59479199/075c3d63dde5951709a59fb2d36d573a68e08030.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-no-asshole-rule

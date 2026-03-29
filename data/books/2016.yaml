@@ -1,17 +1,5 @@
 year: 2016
 books:
-  - title: Fantastic Beasts and Where to Find Them
-    author: Newt Scamander
-    subtitle: dove trovarli
-    date: 2016-10-05
-    read: 2016-10-05
-    rating: 4
-    pages: 64
-    isbn: "8498382688"
-    isbn13: "9788498382686"
-    cover_url: https://assets.hardcover.app/edition/934203/9326659-L.jpg
-    reading: false
-    url: https://hardcover.app/books/fantastic-beasts-and-where-to-find-them
   - title: "Sex Criminals: Volume One: One Weird Trick"
     author: Matt Fraction
     subtitle: One weird trick
@@ -25,44 +13,95 @@ books:
       https://assets.hardcover.app/external_data/24096501/572775123a84472dd7d04c0ca4c2908d6623af8a.jpeg
     reading: false
     url: https://hardcover.app/books/sex-criminals
-  - title: "Sex Criminals, Vol. 2: Due Piccioncini, Una Fava"
-    author: Matt Fraction
-    subtitle: Due Piccioncini, Una Fava
-    date: 2016-02-28
-    read: 2016-02-28
+  - title: Lazarus, Vol. 5
+    author: Greg Rucka
+    subtitle: ""
+    date: 2016-08-01
+    read: 2016-08-01
     rating: 5
-    pages: 128
-    isbn: "1632153890"
-    isbn13: "9781632151933"
-    cover_url: https://assets.hardcover.app/edition/18519572/7866734-L.jpg
+    pages: 0
+    isbn: "1607068710"
+    isbn13: "9781607068716"
+    cover_url: https://assets.hardcover.app/edition/26680518/7626151-L.jpg
     reading: false
-    url: https://hardcover.app/books/sex-criminals-vol-2
-  - title: The House of Silk
+    url: https://hardcover.app/books/lazarus-vol-5-2017
+  - title: Southern Bastards
+    author: Jason Aaron
+    subtitle: ""
+    date: 2016-07-14
+    read: 2016-07-14
+    rating: 4
+    pages: 128
+    isbn: "1632150166"
+    isbn13: "9781632150165"
+    cover_url: >-
+      https://assets.hardcover.app/edition/8939278/d6585790a20c843b32dc046c1a788b65295f1d0b.jpeg
+    reading: false
+    url: https://hardcover.app/books/southern-bastards-vol-1-here-was-a-man
+  - title: Moriarty
     author: Anthony Horowitz
     subtitle: ""
-    date: 2016-10-03
-    read: 2016-10-03
+    date: 2016-11-15
+    read: 2016-11-15
     rating: 5
-    pages: 304
-    isbn: "0316196983"
-    isbn13: "9780316196987"
+    pages: 285
+    isbn: "0062377183"
+    isbn13: "9780062377180"
     cover_url: >-
-      https://assets.hardcover.app/edition/30647316/a9eeaebe3684bb2dc411ee8dd9da2411da1a36a5.jpeg
+      https://assets.hardcover.app/edition/6929463/3ff681937f87adccad2c196b2204f36a75611b00.jpeg
     reading: false
-    url: https://hardcover.app/books/the-house-of-silk
-  - title: Paper Girls, Vol. 1
-    author: Brian K. Vaughan
+    url: https://hardcover.app/books/moriarty
+  - title: "Southern Bastards, Vol. 2: Gridiron"
+    author: Jason Aaron
     subtitle: ""
-    date: 2016-07-12
-    read: 2016-07-12
-    rating: 5
+    date: 2016-08-02
+    read: 2016-08-02
+    rating: 4
     pages: 128
-    isbn: "1632156741"
-    isbn13: "9781632156747"
-    cover_url: >-
-      https://assets.hardcover.app/edition/30628203/cb30194cf6f6a3cd816e52cb5d7f84a690d2c29c.jpeg
+    isbn: 163215269X
+    isbn13: "9781632152695"
+    cover_url: https://m.media-amazon.com/images/I/71Qq7me+p5L._AC_UY654_QL65_.jpg
     reading: false
-    url: https://hardcover.app/books/paper-girls-vol-1-2015
+    url: https://hardcover.app/books/southern-bastards-vol-2-gridiron
+  - title: "Calm: Calm the Mind. Change the World"
+    author: Michael Acton Smith
+    subtitle: Calm the Mind. Change the World
+    date: 2016-02-18
+    read: 2016-02-18
+    rating: 5
+    pages: 0
+    isbn: "0241201950"
+    isbn13: "9780241201954"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/60455188/83629f410bb58fb8a41be031d8b09327815b890e.jpeg
+    reading: false
+    url: https://hardcover.app/books/calm-calm-the-mind-change-the-world
+  - title: "Lazarus, Vol. 1: Family"
+    author: Greg Rucka
+    subtitle: Family
+    date: 2016-07-13
+    read: 2016-07-13
+    rating: 5
+    pages: 106
+    isbn: "1607068095"
+    isbn13: "9781607068099"
+    cover_url: >-
+      https://assets.hardcover.app/edition/16983125/1bce83b3dda387241fb5fdfad334ed20b90bb718.jpeg
+    reading: false
+    url: https://hardcover.app/books/lazarus-vol-1-family
+  - title: Managing Oneself
+    author: Peter F. Drucker
+    subtitle: ""
+    date: 2016-05-07
+    read: 2016-05-07
+    rating: 4
+    pages: 128
+    isbn: "1633693058"
+    isbn13: "9781633693050"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/59942143/22f7ca3789f4fa0a23b1dfac7e9d4297eb757b8a.jpeg
+    reading: false
+    url: https://hardcover.app/books/managing-oneself
   - title: >-
       The Happiness Advantage: The Seven Principles of Positive Psychology that
       Fuel Success and Performance at Work
@@ -80,6 +119,44 @@ books:
       https://assets.hardcover.app/edition/30401353/df353beb-4a82-479b-b503-518b1e98f1b3.jpg
     reading: false
     url: https://hardcover.app/books/the-happiness-advantage
+  - title: Eat That Frog!
+    author: Brian Tracy
+    subtitle: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time
+    date: 2016-03-30
+    read: 2016-03-30
+    rating: 4
+    pages: 128
+    isbn: "1576754227"
+    isbn13: "9781576754221"
+    cover_url: https://assets.hardcover.app/edition/12649650/831414-L.jpg
+    reading: false
+    url: https://hardcover.app/books/eat-that-frog
+  - title: The House of Silk
+    author: Anthony Horowitz
+    subtitle: ""
+    date: 2016-10-03
+    read: 2016-10-03
+    rating: 5
+    pages: 304
+    isbn: "0316196983"
+    isbn13: "9780316196987"
+    cover_url: >-
+      https://assets.hardcover.app/edition/30647316/a9eeaebe3684bb2dc411ee8dd9da2411da1a36a5.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-house-of-silk
+  - title: "Descender, Vol. 2: Machine Moon"
+    author: Jeff Lemire
+    subtitle: Machine Moon
+    date: 2016-12-27
+    read: 2016-12-27
+    rating: 5
+    pages: 116
+    isbn: "1632156768"
+    isbn13: "9781632156761"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/59406466/62141f7017afe79a104eda31cb1fb05bf4a4bc09.jpeg
+    reading: false
+    url: https://hardcover.app/books/descender-vol-2
   - title: The Effective Engineer
     author: Edmond Lau
     subtitle: >-
@@ -94,44 +171,44 @@ books:
     cover_url: https://assets.hardcover.app/edition/24792637/9173899-L.jpg
     reading: false
     url: https://hardcover.app/books/the-effective-engineer
-  - title: Eat That Frog!
-    author: Brian Tracy
-    subtitle: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time
-    date: 2016-03-30
-    read: 2016-03-30
-    rating: 4
-    pages: 128
-    isbn: "1576754227"
-    isbn13: "9781576754221"
-    cover_url: https://assets.hardcover.app/edition/12649650/831414-L.jpg
-    reading: false
-    url: https://hardcover.app/books/eat-that-frog
-  - title: Managing Oneself
-    author: Peter F. Drucker
-    subtitle: ""
-    date: 2016-05-07
-    read: 2016-05-07
-    rating: 4
-    pages: 128
-    isbn: "1633693058"
-    isbn13: "9781633693050"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/59942143/22f7ca3789f4fa0a23b1dfac7e9d4297eb757b8a.jpeg
-    reading: false
-    url: https://hardcover.app/books/managing-oneself
-  - title: Moriarty
-    author: Anthony Horowitz
-    subtitle: ""
-    date: 2016-11-15
-    read: 2016-11-15
+  - title: "Descender, Vol. 1: Tin Stars"
+    author: Jeff Lemire
+    subtitle: Tin Stars
+    date: 2016-12-27
+    read: 2016-12-27
     rating: 5
-    pages: 285
-    isbn: "0062377183"
-    isbn13: "9780062377180"
+    pages: 160
+    isbn: "1632154269"
+    isbn13: "9781632154262"
     cover_url: >-
-      https://assets.hardcover.app/edition/6929463/3ff681937f87adccad2c196b2204f36a75611b00.jpeg
+      https://assets.hardcover.app/edition/16392784/413b7971536aa34cbd7e76fe834e7f2ed1ed01ee.jpeg
     reading: false
-    url: https://hardcover.app/books/moriarty
+    url: https://hardcover.app/books/descender-vol-1
+  - title: Paper Girls, Vol. 1
+    author: Brian K. Vaughan
+    subtitle: ""
+    date: 2016-07-12
+    read: 2016-07-12
+    rating: 5
+    pages: 128
+    isbn: "1632156741"
+    isbn13: "9781632156747"
+    cover_url: >-
+      https://assets.hardcover.app/edition/30628203/cb30194cf6f6a3cd816e52cb5d7f84a690d2c29c.jpeg
+    reading: false
+    url: https://hardcover.app/books/paper-girls-vol-1-2015
+  - title: Release It!
+    author: Michael T. Nygard
+    subtitle: Design and Deploy Production-Ready Software
+    date: 2016-07-25
+    read: 2016-07-25
+    rating: 5
+    pages: 326
+    isbn: "0978739213"
+    isbn13: "9780978739218"
+    cover_url: https://assets.hardcover.app/edition/30382582/1069827._SX98_.jpg
+    reading: false
+    url: https://hardcover.app/books/release-it
   - title: "Crucial Conversations: Tools for Talking When Stakes Are High"
     author: Kerry Patterson
     subtitle: Tools for Talking When Stakes Are High
@@ -146,106 +223,6 @@ books:
     reading: false
     url: >-
       https://hardcover.app/books/crucial-conversations-tools-for-talking-when-stakes-are-high-2001
-  - title: "Descender, Vol. 1: Tin Stars"
-    author: Jeff Lemire
-    subtitle: Tin Stars
-    date: 2016-12-27
-    read: 2016-12-27
-    rating: 5
-    pages: 160
-    isbn: "1632154269"
-    isbn13: "9781632154262"
-    cover_url: >-
-      https://assets.hardcover.app/edition/16392784/413b7971536aa34cbd7e76fe834e7f2ed1ed01ee.jpeg
-    reading: false
-    url: https://hardcover.app/books/descender-vol-1
-  - title: "Lazarus, Vol. 1: Family"
-    author: Greg Rucka
-    subtitle: Family
-    date: 2016-07-13
-    read: 2016-07-13
-    rating: 5
-    pages: 106
-    isbn: "1607068095"
-    isbn13: "9781607068099"
-    cover_url: >-
-      https://assets.hardcover.app/edition/16983125/1bce83b3dda387241fb5fdfad334ed20b90bb718.jpeg
-    reading: false
-    url: https://hardcover.app/books/lazarus-vol-1-family
-  - title: Southern Bastards
-    author: Jason Aaron
-    subtitle: ""
-    date: 2016-07-14
-    read: 2016-07-14
-    rating: 4
-    pages: 128
-    isbn: "1632150166"
-    isbn13: "9781632150165"
-    cover_url: >-
-      https://assets.hardcover.app/edition/8939278/d6585790a20c843b32dc046c1a788b65295f1d0b.jpeg
-    reading: false
-    url: https://hardcover.app/books/southern-bastards-vol-1-here-was-a-man
-  - title: "Descender, Vol. 2: Machine Moon"
-    author: Jeff Lemire
-    subtitle: Machine Moon
-    date: 2016-12-27
-    read: 2016-12-27
-    rating: 5
-    pages: 116
-    isbn: "1632156768"
-    isbn13: "9781632156761"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/59406466/62141f7017afe79a104eda31cb1fb05bf4a4bc09.jpeg
-    reading: false
-    url: https://hardcover.app/books/descender-vol-2
-  - title: Lazarus, Vol. 5
-    author: Greg Rucka
-    subtitle: ""
-    date: 2016-08-01
-    read: 2016-08-01
-    rating: 5
-    pages: 0
-    isbn: "1607068710"
-    isbn13: "9781607068716"
-    cover_url: https://assets.hardcover.app/edition/26680518/7626151-L.jpg
-    reading: false
-    url: https://hardcover.app/books/lazarus-vol-5-2017
-  - title: Release It!
-    author: Michael T. Nygard
-    subtitle: Design and Deploy Production-Ready Software
-    date: 2016-07-25
-    read: 2016-07-25
-    rating: 5
-    pages: 326
-    isbn: "0978739213"
-    isbn13: "9780978739218"
-    cover_url: https://assets.hardcover.app/edition/30382582/1069827._SX98_.jpg
-    reading: false
-    url: https://hardcover.app/books/release-it
-  - title: "Southern Bastards, Vol. 2: Gridiron"
-    author: Jason Aaron
-    subtitle: ""
-    date: 2016-08-02
-    read: 2016-08-02
-    rating: 4
-    pages: 128
-    isbn: 163215269X
-    isbn13: "9781632152695"
-    cover_url: https://assets.hardcover.app/edition/30462649/23911614._SX98_.jpg
-    reading: false
-    url: https://hardcover.app/books/southern-bastards-vol-2-gridiron
-  - title: "Sex Criminals, Vol. 6: Six Criminals"
-    author: Matt Fraction
-    subtitle: Six Criminals
-    date: 2016-07-11
-    read: 2016-07-11
-    rating: 5
-    pages: 136
-    isbn: "1534310622"
-    isbn13: "9781534310629"
-    cover_url: https://assets.hardcover.app/edition/30504313/40629276._SX98_.jpg
-    reading: false
-    url: https://hardcover.app/books/sex-criminals-vol-6
   - title: >-
       Harry Potter Schoolbooks Box Set: Quidditch Through the Ages and Fantastic
       Beasts & Where to Find Them
@@ -262,19 +239,42 @@ books:
     reading: false
     url: >-
       https://hardcover.app/books/harry-potter-schoolbooks-box-set-quidditch-through-the-ages-and-fantastic-beasts-where-to-find-them
-  - title: "Calm: Calm the Mind. Change the World"
-    author: Michael Acton Smith
-    subtitle: Calm the Mind. Change the World
-    date: 2016-02-18
-    read: 2016-02-18
+  - title: "Sex Criminals, Vol. 6: Six Criminals"
+    author: Matt Fraction
+    subtitle: Six Criminals
+    date: 2016-07-11
+    read: 2016-07-11
     rating: 5
-    pages: 0
-    isbn: "0241201950"
-    isbn13: "9780241201954"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/60455188/83629f410bb58fb8a41be031d8b09327815b890e.jpeg
+    pages: 136
+    isbn: "1534310622"
+    isbn13: "9781534310629"
+    cover_url: https://assets.hardcover.app/edition/30504313/40629276._SX98_.jpg
     reading: false
-    url: https://hardcover.app/books/calm-calm-the-mind-change-the-world
+    url: https://hardcover.app/books/sex-criminals-vol-6
+  - title: "Sex Criminals, Vol. 2: Due Piccioncini, Una Fava"
+    author: Matt Fraction
+    subtitle: Due Piccioncini, Una Fava
+    date: 2016-02-28
+    read: 2016-02-28
+    rating: 5
+    pages: 128
+    isbn: "1632153890"
+    isbn13: "9781632151933"
+    cover_url: https://assets.hardcover.app/edition/18519572/7866734-L.jpg
+    reading: false
+    url: https://hardcover.app/books/sex-criminals-vol-2
+  - title: Fantastic Beasts and Where to Find Them
+    author: Newt Scamander
+    subtitle: dove trovarli
+    date: 2016-10-05
+    read: 2016-10-05
+    rating: 4
+    pages: 64
+    isbn: "8498382688"
+    isbn13: "9788498382686"
+    cover_url: https://assets.hardcover.app/edition/934203/9326659-L.jpg
+    reading: false
+    url: https://hardcover.app/books/fantastic-beasts-and-where-to-find-them
   - title: "Minimalismo: Para una vida con sentido"
     author: Joshua Fields Millburn
     subtitle: Para una vida con sentido

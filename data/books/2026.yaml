@@ -12,71 +12,58 @@ books:
     cover_url: https://assets.hardcover.app/edition/30462591/10329241-L.jpg
     reading: false
     url: https://hardcover.app/books/famous-2010
-  - title: Margarettown
-    author: Gabrielle Zevin
+  - title: American Tiger
+    author: Adam Skolnick
     subtitle: ""
-    date: 2026-02-15
-    read: 2026-02-15
-    rating: 4
-    pages: 203
-    isbn: "2265159441"
-    isbn13: "9782265159440"
-    cover_url: >-
-      https://assets.hardcover.app/edition/30587927/c907377bb5c3ebf9e5b829ca7811bafb3ee35eb0.jpeg
-    reading: false
-    url: https://hardcover.app/books/margarettown
-  - title: Top of Mason
-    author: Walker Ryan
-    subtitle: ""
-    date: 2026-03-04
-    read: 2026-03-04
-    rating: 4
-    pages: 243
-    isbn: ""
-    isbn13: ""
-    cover_url: >-
-      https://assets.hardcover.app/external_data/61180136/3614d3ccb96011d4836c014ddf1b147c165dc848.jpeg
-    reading: false
-    url: https://hardcover.app/books/top-of-mason
-  - title: Off Clark
-    author: Walker Ryan
-    subtitle: ""
-    date: 2026-03-16
-    read: 2026-03-16
+    date: 2026-01-10
+    read: 2026-01-10
     rating: 4
     pages: 0
-    isbn: ""
-    isbn13: ""
+    isbn: "1544549857"
+    isbn13: "9781544549859"
     cover_url: >-
-      https://assets.hardcover.app/edition/31835822/f8841059-fe38-4ffc-a4f5-e03a7c7754c5.jpg
+      https://assets.hardcover.app/edition/32621498/8f9a0cd1-967a-4338-9c3f-adf66b5b36e8.jpeg
     reading: false
-    url: https://hardcover.app/books/off-clark
-  - title: The Apothecary Diaries Manga, Vol. 12
-    author: Nekokurage
-    subtitle: Diários de uma Apotecária
-    date: 2026-03-08
-    read: 2026-03-08
-    rating: 5
-    pages: 176
-    isbn: "1646092961"
-    isbn13: "9781646092963"
-    cover_url: >-
-      https://assets.hardcover.app/edition/31916759/5e5211912f4f349f0ec49063299873e1729800dc.jpeg
-    reading: false
-    url: https://hardcover.app/books/the-apothecary-diaries-manga-vol-12
-  - title: The Apothecary Diaries Manga, Vol. 14
-    author: Nekokurage
+    url: https://hardcover.app/books/american-tiger
+  - title: Planetarium Ghost Travel T1
+    author: Sakana Sakatsuki
     subtitle: ""
-    date: 2026-03-08
-    read: 2026-03-08
+    date: 2026-02-01
+    read: 2026-02-01
     rating: 5
-    pages: 176
-    isbn: "1646094220"
-    isbn13: "9781646094226"
+    pages: 0
+    isbn: "2810208719"
+    isbn13: "9782810208715"
     cover_url: >-
-      https://assets.hardcover.app/edition/32045806/450069fd104d73cadce91966610baf5b5bb83a22.jpeg
+      https://assets.hardcover.app/edition/32675856/9b11c56394def0bb1feb7298e9505a42b621151c.jpeg
     reading: false
-    url: https://hardcover.app/books/the-apothecary-diaries-manga-vol-14
+    url: https://hardcover.app/books/planetarium-ghost-travel-t1
+  - title: Planetarium Ghost Travel T2
+    author: Sakana Sakatsuki
+    subtitle: ""
+    date: 2026-02-01
+    read: 2026-02-01
+    rating: 5
+    pages: 0
+    isbn: "2810208646"
+    isbn13: "9782810208647"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675852/76b501c509d0424323e19ff2a4d51755d2d1872a.jpeg
+    reading: false
+    url: https://hardcover.app/books/planetarium-ghost-travel-t2
+  - title: Planetarium Ghost Travel T0
+    author: Sakana Sakatsuki
+    subtitle: ""
+    date: 2026-01-20
+    read: 2026-01-20
+    rating: 5
+    pages: 0
+    isbn: "2810209340"
+    isbn13: "9782810209347"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675877/45957f7b06a1edb0b5f67159d4533533f074e9f8.jpeg
+    reading: false
+    url: https://hardcover.app/books/planetarium-ghost-travel-t0
   - title: Hirayasumi, Vol. 6
     author: Keigo Shinzō
     subtitle: ""
@@ -90,6 +77,19 @@ books:
       https://assets.hardcover.app/edition/32207696/0bc15e67aedaf9d7b6b16e071252bd529c22fea9.jpeg
     reading: false
     url: https://hardcover.app/books/hirayasumi-vol-6
+  - title: Planetarium Ghost Travel T3
+    author: Sakana Sakatsuki
+    subtitle: ""
+    date: 2026-02-09
+    read: 2026-02-09
+    rating: 4
+    pages: 0
+    isbn: "2810209391"
+    isbn13: "9782810209392"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32696563/7ca07a45225283178621a9e9422d74a9d813d758.jpeg
+    reading: false
+    url: https://hardcover.app/books/planetarium-ghost-travel-t3
   - title: Comment j'ai retrouvé Xavier Dupont de Ligonnès
     author: Romain Puértolas
     subtitle: ""
@@ -116,33 +116,6 @@ books:
       https://assets.hardcover.app/edition/32247432/83b151d63b9e3aff182782b7ba9e5f5c25dc5ad1.jpeg
     reading: false
     url: https://hardcover.app/books/hirayasumi-vol-7
-  - title: "Blank Space: A Cultural History of the Twenty-First Century"
-    author: W. David Marx
-    subtitle: A Cultural History of the Twenty-First Century
-    date: 2026-02-03
-    read: 2026-02-03
-    rating: 4
-    pages: 387
-    isbn: "0593834003"
-    isbn13: "9780593834008"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32260534/b9b3c5c4c16e580622428d474bf3b1cc6bd5383b.jpeg
-    reading: false
-    url: >-
-      https://hardcover.app/books/blank-space-a-cultural-history-of-the-twenty-first-century
-  - title: Ichi the Witch, Vol. 1
-    author: Osamu Nishi
-    subtitle: ""
-    date: 2026-03-17
-    read: 2026-03-17
-    rating: 4
-    pages: 200
-    isbn: "1974757757"
-    isbn13: "9781974757756"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32341997/3bd77746775d11955459602d48ec828d1390d564.jpeg
-    reading: false
-    url: https://hardcover.app/books/ichi-the-witch-vol-1
   - title: Hirayasumi, Vol. 8
     author: Keigo Shinzō
     subtitle: ""
@@ -156,97 +129,6 @@ books:
       https://assets.hardcover.app/edition/32342014/0dc720ff644ea67fe6f39385e00c99ad5c121a6f.jpeg
     reading: false
     url: https://hardcover.app/books/hirayasumi-vol-8
-  - title: American Tiger
-    author: Adam Skolnick
-    subtitle: ""
-    date: 2026-01-10
-    read: 2026-01-10
-    rating: 4
-    pages: 0
-    isbn: "1544549857"
-    isbn13: "9781544549859"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32621498/8f9a0cd1-967a-4338-9c3f-adf66b5b36e8.jpeg
-    reading: false
-    url: https://hardcover.app/books/american-tiger
-  - title: Hirayasumi, Vol. 9
-    author: Keigo Shinzō
-    subtitle: ""
-    date: 2026-03-10
-    read: 2026-03-10
-    rating: 4
-    pages: 208
-    isbn: "1974763331"
-    isbn13: "9781974763337"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32668566/349496faaa94484552f0b64a57864ead7cf0dd3b.jpeg
-    reading: false
-    url: https://hardcover.app/books/hirayasumi-vol-9
-  - title: Planetarium Ghost Travel T2
-    author: Sakana Sakatsuki
-    subtitle: ""
-    date: 2026-02-01
-    read: 2026-02-01
-    rating: 5
-    pages: 0
-    isbn: "2810208646"
-    isbn13: "9782810208647"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32675852/76b501c509d0424323e19ff2a4d51755d2d1872a.jpeg
-    reading: false
-    url: https://hardcover.app/books/planetarium-ghost-travel-t2
-  - title: Planetarium Ghost Travel T1
-    author: Sakana Sakatsuki
-    subtitle: ""
-    date: 2026-02-01
-    read: 2026-02-01
-    rating: 5
-    pages: 0
-    isbn: "2810208719"
-    isbn13: "9782810208715"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32675856/9b11c56394def0bb1feb7298e9505a42b621151c.jpeg
-    reading: false
-    url: https://hardcover.app/books/planetarium-ghost-travel-t1
-  - title: Planetarium Ghost Travel T0
-    author: Sakana Sakatsuki
-    subtitle: ""
-    date: 2026-01-20
-    read: 2026-01-20
-    rating: 5
-    pages: 0
-    isbn: "2810209340"
-    isbn13: "9782810209347"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32675877/45957f7b06a1edb0b5f67159d4533533f074e9f8.jpeg
-    reading: false
-    url: https://hardcover.app/books/planetarium-ghost-travel-t0
-  - title: Summer of lave
-    author: Keigo Shinzō
-    subtitle: ""
-    date: 2026-02-04
-    read: 2026-02-04
-    rating: 4
-    pages: 320
-    isbn: "2353481469"
-    isbn13: "9782353481460"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32685267/2118438f96f72f941e99d434e0dfc2bede6d0f79.jpeg
-    reading: false
-    url: https://hardcover.app/books/summer-of-lave
-  - title: Planetarium Ghost Travel T3
-    author: Sakana Sakatsuki
-    subtitle: ""
-    date: 2026-02-09
-    read: 2026-02-09
-    rating: 4
-    pages: 0
-    isbn: "2810209391"
-    isbn13: "9782810209392"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32696563/7ca07a45225283178621a9e9422d74a9d813d758.jpeg
-    reading: false
-    url: https://hardcover.app/books/planetarium-ghost-travel-t3
   - title: Skating Wilder
     author: AJ Dungo
     subtitle: ""
@@ -273,6 +155,71 @@ books:
       https://assets.hardcover.app/edition/32758334/be8bee51dc00effb494ec7283f506806be0a8815.jpeg
     reading: false
     url: https://hardcover.app/books/les-carnets-de-lapothicaire-tome-13
+  - title: The Apothecary Diaries Manga, Vol. 12
+    author: Nekokurage
+    subtitle: Diários de uma Apotecária
+    date: 2026-03-08
+    read: 2026-03-08
+    rating: 5
+    pages: 176
+    isbn: "1646092961"
+    isbn13: "9781646092963"
+    cover_url: >-
+      https://assets.hardcover.app/edition/31916759/5e5211912f4f349f0ec49063299873e1729800dc.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-apothecary-diaries-manga-vol-12
+  - title: The Apothecary Diaries Manga, Vol. 14
+    author: Nekokurage
+    subtitle: ""
+    date: 2026-03-08
+    read: 2026-03-08
+    rating: 5
+    pages: 176
+    isbn: "1646094220"
+    isbn13: "9781646094226"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32045806/450069fd104d73cadce91966610baf5b5bb83a22.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-apothecary-diaries-manga-vol-14
+  - title: Hirayasumi, Vol. 9
+    author: Keigo Shinzō
+    subtitle: ""
+    date: 2026-03-10
+    read: 2026-03-10
+    rating: 4
+    pages: 208
+    isbn: "1974763331"
+    isbn13: "9781974763337"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32668566/349496faaa94484552f0b64a57864ead7cf0dd3b.jpeg
+    reading: false
+    url: https://hardcover.app/books/hirayasumi-vol-9
+  - title: Off Clark
+    author: Walker Ryan
+    subtitle: ""
+    date: 2026-03-16
+    read: 2026-03-16
+    rating: 4
+    pages: 0
+    isbn: ""
+    isbn13: ""
+    cover_url: >-
+      https://assets.hardcover.app/edition/31835822/f8841059-fe38-4ffc-a4f5-e03a7c7754c5.jpg
+    reading: false
+    url: https://hardcover.app/books/off-clark
+  - title: Ichi the Witch, Vol. 1
+    author: Osamu Nishi
+    subtitle: ""
+    date: 2026-03-17
+    read: 2026-03-17
+    rating: 4
+    pages: 200
+    isbn: "1974757757"
+    isbn13: "9781974757756"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32341997/3bd77746775d11955459602d48ec828d1390d564.jpeg
+    reading: false
+    url: https://hardcover.app/books/ichi-the-witch-vol-1
   - title: Thermae Romae Redux
     author: Mari Yamazaki
     subtitle: ""
@@ -286,3 +233,56 @@ books:
       https://assets.hardcover.app/edition/32794227/35a2f712-9166-4f68-952d-f2308a50274d.jpg
     reading: false
     url: https://hardcover.app/books/thermae-romae-redux
+  - title: Top of Mason
+    author: Walker Ryan
+    subtitle: ""
+    date: 2026-03-04
+    read: 2026-03-04
+    rating: 4
+    pages: 243
+    isbn: ""
+    isbn13: ""
+    cover_url: >-
+      https://assets.hardcover.app/external_data/61180136/3614d3ccb96011d4836c014ddf1b147c165dc848.jpeg
+    reading: false
+    url: https://hardcover.app/books/top-of-mason
+  - title: Margarettown
+    author: Gabrielle Zevin
+    subtitle: ""
+    date: 2026-02-15
+    read: 2026-02-15
+    rating: 4
+    pages: 203
+    isbn: "2265159441"
+    isbn13: "9782265159440"
+    cover_url: >-
+      https://assets.hardcover.app/edition/30587927/c907377bb5c3ebf9e5b829ca7811bafb3ee35eb0.jpeg
+    reading: false
+    url: https://hardcover.app/books/margarettown
+  - title: "Blank Space: A Cultural History of the Twenty-First Century"
+    author: W. David Marx
+    subtitle: A Cultural History of the Twenty-First Century
+    date: 2026-02-03
+    read: 2026-02-03
+    rating: 4
+    pages: 387
+    isbn: "0593834003"
+    isbn13: "9780593834008"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32260534/b9b3c5c4c16e580622428d474bf3b1cc6bd5383b.jpeg
+    reading: false
+    url: >-
+      https://hardcover.app/books/blank-space-a-cultural-history-of-the-twenty-first-century
+  - title: Summer of lave
+    author: Keigo Shinzō
+    subtitle: ""
+    date: 2026-02-04
+    read: 2026-02-04
+    rating: 4
+    pages: 320
+    isbn: "2353481469"
+    isbn13: "9782353481460"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32685267/2118438f96f72f941e99d434e0dfc2bede6d0f79.jpeg
+    reading: false
+    url: https://hardcover.app/books/summer-of-lave
