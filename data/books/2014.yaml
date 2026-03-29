@@ -1,68 +1,5 @@
 year: 2014
 books:
-  - title: The Passionate Programmer
-    author: Chad Fowler
-    subtitle: ""
-    date: 2014-12-31
-    read: 2014-12-31
-    rating: 0
-    pages: 191
-    isbn: "1934356344"
-    isbn13: "9781934356340"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/46776156/6373943a647a0c7dfaf1441ae80cf73f58f6d261.jpeg
-    reading: false
-    url: https://hardcover.app/books/the-passionate-programmer
-  - title: Becoming a Technical Leader
-    author: Gerald M. Weinberg
-    subtitle: An Organic Problem-Solving Approach
-    date: 2014-12-28
-    read: 2014-12-28
-    rating: 4
-    pages: 316
-    isbn: "0932633021"
-    isbn13: "9780932633026"
-    cover_url: >-
-      https://books.google.com/books/content?id=tv0JAQAAMAAJ&printsec=frontcover&img=1&zoom=3&source=gbs_api
-    reading: false
-    url: https://hardcover.app/books/becoming-a-technical-leader
-  - title: "Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability"
-    author: Steve Krug
-    subtitle: A Common Sense Approach to Web Usability
-    date: 2014-06-08
-    read: 2014-06-08
-    rating: 5
-    pages: 216
-    isbn: ""
-    isbn13: "9780321965516"
-    cover_url: >-
-      https://assets.hardcover.app/editions/30400139/2960466975258181-18197267.jpg
-    reading: false
-    url: https://hardcover.app/books/dont-make-me-think-revisited
-  - title: The Blue Bottle Craft of Coffee
-    author: James Freeman
-    subtitle: ""
-    date: 2014-09-27
-    read: 2014-09-27
-    rating: 4
-    pages: 0
-    isbn: "1607741180"
-    isbn13: "9781607741183"
-    cover_url: https://assets.hardcover.app/books/379353/7268761-L.jpg
-    reading: false
-    url: https://hardcover.app/books/the-blue-bottle-craft-of-coffee
-  - title: Slack
-    author: Tom DeMarco
-    subtitle: Getting Past Burnout, Busywork, and the Myth of Total Efficiency
-    date: 2014-05-22
-    read: 2014-05-22
-    rating: 5
-    pages: 227
-    isbn: "0767907698"
-    isbn13: "9780767907699"
-    cover_url: https://assets.hardcover.app/edition/30381101/content.jpeg
-    reading: false
-    url: https://hardcover.app/books/slack
   - title: "Effective Monitoring and Alerting: For Web Operations"
     author: Slawek Ligus
     subtitle: For Web Operations
@@ -77,6 +14,69 @@ books:
     reading: false
     url: >-
       https://hardcover.app/books/effective-monitoring-and-alerting-for-web-operations
+  - title: "Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability"
+    author: Steve Krug
+    subtitle: A Common Sense Approach to Web Usability
+    date: 2014-06-08
+    read: 2014-06-08
+    rating: 5
+    pages: 216
+    isbn: ""
+    isbn13: "9780321965516"
+    cover_url: >-
+      https://assets.hardcover.app/editions/30400139/2960466975258181-18197267.jpg
+    reading: false
+    url: https://hardcover.app/books/dont-make-me-think-revisited
+  - title: Becoming a Technical Leader
+    author: Gerald M. Weinberg
+    subtitle: An Organic Problem-Solving Approach
+    date: 2014-12-28
+    read: 2014-12-28
+    rating: 4
+    pages: 316
+    isbn: "0932633021"
+    isbn13: "9780932633026"
+    cover_url: >-
+      https://books.google.com/books/content?id=tv0JAQAAMAAJ&printsec=frontcover&img=1&zoom=3&source=gbs_api
+    reading: false
+    url: https://hardcover.app/books/becoming-a-technical-leader
+  - title: Slack
+    author: Tom DeMarco
+    subtitle: Getting Past Burnout, Busywork, and the Myth of Total Efficiency
+    date: 2014-05-22
+    read: 2014-05-22
+    rating: 5
+    pages: 227
+    isbn: "0767907698"
+    isbn13: "9780767907699"
+    cover_url: https://assets.hardcover.app/edition/30381101/content.jpeg
+    reading: false
+    url: https://hardcover.app/books/slack
+  - title: The Passionate Programmer
+    author: Chad Fowler
+    subtitle: ""
+    date: 2014-12-31
+    read: 2014-12-31
+    rating: 0
+    pages: 191
+    isbn: "1934356344"
+    isbn13: "9781934356340"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/46776156/6373943a647a0c7dfaf1441ae80cf73f58f6d261.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-passionate-programmer
+  - title: The Blue Bottle Craft of Coffee
+    author: James Freeman
+    subtitle: ""
+    date: 2014-09-27
+    read: 2014-09-27
+    rating: 4
+    pages: 0
+    isbn: "1607741180"
+    isbn13: "9781607741183"
+    cover_url: https://assets.hardcover.app/books/379353/7268761-L.jpg
+    reading: false
+    url: https://hardcover.app/books/the-blue-bottle-craft-of-coffee
   - title: "Une Créativité sans Limite !: N'ayez plus de manque d'idées"
     author: Raphaël Lejoly
     subtitle: N'ayez plus de manque d'idées
