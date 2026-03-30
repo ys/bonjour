@@ -12,58 +12,6 @@ books:
     cover_url: https://assets.hardcover.app/edition/30462591/10329241-L.jpg
     reading: false
     url: https://hardcover.app/books/famous-2010
-  - title: American Tiger
-    author: Adam Skolnick
-    subtitle: ""
-    date: 2026-01-10
-    read: 2026-01-10
-    rating: 4
-    pages: 0
-    isbn: "1544549857"
-    isbn13: "9781544549859"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32621498/8f9a0cd1-967a-4338-9c3f-adf66b5b36e8.jpeg
-    reading: false
-    url: https://hardcover.app/books/american-tiger
-  - title: Planetarium Ghost Travel T1
-    author: Sakana Sakatsuki
-    subtitle: ""
-    date: 2026-02-01
-    read: 2026-02-01
-    rating: 5
-    pages: 0
-    isbn: "2810208719"
-    isbn13: "9782810208715"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32675856/9b11c56394def0bb1feb7298e9505a42b621151c.jpeg
-    reading: false
-    url: https://hardcover.app/books/planetarium-ghost-travel-t1
-  - title: Planetarium Ghost Travel T2
-    author: Sakana Sakatsuki
-    subtitle: ""
-    date: 2026-02-01
-    read: 2026-02-01
-    rating: 5
-    pages: 0
-    isbn: "2810208646"
-    isbn13: "9782810208647"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32675852/76b501c509d0424323e19ff2a4d51755d2d1872a.jpeg
-    reading: false
-    url: https://hardcover.app/books/planetarium-ghost-travel-t2
-  - title: Planetarium Ghost Travel T0
-    author: Sakana Sakatsuki
-    subtitle: ""
-    date: 2026-01-20
-    read: 2026-01-20
-    rating: 5
-    pages: 0
-    isbn: "2810209340"
-    isbn13: "9782810209347"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32675877/45957f7b06a1edb0b5f67159d4533533f074e9f8.jpeg
-    reading: false
-    url: https://hardcover.app/books/planetarium-ghost-travel-t0
   - title: Hirayasumi, Vol. 6
     author: Keigo Shinzō
     subtitle: ""
@@ -233,6 +181,58 @@ books:
       https://assets.hardcover.app/edition/32794227/35a2f712-9166-4f68-952d-f2308a50274d.jpg
     reading: false
     url: https://hardcover.app/books/thermae-romae-redux
+  - title: Planetarium Ghost Travel T1
+    author: Sakana Sakatsuki
+    subtitle: ""
+    date: 2026-02-01
+    read: 2026-02-01
+    rating: 5
+    pages: 0
+    isbn: "2810208719"
+    isbn13: "9782810208715"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675856/9b11c56394def0bb1feb7298e9505a42b621151c.jpeg
+    reading: false
+    url: https://hardcover.app/books/planetarium-ghost-travel-t1
+  - title: American Tiger
+    author: Adam Skolnick
+    subtitle: ""
+    date: 2026-01-10
+    read: 2026-01-10
+    rating: 4
+    pages: 0
+    isbn: "1544549857"
+    isbn13: "9781544549859"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32621498/8f9a0cd1-967a-4338-9c3f-adf66b5b36e8.jpeg
+    reading: false
+    url: https://hardcover.app/books/american-tiger
+  - title: Planetarium Ghost Travel T2
+    author: Sakana Sakatsuki
+    subtitle: ""
+    date: 2026-02-01
+    read: 2026-02-01
+    rating: 5
+    pages: 0
+    isbn: "2810208646"
+    isbn13: "9782810208647"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675852/76b501c509d0424323e19ff2a4d51755d2d1872a.jpeg
+    reading: false
+    url: https://hardcover.app/books/planetarium-ghost-travel-t2
+  - title: Planetarium Ghost Travel T0
+    author: Sakana Sakatsuki
+    subtitle: ""
+    date: 2026-01-20
+    read: 2026-01-20
+    rating: 5
+    pages: 0
+    isbn: "2810209340"
+    isbn13: "9782810209347"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675877/45957f7b06a1edb0b5f67159d4533533f074e9f8.jpeg
+    reading: false
+    url: https://hardcover.app/books/planetarium-ghost-travel-t0
   - title: Top of Mason
     author: Walker Ryan
     subtitle: ""

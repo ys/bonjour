@@ -1,18 +1,18 @@
 year: 2021
 books:
-  - title: Breath
-    author: Tim Winton
+  - title: En mer
+    author: Toine Heijmans
     subtitle: ""
-    date: 2021-01-06
-    read: 2021-01-06
-    rating: 5
-    pages: 285
-    isbn: "0374116342"
-    isbn13: "9780374116347"
+    date: 2021-05-16
+    read: 2021-05-16
+    rating: 4
+    pages: 155
+    isbn: "2267025280"
+    isbn13: "9782267025286"
     cover_url: >-
-      https://assets.hardcover.app/edition/14337995/4cfe4cfecb916ba5f4cf506b601585e10f3dd5b9.jpeg
+      https://assets.hardcover.app/edition/31298882/69fa97d961715d7fd04dcdb02c7c2d10a18ae938.jpeg
     reading: false
-    url: https://hardcover.app/books/breath-2008
+    url: https://hardcover.app/books/en-mer
   - title: "Path: A short story about reciprocity"
     author: Louisa Thomsen Brits
     subtitle: A short story about reciprocity
@@ -51,44 +51,19 @@ books:
     cover_url: https://assets.hardcover.app/editions/30402559/2802629647590855.jpeg
     reading: false
     url: https://hardcover.app/books/normal-people
-  - title: Saltwater in the Blood
-    author: Easkey Britton
-    subtitle: Surfing, Natural Cycles and the Sea's Power to Heal
-    date: 2021-12-26
-    read: 2021-12-26
-    rating: 4
-    pages: 256
-    isbn: ""
-    isbn13: "9781786785558"
-    cover_url: https://assets.hardcover.app/edition/30647039/58295954._SX98_.jpg
-    reading: false
-    url: https://hardcover.app/books/saltwater-in-the-blood
-  - title: "Do Walk: Navigate earth, mind and body. Step by step."
-    author: Libby DeLana
-    subtitle: Navigate earth, mind and body. Step by step.
-    date: 2021-06-14
-    read: 2021-06-14
-    rating: 3
-    pages: 128
-    isbn: "1907974962"
-    isbn13: "9781907974960"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/60178966/9fc4ee4c5ef02123309a37a8d05caa820807176f.jpeg
-    reading: false
-    url: https://hardcover.app/books/do-walk
-  - title: En mer
-    author: Toine Heijmans
+  - title: Breath
+    author: Tim Winton
     subtitle: ""
-    date: 2021-05-16
-    read: 2021-05-16
-    rating: 4
-    pages: 155
-    isbn: "2267025280"
-    isbn13: "9782267025286"
+    date: 2021-01-06
+    read: 2021-01-06
+    rating: 5
+    pages: 285
+    isbn: "0374116342"
+    isbn13: "9780374116347"
     cover_url: >-
-      https://assets.hardcover.app/edition/31298882/69fa97d961715d7fd04dcdb02c7c2d10a18ae938.jpeg
+      https://assets.hardcover.app/edition/14337995/4cfe4cfecb916ba5f4cf506b601585e10f3dd5b9.jpeg
     reading: false
-    url: https://hardcover.app/books/en-mer
+    url: https://hardcover.app/books/breath-2008
   - title: Surf city
     author: Kem Nunn
     subtitle: ""
@@ -115,6 +90,57 @@ books:
       https://assets.hardcover.app/external_data/2457970/fb0c3c2745dd13194fcb00e395e5e186e477f457.jpeg
     reading: false
     url: https://hardcover.app/books/le-grand-marin
+  - title: Saltwater in the Blood
+    author: Easkey Britton
+    subtitle: Surfing, Natural Cycles and the Sea's Power to Heal
+    date: 2021-12-26
+    read: 2021-12-26
+    rating: 4
+    pages: 256
+    isbn: ""
+    isbn13: "9781786785558"
+    cover_url: https://assets.hardcover.app/edition/30647039/58295954._SX98_.jpg
+    reading: false
+    url: https://hardcover.app/books/saltwater-in-the-blood
+  - title: Grand Océan
+    author: Fabien Grolleau
+    subtitle: ""
+    date: 2021-07-30
+    read: 2021-07-30
+    rating: 4
+    pages: 148
+    isbn: "2366244444"
+    isbn13: "9782366244441"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675896/a9a1ee4838834d87123cb0abce706a30c9f4528a.jpeg
+    reading: false
+    url: https://hardcover.app/books/grand-ocean-2019
+  - title: Printemps silencieux
+    author: Rachel Carson
+    subtitle: ""
+    date: 2021-03-26
+    read: 2021-03-26
+    rating: 4
+    pages: 343
+    isbn: "2918490997"
+    isbn13: "9782918490999"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458225/8116077313bbb94b55da05e61828089a4b5d016b.jpeg
+    reading: false
+    url: https://hardcover.app/books/printemps-silencieux-1962
+  - title: "Do Walk: Navigate earth, mind and body. Step by step."
+    author: Libby DeLana
+    subtitle: Navigate earth, mind and body. Step by step.
+    date: 2021-06-14
+    read: 2021-06-14
+    rating: 3
+    pages: 128
+    isbn: "1907974962"
+    isbn13: "9781907974960"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/60178966/9fc4ee4c5ef02123309a37a8d05caa820807176f.jpeg
+    reading: false
+    url: https://hardcover.app/books/do-walk
   - title: The Lovers
     author: Paolo Cognetti
     subtitle: ""
@@ -181,45 +207,6 @@ books:
       https://assets.hardcover.app/external_data/2458088/ce28a1fc4b939eefaed64e2b6e8a8248efc51487.jpeg
     reading: false
     url: https://hardcover.app/books/besoin-de-mer-1999
-  - title: Encabanée
-    author: Gabrielle Filteau-Chiba
-    subtitle: ""
-    date: 2021-05-16
-    read: 2021-05-16
-    rating: 4
-    pages: 68
-    isbn: "2361397048"
-    isbn13: "9782361397043"
-    cover_url: >-
-      https://assets.hardcover.app/edition/31229671/19b2a31944f59ca341227171962eea0ca07ac609.jpeg
-    reading: false
-    url: https://hardcover.app/books/encabanee
-  - title: Grand Océan
-    author: Fabien Grolleau
-    subtitle: ""
-    date: 2021-07-30
-    read: 2021-07-30
-    rating: 4
-    pages: 148
-    isbn: "2366244444"
-    isbn13: "9782366244441"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32675896/a9a1ee4838834d87123cb0abce706a30c9f4528a.jpeg
-    reading: false
-    url: https://hardcover.app/books/grand-ocean-2019
-  - title: Printemps silencieux
-    author: Rachel Carson
-    subtitle: ""
-    date: 2021-03-26
-    read: 2021-03-26
-    rating: 4
-    pages: 343
-    isbn: "2918490997"
-    isbn13: "9782918490999"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/2458225/8116077313bbb94b55da05e61828089a4b5d016b.jpeg
-    reading: false
-    url: https://hardcover.app/books/printemps-silencieux-1962
   - title: Jamais la même vague
     author: Frédéric Schiffter
     subtitle: ""
@@ -233,6 +220,19 @@ books:
       https://assets.hardcover.app/external_data/2458204/8b9926b851ada21885a89cbaab18880e537fb033.jpeg
     reading: false
     url: https://hardcover.app/books/jamais-la-meme-vague-2020
+  - title: Encabanée
+    author: Gabrielle Filteau-Chiba
+    subtitle: ""
+    date: 2021-05-16
+    read: 2021-05-16
+    rating: 4
+    pages: 68
+    isbn: "2361397048"
+    isbn13: "9782361397043"
+    cover_url: >-
+      https://assets.hardcover.app/edition/31229671/19b2a31944f59ca341227171962eea0ca07ac609.jpeg
+    reading: false
+    url: https://hardcover.app/books/encabanee
   - title: Miss Islande
     author: Auður Ava Ólafsdóttir
     subtitle: roman
