@@ -27,18 +27,6 @@ books:
     reading: false
     url: >-
       https://hardcover.app/books/remote-pairing-collaborative-tools-for-distributed-development
-  - title: "Killing and Dying: Stories"
-    author: Adrian Tomine
-    subtitle: ""
-    date: 2015-12-15
-    read: 2015-12-15
-    rating: 5
-    pages: 121
-    isbn: "1770462090"
-    isbn13: "9781770462090"
-    cover_url: https://assets.hardcover.app/edition/27866499/12577840-L.jpg
-    reading: false
-    url: https://hardcover.app/books/killing-and-dying-stories
   - title: How to Win Friends and Influence People
     author: Dale Carnegie
     subtitle: Die Kunst, beliebt und einflussreich zu werden
@@ -64,6 +52,18 @@ books:
     cover_url: https://assets.hardcover.app/edition/1487835/8689155-L.jpg
     reading: false
     url: https://hardcover.app/books/logicomix
+  - title: "Killing and Dying: Stories"
+    author: Adrian Tomine
+    subtitle: ""
+    date: 2015-12-15
+    read: 2015-12-15
+    rating: 5
+    pages: 121
+    isbn: "1770462090"
+    isbn13: "9781770462090"
+    cover_url: https://assets.hardcover.app/edition/27866499/12577840-L.jpg
+    reading: false
+    url: https://hardcover.app/books/killing-and-dying-stories
   - title: "Why We Get Fat: And What to Do About It"
     author: Gary Taubes
     subtitle: And What to Do About It

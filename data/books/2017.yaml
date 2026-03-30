@@ -1,5 +1,18 @@
 year: 2017
 books:
+  - title: "The Big Tiny: A Built-It-Myself Memoir"
+    author: Dee  Williams
+    subtitle: A Built-It-Myself Memoir
+    date: 2017-01-22
+    read: 2017-01-22
+    rating: 4
+    pages: 304
+    isbn: "0399166173"
+    isbn13: "9780399166174"
+    cover_url: >-
+      https://assets.hardcover.app/edition/30435150/de9e797d8578e01ce111c9f99953b820e9c61684.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-big-tiny-a-built-it-myself-memoir
   - title: Un été dans l'Ouest
     author: Philippe Labro
     subtitle: ""
@@ -27,19 +40,6 @@ books:
     cover_url: ""
     reading: false
     url: https://hardcover.app/books/the-credibility-code
-  - title: "The Big Tiny: A Built-It-Myself Memoir"
-    author: Dee  Williams
-    subtitle: A Built-It-Myself Memoir
-    date: 2017-01-22
-    read: 2017-01-22
-    rating: 4
-    pages: 304
-    isbn: "0399166173"
-    isbn13: "9780399166174"
-    cover_url: >-
-      https://assets.hardcover.app/edition/30435150/de9e797d8578e01ce111c9f99953b820e9c61684.jpeg
-    reading: false
-    url: https://hardcover.app/books/the-big-tiny-a-built-it-myself-memoir
   - title: Into the Wild
     author: Jon Krakauer
     subtitle: ""
@@ -70,6 +70,18 @@ books:
       https://assets.hardcover.app/external_data/44165253/1943405c93dd1d736e671155e11b3a04182acfe5.jpeg
     reading: false
     url: https://hardcover.app/books/10-happier
+  - title: Everything That Remains
+    author: Joshua Fields Millburn
+    subtitle: ""
+    date: 2017-05-02
+    read: 2017-05-02
+    rating: 4
+    pages: 234
+    isbn: "1938793188"
+    isbn13: "9781938793189"
+    cover_url: https://assets.hardcover.app/edition/30405449/content.jpeg
+    reading: false
+    url: https://hardcover.app/books/everything-that-remains
   - title: >-
       The Obstacle is the Way: The Timeless Art of Turning Adversity to
       Advantage
@@ -85,18 +97,21 @@ books:
       https://assets.hardcover.app/external_data/43298322/8a1fe15ef772beaf1c04d7d385ad057c097e5b9a.jpeg
     reading: false
     url: https://hardcover.app/books/the-obstacle-is-the-way
-  - title: Everything That Remains
-    author: Joshua Fields Millburn
+  - title: >-
+      Positive Discipline by Nelsen Ed.D., Jane [Ballantine,2006] (Paperback)
+      Revised edition
+    author: Jane Nelsen
     subtitle: ""
-    date: 2017-05-02
-    read: 2017-05-02
+    date: 2017-01-17
+    read: 2017-01-17
     rating: 4
-    pages: 234
-    isbn: "1938793188"
-    isbn13: "9781938793189"
-    cover_url: https://assets.hardcover.app/edition/30405449/content.jpeg
+    pages: 0
+    isbn: ""
+    isbn13: ""
+    cover_url: ""
     reading: false
-    url: https://hardcover.app/books/everything-that-remains
+    url: >-
+      https://hardcover.app/books/positive-discipline-by-nelsen-edd-jane-ballantine-2006-paperback-revised-edition
   - title: You're Never Weird on the Internet
     author: Felicia Day
     subtitle: ""
@@ -124,47 +139,6 @@ books:
     reading: false
     url: https://hardcover.app/books/paper-girls-vol-2
   - title: >-
-      Positive Discipline by Nelsen Ed.D., Jane [Ballantine,2006] (Paperback)
-      Revised edition
-    author: Jane Nelsen
-    subtitle: ""
-    date: 2017-01-17
-    read: 2017-01-17
-    rating: 4
-    pages: 0
-    isbn: ""
-    isbn13: ""
-    cover_url: ""
-    reading: false
-    url: >-
-      https://hardcover.app/books/positive-discipline-by-nelsen-edd-jane-ballantine-2006-paperback-revised-edition
-  - title: "Wild Muir: Twenty-Two of John Muir's Greatest Adventures"
-    author: Lee Stetson
-    subtitle: Twenty-Two of John Muir's Greatest Adventures
-    date: 2017-12-08
-    read: 2017-12-08
-    rating: 4
-    pages: 225
-    isbn: "1306446716"
-    isbn13: "9781306446716"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/2458043/ca4f5a58221b1471927a6efbfdf012898ccb3446.jpeg
-    reading: false
-    url: https://hardcover.app/books/wild-muir
-  - title: Time Runs Out
-    author: Lisa M. Ross
-    subtitle: ""
-    date: 2017-11-05
-    read: 2017-11-05
-    rating: 4
-    pages: 0
-    isbn: "1299119638"
-    isbn13: "9781299119635"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32675881/cbe8dcff39730f998c098f1165c003ac9ef7a5c8.jpeg
-    reading: false
-    url: https://hardcover.app/books/time-runs-out-2009
-  - title: >-
       You Can Buy Happiness (and It's Cheap): How One Woman Radically Simplified
       Her Life and How You Can Too
     author: Tammy  Strobel
@@ -180,6 +154,32 @@ books:
     reading: false
     url: >-
       https://hardcover.app/books/you-can-buy-happiness-and-its-cheap-how-one-woman-radically-simplified-her-life-and-how-you-can-too
+  - title: Time Runs Out
+    author: Lisa M. Ross
+    subtitle: ""
+    date: 2017-11-05
+    read: 2017-11-05
+    rating: 4
+    pages: 0
+    isbn: "1299119638"
+    isbn13: "9781299119635"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675881/cbe8dcff39730f998c098f1165c003ac9ef7a5c8.jpeg
+    reading: false
+    url: https://hardcover.app/books/time-runs-out-2009
+  - title: "Wild Muir: Twenty-Two of John Muir's Greatest Adventures"
+    author: Lee Stetson
+    subtitle: Twenty-Two of John Muir's Greatest Adventures
+    date: 2017-12-08
+    read: 2017-12-08
+    rating: 4
+    pages: 225
+    isbn: "1306446716"
+    isbn13: "9781306446716"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458043/ca4f5a58221b1471927a6efbfdf012898ccb3446.jpeg
+    reading: false
+    url: https://hardcover.app/books/wild-muir
   - title: Je résiste aux personnalités toxiques, et autres casse-pieds
     author: Christophe André
     subtitle: ""

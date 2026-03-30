@@ -1,19 +1,31 @@
 year: 2023
 books:
-  - title: "Ebb and Flow: How to Connect with the Patterns and Power of Water"
-    author: Easkey Britton
-    subtitle: How to Connect with the Patterns and Power of Water
-    date: 2023-09-19
-    read: 2023-09-19
-    rating: 3
-    pages: 212
-    isbn: "1786786680"
-    isbn13: "9781786786685"
+  - title: La Vie de Bouddha, Intégrale, Vol. 3
+    author: Osamu Tezuka
+    subtitle: ""
+    date: 2023-03-20
+    read: 2023-03-20
+    rating: 4
+    pages: 704
+    isbn: "2413009086"
+    isbn13: "9782413009085"
     cover_url: >-
-      https://assets.hardcover.app/external_data/2458111/077cdb4a45ea67f6693d9949bba8333c485ba8d4.jpeg
+      https://assets.hardcover.app/edition/32675960/248d07bc0ff143c5679a064be6bb3a30b8a881c5.jpeg
     reading: false
-    url: >-
-      https://hardcover.app/books/ebb-and-flow-how-to-connect-with-the-patterns-and-power-of-water-2023
+    url: https://hardcover.app/books/la-vie-de-bouddha-integrale-vol-3
+  - title: La Vie de Bouddha, Intégrale, Vol. 1
+    author: Osamu Tezuka
+    subtitle: ""
+    date: 2023-01-23
+    read: 2023-01-23
+    rating: 3
+    pages: 816
+    isbn: 241300906X
+    isbn13: "9782413009061"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675957/edcf21fde9660b7bf9fd5530a90e79901364dd21.jpeg
+    reading: false
+    url: https://hardcover.app/books/la-vie-de-bouddha-integrale-vol-1
   - title: >-
       Where the Waves Turn Back: A Forty-Day Pilgrimage Along the California
       Coast
@@ -55,19 +67,6 @@ books:
       https://assets.hardcover.app/edition/32675949/fbbce7d269b3b43b8ee1e1c5d614599291ab5d6e.jpeg
     reading: false
     url: https://hardcover.app/books/et-au-milieu-coule-une-riviere-1976
-  - title: La Vie de Bouddha, Intégrale, Vol. 3
-    author: Osamu Tezuka
-    subtitle: ""
-    date: 2023-03-20
-    read: 2023-03-20
-    rating: 4
-    pages: 704
-    isbn: "2413009086"
-    isbn13: "9782413009085"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32675960/248d07bc0ff143c5679a064be6bb3a30b8a881c5.jpeg
-    reading: false
-    url: https://hardcover.app/books/la-vie-de-bouddha-integrale-vol-3
   - title: Satori in Paris
     author: Jack Kerouac
     subtitle: ""
@@ -94,6 +93,20 @@ books:
       https://assets.hardcover.app/edition/30535150/2efdfd508a803c89913fd6e987f69048a17c89c6.jpeg
     reading: false
     url: https://hardcover.app/books/tomorrow-and-tomorrow-and-tomorrow
+  - title: "Ebb and Flow: How to Connect with the Patterns and Power of Water"
+    author: Easkey Britton
+    subtitle: How to Connect with the Patterns and Power of Water
+    date: 2023-09-19
+    read: 2023-09-19
+    rating: 3
+    pages: 212
+    isbn: "1786786680"
+    isbn13: "9781786786685"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458111/077cdb4a45ea67f6693d9949bba8333c485ba8d4.jpeg
+    reading: false
+    url: >-
+      https://hardcover.app/books/ebb-and-flow-how-to-connect-with-the-patterns-and-power-of-water-2023
   - title: >-
       Surf Is Where You Find It: The Wisdom of Waves, Any Time, Anywhere, Any
       Way
@@ -110,6 +123,19 @@ books:
     reading: false
     url: >-
       https://hardcover.app/books/surf-is-where-you-find-it-the-wisdom-of-waves-any-time-anywhere-any-way-2008
+  - title: Chroniques de San Francisco
+    author: Isabelle Bauthian
+    subtitle: ""
+    date: 2023-09-30
+    read: 2023-09-30
+    rating: 3
+    pages: 381
+    isbn: "2264029951"
+    isbn13: "9782264029959"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/60499820/fc7d848575764b3316698869e049791df88ea424.jpeg
+    reading: false
+    url: https://hardcover.app/books/chroniques-de-san-francisco
   - title: La Vie de Bouddha, Intégrale, Vol. 2
     author: Osamu Tezuka
     subtitle: ""
@@ -123,19 +149,6 @@ books:
       https://assets.hardcover.app/edition/32675961/9a2bad99fba0af2e562c70c9ac9e2c3611c167cc.jpeg
     reading: false
     url: https://hardcover.app/books/la-vie-de-bouddha-integrale-vol-2
-  - title: La Vie de Bouddha, Intégrale, Vol. 1
-    author: Osamu Tezuka
-    subtitle: ""
-    date: 2023-01-23
-    read: 2023-01-23
-    rating: 3
-    pages: 816
-    isbn: 241300906X
-    isbn13: "9782413009061"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32675957/edcf21fde9660b7bf9fd5530a90e79901364dd21.jpeg
-    reading: false
-    url: https://hardcover.app/books/la-vie-de-bouddha-integrale-vol-1
   - title: La bibliothèque des rêves secrets
     author: Michiko Aoyama
     subtitle: ""
@@ -149,18 +162,6 @@ books:
       https://assets.hardcover.app/edition/31605501/415a7a4796fcf3ccb03a835be4991539deb83d1e.jpeg
     reading: false
     url: https://hardcover.app/books/la-bibliotheque-des-reves-secrets
-  - title: Chroniques de San Francisco
-    author: Isabelle Bauthian
-    subtitle: ""
-    date: 2023-09-30
-    read: 2023-09-30
-    rating: 3
-    pages: 381
-    isbn: "2264029951"
-    isbn13: "9782264029959"
-    cover_url: https://m.media-amazon.com/images/I/71FONCDn71L._AC_UY654_QL65_.jpg
-    reading: false
-    url: https://hardcover.app/books/chroniques-de-san-francisco
   - title: Last Exit to Brooklyn
     author: Hubert Selby Jr.
     subtitle: ""

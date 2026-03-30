@@ -1,18 +1,5 @@
 year: 2018
 books:
-  - title: "Norwegian Wood: Chopping, Stacking, and Drying Wood the Scandinavian Way"
-    author: Lars Mytting
-    subtitle: Chopping, Stacking, and Drying Wood the Scandinavian Way
-    date: 2018-09-11
-    read: 2018-09-11
-    rating: 5
-    pages: 192
-    isbn: "1419717987"
-    isbn13: "9781419717987"
-    cover_url: >-
-      https://assets.hardcover.app/edition/14498752/809b657136487af16c0f9dae4ac0ef9a8d7dba60.jpeg
-    reading: false
-    url: https://hardcover.app/books/norwegian-wood-lars-mytting
   - title: Read This if You Want to Take Great Photographs
     author: Henry Carroll
     subtitle: ""
@@ -27,6 +14,19 @@ books:
     reading: false
     url: >-
       https://hardcover.app/books/read-this-if-you-want-to-take-great-photographs
+  - title: "Norwegian Wood: Chopping, Stacking, and Drying Wood the Scandinavian Way"
+    author: Lars Mytting
+    subtitle: Chopping, Stacking, and Drying Wood the Scandinavian Way
+    date: 2018-09-11
+    read: 2018-09-11
+    rating: 5
+    pages: 192
+    isbn: "1419717987"
+    isbn13: "9781419717987"
+    cover_url: >-
+      https://assets.hardcover.app/edition/14498752/809b657136487af16c0f9dae4ac0ef9a8d7dba60.jpeg
+    reading: false
+    url: https://hardcover.app/books/norwegian-wood-lars-mytting
   - title: Landmarks
     author: Robert Macfarlane
     subtitle: ""
