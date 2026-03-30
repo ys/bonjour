@@ -1,4 +1,76 @@
 ---
+- _id: 1665787514
+  link: https://www.youtube.com/watch?v=C9-kzA25-pE
+  title: "- YouTube"
+  excerpt: Auf YouTube findest du die angesagtesten Videos und Tracks. Außerdem kannst
+    du eigene Inhalte hochladen und mit Freunden oder gleich der ganzen Welt teilen.
+  note: T
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DC9-kzA25-pE
+  media: []
+  tags:
+  - video
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2026-03-30T09:28:26.228Z'
+  collection:
+    "$ref": collections
+    "$id": 37679987
+    oid: 37679987
+  highlights: []
+  lastUpdate: '2026-03-30T09:28:39.271Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1665787514
+  cache:
+    status: invalid-origin
+  collectionId: 37679987
+  parsed: {}
+- _id: 1665784728
+  link: https://www.youtube.com/watch?v=3op_IrFJ_ms
+  title: Watch
+  excerpt: ''
+  note: California at its best
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3op_IrFJ_ms
+  media: []
+  tags:
+  - video
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2026-03-30T09:18:16.423Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2026-03-30T09:18:42.760Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1665784728
+  broken: false
+  cache:
+    status: invalid-origin
+  collectionId: 37136905
+  parsed: {}
 - _id: 1655897737
   link: https://www.youtube.com/watch?v=poSdDTfT_3Q
   title: Better than Fast Food Breakfast Burritos | Cookin' Somethin'
