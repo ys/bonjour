@@ -1,5 +1,17 @@
 year: 2019
 books:
+  - title: Do/ Story/
+    author: Bobette Buster
+    subtitle: How to Tell Your Story So the World Listens
+    date: 2019-05-19
+    read: 2019-05-19
+    rating: 4
+    pages: 112
+    isbn: "1907974059"
+    isbn13: "9781907974052"
+    cover_url: https://assets.hardcover.app/edition/30450025/8741619-L.jpg
+    reading: false
+    url: https://hardcover.app/books/do-story
   - title: "Essentialism: The Disciplined Pursuit Of Less"
     author: Greg McKeown
     subtitle: The Disciplined Pursuit of Less
@@ -13,18 +25,6 @@ books:
       https://assets.hardcover.app/book_mappings/7332543/49e97d3c85d756c9a823901d1a04c0cc2aab2007.jpeg
     reading: false
     url: https://hardcover.app/books/essentialism
-  - title: Do/ Story/
-    author: Bobette Buster
-    subtitle: How to Tell Your Story So the World Listens
-    date: 2019-05-19
-    read: 2019-05-19
-    rating: 4
-    pages: 112
-    isbn: "1907974059"
-    isbn13: "9781907974052"
-    cover_url: https://assets.hardcover.app/edition/30450025/8741619-L.jpg
-    reading: false
-    url: https://hardcover.app/books/do-story
   - title: Do Lead
     author: Les McKeown
     subtitle: Share Your Vision. Inspire Others. Achieve the Impossible.
@@ -77,47 +77,6 @@ books:
       https://assets.hardcover.app/external_data/60251488/a2e6c76fe1fa14f6987946a9f8bfa5cbeae7d49e.jpeg
     reading: false
     url: https://hardcover.app/books/the-arab-of-the-future-4
-  - title: "Rewild Yourself: Making Nature More Visible in Our Lives"
-    author: Simon Barnes
-    subtitle: Making Nature More Visible in Our Lives
-    date: 2019-04-29
-    read: 2019-04-29
-    rating: 4
-    pages: 156
-    isbn: "1643132849"
-    isbn13: "9781643132846"
-    cover_url: >-
-      https://assets.hardcover.app/edition/31408381/7f42cf02f514e30dde3c1a6148438996b7a37dcc.jpeg
-    reading: false
-    url: >-
-      https://hardcover.app/books/rewild-yourself-making-nature-more-visible-in-our-lives
-  - title: Documents Connected with the History of Ludlow, and the Lords Marchers
-    author: Robert Henry Clive
-    subtitle: ""
-    date: 2019-01-10
-    read: 2019-01-10
-    rating: 4
-    pages: 388
-    isbn: "0344324192"
-    isbn13: "9780344324192"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/2458045/3d5c66be7bc3e7292579c8fb512ffd0d3d8053c0.jpeg
-    reading: false
-    url: >-
-      https://hardcover.app/books/documents-connected-with-the-history-of-ludlow-and-the-lords-marchers-2018
-  - title: Un hiver en Bretagne
-    author: Michel Le Bris
-    subtitle: ""
-    date: 2019-09-16
-    read: 2019-09-16
-    rating: 3
-    pages: 191
-    isbn: "2020310163"
-    isbn13: "9782020310161"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32675858/f0c399ffbd16b1b37747a7b0a3204a25c82f3703.jpeg
-    reading: false
-    url: https://hardcover.app/books/un-hiver-en-bretagne-1996
   - title: "Ré-ensauvageons la France : Plaidoyer pour une nature sauvage et libre"
     author: Gilbert Cochet
     subtitle: Plaidoyer pour une nature sauvage et libre
@@ -132,6 +91,47 @@ books:
     reading: false
     url: >-
       https://hardcover.app/books/re-ensauvageons-la-france-plaidoyer-pour-une-nature-sauvage-et-libre
+  - title: Documents Connected with the History of Ludlow, and the Lords Marchers
+    author: Robert Henry Clive
+    subtitle: ""
+    date: 2019-01-10
+    read: 2019-01-10
+    rating: 4
+    pages: 388
+    isbn: "0344324192"
+    isbn13: "9780344324192"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458045/3d5c66be7bc3e7292579c8fb512ffd0d3d8053c0.jpeg
+    reading: false
+    url: >-
+      https://hardcover.app/books/documents-connected-with-the-history-of-ludlow-and-the-lords-marchers-2018
+  - title: "Rewild Yourself: Making Nature More Visible in Our Lives"
+    author: Simon Barnes
+    subtitle: Making Nature More Visible in Our Lives
+    date: 2019-04-29
+    read: 2019-04-29
+    rating: 4
+    pages: 156
+    isbn: "1643132849"
+    isbn13: "9781643132846"
+    cover_url: >-
+      https://assets.hardcover.app/edition/31408381/7f42cf02f514e30dde3c1a6148438996b7a37dcc.jpeg
+    reading: false
+    url: >-
+      https://hardcover.app/books/rewild-yourself-making-nature-more-visible-in-our-lives
+  - title: Un hiver en Bretagne
+    author: Michel Le Bris
+    subtitle: ""
+    date: 2019-09-16
+    read: 2019-09-16
+    rating: 3
+    pages: 191
+    isbn: "2020310163"
+    isbn13: "9782020310161"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675858/f0c399ffbd16b1b37747a7b0a3204a25c82f3703.jpeg
+    reading: false
+    url: https://hardcover.app/books/un-hiver-en-bretagne-1996
   - title: Walden
     author: Henry David Thoreau
     subtitle: Or, Life in the Woods
@@ -375,6 +375,6 @@ books:
     pages: 0
     isbn: "0008331820"
     isbn13: "9780008331825"
-    cover_url: ""
+    cover_url: https://m.media-amazon.com/images/I/712eLbdYoAL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/my-midsummer-morning

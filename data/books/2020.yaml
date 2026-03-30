@@ -1,31 +1,18 @@
 year: 2020
 books:
-  - title: "On Writing: A Memoir of the Craft"
-    author: Stephen King
-    subtitle: 10th Anniversary Edition
-    date: 2020-06-17
-    read: 2020-06-17
-    rating: 4
-    pages: 351
-    isbn: "1444723251"
-    isbn13: "9781444723250"
-    cover_url: >-
-      https://assets.hardcover.app/edition/22655097/547380e475b340366b8a8447f1cd0964bb62c558.jpeg
-    reading: false
-    url: https://hardcover.app/books/on-writing
-  - title: Do Sourdough
-    author: Andrew Whitley
+  - title: Beau Austin
+    author: William Ernest Henley
     subtitle: ""
-    date: 2020-09-03
-    read: 2020-09-03
-    rating: 0
-    pages: 157
-    isbn: "1907974113"
-    isbn13: "9781907974113"
+    date: 2020-12-09
+    read: 2020-12-09
+    rating: 4
+    pages: 52
+    isbn: "1522761896"
+    isbn13: "9781522761891"
     cover_url: >-
-      https://images-na.ssl-images-amazon.com/images/P/9781907974113.01.LZZZZZZZ.jpg
+      https://assets.hardcover.app/external_data/2458012/2f4310ce441e27ade110fa7fb20db553ce34d8d4.jpeg
     reading: false
-    url: https://hardcover.app/books/do-sourdough
+    url: https://hardcover.app/books/beau-austin-1884
   - title: >-
       The Manual of Epictetus, the Philosopher. Made English From the Original
       Greek, by a Person of Quality: And now First Published by W. Bond, Esq: to
@@ -61,6 +48,59 @@ books:
     reading: false
     url: >-
       https://hardcover.app/books/inconspicuous-consumption-the-environmental-impact-you-dont-know-you-have
+  - title: Do Sourdough
+    author: Andrew Whitley
+    subtitle: ""
+    date: 2020-09-03
+    read: 2020-09-03
+    rating: 0
+    pages: 157
+    isbn: "1907974113"
+    isbn13: "9781907974113"
+    cover_url: >-
+      https://images-na.ssl-images-amazon.com/images/P/9781907974113.01.LZZZZZZZ.jpg
+    reading: false
+    url: https://hardcover.app/books/do-sourdough
+  - title: "On Writing: A Memoir of the Craft"
+    author: Stephen King
+    subtitle: 10th Anniversary Edition
+    date: 2020-06-17
+    read: 2020-06-17
+    rating: 4
+    pages: 351
+    isbn: "1444723251"
+    isbn13: "9781444723250"
+    cover_url: >-
+      https://assets.hardcover.app/edition/22655097/547380e475b340366b8a8447f1cd0964bb62c558.jpeg
+    reading: false
+    url: https://hardcover.app/books/on-writing
+  - title: The Divine Song
+    author: Abdourahman A. Waberi
+    subtitle: ""
+    date: 2020-09-25
+    read: 2020-09-25
+    rating: 5
+    pages: 180
+    isbn: 085742694X
+    isbn13: "9780857426949"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675863/648950e1a6a02b5a786f36a0bda8efe009336af9.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-divine-song-2015
+  - title: La Regle Du Je Dans l'Age d'Homme de Michel Leiris
+    author: Hubert De Phalese
+    subtitle: ""
+    date: 2020-08-19
+    read: 2020-08-19
+    rating: 5
+    pages: 157
+    isbn: "2707812854"
+    isbn13: "9782707812858"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458025/2f954e3b76feb7aa2a947d96fe02a302f166a73e.jpeg
+    reading: false
+    url: >-
+      https://hardcover.app/books/la-regle-du-je-dans-lage-dhomme-de-michel-leiris-2004
   - title: La mer à mots choisis
     author: Hervé Hamon
     subtitle: ""
@@ -100,19 +140,6 @@ books:
     reading: false
     url: >-
       https://hardcover.app/books/99-aventures-dans-les-grandes-histories-bibliques-2018
-  - title: The Divine Song
-    author: Abdourahman A. Waberi
-    subtitle: ""
-    date: 2020-09-25
-    read: 2020-09-25
-    rating: 5
-    pages: 180
-    isbn: 085742694X
-    isbn13: "9780857426949"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32675863/648950e1a6a02b5a786f36a0bda8efe009336af9.jpeg
-    reading: false
-    url: https://hardcover.app/books/the-divine-song-2015
   - title: "Learn All About Backlinks: Techniques for Flourishing Business"
     author: Edward Abbey
     subtitle: Techniques for Flourishing Business
@@ -127,33 +154,6 @@ books:
     reading: false
     url: >-
       https://hardcover.app/books/learn-all-about-backlinks-techniques-for-flourishing-business
-  - title: La Regle Du Je Dans l'Age d'Homme de Michel Leiris
-    author: Hubert De Phalese
-    subtitle: ""
-    date: 2020-08-19
-    read: 2020-08-19
-    rating: 5
-    pages: 157
-    isbn: "2707812854"
-    isbn13: "9782707812858"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/2458025/2f954e3b76feb7aa2a947d96fe02a302f166a73e.jpeg
-    reading: false
-    url: >-
-      https://hardcover.app/books/la-regle-du-je-dans-lage-dhomme-de-michel-leiris-2004
-  - title: Beau Austin
-    author: William Ernest Henley
-    subtitle: ""
-    date: 2020-12-09
-    read: 2020-12-09
-    rating: 4
-    pages: 52
-    isbn: "1522761896"
-    isbn13: "9781522761891"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/2458012/2f4310ce441e27ade110fa7fb20db553ce34d8d4.jpeg
-    reading: false
-    url: https://hardcover.app/books/beau-austin-1884
   - title: Under the Stars
     author: Matt Gaw
     subtitle: ""
@@ -296,8 +296,7 @@ books:
     pages: 0
     isbn: "1783526386"
     isbn13: "9781783526383"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/59921806/317cd496191b4fb6ef64d24f3d1f369335662e83.jpeg
+    cover_url: https://m.media-amazon.com/images/I/61OQ8vL1o-L._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/the-surfboard
   - title: "Utopia for Realists: How We Can Build the Ideal World"

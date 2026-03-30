@@ -1,18 +1,5 @@
 year: 2016
 books:
-  - title: "Sex Criminals: Volume One: One Weird Trick"
-    author: Matt Fraction
-    subtitle: One weird trick
-    date: 2016-02-28
-    read: 2016-02-28
-    rating: 5
-    pages: 128
-    isbn: "1607069466"
-    isbn13: "9781607069461"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/24096501/572775123a84472dd7d04c0ca4c2908d6623af8a.jpeg
-    reading: false
-    url: https://hardcover.app/books/sex-criminals
   - title: Lazarus, Vol. 5
     author: Greg Rucka
     subtitle: ""
@@ -38,6 +25,49 @@ books:
       https://assets.hardcover.app/edition/8939278/d6585790a20c843b32dc046c1a788b65295f1d0b.jpeg
     reading: false
     url: https://hardcover.app/books/southern-bastards-vol-1-here-was-a-man
+  - title: "Sex Criminals: Volume One: One Weird Trick"
+    author: Matt Fraction
+    subtitle: One weird trick
+    date: 2016-02-28
+    read: 2016-02-28
+    rating: 5
+    pages: 128
+    isbn: "1607069466"
+    isbn13: "9781607069461"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/24096501/572775123a84472dd7d04c0ca4c2908d6623af8a.jpeg
+    reading: false
+    url: https://hardcover.app/books/sex-criminals
+  - title: Managing Oneself
+    author: Peter F. Drucker
+    subtitle: ""
+    date: 2016-05-07
+    read: 2016-05-07
+    rating: 4
+    pages: 128
+    isbn: "1633693058"
+    isbn13: "9781633693050"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/59942143/22f7ca3789f4fa0a23b1dfac7e9d4297eb757b8a.jpeg
+    reading: false
+    url: https://hardcover.app/books/managing-oneself
+  - title: >-
+      The Happiness Advantage: The Seven Principles of Positive Psychology that
+      Fuel Success and Performance at Work
+    author: Shawn Achor
+    subtitle: >-
+      The Seven Principles of Positive Psychology that Fuel Success and
+      Performance at Work
+    date: 2016-01-10
+    read: 2016-01-10
+    rating: 5
+    pages: 258
+    isbn: "0307591549"
+    isbn13: "9780307591548"
+    cover_url: >-
+      https://assets.hardcover.app/edition/30401353/df353beb-4a82-479b-b503-518b1e98f1b3.jpg
+    reading: false
+    url: https://hardcover.app/books/the-happiness-advantage
   - title: Moriarty
     author: Anthony Horowitz
     subtitle: ""
@@ -89,36 +119,6 @@ books:
       https://assets.hardcover.app/edition/16983125/1bce83b3dda387241fb5fdfad334ed20b90bb718.jpeg
     reading: false
     url: https://hardcover.app/books/lazarus-vol-1-family
-  - title: Managing Oneself
-    author: Peter F. Drucker
-    subtitle: ""
-    date: 2016-05-07
-    read: 2016-05-07
-    rating: 4
-    pages: 128
-    isbn: "1633693058"
-    isbn13: "9781633693050"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/59942143/22f7ca3789f4fa0a23b1dfac7e9d4297eb757b8a.jpeg
-    reading: false
-    url: https://hardcover.app/books/managing-oneself
-  - title: >-
-      The Happiness Advantage: The Seven Principles of Positive Psychology that
-      Fuel Success and Performance at Work
-    author: Shawn Achor
-    subtitle: >-
-      The Seven Principles of Positive Psychology that Fuel Success and
-      Performance at Work
-    date: 2016-01-10
-    read: 2016-01-10
-    rating: 5
-    pages: 258
-    isbn: "0307591549"
-    isbn13: "9780307591548"
-    cover_url: >-
-      https://assets.hardcover.app/edition/30401353/df353beb-4a82-479b-b503-518b1e98f1b3.jpg
-    reading: false
-    url: https://hardcover.app/books/the-happiness-advantage
   - title: Eat That Frog!
     author: Brian Tracy
     subtitle: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time

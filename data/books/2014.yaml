@@ -14,6 +14,18 @@ books:
     reading: false
     url: >-
       https://hardcover.app/books/effective-monitoring-and-alerting-for-web-operations
+  - title: Becoming a Technical Leader
+    author: Gerald M. Weinberg
+    subtitle: An Organic Problem-Solving Approach
+    date: 2014-12-28
+    read: 2014-12-28
+    rating: 4
+    pages: 316
+    isbn: "0932633021"
+    isbn13: "9780932633026"
+    cover_url: https://assets.hardcover.app/edition/16749181/content.jpeg
+    reading: false
+    url: https://hardcover.app/books/becoming-a-technical-leader
   - title: "Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability"
     author: Steve Krug
     subtitle: A Common Sense Approach to Web Usability
@@ -27,18 +39,6 @@ books:
       https://assets.hardcover.app/editions/30400139/2960466975258181-18197267.jpg
     reading: false
     url: https://hardcover.app/books/dont-make-me-think-revisited
-  - title: Becoming a Technical Leader
-    author: Gerald M. Weinberg
-    subtitle: An Organic Problem-Solving Approach
-    date: 2014-12-28
-    read: 2014-12-28
-    rating: 4
-    pages: 316
-    isbn: "0932633021"
-    isbn13: "9780932633026"
-    cover_url: https://assets.hardcover.app/edition/16749181/content.jpeg
-    reading: false
-    url: https://hardcover.app/books/becoming-a-technical-leader
   - title: Slack
     author: Tom DeMarco
     subtitle: Getting Past Burnout, Busywork, and the Myth of Total Efficiency
