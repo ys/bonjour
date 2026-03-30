@@ -9649,13 +9649,23 @@
             "release_date": "1983-03-01"
           },
           "book": {
-            "title": "The House",
-            "subtitle": "III",
-            "slug": "the-house-1983",
+            "title": "Blackwater 3 - La Maison",
+            "subtitle": "La maison",
+            "slug": "blackwater-3-la-maison-1983",
             "contributions": [
               {
                 "author": {
                   "name": "Michael McDowell"
+                }
+              },
+              {
+                "author": {
+                  "name": "Yoko Lacour"
+                }
+              },
+              {
+                "author": {
+                  "name": "Hélène Charrier"
                 }
               }
             ],

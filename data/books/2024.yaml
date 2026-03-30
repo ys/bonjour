@@ -204,7 +204,8 @@ books:
     pages: 507
     isbn: "2889730018"
     isbn13: "9782889730018"
-    cover_url: https://m.media-amazon.com/images/I/61uYYec8joL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/59867484/d0c82dabc108db1220f041e2ba98db2b94f593f2.jpeg
     reading: false
     url: https://hardcover.app/books/laffaire-alaska-sanders
   - title: Tokyo Alien Bros, Vol. 1
@@ -286,9 +287,9 @@ books:
     cover_url: https://assets.hardcover.app/editions/31645214/7751038927873328.jpg
     reading: false
     url: https://hardcover.app/books/kafka-on-the-shore
-  - title: The House
+  - title: Blackwater 3 - La Maison
     author: Michael McDowell
-    subtitle: III
+    subtitle: La maison
     date: 2024-01-17
     read: 2024-01-17
     rating: 4
@@ -298,7 +299,7 @@ books:
     cover_url: >-
       https://assets.hardcover.app/edition/32061110/70199ffb3e9b05d8c982c560c22af0eca8721ad9.jpeg
     reading: false
-    url: https://hardcover.app/books/the-house-1983
+    url: https://hardcover.app/books/blackwater-3-la-maison-1983
   - title: Tokyo Alien Bros, Tome 3
     author: Keigo Shinzō
     subtitle: ""
@@ -414,7 +415,7 @@ books:
     isbn: "2710376520"
     isbn13: "9782710376521"
     cover_url: >-
-      https://books.google.com/books/content?id=VkC8EAAAQBAJ&printsec=frontcover&img=1&zoom=3&source=gbs_api
+      https://assets.hardcover.app/external_data/2458299/4edbc08bc3e5cd293cc464c08b77ab2bc0987316.jpeg
     reading: false
     url: https://hardcover.app/books/l-invitee-2023
   - title: Le Sommet des Dieux - Tome 1
