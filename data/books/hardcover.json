@@ -4963,6 +4963,40 @@
           }
         },
         {
+          "book_id": 463684,
+          "rating": 4,
+          "date_added": "2025-09-01",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2025-09-01"
+            }
+          ],
+          "edition": {
+            "isbn_10": "2702448100",
+            "isbn_13": "9782702448106",
+            "pages": 496,
+            "release_date": "2021-09-16"
+          },
+          "book": {
+            "title": "The Man Who Died Twice",
+            "subtitle": null,
+            "slug": "the-man-who-died-twice",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Richard Osman"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/edition/30504308/c2bb10ec1d229ae90973da83899d60c1ba807d26.jpeg"
+            }
+          }
+        },
+        {
           "book_id": 431209,
           "rating": null,
           "date_added": "2023-10-24",
@@ -5057,45 +5091,6 @@
             ],
             "image": {
               "url": "https://assets.hardcover.app/edition/13434364/54457c3c3120cf5414736a9cf5ea0703e7ef695f.jpeg"
-            }
-          }
-        },
-        {
-          "book_id": 2406615,
-          "rating": 4,
-          "date_added": "2025-09-01",
-          "user_book_status": {
-            "slug": "read"
-          },
-          "user_book_reads": [
-            {
-              "finished_at": "2025-09-01"
-            }
-          ],
-          "edition": {
-            "isbn_10": "2702448100",
-            "isbn_13": "9782702448106",
-            "pages": 496,
-            "release_date": "2021-09-16"
-          },
-          "book": {
-            "title": "Le Jeudi suivant",
-            "subtitle": null,
-            "slug": "le-jeudi-suivant",
-            "contributions": [
-              {
-                "author": {
-                  "name": "Richard Osman"
-                }
-              },
-              {
-                "author": {
-                  "name": "Sophie Alibert"
-                }
-              }
-            ],
-            "image": {
-              "url": "https://assets.hardcover.app/external_data/2458200/93be1c5e5f68872467462ea375fbe289e8dae558.jpeg"
             }
           }
         },
