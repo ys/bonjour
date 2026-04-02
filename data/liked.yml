@@ -1,4 +1,44 @@
 ---
+- _id: 1669176271
+  link: https://www.youtube.com/watch?v=6YkawYnsq4U
+  title: DAYS OUT
+  excerpt: Handful of days out with the Powell-Peralta squad.Filmed by @kennymartes
+    Ship FLIGHT:https://www.skateone.com/skateboard-decks/flightShop Dragon Formula:http...
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/6YkawYnsq4U/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/6YkawYnsq4U/maxresdefault.jpg
+    type: image
+  tags:
+  - skateboarding
+  - video
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2026-04-02T08:51:06.656Z'
+  collection:
+    "$ref": collections
+    "$id": 37459360
+    oid: 37459360
+  highlights: []
+  lastUpdate: '2026-04-02T08:51:13.276Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1669176271
+  broken: false
+  cache:
+    status: invalid-origin
+  collectionId: 37459360
+  parsed: {}
 - _id: 1665787514
   link: https://www.youtube.com/watch?v=C9-kzA25-pE
   title: "- YouTube"
@@ -1702,9 +1742,7 @@
     email: ''
   sort: 1581425614
   cache:
-    retries: 3
-    retryAfter: '2026-03-30T22:40:01.541Z'
-    status: retry
+    status: invalid-timeout
   broken: false
   collectionId: 37136905
   parsed: {}
@@ -7980,9 +8018,7 @@
     email: ''
   sort: 1581425608
   cache:
-    retries: 3
-    retryAfter: '2026-03-30T22:40:26.825Z'
-    status: retry
+    status: invalid-timeout
   broken: false
   collectionId: 37136905
   parsed: {}
@@ -13762,9 +13798,7 @@
     email: ''
   sort: 686365442
   cache:
-    retries: 3
-    retryAfter: '2026-03-31T05:40:26.825Z'
-    status: retry
+    status: invalid-timeout
   broken: false
   collectionId: 37459360
   parsed: {}
@@ -18293,9 +18327,7 @@
   sort: 645601694
   important: true
   cache:
-    retries: 3
-    retryAfter: '2026-03-31T09:40:26.825Z'
-    status: retry
+    status: invalid-timeout
   broken: false
   collectionId: 37136905
   parsed: {}
