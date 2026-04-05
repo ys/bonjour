@@ -33,6 +33,74 @@
           }
         },
         {
+          "book_id": 1879489,
+          "rating": 4,
+          "date_added": "2026-04-05",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2026-04-05"
+            }
+          ],
+          "edition": {
+            "isbn_10": "2889730751",
+            "isbn_13": "9782889730759",
+            "pages": 209,
+            "release_date": "2025-03-04"
+          },
+          "book": {
+            "title": "La Très Catastrophique Visite du Zoo",
+            "subtitle": null,
+            "slug": "la-tres-catastrophique-visite-du-zoo",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Joël Dicker"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/edition/32248813/1efaee6b86b4558ab3678ceef36a6908c65c3c16.jpeg"
+            }
+          }
+        },
+        {
+          "book_id": 2406530,
+          "rating": 3.5,
+          "date_added": "2026-02-01",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2026-04-05"
+            }
+          ],
+          "edition": {
+            "isbn_10": "1300701900",
+            "isbn_13": "9781300701903",
+            "pages": null,
+            "release_date": null
+          },
+          "book": {
+            "title": "High Street Lows",
+            "subtitle": null,
+            "slug": "high-street-lows",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Walker Ryan"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/edition/32675850/f4e1731d-6a95-4304-a897-18fbfc0b0272.jpg"
+            }
+          }
+        },
+        {
           "book_id": 510515,
           "rating": 2,
           "date_added": "2026-02-15",
@@ -752,40 +820,6 @@
             ],
             "image": {
               "url": "https://assets.hardcover.app/edition/32794227/35a2f712-9166-4f68-952d-f2308a50274d.jpg"
-            }
-          }
-        },
-        {
-          "book_id": 2406530,
-          "rating": null,
-          "date_added": "2026-02-01",
-          "user_book_status": {
-            "slug": "currently-reading"
-          },
-          "user_book_reads": [
-            {
-              "finished_at": null
-            }
-          ],
-          "edition": {
-            "isbn_10": "1300701900",
-            "isbn_13": "9781300701903",
-            "pages": null,
-            "release_date": null
-          },
-          "book": {
-            "title": "High Street Lows",
-            "subtitle": null,
-            "slug": "high-street-lows",
-            "contributions": [
-              {
-                "author": {
-                  "name": "Walker Ryan"
-                }
-              }
-            ],
-            "image": {
-              "url": "https://assets.hardcover.app/edition/32675850/f4e1731d-6a95-4304-a897-18fbfc0b0272.jpg"
             }
           }
         },
