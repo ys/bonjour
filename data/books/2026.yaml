@@ -1,5 +1,31 @@
 year: 2026
 books:
+  - title: La Très Catastrophique Visite du Zoo
+    author: Joël Dicker
+    subtitle: ""
+    date: 2026-04-05
+    read: 2026-04-05
+    rating: 4
+    pages: 209
+    isbn: "2889730751"
+    isbn13: "9782889730759"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32248813/1efaee6b86b4558ab3678ceef36a6908c65c3c16.jpeg
+    reading: false
+    url: https://hardcover.app/books/la-tres-catastrophique-visite-du-zoo
+  - title: High Street Lows
+    author: Walker Ryan
+    subtitle: ""
+    date: 2026-04-05
+    read: 2026-04-05
+    rating: 4
+    pages: 0
+    isbn: "1300701900"
+    isbn13: "9781300701903"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675850/f4e1731d-6a95-4304-a897-18fbfc0b0272.jpg
+    reading: false
+    url: https://hardcover.app/books/high-street-lows
   - title: Famous
     author: Blake Crouch
     subtitle: ""
