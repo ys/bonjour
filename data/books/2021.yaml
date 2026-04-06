@@ -99,8 +99,7 @@ books:
     pages: 256
     isbn: ""
     isbn13: "9781786785558"
-    cover_url: >-
-      https://books.google.com/books/content?id=2PmQEAAAQBAJ&printsec=frontcover&img=1&zoom=3&source=gbs_api
+    cover_url: https://assets.hardcover.app/edition/30647039/58295954._SX98_.jpg
     reading: false
     url: https://hardcover.app/books/saltwater-in-the-blood
   - title: Grand Océan
@@ -361,7 +360,7 @@ books:
     isbn: "2358876658"
     isbn13: "9782358876650"
     cover_url: >-
-      https://books.google.com/books/content?id=HfkgEAAAQBAJ&printsec=frontcover&img=1&zoom=3&source=gbs_api
+      https://assets.hardcover.app/external_data/2458143/0341bb5d2dca27351ff6d8d177e109b8b8e292a7.jpeg
     reading: false
     url: https://hardcover.app/books/le-nageur-daral-2021
   - title: Chroniques de jeunesse
@@ -413,7 +412,7 @@ books:
     isbn: "2330007817"
     isbn13: "9782330007812"
     cover_url: >-
-      https://books.google.com/books/content?id=XfpIFN1ZEYMC&printsec=frontcover&img=1&zoom=3&source=gbs_api
+      https://assets.hardcover.app/external_data/2458196/c7546a2b1765c57bff226233ac258ac7b80d32f0.jpeg
     reading: false
     url: https://hardcover.app/books/le-retour-2005
   - title: Tu m'avais dit Ouessant
@@ -491,6 +490,7 @@ books:
     pages: 382
     isbn: "0316232238"
     isbn13: "9780316232234"
-    cover_url: https://m.media-amazon.com/images/I/81VvQXmuMqL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://books.google.com/books/content?id=GSttfsbGdGcC&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api
     reading: false
     url: https://hardcover.app/books/thermae-romae-vol-2-2011
