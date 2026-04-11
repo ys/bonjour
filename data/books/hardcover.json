@@ -101,6 +101,40 @@
           }
         },
         {
+          "book_id": 1643719,
+          "rating": 3.5,
+          "date_added": "2026-04-11",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2026-04-10"
+            }
+          ],
+          "edition": {
+            "isbn_10": "0802142486",
+            "isbn_13": "9780802142481",
+            "pages": 344,
+            "release_date": "2005-03-08"
+          },
+          "book": {
+            "title": "Delicious",
+            "subtitle": null,
+            "slug": "delicious-2005",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Mark Haskell Smith"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/edition/31725164/0ae4b31176fcccb341cb55a59ada881b71b7854e.jpeg"
+            }
+          }
+        },
+        {
           "book_id": 510515,
           "rating": 2,
           "date_added": "2026-02-15",
