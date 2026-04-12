@@ -360,7 +360,8 @@ books:
     pages: 60
     isbn: "2358876658"
     isbn13: "9782358876650"
-    cover_url: https://m.media-amazon.com/images/I/71Iu8bIlsrL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://books.google.com/books/content?id=HfkgEAAAQBAJ&printsec=frontcover&img=1&zoom=3&source=gbs_api
     reading: false
     url: https://hardcover.app/books/le-nageur-daral-2021
   - title: Chroniques de jeunesse
@@ -477,7 +478,8 @@ books:
     pages: 374
     isbn: 031623222X
     isbn13: "9780316232227"
-    cover_url: https://m.media-amazon.com/images/I/815N3UhFptL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://books.google.com/books/content?id=3LRl80Y2KfEC&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api
     reading: false
     url: https://hardcover.app/books/thermae-romae-i-2009
   - title: Thermae Romae, Vol. 2
