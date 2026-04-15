@@ -286,7 +286,7 @@ books:
     pages: 0
     isbn: "2895496676"
     isbn13: "9782895496670"
-    cover_url: https://m.media-amazon.com/images/I/91JDpAj-f+L._AC_UY654_QL65_.jpg
+    cover_url: ""
     reading: false
     url: https://hardcover.app/books/darhan-2-les-chemins-de-la-guerre
   - title: Big Sur
@@ -361,7 +361,8 @@ books:
     pages: 336
     isbn: "1786891557"
     isbn13: "9781786891556"
-    cover_url: https://m.media-amazon.com/images/I/91xYmBr+mFL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/60254978/9278c492fa99e54216a457208b0380b6c75acfa9.jpeg
     reading: false
     url: >-
       https://hardcover.app/books/outpost-a-journey-to-the-wild-ends-of-the-earth
