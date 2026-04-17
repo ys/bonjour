@@ -135,6 +135,43 @@
           }
         },
         {
+          "book_id": 2558354,
+          "rating": 3,
+          "date_added": "2026-04-17",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2026-04-16"
+            }
+          ],
+          "edition": {
+            "isbn_10": "2351788621",
+            "isbn_13": "9782351788622",
+            "pages": null,
+            "release_date": null
+          },
+          "book": {
+            "title": "Epices & love",
+            "subtitle": null,
+            "slug": "epices-love",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Mark Haskell Smith"
+                }
+              },
+              {
+                "author": {
+                  "name": "Julien Guérif"
+                }
+              }
+            ],
+            "image": null
+          }
+        },
+        {
           "book_id": 510515,
           "rating": 2,
           "date_added": "2026-02-15",
