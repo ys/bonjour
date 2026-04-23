@@ -241,8 +241,7 @@ books:
     pages: 256
     isbn: "1982157771"
     isbn13: "9781982157777"
-    cover_url: >-
-      https://books.google.com/books/content?id=GMLvDwAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api
+    cover_url: https://m.media-amazon.com/images/I/81hE9g0swOL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/burn-the-place
   - title: "Little Nothings 3: Uneasy Happiness"
@@ -361,6 +360,7 @@ books:
     pages: 0
     isbn: "1910620610"
     isbn13: "9781910620618"
-    cover_url: https://m.media-amazon.com/images/I/818-EhUnSML._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://books.google.com/books/content?id=2haREAAAQBAJ&printsec=frontcover&img=1&zoom=3&source=gbs_api
     reading: false
     url: https://hardcover.app/books/americana-2019
