@@ -51,6 +51,31 @@ books:
     cover_url: ""
     reading: false
     url: https://hardcover.app/books/epices-love
+  - title: The Ministry of Time
+    author: Kaliane Bradley
+    subtitle: ""
+    date: 2026-04-25
+    read: 2026-04-25
+    rating: 4
+    pages: 352
+    isbn: 166804515X
+    isbn13: "9781668045152"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/61136896/24267950b6b867ef240904272bdc664dbbd33556.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-ministry-of-time
+  - title: "A Year of Nothing: As heard on BBC Woman’s Hour"
+    author: Emma Gannon
+    subtitle: As heard on BBC Woman’s Hour
+    date: 2026-04-25
+    read: 2026-04-25
+    rating: 4
+    pages: 0
+    isbn: "1917523599"
+    isbn13: "9781917523592"
+    cover_url: ""
+    reading: false
+    url: https://hardcover.app/books/a-year-of-nothing-as-heard-on-bbc-woman-s-hour
   - title: Famous
     author: Blake Crouch
     subtitle: ""
