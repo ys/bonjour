@@ -1,4 +1,52 @@
 ---
+- _id: 1696822283
+  link: https://redcanarycollective.org/magazine/the-inferno/
+  title: The Inferno
+  excerpt: A lifetime of surfing, wildfires and impermanence
+  note: Jamie Brisick finds the words…
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://redcanarycollective.org/wp-content/uploads/2026/03/beach.png
+  media:
+  - link: https://redcanarycollective.org/wp-content/uploads/2026/03/beach.png
+    type: image
+  - link: https://redcanarycollective.org/wp-content/uploads/2026/03/beach-1-1800x1200.png
+    type: image
+  - link: https://redcanarycollective.org/wp-content/uploads/2026/03/3-1536x1024.png
+    type: image
+  - link: https://redcanarycollective.org/wp-content/uploads/2026/03/Apololpse-Now-1536x1024.png
+    type: image
+  - link: https://redcanarycollective.org/wp-content/uploads/2026/03/the-inferno-1536x1024.png
+    type: image
+  tags:
+  - surf
+  - environment
+  - philosophy
+  highlights: []
+  important: true
+  removed: false
+  created: '2026-04-26T10:55:32.558Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  lastUpdate: '2026-04-26T10:56:25.542Z'
+  domain: redcanarycollective.org
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1696822283
+  broken: false
+  cache:
+    retries: 1
+    retryAfter: '2026-04-28T01:00:15.699Z'
+    status: retry
+  collectionId: 37136905
+  parsed: {}
 - _id: 1681019526
   link: https://stphoto94.substack.com/p/how-to-waste-the-morning-at-san-o
   title: How To Waste The Morning At San O
