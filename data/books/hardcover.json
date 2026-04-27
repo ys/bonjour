@@ -6230,40 +6230,6 @@
           }
         },
         {
-          "book_id": 124677,
-          "rating": null,
-          "date_added": "2021-03-26",
-          "user_book_status": {
-            "slug": "read"
-          },
-          "user_book_reads": [
-            {
-              "finished_at": "2015-07-06"
-            }
-          ],
-          "edition": {
-            "isbn_10": "1627652736",
-            "isbn_13": "9781627652735",
-            "pages": null,
-            "release_date": "1994-05-17"
-          },
-          "book": {
-            "title": "Understanding Comics",
-            "subtitle": null,
-            "slug": "understanding-comics-1993",
-            "contributions": [
-              {
-                "author": {
-                  "name": "Scott McCloud"
-                }
-              }
-            ],
-            "image": {
-              "url": "https://assets.hardcover.app/edition/29549403/42616-L.jpg"
-            }
-          }
-        },
-        {
           "book_id": 2406566,
           "rating": null,
           "date_added": "2021-08-09",
@@ -6290,6 +6256,40 @@
             ],
             "image": {
               "url": "https://assets.hardcover.app/edition/32675898/dfe63b8e2472a520e0badafde7e2ea538920135c.jpeg"
+            }
+          }
+        },
+        {
+          "book_id": 999193,
+          "rating": null,
+          "date_added": "2021-03-26",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2015-07-06"
+            }
+          ],
+          "edition": {
+            "isbn_10": "1627652736",
+            "isbn_13": "9781627652735",
+            "pages": 215,
+            "release_date": "1993-08-01"
+          },
+          "book": {
+            "title": "Understanding Comics",
+            "subtitle": "The Invisible Art",
+            "slug": "understanding-comics",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Scott McCloud"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/external_data/60160567/e6b9187556d8d31ad1144cb73cae80ae0a398042.jpeg"
             }
           }
         },
