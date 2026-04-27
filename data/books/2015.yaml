@@ -80,16 +80,17 @@ books:
       https://hardcover.app/books/why-we-get-fat-7ac9e351-b54e-47ba-87ed-b07b765873ab
   - title: Understanding Comics
     author: Scott McCloud
-    subtitle: ""
+    subtitle: The Invisible Art
     date: 2015-07-06
     read: 2015-07-06
     rating: 0
-    pages: 0
+    pages: 215
     isbn: "1627652736"
     isbn13: "9781627652735"
-    cover_url: https://assets.hardcover.app/edition/29549403/42616-L.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/60160567/e6b9187556d8d31ad1144cb73cae80ae0a398042.jpeg
     reading: false
-    url: https://hardcover.app/books/understanding-comics-1993
+    url: https://hardcover.app/books/understanding-comics
   - title: The Healthy Programmer
     author: Joe Kutner
     subtitle: ""
