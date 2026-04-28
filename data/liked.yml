@@ -1,4 +1,43 @@
 ---
+- _id: 1698661193
+  link: https://www.youtube.com/watch?v=q6sa6pWz1NQ
+  title: Gorillaz ft. Sparks – The Happy Dictator
+  excerpt: 'Gorillaz and Sparks perform The Happy Dictator on Jimmy Kimmel Live.SUBSCRIBE
+    to get the latest #Kimmel: http://bit.ly/JKLSubscribe Follow Jimmy Kimmel on In...'
+  note: I hope to see this tour live!
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/q6sa6pWz1NQ/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/q6sa6pWz1NQ/maxresdefault.jpg
+    type: image
+  tags:
+  - music
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2026-04-28T11:08:30.570Z'
+  collection:
+    "$ref": collections
+    "$id": 37679987
+    oid: 37679987
+  highlights: []
+  lastUpdate: '2026-04-28T11:08:48.696Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1698661193
+  cache:
+    status: invalid-origin
+  broken: false
+  collectionId: 37679987
+  parsed: {}
 - _id: 1696822283
   link: https://redcanarycollective.org/magazine/the-inferno/
   title: The Inferno
