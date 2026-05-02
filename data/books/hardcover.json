@@ -5469,6 +5469,40 @@
           }
         },
         {
+          "book_id": 1643791,
+          "rating": 5,
+          "date_added": "2022-09-12",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2022-09-12"
+            }
+          ],
+          "edition": {
+            "isbn_10": "2075152624",
+            "isbn_13": "9782075152624",
+            "pages": 260,
+            "release_date": "2020-09-01"
+          },
+          "book": {
+            "title": "Lightfall: The Girl & the Galdurian",
+            "subtitle": "The Girl & the Galdurian",
+            "slug": "lightfall-the-girl-the-galdurian",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Tim Probert"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/external_data/61818195/7cad26bcddc6ae821afa897e88ec8c6c49ce5adc.jpeg"
+            }
+          }
+        },
+        {
           "book_id": 1284340,
           "rating": 4,
           "date_added": "2025-08-13",
@@ -5533,40 +5567,6 @@
             ],
             "image": {
               "url": "https://assets.hardcover.app/edition/32675924/05290bb41342df1644e56a69ac07722f8430d964.jpeg"
-            }
-          }
-        },
-        {
-          "book_id": 450957,
-          "rating": 5,
-          "date_added": "2022-09-12",
-          "user_book_status": {
-            "slug": "read"
-          },
-          "user_book_reads": [
-            {
-              "finished_at": "2022-09-12"
-            }
-          ],
-          "edition": {
-            "isbn_10": "2075152624",
-            "isbn_13": "9782075152624",
-            "pages": 260,
-            "release_date": "2020-09-01"
-          },
-          "book": {
-            "title": "La dernière flamme",
-            "subtitle": "The Girl & the Galdurian",
-            "slug": "la-derniere-flamme",
-            "contributions": [
-              {
-                "author": {
-                  "name": "Tim Probert"
-                }
-              }
-            ],
-            "image": {
-              "url": "https://assets.hardcover.app/edition/26457084/10096852-L.jpg"
             }
           }
         },
