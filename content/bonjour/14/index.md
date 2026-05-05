@@ -10,7 +10,7 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: rosewater
+color: red
 
 title: "14 - Haikus, barbecue et activisme"
 slug: "14"

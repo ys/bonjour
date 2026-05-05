@@ -7,7 +7,7 @@ tags:
 - la lettre
 emoji: 💌
 title: "49 - Des liens, des liens & encore des liens"
-color: mauve
+color: purple
 slug: "49"
 resources:
   - src: "*.webp"

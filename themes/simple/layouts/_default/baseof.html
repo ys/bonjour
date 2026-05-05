@@ -26,9 +26,9 @@
     {{ .Site.Params.themePalette }}
     content-{{ $.Scratch.Get "color" }}
     font-serif antialiased
-    bg-amber-50 dark:bg-crust dark:text-white text-crust
+    bg-paper dark:bg-fo-base-950 dark:text-white text-ink
     {{ if and (or .Params.backgroundColor $.Site.Params.backgroundColor) (ne .Kind "page") }}
-      {{ with .Params.background }}bg-{{ . }}{{ end }}
+      {{ with .Params.background }}bg-{{ . }}-50{{ end }}
       bg-{{ $.Scratch.Get "color" }} bg-opacity-10
       selection:bg-opacity-20 selection:bg-{{ $.Scratch.Get "color" }}
     {{ else }}
@@ -42,7 +42,7 @@
       </a>
       {{ end }}
       <div class="flex items-center font-sans text-[13px] tracking-[.04em]">
-        <a href="{{ "/" | relLangURL }}" class="font-semibold text-crust dark:text-white whitespace-nowrap">{{ .Site.Title }}</a>
+        <a href="{{ "/" | relLangURL }}" class="font-semibold text-ink dark:text-white whitespace-nowrap">{{ .Site.Title }}</a>
         <nav class="main_menu">
           {{ $current := . }}
           <ul class="flex items-center">

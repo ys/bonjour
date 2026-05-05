@@ -19,7 +19,7 @@ resources:
   - src: "*.webp"
 categories:
 - surf
-color: teal
+color: cyan
 ---
 
 ![Yannick et Tom](cover.webp)

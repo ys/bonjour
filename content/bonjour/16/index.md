@@ -10,7 +10,7 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: rosewater
+color: red
 
 title: "16 - Vagues, méditation et peintures"
 slug: "16"

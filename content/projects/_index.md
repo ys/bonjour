@@ -1,5 +1,5 @@
 ---
-color: peach
+color: orange
 title: "Those are good projects"
 seotitle: "Projects - Yannick Schutz"
 menu:

@@ -9,7 +9,7 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: rosewater
+color: red
 
 title: "20 - hippie, petits mickeys et grimpe"
 slug: "20"

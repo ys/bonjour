@@ -1,5 +1,5 @@
 ---
-color: peach
+color: orange
 title: "Capturing details of a beautiful daily life"
 subtitle: "2021 • Bretagne mostly, a bit of Paris, etc."
 date: "2021-01-01T01:01:01Z"

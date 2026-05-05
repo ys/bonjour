@@ -1,5 +1,5 @@
 ---
-color: peach
+color: orange
 title: "Capturing details of a beautiful daily life"
 subtitle: "2025 • Digital & film"
 date: "2025-01-01T01:01:01Z"

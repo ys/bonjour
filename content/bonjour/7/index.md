@@ -10,7 +10,7 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: rosewater
+color: red
 
 title: "7 - Crazy Horse, examen colorectal et rétrospective"
 slug: "7"

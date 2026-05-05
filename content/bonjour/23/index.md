@@ -10,7 +10,7 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: rosewater
+color: red
 
 title: "23 - habitudes, lectures et psychologie"
 slug: "23"

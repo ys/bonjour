@@ -1,5 +1,5 @@
 ---
-color: peach
+color: orange
 title: "Capturing details of a beautiful daily life"
 subtitle: "2023 • Morocco, California, etc."
 date: "2023-01-01T01:01:01Z"

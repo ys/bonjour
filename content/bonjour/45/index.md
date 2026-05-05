@@ -7,7 +7,7 @@ tags:
 - la lettre
 emoji: 💌
 title: "45 - Coyote, Demi frame et un café"
-color: rosewater
+color: red
 slug: "45"
 resources:
   - src: "*.webp"

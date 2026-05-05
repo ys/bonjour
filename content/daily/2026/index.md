@@ -1,6 +1,6 @@
 ---
 default: true
-color: peach
+color: orange
 title: "Capturing details of a beautiful daily life"
 subtitle: "2026 • Digital & film"
 date: "2026-01-01T01:01:01Z"

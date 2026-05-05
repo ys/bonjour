@@ -10,7 +10,7 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: rosewater
+color: red
 
 title: "27 - Larmes, Cancer et changement climatique"
 slug: "27"

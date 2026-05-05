@@ -8,7 +8,7 @@ emoji: "🌅"
 categories:
 - journal
 slug: "2021"
-color: pink
+color: magenta
 resources:
 - src: "*.webp"
 - src:  "cover.webp"
