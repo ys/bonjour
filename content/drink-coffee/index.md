@@ -1,4 +1,5 @@
 ---
+hideTitle: true
 color: cyan
 title: "Boire du café"
 description: "Mes torrefacteurs favoris & autres liens sur le café"

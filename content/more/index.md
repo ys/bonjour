@@ -1,4 +1,5 @@
 ---
+hideTitle: true
 date: 2024-01-01
 title: "And more..."
 slug: "/more"

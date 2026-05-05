@@ -1,4 +1,5 @@
 ---
+hideTitle: true
 emoji: "🌀"
 color: cyan
 title: "Now"
