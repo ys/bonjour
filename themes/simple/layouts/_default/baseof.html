@@ -26,7 +26,7 @@
     {{ .Site.Params.themePalette }}
     content-{{ $.Scratch.Get "color" }}
     font-serif antialiased
-    bg-paper dark:bg-fo-base-950 dark:text-white text-ink
+    bg-paper/50 dark:bg-fo-base-950 dark:text-white text-ink
     {{ if and (or .Params.backgroundColor $.Site.Params.backgroundColor) (ne .Kind "page") }}
       {{ with .Params.background }}bg-{{ . }}{{ end }}
       bg-{{ $.Scratch.Get "color" }}/10
