@@ -1,8 +1,8 @@
 {
   "name": "yannickschutz.com",
   "version": "2.0.0",
-   "engines": {
-    "node": "22.x"
+  "engines": {
+    "node": "25.x"
   },
   "description": "https://yannickschutz.com",
   "files": [
@@ -20,6 +20,10 @@
   },
   "author": "Yannick Schutz",
   "license": "MIT",
+  "resolutions": {
+    "re2": "1.24.0",
+    "nan": "2.26.2"
+  },
   "dependencies": {
     "@babel/cli": "^7.17.6",
     "@babel/core": "^7.17.9",
