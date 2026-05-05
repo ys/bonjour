@@ -9,8 +9,8 @@
     "gulp"
   ],
   "scripts": {
-    "build": "hugo --templateMetrics --templateMetricsHints --printUnusedTemplates --minify -b https://${BASE_URL:-bonjour-git-$VERCEL_GIT_COMMIT_REF-ys1.vercel.app}",
-    "build-preview": "hugo --environment preview --minify -F -D -b https://${BASE_URL:-bonjour-git-$VERCEL_GIT_COMMIT_REF-ys1.vercel.app}",
+    "build": "hugo --templateMetrics --templateMetricsHints --printUnusedTemplates --minify -b https://${BASE_URL:-$VERCEL_BRANCH_URL}",
+    "build-preview": "hugo --environment preview --minify -F -D -b https://${BASE_URL:-$VERCEL_BRANCH_URL}",
     "gulp": "gulp",
     "build-images": "gulp img:build",
     "debug": "rm -rf public/* resources/_gen && hugo --templateMetrics --templateMetricsHints",
