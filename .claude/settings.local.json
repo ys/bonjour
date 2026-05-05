@@ -11,7 +11,17 @@
       "WebFetch(domain:)",
       "WebFetch(domain:yannickschutz.com)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(open *)",
+      "Bash(git checkout *)",
+      "Bash(gh api *)",
+      "Bash(xargs sed *)",
+      "Bash(rsvg-convert --version)",
+      "Bash(convert --version)",
+      "Bash(magick --version)",
+      "Bash(rsvg-convert --help)",
+      "Bash(rsvg-convert -w 48 -h 48 -b \"#FFFCF0\" /Users/ys/src/github.com/ys/bonjour/static/logo.svg -o /tmp/logo-48.png)",
+      "Bash(magick /Users/ys/src/github.com/ys/bonjour/static/accent/favicon-16x16.png /Users/ys/src/github.com/ys/bonjour/static/accent/favicon-32x32.png /tmp/logo-48.png /Users/ys/src/github.com/ys/bonjour/static/accent/favicon.ico)"
     ]
   }
 }
