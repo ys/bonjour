@@ -26,8 +26,8 @@
     {{ .Site.Params.themePalette }}
     content-{{ $.Scratch.Get "color" }}
     font-serif antialiased
-    dark:bg-crust dark:text-white text-crust
-    {{ if or .Params.backgroundColor $.Site.Params.backgroundColor }}
+    bg-amber-50 dark:bg-crust dark:text-white text-crust
+    {{ if and (or .Params.backgroundColor $.Site.Params.backgroundColor) (ne .Kind "page") }}
       {{ with .Params.background }}bg-{{ . }}{{ end }}
       bg-{{ $.Scratch.Get "color" }} bg-opacity-10
       selection:bg-opacity-20 selection:bg-{{ $.Scratch.Get "color" }}
