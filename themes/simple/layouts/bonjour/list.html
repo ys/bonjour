@@ -1,0 +1,16 @@
+{{ define "main" }}
+<div class="max-w-3xl mx-auto pb-8">
+  <p class="text-justify leading-[2.8] tracking-[.055em] text-[17px]">
+    {{ $paginator := .Paginate (where (where (where .Site.AllPages "Type" .Type) "Kind" "==" "page") ".Params.archived" "!=" true) 2500 }}
+    {{ range $i, $group := ($paginator.Pages.GroupByDate "2006" "desc") }}
+      {{ if gt $i 0 }}<span class="text-gray-300 dark:text-gray-600 px-[.7em]">·</span>{{ end -}}
+      <span class="font-sans text-sm font-medium tracking-[.15em] uppercase text-gray-400 dark:text-gray-500 px-[1em] align-[.1em]">{{ $group.Key }}</span>
+      <span class="text-gray-300 dark:text-gray-600 px-[.7em]">·</span>
+      {{- range $j, $page := $group.Pages -}}
+        {{ if gt $j 0 }}<span class="text-gray-300 dark:text-gray-600 px-[.7em]">·</span>{{ end -}}
+        <a href="{{ $page.RelPermalink }}" class="text-inherit no-underline hover:opacity-40 transition-opacity duration-150 px-[.15em]">{{ $page.Title }}</a>
+      {{- end }}
+    {{ end }}
+  </p>
+</div>
+{{ end }}
