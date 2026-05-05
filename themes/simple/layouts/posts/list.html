@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div class="max-w-3xl mx-auto pb-16">
+<div class="max-w-3xl mx-auto pb-8">
   <p class="text-justify leading-[2.8] tracking-[.055em] text-[17px]">
     {{ $paginator := .Paginate (where (where (where .Site.AllPages "Type" .Type) "Kind" "==" "page") ".Params.archived" "!=" true) 2500 }}
     {{ range $i, $group := ($paginator.Pages.GroupByDate "2006" "desc") }}

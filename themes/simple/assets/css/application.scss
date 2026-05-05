@@ -114,10 +114,14 @@ svg, .logo svg, .fill svg {
   display: block;
   fill: currentColor;
 }
-footer .site-logo svg,
 header .site-logo svg {
   width: 28px;
   height: 28px;
+}
+footer a svg {
+  width: 100%;
+  height: auto;
+  display: block;
 }
 footer ul li:not(:last-child):after {
  content: "·";
