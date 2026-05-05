@@ -13,6 +13,7 @@
   {{ $title = printf "%s - %s" .Title $.Site.Title }}
 {{ end }}
 {{ $colorHex := index  .Site.Data.palette (.Site.Params.themePalette) ($.Scratch.Get "color") "hex"  }}
+{{ $darkHex := index .Site.Data.palette (.Site.Params.themePalette) "crust" "hex" | default "#232634" }}
 {{- /* Generate description: use explicit description, then summary, then first paragraph, then site default */ -}}
 {{ $description := "" }}
 {{- if .Description -}}
@@ -32,7 +33,7 @@
 
 <title>{{ $title }}</title>
 <meta name="theme-color" media="(prefers-color-scheme: light)" content="{{$colorHex}}" />
-<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#232634" />
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="{{ $darkHex }}" />
 {{ if in .Site.Params.doNotIndex .Type }}
     <meta name="robots" content="noindex, nofollow">
 {{ else }}

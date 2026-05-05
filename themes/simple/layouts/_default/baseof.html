@@ -28,11 +28,11 @@
     font-serif antialiased
     bg-paper dark:bg-fo-base-950 dark:text-white text-ink
     {{ if and (or .Params.backgroundColor $.Site.Params.backgroundColor) (ne .Kind "page") }}
-      {{ with .Params.background }}bg-{{ . }}-50{{ end }}
-      bg-{{ $.Scratch.Get "color" }} bg-opacity-10
-      selection:bg-opacity-20 selection:bg-{{ $.Scratch.Get "color" }}
+      {{ with .Params.background }}bg-{{ . }}{{ end }}
+      bg-{{ $.Scratch.Get "color" }}/10
+      selection:bg-{{ $.Scratch.Get "color" }}/20
     {{ else }}
-      selection:bg-{{ $.Scratch.Get "color" }} selection:bg-opacity-20
+      selection:bg-{{ $.Scratch.Get "color" }}/20
     {{ end }}
   ">
     <header class="py-8 px-6 flex flex-col items-center gap-3">

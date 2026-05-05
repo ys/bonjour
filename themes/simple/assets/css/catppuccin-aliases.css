@@ -1,0 +1,31 @@
+/* Short names + site tokens → Catppuccin Frappe (--color-ctp-*). Body uses class `frappe`. */
+
+@theme inline {
+  --color-text: var(--color-ctp-text);
+
+  --color-accent: var(--color-ctp-peach);
+  --color-accent-600: var(--color-ctp-peach-600);
+
+  --color-cascade-100: var(--color-ctp-teal-100);
+  --color-cascade-600: var(--color-ctp-teal-600);
+
+  --color-rosewater: var(--color-ctp-rosewater);
+  --color-rosewater-100: var(--color-ctp-rosewater-100);
+  --color-flamingo: var(--color-ctp-flamingo);
+  --color-pink: var(--color-ctp-pink);
+  --color-mauve: var(--color-ctp-mauve);
+  --color-red: var(--color-ctp-red);
+  --color-maroon: var(--color-ctp-maroon);
+  --color-peach: var(--color-ctp-peach);
+  --color-yellow: var(--color-ctp-yellow);
+  --color-green: var(--color-ctp-green);
+  --color-teal: var(--color-ctp-teal);
+  --color-sky: var(--color-ctp-sky);
+  --color-sapphire: var(--color-ctp-sapphire);
+  --color-blue: var(--color-ctp-blue);
+  --color-lavender: var(--color-ctp-lavender);
+
+  --color-tuscan: var(--color-ctp-peach);
+
+  --color-crust: var(--color-ctp-crust);
+}

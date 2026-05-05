@@ -9,6 +9,9 @@ canonifyURLs = false
   osEnv = [ '(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$', '^ASDF_DIR$', '^HOME$']
 [build]
   writeStats = true
+  [[build.cachebusters]]
+    source = 'hugo_stats\\.json'
+    target = 'css'
 [params]
   themePalette = "frappe"
   themeColors = [
