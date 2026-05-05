@@ -37,7 +37,7 @@ books:
     pages: 160
     isbn: "0985265604"
     isbn13: "9780985265601"
-    cover_url: ""
+    cover_url: https://m.media-amazon.com/images/I/61GER8sLsYL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/the-credibility-code
   - title: Into the Wild
@@ -229,7 +229,7 @@ books:
     isbn: "0143037838"
     isbn13: "9780143037835"
     cover_url: >-
-      https://books.google.com/books/content?id=sjBAfE-8-fQC&printsec=frontcover&img=1&zoom=3&edge=curl&source=gbs_api
+      https://assets.hardcover.app/external_data/59364474/f2a715b0911fa8d3544dbd7ec6c495ba5dfe15ef.jpeg
     reading: false
     url: https://hardcover.app/books/let-my-people-go-surfing
   - title: "Wild: From Lost to Found on the Pacific Crest Trail"
