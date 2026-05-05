@@ -53,7 +53,7 @@ html{
 }
 
 .main_menu li:not(:first-child):before {
-  content: " • "
+  content: none;
 }
 :root {
   --gap: 20px;
@@ -103,6 +103,21 @@ $colors: {{ range .Site.Params.themeColors }}{{.}}, {{end}};
 }
 svg, .logo svg, .fill svg {
   @apply fill-current;
+}
+.site-logo {
+  display: flex;
+  align-items: center;
+}
+.site-logo svg {
+  width: 20px;
+  height: 20px;
+  display: block;
+  fill: currentColor;
+}
+footer .site-logo svg,
+header .site-logo svg {
+  width: 28px;
+  height: 28px;
 }
 footer ul li:not(:last-child):after {
  content: "·";

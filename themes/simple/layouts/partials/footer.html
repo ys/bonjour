@@ -1,19 +1,24 @@
-<div class="font-sans mx-6 max-w-6xl ">
-  <footer class="relative py-16 dark:text-gray-100 text-gray-600 flex flex-col justify-items-center items-left gap-2 text-sm">
-    <span class="font-light text-md">
+<div class="font-sans mx-auto px-6 w-full max-w-6xl">
+  <footer class="py-16 flex flex-col items-center gap-4 text-center">
+    <p class="font-serif italic text-sm text-gray-400 dark:text-gray-500 max-w-sm leading-relaxed">
       {{ .Site.Params.footerDescription }}
-    </span>
-    <span class="font-light text-xs">
-    {{ .Site.Params.author.location }} • <a href="mailto:{{ .Site.Params.social.email }}">{{ .Site.Params.social.email }}</a> • <a href="https://instagram.com/{{ .Site.Params.social.instagram }}">@{{ .Site.Params.social.instagram }}</a>
-
-    </span>
-    <span class="text-xs text-gray-400 dark:text-gray-600">{{ .Site.Params.copyright }}</span>
-
-    <a href="#" alt="Get me back to the top" aria-label="Get me back to the top" class="mt-8 hover:rotate-180 duration-500 w-8 text-{{ $.Scratch.Get "color" }} ">
-      {{ if fileExists "/static/negative-logo.svg" }}
-      {{ readFile "/static/negative-logo.svg" | safeHTML}}
-      <span class="hidden">Get me back to the top</span>
-      {{ else }}☻{{ end }}
+    </p>
+    <div class="flex items-center text-[11px] tracking-[.1em] uppercase text-gray-400 dark:text-gray-500">
+      <a href="mailto:{{ .Site.Params.social.email }}" class="hover:text-crust dark:hover:text-white transition-colors">email</a>
+      <span class="px-3 text-gray-200 dark:text-gray-700">·</span>
+      <a href="https://instagram.com/{{ .Site.Params.social.instagram }}" class="hover:text-crust dark:hover:text-white transition-colors">instagram</a>
+      <span class="px-3 text-gray-200 dark:text-gray-700">·</span>
+      <a href="/index.xml" class="hover:text-crust dark:hover:text-white transition-colors">rss</a>
+    </div>
+    <div class="flex items-center text-[11px] text-gray-300 dark:text-gray-600 tracking-[.04em]">
+      <span>{{ .Site.Params.author.location }}</span>
+      <span class="px-2">·</span>
+      <span>{{ .Site.Params.copyright }}</span>
+    </div>
+    <a href="#" aria-label="Back to top" class="site-logo mt-2 text-gray-300 dark:text-gray-700 hover:text-gray-400 hover:rotate-180 transition-all duration-500">
+      {{ if fileExists "/static/logo.svg" }}
+        {{ readFile "/static/logo.svg" | safeHTML }}
+      {{ end }}
     </a>
   </footer>
 </div>
