@@ -12,8 +12,8 @@
 {{ else if .Title }}
   {{ $title = printf "%s - %s" .Title $.Site.Title }}
 {{ end }}
-{{ $colorHex := index  .Site.Data.palette (.Site.Params.themePalette) ($.Scratch.Get "color") "hex"  }}
-{{ $darkHex := index .Site.Data.palette (.Site.Params.themePalette) "crust" "hex" | default "#232634" }}
+{{ $flexokiHex := dict "red" "#D14D41" "orange" "#DA702C" "yellow" "#D0A215" "green" "#879A39" "cyan" "#3AA99F" "blue" "#4385BE" "purple" "#8B7EC8" "magenta" "#CE5D97" }}
+{{ $colorHex := index $flexokiHex ($.Scratch.Get "color") | default "#100F0F" }}
 {{- /* Generate description: use explicit description, then summary, then first paragraph, then site default */ -}}
 {{ $description := "" }}
 {{- if .Description -}}
@@ -32,8 +32,8 @@
 {{ $description = $description | truncate 160 }}
 
 <title>{{ $title }}</title>
-<meta name="theme-color" media="(prefers-color-scheme: light)" content="{{$colorHex}}" />
-<meta name="theme-color" media="(prefers-color-scheme: dark)" content="{{ $darkHex }}" />
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#FFFCF0" />
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#100F0F" />
 {{ if in .Site.Params.doNotIndex .Type }}
     <meta name="robots" content="noindex, nofollow">
 {{ else }}
