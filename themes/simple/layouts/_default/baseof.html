@@ -37,22 +37,25 @@
   ">
     <header class="py-8 px-6 flex flex-col items-center gap-3">
       {{ if fileExists "/static/logo.svg" }}
-      <a href="{{ "/" | relLangURL }}" aria-label="Home" class="site-logo text-{{ $.Scratch.Get "color" }} hover:rotate-180 transition-transform duration-500" style="width:28px;height:28px;">
+      <a href="{{ "/" | relLangURL }}" aria-label="Home" class="site-logo text-{{ $.Scratch.Get "color" }} hover:rotate-180 transition-transform duration-500 hidden md:block" style="width:28px;height:28px;">
         {{ readFile "/static/logo.svg" | safeHTML }}
       </a>
       {{ end }}
-      <div class="flex items-center font-sans text-[13px] tracking-[.04em]">
-        <a href="{{ "/" | relLangURL }}" class="font-semibold text-ink dark:text-white whitespace-nowrap">{{ .Site.Title }}</a>
+      <div class="flex flex-col md:flex-row items-center gap-2 md:gap-0 font-sans text-[13px] tracking-[.04em]">
+        <div class="flex items-center gap-2">
+          <a href="{{ "/" | relLangURL }}" class="font-semibold text-ink dark:text-white whitespace-nowrap">{{ .Site.Title }}</a>
+        </div>
         <nav class="main_menu">
           {{ $current := . }}
-          <ul class="flex items-center">
+          <ul class="flex items-center flex-wrap justify-center">
             {{ $menu := .Site.Menus.main }}
             {{ range $menu }}
               {{ $active := or ($current.IsMenuCurrent "nav" .) ($current.HasMenuCurrent "nav" .) }}
               {{ $active = or $active (eq .Page $current) }}
               {{ $active = or $active (eq .Page.Section $current.Type) }}
               <li class="flex items-center">
-                <span class="text-gray-300 dark:text-gray-600 px-3">/</span>
+                <span class="text-gray-300 dark:text-gray-600 px-3 hidden md:inline">/</span>
+                <span class="text-gray-300 dark:text-gray-600 px-1.5 md:hidden">·</span>
                 <a
                   href="{{ .URL }}"
                   title="{{ .Title }}"
