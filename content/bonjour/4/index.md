@@ -10,7 +10,7 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: rosewater
+color: red
 
 title: "4 - Deux mains, omakase et apprentissage"
 slug: "4"

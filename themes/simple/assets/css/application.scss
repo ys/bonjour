@@ -1,9 +1,3 @@
-@tailwind base;
-
-@tailwind components;
-
-@tailwind utilities;
-
 open-heart {
   display: inline-flex;
   cursor: pointer;
@@ -53,10 +47,20 @@ html{
 }
 
 .main_menu li:not(:first-child):before {
-  content: " • "
+  content: none;
 }
 :root {
   --gap: 20px;
+}
+
+/* Former tailwind.config.js typography plugin overrides */
+.prose :where(a) {
+  color: var(--tw-prose-body);
+}
+.prose :where(picture),
+.prose :where(img) {
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .prose blockquote {
@@ -67,7 +71,7 @@ $colors: {{ range .Site.Params.themeColors }}{{.}}, {{end}};
 @each $color in $colors {
 
   .content-#{$color} .post blockquote {
-    @apply leading-snug pl-4  border-l-4 border-#{$color} font-normal ;
+    @apply leading-snug pl-4  border-l-4 border-#{$color} font-normal;
   }
   .content-#{$color} .note {
     @apply my-4 lg:-mx-6 -ml-4 px-4 lg:pr-6 py-1 lg:pl-6 border-l-4 border-#{$color} bg-gray-100 dark:bg-gray-800;
@@ -88,7 +92,7 @@ $colors: {{ range .Site.Params.themeColors }}{{.}}, {{end}};
     @apply text-#{$color};
   }
   .content-#{$color} hr {
-    @apply border-#{$color} border-opacity-20;
+    @apply border-#{$color}/20;
   }
 
   .content-#{$color} .post h2, .content-#{$color} .post h3 {
@@ -103,6 +107,25 @@ $colors: {{ range .Site.Params.themeColors }}{{.}}, {{end}};
 }
 svg, .logo svg, .fill svg {
   @apply fill-current;
+}
+.site-logo {
+  display: flex;
+  align-items: center;
+}
+.site-logo svg {
+  width: 20px;
+  height: 20px;
+  display: block;
+  fill: currentColor;
+}
+header .site-logo svg {
+  width: 28px;
+  height: 28px;
+}
+footer a svg {
+  width: 100%;
+  height: auto;
+  display: block;
 }
 footer ul li:not(:last-child):after {
  content: "·";
@@ -175,7 +198,7 @@ footer ul li:not(:last-child):after {
 }
 
 hr {
-  @apply border-yellow border-opacity-20 block mt-6 border-0 mb-4 mx-auto w-full border-t;
+  @apply border-yellow/20 block mt-6 border-0 mb-4 mx-auto w-full border-t;
 }
 
 .home {
@@ -229,9 +252,12 @@ hr {
 }
 
 table {
-  @apply w-full p-4 my-4 border border-solid border-collapse border-text #{!important};
-  th, td {
-    @apply border-solid border border-text p-2 border-collapse #{!important};
+  @apply w-full p-4 my-4 border border-solid border-collapse border-text;
+  border-collapse: collapse !important;
+  th,
+  td {
+    @apply border-solid border border-text p-2 border-collapse;
+    border-collapse: collapse !important;
   }
 }
 .link, .with-links a, .content a {

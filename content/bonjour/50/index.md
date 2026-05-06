@@ -1,5 +1,5 @@
 ---
-color: mauve
+color: purple
 title: 50 - Pétition, freelancing & ko-fi
 date: 2024-02-02
 description: 

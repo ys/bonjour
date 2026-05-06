@@ -1,7 +1,16 @@
 {{ define "main" }}
 <article class="h-entry">
+  {{ if not .Params.hideTitle }}
+  <header class="max-w-2xl mx-auto mb-12 text-center">
+    <h1 class="font-serif text-[28px] font-normal leading-tight text-ink dark:text-white mb-2">{{ .Title }}</h1>
+    {{ with .Params.subtitle }}
+      <p class="font-serif italic text-base text-gray-500 dark:text-gray-400">{{ . }}</p>
+    {{ end }}
+  </header>
+  <div class="max-w-2xl mx-auto mb-12"><hr class="border-t border-gray-200 dark:border-gray-700"></div>
+  {{ end }}
   {{ partial "article_content" . }}
-  <span class="text-xs mt-6 mb-8 text-right font-sans capitalize flex gap-1">
+  <span class="text-xs mt-6 mb-8 text-right font-sans capitalize justify-end flex gap-1">
     {{ if .Params.camera }}
       <a href="{{ .RelPermalink }}">
         📷 {{ .Params.camera }} {{ with .Params.film }}{{ $.Site.Params.arrow }} {{ . }} {{ end }}

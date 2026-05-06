@@ -1,6 +1,7 @@
 ---
+hideTitle: true
 emoji: "🌀"
-color: teal
+color: cyan
 title: "Now"
 description: "What I am doing?"
 date: 2026-02-07

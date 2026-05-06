@@ -10,7 +10,7 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: rosewater
+color: red
 
 title: "15 - Capitaine, tatouages et SMS"
 slug: "15"

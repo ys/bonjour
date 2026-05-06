@@ -10,7 +10,7 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: rosewater
+color: red
 
 title: "18 - Michel Berger, les amis et la mer"
 slug: "18"

@@ -12,7 +12,8 @@
 {{ else if .Title }}
   {{ $title = printf "%s - %s" .Title $.Site.Title }}
 {{ end }}
-{{ $colorHex := index  .Site.Data.palette (.Site.Params.themePalette) ($.Scratch.Get "color") "hex"  }}
+{{ $flexokiHex := dict "red" "#D14D41" "orange" "#DA702C" "yellow" "#D0A215" "green" "#879A39" "cyan" "#3AA99F" "blue" "#4385BE" "purple" "#8B7EC8" "magenta" "#CE5D97" }}
+{{ $colorHex := index $flexokiHex ($.Scratch.Get "color") | default "#100F0F" }}
 {{- /* Generate description: use explicit description, then summary, then first paragraph, then site default */ -}}
 {{ $description := "" }}
 {{- if .Description -}}
@@ -31,21 +32,21 @@
 {{ $description = $description | truncate 160 }}
 
 <title>{{ $title }}</title>
-<meta name="theme-color" media="(prefers-color-scheme: light)" content="{{$colorHex}}" />
-<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#232634" />
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#FFFCF0" />
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#100F0F" />
 {{ if in .Site.Params.doNotIndex .Type }}
     <meta name="robots" content="noindex, nofollow">
 {{ else }}
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 {{ end }}
-<link rel="apple-touch-icon" sizes="180x180" href="/{{ $.Scratch.Get "color"}}/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/{{ $.Scratch.Get "color"}}/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/{{ $.Scratch.Get "color"}}/favicon-16x16.png">
-<link rel="manifest" href="/{{ $.Scratch.Get "color"}}/site.webmanifest">
-<link rel="mask-icon" href="/{{ $.Scratch.Get "color"}}/safari-pinned-tab.svg" color="{{ $colorHex}}">
+<link rel="apple-touch-icon" sizes="180x180" href="/accent/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/accent/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/accent/favicon-16x16.png">
+<link rel="manifest" href="/accent/site.webmanifest">
+<link rel="mask-icon" href="/accent/safari-pinned-tab.svg" color="{{ $colorHex }}">
 <meta name="apple-mobile-web-app-title" content="Bonjour Yannick">
 <meta name="application-name" content="Bonjour Yannick">
-<meta name="msapplication-TileColor" content="{{$colorHex}}">
+<meta name="msapplication-TileColor" content="#FFFCF0">
 <meta name="description" content="{{ $description }}" />
 {{ if $tags }}<meta name="keywords" content="{{ $tags }}">{{ end }}
 <link rel="canonical" href="{{ .Permalink }}" />

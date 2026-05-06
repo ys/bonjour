@@ -1,5 +1,5 @@
 ---
-color: flamingo
+color: magenta
 title: Arena, the little tool that could
 subtitle: Serendipity and blocks
 date: 2023-12-01

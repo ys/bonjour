@@ -8,7 +8,7 @@ tags:
 - la lettre
 emoji: 💌
 title: "40 - Choisir, Moudre et Renoncer"
-color: rosewater
+color: red
 slug: "40"
 resources:
   - src: "*.webp"

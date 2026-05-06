@@ -1,12 +1,9 @@
 {{ define "main" }}
-<div class="z-20 dark:prose-invert prose mb-8 with-links relative text-xl">
-  {{ .Content }}
-</div>
     {{ $paginator := (.Paginate (where (where (where .Site.AllPages "Type" .Type) "Kind" "==" "page") ".Params.archived" "!=" true)  2500) }}
     {{ range $paginator.Pages.GroupByDate (.Params.groupBy | default "2006") }}
     <div class="py-6 max-w-3xl">
-      <header class="flex gap-2 mb-3 mt-1 text-xl items-center">
-        <h2 id="{{.Key}}" class="font-bold">{{partial "moon" .}} {{ .Key }}</h2>
+      <header class="flex gap-2 mb-3 mt-1 text-xl items-center uppercase text-sm font-sans">
+        <h2 id="{{.Key}}" class="font-sans text-sm font-medium tracking-[.15em] uppercase text-gray-400 dark:text-gray-500 ">{{ .Key }}</h2>
       </header>
       {{ range .Pages }}
         {{ .Render "item" }}

@@ -10,7 +10,7 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: rosewater
+color: red
 
 title: "6 - Biographies, films de Noël et Amour papier"
 slug: "6"

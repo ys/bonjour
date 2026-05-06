@@ -5,7 +5,7 @@ emoji: 😃
 letter: detail
 description: "📍 Ty Lucie, Berrien, Bretagne"
 date: 2023-07-21T00:00:00+01:00
-color: rosewater
+color: red
 resources:
   - src: "cover.webp"
     name: "cover"

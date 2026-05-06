@@ -10,7 +10,7 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: rosewater
+color: red
 
 title: "10 - Bouquins, caravanes et Z-Boys"
 slug: "10"

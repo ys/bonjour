@@ -10,7 +10,7 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: rosewater
+color: red
 
 title: "2 - Fire lookout, auto portraits et photo de chasse"
 slug: "2"
