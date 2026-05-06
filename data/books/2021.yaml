@@ -36,7 +36,7 @@ books:
     isbn: "2080232770"
     isbn13: "9782080232779"
     cover_url: >-
-      https://books.google.com/books/content?id=WKcPEAAAQBAJ&printsec=frontcover&img=1&zoom=3&source=gbs_api
+      https://assets.hardcover.app/external_data/1061185/95c984d5056eb629797e5fa9ce753c3965ed32c8.jpeg
     reading: false
     url: https://hardcover.app/books/sans-alcool-2021
   - title: Normal People
@@ -99,7 +99,8 @@ books:
     pages: 256
     isbn: ""
     isbn13: "9781786785558"
-    cover_url: https://assets.hardcover.app/edition/30647039/58295954._SX98_.jpg
+    cover_url: >-
+      https://books.google.com/books/content?id=2PmQEAAAQBAJ&printsec=frontcover&img=1&zoom=3&source=gbs_api
     reading: false
     url: https://hardcover.app/books/saltwater-in-the-blood
   - title: Grand Océan
@@ -281,7 +282,8 @@ books:
     pages: 184
     isbn: "2330150121"
     isbn13: "9782330150129"
-    cover_url: https://m.media-amazon.com/images/I/51BIGQluAQL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/60390611/19b6b72decb04066c58facb7a0024f99d813961b.jpeg
     reading: false
     url: https://hardcover.app/books/au-prochain-arret
   - title: Fuki-no-tô
@@ -411,7 +413,7 @@ books:
     isbn: "2330007817"
     isbn13: "9782330007812"
     cover_url: >-
-      https://assets.hardcover.app/external_data/2458196/c7546a2b1765c57bff226233ac258ac7b80d32f0.jpeg
+      https://books.google.com/books/content?id=XfpIFN1ZEYMC&printsec=frontcover&img=1&zoom=3&source=gbs_api
     reading: false
     url: https://hardcover.app/books/le-retour-2005
   - title: Tu m'avais dit Ouessant
