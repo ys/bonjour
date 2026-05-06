@@ -1,6 +1,7 @@
 ---
 title: "Obsidian daily"
 emoji: "💎"
+archived: true
 categories:
 - journal
 subtitle: "Adding weather and geoloc to notes"
@@ -8,7 +9,7 @@ resources:
 - name: '*.webp'
 - name: '*.mp4'
 - name: '*.png'
-color: teal
+color: cyan
 date: 2022-10-27
 ---
 

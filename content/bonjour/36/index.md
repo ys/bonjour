@@ -10,7 +10,7 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: rosewater
+color: red
 
 title: "36 - Du skate, de la nage et la terre comme seul actionnaire"
 slug: "36"

@@ -10,7 +10,7 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: rosewater
+color: red
 
 title: "1 - Bonjour, Pedro's bay et l'utopie"
 slug: "1"

@@ -10,7 +10,7 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: rosewater
+color: red
 
 title: "26 - Cantine, papier et Aziz Ansari"
 slug: "26"

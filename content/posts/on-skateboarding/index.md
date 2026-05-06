@@ -1,5 +1,5 @@
 ---
-color: mauve
+color: purple
 title: "On Skateboarding"
 subtitle: "Still not a crime"
 date: 2023-11-09

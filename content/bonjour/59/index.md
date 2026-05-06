@@ -7,7 +7,7 @@ tags:
 - la lettre
 emoji: 💌
 title: "59 - Encre, vapeur et pixels"
-color: rosewater
+color: red
 slug: "59"
 resources:
   - src: "*.webp"

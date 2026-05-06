@@ -10,7 +10,7 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: rosewater
+color: red
 
 title: "22 - Une mesure loupée, une dame en blocs et du repos"
 slug: "22"

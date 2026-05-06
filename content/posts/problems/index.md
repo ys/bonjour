@@ -1,7 +1,7 @@
 ---
 slug: "problems"
 title: "Problems and WD40"
-color: rosewater
+color: red
 date: "2023-10-19"
 summary: "There are two easy ways to solve problems"
 subtitle: "About solving problems, kind of..."

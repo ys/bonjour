@@ -1,6 +1,6 @@
 ---
 archived: true
-color: sky
+color: blue
 title: "Gwidel Log Fest"
 subtitle: "Emgav longboard dre bedadenn"
 date: 2023-02-01

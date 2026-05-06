@@ -10,7 +10,7 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: rosewater
+color: red
 
 title: "9 - Dry January, Covid et Nikonos"
 slug: "9"
