@@ -10,7 +10,7 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: rosewater
+color: red
 
 title: "34 - Du chaud, du corail et pas de banger"
 slug: "34"

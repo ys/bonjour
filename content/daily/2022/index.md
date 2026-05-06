@@ -1,5 +1,5 @@
 ---
-color: peach
+color: orange
 title: "Capturing details of a beautiful daily life"
 subtitle: "2022 • Lanzarote, breizhpacking, etc."
 date: "2022-01-01T01:01:01Z"

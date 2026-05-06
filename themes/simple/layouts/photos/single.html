@@ -1,15 +1,10 @@
 {{ define "main" }}
-<div class=" content-{{  $.Scratch.Get "color" }}">
-  <div  class="text-xl post dark:prose-invert prose ">
-    {{.Content}}
-  </div>
-</div>
 {{end}}
 {{ define "full" }}
 {{ if not .Params.hideSubmenu }}
 {{ $current := . }}
-<nav class="years xl:mx-auto mx-6 max-w-6xl mx-6 my-4">
-  <ul class="inline leading-relaxed flex gap-8 ">
+<nav class="years md:mx-auto mx-6 mx-6 my-4">
+  <ul class="leading-relaxed flex gap-8 justify-center">
     {{ $menu := index .Site.Menus .Section}}
     {{ range  $menu }}
     {{ $active := or ($current.IsMenuCurrent .Menu .) ($current.HasMenuCurrent .Menu .) }}

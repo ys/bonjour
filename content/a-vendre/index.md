@@ -1,4 +1,5 @@
 ---
+hideTitle: true
 title: "A vendre"
 description: "La seconde main, c'est bien"
 date: 2021-11-12T08:57:50+02:00

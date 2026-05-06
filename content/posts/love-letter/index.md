@@ -2,7 +2,7 @@
 slug: "love-letter"
 title: "On the Internets"
 date: 2023-11-13
-color: mauve
+color: purple
 summary: "Shouting my love to the weird and quirky internets!"
 subtitle: "A love letter to the small Internets"
 emoji: "🇬🇧"

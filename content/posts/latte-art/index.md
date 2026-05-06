@@ -1,5 +1,5 @@
 ---
-color: maroon
+color: red
 emoji: "☕"
 favorite: true
 slug: "/latte-art"

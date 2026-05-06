@@ -9,25 +9,22 @@ canonifyURLs = false
   osEnv = [ '(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$', '^ASDF_DIR$', '^HOME$']
 [build]
   writeStats = true
+  [[build.cachebusters]]
+    source = 'hugo_stats\\.json'
+    target = 'css'
 [params]
   themePalette = "frappe"
   themeColors = [
-    "rosewater",
-    "flamingo",
-    "pink",
-    "mauve",
     "red",
-    "maroon",
-    "peach",
+    "orange",
     "yellow",
     "green",
-    "teal",
-    "sky",
-    "sapphire",
+    "cyan",
     "blue",
-    "lavender"
+    "purple",
+    "magenta"
   ]
-  backgroundColor = true
+  backgroundColor = false
   ogURL = "https://og.yannickschutz.com"
   footer = " Be kind, rewind."
   text_404 = "Perdu?"
@@ -61,11 +58,11 @@ canonifyURLs = false
 
 [params.categoriesColors]
   video = "yellow"
-  article = "sky"
-  link = "peach"
-  audio = "flamingo"
+  article = "blue"
+  link = "orange"
+  audio = "magenta"
   image = "green"
-  document = "maroon"
+  document = "red"
 
 [params.indiekit]
   url = "https://bonjour-indie.herokuapp.com"

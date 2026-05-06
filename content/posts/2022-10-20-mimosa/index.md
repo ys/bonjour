@@ -5,7 +5,7 @@ categories:
 emoji: "🏄‍♂️"
 resources: 
 - name: '*.webp'
-color: teal
+color: cyan
 date: 2022-10-20
 camera: "Nikonos III"
 film: "Kodak Tri-x"

@@ -1,5 +1,6 @@
 ---
-color: teal
+hideTitle: true
+color: cyan
 title: "Boire du café"
 description: "Mes torrefacteurs favoris & autres liens sur le café"
 date: 2022-12-07T12:57:50+02:00

@@ -1,16 +1,16 @@
 {
   "name": "yannickschutz.com",
   "version": "2.0.0",
-   "engines": {
-    "node": "22.x"
+  "engines": {
+    "node": "24.x"
   },
   "description": "https://yannickschutz.com",
   "files": [
     "gulp"
   ],
   "scripts": {
-    "build": "hugo --templateMetrics --templateMetricsHints --printUnusedTemplates --minify -b https://${BASE_URL:-bonjour-git-$VERCEL_GIT_COMMIT_REF-ys1.vercel.app}",
-    "build-preview": "hugo --environment preview --minify -F -D -b https://${BASE_URL:-bonjour-git-$VERCEL_GIT_COMMIT_REF-ys1.vercel.app}",
+    "build": "hugo --templateMetrics --templateMetricsHints --printUnusedTemplates --minify -b https://${BASE_URL:-$VERCEL_BRANCH_URL}",
+    "build-preview": "hugo --environment preview --minify -F -D -b https://${BASE_URL:-$VERCEL_BRANCH_URL}",
     "gulp": "gulp",
     "build-images": "gulp img:build",
     "debug": "rm -rf public/* resources/_gen && hugo --templateMetrics --templateMetricsHints",
@@ -20,21 +20,25 @@
   },
   "author": "Yannick Schutz",
   "license": "MIT",
+  "resolutions": {
+    "re2": "1.24.0",
+    "nan": "2.26.2",
+    "difflib": "https://github.com/postlight/difflib.js.git#32e8e38c7fcd935241b9baab71bb432fd9b166ed",
+    "browser-request": "https://github.com/postlight/browser-request.git#feat-add-headers-to-response"
+  },
   "dependencies": {
     "@babel/cli": "^7.17.6",
     "@babel/core": "^7.17.9",
     "@babel/preset-env": "^7.16.11",
     "@babel/register": "^7.17.7",
-    "@catppuccin/tailwindcss": "^0.1.6",
+    "@catppuccin/tailwindcss": "^1.0.0",
     "@downwindcss/text-decoration": "^1.1.1",
     "@fullhuman/postcss-purgecss": "^4.0.0",
     "@postlight/mercury-parser": "^2.2.1",
     "@postlight/parser": "^2.2.3",
-    "@tailwindcss/aspect-ratio": "^0.4.2",
-    "@tailwindcss/forms": "^0.5.6",
-    "@tailwindcss/line-clamp": "^0.4.4",
-    "@tailwindcss/typography": "^0.5.10",
-    "autoprefixer": "^10.4.15",
+    "@tailwindcss/forms": "^0.5.11",
+    "@tailwindcss/postcss": "^4.2.2",
+    "@tailwindcss/typography": "^0.5.19",
     "babel-plugin-syntax-object-rest-spread": "^6.13.0",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-env": "^1.7.0",
@@ -65,7 +69,7 @@
     "puppeteer": "^22.2.0",
     "sharp": "^0.33.2",
     "stripe": "^8.145.0",
-    "tailwindcss": "^3.3.3",
-    "yarn": "^1.22.21"
+    "tailwindcss": "^4.2.2",
+    "yarn": "^1.22.22"
   }
 }

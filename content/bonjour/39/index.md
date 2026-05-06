@@ -10,7 +10,7 @@ resources:
 tags:
 - la lettre
 emoji: 💌
-color: rosewater
+color: red
 title: "39 - Hésiter, Résister, Exister"
 slug: "39"
 description: "Aujourd'hui, j'ai surfé. C'était sans doute ma plus courte session de toutes. Non pas à cause du froid . J'ai juste décidé de sortir sur une dernière vague que cette grande mer me donnait."

@@ -9,7 +9,7 @@
 {{ if not .Params.hideSubmenu }}
 {{ $current := . }}
 <nav class="years mx-auto flex justify-around my-4">
-  <ul class="inline leading-relaxed flex gap-8 ">
+  <ul class="leading-relaxed flex gap-8">
     {{ $menu := index .Site.Menus .Section}}
     {{ range  $menu }}
     {{ $active := or ($current.IsMenuCurrent .Menu .) ($current.HasMenuCurrent .Menu .) }}

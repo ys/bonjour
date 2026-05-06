@@ -30,8 +30,8 @@
      {{ $lqip = $src.Resize (printf "%s" $xs) }}
      {{ $small = $src }}
    {{ end }}
-     <a href="{{.RelPermalink}}" class="aspect-[{{$src.Width}}/{{$src.Height}}] block h-full cursor-pointer relative group gap-2 flex flex-col">
-       <picture class="snap-center snap-normal  aspect-[{{$src.Width}}/{{$src.Height}}] block relative h-full">
+     <a href="{{.RelPermalink}}" class="block h-full cursor-pointer relative group gap-2 flex flex-col" style="aspect-ratio: {{ $src.Width }} / {{ $src.Height }};">
+       <picture class="snap-center snap-normal block relative h-full w-full">
         <img
           loading="lazy"
           style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover"

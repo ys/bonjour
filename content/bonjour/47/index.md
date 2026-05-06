@@ -7,7 +7,7 @@ tags:
 - la lettre
 emoji: 💌
 title: "47 - L'ennui, des mickeys et un sourire"
-color: rosewater
+color: red
 slug: "47"
 resources:
   - src: "*.webp"

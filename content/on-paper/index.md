@@ -1,4 +1,5 @@
 ---
+hideTitle: true
 title: "On paper"
 description: "Beautiful books, zines and magazines"
 date: 2021-10-06T22:57:50+02:00

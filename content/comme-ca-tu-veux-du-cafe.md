@@ -1,5 +1,5 @@
 ---
-color: maroon
+color: red
 title: "Comme ça, tu veux du café?"
 date: 2023-12-05
 slug: "/comme-ca-tu-veux-du-cafe"

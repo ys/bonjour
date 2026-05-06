@@ -1,4 +1,5 @@
 ---
+hideTitle: true
 title: "Beach days"
 subtitle: "Souvenirs from California"
 color: yellow

@@ -1,5 +1,5 @@
 ---
-color: sky
+color: blue
 title: "Tête de kook"
 slug: "/tete-de-kook"
 subtitle: "Pas mal ta planche"

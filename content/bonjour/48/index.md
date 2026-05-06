@@ -7,7 +7,7 @@ tags:
 - la lettre
 emoji: 💌
 title: "48 - Cacao, casquettes et roulettes"
-color: sapphire
+color: blue
 slug: "48"
 resources:
   - src: "*.webp"

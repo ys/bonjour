@@ -1,6 +1,6 @@
 ---
 
-color: mauve
+color: purple
 title: "Bonjour Nikonos V"
 subtitle: "De l'eau salée sur l'objectif"
 date: 2021-05-09T13:37:39+02:00

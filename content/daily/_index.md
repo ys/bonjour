@@ -1,5 +1,5 @@
 ---
-color: peach
+color: orange
 seotitle: "Daily pictures - Yannick Schutz"
 title: "Daily details of a beautiful life"
 menu:
