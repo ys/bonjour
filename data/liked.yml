@@ -1,4 +1,41 @@
 ---
+- _id: 1713371219
+  link: https://www.youtube.com/watch?v=FvKHh3ujwBY
+  title: Gwynnik | Award-Winning Surf Film | Finisterre
+  excerpt: Gwynnik marks the third film from Director Seth Hughes and Finisterre Ambassador,
+    Mike Lay completing a trilogy alongside Cynevin and Hireth.This final chapt...
+  note: 'Amazing moments in the ocean near home. '
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/FvKHh3ujwBY/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/FvKHh3ujwBY/maxresdefault.jpg
+    type: image
+  tags:
+  - video
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2026-05-11T11:34:58.747Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2026-05-11T11:35:21.712Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1713371219
+  broken: false
+  collectionId: 37136905
+  parsed: {}
 - _id: 1700762757
   link: https://www.mixcloud.com/rruin/april-mixtape-2026-special-guest-curated-by-ed-templeton/
   title: 'RUIN RADIO APRIL MIXTAPE 2026: SPECIAL GUEST CURATED BY ED TEMPLETON'
