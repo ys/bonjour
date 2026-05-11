@@ -1,4 +1,84 @@
 ---
+- _id: 1715346678
+  link: https://finisterre.com/blogs/broadcast/canto
+  title: Canto
+  excerpt: A surf trip without any waves, Canto is a story of sisterhood and slow
+    travel through the peaks and valleys of Vancouver Island...
+  note: 'I wanna see Vancouver Island
+
+    '
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://finisterre.com/cdn/shop/articles/unnamed_b30f60e8-863c-4fd9-898d-d9c033aaead4.jpg?v=1778161473&width=1094
+  media:
+  - link: https://finisterre.com/cdn/shop/articles/unnamed_b30f60e8-863c-4fd9-898d-d9c033aaead4.jpg?v=1778161473&width=1094
+    type: image
+  - link: http://finisterre.com/cdn/shop/articles/unnamed_b30f60e8-863c-4fd9-898d-d9c033aaead4.jpg?v=1778161473
+    type: image
+  tags:
+  - travel
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2026-05-11T19:03:14.006Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2026-05-11T19:03:33.362Z'
+  domain: finisterre.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1715346678
+  broken: false
+  collectionId: 37136905
+  parsed: {}
+- _id: 1715344940
+  link: https://finisterre.com/blogs/broadcast/the-making-of-gwynnik
+  title: The Making Of Gwynnik
+  excerpt: Filmmaker Seth Hughes and surfing subject Mike Lay sit down to discuss
+    the making of Gwynnik – a new surf film grounded in belonging.
+  note: A few not s on Gwynnik
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://finisterre.com/cdn/shop/articles/unnamed_f883f40f-c879-40a8-af2c-ae8f81f0ec44.jpg?v=1777996998&width=1093
+  media:
+  - link: https://finisterre.com/cdn/shop/articles/unnamed_f883f40f-c879-40a8-af2c-ae8f81f0ec44.jpg?v=1777996998&width=1093
+    type: image
+  - link: http://finisterre.com/cdn/shop/articles/unnamed_f883f40f-c879-40a8-af2c-ae8f81f0ec44.jpg?v=1777996998
+    type: image
+  tags:
+  - surf
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2026-05-11T18:58:29.087Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2026-05-11T18:58:29.087Z'
+  domain: finisterre.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1715344940
+  broken: false
+  collectionId: 37136905
+  parsed: {}
 - _id: 1713371219
   link: https://www.youtube.com/watch?v=FvKHh3ujwBY
   title: Gwynnik | Award-Winning Surf Film | Finisterre
