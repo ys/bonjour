@@ -99,8 +99,7 @@ books:
     pages: 256
     isbn: ""
     isbn13: "9781786785558"
-    cover_url: >-
-      https://books.google.com/books/content?id=2PmQEAAAQBAJ&printsec=frontcover&img=1&zoom=3&source=gbs_api
+    cover_url: https://assets.hardcover.app/edition/30647039/58295954._SX98_.jpg
     reading: false
     url: https://hardcover.app/books/saltwater-in-the-blood
   - title: Grand Océan
@@ -218,7 +217,7 @@ books:
     isbn: "2081411512"
     isbn13: "9782081411517"
     cover_url: >-
-      https://books.google.com/books/content?id=mMu8DwAAQBAJ&printsec=frontcover&img=1&zoom=3&source=gbs_api
+      https://assets.hardcover.app/external_data/2458204/8b9926b851ada21885a89cbaab18880e537fb033.jpeg
     reading: false
     url: https://hardcover.app/books/jamais-la-meme-vague-2020
   - title: Encabanée
