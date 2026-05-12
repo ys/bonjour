@@ -38,6 +38,10 @@
     email: ''
   sort: 1715346678
   broken: false
+  cache:
+    status: ready
+    created: '2026-05-12T03:25:19.045Z'
+    size: 8496285
   collectionId: 37136905
   parsed: {}
 - _id: 1715344940
@@ -77,6 +81,10 @@
     email: ''
   sort: 1715344940
   broken: false
+  cache:
+    retries: 1
+    retryAfter: '2026-05-13T20:25:20.524Z'
+    status: retry
   collectionId: 37136905
   parsed: {}
 - _id: 1713371219
@@ -114,6 +122,8 @@
     email: ''
   sort: 1713371219
   broken: false
+  cache:
+    status: invalid-origin
   collectionId: 37136905
   parsed: {}
 - _id: 1700762757
