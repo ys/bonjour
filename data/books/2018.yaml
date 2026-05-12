@@ -60,7 +60,7 @@ books:
     read: 2018-04-30
     rating: 3
     pages: 293
-    isbn: ""
+    isbn: "0061875724"
     isbn13: "9780061875724"
     cover_url: >-
       https://assets.hardcover.app/edition/31957445/4c35ce454ee224a47a233c430e8e0a7a76a8c303.jpeg
@@ -154,8 +154,7 @@ books:
     pages: 0
     isbn: "1468314920"
     isbn13: "9781468314922"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/60061065/4536cb6ab9b3ef7641d2d6138d5d77c3bea800e8.jpeg
+    cover_url: https://m.media-amazon.com/images/I/71oWps4m0iL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/floating-a-life-regained
   - title: Ego Is the Enemy
@@ -165,7 +164,7 @@ books:
     read: 2018-01-02
     rating: 4
     pages: 258
-    isbn: ""
+    isbn: 069819215X
     isbn13: "9780698192157"
     cover_url: >-
       https://assets.hardcover.app/edition/6693242/cb1682b62b207e49d4475236d402038bdda1324a.jpeg
@@ -254,10 +253,9 @@ books:
     read: 2018-09-25
     rating: 4
     pages: 288
-    isbn: ""
+    isbn: "1783963344"
     isbn13: "9781783963348"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/60315962/1654561a71858b2092ceafaebad39a97176ddb97.jpeg
+    cover_url: https://m.media-amazon.com/images/I/71nLdWew+5L._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/the-pull-of-the-river
   - title: Where Rivers Change Direction
