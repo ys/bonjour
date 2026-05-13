@@ -35,6 +35,10 @@
 @source inline("caret-{red,orange,yellow,green,cyan,blue,purple,magenta,accent}");
 @source inline("group-hover:text-{red,orange,yellow,green,cyan,blue,purple,magenta,accent}-600");
 @source inline("hover:bg-{red,orange,yellow,green,cyan,blue,purple,magenta,accent}-600");
+@source inline("{hover:,}bg-fo-base-{50,100,900,950}");
+@source inline("border-fo-base-{50,100,900,950}");
+@source inline("dark:hover:bg-fo-base-{50,100,900,950}");
+@source inline("dark:border-fo-base-{50,100,900,950}");
 
 @theme {
   --font-mono: "iA Writer Quattro", "SFMono-Regular", ui-monospace, monospace;

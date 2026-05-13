@@ -1,22 +1,28 @@
 {{ define "main" }}
 {{ $paginator := .Paginate (where (where (where .Site.AllPages "Type" .Type) "Kind" "==" "page") ".Params.archived" "!=" true) 2500 }}
-{{ range $paginator.Pages.GroupByDate (.Params.groupBy | default "2006") }}
-<div class="max-w-2xl mb-8">
-  <h2 id="{{ .Key }}" class="font-sans text-[11px] font-semibold tracking-[.15em] uppercase text-gray-400 dark:text-gray-500 mb-3">{{ .Key }}</h2>
-  <ul class="space-y-3">
-    {{ range .Pages }}
-    {{ $href := .RelPermalink }}
-    {{ with .Params.bookmarkOf }}{{ $href = . }}{{ end }}
-    <li>
-      <div class="flex items-baseline justify-between gap-4">
-        <a href="{{ $href }}" class="no-underline text-ink dark:text-gray-100 font-medium hover:opacity-50 transition-opacity duration-150 text-[17px] leading-snug">{{ .Title }}</a>
-        {{ with .Params.domain }}<span class="flex-none font-mono text-xs text-gray-500 dark:text-gray-500 whitespace-nowrap">{{ . }}</span>{{ end }}
-      </div>
-      {{ with .Content }}<p class="text-[16px] italic text-gray-500 dark:text-gray-400 mt-0.5 leading-snug">{{ . | plainify | strings.TrimSpace }}</p>{{ end }}
-    </li>
-    {{ end }}
-  </ul>
+<div>
+  {{ range $paginator.Pages.GroupByDate (.Params.groupBy | default "2006") }}
+  <div class="mb-8">
+    <div class="flex items-baseline gap-4 mb-1 pb-1 border-b-2 border-ink dark:border-white">
+      <h2 id="{{ .Key }}" class="font-sans text-[11px] font-bold tracking-[.15em] uppercase">{{ .Key }}</h2>
+      <span class="font-sans text-[11px] text-gray-400 dark:text-gray-500 ml-auto">{{ len .Pages }}</span>
+    </div>
+    <ul>
+      {{ range .Pages }}
+      {{ $href := .RelPermalink }}
+      {{ with .Params.bookmarkOf }}{{ $href = . }}{{ end }}
+      <li class="group grid gap-x-4 border-b border-fo-base-50 dark:border-fo-base-900 py-1 hover:bg-fo-base-50 dark:hover:bg-fo-base-900 -mx-2 px-2" style="grid-template-columns: 1.5ch 1fr auto">
+        {{ with .Params.category }}<span class="font-mono text-[11px] font-bold text-{{ index $.Site.Params.categoriesColors . }} mt-[3px]">{{ substr . 0 1 | upper }}</span>{{ else }}<span></span>{{ end }}
+        <div class="min-w-0">
+          <a href="{{ $href }}" class="font-sans font-medium no-underline text-ink dark:text-gray-100 hover:opacity-50 transition-opacity duration-150 text-[13px] leading-snug truncate block">{{ .Title }}</a>
+          {{ with .Plain | strings.TrimSpace }}<p class="hidden group-hover:block text-[13px] italic text-gray-500 dark:text-gray-400 leading-snug">{{ . }}</p>{{ end }}
+        </div>
+        {{ with .Params.domain }}<span class="font-mono text-[11px] text-gray-400 dark:text-gray-500 whitespace-nowrap mt-[3px]">{{ . }}</span>{{ else }}<span></span>{{ end }}
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+  {{ end }}
+  {{ partial "pagination.html" . }}
 </div>
-{{ end }}
-{{ partial "pagination.html" . }}
 {{ end }}
