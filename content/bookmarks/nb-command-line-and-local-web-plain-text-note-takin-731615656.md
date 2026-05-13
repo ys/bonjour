@@ -2,6 +2,7 @@
 uuid: 731615656
 bookmarkOf: https://xwmx.github.io/nb/
 category: link
+collection: TECH
 headImage: https://raw.githubusercontent.com/xwmx/nb/master/docs/assets/images/nb.png
 title: nb · command line and local web plain text note-taking, bookmarking, archiving,
   and knowledge base application

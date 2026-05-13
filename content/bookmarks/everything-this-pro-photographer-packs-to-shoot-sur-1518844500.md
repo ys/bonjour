@@ -2,6 +2,7 @@
 uuid: 1518844500
 bookmarkOf: https://www.youtube.com/watch?v=zFS29bUVKnE
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/zFS29bUVKnE/maxresdefault.jpg
 title: Everything This Pro Photographer Packs to Shoot Surfing in Hawaii
 domain: youtube.com

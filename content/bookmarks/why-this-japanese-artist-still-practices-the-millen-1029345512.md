@@ -2,6 +2,7 @@
 uuid: 1029345512
 bookmarkOf: https://www.youtube.com/watch?v=W_tqf570tss
 category: video
+collection: TRAVEL
 headImage: https://i.ytimg.com/vi/W_tqf570tss/maxresdefault.jpg
 title: Why This Japanese Artist Still Practices the Millennium Old Art of Paper Making
   | DIRT Uncut

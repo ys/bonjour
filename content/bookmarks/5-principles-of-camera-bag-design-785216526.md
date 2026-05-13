@@ -2,6 +2,7 @@
 uuid: 785216526
 bookmarkOf: https://www.youtube.com/watch?v=yAbbcRtZdlY
 category: video
+collection: PHOTOGRAPHY
 headImage: https://i.ytimg.com/vi/yAbbcRtZdlY/maxresdefault.jpg
 title: 5 Principles of Camera Bag Design
 domain: youtube.com

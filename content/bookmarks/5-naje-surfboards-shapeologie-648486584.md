@@ -2,6 +2,7 @@
 uuid: 648486584
 bookmarkOf: https://www.shapeologie.fr/episodes/najesurfboards
 category: article
+collection: SURF
 headImage: http://static1.squarespace.com/static/6278f781e1ca3158abe60cf8/6278f7aac28fa249ed7407df/650210437275402909036a0d/1694725903479/ETIQUETTE+NAJE.jpg?format=1500w
 title: 5. Naje Surfboards — Shapeologie
 domain: shapeologie.fr

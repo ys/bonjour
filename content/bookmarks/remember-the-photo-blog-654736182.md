@@ -2,6 +2,7 @@
 uuid: 654736182
 bookmarkOf: https://bjhess.bearblog.dev/remember-the-photo-blog/
 category: article
+collection: TECH
 headImage: https://rdl.ink/render/https%3A%2F%2Fbjhess.bearblog.dev%2Fremember-the-photo-blog%2F
 title: Remember the Photo Blog
 domain: bjhess.bearblog.dev

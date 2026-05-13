@@ -2,6 +2,7 @@
 uuid: 645601664
 bookmarkOf: https://www.youtube.com/watch?v=weNDbcaiH10
 category: video
+collection: PHOTOGRAPHY
 headImage: https://i.ytimg.com/vi/weNDbcaiH10/maxresdefault.jpg
 title: Où l'on parle de photo et de mon matos pro !
 domain: youtube.com

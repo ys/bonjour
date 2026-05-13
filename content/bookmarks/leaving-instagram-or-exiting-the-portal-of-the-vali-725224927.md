@@ -2,6 +2,7 @@
 uuid: 725224927
 bookmarkOf: https://www.codycookparrott.com/common-shapes-1/leavinginstagram
 category: article
+collection: A BETTER LIFE
 headImage: http://static1.squarespace.com/static/56cf543362cd940a7c36ebeb/642cbd0f1e3e1c090c16c411/65561e9a03f619620d3df229/1700142913014/Untitled+design-17.png?format=1500w
 title: Leaving Instagram or Exiting the Portal of the Validation Loop — CODY COOK-PARROTT
 domain: codycookparrott.com

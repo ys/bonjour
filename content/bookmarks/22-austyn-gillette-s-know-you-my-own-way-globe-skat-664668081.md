@@ -2,6 +2,7 @@
 uuid: 664668081
 bookmarkOf: https://www.youtube.com/watch?v=ror6kRSUQZo
 category: video
+collection: SKATEBOARDING
 headImage: https://i.ytimg.com/vi/ror6kRSUQZo/maxresdefault.jpg
 title: "(22) Austyn Gillette’s “Know You My Own Way” Globe Skateboarding Part - YouTube"
 domain: youtube.com

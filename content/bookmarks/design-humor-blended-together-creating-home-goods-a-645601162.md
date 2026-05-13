@@ -2,6 +2,7 @@
 uuid: 645601162
 bookmarkOf: https://realfunwow.com/
 category: link
+collection: ART & CULTURE
 headImage: https://realfunwow.com/cdn/shop/files/LOGO.webp?height=628&pad_color=fff&v=1685218404&width=1200
 title: Design & Humor Blended Together Creating Home Goods, Art & Apparel
 domain: realfunwow.com

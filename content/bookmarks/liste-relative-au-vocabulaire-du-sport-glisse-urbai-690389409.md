@@ -2,6 +2,7 @@
 uuid: 690389409
 bookmarkOf: https://ma-veille-juridique.com/liste-relative-au-vocabulaire-du-sport-glisse-urbaine-termes-expressions-et-definitions-adoptes/
 category: article
+collection: SKATEBOARDING
 headImage: https://ma-veille-juridique.com/wp-content/uploads/2020/11/gavel-2492011_1920-600x400.jpg
 title: "\U0001F7E7 Liste relative au vocabulaire du sport : glisse urbaine (termes,
   expressions et définitions adoptés)"

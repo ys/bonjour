@@ -2,6 +2,7 @@
 uuid: 645601613
 bookmarkOf: https://www.youtube.com/watch?v=__ICXEbFo0Y
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/__ICXEbFo0Y/maxresdefault.jpg
 title: hYped sWeLL hiTs wEsT CoAsT
 domain: youtube.com

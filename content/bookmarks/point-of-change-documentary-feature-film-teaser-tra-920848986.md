@@ -2,6 +2,7 @@
 uuid: 920848986
 bookmarkOf: https://www.youtube.com/watch?v=liEHmEAwzs4
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/liEHmEAwzs4/maxresdefault.jpg
 title: 'Point of Change: Documentary feature film | Teaser trailer'
 domain: youtube.com

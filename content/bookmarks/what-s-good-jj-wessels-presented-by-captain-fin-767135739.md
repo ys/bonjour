@@ -2,6 +2,7 @@
 uuid: 767135739
 bookmarkOf: https://www.youtube.com/watch?v=LARqFhmRo6s
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/LARqFhmRo6s/maxresdefault.jpg
 title: What's Good JJ Wessels | Presented by Captain Fin
 domain: youtube.com

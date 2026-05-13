@@ -2,6 +2,7 @@
 uuid: 646623811
 bookmarkOf: https://kawa.coffee/
 category: link
+collection: COFFEE & FOOD
 headImage: https://rdl.ink/render/https%3A%2F%2Fkawa.coffee%2F
 title: Kawa Coffee
 domain: kawa.coffee

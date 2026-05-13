@@ -2,6 +2,7 @@
 uuid: 655160269
 bookmarkOf: https://www.bridddge.net/post/skateboarding-s-anthropologist-an-interview-with-ed-templeton-on-wires-crossed
 category: article
+collection: PHOTOGRAPHY
 headImage: https://static.wixstatic.com/media/738a10_819c75d97e33452dae04801268e94092~mv2.jpg/v1/fill/w_750,h_750,al_c,q_85/738a10_819c75d97e33452dae04801268e94092~mv2.jpg
 title: 'Skateboarding’s Anthropologist: An Interview with Ed Templeton on Wires Crossed'
 domain: bridddge.net

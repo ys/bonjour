@@ -2,6 +2,7 @@
 uuid: 968455361
 bookmarkOf: https://youtube.com/watch?v=Pkr5A_UZElE&si=oot_xGYnzzTkE_q5
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/Pkr5A_UZElE/maxresdefault.jpg
 title: SURF & CAMPING - Brittany in Winter Vanagon Edition
 domain: youtube.com

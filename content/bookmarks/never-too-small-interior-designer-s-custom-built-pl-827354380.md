@@ -2,6 +2,7 @@
 uuid: 827354380
 bookmarkOf: https://www.youtube.com/watch?v=WM2KPVQZgiE
 category: video
+collection: HOME
 headImage: https://i.ytimg.com/vi/WM2KPVQZgiE/maxresdefault.jpg
 title: 'NEVER TOO SMALL: Interior Designer’s Custom Built Plywood Apartment, Paris
   32sqm/344sqft'

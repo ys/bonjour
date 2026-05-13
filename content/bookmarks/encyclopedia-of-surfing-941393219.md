@@ -2,6 +2,7 @@
 uuid: 941393219
 bookmarkOf: https://www.eos.surf/
 category: link
+collection: SURF
 headImage: https://cdn.sanity.io/images/f1hjpcr4/production/d1c7938185b91a5faabf3aeef665d10db7ef56d0-2400x1350.png?w=1200&h=675&fit=crop&crop=entropy&q=60
 title: Encyclopedia of Surfing
 domain: eos.surf

@@ -2,6 +2,7 @@
 uuid: 720464813
 bookmarkOf: https://www.youtube.com/watch?v=SdIaEQCUVbk
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/SdIaEQCUVbk/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGD8gZShhMA8=&rs=AOn4CLAc4NdaDTOICSWtJizkElItw1GhKA
 title: Walt Disney Treasures - Hawaiian Holiday (1937)
 domain: youtube.com

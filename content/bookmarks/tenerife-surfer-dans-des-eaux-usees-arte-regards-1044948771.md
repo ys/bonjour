@@ -2,6 +2,7 @@
 uuid: 1044948771
 bookmarkOf: https://www.youtube.com/watch?v=oxSbXoz-BFE
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/oxSbXoz-BFE/maxresdefault.jpg
 title: 'Tenerife : surfer dans des eaux usées | ARTE Regards'
 domain: youtube.com

@@ -2,6 +2,7 @@
 uuid: 766300760
 bookmarkOf: https://almondsurfboards.com/en-fr/blogs/news/how-do-you-find-more-time-to-surf?_kx=WJeE3QQCOcj1C5-kKTUTnVQwLixGXGjdFW4dPGeJnNo.Hb5zTY
 category: article
+collection: SURF
 headImage: http://almondsurfboards.com/cdn/shop/articles/AC-19.jpg?v=1712608010&width=1200
 title: How Do You Find More Time to Surf?
 domain: almondsurfboards.com

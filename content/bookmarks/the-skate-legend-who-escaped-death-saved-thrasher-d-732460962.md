@@ -2,6 +2,7 @@
 uuid: 732460962
 bookmarkOf: https://youtube.com/watch?v=qfR46clM5BM&feature=shared
 category: video
+collection: SKATEBOARDING
 headImage: https://i.ytimg.com/vi/qfR46clM5BM/maxresdefault.jpg
 title: 'The Skate Legend Who Escaped Death & Saved Thrasher: Don ''Nuge'' Nguyen |
   Epicly Later''d'

@@ -2,6 +2,7 @@
 uuid: 645601229
 bookmarkOf: https://ia.net/topics/on-apps-and-coffee
 category: article
+collection: ART & CULTURE
 headImage: https://ia.net/wp-content/uploads/2021/11/Lucca-M58-Stainless-Espresso-Machine-Hero.png
 title: On Apps and Coffee
 domain: ia.net

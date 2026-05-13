@@ -2,6 +2,7 @@
 uuid: 645601728
 bookmarkOf: https://stephango.com/file-over-app
 category: article
+collection: TECH
 headImage: https://stephango.com/assets/card.png
 title: File over app
 domain: stephango.com

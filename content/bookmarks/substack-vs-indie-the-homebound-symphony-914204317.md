@@ -2,6 +2,7 @@
 uuid: 914204317
 bookmarkOf: https://blog.ayjay.org/substack-vs-indie/
 category: article
+collection: TECH
 headImage: ''
 title: Substack vs. Indie – The Homebound Symphony
 domain: blog.ayjay.org

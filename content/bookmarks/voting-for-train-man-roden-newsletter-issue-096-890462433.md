@@ -2,6 +2,7 @@
 uuid: 890462433
 bookmarkOf: https://craigmod.com/roden/096/
 category: link
+collection: TECH
 headImage: https://craigmod.com/roden/img/096/096.jpg
 title: Voting For Train Man — Roden newsletter issue 096
 domain: craigmod.com

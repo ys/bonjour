@@ -2,6 +2,7 @@
 uuid: 757993732
 bookmarkOf: https://kayserifserif.place/about/
 category: link
+collection: PHOTOGRAPHY
 headImage: https://rdl.ink/render/https%3A%2F%2Fkayserifserif.place%2Fabout%2F
 title: About | Katherine Yang
 domain: kayserifserif.place

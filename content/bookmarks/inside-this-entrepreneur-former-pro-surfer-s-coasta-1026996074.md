@@ -2,6 +2,7 @@
 uuid: 1026996074
 bookmarkOf: https://www.youtube.com/watch?v=fr8ZTK980zY
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/fr8ZTK980zY/maxresdefault.jpg
 title: Inside This Entrepreneur & Former Pro Surfer's Coastal New Jersey Home | Huckberry
   Homes

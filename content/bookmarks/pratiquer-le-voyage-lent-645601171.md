@@ -2,6 +2,7 @@
 uuid: 645601171
 bookmarkOf: https://beside.media/fr/ailleurs/pratiquer-le-voyage-lent/
 category: link
+collection: TRAVEL
 headImage: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2021/06/BESIDE_voyage_lent_facebook.jpg
 title: Pratiquer le voyage lent
 domain: beside.media

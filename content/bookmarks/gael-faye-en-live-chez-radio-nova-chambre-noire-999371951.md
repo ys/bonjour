@@ -2,6 +2,7 @@
 uuid: 999371951
 bookmarkOf: https://youtube.com/watch?v=fmr_hhZ7RpE&si=VoHUiORiD6-wm4aL
 category: video
+collection: ART & CULTURE
 headImage: https://i.ytimg.com/vi/fmr_hhZ7RpE/maxresdefault.jpg
 title: Gaël Faye en live chez Radio Nova | Chambre noire
 domain: youtube.com

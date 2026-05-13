@@ -2,6 +2,7 @@
 uuid: 1437697471
 bookmarkOf: https://www.youtube.com/watch?v=HcBpo7iVUak
 category: video
+collection: ART & CULTURE
 headImage: https://i.ytimg.com/vi/HcBpo7iVUak/maxresdefault.jpg
 title: Animal Crossing in LEGO! 42 Acre Isle
 domain: youtube.com

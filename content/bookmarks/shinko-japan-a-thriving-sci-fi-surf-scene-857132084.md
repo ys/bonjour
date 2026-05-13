@@ -2,6 +2,7 @@
 uuid: 857132084
 bookmarkOf: https://www.youtube.com/watch?v=J0bifo2nWFI
 category: link
+collection: SURF
 headImage: https://i.ytimg.com/vi/J0bifo2nWFI/maxresdefault.jpg
 title: SHINKO, JAPAN; a tHRiViNG sci-fi surf scene
 domain: youtube.com

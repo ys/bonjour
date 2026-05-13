@@ -2,6 +2,7 @@
 uuid: 848011662
 bookmarkOf: https://finisterre.com/blogs/broadcast/ming-hui-brown-keeping-it-local
 category: link
+collection: SURF
 headImage: https://finisterre.com/cdn/shop/articles/unnamed_10912eb7-e16a-40fd-b91b-b60b7e828548.jpg?v=1715681878
 title: 'Ming-Hui Brown: Staying Local'
 domain: finisterre.com

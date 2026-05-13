@@ -2,6 +2,7 @@
 uuid: 765729457
 bookmarkOf: https://garden.mattstein.com/notes/i-can-t-afford-free-things
 category: article
+collection: ART & CULTURE
 headImage: https://rdl.ink/render/https%3A%2F%2Fgarden.mattstein.com%2Fnotes%2Fi-can-t-afford-free-things
 title: I Can’t Afford Free Things
 domain: garden.mattstein.com

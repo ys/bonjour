@@ -2,6 +2,7 @@
 uuid: 664446751
 bookmarkOf: https://jonas.do/writing/2023-10-05-side-projects/
 category: article
+collection: A BETTER LIFE
 headImage: https://jonas.do/assets/images/favicon-180.png
 title: Why side projects are essential for creatives—and employers should embrace
   them | Jonas Downey

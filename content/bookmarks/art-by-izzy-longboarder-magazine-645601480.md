@@ -2,6 +2,7 @@
 uuid: 645601480
 bookmarkOf: https://longboardermagazine.com/2022/11/izzy-art-draft/
 category: article
+collection: SURF
 headImage: https://longboardermagazine.com/wp-content/uploads/2022/11/beachppl.jpg
 title: Art by Izzy - Longboarder Magazine
 domain: longboardermagazine.com

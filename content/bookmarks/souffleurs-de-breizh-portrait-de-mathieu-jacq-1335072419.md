@@ -2,6 +2,7 @@
 uuid: 1335072419
 bookmarkOf: https://youtube.com/watch?v=4MFKkATK2Hs&si=5YbpNxMDUs8hqK4D
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/4MFKkATK2Hs/maxresdefault.jpg
 title: Souffleurs de Breizh - portrait de Mathieu Jacq
 domain: youtube.com

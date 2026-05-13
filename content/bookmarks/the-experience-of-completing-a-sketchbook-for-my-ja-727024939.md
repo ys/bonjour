@@ -2,6 +2,7 @@
 uuid: 727024939
 bookmarkOf: https://winnielim.org/journal/the-experience-of-completing-a-sketchbook-for-my-japan-trip/
 category: article
+collection: TRAVEL
 headImage: https://winnielim.org/wp-content/uploads/2024/01/20240111-IMG_20240111_0011.jpg
 title: the experience of completing a sketchbook for my japan trip
 domain: winnielim.org

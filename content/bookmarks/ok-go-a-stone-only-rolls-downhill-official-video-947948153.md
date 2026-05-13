@@ -2,6 +2,7 @@
 uuid: 947948153
 bookmarkOf: https://youtube.com/watch?v=MOEULOSVNK4&si=AwMdT1kJF9B0O0o8
 category: video
+collection: ART & CULTURE
 headImage: https://i.ytimg.com/vi/MOEULOSVNK4/hqdefault.jpg
 title: OK Go - A Stone Only Rolls Downhill (Official Video)
 domain: youtube.com

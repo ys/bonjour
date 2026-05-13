@@ -2,6 +2,7 @@
 uuid: 658009278
 bookmarkOf: https://www.youtube.com/watch?v=VYmXIkkv3mQ
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/VYmXIkkv3mQ/maxresdefault.jpg
 title: Pure Energy - Trevor Gordon & Bryce Baker in J Bay
 domain: youtube.com

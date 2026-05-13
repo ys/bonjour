@@ -2,6 +2,7 @@
 uuid: 664440440
 bookmarkOf: https://simplemagic.substack.com/p/proof-of-life-small-victories-and
 category: article
+collection: SKATEBOARDING
 headImage: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff277a8d9-a199-4e1c-a225-88046d6574e0_1200x800.jpeg
 title: Proof of life, small victories, and vision | Simply Ranked
 domain: simplemagic.substack.com

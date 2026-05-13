@@ -2,6 +2,7 @@
 uuid: 709378531
 bookmarkOf: https://www.eiffair.fr/011-numerique-analogique/
 category: article
+collection: TECH
 headImage: https://www.eiffair.fr/content/images/size/w1200/2023/12/Background-1.png
 title: 011 - Numérique Analogique
 domain: eiffair.fr

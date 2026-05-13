@@ -2,6 +2,7 @@
 uuid: 734286684
 bookmarkOf: https://www.youtube.com/watch?v=06xafivFSe4
 category: video
+collection: ART & CULTURE
 headImage: https://i.ytimg.com/vi/06xafivFSe4/maxresdefault.jpg
 title: Juilliard Jazz Prof Hears Nirvana For The First Time
 domain: youtube.com

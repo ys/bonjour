@@ -2,6 +2,7 @@
 uuid: 1461317419
 bookmarkOf: https://www.youtube.com/watch?v=IESveEMI1RE
 category: video
+collection: PHOTOGRAPHY
 headImage: https://i.ytimg.com/vi/IESveEMI1RE/maxresdefault.jpg
 title: The Perfect Home Scanning Setup (Autocarrier 135)
 domain: youtube.com

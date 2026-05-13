@@ -2,6 +2,7 @@
 uuid: 1431918868
 bookmarkOf: https://youtube.com/watch?v=7odWkvEFPzc&si=F7EMW1BKzUYszYFx
 category: video
+collection: SKATEBOARDING
 headImage: https://i.ytimg.com/vi/7odWkvEFPzc/maxresdefault.jpg
 title: 'Geoff McFetridge | The Nine Club #389'
 domain: youtube.com

@@ -2,6 +2,7 @@
 uuid: 761253965
 bookmarkOf: https://www.youtube.com/watch?v=vFpNJpmSHT0
 category: video
+collection: ART & CULTURE
 headImage: https://i.ytimg.com/vi/vFpNJpmSHT0/maxresdefault.jpg
 title: Me and Julio // Paul Simon // POMPLAMOOSE ft. Lawrence
 domain: youtube.com

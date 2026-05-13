@@ -2,6 +2,7 @@
 uuid: 645601704
 bookmarkOf: https://www.jackcohen.com/curiosities
 category: link
+collection: ART & CULTURE
 headImage: https://rdl.ink/render/https%3A%2F%2Fwww.jackcohen.com%2Fcuriosities
 title: Curiosities — Jack Cohen
 domain: jackcohen.com

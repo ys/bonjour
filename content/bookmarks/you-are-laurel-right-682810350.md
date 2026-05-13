@@ -2,6 +2,7 @@
 uuid: 682810350
 bookmarkOf: https://you-are-laurel-right.neocities.org/
 category: link
+collection: TECH
 headImage: https://you-are-laurel-right.neocities.org/assets/images/og-image.jpg
 title: You are Laurel, right?
 domain: you-are-laurel-right.neocities.org

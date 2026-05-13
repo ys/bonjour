@@ -2,6 +2,7 @@
 uuid: 1461357791
 bookmarkOf: https://www.youtube.com/watch?v=lkS0-AR7aFM
 category: video
+collection: SKATEBOARDING
 headImage: https://i.ytimg.com/vi/lkS0-AR7aFM/maxresdefault.jpg
 title: Powell-Peralta Presents | SEEN HIM | By Zenga Bros | Featuring Andy Anderson
 domain: youtube.com

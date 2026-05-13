@@ -2,6 +2,7 @@
 uuid: 771694611
 bookmarkOf: https://store.magnumphotos.com/collections/darkroom-prints?_kx=BjXY-JWj9J6B7bwOpQT0LYoYWPwIvKVwL_sOE7HX_0c.UjvSyZ
 category: link
+collection: PHOTOGRAPHY
 headImage: http://store.magnumphotos.com/cdn/shop/collections/CHC-DarkroomPrint.jpg?v=1711983316
 title: Darkroom Prints
 domain: store.magnumphotos.com

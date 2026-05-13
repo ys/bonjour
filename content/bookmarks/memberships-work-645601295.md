@@ -2,6 +2,7 @@
 uuid: 645601295
 bookmarkOf: https://craigmod.com/essays/memberships_work/
 category: article
+collection: A BETTER LIFE
 headImage: https://craigmod.com/essays/images/memberships_work/2022cover4.jpg
 title: Memberships Work
 domain: craigmod.com

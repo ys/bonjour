@@ -2,6 +2,7 @@
 uuid: 818328379
 bookmarkOf: https://www.youtube.com/watch?v=LCjQsB0sDW8
 category: video
+collection: ART & CULTURE
 headImage: https://i.ytimg.com/vi/LCjQsB0sDW8/maxresdefault.jpg
 title: Mac Demarco - Live from a French Chicken Restaurant | Fin de service
 domain: youtube.com

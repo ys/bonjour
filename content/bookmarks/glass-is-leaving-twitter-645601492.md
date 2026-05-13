@@ -2,6 +2,7 @@
 uuid: 645601492
 bookmarkOf: https://glass.photo/highlights/glass-is-leaving-twitter
 category: link
+collection: PHOTOGRAPHY
 headImage: https://uploads-ssl.webflow.com/5f43a08a0c00555295f95e0a/639f8d0838e93f440eff9475_twitter-grid.jpg
 title: Glass is Leaving Twitter
 domain: glass.photo

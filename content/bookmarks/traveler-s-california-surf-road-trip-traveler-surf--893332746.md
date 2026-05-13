@@ -2,6 +2,7 @@
 uuid: 893332746
 bookmarkOf: https://www.thatch.co/guide/12owtun1nsjqc/view
 category: article
+collection: TRAVEL
 headImage: https://cdn.thatch.in/cdn-cgi/image/width=1600,quality=80,format=webp/images/by-user/vcR3sVSlJogFBKOCXvhFT0cyVsz2/boards/61052/1x0togh-blob.jpg
 title: Traveler's California Surf Road Trip | Traveler Surf Club
 domain: thatch.co

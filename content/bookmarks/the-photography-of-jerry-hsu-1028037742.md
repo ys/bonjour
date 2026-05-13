@@ -2,6 +2,7 @@
 uuid: 1028037742
 bookmarkOf: https://youtube.com/watch?v=3tVtlco6VZY&si=9nDMvjVPeSggA3p0
 category: video
+collection: SKATEBOARDING
 headImage: https://i.ytimg.com/vi/3tVtlco6VZY/maxresdefault.jpg
 title: The Photography of Jerry Hsu
 domain: youtube.com

@@ -2,6 +2,7 @@
 uuid: 847991108
 bookmarkOf: https://climateandboardsports.substack.com/p/people-are-delighted-that-surf-tourism
 category: article
+collection: A BETTER LIFE
 headImage: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd688bc6-4991-4c20-9583-f0b6bc26bc6e_4240x2832.jpeg
 title: "“People are delighted surf tourism came and changed their lives.”"
 domain: climateandboardsports.substack.com

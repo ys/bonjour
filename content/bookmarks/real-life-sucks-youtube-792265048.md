@@ -2,6 +2,7 @@
 uuid: 792265048
 bookmarkOf: https://www.youtube.com/watch?v=u_YiPKY8TRg
 category: video
+collection: SKATEBOARDING
 headImage: https://i.ytimg.com/vi/u_YiPKY8TRg/hqdefault.jpg
 title: REAL LIFE SUCKS - YouTube
 domain: youtube.com

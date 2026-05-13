@@ -2,6 +2,7 @@
 uuid: 946877581
 bookmarkOf: https://www.youtube.com/watch?v=EWkGYormb34
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/EWkGYormb34/maxresdefault.jpg
 title: Surf & Turf - A South African surfing adventure
 domain: youtube.com

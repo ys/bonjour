@@ -2,6 +2,7 @@
 uuid: 730525389
 bookmarkOf: https://neal.fun/infinite-craft/
 category: link
+collection: TECH
 headImage: https://neal.fun/share-cards/infinite-craft.png
 title: Infinite Craft
 domain: neal.fun

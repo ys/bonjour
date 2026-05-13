@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bookmarks Page — Mockups</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            paper:   '#FFFCF0',
+            ink:     '#100F0F',
+            'fo-100': '#E6E4D9',
+            'fo-200': '#CECDC3',
+            'fo-300': '#B7B5AC',
+            'fo-500': '#878580',
+            'fo-600': '#6F6E69',
+            'fo-700': '#575653',
+            'fo-800': '#403E3C',
+            'fo-900': '#282726',
+            red:     '#D14D41',
+            orange:  '#DA702C',
+            yellow:  '#D0A215',
+            green:   '#879A39',
+            cyan:    '#3AA99F',
+            blue:    '#4385BE',
+            purple:  '#8B7EC8',
+            magenta: '#CE5D97',
+          },
+          fontFamily: {
+            sans: ['-apple-system', 'BlinkMacSystemFont', 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif'],
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    body { background: #FFFCF0; color: #100F0F; font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif; }
+    .nav-pill { cursor: pointer; }
+    .nav-pill.active { background: #100F0F; color: #FFFCF0; }
+    .truncate-2 { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+    .truncate-3 { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  </style>
+</head>
+<body class="min-h-screen">
+
+<!-- NAV between mockups -->
+<div class="sticky top-0 z-50 bg-paper/90 backdrop-blur border-b border-fo-100 px-6 py-3 flex gap-3 items-center">
+  <span class="text-xs font-medium text-fo-600 uppercase tracking-widest mr-2">Mockup</span>
+  <a href="#a" class="text-xs px-3 py-1 rounded-full border border-fo-200 hover:border-ink transition-colors">A · Visual rows</a>
+  <a href="#b" class="text-xs px-3 py-1 rounded-full border border-fo-200 hover:border-ink transition-colors">B · Card grid</a>
+  <a href="#c" class="text-xs px-3 py-1 rounded-full border border-fo-200 hover:border-ink transition-colors">C · Filtered stream</a>
+  <span class="ml-auto text-xs text-fo-500">1277 bookmarks · 503 articles · 406 links · 352 videos</span>
+</div>
+
+
+<!-- ═══════════════════════════════════════════════
+     MOCKUP A  —  Visual rows with color markers
+     Key changes vs. current:
+       · Left border color = category
+       · Thumbnail when headImage exists
+       · Personal note shown as inline quote
+       · Domain is a subtle chip w/ favicon
+     ═══════════════════════════════════════════════ -->
+<section id="a" class="max-w-2xl mx-auto px-6 py-12">
+
+  <div class="mb-10">
+    <div class="inline-block text-xs font-medium tracking-widest uppercase text-fo-500 mb-2">Mockup A</div>
+    <h1 class="text-2xl font-bold mb-1">Visual rows with category markers</h1>
+    <p class="text-fo-600 text-sm">Same list layout but much more scannable. Left border = category type, OG thumbnail on right when available, personal note shown inline.</p>
+  </div>
+
+  <!-- Month header -->
+  <div class="mb-4">
+    <h2 class="text-xs font-medium tracking-[.15em] uppercase text-fo-400">April 2025</h2>
+  </div>
+
+  <!-- Item: article WITH headImage + personal note -->
+  <article class="group flex gap-3 py-3 border-b border-fo-100 hover:bg-fo-100/30 -mx-2 px-2 rounded transition-colors">
+    <!-- Category bar -->
+    <div class="w-0.5 self-stretch rounded-full bg-blue flex-none mt-1"></div>
+    <!-- Content -->
+    <div class="flex-1 min-w-0">
+      <a href="#" class="block group-hover:text-fo-700">
+        <h3 class="font-semibold text-sm leading-snug mb-0.5">10 Essential Surf Photography Tips for Beginners</h3>
+      </a>
+      <p class="text-xs text-fo-600 truncate-2 mb-1.5">Getting started with surf photography can be both thrilling and challenging. It combines the dynamic motion of the ocean with the fast-paced action of surfing.</p>
+      <!-- Personal note -->
+      <blockquote class="text-xs text-fo-700 italic border-l-2 border-fo-300 pl-2 mb-1.5">
+        Patience and knowing your gear. Zen mode like
+      </blockquote>
+      <!-- Footer -->
+      <div class="flex items-center gap-2">
+        <span class="inline-flex items-center gap-1 text-xs text-fo-500 bg-fo-100 px-1.5 py-0.5 rounded">
+          <img src="https://www.google.com/s2/favicons?domain=karlmackieshop.com&sz=16" class="w-3 h-3 rounded-sm" onerror="this.style.display='none'">
+          karlmackieshop.com
+        </span>
+        <span class="text-xs text-fo-400">Aug 2024</span>
+      </div>
+    </div>
+    <!-- Thumbnail -->
+    <a href="#" class="flex-none w-20 h-16 rounded overflow-hidden bg-fo-100 self-start">
+      <img src="http://static1.squarespace.com/static/55f2abdce4b00eb5577dae31/t/66bdfd850a182e1b86c544e2/1723727242253/10-SURF-PHOTOGRAPHY-TIPS-FOR-BEGINNERS-USING-DIGITAL-35MM-FILM.jpg?format=1500w" class="w-full h-full object-cover" onerror="this.style.display='none'">
+    </a>
+  </article>
+
+  <!-- Item: link, no image, no personal note -->
+  <article class="group flex gap-3 py-3 border-b border-fo-100 hover:bg-fo-100/30 -mx-2 px-2 rounded transition-colors">
+    <div class="w-0.5 self-stretch rounded-full bg-orange flex-none mt-1"></div>
+    <div class="flex-1 min-w-0">
+      <a href="#" class="block">
+        <h3 class="font-semibold text-sm leading-snug mb-0.5">ラックスエステート｜湘南の建売住宅・ガレージハウス</h3>
+      </a>
+      <p class="text-xs text-fo-600 truncate-2 mb-1.5">横浜・川崎・湘南の一戸建て・土地・マンション等の不動産をお探しならラックスエステート</p>
+      <div class="flex items-center gap-2">
+        <span class="inline-flex items-center gap-1 text-xs text-fo-500 bg-fo-100 px-1.5 py-0.5 rounded">
+          <img src="https://www.google.com/s2/favicons?domain=lucks-e.com&sz=16" class="w-3 h-3 rounded-sm">
+          lucks-e.com
+        </span>
+        <span class="text-xs text-fo-400">Dec 2023</span>
+      </div>
+    </div>
+  </article>
+
+  <!-- Item: video with image + note -->
+  <article class="group flex gap-3 py-3 border-b border-fo-100 hover:bg-fo-100/30 -mx-2 px-2 rounded transition-colors">
+    <div class="w-0.5 self-stretch rounded-full bg-yellow flex-none mt-1"></div>
+    <div class="flex-1 min-w-0">
+      <a href="#" class="block">
+        <h3 class="font-semibold text-sm leading-snug mb-0.5">1 Hour of Smooth 70s/80s Japanese Grooves · City Pop</h3>
+      </a>
+      <div class="flex items-center gap-2 mt-1.5">
+        <span class="inline-flex items-center gap-1 text-xs text-fo-500 bg-fo-100 px-1.5 py-0.5 rounded">
+          <img src="https://www.google.com/s2/favicons?domain=youtube.com&sz=16" class="w-3 h-3 rounded-sm">
+          youtube.com
+        </span>
+        <span class="text-xs text-fo-400">Nov 2023</span>
+      </div>
+    </div>
+    <a href="#" class="flex-none w-20 h-16 rounded overflow-hidden bg-fo-100 self-start relative">
+      <img src="https://i.ytimg.com/vi/example/hqdefault.jpg" class="w-full h-full object-cover" onerror="this.parentElement.innerHTML='<div class=\'w-full h-full bg-fo-100 flex items-center justify-center text-fo-400 text-xl\'>▶</div>'">
+      <div class="absolute inset-0 flex items-center justify-center bg-black/20">
+        <span class="text-white text-lg">▶</span>
+      </div>
+    </a>
+  </article>
+
+  <!-- Item: audio -->
+  <article class="group flex gap-3 py-3 border-b border-fo-100 hover:bg-fo-100/30 -mx-2 px-2 rounded transition-colors">
+    <div class="w-0.5 self-stretch rounded-full bg-magenta flex-none mt-1"></div>
+    <div class="flex-1 min-w-0">
+      <a href="#" class="block">
+        <h3 class="font-semibold text-sm leading-snug mb-0.5">095 Apprendre aux enfants avec les éditions Chocolatine</h3>
+      </a>
+      <p class="text-xs text-fo-600 truncate-2 mb-1.5">Je reçois Florence Delcloy, fondatrice des éditions chocolatine. On discute de ses livres pour enfants, liés à l'océan et à la culture surf.</p>
+      <blockquote class="text-xs text-fo-700 italic border-l-2 border-fo-300 pl-2 mb-1.5">
+        Apprendre le surf et l'eau aux enfants. Chouette écoute!
+      </blockquote>
+      <div class="flex items-center gap-2">
+        <span class="inline-flex items-center gap-1 text-xs text-fo-500 bg-fo-100 px-1.5 py-0.5 rounded">
+          <img src="https://www.google.com/s2/favicons?domain=open.spotify.com&sz=16" class="w-3 h-3 rounded-sm">
+          open.spotify.com
+        </span>
+        <span class="text-xs text-fo-400">May 2024</span>
+      </div>
+    </div>
+    <a href="#" class="flex-none w-20 h-16 rounded overflow-hidden bg-fo-100 self-start">
+      <img src="https://i.scdn.co/image/ab67656300005f1fc23ada5d55c8b7e022952bc2" class="w-full h-full object-cover">
+    </a>
+  </article>
+
+  <!-- Item: article no image, no note -->
+  <article class="group flex gap-3 py-3 border-b border-fo-100 hover:bg-fo-100/30 -mx-2 px-2 rounded transition-colors">
+    <div class="w-0.5 self-stretch rounded-full bg-blue flex-none mt-1"></div>
+    <div class="flex-1 min-w-0">
+      <a href="#" class="block">
+        <h3 class="font-semibold text-sm leading-snug mb-0.5">100r Philosophy — Hundred Rabbits</h3>
+      </a>
+      <div class="flex items-center gap-2 mt-1.5">
+        <span class="inline-flex items-center gap-1 text-xs text-fo-500 bg-fo-100 px-1.5 py-0.5 rounded">
+          <img src="https://www.google.com/s2/favicons?domain=100r.co&sz=16" class="w-3 h-3 rounded-sm">
+          100r.co
+        </span>
+        <span class="text-xs text-fo-400">Jan 2023</span>
+      </div>
+    </div>
+  </article>
+
+  <!-- Legend -->
+  <div class="mt-8 pt-6 border-t border-fo-100 flex flex-wrap gap-4 text-xs text-fo-500">
+    <span class="flex items-center gap-1.5"><span class="w-2 h-2 rounded-full bg-blue"></span> Article</span>
+    <span class="flex items-center gap-1.5"><span class="w-2 h-2 rounded-full bg-orange"></span> Link</span>
+    <span class="flex items-center gap-1.5"><span class="w-2 h-2 rounded-full bg-yellow"></span> Video</span>
+    <span class="flex items-center gap-1.5"><span class="w-2 h-2 rounded-full bg-magenta"></span> Audio</span>
+  </div>
+
+  <div class="mt-6 p-4 bg-fo-100/60 rounded-lg text-xs text-fo-600 space-y-1">
+    <p class="font-medium text-fo-800">Notes on Concept A</p>
+    <p>→ Tiny left border encodes category with no wasted space</p>
+    <p>→ Thumbnail shown only when headImage exists (153/1277 items). Others don't feel broken.</p>
+    <p>→ Personal notes (body content) shown as inline blockquote — the most curated signal</p>
+    <p>→ Domain chip with favicon is nicer than plain text</p>
+    <p>→ Hover state is very light — the focus stays on reading</p>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════
+     MOCKUP B  —  Card grid (2-col, with OG images)
+     Key changes:
+       · 2-column grid, each bookmark is a card
+       · When headImage exists: full image at top
+       · Category as colored pill
+       · Magazine / are.na feel
+     ═══════════════════════════════════════════════ -->
+<section id="b" class="max-w-3xl mx-auto px-6 py-12">
+
+  <div class="mb-10">
+    <div class="inline-block text-xs font-medium tracking-widest uppercase text-fo-500 mb-2">Mockup B</div>
+    <h1 class="text-2xl font-bold mb-1">Card grid with OG images</h1>
+    <p class="text-fo-600 text-sm">Two-column card grid, OG image at top when available. Good for visual browsing, are.na-ish energy. Works best for the 153 items with headImage.</p>
+  </div>
+
+  <!-- Month header -->
+  <h2 class="text-xs font-medium tracking-[.15em] uppercase text-fo-400 mb-5">April 2025</h2>
+
+  <div class="grid grid-cols-2 gap-4">
+
+    <!-- Card: article with image -->
+    <article class="group rounded-xl border border-fo-100 overflow-hidden hover:border-fo-300 hover:shadow-sm transition-all">
+      <a href="#" class="block aspect-[16/9] overflow-hidden bg-fo-100">
+        <img src="http://static1.squarespace.com/static/55f2abdce4b00eb5577dae31/t/66bdfd850a182e1b86c544e2/1723727242253/10-SURF-PHOTOGRAPHY-TIPS-FOR-BEGINNERS-USING-DIGITAL-35MM-FILM.jpg?format=1500w"
+             class="w-full h-full object-cover group-hover:scale-[1.02] transition-transform duration-300">
+      </a>
+      <div class="p-3">
+        <div class="flex items-center justify-between mb-2">
+          <span class="text-xs px-2 py-0.5 rounded-full bg-blue/10 text-blue font-medium">article</span>
+          <span class="text-xs text-fo-400">Aug 2024</span>
+        </div>
+        <a href="#" class="block">
+          <h3 class="text-sm font-semibold leading-snug mb-1 group-hover:text-fo-700 truncate-2">10 Essential Surf Photography Tips for Beginners</h3>
+        </a>
+        <blockquote class="text-xs italic text-fo-600 border-l-2 border-fo-200 pl-2 mt-2">
+          Patience and knowing your gear. Zen mode like
+        </blockquote>
+        <div class="mt-2 flex items-center gap-1">
+          <img src="https://www.google.com/s2/favicons?domain=karlmackieshop.com&sz=16" class="w-3 h-3 rounded-sm" onerror="this.style.display='none'">
+          <span class="text-xs text-fo-500">karlmackieshop.com</span>
+        </div>
+      </div>
+    </article>
+
+    <!-- Card: audio with image -->
+    <article class="group rounded-xl border border-fo-100 overflow-hidden hover:border-fo-300 hover:shadow-sm transition-all">
+      <a href="#" class="block aspect-[16/9] overflow-hidden bg-fo-100">
+        <img src="https://i.scdn.co/image/ab67656300005f1fc23ada5d55c8b7e022952bc2"
+             class="w-full h-full object-cover group-hover:scale-[1.02] transition-transform duration-300">
+      </a>
+      <div class="p-3">
+        <div class="flex items-center justify-between mb-2">
+          <span class="text-xs px-2 py-0.5 rounded-full bg-magenta/10 text-magenta font-medium">audio</span>
+          <span class="text-xs text-fo-400">May 2024</span>
+        </div>
+        <a href="#" class="block">
+          <h3 class="text-sm font-semibold leading-snug mb-1 truncate-2">095 Apprendre aux enfants avec les éditions Chocolatine</h3>
+        </a>
+        <blockquote class="text-xs italic text-fo-600 border-l-2 border-fo-200 pl-2 mt-2">
+          Apprendre le surf et l'eau aux enfants. Chouette écoute!
+        </blockquote>
+        <div class="mt-2 flex items-center gap-1">
+          <img src="https://www.google.com/s2/favicons?domain=open.spotify.com&sz=16" class="w-3 h-3 rounded-sm">
+          <span class="text-xs text-fo-500">open.spotify.com</span>
+        </div>
+      </div>
+    </article>
+
+    <!-- Card: link, NO image (shows placeholder) -->
+    <article class="group rounded-xl border border-fo-100 overflow-hidden hover:border-fo-300 hover:shadow-sm transition-all">
+      <a href="#" class="block aspect-[16/9] bg-fo-100 flex items-center justify-center">
+        <span class="text-4xl text-fo-300">↗</span>
+      </a>
+      <div class="p-3">
+        <div class="flex items-center justify-between mb-2">
+          <span class="text-xs px-2 py-0.5 rounded-full bg-orange/10 text-orange font-medium">link</span>
+          <span class="text-xs text-fo-400">Dec 2023</span>
+        </div>
+        <a href="#" class="block">
+          <h3 class="text-sm font-semibold leading-snug mb-1 truncate-2">ラックスエステート｜湘南の建売住宅・ガレージハウス</h3>
+        </a>
+        <p class="text-xs text-fo-500 truncate-2">横浜・川崎・湘南の一戸建て・土地・マンション等の不動産をお探しなら</p>
+        <div class="mt-2 flex items-center gap-1">
+          <img src="https://www.google.com/s2/favicons?domain=lucks-e.com&sz=16" class="w-3 h-3 rounded-sm">
+          <span class="text-xs text-fo-500">lucks-e.com</span>
+        </div>
+      </div>
+    </article>
+
+    <!-- Card: article no image -->
+    <article class="group rounded-xl border border-fo-100 overflow-hidden hover:border-fo-300 hover:shadow-sm transition-all">
+      <div class="p-3 h-full flex flex-col">
+        <div class="flex items-center justify-between mb-2">
+          <span class="text-xs px-2 py-0.5 rounded-full bg-blue/10 text-blue font-medium">article</span>
+          <span class="text-xs text-fo-400">Jan 2023</span>
+        </div>
+        <a href="#" class="block flex-1">
+          <h3 class="text-sm font-semibold leading-snug mb-2">100r Philosophy — Hundred Rabbits</h3>
+          <p class="text-xs text-fo-600 truncate-3">Hundred Rabbits is a two-person sailing/coding duo. Their philosophy on resilience, off-grid living, and minimal tools is genuinely inspiring.</p>
+        </a>
+        <div class="mt-auto pt-3 flex items-center gap-1">
+          <img src="https://www.google.com/s2/favicons?domain=100r.co&sz=16" class="w-3 h-3 rounded-sm">
+          <span class="text-xs text-fo-500">100r.co</span>
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+  <div class="mt-8 p-4 bg-fo-100/60 rounded-lg text-xs text-fo-600 space-y-1">
+    <p class="font-medium text-fo-800">Notes on Concept B</p>
+    <p>→ Visual and enjoyable when browsing — each card has personality</p>
+    <p>→ Only 153/1277 items have OG images; the rest fall back to placeholder glyph (which looks decent)</p>
+    <p>→ Category pills are cleaner than the current ✺ symbol</p>
+    <p>→ Downside: takes up more vertical space per item. Pagination or infinite scroll becomes more important.</p>
+    <p>→ Could mix: 2-col for items with images, 1-col for the rest (more work but better density)</p>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════
+     MOCKUP C  —  Category-filtered stream
+     Key changes:
+       · Sticky filter tabs: All / Articles / Links / Videos / Audio
+       · Denser rows, better info hierarchy
+       · Category icon instead of ✺
+       · "Count" badges on tabs
+     ═══════════════════════════════════════════════ -->
+<section id="c" class="max-w-2xl mx-auto px-6 py-12">
+
+  <div class="mb-8">
+    <div class="inline-block text-xs font-medium tracking-widest uppercase text-fo-500 mb-2">Mockup C</div>
+    <h1 class="text-2xl font-bold mb-1">Category-filtered stream</h1>
+    <p class="text-fo-600 text-sm">Sticky filter bar at top. Clicking a category shows only that type. Navigable without scrolling 1277 items. (Filter JS left as exercise — would need Alpine.js or URL params in Hugo.)</p>
+  </div>
+
+  <!-- Sticky filter bar -->
+  <div class="sticky top-[49px] z-40 bg-paper/95 backdrop-blur pb-3 mb-6 -mx-2 px-2">
+    <div class="flex items-center gap-1.5 overflow-x-auto pb-1">
+      <button onclick="filterBookmarks('all', this)" class="nav-pill active flex-none text-xs px-3 py-1.5 rounded-full border border-fo-200 transition-all whitespace-nowrap">
+        All <span class="text-fo-400 ml-0.5">1277</span>
+      </button>
+      <button onclick="filterBookmarks('article', this)" class="nav-pill flex-none text-xs px-3 py-1.5 rounded-full border border-fo-200 hover:border-blue transition-all whitespace-nowrap">
+        <span class="text-blue">◆</span> Articles <span class="text-fo-400 ml-0.5">503</span>
+      </button>
+      <button onclick="filterBookmarks('link', this)" class="nav-pill flex-none text-xs px-3 py-1.5 rounded-full border border-fo-200 hover:border-orange transition-all whitespace-nowrap">
+        <span class="text-orange">↗</span> Links <span class="text-fo-400 ml-0.5">406</span>
+      </button>
+      <button onclick="filterBookmarks('video', this)" class="nav-pill flex-none text-xs px-3 py-1.5 rounded-full border border-fo-200 hover:border-yellow transition-all whitespace-nowrap">
+        <span class="text-yellow">▶</span> Videos <span class="text-fo-400 ml-0.5">352</span>
+      </button>
+      <button onclick="filterBookmarks('audio', this)" class="nav-pill flex-none text-xs px-3 py-1.5 rounded-full border border-fo-200 hover:border-magenta transition-all whitespace-nowrap">
+        <span class="text-magenta">♫</span> Audio <span class="text-fo-400 ml-0.5">8</span>
+      </button>
+    </div>
+  </div>
+
+  <!-- Month group -->
+  <div class="mb-6">
+    <h2 class="text-xs font-medium tracking-[.15em] uppercase text-fo-400 mb-3 flex items-center gap-3">
+      April 2025
+      <span class="flex-1 border-t border-fo-100"></span>
+      <span class="text-fo-300">4 items</span>
+    </h2>
+
+    <div id="bookmarks-list" class="divide-y divide-fo-100/70">
+
+      <!-- Row: article with note + image -->
+      <article class="bookmark-item py-2.5 flex items-start gap-3 group" data-category="article">
+        <div class="flex-none mt-0.5 w-5 text-center">
+          <span class="text-blue text-xs">◆</span>
+        </div>
+        <div class="flex-1 min-w-0">
+          <div class="flex items-start justify-between gap-2">
+            <a href="#" class="flex-1 min-w-0">
+              <span class="text-sm font-medium leading-snug group-hover:underline decoration-fo-300">10 Essential Surf Photography Tips for Beginners</span>
+            </a>
+            <span class="flex-none text-xs text-fo-400 mt-0.5">karlmackieshop.com</span>
+          </div>
+          <div class="mt-1 text-xs text-fo-600 italic">Patience and knowing your gear. Zen mode like</div>
+        </div>
+        <a href="#" class="flex-none w-14 h-10 rounded overflow-hidden bg-fo-100 self-start">
+          <img src="http://static1.squarespace.com/static/55f2abdce4b00eb5577dae31/t/66bdfd850a182e1b86c544e2/1723727242253/10-SURF-PHOTOGRAPHY-TIPS-FOR-BEGINNERS-USING-DIGITAL-35MM-FILM.jpg?format=1500w"
+               class="w-full h-full object-cover" onerror="this.style.display='none'">
+        </a>
+      </article>
+
+      <!-- Row: audio with note + image -->
+      <article class="bookmark-item py-2.5 flex items-start gap-3 group" data-category="audio">
+        <div class="flex-none mt-0.5 w-5 text-center">
+          <span class="text-magenta text-xs">♫</span>
+        </div>
+        <div class="flex-1 min-w-0">
+          <div class="flex items-start justify-between gap-2">
+            <a href="#" class="flex-1 min-w-0">
+              <span class="text-sm font-medium leading-snug group-hover:underline decoration-fo-300">095 Apprendre aux enfants · Éditions Chocolatine</span>
+            </a>
+            <span class="flex-none text-xs text-fo-400 mt-0.5">open.spotify.com</span>
+          </div>
+          <div class="mt-1 text-xs text-fo-600 italic">Apprendre le surf et l'eau aux enfants. Chouette écoute!</div>
+        </div>
+        <a href="#" class="flex-none w-14 h-10 rounded overflow-hidden bg-fo-100 self-start">
+          <img src="https://i.scdn.co/image/ab67656300005f1fc23ada5d55c8b7e022952bc2"
+               class="w-full h-full object-cover">
+        </a>
+      </article>
+
+      <!-- Row: link no note, no image -->
+      <article class="bookmark-item py-2.5 flex items-start gap-3 group" data-category="link">
+        <div class="flex-none mt-0.5 w-5 text-center">
+          <span class="text-orange text-xs">↗</span>
+        </div>
+        <div class="flex-1 min-w-0">
+          <div class="flex items-start justify-between gap-2">
+            <a href="#" class="flex-1 min-w-0">
+              <span class="text-sm font-medium leading-snug group-hover:underline decoration-fo-300">ラックスエステート｜湘南の建売住宅・ガレージハウス</span>
+            </a>
+            <span class="flex-none text-xs text-fo-400 mt-0.5">lucks-e.com</span>
+          </div>
+        </div>
+      </article>
+
+      <!-- Row: article no note, no image -->
+      <article class="bookmark-item py-2.5 flex items-start gap-3 group" data-category="article">
+        <div class="flex-none mt-0.5 w-5 text-center">
+          <span class="text-blue text-xs">◆</span>
+        </div>
+        <div class="flex-1 min-w-0">
+          <div class="flex items-start justify-between gap-2">
+            <a href="#" class="flex-1 min-w-0">
+              <span class="text-sm font-medium leading-snug group-hover:underline decoration-fo-300">100r Philosophy — Hundred Rabbits</span>
+            </a>
+            <span class="flex-none text-xs text-fo-400 mt-0.5">100r.co</span>
+          </div>
+        </div>
+      </article>
+
+      <!-- Row: video with image -->
+      <article class="bookmark-item py-2.5 flex items-start gap-3 group" data-category="video">
+        <div class="flex-none mt-0.5 w-5 text-center">
+          <span class="text-yellow text-xs">▶</span>
+        </div>
+        <div class="flex-1 min-w-0">
+          <div class="flex items-start justify-between gap-2">
+            <a href="#" class="flex-1 min-w-0">
+              <span class="text-sm font-medium leading-snug group-hover:underline decoration-fo-300">1 Hour of Smooth 70s/80s Japanese Grooves · City Pop</span>
+            </a>
+            <span class="flex-none text-xs text-fo-400 mt-0.5">youtube.com</span>
+          </div>
+        </div>
+      </article>
+
+      <!-- Row: article with long note -->
+      <article class="bookmark-item py-2.5 flex items-start gap-3 group" data-category="article">
+        <div class="flex-none mt-0.5 w-5 text-center">
+          <span class="text-blue text-xs">◆</span>
+        </div>
+        <div class="flex-1 min-w-0">
+          <div class="flex items-start justify-between gap-2">
+            <a href="#" class="flex-1 min-w-0">
+              <span class="text-sm font-medium leading-snug group-hover:underline decoration-fo-300">175 — The Process Manifesto: Resist Sameness, Embrace Craft</span>
+            </a>
+            <span class="flex-none text-xs text-fo-400 mt-0.5">looking-sideways.com</span>
+          </div>
+          <div class="mt-1 text-xs text-fo-600 italic">Really resonated with me. The part about craft vs. output is worth re-reading every year.</div>
+        </div>
+      </article>
+
+    </div>
+  </div>
+
+  <div class="mt-8 p-4 bg-fo-100/60 rounded-lg text-xs text-fo-600 space-y-1">
+    <p class="font-medium text-fo-800">Notes on Concept C</p>
+    <p>→ Most information-dense: domain on the right makes it instantly scannable without clicking</p>
+    <p>→ Category icons (◆ ↗ ▶ ♫) are fast to read once learned; color reinforces meaning</p>
+    <p>→ Filter tabs = the biggest UX gain. Right now you can't get "only videos" without ctrl+F</p>
+    <p>→ Personal notes shown inline (italic, no border overhead) — very natural</p>
+    <p>→ Implementation: filter tabs need either Alpine.js (simple) or URL params + Hugo paginator (SEO-friendly but harder)</p>
+    <p>→ Could add a search box here too (the site already has 1120+ bookmarks + search index)</p>
+  </div>
+</section>
+
+
+<!-- Bottom spacer + summary -->
+<section class="max-w-2xl mx-auto px-6 py-16 border-t border-fo-100 mt-8">
+  <h2 class="text-lg font-bold mb-4">TL;DR comparison</h2>
+  <div class="grid grid-cols-3 gap-4 text-xs">
+    <div class="p-3 rounded-lg border border-fo-100">
+      <p class="font-semibold text-sm mb-1">A — Visual rows</p>
+      <p class="text-green mb-1">✓ Low effort to implement</p>
+      <p class="text-green mb-1">✓ Closest to current design language</p>
+      <p class="text-green mb-1">✓ Thumbnails where they exist</p>
+      <p class="text-fo-500">→ Best quick win</p>
+    </div>
+    <div class="p-3 rounded-lg border border-fo-100">
+      <p class="font-semibold text-sm mb-1">B — Card grid</p>
+      <p class="text-green mb-1">✓ Most visual / shareable</p>
+      <p class="text-green mb-1">✓ Great for image-rich items</p>
+      <p class="text-fo-500 mb-1">~ Medium effort</p>
+      <p class="text-red mb-1">✗ 1124/1277 without images look sparse</p>
+      <p class="text-fo-500">→ Best for a featured/visual subset</p>
+    </div>
+    <div class="p-3 rounded-lg border border-fo-100">
+      <p class="font-semibold text-sm mb-1">C — Filtered stream</p>
+      <p class="text-green mb-1">✓ Best navigability</p>
+      <p class="text-green mb-1">✓ Most info-dense</p>
+      <p class="text-fo-500 mb-1">~ Needs Alpine.js or URL params</p>
+      <p class="text-fo-500">→ Best long-term if you add more bookmarks</p>
+    </div>
+  </div>
+</section>
+
+<script>
+function filterBookmarks(category, btn) {
+  document.querySelectorAll('.nav-pill').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  document.querySelectorAll('.bookmark-item').forEach(item => {
+    if (category === 'all' || item.dataset.category === category) {
+      item.style.display = '';
+    } else {
+      item.style.display = 'none';
+    }
+  });
+}
+</script>
+
+</body>
+</html>

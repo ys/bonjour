@@ -2,6 +2,7 @@
 uuid: 981986225
 bookmarkOf: https://psychblues.com/film
 category: link
+collection: PHOTOGRAPHY
 headImage: https://rdl.ink/render/https%3A%2F%2Fpsychblues.com%2Ffilm
 title: Film Shop — Psych Blues
 domain: psychblues.com

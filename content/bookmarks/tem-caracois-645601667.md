@@ -2,6 +2,7 @@
 uuid: 645601667
 bookmarkOf: https://www.youtube.com/watch?v=_Olz6OJE8Ks
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/_Olz6OJE8Ks/maxresdefault.jpg
 title: Tem Caracois
 domain: youtube.com

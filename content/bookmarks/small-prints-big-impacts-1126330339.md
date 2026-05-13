@@ -2,6 +2,7 @@
 uuid: 1126330339
 bookmarkOf: https://www.youtube.com/watch?v=4Pt0WUv-K3E
 category: video
+collection: PHOTOGRAPHY
 headImage: https://i.ytimg.com/vi/4Pt0WUv-K3E/maxresdefault.jpg
 title: small prints, BIG IMPACTS
 domain: youtube.com

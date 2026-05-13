@@ -2,6 +2,7 @@
 uuid: 693360277
 bookmarkOf: https://ia.net/topics/ia-writer-in-paper
 category: article
+collection: TECH
 headImage: https://ia.net/wp-content/uploads/2023/12/iA-Notebook-closeup-1024x703.png
 title: iA Writer in Paper
 domain: ia.net

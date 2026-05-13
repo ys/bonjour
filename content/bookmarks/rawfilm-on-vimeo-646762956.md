@@ -2,6 +2,7 @@
 uuid: 646762956
 bookmarkOf: https://vimeo.com/686434096
 category: video
+collection: PHOTOGRAPHY
 headImage: https://i.vimeocdn.com/video/1570543176-12a189388430de8809dd4cb7c11050c2bd089b8eab0a1ddad18ad6c394433bbd-d_295x166
 title: RAWfilm on Vimeo
 domain: vimeo.com

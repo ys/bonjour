@@ -2,6 +2,7 @@
 uuid: 807074293
 bookmarkOf: https://www.youtube.com/watch?v=P_vI3FV1H4U
 category: video
+collection: ART & CULTURE
 headImage: https://i.ytimg.com/vi/P_vI3FV1H4U/maxresdefault.jpg
 title: Weezer - The Blue Album LIVE | Spotify THIRTY - The 30th Anniversary
 domain: youtube.com

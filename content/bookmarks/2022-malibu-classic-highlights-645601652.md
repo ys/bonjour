@@ -2,6 +2,7 @@
 uuid: 645601652
 bookmarkOf: https://www.youtube.com/watch?v=XyswXpa5LVw
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/XyswXpa5LVw/maxresdefault.jpg
 title: 2022 Malibu Classic Highlights
 domain: youtube.com

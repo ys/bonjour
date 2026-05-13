@@ -2,6 +2,7 @@
 uuid: 925572786
 bookmarkOf: https://www.scienceofsurfing.com/p/sharks-nearby
 category: article
+collection: SURF
 headImage: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a07a306-5636-42f8-b84d-3b3f217a3ae7_1308x746.png
 title: How often are there sharks near you?
 domain: scienceofsurfing.com

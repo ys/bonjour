@@ -2,6 +2,7 @@
 uuid: 913075396
 bookmarkOf: https://www.youtube.com/watch?v=MbF5dyU96CE
 category: video
+collection: A BETTER LIFE
 headImage: https://i.ytimg.com/vi/MbF5dyU96CE/maxresdefault.jpg
 title: 4 Small Habits To Improve Self Esteem
 domain: youtube.com

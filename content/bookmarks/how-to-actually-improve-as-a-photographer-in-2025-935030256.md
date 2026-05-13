@@ -2,6 +2,7 @@
 uuid: 935030256
 bookmarkOf: https://www.youtube.com/watch?v=xJunTbay6Jc
 category: video
+collection: PHOTOGRAPHY
 headImage: https://i.ytimg.com/vi/xJunTbay6Jc/hqdefault.jpg
 title: how to actually improve as a photographer in 2025
 domain: youtube.com

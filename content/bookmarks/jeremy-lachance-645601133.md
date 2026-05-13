@@ -2,6 +2,7 @@
 uuid: 645601133
 bookmarkOf: https://jeremylachance.com/
 category: link
+collection: ART & CULTURE
 headImage: https://rdl.ink/render/https%3A%2F%2Fjeremylachance.com%2F
 title: Jeremy Lachance
 domain: jeremylachance.com

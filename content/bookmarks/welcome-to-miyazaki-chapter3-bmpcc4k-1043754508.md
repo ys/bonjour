@@ -2,6 +2,7 @@
 uuid: 1043754508
 bookmarkOf: https://www.youtube.com/watch?v=M30eOMGqIkc
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/M30eOMGqIkc/maxresdefault.jpg
 title: これが宮崎のサーフィンとロングボーダー達「Welcome to Miyazaki」 Chapter3 ／ bmpcc4k
 domain: youtube.com

@@ -2,6 +2,7 @@
 uuid: 774097200
 bookmarkOf: https://www.youtube.com/watch?v=1pqALAxqUlk
 category: video
+collection: HOME
 headImage: https://i.ytimg.com/vi/1pqALAxqUlk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgVChBMA8=&rs=AOn4CLBbCsaaegcRBQmjE573MileXoZpMQ
 title: 'NEVER TOO SMALL: DIY YouTuber’s Handcrafted Apartment, Portugal 31sqm/333sqft'
 domain: youtube.com

@@ -2,6 +2,7 @@
 uuid: 667447359
 bookmarkOf: https://macwright.com/2019/01/02/paper-notes
 category: article
+collection: A BETTER LIFE
 headImage: https://macwright.com/images/2019-01-02-paper-notes-thumbnail-image.jpg
 title: Paper notes
 domain: macwright.com

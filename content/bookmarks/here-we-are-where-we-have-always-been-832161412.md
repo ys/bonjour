@@ -2,6 +2,7 @@
 uuid: 832161412
 bookmarkOf: https://www.simplemagic.ca/here-we-are-where-we-have-always-been/
 category: article
+collection: ART & CULTURE
 headImage: https://www.simplemagic.ca/content/images/2024/08/Here_we_are_where_we_have_always_been.jpg
 title: Here we are, where we have always been
 domain: simplemagic.ca

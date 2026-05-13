@@ -2,6 +2,7 @@
 uuid: 645601110
 bookmarkOf: https://craigmod.com/huh/welcome/
 category: article
+collection: A BETTER LIFE
 headImage: https://craigmod.com/huh/images/welcome/high/welcome.jpg
 title: Subscribe to Huh ⧇ A Cafe with a View of the Waterfall
 domain: craigmod.com

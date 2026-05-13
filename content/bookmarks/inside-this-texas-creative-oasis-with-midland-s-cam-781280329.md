@@ -2,6 +2,7 @@
 uuid: 781280329
 bookmarkOf: https://www.youtube.com/watch?v=6cN2AYMbO1c
 category: video
+collection: HOME
 headImage: https://i.ytimg.com/vi/6cN2AYMbO1c/maxresdefault.jpg
 title: Inside This Texas Creative Oasis with Midland's Cameron Duddy | Huckberry Homes
   Ep. 6

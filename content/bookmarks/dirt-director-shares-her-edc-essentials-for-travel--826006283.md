@@ -2,6 +2,7 @@
 uuid: 826006283
 bookmarkOf: https://www.youtube.com/watch?v=INQ--Af7Pts
 category: video
+collection: GEAR
 headImage: https://i.ytimg.com/vi/INQ--Af7Pts/maxresdefault.jpg
 title: DIRT Director Shares Her EDC Essentials For Travel & Filming Around The World
   | Huckberry Gear Lab

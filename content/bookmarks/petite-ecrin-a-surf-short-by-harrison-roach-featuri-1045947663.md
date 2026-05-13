@@ -2,6 +2,7 @@
 uuid: 1045947663
 bookmarkOf: https://youtube.com/watch?v=Z0y231icJhQ&si=F_Q2E8hNFFgpzsOP
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/Z0y231icJhQ/maxresdefault.jpg
 title: PETITE ÉCRIN | A Surf Short by Harrison Roach, Featuring Victoria Vergara
 domain: youtube.com

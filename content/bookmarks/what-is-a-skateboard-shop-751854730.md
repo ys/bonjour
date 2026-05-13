@@ -2,6 +2,7 @@
 uuid: 751854730
 bookmarkOf: https://www.simplemagic.ca/what-is-a-skate-shop/
 category: article
+collection: SKATEBOARDING
 headImage: https://www.simplemagic.ca/content/images/2024/02/What_is_skateboard_shop.jpg
 title: What is a skateboard shop?
 domain: simplemagic.ca

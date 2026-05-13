@@ -2,6 +2,7 @@
 uuid: 645601646
 bookmarkOf: https://www.telotrucks.com/#features
 category: link
+collection: GEAR
 headImage: https://www.telotrucks.com/assets/images/FB_share.jpg
 title: The EV pickup for urban living and weekend adventuring | TELO Trucks
 domain: telotrucks.com

@@ -2,6 +2,7 @@
 uuid: 938887627
 bookmarkOf: https://www.youtube.com/watch?v=UUJQPKvrVfk&list=WL&index=5
 category: video
+collection: SKATEBOARDING
 headImage: https://i.ytimg.com/vi/UUJQPKvrVfk/maxresdefault.jpg
 title: 'YETI Presents: Finding Ground: A Geoff Rowley Story'
 domain: youtube.com

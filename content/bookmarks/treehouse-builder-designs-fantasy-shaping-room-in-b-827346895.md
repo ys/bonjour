@@ -2,6 +2,7 @@
 uuid: 827346895
 bookmarkOf: https://www.youtube.com/watch?v=f1kysesvzTI
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/f1kysesvzTI/maxresdefault.jpg
 title: Treehouse Builder Designs Fantasy Shaping Room In Bali | Jay Nelson at the
   Uluwatu Surf Villas

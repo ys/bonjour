@@ -2,6 +2,7 @@
 uuid: 645601719
 bookmarkOf: https://www.youtube.com/watch?v=VBJksjDZJOA
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/VBJksjDZJOA/maxresdefault.jpg
 title: ThAt T-REX BEACH w sUrfboArdS duh
 domain: youtube.com

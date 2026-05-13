@@ -2,6 +2,7 @@
 uuid: 1256967021
 bookmarkOf: https://www.youtube.com/watch?v=5f5hFJ4fLPI
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/5f5hFJ4fLPI/maxresdefault.jpg
 title: Super Secession
 domain: youtube.com

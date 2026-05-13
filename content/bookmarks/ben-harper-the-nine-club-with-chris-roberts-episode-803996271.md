@@ -2,6 +2,7 @@
 uuid: 803996271
 bookmarkOf: https://www.youtube.com/watch?v=9FhkimD1YLY&t=6s
 category: video
+collection: SKATEBOARDING
 headImage: https://i.ytimg.com/vi/9FhkimD1YLY/maxresdefault.jpg
 title: Ben Harper | The Nine Club With Chris Roberts - Episode 16
 domain: youtube.com

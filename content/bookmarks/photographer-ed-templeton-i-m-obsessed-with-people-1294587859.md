@@ -2,6 +2,7 @@
 uuid: 1294587859
 bookmarkOf: https://www.youtube.com/watch?v=NbxvGWjMPG0
 category: video
+collection: PHOTOGRAPHY
 headImage: https://i.ytimg.com/vi/NbxvGWjMPG0/maxresdefault.jpg
 title: 'Photographer Ed Templeton: I''m Obsessed With People'
 domain: youtube.com

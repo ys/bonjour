@@ -2,6 +2,7 @@
 uuid: 645601465
 bookmarkOf: https://www.youtube.com/watch?v=zWj5Sk0o2_c
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/zWj5Sk0o2_c/sddefault.jpg
 title: Imsouane- Camille DROULIN
 domain: youtube.com

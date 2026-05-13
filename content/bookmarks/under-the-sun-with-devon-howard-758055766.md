@@ -2,6 +2,7 @@
 uuid: 758055766
 bookmarkOf: https://www.youtube.com/watch?v=KCw-_ugEbZ4
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/KCw-_ugEbZ4/hqdefault.jpg
 title: Under The Sun with Devon Howard
 domain: youtube.com

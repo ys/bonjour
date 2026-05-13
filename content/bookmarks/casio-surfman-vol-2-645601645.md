@@ -2,6 +2,7 @@
 uuid: 645601645
 bookmarkOf: https://www.youtube.com/watch?v=wSgWPC13bt8
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/wSgWPC13bt8/maxresdefault.jpg
 title: cAsiO sUrfmAn vol. 2
 domain: youtube.com

@@ -2,6 +2,7 @@
 uuid: 1319725519
 bookmarkOf: https://baty.net/posts/2025/08/its-just-that-i-prefer-film/
 category: article
+collection: PHOTOGRAPHY
 headImage: https://baty.net/posts/2025/08/its-just-that-i-prefer-film/Roll-046-03.jpg
 title: It's just that I prefer film
 domain: baty.net

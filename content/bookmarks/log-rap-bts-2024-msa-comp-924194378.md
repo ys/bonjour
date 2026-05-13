@@ -2,6 +2,7 @@
 uuid: 924194378
 bookmarkOf: https://www.youtube.com/watch?v=idJ2ItbS-oQ
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/idJ2ItbS-oQ/maxresdefault.jpg
 title: Log Rap BTS 2024 MSA Comp
 domain: youtube.com

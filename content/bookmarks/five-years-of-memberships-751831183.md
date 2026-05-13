@@ -2,6 +2,7 @@
 uuid: 751831183
 bookmarkOf: https://craigmod.com/essays/memberships_year_five/#fnref:11
 category: article
+collection: TECH
 headImage: https://craigmod.com/essays/images/memberships_year_five/title-year-five-small.jpg
 title: Five Years of Memberships
 domain: craigmod.com

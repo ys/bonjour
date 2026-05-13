@@ -2,6 +2,7 @@
 uuid: 790765796
 bookmarkOf: https://www.huckmag.com/article/joel-sternfelds-landmark-portrait-of-american-pathos-dreams
 category: article
+collection: PHOTOGRAPHY
 headImage: https://tco.mutualcp.com/transforms/Huck/_1200x630_crop_center-center_82_none_ns/ap_steidl_selects-047.jpg?mtime=1716558445
 title: Joel Sternfeld’s landmark portrait of American pathos & dreams
 domain: huckmag.com

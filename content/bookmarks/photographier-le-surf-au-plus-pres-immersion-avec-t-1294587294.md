@@ -2,6 +2,7 @@
 uuid: 1294587294
 bookmarkOf: https://www.youtube.com/watch?v=gaOiBCvVqgs&t=2s
 category: video
+collection: PHOTOGRAPHY
 headImage: https://i.ytimg.com/vi/gaOiBCvVqgs/maxresdefault.jpg
 title: 'Photographier le surf au plus près : immersion avec Thomas Lodin'
 domain: youtube.com

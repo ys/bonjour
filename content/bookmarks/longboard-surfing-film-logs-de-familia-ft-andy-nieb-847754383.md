@@ -2,6 +2,7 @@
 uuid: 847754383
 bookmarkOf: https://www.youtube.com/watch?v=ZP6yolq3jF8
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/ZP6yolq3jF8/maxresdefault.jpg
 title: Longboard Surfing Film "LOGS DE FAMÍLIA" | Ft. Andy Nieblas & Pedro Scansetti
 domain: youtube.com

@@ -2,6 +2,7 @@
 uuid: 734249329
 bookmarkOf: https://www.youtube.com/watch?v=gmwD6xzrk-w
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/gmwD6xzrk-w/maxresdefault.jpg
 title: Talk Story featuring Bryce Baker & Kamalei Alexander
 domain: youtube.com

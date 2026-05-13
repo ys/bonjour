@@ -2,6 +2,7 @@
 uuid: 1141566683
 bookmarkOf: https://www.youtube.com/watch?v=3gNph25gxhw&list=PLjHRKTS-Q5-CeCo66kFGivBMF8qB8orPh&index=19
 category: video
+collection: TRAVEL
 headImage: https://i.ytimg.com/vi/3gNph25gxhw/maxresdefault.jpg
 title: 'Exploring New York City''s Hidden Culinary Gems: Cooking Goat Brains, Lobster
   & MORE | DIRT NYC'

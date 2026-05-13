@@ -2,6 +2,7 @@
 uuid: 645601490
 bookmarkOf: https://wavelengthmag.com/ambre-victoire-i-just-want-to-be-free/
 category: article
+collection: SURF
 headImage: https://wavelengthmag.com/wp-content/uploads/2022/08/Screenshot-2022-08-11-at-11.57.12-1024x670.png
 title: Ambre Victoire - "I Just Want to be Free!" - Wavelength Surf Magazine - since
   1981

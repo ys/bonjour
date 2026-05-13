@@ -2,6 +2,7 @@
 uuid: 944531858
 bookmarkOf: https://youtube.com/watch?v=nlQQxvfSotQ&si=0uNuUXrX2v3vQwU2
 category: video
+collection: A BETTER LIFE
 headImage: https://i.ytimg.com/vi/nlQQxvfSotQ/maxresdefault.jpg
 title: 'HAPPINESS: The Science of How To Be Happy'
 domain: youtube.com

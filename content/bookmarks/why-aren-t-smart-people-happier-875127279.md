@@ -2,6 +2,7 @@
 uuid: 875127279
 bookmarkOf: https://www.experimental-history.com/p/why-arent-smart-people-happier
 category: article
+collection: A BETTER LIFE
 headImage: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc8548b3-2eaa-4a22-b782-10646cfb25b7_1668x1113.jpeg
 title: Why aren't smart people happier?
 domain: experimental-history.com

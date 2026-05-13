@@ -2,6 +2,7 @@
 uuid: 656130791
 bookmarkOf: https://leica-camera.blog/2021/11/19/the-joy-is-in-capturing-the-journey/
 category: article
+collection: PHOTOGRAPHY
 headImage: https://i0.wp.com/leica-camera.blog/wp-content/uploads/anabele-58.jpg?w=296&h=472&ssl=1
 title: The Joy is in Capturing the Journey - The Leica camera Blog
 domain: leica-camera.blog

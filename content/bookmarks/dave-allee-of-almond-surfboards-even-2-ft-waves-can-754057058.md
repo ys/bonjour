@@ -2,6 +2,7 @@
 uuid: 754057058
 bookmarkOf: https://www.youtube.com/watch?v=C14dyIks75E
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/C14dyIks75E/maxresdefault.jpg
 title: 'Dave Allee of Almond Surfboards: Even 2 ft waves can be firing'
 domain: youtube.com

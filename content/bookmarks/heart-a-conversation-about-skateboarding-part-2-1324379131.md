@@ -2,6 +2,7 @@
 uuid: 1324379131
 bookmarkOf: https://www.youtube.com/watch?v=shLzWTecmpM
 category: video
+collection: SKATEBOARDING
 headImage: https://i.ytimg.com/vi/shLzWTecmpM/maxresdefault.jpg
 title: HEART - A conversation about Skateboarding - Part 2
 domain: youtube.com

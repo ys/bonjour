@@ -2,6 +2,7 @@
 uuid: 1357577714
 bookmarkOf: https://www.youtube.com/watch?v=GDQ_F8yIRQ4&list=WL&index=2
 category: video
+collection: SKATEBOARDING
 headImage: https://i.ytimg.com/vi/GDQ_F8yIRQ4/maxresdefault.jpg
 title: the art of documenting skateboarding w/ Matt Price
 domain: youtube.com

@@ -2,6 +2,7 @@
 uuid: 654735348
 bookmarkOf: https://goodenough.us/blog/2023-08-23-bad-ideas-are-fun/
 category: article
+collection: ART & CULTURE
 headImage: https://goodenough.us/social-preview.png
 title: Bad Ideas Are Fun — Good Enough
 domain: goodenough.us

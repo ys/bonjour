@@ -2,6 +2,7 @@
 uuid: 648486700
 bookmarkOf: https://www.shapeologie.fr/ledico
 category: link
+collection: SURF
 headImage: https://rdl.ink/render/https%3A%2F%2Fwww.shapeologie.fr%2Fledico
 title: Le Dico — Shapeologie
 domain: shapeologie.fr

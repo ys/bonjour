@@ -2,6 +2,7 @@
 uuid: 953119611
 bookmarkOf: https://www.youtube.com/watch?v=Vd7ssAtckko
 category: video
+collection: ART & CULTURE
 headImage: https://i.ytimg.com/vi/Vd7ssAtckko/hqdefault.jpg
 title: 1 Hour of Smooth 70s-80s Japanese Grooves | City Pop & More
 domain: youtube.com

@@ -2,6 +2,7 @@
 uuid: 888913703
 bookmarkOf: https://www.scoutmotors.com/
 category: link
+collection: GEAR
 headImage: https://www.scoutmotors.com/_astro/homepage-meta.D-iqJOwO.png
 title: Scouts always come back
 domain: scoutmotors.com

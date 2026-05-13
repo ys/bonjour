@@ -2,6 +2,7 @@
 uuid: 796312985
 bookmarkOf: https://www.youtube.com/watch?v=e9VhfTPcVaw
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/e9VhfTPcVaw/maxresdefault.jpg
 title: INTERSTELLAR LOW WAYS-Displacement Hulls Fantastic Acid- full movie
 domain: youtube.com

@@ -2,6 +2,7 @@
 uuid: 751861941
 bookmarkOf: https://finisterre.com/blogs/broadcast/family-frontiers-an-irish-road-trip
 category: article
+collection: SURF
 headImage: https://finisterre.com/cdn/shop/articles/unnamed_200538fd-18cf-4de9-a218-9b8bf58c8af7.jpg?v=1709218005
 title: 'Family Frontiers: An Irish Road Trip'
 domain: finisterre.com

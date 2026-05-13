@@ -2,6 +2,7 @@
 uuid: 645601470
 bookmarkOf: https://www.youtube.com/watch?v=oOLNknoGJvU
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/oOLNknoGJvU/maxresdefault.jpg
 title: Lost in the Swell - Le Niglo Frites
 domain: youtube.com

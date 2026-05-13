@@ -2,6 +2,7 @@
 uuid: 645601468
 bookmarkOf: https://longboardermagazine.com/2022/09/izzy-henshall-rising-style/
 category: article
+collection: SURF
 headImage: https://longboardermagazine.com/wp-content/uploads/2022/09/izz-henshall-header.jpg
 title: 'Izzy Henshall : Rising Style - Longboarder Magazine'
 domain: longboardermagazine.com

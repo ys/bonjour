@@ -2,6 +2,7 @@
 uuid: 678448247
 bookmarkOf: https://robinrendle.com/notes/help-is-just-help/
 category: article
+collection: A BETTER LIFE
 headImage: https://rdl.ink/render/https%3A%2F%2Frobinrendle.com%2Fnotes%2Fhelp-is-just-help%2F
 title: Robin Rendle — Help is just help
 domain: robinrendle.com

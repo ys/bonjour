@@ -2,6 +2,7 @@
 uuid: 645601522
 bookmarkOf: https://anthonyhobday.com/sideprojects/saferules/
 category: link
+collection: TECH
 headImage: https://rdl.ink/render/https%3A%2F%2Fanthonyhobday.com%2Fsideprojects%2Fsaferules%2F
 title: Visual design rules you can safely follow every time
 domain: anthonyhobday.com

@@ -2,6 +2,7 @@
 uuid: 758251275
 bookmarkOf: https://www.yogabody.com/stretching/?utm_source=facebook&utm_medium=video&utm_campaign=FB-SOS-RM&WickedSource=Facebook&WickedID=6552514699020
 category: article
+collection: A BETTER LIFE
 headImage: https://www.yogabody.com/wp-content/uploads/2021/10/Science-of-Stretching.jpg
 title: Science of Stretching
 domain: yogabody.com

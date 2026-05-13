@@ -2,6 +2,7 @@
 uuid: 766947776
 bookmarkOf: https://www.youtube.com/watch?v=oaKRBBpA4fw
 category: video
+collection: COFFEE & FOOD
 headImage: https://i.ytimg.com/vi/oaKRBBpA4fw/maxresdefault.jpg
 title: Everything You Need To Know To Steam Great Milk
 domain: youtube.com

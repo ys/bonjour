@@ -2,6 +2,7 @@
 uuid: 645601722
 bookmarkOf: https://www.ebay.com/itm/164673117066
 category: link
+collection: SURF
 headImage: https://i.ebayimg.com/images/g/jCwAAOSwyeJgExbL/s-l1600.jpg
 title: Thomas Campbell The Seedling VHS
 domain: ebay.com

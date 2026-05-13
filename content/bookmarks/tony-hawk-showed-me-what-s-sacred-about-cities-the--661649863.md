@@ -2,6 +2,7 @@
 uuid: 661649863
 bookmarkOf: https://archive.ph/SclnQ#selection-565.0-565.460
 category: link
+collection: SKATEBOARDING
 headImage: https://archive.ph/SclnQ/9f0835d1a72257220cfe9de888885a2c671cbd9a/scr.png
 title: Tony Hawk Showed Me What’s Sacred About Cities - The New York Times
 domain: archive.ph

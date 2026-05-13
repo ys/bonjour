@@ -2,6 +2,7 @@
 uuid: 925588700
 bookmarkOf: https://www.youtube.com/watch?v=DCTNlh-3hKw
 category: video
+collection: HOME
 headImage: https://i.ytimg.com/vi/DCTNlh-3hKw/maxresdefault.jpg
 title: Using 20,000 matches to make a coffee table
 domain: youtube.com

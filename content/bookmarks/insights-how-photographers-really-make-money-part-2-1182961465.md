@@ -2,6 +2,7 @@
 uuid: 1182961465
 bookmarkOf: https://www.wearelookingsideways.com/p/insights-how-photographers-really-db3
 category: article
+collection: PHOTOGRAPHY
 headImage: https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Flookingsideways.substack.com%2Fapi%2Fv1%2Fpost_preview%2F158649495%2Ftwitter.jpg%3Fversion%3D4
 title: 'Insights: How Photographers REALLY Make Money - Part 2'
 domain: wearelookingsideways.com

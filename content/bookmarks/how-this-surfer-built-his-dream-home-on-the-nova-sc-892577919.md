@@ -2,6 +2,7 @@
 uuid: 892577919
 bookmarkOf: https://www.youtube.com/watch?v=azxOOBL_U4Y
 category: video
+collection: HOME
 headImage: https://i.ytimg.com/vi/azxOOBL_U4Y/hqdefault.jpg
 title: How This Surfer Built His Dream Home on the Nova Scotia Coast | Huckberry Homes
 domain: youtube.com

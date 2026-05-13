@@ -2,6 +2,7 @@
 uuid: 1540583165
 bookmarkOf: https://www.youtube.com/watch?v=Oj5eUuLGfWk&list=WL&index=2
 category: video
+collection: COFFEE & FOOD
 headImage: https://i.ytimg.com/vi/Oj5eUuLGfWk/maxresdefault.jpg
 title: A Dad, an Old El Camino, and a Coffee Business | Go West Ep. 1
 domain: youtube.com

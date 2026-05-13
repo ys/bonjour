@@ -2,6 +2,7 @@
 uuid: 981874164
 bookmarkOf: https://www.youtube.com/watch?v=gSoM46oufhc
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/gSoM46oufhc/hqdefault.jpg
 title: Travel, Waves, And Island Living -旅と波と島暮らし- Harada Mitsunori
 domain: youtube.com

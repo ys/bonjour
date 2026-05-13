@@ -2,6 +2,7 @@
 uuid: 645601461
 bookmarkOf: https://www.youtube.com/watch?v=FRfuQbkoJcw
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/FRfuQbkoJcw/maxresdefault.jpg
 title: CULTURE HOULEUSE - Teaser (FR)
 domain: youtube.com

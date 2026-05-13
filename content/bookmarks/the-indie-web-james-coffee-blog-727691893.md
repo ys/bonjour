@@ -2,6 +2,7 @@
 uuid: 727691893
 bookmarkOf: https://jamesg.blog/2024/01/27/the-indie-web/
 category: article
+collection: ART & CULTURE
 headImage: https://screenshots.jamesg.blog/?url=https://jamesg.blog/2024/01/27/the-indie-web/
 title: The indie web | James' Coffee Blog
 domain: jamesg.blog

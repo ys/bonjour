@@ -2,6 +2,7 @@
 uuid: 987894153
 bookmarkOf: https://www.youtube.com/watch?v=Sq0lLVihPqY
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/Sq0lLVihPqY/hqdefault.jpg
 title: FROTHIN' in Byron Bay with Laure Mayer
 domain: youtube.com

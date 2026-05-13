@@ -2,6 +2,7 @@
 uuid: 740696778
 bookmarkOf: https://daftsocial.com/ys/
 category: link
+collection: ART & CULTURE
 headImage: https://daftsocial.com/_img/daftsocial.png
 title: Ys on Daft Social
 domain: daftsocial.com

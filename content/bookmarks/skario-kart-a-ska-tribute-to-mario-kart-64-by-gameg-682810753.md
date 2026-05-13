@@ -2,6 +2,7 @@
 uuid: 682810753
 bookmarkOf: https://gamegrooves.bandcamp.com/album/skario-kart-a-ska-tribute-to-mario-kart-64
 category: audio
+collection: ART & CULTURE
 headImage: https://f4.bcbits.com/img/a3074090099_5.jpg
 title: 'Skario Kart: A Ska Tribute to Mario Kart 64, by GameGrooves'
 domain: gamegrooves.bandcamp.com

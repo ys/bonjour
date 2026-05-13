@@ -2,6 +2,7 @@
 uuid: 775066459
 bookmarkOf: https://www.radiusbooks.org/limited-editions/p/barbara-bosworth-the-sea-limited-editions
 category: link
+collection: BOOKS
 headImage: http://static1.squarespace.com/static/5eb95b79c7eb587825c233f6/5eced9afbd69a776fa88c39c/621d8eab2accfb35f094c9c0/1696263696272/Bosworth+Limited+1+Framed.jpg?format=1500w
 title: 'Barbara Bosworth: The Sea — Radius Books'
 domain: radiusbooks.org

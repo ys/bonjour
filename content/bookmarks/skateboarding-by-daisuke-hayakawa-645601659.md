@@ -2,6 +2,7 @@
 uuid: 645601659
 bookmarkOf: https://www.naro.tv/skateboarding
 category: link
+collection: SKATEBOARDING
 headImage: https://app-assets.naro.tv/og_images/hayakawa.png
 title: Skateboarding by Daisuke Hayakawa
 domain: naro.tv

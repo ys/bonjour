@@ -2,6 +2,7 @@
 uuid: 770599332
 bookmarkOf: https://www.youtube.com/watch?v=MxYqgGhbrYY
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/MxYqgGhbrYY/maxresdefault.jpg
 title: Tosh Tudor Has A New Movie & A New Board Model!? | Log Rap Board Review
 domain: youtube.com

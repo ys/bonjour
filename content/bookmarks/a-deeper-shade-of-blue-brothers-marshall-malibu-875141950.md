@@ -2,6 +2,7 @@
 uuid: 875141950
 bookmarkOf: https://www.youtube.com/watch?app=desktop&v=_K23bjSjExI
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/_K23bjSjExI/hqdefault.jpg
 title: A Deeper Shade of Blue - Brothers Marshall Malibu
 domain: youtube.com

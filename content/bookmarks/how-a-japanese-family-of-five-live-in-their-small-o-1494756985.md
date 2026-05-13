@@ -2,6 +2,7 @@
 uuid: 1494756985
 bookmarkOf: https://www.youtube.com/watch?v=s9xZM4ua7FM
 category: video
+collection: HOME
 headImage: https://i.ytimg.com/vi/s9xZM4ua7FM/maxresdefault.jpg
 title: How a Japanese Family of Five Live in Their Small Open Air Home, Tokyo 57sqm/613sqft
 domain: youtube.com

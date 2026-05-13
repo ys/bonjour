@@ -2,6 +2,7 @@
 uuid: 858103628
 bookmarkOf: https://www.simplemagic.ca/complex-phenomena/
 category: article
+collection: SKATEBOARDING
 headImage: https://www.simplemagic.ca/content/images/2024/09/Complex_phenomena.jpg
 title: Complex phenomena
 domain: simplemagic.ca

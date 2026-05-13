@@ -2,6 +2,7 @@
 uuid: 790475253
 bookmarkOf: https://www.jenkemmag.com/home/2024/05/08/turning-classic-skate-soundtracks-into-a-radio-show-with-nts-skate-muzik/
 category: article
+collection: SKATEBOARDING
 headImage: https://www.jenkemmag.com/home/wp-content/uploads/2024/05/Muzik.jpg
 title: TURNING CLASSIC SKATE SOUNDTRACKS INTO AN NTS RADIO SHOW - Jenkem Magazine
 domain: jenkemmag.com

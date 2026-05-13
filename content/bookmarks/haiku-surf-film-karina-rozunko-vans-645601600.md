@@ -2,6 +2,7 @@
 uuid: 645601600
 bookmarkOf: https://youtu.be/mcF2cuExdsA
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/mcF2cuExdsA/maxresdefault.jpg
 title: HAIKU | Surf Film | Karina Rozunko | VANS
 domain: youtu.be

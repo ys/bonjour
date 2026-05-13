@@ -2,6 +2,7 @@
 uuid: 838080148
 bookmarkOf: https://www.karlmackieshop.com/articles/10-surf-photography-tips-for-beginners
 category: article
+collection: SURF
 headImage: http://static1.squarespace.com/static/55f2abdce4b00eb5577dae31/t/66bdfd850a182e1b86c544e2/1723727242253/10-SURF-PHOTOGRAPHY-TIPS-FOR-BEGINNERS-USING-DIGITAL-35MM-FILM.jpg?format=1500w
 title: 10 Essential Surf Photography Tips for Beginners | Karl Mackie Prints and Workshops
 domain: karlmackieshop.com

@@ -2,6 +2,7 @@
 uuid: 857287542
 bookmarkOf: https://www.youtube.com/watch?v=QDVmKn6kKts
 category: video
+collection: COFFEE & FOOD
 headImage: https://i.ytimg.com/vi/QDVmKn6kKts/hqdefault.jpg
 title: 3 Simple Tips to Become a Latte Art Pro
 domain: youtube.com

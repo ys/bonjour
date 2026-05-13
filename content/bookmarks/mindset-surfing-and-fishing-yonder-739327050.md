@@ -2,6 +2,7 @@
 uuid: 739327050
 bookmarkOf: https://www.surfyonder.com/stories/2024/2/19/mindset-surfing-and-fishing?fbclid=PAAaY0g82qVMeSDC4j4aRwTZwuc_c-mKJ225-lEpY3u_XU8YPM1FJMA25E9dc_aem_AXiqvuiF9CzUr4ALEbSfBBgNSoaws_g68fDKZQ40oJ0_4RshX0o1RP5z3zCcxA-FHI0
 category: article
+collection: SURF
 headImage: http://static1.squarespace.com/static/5b1ed6d45cfd793594a55bc0/t/65d4f931549b185220894377/1708456241648/DSC03839.jpg?format=1500w
 title: Mindset - Surfing and Fishing — Yonder
 domain: surfyonder.com

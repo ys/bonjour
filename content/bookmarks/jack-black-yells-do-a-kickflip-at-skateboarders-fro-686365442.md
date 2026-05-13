@@ -2,6 +2,7 @@
 uuid: 686365442
 bookmarkOf: https://yewtu.be/watch?v=TxjnJMc_qWs
 category: video
+collection: SKATEBOARDING
 headImage: https://yewtu.be/vi/TxjnJMc_qWs/maxres.jpg
 title: Jack Black Yells "DO A KICKFLIP!" At Skateboarders From His Car
 domain: yewtu.be

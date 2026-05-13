@@ -2,6 +2,7 @@
 uuid: 978382904
 bookmarkOf: https://www.youtube.com/watch?v=hywUe8GHbxc
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/hywUe8GHbxc/hqdefault.jpg
 title: Chromance Vol II - Mathieu Marechal
 domain: youtube.com
