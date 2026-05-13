@@ -98,6 +98,17 @@ class Downloader
     liked = YAML.load(File.read("data/liked.yml"))
 
     path = "content/bookmarks"
+    liked_ids = liked.map { |l| l["_id"].to_s }.to_set
+
+    Dir.glob("#{path}/*.md").each do |f|
+      next if File.basename(f) == "_index.md"
+      id = File.basename(f, ".md")[/\-(\d+)$/, 1]
+      if id.nil? || !liked_ids.include?(id)
+        puts "🗑  #{File.basename(f)}"
+        File.delete(f)
+      end
+    end
+
     liked.each do |l|
       puts "📄 #{l["title"]}"
       md = to_md(l)

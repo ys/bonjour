@@ -1,17 +1,22 @@
 {{ define "main" }}
-    {{ $paginator := (.Paginate (where (where (where .Site.AllPages "Type" .Type) "Kind" "==" "page") ".Params.archived" "!=" true)  2500) }}
-    {{ range $paginator.Pages.GroupByDate (.Params.groupBy | default "2006") }}
-    <div class="py-6 max-w-3xl">
-      <header class="flex gap-2 mb-3 mt-1 text-xl items-center uppercase text-sm font-sans">
-        <h2 id="{{.Key}}" class="font-sans text-sm font-medium tracking-[.15em] uppercase text-gray-400 dark:text-gray-500 ">{{ .Key }}</h2>
-      </header>
-      {{ range .Pages }}
-        {{ .Render "item" }}
-      {{ end }}
-    </div>
-  {{ end }}
-  <div class="">
-    {{ partial "pagination.html" . }}
-  </div>
+{{ $paginator := .Paginate (where (where (where .Site.AllPages "Type" .Type) "Kind" "==" "page") ".Params.archived" "!=" true) 2500 }}
+{{ range $paginator.Pages.GroupByDate (.Params.groupBy | default "2006") }}
+<div class="max-w-2xl mb-8">
+  <h2 id="{{ .Key }}" class="font-sans text-[11px] font-semibold tracking-[.15em] uppercase text-gray-400 dark:text-gray-500 mb-3">{{ .Key }}</h2>
+  <ul class="space-y-3">
+    {{ range .Pages }}
+    {{ $href := .RelPermalink }}
+    {{ with .Params.bookmarkOf }}{{ $href = . }}{{ end }}
+    <li>
+      <div class="flex items-baseline justify-between gap-4">
+        <a href="{{ $href }}" class="no-underline text-ink dark:text-gray-100 font-medium hover:opacity-50 transition-opacity duration-150 text-[17px] leading-snug">{{ .Title }}</a>
+        {{ with .Params.domain }}<span class="flex-none font-mono text-xs text-gray-500 dark:text-gray-500 whitespace-nowrap">{{ . }}</span>{{ end }}
+      </div>
+      {{ with .Content }}<p class="text-[16px] italic text-gray-500 dark:text-gray-400 mt-0.5 leading-snug">{{ . | plainify | strings.TrimSpace }}</p>{{ end }}
+    </li>
+    {{ end }}
+  </ul>
 </div>
+{{ end }}
+{{ partial "pagination.html" . }}
 {{ end }}
