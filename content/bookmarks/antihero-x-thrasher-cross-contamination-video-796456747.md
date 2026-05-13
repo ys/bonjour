@@ -2,6 +2,7 @@
 uuid: 796456747
 bookmarkOf: https://youtu.be/-XDthMjB1iI
 category: video
+collection: SKATEBOARDING
 headImage: https://i.ytimg.com/vi/-XDthMjB1iI/maxresdefault.jpg
 title: Antihero X Thrasher "Cross Contamination" Video
 domain: youtu.be

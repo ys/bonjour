@@ -2,6 +2,7 @@
 uuid: 645601532
 bookmarkOf: https://notes.ashsmash.com/
 category: link
+collection: ART & CULTURE
 headImage: https://notes.ashsmash.com/placeholder-social.jpg
 title: Notes from Ash Huang
 domain: notes.ashsmash.com

@@ -2,6 +2,7 @@
 uuid: 879052628
 bookmarkOf: https://tokyotreat.com/minimart/products/slice-of-japan-24-days-of-adventure-advent-calendar?utm_source=facebook&utm_medium=cpc&utm_campaign=%5BTT%5D+Advent+Calendar+A%2B&utm_content=AC+-+Manga+Box+%234+%5BCRSL%5D&campaign_id=120213448628910300&ad_id=120213450955960300
 category: link
+collection: TRAVEL
 headImage: https://tokyotreat.com/_next/static/media/og-image.c4749878.png
 title: 'Slice of Japan: 24 Days of Adventure Advent Calendar | Mini Mart | TokyoTreat'
 domain: tokyotreat.com

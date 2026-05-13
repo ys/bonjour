@@ -2,6 +2,7 @@
 uuid: 827318367
 bookmarkOf: https://www.youtube.com/watch?v=OwDwqMT1SKE
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/OwDwqMT1SKE/maxresdefault.jpg
 title: Au Maroc, surfeurs et artistes face à l'insta-gentrification | Tracks | ARTE
 domain: youtube.com

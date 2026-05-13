@@ -2,6 +2,7 @@
 uuid: 919952316
 bookmarkOf: https://www.youtube.com/watch?v=w-Z86vZZO4g
 category: video
+collection: ART & CULTURE
 headImage: https://i.ytimg.com/vi/w-Z86vZZO4g/maxresdefault.jpg
 title: OUT OF OFFICE
 domain: youtube.com

@@ -2,6 +2,7 @@
 uuid: 645601679
 bookmarkOf: https://www.youtube.com/watch?v=yHrspJHTyGY
 category: video
+collection: SKATEBOARDING
 headImage: https://i.ytimg.com/vi/yHrspJHTyGY/maxresdefault.jpg
 title: 'SMiLe Interviews : Brian Anderson'
 domain: youtube.com

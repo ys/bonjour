@@ -2,6 +2,7 @@
 uuid: 1571861094
 bookmarkOf: https://walzr.com/sf-graffiti
 category: link
+collection: ART & CULTURE
 headImage: https://rdl.ink/render/https%3A%2F%2Fwalzr.com%2Fsf-graffiti
 title: San Francisco Graffiti
 domain: walzr.com

@@ -2,6 +2,7 @@
 uuid: 732468615
 bookmarkOf: https://youtube.com/watch?v=_EeAJIxkLew&feature=shared
 category: video
+collection: SKATEBOARDING
 headImage: https://i.ytimg.com/vi/_EeAJIxkLew/maxresdefault.jpg
 title: Skateboarding and Soccer with New York City's Chinatown Soccer Club
 domain: youtube.com

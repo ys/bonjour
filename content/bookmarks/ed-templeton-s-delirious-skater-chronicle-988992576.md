@@ -2,6 +2,7 @@
 uuid: 988992576
 bookmarkOf: https://aperture.org/editorial/ed-templetons-delirious-skater-chronicle?__readwiseLocation=
 category: article
+collection: PHOTOGRAPHY
 headImage: https://aperture.org/wp-content/uploads/2024/02/Aperture_Templeton_WiresCrossed_003.jpg
 title: Ed Templeton’s Delirious Skater Chronicle
 domain: aperture.org

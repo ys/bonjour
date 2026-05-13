@@ -2,6 +2,7 @@
 uuid: 1043753608
 bookmarkOf: https://www.youtube.com/watch?v=NqVwF6oLM10
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/NqVwF6oLM10/maxresdefault.jpg
 title: Small, Windy Fun at The Pass
 domain: youtube.com

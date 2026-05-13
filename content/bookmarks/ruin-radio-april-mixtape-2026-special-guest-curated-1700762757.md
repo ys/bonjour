@@ -2,6 +2,7 @@
 uuid: 1700762757
 bookmarkOf: https://www.mixcloud.com/rruin/april-mixtape-2026-special-guest-curated-by-ed-templeton/
 category: link
+collection: ART & CULTURE
 headImage: https://thumbnailer.mixcloud.com/unsafe/1200x628/filters:watermark(graphics/play-button-scaled.png,300,14,0)/extaudio/c/5/7/8/4cbf-72e8-4d75-83ac-6303119331e6
 title: 'RUIN RADIO APRIL MIXTAPE 2026: SPECIAL GUEST CURATED BY ED TEMPLETON'
 domain: mixcloud.com

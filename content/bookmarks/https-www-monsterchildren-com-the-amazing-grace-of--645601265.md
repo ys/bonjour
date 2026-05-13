@@ -2,6 +2,7 @@
 uuid: 645601265
 bookmarkOf: https://www.monsterchildren.com/the-amazing-grace-of-beatrice-domond/
 category: link
+collection: SURF
 headImage: ''
 title: https://www.monsterchildren.com/the-amazing-grace-of-beatrice-domond/
 domain: monsterchildren.com

@@ -2,6 +2,7 @@
 uuid: 645601716
 bookmarkOf: https://www.surfersjournal.com/editorial/soundings-takuji-masuda/
 category: article
+collection: SURF
 headImage: https://media.surfersjournal.com/wp-content/uploads/2023/06/27111521/Takuji-200.png
 title: Takuji Masuda
 domain: surfersjournal.com

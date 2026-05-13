@@ -43,6 +43,7 @@
     created: '2026-05-12T03:25:19.045Z'
     size: 8496285
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 1715344940
   link: https://finisterre.com/blogs/broadcast/the-making-of-gwynnik
@@ -86,6 +87,7 @@
     retryAfter: '2026-05-13T20:25:20.524Z'
     status: retry
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 1713371219
   link: https://www.youtube.com/watch?v=FvKHh3ujwBY
@@ -125,6 +127,7 @@
   cache:
     status: invalid-origin
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 1700762757
   link: https://www.mixcloud.com/rruin/april-mixtape-2026-special-guest-curated-by-ed-templeton/
@@ -197,6 +200,7 @@
     size: 538673
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 1698661193
   link: https://www.youtube.com/watch?v=q6sa6pWz1NQ
@@ -236,6 +240,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 1696822283
   link: https://redcanarycollective.org/magazine/the-inferno/
@@ -284,6 +289,7 @@
     created: '2026-04-28T05:28:36.787Z'
     size: 9724903
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 1681019526
   link: https://stphoto94.substack.com/p/how-to-waste-the-morning-at-san-o
@@ -325,6 +331,7 @@
     size: 6799424
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 1669176271
   link: https://www.youtube.com/watch?v=6YkawYnsq4U
@@ -365,6 +372,7 @@
   cache:
     status: invalid-origin
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 1665787514
   link: https://www.youtube.com/watch?v=C9-kzA25-pE
@@ -402,6 +410,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 1665784728
   link: https://www.youtube.com/watch?v=3op_IrFJ_ms
@@ -438,6 +447,7 @@
   cache:
     status: invalid-origin
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 1655897737
   link: https://www.youtube.com/watch?v=poSdDTfT_3Q
@@ -477,6 +487,7 @@
   cache:
     status: invalid-origin
   collectionId: 37576903
+  collection_name: COFFEE & FOOD
   parsed: {}
 - _id: 1641866765
   link: https://www.youtube.com/watch?v=4q8wZ15ALz4
@@ -517,6 +528,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 1582344288
   link: https://www.youtube.com/watch?v=pQjK7O78_B0
@@ -557,6 +569,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37576903
+  collection_name: COFFEE & FOOD
   parsed: {}
 - _id: 1571861094
   link: https://walzr.com/sf-graffiti
@@ -594,6 +607,7 @@
     size: 5772065
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 1556774210
   link: https://www.youtube.com/watch?v=jCEEPoNSyLQ&list=WL&index=6
@@ -634,6 +648,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 1556667619
   link: https://www.surfersjournal.com/editorial/james-nestor/
@@ -673,6 +688,7 @@
     size: 4016923
   broken: false
   collectionId: 36103677
+  collection_name: BOOKS
   parsed: {}
 - _id: 1540583165
   link: https://www.youtube.com/watch?v=Oj5eUuLGfWk&list=WL&index=2
@@ -713,6 +729,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37576903
+  collection_name: COFFEE & FOOD
   parsed: {}
 - _id: 1539964038
   link: https://wantmymtv.vercel.app/player.html?fbclid=PAVERFWAPSTVtzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAacHJHIVJl58-orzjGtLboibHRq4WoCL8TjJ4nasEsPDM2mCUOlo06aRJPys7Q
@@ -751,6 +768,7 @@
     size: 4538048
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 1530549093
   link: https://www.instagram.com/reel/DTNQAR8D8Mm/?igsh=MjdlZXc3NDlsa3Zw
@@ -791,6 +809,7 @@
     size: 1452952
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 1520818019
   link: https://mushroomcompadres.com/?utm_medium=paid&utm_id=120237464427280361&utm_content=120238704881990361&utm_term=120237464427270361&utm_campaign=120237464427280361&fbclid=PAdGRleAPEZp9hZGlkAassd3IJaylzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAacrvJYrCLVc7krGOzQvztw2odnzIYIAw9YTMYAYIXzDjKcJS5qCDr6zt5SyRw&brid=samlCVgNttu4E6be4zJr6w&utm_source=facebook&campaign_id=120237464427280361&ad_id=120238704881990361
@@ -839,6 +858,7 @@
     size: 10510527
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 1518844500
   link: https://www.youtube.com/watch?v=zFS29bUVKnE
@@ -881,6 +901,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 1511575263
   link: https://www.skool.com/skateiq/about?utm_id=120237261221220255&utm_term=120237261221230255&fbclid=PAdGRleAO8cQphZGlkAasss120-79zcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAae8q4Ubl4ZJ33ZePlW5SNvEAuK7BClhWwnCikJqOQTB_gsewxFVncZVj2vbLg&brid=W0Ps-pNvsLxk3Y3uLsHePw&campaign_id=120237261221220255&ad_id=120238963695630255
@@ -918,6 +939,7 @@
     size: 3768669
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 1494770139
   link: https://www.youtube.com/watch?v=ggC60RheNKk&list=WL&index=16
@@ -959,6 +981,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 1494756985
   link: https://www.youtube.com/watch?v=s9xZM4ua7FM
@@ -998,6 +1021,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136914
+  collection_name: HOME
   parsed: {}
 - _id: 1485176197
   link: https://www.youtube.com/watch?v=dut1q5cMAKc
@@ -1038,6 +1062,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 1480224222
   link: https://nobodysurf.com/animal-garden-thomas-surfboards-crew-logging-in-sri-lanka/
@@ -1078,6 +1103,7 @@
     size: 233986
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 1468338171
   link: https://www.youtube.com/watch?v=9PxaPNHo0-8
@@ -1117,6 +1143,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 1468260128
   link: https://www.youtube.com/watch?v=GimHXc3zlEE
@@ -1156,6 +1183,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 1461357791
   link: https://www.youtube.com/watch?v=lkS0-AR7aFM
@@ -1195,6 +1223,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 1461317419
   link: https://www.youtube.com/watch?v=IESveEMI1RE
@@ -1234,6 +1263,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 1437697471
   link: https://www.youtube.com/watch?v=HcBpo7iVUak
@@ -1274,6 +1304,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 1435868505
   link: https://m.youtube.com/watch?v=po4YeB_vQYc
@@ -1314,6 +1345,7 @@
     size: 5969921
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 1433036837
   link: https://www.youtube.com/watch?v=yf4OjpcGRhc
@@ -1357,6 +1389,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 1431918868
   link: https://youtube.com/watch?v=7odWkvEFPzc&si=F7EMW1BKzUYszYFx
@@ -1395,6 +1428,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 1419785354
   link: https://youtu.be/wdvxC_Sjw8Y?si=YQXyzJ-L9FAZr9bW
@@ -1434,6 +1468,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 1388301026
   link: https://www.youtube.com/watch?v=UchrsswbDgw
@@ -1473,6 +1508,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679925
+  collection_name: TRAVEL
   parsed: {}
 - _id: 1386385601
   link: https://www.papachiche.com/blogs/ceci-est-le-blog-2/perte-de-poids-et-proteines-le-duo-gagnant?utm_medium=paid&utm_id=120215090595610759&utm_content=120234380633330759&utm_term=120215090595630759&utm_campaign=120215090595610759&fbclid=PAdGRleANZ1lBleHRuA2FlbQEwAGFkaWQBqyjYqZ3W5wGniZKvTQsvOgotNuxIq6QpDZ_VyvcCGJAH30_ix7q3h25ivNaZj4UbgpFh_Xc_aem_b2yxTfKEBluFE2SEpRth3Q&utm_source=facebook
@@ -1512,6 +1548,7 @@
     size: 998260
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 1384983394
   link: https://www.leorattez.com/
@@ -1548,6 +1585,7 @@
     size: 2153755
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 1369554469
   link: https://surfrepotes.fr/forum/articles-interviews-surf/interview-barbes-surf-club-t10212.html
@@ -1594,6 +1632,7 @@
     size: 49856872
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 1357577714
   link: https://www.youtube.com/watch?v=GDQ_F8yIRQ4&list=WL&index=2
@@ -1633,6 +1672,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 1353497317
   link: https://www.youtube.com/watch?v=XtIRrHmNUZA
@@ -1673,6 +1713,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 1353208401
   link: https://www.youtube.com/watch?v=RiSFA42vvBI
@@ -1719,6 +1760,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136914
+  collection_name: HOME
   parsed: {}
 - _id: 1351830132
   link: https://www.youtube.com/watch?v=uA1zhlQj6pA
@@ -1758,6 +1800,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 1349720324
   link: https://www.youtube.com/watch?v=VH1hHfOqEqc
@@ -1797,6 +1840,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 1335733817
   link: https://www.youtube.com/watch?v=KjKr4IawndA&list=WL&index=13
@@ -1837,6 +1881,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 1335072419
   link: https://youtube.com/watch?v=4MFKkATK2Hs&si=5YbpNxMDUs8hqK4D
@@ -1875,6 +1920,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 1326277630
   link: https://lawsonchapman.substack.com/p/pursuit-of-the-ordinary
@@ -1916,6 +1962,7 @@
     size: 2907216
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 1324603859
   link: https://youtube.com/watch?v=j29tGv3d53A&si=ZXeYbPwNY4mBWbhu
@@ -1954,6 +2001,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 1324379131
   link: https://www.youtube.com/watch?v=shLzWTecmpM
@@ -1994,6 +2042,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 1319725519
   link: https://baty.net/posts/2025/08/its-just-that-i-prefer-film/
@@ -2032,6 +2081,7 @@
     size: 539453
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 1317980440
   link: https://filmfreeway.com/Buoyancy-ASurfStoryFromTaiwan
@@ -2072,6 +2122,7 @@
     status: invalid-timeout
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 1308606936
   link: https://open.substack.com/pub/thehyphen/p/the-most-days-theory?r=5cjn3&utm_medium=ios
@@ -2112,6 +2163,7 @@
     size: 2516375
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 1296252923
   link: https://www.youtube.com/watch?v=NgPY0zNODN8
@@ -2152,6 +2204,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 1294587859
   link: https://www.youtube.com/watch?v=NbxvGWjMPG0
@@ -2192,6 +2245,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 1294587294
   link: https://www.youtube.com/watch?v=gaOiBCvVqgs&t=2s
@@ -2232,6 +2286,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 1272299724
   link: https://beinthescene.com/kerouacsroad/
@@ -2270,6 +2325,7 @@
     size: 3582213
   broken: false
   collectionId: 37679925
+  collection_name: TRAVEL
   parsed: {}
 - _id: 1270850565
   link: https://open.substack.com/pub/oncein/p/the-london-recommendations-i-send?r=5cjn3&utm_medium=ios
@@ -2310,6 +2366,7 @@
     size: 7240344
   broken: false
   collectionId: 37679925
+  collection_name: TRAVEL
   parsed: {}
 - _id: 1269871618
   link: https://www.youtube.com/watch?v=cF0-xOWOnFU
@@ -2348,6 +2405,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 1256967021
   link: https://www.youtube.com/watch?v=5f5hFJ4fLPI
@@ -2388,6 +2446,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 1192554780
   link: https://youtube.com/watch?v=vCjo4saMVMg&si=f-yHDeTe_Kg9ZdH1
@@ -2425,6 +2484,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 1182961465
   link: https://www.wearelookingsideways.com/p/insights-how-photographers-really-db3
@@ -2502,6 +2562,7 @@
     size: 2770652
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 1174075258
   link: https://www.youtube.com/watch?v=wXed4e5uzwg
@@ -2541,6 +2602,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37576903
+  collection_name: COFFEE & FOOD
   parsed: {}
 - _id: 1170810653
   link: https://www.youtube.com/watch?v=-pt9hatF6Zg&t=562s
@@ -2581,6 +2643,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37576903
+  collection_name: COFFEE & FOOD
   parsed: {}
 - _id: 1141566683
   link: https://www.youtube.com/watch?v=3gNph25gxhw&list=PLjHRKTS-Q5-CeCo66kFGivBMF8qB8orPh&index=19
@@ -2622,6 +2685,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679925
+  collection_name: TRAVEL
   parsed: {}
 - _id: 1141304126
   link: https://www.youtube.com/watch?v=eUlmGYon5mk&list=PLjHRKTS-Q5-CeCo66kFGivBMF8qB8orPh&index=25&t=22s
@@ -2663,6 +2727,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679925
+  collection_name: TRAVEL
   parsed: {}
 - _id: 1139064411
   link: https://youtube.com/watch?v=jdJkJ7cZdkI&si=CSKk65B9TOfmtC9c
@@ -2702,6 +2767,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679925
+  collection_name: TRAVEL
   parsed: {}
 - _id: 1137424788
   link: https://www.youtube.com/watch?v=XfJkMTVWu3U
@@ -2743,6 +2809,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 1132981285
   link: https://youtube.com/watch?v=gqxX2-yL0PE&si=6S5FsAU2FpOpPQ0D
@@ -2782,6 +2849,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 1126330339
   link: https://www.youtube.com/watch?v=4Pt0WUv-K3E
@@ -2821,6 +2889,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 1081224744
   link: https://www.youtube.com/watch?v=0UVvnbid7uc
@@ -2861,6 +2930,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 1045947663
   link: https://youtube.com/watch?v=Z0y231icJhQ&si=F_Q2E8hNFFgpzsOP
@@ -2898,6 +2968,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 1044948771
   link: https://www.youtube.com/watch?v=oxSbXoz-BFE
@@ -2938,6 +3009,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 1043754508
   link: https://www.youtube.com/watch?v=M30eOMGqIkc
@@ -2976,6 +3048,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 1043753608
   link: https://www.youtube.com/watch?v=NqVwF6oLM10
@@ -3015,6 +3088,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 1041889306
   link: https://www.youtube.com/watch?v=3coGS0jn0Vk
@@ -3053,6 +3127,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 1032391750
   link: https://youtube.com/watch?v=-x9SBCODnOA&si=SI9NQpxTGrcdMnyW
@@ -3092,6 +3167,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 1029345512
   link: https://www.youtube.com/watch?v=W_tqf570tss
@@ -3135,6 +3211,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679925
+  collection_name: TRAVEL
   parsed: {}
 - _id: 1028037742
   link: https://youtube.com/watch?v=3tVtlco6VZY&si=9nDMvjVPeSggA3p0
@@ -3173,6 +3250,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 1026996074
   link: https://www.youtube.com/watch?v=fr8ZTK980zY
@@ -3215,6 +3293,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 999371951
   link: https://youtube.com/watch?v=fmr_hhZ7RpE&si=VoHUiORiD6-wm4aL
@@ -3255,6 +3334,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 996951437
   link: https://libraryman.se/romain-laprade-no-water/
@@ -3297,6 +3377,7 @@
     size: 332127
   broken: false
   collectionId: 36103677
+  collection_name: BOOKS
   parsed: {}
 - _id: 994893321
   link: https://www.youtube.com/watch?v=5EolHiQa2lo&list=WL&index=6
@@ -3336,6 +3417,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 993879852
   link: https://www.youtube.com/watch?v=zCJEtSVfJ2Y
@@ -3374,6 +3456,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 992665757
   link: https://www.youtube.com/watch?v=JAv5ChlwJ68&list=WL&index=12
@@ -3412,6 +3495,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 988993064
   link: https://www.surfersjournal.com/editorial/soundings-ed-templeton/
@@ -3455,6 +3539,7 @@
     size: 3553464
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 988992576
   link: https://aperture.org/editorial/ed-templetons-delirious-skater-chronicle?__readwiseLocation=
@@ -3498,6 +3583,7 @@
     size: 34107163
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 988992467
   link: https://lovetheindies.com/p/say-goodbye-to-the-scroll?_bhlid=7cb735f123f7ebf5bce9fac338c80d4ea9ad5646&utm_campaign=from-instagram-to-zines-a-new-way-to-showcase-your-photography&utm_medium=newsletter&utm_source=lovetheindies.com&__readwiseLocation=
@@ -3538,6 +3624,7 @@
     size: 1234114
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 988992215
   link: https://wesley.substack.com/p/156-how-to-make-more-scroll-less?r=5cjn3&utm_medium=ios&triedRedirect=true&__readwiseLocation=
@@ -3580,6 +3667,7 @@
     size: 5766626
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 988991014
   link: https://www.theinertia.com/features/dark-side-of-the-lens-surf-photographer-confronts-mental-health/?__readwiseLocation=
@@ -3621,6 +3709,7 @@
     size: 1116977
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 988990254
   link: https://www.npr.org/sections/planet-money/2025/01/14/g-s1-42171/this-skateboarding-economist-suggests-we-need-more-skateparks-and-less-capitalism?utm_source=substack&utm_medium=email&__readwiseLocation=
@@ -3662,6 +3751,7 @@
     size: 10290643
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 988989282
   link: https://www.halfhill.com/proof.html?__readwiseLocation=
@@ -3700,6 +3790,7 @@
     size: 133855
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 988988398
   link: https://lovetheindies.com/p/contact-sheets?_bhlid=7c41c9274797d6cc0e6d12bb185ec6fb81a617e5&last_resource_guid=Post%3Ad857cf0a-cae0-4575-9245-ac772100175f&utm_campaign=turn-your-contact-sheets-into-art-the-darkroom-trick-you-ll-love&utm_medium=newsletter&utm_source=lovetheindies.com&__readwiseLocation=
@@ -3741,6 +3832,7 @@
     size: 657385
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 988988285
   link: https://www.monsterchildren.com/articles/a-photographer-you-should-know-steven-stinson?__readwiseLocation=
@@ -3781,6 +3873,7 @@
     size: 12052914
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 988988248
   link: https://marnierayskooks.substack.com/p/the-beginners-guide-to-surf-etiquette?r=5cjn3&utm_medium=ios&triedRedirect=true&__readwiseLocation=
@@ -3823,6 +3916,7 @@
     size: 3359721
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 988988199
   link: https://sethhughes.substack.com/p/returning-to-social-media-after-a?r=5cjn3&utm_medium=ios&triedRedirect=true&__readwiseLocation=
@@ -3866,6 +3960,7 @@
     status: invalid-origin
   broken: true
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 988988029
   link: https://craigmod.com/ridgeline/203/?__readwiseLocation=
@@ -3906,6 +4001,7 @@
     size: 3278318
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 988987946
   link: https://www.monsterchildren.com/articles/scene-kohei-hayashis-spirits-of-yokohama?__readwiseLocation=
@@ -3946,6 +4042,7 @@
     size: 27982639
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 987894153
   link: https://www.youtube.com/watch?v=Sq0lLVihPqY
@@ -3984,6 +4081,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 985659204
   link: https://www.itsamyliz.com/journal/how-to-cyanotypes?utm_source=substack&utm_medium=email
@@ -4025,6 +4123,7 @@
     size: 31686996
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 981986225
   link: https://psychblues.com/film
@@ -4063,6 +4162,7 @@
     size: 5405583
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 981874164
   link: https://www.youtube.com/watch?v=gSoM46oufhc
@@ -4101,6 +4201,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 981868223
   link: https://www.youtube.com/watch?v=JC3XpurwlRE
@@ -4139,6 +4240,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 979250141
   link: https://katebellm.com/index.html#!/home
@@ -4177,6 +4279,7 @@
     size: 1483927
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 979249189
   link: https://www.monsterchildren.com/articles/revisit-the-kate-bellm-interview
@@ -4228,6 +4331,7 @@
     size: 17107958
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 978382904
   link: https://www.youtube.com/watch?v=hywUe8GHbxc
@@ -4269,6 +4373,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 968455361
   link: https://youtube.com/watch?v=Pkr5A_UZElE&si=oot_xGYnzzTkE_q5
@@ -4307,6 +4412,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 953119611
   link: https://www.youtube.com/watch?v=Vd7ssAtckko
@@ -4348,6 +4454,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 950728192
   link: https://www.youtube.com/watch?v=8ZU8nTC7zXs&list=WL&index=2
@@ -4414,6 +4521,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 948392287
   link: https://www.theguardian.com/commentisfree/2025/jan/16/i-knew-one-day-id-have-to-watch-powerful-men-burn-the-world-down-i-just-didnt-expect-them-to-be-such-losers
@@ -4456,6 +4564,7 @@
     size: 666481
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 948139281
   link: https://youtube.com/watch?v=nAr0VW2KXXA&si=FCxDgIWE1uwyWYST
@@ -4493,6 +4602,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 947948153
   link: https://youtube.com/watch?v=MOEULOSVNK4&si=AwMdT1kJF9B0O0o8
@@ -4531,6 +4641,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 946877581
   link: https://www.youtube.com/watch?v=EWkGYormb34
@@ -4590,6 +4701,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 945694717
   link: https://www.surfersjournal.com/editorial/noseride-obsessive/
@@ -4630,6 +4742,7 @@
     size: 3607985
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 945692321
   link: https://substack.com/home/post/p-153445871
@@ -4672,6 +4785,7 @@
     size: 3093332
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 945683416
   link: https://www.simplemagic.ca/doubles-the-state-of-skate-videos/?ref=simple-magic-newsletter&__readwiseLocation=#ghost-comments
@@ -4718,6 +4832,7 @@
     size: 351704
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 945683117
   link: https://stphoto94.substack.com/p/living-creatively
@@ -4760,6 +4875,7 @@
     size: 4249237
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 945286404
   link: https://open.substack.com/pub/lookingsideways/p/the-announcement-episode-1-decision?r=5cjn3&utm_medium=ios
@@ -4801,6 +4917,7 @@
     size: 4443141
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 944531858
   link: https://youtube.com/watch?v=nlQQxvfSotQ&si=0uNuUXrX2v3vQwU2
@@ -4849,6 +4966,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 942326161
   link: https://www.youtube.com/watch?v=GlKSr6KY1IU
@@ -4894,6 +5012,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 941393219
   link: https://www.eos.surf/
@@ -4940,6 +5059,7 @@
     size: 255837
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 938887627
   link: https://www.youtube.com/watch?v=UUJQPKvrVfk&list=WL&index=5
@@ -4999,6 +5119,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 936034139
   link: https://www.instagram.com/p/DES-ElBtr9X/
@@ -5069,6 +5190,7 @@
     size: 1563484
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 935030256
   link: https://www.youtube.com/watch?v=xJunTbay6Jc
@@ -5127,6 +5249,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 935029207
   link: https://www.youtube.com/watch?v=tC-aST6A194
@@ -5192,6 +5315,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 933274355
   link: https://www.newyorker.com/culture/infinite-scroll/have-iphone-cameras-become-too-smart
@@ -5248,6 +5372,7 @@
     size: 13021016
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 933002329
   link: https://www.bbc.com/news/articles/crmz42pjpnjo
@@ -5288,6 +5413,7 @@
     size: 540411
   broken: false
   collectionId: 37576903
+  collection_name: COFFEE & FOOD
   parsed: {}
 - _id: 933000054
   link: https://climateandboardsports.substack.com/p/yulex-doesnt-want-to-see-neoprene
@@ -5344,6 +5470,7 @@
     size: 4007775
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 932999813
   link: https://www.flakphoto.news/p/im-addicted-to-paper
@@ -5386,6 +5513,7 @@
     size: 3765862
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 932999600
   link: https://stphoto94.substack.com/p/toy-camera?utm_medium=web
@@ -5428,6 +5556,7 @@
     size: 7737011
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 932999363
   link: https://substack.com/@tonybutt/p-152314357
@@ -5469,6 +5598,7 @@
     size: 2317077
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 925588700
   link: https://www.youtube.com/watch?v=DCTNlh-3hKw
@@ -5516,6 +5646,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136914
+  collection_name: HOME
   parsed: {}
 - _id: 925572786
   link: https://www.scienceofsurfing.com/p/sharks-nearby
@@ -5561,6 +5692,7 @@
     size: 2583658
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 925571935
   link: https://www.monsterchildren.com/articles/rewatch-ten-things-i-hate-with-mike-anderson
@@ -5601,6 +5733,7 @@
     size: 5180497
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 925571266
   link: https://www.scienceofsurfing.com/p/ocean-smell
@@ -5644,6 +5777,7 @@
     size: 2805396
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 925570613
   link: https://www.youtube.com/watch?v=7vAiloW7phc
@@ -5684,6 +5818,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136914
+  collection_name: HOME
   parsed: {}
 - _id: 924325372
   link: https://macwright.com/2024/12/03/i-want-brands
@@ -5730,6 +5865,7 @@
     size: 46419
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 924194378
   link: https://www.youtube.com/watch?v=idJ2ItbS-oQ
@@ -5774,6 +5910,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 920904362
   link: https://open.substack.com/pub/lookingsideways/p/episode-243-chris-nelson-marching?r=5cjn3&utm_medium=ios
@@ -5815,6 +5952,7 @@
     size: 3774648
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 920848986
   link: https://www.youtube.com/watch?v=liEHmEAwzs4
@@ -5861,6 +5999,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 919952316
   link: https://www.youtube.com/watch?v=w-Z86vZZO4g
@@ -5910,6 +6049,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 915661959
   link: https://www.fieldmag.com/articles/yellowstone-peaks-hotel-review-island-park-idaho
@@ -5950,6 +6090,7 @@
     size: 241265
   broken: false
   collectionId: 37679925
+  collection_name: TRAVEL
   parsed: {}
 - _id: 914360467
   link: https://www.interroban.gg/post/how-i-bookmark/
@@ -5989,6 +6130,7 @@
     size: 182404
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 914204317
   link: https://blog.ayjay.org/substack-vs-indie/
@@ -6024,6 +6166,7 @@
     size: 644187
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 914043877
   link: https://open.substack.com/pub/stphoto94/p/cool-water?selection=ce1ce0d1-6f9e-4765-b156-0d90b7a60651&r=5cjn3&utm_medium=ios
@@ -6063,6 +6206,7 @@
     size: 2696850
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 913838714
   link: https://nora.zone/manifesto.html
@@ -6102,6 +6246,7 @@
     size: 47243
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 913075396
   link: https://www.youtube.com/watch?v=MbF5dyU96CE
@@ -6159,6 +6304,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 912917331
   link: https://substack.com/home/post/p-152340290
@@ -6226,6 +6372,7 @@
     size: 2921693
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 911431124
   link: https://www.youtube.com/watch?v=8uhZber08S4&list=WL&index=1
@@ -6277,6 +6424,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 906145773
   link: https://www.youtube.com/watch?v=-0YQb8Gb1jQ
@@ -6321,6 +6469,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 905568712
   link: https://barbessurfclub.com/a14isout/
@@ -6365,6 +6514,7 @@
     size: 557875
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 898792088
   link: https://www.nts.live/shows/guests/episodes/ed-templeton-14th-october-2024?__readwiseLocation=
@@ -6415,6 +6565,7 @@
     size: 3953307
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 896621950
   link: https://www.youtube.com/watch?app=desktop&v=UdzW7DBnZx0
@@ -6458,6 +6609,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 895948848
   link: https://nobodysurf.com/natsu-no-owari-with-kenta-ishikawa/
@@ -6499,6 +6651,7 @@
     size: 210977
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 893332746
   link: https://www.thatch.co/guide/12owtun1nsjqc/view
@@ -6539,6 +6692,7 @@
     size: 2130501
   broken: false
   collectionId: 37679925
+  collection_name: TRAVEL
   parsed: {}
 - _id: 892577919
   link: https://www.youtube.com/watch?v=azxOOBL_U4Y
@@ -6579,6 +6733,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136914
+  collection_name: HOME
   parsed: {}
 - _id: 890462433
   link: https://craigmod.com/roden/096/
@@ -6624,6 +6779,7 @@
     size: 749901
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 888913703
   link: https://www.scoutmotors.com/
@@ -6664,6 +6820,7 @@
     size: 15790996
   broken: false
   collectionId: 37576965
+  collection_name: GEAR
   parsed: {}
 - _id: 879052628
   link: https://tokyotreat.com/minimart/products/slice-of-japan-24-days-of-adventure-advent-calendar?utm_source=facebook&utm_medium=cpc&utm_campaign=%5BTT%5D+Advent+Calendar+A%2B&utm_content=AC+-+Manga+Box+%234+%5BCRSL%5D&campaign_id=120213448628910300&ad_id=120213450955960300
@@ -6714,6 +6871,7 @@
     size: 11010250
   broken: true
   collectionId: 37679925
+  collection_name: TRAVEL
   parsed: {}
 - _id: 875141950
   link: https://www.youtube.com/watch?app=desktop&v=_K23bjSjExI
@@ -6754,6 +6912,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 875127903
   link: https://www.surfsession.com/culture-surf/chris-gentile/
@@ -6794,6 +6953,7 @@
     status: invalid-origin
   broken: true
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 875127279
   link: https://www.experimental-history.com/p/why-arent-smart-people-happier
@@ -6838,6 +6998,7 @@
     size: 2810817
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 875127127
   link: https://www.newyorker.com/magazine/2024/09/23/the-art-of-taking-it-slow
@@ -6883,6 +7044,7 @@
     size: 14522259
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 875126884
   link: https://www.fantasticacid.com/sollers-surfing
@@ -6921,6 +7083,7 @@
     size: 131095
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 864661073
   link: https://www.youtube.com/watch?v=1JhMOnf5bgY
@@ -6968,6 +7131,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 860636471
   link: https://overcast.fm/+AA8TxzbJoiw
@@ -7010,6 +7174,7 @@
     size: 680956
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 859606975
   link: https://www.youtube.com/watch?v=_HtXHReDaTI
@@ -7083,6 +7248,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 858103628
   link: https://www.simplemagic.ca/complex-phenomena/
@@ -7121,6 +7287,7 @@
     size: 5607159
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 857287542
   link: https://www.youtube.com/watch?v=QDVmKn6kKts
@@ -7166,6 +7333,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37576903
+  collection_name: COFFEE & FOOD
   parsed: {}
 - _id: 857132084
   link: https://www.youtube.com/watch?v=J0bifo2nWFI
@@ -7229,6 +7397,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 856050362
   link: https://www.youtube.com/watch?v=_usvQvtJMLE
@@ -7302,6 +7471,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 851402552
   link: https://www.youtube.com/watch?v=a2iTdQmM7sI
@@ -7339,6 +7509,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136914
+  collection_name: HOME
   parsed: {}
 - _id: 849405926
   link: https://www.youtube.com/watch?v=8wrkIBG54l4&t=1913s
@@ -7380,6 +7551,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 848016706
   link: https://finisterre.com/blogs/broadcast/jeff-canham-colour-culture
@@ -7424,6 +7596,7 @@
     size: 5580815
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 848011662
   link: https://finisterre.com/blogs/broadcast/ming-hui-brown-keeping-it-local
@@ -7467,6 +7640,7 @@
     size: 3409708
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 848004898
   link: https://www.monsterchildren.com/articles/how-to-be-less-of-a-shit-all-the-time
@@ -7510,6 +7684,7 @@
     size: 4409372
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 848000040
   link: https://sfstandard.com/opinion/2024/08/15/skaters-mecca-embarcadero-plaza/
@@ -7555,6 +7730,7 @@
     size: 6181530
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 847991108
   link: https://climateandboardsports.substack.com/p/people-are-delighted-that-surf-tourism
@@ -7598,6 +7774,7 @@
     size: 2855606
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 847754383
   link: https://www.youtube.com/watch?v=ZP6yolq3jF8
@@ -7658,6 +7835,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 846745748
   link: https://surfgirlmag.com/family-time-surf-trip-mexico/
@@ -7700,6 +7878,7 @@
     size: 7274095
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 846738405
   link: https://www.wearelookingsideways.com/p/insights-how-creative-freelancers-523
@@ -7743,6 +7922,7 @@
     size: 3260995
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 846454492
   link: https://www.vox.com/culture/367059/raygun-olympic-controversy-breaking-corruption
@@ -7785,6 +7965,7 @@
     size: 787683
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 842570322
   link: https://departuremono.com/
@@ -7823,6 +8004,7 @@
     size: 1331520
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 841780357
   link: https://www.surfsession.com/culture-surf/demande-a-la-poussiere-le-recit-dun-trip-en-baja-california-signe-damien-castera/
@@ -7862,6 +8044,7 @@
     size: 1429977
   broken: true
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 841728940
   link: https://open.substack.com/pub/stphoto94/p/gypsy?r=5cjn3&utm_medium=ios
@@ -7903,6 +8086,7 @@
     size: 3646893
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 841541559
   link: https://www.nytimes.com/video/opinion/100000009382183/a-new-wave.html
@@ -7947,6 +8131,7 @@
     size: 1402917
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 840489796
   link: https://www.youtube.com/watch?v=0Xlvae-wZIA
@@ -7994,6 +8179,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 840012382
   link: https://www.wearelookingsideways.com/p/insights-how-creative-freelancers
@@ -8038,6 +8224,7 @@
     size: 3759069
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 839307562
   link: https://www.instagram.com/p/C-5U1Bvu8IM/
@@ -8102,6 +8289,7 @@
     size: 1452690
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 838094876
   link: https://oliviamfredricks.com/Open-Source
@@ -8142,6 +8330,7 @@
     size: 130464
   broken: false
   collectionId: 36103677
+  collection_name: BOOKS
   parsed: {}
 - _id: 838081173
   link: https://www.monsterchildren.com/articles/didi-director-sean-wang-talks-making-something-from-the-heart
@@ -8184,6 +8373,7 @@
     size: 5466471
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 838080148
   link: https://www.karlmackieshop.com/articles/10-surf-photography-tips-for-beginners
@@ -8227,6 +8417,7 @@
     size: 10159334
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 832449681
   link: https://www.surfsession.com/actu/edouard-delpero-et-damien-castera-explorent-la-baja-california/
@@ -8269,6 +8460,7 @@
     size: 17157297
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 832188852
   link: https://www.monsterchildren.com/articles/watch-memory-banks-episode-1-with-bella-gilchrist
@@ -8308,6 +8500,7 @@
     size: 5437312
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 832185441
   link: https://www.barnesandnoble.com/w/candid-observations-in-transcendentalism-jd-stroud/1146089842
@@ -8348,6 +8541,7 @@
     status: invalid-timeout
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 832161412
   link: https://www.simplemagic.ca/here-we-are-where-we-have-always-been/
@@ -8387,6 +8581,7 @@
     size: 397271
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 827354380
   link: https://www.youtube.com/watch?v=WM2KPVQZgiE
@@ -8443,6 +8638,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136914
+  collection_name: HOME
   parsed: {}
 - _id: 827346895
   link: https://www.youtube.com/watch?v=f1kysesvzTI
@@ -8490,6 +8686,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 827318367
   link: https://www.youtube.com/watch?v=OwDwqMT1SKE
@@ -8551,6 +8748,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 826006283
   link: https://www.youtube.com/watch?v=INQ--Af7Pts
@@ -8594,6 +8792,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37576965
+  collection_name: GEAR
   parsed: {}
 - _id: 818328379
   link: https://www.youtube.com/watch?v=LCjQsB0sDW8
@@ -8659,6 +8858,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 817807427
   link: https://www.youtube.com/watch?v=qRNATADvHG4
@@ -8721,6 +8921,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 817456716
   link: https://facultydept.com/
@@ -8761,6 +8962,7 @@
     size: 32712181
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 813447338
   link: https://vimeo.com/970123958
@@ -8809,6 +9011,7 @@
     size: 73979
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 807084651
   link: https://www.youtube.com/watch?v=fbNNnQZzJtg
@@ -8859,6 +9062,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679925
+  collection_name: TRAVEL
   parsed: {}
 - _id: 807074293
   link: https://www.youtube.com/watch?v=P_vI3FV1H4U
@@ -8904,6 +9108,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 803996271
   link: https://www.youtube.com/watch?v=9FhkimD1YLY&t=6s
@@ -9039,6 +9244,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 803015510
   link: https://www.dimensions.com.au/ps1/
@@ -9077,6 +9283,7 @@
     size: 11586136
   broken: false
   collectionId: 37136914
+  collection_name: HOME
   parsed: {}
 - _id: 802343272
   link: https://arestlesstransplant.substack.com/p/perfection-is-a-direction
@@ -9127,6 +9334,7 @@
     size: 9278129
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 800265523
   link: https://www.youtube.com/watch?v=ZqRFMSjsBeE
@@ -9168,6 +9376,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 797669808
   link: https://www.youtube.com/watch?v=HMGO5OXoLiA
@@ -9210,6 +9419,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 797114459
   link: https://soundcloud.com/inside-eurosima-podcast/damien-marly-et-julie-pollet-le-chipiron-a-la-landaise
@@ -9299,6 +9509,7 @@
     size: 742548
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 796592423
   link: https://www.youtube.com/watch?v=2j5RFFFINPA
@@ -9342,6 +9553,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37576903
+  collection_name: COFFEE & FOOD
   parsed: {}
 - _id: 796468101
   link: https://alexstrohl.substack.com/p/03-the-hawaii-no-one-sees
@@ -9384,6 +9596,7 @@
     size: 5732914
   broken: false
   collectionId: 37679925
+  collection_name: TRAVEL
   parsed: {}
 - _id: 796456747
   link: https://youtu.be/-XDthMjB1iI
@@ -9424,6 +9637,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 796312985
   link: https://www.youtube.com/watch?v=e9VhfTPcVaw
@@ -9468,6 +9682,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 794031241
   link: https://open.spotify.com/episode/6F1eUnonaI2GVPJ3s2lMVz?si=KHIofiKZTX2tP6Wkxn1vuQ&nd=1&dlsi=26291b7aa35348b2
@@ -9519,6 +9734,7 @@
     size: 837609
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 792722911
   link: https://www.youtube.com/watch?v=-eu9isLbeVU
@@ -9572,6 +9788,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 792265048
   link: https://www.youtube.com/watch?v=u_YiPKY8TRg
@@ -9617,6 +9834,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 790766530
   link: https://climateandboardsports.substack.com/p/an-electoral-period-is-when-we-have
@@ -9658,6 +9876,7 @@
     size: 3027944
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 790765796
   link: https://www.huckmag.com/article/joel-sternfelds-landmark-portrait-of-american-pathos-dreams
@@ -9699,6 +9918,7 @@
     size: 269727
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 790485451
   link: https://www.returntozerofilm.com/
@@ -9742,6 +9962,7 @@
     size: 3178260
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 790475688
   link: https://lawsonchapman.substack.com/p/on-doing-hard-things
@@ -9786,6 +10007,7 @@
     size: 5868162
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 790475253
   link: https://www.jenkemmag.com/home/2024/05/08/turning-classic-skate-soundtracks-into-a-radio-show-with-nts-skate-muzik/
@@ -9827,6 +10049,7 @@
     size: 16822389
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 786716974
   link: https://tiarebowman.com/about
@@ -9871,6 +10094,7 @@
     size: 3070136
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 786172781
   link: https://ia.net/topics/no-thanks
@@ -9943,6 +10167,7 @@
     size: 6352158
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 785216526
   link: https://www.youtube.com/watch?v=yAbbcRtZdlY
@@ -10024,6 +10249,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 782365917
   link: https://www.youtube.com/watch?v=yrv9dmWpNKA&list=WL&index=2
@@ -10075,6 +10301,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37576903
+  collection_name: COFFEE & FOOD
   parsed: {}
 - _id: 781720417
   link: https://bentsai.mmm.page/coffee
@@ -10124,6 +10351,7 @@
     size: 4019006
   broken: false
   collectionId: 37576903
+  collection_name: COFFEE & FOOD
   parsed: {}
 - _id: 781371988
   link: https://www.youtube.com/watch?v=g62tweFqDh0&list=PLjHRKTS-Q5-DBIKtFTzXdHr355duxbl7J&index=6
@@ -10180,6 +10408,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136914
+  collection_name: HOME
   parsed: {}
 - _id: 781280329
   link: https://www.youtube.com/watch?v=6cN2AYMbO1c
@@ -10233,6 +10462,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136914
+  collection_name: HOME
   parsed: {}
 - _id: 775414469
   link: https://lawsonchapman.substack.com/p/2-tips-on-raising-kids-and-some-random
@@ -10276,6 +10506,7 @@
     size: 2725567
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 775066459
   link: https://www.radiusbooks.org/limited-editions/p/barbara-bosworth-the-sea-limited-editions
@@ -10333,6 +10564,7 @@
     size: 2751514
   broken: false
   collectionId: 36103677
+  collection_name: BOOKS
   parsed: {}
 - _id: 774175284
   link: https://barbessurfclub.com/chebakia/
@@ -10382,6 +10614,7 @@
     size: 513131
   broken: false
   collectionId: 37576903
+  collection_name: COFFEE & FOOD
   parsed: {}
 - _id: 774097200
   link: https://www.youtube.com/watch?v=1pqALAxqUlk
@@ -10438,6 +10671,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136914
+  collection_name: HOME
   parsed: {}
 - _id: 772493321
   link: https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/
@@ -10477,6 +10711,7 @@
     size: 40039691
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 771926029
   link: https://becomingcrew.substack.com/p/episode-83-matt-barr-uncomfortable?utm_source=substack&utm_campaign=post_embed&utm_medium=web
@@ -10528,6 +10763,7 @@
     size: 3090312
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 771694611
   link: https://store.magnumphotos.com/collections/darkroom-prints?_kx=BjXY-JWj9J6B7bwOpQT0LYoYWPwIvKVwL_sOE7HX_0c.UjvSyZ
@@ -10579,6 +10815,7 @@
     size: 1077834
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 770852703
   link: https://indoek.com/article/surf-shacks-097-jim-ganzer/
@@ -10629,6 +10866,7 @@
     size: 3961848
   broken: true
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 770675699
   link: https://www.youtube.com/watch?v=5CXnNpPMKms
@@ -10669,6 +10907,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37576903
+  collection_name: COFFEE & FOOD
   parsed: {}
 - _id: 770599332
   link: https://www.youtube.com/watch?v=MxYqgGhbrYY
@@ -10713,6 +10952,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 770542769
   link: https://www.mayerowitz.io/blog/mario-meets-pareto
@@ -10755,6 +10995,7 @@
     size: 274056
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 767304167
   link: https://www.youtube.com/watch?v=ONdwyRs7IZo
@@ -10807,6 +11048,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136914
+  collection_name: HOME
   parsed: {}
 - _id: 767135739
   link: https://www.youtube.com/watch?v=LARqFhmRo6s
@@ -10849,6 +11091,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 766947776
   link: https://www.youtube.com/watch?v=oaKRBBpA4fw
@@ -10939,6 +11182,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37576903
+  collection_name: COFFEE & FOOD
   parsed: {}
 - _id: 766300760
   link: https://almondsurfboards.com/en-fr/blogs/news/how-do-you-find-more-time-to-surf?_kx=WJeE3QQCOcj1C5-kKTUTnVQwLixGXGjdFW4dPGeJnNo.Hb5zTY
@@ -10993,6 +11237,7 @@
     size: 1209694
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 765729457
   link: https://garden.mattstein.com/notes/i-can-t-afford-free-things
@@ -11042,6 +11287,7 @@
     size: 75167
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 764889305
   link: https://gitlab.com/Screwtapello/topaz-unicode
@@ -11086,6 +11332,7 @@
     size: 3647802
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 764325292
   link: https://www.youtube.com/watch?v=hrOeEdf41cE
@@ -11140,6 +11387,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136914
+  collection_name: HOME
   parsed: {}
 - _id: 764281782
   link: https://www.youtube.com/watch?v=El2t7jyzjJY
@@ -11197,6 +11445,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 764270611
   link: https://www.youtube.com/watch?v=XEYuOGI5zx8
@@ -11255,6 +11504,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 764076070
   link: https://www.vox.com/culture/2024/2/1/24056883/tiktok-self-promotion-artist-career-how-to-build-following
@@ -11300,6 +11550,7 @@
     size: 736964
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 763885098
   link: https://www.waterbear.com/watch/out-of-step
@@ -11353,6 +11604,7 @@
     size: 3519103
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 763391896
   link: https://www.youtube.com/watch?v=lUEsGwh1GC8
@@ -11413,6 +11665,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37576903
+  collection_name: COFFEE & FOOD
   parsed: {}
 - _id: 762800163
   link: https://m.youtube.com/watch?si=KmM1p73PD43jiPwm&v=9cGwttnCRBk&feature=youtu.be
@@ -11461,6 +11714,7 @@
     size: 2493025
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 761253965
   link: https://www.youtube.com/watch?v=vFpNJpmSHT0
@@ -11532,6 +11786,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 760413048
   link: https://www.joebrook.com/people
@@ -11582,6 +11837,7 @@
     size: 21079709
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 760398418
   link: https://www.youtube.com/watch?v=iwFMWWToDGM
@@ -11642,6 +11898,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 760377126
   link: https://www.blabacphoto.com/
@@ -11691,6 +11948,7 @@
     size: 58099586
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 759757675
   link: https://www.youtube.com/watch?v=HUwLluekjG4
@@ -11758,6 +12016,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 758872387
   link: https://youtube.com/watch?v=8gXpZmQ7j70&feature=shared
@@ -11797,6 +12056,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 758251275
   link: https://www.yogabody.com/stretching/?utm_source=facebook&utm_medium=video&utm_campaign=FB-SOS-RM&WickedSource=Facebook&WickedID=6552514699020
@@ -11836,6 +12096,7 @@
     size: 2129342
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 758081122
   link: https://github.com/ctrlcctrlv/TT2020
@@ -11881,6 +12142,7 @@
     size: 5361740
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 758055766
   link: https://www.youtube.com/watch?v=KCw-_ugEbZ4
@@ -11932,6 +12194,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 757993732
   link: https://kayserifserif.place/about/
@@ -11971,6 +12234,7 @@
     size: 53340
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 757993484
   link: https://www.youtube.com/watch?v=rPxTYqrHkdM&list=WL&index=1
@@ -12026,6 +12290,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 757664559
   link: https://www.youtube.com/watch?v=rFRPtA1eEio
@@ -12085,6 +12350,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 754549290
   link: https://www.youtube.com/watch?v=S1O96HeFcw4
@@ -12125,6 +12391,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 754057058
   link: https://www.youtube.com/watch?v=C14dyIks75E
@@ -12184,6 +12451,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 751866039
   link: https://www.fieldmag.com/articles/pacific-northwest-surf-photography
@@ -12226,6 +12494,7 @@
   broken: false
   duplicate: 645601334
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 751861941
   link: https://finisterre.com/blogs/broadcast/family-frontiers-an-irish-road-trip
@@ -12267,6 +12536,7 @@
     size: 6191694
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 751854730
   link: https://www.simplemagic.ca/what-is-a-skate-shop/
@@ -12307,6 +12577,7 @@
     size: 454401
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 751831183
   link: https://craigmod.com/essays/memberships_year_five/#fnref:11
@@ -12350,6 +12621,7 @@
     size: 7437551
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 750581349
   link: https://m.youtube.com/watch?si=jP4re4xyNUck3Mo9&v=_oYSiPBUuC8&feature=youtu.be
@@ -12397,6 +12669,7 @@
     size: 2481397
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 741252390
   link: https://www.youtube.com/watch?v=mH8rmkoOUCo
@@ -12445,6 +12718,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 741244927
   link: https://www.youtube.com/watch?v=1VDagq3KiSI
@@ -12485,6 +12759,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 740696778
   link: https://daftsocial.com/ys/
@@ -12525,6 +12800,7 @@
     size: 16752777
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 740249098
   link: https://www.youtube.com/watch?v=dBqK6e9A9bE
@@ -12612,6 +12888,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 740230709
   link: https://www.youtube.com/watch?v=4i8WENruig0
@@ -12668,6 +12945,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136914
+  collection_name: HOME
   parsed: {}
 - _id: 739327050
   link: https://www.surfyonder.com/stories/2024/2/19/mindset-surfing-and-fishing?fbclid=PAAaY0g82qVMeSDC4j4aRwTZwuc_c-mKJ225-lEpY3u_XU8YPM1FJMA25E9dc_aem_AXiqvuiF9CzUr4ALEbSfBBgNSoaws_g68fDKZQ40oJ0_4RshX0o1RP5z3zCcxA-FHI0
@@ -12727,6 +13005,7 @@
     size: 6782778
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 735567113
   link: https://fieldmag.herokuapp.com/articles/finisterre-scotland-surf-film-hireth
@@ -12768,6 +13047,7 @@
     created: '2026-03-18T12:55:03.467Z'
     size: 352531
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 734286684
   link: https://www.youtube.com/watch?v=06xafivFSe4
@@ -12812,6 +13092,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 734249329
   link: https://www.youtube.com/watch?v=gmwD6xzrk-w
@@ -12861,6 +13142,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 732468615
   link: https://youtube.com/watch?v=_EeAJIxkLew&feature=shared
@@ -12901,6 +13183,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 732465303
   link: https://youtube.com/watch?v=GYsELUKFlvc&feature=shared
@@ -12939,6 +13222,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 732460962
   link: https://youtube.com/watch?v=qfR46clM5BM&feature=shared
@@ -12980,6 +13264,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 731615656
   link: https://xwmx.github.io/nb/
@@ -13031,6 +13316,7 @@
     size: 32753189
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 730784014
   link: https://www.youtube.com/watch?v=syacvv6WItM
@@ -13071,6 +13357,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 730525444
   link: https://poetry.camera/
@@ -13113,6 +13400,7 @@
     size: 511941
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 730525389
   link: https://neal.fun/infinite-craft/
@@ -13157,6 +13445,7 @@
     size: 122983
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 730176179
   link: https://lookingsideways.substack.com/p/episode-223-thomas-campbell-redux
@@ -13200,6 +13489,7 @@
     size: 3001939
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 727691893
   link: https://jamesg.blog/2024/01/27/the-indie-web/
@@ -13245,6 +13535,7 @@
     size: 78383
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 727024939
   link: https://winnielim.org/journal/the-experience-of-completing-a-sketchbook-for-my-japan-trip/
@@ -13285,6 +13576,7 @@
     size: 10565445
   broken: false
   collectionId: 37679925
+  collection_name: TRAVEL
   parsed: {}
 - _id: 725224927
   link: https://www.codycookparrott.com/common-shapes-1/leavinginstagram
@@ -13324,6 +13616,7 @@
     status: invalid-origin
   broken: true
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 724265127
   link: https://sr.ht/~tsileo/microblog.pub/
@@ -13363,6 +13656,7 @@
     size: 254563
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 720464813
   link: https://www.youtube.com/watch?v=SdIaEQCUVbk
@@ -13403,6 +13697,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 716935756
   link: https://mofelitopaperito.com/
@@ -13441,6 +13736,7 @@
     size: 1743816
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 712786951
   link: https://www.platformer.news/p/why-platformer-is-leaving-substack
@@ -13486,6 +13782,7 @@
     size: 945081
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 709378531
   link: https://www.eiffair.fr/011-numerique-analogique/
@@ -13556,6 +13853,7 @@
     size: 426480
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 700591210
   link: https://www.chrbutler.com/organization-office
@@ -13605,6 +13903,7 @@
     size: 4769273
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 694864439
   link: https://www.fieldmag.com/articles/gulf-of-alaska-surf-trip-35mm
@@ -13656,6 +13955,7 @@
     size: 247718
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 693360277
   link: https://ia.net/topics/ia-writer-in-paper
@@ -13707,6 +14007,7 @@
     size: 12338724
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 693261358
   link: https://sublime.app/?index
@@ -13749,6 +14050,7 @@
     size: 2828551
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 690389409
   link: https://ma-veille-juridique.com/liste-relative-au-vocabulaire-du-sport-glisse-urbaine-termes-expressions-et-definitions-adoptes/
@@ -13795,6 +14097,7 @@
     size: 494640
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 689082541
   link: https://garden.vincentli.space/making-a-place-on-the-web---garden
@@ -13845,6 +14148,7 @@
     size: 13453190
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 689077927
   link: https://projects.kwon.nyc/internet-is-fun/?utm_medium=email&utm_source=substack
@@ -13885,6 +14189,7 @@
     size: 473256
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 688480548
   link: https://robinrendle.com/notes/figure-it-out/
@@ -13921,6 +14226,7 @@
     size: 451727
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 686870133
   link: https://www.amazon.com/Consider-This-Moments-Everything-Different/dp/1538717972?_encoding=UTF8&qid=1680291311&sr=8-3&linkCode=sl1&tag=huckberry02-20&linkId=64047483930e9c2343bb6f38f53ec3b8&language=en_US&ref_=as_li_ss_tl
@@ -13970,6 +14276,7 @@
     size: 9201596
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 686870112
   link: https://www.amazon.com/Writing-Memoir-Craft-Stephen-King/dp/1982159375/ref=sr_1_1?crid=2CX69X9DB3JZK&keywords=on+writing&linkCode=sl2&linkId=04ae6e9d37ead34dce40d8439f6c32c1&qid=1680373981&sprefix=on+writing%2Caps%2C116&sr=8-1
@@ -14020,6 +14327,7 @@
     size: 10724161
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 686870075
   link: https://www.amazon.com/What-Talk-About-When-Running/dp/0307389839/ref=sr_1_1?crid=1481G6ZM3YJPJ&keywords=what+i+talk+about+when+i+talk+about+running&linkCode=sl2&linkId=e0166a1791f51619bb42ea2d21772088&qid=1680373988&sprefix=what+i+talk%2Caps%2C117&sr=8-1
@@ -14070,6 +14378,7 @@
     size: 12499111
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 686365442
   link: https://yewtu.be/watch?v=TxjnJMc_qWs
@@ -14128,6 +14437,7 @@
     status: invalid-timeout
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 685722105
   link: https://stephango.com/vault
@@ -14170,6 +14480,7 @@
     size: 98244
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 683961106
   link: https://manuelmoreale.com/pb-robin-rendle?utm_source=peopleandblogs&utm_medium=email&utm_campaign=pb-robin-rendle
@@ -14211,6 +14522,7 @@
     size: 407223
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 683177994
   link: https://github.com/XAMPPRocky/tokei
@@ -14255,6 +14567,7 @@
     size: 4851579
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 682810753
   link: https://gamegrooves.bandcamp.com/album/skario-kart-a-ska-tribute-to-mario-kart-64
@@ -14304,6 +14617,7 @@
     size: 7906634
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 682810350
   link: https://you-are-laurel-right.neocities.org/
@@ -14346,6 +14660,7 @@
     size: 2056755
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 682809319
   link: https://syllabusproject.org/syllabus-for-taking-an-internet-walk/
@@ -14397,6 +14712,7 @@
     size: 529571
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 682201875
   link: https://www.monsterchildren.com/articles/watch-forward-with-chloe-smith
@@ -14446,6 +14762,7 @@
     size: 6224290
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 681828688
   link: https://www.youtube.com/watch?v=uaeamUAN8gU&t=1375s
@@ -14484,6 +14801,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 679655989
   link: https://pjonori.blog/posts/photo-site-design/
@@ -14528,6 +14846,7 @@
     size: 1427706
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 678448247
   link: https://robinrendle.com/notes/help-is-just-help/
@@ -14566,6 +14885,7 @@
     size: 453238
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 678072668
   link: https://github.com/PhotoFolder/app
@@ -14616,6 +14936,7 @@
     size: 8493386
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 675865968
   link: https://github.com/ssddanbrown/rss?tab=readme-ov-file
@@ -14666,6 +14987,7 @@
     size: 8211793
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 675861884
   link: https://stephango.com/flexoki
@@ -14711,6 +15033,7 @@
     size: 982058
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 675590582
   link: https://craigmod.com/roden/086/
@@ -14755,6 +15078,7 @@
     size: 1707180
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 675259111
   link: https://gist.github.com/ys/8a1251bfaf3fe51867342b790bf17bde
@@ -14795,6 +15119,7 @@
     size: 2345425
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 675259010
   link: https://docs.gitea.com/next/installation/install-with-docker#sshing-shim-with-authorized_keys
@@ -14834,6 +15159,7 @@
     size: 286425
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 670584580
   link: https://marleegrace.substack.com/p/the-ghosts-of-love
@@ -14881,6 +15207,7 @@
     status: invalid-origin
   broken: true
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 667453299
   link: https://thenineclub.com/blogs/episodes/jason-lee?_pos=1&_sid=373ebada4&_ss=r
@@ -14935,6 +15262,7 @@
     size: 1453708
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 667447359
   link: https://macwright.com/2019/01/02/paper-notes
@@ -14981,6 +15309,7 @@
     size: 213630
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 665690563
   link: https://vimeo.com/341250403
@@ -15023,6 +15352,7 @@
     size: 73879
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 664668081
   link: https://www.youtube.com/watch?v=ror6kRSUQZo
@@ -15065,6 +15395,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 664446751
   link: https://jonas.do/writing/2023-10-05-side-projects/
@@ -15107,6 +15438,7 @@
     size: 102034
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 664440440
   link: https://simplemagic.substack.com/p/proof-of-life-small-victories-and
@@ -15172,6 +15504,7 @@
     size: 3283549
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 663894751
   link: https://thpsfilm.com/
@@ -15215,6 +15548,7 @@
     size: 1447118
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 663677925
   link: https://www.youtube.com/watch?v=a7_rRYzSnC8
@@ -15254,6 +15588,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 663620755
   link: https://lookingsideways.substack.com/p/episode-216-ray-barbee-the-power#details
@@ -15306,6 +15641,7 @@
     size: 4416062
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 663604501
   link: https://www.naiveweekly.com/p/i-send-you-a-mp3
@@ -15351,6 +15687,7 @@
     size: 2735586
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 661835293
   link: https://www.lassosurf.com/aj-dungo
@@ -15393,6 +15730,7 @@
     size: 245858
   broken: true
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 661655598
   link: https://sinanatra.github.io/turks/www/?utm_source=substack&utm_medium=email
@@ -15433,6 +15771,7 @@
     status: invalid-origin
   broken: true
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 661649863
   link: https://archive.ph/SclnQ#selection-565.0-565.460
@@ -15484,6 +15823,7 @@
     size: 10251410
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 660611089
   link: https://youtube.com/watch?v=quSfeyjhOb8&feature=shared
@@ -15522,6 +15862,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 659803004
   link: http://www.documentsdartistes.org/artistes/millagou/repro-video.html
@@ -15566,6 +15907,7 @@
     size: 118781
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 658755191
   link: https://thedesignfiles.net/2023/02/sustainable-homes-swansong-tasmania?utm_source=DenseDiscovery-259
@@ -15615,6 +15957,7 @@
     size: 624836
   broken: false
   collectionId: 37136914
+  collection_name: HOME
   parsed: {}
 - _id: 658009278
   link: https://www.youtube.com/watch?v=VYmXIkkv3mQ
@@ -15659,6 +16002,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 657657329
   link: https://finisterre.com/blogs/broadcast/the-sentinels-lighthouses-surfers-seven-seas
@@ -15698,6 +16042,7 @@
     size: 6034098
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 656234995
   link: https://github.com/github/how-engineering-communicates/blob/main/how-github-engineering-communicates.md
@@ -15740,6 +16085,7 @@
     size: 4741161
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 656209699
   link: https://www.wired.com/story/lego-haunted-by-its-own-plastic/?mc_cid=fa04558169&mc_eid=561e2e9468
@@ -15790,6 +16136,7 @@
     size: 13653106
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 656130791
   link: https://leica-camera.blog/2021/11/19/the-joy-is-in-capturing-the-journey/
@@ -15842,6 +16189,7 @@
     size: 897923
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 656031861
   link: https://bloood.club/
@@ -15896,6 +16244,7 @@
     size: 29937248
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 655183090
   link: http://www.johnnycashhasbeeneverywhere.com/
@@ -15945,6 +16294,7 @@
     size: 462101
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 655182896
   link: https://mangotango.mmm.page/zine_night_6_15_23
@@ -15995,6 +16345,7 @@
     size: 9818209
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 655182715
   link: https://www.michaeldean.site/p/logloglog-5
@@ -16045,6 +16396,7 @@
     size: 2690877
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 655169215
   link: https://ia.net/topics/daily-writing-habit-emergency-kit
@@ -16093,6 +16445,7 @@
     size: 3639859
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 655160269
   link: https://www.bridddge.net/post/skateboarding-s-anthropologist-an-interview-with-ed-templeton-on-wires-crossed
@@ -16172,6 +16525,7 @@
     size: 680505
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 655012672
   link: https://stephango.com/buy-wisely
@@ -16222,6 +16576,7 @@
     size: 93177
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 654815256
   link: https://goodenough.us/blog/2023-08-31-thoughts-on-thoughts/
@@ -16277,6 +16632,7 @@
     size: 598014
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 654809402
   link: https://goodenough.us/blog/2023-09-28-how-we-made-a-good-enough-zine/
@@ -16332,6 +16688,7 @@
     size: 6364601
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 654736182
   link: https://bjhess.bearblog.dev/remember-the-photo-blog/
@@ -16377,6 +16734,7 @@
     size: 48772
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 654735348
   link: https://goodenough.us/blog/2023-08-23-bad-ideas-are-fun/
@@ -16431,6 +16789,7 @@
     size: 270015
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 654711654
   link: https://guestbook.goodenough.us/
@@ -16480,6 +16839,7 @@
     size: 1318705
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 654068608
   link: https://www.youtube.com/watch?v=oDnca_FRxSQ
@@ -16547,6 +16907,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 653728854
   link: https://www.trendymood.com/lutter-contre-luniformisation-des-images/?utm_source=rss&utm_medium=rss&utm_campaign=lutter-contre-luniformisation-des-images
@@ -16593,6 +16954,7 @@
     size: 19943388
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 653725178
   link: https://miscellaneousadventures.substack.com/p/live-simply-the-complicated-truth?r=5cjn3&utm_medium=ios&utm_campaign=post
@@ -16659,6 +17021,7 @@
     size: 2863851
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 653709961
   link: https://www.radiofrance.fr/franceinter/podcasts/les-80/les-80-d-ali-baddou-du-vendredi-29-septembre-2023-4429223?fbclid=PAAaYK2I9oo5bujfXpFDNQbmX2g9rAHXElrJIxP56XCTTwgnbwa6puD27Tays
@@ -16702,6 +17065,7 @@
     size: 3171799
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 653535128
   link: https://www.youtube.com/watch?v=XrC7lTx96WI
@@ -16753,6 +17117,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136914
+  collection_name: HOME
   parsed: {}
 - _id: 653502452
   link: https://github.com/catppuccin/catppuccin
@@ -16794,6 +17159,7 @@
     size: 5867923
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 652078685
   link: https://marleegrace.substack.com/p/i-quit-instagram
@@ -16843,6 +17209,7 @@
     status: invalid-origin
   broken: true
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 651870212
   link: https://brooker.co.za/blog/2023/09/21/audience.html
@@ -16884,6 +17251,7 @@
     size: 61099
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 649406201
   link: https://www.pushkin.fm/podcasts/lost-hills/lost-hills-season-3-the-dark-prince
@@ -16932,6 +17300,7 @@
     size: 575652
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 649176125
   link: https://www.are.na/blog/on-motivation
@@ -16974,6 +17343,7 @@
     size: 1177475
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 648486700
   link: https://www.shapeologie.fr/ledico
@@ -17016,6 +17386,7 @@
     status: invalid-origin
   broken: true
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 648486584
   link: https://www.shapeologie.fr/episodes/najesurfboards
@@ -17066,6 +17437,7 @@
     status: invalid-origin
   broken: true
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 648277816
   link: https://meganesulli.com/blog/sync-obsidian-vault-iphone-ipad/
@@ -17116,6 +17488,7 @@
     size: 3809887
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 646762956
   link: https://vimeo.com/686434096
@@ -17159,6 +17532,7 @@
     size: 73575
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 646623847
   link: https://www.moklair.com/
@@ -17209,6 +17583,7 @@
     size: 47839191
   broken: false
   collectionId: 37576903
+  collection_name: COFFEE & FOOD
   parsed: {}
 - _id: 646623821
   link: https://coffeecollective.dk/
@@ -17252,6 +17627,7 @@
     size: 663694
   broken: false
   collectionId: 37576903
+  collection_name: COFFEE & FOOD
   parsed: {}
 - _id: 646623811
   link: https://kawa.coffee/
@@ -17293,6 +17669,7 @@
     size: 5111720
   broken: false
   collectionId: 37576903
+  collection_name: COFFEE & FOOD
   parsed: {}
 - _id: 646621889
   link: https://www.vice.com/fr/article/4a34mm/anne-archet-le-vide-mode-emploi
@@ -17337,6 +17714,7 @@
     size: 3210005
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645689207
   link: https://english.bouletcorp.com/2013/10/08/our-toyota-was-fantastic/
@@ -17379,6 +17757,7 @@
     size: 33029
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601732
   link: https://psyche.co/guides/how-to-rest-well-and-enjoy-a-more-creative-sustainable-life
@@ -17418,6 +17797,7 @@
     size: 373011
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601730
   link: https://www.youtube.com/watch?v=U0QgMuPWakM
@@ -17454,6 +17834,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601729
   link: https://stephango.com/in-good-hands
@@ -17492,6 +17873,7 @@
     size: 85284
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601728
   link: https://stephango.com/file-over-app
@@ -17530,6 +17912,7 @@
     size: 88820
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 645601727
   link: https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life?utm_source=substack&utm_medium=email?utm_source=DenseDiscovery-251
@@ -17576,6 +17959,7 @@
     size: 4221228
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601726
   link: https://player.vimeo.com/video/224710190?title=0&byline=0&portrait=0
@@ -17613,6 +17997,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601723
   link: https://vimeo.com/229153243
@@ -17652,6 +18037,7 @@
     size: 73978
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601722
   link: https://www.ebay.com/itm/164673117066
@@ -17691,6 +18077,7 @@
     size: 5674886
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601721
   link: https://huckberry.com/journal/posts/huckberry-homes-ben-moon
@@ -17730,6 +18117,7 @@
     size: 863204
   broken: false
   collectionId: 37136914
+  collection_name: HOME
   parsed: {}
 - _id: 645601720
   link: https://www.arte.tv/fr/videos/116361-001-A/en-californie-dessine-moi-une-vague/
@@ -17769,6 +18157,7 @@
     size: 635180
   broken: true
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601719
   link: https://www.youtube.com/watch?v=VBJksjDZJOA
@@ -17804,6 +18193,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601718
   link: https://www.youtube.com/watch?v=tXBsr2xtg28
@@ -17839,6 +18229,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601717
   link: https://outstandinginthefield.com/tywilliams/
@@ -17878,6 +18269,7 @@
     size: 2699441
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601716
   link: https://www.surfersjournal.com/editorial/soundings-takuji-masuda/
@@ -17916,6 +18308,7 @@
     size: 5851166
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601715
   link: https://lucylumen.substack.com/p/a-man-his-muse-and-his-nikonosis?utm_medium=ios
@@ -17954,6 +18347,7 @@
     size: 5024942
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601714
   link: https://www.youtube.com/watch?v=s-EKUGccLtM
@@ -17989,6 +18383,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601713
   link: https://www.youtube.com/watch?v=YD5pYQiT1D4
@@ -18025,6 +18420,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601712
   link: https://magazine.frontier.is/p/lets-get-lost?utm_medium=email
@@ -18063,6 +18459,7 @@
     size: 17212405
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 636085528
   link: https://vimeo.com/ondemand/bunker77
@@ -18101,6 +18498,7 @@
     size: 916546
   broken: true
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601711
   link: https://vimeo.com/182809976
@@ -18138,6 +18536,7 @@
     size: 70296
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601710
   link: https://lookingsideways.substack.com/p/episode-213-thomas-campbell-sit-in
@@ -18176,6 +18575,7 @@
     size: 4392071
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601709
   link: https://www.youtube.com/watch?v=vwSRqaZGsPw
@@ -18213,6 +18613,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601708
   link: https://www.youtube.com/watch?v=Ul4nqKb-tys
@@ -18248,6 +18649,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601707
   link: https://www.youtube.com/watch?v=xakLVsDYn04&t=4s
@@ -18285,6 +18687,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 645601706
   link: https://simplemagic.substack.com/p/terms-of-engagement-simply-ranked
@@ -18323,6 +18726,7 @@
     size: 3436387
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 645601705
   link: https://www.youtube.com/watch?v=iXC4J0NHHUA
@@ -18358,6 +18762,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601704
   link: https://www.jackcohen.com/curiosities
@@ -18396,6 +18801,7 @@
     size: 23827746
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601703
   link: https://www.vice.com/fr/article/pkapbz/trois-potes-du-folk-un-minibus-et-un-road-trip-guide-par-le-destin
@@ -18433,6 +18839,7 @@
     size: 6965848
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601702
   link: https://www.vice.com/fr/article/pkagg8/surfeuses-maroc
@@ -18471,6 +18878,7 @@
     size: 7345198
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601701
   link: https://www.elisarouta.com/journal/le-brasier-du-monde-a-la-tele
@@ -18508,6 +18916,7 @@
     size: 3259807
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601700
   link: https://www.midnowhere.co.uk/blog/forestwithastory
@@ -18545,6 +18954,7 @@
     size: 19951816
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601699
   link: https://eliselaine.com/vans-duct-tape-invitational-headed-to-rio-de-janeiro/?fbclid=PAAaaB5pyXsf7oQpdWb0Xg3uBl33-GRVVQOrpHQ0a5Qwys3Dbzs2GanzIn-5g_aem_th_Ab-qHVXYVBT9G1eTUPp6W2PoUrnml2rrg1xC6yDBv7Ye6yuqVXKv722EfKDzLKqTRpU
@@ -18583,6 +18993,7 @@
     size: 13476290
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601698
   link: https://grateful.org/resource/gratitude-david-whyte/?utm_source=DenseDiscovery-248
@@ -18621,6 +19032,7 @@
     size: 3000335
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601697
   link: https://www.surfline.com/surf-news/travelers-izzy-henshall/182241
@@ -18657,6 +19069,7 @@
     status: invalid-timeout
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601696
   link: https://www.youtube.com/watch?v=wn5KqWwP6uQ
@@ -18692,6 +19105,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601695
   link: https://www.youtube.com/watch?app=desktop&v=kF5FYZXx8Qw&feature=youtu.be
@@ -18727,6 +19141,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601694
   link: https://vimeo.com/567410258
@@ -18765,6 +19180,7 @@
     size: 73059
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601693
   link: https://overcast.fm/+3yDzmvVfQ
@@ -18804,6 +19220,7 @@
     size: 174043
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601692
   link: https://vimeo.com/848288672
@@ -18841,6 +19258,7 @@
     size: 73480
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601691
   link: https://www.youtube.com/watch?v=tUApO77uUUk
@@ -18878,6 +19296,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601690
   link: https://www.youtube.com/watch?v=NM1YfKFlWyE
@@ -18914,6 +19333,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601689
   link: https://www.youtube.com/watch?v=1EXgRm1gaBM
@@ -18949,6 +19369,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601688
   link: https://firstlightsurf.club/blogs/news/the-art-of-the-pre-work-dawn-patrol-surf
@@ -18987,6 +19408,7 @@
     size: 566030
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601687
   link: https://www.youtube.com/watch?v=8EKtCKbm-L4&t=138s
@@ -19022,6 +19444,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 645601686
   link: https://simplemagic.substack.com/p/dammit-you-got-me-brand-simply-ranked?utm_source=post-email-title&publication_id=246638&post_id=134126837&isFreemail=true&utm_medium=email
@@ -19059,6 +19482,7 @@
     size: 3496746
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601685
   link: https://www.youtube.com/watch?v=hXrdZ5kWRqs
@@ -19094,6 +19518,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 645601684
   link: https://barbessurfclub.com/vcommevolvo/
@@ -19131,6 +19556,7 @@
     size: 519208
   broken: false
   collectionId: 37679925
+  collection_name: TRAVEL
   parsed: {}
 - _id: 645601683
   link: https://www.huckmag.com/article/chuck-treece-is-kicking-down-doors-so-others-can-roll-through
@@ -19168,6 +19594,7 @@
     size: 346987
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 645601682
   link: https://www.youtube.com/watch?v=Xm8PH-utNrM
@@ -19204,6 +19631,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37576903
+  collection_name: COFFEE & FOOD
   parsed: {}
 - _id: 645601681
   link: https://www.youtube.com/watch?v=VkQOXrNg0kw
@@ -19239,6 +19667,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601680
   link: https://www.nytimes.com/2023/07/12/science/sea-otter-surfboard.html
@@ -19277,6 +19706,7 @@
     size: 1403231
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601679
   link: https://www.youtube.com/watch?v=yHrspJHTyGY
@@ -19312,6 +19742,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 645601678
   link: https://www.freeskatemag.com/2023/06/13/skating-and-writing-towards-mental-wellbeing/?utm_source=substack&utm_medium=email
@@ -19349,6 +19780,7 @@
     size: 3838692
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 645601677
   link: https://readsomethingwonderful.com/p/133/camping-with-president-theodore-roosevelt
@@ -19387,6 +19819,7 @@
   broken: false
   duplicate: 620865807
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601676
   link: https://www.newyorker.com/culture/photo-booth/ed-templetons-unsparing-photographic-diary-of-skateboarding-life?fbclid=PAAaZgD3DEJqmpuwvZbIQGJRN15TuaGzdbyZ_ue9Gr34L8fnOelkV8RgTHYnQ
@@ -19425,6 +19858,7 @@
   broken: false
   duplicate: 645601626
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 645601675
   link: https://finisterre.com/blogs/broadcast/from-dad-to-daughter?xnpe_tifc=b.e_4Dn74ubXxIh.huxd4ypsafeWaeiWhFW6hfp3alB8bf8cRf4gVd46EMQ-tu4vaMXJ4.oDh.YJxfU.hke_4kHd&utm_source=bloomreach&utm_campaign=BRAND_BROADCAST_20230305&utm_medium=email
@@ -19464,6 +19898,7 @@
   broken: false
   duplicate: 645601570
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601674
   link: https://flakphoto.substack.com/p/the-practice-of-attention
@@ -19501,6 +19936,7 @@
     size: 4628547
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601673
   link: https://vimeo.com/758410646
@@ -19539,6 +19975,7 @@
   broken: false
   duplicate: 645601450
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601672
   link: https://mpora.com/surfing/the-rise-of-surf-activism-surfers-against-sewage/
@@ -19576,6 +20013,7 @@
     size: 4541766
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601671
   link: https://www.youtube.com/watch?v=AMSqe2u6NjQ
@@ -19611,6 +20049,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601670
   link: https://vimeo.com/839932273?utm_source=substack&utm_medium=email
@@ -19648,6 +20087,7 @@
     size: 73691
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601669
   link: https://www.youtube.com/watch?v=_K9KVkkc_4I
@@ -19683,6 +20123,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601668
   link: https://alohaspiritphotographies.blogspot.com/2023/05/paroles-et-portraits-de-surfeuses-et_29.html
@@ -19721,6 +20162,7 @@
     size: 651378
   broken: true
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601667
   link: https://www.youtube.com/watch?v=_Olz6OJE8Ks
@@ -19756,6 +20198,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601666
   link: https://nobodysurf.com/one-day-at-home/
@@ -19793,6 +20236,7 @@
     size: 3433124
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601664
   link: https://www.youtube.com/watch?v=weNDbcaiH10
@@ -19828,6 +20272,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601663
   link: https://www.youtube.com/watch?v=bbUGVFEO9Yc
@@ -19863,6 +20308,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 645601662
   link: https://www.youtube.com/watch?v=Pbi0OvWdPJI
@@ -19898,6 +20344,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601661
   link: https://www.youtube.com/watch?v=71bNp8cMFAc
@@ -19933,6 +20380,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 645601660
   link: https://www.monsterchildren.com/articles/a-bit-of-fun-ep03-alex-knost-warren-smith
@@ -19970,6 +20418,7 @@
     size: 8981353
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601659
   link: https://www.naro.tv/skateboarding
@@ -20007,6 +20456,7 @@
     size: 387907
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 645601658
   link: https://climateandboardsports.substack.com/p/we-dont-take-care-of-the-ocean-like?utm_source=post-email-title&publication_id=1089183&post_id=127134711&isFreemail=true&utm_medium=email
@@ -20044,6 +20494,7 @@
     size: 3486960
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601657
   link: https://www.radiofrance.fr/franceinter/podcasts/l-invite-de-7h50/l-invite-de-7h50-du-lundi-19-juin-2023-7433000
@@ -20082,6 +20533,7 @@
     size: 1822441
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601656
   link: https://www.youtube.com/watch?v=9g0UMuAyAg0
@@ -20117,6 +20569,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601655
   link: https://longboardermagazine.com/2023/06/a-journey-of-style-harrison-roachs-surfing-evolution/
@@ -20154,6 +20607,7 @@
     size: 8014877
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601654
   link: https://www.huckmag.com/article/how-north-devon-became-the-first-world-surfing-reserve-in-the-uk
@@ -20191,6 +20645,7 @@
     size: 279845
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601653
   link: https://www.youtube.com/watch?v=y8a8vuFx4N8
@@ -20227,6 +20682,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601652
   link: https://www.youtube.com/watch?v=XyswXpa5LVw
@@ -20262,6 +20718,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601651
   link: https://www.dwell.com/article/taylor-stitch-mikey-armenta-home-tour-436891a1
@@ -20299,6 +20756,7 @@
     size: 1027924
   broken: false
   collectionId: 37136914
+  collection_name: HOME
   parsed: {}
 - _id: 645601650
   link: https://craigmod.com/ridgeline/165/
@@ -20337,6 +20795,7 @@
     size: 1752155
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601649
   link: https://vimeo.com/757216611
@@ -20374,6 +20833,7 @@
     size: 74425
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601648
   link: https://indoek.com/article/surf-shacks-094-corban-raquel-campbell/
@@ -20412,6 +20872,7 @@
     size: 371718
   broken: true
   collectionId: 37136914
+  collection_name: HOME
   parsed: {}
 - _id: 645601647
   link: https://lookingsideways.substack.com/p/calum-macintyre-5-reasons-our-community
@@ -20449,6 +20910,7 @@
     size: 3916352
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601646
   link: https://www.telotrucks.com/#features
@@ -20486,6 +20948,7 @@
     size: 158200
   broken: false
   collectionId: 37576965
+  collection_name: GEAR
   parsed: {}
 - _id: 645601645
   link: https://www.youtube.com/watch?v=wSgWPC13bt8
@@ -20521,6 +20984,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601644
   link: https://open.substack.com/pub/simplemagic/p/youre-either-going-the-right-way?r=5cjn3&utm_medium=ios&utm_campaign=post
@@ -20558,6 +21022,7 @@
     size: 2948612
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 645601643
   link: https://www.youtube.com/watch?v=mv714wR3Sd4
@@ -20593,6 +21058,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136914
+  collection_name: HOME
   parsed: {}
 - _id: 645601642
   link: https://www.deflowsurf.com/cokoif-x-deflow/
@@ -20630,6 +21096,7 @@
     size: 646798
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601641
   link: https://www.huckmag.com/article/its-time-for-skateboardings-environmental-reckoning
@@ -20667,6 +21134,7 @@
     size: 265747
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 645601640
   link: https://climateandboardsports.substack.com/p/i-would-like-surfers-to-say-im-not
@@ -20706,6 +21174,7 @@
   broken: false
   duplicate: 645601486
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601639
   link: https://climateandboardsports.substack.com/p/there-is-a-smugness-that-comes-with
@@ -20744,6 +21213,7 @@
     size: 2830946
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601638
   link: https://climateandboardsports.substack.com/p/we-cant-be-well-if-the-water-isnt
@@ -20781,6 +21251,7 @@
     size: 3372640
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601637
   link: https://longboardermagazine.com/2023/06/errant-logs-and-damaged-hipster-egos-the-leash-debate-rages-in-byron-bay/
@@ -20819,6 +21290,7 @@
     size: 5204343
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601636
   link: https://finisterre.com/blogs/broadcast/pride-a-letter-to-my-younger-self
@@ -20856,6 +21328,7 @@
     size: 3092829
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601635
   link: https://jeremyjanin.com/maison-le-detour/
@@ -20893,6 +21366,7 @@
     size: 85199667
   broken: false
   collectionId: 37136914
+  collection_name: HOME
   parsed: {}
 - _id: 645601634
   link: https://vimeo.com/831780171
@@ -20930,6 +21404,7 @@
     size: 73705
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601633
   link: https://open.substack.com/pub/miscellaneousadventures/p/issue-29-the-misc-adventures-digest?r=5cjn3&utm_medium=ios&utm_campaign=post
@@ -20967,6 +21442,7 @@
     size: 3674338
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601632
   link: https://vimeo.com/831522300?embedded=true&source=vimeo_logo&owner=22604812
@@ -21004,6 +21480,7 @@
     size: 73501
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601631
   link: https://longboardermagazine.com/2023/05/soul-surfer/
@@ -21041,6 +21518,7 @@
     size: 1504344
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601630
   link: https://www.surfersjournal.com/editorial/thomas-campbell-yi-wo-outtakes/
@@ -21078,6 +21556,7 @@
     size: 36645680
   broken: true
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601629
   link: https://www.youtube.com/watch?v=--1TYc3w2xw
@@ -21113,6 +21592,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601628
   link: https://www.youtube.com/watch?v=EfeuG1MPBLU&list=WL&index=4
@@ -21148,6 +21628,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601627
   link: https://www.wired.com/story/github-tech-values/
@@ -21185,6 +21666,7 @@
     size: 2451751
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601626
   link: https://www.newyorker.com/culture/photo-booth/ed-templetons-unsparing-photographic-diary-of-skateboarding-life?fbclid=PAAaZgD3DEJqmpuwvZbIQGJRN15TuaGzdbyZ_ue9Gr34L8fnOelkV8RgTHYnQ
@@ -21222,6 +21704,7 @@
     size: 14147919
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 645601625
   link: https://lookingsideways.substack.com/p/sally-mcgee-5-things-ive-learned
@@ -21259,6 +21742,7 @@
     size: 2336558
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601617
   link: http://www.fieldmag.com/articles/vans-duct-tape-brazil-surf-contest-photos
@@ -21296,6 +21780,7 @@
     size: 251575
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601616
   link: https://slightlychoppy.com/blogs/news/united-states-and-oceans-of-america
@@ -21333,6 +21818,7 @@
     size: 2320429
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601615
   link: https://www.pattipeople.com/synchronism
@@ -21370,6 +21856,7 @@
     size: 19350354
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601614
   link: https://www.youtube.com/watch?v=CNvmJFIs8ZI
@@ -21405,6 +21892,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601613
   link: https://www.youtube.com/watch?v=__ICXEbFo0Y
@@ -21440,6 +21928,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601612
   link: https://www.youtube.com/watch?v=3TYiX266MPU
@@ -21475,6 +21964,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601611
   link: https://www.deflowsurf.com/dan-pascacio-nowhere-place-video/
@@ -21512,6 +22002,7 @@
     size: 513733
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601610
   link: https://www.drawingroomarchitecture.com.au/coburg
@@ -21550,6 +22041,7 @@
     size: 6878578
   broken: false
   collectionId: 37136914
+  collection_name: HOME
   parsed: {}
 - _id: 645601609
   link: https://indoek.com/article/surf-shacks-093-scott-richards/
@@ -21586,6 +22078,7 @@
     status: invalid-origin
   broken: true
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601608
   link: https://www.monsterchildren.com/articles/malibus-most-wanted-log-rap
@@ -21623,6 +22116,7 @@
     size: 5174370
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601607
   link: https://longboardermagazine.com/2023/05/trim-collective-the-ladies-surf-club-in-nova-scotia/
@@ -21660,6 +22154,7 @@
     size: 1772523
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601606
   link: https://youtube.com/watch?v=LxDp_Waoc4Q&feature=share
@@ -21697,6 +22192,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601605
   link: https://www.surfsession.com/culture-surf/maroc-le-surf-tourisme-toujours-au-coeur-des-discussions-2/
@@ -21735,6 +22231,7 @@
     size: 5346682
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601604
   link: https://surfsimply.com/magazine/how-a-surfboard-works
@@ -21774,6 +22271,7 @@
     size: 337106
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601603
   link: https://vimeo.com/15293107
@@ -21813,6 +22311,7 @@
     size: 73453
   broken: false
   collectionId: 37576903
+  collection_name: COFFEE & FOOD
   parsed: {}
 - _id: 645601602
   link: https://beside.media/fr/atelier/comment-soffrir-du-temps-pour-penser/
@@ -21850,6 +22349,7 @@
     size: 5034341
   broken: true
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601601
   link: https://vimeo.com/700262885
@@ -21888,6 +22388,7 @@
     size: 73882
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601600
   link: https://youtu.be/mcF2cuExdsA
@@ -21924,6 +22425,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601599
   link: https://www.youtube.com/watch?v=pyhK22C4OiE
@@ -21960,6 +22462,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601598
   link: https://www.youtube.com/watch?v=QlOUHbusyZk
@@ -21996,6 +22499,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601597
   link: https://longboardermagazine.com/2023/03/ten-turning-points-in-the-history-of-longboarding/
@@ -22033,6 +22537,7 @@
     size: 3155322
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601596
   link: https://www.alextarinpictures.fr/blog/nouveau-depart
@@ -22069,6 +22574,7 @@
     status: invalid-origin
   broken: true
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601595
   link: https://browsercompany.substack.com/p/the-age-of-the-app-is-over?utm_source=substack&publication_id=239564&post_id=111503973&utm_medium=email&utm_content=share&triggerShare=true&isFreemail=true
@@ -22106,6 +22612,7 @@
     size: 2712188
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 645601594
   link: https://www.monsterchildren.com/articles/sci-fi-fantasy-man-jerry-hsu
@@ -22143,6 +22650,7 @@
     size: 7059912
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 645601593
   link: https://i-d.vice.com/en/article/bvj8em/rare-photos-of-new-yorks-puerto-rican-community-in-the-80s?utm_source=substack&utm_medium=email
@@ -22181,6 +22689,7 @@
     size: 184326
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601592
   link: https://www.youtube.com/watch?v=s2xkvRnHXss
@@ -22217,6 +22726,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601591
   link: https://www.youtube.com/watch?v=AE7qUEf_th4
@@ -22253,6 +22763,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37576965
+  collection_name: GEAR
   parsed: {}
 - _id: 645601590
   link: https://mitchellh.com/writing/my-startup-banking-story
@@ -22291,6 +22802,7 @@
     size: 186007
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 645601589
   link: https://www.robinrendle.com/notes/your-reading-should-be-messy/
@@ -22330,6 +22842,7 @@
     size: 451100
   broken: false
   collectionId: 36103677
+  collection_name: BOOKS
   parsed: {}
 - _id: 645601588
   link: http://www.jaynelsonart.com/
@@ -22369,6 +22882,7 @@
     size: 2132754
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601587
   link: https://vimeo.com/714263497
@@ -22407,6 +22921,7 @@
     size: 70762
   broken: false
   collectionId: 37576965
+  collection_name: GEAR
   parsed: {}
 - _id: 645601586
   link: https://vimeo.com/797821683
@@ -22445,6 +22960,7 @@
     size: 73615
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601585
   link: https://vimeo.com/810662127
@@ -22483,6 +22999,7 @@
     size: 74026
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601584
   link: https://francischouquet.substack.com/p/log-off-to-get-your-creativity-back?utm_source=twitter&sd=pf
@@ -22521,6 +23038,7 @@
     size: 6659373
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601583
   link: https://fieldmag.herokuapp.com/articles/best-camping-coffee-maker-guide
@@ -22560,6 +23078,7 @@
     size: 271102
   broken: false
   collectionId: 37576903
+  collection_name: COFFEE & FOOD
   parsed: {}
 - _id: 645601582
   link: https://vimeo.com/810464774?embedded=true&source=vimeo_logo&owner=2358518
@@ -22598,6 +23117,7 @@
     size: 73638
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601581
   link: https://www.somelikeitclassicfilm.com/
@@ -22636,6 +23156,7 @@
     size: 1423902
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601580
   link: https://brandur.org/fragments/ios-live-photos-and-ffmpeg
@@ -22675,6 +23196,7 @@
   broken: false
   duplicate: 620865616
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 645601579
   link: https://www.nytimes.com/2022/12/15/style/teens-social-media.html
@@ -22713,6 +23235,7 @@
     size: 1449445
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601578
   link: https://www.mcsweeneys.net/articles/i-misplaced-my-phone-for-forty-five-minutes-and-now-im-a-mindfulness-expert
@@ -22751,6 +23274,7 @@
     size: 1183235
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601577
   link: https://www.newyorker.com/magazine/2022/08/22/my-dad-and-kurt-cobain
@@ -22789,6 +23313,7 @@
     size: 2718705
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601576
   link: https://www.youtube.com/watch?v=u6k1NS0wjs8
@@ -22825,6 +23350,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601575
   link: https://open.substack.com/pub/lookingsideways/p/how-i-find-time-to-read?utm_source=direct&r=5cjn3&utm_campaign=post&utm_medium=web
@@ -22863,6 +23389,7 @@
     size: 5265385
   broken: false
   collectionId: 36103677
+  collection_name: BOOKS
   parsed: {}
 - _id: 645601574
   link: https://www.theguardian.com/books/2023/jan/10/the-creative-act-a-way-of-being-by-rick-rubin-review-thoughts-of-the-bearded-beat-master
@@ -22902,6 +23429,7 @@
     size: 772174
   broken: false
   collectionId: 36103677
+  collection_name: BOOKS
   parsed: {}
 - _id: 645601573
   link: https://www.youtube.com/watch?v=LJP1DphOWPs
@@ -22938,6 +23466,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601572
   link: https://youtube.com/watch?v=hVyatMUYwZw&feature=share
@@ -22974,6 +23503,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601571
   link: https://www.youtube.com/watch?v=i1szgcB9Ono&t=131s
@@ -23011,6 +23541,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601570
   link: https://finisterre.com/blogs/broadcast/from-dad-to-daughter?xnpe_tifc=b.e_4Dn74ubXxIh.huxd4ypsafeWaeiWhFW6hfp3alB8bf8cRf4gVd46EMQ-tu4vaMXJ4.oDh.YJxfU.hke_4kHd&utm_source=bloomreach&utm_campaign=BRAND_BROADCAST_20230305&utm_medium=email
@@ -23050,6 +23581,7 @@
     size: 3307230
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601569
   link: https://longboardermagazine.com/2023/02/longboardings-cultural-heartlands/
@@ -23088,6 +23620,7 @@
     size: 4021367
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601568
   link: https://longboardermagazine.com/2023/03/island-flow-a-tale-of-two-generations/
@@ -23126,6 +23659,7 @@
     size: 1555810
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601567
   link: https://www.monsterchildren.com/articles/a-skaters-guide-to-birdwatching-with-jae-overton
@@ -23163,6 +23697,7 @@
     size: 8388127
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 645601566
   link: https://www.youtube.com/watch?app=desktop&v=rpKd5qekWLk
@@ -23199,6 +23734,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601565
   link: https://www.youtube.com/watch?app=desktop&v=eV_753wIUzo
@@ -23235,6 +23771,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601563
   link: https://huckberry.com/journal/posts/joy-of-owning-a-coffee-company
@@ -23272,6 +23809,7 @@
     size: 955713
   broken: false
   collectionId: 37576903
+  collection_name: COFFEE & FOOD
   parsed: {}
 - _id: 645601562
   link: https://vimeo.com/401428066
@@ -23310,6 +23848,7 @@
     size: 70734
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601560
   link: https://www.lomography.com/magazine/350303-cokoif-on-combining-his-two-great-passions-analogue-photography-and-surfing
@@ -23348,6 +23887,7 @@
     size: 7964415
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601559
   link: http://gear.vogelius.se/-reviews/leica-summicron-50/index.html
@@ -23385,6 +23925,7 @@
     size: 16311112
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601558
   link: https://www.monsterchildren.com/articles/deplacer-de-silence-with-lola-mignot
@@ -23423,6 +23964,7 @@
     size: 8741970
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601557
   link: https://www.monsterchildren.com/articles/everyones-invited-to-bennys-club
@@ -23460,6 +24002,7 @@
     size: 12978235
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601556
   link: https://www.highsnobiety.com/p/jerry-hsu-interview-beautiful-flower-is-the-world/
@@ -23497,6 +24040,7 @@
     size: 966884
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 645601555
   link: https://www.monsterchildren.com/articles/biting-the-hand-that-feeds
@@ -23535,6 +24079,7 @@
     size: 6425642
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601554
   link: https://www.vice.com/fr/article/jgp787/pourquoi-il-faut-en-finir-avec-leco-anxiete
@@ -23573,6 +24118,7 @@
     size: 5818364
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601553
   link: https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html
@@ -23610,6 +24156,7 @@
     size: 1513307
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601552
   link: https://www.monsterchildren.com/articles/enjoy-ads
@@ -23647,6 +24194,7 @@
     size: 5776513
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 645601551
   link: https://vimeo.com/90420210
@@ -23684,6 +24232,7 @@
     size: 73551
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601550
   link: https://www.youtube.com/watch?v=_ODhIMer054
@@ -23719,6 +24268,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601549
   link: https://vimeo.com/42242442?embedded=true&source=vimeo_logo&owner=1689513
@@ -23756,6 +24306,7 @@
     size: 73647
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 645601548
   link: http://gear.vogelius.se/-notes/leica-m262-in-family-tree.html
@@ -23793,6 +24344,7 @@
     size: 62197
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601547
   link: https://indoek.com/article/surf-shacks-092-mario-petrina-wehle/
@@ -23831,6 +24383,7 @@
     size: 17194754
   broken: true
   collectionId: 37136914
+  collection_name: HOME
   parsed: {}
 - _id: 645601545
   link: https://fieldmag.herokuapp.com/articles/women-and-the-wind-documentary-sailing-across-atlantic
@@ -23868,6 +24421,7 @@
     size: 258662
   broken: false
   collectionId: 37679925
+  collection_name: TRAVEL
   parsed: {}
 - _id: 645601544
   link: https://craigmod.com/ridgeline/157/
@@ -23907,6 +24461,7 @@
     size: 1177907
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601543
   link: https://finisterre.com/blogs/broadcast/matty-snelling-creative-everyday
@@ -23945,6 +24500,7 @@
     size: 5563895
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601542
   link: https://vimeo.com/800267425
@@ -23983,6 +24539,7 @@
     size: 116347
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601541
   link: https://www.youtube.com/watch?v=MsrYg4nDeDE
@@ -24020,6 +24577,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601540
   link: https://mentalhellth.xyz/p/making-space-for-fun-under-capitalism
@@ -24058,6 +24616,7 @@
     size: 2583639
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601539
   link: https://www.nytimes.com/2023/02/17/sports/big-wave-surfing-sachi-cunningham.html
@@ -24096,6 +24655,7 @@
     size: 1441329
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601538
   link: https://medium.com/method-matter/on-belonging-7957be528340
@@ -24134,6 +24694,7 @@
     size: 506806
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601535
   link: https://www.youtube.com/watch?v=jge_7C2gz9Y
@@ -24169,6 +24730,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601534
   link: https://fieldmag.herokuapp.com/articles/photographer-gabriella-angotti-jones-interview-i-just-wanna-surf
@@ -24206,6 +24768,7 @@
     size: 248387
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601533
   link: https://blog.rachelbinx.com/2023/02/unbearable-sameness/
@@ -24244,6 +24807,7 @@
     size: 858354
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 645601532
   link: https://notes.ashsmash.com/
@@ -24282,6 +24846,7 @@
     size: 4857549
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601531
   link: https://rachelbinx.com/
@@ -24320,6 +24885,7 @@
     size: 81870
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 645601530
   link: http://www.lucy-ives.com/arts-writing/phone-call-with-sophie-calle
@@ -24359,6 +24925,7 @@
     size: 2144856
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601529
   link: https://www.youtube.com/watch?v=rjRjcqzCp6Y
@@ -24394,6 +24961,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601528
   link: https://vimeo.com/783682847
@@ -24432,6 +25000,7 @@
     size: 74558
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601527
   link: https://vimeo.com/797496482
@@ -24470,6 +25039,7 @@
     size: 73724
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601526
   link: https://www.youtube.com/watch?v=UsW4sqQOgWc
@@ -24507,6 +25077,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601525
   link: https://dadadrummer.substack.com/p/a-golden-age-of-the-download
@@ -24546,6 +25117,7 @@
     size: 3227620
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 645601524
   link: https://dadadrummer.substack.com/p/sale-is-unlawful
@@ -24584,6 +25156,7 @@
     size: 3614018
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601523
   link: https://www.lostnotfoundmag.com/blogs/news/royal-motel-room
@@ -24622,6 +25195,7 @@
     size: 1522605
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601522
   link: https://anthonyhobday.com/sideprojects/saferules/
@@ -24661,6 +25235,7 @@
     size: 272311
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 645601521
   link: https://francischouquet.substack.com/p/why-and-how-i-stopped-doing-client
@@ -24699,6 +25274,7 @@
     size: 2580715
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 645601520
   link: https://www.fieldmag.com/articles/offsite-ny-remote-work-cabin-review?mc_cid=d3d4707674&mc_eid=561e2e9468
@@ -24737,6 +25313,7 @@
     size: 243879
   broken: false
   collectionId: 37136914
+  collection_name: HOME
   parsed: {}
 - _id: 645601519
   link: https://www.youtube.com/watch?v=UTIlzAjK5CA
@@ -24773,6 +25350,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601518
   link: https://www.maison-tangible.fr/journal-silence-la-routourne
@@ -24812,6 +25390,7 @@
     size: 15639141
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601511
   link: https://nadia.xyz/basic
@@ -24850,6 +25429,7 @@
     size: 59343
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601510
   link: https://robinrendle.com/notes/notes-on-hypertext/
@@ -24888,6 +25468,7 @@
     size: 453963
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 645601508
   link: https://www.youtube.com/watch?v=YO_J2f3pzCI
@@ -24924,6 +25505,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601507
   link: https://every.to/cybernaut/the-quest-for-a-dumber-phone?mc_cid=0db65fa9e9
@@ -24961,6 +25543,7 @@
     size: 39099239
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601506
   link: https://www.youtube.com/watch?v=ItnuEq26fnA
@@ -24996,6 +25579,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601505
   link: https://www.youtube.com/watch?v=1w07i5005AI
@@ -25031,6 +25615,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601504
   link: https://www.monsterchildren.com/the-yin-yang-of-stacy-peralta/
@@ -25069,6 +25654,7 @@
     size: 5266182
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 645601503
   link: https://www.surfersjournal.com/editorial/art-brewer-offerings/
@@ -25106,6 +25692,7 @@
     size: 3630939
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601502
   link: https://everyday.photo/
@@ -25143,6 +25730,7 @@
     size: 6317515
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601501
   link: https://fieldmag.herokuapp.com/articles/vans-pipe-masters-photos-oahu-north-shore
@@ -25181,6 +25769,7 @@
     size: 255366
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601500
   link: https://craigmod.com/roden/075/
@@ -25219,6 +25808,7 @@
     size: 306981
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601499
   link: https://beside.media/fr/besiders/elisabeth-cardin/
@@ -25256,6 +25846,7 @@
     size: 7086758
   broken: true
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601498
   link: https://www.newyorker.com/magazine/2021/12/20/can-distraction-free-devices-change-the-way-we-write
@@ -25294,6 +25885,7 @@
   broken: false
   duplicate: 645601269
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601497
   link: https://www.youtube.com/watch?v=SDueO-b_rvI
@@ -25330,6 +25922,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601496
   link: https://www.youtube.com/watch?v=vbj2PsBFADQ
@@ -25365,6 +25958,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 645601495
   link: https://peteschaffner.com//blog/2022-12-20-2055/
@@ -25403,6 +25997,7 @@
     size: 76227
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 645601494
   link: https://peteschaffner.com//blog/2019-05-22-2142/
@@ -25441,6 +26036,7 @@
     size: 75215
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601493
   link: https://craigmod.com/ridgeline/153/
@@ -25479,6 +26075,7 @@
     size: 856329
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601492
   link: https://glass.photo/highlights/glass-is-leaving-twitter
@@ -25516,6 +26113,7 @@
     size: 1768312
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601491
   link: https://noob-de-dev.fr/Amelie-Abdallah/AlonahAmelie/avant-d-etre-dev/ma-reconversion-professionnelle-partie-1-le-burn-out/
@@ -25555,6 +26153,7 @@
     size: 523093
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601490
   link: https://wavelengthmag.com/ambre-victoire-i-just-want-to-be-free/
@@ -25593,6 +26192,7 @@
     size: 10717021
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601489
   link: https://huckberry.com/journal/posts/morning-person-ben-moon
@@ -25631,6 +26231,7 @@
     size: 36260
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601488
   link: https://beside.media/fr/atelier/comment-poser-de-bonnes-questions/
@@ -25669,6 +26270,7 @@
     size: 220793
   broken: true
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601487
   link: https://vimeo.com/348326406
@@ -25708,6 +26310,7 @@
     size: 73659
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601486
   link: https://climateandboardsports.substack.com/p/i-would-like-surfers-to-say-im-not
@@ -25747,6 +26350,7 @@
     size: 3829450
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601485
   link: https://fieldmag.herokuapp.com/articles/nikonos-v-waterproof-film-camera-review
@@ -25784,6 +26388,7 @@
     size: 255307
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601484
   link: https://macwright.com/2022/12/09/activitypub.html
@@ -25821,6 +26426,7 @@
     size: 143804
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 645601483
   link: https://robinrendle.com/notes/an-internet-of-zines/
@@ -25860,6 +26466,7 @@
     size: 451527
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601482
   link: https://www.youtube.com/watch?v=7japD9WS7NI
@@ -25896,6 +26503,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601481
   link: https://www.youtube.com/watch?v=y0Ez1_uwNZc
@@ -25931,6 +26539,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 645601480
   link: https://longboardermagazine.com/2022/11/izzy-art-draft/
@@ -25968,6 +26577,7 @@
     size: 7453222
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601479
   link: https://www.monsterchildren.com/fontaines-d-c-think-you-should-be-dancing/
@@ -26004,6 +26614,7 @@
     size: 2540338
   broken: true
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601478
   link: https://almondsurfboards.com/blogs/news/almonds-guide-to-the-perfect-california-surf-trip
@@ -26041,6 +26652,7 @@
     size: 1882817
   broken: false
   collectionId: 37679925
+  collection_name: TRAVEL
   parsed: {}
 - _id: 645601477
   link: https://longboardermagazine.com/2022/11/carla-rowland-zamora-switch-stance-dance/
@@ -26074,6 +26686,7 @@
     status: invalid-origin
   broken: true
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601476
   link: https://www.theatlantic.com/technology/archive/2022/11/twitter-facebook-social-media-decline/672074/
@@ -26112,6 +26725,7 @@
     size: 657764
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601475
   link: https://explorewhatworks.com/busyness-decoded-how-to-limit-what-you-say-yes-to/
@@ -26150,6 +26764,7 @@
     size: 3105527
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601474
   link: https://remimercier.com/from-stained-glass-master-to-software-developer/
@@ -26189,6 +26804,7 @@
     size: 144464
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 645601473
   link: https://www.youtube.com/watch?v=7CsRMAFUgN4
@@ -26225,6 +26841,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601472
   link: https://www.nytimes.com/2022/10/30/world/europe/surfing-england-north-devon.html
@@ -26263,6 +26880,7 @@
     size: 1524290
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601471
   link: https://www.lostnotfoundmag.com/blogs/news/the-modern-35mm-improvise
@@ -26301,6 +26919,7 @@
     size: 1316334
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601470
   link: https://www.youtube.com/watch?v=oOLNknoGJvU
@@ -26337,6 +26956,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601469
   link: https://www.youtube.com/watch?v=nD0VM0NWwSA
@@ -26373,6 +26993,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601468
   link: https://longboardermagazine.com/2022/09/izzy-henshall-rising-style/
@@ -26411,6 +27032,7 @@
     size: 3337276
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601467
   link: https://www.chipiron.fr/chipiron-family-surf-trip-au-coin-de-la-rue/
@@ -26449,6 +27071,7 @@
     size: 6628038
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601466
   link: https://longboardermagazine.com/2022/10/canadian-sunrise-sessions/
@@ -26487,6 +27110,7 @@
     size: 3355597
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601465
   link: https://www.youtube.com/watch?v=zWj5Sk0o2_c
@@ -26523,6 +27147,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601464
   link: https://www.theguardian.com/lifeandstyle/2022/jul/30/you-cant-say-that-how-to-argue-better?utm_source=densediscovery
@@ -26561,6 +27186,7 @@
     size: 827566
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601463
   link: https://almondsurfboards.com/blogs/news/surfing-isnt-productive?_kx=WJeE3QQCOcj1C5-kKTUTnVQwLixGXGjdFW4dPGeJnNo%3D.Hb5zTY
@@ -26599,6 +27225,7 @@
     size: 1208807
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601462
   link: https://vimeo.com/766195563
@@ -26637,6 +27264,7 @@
     size: 73426
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601461
   link: https://www.youtube.com/watch?v=FRfuQbkoJcw
@@ -26673,6 +27301,7 @@
     status: invalid-origin
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601460
   link: https://arslan.io/2022/11/07/coffee-in-seoul/
@@ -26710,6 +27339,7 @@
     size: 6810913
   broken: false
   collectionId: 37576903
+  collection_name: COFFEE & FOOD
   parsed: {}
 - _id: 645601459
   link: https://indoek.com/article/surf-shacks-090-jonathan-mareike-weaver/
@@ -26747,6 +27377,7 @@
     size: 3926682
   broken: true
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601458
   link: https://beside.media/fr/besiders/ptit-belliveau/
@@ -26785,6 +27416,7 @@
     size: 6168760
   broken: true
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601457
   link: https://zenhabits.net/onebreath/
@@ -26820,6 +27452,7 @@
     size: 477571
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601456
   link: https://vaultofvhs.tumblr.com/
@@ -26858,6 +27491,7 @@
     size: 8681438
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601455
   link: https://analoguewonderland.co.uk/blogs/film-photography-blog/how-to-make-a-film-photography-zine
@@ -26896,6 +27530,7 @@
     size: 3428922
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601454
   link: https://overcast.fm/+8Txwwva7M
@@ -26935,6 +27570,7 @@
     size: 681073
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601452
   link: https://www.inkandswitch.com/potluck/
@@ -26973,6 +27609,7 @@
     size: 4199045
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 645601446
   link: https://robinrendle.com/notes/strategic-and-necessary/
@@ -27012,6 +27649,7 @@
     size: 450800
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 645601437
   link: https://beside.media/fr/atelier/decouvrir-lunivers-fantastique-des-champignons/
@@ -27050,6 +27688,7 @@
     size: 3220760
   broken: true
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601435
   link: https://anchor.fm/petit-journal-crea/episodes/5---La-cohrence-cardiaque-e1oidk7
@@ -27088,6 +27727,7 @@
     size: 4703670
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601424
   link: https://anchor.fm/petit-journal-crea/episodes/2---Pourquoi-parler-de-sant-mentale-e1o40h7
@@ -27126,6 +27766,7 @@
     size: 4580318
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601421
   link: https://www.lemonde.fr/les-decodeurs/article/2022/09/25/chauffage-eau-chaude-frigo-tele-combien-d-electricite-consommons-nous-et-comment-reduire-nos-factures_6143074_4355770.html
@@ -27164,6 +27805,7 @@
     size: 3928899
   broken: false
   collectionId: 37136914
+  collection_name: HOME
   parsed: {}
 - _id: 645601418
   link: https://www.deflowsurf.com/single-fin-guide/
@@ -27202,6 +27844,7 @@
     size: 619896
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601415
   link: https://thecreativeindependent.com/essays/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/
@@ -27241,6 +27884,7 @@
     size: 16009661
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 645601414
   link: https://lookingsideways.substack.com/p/episode-193-chris-burkard-original#details
@@ -27279,6 +27923,7 @@
     size: 4637471
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601406
   link: https://gear.vogelius.se/-editorials/iphone-x/index.html
@@ -27317,6 +27962,7 @@
     size: 85423
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601405
   link: https://www.creativepeptalk.com/episodes/380
@@ -27355,6 +28001,7 @@
     size: 1769499
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601396
   link: https://craigmod.com/ridgeline/146/
@@ -27393,6 +28040,7 @@
     size: 1618742
   broken: false
   collectionId: 37679925
+  collection_name: TRAVEL
   parsed: {}
 - _id: 645601395
   link: https://thebrowser.company/values/
@@ -27431,6 +28079,7 @@
     size: 987881
   broken: false
   collectionId: 37679925
+  collection_name: TRAVEL
   parsed: {}
 - _id: 645601393
   link: https://craigmod.com/roden/072/
@@ -27470,6 +28119,7 @@
     size: 2670451
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601392
   link: https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html
@@ -27508,6 +28158,7 @@
     size: 5364517
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 645601377
   link: https://www.fieldmag.com/articles/how-to-build-diy-wood-fired-hot-tub
@@ -27546,6 +28197,7 @@
     size: 246467
   broken: false
   collectionId: 37136914
+  collection_name: HOME
   parsed: {}
 - _id: 645601351
   link: https://www.flowjournal.org/2022/02/failure-in-skateboarding/
@@ -27584,6 +28236,7 @@
     size: 10829667
   broken: false
   collectionId: 37459360
+  collection_name: SKATEBOARDING
   parsed: {}
 - _id: 645601350
   link: https://www.fieldmag.com/articles/baja-california-road-trip-photography-mexico
@@ -27623,6 +28276,7 @@
   broken: false
   duplicate: 645601325
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601345
   link: https://almondsurfboards.com/blogs/news/fin-selection-placement-for-longboards?_kx=WJeE3QQCOcj1C5-kKTUTnVQwLixGXGjdFW4dPGeJnNo%3D.Hb5zTY
@@ -27661,6 +28315,7 @@
     size: 2175879
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601329
   link: https://craigmod.com/roden/067/
@@ -27701,6 +28356,7 @@
     size: 1468999
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601325
   link: https://www.fieldmag.com/articles/baja-california-road-trip-photography-mexico
@@ -27741,6 +28397,7 @@
     size: 243572
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601320
   link: https://www.newstatesman.com/culture/music/2022/02/how-jim-morrison-killed-rock-n-roll
@@ -27781,6 +28438,7 @@
     size: 5754885
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601295
   link: https://craigmod.com/essays/memberships_work/
@@ -27820,6 +28478,7 @@
     size: 3025712
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601269
   link: https://www.newyorker.com/magazine/2021/12/20/can-distraction-free-devices-change-the-way-we-write
@@ -27859,6 +28518,7 @@
     size: 4587084
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 645601268
   link: https://papersky.jp/en/electric-ride-misaki/
@@ -27897,6 +28557,7 @@
     size: 5575080
   broken: false
   collectionId: 37679925
+  collection_name: TRAVEL
   parsed: {}
 - _id: 645601265
   link: https://www.monsterchildren.com/the-amazing-grace-of-beatrice-domond/
@@ -27934,6 +28595,7 @@
     size: 2581749
   broken: true
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601257
   link: https://www.nytimes.com/2021/11/23/t-magazine/hayao-miyazaki-studio-ghibli.html
@@ -27974,6 +28636,7 @@
     size: 1742488
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601254
   link: https://thedolectures.com/reading-lists/100-must-read-books-in-2021/
@@ -28014,6 +28677,7 @@
     size: 697090
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601242
   link: https://daydreamsurfshop.com/blogs/news
@@ -28054,6 +28718,7 @@
     size: 1085456
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601229
   link: https://ia.net/topics/on-apps-and-coffee
@@ -28094,6 +28759,7 @@
     size: 4509157
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601202
   link: https://craigmod.com/ridgeline/129/
@@ -28133,6 +28799,7 @@
     size: 3222289
   broken: false
   collectionId: 37679925
+  collection_name: TRAVEL
   parsed: {}
 - _id: 645601194
   link: https://www.lemonde.fr/idees/article/2021/10/03/la-croissance-verte-pourrait-n-etre-rien-d-autre-qu-un-mythe-qu-il-faudrait-sans-doute-qualifier-de-fake-news_6096893_3232.html
@@ -28174,6 +28841,7 @@
     size: 3523703
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601193
   link: https://craigmod.com/roden/060/
@@ -28214,6 +28882,7 @@
     size: 1247678
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601182
   link: https://every.to/superorganizers/walking-as-a-productivity-system
@@ -28254,6 +28923,7 @@
     size: 64026671
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601178
   link: https://craigmod.com/roden/059/
@@ -28294,6 +28964,7 @@
     size: 1143520
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601175
   link: https://www.fieldmag.com/articles/yawn-patrol-new-york-city-surfing-photo-book
@@ -28333,6 +29004,7 @@
     size: 238303
   broken: false
   collectionId: 37136905
+  collection_name: SURF
   parsed: {}
 - _id: 645601171
   link: https://beside.media/fr/ailleurs/pratiquer-le-voyage-lent/
@@ -28372,6 +29044,7 @@
     size: 1436040
   broken: true
   collectionId: 37679925
+  collection_name: TRAVEL
   parsed: {}
 - _id: 645601170
   link: https://www.fabrizio.so/notes/2020
@@ -28412,6 +29085,7 @@
     size: 137616
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601162
   link: https://realfunwow.com/
@@ -28452,6 +29126,7 @@
     size: 2586861
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601157
   link: https://craigmod.com/roden/056/
@@ -28493,6 +29168,7 @@
     size: 841427
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601156
   link: https://www.lemonde.fr/planete/article/2021/06/23/dereglement-climatique-l-humanite-a-l-aube-de-retombees-cataclysmiques-alerte-le-giec_6085284_3244.html
@@ -28534,6 +29210,7 @@
     size: 3713936
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601152
   link: https://julian.digital/2020/09/04/a-meta-layer-for-notes/
@@ -28573,6 +29250,7 @@
     size: 7355023
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 645601146
   link: https://robinrendle.com/notes/the-return-of-the-blogroll.html
@@ -28613,6 +29291,7 @@
     size: 448898
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 645601142
   link: https://craigmod.com/ridgeline/116/
@@ -28653,6 +29332,7 @@
     size: 914124
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601134
   link: https://www.dwell.com/article/the-nook-shelter-design-studio-a50e75c6
@@ -28694,6 +29374,7 @@
     size: 1091557
   broken: false
   collectionId: 37136914
+  collection_name: HOME
   parsed: {}
 - _id: 645601133
   link: https://jeremylachance.com/
@@ -28735,6 +29416,7 @@
     size: 98702
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601132
   link: https://craigmod.com/essays/sms_publishing/
@@ -28775,6 +29457,7 @@
     size: 1515916
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 645601131
   link: https://craigmod.com/roden/054/
@@ -28816,6 +29499,7 @@
     size: 57836
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 645601130
   link: https://joelhooks.com/digital-garden
@@ -28856,6 +29540,7 @@
     size: 520129
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 645601127
   link: https://newrepublic.com/article/161106/defense-nothing
@@ -28896,6 +29581,7 @@
     size: 1103029
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601121
   link: https://www.h-eva.com/
@@ -28934,6 +29620,7 @@
     size: 2016676
   broken: false
   collectionId: 37136914
+  collection_name: HOME
   parsed: {}
 - _id: 645601118
   link: https://denoutdoors.com/collections/modern-amenities/products/outdoor-sauna
@@ -28974,6 +29661,7 @@
     size: 918201
   broken: false
   collectionId: 37136914
+  collection_name: HOME
   parsed: {}
 - _id: 645601116
   link: https://craigmod.com/essays/looking_closely/
@@ -29014,6 +29702,7 @@
     size: 1935177
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601113
   link: https://craigmod.com/ridgeline/109/
@@ -29054,6 +29743,7 @@
     size: 1141110
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601110
   link: https://craigmod.com/huh/welcome/
@@ -29094,6 +29784,7 @@
     size: 1023940
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601108
   link: https://wesley.substack.com/p/process-025-shooting-expired-slide
@@ -29133,6 +29824,7 @@
     size: 4417441
   broken: false
   collectionId: 37459371
+  collection_name: PHOTOGRAPHY
   parsed: {}
 - _id: 645601106
   link: https://craigmod.com/essays/fast_software/
@@ -29173,6 +29865,7 @@
     size: 351104
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 645601102
   link: https://beside.media/fr/atelier/consommer-notre-cafe-en-toute-conscience/
@@ -29214,6 +29907,7 @@
     size: 3674379
   broken: true
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601099
   link: https://www.insidehook.com/article/books/ken-laynes-journey
@@ -29254,6 +29948,7 @@
     size: 11402637
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601096
   link: https://www.robinrendle.com/essays/newsletters
@@ -29295,6 +29990,7 @@
     size: 82375
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601081
   link: https://gist.github.com/mmcgrana/3dcd36547453ecf25c17
@@ -29336,6 +30032,7 @@
     size: 2272799
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 645601079
   link: https://damien.cool/plus-important-que-davoir-plein-de-temps/
@@ -29376,6 +30073,7 @@
     size: 945879
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601077
   link: https://damien.cool/ecrire-cest-vivre-deux-fois/
@@ -29416,6 +30114,7 @@
     size: 1103772
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601073
   link: https://getpocket.com/explore/item/why-time-management-is-ruining-our-lives?utm\_source=densediscovery&utm\_medium=email&utm\_campaign=newsletter-issue-116
@@ -29456,6 +30155,7 @@
     size: 807130
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601069
   link: https://www.julian.com/guide/write/intro
@@ -29496,6 +30196,7 @@
     size: 328930
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601063
   link: https://anotherescape.com/journal/changing-things-up-our-new-chapter
@@ -29537,6 +30238,7 @@
     size: 192898
   broken: false
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601058
   link: https://www.inkandswitch.com/local-first.html
@@ -29576,6 +30278,7 @@
     size: 3171882
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 645601056
   link: https://github.com/lenazun/working-remotely/blob/master/ideas.md
@@ -29618,6 +30321,7 @@
     size: 4685356
   broken: false
   collectionId: 38035089
+  collection_name: TECH
   parsed: {}
 - _id: 645601044
   link: https://beside.media/fr/besiders/la-quete-dun-artisan-du-sel/
@@ -29658,6 +30362,7 @@
     size: 1378459
   broken: true
   collectionId: 37679987
+  collection_name: ART & CULTURE
   parsed: {}
 - _id: 645601030
   link: https://beside.media/fr/mini-guides/comment-cuisiner-sur-le-feu/
@@ -29698,6 +30403,7 @@
     size: 5329745
   broken: true
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601018
   link: https://beside.media/field-notes-of-a-new-forager/
@@ -29736,6 +30442,7 @@
     status: invalid-origin
   broken: true
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}
 - _id: 645601005
   link: https://www.profgalloway.com/happiness-the-gorilla
@@ -29775,4 +30482,5 @@
     size: 1327989
   broken: false
   collectionId: 37603939
+  collection_name: A BETTER LIFE
   parsed: {}

@@ -2,6 +2,7 @@
 uuid: 645601616
 bookmarkOf: https://slightlychoppy.com/blogs/news/united-states-and-oceans-of-america
 category: article
+collection: A BETTER LIFE
 headImage: https://slightlychoppy.com/cdn/shop/articles/Screen_Shot_2019-02-26_at_9.35.56_AM_1200x1200.png?v=1551202798
 title: United States and Oceans of America
 domain: slightlychoppy.com

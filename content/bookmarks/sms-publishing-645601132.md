@@ -2,6 +2,7 @@
 uuid: 645601132
 bookmarkOf: https://craigmod.com/essays/sms_publishing/
 category: article
+collection: TECH
 headImage: https://craigmod.com/essays/images/sms_publishing/cover_sms.jpg
 title: SMS Publishing
 domain: craigmod.com

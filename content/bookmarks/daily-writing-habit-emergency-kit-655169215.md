@@ -2,6 +2,7 @@
 uuid: 655169215
 bookmarkOf: https://ia.net/topics/daily-writing-habit-emergency-kit
 category: article
+collection: A BETTER LIFE
 headImage: https://ia.net/wp-content/uploads/2023/09/just-write-daily-1024x375.png
 title: 'Daily Writing Habit: Emergency Kit'
 domain: ia.net

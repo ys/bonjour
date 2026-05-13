@@ -2,6 +2,7 @@
 uuid: 678072668
 bookmarkOf: https://github.com/PhotoFolder/app
 category: link
+collection: PHOTOGRAPHY
 headImage: https://opengraph.githubassets.com/1816398fad908ed78a73b72f331ddbec6dc5005d292fc00adc21afbb6f6c9f16/PhotoFolder/app
 title: 'PhotoFolder/app: File explorer made for pictures - Auto detect faces and objects
   locally'

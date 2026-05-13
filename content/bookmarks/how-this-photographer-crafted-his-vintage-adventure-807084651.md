@@ -2,6 +2,7 @@
 uuid: 807084651
 bookmarkOf: https://www.youtube.com/watch?v=fbNNnQZzJtg
 category: video
+collection: TRAVEL
 headImage: https://i.ytimg.com/vi/fbNNnQZzJtg/maxresdefault.jpg
 title: How This Photographer Crafted His Vintage Adventure Van | Huckberry Homes Ep.
   8 James Barkman

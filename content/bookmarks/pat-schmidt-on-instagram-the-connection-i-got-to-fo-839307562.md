@@ -2,6 +2,7 @@
 uuid: 839307562
 bookmarkOf: https://www.instagram.com/p/C-5U1Bvu8IM/
 category: image
+collection: SURF
 headImage: https://scontent.cdninstagram.com/v/t51.29350-15/456452791_7991624574278801_1150898828537870563_n.jpg?stp=dst-jpg_e15_s640x640&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_ohc=e-KArKl9Ik8Q7kNvgG8PgJN&edm=AMO9-JQAAAAA&ccb=7-5&oh=00_AYCWEBwgvBDVXnRM5g3paB8dEY6xXZYlH-m-u8gjTDWyiA&oe=66CB8034&_nc_sid=cc8940
 title: 'Pat Schmidt on Instagram: "The connection I got to form with Andrew since
   moving to the east end is unexplainable. We always felt in sync. I felt like if

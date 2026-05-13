@@ -2,6 +2,7 @@
 uuid: 942326161
 bookmarkOf: https://www.youtube.com/watch?v=GlKSr6KY1IU
 category: video
+collection: PHOTOGRAPHY
 headImage: https://i.ytimg.com/vi/GlKSr6KY1IU/hqdefault.jpg
 title: How To Start Platinum Palladium Printing?
 domain: youtube.com

@@ -2,6 +2,7 @@
 uuid: 846745748
 bookmarkOf: https://surfgirlmag.com/family-time-surf-trip-mexico/
 category: article
+collection: SURF
 headImage: https://surfgirlmag.com/wp-content/uploads/2024/05/sally3.jpg
 title: 'Sendero: Sally''s Warm Water Escape - SurfGirl Magazine'
 domain: surfgirlmag.com

@@ -2,6 +2,7 @@
 uuid: 1139064411
 bookmarkOf: https://youtube.com/watch?v=jdJkJ7cZdkI&si=CSKk65B9TOfmtC9c
 category: video
+collection: TRAVEL
 headImage: https://i.ytimg.com/vi/jdJkJ7cZdkI/maxresdefault.jpg
 title: How We Made the Best Adventure Travel Show on the Internet | Huckberry’s DIRT
   Origin Story

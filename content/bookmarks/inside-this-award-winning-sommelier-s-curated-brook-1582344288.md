@@ -2,6 +2,7 @@
 uuid: 1582344288
 bookmarkOf: https://www.youtube.com/watch?v=pQjK7O78_B0
 category: video
+collection: COFFEE & FOOD
 headImage: https://i.ytimg.com/vi/pQjK7O78_B0/maxresdefault.jpg
 title: 'Inside This Award-Winning Sommelier''s Curated Brooklyn Home | Huckberry Homes:
   André Hueston Mack'

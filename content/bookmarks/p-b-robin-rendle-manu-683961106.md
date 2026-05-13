@@ -2,6 +2,7 @@
 uuid: 683961106
 bookmarkOf: https://manuelmoreale.com/pb-robin-rendle?utm_source=peopleandblogs&utm_medium=email&utm_campaign=pb-robin-rendle
 category: link
+collection: TECH
 headImage: https://rdl.ink/render/https%3A%2F%2Fmanuelmoreale.com%2Fpb-robin-rendle%3Futm_source%3Dpeopleandblogs%26utm_medium%3Demail%26utm_campaign%3Dpb-robin-rendle
 title: 'P&B: Robin Rendle – Manu'
 domain: manuelmoreale.com

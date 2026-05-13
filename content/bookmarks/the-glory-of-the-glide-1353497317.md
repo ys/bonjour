@@ -2,6 +2,7 @@
 uuid: 1353497317
 bookmarkOf: https://www.youtube.com/watch?v=XtIRrHmNUZA
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/XtIRrHmNUZA/maxresdefault.jpg
 title: The Glory of the Glide
 domain: youtube.com

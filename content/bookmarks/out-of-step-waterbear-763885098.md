@@ -2,6 +2,7 @@
 uuid: 763885098
 bookmarkOf: https://www.waterbear.com/watch/out-of-step
 category: link
+collection: A BETTER LIFE
 headImage: https://cdn.sanity.io/images/4ejxdwee/production/04fc963622d4763fb1c15dd2a1bd8efec9df16d9-3840x2160.jpg?w=630&q=70&auto=format
 title: Out of Step | WaterBear
 domain: waterbear.com

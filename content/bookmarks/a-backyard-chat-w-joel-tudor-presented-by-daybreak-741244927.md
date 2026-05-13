@@ -2,6 +2,7 @@
 uuid: 741244927
 bookmarkOf: https://www.youtube.com/watch?v=1VDagq3KiSI
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/1VDagq3KiSI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGE8gWyhlMA8=&rs=AOn4CLBUirTMZDf7K7WPcbp06DhArgeJaA
 title: A Backyard Chat w/ Joel Tudor | Presented by DAYBREAK
 domain: youtube.com

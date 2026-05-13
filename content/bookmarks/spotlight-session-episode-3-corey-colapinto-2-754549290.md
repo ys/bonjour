@@ -2,6 +2,7 @@
 uuid: 754549290
 bookmarkOf: https://www.youtube.com/watch?v=S1O96HeFcw4
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/S1O96HeFcw4/maxresdefault.jpg
 title: Spotlight Session Episode 3 Corey Colapinto 2
 domain: youtube.com

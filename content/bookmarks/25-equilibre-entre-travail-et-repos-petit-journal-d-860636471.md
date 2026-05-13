@@ -2,6 +2,7 @@
 uuid: 860636471
 bookmarkOf: https://overcast.fm/+AA8TxzbJoiw
 category: audio
+collection: A BETTER LIFE
 headImage: https://public.overcast-cdn.com/art/3952412?v1
 title: "#25 - Equilibre entre Travail et Repos — Petit journal d’un créatif"
 domain: overcast.fm

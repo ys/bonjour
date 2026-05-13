@@ -2,6 +2,7 @@
 uuid: 645601531
 bookmarkOf: https://rachelbinx.com/
 category: link
+collection: TECH
 headImage: https://rachelbinx.com/header.png
 title: Rachel Binx
 domain: rachelbinx.com

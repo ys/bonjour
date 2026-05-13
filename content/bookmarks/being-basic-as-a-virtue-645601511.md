@@ -2,6 +2,7 @@
 uuid: 645601511
 bookmarkOf: https://nadia.xyz/basic
 category: article
+collection: A BETTER LIFE
 headImage: https://rdl.ink/render/https%3A%2F%2Fnadia.xyz%2Fbasic
 title: Being basic as a virtue
 domain: nadia.xyz

@@ -2,6 +2,7 @@
 uuid: 757993484
 bookmarkOf: https://www.youtube.com/watch?v=rPxTYqrHkdM&list=WL&index=1
 category: video
+collection: A BETTER LIFE
 headImage: https://i.ytimg.com/vi/rPxTYqrHkdM/maxresdefault.jpg
 title: The Art of Slow Living
 domain: youtube.com

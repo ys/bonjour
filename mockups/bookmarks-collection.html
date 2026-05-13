@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bookmarks — Collection Mockups</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            paper:   '#FFFCF0',
+            ink:     '#100F0F',
+            'fo-100': '#E6E4D9',
+            'fo-200': '#CECDC3',
+            'fo-300': '#B7B5AC',
+            'fo-500': '#878580',
+            'fo-600': '#6F6E69',
+            'fo-700': '#575653',
+            'fo-800': '#403E3C',
+            'fo-900': '#282726',
+            red:     '#D14D41',
+            orange:  '#DA702C',
+            yellow:  '#D0A215',
+            green:   '#879A39',
+            cyan:    '#3AA99F',
+            blue:    '#4385BE',
+            purple:  '#8B7EC8',
+            magenta: '#CE5D97',
+          },
+          fontFamily: {
+            sans: ['-apple-system', 'BlinkMacSystemFont', 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif'],
+            mono: ['ui-monospace', 'SFMono-Regular', 'Menlo', 'monospace'],
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    body { background: #FFFCF0; color: #100F0F; }
+  </style>
+</head>
+<body class="min-h-screen">
+
+<!-- NAV -->
+<div class="sticky top-0 z-50 bg-paper/90 backdrop-blur border-b border-fo-100 px-6 py-3 flex gap-3 items-center">
+  <span class="text-xs font-medium text-fo-600 uppercase tracking-widest mr-2">Collection mockup</span>
+  <a href="#a" class="text-xs px-3 py-1 rounded-full border border-fo-200 hover:border-ink transition-colors">A · Code in column</a>
+  <a href="#b" class="text-xs px-3 py-1 rounded-full border border-fo-200 hover:border-ink transition-colors">B · Pill in footer</a>
+  <a href="#c" class="text-xs px-3 py-1 rounded-full border border-fo-200 hover:border-ink transition-colors">C · Grouped by collection</a>
+</div>
+
+
+<!-- ═══════════════════════════════════════════════
+     MOCKUP A — Collection code replaces category letter
+     3-col grid: [collection code] [title] [domain]
+     ═══════════════════════════════════════════════ -->
+<section id="a" class="max-w-2xl mx-auto px-6 py-12">
+
+  <div class="mb-8">
+    <div class="inline-block text-xs font-medium tracking-widest uppercase text-fo-500 mb-2">Mockup A</div>
+    <h1 class="text-xl font-bold mb-1">Collection code in the left column</h1>
+    <p class="text-fo-600 text-sm">Replaces the single-letter category with a 3-char collection abbreviation. Same ledger feel, new info axis.</p>
+  </div>
+
+  <div class="mb-6">
+    <div class="flex items-baseline gap-4 mb-1 pb-1 border-b-2 border-ink">
+      <h2 class="font-sans text-[11px] font-bold tracking-[.15em] uppercase">2025</h2>
+      <span class="font-sans text-[11px] text-fo-500 ml-auto">12</span>
+    </div>
+    <ul>
+
+      <li class="group grid gap-x-4 border-b border-fo-100 py-1 hover:bg-fo-100 -mx-2 px-2 transition-colors" style="grid-template-columns: 3.5ch 1fr auto">
+        <span class="font-mono text-[10px] font-bold text-cyan mt-[3px] tracking-tight">SRF</span>
+        <div class="min-w-0">
+          <a href="#" class="font-sans font-medium no-underline text-ink hover:opacity-50 transition-opacity text-[13px] leading-snug truncate block">Canto — A surf trip through Vancouver Island</a>
+          <p class="hidden group-hover:block text-[13px] italic text-fo-500 leading-snug">I wanna see Vancouver Island</p>
+        </div>
+        <span class="font-mono text-[11px] text-fo-400 whitespace-nowrap mt-[3px]">finisterre.com</span>
+      </li>
+
+      <li class="group grid gap-x-4 border-b border-fo-100 py-1 hover:bg-fo-100 -mx-2 px-2 transition-colors" style="grid-template-columns: 3.5ch 1fr auto">
+        <span class="font-mono text-[10px] font-bold text-blue mt-[3px] tracking-tight">TEC</span>
+        <div class="min-w-0">
+          <a href="#" class="font-sans font-medium no-underline text-ink hover:opacity-50 transition-opacity text-[13px] leading-snug truncate block">MD UI · Mass-Driver™</a>
+        </div>
+        <span class="font-mono text-[11px] text-fo-400 whitespace-nowrap mt-[3px]">mass-driver.com</span>
+      </li>
+
+      <li class="group grid gap-x-4 border-b border-fo-100 py-1 hover:bg-fo-100 -mx-2 px-2 transition-colors" style="grid-template-columns: 3.5ch 1fr auto">
+        <span class="font-mono text-[10px] font-bold text-orange mt-[3px] tracking-tight">SKT</span>
+        <div class="min-w-0">
+          <a href="#" class="font-sans font-medium no-underline text-ink hover:opacity-50 transition-opacity text-[13px] leading-snug truncate block">Andy Anderson: The Shape of Paris</a>
+        </div>
+        <span class="font-mono text-[11px] text-fo-400 whitespace-nowrap mt-[3px]">youtube.com</span>
+      </li>
+
+      <li class="group grid gap-x-4 border-b border-fo-100 py-1 hover:bg-fo-100 -mx-2 px-2 transition-colors" style="grid-template-columns: 3.5ch 1fr auto">
+        <span class="font-mono text-[10px] font-bold text-purple mt-[3px] tracking-tight">PHO</span>
+        <div class="min-w-0">
+          <a href="#" class="font-sans font-medium no-underline text-ink hover:opacity-50 transition-opacity text-[13px] leading-snug truncate block">Deadbeatclub</a>
+        </div>
+        <span class="font-mono text-[11px] text-fo-400 whitespace-nowrap mt-[3px]">deadbeatclub.com</span>
+      </li>
+
+      <li class="group grid gap-x-4 border-b border-fo-100 py-1 hover:bg-fo-100 -mx-2 px-2 transition-colors" style="grid-template-columns: 3.5ch 1fr auto">
+        <span class="font-mono text-[10px] font-bold text-green mt-[3px] tracking-tight">ABL</span>
+        <div class="min-w-0">
+          <a href="#" class="font-sans font-medium no-underline text-ink hover:opacity-50 transition-opacity text-[13px] leading-snug truncate block">In Defense of Doing Nothing</a>
+          <p class="hidden group-hover:block text-[13px] italic text-fo-500 leading-snug">A timely reminder to slow down</p>
+        </div>
+        <span class="font-mono text-[11px] text-fo-400 whitespace-nowrap mt-[3px]">raptitude.com</span>
+      </li>
+
+      <li class="group grid gap-x-4 border-b border-fo-100 py-1 hover:bg-fo-100 -mx-2 px-2 transition-colors" style="grid-template-columns: 3.5ch 1fr auto">
+        <span class="font-mono text-[10px] font-bold text-yellow mt-[3px] tracking-tight">A&C</span>
+        <div class="min-w-0">
+          <a href="#" class="font-sans font-medium no-underline text-ink hover:opacity-50 transition-opacity text-[13px] leading-snug truncate block">RUIN RADIO APRIL MIXTAPE 2026: Ed Templeton</a>
+        </div>
+        <span class="font-mono text-[11px] text-fo-400 whitespace-nowrap mt-[3px]">ruinradio.com</span>
+      </li>
+
+      <li class="group grid gap-x-4 border-b border-fo-100 py-1 hover:bg-fo-100 -mx-2 px-2 transition-colors" style="grid-template-columns: 3.5ch 1fr auto">
+        <span class="font-mono text-[10px] font-bold text-red mt-[3px] tracking-tight">BKS</span>
+        <div class="min-w-0">
+          <a href="#" class="font-sans font-medium no-underline text-ink hover:opacity-50 transition-opacity text-[13px] leading-snug truncate block">Lost Coast (Second Edition)</a>
+        </div>
+        <span class="font-mono text-[11px] text-fo-400 whitespace-nowrap mt-[3px]">goodreads.com</span>
+      </li>
+
+    </ul>
+  </div>
+
+  <!-- Legend -->
+  <div class="flex flex-wrap gap-x-4 gap-y-1 mt-6 pt-4 border-t border-fo-100">
+    <span class="font-mono text-[10px] font-bold text-cyan">SRF</span><span class="text-[10px] text-fo-500 mr-2">Surf</span>
+    <span class="font-mono text-[10px] font-bold text-blue">TEC</span><span class="text-[10px] text-fo-500 mr-2">Tech</span>
+    <span class="font-mono text-[10px] font-bold text-orange">SKT</span><span class="text-[10px] text-fo-500 mr-2">Skateboarding</span>
+    <span class="font-mono text-[10px] font-bold text-purple">PHO</span><span class="text-[10px] text-fo-500 mr-2">Photography</span>
+    <span class="font-mono text-[10px] font-bold text-green">ABL</span><span class="text-[10px] text-fo-500 mr-2">A Better Life</span>
+    <span class="font-mono text-[10px] font-bold text-yellow">A&C</span><span class="text-[10px] text-fo-500 mr-2">Art & Culture</span>
+    <span class="font-mono text-[10px] font-bold text-red">BKS</span><span class="text-[10px] text-fo-500 mr-2">Books</span>
+    <span class="font-mono text-[10px] font-bold text-magenta">HOM</span><span class="text-[10px] text-fo-500 mr-2">Home</span>
+    <span class="font-mono text-[10px] font-bold text-fo-600">C&F</span><span class="text-[10px] text-fo-500 mr-2">Coffee & Food</span>
+    <span class="font-mono text-[10px] font-bold text-fo-600">TRV</span><span class="text-[10px] text-fo-500 mr-2">Travel</span>
+    <span class="font-mono text-[10px] font-bold text-fo-600">GER</span><span class="text-[10px] text-fo-500">Gear</span>
+  </div>
+
+</section>
+
+
+<!-- ═══════════════════════════════════════════════
+     MOCKUP B — Collection pill in the footer row
+     Same 3-col grid as now, collection chip after domain
+     ═══════════════════════════════════════════════ -->
+<section id="b" class="max-w-2xl mx-auto px-6 py-12 border-t border-fo-100">
+
+  <div class="mb-8">
+    <div class="inline-block text-xs font-medium tracking-widest uppercase text-fo-500 mb-2">Mockup B</div>
+    <h1 class="text-xl font-bold mb-1">Collection pill in the footer</h1>
+    <p class="text-fo-600 text-sm">Keeps the category letter, adds a subtle uppercase collection label at the far right. Hover reveals the note.</p>
+  </div>
+
+  <div class="mb-6">
+    <div class="flex items-baseline gap-4 mb-1 pb-1 border-b-2 border-ink">
+      <h2 class="font-sans text-[11px] font-bold tracking-[.15em] uppercase">2025</h2>
+      <span class="font-sans text-[11px] text-fo-500 ml-auto">12</span>
+    </div>
+    <ul>
+
+      <li class="group border-b border-fo-100 py-1.5 hover:bg-fo-100 -mx-2 px-2 transition-colors">
+        <div class="flex items-baseline gap-x-3">
+          <span class="font-mono text-[11px] font-bold text-blue shrink-0">A</span>
+          <a href="#" class="font-sans font-medium no-underline text-ink hover:opacity-50 transition-opacity text-[13px] leading-snug truncate flex-1 min-w-0 block">Canto — A surf trip through Vancouver Island</a>
+          <span class="font-mono text-[10px] text-fo-400 whitespace-nowrap shrink-0">finisterre.com</span>
+          <span class="font-sans text-[9px] font-medium uppercase tracking-wider text-cyan whitespace-nowrap shrink-0">Surf</span>
+        </div>
+        <p class="hidden group-hover:block text-[12px] italic text-fo-500 leading-snug pl-5 pt-0.5">I wanna see Vancouver Island</p>
+      </li>
+
+      <li class="group border-b border-fo-100 py-1.5 hover:bg-fo-100 -mx-2 px-2 transition-colors">
+        <div class="flex items-baseline gap-x-3">
+          <span class="font-mono text-[11px] font-bold text-blue shrink-0">A</span>
+          <a href="#" class="font-sans font-medium no-underline text-ink hover:opacity-50 transition-opacity text-[13px] leading-snug truncate flex-1 min-w-0 block">MD UI · Mass-Driver™</a>
+          <span class="font-mono text-[10px] text-fo-400 whitespace-nowrap shrink-0">mass-driver.com</span>
+          <span class="font-sans text-[9px] font-medium uppercase tracking-wider text-blue whitespace-nowrap shrink-0">Tech</span>
+        </div>
+      </li>
+
+      <li class="group border-b border-fo-100 py-1.5 hover:bg-fo-100 -mx-2 px-2 transition-colors">
+        <div class="flex items-baseline gap-x-3">
+          <span class="font-mono text-[11px] font-bold text-yellow shrink-0">V</span>
+          <a href="#" class="font-sans font-medium no-underline text-ink hover:opacity-50 transition-opacity text-[13px] leading-snug truncate flex-1 min-w-0 block">Andy Anderson: The Shape of Paris</a>
+          <span class="font-mono text-[10px] text-fo-400 whitespace-nowrap shrink-0">youtube.com</span>
+          <span class="font-sans text-[9px] font-medium uppercase tracking-wider text-orange whitespace-nowrap shrink-0">Skate</span>
+        </div>
+      </li>
+
+      <li class="group border-b border-fo-100 py-1.5 hover:bg-fo-100 -mx-2 px-2 transition-colors">
+        <div class="flex items-baseline gap-x-3">
+          <span class="font-mono text-[11px] font-bold text-orange shrink-0">L</span>
+          <a href="#" class="font-sans font-medium no-underline text-ink hover:opacity-50 transition-opacity text-[13px] leading-snug truncate flex-1 min-w-0 block">Deadbeatclub</a>
+          <span class="font-mono text-[10px] text-fo-400 whitespace-nowrap shrink-0">deadbeatclub.com</span>
+          <span class="font-sans text-[9px] font-medium uppercase tracking-wider text-purple whitespace-nowrap shrink-0">Photo</span>
+        </div>
+      </li>
+
+      <li class="group border-b border-fo-100 py-1.5 hover:bg-fo-100 -mx-2 px-2 transition-colors">
+        <div class="flex items-baseline gap-x-3">
+          <span class="font-mono text-[11px] font-bold text-blue shrink-0">A</span>
+          <a href="#" class="font-sans font-medium no-underline text-ink hover:opacity-50 transition-opacity text-[13px] leading-snug truncate flex-1 min-w-0 block">In Defense of Doing Nothing</a>
+          <span class="font-mono text-[10px] text-fo-400 whitespace-nowrap shrink-0">raptitude.com</span>
+          <span class="font-sans text-[9px] font-medium uppercase tracking-wider text-green whitespace-nowrap shrink-0">Life</span>
+        </div>
+      </li>
+
+      <li class="group border-b border-fo-100 py-1.5 hover:bg-fo-100 -mx-2 px-2 transition-colors">
+        <div class="flex items-baseline gap-x-3">
+          <span class="font-mono text-[11px] font-bold text-yellow shrink-0">V</span>
+          <a href="#" class="font-sans font-medium no-underline text-ink hover:opacity-50 transition-opacity text-[13px] leading-snug truncate flex-1 min-w-0 block">RUIN RADIO APRIL MIXTAPE 2026: Ed Templeton</a>
+          <span class="font-mono text-[10px] text-fo-400 whitespace-nowrap shrink-0">youtube.com</span>
+          <span class="font-sans text-[9px] font-medium uppercase tracking-wider text-yellow whitespace-nowrap shrink-0">Art</span>
+        </div>
+      </li>
+
+    </ul>
+  </div>
+
+</section>
+
+
+<!-- ═══════════════════════════════════════════════
+     MOCKUP C — Grouped by collection
+     Section headers = collection name, no year groups
+     ═══════════════════════════════════════════════ -->
+<section id="c" class="max-w-2xl mx-auto px-6 py-12 border-t border-fo-100">
+
+  <div class="mb-8">
+    <div class="inline-block text-xs font-medium tracking-widest uppercase text-fo-500 mb-2">Mockup C</div>
+    <h1 class="text-xl font-bold mb-1">Grouped by collection</h1>
+    <p class="text-fo-600 text-sm">Browse by topic instead of time. Collection name becomes the section header. Within each section, ordered newest first.</p>
+  </div>
+
+  <!-- SURF section -->
+  <div class="mb-8">
+    <div class="flex items-baseline gap-4 mb-1 pb-1 border-b-2 border-ink">
+      <h2 class="font-sans text-[11px] font-bold tracking-[.15em] uppercase text-cyan">Surf</h2>
+      <span class="font-sans text-[11px] text-fo-500 ml-auto">208</span>
+    </div>
+    <ul>
+      <li class="group grid gap-x-4 border-b border-fo-100 py-1 hover:bg-fo-100 -mx-2 px-2 transition-colors" style="grid-template-columns: 1.5ch 1fr auto">
+        <span class="font-mono text-[11px] font-bold text-blue mt-[3px]">A</span>
+        <div class="min-w-0">
+          <a href="#" class="font-sans font-medium no-underline text-ink hover:opacity-50 transition-opacity text-[13px] leading-snug truncate block">Canto — A surf trip through Vancouver Island</a>
+          <p class="hidden group-hover:block text-[13px] italic text-fo-500 leading-snug">I wanna see Vancouver Island</p>
+        </div>
+        <span class="font-mono text-[11px] text-fo-400 whitespace-nowrap mt-[3px]">finisterre.com</span>
+      </li>
+      <li class="group grid gap-x-4 border-b border-fo-100 py-1 hover:bg-fo-100 -mx-2 px-2 transition-colors" style="grid-template-columns: 1.5ch 1fr auto">
+        <span class="font-mono text-[11px] font-bold text-yellow mt-[3px]">V</span>
+        <div class="min-w-0">
+          <a href="#" class="font-sans font-medium no-underline text-ink hover:opacity-50 transition-opacity text-[13px] leading-snug truncate block">Pond | Longboard Surf Film by Cameron Staunton</a>
+        </div>
+        <span class="font-mono text-[11px] text-fo-400 whitespace-nowrap mt-[3px]">nobodysurf.com</span>
+      </li>
+      <li class="group grid gap-x-4 border-b border-fo-100 py-1 hover:bg-fo-100 -mx-2 px-2 transition-colors" style="grid-template-columns: 1.5ch 1fr auto">
+        <span class="font-mono text-[11px] font-bold text-yellow mt-[3px]">V</span>
+        <div class="min-w-0">
+          <a href="#" class="font-sans font-medium no-underline text-ink hover:opacity-50 transition-opacity text-[13px] leading-snug truncate block">How To Waste The Morning At San O</a>
+        </div>
+        <span class="font-mono text-[11px] text-fo-400 whitespace-nowrap mt-[3px]">youtube.com</span>
+      </li>
+    </ul>
+  </div>
+
+  <!-- A BETTER LIFE section -->
+  <div class="mb-8">
+    <div class="flex items-baseline gap-4 mb-1 pb-1 border-b-2 border-ink">
+      <h2 class="font-sans text-[11px] font-bold tracking-[.15em] uppercase text-green">A Better Life</h2>
+      <span class="font-sans text-[11px] text-fo-500 ml-auto">103</span>
+    </div>
+    <ul>
+      <li class="group grid gap-x-4 border-b border-fo-100 py-1 hover:bg-fo-100 -mx-2 px-2 transition-colors" style="grid-template-columns: 1.5ch 1fr auto">
+        <span class="font-mono text-[11px] font-bold text-blue mt-[3px]">A</span>
+        <div class="min-w-0">
+          <a href="#" class="font-sans font-medium no-underline text-ink hover:opacity-50 transition-opacity text-[13px] leading-snug truncate block">In Defense of Doing Nothing</a>
+        </div>
+        <span class="font-mono text-[11px] text-fo-400 whitespace-nowrap mt-[3px]">raptitude.com</span>
+      </li>
+      <li class="group grid gap-x-4 border-b border-fo-100 py-1 hover:bg-fo-100 -mx-2 px-2 transition-colors" style="grid-template-columns: 1.5ch 1fr auto">
+        <span class="font-mono text-[11px] font-bold text-blue mt-[3px]">A</span>
+        <div class="min-w-0">
+          <a href="#" class="font-sans font-medium no-underline text-ink hover:opacity-50 transition-opacity text-[13px] leading-snug truncate block">Why Time Management Is Ruining Our Lives</a>
+        </div>
+        <span class="font-mono text-[11px] text-fo-400 whitespace-nowrap mt-[3px]">theguardian.com</span>
+      </li>
+      <li class="group grid gap-x-4 border-b border-fo-100 py-1 hover:bg-fo-100 -mx-2 px-2 transition-colors" style="grid-template-columns: 1.5ch 1fr auto">
+        <span class="font-mono text-[11px] font-bold text-blue mt-[3px]">A</span>
+        <div class="min-w-0">
+          <a href="#" class="font-sans font-medium no-underline text-ink hover:opacity-50 transition-opacity text-[13px] leading-snug truncate block">A Walk is a Platform for Creative Work</a>
+        </div>
+        <span class="font-mono text-[11px] text-fo-400 whitespace-nowrap mt-[3px]">craigmod.com</span>
+      </li>
+    </ul>
+  </div>
+
+  <!-- TECH section -->
+  <div class="mb-8">
+    <div class="flex items-baseline gap-4 mb-1 pb-1 border-b-2 border-ink">
+      <h2 class="font-sans text-[11px] font-bold tracking-[.15em] uppercase text-blue">Tech</h2>
+      <span class="font-sans text-[11px] text-fo-500 ml-auto">69</span>
+    </div>
+    <ul>
+      <li class="group grid gap-x-4 border-b border-fo-100 py-1 hover:bg-fo-100 -mx-2 px-2 transition-colors" style="grid-template-columns: 1.5ch 1fr auto">
+        <span class="font-mono text-[11px] font-bold text-blue mt-[3px]">A</span>
+        <div class="min-w-0">
+          <a href="#" class="font-sans font-medium no-underline text-ink hover:opacity-50 transition-opacity text-[13px] leading-snug truncate block">Fast Software, the Best Software</a>
+        </div>
+        <span class="font-mono text-[11px] text-fo-400 whitespace-nowrap mt-[3px]">craigmod.com</span>
+      </li>
+      <li class="group grid gap-x-4 border-b border-fo-100 py-1 hover:bg-fo-100 -mx-2 px-2 transition-colors" style="grid-template-columns: 1.5ch 1fr auto">
+        <span class="font-mono text-[11px] font-bold text-orange mt-[3px]">L</span>
+        <div class="min-w-0">
+          <a href="#" class="font-sans font-medium no-underline text-ink hover:opacity-50 transition-opacity text-[13px] leading-snug truncate block">whoami.wiki</a>
+        </div>
+        <span class="font-mono text-[11px] text-fo-400 whitespace-nowrap mt-[3px]">whoami.wiki</span>
+      </li>
+      <li class="group grid gap-x-4 border-b border-fo-100 py-1 hover:bg-fo-100 -mx-2 px-2 transition-colors" style="grid-template-columns: 1.5ch 1fr auto">
+        <span class="font-mono text-[11px] font-bold text-blue mt-[3px]">A</span>
+        <div class="min-w-0">
+          <a href="#" class="font-sans font-medium no-underline text-ink hover:opacity-50 transition-opacity text-[13px] leading-snug truncate block">local-first.html — Ink & Switch</a>
+        </div>
+        <span class="font-mono text-[11px] text-fo-400 whitespace-nowrap mt-[3px]">inkandswitch.com</span>
+      </li>
+    </ul>
+  </div>
+
+</section>
+
+</body>
+</html>

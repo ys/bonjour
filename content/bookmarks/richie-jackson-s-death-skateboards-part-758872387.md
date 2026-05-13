@@ -2,6 +2,7 @@
 uuid: 758872387
 bookmarkOf: https://youtube.com/watch?v=8gXpZmQ7j70&feature=shared
 category: video
+collection: SKATEBOARDING
 headImage: https://i.ytimg.com/vi/8gXpZmQ7j70/maxresdefault.jpg
 title: Richie Jackson's "Death Skateboards" Part
 domain: youtube.com

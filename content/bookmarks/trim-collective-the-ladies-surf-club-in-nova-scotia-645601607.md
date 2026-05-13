@@ -2,6 +2,7 @@
 uuid: 645601607
 bookmarkOf: https://longboardermagazine.com/2023/05/trim-collective-the-ladies-surf-club-in-nova-scotia/
 category: article
+collection: SURF
 headImage: https://longboardermagazine.com/wp-content/uploads/2023/05/Collette-Robertson-scaled.jpg
 title: 'Trim Collective: the ladies surf club in Nova Scotia - Longboarder Magazine'
 domain: longboardermagazine.com

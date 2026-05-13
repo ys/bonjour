@@ -2,6 +2,7 @@
 uuid: 1132981285
 bookmarkOf: https://youtube.com/watch?v=gqxX2-yL0PE&si=6S5FsAU2FpOpPQ0D
 category: video
+collection: PHOTOGRAPHY
 headImage: https://i.ytimg.com/vi/gqxX2-yL0PE/maxresdefault.jpg
 title: Podcast The Flare Club - Rencontre avec la photographe de mode argentique Gladys
   Tan

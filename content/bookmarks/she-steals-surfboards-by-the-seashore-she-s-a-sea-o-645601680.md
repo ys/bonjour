@@ -2,6 +2,7 @@
 uuid: 645601680
 bookmarkOf: https://www.nytimes.com/2023/07/12/science/sea-otter-surfboard.html
 category: article
+collection: SURF
 headImage: https://static01.nyt.com/images/2023/07/12/multimedia/12sci-surfing-sea-otter-01-tvgh/12sci-surfing-sea-otter-01-tvgh-largeHorizontalJumbo.jpg
 title: She Steals Surfboards by the Seashore. She’s a Sea Otter.
 domain: nytimes.com

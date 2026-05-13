@@ -2,6 +2,7 @@
 uuid: 948139281
 bookmarkOf: https://youtube.com/watch?v=nAr0VW2KXXA&si=FCxDgIWE1uwyWYST
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/nAr0VW2KXXA/hqdefault.jpg
 title: 'Vissla Presents: The Creators Gathering'
 domain: youtube.com

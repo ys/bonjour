@@ -2,6 +2,7 @@
 uuid: 800265523
 bookmarkOf: https://www.youtube.com/watch?v=ZqRFMSjsBeE
 category: video
+collection: PHOTOGRAPHY
 headImage: https://i.ytimg.com/vi/ZqRFMSjsBeE/maxresdefault.jpg
 title: I built a perfect home film scanner
 domain: youtube.com

@@ -2,6 +2,7 @@
 uuid: 645601693
 bookmarkOf: https://overcast.fm/+3yDzmvVfQ
 category: audio
+collection: SURF
 headImage: https://public.overcast-cdn.com/art/3655740?v2
 title: Raymond Pettibon — The Surfer’s Journal presents Soundings with Jamie Brisick
 domain: overcast.fm

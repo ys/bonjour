@@ -2,6 +2,7 @@
 uuid: 764270611
 bookmarkOf: https://www.youtube.com/watch?v=XEYuOGI5zx8
 category: video
+collection: A BETTER LIFE
 headImage: https://i.ytimg.com/vi/XEYuOGI5zx8/maxresdefault.jpg
 title: Réapprendre à s'aimer
 domain: youtube.com

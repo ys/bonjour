@@ -2,6 +2,7 @@
 uuid: 817807427
 bookmarkOf: https://www.youtube.com/watch?v=qRNATADvHG4
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/qRNATADvHG4/maxresdefault.jpg
 title: 'Pilgrim Surf + Supply: A Guide to Alternative Surfboards'
 domain: youtube.com

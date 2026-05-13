@@ -25,26 +25,27 @@ class Raindrop
     get("/import/url/parse", url: url)["item"]
   end
 
-  def raindrops(search = nil)
+  def raindrops(query_params = {})
     drops = []
     page = 0
-    query = { page: page }
-    query[:search] = search if search
     loop do
-      resp = get("/raindrops/0", query)
-      drops = drops.concat(resp["items"])
-      break if resp["items"] == []
-      page +=1
-      query[:page] = page
+      resp = get("/raindrops/0", query_params.merge(page: page))
+      drops.concat(resp["items"])
+      break if resp["items"].empty?
+      page += 1
     end
     drops
   end
 
-  def liked
-    raindrops("❤️")
+  def favorites
+    raindrops(search: "❤️")
   end
 
-  def favorites(coll, ids)
+  def collection_map
+    collections.each_with_object({}) { |c, h| h[c["_id"]] = c["title"] }
+  end
+
+  def mark_favorites(coll, ids)
     put("/raindrops/#{coll}", {important: true, ids: ids})
   end
 
@@ -78,10 +79,11 @@ class Downloader
   end
 
   def download_liked
-    liked = raindrop.liked
+    col_map = raindrop.collection_map
+    liked = raindrop.favorites
     liked.each do |l|
-      puts "📄 #{l["title"]}"
-      # e = raindrop.parse(l["link"])
+      puts "📄 [#{col_map[l.dig("collection", "$id")]}] #{l["title"]}"
+      l["collection_name"] = col_map[l.dig("collection", "$id")]
       l["parsed"] = {}
     end
     File.write("data/liked.yml", YAML.dump(liked))
@@ -122,6 +124,7 @@ class Downloader
       "uuid" => l["_id"],
       "bookmarkOf" => l["link"],
       "category" => l["type"],
+      "collection" => l["collection_name"],
       "headImage" => l["cover"],
       "title" => l["title"],
       "domain" => l["domain"],
@@ -133,10 +136,9 @@ class Downloader
   end
 
   def likes_are_important
-    liked = raindrop.liked
+    liked = raindrop.favorites
     liked.group_by { |d| d.dig("collection", "$id") }.each { |k, v|
-      pp "{raindrop.favorites(#{k}, #{v.map { |c| c["_id"] }})"
-      pp raindrop.favorites(k, v.map { |c| c["_id"] })
+      pp raindrop.mark_favorites(k, v.map { |c| c["_id"] })
     }
   end
 

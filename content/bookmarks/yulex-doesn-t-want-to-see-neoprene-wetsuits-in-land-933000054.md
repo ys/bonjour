@@ -2,6 +2,7 @@
 uuid: 933000054
 bookmarkOf: https://climateandboardsports.substack.com/p/yulex-doesnt-want-to-see-neoprene
 category: article
+collection: SURF
 headImage: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8daad6fb-e5ef-4330-ae5a-58193af2718d_1216x1356.png
 title: "“Yulex doesn’t want to see neoprene wetsuits in landfills.”"
 domain: climateandboardsports.substack.com

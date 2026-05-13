@@ -2,6 +2,7 @@
 uuid: 665690563
 bookmarkOf: https://vimeo.com/341250403
 category: video
+collection: SKATEBOARDING
 headImage: https://i.vimeocdn.com/video/789841546-e87f8177f0322b2277248017e9b3208eb55e259f0c77f821998aaa72f7505493-d?f=webp
 title: '"Ye Olde Destruction" Full Movie - By Thomas Campbell'
 domain: vimeo.com

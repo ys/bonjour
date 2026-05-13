@@ -2,6 +2,7 @@
 uuid: 1419785354
 bookmarkOf: https://youtu.be/wdvxC_Sjw8Y?si=YQXyzJ-L9FAZr9bW
 category: video
+collection: ART & CULTURE
 headImage: https://i.ytimg.com/vi/wdvxC_Sjw8Y/maxresdefault.jpg
 title: The Music of Huckberry’s DIRT | Chances With Wolves Full DJ Set
 domain: youtu.be

@@ -2,6 +2,7 @@
 uuid: 741252390
 bookmarkOf: https://www.youtube.com/watch?v=mH8rmkoOUCo
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/mH8rmkoOUCo/maxresdefault.jpg
 title: MORNING COFFEE W/ JOEL TUDOR | Log Rap BTS
 domain: youtube.com

@@ -2,6 +2,7 @@
 uuid: 645601690
 bookmarkOf: https://www.youtube.com/watch?v=NM1YfKFlWyE
 category: video
+collection: ART & CULTURE
 headImage: https://i.ytimg.com/vi/NM1YfKFlWyE/maxresdefault.jpg
 title: Patti I This Way - A Western Film.
 domain: youtube.com

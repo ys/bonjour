@@ -2,6 +2,7 @@
 uuid: 653535128
 bookmarkOf: https://www.youtube.com/watch?v=XrC7lTx96WI
 category: video
+collection: HOME
 headImage: https://i.ytimg.com/vi/XrC7lTx96WI/maxresdefault.jpg
 title: The Punk Rock Garden - Episode 6
 domain: youtube.com

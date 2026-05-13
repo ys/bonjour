@@ -2,6 +2,7 @@
 uuid: 653709961
 bookmarkOf: https://www.radiofrance.fr/franceinter/podcasts/les-80/les-80-d-ali-baddou-du-vendredi-29-septembre-2023-4429223?fbclid=PAAaYK2I9oo5bujfXpFDNQbmX2g9rAHXElrJIxP56XCTTwgnbwa6puD27Tays
 category: article
+collection: SURF
 headImage: https://www.radiofrance.fr/s3/cruiser-production/2023/09/620ff579-905c-4c57-a2d5-7062b09ff621/1200x680_sc_surfcouv.jpg
 title: 'Surf : un livre-album magnifique'
 domain: radiofrance.fr

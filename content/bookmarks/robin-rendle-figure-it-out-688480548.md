@@ -2,6 +2,7 @@
 uuid: 688480548
 bookmarkOf: https://robinrendle.com/notes/figure-it-out/
 category: article
+collection: A BETTER LIFE
 headImage: https://rdl.ink/render/https%3A%2F%2Frobinrendle.com%2Fnotes%2Ffigure-it-out%2F
 title: Robin Rendle — Figure it out
 domain: robinrendle.com

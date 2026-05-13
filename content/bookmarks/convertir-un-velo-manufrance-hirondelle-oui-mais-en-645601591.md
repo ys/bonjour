@@ -2,6 +2,7 @@
 uuid: 645601591
 bookmarkOf: https://www.youtube.com/watch?v=AE7qUEf_th4
 category: video
+collection: GEAR
 headImage: https://i.ytimg.com/vi/AE7qUEf_th4/maxresdefault.jpg
 title: Convertir un vélo Manufrance Hirondelle, oui, mais en musique.
 domain: youtube.com

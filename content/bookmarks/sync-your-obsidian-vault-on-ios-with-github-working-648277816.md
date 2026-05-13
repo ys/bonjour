@@ -2,6 +2,7 @@
 uuid: 648277816
 bookmarkOf: https://meganesulli.com/blog/sync-obsidian-vault-iphone-ipad/
 category: article
+collection: TECH
 headImage: https://meganesulli.com/images/meganesulli-default-social-card.png
 title: Sync your Obsidian Vault on iOS with GitHub, Working Copy, and Apple Shortcuts
   | Megan Sullivan

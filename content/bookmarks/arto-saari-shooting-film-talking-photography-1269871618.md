@@ -2,6 +2,7 @@
 uuid: 1269871618
 bookmarkOf: https://www.youtube.com/watch?v=cF0-xOWOnFU
 category: video
+collection: PHOTOGRAPHY
 headImage: https://i.ytimg.com/vi/cF0-xOWOnFU/maxresdefault.jpg
 title: Arto Saari - Shooting Film & Talking Photography
 domain: youtube.com

@@ -2,6 +2,7 @@
 uuid: 645601662
 bookmarkOf: https://www.youtube.com/watch?v=Pbi0OvWdPJI
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/Pbi0OvWdPJI/maxresdefault.jpg
 title: SUN-KISSED - A sunny day in Brittany with Mathieu Marechal
 domain: youtube.com

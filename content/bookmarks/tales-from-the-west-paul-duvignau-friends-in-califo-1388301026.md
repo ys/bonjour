@@ -2,6 +2,7 @@
 uuid: 1388301026
 bookmarkOf: https://www.youtube.com/watch?v=UchrsswbDgw
 category: video
+collection: TRAVEL
 headImage: https://i.ytimg.com/vi/UchrsswbDgw/hqdefault.jpg
 title: TALES FROM THE WEST - Paul Duvignau & friends in California
 domain: youtube.com

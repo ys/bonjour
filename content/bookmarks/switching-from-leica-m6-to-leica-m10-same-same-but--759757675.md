@@ -2,6 +2,7 @@
 uuid: 759757675
 bookmarkOf: https://www.youtube.com/watch?v=HUwLluekjG4
 category: video
+collection: PHOTOGRAPHY
 headImage: https://i.ytimg.com/vi/HUwLluekjG4/maxresdefault.jpg
 title: 'Switching from Leica M6 to Leica M10: same same but different?'
 domain: youtube.com

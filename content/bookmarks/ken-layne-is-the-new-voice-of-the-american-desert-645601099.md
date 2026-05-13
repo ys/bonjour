@@ -2,6 +2,7 @@
 uuid: 645601099
 bookmarkOf: https://www.insidehook.com/article/books/ken-laynes-journey
 category: article
+collection: ART & CULTURE
 headImage: https://www.insidehook.com/wp-content/uploads/2020/12/desert_oracle.jpg?resize=1200,800
 title: Ken Layne Is the New Voice of the American Desert
 domain: insidehook.com

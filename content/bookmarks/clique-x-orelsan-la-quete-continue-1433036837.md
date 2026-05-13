@@ -2,6 +2,7 @@
 uuid: 1433036837
 bookmarkOf: https://www.youtube.com/watch?v=yf4OjpcGRhc
 category: video
+collection: ART & CULTURE
 headImage: https://i.ytimg.com/vi/yf4OjpcGRhc/maxresdefault.jpg
 title: 'Clique X Orelsan : la quête continue'
 domain: youtube.com

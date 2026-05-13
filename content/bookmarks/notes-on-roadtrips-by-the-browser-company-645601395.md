@@ -2,6 +2,7 @@
 uuid: 645601395
 bookmarkOf: https://thebrowser.company/values/
 category: link
+collection: TRAVEL
 headImage: https://thebrowser.company/values/images/og-image.png
 title: Notes on Roadtrips by The Browser Company
 domain: thebrowser.company

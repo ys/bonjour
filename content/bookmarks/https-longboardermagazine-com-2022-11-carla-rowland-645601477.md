@@ -2,6 +2,7 @@
 uuid: 645601477
 bookmarkOf: https://longboardermagazine.com/2022/11/carla-rowland-zamora-switch-stance-dance/
 category: link
+collection: SURF
 headImage: ''
 title: https://longboardermagazine.com/2022/11/carla-rowland-zamora-switch-stance-dance/
 domain: longboardermagazine.com

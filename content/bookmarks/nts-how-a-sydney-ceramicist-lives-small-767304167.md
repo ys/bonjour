@@ -2,6 +2,7 @@
 uuid: 767304167
 bookmarkOf: https://www.youtube.com/watch?v=ONdwyRs7IZo
 category: video
+collection: HOME
 headImage: https://i.ytimg.com/vi/ONdwyRs7IZo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgQihAMA8=&rs=AOn4CLC5R2-dYYdlkM1CA6_ohuBOIYI-aA
 title: 'NTS: How a Sydney Ceramicist Lives Small'
 domain: youtube.com

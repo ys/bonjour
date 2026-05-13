@@ -2,6 +2,7 @@
 uuid: 645601533
 bookmarkOf: https://blog.rachelbinx.com/2023/02/unbearable-sameness/
 category: article
+collection: TECH
 headImage: https://blog.rachelbinx.com/placeholder.jpg
 title: The Unbearable Sameness of the Modern Web
 domain: blog.rachelbinx.com

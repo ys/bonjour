@@ -2,6 +2,7 @@
 uuid: 906145773
 bookmarkOf: https://www.youtube.com/watch?v=-0YQb8Gb1jQ
 category: video
+collection: PHOTOGRAPHY
 headImage: https://i.ytimg.com/vi/-0YQb8Gb1jQ/maxresdefault.jpg
 title: Expensive Point and Shoot
 domain: youtube.com

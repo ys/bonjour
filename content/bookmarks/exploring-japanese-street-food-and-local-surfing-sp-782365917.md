@@ -2,6 +2,7 @@
 uuid: 782365917
 bookmarkOf: https://www.youtube.com/watch?v=yrv9dmWpNKA&list=WL&index=2
 category: video
+collection: COFFEE & FOOD
 headImage: https://i.ytimg.com/vi/yrv9dmWpNKA/maxresdefault.jpg
 title: 'Exploring Japanese Street Food and Local Surfing Spots | DIRT Japan: Kyushu'
 domain: youtube.com

@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bookmarks — Typographic Mockups</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            paper:    '#FFFCF0',
+            ink:      '#100F0F',
+            'fo-50':  '#F2F0E5',
+            'fo-100': '#E6E4D9',
+            'fo-200': '#CECDC3',
+            'fo-300': '#B7B5AC',
+            'fo-400': '#9F9D96',
+            'fo-500': '#878580',
+            'fo-600': '#6F6E69',
+            'fo-700': '#575653',
+            'fo-800': '#403E3C',
+            red:      '#D14D41',
+            orange:   '#DA702C',
+            yellow:   '#D0A215',
+            green:    '#879A39',
+            cyan:     '#3AA99F',
+            blue:     '#4385BE',
+            purple:   '#8B7EC8',
+            magenta:  '#CE5D97',
+          },
+          fontFamily: {
+            sans: ['-apple-system', 'BlinkMacSystemFont', 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif'],
+            mono: ['"iA Writer Quattro"', 'SFMono-Regular', 'ui-monospace', 'monospace'],
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    body { background: #FFFCF0; color: #100F0F; }
+    /* Category colors as CSS vars for inline use */
+    .cat-article { color: #4385BE; }
+    .cat-link    { color: #DA702C; }
+    .cat-video   { color: #D0A215; }
+    .cat-audio   { color: #CE5D97; }
+
+    /* Concept 1 — domain flow (adapted from posts) */
+    .domain-flow {
+      text-align: justify;
+      line-height: 2.6;
+      letter-spacing: .04em;
+      font-size: 15px;
+    }
+    .domain-flow a {
+      text-decoration: none;
+      color: inherit;
+    }
+    .domain-flow a:hover { opacity: 0.4; }
+    .domain-flow .sep { color: #CECDC3; padding: 0 .5em; }
+    .domain-flow .month-label {
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: .15em;
+      text-transform: uppercase;
+      color: #9F9D96;
+      padding: 0 .8em;
+      vertical-align: .15em;
+    }
+
+    /* Concept 2 — ruled columns */
+    .ruled-list { list-style: none; padding: 0; margin: 0; }
+    .ruled-list li {
+      display: flex;
+      align-items: baseline;
+      gap: 0;
+      border-bottom: 1px solid #E6E4D9;
+      padding: 6px 0;
+    }
+    .ruled-list li:first-child { border-top: 1px solid #E6E4D9; }
+
+    /* Concept 3 — tight annotation */
+    .annotated { list-style: none; padding: 0; margin: 0; }
+    .annotated li { padding: 5px 0; }
+
+    /* Concept 4 — the ledger */
+    .ledger { list-style: none; padding: 0; margin: 0; font-variant-numeric: tabular-nums; }
+    .ledger li {
+      display: grid;
+      grid-template-columns: 3ch 1fr auto;
+      gap: 0 1.5rem;
+      align-items: baseline;
+      padding: 4px 0;
+      border-bottom: 1px solid #F2F0E5;
+    }
+    .ledger li:hover { background: #F2F0E5; margin: 0 -1rem; padding: 4px 1rem; }
+  </style>
+</head>
+<body class="min-h-screen">
+
+<!-- Top nav -->
+<div class="sticky top-0 z-50 bg-paper/90 backdrop-blur border-b border-fo-100 px-6 py-3 flex gap-3 items-center text-xs">
+  <span class="text-fo-500 font-medium uppercase tracking-widest mr-1">Typographic mockups</span>
+  <a href="#one"   class="px-3 py-1 rounded-full border border-fo-200 hover:border-ink transition-colors">1 · Domain flow</a>
+  <a href="#two"   class="px-3 py-1 rounded-full border border-fo-200 hover:border-ink transition-colors">2 · Ruled columns</a>
+  <a href="#three" class="px-3 py-1 rounded-full border border-fo-200 hover:border-ink transition-colors">3 · Tight annotation</a>
+  <a href="#four"  class="px-3 py-1 rounded-full border border-fo-200 hover:border-ink transition-colors">4 · The ledger</a>
+</div>
+
+
+<!-- ══════════════════════════════════════════════════
+  1 · DOMAIN FLOW — direct port of the posts approach
+     Each bookmark = its domain name, flowing as prose.
+     Domains are short & expressive: a web-geography.
+     Month labels keep orientation. Colored · by category.
+     Title accessible via `title` attr (tooltip on hover).
+     ══════════════════════════════════════════════════ -->
+<section id="one" class="max-w-3xl mx-auto px-6 py-16">
+  <div class="mb-10">
+    <p class="text-xs font-medium tracking-widest uppercase text-fo-400 mb-2">Concept 1</p>
+    <h2 class="text-xl font-bold mb-1">Domain flow</h2>
+    <p class="text-sm text-fo-600">Direct adaptation of the posts paragraph. Each bookmark = its domain, flowing as justified prose. Month labels as anchors. Colored dots encode category. Title visible on hover (tooltip).</p>
+  </div>
+
+  <p class="domain-flow">
+
+    <span class="month-label">Apr 2025</span><span class="sep">·</span>
+    <a href="#" title="10 Essential Surf Photography Tips for Beginners" class="cat-article">karlmackieshop.com</a><span class="sep cat-article">·</span>
+    <a href="#" title="The Process Manifesto: Resist Sameness" class="cat-article">looking-sideways.com</a><span class="sep cat-article">·</span>
+    <a href="#" title="095 Apprendre aux enfants avec les éditions Chocolatine" class="cat-audio">open.spotify.com</a><span class="sep cat-audio">·</span>
+    <a href="#" title="ラックスエステート｜湘南の建売住宅" class="cat-link">lucks-e.com</a><span class="sep cat-link">·</span>
+    <a href="#" title="1 hour of smooth 70s/80s Japanese city pop" class="cat-video">youtube.com</a><span class="sep cat-video">·</span>
+
+    <span class="month-label">Mar 2025</span><span class="sep">·</span>
+    <a href="#" title="100r Philosophy — Hundred Rabbits" class="cat-link">100r.co</a><span class="sep cat-link">·</span>
+    <a href="#" title="How to Make More, Scroll Less" class="cat-article">substack.com</a><span class="sep cat-article">·</span>
+    <a href="#" title="Sally McGee — Looking Sideways Podcast" class="cat-audio">looking-sideways.com</a><span class="sep cat-audio">·</span>
+    <a href="#" title="12ft — Hop any paywall" class="cat-link">12ft.io</a><span class="sep cat-link">·</span>
+    <a href="#" title="Sam Bleakley — Looking Sideways" class="cat-audio">looking-sideways.com</a><span class="sep cat-audio">·</span>
+    <a href="#" title="100 Must-Read Books in 2021 — The Do Lectures" class="cat-article">thedolectures.com</a><span class="sep cat-article">·</span>
+    <a href="#" title="California style garage house Shonan" class="cat-link">lucks-e.com</a><span class="sep cat-link">·</span>
+
+    <span class="month-label">Feb 2025</span><span class="sep">·</span>
+    <a href="#" title="Apprendre aux enfants le surf" class="cat-article">apprentisurfeur.com</a><span class="sep cat-article">·</span>
+    <a href="#" title="Studio YouTube bureau et couche setup" class="cat-video">youtube.com</a><span class="sep cat-video">·</span>
+    <a href="#" title="Dr Tony Butt — Looking Sideways Podcast" class="cat-audio">looking-sideways.com</a><span class="sep cat-audio">·</span>
+    <a href="#" title="Resist Sameness, Embrace Process" class="cat-article">are.na</a><span class="sep cat-article">·</span>
+    <a href="#" title="Simple truths — 100 Simple Truths" class="cat-article">simpletruth.com</a><span class="sep cat-article">·</span>
+    <a href="#" title="L'habitude la plus auto-destructive" class="cat-audio">spotify.com</a><span class="sep cat-audio">·</span>
+    <a href="#" title="California coast drives" class="cat-link">tripadvisor.com</a><span class="sep cat-link">·</span>
+    <a href="#" title="Lyndsay McLaren — Looking Sideways" class="cat-audio">looking-sideways.com</a><span class="sep cat-audio">·</span>
+
+    <span class="month-label">Jan 2025</span><span class="sep">·</span>
+    <a href="#" title="Minimal footprint living — Rowboat philosophy" class="cat-article">robinhobb.com</a><span class="sep cat-article">·</span>
+    <a href="#" title="City pop radio 24/7" class="cat-video">youtube.com</a><span class="sep cat-video">·</span>
+    <a href="#" title="Surf etiquette for beginners" class="cat-article">surfertoday.com</a><span class="sep cat-article">·</span>
+    <a href="#" title="Free solo photography with Alex Honnold" class="cat-video">nationalgeographic.com</a><span class="sep cat-video">·</span>
+    <a href="#" title="Best Japanese jazz cafes Tokyo" class="cat-article">timeout.com</a><span class="sep cat-article">·</span>
+    <a href="#" title="The tools Hundred Rabbits use offshore" class="cat-link">100r.co</a><span class="sep cat-link">·</span>
+    <a href="#" title="Design by subtraction" class="cat-article">frankchimero.com</a><span class="sep cat-article">·</span>
+
+  </p>
+
+  <div class="mt-10 flex flex-wrap gap-4 text-xs text-fo-500">
+    <span>Color key:</span>
+    <span class="cat-article">· article</span>
+    <span class="cat-link">· link</span>
+    <span class="cat-video">· video</span>
+    <span class="cat-audio">· audio</span>
+  </div>
+
+  <div class="mt-6 p-4 bg-fo-50 rounded-lg text-xs text-fo-600 space-y-1">
+    <p class="font-medium text-fo-800">Notes</p>
+    <p>→ Domains are much shorter than post titles — the flow stays tight even with 1277 items</p>
+    <p>→ You get a geographic feel: "who's on the internet you visit" at a glance</p>
+    <p>→ Title is accessible via browser tooltip on hover (title attr) — stays clean visually</p>
+    <p>→ Repeated domains (youtube.com × 352) create a natural visual rhythm / weight</p>
+    <p>→ Direct Hugo port of the posts template, minimal effort</p>
+  </div>
+</section>
+
+
+<!-- ══════════════════════════════════════════════════
+  2 · RULED COLUMNS
+     Each row: title fills left, domain right-aligned.
+     Hairline rules between rows.
+     Year floats in the margin (or as its own row).
+     Dense. Newspaper classified ads. No color except
+     the category initial (A / L / V / P) on the far left.
+     ══════════════════════════════════════════════════ -->
+<section id="two" class="max-w-3xl mx-auto px-6 py-16">
+  <div class="mb-10">
+    <p class="text-xs font-medium tracking-widest uppercase text-fo-400 mb-2">Concept 2</p>
+    <h2 class="text-xl font-bold mb-1">Ruled columns</h2>
+    <p class="text-sm text-fo-600">Title on the left, domain flush right. Hairline rules. Category initial on the far left. Newspaper classified — the grid IS the design.</p>
+  </div>
+
+  <!-- Month divider row -->
+  <div class="flex items-center gap-4 py-2 border-b border-fo-300">
+    <span class="text-[11px] font-semibold tracking-[.15em] uppercase text-fo-400 flex-1">April 2025</span>
+  </div>
+
+  <ul class="ruled-list text-[14px]">
+
+    <li>
+      <span class="w-5 flex-none text-[11px] font-mono font-bold cat-article mr-3 self-center">A</span>
+      <a href="#" class="flex-1 min-w-0 truncate no-underline text-ink hover:opacity-50 transition-opacity">10 Essential Surf Photography Tips for Beginners</a>
+      <span class="flex-none text-fo-400 text-xs ml-4 font-mono">karlmackieshop.com</span>
+    </li>
+
+    <li>
+      <span class="w-5 flex-none text-[11px] font-mono font-bold cat-audio mr-3 self-center">P</span>
+      <a href="#" class="flex-1 min-w-0 truncate no-underline text-ink hover:opacity-50 transition-opacity">095 — Apprendre aux enfants avec les éditions Chocolatine</a>
+      <span class="flex-none text-fo-400 text-xs ml-4 font-mono">open.spotify.com</span>
+    </li>
+
+    <li>
+      <span class="w-5 flex-none text-[11px] font-mono font-bold cat-link mr-3 self-center">L</span>
+      <a href="#" class="flex-1 min-w-0 truncate no-underline text-ink hover:opacity-50 transition-opacity">ラックスエステート｜湘南の建売住宅・ガレージハウス</a>
+      <span class="flex-none text-fo-400 text-xs ml-4 font-mono">lucks-e.com</span>
+    </li>
+
+    <li>
+      <span class="w-5 flex-none text-[11px] font-mono font-bold cat-video mr-3 self-center">V</span>
+      <a href="#" class="flex-1 min-w-0 truncate no-underline text-ink hover:opacity-50 transition-opacity">1 Hour of Smooth 70s/80s Japanese Grooves · City Pop</a>
+      <span class="flex-none text-fo-400 text-xs ml-4 font-mono">youtube.com</span>
+    </li>
+
+    <li>
+      <span class="w-5 flex-none text-[11px] font-mono font-bold cat-article mr-3 self-center">A</span>
+      <a href="#" class="flex-1 min-w-0 truncate no-underline text-ink hover:opacity-50 transition-opacity">175 — The Process Manifesto: Resist Sameness, Embrace Craft</a>
+      <span class="flex-none text-fo-400 text-xs ml-4 font-mono">looking-sideways.com</span>
+    </li>
+
+    <li>
+      <span class="w-5 flex-none text-[11px] font-mono font-bold cat-link mr-3 self-center">L</span>
+      <a href="#" class="flex-1 min-w-0 truncate no-underline text-ink hover:opacity-50 transition-opacity">100r Philosophy — Hundred Rabbits</a>
+      <span class="flex-none text-fo-400 text-xs ml-4 font-mono">100r.co</span>
+    </li>
+
+  </ul>
+
+  <div class="flex items-center gap-4 py-2 border-b border-fo-300 mt-4">
+    <span class="text-[11px] font-semibold tracking-[.15em] uppercase text-fo-400 flex-1">March 2025</span>
+  </div>
+
+  <ul class="ruled-list text-[14px]">
+    <li>
+      <span class="w-5 flex-none text-[11px] font-mono font-bold cat-article mr-3 self-center">A</span>
+      <a href="#" class="flex-1 min-w-0 truncate no-underline text-ink hover:opacity-50 transition-opacity">How to Make More and Scroll Less — Long Form</a>
+      <span class="flex-none text-fo-400 text-xs ml-4 font-mono">substack.com</span>
+    </li>
+    <li>
+      <span class="w-5 flex-none text-[11px] font-mono font-bold cat-audio mr-3 self-center">P</span>
+      <a href="#" class="flex-1 min-w-0 truncate no-underline text-ink hover:opacity-50 transition-opacity">156 — Sally McGee, Looking Sideways</a>
+      <span class="flex-none text-fo-400 text-xs ml-4 font-mono">looking-sideways.com</span>
+    </li>
+    <li>
+      <span class="w-5 flex-none text-[11px] font-mono font-bold cat-link mr-3 self-center">L</span>
+      <a href="#" class="flex-1 min-w-0 truncate no-underline text-ink hover:opacity-50 transition-opacity">12ft.io — Hop any paywall</a>
+      <span class="flex-none text-fo-400 text-xs ml-4 font-mono">12ft.io</span>
+    </li>
+    <li>
+      <span class="w-5 flex-none text-[11px] font-mono font-bold cat-video mr-3 self-center">V</span>
+      <a href="#" class="flex-1 min-w-0 truncate no-underline text-ink hover:opacity-50 transition-opacity">Studio YouTube + bureau setup · 3 fonctions</a>
+      <span class="flex-none text-fo-400 text-xs ml-4 font-mono">youtube.com</span>
+    </li>
+    <li>
+      <span class="w-5 flex-none text-[11px] font-mono font-bold cat-article mr-3 self-center">A</span>
+      <a href="#" class="flex-1 min-w-0 truncate no-underline text-ink hover:opacity-50 transition-opacity">100 Must-Read Books in 2021 — The Do Lectures</a>
+      <span class="flex-none text-fo-400 text-xs ml-4 font-mono">thedolectures.com</span>
+    </li>
+  </ul>
+
+  <div class="mt-6 p-4 bg-fo-50 rounded-lg text-xs text-fo-600 space-y-1">
+    <p class="font-medium text-fo-800">Notes</p>
+    <p>→ A/L/V/P initials take zero space but let you scan by type down the left margin</p>
+    <p>→ Domain in monospace on the right creates a strong column — very readable</p>
+    <p>→ Titles truncate cleanly (ellipsis) — the full title on individual page</p>
+    <p>→ Works for any volume. Scales to 1277 without feeling heavy.</p>
+    <p>→ The rules give free vertical rhythm without any gap/padding decisions</p>
+  </div>
+</section>
+
+
+<!-- ══════════════════════════════════════════════════
+  3 · TIGHT ANNOTATION
+     Title + inline note on the same visual block.
+     Personal note runs as a continuation: — italic note.
+     Domain floats right on the title line.
+     No dividers. Just optical spacing from the note lines.
+     Feels like a personal reading log / notebook.
+     ══════════════════════════════════════════════════ -->
+<section id="three" class="max-w-2xl mx-auto px-6 py-16">
+  <div class="mb-10">
+    <p class="text-xs font-medium tracking-widest uppercase text-fo-400 mb-2">Concept 3</p>
+    <h2 class="text-xl font-bold mb-1">Tight annotation</h2>
+    <p class="text-sm text-fo-600">Title + personal note as one breathing unit. Where there's a note, the bookmark feels alive. Where there isn't, it's invisible. Notebook / reading log energy.</p>
+  </div>
+
+  <!-- Month -->
+  <p class="text-[11px] font-semibold tracking-[.15em] uppercase text-fo-400 mb-5">April 2025</p>
+
+  <ul class="annotated text-[14px] leading-snug space-y-4">
+
+    <!-- item with note -->
+    <li>
+      <div class="flex items-baseline justify-between gap-4">
+        <a href="#" class="no-underline text-ink font-medium hover:opacity-50 transition-opacity">10 Essential Surf Photography Tips for Beginners</a>
+        <span class="flex-none text-fo-400 text-xs font-mono whitespace-nowrap">karlmackieshop.com</span>
+      </div>
+      <p class="text-fo-600 text-[13px] italic mt-0.5 pl-0">Patience and knowing your gear. Zen mode like</p>
+    </li>
+
+    <!-- item no note -->
+    <li>
+      <div class="flex items-baseline justify-between gap-4">
+        <a href="#" class="no-underline text-ink font-medium hover:opacity-50 transition-opacity">ラックスエステート｜湘南の建売住宅・ガレージハウス</a>
+        <span class="flex-none text-fo-400 text-xs font-mono whitespace-nowrap">lucks-e.com</span>
+      </div>
+    </li>
+
+    <!-- item with long note -->
+    <li>
+      <div class="flex items-baseline justify-between gap-4">
+        <a href="#" class="no-underline text-ink font-medium hover:opacity-50 transition-opacity">175 — The Process Manifesto: Resist Sameness</a>
+        <span class="flex-none text-fo-400 text-xs font-mono whitespace-nowrap">looking-sideways.com</span>
+      </div>
+      <p class="text-fo-600 text-[13px] italic mt-0.5">Really resonated. The part about craft vs. output is worth re-reading every year.</p>
+    </li>
+
+    <!-- item no note -->
+    <li>
+      <div class="flex items-baseline justify-between gap-4">
+        <a href="#" class="no-underline text-ink font-medium hover:opacity-50 transition-opacity">1 Hour of Smooth 70s/80s Japanese Grooves · City Pop</a>
+        <span class="flex-none text-fo-400 text-xs font-mono whitespace-nowrap">youtube.com</span>
+      </div>
+    </li>
+
+    <!-- item with note -->
+    <li>
+      <div class="flex items-baseline justify-between gap-4">
+        <a href="#" class="no-underline text-ink font-medium hover:opacity-50 transition-opacity">095 — Apprendre aux enfants · Éditions Chocolatine</a>
+        <span class="flex-none text-fo-400 text-xs font-mono whitespace-nowrap">open.spotify.com</span>
+      </div>
+      <p class="text-fo-600 text-[13px] italic mt-0.5">Apprendre le surf et l'eau aux enfants. Chouette écoute! Hate de lire les livres!</p>
+    </li>
+
+    <!-- item no note -->
+    <li>
+      <div class="flex items-baseline justify-between gap-4">
+        <a href="#" class="no-underline text-ink font-medium hover:opacity-50 transition-opacity">100r Philosophy — Hundred Rabbits</a>
+        <span class="flex-none text-fo-400 text-xs font-mono whitespace-nowrap">100r.co</span>
+      </div>
+    </li>
+
+  </ul>
+
+  <p class="text-[11px] font-semibold tracking-[.15em] uppercase text-fo-400 mb-5 mt-10">March 2025</p>
+
+  <ul class="annotated text-[14px] leading-snug space-y-4">
+    <li>
+      <div class="flex items-baseline justify-between gap-4">
+        <a href="#" class="no-underline text-ink font-medium hover:opacity-50 transition-opacity">How to Make More and Scroll Less</a>
+        <span class="flex-none text-fo-400 text-xs font-mono whitespace-nowrap">substack.com</span>
+      </div>
+      <p class="text-fo-600 text-[13px] italic mt-0.5">Saved for the chapter on morning routines. Very practical.</p>
+    </li>
+    <li>
+      <div class="flex items-baseline justify-between gap-4">
+        <a href="#" class="no-underline text-ink font-medium hover:opacity-50 transition-opacity">156 — Sally McGee, Looking Sideways Podcast</a>
+        <span class="flex-none text-fo-400 text-xs font-mono whitespace-nowrap">looking-sideways.com</span>
+      </div>
+    </li>
+    <li>
+      <div class="flex items-baseline justify-between gap-4">
+        <a href="#" class="no-underline text-ink font-medium hover:opacity-50 transition-opacity">12ft.io — Hop any paywall</a>
+        <span class="flex-none text-fo-400 text-xs font-mono whitespace-nowrap">12ft.io</span>
+      </div>
+      <p class="text-fo-600 text-[13px] italic mt-0.5">Useful.</p>
+    </li>
+  </ul>
+
+  <div class="mt-8 p-4 bg-fo-50 rounded-lg text-xs text-fo-600 space-y-1">
+    <p class="font-medium text-fo-800">Notes</p>
+    <p>→ Items with personal notes feel curated; items without are clean non-noise</p>
+    <p>→ The italic note line creates organic vertical rhythm — annotated items take more space naturally</p>
+    <p>→ Domain in small monospace on the right: same visual trick as Concept 2, works even better here</p>
+    <p>→ No category markers — the page becomes about your notes, not about type classification</p>
+    <p>→ Feels closest to a reading diary. Personal and intimate.</p>
+  </div>
+</section>
+
+
+<!-- ══════════════════════════════════════════════════
+  4 · THE LEDGER
+     Inspired by accounting ledgers / spreadsheets.
+     3 columns: category glyph | title | domain
+     Very tight line height. The whitespace is in
+     the inter-month gaps, not between rows.
+     Numbers (dates) in tabular-nums on the far right.
+     ══════════════════════════════════════════════════ -->
+<section id="four" class="max-w-3xl mx-auto px-6 py-16">
+  <div class="mb-10">
+    <p class="text-xs font-medium tracking-widest uppercase text-fo-400 mb-2">Concept 4</p>
+    <h2 class="text-xl font-bold mb-1">The ledger</h2>
+    <p class="text-sm text-fo-600">Extremely dense. Three columns on a tight grid: glyph · title · domain. Whitespace only between months. The information content is maximized. Like a manifest of the web.</p>
+  </div>
+
+  <!-- Month label -->
+  <div class="flex items-baseline gap-4 mb-1 pb-1 border-b-2 border-ink">
+    <span class="text-[11px] font-bold tracking-[.15em] uppercase">Apr 2025</span>
+    <span class="text-[11px] text-fo-400 ml-auto">6 items</span>
+  </div>
+
+  <ul class="ledger text-[13px] mb-8">
+    <li>
+      <span class="cat-article font-mono text-[11px]">A</span>
+      <a href="#" class="no-underline text-ink hover:opacity-50 transition-opacity min-w-0 truncate">10 Essential Surf Photography Tips for Beginners</a>
+      <span class="text-fo-400 font-mono text-[11px] text-right">karlmackieshop.com</span>
+    </li>
+    <li>
+      <span class="cat-audio font-mono text-[11px]">P</span>
+      <a href="#" class="no-underline text-ink hover:opacity-50 transition-opacity min-w-0 truncate">095 — Apprendre aux enfants avec les éditions Chocolatine</a>
+      <span class="text-fo-400 font-mono text-[11px] text-right">open.spotify.com</span>
+    </li>
+    <li>
+      <span class="cat-link font-mono text-[11px]">L</span>
+      <a href="#" class="no-underline text-ink hover:opacity-50 transition-opacity min-w-0 truncate">ラックスエステート｜湘南の建売住宅・ガレージハウス</a>
+      <span class="text-fo-400 font-mono text-[11px] text-right">lucks-e.com</span>
+    </li>
+    <li>
+      <span class="cat-video font-mono text-[11px]">V</span>
+      <a href="#" class="no-underline text-ink hover:opacity-50 transition-opacity min-w-0 truncate">1 Hour of Smooth 70s/80s Japanese Grooves · City Pop</a>
+      <span class="text-fo-400 font-mono text-[11px] text-right">youtube.com</span>
+    </li>
+    <li>
+      <span class="cat-article font-mono text-[11px]">A</span>
+      <a href="#" class="no-underline text-ink hover:opacity-50 transition-opacity min-w-0 truncate">175 — The Process Manifesto: Resist Sameness, Embrace Craft</a>
+      <span class="text-fo-400 font-mono text-[11px] text-right">looking-sideways.com</span>
+    </li>
+    <li>
+      <span class="cat-link font-mono text-[11px]">L</span>
+      <a href="#" class="no-underline text-ink hover:opacity-50 transition-opacity min-w-0 truncate">100r Philosophy — Hundred Rabbits</a>
+      <span class="text-fo-400 font-mono text-[11px] text-right">100r.co</span>
+    </li>
+  </ul>
+
+  <div class="flex items-baseline gap-4 mb-1 pb-1 border-b-2 border-ink">
+    <span class="text-[11px] font-bold tracking-[.15em] uppercase">Mar 2025</span>
+    <span class="text-[11px] text-fo-400 ml-auto">5 items</span>
+  </div>
+
+  <ul class="ledger text-[13px] mb-8">
+    <li>
+      <span class="cat-article font-mono text-[11px]">A</span>
+      <a href="#" class="no-underline text-ink hover:opacity-50 transition-opacity min-w-0 truncate">How to Make More and Scroll Less — Long Form</a>
+      <span class="text-fo-400 font-mono text-[11px] text-right">substack.com</span>
+    </li>
+    <li>
+      <span class="cat-audio font-mono text-[11px]">P</span>
+      <a href="#" class="no-underline text-ink hover:opacity-50 transition-opacity min-w-0 truncate">156 — Sally McGee, Looking Sideways Podcast</a>
+      <span class="text-fo-400 font-mono text-[11px] text-right">looking-sideways.com</span>
+    </li>
+    <li>
+      <span class="cat-link font-mono text-[11px]">L</span>
+      <a href="#" class="no-underline text-ink hover:opacity-50 transition-opacity min-w-0 truncate">12ft.io — Hop any paywall</a>
+      <span class="text-fo-400 font-mono text-[11px] text-right">12ft.io</span>
+    </li>
+    <li>
+      <span class="cat-video font-mono text-[11px]">V</span>
+      <a href="#" class="no-underline text-ink hover:opacity-50 transition-opacity min-w-0 truncate">Studio YouTube bureau et couche setup</a>
+      <span class="text-fo-400 font-mono text-[11px] text-right">youtube.com</span>
+    </li>
+    <li>
+      <span class="cat-article font-mono text-[11px]">A</span>
+      <a href="#" class="no-underline text-ink hover:opacity-50 transition-opacity min-w-0 truncate">100 Must-Read Books in 2021 — The Do Lectures</a>
+      <span class="text-fo-400 font-mono text-[11px] text-right">thedolectures.com</span>
+    </li>
+  </ul>
+
+  <div class="flex items-baseline gap-4 mb-1 pb-1 border-b-2 border-ink">
+    <span class="text-[11px] font-bold tracking-[.15em] uppercase">Feb 2025</span>
+    <span class="text-[11px] text-fo-400 ml-auto">8 items</span>
+  </div>
+
+  <ul class="ledger text-[13px] mb-8">
+    <li>
+      <span class="cat-article font-mono text-[11px]">A</span>
+      <a href="#" class="no-underline text-ink hover:opacity-50 transition-opacity min-w-0 truncate">Surf etiquette for beginners</a>
+      <span class="text-fo-400 font-mono text-[11px] text-right">surfertoday.com</span>
+    </li>
+    <li>
+      <span class="cat-video font-mono text-[11px]">V</span>
+      <a href="#" class="no-underline text-ink hover:opacity-50 transition-opacity min-w-0 truncate">Free solo photography with Alex Honnold · Nat Geo</a>
+      <span class="text-fo-400 font-mono text-[11px] text-right">nationalgeographic.com</span>
+    </li>
+    <li>
+      <span class="cat-article font-mono text-[11px]">A</span>
+      <a href="#" class="no-underline text-ink hover:opacity-50 transition-opacity min-w-0 truncate">Best Japanese jazz cafes in Tokyo</a>
+      <span class="text-fo-400 font-mono text-[11px] text-right">timeout.com</span>
+    </li>
+    <li>
+      <span class="cat-link font-mono text-[11px]">L</span>
+      <a href="#" class="no-underline text-ink hover:opacity-50 transition-opacity min-w-0 truncate">The tools Hundred Rabbits use offshore</a>
+      <span class="text-fo-400 font-mono text-[11px] text-right">100r.co</span>
+    </li>
+    <li>
+      <span class="cat-article font-mono text-[11px]">A</span>
+      <a href="#" class="no-underline text-ink hover:opacity-50 transition-opacity min-w-0 truncate">Design by subtraction — Frank Chimero</a>
+      <span class="text-fo-400 font-mono text-[11px] text-right">frankchimero.com</span>
+    </li>
+    <li>
+      <span class="cat-audio font-mono text-[11px]">P</span>
+      <a href="#" class="no-underline text-ink hover:opacity-50 transition-opacity min-w-0 truncate">L'habitude la plus auto-destructive · Rahaf</a>
+      <span class="text-fo-400 font-mono text-[11px] text-right">spotify.com</span>
+    </li>
+    <li>
+      <span class="cat-video font-mono text-[11px]">V</span>
+      <a href="#" class="no-underline text-ink hover:opacity-50 transition-opacity min-w-0 truncate">City pop radio 24/7</a>
+      <span class="text-fo-400 font-mono text-[11px] text-right">youtube.com</span>
+    </li>
+    <li>
+      <span class="cat-article font-mono text-[11px]">A</span>
+      <a href="#" class="no-underline text-ink hover:opacity-50 transition-opacity min-w-0 truncate">100 Simple Truths</a>
+      <span class="text-fo-400 font-mono text-[11px] text-right">simpletruth.com</span>
+    </li>
+  </ul>
+
+  <div class="mt-6 p-4 bg-fo-50 rounded-lg text-xs text-fo-600 space-y-1">
+    <p class="font-medium text-fo-800">Notes</p>
+    <p>→ Maximum information density. You can see 30+ bookmarks without scrolling.</p>
+    <p>→ The item count per month (6, 5, 8…) is a surprise — becomes a reading diary data point</p>
+    <p>→ The heavy rule between months is the only decoration. Very architectural.</p>
+    <p>→ Hover state works because the rows are so tight — a single dim makes the row feel selected</p>
+    <p>→ Downside: no room for personal notes inline. Best paired with a good single-page view.</p>
+  </div>
+</section>
+
+<!-- Spacer -->
+<div class="h-24"></div>
+
+</body>
+</html>

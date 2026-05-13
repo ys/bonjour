@@ -2,6 +2,7 @@
 uuid: 1468338171
 bookmarkOf: https://www.youtube.com/watch?v=9PxaPNHo0-8
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/9PxaPNHo0-8/maxresdefault.jpg
 title: "'25 Creators Gathering: Above The Noise"
 domain: youtube.com

@@ -2,6 +2,7 @@
 uuid: 1713371219
 bookmarkOf: https://www.youtube.com/watch?v=FvKHh3ujwBY
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/FvKHh3ujwBY/maxresdefault.jpg
 title: Gwynnik | Award-Winning Surf Film | Finisterre
 domain: youtube.com

@@ -2,6 +2,7 @@
 uuid: 659803004
 bookmarkOf: http://www.documentsdartistes.org/artistes/millagou/repro-video.html
 category: link
+collection: SURF
 headImage: https://rdl.ink/render/http%3A%2F%2Fwww.documentsdartistes.org%2Fartistes%2Fmillagou%2Frepro-video.html
 title: Olivier MILLAGOU - Documents d'artistes PACA
 domain: documentsdartistes.org

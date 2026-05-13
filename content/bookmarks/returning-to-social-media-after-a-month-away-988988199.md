@@ -2,6 +2,7 @@
 uuid: 988988199
 bookmarkOf: https://sethhughes.substack.com/p/returning-to-social-media-after-a?r=5cjn3&utm_medium=ios&triedRedirect=true&__readwiseLocation=
 category: article
+collection: A BETTER LIFE
 headImage: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ce800b9-2649-4604-b72f-0b9934e644a4_1080x1350.jpeg
 title: Returning to Social Media after a month away.
 domain: sethhughes.substack.com

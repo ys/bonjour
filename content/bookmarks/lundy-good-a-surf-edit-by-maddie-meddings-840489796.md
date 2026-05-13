@@ -2,6 +2,7 @@
 uuid: 840489796
 bookmarkOf: https://www.youtube.com/watch?v=0Xlvae-wZIA
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/0Xlvae-wZIA/maxresdefault.jpg
 title: Lundy... Good... A Surf Edit by Maddie Meddings.
 domain: youtube.com

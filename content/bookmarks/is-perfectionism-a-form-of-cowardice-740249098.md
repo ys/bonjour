@@ -2,6 +2,7 @@
 uuid: 740249098
 bookmarkOf: https://www.youtube.com/watch?v=dBqK6e9A9bE
 category: video
+collection: A BETTER LIFE
 headImage: https://i.ytimg.com/vi/dBqK6e9A9bE/maxresdefault.jpg
 title: Is PERFECTIONISM a form of COWARDICE?
 domain: youtube.com

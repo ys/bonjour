@@ -2,6 +2,7 @@
 uuid: 797114459
 bookmarkOf: https://soundcloud.com/inside-eurosima-podcast/damien-marly-et-julie-pollet-le-chipiron-a-la-landaise
 category: audio
+collection: SURF
 headImage: https://i1.sndcdn.com/artworks-kTU4khrpHZwH0Kh7-yp9yXw-t500x500.jpg
 title: Julie Pollet et Damien Marly, le Chipiron à la Landaise by Inside Eurosima
   Podcast

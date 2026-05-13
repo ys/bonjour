@@ -2,6 +2,7 @@
 uuid: 763391896
 bookmarkOf: https://www.youtube.com/watch?v=lUEsGwh1GC8
 category: video
+collection: COFFEE & FOOD
 headImage: https://i.ytimg.com/vi/lUEsGwh1GC8/hqdefault.jpg
 title: 'LA MARZOCCO LINEA MICRA: Review of La Marzocco''s New Home Espresso Machine!'
 domain: youtube.com

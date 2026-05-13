@@ -2,6 +2,7 @@
 uuid: 945683416
 bookmarkOf: https://www.simplemagic.ca/doubles-the-state-of-skate-videos/?ref=simple-magic-newsletter&__readwiseLocation=#ghost-comments
 category: article
+collection: SKATEBOARDING
 headImage: https://www.simplemagic.ca/content/images/2025/01/Doubles_Hero.jpg
 title: 'Doubles: the state of skate videos'
 domain: simplemagic.ca

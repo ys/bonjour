@@ -2,6 +2,7 @@
 uuid: 796592423
 bookmarkOf: https://www.youtube.com/watch?v=2j5RFFFINPA
 category: video
+collection: COFFEE & FOOD
 headImage: https://i.ytimg.com/vi/2j5RFFFINPA/maxresdefault.jpg
 title: NAKED PORTAFILTERS ARE LIARS...sometimes
 domain: youtube.com

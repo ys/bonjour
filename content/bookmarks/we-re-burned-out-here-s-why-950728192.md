@@ -2,6 +2,7 @@
 uuid: 950728192
 bookmarkOf: https://www.youtube.com/watch?v=8ZU8nTC7zXs&list=WL&index=2
 category: video
+collection: A BETTER LIFE
 headImage: https://i.ytimg.com/vi/8ZU8nTC7zXs/maxresdefault.jpg
 title: We're burned out. Here's why.
 domain: youtube.com

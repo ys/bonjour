@@ -2,6 +2,7 @@
 uuid: 645601729
 bookmarkOf: https://stephango.com/in-good-hands
 category: article
+collection: A BETTER LIFE
 headImage: https://stephango.com/assets/card.png
 title: In good hands
 domain: stephango.com

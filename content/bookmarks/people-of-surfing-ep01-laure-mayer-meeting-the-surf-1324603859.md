@@ -2,6 +2,7 @@
 uuid: 1324603859
 bookmarkOf: https://youtube.com/watch?v=j29tGv3d53A&si=ZXeYbPwNY4mBWbhu
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/j29tGv3d53A/maxresdefault.jpg
 title: PEOPLE OF SURFING EP01 | Laure Mayer meeting the surfing community of New Zealand
 domain: youtube.com

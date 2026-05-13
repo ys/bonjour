@@ -2,6 +2,7 @@
 uuid: 645601529
 bookmarkOf: https://www.youtube.com/watch?v=rjRjcqzCp6Y
 category: video
+collection: PHOTOGRAPHY
 headImage: https://i.ytimg.com/vi/rjRjcqzCp6Y/maxresdefault.jpg
 title: If you need an excuse to buy another camera - here you go
 domain: youtube.com

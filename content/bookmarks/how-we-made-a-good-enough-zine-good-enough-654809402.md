@@ -2,6 +2,7 @@
 uuid: 654809402
 bookmarkOf: https://goodenough.us/blog/2023-09-28-how-we-made-a-good-enough-zine/
 category: article
+collection: PHOTOGRAPHY
 headImage: https://goodenough.us/social-preview.png
 title: How We Made A Good Enough Zine — Good Enough
 domain: goodenough.us

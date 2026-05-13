@@ -2,6 +2,7 @@
 uuid: 764281782
 bookmarkOf: https://www.youtube.com/watch?v=El2t7jyzjJY
 category: video
+collection: A BETTER LIFE
 headImage: https://i.ytimg.com/vi/El2t7jyzjJY/maxresdefault.jpg
 title: L'AUTO-COMPASSION avec Frédéric Lopez
 domain: youtube.com

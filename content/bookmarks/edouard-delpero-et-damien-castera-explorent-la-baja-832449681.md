@@ -2,6 +2,7 @@
 uuid: 832449681
 bookmarkOf: https://www.surfsession.com/actu/edouard-delpero-et-damien-castera-explorent-la-baja-california/
 category: article
+collection: SURF
 headImage: https://www.surfsession.com/wp-content/uploads/2024/08/Edouard_Action05_BajaCalifornia_0323_KevinMetallier-1.jpg
 title: Edouard Delpero et Damien Castera explorent la Baja California - Surf Session
   Magazine

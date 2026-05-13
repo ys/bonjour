@@ -2,6 +2,7 @@
 uuid: 663677925
 bookmarkOf: https://www.youtube.com/watch?v=a7_rRYzSnC8
 category: video
+collection: SKATEBOARDING
 headImage: https://i.ytimg.com/vi/a7_rRYzSnC8/maxresdefault.jpg
 title: Tony Rolando in conversation with Ray Barbee
 domain: youtube.com
