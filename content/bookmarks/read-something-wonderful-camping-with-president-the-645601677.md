@@ -2,6 +2,7 @@
 uuid: 645601677
 bookmarkOf: https://readsomethingwonderful.com/p/133/camping-with-president-theodore-roosevelt
 category: link
+collection: ART & CULTURE
 headImage: https://readsomethingwonderful.com/api/og/image/133
 title: Read Something Wonderful - Camping with President Theodore Roosevelt
 domain: readsomethingwonderful.com

@@ -2,6 +2,7 @@
 uuid: 757664559
 bookmarkOf: https://www.youtube.com/watch?v=rFRPtA1eEio
 category: video
+collection: SKATEBOARDING
 headImage: https://i.ytimg.com/vi/rFRPtA1eEio/maxresdefault.jpg
 title: Magic Tricks With Skateboard Wizard Richie Jackson | SKATE TALES
 domain: youtube.com

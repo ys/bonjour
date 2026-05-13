@@ -2,6 +2,7 @@
 uuid: 1353208401
 bookmarkOf: https://www.youtube.com/watch?v=RiSFA42vvBI
 category: video
+collection: HOME
 headImage: https://i.ytimg.com/vi/RiSFA42vvBI/maxresdefault.jpg
 title: 'Inside the Home of the World’s Best Plant Designer | Huckberry Homes: Hilton
   Carter - YouTube'

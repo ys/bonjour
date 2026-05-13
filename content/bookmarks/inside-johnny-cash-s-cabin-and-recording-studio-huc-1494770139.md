@@ -2,6 +2,7 @@
 uuid: 1494770139
 bookmarkOf: https://www.youtube.com/watch?v=ggC60RheNKk&list=WL&index=16
 category: video
+collection: ART & CULTURE
 headImage: https://i.ytimg.com/vi/ggC60RheNKk/maxresdefault.jpg
 title: 'Inside Johnny Cash’s Cabin and Recording Studio | Huckberry Homes: Cash Cabin'
 domain: youtube.com

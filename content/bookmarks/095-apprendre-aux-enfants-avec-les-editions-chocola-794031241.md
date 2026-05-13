@@ -2,6 +2,7 @@
 uuid: 794031241
 bookmarkOf: https://open.spotify.com/episode/6F1eUnonaI2GVPJ3s2lMVz?si=KHIofiKZTX2tP6Wkxn1vuQ&nd=1&dlsi=26291b7aa35348b2
 category: audio
+collection: SURF
 headImage: https://i.scdn.co/image/ab67656300005f1fc23ada5d55c8b7e022952bc2
 title: '095 Apprendre aux enfants avec les éditions Chocolatine'
 domain: open.spotify.com

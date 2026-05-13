@@ -2,6 +2,7 @@
 uuid: 841541559
 bookmarkOf: https://www.nytimes.com/video/opinion/100000009382183/a-new-wave.html
 category: video
+collection: SURF
 headImage: https://static01.nyt.com/images/2024/06/04/opinion/opdoc-surfing/opdoc-surfing-facebookJumbo.jpg?video-overlay
 title: 'Video: Opinion | A New Wave'
 domain: nytimes.com

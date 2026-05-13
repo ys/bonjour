@@ -2,6 +2,7 @@
 uuid: 895948848
 bookmarkOf: https://nobodysurf.com/natsu-no-owari-with-kenta-ishikawa/
 category: link
+collection: SURF
 headImage: https://cdn.nobodysurf.com/video/thumb/7dc9d6b91aef5c615a0713fabf3988c4.png
 title: '"natsu no owari" with Kenta Ishikawa | NobodySurf'
 domain: nobodysurf.com

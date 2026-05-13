@@ -2,6 +2,7 @@
 uuid: 730525444
 bookmarkOf: https://poetry.camera/
 category: link
+collection: PHOTOGRAPHY
 headImage: https://poetry.camera/public/link-preview.png
 title: poetry camera
 domain: poetry.camera

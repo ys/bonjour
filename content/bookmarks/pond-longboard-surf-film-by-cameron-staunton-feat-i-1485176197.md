@@ -2,6 +2,7 @@
 uuid: 1485176197
 bookmarkOf: https://www.youtube.com/watch?v=dut1q5cMAKc
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/dut1q5cMAKc/maxresdefault.jpg
 title: Pond | Longboard Surf Film by Cameron Staunton feat. Izzy Henshall in Australia
 domain: youtube.com

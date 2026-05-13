@@ -2,6 +2,7 @@
 uuid: 875127127
 bookmarkOf: https://www.newyorker.com/magazine/2024/09/23/the-art-of-taking-it-slow
 category: article
+collection: A BETTER LIFE
 headImage: https://media.newyorker.com/photos/66e1f7de82d25071e0bf3a29/16:9/w_1280,c_limit/r44844.jpg
 title: The Art of Taking It Slow
 domain: newyorker.com

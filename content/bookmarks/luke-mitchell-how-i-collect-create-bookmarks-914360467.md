@@ -2,6 +2,7 @@
 uuid: 914360467
 bookmarkOf: https://www.interroban.gg/post/how-i-bookmark/
 category: article
+collection: TECH
 headImage: https://rdl.ink/render/https%3A%2F%2Fwww.interroban.gg%2Fpost%2Fhow-i-bookmark%2F
 title: Luke Mitchell | How I collect & create bookmarks
 domain: interroban.gg

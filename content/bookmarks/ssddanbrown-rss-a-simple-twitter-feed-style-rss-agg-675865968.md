@@ -2,6 +2,7 @@
 uuid: 675865968
 bookmarkOf: https://github.com/ssddanbrown/rss?tab=readme-ov-file
 category: link
+collection: TECH
 headImage: https://opengraph.githubassets.com/9df70dfbf470ff983071685721f8d0d64f1b88684e7783fdb843a52a0e0125ae/ssddanbrown/rss
 title: 'ssddanbrown/rss: A simple twitter-feed-style RSS aggregator written in PHP,
   Laravel, Inertia.js, Tailwind and Vue.js'

@@ -2,6 +2,7 @@
 uuid: 945694717
 bookmarkOf: https://www.surfersjournal.com/editorial/noseride-obsessive/
 category: link
+collection: SURF
 headImage: https://media.surfersjournal.com/wp-content/uploads/2024/02/20104003/tatsuo_takei1-2.jpg
 title: Noseride Obsessive - The Surfers Journal
 domain: surfersjournal.com

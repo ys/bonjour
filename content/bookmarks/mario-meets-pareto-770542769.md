@@ -2,6 +2,7 @@
 uuid: 770542769
 bookmarkOf: https://www.mayerowitz.io/blog/mario-meets-pareto
 category: article
+collection: ART & CULTURE
 headImage: https://www.mayerowitz.io/SEO/mario-meets-pareto.png
 title: Mario meets Pareto
 domain: mayerowitz.io

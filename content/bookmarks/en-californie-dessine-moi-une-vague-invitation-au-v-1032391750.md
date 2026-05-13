@@ -2,6 +2,7 @@
 uuid: 1032391750
 bookmarkOf: https://youtube.com/watch?v=-x9SBCODnOA&si=SI9NQpxTGrcdMnyW
 category: video
+collection: ART & CULTURE
 headImage: https://i.ytimg.com/vi/-x9SBCODnOA/maxresdefault.jpg
 title: En Californie, dessine-moi une vague | Invitation au voyage | ARTE
 domain: youtube.com

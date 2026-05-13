@@ -2,6 +2,7 @@
 uuid: 1174075258
 bookmarkOf: https://www.youtube.com/watch?v=wXed4e5uzwg
 category: video
+collection: COFFEE & FOOD
 headImage: https://i.ytimg.com/vi/wXed4e5uzwg/maxresdefault.jpg
 title: 3 plats faciles et rapides à faire en semaine en rentrant du boulot ! ⏱
 domain: youtube.com

@@ -2,6 +2,7 @@
 uuid: 645601599
 bookmarkOf: https://www.youtube.com/watch?v=pyhK22C4OiE
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/pyhK22C4OiE/maxresdefault.jpg
 title: Maybe Yesterday | Surf | Karina Rozunko
 domain: youtube.com

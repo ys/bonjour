@@ -2,6 +2,7 @@
 uuid: 1317980440
 bookmarkOf: https://filmfreeway.com/Buoyancy-ASurfStoryFromTaiwan
 category: link
+collection: SURF
 headImage: https://filmfreeway-production-storage-01-connector.filmfreeway.com/press_kits/posters/003/239/946/original/cfd3a54387-poster.jpg?1749020082
 title: Buoyancy - A Surf Story From Taiwan
 domain: filmfreeway.com

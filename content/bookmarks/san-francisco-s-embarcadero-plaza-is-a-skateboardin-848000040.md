@@ -2,6 +2,7 @@
 uuid: 848000040
 bookmarkOf: https://sfstandard.com/opinion/2024/08/15/skaters-mecca-embarcadero-plaza/
 category: article
+collection: SKATEBOARDING
 headImage: https://content.sfstandard.com/wp-content/uploads/2024/08/ellisasteamer-nocomply-bramphoto-hires-8796.jpg?crop=0px%2C89px%2C8256px%2C4334px&w=1200
 title: San Francisco's Embarcadero Plaza is a skateboarding shrine — don't desecrate
   it

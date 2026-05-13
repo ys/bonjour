@@ -2,6 +2,7 @@
 uuid: 979249189
 bookmarkOf: https://www.monsterchildren.com/articles/revisit-the-kate-bellm-interview
 category: article
+collection: PHOTOGRAPHY
 headImage: http://static1.squarespace.com/static/6398e5b4b3dd441ead33860a/6398e815f2eabd0b458bc856/67b39d6997383940eab29c1d/1739830875766/60x40cm.jpg?format=1500w
 title: 'Revisit: The Kate Bellm Interview — Monster Children'
 domain: monsterchildren.com

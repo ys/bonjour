@@ -2,6 +2,7 @@
 uuid: 645601106
 bookmarkOf: https://craigmod.com/essays/fast_software/
 category: article
+collection: TECH
 headImage: https://craigmod.com/essays/images/fast_software/
 title: Fast Software, the Best Software
 domain: craigmod.com

@@ -2,6 +2,7 @@
 uuid: 645601705
 bookmarkOf: https://www.youtube.com/watch?v=iXC4J0NHHUA
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/iXC4J0NHHUA/maxresdefault.jpg
 title: Junk Wizards - Episode 1
 domain: youtube.com

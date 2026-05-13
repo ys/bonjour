@@ -2,6 +2,7 @@
 uuid: 781371988
 bookmarkOf: https://www.youtube.com/watch?v=g62tweFqDh0&list=PLjHRKTS-Q5-DBIKtFTzXdHr355duxbl7J&index=6
 category: video
+collection: HOME
 headImage: https://i.ytimg.com/vi/g62tweFqDh0/maxresdefault.jpg
 title: 'Explore An Austin Musician''s Bohemian Bungalow | Huckberry Homes: Episode
   1 | Scott Ballew'

@@ -2,6 +2,7 @@
 uuid: 1641866765
 bookmarkOf: https://www.youtube.com/watch?v=4q8wZ15ALz4
 category: video
+collection: SKATEBOARDING
 headImage: https://i.ytimg.com/vi/4q8wZ15ALz4/maxresdefault.jpg
 title: 'Andy Anderson: The Shape of Paris'
 domain: youtube.com

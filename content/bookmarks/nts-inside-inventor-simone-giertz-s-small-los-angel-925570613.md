@@ -2,6 +2,7 @@
 uuid: 925570613
 bookmarkOf: https://www.youtube.com/watch?v=7vAiloW7phc
 category: video
+collection: HOME
 headImage: https://i.ytimg.com/vi/7vAiloW7phc/hqdefault.jpg
 title: 'NTS: Inside Inventor Simone Giertz’s Small Los Angeles Home, 58sqm/630sqft'
 domain: youtube.com

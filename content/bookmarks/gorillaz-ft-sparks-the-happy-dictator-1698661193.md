@@ -2,6 +2,7 @@
 uuid: 1698661193
 bookmarkOf: https://www.youtube.com/watch?v=q6sa6pWz1NQ
 category: video
+collection: ART & CULTURE
 headImage: https://i.ytimg.com/vi/q6sa6pWz1NQ/maxresdefault.jpg
 title: Gorillaz ft. Sparks – The Happy Dictator
 domain: youtube.com

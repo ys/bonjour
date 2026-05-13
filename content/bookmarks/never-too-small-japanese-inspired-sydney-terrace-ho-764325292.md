@@ -2,6 +2,7 @@
 uuid: 764325292
 bookmarkOf: https://www.youtube.com/watch?v=hrOeEdf41cE
 category: video
+collection: HOME
 headImage: https://i.ytimg.com/vi/hrOeEdf41cE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgTSg9MA8=&rs=AOn4CLAbdGPWBcbSXyZ8vJ6Dx_nLYECCSA
 title: 'NEVER TOO SMALL: Japanese Inspired Sydney Terrace House, 47sqm/506sqft'
 domain: youtube.com

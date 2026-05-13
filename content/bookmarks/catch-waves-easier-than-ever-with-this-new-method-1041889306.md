@@ -2,6 +2,7 @@
 uuid: 1041889306
 bookmarkOf: https://www.youtube.com/watch?v=3coGS0jn0Vk
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/3coGS0jn0Vk/maxresdefault.jpg
 title: Catch waves easier than ever... with this NEW method
 domain: youtube.com

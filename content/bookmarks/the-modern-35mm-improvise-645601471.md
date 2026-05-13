@@ -2,6 +2,7 @@
 uuid: 645601471
 bookmarkOf: https://www.lostnotfoundmag.com/blogs/news/the-modern-35mm-improvise
 category: article
+collection: PHOTOGRAPHY
 headImage: https://www.lostnotfoundmag.com/cdn/shop/articles/000049530023.jpg?v=1606284771
 title: The Modern 35mm Improvise
 domain: lostnotfoundmag.com

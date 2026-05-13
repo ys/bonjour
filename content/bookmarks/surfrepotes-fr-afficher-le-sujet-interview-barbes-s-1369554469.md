@@ -2,6 +2,7 @@
 uuid: 1369554469
 bookmarkOf: https://surfrepotes.fr/forum/articles-interviews-surf/interview-barbes-surf-club-t10212.html
 category: link
+collection: SURF
 headImage: https://surfrepotes.fr/forum/styles/prosilver_se/imageset/banniere.png
 title: surfrepotes.fr • Afficher le sujet - Interview - Barbes Surf Club
 domain: surfrepotes.fr

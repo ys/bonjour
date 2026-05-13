@@ -2,6 +2,7 @@
 uuid: 675590582
 bookmarkOf: https://craigmod.com/roden/086/
 category: link
+collection: A BETTER LIFE
 headImage: https://craigmod.com/roden/img/086/086.jpg
 title: Tokyo Walk, TBOT Cover, Aloneness — Roden newsletter issue 086
 domain: craigmod.com

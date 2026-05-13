@@ -2,6 +2,7 @@
 uuid: 1335733817
 bookmarkOf: https://www.youtube.com/watch?v=KjKr4IawndA&list=WL&index=13
 category: video
+collection: SKATEBOARDING
 headImage: https://i.ytimg.com/vi/KjKr4IawndA/maxresdefault.jpg
 title: 'Sarah Meurle: Creating a world where photography and skateboarding combine'
 domain: youtube.com

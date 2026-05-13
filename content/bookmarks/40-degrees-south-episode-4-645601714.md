@@ -2,6 +2,7 @@
 uuid: 645601714
 bookmarkOf: https://www.youtube.com/watch?v=s-EKUGccLtM
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/s-EKUGccLtM/maxresdefault.jpg
 title: 40 Degrees South - Episode 4
 domain: youtube.com

@@ -2,6 +2,7 @@
 uuid: 649406201
 bookmarkOf: https://www.pushkin.fm/podcasts/lost-hills/lost-hills-season-3-the-dark-prince
 category: article
+collection: SURF
 headImage: https://e1.nmcdn.io/pushkin/wp-content/uploads/2023/05/LH_S3_PUSHKIN_BANNER_1200x628.png/v:1-width:1200-height:630-fit:cover/LH_S3_PUSHKIN_BANNER_1200x628.png?signature=ca04b306
 title: 'Lost Hills Season 3: The Dark Prince | Lost Hills'
 domain: pushkin.fm

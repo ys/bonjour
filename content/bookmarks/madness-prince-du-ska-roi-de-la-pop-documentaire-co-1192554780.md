@@ -2,6 +2,7 @@
 uuid: 1192554780
 bookmarkOf: https://youtube.com/watch?v=vCjo4saMVMg&si=f-yHDeTe_Kg9ZdH1
 category: video
+collection: ART & CULTURE
 headImage: https://i.ytimg.com/vi/vCjo4saMVMg/maxresdefault.jpg
 title: Madness - Prince du ska, roi de la pop | Documentaire complet | ARTE
 domain: youtube.com

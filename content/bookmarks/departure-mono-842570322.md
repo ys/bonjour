@@ -2,6 +2,7 @@
 uuid: 842570322
 bookmarkOf: https://departuremono.com/
 category: link
+collection: TECH
 headImage: https://departuremono.com/assets/departure-og.png
 title: Departure Mono
 domain: departuremono.com

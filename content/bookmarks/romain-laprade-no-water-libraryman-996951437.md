@@ -2,6 +2,7 @@
 uuid: 996951437
 bookmarkOf: https://libraryman.se/romain-laprade-no-water/
 category: link
+collection: BOOKS
 headImage: https://rdl.ink/render/https%3A%2F%2Flibraryman.se%2Fromain-laprade-no-water%2F
 title: Romain Laprade — No Water — Libraryman
 domain: libraryman.se

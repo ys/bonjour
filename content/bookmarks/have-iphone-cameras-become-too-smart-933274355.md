@@ -2,6 +2,7 @@
 uuid: 933274355
 bookmarkOf: https://www.newyorker.com/culture/infinite-scroll/have-iphone-cameras-become-too-smart
 category: article
+collection: TECH
 headImage: https://media.newyorker.com/photos/6233b1adbb9e4c8f282d03cd/16:9/w_1280,c_limit/chayka_iphone_social_2.jpg
 title: Have iPhone Cameras Become Too Smart?
 domain: newyorker.com

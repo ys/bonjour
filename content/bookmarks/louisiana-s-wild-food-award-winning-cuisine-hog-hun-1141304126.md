@@ -2,6 +2,7 @@
 uuid: 1141304126
 bookmarkOf: https://www.youtube.com/watch?v=eUlmGYon5mk&list=PLjHRKTS-Q5-CeCo66kFGivBMF8qB8orPh&index=25&t=22s
 category: video
+collection: TRAVEL
 headImage: https://i.ytimg.com/vi/eUlmGYon5mk/maxresdefault.jpg
 title: Louisiana's Wild Food & Award-Winning Cuisine | Hog Hunting, Swamp Fishing
   & MORE | DIRT New Orleans

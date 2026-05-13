@@ -2,6 +2,7 @@
 uuid: 675259111
 bookmarkOf: https://gist.github.com/ys/8a1251bfaf3fe51867342b790bf17bde
 category: article
+collection: TECH
 headImage: https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png
 title: docker-compose.yml
 domain: gist.github.com

@@ -2,6 +2,7 @@
 uuid: 654815256
 bookmarkOf: https://goodenough.us/blog/2023-08-31-thoughts-on-thoughts/
 category: article
+collection: A BETTER LIFE
 headImage: https://goodenough.us/social-preview.png
 title: Thoughts On Thoughts — Good Enough
 domain: goodenough.us

@@ -2,6 +2,7 @@
 uuid: 1435868505
 bookmarkOf: https://m.youtube.com/watch?v=po4YeB_vQYc
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/po4YeB_vQYc/maxresdefault.jpg
 title: SOUL RHYTHMS | Deepest Reaches with Kyle Albers, Shawn Parkin & River Covey
   - Presented by SurfBored

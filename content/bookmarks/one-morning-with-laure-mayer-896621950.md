@@ -2,6 +2,7 @@
 uuid: 896621950
 bookmarkOf: https://www.youtube.com/watch?app=desktop&v=UdzW7DBnZx0
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/UdzW7DBnZx0/maxresdefault.jpg
 title: ONE MORNING WITH LAURE MAYER
 domain: youtube.com

@@ -2,6 +2,7 @@
 uuid: 770675699
 bookmarkOf: https://www.youtube.com/watch?v=5CXnNpPMKms
 category: video
+collection: COFFEE & FOOD
 headImage: https://i.ytimg.com/vi/5CXnNpPMKms/hqdefault.jpg
 title: Why Top French Michelin Star Chefs Swear by This Butter (Beurre Bordier)
 domain: youtube.com

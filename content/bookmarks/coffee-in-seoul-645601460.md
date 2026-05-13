@@ -2,6 +2,7 @@
 uuid: 645601460
 bookmarkOf: https://arslan.io/2022/11/07/coffee-in-seoul/
 category: article
+collection: COFFEE & FOOD
 headImage: https://arslan.io/content/images/2022/11/DSCF3897-1.jpeg
 title: Coffee in Seoul
 domain: arslan.io

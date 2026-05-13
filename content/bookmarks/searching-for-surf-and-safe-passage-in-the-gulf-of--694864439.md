@@ -2,6 +2,7 @@
 uuid: 694864439
 bookmarkOf: https://www.fieldmag.com/articles/gulf-of-alaska-surf-trip-35mm
 category: article
+collection: SURF
 headImage: http://images.ctfassets.net/r7p9m4b1iqbp/2Z9D4NvqbHYV6sqqNma2rs/542560db6e08b2e51d1941472cd63800/Nate-Stephenson-Surf-Alaska-Seaview.jpg?w=1000
 title: Searching for Surf and Safe Passage in the Gulf of Alaska
 domain: fieldmag.com

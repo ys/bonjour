@@ -2,6 +2,7 @@
 uuid: 645601079
 bookmarkOf: https://damien.cool/plus-important-que-davoir-plein-de-temps/
 category: article
+collection: A BETTER LIFE
 headImage: https://damien.cool/blog/wp-content/uploads/2021/01/100-regarder-typo-routine-1-1024x798.jpg
 title: Plus important que d'avoir plein de temps – Damien Aresta
 domain: damien.cool

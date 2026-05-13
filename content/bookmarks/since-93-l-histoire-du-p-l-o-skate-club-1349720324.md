@@ -2,6 +2,7 @@
 uuid: 1349720324
 bookmarkOf: https://www.youtube.com/watch?v=VH1hHfOqEqc
 category: video
+collection: SKATEBOARDING
 headImage: https://i.ytimg.com/vi/VH1hHfOqEqc/maxresdefault.jpg
 title: Since ‘93 - L’histoire du P.L.O Skate Club
 domain: youtube.com

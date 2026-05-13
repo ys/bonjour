@@ -2,6 +2,7 @@
 uuid: 740230709
 bookmarkOf: https://www.youtube.com/watch?v=4i8WENruig0
 category: video
+collection: HOME
 headImage: https://i.ytimg.com/vi/4i8WENruig0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWChKMA8=&rs=AOn4CLArUXCg-GkUSsPOXfK2mMWSS29KpQ
 title: NEVER TOO SMALL - Japanese Artist’s Unique Open Air Family Home, Tokyo 57sqm/613sqft
 domain: youtube.com

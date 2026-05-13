@@ -2,6 +2,7 @@
 uuid: 1170810653
 bookmarkOf: https://www.youtube.com/watch?v=-pt9hatF6Zg&t=562s
 category: video
+collection: COFFEE & FOOD
 headImage: https://i.ytimg.com/vi/-pt9hatF6Zg/maxresdefault.jpg
 title: Getting a Crash Course in Tex-Mex Cuisine, Bull Riding & the Spirit of Texas
   | DIRT Texas

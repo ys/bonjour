@@ -2,6 +2,7 @@
 uuid: 653502452
 bookmarkOf: https://github.com/catppuccin/catppuccin
 category: link
+collection: TECH
 headImage: https://repository-images.githubusercontent.com/425134686/7ae77a27-976a-4da5-bf76-d2fcba939d68
 title: "catppuccin/catppuccin: \U0001F638 Soothing pastel theme for the high-spirited!"
 domain: github.com

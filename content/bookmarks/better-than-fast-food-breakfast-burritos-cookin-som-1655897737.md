@@ -2,6 +2,7 @@
 uuid: 1655897737
 bookmarkOf: https://www.youtube.com/watch?v=poSdDTfT_3Q
 category: video
+collection: COFFEE & FOOD
 headImage: https://i.ytimg.com/vi/poSdDTfT_3Q/maxresdefault.jpg
 title: Better than Fast Food Breakfast Burritos | Cookin' Somethin'
 domain: youtube.com

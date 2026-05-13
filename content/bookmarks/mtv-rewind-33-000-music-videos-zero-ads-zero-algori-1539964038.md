@@ -2,6 +2,7 @@
 uuid: 1539964038
 bookmarkOf: https://wantmymtv.vercel.app/player.html?fbclid=PAVERFWAPSTVtzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAacHJHIVJl58-orzjGtLboibHRq4WoCL8TjJ4nasEsPDM2mCUOlo06aRJPys7Q
 category: link
+collection: ART & CULTURE
 headImage: https://wantmymtv.xyz/social.png
 title: MTV REWIND - 33,000+ Music Videos • Zero Ads • Zero Algorithms
 domain: wantmymtv.vercel.app

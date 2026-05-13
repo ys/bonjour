@@ -2,6 +2,7 @@
 uuid: 645601730
 bookmarkOf: https://www.youtube.com/watch?v=U0QgMuPWakM
 category: video
+collection: PHOTOGRAPHY
 headImage: https://i.ytimg.com/vi/U0QgMuPWakM/maxresdefault.jpg
 title: film vs digital
 domain: youtube.com

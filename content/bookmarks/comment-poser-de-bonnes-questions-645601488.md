@@ -2,6 +2,7 @@
 uuid: 645601488
 bookmarkOf: https://beside.media/fr/atelier/comment-poser-de-bonnes-questions/
 category: article
+collection: A BETTER LIFE
 headImage: https://cside.sfo2.cdn.digitaloceanspaces.com/beside_/app/www/2022/12/BESIDE_HTAGQ_feature_fr.png
 title: Comment poser de bonnes questions
 domain: beside.media

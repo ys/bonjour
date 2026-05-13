@@ -2,6 +2,7 @@
 uuid: 856050362
 bookmarkOf: https://www.youtube.com/watch?v=_usvQvtJMLE
 category: video
+collection: ART & CULTURE
 headImage: https://i.ytimg.com/vi/_usvQvtJMLE/maxresdefault.jpg
 title: Frank Carter and The Rattlesnakes - Hellfest 2024 – ARTE Concert
 domain: youtube.com

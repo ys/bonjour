@@ -2,6 +2,7 @@
 uuid: 682809319
 bookmarkOf: https://syllabusproject.org/syllabus-for-taking-an-internet-walk/
 category: article
+collection: TECH
 headImage: https://syllabusproject.files.wordpress.com/2023/11/image4.png
 title: Taking an Internet Walk
 domain: syllabusproject.org

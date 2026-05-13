@@ -2,6 +2,7 @@
 uuid: 732465303
 bookmarkOf: https://youtube.com/watch?v=GYsELUKFlvc&feature=shared
 category: video
+collection: ART & CULTURE
 headImage: https://i.ytimg.com/vi/GYsELUKFlvc/maxresdefault.jpg
 title: The snobification of outdoor sports.
 domain: youtube.com

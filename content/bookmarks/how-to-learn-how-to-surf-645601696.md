@@ -2,6 +2,7 @@
 uuid: 645601696
 bookmarkOf: https://www.youtube.com/watch?v=wn5KqWwP6uQ
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/wn5KqWwP6uQ/maxresdefault.jpg
 title: How to Learn How to Surf
 domain: youtube.com

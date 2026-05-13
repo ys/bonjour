@@ -2,6 +2,7 @@
 uuid: 645601146
 bookmarkOf: https://robinrendle.com/notes/the-return-of-the-blogroll.html
 category: article
+collection: TECH
 headImage: https://rdl.ink/render/https%3A%2F%2Frobinrendle.com%2Fnotes%2Fthe-return-of-the-blogroll.html
 title: The Return of the Blogroll
 domain: robinrendle.com

@@ -2,6 +2,7 @@
 uuid: 645601446
 bookmarkOf: https://robinrendle.com/notes/strategic-and-necessary/
 category: article
+collection: TECH
 headImage: https://rdl.ink/render/https%3A%2F%2Frobinrendle.com%2Fnotes%2Fstrategic-and-necessary%2F
 title: Strategic and necessary
 domain: robinrendle.com

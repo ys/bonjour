@@ -2,6 +2,7 @@
 uuid: 645601479
 bookmarkOf: https://www.monsterchildren.com/fontaines-d-c-think-you-should-be-dancing/
 category: link
+collection: ART & CULTURE
 headImage: ''
 title: https://www.monsterchildren.com/fontaines-d-c-think-you-should-be-dancing/
 domain: monsterchildren.com

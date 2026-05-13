@@ -2,6 +2,7 @@
 uuid: 760398418
 bookmarkOf: https://www.youtube.com/watch?v=iwFMWWToDGM
 category: video
+collection: SKATEBOARDING
 headImage: https://i.ytimg.com/vi/iwFMWWToDGM/maxresdefault.jpg
 title: a conversation with Mike Blabac | from Skateboarding to Huberman Lab
 domain: youtube.com

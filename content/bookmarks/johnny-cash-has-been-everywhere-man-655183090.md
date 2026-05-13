@@ -2,6 +2,7 @@
 uuid: 655183090
 bookmarkOf: http://www.johnnycashhasbeeneverywhere.com/
 category: link
+collection: TECH
 headImage: https://www.johnnycashhasbeeneverywhere.com/screenshot.jpg
 title: Johnny Cash Has Been Everywhere (Man)!
 domain: johnnycashhasbeeneverywhere.com

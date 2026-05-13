@@ -2,6 +2,7 @@
 uuid: 988993064
 bookmarkOf: https://www.surfersjournal.com/editorial/soundings-ed-templeton/
 category: article
+collection: PHOTOGRAPHY
 headImage: https://media.surfersjournal.com/wp-content/uploads/2024/06/21123937/Self-Portrait-Paris-2-1.jpg
 title: Ed Templeton - The Surfers Journal
 domain: surfersjournal.com

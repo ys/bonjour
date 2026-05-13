@@ -2,6 +2,7 @@
 uuid: 1468260128
 bookmarkOf: https://www.youtube.com/watch?v=GimHXc3zlEE
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/GimHXc3zlEE/maxresdefault.jpg
 title: Reverie 16mm Surf Short by Sam Nassar
 domain: youtube.com

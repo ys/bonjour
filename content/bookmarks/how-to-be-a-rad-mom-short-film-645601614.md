@@ -2,6 +2,7 @@
 uuid: 645601614
 bookmarkOf: https://www.youtube.com/watch?v=CNvmJFIs8ZI
 category: video
+collection: PHOTOGRAPHY
 headImage: https://i.ytimg.com/vi/CNvmJFIs8ZI/maxresdefault.jpg
 title: How To Be A Rad Mom (Short Film)
 domain: youtube.com

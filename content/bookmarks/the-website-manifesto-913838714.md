@@ -2,6 +2,7 @@
 uuid: 913838714
 bookmarkOf: https://nora.zone/manifesto.html
 category: link
+collection: TECH
 headImage: https://rdl.ink/render/https%3A%2F%2Fnora.zone%2Fmanifesto.html
 title: The Website Manifesto
 domain: nora.zone

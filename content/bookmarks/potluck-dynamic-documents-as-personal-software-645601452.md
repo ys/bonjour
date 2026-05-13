@@ -2,6 +2,7 @@
 uuid: 645601452
 bookmarkOf: https://www.inkandswitch.com/potluck/
 category: article
+collection: TECH
 headImage: https://www.inkandswitch.com/potluck/static/coffee.jpg
 title: 'Potluck: Dynamic documents as personal software'
 domain: inkandswitch.com

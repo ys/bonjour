@@ -2,6 +2,7 @@
 uuid: 864661073
 bookmarkOf: https://www.youtube.com/watch?v=1JhMOnf5bgY
 category: video
+collection: PHOTOGRAPHY
 headImage: https://i.ytimg.com/vi/1JhMOnf5bgY/maxresdefault.jpg
 title: the Leica Q for ME | Leica Q3 43
 domain: youtube.com

@@ -2,6 +2,7 @@
 uuid: 653725178
 bookmarkOf: https://miscellaneousadventures.substack.com/p/live-simply-the-complicated-truth?r=5cjn3&utm_medium=ios&utm_campaign=post
 category: article
+collection: A BETTER LIFE
 headImage: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c9d9ee2-9c8e-42ad-9d99-2fc7f30de276_1536x1024.jpeg
 title: 'Issue #39 Live Simply: The Complicated Truth'
 domain: miscellaneousadventures.substack.com

@@ -2,6 +2,7 @@
 uuid: 675259010
 bookmarkOf: https://docs.gitea.com/next/installation/install-with-docker#sshing-shim-with-authorized_keys
 category: link
+collection: TECH
 headImage: https://rdl.ink/render/https%3A%2F%2Fdocs.gitea.com%2Fnext%2Finstallation%2Finstall-with-docker%23sshing-shim-with-authorized_keys
 title: Installation with Docker | Gitea Documentation
 domain: docs.gitea.com

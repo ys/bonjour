@@ -2,6 +2,7 @@
 uuid: 660611089
 bookmarkOf: https://youtube.com/watch?v=quSfeyjhOb8&feature=shared
 category: video
+collection: SURF
 headImage: https://i.ytimg.com/vi/quSfeyjhOb8/maxresdefault.jpg
 title: SHOOBIE SUMMER
 domain: youtube.com

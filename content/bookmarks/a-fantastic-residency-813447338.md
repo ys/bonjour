@@ -2,6 +2,7 @@
 uuid: 813447338
 bookmarkOf: https://vimeo.com/970123958
 category: video
+collection: SURF
 headImage: https://i.vimeocdn.com/video/1883630458-f477e7fb3f7a6c8443dc48b44a17c766a65761cbe8d42e3094917736637c9f9d-d_295x166
 title: A Fantastic Residency
 domain: vimeo.com

@@ -2,6 +2,7 @@
 uuid: 849405926
 bookmarkOf: https://www.youtube.com/watch?v=8wrkIBG54l4&t=1913s
 category: video
+collection: SKATEBOARDING
 headImage: https://i.ytimg.com/vi/8wrkIBG54l4/hqdefault.jpg
 title: HEART - A Tribute to Skateshops - Part 1
 domain: youtube.com

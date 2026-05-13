@@ -2,6 +2,7 @@
 uuid: 645601709
 bookmarkOf: https://www.youtube.com/watch?v=vwSRqaZGsPw
 category: video
+collection: ART & CULTURE
 headImage: https://i.ytimg.com/vi/vwSRqaZGsPw/hqdefault.jpg
 title: Gil Scott-Heron - Revolution Will Not Be Televised (Official Audio)
 domain: youtube.com

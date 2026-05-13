@@ -2,6 +2,7 @@
 uuid: 645601058
 bookmarkOf: https://www.inkandswitch.com/local-first.html
 category: link
+collection: TECH
 headImage: ''
 title: https://www.inkandswitch.com/local-first.html
 domain: inkandswitch.com

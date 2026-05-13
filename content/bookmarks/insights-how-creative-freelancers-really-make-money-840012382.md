@@ -2,6 +2,7 @@
 uuid: 840012382
 bookmarkOf: https://www.wearelookingsideways.com/p/insights-how-creative-freelancers
 category: article
+collection: TECH
 headImage: https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F276ee7fd-88c2-452f-a08e-5447a3ebb86e_3000x2000.heic
 title: 'Insights: How Creative Freelancers REALLY Make Money - Part 1'
 domain: wearelookingsideways.com

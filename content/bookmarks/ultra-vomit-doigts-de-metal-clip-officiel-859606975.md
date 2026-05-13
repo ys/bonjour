@@ -2,6 +2,7 @@
 uuid: 859606975
 bookmarkOf: https://www.youtube.com/watch?v=_HtXHReDaTI
 category: video
+collection: ART & CULTURE
 headImage: https://i.ytimg.com/vi/_HtXHReDaTI/hqdefault.jpg
 title: Ultra Vomit - DOIGTS DE METAL (Clip Officiel)
 domain: youtube.com
