@@ -195,8 +195,7 @@ books:
     pages: 224
     isbn: 160945555X
     isbn13: "9781609455552"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/60827965/fe8f65e0e37b9fd52363e80617e66bb3ea9fb904.jpeg
+    cover_url: https://m.media-amazon.com/images/I/81wNoYc0JDL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/berezina
   - title: >-
@@ -311,8 +310,7 @@ books:
     pages: 304
     isbn: "0525536515"
     isbn13: "9780525536512"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/59340601/d5cda8f52cd8e844683d4a762edebd859a32c853.jpeg
+    cover_url: https://m.media-amazon.com/images/I/81x+9opgESL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/digital-minimalism
   - title: "The Arab of the Future 3: A Childhood in the Middle East, 1985-1987"
@@ -324,7 +322,7 @@ books:
     pages: 0
     isbn: "1627793534"
     isbn13: "9781627793537"
-    cover_url: https://m.media-amazon.com/images/I/819lk2Uq-bL._AC_UY654_QL65_.jpg
+    cover_url: ""
     reading: false
     url: https://hardcover.app/books/the-arab-of-the-future-3
   - title: Do Pause
@@ -361,7 +359,8 @@ books:
     pages: 336
     isbn: "1786891557"
     isbn13: "9781786891556"
-    cover_url: https://m.media-amazon.com/images/I/91xYmBr+mFL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/60254978/9278c492fa99e54216a457208b0380b6c75acfa9.jpeg
     reading: false
     url: >-
       https://hardcover.app/books/outpost-a-journey-to-the-wild-ends-of-the-earth
