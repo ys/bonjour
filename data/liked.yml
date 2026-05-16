@@ -1,4 +1,44 @@
 ---
+- _id: 1720002854
+  link: https://www.youtube.com/watch?v=wxaXWSVhRXU
+  title: 'Foo Fighters: Tiny Desk Concert'
+  excerpt: Robin Hilton | May 13, 2026Like a lot of artists who play the Tiny Desk,
+    the guys in Foo Fighters carefully curated and worked through their set for weeks
+    le...
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/wxaXWSVhRXU/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/wxaXWSVhRXU/maxresdefault.jpg
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2026-05-16T10:38:49.553Z'
+  collection:
+    "$ref": collections
+    "$id": 37679987
+    oid: 37679987
+  highlights: []
+  lastUpdate: '2026-05-16T10:38:52.870Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1720002854
+  cache:
+    status: invalid-origin
+  broken: false
+  collectionId: 37679987
+  collection_name: ART & CULTURE
+  parsed: {}
 - _id: 1715346678
   link: https://finisterre.com/blogs/broadcast/canto
   title: Canto
