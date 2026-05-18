@@ -215,7 +215,8 @@ books:
     pages: 281
     isbn: "0374278016"
     isbn13: "9780374278014"
-    cover_url: https://m.media-amazon.com/images/I/71OtRfWWYbL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/59375164/507d7c2cfd3621218ce517f31efaccf85784cf9e.jpeg
     reading: false
     url: https://hardcover.app/books/uncanny-valley
   - title: "Do Make: The Power of Your Own Two Hands"
@@ -240,8 +241,7 @@ books:
     pages: 256
     isbn: "1982157771"
     isbn13: "9781982157777"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/59379277/098bd24171bba358af70c5bad3dd5b675aed4f1e.jpeg
+    cover_url: https://m.media-amazon.com/images/I/81hE9g0swOL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/burn-the-place
   - title: "Little Nothings 3: Uneasy Happiness"
