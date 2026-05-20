@@ -99,7 +99,7 @@ books:
     pages: 256
     isbn: "1786785552"
     isbn13: "9781786785558"
-    cover_url: https://assets.hardcover.app/edition/30647039/58295954._SX98_.jpg
+    cover_url: https://m.media-amazon.com/images/I/91b-boZUVYS._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/saltwater-in-the-blood
   - title: Grand Océan
@@ -216,7 +216,8 @@ books:
     pages: 186
     isbn: "2081411512"
     isbn13: "9782081411517"
-    cover_url: https://m.media-amazon.com/images/I/81s6cKz8c+L._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458204/8b9926b851ada21885a89cbaab18880e537fb033.jpeg
     reading: false
     url: https://hardcover.app/books/jamais-la-meme-vague-2020
   - title: Encabanée
@@ -358,8 +359,7 @@ books:
     pages: 60
     isbn: "2358876658"
     isbn13: "9782358876650"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/2458143/0341bb5d2dca27351ff6d8d177e109b8b8e292a7.jpeg
+    cover_url: https://m.media-amazon.com/images/I/71Iu8bIlsrL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/le-nageur-daral-2021
   - title: Chroniques de jeunesse
