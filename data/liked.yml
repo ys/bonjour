@@ -1,4 +1,50 @@
 ---
+- _id: 1728739566
+  link: https://www.huckmag.com/article/photos-gritty-golden-age-uk-skateboarding-scene-elsewhere-neil-macdonald
+  title: 'In photos: The gritty golden age of the UK’s skateboarding scene'
+  excerpt: Elsewhere — A new book from Science Vs. Life founder Neil Macdonald explores
+    the characters, photographs and ephemera that defined the sport in the ’80s and
+    ’90s, just before the internet and commercialisation changed it forever.
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://cdn.craft.cloud/26ed9c78-feb7-4ee6-8ddf-262fd7bafb2d/assets/tco/images/Ben-Bodilly-Penzance-1995-High-Res-v2.jpg?fit=crop&height=630&width=1200&s=tCj5hlku0uIpsHTMvFC6gxFIBnVeS8_twgamA3jveVI
+  media:
+  - link: https://cdn.craft.cloud/26ed9c78-feb7-4ee6-8ddf-262fd7bafb2d/assets/tco/images/Ben-Bodilly-Penzance-1995-High-Res-v2.jpg?fit=crop&height=630&width=1200&s=tCj5hlku0uIpsHTMvFC6gxFIBnVeS8_twgamA3jveVI
+    type: image
+  - link: https://cdn.craft.cloud/26ed9c78-feb7-4ee6-8ddf-262fd7bafb2d/assets/tco/images/Ben-Bodilly-Penzance-1995-High-Res-v2.jpg?fit=crop&height=418&width=800&s=Plu69GZESDdzhcT3E7oSr1S--0JYzZiHuxRZ4tFae4Q
+    type: image
+  tags:
+  - book
+  - photography
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2026-05-22T20:47:35.373Z'
+  collection:
+    "$ref": collections
+    "$id": 37459360
+    oid: 37459360
+  highlights: []
+  lastUpdate: '2026-05-22T20:47:35.373Z'
+  domain: huckmag.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1728739566
+  broken: false
+  cache:
+    status: ready
+    created: '2026-05-22T21:00:14.324Z'
+    size: 3623808
+  collectionId: 37459360
+  collection_name: SKATEBOARDING
+  parsed: {}
 - _id: 1724773109
   link: https://tadlerbooks.com/
   title: T. Adler Books
