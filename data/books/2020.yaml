@@ -9,7 +9,8 @@ books:
     pages: 52
     isbn: "1522761896"
     isbn13: "9781522761891"
-    cover_url: https://m.media-amazon.com/images/I/71JVr7S5UPL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458012/2f4310ce441e27ade110fa7fb20db553ce34d8d4.jpeg
     reading: false
     url: https://hardcover.app/books/beau-austin-1884
   - title: >-
@@ -122,7 +123,7 @@ books:
     pages: 204
     isbn: "1905916949"
     isbn13: "9781905916948"
-    cover_url: ""
+    cover_url: https://m.media-amazon.com/images/I/71L0hjW-9sL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/board-2015
   - title: 99 Aventures Dans les grandes histories bibliques
