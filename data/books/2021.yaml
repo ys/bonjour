@@ -22,7 +22,8 @@ books:
     pages: 0
     isbn: 190797458X
     isbn13: "9781907974588"
-    cover_url: https://m.media-amazon.com/images/I/711zFs9mTlL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/60316080/c4656cc2b0ce8a52d4f784766e6dad1dc19e4694.jpeg
     reading: false
     url: https://hardcover.app/books/path
   - title: Sans alcool
@@ -34,7 +35,8 @@ books:
     pages: 220
     isbn: "2080232770"
     isbn13: "9782080232779"
-    cover_url: https://m.media-amazon.com/images/I/71TzuxU-BjL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/1061185/95c984d5056eb629797e5fa9ce753c3965ed32c8.jpeg
     reading: false
     url: https://hardcover.app/books/sans-alcool-2021
   - title: Normal People
