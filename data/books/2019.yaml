@@ -195,8 +195,7 @@ books:
     pages: 224
     isbn: 160945555X
     isbn13: "9781609455552"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/60827965/fe8f65e0e37b9fd52363e80617e66bb3ea9fb904.jpeg
+    cover_url: https://m.media-amazon.com/images/I/71+Dc0vzGjL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/berezina
   - title: >-
@@ -336,7 +335,7 @@ books:
     pages: 128
     isbn: "1907974636"
     isbn13: "9781907974632"
-    cover_url: https://assets.hardcover.app/edition/30636232/42284142._SX98_.jpg
+    cover_url: https://m.media-amazon.com/images/I/811jZD-sVVL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/do-pause
   - title: "Desert Solitaire: A Season in the Wilderness"
