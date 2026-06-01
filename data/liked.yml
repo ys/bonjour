@@ -1,4 +1,47 @@
 ---
+- _id: 1740489842
+  link: https://www.youtube.com/watch?v=K2jD5m1xAJ8
+  title: The 'No Handwriting' Journal that will change your life
+  excerpt: 'Squarespace! Get a website in less than a day! 10% OFF using : MCKINNON
+    at checkout. https://squarespace.com/mckinnon Chris'' Typewriter store! : https://toro...'
+  note: Journaling with photos  is amazing
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/K2jD5m1xAJ8/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/K2jD5m1xAJ8/maxresdefault.jpg
+    type: image
+  tags:
+  - writing
+  - photography
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2026-06-01T08:28:09.230Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2026-06-01T08:28:25.359Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1740489842
+  cache:
+    status: ready
+    created: '2026-06-01T08:32:29.996Z'
+    size: 879
+  broken: false
+  collectionId: -1
+  collection_name:
+  parsed: {}
 - _id: 1728739566
   link: https://www.huckmag.com/article/photos-gritty-golden-age-uk-skateboarding-scene-elsewhere-neil-macdonald
   title: 'In photos: The gritty golden age of the UK’s skateboarding scene'
