@@ -195,7 +195,9 @@ books:
     url: https://hardcover.app/books/the-underground-railroad
   - title: The Courage to Be Disliked
     author: Ichiro Kishimi
-    subtitle: How to Free Yourself, Change your Life and Achieve Real Happiness
+    subtitle: >-
+      The Japanese Phenomenon That Shows You How to Change Your Life and Achieve
+      Real Happiness
     date: 2020-02-18
     read: 2020-02-18
     rating: 4
@@ -203,7 +205,7 @@ books:
     isbn: "1760638269"
     isbn13: "9781760638269"
     cover_url: >-
-      https://assets.hardcover.app/edition/7407969/101d1db40717bb170589895f6a3323f2a0c8008c.jpeg
+      https://assets.hardcover.app/external_data/24555015/54f7a3add8d4f15b083beaf741a45aff3348723b.jpeg
     reading: false
     url: https://hardcover.app/books/the-courage-to-be-disliked
   - title: Uncanny Valley
@@ -361,7 +363,6 @@ books:
     pages: 0
     isbn: "1910620610"
     isbn13: "9781910620618"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/60221104/7e0e9bd21d2a04962bdd1a61be6fe971752830a0.jpeg
+    cover_url: https://m.media-amazon.com/images/I/818-EhUnSML._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/americana-2019
