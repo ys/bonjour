@@ -1,4 +1,43 @@
 ---
+- _id: 1742581831
+  link: https://open.substack.com/pub/inherentbummer/p/the-dark-wizards?utm_source=share&utm_medium=android&r=5cjn3
+  title: The Dark Wizards
+  excerpt: Alternative Sports are not designed for optimization.
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://substackcdn.com/image/fetch/$s_!zbpM!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7628575c-f395-487f-b035-37443d3f3ef5_3072x2048.avif
+  media:
+  - link: https://substackcdn.com/image/fetch/$s_!zbpM!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7628575c-f395-487f-b035-37443d3f3ef5_3072x2048.avif
+    type: image
+  - link: https://substackcdn.com/image/fetch/$s_!JUqe!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Finherentbummer.substack.com%2Fapi%2Fv1%2Fpost_preview%2F200246516%2Ftwitter.jpg%3Fversion%3D4
+    type: image
+  tags:
+  - culture
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2026-06-02T21:12:26.128Z'
+  collection:
+    "$ref": collections
+    "$id": 37459360
+    oid: 37459360
+  highlights: []
+  lastUpdate: '2026-06-02T21:12:26.128Z'
+  domain: open.substack.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1742581831
+  broken: false
+  collectionId: 37459360
+  collection_name: SKATEBOARDING
+  parsed: {}
 - _id: 1740489842
   link: https://www.youtube.com/watch?v=K2jD5m1xAJ8
   title: The 'No Handwriting' Journal that will change your life
