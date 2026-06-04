@@ -311,7 +311,8 @@ books:
     pages: 304
     isbn: "0525536515"
     isbn13: "9780525536512"
-    cover_url: https://m.media-amazon.com/images/I/81x+9opgESL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/59340601/d5cda8f52cd8e844683d4a762edebd859a32c853.jpeg
     reading: false
     url: https://hardcover.app/books/digital-minimalism
   - title: "The Arab of the Future 3: A Childhood in the Middle East, 1985-1987"
@@ -323,7 +324,7 @@ books:
     pages: 0
     isbn: "1627793534"
     isbn13: "9781627793537"
-    cover_url: ""
+    cover_url: https://m.media-amazon.com/images/I/819lk2Uq-bL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/the-arab-of-the-future-3
   - title: Do Pause
