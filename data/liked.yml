@@ -1,4 +1,77 @@
 ---
+- _id: 1744706984
+  link: https://www.youtube.com/watch?v=XQpxhbCNmHY
+  title: SALT | Award-Winning Surf Documentary | Finisterre
+  excerpt: SALT is a powerful short autobiographical film by Alice Ward, a fil...
+  note: Love the storytelling in that one
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/XQpxhbCNmHY/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/XQpxhbCNmHY/maxresdefault.jpg
+    type: image
+  tags:
+  - surf
+  - movie
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2026-06-04T10:55:37.022Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2026-06-04T10:55:50.038Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1744706984
+  broken: false
+  collectionId: -1
+  collection_name:
+  parsed: {}
+- _id: 1744695792
+  link: https://youtube.com/watch?v=TNEawx_99mk&is=wOno_9xDxl_Vu3Kw
+  title: Hermanos Gutiérrez - "Canto Andino" [Official Music Video]
+  excerpt: 'Listen to "Canto Andino" now: https://ees.ffm.to/hg_caFrom the up...'
+  note: ''
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/TNEawx_99mk/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/TNEawx_99mk/maxresdefault.jpg
+    type: image
+  tags:
+  - musicvideo
+  highlights: []
+  important: true
+  removed: false
+  created: '2026-06-04T10:29:30.676Z'
+  collection:
+    "$ref": collections
+    "$id": 37679987
+    oid: 37679987
+  lastUpdate: '2026-06-04T10:29:42.137Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1744695792
+  broken: false
+  collectionId: 37679987
+  collection_name: ART & CULTURE
+  parsed: {}
 - _id: 1742581831
   link: https://open.substack.com/pub/inherentbummer/p/the-dark-wizards?utm_source=share&utm_medium=android&r=5cjn3
   title: The Dark Wizards
