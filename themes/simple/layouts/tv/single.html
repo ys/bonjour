@@ -3,6 +3,7 @@
 {{ $videos := slice }}
 {{ range where (where .Site.RegularPages "Section" "bookmarks") "Params.domain" "youtube.com" }}
   {{ $title := .Title }}
+  {{ $collection := .Params.collection | default "" }}
   {{ $u := urls.Parse .Params.bookmarkOf }}
   {{ $id := "" }}
   {{ if eq $u.Host "youtu.be" }}
@@ -11,7 +12,7 @@
     {{ $id = $u.Query.Get "v" }}
   {{ end }}
   {{ with $id }}
-    {{ $videos = $videos | append (dict "id" . "title" $title) }}
+    {{ $videos = $videos | append (dict "id" . "title" $title "collection" $collection) }}
   {{ end }}
 {{ end }}
 
@@ -20,6 +21,7 @@
     <h1 class="font-serif text-[28px] font-normal leading-tight text-ink dark:text-white">📺 TV</h1>
     <p class="font-serif italic text-base text-gray-500 dark:text-gray-400">A random video from my bookmarks.</p>
   </header>
+  <nav id="tv-filters" class="mb-6 flex flex-wrap justify-center gap-2 text-xs font-sans lowercase"></nav>
   <div id="tv-stage" style="aspect-ratio:16/9"
        class="relative w-full bg-black rounded-lg overflow-hidden shadow-lg shadow-{{ $.Scratch.Get "color" }}/20"></div>
   <p class="mt-4 flex items-baseline justify-between gap-4 text-xs font-sans lowercase text-gray-500 dark:text-gray-400">
@@ -33,6 +35,41 @@
     var videos = {{ $videos | jsonify | safeJS }};
     var stage = document.getElementById("tv-stage");
     var titleEl = document.getElementById("tv-title");
+    var filtersEl = document.getElementById("tv-filters");
+
+    var collections = ["all"].concat(
+      videos
+        .map(function (v) { return v.collection; })
+        .filter(function (c, i, a) { return c && a.indexOf(c) === i; })
+        .sort()
+    );
+
+    function activeCollection() {
+      var hash = location.hash.replace("#", "").toLowerCase();
+      return (hash && collections.indexOf(hash) !== -1) ? hash : "all";
+    }
+
+    function pool() {
+      var active = activeCollection();
+      if (active === "all") return videos;
+      return videos.filter(function (v) { return v.collection.toLowerCase() === active; });
+    }
+
+    function renderFilters() {
+      var active = activeCollection();
+      filtersEl.innerHTML = "";
+      collections.forEach(function (c) {
+        var a = document.createElement("a");
+        a.href = c === "all" ? "#" : "#" + c.toLowerCase();
+        a.textContent = c === "all" ? "all" : c.toLowerCase();
+        a.className =
+          "px-3 py-1 rounded-full border transition-colors " +
+          (c === active || (c === "all" && active === "all")
+            ? "border-ink dark:border-white text-ink dark:text-white"
+            : "border-gray-300 dark:border-gray-600 text-gray-500 dark:text-gray-400 hover:border-ink dark:hover:border-white hover:text-ink dark:hover:text-white");
+        filtersEl.appendChild(a);
+      });
+    }
 
     function render(video) {
       titleEl.textContent = video.title || "";
@@ -58,14 +95,21 @@
     }
 
     function pick() {
-      if (!videos.length) {
+      var p = pool();
+      if (!p.length) {
         stage.innerHTML = '<p class="absolute inset-0 flex items-center justify-center text-white text-sm">No videos found.</p>';
         return;
       }
-      render(videos[Math.floor(Math.random() * videos.length)]);
+      render(p[Math.floor(Math.random() * p.length)]);
     }
 
+    window.addEventListener("hashchange", function () {
+      renderFilters();
+      pick();
+    });
+
     document.getElementById("tv-shuffle").addEventListener("click", pick);
+    renderFilters();
     pick();
   })();
 </script>
