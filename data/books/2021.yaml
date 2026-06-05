@@ -22,8 +22,7 @@ books:
     pages: 0
     isbn: 190797458X
     isbn13: "9781907974588"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/60316080/c4656cc2b0ce8a52d4f784766e6dad1dc19e4694.jpeg
+    cover_url: https://m.media-amazon.com/images/I/711zFs9mTlL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/path
   - title: Sans alcool
@@ -203,7 +202,8 @@ books:
     pages: 208
     isbn: "2021339025"
     isbn13: "9782021339024"
-    cover_url: https://m.media-amazon.com/images/I/61IsZoo065L._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458088/ce28a1fc4b939eefaed64e2b6e8a8248efc51487.jpeg
     reading: false
     url: https://hardcover.app/books/besoin-de-mer-1999
   - title: Jamais la même vague
