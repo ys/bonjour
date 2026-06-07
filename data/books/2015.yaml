@@ -100,7 +100,7 @@ books:
     pages: 0
     isbn: "1937785319"
     isbn13: "9781937785314"
-    cover_url: https://m.media-amazon.com/images/I/81DTOURbYHL._AC_UY654_QL65_.jpg
+    cover_url: https://assets.hardcover.app/edition/30480586/content.jpeg
     reading: false
     url: https://hardcover.app/books/the-healthy-programmer
   - title: Manage Your Day-To-Day
@@ -115,7 +115,7 @@ books:
     cover_url: https://assets.hardcover.app/edition/24083105/content.jpeg
     reading: false
     url: https://hardcover.app/books/manage-your-day-to-day
-  - title: The Year Without Pants
+  - title: "The Year Without Pants: WordPress.com and the Future of Work"
     author: Scott Berkun
     subtitle: WordPress.com and the Future of Work
     date: 2015-01-31
@@ -124,7 +124,8 @@ books:
     pages: 272
     isbn: "1118660633"
     isbn13: "9781118660638"
-    cover_url: https://assets.hardcover.app/edition/24789159/7859733-L.jpg
+    cover_url: >-
+      https://assets.hardcover.app/edition/24789159/89d89ede340ab377f5a8715331e0e138b9391ca1.jpeg
     reading: false
     url: https://hardcover.app/books/the-year-without-pants
   - title: "The Carter Family: Don't Forget This Song"
