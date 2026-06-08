@@ -908,13 +908,13 @@
           "edition": {
             "isbn_10": "2203296461",
             "isbn_13": "9782203296466",
-            "pages": null,
-            "release_date": null
+            "pages": 200,
+            "release_date": "2026-03-18"
           },
           "book": {
-            "title": "Thermae Romae Redux",
+            "title": "Thermae Romae Redux, Vol. 1",
             "subtitle": null,
-            "slug": "thermae-romae-redux",
+            "slug": "thermae-romae-redux-vol-1",
             "contributions": [
               {
                 "author": {
@@ -923,7 +923,12 @@
               },
               {
                 "author": {
-                  "name": "Unknown Author"
+                  "name": "Ryoko Sekiguchi"
+                }
+              },
+              {
+                "author": {
+                  "name": "Wladimir Labaere"
                 }
               }
             ],
@@ -8684,9 +8689,9 @@
             "release_date": "2014-02-18"
           },
           "book": {
-            "title": "Thermae Romae, Vol. 3",
+            "title": "Thermae Romae (Compilation), Vol. 3",
             "subtitle": null,
-            "slug": "thermae-romae-vol-3-2014",
+            "slug": "thermae-romae-compilation-vol-3",
             "contributions": [
               {
                 "author": {
@@ -12423,9 +12428,9 @@
             "release_date": "2012-11-20"
           },
           "book": {
-            "title": "Thermae Romae I",
+            "title": "Thermae Romae (Compilation), Vol. 1",
             "subtitle": null,
-            "slug": "thermae-romae-i-2012",
+            "slug": "thermae-romae-compilation-vol-1",
             "contributions": [
               {
                 "author": {
@@ -12594,9 +12599,9 @@
             "release_date": "2013-05-28"
           },
           "book": {
-            "title": "Thermae Romae, Vol. 2",
+            "title": "Thermae Romae (Compilation), Vol. 2",
             "subtitle": null,
-            "slug": "thermae-romae-vol-2-2013",
+            "slug": "thermae-romae-compilation-vol-2",
             "contributions": [
               {
                 "author": {

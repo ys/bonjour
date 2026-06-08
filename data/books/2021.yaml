@@ -99,7 +99,7 @@ books:
     pages: 256
     isbn: "1786785552"
     isbn13: "9781786785558"
-    cover_url: https://assets.hardcover.app/edition/30647039/58295954._SX98_.jpg
+    cover_url: https://m.media-amazon.com/images/I/91b-boZUVYS._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/saltwater-in-the-blood
   - title: Grand Océan
@@ -216,7 +216,8 @@ books:
     pages: 186
     isbn: "2081411512"
     isbn13: "9782081411517"
-    cover_url: https://m.media-amazon.com/images/I/81s6cKz8c+L._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458204/8b9926b851ada21885a89cbaab18880e537fb033.jpeg
     reading: false
     url: https://hardcover.app/books/jamais-la-meme-vague-2020
   - title: Encabanée
@@ -467,7 +468,7 @@ books:
       https://assets.hardcover.app/edition/32675893/c51f615a87e8ad7d8f97ecf3cdd6e63d110298d8.jpeg
     reading: false
     url: https://hardcover.app/books/surf-une-histoire-de-la-glisse
-  - title: Thermae Romae I
+  - title: Thermae Romae (Compilation), Vol. 1
     author: Mari Yamazaki
     subtitle: ""
     date: 2021-12-08
@@ -479,8 +480,8 @@ books:
     cover_url: >-
       https://assets.hardcover.app/external_data/2458214/cea9a0b5a6cc2123279ac131c8d2df68f2d0b5b5.jpeg
     reading: false
-    url: https://hardcover.app/books/thermae-romae-i-2012
-  - title: Thermae Romae, Vol. 2
+    url: https://hardcover.app/books/thermae-romae-compilation-vol-1
+  - title: Thermae Romae (Compilation), Vol. 2
     author: Mari Yamazaki
     subtitle: ""
     date: 2021-12-08
@@ -492,4 +493,4 @@ books:
     cover_url: >-
       https://assets.hardcover.app/external_data/2458207/70cb6a01980faf1a843ecd61ebbe8ee0e7b250d9.jpeg
     reading: false
-    url: https://hardcover.app/books/thermae-romae-vol-2-2013
+    url: https://hardcover.app/books/thermae-romae-compilation-vol-2
