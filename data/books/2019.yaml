@@ -286,7 +286,7 @@ books:
     pages: 0
     isbn: "2895496676"
     isbn13: "9782895496670"
-    cover_url: https://m.media-amazon.com/images/I/91JDpAj-f+L._AC_UY654_QL65_.jpg
+    cover_url: ""
     reading: false
     url: https://hardcover.app/books/darhan-2-les-chemins-de-la-guerre
   - title: Big Sur
@@ -324,7 +324,7 @@ books:
     pages: 0
     isbn: "1627793534"
     isbn13: "9781627793537"
-    cover_url: ""
+    cover_url: https://m.media-amazon.com/images/I/819lk2Uq-bL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/the-arab-of-the-future-3
   - title: Do Pause
@@ -375,6 +375,6 @@ books:
     pages: 0
     isbn: "0008331820"
     isbn13: "9780008331825"
-    cover_url: https://m.media-amazon.com/images/I/712eLbdYoAL._AC_UY654_QL65_.jpg
+    cover_url: ""
     reading: false
     url: https://hardcover.app/books/my-midsummer-morning
