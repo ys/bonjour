@@ -1,4 +1,85 @@
 ---
+- _id: 1754325438
+  link: https://zinekit.smalltownzine.club/
+  title: zinekit
+  excerpt: ''
+  note: Look at those tools
+  type: link
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://rdl.ink/render/https%3A%2F%2Fzinekit.smalltownzine.club%2F
+  media: []
+  tags:
+  - zine
+  - design
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2026-06-11T07:59:21.740Z'
+  collection:
+    "$ref": collections
+    "$id": 36103677
+    oid: 36103677
+  highlights: []
+  lastUpdate: '2026-06-11T07:59:33.618Z'
+  domain: zinekit.smalltownzine.club
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1754325438
+  broken: false
+  cache:
+    status: invalid-origin
+  collectionId: 36103677
+  collection_name: BOOKS
+  parsed: {}
+- _id: 1754305012
+  link: https://www.youtube.com/watch?v=IqizK0NIlOA
+  title: 'Personal Work with Forrest Mankins : Episode 1'
+  excerpt: What happens when a photographer creates without a client, a brief,...
+  note: Forrest is one of my favorite photographer. His kindness and heart show in
+    everything.
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/IqizK0NIlOA/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/IqizK0NIlOA/maxresdefault.jpg
+    type: image
+  tags:
+  - photography
+  - film
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2026-06-11T07:47:37.397Z'
+  collection:
+    "$ref": collections
+    "$id": 37459371
+    oid: 37459371
+  highlights: []
+  lastUpdate: '2026-06-11T07:48:26.963Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1754305012
+  broken: false
+  cache:
+    status: ready
+    created: '2026-06-11T09:10:35.864Z'
+    size: 8224
+  collectionId: 37459371
+  collection_name: PHOTOGRAPHY
+  parsed: {}
 - _id: 1744706984
   link: https://www.youtube.com/watch?v=XQpxhbCNmHY
   title: SALT | Award-Winning Surf Documentary | Finisterre
@@ -15128,9 +15209,9 @@
     email: ''
   sort: 1648391922
   cache:
-    status: retry
-    retries: 0
-    retryAfter: '1970-01-02T00:00:00.000Z'
+    status: ready
+    created: '2026-06-11T09:10:28.006Z'
+    size: 9167
   broken: false
   collectionId: 37136905
   collection_name: SURF
