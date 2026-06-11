@@ -73,7 +73,8 @@ books:
     pages: 0
     isbn: "1250150663"
     isbn13: "9781250150660"
-    cover_url: https://m.media-amazon.com/images/I/81Yr5R9-YSL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/60251488/a2e6c76fe1fa14f6987946a9f8bfa5cbeae7d49e.jpeg
     reading: false
     url: https://hardcover.app/books/the-arab-of-the-future-4
   - title: "Ré-ensauvageons la France : Plaidoyer pour une nature sauvage et libre"
@@ -223,7 +224,7 @@ books:
     isbn: "0735211302"
     isbn13: "9780735211308"
     cover_url: >-
-      https://assets.hardcover.app/edition/12605395/b42cef3682e39a6bad722790e48ee64bdf8bd7fb.jpeg
+      https://assets.hardcover.app/edition/12605395/629717fe-df46-40b8-8529-dca0323bf699.jpg
     reading: false
     url: https://hardcover.app/books/atomic-habits
   - title: "How to Do Nothing: Resisting the Attention Economy"
@@ -310,7 +311,8 @@ books:
     pages: 304
     isbn: "0525536515"
     isbn13: "9780525536512"
-    cover_url: https://m.media-amazon.com/images/I/81x+9opgESL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/59340601/d5cda8f52cd8e844683d4a762edebd859a32c853.jpeg
     reading: false
     url: https://hardcover.app/books/digital-minimalism
   - title: "The Arab of the Future 3: A Childhood in the Middle East, 1985-1987"
@@ -373,6 +375,6 @@ books:
     pages: 0
     isbn: "0008331820"
     isbn13: "9780008331825"
-    cover_url: https://m.media-amazon.com/images/I/712eLbdYoAL._AC_UY654_QL65_.jpg
+    cover_url: ""
     reading: false
     url: https://hardcover.app/books/my-midsummer-morning
