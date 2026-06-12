@@ -154,7 +154,8 @@ books:
     pages: 0
     isbn: "1468314920"
     isbn13: "9781468314922"
-    cover_url: https://m.media-amazon.com/images/I/71j3JK3bwiL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/60061065/4536cb6ab9b3ef7641d2d6138d5d77c3bea800e8.jpeg
     reading: false
     url: https://hardcover.app/books/floating-a-life-regained
   - title: Ego Is the Enemy
@@ -230,7 +231,7 @@ books:
     pages: 136
     isbn: 153430231X
     isbn13: "9781534302310"
-    cover_url: https://assets.hardcover.app/edition/30504321/34504729._SX98_.jpg
+    cover_url: https://m.media-amazon.com/images/I/61gXVhnjdSL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/sex-criminals-vol-4
   - title: "Serenidad: En la vida cotidiana"
