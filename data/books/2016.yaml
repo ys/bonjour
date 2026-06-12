@@ -153,8 +153,7 @@ books:
     pages: 116
     isbn: "1632156768"
     isbn13: "9781632156761"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/59406466/62141f7017afe79a104eda31cb1fb05bf4a4bc09.jpeg
+    cover_url: https://m.media-amazon.com/images/I/71aO5-w0ROL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/descender-vol-2
   - title: The Effective Engineer
@@ -206,7 +205,7 @@ books:
     pages: 326
     isbn: "0978739213"
     isbn13: "9780978739218"
-    cover_url: https://m.media-amazon.com/images/I/51YLCdLeopS._AC_UY654_QL65_.jpg
+    cover_url: https://assets.hardcover.app/edition/30382582/1069827._SX98_.jpg
     reading: false
     url: https://hardcover.app/books/release-it
   - title: "Crucial Conversations: Tools for Talking When Stakes Are High"
@@ -248,7 +247,7 @@ books:
     pages: 136
     isbn: "1534310622"
     isbn13: "9781534310629"
-    cover_url: https://assets.hardcover.app/edition/30504313/40629276._SX98_.jpg
+    cover_url: https://m.media-amazon.com/images/I/61M-WsfoKDL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/sex-criminals-vol-6
   - title: "Sex Criminals, Vol. 2: Due Piccioncini, Una Fava"
@@ -260,7 +259,7 @@ books:
     pages: 128
     isbn: "1632151936"
     isbn13: "9781632151933"
-    cover_url: https://m.media-amazon.com/images/I/610gAKdYxsL._AC_UY654_QL65_.jpg
+    cover_url: ""
     reading: false
     url: https://hardcover.app/books/sex-criminals-vol-2
   - title: Fantastic Beasts and Where to Find Them
