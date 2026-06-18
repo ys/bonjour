@@ -5508,6 +5508,50 @@
           }
         },
         {
+          "book_id": 809366,
+          "rating": 3,
+          "date_added": "2023-11-28",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2023-11-28"
+            }
+          ],
+          "edition": {
+            "isbn_10": "249381603X",
+            "isbn_13": "9782493816030",
+            "pages": 276,
+            "release_date": "2020-11-09"
+          },
+          "book": {
+            "title": "What You Are Looking for Is in the Library",
+            "subtitle": null,
+            "slug": "what-you-are-looking-for-is-in-the-library",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Michiko Aoyama"
+                }
+              },
+              {
+                "author": {
+                  "name": "Alison Watts"
+                }
+              },
+              {
+                "author": {
+                  "name": "Rohan Eason"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/edition/30817995/5c4c53fa6c2dc3a08c93a409e8d85ee93d74867e.jpeg"
+            }
+          }
+        },
+        {
           "book_id": 1284340,
           "rating": 4,
           "date_added": "2025-08-13",
@@ -5709,45 +5753,6 @@
             ],
             "image": {
               "url": "https://assets.hardcover.app/external_data/2458375/60d989fef6dff0efbb4f6edf3cff8df978226581.jpeg"
-            }
-          }
-        },
-        {
-          "book_id": 1130143,
-          "rating": 3,
-          "date_added": "2023-11-28",
-          "user_book_status": {
-            "slug": "read"
-          },
-          "user_book_reads": [
-            {
-              "finished_at": "2023-11-28"
-            }
-          ],
-          "edition": {
-            "isbn_10": "249381603X",
-            "isbn_13": "9782493816030",
-            "pages": 276,
-            "release_date": "2020-11-09"
-          },
-          "book": {
-            "title": "La bibliothèque des rêves secrets",
-            "subtitle": null,
-            "slug": "la-bibliotheque-des-reves-secrets",
-            "contributions": [
-              {
-                "author": {
-                  "name": "Michiko Aoyama"
-                }
-              },
-              {
-                "author": {
-                  "name": "Alice Hureau"
-                }
-              }
-            ],
-            "image": {
-              "url": "https://assets.hardcover.app/edition/31605501/415a7a4796fcf3ccb03a835be4991539deb83d1e.jpeg"
             }
           }
         },
