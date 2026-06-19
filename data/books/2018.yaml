@@ -1,5 +1,31 @@
 year: 2018
 books:
+  - title: La D�sob�issance Civile
+    author: Henry David Thoreau
+    subtitle: ""
+    date: 2018-04-07
+    read: 2018-04-07
+    rating: 5
+    pages: 28
+    isbn: "1726499006"
+    isbn13: "9781726499002"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458051/0cafb1727683876080f96701a22472daf7ca4ff4.jpeg
+    reading: false
+    url: https://hardcover.app/books/la-d-sob-issance-civile
+  - title: Landmarks
+    author: Robert Macfarlane
+    subtitle: ""
+    date: 2018-03-01
+    read: 2018-03-01
+    rating: 5
+    pages: 448
+    isbn: "0241967864"
+    isbn13: "9780241972731"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/59904404/8e5d651e528ce837baa648867a6d59b3aa64dc5c.jpeg
+    reading: false
+    url: https://hardcover.app/books/landmarks
   - title: Read This if You Want to Take Great Photographs
     author: Henry Carroll
     subtitle: ""
@@ -27,19 +53,6 @@ books:
       https://assets.hardcover.app/edition/14498752/809b657136487af16c0f9dae4ac0ef9a8d7dba60.jpeg
     reading: false
     url: https://hardcover.app/books/norwegian-wood-lars-mytting
-  - title: Landmarks
-    author: Robert Macfarlane
-    subtitle: ""
-    date: 2018-03-01
-    read: 2018-03-01
-    rating: 5
-    pages: 448
-    isbn: "0241967864"
-    isbn13: "9780241972731"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/59904404/8e5d651e528ce837baa648867a6d59b3aa64dc5c.jpeg
-    reading: false
-    url: https://hardcover.app/books/landmarks
   - title: "The Names of the Stars: A Life in the Wilds"
     author: Pete Fromm
     subtitle: A Life in the Wilds
@@ -93,19 +106,6 @@ books:
     reading: false
     url: >-
       https://hardcover.app/books/un-philosophe-sous-les-toits-journal-dun-homme-heureux-1850
-  - title: La D�sob�issance Civile
-    author: Henry David Thoreau
-    subtitle: ""
-    date: 2018-04-07
-    read: 2018-04-07
-    rating: 5
-    pages: 28
-    isbn: "1726499006"
-    isbn13: "9781726499002"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/2458051/0cafb1727683876080f96701a22472daf7ca4ff4.jpeg
-    reading: false
-    url: https://hardcover.app/books/la-d-sob-issance-civile
   - title: Une vie à coucher dehors
     author: Sylvain Tesson
     subtitle: ""
