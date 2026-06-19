@@ -1,17 +1,5 @@
 year: 2019
 books:
-  - title: Do/ Story/
-    author: Bobette Buster
-    subtitle: How to Tell Your Story So the World Listens
-    date: 2019-05-19
-    read: 2019-05-19
-    rating: 4
-    pages: 112
-    isbn: "1907974059"
-    isbn13: "9781907974052"
-    cover_url: https://assets.hardcover.app/edition/30450025/8741619-L.jpg
-    reading: false
-    url: https://hardcover.app/books/do-story
   - title: "Essentialism: The Disciplined Pursuit Of Less"
     author: Greg McKeown
     subtitle: The Disciplined Pursuit of Less
@@ -25,6 +13,18 @@ books:
       https://assets.hardcover.app/book_mappings/7332543/49e97d3c85d756c9a823901d1a04c0cc2aab2007.jpeg
     reading: false
     url: https://hardcover.app/books/essentialism
+  - title: Do/ Story/
+    author: Bobette Buster
+    subtitle: How to Tell Your Story So the World Listens
+    date: 2019-05-19
+    read: 2019-05-19
+    rating: 4
+    pages: 112
+    isbn: "1907974059"
+    isbn13: "9781907974052"
+    cover_url: https://assets.hardcover.app/edition/30450025/8741619-L.jpg
+    reading: false
+    url: https://hardcover.app/books/do-story
   - title: Do Lead
     author: Les McKeown
     subtitle: Share Your Vision. Inspire Others. Achieve the Impossible.
@@ -195,8 +195,7 @@ books:
     pages: 224
     isbn: 160945555X
     isbn13: "9781609455552"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/60827965/fe8f65e0e37b9fd52363e80617e66bb3ea9fb904.jpeg
+    cover_url: https://m.media-amazon.com/images/I/81wNoYc0JDL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/berezina
   - title: >-

@@ -1,18 +1,5 @@
 year: 2015
 books:
-  - title: "Meanwhile in San Francisco: The City in its Own Words"
-    author: Wendy MacNaughton
-    subtitle: The City in its Own Words
-    date: 2015-07-04
-    read: 2015-07-04
-    rating: 0
-    pages: 178
-    isbn: "1452113890"
-    isbn13: "9781452113890"
-    cover_url: >-
-      https://assets.hardcover.app/edition/31106503/3a27e764fd060f8316db1498d347663b9a52b577.jpeg
-    reading: false
-    url: https://hardcover.app/books/meanwhile-in-san-francisco
   - title: "Remote Pairing: Collaborative Tools for Distributed Development"
     author: Joe Kutner
     subtitle: Collaborative Tools for Distributed Development
@@ -27,6 +14,19 @@ books:
     reading: false
     url: >-
       https://hardcover.app/books/remote-pairing-collaborative-tools-for-distributed-development
+  - title: "Meanwhile in San Francisco: The City in its Own Words"
+    author: Wendy MacNaughton
+    subtitle: The City in its Own Words
+    date: 2015-07-04
+    read: 2015-07-04
+    rating: 0
+    pages: 178
+    isbn: "1452113890"
+    isbn13: "9781452113890"
+    cover_url: >-
+      https://assets.hardcover.app/edition/31106503/3a27e764fd060f8316db1498d347663b9a52b577.jpeg
+    reading: false
+    url: https://hardcover.app/books/meanwhile-in-san-francisco
   - title: How to Win Friends and Influence People
     author: Dale Carnegie
     subtitle: Die Kunst, beliebt und einflussreich zu werden
