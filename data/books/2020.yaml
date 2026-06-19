@@ -1,18 +1,5 @@
 year: 2020
 books:
-  - title: Beau Austin
-    author: William Ernest Henley
-    subtitle: ""
-    date: 2020-12-09
-    read: 2020-12-09
-    rating: 4
-    pages: 52
-    isbn: "1522761896"
-    isbn13: "9781522761891"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/2458012/2f4310ce441e27ade110fa7fb20db553ce34d8d4.jpeg
-    reading: false
-    url: https://hardcover.app/books/beau-austin-1884
   - title: >-
       The Manual of Epictetus, the Philosopher. Made English From the Original
       Greek, by a Person of Quality: And now First Published by W. Bond, Esq: to
@@ -32,6 +19,19 @@ books:
     reading: false
     url: >-
       https://hardcover.app/books/the-manual-of-epictetus-the-philosopher-made-english-from-the-original-greek-by-a-person-of-quality-and-now-first-published-by-w-bond-esq-to-i-the-character-of-a-wicked-politician-ii
+  - title: Beau Austin
+    author: William Ernest Henley
+    subtitle: ""
+    date: 2020-12-09
+    read: 2020-12-09
+    rating: 4
+    pages: 52
+    isbn: "1522761896"
+    isbn13: "9781522761891"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458012/2f4310ce441e27ade110fa7fb20db553ce34d8d4.jpeg
+    reading: false
+    url: https://hardcover.app/books/beau-austin-1884
   - title: >-
       Inconspicuous Consumption: The Environmental Impact You Don't Know You
       Have
