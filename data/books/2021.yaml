@@ -22,7 +22,8 @@ books:
     pages: 0
     isbn: 190797458X
     isbn13: "9781907974588"
-    cover_url: https://m.media-amazon.com/images/I/711zFs9mTlL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/60316080/c4656cc2b0ce8a52d4f784766e6dad1dc19e4694.jpeg
     reading: false
     url: https://hardcover.app/books/path
   - title: Sans alcool
@@ -410,8 +411,7 @@ books:
     pages: 327
     isbn: "2330007817"
     isbn13: "9782330007812"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/2458196/c7546a2b1765c57bff226233ac258ac7b80d32f0.jpeg
+    cover_url: https://m.media-amazon.com/images/I/51Zv5PMWHqL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/le-retour-2005
   - title: Tu m'avais dit Ouessant
