@@ -1,4 +1,45 @@
 ---
+- _id: 1770230829
+  link: https://open.substack.com/pub/lusciousjackson/p/when-i-was-a-beastie-boy?utm_source=share&utm_medium=android&r=5cjn3
+  title: When I was a Beastie Boy
+  excerpt: This week, Kate delves into how the Beasties came to be. Grab your favorite
+    bev for this one… It’s a deep dive, but worth it! By Kate Schellenbach with Jill
+    Cunniff and Gabby Glaser.
+  note: ''
+  type: article
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://substackcdn.com/image/fetch/$s_!Bxq-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F496606a4-16f5-4003-addd-84d20362bb89_480x360.gif
+  media:
+  - link: https://substackcdn.com/image/fetch/$s_!Bxq-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F496606a4-16f5-4003-addd-84d20362bb89_480x360.gif
+    type: image
+  - link: https://substackcdn.com/image/fetch/$s_!rtYg!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Flusciousjackson.substack.com%2Fapi%2Fv1%2Fpost_preview%2F172779284%2Ftwitter.jpg%3Fversion%3D4
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2026-06-22T21:07:23.347Z'
+  collection:
+    "$ref": collections
+    "$id": 37679987
+    oid: 37679987
+  highlights: []
+  lastUpdate: '2026-06-22T21:07:23.347Z'
+  domain: open.substack.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1770230829
+  cache:
+    status: invalid-origin
+  collectionId: 37679987
+  collection_name: ART & CULTURE
+  parsed: {}
 - _id: 1754325438
   link: https://zinekit.smalltownzine.club/
   title: zinekit
