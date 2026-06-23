@@ -173,8 +173,10 @@ function handleFormSubmission(event) {
   }
 
   var submit = document.getElementById("checkout-button");
-  submit.querySelector("svg").classList.toggle("hidden");
-  submit.querySelector("span").classList.toggle("hidden");
+  submit.querySelector("svg").classList.remove("hidden");
+  submit.querySelectorAll("span").forEach(function (span) {
+    span.classList.add("hidden");
+  });
 
   form = new FormData(event.target);
 
@@ -203,7 +205,9 @@ function handleFormSubmission(event) {
     })
     .catch(function (err) {
       submit.querySelector("svg").classList.add("hidden");
-      submit.querySelector("span").classList.remove("hidden");
+      submit.querySelectorAll("span").forEach(function (span) {
+        span.classList.remove("hidden");
+      });
       if (err.error === "sold_out") {
         document.getElementById("error-message").innerText =
           "Sorry, this item is now sold out!";
@@ -215,6 +219,8 @@ function handleFormSubmission(event) {
             submit.classList.remove(cls);
           }
         });
+        var stockLabel = submit.querySelector("#stock-button-label");
+        if (stockLabel) stockLabel.classList.add("hidden");
         submit.querySelector("span").innerText = "Sold out";
       } else {
         document.getElementById("error-message").innerText =
