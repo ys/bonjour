@@ -52,6 +52,19 @@ books:
       https://assets.hardcover.app/external_data/61818195/7cad26bcddc6ae821afa897e88ec8c6c49ce5adc.jpeg
     reading: false
     url: https://hardcover.app/books/lightfall-the-girl-the-galdurian
+  - title: Name
+    author: Constance Debré
+    subtitle: ""
+    date: 2022-04-03
+    read: 2022-04-03
+    rating: 4
+    pages: 116
+    isbn: "2081515946"
+    isbn13: "9782081515949"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/1302444/37b9d80bf1ac951169e98707df1e84dad10ab558.jpeg
+    reading: false
+    url: https://hardcover.app/books/name
   - title: "Mindful Thoughts for Surfers: Balance and salt water flow"
     author: Sam Bleakley
     subtitle: Balance and salt water flow
@@ -79,19 +92,6 @@ books:
       https://assets.hardcover.app/edition/32675950/150349079dd60e624ec5f6ae83f89d5b86abef76.jpeg
     reading: false
     url: https://hardcover.app/books/une-odyssee-americaine-2008
-  - title: Nom
-    author: Constance Debré
-    subtitle: ""
-    date: 2022-04-03
-    read: 2022-04-03
-    rating: 4
-    pages: 116
-    isbn: "2081515946"
-    isbn13: "9782081515949"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/61214940/ac253eb6faea6d821f4384ee7580eeeea08c9430.jpeg
-    reading: false
-    url: https://hardcover.app/books/nom
   - title: The Alchemist
     author: Paulo Coelho
     subtitle: A Fable About Following Your Dream
@@ -279,7 +279,7 @@ books:
     pages: 304
     isbn: "0241289092"
     isbn13: "9780241289099"
-    cover_url: https://assets.hardcover.app/edition/30405486/content.jpeg
+    cover_url: https://m.media-amazon.com/images/I/81sKMzBtU8L._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/breath
   - title: How to Read Water Clues and Patterns from Puddles to the Sea
