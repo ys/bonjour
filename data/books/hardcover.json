@@ -5552,6 +5552,45 @@
           }
         },
         {
+          "book_id": 2089713,
+          "rating": 4,
+          "date_added": "2022-04-03",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2022-04-03"
+            }
+          ],
+          "edition": {
+            "isbn_10": "2081515946",
+            "isbn_13": "9782081515949",
+            "pages": 116,
+            "release_date": "2022-02-02"
+          },
+          "book": {
+            "title": "Name",
+            "subtitle": null,
+            "slug": "name",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Constance Debré"
+                }
+              },
+              {
+                "author": {
+                  "name": "Lauren Elkin"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/external_data/1302444/37b9d80bf1ac951169e98707df1e84dad10ab558.jpeg"
+            }
+          }
+        },
+        {
           "book_id": 1284340,
           "rating": 4,
           "date_added": "2025-08-13",
@@ -5787,40 +5826,6 @@
             ],
             "image": {
               "url": "https://assets.hardcover.app/edition/30643963/230529-L.jpg"
-            }
-          }
-        },
-        {
-          "book_id": 1446306,
-          "rating": 4,
-          "date_added": "2022-04-03",
-          "user_book_status": {
-            "slug": "read"
-          },
-          "user_book_reads": [
-            {
-              "finished_at": "2022-04-03"
-            }
-          ],
-          "edition": {
-            "isbn_10": "2081515946",
-            "isbn_13": "9782081515949",
-            "pages": 116,
-            "release_date": "2022-02-02"
-          },
-          "book": {
-            "title": "Nom",
-            "subtitle": null,
-            "slug": "nom",
-            "contributions": [
-              {
-                "author": {
-                  "name": "Constance Debré"
-                }
-              }
-            ],
-            "image": {
-              "url": "https://assets.hardcover.app/external_data/61214940/ac253eb6faea6d821f4384ee7580eeeea08c9430.jpeg"
             }
           }
         },
