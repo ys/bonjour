@@ -61,8 +61,7 @@ books:
     pages: 116
     isbn: "2081515946"
     isbn13: "9782081515949"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/1302444/37b9d80bf1ac951169e98707df1e84dad10ab558.jpeg
+    cover_url: https://m.media-amazon.com/images/I/51LcPHAk-9L._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/name
   - title: "Mindful Thoughts for Surfers: Balance and salt water flow"
@@ -228,7 +227,7 @@ books:
     pages: 0
     isbn: "1785786032"
     isbn13: "9781785786037"
-    cover_url: ""
+    cover_url: https://m.media-amazon.com/images/I/71S17ynqlfL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/five-rules-for-rebellion
   - title: "The Storyteller: Tales of Life and Music"
