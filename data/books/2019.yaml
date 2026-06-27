@@ -58,7 +58,8 @@ books:
     pages: 376
     isbn: "1910620300"
     isbn13: "9781910620304"
-    cover_url: https://m.media-amazon.com/images/I/81DKL62newL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/59399289/174f4f636da6e89baaff7696662ed47c3ede9930.jpeg
     reading: false
     url: https://hardcover.app/books/in-waves
   - title: >-
@@ -374,6 +375,6 @@ books:
     pages: 0
     isbn: "0008331820"
     isbn13: "9780008331825"
-    cover_url: https://m.media-amazon.com/images/I/712eLbdYoAL._AC_UY654_QL65_.jpg
+    cover_url: ""
     reading: false
     url: https://hardcover.app/books/my-midsummer-morning
