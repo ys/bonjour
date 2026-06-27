@@ -61,7 +61,8 @@ books:
     pages: 116
     isbn: "2081515946"
     isbn13: "9782081515949"
-    cover_url: https://m.media-amazon.com/images/I/51LcPHAk-9L._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/1302444/37b9d80bf1ac951169e98707df1e84dad10ab558.jpeg
     reading: false
     url: https://hardcover.app/books/name
   - title: "Mindful Thoughts for Surfers: Balance and salt water flow"
@@ -202,8 +203,7 @@ books:
     pages: 387
     isbn: "0316376205"
     isbn13: "9780316376204"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/2458148/7a1d9d4c06daa6a7dc4b87dcd6103407aa92a222.jpeg
+    cover_url: https://m.media-amazon.com/images/I/81RYTr3VomL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/thermae-romae-compilation-vol-3
   - title: Ranking of Kings, Vol. 1
