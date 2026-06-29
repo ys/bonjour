@@ -9327,41 +9327,6 @@
           }
         },
         {
-          "book_id": 1962216,
-          "rating": null,
-          "date_added": "2024-04-10",
-          "user_book_status": {
-            "slug": "want-to-read"
-          },
-          "user_book_reads": [],
-          "edition": {
-            "isbn_10": "2221267338",
-            "isbn_13": "9782221267332",
-            "pages": 329,
-            "release_date": "2023-01-17"
-          },
-          "book": {
-            "title": "Les Éclats",
-            "subtitle": null,
-            "slug": "les-eclats-2023",
-            "contributions": [
-              {
-                "author": {
-                  "name": "Bret Easton Ellis"
-                }
-              },
-              {
-                "author": {
-                  "name": "Pierre Guglielmina"
-                }
-              }
-            ],
-            "image": {
-              "url": "https://assets.hardcover.app/external_data/755955/1f8ab2433f9d3c733ba05f99e592b0dfb23e6634.jpeg"
-            }
-          }
-        },
-        {
           "book_id": 274499,
           "rating": 4,
           "date_added": "2021-03-26",
@@ -9392,6 +9357,36 @@
             ],
             "image": {
               "url": "https://assets.hardcover.app/external_data/44168465/7b050c11148ffa94bf26726f1b49950786278929.jpeg"
+            }
+          }
+        },
+        {
+          "book_id": 615615,
+          "rating": null,
+          "date_added": "2024-04-10",
+          "user_book_status": {
+            "slug": "want-to-read"
+          },
+          "user_book_reads": [],
+          "edition": {
+            "isbn_10": "2221267338",
+            "isbn_13": "9782221267332",
+            "pages": 329,
+            "release_date": "2023-01-17"
+          },
+          "book": {
+            "title": "The Shards",
+            "subtitle": "A novel",
+            "slug": "the-shards",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Bret Easton Ellis"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/edition/30588777/9820e4e34f676131ea39a673d619ba7f68972880.jpeg"
             }
           }
         },
