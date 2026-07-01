@@ -132,7 +132,8 @@ books:
     pages: 381
     isbn: "2264029951"
     isbn13: "9782264029959"
-    cover_url: https://m.media-amazon.com/images/I/71mIO1WetOL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/60499820/fc7d848575764b3316698869e049791df88ea424.jpeg
     reading: false
     url: https://hardcover.app/books/chroniques-de-san-francisco
   - title: What You Are Looking for Is in the Library
@@ -195,7 +196,7 @@ books:
     pages: 226
     isbn: "2203093803"
     isbn13: "9782203093805"
-    cover_url: ""
+    cover_url: https://m.media-amazon.com/images/I/81vzjmEvK3L._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/lhomme-qui-marche-2015
   - title: La Vie de Bouddha, Intégrale, Vol. 4
