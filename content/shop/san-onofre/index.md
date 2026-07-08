@@ -5,7 +5,7 @@ slug: "/san-onofre-zine"
 subtitle: "A5 photo zine, home printed"
 date: 2026-06-23
 emoji: "🌞"
-grid: "front /  pages.webp | pages-2 | sign"
+grid: "front /  pages-1.webp | pages-2 | print | back"
 currency: "EUR"
 price: 18
 soldout: false
