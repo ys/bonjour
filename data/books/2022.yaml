@@ -61,7 +61,8 @@ books:
     pages: 116
     isbn: "2081515946"
     isbn13: "9782081515949"
-    cover_url: https://m.media-amazon.com/images/I/71ciAEwq9GL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/1302444/37b9d80bf1ac951169e98707df1e84dad10ab558.jpeg
     reading: false
     url: https://hardcover.app/books/name
   - title: "Mindful Thoughts for Surfers: Balance and salt water flow"
@@ -177,7 +178,7 @@ books:
     pages: 440
     isbn: "1938340957"
     isbn13: "9781938340956"
-    cover_url: https://assets.hardcover.app/edition/14521888/4394585-L.jpg
+    cover_url: https://m.media-amazon.com/images/I/61SMYq+2OwL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/waves-and-beaches
   - title: Before the Coffee Gets Cold
