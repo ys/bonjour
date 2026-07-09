@@ -73,7 +73,8 @@ books:
     pages: 0
     isbn: "1250150663"
     isbn13: "9781250150660"
-    cover_url: https://m.media-amazon.com/images/I/81Yr5R9-YSL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/60251488/a2e6c76fe1fa14f6987946a9f8bfa5cbeae7d49e.jpeg
     reading: false
     url: https://hardcover.app/books/the-arab-of-the-future-4
   - title: "Ré-ensauvageons la France : Plaidoyer pour une nature sauvage et libre"
@@ -374,6 +375,6 @@ books:
     pages: 0
     isbn: "0008331820"
     isbn13: "9780008331825"
-    cover_url: https://m.media-amazon.com/images/I/81zTncsAv5L._AC_UY654_QL65_.jpg
+    cover_url: ""
     reading: false
     url: https://hardcover.app/books/my-midsummer-morning
