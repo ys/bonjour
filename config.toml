@@ -138,6 +138,11 @@ canonifyURLs = false
 [imaging]
   resampleFilter = "lanczos"
   anchor = "center"
+[imaging.jpeg]
+  quality = 85
+[imaging.webp]
+  quality = 85
+[imaging.avif]
   quality = 85
 
 
