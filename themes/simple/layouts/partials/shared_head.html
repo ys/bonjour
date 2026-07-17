@@ -13,11 +13,9 @@
 
 {{ $tailwind := resources.Get "css/tailwind.css" }}
 {{ $app := resources.Get "css/application.scss" | resources.ExecuteAsTemplate "main.scss" . | toCSS }}
-{{ $styles := slice $tailwind $app | resources.Concat "bundle.css" | css.PostCSS }}
-{{ if  hugo.IsProduction  }}
-    {{ $styles = $styles | minify | fingerprint | resources.PostProcess }}
-    {{ else if hugo.IsServer }}
-    {{ $styles = $styles | resources.ExecuteAsTemplate (printf "tailwind.dev.%v.css" now.UnixMilli) .}}
+{{ $styles := slice $tailwind $app | resources.Concat "bundle.css" | css.TailwindCSS (dict "disableInlineImports" true) }}
+{{ if hugo.IsProduction }}
+    {{ $styles = $styles | minify | fingerprint }}
 {{ end }}
 <link href="{{ $styles.RelPermalink }}" rel="stylesheet" />
 
