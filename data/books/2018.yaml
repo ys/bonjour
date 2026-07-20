@@ -197,7 +197,7 @@ books:
       https://assets.hardcover.app/edition/30401338/e0349446bf8beb83a91a4ff4d33a81c90458ccd9.jpeg
     reading: false
     url: https://hardcover.app/books/how-to-break-up-with-your-phone
-  - title: Vacationland
+  - title: "Vacationland: True Stories from Painful Beaches"
     author: John Hodgman
     subtitle: True Stories from Painful Beaches
     date: 2018-01-04
@@ -206,7 +206,8 @@ books:
     pages: 272
     isbn: "0735224803"
     isbn13: "9780735224803"
-    cover_url: https://assets.hardcover.app/edition/14614793/8276341-L.jpg
+    cover_url: >-
+      https://images-na.ssl-images-amazon.com/images/P/9780735224803.01.LZZZZZZZ.jpg
     reading: false
     url: https://hardcover.app/books/vacationland
   - title: Paper Girls, Vol. 4
@@ -231,7 +232,7 @@ books:
     pages: 136
     isbn: 153430231X
     isbn13: "9781534302310"
-    cover_url: https://assets.hardcover.app/edition/30504321/34504729._SX98_.jpg
+    cover_url: https://m.media-amazon.com/images/I/61gXVhnjdSL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/sex-criminals-vol-4
   - title: "Serenidad: En la vida cotidiana"
