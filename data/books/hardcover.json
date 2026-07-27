@@ -3561,6 +3561,45 @@
           }
         },
         {
+          "book_id": 272328,
+          "rating": 4,
+          "date_added": "2024-08-07",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2024-08-21"
+            }
+          ],
+          "edition": {
+            "isbn_10": "2889730077",
+            "isbn_13": "9782889730070",
+            "pages": 869,
+            "release_date": "2022-03-10"
+          },
+          "book": {
+            "title": "The Truth About the Harry Quebert Affair",
+            "subtitle": null,
+            "slug": "the-truth-about-the-harry-quebert-affair",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Joël Dicker"
+                }
+              },
+              {
+                "author": {
+                  "name": "Sam Taylor"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/external_data/31519473/b4b15bb80b75f6c933eeda60e67207f7605398d2.jpeg"
+            }
+          }
+        },
+        {
           "book_id": 581722,
           "rating": 3,
           "date_added": "2021-06-07",
@@ -4124,40 +4163,6 @@
             ],
             "image": {
               "url": "https://assets.hardcover.app/edition/30535150/2efdfd508a803c89913fd6e987f69048a17c89c6.jpeg"
-            }
-          }
-        },
-        {
-          "book_id": 443605,
-          "rating": 4,
-          "date_added": "2024-08-07",
-          "user_book_status": {
-            "slug": "read"
-          },
-          "user_book_reads": [
-            {
-              "finished_at": "2024-08-21"
-            }
-          ],
-          "edition": {
-            "isbn_10": "2889730077",
-            "isbn_13": "9782889730070",
-            "pages": 869,
-            "release_date": "2012-09-19"
-          },
-          "book": {
-            "title": "La Vérité sur l'Affaire Harry Quebert",
-            "subtitle": null,
-            "slug": "la-verite-sur-laffaire-harry-quebert",
-            "contributions": [
-              {
-                "author": {
-                  "name": "Joël Dicker"
-                }
-              }
-            ],
-            "image": {
-              "url": "https://assets.hardcover.app/book_mappings/7332241/6e8839a471558f66df607e2115b25512e2dcd213.jpeg"
             }
           }
         },
