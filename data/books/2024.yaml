@@ -75,7 +75,8 @@ books:
     pages: 318
     isbn: 226405090X
     isbn13: "9782264050908"
-    cover_url: https://m.media-amazon.com/images/I/61R4PX8DAWL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675938/008ee9a6e03e883f800afdda1978008f62b64679.jpeg
     reading: false
     url: https://hardcover.app/books/legendes-dautomne-edition-speciale-2009
   - title: "1Q84: Book 1"
@@ -90,6 +91,19 @@ books:
     cover_url: https://assets.hardcover.app/editions/28310660/7690577800292837.jpeg
     reading: false
     url: https://hardcover.app/books/1q84-book-1
+  - title: The Truth About the Harry Quebert Affair
+    author: Joël Dicker
+    subtitle: ""
+    date: 2024-08-21
+    read: 2024-08-21
+    rating: 4
+    pages: 869
+    isbn: "2889730077"
+    isbn13: "9782889730070"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/31519473/b4b15bb80b75f6c933eeda60e67207f7605398d2.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-truth-about-the-harry-quebert-affair
   - title: Hirayasumi, tome 2
     author: Keigo Shinzō
     subtitle: ""
@@ -103,19 +117,6 @@ books:
       https://assets.hardcover.app/edition/32675946/05fbd54029e7fa2fd17baca5c8aba2be62a7b792.jpeg
     reading: false
     url: https://hardcover.app/books/hirayasumi-tome-2-2021
-  - title: La Vérité sur l'Affaire Harry Quebert
-    author: Joël Dicker
-    subtitle: ""
-    date: 2024-08-21
-    read: 2024-08-21
-    rating: 4
-    pages: 869
-    isbn: "2889730077"
-    isbn13: "9782889730070"
-    cover_url: >-
-      https://assets.hardcover.app/book_mappings/7332241/6e8839a471558f66df607e2115b25512e2dcd213.jpeg
-    reading: false
-    url: https://hardcover.app/books/la-verite-sur-laffaire-harry-quebert
   - title: Stella et l'Amérique
     author: Joseph Incardona
     subtitle: ""
