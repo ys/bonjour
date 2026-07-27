@@ -203,7 +203,7 @@ books:
     pages: 208
     isbn: "2021339025"
     isbn13: "9782021339024"
-    cover_url: https://m.media-amazon.com/images/I/61IsZoo065L._AC_UY654_QL65_.jpg
+    cover_url: https://m.media-amazon.com/images/I/81t73Ct--BL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/besoin-de-mer-1999
   - title: Jamais la même vague
@@ -280,7 +280,8 @@ books:
     pages: 184
     isbn: "2330150121"
     isbn13: "9782330150129"
-    cover_url: https://m.media-amazon.com/images/I/51BIGQluAQL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/60390611/19b6b72decb04066c58facb7a0024f99d813961b.jpeg
     reading: false
     url: https://hardcover.app/books/au-prochain-arret
   - title: Fuki-no-tô
@@ -396,7 +397,8 @@ books:
     pages: 95
     isbn: "2364685729"
     isbn13: "9782364685727"
-    cover_url: https://m.media-amazon.com/images/I/81OV-przsvL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458100/6efde1f6d2e32e89e8004d152819c08fc363cdf8.jpeg
     reading: false
     url: https://hardcover.app/books/avec-mollie-2021
   - title: Le Retour
