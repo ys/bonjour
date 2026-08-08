@@ -219,10 +219,9 @@ books:
     isbn: "0071415831"
     isbn13: "9780071415835"
     cover_url: >-
-      https://assets.hardcover.app/edition/27515495/f6094d2ca73ed007716359de21f143b150b29783.jpeg
+      https://assets.hardcover.app/external_data/4089500/51b5fcca3d5af6d4db1948b3233a3664d2d2afeb.jpeg
     reading: false
-    url: >-
-      https://hardcover.app/books/crucial-conversations-tools-for-talking-when-stakes-are-high-2001
+    url: https://hardcover.app/books/crucial-conversations
   - title: >-
       Harry Potter Schoolbooks Box Set: Quidditch Through the Ages and Fantastic
       Beasts & Where to Find Them
@@ -260,7 +259,7 @@ books:
     pages: 128
     isbn: "1632151936"
     isbn13: "9781632151933"
-    cover_url: ""
+    cover_url: https://m.media-amazon.com/images/I/610gAKdYxsL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/sex-criminals-vol-2
   - title: Fantastic Beasts and Where to Find Them
