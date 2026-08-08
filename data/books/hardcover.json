@@ -6951,6 +6951,48 @@
           }
         },
         {
+          "book_id": 296619,
+          "rating": 4,
+          "date_added": "2021-03-26",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2015-11-26"
+            },
+            {
+              "finished_at": "2016-03-21"
+            }
+          ],
+          "edition": {
+            "isbn_10": "0071415831",
+            "isbn_13": "9780071415835",
+            "pages": 260,
+            "release_date": "2001-01-01"
+          },
+          "book": {
+            "title": "Crucial Conversations: Tools for Talking When Stakes Are High",
+            "subtitle": "Tools for Talking When Stakes Are High",
+            "slug": "crucial-conversations",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Kerry Patterson"
+                }
+              },
+              {
+                "author": {
+                  "name": "Joseph Grenny"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/external_data/4089500/51b5fcca3d5af6d4db1948b3233a3664d2d2afeb.jpeg"
+            }
+          }
+        },
+        {
           "book_id": 375712,
           "rating": null,
           "date_added": "2024-11-09",
@@ -7079,63 +7121,6 @@
             ],
             "image": {
               "url": "https://assets.hardcover.app/edition/32041217/e976601a38f50242b7228b302df258b697139fdf.jpeg"
-            }
-          }
-        },
-        {
-          "book_id": 445083,
-          "rating": 4,
-          "date_added": "2021-03-26",
-          "user_book_status": {
-            "slug": "read"
-          },
-          "user_book_reads": [
-            {
-              "finished_at": "2015-11-26"
-            },
-            {
-              "finished_at": "2016-03-21"
-            }
-          ],
-          "edition": {
-            "isbn_10": "0071415831",
-            "isbn_13": "9780071415835",
-            "pages": 260,
-            "release_date": "2001-01-01"
-          },
-          "book": {
-            "title": "Crucial Conversations: Tools for Talking When Stakes Are High",
-            "subtitle": "Tools for Talking When Stakes Are High",
-            "slug": "crucial-conversations-tools-for-talking-when-stakes-are-high-2001",
-            "contributions": [
-              {
-                "author": {
-                  "name": "Kerry Patterson"
-                }
-              },
-              {
-                "author": {
-                  "name": "Joseph Grenny"
-                }
-              },
-              {
-                "author": {
-                  "name": "Ron McMillan"
-                }
-              },
-              {
-                "author": {
-                  "name": "Al Switzler"
-                }
-              },
-              {
-                "author": {
-                  "name": "Stephen R. Covey"
-                }
-              }
-            ],
-            "image": {
-              "url": "https://assets.hardcover.app/edition/27515495/f6094d2ca73ed007716359de21f143b150b29783.jpeg"
             }
           }
         },
