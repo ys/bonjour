@@ -5840,6 +5840,102 @@
           }
         },
         {
+          "book_id": 2696496,
+          "rating": 4,
+          "date_added": "2026-08-12",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2026-08-12"
+            }
+          ],
+          "edition": {
+            "isbn_10": null,
+            "isbn_13": null,
+            "pages": 297,
+            "release_date": null
+          },
+          "book": {
+            "title": "Ma vie sans moustache",
+            "subtitle": null,
+            "slug": "ma-vie-sans-moustache",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Romain Puértolas"
+                }
+              }
+            ],
+            "image": null
+          }
+        },
+        {
+          "book_id": 2843178,
+          "rating": 3,
+          "date_added": "2026-08-12",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2026-08-12"
+            }
+          ],
+          "edition": {
+            "isbn_10": "2021597113",
+            "isbn_13": "9782021597110",
+            "pages": 68,
+            "release_date": "2026-05-15"
+          },
+          "book": {
+            "title": "La Baie",
+            "subtitle": null,
+            "slug": "la-baie",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Raphaël Krafft"
+                }
+              }
+            ],
+            "image": null
+          }
+        },
+        {
+          "book_id": 2843180,
+          "rating": 3.5,
+          "date_added": "2026-08-12",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2026-08-12"
+            }
+          ],
+          "edition": {
+            "isbn_10": "2330186533",
+            "isbn_13": "9782330186531",
+            "pages": 207,
+            "release_date": "2024-01-03"
+          },
+          "book": {
+            "title": "La vie de ma mère !",
+            "subtitle": null,
+            "slug": "la-vie-de-ma-mere-2024",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Magyd Cherfi"
+                }
+              }
+            ],
+            "image": null
+          }
+        },
+        {
           "book_id": 376701,
           "rating": 5,
           "date_added": "2021-03-26",
