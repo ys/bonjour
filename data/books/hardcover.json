@@ -11616,40 +11616,6 @@
           }
         },
         {
-          "book_id": 1804531,
-          "rating": 3,
-          "date_added": "2024-08-29",
-          "user_book_status": {
-            "slug": "read"
-          },
-          "user_book_reads": [
-            {
-              "finished_at": "2024-09-15"
-            }
-          ],
-          "edition": {
-            "isbn_10": "2889730107",
-            "isbn_13": "9782889730100",
-            "pages": 614,
-            "release_date": "2015-09-30"
-          },
-          "book": {
-            "title": "Le Livre des Baltimore",
-            "subtitle": null,
-            "slug": "le-livre-des-baltimore-2015",
-            "contributions": [
-              {
-                "author": {
-                  "name": "Joël Dicker"
-                }
-              }
-            ],
-            "image": {
-              "url": "https://assets.hardcover.app/edition/31923880/9ccad09131a24a728efeb38c861e7713b7ae096f.jpeg"
-            }
-          }
-        },
-        {
           "book_id": 2406608,
           "rating": 2,
           "date_added": "2025-08-13",
@@ -11680,6 +11646,40 @@
             ],
             "image": {
               "url": "https://assets.hardcover.app/external_data/2458230/a03cdfdeafd6520d4df3cd7df8f34f88b8c1e512.jpeg"
+            }
+          }
+        },
+        {
+          "book_id": 1125251,
+          "rating": 3,
+          "date_added": "2024-08-29",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2024-09-15"
+            }
+          ],
+          "edition": {
+            "isbn_10": "2889730107",
+            "isbn_13": "9782889730100",
+            "pages": 614,
+            "release_date": "2015-09-30"
+          },
+          "book": {
+            "title": "O livro dos Baltimore",
+            "subtitle": null,
+            "slug": "o-livro-dos-baltimore",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Joël Dicker"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/book_mappings/7364244/67f215161dacbf515dcbdaf9039c7b363dd5a784.jpeg"
             }
           }
         },
