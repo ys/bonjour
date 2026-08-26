@@ -1,7 +1,7 @@
 year: 2022
 books:
   - title: Patagonie route 203
-    author: Eduardo Fernando Varela
+    author: François Gaudry
     subtitle: ""
     date: 2022-08-27
     read: 2022-08-27
@@ -14,7 +14,7 @@ books:
     reading: false
     url: https://hardcover.app/books/patagonie-route-203-2019
   - title: Olympia Kyklos
-    author: Mari Yamazaki
+    author: Ryoko Sekiguchi
     subtitle: ""
     date: 2022-09-29
     read: 2022-09-29
@@ -40,7 +40,7 @@ books:
     reading: false
     url: https://hardcover.app/books/mount-analogue
   - title: Coffee time
-    author: Tetsuya Toyoda
+    author: Sébastien Ludmann
     subtitle: ""
     date: 2022-10-12
     read: 2022-10-12
@@ -53,7 +53,7 @@ books:
     reading: false
     url: https://hardcover.app/books/coffee-time-2009
   - title: Waiting for Bojangles
-    author: Olivier Bourdeaut
+    author: Regan Kramer
     subtitle: ""
     date: 2022-03-29
     read: 2022-03-29
@@ -86,7 +86,7 @@ books:
     pages: 0
     isbn: "1785786032"
     isbn13: "9781785786037"
-    cover_url: ""
+    cover_url: https://m.media-amazon.com/images/I/71S17ynqlfL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/five-rules-for-rebellion
   - title: "The Storyteller: Tales of Life and Music"
@@ -103,7 +103,7 @@ books:
     reading: false
     url: https://hardcover.app/books/the-storyteller-tales-of-life-and-music
   - title: Before the Coffee Gets Cold
-    author: Toshikazu Kawaguchi
+    author: Geoffrey Trousselot
     subtitle: ""
     date: 2022-01-13
     read: 2022-01-13
@@ -292,11 +292,12 @@ books:
     pages: 387
     isbn: "0316376205"
     isbn13: "9780316376204"
-    cover_url: https://m.media-amazon.com/images/I/81RYTr3VomL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458148/7a1d9d4c06daa6a7dc4b87dcd6103407aa92a222.jpeg
     reading: false
     url: https://hardcover.app/books/thermae-romae-compilation-vol-3
   - title: Le Monde sans fin
-    author: Jean-Marc Jancovici
+    author: Christophe Blain
     subtitle: ""
     date: 2022-05-23
     read: 2022-05-23
@@ -309,7 +310,7 @@ books:
     reading: false
     url: https://hardcover.app/books/le-monde-sans-fin
   - title: Les Spectres de la terre brisée
-    author: S. Craig Zahler
+    author: Janique Jouin-de Laurens
     subtitle: ""
     date: 2022-05-09
     read: 2022-05-09
@@ -374,7 +375,7 @@ books:
     reading: false
     url: https://hardcover.app/books/lamerique-2003
   - title: Name
-    author: Constance Debré
+    author: Lauren Elkin
     subtitle: ""
     date: 2022-04-03
     read: 2022-04-03

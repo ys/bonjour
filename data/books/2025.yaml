@@ -78,7 +78,7 @@ books:
     reading: false
     url: https://hardcover.app/books/deep
   - title: Les Éphémères
-    author: Andrew O'Hagan
+    author: Céline Schwaller
     subtitle: ""
     date: 2025-12-24
     read: 2025-12-24
@@ -120,7 +120,7 @@ books:
     reading: false
     url: https://hardcover.app/books/seuls-sont-les-indomptes
   - title: "Respire: A nova ciência de uma arte perdida - Nova edição"
-    author: James Nestor
+    author: Petê Rissatti
     subtitle: A nova ciência de uma arte perdida - Nova edição
     date: 2025-08-13
     read: 2025-08-13
@@ -207,7 +207,8 @@ books:
     pages: 213
     isbn: 270735564X
     isbn13: "9782707355645"
-    cover_url: https://m.media-amazon.com/images/I/81LdW6bRSBL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458186/3ad18e4fcfa600285fd40ed82710fc42bcdbaa08.jpeg
     reading: false
     url: https://hardcover.app/books/coyote-2024
   - title: La Disparition de Stéphanie Mailer

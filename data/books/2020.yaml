@@ -101,11 +101,12 @@ books:
     pages: 256
     isbn: "1982157771"
     isbn13: "9781982157777"
-    cover_url: https://m.media-amazon.com/images/I/81hE9g0swOL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/59379277/098bd24171bba358af70c5bad3dd5b675aed4f1e.jpeg
     reading: false
     url: https://hardcover.app/books/burn-the-place
   - title: Do What You Want
-    author: Bad Religion
+    author: Jim Ruland
     subtitle: ""
     date: 2020-11-25
     read: 2020-11-25
@@ -145,7 +146,7 @@ books:
     reading: false
     url: https://hardcover.app/books/the-longing-for-less-living-with-minimalism
   - title: The Sea Around Us
-    author: Rachel Carson
+    author: Ann H. Zwinger
     subtitle: ""
     date: 2020-10-10
     read: 2020-10-10
