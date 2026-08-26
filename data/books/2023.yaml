@@ -158,7 +158,7 @@ books:
     reading: false
     url: https://hardcover.app/books/tomorrow-and-tomorrow-and-tomorrow
   - title: La Vie de Bouddha, Intégrale, Vol. 4
-    author: Osamu Tezuka
+    author: Jacques Lalloz
     subtitle: ""
     date: 2023-03-20
     read: 2023-03-20
@@ -186,7 +186,7 @@ books:
   - title: >-
       Thomas Campbell: Seeing Fatima's Eyes: Surf, Life, Stuff, Morocco, North
       Africa
-    author: Thomas Campbell
+    author: Scott Hulet
     subtitle: "Seeing Fatima's Eyes: Surf, Life, Stuff, Morocco, North Africa"
     date: 2023-03-20
     read: 2023-03-20
@@ -201,7 +201,7 @@ books:
   - title: >-
       Surf Is Where You Find It: The Wisdom of Waves, Any Time, Anywhere, Any
       Way
-    author: Gerry Lopez
+    author: Rob Machado
     subtitle: The Wisdom of Waves, Any Time, Anywhere, Any Way
     date: 2023-08-22
     read: 2023-08-22
@@ -215,7 +215,7 @@ books:
     url: >-
       https://hardcover.app/books/surf-is-where-you-find-it-the-wisdom-of-waves-any-time-anywhere-any-way-2008
   - title: La Vie de Bouddha, Intégrale, Vol. 2
-    author: Osamu Tezuka
+    author: Jacques Lalloz
     subtitle: ""
     date: 2023-03-20
     read: 2023-03-20
@@ -241,7 +241,7 @@ books:
     reading: false
     url: https://hardcover.app/books/la-vie-de-bouddha-integrale-vol-1
   - title: What You Are Looking for Is in the Library
-    author: Michiko Aoyama
+    author: Alison Watts
     subtitle: ""
     date: 2023-11-28
     read: 2023-11-28
@@ -262,6 +262,7 @@ books:
     pages: 381
     isbn: "2264029951"
     isbn13: "9782264029959"
-    cover_url: https://m.media-amazon.com/images/I/41j+b1aWvkL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/60499820/fc7d848575764b3316698869e049791df88ea424.jpeg
     reading: false
     url: https://hardcover.app/books/chroniques-de-san-francisco
