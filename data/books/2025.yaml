@@ -1,5 +1,18 @@
 year: 2025
 books:
+  - title: Du même bois
+    author: Marion Fayolle
+    subtitle: ""
+    date: 2025-07-05
+    read: 2025-07-05
+    rating: 3
+    pages: 128
+    isbn: "2073025811"
+    isbn13: "9782073025814"
+    cover_url: >-
+      https://assets.hardcover.app/edition/31984880/388403f7e51e37ab021cb6a7b9c5770dc948f650.jpeg
+    reading: false
+    url: https://hardcover.app/books/du-meme-bois-2024
   - title: Hexa
     author: Gabrielle Filteau-Chiba
     subtitle: ""
@@ -26,110 +39,6 @@ books:
       https://assets.hardcover.app/edition/31721165/6d72836c2d74b4aaf196185215dca7022c418bdd.jpeg
     reading: false
     url: https://hardcover.app/books/jacaranda-2024
-  - title: Deep
-    author: James Nestor
-    subtitle: ""
-    date: 2025-08-13
-    read: 2025-08-13
-    rating: 4
-    pages: 266
-    isbn: "0547985525"
-    isbn13: "9780547985527"
-    cover_url: https://assets.hardcover.app/edition/7995432/8957691-L.jpg
-    reading: false
-    url: https://hardcover.app/books/deep
-  - title: Seuls sont les indomptés
-    author: Edward Abbey
-    subtitle: ""
-    date: 2025-01-24
-    read: 2025-01-24
-    rating: 3
-    pages: 497
-    isbn: "2846669929"
-    isbn13: "9782846669924"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32675981/867fe340443641ac838928c4aee5e7ab362e12dd.jpeg
-    reading: false
-    url: https://hardcover.app/books/seuls-sont-les-indomptes
-  - title: The Thursday Murder Club
-    author: Richard Osman
-    subtitle: ""
-    date: 2025-08-13
-    read: 2025-08-13
-    rating: 4
-    pages: 499
-    isbn: "2702448097"
-    isbn13: "9782702448090"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/47667262/f7aa5ab35a99f0b0f24d4b75d06e02b96a81dcec.jpeg
-    reading: false
-    url: https://hardcover.app/books/the-thursday-murder-club
-  - title: La Disparition de Stéphanie Mailer
-    author: Joël Dicker
-    subtitle: ""
-    date: 2025-08-13
-    read: 2025-08-13
-    rating: 4
-    pages: 863
-    isbn: "2889730131"
-    isbn13: "9782889730131"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/2458326/7c509c0ef360d0494f9d46cf2f180e79c7069fb9.jpeg
-    reading: false
-    url: https://hardcover.app/books/la-disparition-de-stephanie-mailer-2018
-  - title: "Respire: A nova ciência de uma arte perdida - Nova edição"
-    author: James Nestor
-    subtitle: A nova ciência de uma arte perdida - Nova edição
-    date: 2025-08-13
-    read: 2025-08-13
-    rating: 4
-    pages: 317
-    isbn: "8551009567"
-    isbn13: "9788551009567"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/2458275/b4fc5b7a5d77492964987e2280a72e2a4da702a9.jpeg
-    reading: false
-    url: >-
-      https://hardcover.app/books/respire-a-nova-ciencia-de-uma-arte-perdida-nova-edicao
-  - title: The Man Who Died Twice
-    author: Richard Osman
-    subtitle: ""
-    date: 2025-09-01
-    read: 2025-09-01
-    rating: 4
-    pages: 496
-    isbn: "2702448100"
-    isbn13: "9782702448106"
-    cover_url: >-
-      https://assets.hardcover.app/edition/30504308/c2bb10ec1d229ae90973da83899d60c1ba807d26.jpeg
-    reading: false
-    url: https://hardcover.app/books/the-man-who-died-twice
-  - title: The Dead Do Not Improve
-    author: Jay Caspian Kang
-    subtitle: ""
-    date: 2025-08-13
-    read: 2025-08-13
-    rating: 4
-    pages: 274
-    isbn: "0307953904"
-    isbn13: "9780307953902"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/60423725/fdba60b1175ab241166b9c89001c7167208e74b2.jpeg
-    reading: false
-    url: https://hardcover.app/books/the-dead-do-not-improve
-  - title: Welcome to Paradise, Now Go to Hell
-    author: Chas Smith
-    subtitle: ""
-    date: 2025-09-15
-    read: 2025-09-15
-    rating: 3
-    pages: 256
-    isbn: "0062202545"
-    isbn13: "9780062202543"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/59608420/dcd99b223ae0331bc62fcf9e7f59bd7cdf1eee20.jpeg
-    reading: false
-    url: https://hardcover.app/books/welcome-to-paradise-now-go-to-hell
   - title: Dark Matter
     author: Blake Crouch
     subtitle: A Novel
@@ -143,6 +52,44 @@ books:
       https://assets.hardcover.app/book_mappings/7332342/e3c5928fc0a24ca97940c68f03dd2b503e42ba4f.jpeg
     reading: false
     url: https://hardcover.app/books/dark-matter
+  - title: Welcome to Paradise, Now Go to Hell
+    author: Chas Smith
+    subtitle: ""
+    date: 2025-09-15
+    read: 2025-09-15
+    rating: 3
+    pages: 256
+    isbn: "0062202545"
+    isbn13: "9780062202543"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/59608420/dcd99b223ae0331bc62fcf9e7f59bd7cdf1eee20.jpeg
+    reading: false
+    url: https://hardcover.app/books/welcome-to-paradise-now-go-to-hell
+  - title: Deep
+    author: James Nestor
+    subtitle: ""
+    date: 2025-08-13
+    read: 2025-08-13
+    rating: 4
+    pages: 266
+    isbn: "0547985525"
+    isbn13: "9780547985527"
+    cover_url: https://assets.hardcover.app/edition/7995432/8957691-L.jpg
+    reading: false
+    url: https://hardcover.app/books/deep
+  - title: Les Éphémères
+    author: Andrew O'Hagan
+    subtitle: ""
+    date: 2025-12-24
+    read: 2025-12-24
+    rating: 4
+    pages: 0
+    isbn: ""
+    isbn13: "9791041423804"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675970/83f3ca48bfa050e39a5bebbd5a013564b49605e6.jpeg
+    reading: false
+    url: https://hardcover.app/books/les-ephemeres
   - title: >-
       La méthode WIM HOF - La thérapie par le froid pour devenir fort, heureux
       et en bonne santé
@@ -159,19 +106,33 @@ books:
     reading: false
     url: >-
       https://hardcover.app/books/la-methode-wim-hof-la-therapie-par-le-froid-pour-devenir-fort-heureux-et-en-bonne-sante
-  - title: Les Éphémères
-    author: Andrew O'Hagan
+  - title: Seuls sont les indomptés
+    author: Edward Abbey
     subtitle: ""
-    date: 2025-12-24
-    read: 2025-12-24
-    rating: 4
-    pages: 0
-    isbn: ""
-    isbn13: "9791041423804"
+    date: 2025-01-24
+    read: 2025-01-24
+    rating: 3
+    pages: 497
+    isbn: "2846669929"
+    isbn13: "9782846669924"
     cover_url: >-
-      https://assets.hardcover.app/edition/32675970/83f3ca48bfa050e39a5bebbd5a013564b49605e6.jpeg
+      https://assets.hardcover.app/edition/32675981/867fe340443641ac838928c4aee5e7ab362e12dd.jpeg
     reading: false
-    url: https://hardcover.app/books/les-ephemeres
+    url: https://hardcover.app/books/seuls-sont-les-indomptes
+  - title: "Respire: A nova ciência de uma arte perdida - Nova edição"
+    author: James Nestor
+    subtitle: A nova ciência de uma arte perdida - Nova edição
+    date: 2025-08-13
+    read: 2025-08-13
+    rating: 4
+    pages: 317
+    isbn: "8551009567"
+    isbn13: "9788551009567"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458275/b4fc5b7a5d77492964987e2280a72e2a4da702a9.jpeg
+    reading: false
+    url: >-
+      https://hardcover.app/books/respire-a-nova-ciencia-de-uma-arte-perdida-nova-edicao
   - title: À l'ombre des choses
     author: Anatole Edouard Nicolo
     subtitle: ""
@@ -198,6 +159,45 @@ books:
       https://assets.hardcover.app/edition/31993019/c7290a36cc8c931decbe965979b138228fd1447d.jpeg
     reading: false
     url: https://hardcover.app/books/on-muscle
+  - title: The Man Who Died Twice
+    author: Richard Osman
+    subtitle: ""
+    date: 2025-09-01
+    read: 2025-09-01
+    rating: 4
+    pages: 496
+    isbn: "2702448100"
+    isbn13: "9782702448106"
+    cover_url: >-
+      https://assets.hardcover.app/edition/30504308/c2bb10ec1d229ae90973da83899d60c1ba807d26.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-man-who-died-twice
+  - title: The Dead Do Not Improve
+    author: Jay Caspian Kang
+    subtitle: ""
+    date: 2025-08-13
+    read: 2025-08-13
+    rating: 4
+    pages: 274
+    isbn: "0307953904"
+    isbn13: "9780307953902"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/60423725/fdba60b1175ab241166b9c89001c7167208e74b2.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-dead-do-not-improve
+  - title: The Thursday Murder Club
+    author: Richard Osman
+    subtitle: ""
+    date: 2025-08-13
+    read: 2025-08-13
+    rating: 4
+    pages: 499
+    isbn: "2702448097"
+    isbn13: "9782702448090"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/47667262/f7aa5ab35a99f0b0f24d4b75d06e02b96a81dcec.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-thursday-murder-club
   - title: Coyote
     author: Sylvain Prudhomme
     subtitle: ""
@@ -211,16 +211,16 @@ books:
       https://assets.hardcover.app/external_data/2458186/3ad18e4fcfa600285fd40ed82710fc42bcdbaa08.jpeg
     reading: false
     url: https://hardcover.app/books/coyote-2024
-  - title: Du même bois
-    author: Marion Fayolle
+  - title: La Disparition de Stéphanie Mailer
+    author: Joël Dicker
     subtitle: ""
-    date: 2025-07-05
-    read: 2025-07-05
-    rating: 3
-    pages: 128
-    isbn: "2073025811"
-    isbn13: "9782073025814"
+    date: 2025-08-13
+    read: 2025-08-13
+    rating: 4
+    pages: 863
+    isbn: "2889730131"
+    isbn13: "9782889730131"
     cover_url: >-
-      https://assets.hardcover.app/edition/31984880/388403f7e51e37ab021cb6a7b9c5770dc948f650.jpeg
+      https://assets.hardcover.app/external_data/2458326/7c509c0ef360d0494f9d46cf2f180e79c7069fb9.jpeg
     reading: false
-    url: https://hardcover.app/books/du-meme-bois-2024
+    url: https://hardcover.app/books/la-disparition-de-stephanie-mailer-2018
