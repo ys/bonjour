@@ -1,18 +1,44 @@
 year: 2026
 books:
-  - title: Ужасно катастрофический поход в зоопарк
-    author: Joël Dicker
+  - title: American Tiger
+    author: Adam Skolnick
     subtitle: ""
-    date: 2026-04-05
-    read: 2026-04-05
+    date: 2026-01-10
+    read: 2026-01-10
     rating: 4
-    pages: 209
-    isbn: "2889730751"
-    isbn13: "9782889730759"
+    pages: 0
+    isbn: "1544549857"
+    isbn13: "9781544549859"
     cover_url: >-
-      https://assets.hardcover.app/external_data/4091565/0684e26860da77ed8fcd5921b5a2c2d8e2adfac7.jpeg
+      https://assets.hardcover.app/edition/32621498/8f9a0cd1-967a-4338-9c3f-adf66b5b36e8.jpeg
     reading: false
-    url: https://hardcover.app/books/2025-3f19c877-f698-4958-b90b-15689dd542cb
+    url: https://hardcover.app/books/american-tiger
+  - title: Top of Mason
+    author: Walker Ryan
+    subtitle: ""
+    date: 2026-03-04
+    read: 2026-03-04
+    rating: 4
+    pages: 243
+    isbn: ""
+    isbn13: ""
+    cover_url: >-
+      https://assets.hardcover.app/external_data/61180136/3614d3ccb96011d4836c014ddf1b147c165dc848.jpeg
+    reading: false
+    url: https://hardcover.app/books/top-of-mason
+  - title: Planetarium Ghost Travel T1
+    author: Sakana Sakatsuki
+    subtitle: ""
+    date: 2026-02-01
+    read: 2026-02-01
+    rating: 5
+    pages: 0
+    isbn: "2810208719"
+    isbn13: "9782810208715"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675856/9b11c56394def0bb1feb7298e9505a42b621151c.jpeg
+    reading: false
+    url: https://hardcover.app/books/planetarium-ghost-travel-t1
   - title: High Street Lows
     author: Walker Ryan
     subtitle: ""
@@ -26,6 +52,58 @@ books:
       https://assets.hardcover.app/edition/32675850/f4e1731d-6a95-4304-a897-18fbfc0b0272.jpg
     reading: false
     url: https://hardcover.app/books/high-street-lows
+  - title: Planetarium Ghost Travel T2
+    author: Sakana Sakatsuki
+    subtitle: ""
+    date: 2026-02-01
+    read: 2026-02-01
+    rating: 5
+    pages: 0
+    isbn: "2810208646"
+    isbn13: "9782810208647"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675852/76b501c509d0424323e19ff2a4d51755d2d1872a.jpeg
+    reading: false
+    url: https://hardcover.app/books/planetarium-ghost-travel-t2
+  - title: Planetarium Ghost Travel T0
+    author: Sakana Sakatsuki
+    subtitle: ""
+    date: 2026-01-20
+    read: 2026-01-20
+    rating: 5
+    pages: 0
+    isbn: "2810209340"
+    isbn13: "9782810209347"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675877/45957f7b06a1edb0b5f67159d4533533f074e9f8.jpeg
+    reading: false
+    url: https://hardcover.app/books/planetarium-ghost-travel-t0
+  - title: Margarettown
+    author: Gabrielle Zevin
+    subtitle: ""
+    date: 2026-02-15
+    read: 2026-02-15
+    rating: 4
+    pages: 203
+    isbn: "2265159441"
+    isbn13: "9782265159440"
+    cover_url: >-
+      https://assets.hardcover.app/edition/30587927/c907377bb5c3ebf9e5b829ca7811bafb3ee35eb0.jpeg
+    reading: false
+    url: https://hardcover.app/books/margarettown
+  - title: Ужасно катастрофический поход в зоопарк
+    author: Joël Dicker
+    subtitle: ""
+    date: 2026-04-05
+    read: 2026-04-05
+    rating: 4
+    pages: 209
+    isbn: "2889730751"
+    isbn13: "9782889730759"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/4091565/0684e26860da77ed8fcd5921b5a2c2d8e2adfac7.jpeg
+    reading: false
+    url: https://hardcover.app/books/2025-3f19c877-f698-4958-b90b-15689dd542cb
   - title: Delicious
     author: Mark Haskell Smith
     subtitle: ""
@@ -258,58 +336,6 @@ books:
       https://assets.hardcover.app/edition/32794227/35a2f712-9166-4f68-952d-f2308a50274d.jpg
     reading: false
     url: https://hardcover.app/books/thermae-romae-redux-vol-1
-  - title: Planetarium Ghost Travel T1
-    author: Sakana Sakatsuki
-    subtitle: ""
-    date: 2026-02-01
-    read: 2026-02-01
-    rating: 5
-    pages: 0
-    isbn: "2810208719"
-    isbn13: "9782810208715"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32675856/9b11c56394def0bb1feb7298e9505a42b621151c.jpeg
-    reading: false
-    url: https://hardcover.app/books/planetarium-ghost-travel-t1
-  - title: American Tiger
-    author: Adam Skolnick
-    subtitle: ""
-    date: 2026-01-10
-    read: 2026-01-10
-    rating: 4
-    pages: 0
-    isbn: "1544549857"
-    isbn13: "9781544549859"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32621498/8f9a0cd1-967a-4338-9c3f-adf66b5b36e8.jpeg
-    reading: false
-    url: https://hardcover.app/books/american-tiger
-  - title: Planetarium Ghost Travel T2
-    author: Sakana Sakatsuki
-    subtitle: ""
-    date: 2026-02-01
-    read: 2026-02-01
-    rating: 5
-    pages: 0
-    isbn: "2810208646"
-    isbn13: "9782810208647"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32675852/76b501c509d0424323e19ff2a4d51755d2d1872a.jpeg
-    reading: false
-    url: https://hardcover.app/books/planetarium-ghost-travel-t2
-  - title: Planetarium Ghost Travel T0
-    author: Sakana Sakatsuki
-    subtitle: ""
-    date: 2026-01-20
-    read: 2026-01-20
-    rating: 5
-    pages: 0
-    isbn: "2810209340"
-    isbn13: "9782810209347"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32675877/45957f7b06a1edb0b5f67159d4533533f074e9f8.jpeg
-    reading: false
-    url: https://hardcover.app/books/planetarium-ghost-travel-t0
   - title: Ma vie sans moustache
     author: Romain Puértolas
     subtitle: ""
@@ -346,32 +372,6 @@ books:
     cover_url: ""
     reading: false
     url: https://hardcover.app/books/la-vie-de-ma-mere-2024
-  - title: Top of Mason
-    author: Walker Ryan
-    subtitle: ""
-    date: 2026-03-04
-    read: 2026-03-04
-    rating: 4
-    pages: 243
-    isbn: ""
-    isbn13: ""
-    cover_url: >-
-      https://assets.hardcover.app/external_data/61180136/3614d3ccb96011d4836c014ddf1b147c165dc848.jpeg
-    reading: false
-    url: https://hardcover.app/books/top-of-mason
-  - title: Margarettown
-    author: Gabrielle Zevin
-    subtitle: ""
-    date: 2026-02-15
-    read: 2026-02-15
-    rating: 4
-    pages: 203
-    isbn: "2265159441"
-    isbn13: "9782265159440"
-    cover_url: >-
-      https://assets.hardcover.app/edition/30587927/c907377bb5c3ebf9e5b829ca7811bafb3ee35eb0.jpeg
-    reading: false
-    url: https://hardcover.app/books/margarettown
   - title: "Blank Space: A Cultural History of the Twenty-First Century"
     author: W. David Marx
     subtitle: A Cultural History of the Twenty-First Century
