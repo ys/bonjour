@@ -164,7 +164,8 @@ books:
     pages: 184
     isbn: "2330150121"
     isbn13: "9782330150129"
-    cover_url: https://m.media-amazon.com/images/I/51BIGQluAQL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/60390611/19b6b72decb04066c58facb7a0024f99d813961b.jpeg
     reading: false
     url: https://hardcover.app/books/au-prochain-arret
   - title: Saltwater in the Blood
@@ -216,7 +217,7 @@ books:
     isbn: "2070304817"
     isbn13: "9782070304813"
     cover_url: >-
-      https://assets.hardcover.app/edition/32675854/9fc3a32e77f4993fbed79a4796da35a06c1c791e.jpeg
+      https://assets.hardcover.app/external_data/4193571/2cbad7d61d76e550a703f3a9b84ba2266c814ea1.jpeg
     reading: false
     url: https://hardcover.app/books/surf-city-1984
   - title: Le grand marin
@@ -411,8 +412,7 @@ books:
     pages: 60
     isbn: "2358876658"
     isbn13: "9782358876650"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/2458143/0341bb5d2dca27351ff6d8d177e109b8b8e292a7.jpeg
+    cover_url: https://m.media-amazon.com/images/I/71Iu8bIlsrL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/le-nageur-daral-2021
   - title: Fuki-no-tô
