@@ -9,7 +9,8 @@ books:
     pages: 242
     isbn: "2710376520"
     isbn13: "9782710376521"
-    cover_url: https://m.media-amazon.com/images/I/91hXVtj-SxL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458299/4edbc08bc3e5cd293cc464c08b77ab2bc0987316.jpeg
     reading: false
     url: https://hardcover.app/books/l-invitee-2023
   - title: Norwegian Wood
@@ -178,7 +179,7 @@ books:
     cover_url: >-
       https://assets.hardcover.app/edition/31796779/d51c27b851d54dbd2f3d988b7dab028ece8f9d5f.jpeg
     reading: false
-    url: https://hardcover.app/books/the-levee-1983
+    url: https://hardcover.app/books/the-levee
   - title: The Fortune
     author: Michael McDowell
     subtitle: The Fortune
@@ -205,7 +206,7 @@ books:
       https://assets.hardcover.app/edition/31909747/a3deb2aad66029e8b30b15d7ae76b781c26241fd.jpeg
     reading: false
     url: https://hardcover.app/books/rain-1983
-  - title: Blackwater 3 - La Maison
+  - title: The House
     author: Yoko Lacour
     subtitle: La maison
     date: 2024-01-17
@@ -217,7 +218,7 @@ books:
     cover_url: >-
       https://assets.hardcover.app/edition/32061110/70199ffb3e9b05d8c982c560c22af0eca8721ad9.jpeg
     reading: false
-    url: https://hardcover.app/books/blackwater-3-la-maison-1983
+    url: https://hardcover.app/books/the-house-1983
   - title: >-
       Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the
       American Dream
@@ -321,7 +322,8 @@ books:
     pages: 318
     isbn: 226405090X
     isbn13: "9782264050908"
-    cover_url: https://m.media-amazon.com/images/I/61R4PX8DAWL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675938/008ee9a6e03e883f800afdda1978008f62b64679.jpeg
     reading: false
     url: https://hardcover.app/books/legendes-dautomne-edition-speciale-2009
   - title: The Truth About the Harry Quebert Affair
