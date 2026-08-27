@@ -1,6 +1,6 @@
 year: 2014
 books:
-  - title: Slack
+  - title: "Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency"
     author: Tom DeMarco
     subtitle: Getting Past Burnout, Busywork, and the Myth of Total Efficiency
     date: 2014-05-22
@@ -9,7 +9,8 @@ books:
     pages: 227
     isbn: "0767907698"
     isbn13: "9780767907699"
-    cover_url: https://assets.hardcover.app/edition/30381101/content.jpeg
+    cover_url: >-
+      https://assets.hardcover.app/edition/30381101/de4317fb3789d8bf328c1a5b0151cae84fd6fd99.jpeg
     reading: false
     url: https://hardcover.app/books/slack
   - title: "Effective Monitoring and Alerting: For Web Operations"
