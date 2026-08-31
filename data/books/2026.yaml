@@ -126,7 +126,7 @@ books:
     pages: 0
     isbn: "2351788621"
     isbn13: "9782351788622"
-    cover_url: https://m.media-amazon.com/images/I/816fiWx7kvL._AC_UY654_QL65_.jpg
+    cover_url: ""
     reading: false
     url: https://hardcover.app/books/epices-love
   - title: The Ministry of Time
@@ -151,7 +151,7 @@ books:
     pages: 0
     isbn: "1917523599"
     isbn13: "9781917523592"
-    cover_url: https://m.media-amazon.com/images/I/71tqdrnvxBL._AC_UY654_QL65_.jpg
+    cover_url: ""
     reading: false
     url: https://hardcover.app/books/a-year-of-nothing-as-heard-on-bbc-woman-s-hour
   - title: Famous
@@ -336,6 +336,30 @@ books:
       https://assets.hardcover.app/edition/32794227/35a2f712-9166-4f68-952d-f2308a50274d.jpg
     reading: false
     url: https://hardcover.app/books/thermae-romae-redux-vol-1
+  - title: La Pommeraie
+    author: Peter Heller
+    subtitle: ""
+    date: 2026-08-31
+    read: 2026-08-31
+    rating: 5
+    pages: 0
+    isbn: "2330203594"
+    isbn13: "9782330203597"
+    cover_url: ""
+    reading: false
+    url: https://hardcover.app/books/la-pommeraie
+  - title: Coup de vent
+    author: Mark Haskell Smith
+    subtitle: ""
+    date: 2026-08-31
+    read: 2026-08-31
+    rating: 4
+    pages: 263
+    isbn: "2351787862"
+    isbn13: "9782351787861"
+    cover_url: ""
+    reading: false
+    url: https://hardcover.app/books/coup-de-vent
   - title: Ma vie sans moustache
     author: Romain Puértolas
     subtitle: ""
@@ -357,7 +381,7 @@ books:
     pages: 68
     isbn: "2021597113"
     isbn13: "9782021597110"
-    cover_url: https://m.media-amazon.com/images/I/71BapQlaIGL._AC_UY654_QL65_.jpg
+    cover_url: ""
     reading: false
     url: https://hardcover.app/books/la-baie
   - title: La vie de ma mère !
