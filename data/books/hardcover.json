@@ -12323,6 +12323,70 @@
           }
         },
         {
+          "book_id": 2907914,
+          "rating": 4.5,
+          "date_added": "2026-08-31",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2026-08-31"
+            }
+          ],
+          "edition": {
+            "isbn_10": "2330203594",
+            "isbn_13": "9782330203597",
+            "pages": null,
+            "release_date": "2025-03-05"
+          },
+          "book": {
+            "title": "La Pommeraie",
+            "subtitle": null,
+            "slug": "la-pommeraie",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Peter Heller"
+                }
+              }
+            ],
+            "image": null
+          }
+        },
+        {
+          "book_id": 2907922,
+          "rating": 4,
+          "date_added": "2026-08-31",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2026-08-31"
+            }
+          ],
+          "edition": {
+            "isbn_10": "2351787862",
+            "isbn_13": "9782351787861",
+            "pages": 263,
+            "release_date": "2021-01-01"
+          },
+          "book": {
+            "title": "Coup de vent",
+            "subtitle": null,
+            "slug": "coup-de-vent",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Mark Haskell Smith"
+                }
+              }
+            ],
+            "image": null
+          }
+        },
+        {
           "book_id": 2696496,
           "rating": 4,
           "date_added": "2026-08-12",
