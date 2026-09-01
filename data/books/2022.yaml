@@ -86,7 +86,7 @@ books:
     pages: 0
     isbn: "1785786032"
     isbn13: "9781785786037"
-    cover_url: ""
+    cover_url: https://m.media-amazon.com/images/I/71S17ynqlfL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/five-rules-for-rebellion
   - title: "The Storyteller: Tales of Life and Music"
@@ -150,7 +150,7 @@ books:
     pages: 304
     isbn: "0241289092"
     isbn13: "9780241289099"
-    cover_url: https://assets.hardcover.app/edition/30405486/content.jpeg
+    cover_url: https://m.media-amazon.com/images/I/61RZ287+jML._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/breath
   - title: Ranking of Kings, Vol. 1
@@ -214,7 +214,7 @@ books:
     pages: 440
     isbn: "1938340957"
     isbn13: "9781938340956"
-    cover_url: https://assets.hardcover.app/edition/14521888/4394585-L.jpg
+    cover_url: https://m.media-amazon.com/images/I/61SMYq+2OwL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/waves-and-beaches
   - title: "Mindfulness and Surfing: Reflections for Saltwater Souls"
