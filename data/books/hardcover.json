@@ -5197,8 +5197,8 @@
             }
           ],
           "edition": {
-            "isbn_10": "0241289092",
-            "isbn_13": "9780241289099",
+            "isbn_10": "0593420217",
+            "isbn_13": "9780593420218",
             "pages": 304,
             "release_date": "2020-01-01"
           },
@@ -5214,7 +5214,7 @@
               }
             ],
             "image": {
-              "url": "https://assets.hardcover.app/edition/30405486/content.jpeg"
+              "url": "https://assets.hardcover.app/edition/32297048/415ed5877e1626bbffc93fc4963871566fdb798e.jpeg"
             }
           }
         },
@@ -11270,45 +11270,6 @@
           }
         },
         {
-          "book_id": 2033679,
-          "rating": 5,
-          "date_added": "2022-11-29",
-          "user_book_status": {
-            "slug": "read"
-          },
-          "user_book_reads": [
-            {
-              "finished_at": "2022-11-29"
-            }
-          ],
-          "edition": {
-            "isbn_10": null,
-            "isbn_13": null,
-            "pages": 137,
-            "release_date": "2005-09-01"
-          },
-          "book": {
-            "title": "L'Année de la pensée magique",
-            "subtitle": null,
-            "slug": "lannee-de-la-pensee-magique-2005",
-            "contributions": [
-              {
-                "author": {
-                  "name": "Joan Didion"
-                }
-              },
-              {
-                "author": {
-                  "name": "Pierre Demarty"
-                }
-              }
-            ],
-            "image": {
-              "url": "https://assets.hardcover.app/external_data/2458092/ff94845d4ccc61db0fbc612ec03ba49842d511c1.jpeg"
-            }
-          }
-        },
-        {
           "book_id": 2406575,
           "rating": 3,
           "date_added": "2022-11-29",
@@ -12384,6 +12345,40 @@
               }
             ],
             "image": null
+          }
+        },
+        {
+          "book_id": 24357,
+          "rating": 5,
+          "date_added": "2022-11-29",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2022-11-29"
+            }
+          ],
+          "edition": {
+            "isbn_10": null,
+            "isbn_13": null,
+            "pages": 137,
+            "release_date": "2005-09-01"
+          },
+          "book": {
+            "title": "The Year of Magical Thinking",
+            "subtitle": "The Play",
+            "slug": "the-year-of-magical-thinking",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Joan Didion"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/edition/21940103/797214fc04e9b0a6e55daaf940e6c1aa5e26f32b.jpeg"
+            }
           }
         },
         {
