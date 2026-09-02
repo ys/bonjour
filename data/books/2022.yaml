@@ -86,7 +86,7 @@ books:
     pages: 0
     isbn: "1785786032"
     isbn13: "9781785786037"
-    cover_url: https://m.media-amazon.com/images/I/71S17ynqlfL._AC_UY654_QL65_.jpg
+    cover_url: ""
     reading: false
     url: https://hardcover.app/books/five-rules-for-rebellion
   - title: "The Storyteller: Tales of Life and Music"
@@ -148,9 +148,10 @@ books:
     read: 2022-03-23
     rating: 3
     pages: 304
-    isbn: "0241289092"
-    isbn13: "9780241289099"
-    cover_url: https://assets.hardcover.app/edition/30405486/content.jpeg
+    isbn: "0593420217"
+    isbn13: "9780593420218"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32297048/415ed5877e1626bbffc93fc4963871566fdb798e.jpeg
     reading: false
     url: https://hardcover.app/books/breath
   - title: Ranking of Kings, Vol. 1
@@ -214,7 +215,7 @@ books:
     pages: 440
     isbn: "1938340957"
     isbn13: "9781938340956"
-    cover_url: https://m.media-amazon.com/images/I/61SMYq+2OwL._AC_UY654_QL65_.jpg
+    cover_url: https://assets.hardcover.app/edition/14521888/4394585-L.jpg
     reading: false
     url: https://hardcover.app/books/waves-and-beaches
   - title: "Mindfulness and Surfing: Reflections for Saltwater Souls"
@@ -292,7 +293,8 @@ books:
     pages: 387
     isbn: "0316376205"
     isbn13: "9780316376204"
-    cover_url: https://m.media-amazon.com/images/I/81RYTr3VomL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458148/7a1d9d4c06daa6a7dc4b87dcd6103407aa92a222.jpeg
     reading: false
     url: https://hardcover.app/books/thermae-romae-compilation-vol-3
   - title: Le Monde sans fin
@@ -347,19 +349,6 @@ books:
       https://assets.hardcover.app/edition/31990245/e82bc5a1a5a1086b662c821387e2176eaba56ff0.jpeg
     reading: false
     url: https://hardcover.app/books/sauvagines-2019
-  - title: L'Année de la pensée magique
-    author: Joan Didion
-    subtitle: ""
-    date: 2022-11-29
-    read: 2022-11-29
-    rating: 5
-    pages: 137
-    isbn: ""
-    isbn13: ""
-    cover_url: >-
-      https://assets.hardcover.app/external_data/2458092/ff94845d4ccc61db0fbc612ec03ba49842d511c1.jpeg
-    reading: false
-    url: https://hardcover.app/books/lannee-de-la-pensee-magique-2005
   - title: L'Amérique
     author: Joan Didion
     subtitle: ""
@@ -382,6 +371,20 @@ books:
     pages: 116
     isbn: "2081515946"
     isbn13: "9782081515949"
-    cover_url: https://m.media-amazon.com/images/I/51LcPHAk-9L._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/1302444/37b9d80bf1ac951169e98707df1e84dad10ab558.jpeg
     reading: false
     url: https://hardcover.app/books/name
+  - title: The Year of Magical Thinking
+    author: Joan Didion
+    subtitle: The Play
+    date: 2022-11-29
+    read: 2022-11-29
+    rating: 5
+    pages: 137
+    isbn: ""
+    isbn13: ""
+    cover_url: >-
+      https://assets.hardcover.app/edition/21940103/797214fc04e9b0a6e55daaf940e6c1aa5e26f32b.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-year-of-magical-thinking
