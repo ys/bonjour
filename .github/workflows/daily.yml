@@ -14,8 +14,6 @@ jobs:
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
-      - name: Setup ImageMagick
-        uses: mfinelli/setup-imagemagick@v5
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.2' # Not needed with a .ruby-version file
@@ -29,7 +27,7 @@ jobs:
       - name: Convert to webp
         run: |
           for file in $(find content/daily \( -iname "*.jpg" -or -iname "*.jpeg" -or -iname "*.png" -or -iname "*.tif" -or -iname "*.bmp" \)) ; do
-            magick convert ${file} -quality 80 -resize 1500x1500 -density 72x72 -format webp ${file%.*}.webp;
+            convert ${file} -quality 80 -resize 1500x1500 -density 72x72 -format webp ${file%.*}.webp;
           done
       - name: Remove jpgs
         run: |
