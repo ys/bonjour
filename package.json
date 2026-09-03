@@ -9,7 +9,9 @@
     "gulp"
   ],
   "scripts": {
+    "prebuild": "mkdir -p resources/_gen node_modules/.cache/hugo_resources && cp -a node_modules/.cache/hugo_resources/. resources/_gen/ 2>/dev/null || true",
     "build": "hugo --templateMetrics --templateMetricsHints --printUnusedTemplates --minify -b https://${BASE_URL:-$VERCEL_BRANCH_URL}",
+    "postbuild": "mkdir -p node_modules/.cache/hugo_resources && cp -a resources/_gen/. node_modules/.cache/hugo_resources/",
     "build-preview": "hugo --environment preview --minify -F -D -b https://${BASE_URL:-$VERCEL_BRANCH_URL}",
     "gulp": "gulp",
     "build-images": "gulp img:build",
