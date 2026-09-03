@@ -18,6 +18,16 @@ jobs:
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
+      - name: Truncate report to fit issue body limit
+        if: env.lychee_exit_code != 0
+        run: |
+          MAX=60000
+          if [ "$(wc -c < ./lychee/out.md)" -gt "$MAX" ]; then
+            head -c "$MAX" ./lychee/out.md > /tmp/out.md
+            printf '\n\n_...report truncated, see the full output in the workflow run logs..._\n' >> /tmp/out.md
+            mv /tmp/out.md ./lychee/out.md
+          fi
+
       - name: Create Issue From File
         if: env.lychee_exit_code != 0
         uses: peter-evans/create-issue-from-file@v4
