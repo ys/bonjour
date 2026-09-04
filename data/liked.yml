@@ -1,4 +1,52 @@
 ---
+- _id: 1843276038
+  link: https://www.youtube.com/watch?v=LGz1jSvLBSo
+  title: summer is over | Katin Diaries
+  excerpt: "Tommy Coleman, Saxon Wilson, and Greyson Messier put in the hours over
+    the course of two different hurricane swells that hit the Southern California
+    coast.\n\nWhile summer may be over, the waves don’t seem to be going anywhere
+    anytime soon. Although I’m not sure how many more sun scorched days in Malibu
+    I’ve got left in me. \n\nVideo by James Sarandis\nkatinusa.com"
+  note: I already miss summer
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/LGz1jSvLBSo/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/LGz1jSvLBSo/maxresdefault.jpg
+    type: image
+  - link: https://yt3.googleusercontent.com/PkrHfdctfZaVZ0m6Zdnhmf1F8nZoG0-dZ1h44qgde043KR786rfKYMgDEm7YTYwR49IduqfodfUzOhD_
+    type: image
+  - link: https://yt3.googleusercontent.com/UjU56PNbM2J72SS2aV7Yol0jpgq5UWCVy_Ao1IT1how6dFX6TV6wkj5YmIv2pZRudj8pkm70Go9I1By46Q
+    type: image
+  tags: []
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2026-09-04T08:06:25.245Z'
+  collection:
+    "$ref": collections
+    "$id": -1
+    oid: -1
+  highlights: []
+  lastUpdate: '2026-09-04T08:07:53.578Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1843276038
+  cache:
+    status: ready
+    created: '2026-09-04T08:07:31.590Z'
+    size: 1625
+  broken: false
+  collectionId: -1
+  collection_name:
+  parsed: {}
 - _id: 1770230829
   link: https://open.substack.com/pub/lusciousjackson/p/when-i-was-a-beastie-boy?utm_source=share&utm_medium=android&r=5cjn3
   title: When I was a Beastie Boy
