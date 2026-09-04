@@ -63,7 +63,7 @@ books:
     pages: 160
     isbn: "0985265604"
     isbn13: "9780985265601"
-    cover_url: https://m.media-amazon.com/images/I/61GER8sLsYL._AC_UY654_QL65_.jpg
+    cover_url: ""
     reading: false
     url: https://hardcover.app/books/the-credibility-code
   - title: "The Big Tiny: A Built-It-Myself Memoir"
@@ -170,7 +170,8 @@ books:
     pages: 272
     isbn: "0143037838"
     isbn13: "9780143037835"
-    cover_url: https://m.media-amazon.com/images/I/91JyBf0AfUL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/59364474/f2a715b0911fa8d3544dbd7ec6c495ba5dfe15ef.jpeg
     reading: false
     url: https://hardcover.app/books/let-my-people-go-surfing
   - title: Paper Girls, Vol. 2
@@ -225,7 +226,9 @@ books:
       https://assets.hardcover.app/editions/30401760/6c6dc8b1-2e02-4c20-b0a3-572ff516feab-astro.jpg
     reading: false
     url: https://hardcover.app/books/astrophysics-for-people-in-a-hurry
-  - title: Bored and Brilliant
+  - title: >-
+      Bored and Brilliant: How Spacing Out Can Unlock Your Most Productive &
+      Creative Self
     author: Manoush Zomorodi
     subtitle: How Spacing Out Can Unlock Your Most Productive & Creative Self
     date: 2017-11-26
@@ -234,7 +237,8 @@ books:
     pages: 192
     isbn: "1250124964"
     isbn13: "9781250124968"
-    cover_url: https://assets.hardcover.app/edition/23963729/10142388-L.jpg
+    cover_url: >-
+      https://assets.hardcover.app/edition/23963729/4d1003046a657ea4d1143dac8c5680006347ae2d.jpeg
     reading: false
     url: https://hardcover.app/books/bored-and-brilliant
   - title: Into the Forest
