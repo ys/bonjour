@@ -73,8 +73,7 @@ books:
     pages: 304
     isbn: "0525536515"
     isbn13: "9780525536512"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/59340601/d5cda8f52cd8e844683d4a762edebd859a32c853.jpeg
+    cover_url: https://m.media-amazon.com/images/I/81x+9opgESL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/digital-minimalism
   - title: "The Kindness of Strangers: Travel Stories That Make Your Heart Grow"
@@ -125,7 +124,7 @@ books:
     pages: 128
     isbn: "1907974636"
     isbn13: "9781907974632"
-    cover_url: https://assets.hardcover.app/edition/30636232/42284142._SX98_.jpg
+    cover_url: https://m.media-amazon.com/images/I/811jZD-sVVL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/do-pause
   - title: "How to Do Nothing: Resisting the Attention Economy"
@@ -150,8 +149,7 @@ books:
     pages: 336
     isbn: "1786891557"
     isbn13: "9781786891556"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/60254978/9278c492fa99e54216a457208b0380b6c75acfa9.jpeg
+    cover_url: https://m.media-amazon.com/images/I/91iL6rScVfL._AC_UY654_QL65_.jpg
     reading: false
     url: >-
       https://hardcover.app/books/outpost-a-journey-to-the-wild-ends-of-the-earth
@@ -244,7 +242,7 @@ books:
     pages: 224
     isbn: 160945555X
     isbn13: "9781609455552"
-    cover_url: https://m.media-amazon.com/images/I/81wNoYc0JDL._AC_UY654_QL65_.jpg
+    cover_url: https://m.media-amazon.com/images/I/81PDLXYzrBL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/berezina
   - title: "Desert Solitaire: A Season in the Wilderness"
@@ -295,7 +293,7 @@ books:
     pages: 0
     isbn: "2895496676"
     isbn13: "9782895496670"
-    cover_url: ""
+    cover_url: https://m.media-amazon.com/images/I/712eg2aQqfL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/darhan-2-les-chemins-de-la-guerre
   - title: "Rewild Yourself: Making Nature More Visible in Our Lives"
