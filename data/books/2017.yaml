@@ -136,16 +136,17 @@ books:
     cover_url: https://assets.hardcover.app/edition/2795684/10333239-L.jpg
     reading: false
     url: https://hardcover.app/books/clutterfree-with-kids
-  - title: Everything That Remains
+  - title: "Everything That Remains: A Memoir by The Minimalists"
     author: Joshua Fields Millburn
-    subtitle: ""
+    subtitle: A Memoir by The Minimalists
     date: 2017-05-02
     read: 2017-05-02
     rating: 4
-    pages: 234
+    pages: 232
     isbn: "1938793188"
     isbn13: "9781938793189"
-    cover_url: https://assets.hardcover.app/edition/30405449/content.jpeg
+    cover_url: >-
+      https://assets.hardcover.app/edition/30405449/d9589f85-0ad2-45ce-9bb9-4b73d2dfc754.jpg
     reading: false
     url: https://hardcover.app/books/everything-that-remains
   - title: You're Never Weird on the Internet
