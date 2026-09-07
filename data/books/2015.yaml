@@ -89,16 +89,17 @@ books:
       https://assets.hardcover.app/external_data/59970685/82ad188ab1a8168fa9267f69356def4798f60086.jpeg
     reading: false
     url: https://hardcover.app/books/how-to-win-friends-and-influence-people
-  - title: Logicomix
-    author: Alecos Papadatos
-    subtitle: ""
+  - title: "Logicomix: An Epic Search for Truth"
+    author: Apostolos Doxiadis
+    subtitle: An Epic Search for Truth
     date: 2015-06-04
     read: 2015-06-04
     rating: 0
-    pages: 352
+    pages: 347
     isbn: "1596914521"
     isbn13: "9781596914520"
-    cover_url: https://assets.hardcover.app/edition/1487835/8689155-L.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/44175261/a3f89d398f47a465def3bf7d20c796401bc1d60e.jpeg
     reading: false
     url: https://hardcover.app/books/logicomix
   - title: "Understanding Comics: The Invisible Art"
