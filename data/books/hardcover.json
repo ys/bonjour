@@ -5724,29 +5724,14 @@
           "edition": {
             "isbn_10": "1596914521",
             "isbn_13": "9781596914520",
-            "pages": 352,
-            "release_date": "2009-09-29"
+            "pages": 347,
+            "release_date": "2009-01-01"
           },
           "book": {
-            "title": "Logicomix",
-            "subtitle": null,
+            "title": "Logicomix: An Epic Search for Truth",
+            "subtitle": "An Epic Search for Truth",
             "slug": "logicomix",
             "contributions": [
-              {
-                "author": {
-                  "name": "Alecos Papadatos"
-                }
-              },
-              {
-                "author": {
-                  "name": "Annie Di Donna"
-                }
-              },
-              {
-                "author": {
-                  "name": "Αλέκος Παπαδάτος"
-                }
-              },
               {
                 "author": {
                   "name": "Apostolos Doxiadis"
@@ -5761,10 +5746,25 @@
                 "author": {
                   "name": "Χρίστος Χ. Παπαδημητρίου"
                 }
+              },
+              {
+                "author": {
+                  "name": "Alecos Papadatos"
+                }
+              },
+              {
+                "author": {
+                  "name": "Annie Di Donna"
+                }
+              },
+              {
+                "author": {
+                  "name": "Αλέκος Παπαδάτος"
+                }
               }
             ],
             "image": {
-              "url": "https://assets.hardcover.app/edition/1487835/8689155-L.jpg"
+              "url": "https://assets.hardcover.app/external_data/44175261/a3f89d398f47a465def3bf7d20c796401bc1d60e.jpeg"
             }
           }
         },
