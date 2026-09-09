@@ -2907,8 +2907,8 @@
             }
           ],
           "edition": {
-            "isbn_10": "1534305106",
-            "isbn_13": "9781534305106",
+            "isbn_10": "0606411844",
+            "isbn_13": "9780606411844",
             "pages": 128,
             "release_date": "2016-01-01"
           },
@@ -4194,40 +4194,6 @@
             ],
             "image": {
               "url": "https://assets.hardcover.app/edition/30487672/a820fd02d9afebd25194d6eca03bc46cc0d2587f.jpeg"
-            }
-          }
-        },
-        {
-          "book_id": 815167,
-          "rating": 3,
-          "date_added": "2021-03-26",
-          "user_book_status": {
-            "slug": "read"
-          },
-          "user_book_reads": [
-            {
-              "finished_at": "2021-03-26"
-            }
-          ],
-          "edition": {
-            "isbn_10": "2843048699",
-            "isbn_13": "9782843048692",
-            "pages": 261,
-            "release_date": "2018-11-01"
-          },
-          "book": {
-            "title": "Miss Islande",
-            "subtitle": "roman",
-            "slug": "miss-islande",
-            "contributions": [
-              {
-                "author": {
-                  "name": "Audur Ava Olafsdottir"
-                }
-              }
-            ],
-            "image": {
-              "url": "https://assets.hardcover.app/external_data/4100027/b9c242c0647202918243775b10c5ca182696a37f.jpeg"
             }
           }
         },
@@ -12373,6 +12339,45 @@
             ],
             "image": {
               "url": "https://assets.hardcover.app/edition/21940103/797214fc04e9b0a6e55daaf940e6c1aa5e26f32b.jpeg"
+            }
+          }
+        },
+        {
+          "book_id": 432268,
+          "rating": 3,
+          "date_added": "2021-03-26",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2021-03-26"
+            }
+          ],
+          "edition": {
+            "isbn_10": "2843048699",
+            "isbn_13": "9782843048692",
+            "pages": 261,
+            "release_date": "2018-11-01"
+          },
+          "book": {
+            "title": "Miss Iceland",
+            "subtitle": "roman",
+            "slug": "miss-iceland",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Auður Ava Ólafsdóttir"
+                }
+              },
+              {
+                "author": {
+                  "name": "Brian FitzGibbon"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/external_data/4253232/dc4c1e451ec72e09743cf9f34ae0a57ac82fa449.jpeg"
             }
           }
         },
