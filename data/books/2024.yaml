@@ -9,7 +9,8 @@ books:
     pages: 242
     isbn: "2710376520"
     isbn13: "9782710376521"
-    cover_url: https://m.media-amazon.com/images/I/91hXVtj-SxL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458299/4edbc08bc3e5cd293cc464c08b77ab2bc0987316.jpeg
     reading: false
     url: https://hardcover.app/books/l-invitee-2023
   - title: Norwegian Wood
@@ -25,7 +26,7 @@ books:
       https://assets.hardcover.app/edition/11016885/93eb5a84-c963-4cd6-8599-593c6c792f5c.jpg
     reading: false
     url: https://hardcover.app/books/norwegian-wood
-  - title: Wayward
+  - title: Wayward Pines - Revolta
     author: Blake Crouch
     subtitle: Salaisuus
     date: 2024-03-31
@@ -36,7 +37,7 @@ books:
     isbn13: "9782404023397"
     cover_url: https://assets.hardcover.app/editions/4327569/9896909177226764.jpg
     reading: false
-    url: https://hardcover.app/books/wayward
+    url: https://hardcover.app/books/wayward-pines-revolta
   - title: Le Sommet des Dieux - Tome 1
     author: Jirō Taniguchi
     subtitle: ""
@@ -321,7 +322,8 @@ books:
     pages: 318
     isbn: 226405090X
     isbn13: "9782264050908"
-    cover_url: https://m.media-amazon.com/images/I/81VhWpnCb5L._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675938/008ee9a6e03e883f800afdda1978008f62b64679.jpeg
     reading: false
     url: https://hardcover.app/books/legendes-dautomne-edition-speciale-2009
   - title: The Truth About the Harry Quebert Affair
