@@ -30,7 +30,10 @@
       "Bash(ruby *)",
       "Bash(RAINDROP_FORCE=true bundle exec ruby bin/raindrop-to-liked.rb)",
       "Bash(hugo)",
-      "Bash(hugo server *)"
+      "Bash(hugo server *)",
+      "Bash(git remote *)",
+      "mcp__plugin_vercel_vercel__list_deployments",
+      "mcp__plugin_vercel_vercel__get_deployment"
     ]
   }
 }
