@@ -112,7 +112,8 @@ books:
     pages: 376
     isbn: "1910620300"
     isbn13: "9781910620304"
-    cover_url: https://m.media-amazon.com/images/I/91MDICHdFqL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/59399289/174f4f636da6e89baaff7696662ed47c3ede9930.jpeg
     reading: false
     url: https://hardcover.app/books/in-waves
   - title: Do Pause
@@ -190,7 +191,7 @@ books:
     pages: 0
     isbn: "0141991445"
     isbn13: "9780141991443"
-    cover_url: https://m.media-amazon.com/images/I/61tj9UoQ4tL._AC_UY654_QL65_.jpg
+    cover_url: https://assets.hardcover.app/books/462473/9378622-L.jpg
     reading: false
     url: https://hardcover.app/books/this-is-not-a-drill
   - title: My Midsummer Morning
@@ -295,7 +296,7 @@ books:
     pages: 0
     isbn: "2895496676"
     isbn13: "9782895496670"
-    cover_url: https://m.media-amazon.com/images/I/91JDpAj-f+L._AC_UY654_QL65_.jpg
+    cover_url: ""
     reading: false
     url: https://hardcover.app/books/darhan-2-les-chemins-de-la-guerre
   - title: "Rewild Yourself: Making Nature More Visible in Our Lives"
