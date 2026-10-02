@@ -1,4 +1,50 @@
 ---
+- _id: 1873763916
+  link: https://www.youtube.com/watch?v=EIp9nW8zDkE
+  title: JULY WETSUITS - Clovis Donizetti
+  excerpt: JULY WETSUITS proudly presents a short film by Thomas Lodin.⁠Take a moment,
+    settle in, and follow the lines of Clovis Donizetti, Europe’s finest stylist and
+    ...
+  note: Clovis is definitely a water dancer when you look at this!
+  type: video
+  user:
+    "$ref": users
+    "$id": 1617030
+  cover: https://i.ytimg.com/vi/EIp9nW8zDkE/maxresdefault.jpg
+  media:
+  - link: https://i.ytimg.com/vi/EIp9nW8zDkE/maxresdefault.jpg
+    type: image
+  - link: https://i.ytimg.com/vi/5y8DwUN6Yis/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYLiBXKHIwDw==&rs=AOn4CLAeOdNABM6C0Ib7HuJUy7f39pmmrg
+    type: image
+  tags:
+  - video
+  - film
+  important: true
+  reminder:
+    date:
+  removed: false
+  created: '2026-10-02T07:07:48.402Z'
+  collection:
+    "$ref": collections
+    "$id": 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2026-10-02T07:08:44.444Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1873763916
+  cache:
+    status: ready
+    created: '2026-10-02T07:08:56.072Z'
+    size: 1007
+  broken: false
+  collectionId: 37136905
+  collection_name: SURF
+  parsed: {}
 - _id: 1843276038
   link: https://www.youtube.com/watch?v=LGz1jSvLBSo
   title: summer is over | Katin Diaries
