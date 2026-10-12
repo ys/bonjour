@@ -9,7 +9,8 @@ books:
     pages: 242
     isbn: "2710376520"
     isbn13: "9782710376521"
-    cover_url: https://m.media-amazon.com/images/I/91hXVtj-SxL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458299/4edbc08bc3e5cd293cc464c08b77ab2bc0987316.jpeg
     reading: false
     url: https://hardcover.app/books/l-invitee-2023
   - title: Norwegian Wood
@@ -321,8 +322,7 @@ books:
     pages: 318
     isbn: 226405090X
     isbn13: "9782264050908"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32675938/008ee9a6e03e883f800afdda1978008f62b64679.jpeg
+    cover_url: https://m.media-amazon.com/images/I/61R4PX8DAWL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/legendes-dautomne-edition-speciale-2009
   - title: The Truth About the Harry Quebert Affair
@@ -416,7 +416,7 @@ books:
       https://assets.hardcover.app/external_data/2458342/adad56e13572bbd965a3a3cfa611eba4eaea6e28.jpeg
     reading: false
     url: https://hardcover.app/books/benis-soient-les-enfants-et-les-betes-1970
-  - title: "1Q84: Book 1"
+  - title: "1Q84, Book 1: April-June"
     author: Haruki Murakami
     subtitle: april-juni
     date: 2024-11-09
@@ -455,7 +455,7 @@ books:
     reading: false
     url: >-
       https://hardcover.app/books/lincroyable-mademoiselle-bang-f274b640-a54d-4117-9922-1ee61150ae99
-  - title: "1Q84: Book 3"
+  - title: "1Q84, Book 3: October-December"
     author: Haruki Murakami
     subtitle: Book 3
     date: 2024-12-18
