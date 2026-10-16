@@ -37,45 +37,6 @@
           }
         },
         {
-          "book_id": 2406584,
-          "rating": 2,
-          "date_added": "2024-07-17",
-          "user_book_status": {
-            "slug": "read"
-          },
-          "user_book_reads": [
-            {
-              "finished_at": "2024-07-17"
-            }
-          ],
-          "edition": {
-            "isbn_10": "2710376520",
-            "isbn_13": "9782710376521",
-            "pages": 242,
-            "release_date": "2023-05-16"
-          },
-          "book": {
-            "title": "L’invitée",
-            "subtitle": null,
-            "slug": "l-invitee-2023",
-            "contributions": [
-              {
-                "author": {
-                  "name": "Jean Esch"
-                }
-              },
-              {
-                "author": {
-                  "name": "Emma Cline"
-                }
-              }
-            ],
-            "image": {
-              "url": "https://assets.hardcover.app/external_data/2458299/4edbc08bc3e5cd293cc464c08b77ab2bc0987316.jpeg"
-            }
-          }
-        },
-        {
           "book_id": 2406574,
           "rating": 5,
           "date_added": "2023-03-13",
@@ -12485,6 +12446,40 @@
               }
             ],
             "image": null
+          }
+        },
+        {
+          "book_id": 726553,
+          "rating": 2,
+          "date_added": "2024-07-17",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2024-07-17"
+            }
+          ],
+          "edition": {
+            "isbn_10": "2710376520",
+            "isbn_13": "9782710376521",
+            "pages": 242,
+            "release_date": "2023-05-16"
+          },
+          "book": {
+            "title": "The Guest",
+            "subtitle": null,
+            "slug": "the-guest-2023",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Emma Cline"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/edition/30720906/f5264a03-bd67-4377-bf38-681daa0b0ec1.jpg"
+            }
           }
         },
         {
