@@ -1314,7 +1314,7 @@
           },
           "book": {
             "title": "Welcome to the Hyunam-Dong Bookshop",
-            "subtitle": null,
+            "subtitle": "The heart-warming Korean sensation",
             "slug": "welcome-to-the-hyunam-dong-bookshop",
             "contributions": [
               {
@@ -4728,7 +4728,7 @@
             "isbn_10": "1681987236",
             "isbn_13": "9781681987231",
             "pages": 328,
-            "release_date": null
+            "release_date": "2021-01-01"
           },
           "book": {
             "title": "The Meaning in the Making: The Why and How Behind Our Human Need to Create",
@@ -4742,7 +4742,7 @@
               }
             ],
             "image": {
-              "url": "https://assets.hardcover.app/external_data/60297308/254a07e0574bb2b5ea5ce1c61b446b8a1a0e034e.jpeg"
+              "url": "https://assets.hardcover.app/edition/31151737/cbea71b1fa68de0008137e7c540549c0080d8405.jpeg"
             }
           }
         },
@@ -5001,6 +5001,11 @@
               {
                 "author": {
                   "name": "Jack Kerouac"
+                }
+              },
+              {
+                "author": {
+                  "name": "Ann  Douglas"
                 }
               }
             ],
@@ -7010,20 +7015,27 @@
             "isbn_10": "1632151936",
             "isbn_13": "9781632151933",
             "pages": 128,
-            "release_date": null
+            "release_date": "2014-01-01"
           },
           "book": {
-            "title": "Sex Criminals, Vol. 2: Due Piccioncini, Una Fava",
-            "subtitle": "Due Piccioncini, Una Fava",
+            "title": "Sex Criminals:, Vol. 2",
+            "subtitle": "Two worlds, one cop",
             "slug": "sex-criminals-vol-2",
             "contributions": [
               {
                 "author": {
                   "name": "Matt Fraction"
                 }
+              },
+              {
+                "author": {
+                  "name": "Chip Zdarsky"
+                }
               }
             ],
-            "image": null
+            "image": {
+              "url": "https://assets.hardcover.app/edition/18519572/356fc082a04fcab5ba729b9d7e326c8907e723a5.jpeg"
+            }
           }
         },
         {
@@ -8916,7 +8928,7 @@
           },
           "book": {
             "title": "Tomorrow, and Tomorrow, and Tomorrow",
-            "subtitle": null,
+            "subtitle": "A novel",
             "slug": "tomorrow-and-tomorrow-and-tomorrow",
             "contributions": [
               {
