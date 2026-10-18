@@ -138,8 +138,7 @@ books:
     pages: 335
     isbn: 166804515X
     isbn13: "9781668045152"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/61259819/485c370f5b413a0b672bce0a4f2e40de98facb79.jpeg
+    cover_url: https://m.media-amazon.com/images/I/81CBcjJTOlL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/the-ministry-of-time
   - title: "A Year of Nothing: As heard on BBC Woman’s Hour"
@@ -357,7 +356,7 @@ books:
     pages: 263
     isbn: "2351787862"
     isbn13: "9782351787861"
-    cover_url: ""
+    cover_url: https://m.media-amazon.com/images/I/717M0Yr0bIL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/coup-de-vent
   - title: Ma vie sans moustache
