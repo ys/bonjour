@@ -126,7 +126,7 @@ books:
     pages: 0
     isbn: "2351788621"
     isbn13: "9782351788622"
-    cover_url: https://m.media-amazon.com/images/I/816fiWx7kvL._AC_UY654_QL65_.jpg
+    cover_url: ""
     reading: false
     url: https://hardcover.app/books/epices-love
   - title: The Ministry of Time
@@ -138,7 +138,8 @@ books:
     pages: 335
     isbn: 166804515X
     isbn13: "9781668045152"
-    cover_url: https://m.media-amazon.com/images/I/815cmu+fEGL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/61259819/485c370f5b413a0b672bce0a4f2e40de98facb79.jpeg
     reading: false
     url: https://hardcover.app/books/the-ministry-of-time
   - title: "A Year of Nothing: As heard on BBC Woman’s Hour"
@@ -150,7 +151,7 @@ books:
     pages: 0
     isbn: "1917523599"
     isbn13: "9781917523592"
-    cover_url: https://m.media-amazon.com/images/I/71tqdrnvxBL._AC_UY654_QL65_.jpg
+    cover_url: ""
     reading: false
     url: https://hardcover.app/books/a-year-of-nothing-as-heard-on-bbc-woman-s-hour
   - title: Famous
@@ -344,7 +345,7 @@ books:
     pages: 0
     isbn: "2330203594"
     isbn13: "9782330203597"
-    cover_url: https://m.media-amazon.com/images/I/618aujrui3L._AC_UY654_QL65_.jpg
+    cover_url: ""
     reading: false
     url: https://hardcover.app/books/la-pommeraie
   - title: Coup de vent
@@ -356,7 +357,7 @@ books:
     pages: 263
     isbn: "2351787862"
     isbn13: "9782351787861"
-    cover_url: https://m.media-amazon.com/images/I/71rTGFtQgpL._AC_UY654_QL65_.jpg
+    cover_url: ""
     reading: false
     url: https://hardcover.app/books/coup-de-vent
   - title: Ma vie sans moustache
@@ -380,7 +381,7 @@ books:
     pages: 68
     isbn: "2021597113"
     isbn13: "9782021597110"
-    cover_url: https://m.media-amazon.com/images/I/71BapQlaIGL._AC_UY654_QL65_.jpg
+    cover_url: ""
     reading: false
     url: https://hardcover.app/books/la-baie
   - title: La vie de ma mère !
@@ -392,7 +393,7 @@ books:
     pages: 207
     isbn: "2330186533"
     isbn13: "9782330186531"
-    cover_url: https://m.media-amazon.com/images/I/71M+lew26+L._AC_UY654_QL65_.jpg
+    cover_url: ""
     reading: false
     url: https://hardcover.app/books/la-vie-de-ma-mere-2024
   - title: "Blank Space: A Cultural History of the Twenty-First Century"
