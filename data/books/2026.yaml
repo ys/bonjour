@@ -342,10 +342,11 @@ books:
     date: 2026-08-31
     read: 2026-08-31
     rating: 5
-    pages: 0
+    pages: 272
     isbn: "2330203594"
     isbn13: "9782330203597"
-    cover_url: https://m.media-amazon.com/images/I/618aujrui3L._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/4212134/a8f81d25d702d9875997853a18036666938499c2.jpeg
     reading: false
     url: https://hardcover.app/books/la-pommeraie
   - title: Coup de vent
@@ -357,7 +358,8 @@ books:
     pages: 263
     isbn: "2351787862"
     isbn13: "9782351787861"
-    cover_url: https://m.media-amazon.com/images/I/71rTGFtQgpL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/4212146/10771c319c48afe41ee8291d412fb56d1d2ce266.jpeg
     reading: false
     url: https://hardcover.app/books/coup-de-vent
   - title: Ma vie sans moustache
@@ -367,9 +369,9 @@ books:
     read: 2026-08-12
     rating: 4
     pages: 297
-    isbn: ""
-    isbn13: ""
-    cover_url: ""
+    isbn: "2226503943"
+    isbn13: "9782226503947"
+    cover_url: https://m.media-amazon.com/images/I/714LxmLszfL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/ma-vie-sans-moustache
   - title: La Baie
@@ -381,7 +383,8 @@ books:
     pages: 68
     isbn: "2021597113"
     isbn13: "9782021597110"
-    cover_url: https://m.media-amazon.com/images/I/71BapQlaIGL._AC_UY654_QL65_.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/4101744/f2f7e5a7e7ebea5f98e1e5db59230993af130288.jpeg
     reading: false
     url: https://hardcover.app/books/la-baie
   - title: La vie de ma mère !
@@ -393,7 +396,8 @@ books:
     pages: 207
     isbn: "2330186533"
     isbn13: "9782330186531"
-    cover_url: ""
+    cover_url: >-
+      https://assets.hardcover.app/external_data/4101749/b6df92afd4fccd1aa9ab1c955eed3f345802eec0.jpeg
     reading: false
     url: https://hardcover.app/books/la-vie-de-ma-mere-2024
   - title: "Blank Space: A Cultural History of the Twenty-First Century"
