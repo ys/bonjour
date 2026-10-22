@@ -167,9 +167,9 @@
             "release_date": "2013-09-17"
           },
           "book": {
-            "title": "Wayward Pines",
+            "title": "Wayward",
             "subtitle": "Salaisuus",
-            "slug": "wayward-pines-2013",
+            "slug": "wayward-salaisuus-2013",
             "contributions": [
               {
                 "author": {
@@ -12249,7 +12249,7 @@
           "edition": {
             "isbn_10": "2330203594",
             "isbn_13": "9782330203597",
-            "pages": null,
+            "pages": 272,
             "release_date": "2025-03-05"
           },
           "book": {
@@ -12268,7 +12268,9 @@
                 }
               }
             ],
-            "image": null
+            "image": {
+              "url": "https://assets.hardcover.app/external_data/4212134/a8f81d25d702d9875997853a18036666938499c2.jpeg"
+            }
           }
         },
         {
@@ -12300,7 +12302,9 @@
                 }
               }
             ],
-            "image": null
+            "image": {
+              "url": "https://assets.hardcover.app/external_data/4212146/10771c319c48afe41ee8291d412fb56d1d2ce266.jpeg"
+            }
           }
         },
         {
@@ -12389,8 +12393,8 @@
             }
           ],
           "edition": {
-            "isbn_10": null,
-            "isbn_13": null,
+            "isbn_10": "2226503943",
+            "isbn_13": "9782226503947",
             "pages": 297,
             "release_date": null
           },
@@ -12437,7 +12441,9 @@
                 }
               }
             ],
-            "image": null
+            "image": {
+              "url": "https://assets.hardcover.app/external_data/4101744/f2f7e5a7e7ebea5f98e1e5db59230993af130288.jpeg"
+            }
           }
         },
         {
@@ -12469,7 +12475,9 @@
                 }
               }
             ],
-            "image": null
+            "image": {
+              "url": "https://assets.hardcover.app/external_data/4101749/b6df92afd4fccd1aa9ab1c955eed3f345802eec0.jpeg"
+            }
           }
         },
         {
