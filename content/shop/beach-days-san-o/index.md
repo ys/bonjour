@@ -1,7 +1,7 @@
 ---
 color: "yellow"
 title: "Beach Days - San O"
-description: "The beach at San Onofre in black and white: bluffs, palm trees and old cars on the sand. Signed and framed 40x60cm Beach Days print on Hahnemühle Bamboo."
+description: "“San O”: the beach at San Onofre in black and white: bluffs, palm trees and old cars on the sand. Signed, framed 40x60cm Beach Days print."
 date: 2025-07-22T00:02:00
 emoji: "🌞"
 grid: "cover"

@@ -1,7 +1,7 @@
 ---
 color: "yellow"
 title: "Beach Days - Wall contemplation"
-description: "Surfers resting in the sun next to a row of colourful boards, hills behind. Signed and framed 30x45cm Beach Days print on Hahnemühle Bamboo."
+description: "“Wall contemplation”: surfers resting in the sun next to a row of colourful boards, hills behind. Signed, framed 30x45cm Beach Days print."
 date: 2025-07-22T00:01:00
 emoji: "🌞"
 grid: "cover"
