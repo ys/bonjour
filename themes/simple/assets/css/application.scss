@@ -187,6 +187,79 @@ footer ul li:not(:last-child):after {
   }
 }
 
+// Justified rows: same height per row, reading order left to right
+.justified-container {
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  padding: 0.5rem;
+
+  @media (min-width: 768px) {
+    gap: 0.75rem;
+    padding: 1rem;
+  }
+
+  @media (min-width: 1024px) {
+    gap: 1.25rem;
+    padding: 1.25rem;
+  }
+
+  // keeps the last row from stretching
+  &::after {
+    content: "";
+    flex-grow: 999999;
+  }
+}
+
+.justified-item {
+  flex-basis: 100%;
+
+  @media (min-width: 640px) {
+    flex-grow: var(--r);
+    flex-basis: calc(var(--r) * 18rem);
+  }
+
+  @media (min-width: 1024px) {
+    flex-basis: calc(var(--r) * 26rem);
+  }
+
+  @media (min-width: 1536px) {
+    flex-basis: calc(var(--r) * 32rem);
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+}
+
+// Opening image: alone on its row, full height, never cropped
+.justified-item.justified-item--wide {
+  flex-basis: 100%;
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+  margin: 1rem 0;
+
+  > div {
+    width: 100%;
+  }
+
+  @media (min-width: 640px) {
+    > div {
+      width: auto;
+    }
+
+    picture {
+      height: 85vh;
+      width: auto;
+    }
+  }
+}
+
 .masonry-container img {
   width: 100%;
   height: auto;

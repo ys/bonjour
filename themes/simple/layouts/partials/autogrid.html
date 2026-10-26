@@ -14,9 +14,20 @@
 {{ end }}
 
 <div data-pswp>
+  {{ if eq .Params.grid "rows" }}
+  <div class="justified-container">
+    {{ range $allimages }}
+      {{ $r := div (float .Image.Width) .Image.Height }}
+      <div class="justified-item{{ if .Image.Params.wide }} justified-item--wide{{ end }}" style="--r: {{ printf "%.4f" $r }}">
+        {{ partial "photo" . }}
+      </div>
+    {{ end }}
+  </div>
+  {{ else }}
   <div class="masonry-container">
     {{ range $allimages }}
       {{ partial "photo" . }}
     {{ end }}
   </div>
+  {{ end }}
 </div>
