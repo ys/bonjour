@@ -1,5 +1,5 @@
 {{ $titleSuffix := $.Site.Params.author.name | default "Yannick Schutz" }}
-{{ $title := printf "%d %s %d - %s" .Date.Day (index .Site.Data.mois (printf "%d" .Date.Month)) .Date.Year $titleSuffix }}
+{{ $title := printf "%d %s %d - %s" .Date.Day (index hugo.Data.mois (printf "%d" .Date.Month)) .Date.Year $titleSuffix }}
 {{ $tags := slice }}
 {{ if isset .Params "tags" }}
 {{ if reflect.IsSlice .Params.tags }}
@@ -69,9 +69,9 @@
 {{- end }}
 {{ if .IsTranslated }}
   {{ range .Translations }}
-    <link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}" />
+    <link rel="alternate" hreflang="{{ .Language.Locale }}" href="{{ .Permalink }}" />
   {{ end }}
-  <link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}" />
+  <link rel="alternate" hreflang="{{ .Language.Locale }}" href="{{ .Permalink }}" />
 {{ end }}
 {{- $images := $.Resources.ByType "image" -}}
 {{- $featured := $images.GetMatch "*feature*" -}}

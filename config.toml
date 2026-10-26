@@ -1,6 +1,6 @@
 title = "Bonjour Yannick"
 theme = "simple"
-languageCode = "en-US"
+locale = "en-US"
 RemovePathAccents = true
 timeout = 200000
 enableRobotsTXT = true
@@ -108,13 +108,9 @@ disableKinds = ["taxonomy", "term"]
   baseName = "feed"
   isPlainText = true
 
-[outputFormats.SearchIndex]
-  baseName = "search"
-  mediaType = "application/json"
-
 [outputs]
   home = [ "html", "rss", "jsonfeed" ]
-  section = [ "html", "rss", "jsonfeed", "SearchIndex" ]
+  section = [ "html", "rss", "jsonfeed" ]
   page = [ "html"]
 
 [related]

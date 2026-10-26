@@ -9,7 +9,7 @@
 {{ define "full" }}
   <div class="w-full px-4 mb-8">
     {{/* Show currently reading books first */}}
-    {{ with .Site.Data.books.current }}
+    {{ with hugo.Data.books.current }}
       {{ if .books }}
         <div class="py-8">
           <header class="my-4 flex flex-row items-center">
@@ -74,7 +74,7 @@
 
     {{/* Show books by year */}}
     {{ $booksData := slice }}
-    {{ range $key, $value := .Site.Data.books }}
+    {{ range $key, $value := hugo.Data.books }}
       {{ if $value.year }}
         {{ $booksData = $booksData | append $value }}
       {{ end }}

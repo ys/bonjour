@@ -19,7 +19,7 @@
                 {{ with .Params.pricetag }}
                   {{ . | markdownify }}
                 {{ else }}
-                  {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }}
+                  {{ .Date.Day }} {{ index hugo.Data.mois (printf "%d" .Date.Month) }}
                 {{ end }}
                </span>
                <span class="hidden group-hover:block">
