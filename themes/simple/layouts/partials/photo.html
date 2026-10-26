@@ -22,6 +22,8 @@
       {{- $altText := "" -}}
       {{- if .Description -}}
         {{ $altText = .Description }}
+      {{- else if ne $src.Title $src.Name -}}
+        {{ $altText = $src.Title }}
       {{- else if .Page -}}
         {{- $filename := $src.Name | path.Base | replaceRE "\\.[^.]+$" "" | humanize | title -}}
         {{ $altText = printf "%s - %s" .Page.Title $filename }}
