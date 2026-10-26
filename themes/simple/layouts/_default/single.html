@@ -1,8 +1,10 @@
+{{ define "title" }}{{ if .Params.hideTitle }}<h1 class="sr-only">{{ .Params.h1 | default .Title }}</h1>{{ end }}{{ end }}
+
 {{ define "main" }}
 <article class="h-entry">
   {{ if not .Params.hideTitle }}
   <header class="max-w-2xl mx-auto mb-12 text-center">
-    <h1 class="font-serif text-[28px] font-normal leading-tight text-ink dark:text-white mb-2">{{ .Title }}</h1>
+    <h1 class="font-serif text-[28px] font-normal leading-tight text-ink dark:text-white mb-2">{{ .Params.h1 | default .Title }}</h1>
     {{ with .Params.subtitle }}
       <p class="font-serif italic text-base text-gray-500 dark:text-gray-400">{{ . }}</p>
     {{ end }}
@@ -21,7 +23,7 @@
     {{ partial "category-link" . }}
     {{ .Site.Params.arrow }}
     <a href="{{ .RelPermalink }}">
-      <time class="dt-published" datetime="{{ .Date.Format "2006-01-02t15:04:05z0700" }}">
+      <time class="dt-published" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
         {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
       </time>
     </a>

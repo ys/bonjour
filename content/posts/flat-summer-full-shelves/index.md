@@ -1,4 +1,5 @@
 ---
+locale: en_US
 date: 2026-08-21
 title: "Flat summer, full shelves"
 subtitle: "Mostly T. Adler books. Surf, houses and California before the crowds."

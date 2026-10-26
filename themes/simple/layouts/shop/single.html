@@ -1,3 +1,5 @@
+{{ define "title" }}{{ "" }}{{ end }}
+
 {{ define "main" }}
 <div id="thanksdiv"
     class="text-lg my-4 flex hidden justify-around w-full items-center border border-cascade-600 bg-cascade-100 relative text-cascade-600 py-3 px-3 rounded-xs shadow-lg">
@@ -5,7 +7,7 @@
       Merci pour cet achat, #SHIPPING_NAME#!
     </div>
 </div>
-<div data-pswp class=" lg:grid lg:grid-cols-2 mb-10 gap-8 content-{{  $.Scratch.Get "color" }}">
+<div data-pswp class="flex flex-col lg:grid lg:grid-cols-2 mb-10 gap-8 content-{{  $.Scratch.Get "color" }}">
   {{ with .Params.grid }}
     <div  class="photogrid">
       {{ $rowsslice := split . "/" }}
@@ -36,14 +38,16 @@
       {{ partial "grid" $rows }}
     </div>
   {{ end }}
-  <div  class="font-sans prose dark:prose-invert mt-8">
+  <div  class="font-sans prose dark:prose-invert order-first lg:order-none lg:mt-8">
+    <h1 class="font-serif font-normal text-[28px] leading-tight mb-1">{{ .Title }}</h1>
+    {{ with .Params.subtitle }}<p class="font-serif italic text-base text-gray-500 dark:text-gray-400 mt-0">{{ . }}</p>{{ end }}
     {{ if .Params.price }}
       <span class="font-bold text-lg font-sans" id="price-label" data-pricetag="{{ .Params.pricetag }}">{{ if .Params.soldout}}Sold out{{ else }}{{ .Params.pricetag }}{{ end }}</span>
       <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
       <form action="" class="mt-4 dark:prose" method="post" id="stripe-form{{ if .Params.soldout }}-nope{{ end }}">
         <div class="flex justify-between">
         {{ if .Params.price_ids }}
-        <select required name="price_id">
+        <select required name="price_id" aria-label="Option">
           <option selected="selected" disabled="disabled" value="">Select an option</option>
         {{ range .Params.price_ids }}
           <option value="{{.value}}" >{{.name}}</option>
@@ -63,7 +67,7 @@
         {{ if $shippingRates }}
           <div>
             <label class="prose dark:prose-invert" for="shipping_rate">Shipping:</label>
-            <select required name="shipping_rate">
+            <select required name="shipping_rate" id="shipping_rate" aria-label="Shipping destination">
               <option selected="selected" disabled="disabled" value="">Pick your location</option>
             {{ range $shippingRates }}
               <option value="{{.value}}" >{{.name}}</option>
@@ -89,6 +93,7 @@
       </form>
 
       <div id="error-message"></div>
+      <p class="text-xs text-gray-500 dark:text-gray-400">Shipping, returns and 14-day withdrawal: see the <a href="/cgv/">terms of sale</a> (in French). VAT not applicable, art. 293 B du CGI.</p>
 
     {{ end }}
     {{.Content}}

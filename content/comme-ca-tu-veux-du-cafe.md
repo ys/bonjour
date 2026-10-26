@@ -1,4 +1,5 @@
 ---
+locale: fr_FR
 color: red
 title: "Comme ça, tu veux du café?"
 date: 2023-12-05

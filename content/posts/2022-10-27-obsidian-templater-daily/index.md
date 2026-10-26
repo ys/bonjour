@@ -1,4 +1,5 @@
 ---
+locale: en_US
 title: "Obsidian daily"
 emoji: "💎"
 archived: true

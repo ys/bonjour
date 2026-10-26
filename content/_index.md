@@ -1,5 +1,6 @@
 ---
 title: "Bonjour, I am Yannick"
+h1: "Yannick Schutz, documentary and lifestyle photographer in Finistère, Brittany"
 seotitle: "Yannick Schutz - Photographer from Finistère, France"
 description: "Documentary and lifestyle photographer based in Finistère, France. Available worldwide."
 color: yellow

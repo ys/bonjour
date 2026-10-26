@@ -1,4 +1,5 @@
-{{ $title := printf "%d %s %d - %s" .Date.Day (index .Site.Data.mois (printf "%d" .Date.Month)) .Date.Year $.Site.Title }}
+{{ $titleSuffix := $.Site.Params.author.name | default "Yannick Schutz" }}
+{{ $title := printf "%d %s %d - %s" .Date.Day (index .Site.Data.mois (printf "%d" .Date.Month)) .Date.Year $titleSuffix }}
 {{ $tags := slice }}
 {{ if isset .Params "tags" }}
 {{ if reflect.IsSlice .Params.tags }}
@@ -10,7 +11,7 @@
 {{ if .Params.seotitle }}
   {{ $title = .Params.seotitle }}
 {{ else if .Title }}
-  {{ $title = printf "%s - %s" .Title $.Site.Title }}
+  {{ $title = printf "%s - %s" .Title $titleSuffix }}
 {{ end }}
 {{ $flexokiHex := dict "red" "#D14D41" "orange" "#DA702C" "yellow" "#D0A215" "green" "#879A39" "cyan" "#3AA99F" "blue" "#4385BE" "purple" "#8B7EC8" "magenta" "#CE5D97" }}
 {{ $colorHex := index $flexokiHex ($.Scratch.Get "color") | default "#100F0F" }}
@@ -19,9 +20,9 @@
 {{- if .Description -}}
   {{ $description = .Description }}
 {{- else if .Summary -}}
-  {{ $description = .Summary | plainify | replaceRE "\n" " " | replaceRE "\\s+" " " | strings.TrimSpace }}
+  {{ $description = .Summary | plainify | htmlUnescape | replaceRE "\n" " " | replaceRE "\\s+" " " | strings.TrimSpace }}
 {{- else if .Content -}}
-  {{- $firstPara := findRE "(?s)^.*?[.!?]\\s" (.Content | plainify | replaceRE "\n" " " | replaceRE "\\s+" " ") 1 -}}
+  {{- $firstPara := findRE "(?s)^.*?[.!?]\\s" (.Content | plainify | htmlUnescape | replaceRE "\n" " " | replaceRE "\\s+" " ") 1 -}}
   {{- if $firstPara -}}
     {{ $description = index $firstPara 0 | strings.TrimSpace }}
   {{- end -}}
@@ -29,11 +30,12 @@
 {{- if not $description -}}
   {{ $description = .Site.Params.description | default "" }}
 {{- end -}}
-{{ $description = $description | truncate 160 }}
+{{ $description = $description | truncate 160 | htmlUnescape }}
+{{ $lang := .Param "locale" | default "en_US" | replaceRE "_" "-" }}
 
 <title>{{ $title }}</title>
 <meta name="theme-color" content="#F1EBDC" />
-{{ if in .Site.Params.doNotIndex .Type }}
+{{ if or (in .Site.Params.doNotIndex .Type) (eq .Kind "404") (eq .Path "/404") }}
     <meta name="robots" content="noindex, nofollow">
 {{ else }}
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
@@ -51,6 +53,14 @@
 <link rel="canonical" href="{{ .Params.canonical | default .Permalink }}" />
 <meta name="author" content="{{ .Site.Params.author.name | default "Yannick Schutz" }}" />
 <meta name="p:domain_verify" content="{{ .Site.Params.pinterestVerify }}" />
+{{- with .Params.alternate -}}
+  {{- range $locale, $path := . }}
+{{- /* Hugo lowercases front matter keys: rebuild fr_fr as fr-FR */ -}}
+{{- $parts := split $locale "_" }}
+<link rel="alternate" hreflang="{{ index $parts 0 }}{{ with index $parts 1 }}-{{ upper . }}{{ end }}" href="{{ $path | absURL }}" />
+  {{- end }}
+<link rel="alternate" hreflang="{{ $lang }}" href="{{ $.Permalink }}" />
+{{- end }}
 {{ if .IsTranslated }}
   {{ range .Translations }}
     <link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}" />
@@ -62,314 +72,255 @@
 {{- $featured := cond (ne $featured nil) $featured ($images.GetMatch "{*cover*,*thumbnail*}") -}}
 {{- $card := $images.GetMatch "card*" -}}
 {{- $ogImage := cond (ne $card nil) $card $featured -}}
-{{- $ogImage = cond (ne $ogImage nil) $ogImage (index ($.Site.Params.images | default slice) 0) -}}
+{{- $imageURL := "" -}}
+{{- with $ogImage -}}
+  {{- $imageURL = .Permalink -}}
+{{- else -}}
+  {{- with $.Site.Params.images -}}{{- $imageURL = index . 0 | absURL -}}{{- end -}}
+{{- end -}}
 
-<script type="application/ld+json">
-[
-{{ if and (eq .Type "shop") .IsPage}}
-{
-"@context": "https://schema.org/",
-"@type": "Product",
-"name": {{ $title | jsonify }},
-"headline": {{ $title | jsonify }},
-"description": {{ $description | jsonify }},
-"inLanguage": "{{.Lang}}",
-{{- with $featured -}}
-"image": {
-  "@type": "ImageObject",
-  "url": {{ .Permalink | jsonify }},
-  "width": {{ .Width | default 1200 }},
-  "height": {{ .Height | default 630 }}
-},
-{{- else -}}
-{{- with $ogImage -}}
-{{- if eq (printf "%T" .) "string" -}}
-"image": {{ . | absURL | jsonify }},
-{{- else -}}
-"image": {{ . | jsonify }},
-{{- end -}}
-{{- end -}}
-{{- end -}}
-"offers": {
-  "@type": "Offer",
-  "priceCurrency": {{ .Params.currency | default "EUR" | jsonify }},
-  "price": "{{.Params.price }}",
-  "priceValidUntil": "2029-11-05",
-  "availability": "{{ if .Params.soldout }}http://schema.org/SoldOut{{ else }}http://schema.org/InStock{{ end }}",
-  "url": {{ .Permalink | jsonify }},
-  "seller": {
-    "@type": "Person",
-    "name": {{ $.Site.Params.author.name | default "Yannick Schutz" | jsonify }}
-  }
-},
-"brand": {
-  "@type": "Brand",
-  "name": {{ $.Site.Title | jsonify }}
-}
-{{- /* Add Review/Rating schema if ratings exist */ -}}
-{{- if or .Params.rating .Params.reviews -}}
-,
-"aggregateRating": {
-  "@type": "AggregateRating",
-  "ratingValue": {{ .Params.rating | default 5 | jsonify }},
-  "reviewCount": {{ .Params.reviews | default 1 | jsonify }},
-  "bestRating": "5",
-  "worstRating": "1"
-}
-{{- end -}}
-}
-{{ else }}
-{
-"@context": "https://schema.org",
-{{- /* Map categories to article types */ -}}
-{{- $articleType := "BlogPosting" -}}
-{{- if .Params.categories -}}
-  {{- if in .Params.categories "voyages" -}}
-    {{- $articleType = "TravelArticle" -}}
-  {{- else if in .Params.categories "journal" -}}
-    {{- $articleType = "BlogPosting" -}}
-  {{- else -}}
-    {{- $articleType = "Article" -}}
-  {{- end -}}
-{{- end -}}
-"@type": {{ $articleType | jsonify }},
-"mainEntityOfPage": {
-  "@type": "WebPage",
-  "@id": {{ .Permalink | jsonify }}
-},
-"articleSection": {{ .Section | jsonify }},
-"name": {{ $title | jsonify }},
-"headline": {{ $title | jsonify }},
-"description": {{ $description | jsonify }},
-"inLanguage": "{{.Lang}}",
-{{- with $featured -}}
-"image": {
-  "@type": "ImageObject",
-  "url": {{ .Permalink | jsonify }},
-  "width": {{ .Width | default 1200 }},
-  "height": {{ .Height | default 630 }}
-},
-{{- else -}}
-{{- with $ogImage -}}
-"image": {{ . | absURL | jsonify }},
-{{- end -}}
-{{- end -}}
-"author": {
-  "@type": "Person",
-  "name": {{ $.Site.Params.author.name | default "Yannick Schutz" | jsonify }},
-  "url": {{ $.Site.BaseURL | jsonify }},
-  {{- with $.Site.Params.social.email -}}
-  "email": {{ . | jsonify }},
-  {{- end -}}
-  {{- with $.Site.Params.social.instagram -}}
-  "sameAs": ["https://instagram.com/{{ . }}"]
-  {{- end -}}
-},
-"publisher": {
-  "@type": "Person",
-  "name": {{ $.Site.Params.author.name | default "Yannick Schutz" | jsonify }},
-  "url": {{ $.Site.BaseURL | jsonify }}
-},
-"copyrightHolder": {
-  "@type": "Person",
-  "name": {{ $.Site.Params.author.name | default "Yannick Schutz" | jsonify }}
-},
-"copyrightYear": "{{ .Date.Format "2006" }}",
-"datePublished": {{ .Date.Format "2006-01-02T15:04:05Z07:00" | jsonify }},
-"dateModified": {{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" | jsonify }},
-"url": {{ .Permalink | jsonify }},
-"wordCount": {{ .WordCount }},
-{{- if $tags -}}
-"keywords": {{ if reflect.IsSlice .Params.tags }}{{ .Params.tags | jsonify }}{{ else }}{{ split $tags ", " | jsonify }}{{ end }},
-{{- end -}}
-"breadcrumb": {
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": {{ $.Site.BaseURL | jsonify }}
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": {{ .Section | title | jsonify }},
-      "item": {{ ($.Site.GetPage .Section).Permalink | jsonify }}
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": {{ .Title | jsonify }},
-      "item": {{ .Permalink | jsonify }}
-    }
-  ]
-}
-{{- /* Add geo-location data for travel/location posts */ -}}
-{{- $locationTags := slice "californie" "bretagne" "france" "belgium" "maroc" "lanzarote" "yosemite" "joshua-tree" "palm-springs" "los-angeles" "san-francisco" -}}
-{{- $hasLocation := false -}}
-{{- $locationName := "" -}}
-{{- range $locationTags -}}
-  {{- if or (in $.Params.tags .) (in $.Params.categories .) (findRE . $.Title) -}}
-    {{- $hasLocation = true -}}
-    {{- $locationName = . | title -}}
-    {{- break -}}
-  {{- end -}}
-{{- end -}}
-{{- if $hasLocation -}},
-"contentLocation": {
-  "@type": "Place",
-  "name": {{ $locationName | jsonify }}{{ if eq $locationName "Californie" }},
-  "address": {
-    "@type": "PostalAddress",
-    "addressRegion": "California",
-    "addressCountry": "US"
-  }{{ else if or (eq $locationName "Bretagne") (eq $locationName "France") }},
-  "address": {
-    "@type": "PostalAddress",
-    "addressRegion": {{ $locationName | jsonify }},
-    "addressCountry": "FR"
-  }{{ else if eq $locationName "Maroc" }},
-  "address": {
-    "@type": "PostalAddress",
-    "addressCountry": "MA"
-  }{{ end }}
-}
-{{- end -}}
-}
-{{ end }}
-{{- /* Add ImageGallery schema for pages with multiple images */ -}}
-{{- if and .IsPage (not (eq .Type "shop")) -}}
-{{- $allImages := .Resources.ByType "image" -}}
-{{- $galleryImages := slice -}}
-{{- range $allImages -}}
-  {{- $isCover := or (hasPrefix .Name "cover") (hasPrefix .Name "card") -}}
-  {{- $isFeature := findRE "feature" .Name -}}
-  {{- if and (not $isCover) (not $isFeature) -}}
-    {{- $galleryImages = $galleryImages | append . -}}
-  {{- end -}}
-{{- end -}}
-{{- if gt (len $galleryImages) 2 -}}
-,
-{
-"@context": "https://schema.org",
-"@type": "ImageGallery",
-"name": {{ $title | jsonify }},
-"description": {{ $description | jsonify }},
-"url": {{ .Permalink | jsonify }},
-"numberOfItems": {{ len $galleryImages }},
-"image": [
-  {{- range $index, $img := first 10 $galleryImages -}}
-  {
-    "@type": "ImageObject",
-    "url": {{ $img.Permalink | jsonify }},
-    "width": {{ $img.Width | default 0 }},
-    "height": {{ $img.Height | default 0 }},
-    "caption": {{ (printf "%s - Image %d" $title (add $index 1)) | jsonify }}
-  }{{ if ne $index (sub (len (first 10 $galleryImages)) 1) }},{{ end }}
-  {{- end -}}
-]
-}
-{{- end -}}
-{{- end -}}
-{{- /* Add VideoObject schema for video content */ -}}
-{{- if .IsPage -}}
-{{- $videos := .Resources.ByType "video" -}}
-{{- $webmFiles := .Resources.Match "*.webm" -}}
-{{- $mp4Files := .Resources.Match "*.mp4" -}}
-{{- $allVideos := $videos | union $webmFiles | union $mp4Files -}}
-{{- if gt (len $allVideos) 0 -}}
-{{- range first 1 $allVideos -}}
-,
-{
-"@context": "https://schema.org",
-"@type": "VideoObject",
-"name": {{ $.Title | jsonify }},
-"description": {{ $description | jsonify }},
-"thumbnailUrl": {{ (cond (ne $featured nil) $featured.Permalink ($.Site.Params.images | default slice | index 0 | absURL)) | jsonify }},
-"uploadDate": {{ $.Date.Format "2006-01-02T15:04:05Z07:00" | jsonify }},
-"contentUrl": {{ .Permalink | jsonify }},
-"embedUrl": {{ .Permalink | jsonify }}
-}
-{{- end -}}
-{{- end -}}
-{{- end -}}
-{{- /* Add FAQ schema if FAQ parameter exists */ -}}
-{{- if .Params.faq -}}
-,
-{
-"@context": "https://schema.org",
-"@type": "FAQPage",
-"mainEntity": [
-  {{- range $index, $faq := .Params.faq -}}
-  {
-    "@type": "Question",
-    "name": {{ $faq.question | jsonify }},
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": {{ $faq.answer | jsonify }}
-    }
-  }{{ if ne $index (sub (len $.Params.faq) 1) }},{{ end }}
-  {{- end -}}
-]
-}
-{{- end -}},
-{
-"@context": "https://schema.org",
-"@type": "Person",
-"name": {{ $.Site.Params.author.name | default "Yannick Schutz" | jsonify }},
-"jobTitle": "Photographer",
-"url": {{ $.Site.BaseURL | jsonify }},
+{{- /* JSON-LD: build one @graph as data and serialise it once. Values must not be
+       piped through jsonify individually inside the script tag, or html/template
+       escapes them a second time. */ -}}
+{{- $authorName := $.Site.Params.author.name | default "Yannick Schutz" -}}
+{{- $home := $.Site.Home.Permalink -}}
+{{- $personRef := dict "@id" (printf "%s#person" $home) -}}
+{{- $websiteRef := dict "@id" (printf "%s#website" $home) -}}
 {{- $sameAs := slice -}}
 {{- with $.Site.Params.social.instagram -}}{{- $sameAs = $sameAs | append (printf "https://instagram.com/%s" .) -}}{{- end -}}
 {{- with $.Site.Params.social.twitter -}}{{- $sameAs = $sameAs | append (printf "https://twitter.com/%s" .) -}}{{- end -}}
 {{- with $.Site.Params.social.github -}}{{- $sameAs = $sameAs | append (printf "https://github.com/%s" .) -}}{{- end -}}
 {{- with $.Site.Params.social.mastodon -}}{{- $sameAs = $sameAs | append (printf "https://%s/@%s" .domain .username) -}}{{- end -}}
-{{- if gt (len $sameAs) 0 -}}
-"sameAs": {{ $sameAs | jsonify }},
+{{- $person := dict
+  "@type" "Person"
+  "@id" (printf "%s#person" $home)
+  "name" $authorName
+  "url" $home
+  "jobTitle" "Photographer"
+  "description" $.Site.Params.description
+  "address" (dict "@type" "PostalAddress" "addressRegion" "Finistère" "addressCountry" "FR")
+  "sameAs" $sameAs
+-}}
+{{- with $.Site.Params.social.email -}}{{- $person = merge $person (dict "email" .) -}}{{- end -}}
+{{- $website := dict
+  "@type" "WebSite"
+  "@id" (printf "%s#website" $home)
+  "url" $home
+  "name" $.Site.Title
+  "description" $.Site.Params.description
+  "inLanguage" ($.Site.Language.Locale | default "en-US")
+  "publisher" $personRef
+-}}
+{{- $graph := slice $person $website -}}
+
+{{- /* Breadcrumb from the page's ancestors (nearest first), for regular pages only */ -}}
+{{- $crumbs := slice -}}
+{{- if .IsPage -}}
+  {{- $trail := slice -}}
+  {{- range .Ancestors -}}{{- $trail = $trail | append . -}}{{- end -}}
+  {{- $pos := 0 -}}
+  {{- range $i, $_ := $trail -}}
+    {{- $p := index $trail (sub (sub (len $trail) 1) $i) -}}
+    {{- $pos = add $pos 1 -}}
+    {{- $name := cond $p.IsHome "Home" ($p.LinkTitle | default $p.Title) -}}
+    {{- $crumbs = $crumbs | append (dict "@type" "ListItem" "position" $pos "name" $name "item" $p.Permalink) -}}
+  {{- end -}}
+  {{- $crumbs = $crumbs | append (dict "@type" "ListItem" "position" (add $pos 1) "name" .Title "item" .Permalink) -}}
 {{- end -}}
-"address": {
-  "@type": "PostalAddress",
-  "addressRegion": "Finistère",
-  "addressCountry": "FR"
-},
-{{- with $.Site.Params.social.email -}}
-"email": {{ . | jsonify }},
+
+{{- if and (eq .Type "shop") .IsPage -}}
+  {{- $productImages := slice -}}
+  {{- with $featured -}}{{- $productImages = $productImages | append .Permalink -}}{{- end -}}
+  {{- range first 4 ($images.Match "*.webp") -}}
+    {{- if not (in $productImages .Permalink) -}}{{- $productImages = $productImages | append .Permalink -}}{{- end -}}
+  {{- end -}}
+  {{- if and (not $productImages) $imageURL -}}{{- $productImages = slice $imageURL -}}{{- end -}}
+  {{- $offer := dict
+    "@type" "Offer"
+    "priceCurrency" (.Params.currency | default "EUR")
+    "price" (printf "%.2f" (float (trim (string (.Params.price | default 0)) " €")))
+    "availability" (cond (.Params.soldout | default false) "https://schema.org/OutOfStock" "https://schema.org/InStock")
+    "itemCondition" "https://schema.org/NewCondition"
+    "url" .Permalink
+    "seller" $personRef
+  -}}
+  {{- $product := dict
+    "@type" "Product"
+    "@id" (printf "%s#product" .Permalink)
+    "name" .Title
+    "description" $description
+    "url" .Permalink
+    "sku" (path.Base (strings.TrimSuffix "/" .RelPermalink))
+    "brand" (dict "@type" "Brand" "name" $.Site.Title)
+    "offers" $offer
+  -}}
+  {{- with $productImages -}}{{- $product = merge $product (dict "image" .) -}}{{- end -}}
+  {{- /* Only emit ratings backed by real data: both values must be set */ -}}
+  {{- if and .Params.rating .Params.reviews -}}
+    {{- $product = merge $product (dict "aggregateRating" (dict "@type" "AggregateRating" "ratingValue" .Params.rating "reviewCount" .Params.reviews "bestRating" 5 "worstRating" 1)) -}}
+  {{- end -}}
+  {{- $graph = $graph | append $product -}}
+{{- else if eq .Type "work" -}}
+  {{- $service := dict
+    "@type" "ProfessionalService"
+    "@id" (printf "%s#business" $home)
+    "name" (printf "%s, photographer" $authorName)
+    "url" .Permalink
+    "description" $description
+    "founder" $personRef
+    "areaServed" (slice
+      (dict "@type" "AdministrativeArea" "name" "Finistère")
+      (dict "@type" "AdministrativeArea" "name" "Bretagne")
+      (dict "@type" "Country" "name" "France")
+    )
+    "address" (dict "@type" "PostalAddress" "addressLocality" "Berrien" "postalCode" "29690" "addressRegion" "Bretagne" "addressCountry" "FR")
+    "knowsAbout" (slice "Documentary photography" "Lifestyle photography" "Film photography" "Surf photography")
+  -}}
+  {{- with $.Site.Params.social.email -}}{{- $service = merge $service (dict "email" .) -}}{{- end -}}
+  {{- with $imageURL -}}{{- $service = merge $service (dict "image" .) -}}{{- end -}}
+  {{- $graph = $graph | append $service (dict
+    "@type" "WebPage"
+    "@id" .Permalink
+    "url" .Permalink
+    "name" $title
+    "description" $description
+    "inLanguage" $lang
+    "isPartOf" $websiteRef
+    "about" (dict "@id" (printf "%s#business" $home))
+  ) -}}
+{{- else if eq .Type "about" -}}
+  {{- $graph = $graph | append (dict
+    "@type" "ProfilePage"
+    "@id" .Permalink
+    "url" .Permalink
+    "name" $title
+    "description" $description
+    "inLanguage" $lang
+    "isPartOf" $websiteRef
+    "mainEntity" $personRef
+  ) -}}
+{{- else if .IsPage -}}
+  {{- /* Map categories to article types */ -}}
+  {{- $articleType := "BlogPosting" -}}
+  {{- if in .Params.categories "voyages" -}}
+    {{- $articleType = "TravelArticle" -}}
+  {{- end -}}
+  {{- with .Params.schemaType -}}{{- $articleType = . -}}{{- end -}}
+  {{- $article := dict
+    "@type" $articleType
+    "@id" (printf "%s#article" .Permalink)
+    "mainEntityOfPage" .Permalink
+    "url" .Permalink
+    "headline" .Title
+    "name" .Title
+    "description" $description
+    "inLanguage" $lang
+    "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")
+    "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00")
+    "wordCount" .WordCount
+    "author" $personRef
+    "publisher" $personRef
+    "copyrightHolder" $personRef
+    "copyrightYear" (.Date.Format "2006")
+    "isPartOf" $websiteRef
+  -}}
+  {{- with .CurrentSection -}}{{- if not .IsHome -}}{{- $article = merge $article (dict "articleSection" (.LinkTitle | default .Title)) -}}{{- end -}}{{- end -}}
+  {{- with $featured -}}
+    {{- $article = merge $article (dict "image" (dict "@type" "ImageObject" "url" .Permalink "width" .Width "height" .Height)) -}}
+  {{- else -}}
+    {{- with $imageURL -}}{{- $article = merge $article (dict "image" .) -}}{{- end -}}
+  {{- end -}}
+  {{- with .Params.tags -}}
+    {{- $keywords := . -}}
+    {{- if not (reflect.IsSlice .) -}}{{- $keywords = split . "," -}}{{- end -}}
+    {{- $article = merge $article (dict "keywords" $keywords) -}}
+  {{- end -}}
+  {{- /* Geo-location for travel/location posts */ -}}
+  {{- $locationTags := slice "californie" "bretagne" "france" "belgium" "maroc" "lanzarote" "yosemite" "joshua-tree" "palm-springs" "los-angeles" "san-francisco" -}}
+  {{- $locationName := "" -}}
+  {{- range $locationTags -}}
+    {{- if and (not $locationName) (or (in $.Params.tags .) (in $.Params.categories .) (findRE . ($.Title | lower))) -}}
+      {{- $locationName = . | humanize | title -}}
+    {{- end -}}
+  {{- end -}}
+  {{- with $locationName -}}
+    {{- $place := dict "@type" "Place" "name" . -}}
+    {{- if eq . "Californie" -}}
+      {{- $place = merge $place (dict "address" (dict "@type" "PostalAddress" "addressRegion" "California" "addressCountry" "US")) -}}
+    {{- else if or (eq . "Bretagne") (eq . "France") -}}
+      {{- $place = merge $place (dict "address" (dict "@type" "PostalAddress" "addressRegion" . "addressCountry" "FR")) -}}
+    {{- else if eq . "Maroc" -}}
+      {{- $place = merge $place (dict "address" (dict "@type" "PostalAddress" "addressCountry" "MA")) -}}
+    {{- end -}}
+    {{- $article = merge $article (dict "contentLocation" $place) -}}
+  {{- end -}}
+  {{- $graph = $graph | append $article -}}
+
+  {{- /* ImageGallery for pages with several images */ -}}
+  {{- $galleryImages := slice -}}
+  {{- range $images -}}
+    {{- if not (or (hasPrefix .Name "cover") (hasPrefix .Name "card") (findRE "feature" .Name)) -}}
+      {{- $galleryImages = $galleryImages | append . -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if gt (len $galleryImages) 2 -}}
+    {{- $items := slice -}}
+    {{- range first 10 $galleryImages -}}
+      {{- $item := dict "@type" "ImageObject" "contentUrl" .Permalink "url" .Permalink "creator" $personRef "creditText" $authorName "copyrightNotice" (printf "© %s" $authorName) -}}
+      {{- with .Width -}}{{- $item = merge $item (dict "width" .) -}}{{- end -}}
+      {{- with .Height -}}{{- $item = merge $item (dict "height" .) -}}{{- end -}}
+      {{- /* Resource titles default to the file name; only use a real caption */ -}}
+      {{- if ne .Title .Name -}}{{- $item = merge $item (dict "caption" .Title) -}}{{- end -}}
+      {{- $items = $items | append $item -}}
+    {{- end -}}
+    {{- $graph = $graph | append (dict
+      "@type" "ImageGallery"
+      "@id" (printf "%s#gallery" .Permalink)
+      "name" .Title
+      "url" .Permalink
+      "isPartOf" (dict "@id" (printf "%s#article" .Permalink))
+      "numberOfItems" (len $items)
+      "image" $items
+    ) -}}
+  {{- end -}}
+
+  {{- /* VideoObject for video content */ -}}
+  {{- $allVideos := .Resources.ByType "video" | union (.Resources.Match "*.webm") | union (.Resources.Match "*.mp4") -}}
+  {{- with $allVideos -}}
+    {{- $video := index . 0 -}}
+    {{- with $imageURL -}}
+      {{- $thumb := . -}}
+      {{- $graph = $graph | append (dict
+        "@type" "VideoObject"
+        "name" $.Title
+        "description" $description
+        "thumbnailUrl" $thumb
+        "uploadDate" ($.Date.Format "2006-01-02T15:04:05Z07:00")
+        "contentUrl" $video.Permalink
+      ) -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- /* FAQ schema if FAQ parameter exists */ -}}
+  {{- with .Params.faq -}}
+    {{- $questions := slice -}}
+    {{- range . -}}
+      {{- $questions = $questions | append (dict "@type" "Question" "name" .question "acceptedAnswer" (dict "@type" "Answer" "text" .answer)) -}}
+    {{- end -}}
+    {{- $graph = $graph | append (dict "@type" "FAQPage" "mainEntity" $questions) -}}
+  {{- end -}}
+{{- else if not .IsHome -}}
+  {{- $graph = $graph | append (dict
+    "@type" "CollectionPage"
+    "@id" .Permalink
+    "url" .Permalink
+    "name" $title
+    "description" $description
+    "inLanguage" $lang
+    "isPartOf" $websiteRef
+  ) -}}
 {{- end -}}
-"description": {{ $.Site.Params.description | jsonify }}
-}
-{{- if .IsHome -}}
-,
-{
-"@context": "https://schema.org",
-"@type": "WebSite",
-"name": {{ $.Site.Title | jsonify }},
-"url": {{ $.Site.BaseURL | jsonify }},
-"description": {{ $.Site.Params.description | jsonify }},
-"author": {
-  "@type": "Person",
-  "name": {{ $.Site.Params.author.name | default "Yannick Schutz" | jsonify }}
-},
-"publisher": {
-  "@type": "Person",
-  "name": {{ $.Site.Params.author.name | default "Yannick Schutz" | jsonify }}
-},
-{{- with $.Site.Params.social.email -}}
-"contactPoint": {
-  "@type": "ContactPoint",
-  "email": {{ . | jsonify }},
-  "contactType": "customer service"
-},
+{{- with $crumbs -}}
+  {{- $graph = $graph | append (dict "@type" "BreadcrumbList" "itemListElement" .) -}}
 {{- end -}}
-"potentialAction": {
-  "@type": "SearchAction",
-  "target": {
-    "@type": "EntryPoint",
-    "urlTemplate": {{ (printf "%s/search?q={search_term_string}" $.Site.BaseURL) | jsonify }}
-  },
-  "query-input": "required name=search_term_string"
-}
-}
-{{- end -}}
-]
-</script>
+<script type="application/ld+json">{{ dict "@context" "https://schema.org" "@graph" $graph | jsonify | safeJS }}</script>

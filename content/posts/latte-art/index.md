@@ -1,4 +1,5 @@
 ---
+locale: en_US
 color: red
 emoji: "☕"
 favorite: true
@@ -8,7 +9,7 @@ description: "Learning to steam milk with Café Sable and La Marzocco Linea Micr
 resources:
   - src: "*.webp"
 categories:
-- coffee
+- cafe
 tags:
 - linea Micra
 - latte art

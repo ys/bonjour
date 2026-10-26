@@ -1,4 +1,5 @@
 ---
+locale: en_US
 date: 2025-03-10
 title: "On bringing the camera"
 subtitle: "Do one thing at the time and do it well"

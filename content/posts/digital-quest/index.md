@@ -1,4 +1,5 @@
 ---
+locale: en_US
 title: "Digital quest"
 subtitle: "From film to SD cards"
 favorite: true

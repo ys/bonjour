@@ -1,4 +1,5 @@
 ---
+locale: en_US
 title: "Intro"
 emoji: 👀
 hideSubscribe: true

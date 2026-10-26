@@ -1,10 +1,12 @@
 title = "Bonjour Yannick"
 theme = "simple"
+locale = "en-US"
 RemovePathAccents = true
 timeout = 200000
 enableRobotsTXT = true
 canonifyURLs = false
-#disableKinds = ["taxonomyTerm"]
+# Category pages were thin and unlinked; categories stay in front matter for related posts and schema
+disableKinds = ["taxonomy", "term"]
 [security.exec]
   osEnv = [ '(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$', '^ASDF_DIR$', '^HOME$']
 [build]
@@ -13,6 +15,8 @@ canonifyURLs = false
     source = 'hugo_stats\\.json'
     target = 'css'
 [params]
+  locale = "en_US"
+  images = ["card.webp"]
   themePalette = "frappe"
   themeColors = [
     "red",

@@ -1,4 +1,13 @@
 ---
+outputs:
+  - html
+cascade:
+  - locale: fr_FR
+    build:
+      render: never
+      list: local
+    target:
+      kind: page
 color: green
 title: A picture per week in your mailbox
 hideDescription: true

@@ -1,4 +1,5 @@
 ---
+locale: en_US
 date: 2025-02-10
 title: "Morocco with a half frame plastic camera"
 subtitle: "72 shots per roll, lot of fun."

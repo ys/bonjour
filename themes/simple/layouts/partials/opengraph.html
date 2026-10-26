@@ -3,9 +3,9 @@
 {{- if .Description -}}
   {{ $description = .Description }}
 {{- else if .Summary -}}
-  {{ $description = .Summary | plainify | replaceRE "\n" " " | replaceRE "\\s+" " " | strings.TrimSpace }}
+  {{ $description = .Summary | plainify | htmlUnescape | replaceRE "\n" " " | replaceRE "\\s+" " " | strings.TrimSpace }}
 {{- else if .Content -}}
-  {{- $firstPara := findRE "(?s)^.*?[.!?]\\s" (.Content | plainify | replaceRE "\n" " " | replaceRE "\\s+" " ") 1 -}}
+  {{- $firstPara := findRE "(?s)^.*?[.!?]\\s" (.Content | plainify | htmlUnescape | replaceRE "\n" " " | replaceRE "\\s+" " ") 1 -}}
   {{- if $firstPara -}}
     {{ $description = index $firstPara 0 | strings.TrimSpace }}
   {{- end -}}
@@ -13,7 +13,7 @@
 {{- if not $description -}}
   {{ $description = .Site.Params.description | default "" }}
 {{- end -}}
-{{- $description = $description | truncate 200 -}}
+{{- $description = $description | truncate 200 | htmlUnescape -}}
 {{- $images := $.Resources.ByType "image" -}}
 {{- $card := $images.GetMatch "card*" -}}
 {{- $cover := $images.GetMatch "cover*" -}}
@@ -22,14 +22,14 @@
 
 <meta property="og:title" content="{{ .Title }}" />
 <meta property="og:description" content="{{ $description }}" />
-<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
+<meta property="og:type" content="{{ if and .IsPage (eq .Type "shop") }}product{{ else if and .IsPage (ne .Type "about") }}article{{ else if eq .Type "about" }}profile{{ else }}website{{ end }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:site_name" content="{{ .Site.Title }}" />
-<meta property="og:locale" content="{{ .Language.LanguageCode | default "en_US" }}" />
+<meta property="og:locale" content="{{ .Param "locale" | default "en_US" }}" />
 {{ with $ogImage }}
 <meta property="og:image" content="{{ .Permalink }}"/>
 <meta property="og:image:secure_url" content="{{ .Permalink }}"/>
-<meta property="og:image:type" content="image/webp"/>
+<meta property="og:image:type" content="{{ .MediaType.Type }}"/>
 {{- if .Width -}}
 <meta property="og:image:width" content="{{ .Width }}"/>
 {{- end -}}
@@ -56,7 +56,6 @@
 {{- end }}{{/* .IsPage */}}
 
 {{- with .Params.audio }}<meta property="og:audio" content="{{ . }}" />{{ end }}
-{{- with .Params.locale }}<meta property="og:locale" content="{{ . }}" />{{ end }}
 {{- with .Site.Params.title }}<meta property="og:site_name" content="{{ . }}" />{{ end }}
 {{- with .Params.videos }}
 {{- range . }}

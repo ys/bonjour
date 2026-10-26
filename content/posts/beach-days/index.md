@@ -1,4 +1,5 @@
 ---
+locale: en_US
 date: 2025-07-22
 title: "Beach days"
 subtitle: "From California to an exhibition and a zine"

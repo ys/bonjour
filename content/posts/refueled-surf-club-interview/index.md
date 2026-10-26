@@ -1,4 +1,5 @@
 ---
+locale: en_US
 date: 2026-10-06
 title: "Refueled Surf Club Interview"
 subtitle: "If you're new here, I've been meaning to introduce myself. Turns out someone else asked the right questions."

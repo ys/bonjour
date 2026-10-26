@@ -1,4 +1,5 @@
 ---
+locale: en_US
 date: 2025-01-19
 title: "On showing up, failing and learning"
 subtitle: "The tide was low, the waves were bigger"

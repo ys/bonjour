@@ -30,7 +30,7 @@
       class="block relative {{ if .Get "noshadow" }}{{ else }}shadowlg{{ end }} {{ if (and (gt $src.Height $src.Width) (not .Parent)) }}mxauto w2/3{{ end }} img"
       {{ if .Get "nolqip" }}
       {{ else }}
-        style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode }}); backgroundsize: cover"
+        style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode }}); background-size: cover"
       {{ end }}
     >
       {{- /* Generate better alt text: use explicit alt, then caption, then generate from context */ -}}
@@ -52,10 +52,11 @@
         alt="{{ $altText }}"
         class="cursorpointer m0 hauto wfull lazyload"
         {{ if not (.Get "nozoom") }}
-          dataaction="zoom"
+          data-action="zoom"
         {{ end }}
-        datazoomsrc="{{ $src.RelPermalink }}"
+        data-zoom-src="{{ $src.RelPermalink }}"
         src="{{ $small.RelPermalink }}"
+        {{ with partialCached "srcset.html" $src $src.RelPermalink }}srcset="{{ . }}" sizes="(min-width: 768px) 768px, 100vw"{{ end }}
         width="{{ $src.Width }}"
         height="{{ $src.Height }}"
       >
