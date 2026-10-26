@@ -12,15 +12,14 @@
       <span class="px-3 text-gray-300 dark:text-gray-600">·</span>
       <a href="/more" class="hover:text-ink dark:hover:text-white transition-colors">more</a>
     </div>
-    <div class="flex items-center text-[11px] text-gray-400 dark:text-gray-500 tracking-[.04em]">
+    <div class="flex flex-wrap justify-center items-center text-[11px] text-gray-400 dark:text-gray-500 tracking-[.04em]">
       <span>{{ .Site.Params.author.location }}</span>
       <span class="px-2">·</span>
-      <span>{{ .Site.Params.copyright }}</span>
-    </div>
-    <div class="flex items-center text-[11px] text-gray-500 dark:text-gray-400 tracking-[.04em]">
       <a href="/mentions-legales/" class="hover:text-ink dark:hover:text-white transition-colors">mentions légales</a>
       <span class="px-2">·</span>
       <a href="/cgv/" class="hover:text-ink dark:hover:text-white transition-colors">cgv</a>
+      <span class="px-2">·</span>
+      <span>{{ .Site.Params.copyright }}</span>
     </div>
     <a href="#" aria-label="Back to top" class="mt-4 w-7 block text-gray-300 dark:text-gray-700 hover:text-gray-400 hover:rotate-180 transition-all duration-500">
       {{ if fileExists "/static/negative-logo.svg" }}
