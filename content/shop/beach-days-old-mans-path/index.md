@@ -1,6 +1,7 @@
 ---
 color: "yellow"
 title: "Beach Days - Old man's path"
+description: "Cars lined along the dirt road to Old Man's at San Onofre, in black and white. Signed and framed 20x30cm Beach Days print on Hahnemühle Bamboo."
 date: 2025-07-22T00:00:40
 emoji: "🌞"
 grid: "cover"

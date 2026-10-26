@@ -1,6 +1,7 @@
 ---
 color: "yellow"
 title: "Beach Days - Left wall"
+description: "Surfboards leaning against a sunlit wall on the sand, under a deep blue sky. Signed and framed 20x30cm Beach Days print on Hahnemühle Bamboo."
 date: 2025-07-22T00:00:40
 emoji: "🌞"
 grid: "cover"

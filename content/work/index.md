@@ -1,6 +1,6 @@
 ---
 title: "Work with me"
-seotitle: "Documentary & lifestyle photographer in Brittany, France - Yannick Schutz"
+seotitle: "Documentary photographer in Brittany, France - Yannick Schutz"
 description: "Documentary and lifestyle photographer based in Finistère, Brittany. Brand campaigns, lookbooks and editorial stories, mostly on film, in France and worldwide."
 h1: "Documentary and lifestyle photographer in Finistère, Brittany"
 type: work

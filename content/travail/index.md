@@ -1,6 +1,6 @@
 ---
 title: "Travailler ensemble"
-seotitle: "Photographe documentaire et lifestyle dans le Finistère, Bretagne - Yannick Schutz"
+seotitle: "Photographe documentaire, Finistère, Bretagne - Yannick Schutz"
 description: "Photographe documentaire et lifestyle basé dans le Finistère. Campagnes de marque, lookbooks et reportages éditoriaux, surtout en argentique, en Bretagne et ailleurs."
 h1: "Photographe documentaire et lifestyle dans le Finistère, en Bretagne"
 type: work

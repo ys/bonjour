@@ -2,7 +2,7 @@
 color: yellow
 title: 53 - Entorse, Beatles et planche à roulettes
 date: 2024-07-03
-description: 
+description: "Mon premier shooting photo pro, les 30 ans du Blue Album de Weezer, le vinyle signé d'Hermanos Gutiérrez et Ben Harper qui parle skate au Nine Club."
 category:
   - bonjour
 slug: "53"

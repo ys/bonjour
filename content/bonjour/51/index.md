@@ -2,7 +2,7 @@
 color: yellow
 title: 51 - Berbères, Leica & pleins de cafés
 date: 2024-03-16
-description: 
+description: "Retour du Maroc : photos au Leica numérique et mises au point ratées, petits cafés berbères, le rêve d'ouvrir un café et merci pour la pétition de Berrien."
 category:
   - bonjour
 slug: "51"
