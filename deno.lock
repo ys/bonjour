@@ -1,7 +1,16 @@
 {
-  "version": "3",
+  "version": "5",
+  "specifiers": {
+    "jsr:@b-fuze/deno-dom@0.1.48": "0.1.48"
+  },
+  "jsr": {
+    "@b-fuze/deno-dom@0.1.48": {
+      "integrity": "bf5b591aef2e9e9c59adfcbb93a9ecd45bab5b7c8263625beafa5c8f1662e7da"
+    }
+  },
   "redirects": {
-    "https://deno.land/x/url_join/mod.ts": "https://deno.land/x/url_join@1.0.0/mod.ts"
+    "https://deno.land/x/url_join/mod.ts": "https://deno.land/x/url_join@1.0.0/mod.ts",
+    "https://esm.sh/@mixmark-io/domino@^2.2.0?target=denonext": "https://esm.sh/@mixmark-io/domino@2.2.0?target=denonext"
   },
   "remote": {
     "https://cdn.deno.land/mimetypes/versions/v1.0.0/raw/mod.ts": "abd1ea614b32cfa7fd50b46f6e070617696664698b8a34935dc807f3035ad408",
@@ -50,6 +59,10 @@
     "https://deno.land/x/flat@0.0.14/src/zip.ts": "5b8e27106c08751889d627fbbea71bd99f802472c4e9fe9cd9f88dcee9752bd8",
     "https://deno.land/x/lodash@4.17.19/dist/lodash.js": "efa0ecfaf5548e32a16e18d3700436cd146c48b4f3712f095dae6f00100018e5",
     "https://deno.land/x/url_join@1.0.0/mod.ts": "d3c7007e3ab15594e54d5b90dce623b3e274a726e0cdf57858e7ecab77a0166c",
+    "https://esm.sh/@mixmark-io/domino@2.2.0/denonext/domino.mjs": "95e4575255c7b21241dd8dcc66df5e820a92dcc82a7b72cc0f2757559f267ad7",
+    "https://esm.sh/@mixmark-io/domino@2.2.0?target=denonext": "938f0343bd6cd34f0e5267549a8621b222fcb34fb853a92135c8a14dc5aa5618",
+    "https://esm.sh/turndown@7.2.0": "c51cae7fc0858d7a3e2bb3abe1cc974e75d35b6fb8776dc6aded046d778e980d",
+    "https://esm.sh/turndown@7.2.0/denonext/turndown.mjs": "da88bdb387d69e378f2f2da2805ea2bf1c9edb65361400ac57e0c0ad8c426152",
     "https://jspm.dev/npm:@jspm/core@2.0.1/nodelibs/buffer": "f6bd0a893f7d7d48422389dc81a2923809fbd24c2d6352c7f4bdd29dcad7154b",
     "https://jspm.dev/npm:@jspm/core@2.0.1/nodelibs/process": "1d9259731556e49ecd4ce8180667577a1bdc68844dc89a5a1e71d34cad4a455d",
     "https://jspm.dev/npm:@jspm/core@2/nodelibs/buffer": "229bdbb9a5042d5977545e4ff66f49e866bf7103f4df4a7b60af203625ac60b0",
@@ -66,28 +79,28 @@
         "npm:@babel/core@^7.17.9",
         "npm:@babel/preset-env@^7.16.11",
         "npm:@babel/register@^7.17.7",
-        "npm:@catppuccin/tailwindcss@^0.1.6",
+        "npm:@catppuccin/tailwindcss@1",
         "npm:@downwindcss/text-decoration@^1.1.1",
-        "npm:@fullhuman/postcss-purgecss@^4.0.0",
+        "npm:@fullhuman/postcss-purgecss@4",
         "npm:@postlight/mercury-parser@^2.2.1",
         "npm:@postlight/parser@^2.2.3",
-        "npm:@tailwindcss/aspect-ratio@^0.4.2",
-        "npm:@tailwindcss/forms@^0.5.6",
-        "npm:@tailwindcss/line-clamp@^0.4.4",
-        "npm:@tailwindcss/typography@^0.5.10",
-        "npm:autoprefixer@^10.4.15",
+        "npm:@tailwindcss/cli@^4.3.3",
+        "npm:@tailwindcss/forms@~0.5.11",
+        "npm:@tailwindcss/postcss@^4.2.2",
+        "npm:@tailwindcss/typography@~0.5.19",
         "npm:babel-plugin-syntax-object-rest-spread@^6.13.0",
         "npm:babel-plugin-transform-object-rest-spread@^6.26.0",
         "npm:babel-preset-env@^1.7.0",
         "npm:browserless@^10.2.6",
-        "npm:difflib@^0.2.4",
-        "npm:gulp-babel@^8.0.0",
+        "npm:difflib@~0.2.4",
+        "npm:gulp-babel@8",
         "npm:gulp-imagemin@^5.0.3",
         "npm:gulp@^4.0.2",
         "npm:html-get@^2.16.0",
-        "npm:imagemin-jpeg-recompress@^6.0.0",
-        "npm:imagemin-mozjpeg@^8.0.0",
+        "npm:imagemin-jpeg-recompress@6",
+        "npm:imagemin-mozjpeg@8",
         "npm:js-yaml@^3.14.1",
+        "npm:lightningcss@^1.32.0",
         "npm:metascraper-author@^5.44.0",
         "npm:metascraper-clearbit@^5.44.0",
         "npm:metascraper-date@^5.44.0",
@@ -104,10 +117,10 @@
         "npm:postcss@^8.4.31",
         "npm:pupeteer@^0.0.1",
         "npm:puppeteer@^22.2.0",
-        "npm:sharp@^0.33.2",
+        "npm:sharp@~0.33.2",
         "npm:stripe@^8.145.0",
-        "npm:tailwindcss@^3.3.3",
-        "npm:yarn@^1.22.21"
+        "npm:tailwindcss@^4.2.2",
+        "npm:yarn@^1.22.22"
       ]
     }
   }

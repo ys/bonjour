@@ -1,0 +1,35 @@
+name: Substack
+
+on:
+  push:
+    paths:
+      - .github/workflows/substack.yml # Only run a new workflow every time this file changes
+  workflow_dispatch: # Manual trigger
+  schedule:
+    - cron: "0 7 * * 1" # Every Monday at 7am UTC
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+      - name: Setup deno
+        uses: denoland/setup-deno@main
+        with:
+          deno-version: v2.x
+      - name: Install ImageMagick
+        run: sudo apt-get update && sudo apt-get install -y imagemagick webp
+      - name: Import posts older than a week
+        env:
+          MAGICK: convert
+        run: deno run --allow-net --allow-read --allow-write --allow-run --allow-env flat/substack.ts
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add content/posts
+          git diff --staged --quiet || git commit -m "Import posts from Substack"
+          git push
