@@ -48,7 +48,7 @@
 <meta name="msapplication-TileColor" content="#F1EBDC">
 <meta name="description" content="{{ $description }}" />
 {{ if $tags }}<meta name="keywords" content="{{ $tags }}">{{ end }}
-<link rel="canonical" href="{{ .Permalink }}" />
+<link rel="canonical" href="{{ .Params.canonical | default .Permalink }}" />
 <meta name="author" content="{{ .Site.Params.author.name | default "Yannick Schutz" }}" />
 <meta name="p:domain_verify" content="{{ .Site.Params.pinterestVerify }}" />
 {{ if .IsTranslated }}

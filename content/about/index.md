@@ -11,7 +11,7 @@ resources:
   - src: "*.webp"
 menu:
   main:
-    weight: 6
+    weight: 7
 linktitle: "About"
 ---
 
