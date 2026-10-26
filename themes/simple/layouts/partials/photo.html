@@ -50,7 +50,7 @@
               {{ with .Params.pricetag }}
                 {{ . | markdownify }}
               {{ else }}
-                {{ .Date.Day }} {{ index .Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+                {{ .Date.Day }} {{ index hugo.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
               {{ end }}
             </span>
             <h2 class="text-lg font-semibold {{ with .Params.Color }}text-{{ . }} {{ else }}text-accent{{ end }} transition ease-in-out duration-200">

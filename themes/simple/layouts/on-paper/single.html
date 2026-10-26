@@ -7,7 +7,7 @@
 {{end}}
 {{ define "full" }}
 {{ $allimages := slice }}
-{{ range .Site.Data.onpaper }}
+{{ range hugo.Data.onpaper }}
   {{ $src := $.Page.Resources.GetMatch (printf "%s.webp" .img) }}
   {{ if not .hidden }}
     {{ $allimages = $allimages | append (dict "Image" $src "Link" .url ) }}
