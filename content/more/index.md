@@ -11,6 +11,7 @@ This is where you can get the extra bang for your bucks. BTW, if you want to sup
 
 ## Pages not in the menu
 
+- [Work with me](/work/) ⭢ Brand campaigns, lookbooks and editorial stories ([en français](/travail/))
 - [Daily](/daily) ⭢ I love to document my life
 - [Projects](/projects) ⭢ Mostly photography, less words
 - [Haikus](/haikus) ⭢ 5 - 7 - 5. Just some french haikus
