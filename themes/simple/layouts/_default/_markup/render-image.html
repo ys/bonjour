@@ -84,7 +84,7 @@
       {{- $first := eq ($.Page.Store.Get "renderedImages") 1 -}}
       <img {{ if $first }}fetchpriority="high"{{ else }}loading="lazy"{{ end }} alt="{{ $altText }}"
         class="cursor-pointer m-0 h-auto w-full lazyload" data-action="zoom"
-        data-zoom-src="{{ $src.RelPermalink}}" src="{{ $small.RelPermalink }}"
+        data-zoom-src="{{ partialCached "zoomsrc.html" $src $src.RelPermalink }}" src="{{ $small.RelPermalink }}"
         {{ with partialCached "srcset.html" $src $src.RelPermalink }}srcset="{{ . }}" sizes="(min-width: 768px) 768px, 100vw"{{ end }} width="{{ $small.Width }}"
         height="{{ $small.Height }}">
     </picture>

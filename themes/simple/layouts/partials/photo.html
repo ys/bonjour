@@ -36,7 +36,7 @@
         alt="{{ $altText }}"
         class="{{if .Page }}group-hover:opacity-40 {{ end }} hover:shadow-{{ $.Scratch.Get "color" }}/20 shadow-md hover:shadow-xl   cursor-pointer object-cover lazy absolute top-0 left-0 w-full h-full"
         data-action="zoom"
-        data-zoom-src="{{ $src.RelPermalink}}"
+        data-zoom-src="{{ partialCached "zoomsrc.html" $src $src.RelPermalink }}"
         src="{{ $small.RelPermalink }}"
         {{ with partialCached "srcset.html" $src $src.RelPermalink }}srcset="{{ . }}" sizes="{{ $.Sizes | default "(min-width: 1024px) 50vw, 100vw" }}"{{ end }}
         msrc="{{ $lqip.RelPermalink }}"

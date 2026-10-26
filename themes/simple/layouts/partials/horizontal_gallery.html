@@ -43,7 +43,7 @@
               alt="{{ .Description }}"
               class="rmelative hover:shadow-{{ $.Scratch.Get "color" }}/20 shadow-md hover:shadow-xl cursor-pointer lazy"
               data-action="zoom"
-              data-zoom-src="{{ $src.RelPermalink }}"
+              data-zoom-src="{{ partialCached "zoomsrc.html" $src $src.RelPermalink }}"
               src="{{ $lqip.RelPermalink }}"
               msrc="{{ $lqip.RelPermalink }}"
               data-src="{{ $small.RelPermalink }}"

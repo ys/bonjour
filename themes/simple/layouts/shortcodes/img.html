@@ -54,7 +54,7 @@
         {{ if not (.Get "nozoom") }}
           data-action="zoom"
         {{ end }}
-        data-zoom-src="{{ $src.RelPermalink }}"
+        data-zoom-src="{{ partialCached "zoomsrc.html" $src $src.RelPermalink }}"
         src="{{ $small.RelPermalink }}"
         {{ with partialCached "srcset.html" $src $src.RelPermalink }}srcset="{{ . }}" sizes="(min-width: 768px) 768px, 100vw"{{ end }}
         width="{{ $src.Width }}"

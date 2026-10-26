@@ -16,7 +16,10 @@
 					{{- $featured := $images.GetMatch "*feature*" -}}
 					{{- $featured := cond (ne $featured nil) $featured ($images.GetMatch "{*cover*,*thumbnail*}") -}}
 					{{- $featured := cond (ne $featured nil) $featured (index $images 0) -}}
-			  {{ ((dict "id" .Permalink "title" .Title "summary" .Summary "tags" .Params.tags "date_published" (.Date.Format "2006-01-02T15:04:05Z0700" ) "content_html" .Content "content_text" .Plain "url" (.Params.bookmarkOf | default .Permalink) "image" $featured.Permalink) | jsonify ) }}
+					{{- /* 1200px version (already generated for srcset) instead of the full-size original */ -}}
+					{{- $feedImage := "" -}}
+					{{- with $featured -}}{{- if and (gt .Width 1200) (ne .MediaType.SubType "gif") -}}{{- $feedImage = (.Resize "1200x webp").Permalink -}}{{- else -}}{{- $feedImage = .Permalink -}}{{- end -}}{{- end -}}
+			  {{ ((dict "id" .Permalink "title" .Title "summary" .Summary "tags" .Params.tags "date_published" (.Date.Format "2006-01-02T15:04:05Z0700" ) "content_html" .Content "content_text" .Plain "url" (.Params.bookmarkOf | default .Permalink) "image" $feedImage) | jsonify ) }}
 			{{ end }}
     ]
 }
