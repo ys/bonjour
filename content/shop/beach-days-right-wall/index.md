@@ -1,6 +1,7 @@
 ---
 color: "yellow"
 title: "Beach Days - Right wall"
+description: "Colourful surfboards lined up on the sand below the California hills. Signed and framed 20x30cm Beach Days print on Hahnemühle Bamboo."
 date: 2025-07-22T00:00:40
 emoji: "🌞"
 grid: "cover"

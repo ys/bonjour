@@ -1,6 +1,7 @@
 ---
 color: "yellow"
 title: "Beach Days - Let it dry"
+description: "A van parked by the ocean after the session, in black and white. Signed and framed 20x30cm Beach Days print on Hahnemühle Bamboo."
 date: 2025-07-22T00:00:40
 emoji: "🌞"
 grid: "cover"

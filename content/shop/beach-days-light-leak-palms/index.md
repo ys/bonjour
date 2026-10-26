@@ -1,6 +1,7 @@
 ---
 color: "yellow"
 title: "Beach Days - Light leak palms"
+description: "Two palm trees against a blue sky, warmed by a film light leak. Signed and framed 24x30cm Beach Days print on Hahnemühle Bamboo."
 date: 2025-07-22T00:00:20
 emoji: "🌞"
 grid: "cover"

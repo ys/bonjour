@@ -2,7 +2,7 @@
 color: yellow
 title: 52 - Fanfare, bain chaud et reproductions
 date: 2024-05-24
-description: 
+description: "Les Ogres de Barback sous chapiteau, quelques mois avec le Leica M10-P, la quête d'objectifs 35, 50 et 85 mm et les limites du 135 mm pour le surf."
 category:
   - bonjour
 slug: "52"

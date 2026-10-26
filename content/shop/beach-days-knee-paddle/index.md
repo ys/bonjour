@@ -1,6 +1,7 @@
 ---
 color: "yellow"
 title: "Beach Days - Knee paddle"
+description: "A surfer knee-paddling out through the whitewater into a turquoise Pacific. Signed and framed 40x60cm Beach Days print on Hahnemühle Bamboo."
 date: 2025-07-22T00:02:00
 emoji: "🌞"
 grid: "inside"

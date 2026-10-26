@@ -15,6 +15,10 @@
 {{ else if .Title }}
   {{ $title = printf "%s - %s" .Title $titleSuffix }}
 {{ end }}
+{{- /* Google cuts titles around 60 characters: drop the suffix rather than lose the end of the title */ -}}
+{{ if and (gt (strings.RuneCount $title) 65) (strings.HasSuffix $title (printf " - %s" $titleSuffix)) }}
+  {{ $title = strings.TrimSuffix (printf " - %s" $titleSuffix) $title }}
+{{ end }}
 {{ $flexokiHex := dict "red" "#D14D41" "orange" "#DA702C" "yellow" "#D0A215" "green" "#879A39" "cyan" "#3AA99F" "blue" "#4385BE" "purple" "#8B7EC8" "magenta" "#CE5D97" }}
 {{ $colorHex := index $flexokiHex ($.Scratch.Get "color") | default "#100F0F" }}
 {{- /* Generate description: use explicit description, then summary, then first paragraph, then site default */ -}}

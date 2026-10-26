@@ -12,6 +12,7 @@ tags:
 emoji: 💌
 color: red
 
+seotitle: "31 - Des ping, de la respiration et un magnifique zine"
 title: "31 - des ping, de la respiration et un magnifique zine que vous voulez absolument"
 slug: "31"
 ---

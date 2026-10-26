@@ -2,6 +2,7 @@
 archived: true
 color: blue
 title: "Gwidel Log Fest (zine + print)"
+description: "Special edition of the Gwidel Log Fest zine with a limited A5 print, 10 of each. Film photos from the Guidel longboard festival, May 2022."
 subtitle: "Emgav longboard dre bedadenn"
 date: 2023-02-01
 emoji: "🏄‍♂️"

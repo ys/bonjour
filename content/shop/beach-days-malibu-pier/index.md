@@ -1,6 +1,7 @@
 ---
 color: "yellow"
 title: "Beach Days - Malibu Pier"
+description: "A wave peeling in front of Malibu Pier on a clear summer day. Signed and framed 20x30cm Beach Days print on Hahnemühle Bamboo."
 date: 2025-07-22T00:00:40
 emoji: "🌞"
 grid: "cover"

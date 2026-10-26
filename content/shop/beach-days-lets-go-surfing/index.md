@@ -1,6 +1,7 @@
 ---
 color: "yellow"
 title: "Beach Days - Let's go surfing"
+description: "A surfer walks down the beach, board under the arm, between umbrellas, hills and a pier. Signed and framed 30x45cm Beach Days print on Hahnemühle Bamboo."
 date: 2025-07-22T00:01:00
 emoji: "🌞"
 grid: "cover"

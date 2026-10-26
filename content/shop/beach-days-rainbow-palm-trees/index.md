@@ -1,6 +1,7 @@
 ---
 color: "yellow"
 title: "Beach Days - Rainbow palm trees"
+description: "A row of palm trees turned rainbow by a light-leaked frame of film. Signed and framed 24x30cm Beach Days print on Hahnemühle Bamboo."
 date: 2025-07-22T00:00:20
 emoji: "🌞"
 grid: "cover"

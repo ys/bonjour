@@ -1,6 +1,7 @@
 ---
 color: "yellow"
 title: "Beach Days - Stop palm tree"
+description: "A red palm tree next to a stop sign, a playful frame of film from California. Signed and framed 24x30cm Beach Days print on Hahnemühle Bamboo."
 date: 2025-07-22T00:00:20
 emoji: "🌞"
 grid: "cover"
