@@ -11,7 +11,7 @@
       {{ range .Pages }}
       {{ $href := .RelPermalink }}
       {{ with .Params.bookmarkOf }}{{ $href = . }}{{ end }}
-      <li class="group grid gap-x-4 border-b border-fo-base-50 dark:border-fo-base-900 py-1 hover:bg-fo-base-50 dark:hover:bg-fo-base-900 -mx-2 px-2" style="grid-template-columns: 1.5ch 1fr auto">
+      <li class="group grid gap-x-4 border-b border-fo-base-100 dark:border-fo-base-900 py-1 hover:bg-fo-base-100 dark:hover:bg-fo-base-900 -mx-2 px-2" style="grid-template-columns: 1.5ch 1fr auto">
         {{ with .Params.category }}<span class="font-mono text-[11px] font-bold text-{{ index $.Site.Params.categoriesColors . }} mt-[3px]">{{ substr . 0 1 | upper }}</span>{{ else }}<span></span>{{ end }}
         <div class="min-w-0">
           <a href="{{ $href }}" class="font-sans font-medium no-underline text-ink dark:text-gray-100 hover:opacity-50 transition-opacity duration-150 text-[13px] leading-snug truncate block">{{ .Title }}</a>

@@ -7,7 +7,7 @@
     {{ range $group := $paginator.Pages.GroupByDate "2006" "desc" }}
       <div>
         <div class="font-sans text-[11px] font-semibold tracking-[.15em] uppercase text-gray-400 dark:text-gray-500 mb-2">{{ $group.Key }}</div>
-        <div class="flex flex-col divide-y divide-fo-base-50 dark:divide-fo-base-900">
+        <div class="flex flex-col divide-y divide-fo-base-100 dark:divide-fo-base-900">
           {{ range $group.Pages }}
             <a href="{{ .RelPermalink }}" class="text-inherit no-underline text-[17px] py-[7px] hover:opacity-40 transition-opacity duration-150">{{ .Title }}</a>
           {{ end }}

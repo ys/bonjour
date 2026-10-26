@@ -1,3 +1,6 @@
+{{- if .Params.sequence }}
+{{ partial "sequence" . }}
+{{- else }}
 {{ $allimages := slice }}
 {{ if .Params.shuffle }}
   {{ range shuffle (.Resources.ByType "image") }}
@@ -31,3 +34,4 @@
   </div>
   {{ end }}
 </div>
+{{- end }}
