@@ -5,22 +5,21 @@ require "uri"
 require "yaml"
 
 class Downloader
-  def initialize(space_id, album_id, year)
+  def initialize(space_id, album_id)
     @space_id = space_id
     @album_id = album_id
-    @year = year
   end
 
   def run
     resp = Net::HTTP.get(URI(asset_url))
     resp = resp.sub("while (1) {}", "")
-    `mkdir -p data/daily`
-    File.open("data/daily/#{@year}.json", "w") { |file| file.write(JSON.dump(JSON.parse(resp))) }
+    File.open("data/daily-album.json", "w") { |file| file.write(JSON.dump(JSON.parse(resp))) }
     assets = JSON.parse(resp)["resources"]
-    `mkdir -p content/daily/#{@year}`
     assets #.sort_by { |a| DateTime.parse(a["payload"]["captureDate"]) }
       .each_with_index do |a,i|
-        `wget -O content/daily/#{@year}/#{i.to_s.rjust(3, "0")}.jpg https://lightroom.adobe.com/v2c/spaces/#{@space_id}/#{a["asset"]["links"]["/rels/rendition_type/2048"]["href"]}`
+        # capture date first, so sorting by name is chronological: 2026-03-14-lr-007.jpg
+        date = (a.dig("asset", "payload", "captureDate") || a.dig("payload", "captureDate") || "0000-00-00")[0, 10]
+        `wget -O content/daily/#{date}-lr-#{i.to_s.rjust(3, "0")}.jpg https://lightroom.adobe.com/v2c/spaces/#{@space_id}/#{a["asset"]["links"]["/rels/rendition_type/2048"]["href"]}`
       end
   end
 
@@ -30,7 +29,4 @@ class Downloader
 end
 
 daily = YAML.load(File.read("data/daily.yaml"), symbolize_names: true)
-
-daily[:years].each do |year, info|
-  Downloader.new(info[:space_id], info[:album_id], year).run
-end
+Downloader.new(daily[:space_id], daily[:album_id]).run

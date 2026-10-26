@@ -1,13 +1,9 @@
-{{- /* One row of images at equal height. Expects dict: page, images (slice of filenames), width ("narrow" or empty) */ -}}
+{{- /* One row of photos and videos at equal height. Expects dict: page, images (slice of filenames), width ("narrow" or empty) */ -}}
 {{- $page := .page -}}
 <div class="sequence-row{{ if eq .width "narrow" }} sequence-row--narrow{{ end }}">
   {{- range .images }}
-    {{- with $page.Resources.GetMatch . }}
-      <div class="sequence-item" style="--r: {{ printf "%.4f" (div (float .Width) .Height) }}">
-        {{ partial "photo" (dict "Image" .) }}
-      </div>
-    {{- else }}
-      {{- warnf "sequence: image %q not found in %s" . $page.File.Path }}
-    {{- end }}
+    <div class="sequence-item" style="--r: {{ printf "%.4f" (partial "media-ratio" (dict "page" $page "name" .)) }}">
+      {{ partial "media" (dict "page" $page "name" .) }}
+    </div>
   {{- end }}
 </div>

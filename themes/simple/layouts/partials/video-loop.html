@@ -1,0 +1,17 @@
+{{- /* Plays muted loops (video[data-loop]) only while on screen; controls instead for reduced motion. */ -}}
+<script>
+(() => {
+  const videos = document.querySelectorAll("video[data-loop]");
+  if (!videos.length) return;
+  if (matchMedia("(prefers-reduced-motion: reduce)").matches) {
+    videos.forEach((v) => { v.removeAttribute("autoplay"); v.pause(); v.controls = true; });
+    return;
+  }
+  if (!("IntersectionObserver" in window)) return;
+  const io = new IntersectionObserver((entries) => entries.forEach((e) => {
+    if (e.isIntersecting) e.target.play().catch(() => {});
+    else e.target.pause();
+  }), { rootMargin: "200px" });
+  videos.forEach((v) => io.observe(v));
+})();
+</script>

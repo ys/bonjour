@@ -7,6 +7,8 @@
     - row: [a.webp, b.webp, c.webp] # same height, side by side
       width: narrow                 # optional, for intimate pairs
     - spread: wide.webp             # edge to edge
+
+  Any name can be a video (clip.mp4, with clip.poster.webp beside it).
 */ -}}
 {{- $page := . -}}
 <div data-pswp class="sequence">
@@ -16,13 +18,9 @@
     {{- else if .row }}
       {{ partial "sequence-row" (dict "page" $page "images" .row "width" .width) }}
     {{- else if .single }}
-      {{- with $page.Resources.GetMatch .single }}
-      <div class="sequence-single">{{ partial "photo" (dict "Image" .) }}</div>
-      {{- end }}
+      <div class="sequence-single">{{ partial "media" (dict "page" $page "name" .single) }}</div>
     {{- else if .spread }}
-      {{- with $page.Resources.GetMatch .spread }}
-      <div class="sequence-spread">{{ partial "photo" (dict "Image" .) }}</div>
-      {{- end }}
+      <div class="sequence-spread">{{ partial "media" (dict "page" $page "name" .spread) }}</div>
     {{- end }}
   {{- end }}
 </div>

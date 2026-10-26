@@ -4,6 +4,11 @@
       "source": "/portfolio",
       "destination": "/",
       "permanent": true
+    },
+    {
+      "source": "/daily/:year(2021|2022|2023|2024|2025|2026)/:path*",
+      "destination": "/daily/",
+      "permanent": true
     }
   ],
   "headers": [
