@@ -1,7 +1,7 @@
 ---
 color: "yellow"
 title: "Beach Days - Sunset beach volley"
-description: "Golden sunset light over a beach volleyball court lined with palm trees. Signed and framed 24x30cm Beach Days print on Hahnemühle Bamboo."
+description: "“Sunset beach volley”: golden sunset light over a beach volleyball court lined with palm trees. Signed, framed 24x30cm Beach Days print."
 date: 2025-07-22T00:00:20
 emoji: "🌞"
 grid: "cover"

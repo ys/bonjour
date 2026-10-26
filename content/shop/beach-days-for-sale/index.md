@@ -1,7 +1,7 @@
 ---
 color: "yellow"
 title: "Beach Days - For sale"
-description: "A white van parked facing the Pacific, in black and white. Signed and framed 20x30cm Beach Days print on Hahnemühle Bamboo."
+description: "“For sale”: a white van parked facing the Pacific, in black and white. Signed, framed 20x30cm Beach Days print."
 date: 2025-07-22T00:00:40
 emoji: "🌞"
 grid: "cover"

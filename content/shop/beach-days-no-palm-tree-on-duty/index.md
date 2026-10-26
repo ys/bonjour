@@ -1,7 +1,7 @@
 ---
 color: "yellow"
 title: "Beach Days - No palm tree on duty"
-description: "A turquoise lifeguard tower under a lone palm tree and a pale sky. Signed and framed 30x45cm Beach Days print on Hahnemühle Bamboo."
+description: "“No palm tree on duty”: a turquoise lifeguard tower under a lone palm tree and a pale sky. Signed, framed 30x45cm Beach Days print."
 date: 2025-07-22T00:01:00
 emoji: "🌞"
 grid: "cover"
