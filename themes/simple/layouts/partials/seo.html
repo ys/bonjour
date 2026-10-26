@@ -108,6 +108,8 @@
   "sameAs" $sameAs
 -}}
 {{- with $.Site.Params.social.email -}}{{- $person = merge $person (dict "email" .) -}}{{- end -}}
+{{- /* Avatar: the portrait on the about page */ -}}
+{{- with site.GetPage "/about" -}}{{- with .Resources.GetMatch "me.webp" -}}{{- $person = merge $person (dict "image" .Permalink) -}}{{- end -}}{{- end -}}
 {{- $website := dict
   "@type" "WebSite"
   "@id" (printf "%s#website" $home)
