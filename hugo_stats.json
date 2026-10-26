@@ -1,6 +1,7 @@
 {
   "htmlElements": {
     "tags": [
+      "?xml",
       "a",
       "article",
       "blockquote",
@@ -86,7 +87,6 @@
       "bg-gray-300",
       "bg-green",
       "bg-linear-to-br",
-      "bg-orange",
       "bg-paper",
       "bg-red/70",
       "bg-rosewater-100",
@@ -225,6 +225,9 @@
       "hidden",
       "hover:bg-fo-base-100",
       "hover:bg-green-600",
+      "hover:bg-green/70",
+      "hover:bg-magenta/70",
+      "hover:bg-orange/70",
       "hover:bg-red/70",
       "hover:bg-yellow/70",
       "hover:border-green",
@@ -418,8 +421,8 @@
       "sequence-single",
       "sequence-spread",
       "shadow-lg",
-      "shadow-magenta/20",
       "shadow-md",
+      "shadow-yellow/20",
       "shop-pricetag",
       "shop-stock",
       "shrink-0",
