@@ -1,0 +1,19 @@
+{{- /* One photo or video from a page bundle. Expects dict: page, name.
+     A video name.mp4 is shown with its poster name.poster.webp. */ -}}
+{{- $page := .page -}}
+{{- $name := .name -}}
+{{- if hasSuffix $name ".mp4" -}}
+  {{- $video := $page.Resources.GetMatch $name -}}
+  {{- $poster := $page.Resources.GetMatch (replace $name ".mp4" ".poster.webp") -}}
+  {{- if and $video $poster -}}
+    {{ partial "video" (dict "Video" $video "Image" $poster) }}
+  {{- else -}}
+    {{- warnf "media: %q or its poster not found in %s" $name $page.File.Path -}}
+  {{- end -}}
+{{- else -}}
+  {{- with $page.Resources.GetMatch $name -}}
+    {{ partial "photo" (dict "Image" .) }}
+  {{- else -}}
+    {{- warnf "media: image %q not found in %s" $name $page.File.Path -}}
+  {{- end -}}
+{{- end -}}

@@ -1,0 +1,6 @@
+{{- /* Width / height of a photo, or of a video's poster. Expects dict: page, name. */ -}}
+{{- $name := .name -}}
+{{- if hasSuffix $name ".mp4" }}{{ $name = replace $name ".mp4" ".poster.webp" }}{{ end -}}
+{{- $r := 1.0 -}}
+{{- with .page.Resources.GetMatch $name }}{{ $r = div (float .Width) .Height }}{{ end -}}
+{{- return $r -}}

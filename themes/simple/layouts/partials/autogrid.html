@@ -1,35 +1,41 @@
 {{- if .Params.sequence }}
 {{ partial "sequence" . }}
 {{- else }}
+{{- /* Images and videos, sorted together by file name. A video name.mp4 needs a poster name.poster.webp beside it. */ -}}
+{{ $page := . }}
 {{ $allimages := slice }}
-{{ if .Params.shuffle }}
-  {{ range shuffle (.Resources.ByType "image") }}
-    {{ if (and (ne .Name "cover") (ne .Name "card")) }}
-      {{ $allimages = $allimages | append (dict "Image" .) }}
-    {{ end }}
-  {{ end }}
-{{ else }}
-  {{ range sort (.Resources.ByType "image") "Name" (.Params.sortOrder | default "desc") }}
-    {{ if (and (ne .Name "cover") (ne .Name "card")) }}
-      {{ $allimages = $allimages | append (dict "Image" .) }}
+{{ range .Resources }}
+  {{ if and (eq .ResourceType "image") (not (in .Name ".poster.")) (ne .Name "cover") (ne .Name "card") }}
+    {{ $allimages = $allimages | append (dict "Name" .Name "Image" .) }}
+  {{ else if eq .MediaType.SubType "mp4" }}
+    {{ $video := . }}
+    {{ with $page.Resources.GetMatch (replace .Name ".mp4" ".poster.webp") }}
+      {{ $allimages = $allimages | append (dict "Name" $video.Name "Image" . "Video" $video) }}
+    {{ else }}
+      {{ warnf "autogrid: %s has no poster (%s)" $video.Name (replace $video.Name ".mp4" ".poster.webp") }}
     {{ end }}
   {{ end }}
 {{ end }}
+{{ if .Params.shuffle }}
+  {{ $allimages = shuffle $allimages }}
+{{ else }}
+  {{ $allimages = sort $allimages "Name" (.Params.sortOrder | default "desc") }}
+{{ end }}
 
 <div data-pswp>
-  {{ if eq .Params.grid "rows" }}
-  <div class="justified-container">
+  {{ if in (slice "rows" "rows-dense") .Params.grid }}
+  <div class="justified-container{{ if eq .Params.grid "rows-dense" }} justified-container--dense{{ end }}">
     {{ range $allimages }}
       {{ $r := div (float .Image.Width) .Image.Height }}
       <div class="justified-item{{ if .Image.Params.wide }} justified-item--wide{{ end }}" style="--r: {{ printf "%.4f" $r }}">
-        {{ partial "photo" . }}
+        {{ if .Video }}{{ partial "video" . }}{{ else }}{{ partial "photo" . }}{{ end }}
       </div>
     {{ end }}
   </div>
   {{ else }}
   <div class="masonry-container">
     {{ range $allimages }}
-      {{ partial "photo" . }}
+      {{ if .Video }}{{ partial "video" . }}{{ else }}{{ partial "photo" . }}{{ end }}
     {{ end }}
   </div>
   {{ end }}

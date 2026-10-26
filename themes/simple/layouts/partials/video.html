@@ -1,0 +1,10 @@
+{{- /* A short muted loop in a grid. Expects dict: Video (mp4 resource), Image (its poster) */ -}}
+{{- $poster := .Image.Resize "800x webp" -}}
+<div class="masonry-item relative">
+  <video class="block w-full h-auto shadow-md" style="aspect-ratio: {{ .Image.Width }} / {{ .Image.Height }};"
+    muted loop playsinline autoplay preload="metadata" data-loop
+    poster="{{ $poster.RelPermalink }}" width="{{ $poster.Width }}" height="{{ $poster.Height }}"
+    aria-label="Video from {{ .Video.Name | path.Base | replaceRE "-ph\\.mp4$" "" }}">
+    <source src="{{ .Video.RelPermalink }}" type="video/mp4">
+  </video>
+</div>

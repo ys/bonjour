@@ -1,0 +1,83 @@
+#!/usr/bin/env bash
+# Sync the Photos.app album into Point & Shoot (content/daily/).
+#
+#   bin/daily                 # album "Point & Shoot"
+#   DAILY_ALBUM="Daily" bin/daily
+#
+# Each photo becomes content/daily/<capture date>-<time>-ph.webp, each video
+# <date>-<time>-ph.mp4 (muted, max 15 s) plus its poster -ph.poster.webp, so the
+# gallery sorts itself newest first. Only *-ph.* files are managed here:
+# a photo removed from the album disappears from the site, and any other
+# file in content/daily/ (2025-*.webp, lr-*.webp...) is left alone.
+#
+# Needs: osxphotos (uv tool install osxphotos), ImageMagick and ffmpeg (brew install imagemagick ffmpeg).
+# First run: macOS asks to let your terminal access Photos. Say yes.
+set -euo pipefail
+
+ALBUM="${DAILY_ALBUM:-Point & Shoot}"
+ROOT="$(cd "$(dirname "$0")/.." && pwd)"
+DEST="$ROOT/content/daily"
+SIZE=1500
+QUALITY=80
+VIDEO_SIZE=1280
+VIDEO_MAX_SECONDS=15
+
+command -v osxphotos >/dev/null || { echo "osxphotos is missing: uv tool install osxphotos (or pipx install osxphotos)"; exit 1; }
+command -v magick >/dev/null || { echo "ImageMagick is missing: brew install imagemagick"; exit 1; }
+command -v ffmpeg >/dev/null || { echo "ffmpeg is missing: brew install ffmpeg"; exit 1; }
+
+TMP="$(mktemp -d)"
+trap 'rm -rf "$TMP"' EXIT
+mkdir -p "$TMP/export" "$TMP/webp"
+
+echo "Exporting album \"$ALBUM\" from Photos..."
+osxphotos export "$TMP/export" \
+  --album "$ALBUM" \
+  --skip-original-if-edited \
+  --edited-suffix "" \
+  --skip-live \
+  --skip-raw \
+  --convert-to-jpeg \
+  --filename "{created.strftime,%Y-%m-%d-%H%M%S}-ph" \
+  --no-progress >/dev/null
+
+shopt -s nullglob nocaseglob
+exported=("$TMP"/export/*.jpg "$TMP"/export/*.jpeg)
+videos=("$TMP"/export/*.mov "$TMP"/export/*.mp4 "$TMP"/export/*.m4v)
+if [ $(( ${#exported[@]} + ${#videos[@]} )) -eq 0 ]; then
+  echo "Nothing exported. Is there an album called \"$ALBUM\" in Photos?"
+  exit 1
+fi
+
+echo "Converting ${#exported[@]} photos to webp..."
+for f in "${exported[@]}"; do
+  name="$(basename "${f%.*}")"
+  magick "$f" -auto-orient -resize "${SIZE}x${SIZE}>" -strip -quality "$QUALITY" "$TMP/webp/$name.webp"
+done
+
+if [ ${#videos[@]} -gt 0 ]; then
+  echo "Converting ${#videos[@]} videos..."
+  for f in "${videos[@]}"; do
+    name="$(basename "${f%.*}")"
+    ffmpeg -nostdin -loglevel error -y -i "$f" -t "$VIDEO_MAX_SECONDS" -an \
+      -vf "scale=w=${VIDEO_SIZE}:h=${VIDEO_SIZE}:force_original_aspect_ratio=decrease:force_divisible_by=2,format=yuv420p" \
+      -c:v libx264 -preset veryfast -crf 26 -movflags +faststart -map_metadata -1 \
+      "$TMP/webp/$name.mp4"
+    ffmpeg -nostdin -loglevel error -y -ss 0.5 -i "$TMP/webp/$name.mp4" -frames:v 1 "$TMP/poster.png" \
+      || ffmpeg -nostdin -loglevel error -y -i "$TMP/webp/$name.mp4" -frames:v 1 "$TMP/poster.png"
+    magick "$TMP/poster.png" -strip -quality "$QUALITY" "$TMP/webp/$name.poster.webp"
+  done
+fi
+shopt -u nocaseglob
+
+# Replace the managed set: removed from the album means removed from the site
+old=("$DEST"/*-ph.webp "$DEST"/*-ph.poster.webp "$DEST"/*-ph.mp4)
+if [ ${#old[@]} -gt 0 ]; then rm -f "${old[@]}"; fi
+cp "$TMP"/webp/* "$DEST"/
+
+echo
+photos=("$DEST"/*-ph.webp); clips=("$DEST"/*-ph.mp4)
+echo "Point & Shoot now has ${#photos[@]} photos and ${#clips[@]} videos from \"$ALBUM\"."
+git -C "$ROOT" status --short -- content/daily
+echo
+echo "Check with hugo server, then commit and push."

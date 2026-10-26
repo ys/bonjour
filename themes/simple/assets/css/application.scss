@@ -236,6 +236,32 @@ footer ul li:not(:last-child):after {
   }
 }
 
+// Dense rows (grid: rows-dense): a contact sheet, two per row on a phone
+.justified-container--dense {
+  gap: 0.5rem;
+
+  @media (min-width: 1024px) {
+    gap: 0.75rem;
+  }
+
+  .justified-item {
+    flex-grow: var(--r);
+    flex-basis: calc(var(--r) * 9rem);
+
+    @media (min-width: 640px) {
+      flex-basis: calc(var(--r) * 11rem);
+    }
+
+    @media (min-width: 1024px) {
+      flex-basis: calc(var(--r) * 14rem);
+    }
+
+    @media (min-width: 1536px) {
+      flex-basis: calc(var(--r) * 16rem);
+    }
+  }
+}
+
 // Opening image: alone on its row, full height, never cropped
 .justified-item.justified-item--wide {
   flex-basis: 100%;
@@ -336,7 +362,8 @@ footer ul li:not(:last-child):after {
       width: auto;
     }
 
-    picture {
+    picture,
+    video {
       height: 85vh;
       max-height: 760px;
       width: auto;
