@@ -4,7 +4,7 @@ menu:
     weight: 4
 linktitle: 🔖 Browsing
 title: The internets are full of random things
-seotitle: A bunch of bookmarks - 🔗 Bonjour Yannick
+seotitle: A bunch of bookmarks
 description: Just stuff I randomly find over the many weird and fun corners of the Internets.  
 grid: true
 extended: true

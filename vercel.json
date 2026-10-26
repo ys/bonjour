@@ -16,17 +16,17 @@
       "permanent": true
     },
     {
-      "source": "/details/:slug+",
+      "source": "/details/(.+)",
       "destination": "/details/",
       "permanent": true
     },
     {
-      "source": "/c/:path*",
+      "source": "/c/(.*)",
       "destination": "/posts/",
       "permanent": true
     },
     {
-      "source": "/categories/:path*",
+      "source": "/categories(/.*)?",
       "destination": "/posts/",
       "permanent": true
     }

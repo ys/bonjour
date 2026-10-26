@@ -1,4 +1,4 @@
-{{ define "title" }}{{ if .Params.hideTitle }}<h1 class="sr-only">{{ .Params.h1 | default .Title }}</h1>{{ end }}{{ end }}
+{{ define "title" }}{{ if and .Params.hideTitle (not (strings.Contains .Content "<h1")) }}<h1 class="sr-only">{{ .Params.h1 | default .Title }}</h1>{{ end }}{{ end }}
 
 {{ define "main" }}
 <article class="h-entry">

@@ -10,6 +10,8 @@
 {{ end }}
 {{ if .Params.seotitle }}
   {{ $title = .Params.seotitle }}
+  {{- /* Hand-written SEO titles still end with the author name */ -}}
+  {{ if not (strings.Contains $title $titleSuffix) }}{{ $title = printf "%s - %s" $title $titleSuffix }}{{ end }}
 {{ else if .Title }}
   {{ $title = printf "%s - %s" .Title $titleSuffix }}
 {{ end }}
@@ -188,7 +190,7 @@
     "isPartOf" $websiteRef
     "about" (dict "@id" (printf "%s#business" $home))
   ) -}}
-{{- else if eq .Type "about" -}}
+{{- else if and (eq .Type "about") (eq .Path "/about") -}}
   {{- $graph = $graph | append (dict
     "@type" "ProfilePage"
     "@id" .Permalink
@@ -205,6 +207,8 @@
   {{- if in .Params.categories "voyages" -}}
     {{- $articleType = "TravelArticle" -}}
   {{- end -}}
+  {{- /* Other pages using the about layout (now, a-vendre, drink-coffee) are plain pages */ -}}
+  {{- if eq .Type "about" -}}{{- $articleType = "WebPage" -}}{{- end -}}
   {{- with .Params.schemaType -}}{{- $articleType = . -}}{{- end -}}
   {{- $article := dict
     "@type" $articleType
