@@ -5,6 +5,7 @@ description: "Documentary and lifestyle photographer based in Finistère, France
 color: yellow
 shuffle: false
 sortOrder: asc
+grid: rows
 date: 2017-10-26T22:57:50+02:00
 draft: false
 tags:
@@ -18,6 +19,8 @@ type: index
 resources:
 - src: "01-22x02-0101-33.webp"
   title: "Black and white, a longboarder on a small wave in the fog"
+  params:
+    wide: true
 - src: "02-25x31-0703-28.webp"
   title: "Black and white portrait of a woman in a striped swimsuit looking over her shoulder"
 - src: "03-25x44-0826-21.webp"
@@ -54,6 +57,8 @@ resources:
   title: "Surfers carrying longboards across a crowded beach"
 - src: "19-26x70-0927-33.webp"
   title: "Portrait of a man in a pale blue bucket hat"
+  params:
+    wide: true
 - src: "*.webp"
 - src: "card.webp"
   name: "card"
