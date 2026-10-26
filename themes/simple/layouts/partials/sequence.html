@@ -1,0 +1,28 @@
+{{- /*
+  Curated photo sequence, driven by a page's front matter:
+
+  sequence:
+    - single: opening.webp          # alone, centred, tall
+    - break                         # chapter gap
+    - row: [a.webp, b.webp, c.webp] # same height, side by side
+      width: narrow                 # optional, for intimate pairs
+    - spread: wide.webp             # edge to edge
+*/ -}}
+{{- $page := . -}}
+<div data-pswp class="sequence">
+  {{- range .Params.sequence }}
+    {{- if not (reflect.IsMap .) }}
+      <div class="sequence-break" aria-hidden="true"></div>
+    {{- else if .row }}
+      {{ partial "sequence-row" (dict "page" $page "images" .row "width" .width) }}
+    {{- else if .single }}
+      {{- with $page.Resources.GetMatch .single }}
+      <div class="sequence-single">{{ partial "photo" (dict "Image" .) }}</div>
+      {{- end }}
+    {{- else if .spread }}
+      {{- with $page.Resources.GetMatch .spread }}
+      <div class="sequence-spread">{{ partial "photo" (dict "Image" .) }}</div>
+      {{- end }}
+    {{- end }}
+  {{- end }}
+</div>

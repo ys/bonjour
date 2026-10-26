@@ -1,0 +1,7 @@
+{{- /* Curated row inside a post: {{< row "a.webp" "b.webp" >}} or {{< row narrow "a.webp" "b.webp" >}} */ -}}
+{{- $images := slice -}}
+{{- $width := "" -}}
+{{- range .Params }}{{ if eq . "narrow" }}{{ $width = "narrow" }}{{ else }}{{ $images = $images | append . }}{{ end }}{{ end -}}
+<div data-pswp class="sequence sequence--inline">
+  {{ partial "sequence-row" (dict "page" .Page "images" $images "width" $width) }}
+</div>

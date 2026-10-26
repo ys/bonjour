@@ -12,6 +12,8 @@
 */
 @import "./catppuccin-aliases.css";
 
+@custom-variant dark (&:where(.dark, .dark *));
+
 @plugin "@tailwindcss/typography";
 @plugin "@tailwindcss/forms";
 
@@ -48,7 +50,7 @@
     "Segoe UI Emoji", "Segoe UI Symbol";
 
   /* Flexoki neutrals */
-  --color-paper:        #FFFCF0;
+  --color-paper:        #F1EBDC;
   --color-ink:          #100F0F;
   --color-fo-base-50:   #F2F0E5;
   --color-fo-base-100:  #E6E4D9;

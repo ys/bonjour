@@ -33,7 +33,7 @@
       <source src="{{.RelPermalink}}" type="video/mp4">
     {{end}}
     {{ with .Title }}
-      <figcaption class="text-center -mt-4 text-sm  text-gray-500 ">
+      <figcaption class="text-center mt-3 text-sm text-fo-base-600">
         {{ . | markdownify }}
       </figcaption>
     {{ end }}
@@ -85,7 +85,7 @@
         height="{{ $small.Height }}">
     </picture>
     {{ with .Title }}
-    <figcaption class="text-center -mt-18 text-sm  text-gray-500 ">
+    <figcaption class="text-center mt-3 text-sm text-fo-base-600">
       {{ . | markdownify }}
     </figcaption>
     {{ end }}
