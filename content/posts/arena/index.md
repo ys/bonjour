@@ -1,4 +1,5 @@
 ---
+locale: en_US
 color: magenta
 title: Arena, the little tool that could
 subtitle: Serendipity and blocks

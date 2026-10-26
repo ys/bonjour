@@ -1,4 +1,8 @@
 ---
+cascade:
+  - locale: fr_FR
+    target:
+      kind: page
 color: yellow
 seotitle: "Blog - Yannick Schutz"
 title: "Tiny stories, micro essays and some pictures"

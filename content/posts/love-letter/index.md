@@ -1,4 +1,5 @@
 ---
+locale: en_US
 slug: "love-letter"
 title: "On the Internets"
 date: 2023-11-13

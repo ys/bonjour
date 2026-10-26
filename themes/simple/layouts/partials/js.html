@@ -1,5 +1,5 @@
 {{ if eq .Type "shop" }}
-  <script src="https://js.stripe.com/v3"></script>
+  <script defer src="https://js.stripe.com/v3"></script>
 {{ end }}
 
 {{ $.Scratch.Set "jslibs" slice }}
@@ -10,12 +10,12 @@
 {{ $js := .Scratch.Get "jslibs" | resources.Concat "js/main.js" }}
 
 {{ if hugo.IsServer }}
-  <script src="{{ $js.RelPermalink }}"></script>
+  <script defer src="{{ $js.RelPermalink }}"></script>
 {{ else }}
   {{ $js := $js | minify | fingerprint "sha512" }}
-  <script src="{{ $js.RelPermalink }}"></script>
+  <script defer src="{{ $js.RelPermalink }}"></script>
 {{ end }}
 
 <script defer src="/_vercel/insights/script.js"></script>
-{{- $hearts := resources.Get "js/hearts.js" -}}
+{{- $hearts := resources.Get "js/hearts.js" | fingerprint -}}
 <script defer src="{{ $hearts.RelPermalink }}" type="module"></script>

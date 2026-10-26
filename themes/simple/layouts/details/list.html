@@ -6,9 +6,9 @@
 </div>
 {{end}}
 {{ define "full" }}
-  , {{ $paginator := (.Paginate (where (where (where .Site.AllPages "Type" .Type) "Kind" "==" "page") ".Params.archived" "!=" true)  2500) }}
+  , {{ $paginator := (.Paginate (where .RegularPages ".Params.archived" "!=" true)  2500) }}
     {{ range $paginator.Pages.GroupByDate (.Params.groupBy | default "2006") }}
-  <div class="ml-4 md:ml-16 mt-6 mb-16">
+  <div data-pswp class="ml-4 md:ml-16 mt-6 mb-16">
       <header class="flex gap-2 my-4 text-xl items-center">
         <h2 id="{{.Key}}" class=" font-bold"> {{partial "moon" .}} {{ .Key }}</h2>
       </header>
@@ -30,19 +30,22 @@
      {{ $lqip = $src.Resize (printf "%s" $xs) }}
      {{ $small = $src }}
    {{ end }}
-     <a href="{{.RelPermalink}}" class="block h-full cursor-pointer relative group gap-2 flex flex-col" style="aspect-ratio: {{ $src.Width }} / {{ $src.Height }};">
+     {{- /* Single detail pages are not rendered; clicking zooms the photo instead */}}
+     <div class="block h-full cursor-pointer relative group gap-2 flex flex-col" style="aspect-ratio: {{ $src.Width }} / {{ $src.Height }};">
        <picture class="snap-center snap-normal block relative h-full w-full">
         <img
           loading="lazy"
           style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover"
           alt="{{ .Description }}"
+          data-action="zoom"
+          data-zoom-src="{{ $src.RelPermalink }}"
           class="rmelative hover:shadow-{{ $.Scratch.Get "color" }}/20 shadow-md hover:shadow-xl   cursor-pointer lazy"
           src="{{ $lqip.RelPermalink }}"
           msrc="{{ $lqip.RelPermalink }}"
           data-src="{{ $small.RelPermalink }}"
           width="{{ $small.Width }}" height="{{ $small.Height }}"/>
     </picture>
-          </a>
+          </div>
       {{ end }}
     </div>
     </div>

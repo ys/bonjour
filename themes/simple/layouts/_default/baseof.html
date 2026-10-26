@@ -8,7 +8,7 @@
 {{ end }}
 
 <!DOCTYPE html>
-<html lang="{{ .Lang }}">
+<html lang="{{ .Param "locale" | default "en_US" | replaceRE "_" "-" }}">
   <head>
     {{ with .OutputFormats.Get "rss" }}
       <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .RelPermalink | safeURL }}" title="{{ $.Site.Title }}" />
@@ -82,6 +82,8 @@
     </header>
 
     <main class="mx-auto px-6 max-w-3xl grid grid-cols-1 gap-16">
+      {{- /* Every page needs one h1. Templates that show a visible title override this block. */ -}}
+      {{ block "title" . }}<h1 class="sr-only">{{ .Params.h1 | default .Title }}</h1>{{ end }}
       {{ block "main" . }}
       {{ end }}
     </main>

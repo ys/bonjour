@@ -1,4 +1,5 @@
 ---
+locale: en_US
 slug: "problems"
 title: "Problems and WD40"
 color: red

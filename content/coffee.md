@@ -1,4 +1,5 @@
 ---
+locale: fr_FR
 title: "Boire du café"
 emoji: "☕️"
 description: "Ce que j'ai bu."

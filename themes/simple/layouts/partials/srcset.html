@@ -1,0 +1,12 @@
+{{- /* WebP srcset at standard widths, never upscaling past the original. Empty for GIFs. */ -}}
+{{- $src := . -}}
+{{- $set := slice -}}
+{{- if ne $src.MediaType.SubType "gif" -}}
+  {{- range slice 480 800 1200 1600 -}}
+    {{- if le . $src.Width -}}
+      {{- $r := $src.Resize (printf "%dx webp" .) -}}
+      {{- $set = $set | append (printf "%s %dw" $r.RelPermalink $r.Width) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- delimit $set ", " -}}

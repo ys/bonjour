@@ -1,4 +1,7 @@
 ---
+locale: fr_FR
+cascade:
+  - locale: fr_FR
 seotitle: "Bonjour, une newsletter - Yannick Schutz"
 title: "Envoyer des mots doux et raconter n'importe quoi"
 emoji: 💌

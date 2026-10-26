@@ -1,4 +1,5 @@
 ---
+locale: fr_FR
 hideTitle: true
 title: "A vendre"
 description: "La seconde main, c'est bien"

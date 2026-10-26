@@ -17,6 +17,11 @@
       <span class="px-2">·</span>
       <span>{{ .Site.Params.copyright }}</span>
     </div>
+    <div class="flex items-center text-[11px] text-gray-500 dark:text-gray-400 tracking-[.04em]">
+      <a href="/mentions-legales/" class="hover:text-ink dark:hover:text-white transition-colors">mentions légales</a>
+      <span class="px-2">·</span>
+      <a href="/cgv/" class="hover:text-ink dark:hover:text-white transition-colors">cgv</a>
+    </div>
     <a href="#" aria-label="Back to top" class="mt-4 w-7 block text-gray-300 dark:text-gray-700 hover:text-gray-400 hover:rotate-180 transition-all duration-500">
       {{ if fileExists "/static/negative-logo.svg" }}
         {{ readFile "/static/negative-logo.svg" | safeHTML }}

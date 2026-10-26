@@ -38,6 +38,7 @@
         data-action="zoom"
         data-zoom-src="{{ $src.RelPermalink}}"
         src="{{ $small.RelPermalink }}"
+        {{ with partialCached "srcset.html" $src $src.RelPermalink }}srcset="{{ . }}" sizes="{{ $.Sizes | default "(min-width: 1024px) 50vw, 100vw" }}"{{ end }}
         msrc="{{ $lqip.RelPermalink }}"
         data-src="{{ $small.RelPermalink }}"
         width="{{ $small.Width }}" height="{{ $small.Height }}"/>

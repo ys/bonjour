@@ -1,4 +1,5 @@
 ---
+locale: en_US
 date: 2025-01-10
 title: "On becoming a kook"
 canonical: https://bonjouryannick.substack.com/p/on-becoming-a-kook

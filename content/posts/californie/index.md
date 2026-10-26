@@ -1,4 +1,5 @@
 ---
+locale: en_US
 favorite: true
 title: "La Californie"
 draft: true

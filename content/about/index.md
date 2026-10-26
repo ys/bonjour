@@ -69,8 +69,8 @@ Prints come from [Ooblik](https://ooblik.com) & [Négatif+](https://negatifplus.
 
 ## Colophon
 
-This is a static website built with [Hugo](https://gohugo.io). Hosting is provided by [Vercel](https://vercel.co). Optimized with my own two hands and a lot of patience. The source of it lives on [GitHub](https://github.com/ys/bonjour). Images are optimised by a GitHub Action from [Calibre](https://calibreapp.com/blog/compress-images-in-prs).
+This is a static website built with [Hugo](https://gohugo.io). Hosting is provided by [Vercel](https://vercel.com). Optimized with my own two hands and a lot of patience. The source of it lives on [GitHub](https://github.com/ys/bonjour). Images are optimised by a GitHub Action from [Calibre](https://calibreapp.com/blog/compress-images-in-prs).
 
 Most of the content is copyrighted but open to discussion if you wanna re-use some of it.
 
-**Contact:** [hello@yannickschutz.com](mailto://hello@yannickschutz.com)
+**Contact:** [hello@yannickschutz.com](mailto:hello@yannickschutz.com)

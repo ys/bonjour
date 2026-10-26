@@ -1,4 +1,5 @@
 ---
+locale: fr_FR
 hideheader: true
 title: "Des liens"
 description: "Accès facile et pour tous"

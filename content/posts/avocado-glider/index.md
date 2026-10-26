@@ -1,4 +1,5 @@
 ---
+locale: en_US
 date: 2026-08-28
 title: "A summer with an avocado glider"
 subtitle: "A gliding machine for the waves nobody wants"
