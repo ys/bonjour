@@ -108,7 +108,7 @@
   "url" $home
   "name" $.Site.Title
   "description" $.Site.Params.description
-  "inLanguage" ($.Site.Language.Locale | default "en-US")
+  "inLanguage" ($.Site.Params.locale | default "en_US" | replaceRE "_" "-")
   "publisher" $personRef
 -}}
 {{- $graph := slice $person $website -}}

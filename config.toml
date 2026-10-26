@@ -1,6 +1,6 @@
 title = "Bonjour Yannick"
 theme = "simple"
-locale = "en-US"
+languageCode = "en-US"
 RemovePathAccents = true
 timeout = 200000
 enableRobotsTXT = true
