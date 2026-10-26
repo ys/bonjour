@@ -1,0 +1,7 @@
+{{- /* Zoomed image: capped at 1600px wide (a srcset size, so no extra file); originals are not published */ -}}
+{{- $src := . -}}
+{{- if and (gt $src.Width 1600) (ne $src.MediaType.SubType "gif") -}}
+  {{- ($src.Resize "1600x webp").RelPermalink -}}
+{{- else -}}
+  {{- $src.RelPermalink -}}
+{{- end -}}

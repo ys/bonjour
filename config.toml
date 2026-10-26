@@ -146,6 +146,11 @@ disableKinds = ["taxonomy", "term"]
   quality = 85
 
 
+# Only publish bundle files that templates actually use (resized images, videos, share cards)
+[[cascade]]
+  [cascade.build]
+    publishResources = false
+
 [taxonomies]
   category = "categories"
 

@@ -10,3 +10,4 @@ public
 
 # Hardcover API token (use HARDCOVER_TOKEN env var instead)
 data/books/.hardcover-token
+/vendor/cache

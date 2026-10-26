@@ -140,7 +140,9 @@
   {{- $productImages := slice -}}
   {{- with $featured -}}{{- $productImages = $productImages | append .Permalink -}}{{- end -}}
   {{- range first 4 ($images.Match "*.webp") -}}
-    {{- if not (in $productImages .Permalink) -}}{{- $productImages = $productImages | append .Permalink -}}{{- end -}}
+    {{- $img := . -}}
+    {{- if gt .Width 1600 -}}{{- $img = .Resize "1600x webp" -}}{{- end -}}
+    {{- if not (in $productImages $img.Permalink) -}}{{- $productImages = $productImages | append $img.Permalink -}}{{- end -}}
   {{- end -}}
   {{- if and (not $productImages) $imageURL -}}{{- $productImages = slice $imageURL -}}{{- end -}}
   {{- $offer := dict
@@ -276,11 +278,15 @@
   {{- if gt (len $galleryImages) 2 -}}
     {{- $items := slice -}}
     {{- range first 10 $galleryImages -}}
-      {{- $item := dict "@type" "ImageObject" "contentUrl" .Permalink "url" .Permalink "creator" $personRef "creditText" $authorName "copyrightNotice" (printf "© %s" $authorName) -}}
-      {{- with .Width -}}{{- $item = merge $item (dict "width" .) -}}{{- end -}}
-      {{- with .Height -}}{{- $item = merge $item (dict "height" .) -}}{{- end -}}
+      {{- /* Point at the 1600px version so full-size originals are not published */ -}}
+      {{- $orig := . -}}
+      {{- $img := . -}}
+      {{- if and (gt .Width 1600) (ne .MediaType.SubType "gif") -}}{{- $img = .Resize "1600x webp" -}}{{- end -}}
+      {{- $item := dict "@type" "ImageObject" "contentUrl" $img.Permalink "url" $img.Permalink "creator" $personRef "creditText" $authorName "copyrightNotice" (printf "© %s" $authorName) -}}
+      {{- with $img.Width -}}{{- $item = merge $item (dict "width" .) -}}{{- end -}}
+      {{- with $img.Height -}}{{- $item = merge $item (dict "height" .) -}}{{- end -}}
       {{- /* Resource titles default to the file name; only use a real caption */ -}}
-      {{- if ne .Title .Name -}}{{- $item = merge $item (dict "caption" .Title) -}}{{- end -}}
+      {{- if ne $orig.Title $orig.Name -}}{{- $item = merge $item (dict "caption" $orig.Title) -}}{{- end -}}
       {{- $items = $items | append $item -}}
     {{- end -}}
     {{- $graph = $graph | append (dict
