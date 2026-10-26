@@ -6,7 +6,7 @@
     {{ end }}
   {{ end }}
 {{ else }}
-  {{ range sort (.Resources.ByType "image") "Name" "desc" }}
+  {{ range sort (.Resources.ByType "image") "Name" (.Params.sortOrder | default "desc") }}
     {{ if (and (ne .Name "cover") (ne .Name "card")) }}
       {{ $allimages = $allimages | append (dict "Image" .) }}
     {{ end }}

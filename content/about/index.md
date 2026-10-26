@@ -17,13 +17,18 @@ linktitle: "About"
 
 ![me and my leica](me.webp)
 
-I am a **documentary style photographer** living in Finistère, France.  
-Feel free to contact me at [hello@yannickschutz.com](mailto:hello@yannickschutz.com).  
-I really enjoy **telling stories and capturing moments of life.**
+I am a **documentary and lifestyle photographer** based in Finistère, France. I travel for work.  
+I photograph real people doing real things, mostly on film. For brands, that means pictures that look like life, not like an ad.  
+Feel free to contact me at [hello@yannickschutz.com](mailto:hello@yannickschutz.com).
 
 If you are looking for me, you'll probably find me brewing a cup of black coffee, surfing some mellow waves, capturing moments on film or spending some quality time with the family.
 
 We launched an amazing project with Cloé. You should take a look at [@douarenn](https://instagram.com/douarenn) or visit [douarenn.fr](https://douarenn.fr). This is our cabin, disconnected from the internets in the middle of Finistère, in a place called "les Monts d'Arrée".
+
+## Work with me
+
+I work with brands and magazines on campaigns, lookbooks and editorial stories, in Brittany or wherever the job is. Recently: a collab with [TWOTHIRDS](https://twothirds.com).  
+Write to [hello@yannickschutz.com](mailto:hello@yannickschutz.com) with a few lines about the project.
 
 ---
 
@@ -35,6 +40,7 @@ Feel free to browse and see what I am doing [now](/now)
 Current gear:
 
 - Leica M10-P
+- Leica SL2-S
 - [Leica M6](/leica-m6)
 - A small Contax T3
 - [Nikonos V](/nikonos-v) with a 35mm
