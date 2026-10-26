@@ -9,10 +9,6 @@ alternate:
   fr_FR: /travail/
 date: 2026-10-26
 color: yellow
-menu:
-  main:
-    weight: 3
-linktitle: "Work"
 ---
 
 I am Yannick Schutz, a **documentary and lifestyle photographer** based in the Monts d'Arrée, in Finistère, Brittany. I photograph real people doing real things, mostly on film. For brands, that means pictures that look like life, not like an ad.

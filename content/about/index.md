@@ -28,7 +28,8 @@ We launched an amazing project with Cloé. You should take a look at [@douarenn]
 ## Work with me
 
 I work with brands and magazines on campaigns, lookbooks and editorial stories, in Brittany or wherever the job is. Recently: a collab with [TWOTHIRDS](https://twothirds.com).  
-Write to [hello@yannickschutz.com](mailto:hello@yannickschutz.com) with a few lines about the project.
+Write to [hello@yannickschutz.com](mailto:hello@yannickschutz.com) with a few lines about the project.  
+More about [working with me](/work/) ([en français](/travail/)).
 
 ---
 
