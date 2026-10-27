@@ -3,6 +3,8 @@
 {{- $cover := $images.GetMatch "cover*" -}}
 {{- $featured := $images.GetMatch "*feature*" -}}
 {{- $twitterImage := cond (ne $card nil) $card (cond (ne $cover nil) $cover $featured) -}}
+{{- /* JPEG for share previews: some unfurlers (LinkedIn, mail clients) still choke on WebP */ -}}
+{{- with $twitterImage }}{{ $twitterImage = .Resize "1200x jpg q85" }}{{ end -}}
 {{- $description := partialCached "description.html" . .RelPermalink -}}
 
 <meta name="twitter:card" content="summary_large_image"/>

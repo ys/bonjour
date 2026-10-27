@@ -5,7 +5,7 @@ cascade:
     target:
       kind: page
 title: "Sometimes, I write Haikus"
-description: "5 - 7 - 5. Just some french haikus"
+description: "5 - 7 - 5. Just some french haikus. I often write pretty late. But night mode is on."
 date: 2023-09-28
 menu:
   more:

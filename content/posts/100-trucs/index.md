@@ -49,7 +49,7 @@ slug: "100-trucs"
 33. J'ai lu Ce sentiment océanique de Fiona Capp
 34. J'ai remplis 4 carnets de chez [Monsieur papier](https://monsieurpapier.fr)
 35. Cloé m'a offert un super carnet de voyage de chez [Paper Republic](https://paper-republic.fr). Cette couverture en cuir est trop belle
-36. J'ai acheté [trop de livres photos](https://yannickschutz.com/on-paper) et j'ai bavé sur les images
+36. J'ai acheté [trop de livres photos](https://www.are.na/bonjour-yannick/on-paper-yjfbcwrkly4) et j'ai bavé sur les images
 37. Vous avez lu [20 petites lettres](https://yannickschutz.com/bonjour) sur l'année. On est presque aux une toutes les deux semaines de prévues
 38. J'ai fait au minimum 71 changements sur le site et j'aime toujours autant
 39. J'ai codé sur les internets via l'iPad (GitHub Codespace)

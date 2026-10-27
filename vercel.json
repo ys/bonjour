@@ -6,6 +6,16 @@
       "permanent": true
     },
     {
+      "source": "/on-paper/?",
+      "destination": "https://www.are.na/bonjour-yannick/on-paper-yjfbcwrkly4",
+      "permanent": true
+    },
+    {
+      "source": "/projects/?",
+      "destination": "/work/",
+      "permanent": false
+    },
+    {
       "source": "/daily/:year(2021|2022|2023|2024|2025|2026)/",
       "destination": "/daily/",
       "permanent": true

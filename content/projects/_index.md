@@ -8,6 +8,7 @@ menu:
 linktitle: "Projects"
 skip: "cover.png"
 type: "projects"
+draft: true
 description: "Capturing other people details"
 ---
 

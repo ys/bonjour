@@ -11,10 +11,11 @@ tags:
 - la lettre
 emoji: 💌
 color: red
-
 title: "27 - Larmes, Cancer et changement climatique"
 slug: "27"
+description: "Ça fait du bien de pleurer. C’est ainsi que commençait une chronique radio l'autre jour. J'étais au volant, et je me suis empressé de la dicter à Siri. C'était une sorte de déclic, j'avais compris que je devais vous en parler."
 ---
+
 ![Inscription au sol peinte en jaune, vue à l'envers](BC2631EA-5847-4B82-99DA-3AB524A20E3C.webp)
 
 -----

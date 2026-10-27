@@ -4,6 +4,8 @@
 {{- $cover := $images.GetMatch "cover*" -}}
 {{- $featured := $images.GetMatch "*feature*" -}}
 {{- $ogImage := cond (ne $card nil) $card (cond (ne $cover nil) $cover $featured) -}}
+{{- /* JPEG for share previews: some unfurlers (LinkedIn, mail clients) still choke on WebP */ -}}
+{{- with $ogImage }}{{ $ogImage = .Resize "1200x jpg q85" }}{{ end -}}
 
 <meta property="og:title" content="{{ .Title }}" />
 <meta property="og:description" content="{{ $description }}" />
@@ -36,7 +38,7 @@
 {{ end }}
 {{- if not .Lastmod.IsZero }}<meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTMLAttr }}"/>{{ end }}
 {{- else }}
-{{- if not .Date.IsZero }}<meta property="og:updated_time" content="{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTMLAttr }}"/>
+{{- if not .Lastmod.IsZero }}<meta property="og:updated_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTMLAttr }}"/>
 {{- end }}
 {{- end }}{{/* .IsPage */}}
 

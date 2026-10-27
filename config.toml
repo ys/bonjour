@@ -1,5 +1,4 @@
 title = "Bonjour Yannick"
-enableGitInfo = true
 theme = "simple"
 locale = "en-US"
 RemovePathAccents = true
@@ -17,7 +16,7 @@ disableKinds = ["taxonomy", "term"]
     target = 'css'
 [params]
   locale = "en_US"
-  images = ["card.webp"]
+  images = ["card.jpg"]
   themePalette = "frappe"
   themeColors = [
     "red",
@@ -157,3 +156,7 @@ disableKinds = ["taxonomy", "term"]
 
 [markup.goldmark.renderer]
   unsafe= true
+
+# Bulk edits made git dates useless as lastmod; only an explicit lastmod (or the post date) counts
+[frontmatter]
+  lastmod = ["lastmod", "date"]

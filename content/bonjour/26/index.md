@@ -11,9 +11,9 @@ tags:
 - la lettre
 emoji: 💌
 color: red
-
 title: "26 - Cantine, papier et Aziz Ansari"
 slug: "26"
+description: "C'est fou comme se mettre à écrire suffisamment tôt accroit les chances d'envoyer la lettre à temps. Les habitudes et la rigueur, ça a parfois du bon. Me voici, lundi, deux semaines avant de vous envoyer cette lettre, à déjà la taper."
 ---
 ![Mur de pierre peint d'une baleine dans un village breton, en noir et blanc](348A7EA1-7747-49DC-9248-78241A3A04B9.webp)
 

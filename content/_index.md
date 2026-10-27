@@ -6,7 +6,6 @@ description: "Documentary and lifestyle photographer based in Finistère, France
 color: yellow
 shuffle: false
 sortOrder: asc
-date: 2017-10-26T22:57:50+02:00
 draft: false
 tags:
 - freelance photographer
