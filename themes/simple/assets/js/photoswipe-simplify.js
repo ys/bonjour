@@ -373,7 +373,11 @@
 					self.thumbnails[i] = [];
 					self.tmps[i] = self.galleries[i].getElementsByTagName('img');
 
-					self.tmps[i] = Array.prototype.slice.call(self.tmps[i]);
+					// Galleries nest (a portfolio inside the article): an image belongs only to its closest one,
+					// or a click opens two PhotoSwipes on the same template and closing leaves one stuck open
+					self.tmps[i] = Array.prototype.slice.call(self.tmps[i]).filter(function (img) {
+						return img.closest(selector) === self.galleries[i];
+					});
 
 					if (self.tmps[i].length > 0) {
 						for (var l = 0; l < self.tmps[i].length; l++) {
