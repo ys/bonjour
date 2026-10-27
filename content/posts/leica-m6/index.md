@@ -19,12 +19,42 @@ categories:
   - analog
 emoji: "📸"
 resources:
+  - src: "leica-m6-01.webp"
+    title: "Plage et océan derrière une ganivelle en bois"
+  - src: "leica-m6-02.webp"
+    title: "Collines arides sous le soleil à Lanzarote"
+  - src: "leica-m6-03.webp"
+    title: "Deux personnes sur un sentier qui descend vers une plage de sable"
+  - src: "leica-m6-04.webp"
+    title: "Personne en capuche de dos face à la lande et à la mer, en noir et blanc"
+  - src: "leica-m6-05.webp"
+    title: "Personne en bonnet sous une enseigne éclairée à la tombée de la nuit"
+  - src: "leica-m6-06.webp"
+    title: "Caisse à outils et planches dans un atelier, en noir et blanc"
+  - src: "leica-m6-07.webp"
+    title: "Ancienne carrière inondée au milieu de la garrigue"
+  - src: "leica-m6-08.webp"
+    title: "Homme allongé au bord d'un sentier côtier, en noir et blanc"
+  - src: "leica-m6-09.webp"
+    title: "Promeneur sur le quai face aux grues du port de Brest"
+  - src: "leica-m6-10.webp"
+    title: "Femme sur un pont de Paris, quelqu'un allongé sur le trottoir, en noir et blanc"
+  - src: "leica-m6-11.webp"
+    title: "La pyramide du Louvre vue sous une arche, en noir et blanc"
+  - src: "leica-m6-12.webp"
+    title: "Combi Volkswagen avec toit relevé garé dans l'herbe, en noir et blanc"
+  - src: "leica-m6-13.webp"
+    title: "Planche de surf posée contre une vieille remorque dans les herbes"
+  - src: "leica-m6-14.webp"
+    title: "Bottes de foin rondes dans un champ sous un ciel bleu"
+  - src: "leica-m6-15.webp"
+    title: "Chemin de terre à travers les prés dans la lumière du soir"
   - src: "*.webp"
 ---
 
 Cela fait maintenant deux ans que j'ai craqué. Deux ans que cette légende est devenue mon appareil principal. J'ai toujours rêvé de posséder un Leica. Cela remonte à mes débuts en photo, ces appareils me fascinaient. Ce n'était pas leur coût, ni la qualité au début mais juste l'esthétisme des boitiers. Ce minimalisme et ce goût d'un beau totalement subjectif, je l'avoue.
 
-![cover](cover)
+![Leica M6 posé sur une table en bois au milieu de papiers](cover)
 
 Il y a deux ans quand j'ai décidé de revendre tout mon matos Fuji, j'ai tout remplacé par un Leica M6 et un Summarit 35mm. C'était une idée un peu folle, je me lassais du numérique, j'exécrais le temps passé à éditer des photos. Je voulais de la simplicité, du minimalisme et du beau. Je voulais aussi repasser 100% à du film. Une contrainte de plus pour créer qui me stimulait et stimule toujours énormément.
 

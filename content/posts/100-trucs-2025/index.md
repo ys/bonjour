@@ -5,7 +5,7 @@ subtitle: ""
 date: 2026-01-03
 ---
 
-![](cover)
+![Plage en noir et blanc, deux personnes au bord de l'eau devant une pointe boisée](cover)
 
 J'ai encore oublié d'écrire plein de choses cette année. Mais c'est pas grave. On va y revenir. En vrai, j'ai fait tellement de choses autres que je n'ai pas eu le temps d'écrire ici. Vous m'en voudrez pas! Un article par an, c'est pas mal non plus.
 

@@ -25,6 +25,8 @@ testing_shipping_rates:
   - name: "50€ • Rest of the world"
     value: "shr_1SxuvXFaA8Wpl3EpY0uXFatX"
 resources:
+  - src: "cover.webp"
+    title: "“Old man's path”: cars lined along the dirt road to Old Man's at San Onofre, in black and white, framed on a stone wall"
   - src: "*.webm"
   - src: "*.webp"
 ---

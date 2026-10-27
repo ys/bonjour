@@ -15,7 +15,7 @@ color: red
 title: "26 - Cantine, papier et Aziz Ansari"
 slug: "26"
 ---
-![348A7EA1-7747-49DC-9248-78241A3A04B9.jpeg](348A7EA1-7747-49DC-9248-78241A3A04B9.webp)
+![Mur de pierre peint d'une baleine dans un village breton, en noir et blanc](348A7EA1-7747-49DC-9248-78241A3A04B9.webp)
 
 
 -----

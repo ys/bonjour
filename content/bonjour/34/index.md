@@ -16,7 +16,7 @@ title: "34 - Du chaud, du corail et pas de banger"
 slug: "34"
 description: "C'est l'été, la canicule et la Bretagne sèche. C'est une première et ça sent pas la dernière à voir notre trajectoire. Cette lettre commence bien non? Notre bon vieux Berlingo n'a plus de clim' en plus."
 ---
-![22x28-0501-34.jpeg](22x28-0501-34.webp)
+![Crique rocheuse et plage sous un ciel voilé](22x28-0501-34.webp)
 
 *Cette newsletter est écrite par [Yannick](https://yannickschutz.com). Il va encore vous raconter sa vie et ce qu’il a vu/lu/entendu. Soyez prêt! Et merci, d’être là. Si vous aimez, n’hésitez pas à la partager. Sinon, ne la partagez pas.*
 

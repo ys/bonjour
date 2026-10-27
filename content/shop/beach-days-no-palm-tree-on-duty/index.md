@@ -25,6 +25,8 @@ testing_shipping_rates:
   - name: "50€ • Rest of the world"
     value: "shr_1SxuvXFaA8Wpl3EpY0uXFatX"
 resources:
+  - src: "cover.webp"
+    title: "“No palm tree on duty”: a turquoise lifeguard tower under a lone palm tree and a pale sky, framed on a stone wall"
   - src: "*.webm"
   - src: "*.webp"
 ---

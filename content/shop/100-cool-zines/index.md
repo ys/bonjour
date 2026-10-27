@@ -17,6 +17,12 @@ price_ids:
   - name: "13€ • Worldwide Shipping"
     value: "price_1MO5WbFaA8Wpl3Ep9GsjdQgS"
 resources:
+  - src: "100things_5.webp"
+    title: "Spread of the 100 cool things zine with a Lanzarote landscape"
+  - src: "100things_6.webp"
+    title: "Spread of the 100 cool things zine with a camper van in the dunes"
+  - src: "cover.webp"
+    title: "Sold out sign over the 100 cool things zine cover"
   - src: "*.webm"
   - src: "*.webp"
 ---

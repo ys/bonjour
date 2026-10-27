@@ -25,6 +25,8 @@ testing_shipping_rates:
   - name: "50€ • Rest of the world"
     value: "shr_1SxuvXFaA8Wpl3EpY0uXFatX"
 resources:
+  - src: "cover.webp"
+    title: "“Right wall”: colourful surfboards lined up on the sand below the California hills, framed on a stone wall"
   - src: "*.webm"
   - src: "*.webp"
 ---

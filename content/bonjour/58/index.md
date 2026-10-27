@@ -10,7 +10,7 @@ resources:
     name: card
 ---
 
-![](YS1010425.webp)
+![Petite fille qui ramasse quelque chose dans la terre](YS1010425.webp)
 
 ✌ Bonjour,
 

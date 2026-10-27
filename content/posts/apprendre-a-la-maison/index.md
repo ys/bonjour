@@ -7,6 +7,14 @@ skipArchives: true
 color: cyan
 date: 2020-04-12 07:03:03 +0200
 resources:
+  - src: "IMG_5540.webp"
+    title: "Dessin d'enfant de La Nuit étoilée de Van Gogh aux crayons de couleur"
+  - src: "IMG_5541.webp"
+    title: "Autre dessin d'enfant inspiré de La Nuit étoilée, avec des petites maisons"
+  - src: "cps.webp"
+    title: "Les présentateurs de C'est pas sorcier qui pointent vers le ciel"
+  - src: "ctps.webp"
+    title: "Les présentateurs de C'est toujours pas sorcier dans leur décor"
   - src: "*.webp"
 categories:
 - journal

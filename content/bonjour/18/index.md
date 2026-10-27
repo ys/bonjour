@@ -15,7 +15,7 @@ color: red
 title: "18 - Michel Berger, les amis et la mer"
 slug: "18"
 ---
-![](0b405199-3a1e-431a-a79a-a2c7aed811b6.webp)
+![Ruche bleu clair dans un jardin, maisons de village au fond](0b405199-3a1e-431a-a79a-a2c7aed811b6.webp)
 
 _Cette newsletter est écrite par [Yannick](https://yannickschutz.com/now), il n'aime pas être indécis, il oublie souvent et écrit parfois. Il va encore vous raconter sa vie et ce qu'il a vu/lu/entendu. Soyez prêt! Et merci, d'être là._
 

@@ -15,7 +15,7 @@ color: red
 title: "16 - Vagues, méditation et peintures"
 slug: "16"
 ---
-![](404e3c55-d0ad-470c-91f6-c71df7fbaaf5.webp)
+![Double exposition de la mer et d'une côte rocheuse au soleil](404e3c55-d0ad-470c-91f6-c71df7fbaaf5.webp)
 
 _Cette newsletter est écrite par [Yannick](https://yannickschutz.com/now), il aime apprendre à surfer des vagues, la méditation et les grillades de fin de journée. Vous lisez ceci parce que vous avez rempli un formulaire ou parce que quelqu'un vous a transmis ce mail, merci à lui et à vous._
 

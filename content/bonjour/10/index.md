@@ -17,7 +17,7 @@ slug: "10"
 description: "Cette semaine, je suis tombé sur une vidéo de Matt Day qui est un photographe argentique. Il est pas mal actif sur Youtube."
 ---
 
-![](09f5e0a3-e222-4c27-82bb-a6fc6ddd93c6.webp)
+![Palmier et mer calme en noir et blanc](09f5e0a3-e222-4c27-82bb-a6fc6ddd93c6.webp)
 
 👋
 

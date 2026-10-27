@@ -33,7 +33,7 @@ Comme neuf. [Voir plus](https://www.negative.supply/shop-all/basic-riser-mk1)
 
 *Prix: 150€*
 
-![copystand](copystand)
+![Statif de reproduction en bois et aluminium, à vendre](copystand)
 
 ### Negative Supply 4x5" Light source (95 CRI)
 

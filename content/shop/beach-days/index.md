@@ -28,6 +28,14 @@ testing_shipping_rates:
   - name: "15€ • Rest of the world"
     value: "shr_1SxuvUFaA8Wpl3Epx4naimqP"
 resources:
+  - src: "YS293652.webp"
+    title: "Beach Days zine open on a spread of California beach photos"
+  - src: "YS293653.webp"
+    title: "Beach Days zine open on black and white pages of a car and a fin"
+  - src: "YS293654.webp"
+    title: "Copies of the Beach Days zine fanned out"
+  - src: "cover.webp"
+    title: "Hands holding the Beach Days zine in front of a hedge"
   - src: "*.webm"
   - src: "*.webp"
 ---

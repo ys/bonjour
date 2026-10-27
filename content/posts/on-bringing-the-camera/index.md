@@ -10,7 +10,7 @@ canonical: https://bonjouryannick.substack.com/p/on-bringing-the-camera
 
 You get a surf, you snapshot something and have to share it. Otherwise, did it happen? It is in surf, but more broadly across every experience you can get. If you don't document it, was it real? I am one of those kinds for most situations, I must admit. When it comes to surfing, I get to the parking lot, go check the waves, chat a bit if people are around, suit up, wax up and go.
 
-![](01.webp)
+![Hand holding a Kodak Ektar half-frame camera](01.webp)
 
 _Kodak Ektar H35 with the waterproof housing_
 
@@ -20,6 +20,6 @@ Next time, I won't grab a camera while surfing. Do one thing and do it well. I r
 
 I will still grab a parking lot moment and document it because it is part of a culture I enjoy documenting. Documenting the impatience to get in the water and the joy of having been in it.
 
-![](02.webp)
+![Diptych of a man in a red jacket looking at the sea](02.webp)
 
-![](03.webp)
+![Wetsuit and boots drying out of a car boot](03.webp)

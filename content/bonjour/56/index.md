@@ -6,7 +6,7 @@ title: "56 - le wokisme, la déconnexion et des liens"
 
 *Hello, c'est Yannick. Je suis photographe documentaire basé dans le Finistère. J'ai plein de photos à imprimer. Si certaines te plaisent, je serais ravi de t'en envoyer une signée.*
 
-![](cover)
+![Train de marchandises qui longe la route dans le désert](cover)
 
 ✌🏻
 

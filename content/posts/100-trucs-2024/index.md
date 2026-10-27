@@ -5,7 +5,7 @@ subtitle: "La crise de la quarantaine"
 date: 2024-12-23
 ---
 
-![](cover)
+![Plage de galets ronds à perte de vue, en noir et blanc](cover)
 
 1. Me lever avant le soleil et aller à l'eau avec l'ami [Grégory](https://gregorymignard.com) 🌊
 2. Jouer aux petits jeux de société de Louise

@@ -23,6 +23,12 @@ emoji: "🎞"
 color: yellow
 description: "Petit manuel numérique à l'attention du photographe argentique ordonné. Vous venez de recevoir de nouveaux scans de votre labo préféré. Un petit guide utile sur mon workflow actuel. Quels sont les outils que j'utilise? Mes trucs et astuces?"
 resources:
+- src: "exif.webp"
+  title: "Fenêtre d'informations d'une photo avec la carte de Santec"
+- src: "lightroom.webp"
+  title: "Scan d'une vague dans le module Bibliothèque de Lightroom"
+- src: "photos.webp"
+  title: "Scan argentique d'une vague dans l'app Photos"
 - src: "*.webp"
 - src: "*.png"
 - src:  "lightroom.png"
@@ -31,7 +37,7 @@ resources:
 
 J'avais envie de vous parler workflow pour la photo argentique. En parler me permet de le figer dans le temps alors qu'il ne cesse de changer et qu'il rechangera avec et avant vos retours. J'en suis certain.
 
-![photos.png](photos.png)
+![Scans argentiques classés dans l'app Photos](photos.png)
 
 Pour cette recette, il vous faudra:
 - Un frigo
@@ -56,7 +62,7 @@ Ceci n'est que mon workflow actuel, elle n'engage que moi et marche pour le mome
 - Laissez reposer le temps de l'arrivée des scans sur votre ordinateur.
 - Une fois arrivés, utilisez votre outil favori pour les télécharger et rangez les dans un dossier de votre choix.
 
-![finder.png](finder.png)
+![Dossiers de scans argentiques dans le Finder](finder.png)
 
 {{% note %}}
 En local, j'utilise une arborescence du type `scans/2021/2021-01-10-description-pellicule`.
@@ -87,7 +93,7 @@ J'ai un backup complet de ce disque aussi vers [Backblaze B2](https://backblaze.
 - Retravaillez légèrement (ou non) vos favorites. Il n'y a pas de honte à modifier une photo argentique.
 - Exportez les photos en laissant NLP écraser les données [EXIF](https://fr.wikipedia.org/wiki/Exchangeable_image_file_format) par les siennes et dans un format JPEG qui ne soit pas extrêmement encombrant.
 
-![cover](cover)
+![Scan d'une vague dans le module Bibliothèque de Lightroom](cover)
 
 {{% note %}}
 J'ai personnellement des "smart collections" par appareil et film dans Lightroom. D'où l'utilité du bon remplissage de ces métadonnées. Cela me permet de voir en un clin d'oeil les différentes photos prises au Portra ou Tri-X.
@@ -107,7 +113,7 @@ Mon export fait en général 3000px sur le long côté.
 - Appréciez vos métadonnées dans la recherche. Tout se trouve si facilement. C'est un peu vos contact sheets modernes si vous y pensez.
 - Utilisez votre outil favori de pré-traitement avant de les partagez sur vos réseaux sociaux favoris. Ajoutez des bords blancs dans [Darkroom](https://darkroom.co) par exemple et copiez y vos hashtags favoris.
 
-![exif.png](exif.png)
+![Informations EXIF d'un scan avec la carte de Santec](exif.png)
 
 {{% note %}}
 Comme précisé, j'ai des albums intelligents se basant sur les EXIF et tags par appareil et par film. J'ai aussi un dossier Scans avec des albums par date qui copient un rien les dossiers physiques de mon disque.

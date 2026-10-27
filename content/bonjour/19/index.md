@@ -15,7 +15,7 @@ color: red
 title: "19 - Bidouille, activisme et cannette"
 slug: "19"
 ---
-![21x12-0416-9-3.jpeg](21x12-0416-9-3.webp)
+![Bobine de fil de fer sur un piquet devant une serre](21x12-0416-9-3.webp)
 
 _Cette newsletter est écrite par [Yannick](https://yannickschutz.com/now), il a reçu sa première dose de vaccin, il a mal au bras droit et a des films photos au frigo. Il va encore vous raconter sa vie et ce qu'il a vu/lu/entendu. Soyez prêt! Et merci, d'être là._
 

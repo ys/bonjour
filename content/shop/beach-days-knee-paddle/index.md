@@ -25,6 +25,8 @@ testing_shipping_rates:
   - name: "50€ • Rest of the world"
     value: "shr_1SxuvXFaA8Wpl3EpY0uXFatX"
 resources:
+  - src: "inside.webp"
+    title: "“Knee paddle” print: a surfer paddling out into a turquoise Pacific"
   - src: "*.webm"
   - src: "*.webp"
 ---

@@ -15,7 +15,7 @@ color: red
 title: "17 - Vacances, inconnues et la poule"
 slug: "17"
 ---
-![](4617aa72-d124-45fe-9884-537aedb5dfe2.webp)
+![Toits de maisons de village sous un ciel clair](4617aa72-d124-45fe-9884-537aedb5dfe2.webp)
 
 _Cette newsletter est écrite par [Yannick](https://yannickschutz.com/now), il aime être pieds nus, la côte sauvage de Crozon et se plaindre de l'absurdité de certaines règles. Il va encore vous raconter sa vie et ce qu'il a vu/lu/entendu. Soyez prêt! Et merci, d'être là._
 

@@ -14,7 +14,7 @@ color: red
 title: "21 - Camping perdu, début d'été et LSD"
 slug: "21"
 ---
-![IMG_3049.jpeg](IMG_3049.webp)
+![Le Bay Bridge de San Francisco dans la brume](IMG_3049.webp)
 
 _Cette newsletter est écrite par [Yannick](https://yannickschutz.com/now), il vient de dormir dans un camping nature en Mayenne, a chaud en short et attend les vacances. Il va encore vous raconter sa vie et ce qu'il a vu/lu/entendu. Soyez prêt! Et merci, d'être là._
 

@@ -54,4 +54,4 @@ You probably want to change the vault name in the callback URL. I used the `cmd+
 
 My settings for Obsidian Shortcut Launcher Looks like this:
 
-![](settings.png)
+![Obsidian Launcher settings window for a weather shortcut](settings.png)

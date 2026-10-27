@@ -12,7 +12,7 @@ resources:
 - src: "*.webp"
 ---
 
-![berrien-2.webp](berrien-2.webp)
+![Plage de sable blanc et vagues turquoise au pied des rochers](berrien-2.webp)
 
 Aujourd’hui, mon père me voit arriver portant un t-shirt [Finisterre](https://Finisterre.com) et il me dit que je suis déjà prêt.
 

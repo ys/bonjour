@@ -5,6 +5,20 @@ subtitle: Des fleurs plein la table
 emoji: 💐
 date: 2020-03-29 07:03:03 +0200
 resources:
+  - src: "DSCF3671.webp"
+    title: "Enfant à lunettes qui compose un mandala de fleurs sur la table"
+  - src: "DSCF3672.webp"
+    title: "Enfant qui dispose des fleurs en mandala sur la table en bois"
+  - src: "DSCF3679.webp"
+    title: "Une mère et son fils qui photographient leur mandala de fleurs"
+  - src: "DSCF3682.webp"
+    title: "Enfant concentré à côté d'un petit appareil photo bleu"
+  - src: "DSCF3685.webp"
+    title: "Femme en pull jacquard qui compose un mandala de fleurs"
+  - src: "DSCF3703.webp"
+    title: "Mandala de fleurs de printemps, primevères et muscaris sur le bois"
+  - src: "DSCF3705.webp"
+    title: "Détail du mandala de fleurs, hellébore au centre"
   - src: "*.webp"
 slug: "mandala-du-dimanche"
 aliases:

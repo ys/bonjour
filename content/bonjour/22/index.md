@@ -15,7 +15,7 @@ color: red
 title: "22 - Une mesure loupée, une dame en blocs et du repos"
 slug: "22"
 ---
-![21x15-0630-12.jpeg](21x15-0630-12.webp)
+![Trois pins sous un ciel bleu](21x15-0630-12.webp)
 
 _Cette newsletter est écrite par [Yannick](https://yannickschutz.com/now), Il a loupé un ou deux épisodes mais n'a pas fait de chassé croisé. Il va encore vous raconter sa vie et ce qu'il a vu/lu/entendu. Soyez prêt! Et merci, d'être là._
 

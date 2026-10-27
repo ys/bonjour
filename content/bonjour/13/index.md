@@ -15,7 +15,7 @@ color: red
 title: "13 - Du breton, de la mini cabine et des piments"
 slug: "13"
 ---
-![](e57713fb-597a-4fe8-9171-4bad3e3076b4.webp)
+![Mobil-home au fond d'un pré entouré d'arbres](e57713fb-597a-4fe8-9171-4bad3e3076b4.webp)
 
 
 _Cette newsletter est écrite par [Yannick](https://yannickschutz.com/now), il aime les petites maisons et les grands espaces. C'est chouette de vivre dehors. Il aime plein d'autres choses comme vous l'avez sans doute déjà vu. Vous lisez ceci parce que vous avez signé de votre encre son formulaire ou parce que quelqu'un vous a transmis ce mail, merci à lui et à vous. Elle vous arrive en ce beau samedi 13 mars 2021. Un 13 pour la 13ème._

@@ -28,6 +28,16 @@ testing_shipping_rates:
   - name: "15€ • Rest of the world"
     value: "shr_1SxuvUFaA8Wpl3Epx4naimqP"
 resources:
+  - src: "back.webp"
+    title: "Back cover of the San Onofre zine on a black case"
+  - src: "front.webp"
+    title: "Front cover of the San Onofre zine"
+  - src: "pages-1.webp"
+    title: "San Onofre zine open on a palm tree and an old car"
+  - src: "pages-2.webp"
+    title: "San Onofre zine open on a beach sign"
+  - src: "print.webp"
+    title: "San Onofre zine with its small signed print"
   - src: "*.webm"
   - src: "*.webp"
 ---

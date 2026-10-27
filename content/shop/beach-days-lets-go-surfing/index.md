@@ -25,6 +25,8 @@ testing_shipping_rates:
   - name: "50€ • Rest of the world"
     value: "shr_1SxuvXFaA8Wpl3EpY0uXFatX"
 resources:
+  - src: "cover.webp"
+    title: "“Let's go surfing”: a surfer walks down the beach, board under the arm, between umbrellas, hills and a pier, framed on a stone wall"
   - src: "*.webm"
   - src: "*.webp"
 ---

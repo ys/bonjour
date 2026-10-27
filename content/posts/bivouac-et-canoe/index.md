@@ -24,6 +24,24 @@ categories:
 slug: "bivouac-et-canoe"
 emoji: "🛶"
 resources:
+  - src: "10.webp"
+    title: "Pagayeur en gilet orange dans un canoë vert"
+  - src: "12.webp"
+    title: "Deux bûches coupées sur le sol du bivouac"
+  - src: "13.webp"
+    title: "Pagayeur en gilet de sauvetage qui fait un signe depuis son canoë"
+  - src: "14.webp"
+    title: "Pagaies rouges dans le canoë, groupe de pagayeurs sur la rive"
+  - src: "19.webp"
+    title: "Canoë seul au milieu de la rivière au crépuscule"
+  - src: "20.webp"
+    title: "Barque amarrée sur un lac calme au lever du jour"
+  - src: "21.webp"
+    title: "Portrait d'un homme debout au bord du lac à la tombée de la nuit"
+  - src: "23.webp"
+    title: "Van aménagé garé sous les arbres au crépuscule"
+  - src: "8.webp"
+    title: "Mains qui scient une bûche pour le feu de camp"
   - src: "*.webp"
   - src: "6.webp"
     name: "cover"
@@ -58,4 +76,4 @@ On arrive au lieu de bivouac. On a transporté dans les canoës toute la nourrit
 
 Au moment du couché tout se passe bien. Mais durant la nuit, je rend compte que mon sac est trop frais. J'aurais du investir dans un sac plus chaud. Je le saurai pour la prochaine fois. Je me retourne pas mal mais ce ne sera pas la pire nuit de ma vie. Réveil matinal, on rallume un feu pour se réchauffer. Je n'étais pas le seul à ne pas être préparé pour la nuit en tipi. Ca me rassure. Un petit déjeuner de roi avant de tout replier et repartir. On finit calmement en se laissant porter sur la Loire. J'espère y revenir. Un chouette week-end chargé de bons souvenirs, de rencontres et de belles photos. Merci Captain Yvon!
 
-![1.webp](1.webp)
+![Canoë jaune et sacs étanches sur la berge pavée](1.webp)

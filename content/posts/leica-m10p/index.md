@@ -8,6 +8,18 @@ emoji: "📸"
 categories:
   - journal
 resources:
+  - src: "YS1003750.webp"
+    title: "Évier et planches à découper devant une fenêtre au soleil"
+  - src: "YS290048.webp"
+    title: "Avion qui passe dans un ciel bleu au-dessus d'une grille"
+  - src: "YS290295.webp"
+    title: "Petite fille de dos sur un balcon au coucher du soleil"
+  - src: "YS290368.webp"
+    title: "Rangée de longboards dans l'ombre d'un atelier"
+  - src: "YS298870.webp"
+    title: "Bureau avec des croquis épinglés sur un panneau de liège"
+  - src: "YS299881.webp"
+    title: "Immeuble de briques rouges à un carrefour de New York"
   - src: "*.webp"
 ---
 

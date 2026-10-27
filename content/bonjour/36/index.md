@@ -16,7 +16,7 @@ title: "36 - Du skate, de la nage et la terre comme seul actionnaire"
 slug: "36"
 description: "C'est 2022 et Yannick commence enfin à écouter des podcasts. Je suis un peu lent sur l'adoption des tendances ou alors trop en avance parfois."
 ---
-![7b5de96a-8060-4342-8d59-0437f75dc493.jpeg](7b5de96a-8060-4342-8d59-0437f75dc493.webp)
+![Vagues sur les rochers au bord de l'océan](7b5de96a-8060-4342-8d59-0437f75dc493.webp)
 
 *Cette newsletter est écrite par [Yannick](https://yannickschutz.com). Il va encore vous raconter sa vie et ce qu’il a vu/lu/entendu. Soyez prêt! Et merci, d’être là. Si vous aimez, n’hésitez pas à la partager. Sinon, ne la partagez pas.*
 

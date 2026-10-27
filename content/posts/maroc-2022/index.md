@@ -9,6 +9,32 @@ emoji: "🇲🇦"
 categories:
   - journal
 resources:
+  - src: "22x57-1223-38.webp"
+    title: "Homme assis sur une charrette bleue devant les remparts d'Essaouira"
+  - src: "22x58-1227-14.webp"
+    title: "Portes bleues d'une boutique dans la médina d'Essaouira"
+  - src: "22x58-1227-15.webp"
+    title: "Échoppe aux portes bleues ouvertes dans la médina"
+  - src: "22x58-1227-23.webp"
+    title: "Étal de bijoux et de tissus colorés dans un souk"
+  - src: "22x58-1227-31.webp"
+    title: "Homme en turban bleu sur une place de la médina"
+  - src: "22x64-1231-21.webp"
+    title: "Vélo devant une arche en terre ocre, palmiers derrière"
+  - src: "23x02-0101-34.webp"
+    title: "Façade d'une surf house avec une planche à louer"
+  - src: "23x03-0101-31.webp"
+    title: "Land Rover chargé de planches dans une ruelle colorée"
+  - src: "23x03-0101-39.webp"
+    title: "Renault 4 garée devant une maison blanche aux portes bleues"
+  - src: "23x04-0102-05.webp"
+    title: "Façade grise aux fenêtres en fer forgé et plantes en pots"
+  - src: "23x04-0102-13.webp"
+    title: "Renault 4 bleue garée devant un mur blanc"
+  - src: "23x04-0102-14.webp"
+    title: "Arrière d'une Renault 4 bleue à côté d'un arbuste"
+  - src: "23x04-0102-18.webp"
+    title: "Rue d'un village marocain vue depuis une terrasse ombragée"
   - src: "*.webp"
 
 description: "Echanger les mois noirs bretons pour quelques jours de soleil près des Berbères."
@@ -18,7 +44,7 @@ Les mois noirs, en Bretagne, on te dit que si tu arrives à les passer, tu pourr
 
 Le Maroc, c'est plutôt étendu. C'est un pays aux mille visages. On a donc dû choisir. Une semaine là-bas, on a pris une maison pour quelques jours dans la médina de Essaouira. Puis on est descendu deux jours sur Tamraght avant de rentrer. Voilà, tu sais tout. Tu peux t'arrêter ici si cela te chante.
 
-![](cover)
+![Ruelle de souk couverte de tapis et de tissus](cover)
 
 ... Sinon, je vais t'en dire un peu plus.
 
@@ -45,4 +71,4 @@ On passera deux nuits entre les montagnes et la mer en bord de route quasiment �
 
 Le Maroc, on y pensait depuis un moment et franchement, on aurait pas dû attendre autant. Quel plaisir. On y reviendra vite, on le sait déjà. Et cette fois là, on surfera un bon coup.
 
-![](23x01-0101-34.webp)
+![Femme de dos à une fenêtre qui regarde la rue](23x01-0101-34.webp)

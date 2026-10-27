@@ -14,7 +14,7 @@ Ce n'était même pas encore mai, mais on ressentait déjà cette atmosphère es
 
 L'ambiance était pleine de sourires, les gens rigolaient, ça discutait dans tous les sens. On comparait les shapes, on observait les planches sans se prendre trop au sérieux. Se prendre trop au sérieux est un mal moderne, mais après le surf A-dreuz, on sait que ce n'est pas le genre de la maison. Le maître de cérémonie le confirme totalement. Nous sommes dans un décalage, mais les orteils vont quand même finir par se retrouver sur les noses.
 
-![](22x25-0429-13.webp)
+![Longboard posé sur le sable à côté d'un surfeur en combinaison](22x25-0429-13.webp)
 
 Je regrette un peu de ne pas avoir pris mon appareil aqua pour tenter de capturer l'essence même du longboard à Gwidel. Mais l'ambiance sur la plage est tellement bonne que cela s'oublie rapidement. Je prends quelques clichés variés, je discute, je découvre le beau monde présent. Je croise des visages familiers et beaucoup de nouveaux.
 

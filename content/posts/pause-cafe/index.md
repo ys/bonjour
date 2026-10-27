@@ -5,6 +5,10 @@ emoji: ☕️
 color: yellow
 date: 2020-04-16 07:03:03 +0200
 resources:
+  - src: "1.webp"
+    title: "Tasse de café en céramique sur une table en bois"
+  - src: "2.webp"
+    title: "Grains de café dans une coupelle posée sur une balance"
   - src: "*.webp"
 categories:
 - cafe

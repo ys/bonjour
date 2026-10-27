@@ -36,7 +36,7 @@ En parlant de mes bookmarks, je les ai aussi refait et j'importe maintenant depu
 Voilà, c'est déjà tout.
 
 
-![](zine.gif)
+![Le zine Gwidel Log Fest sur une table en bois](zine.gif)
 
 Enfin, presque, je vous avais dit que je préparais plusieurs zines, [le petit dernier sur du surf est sorti](https://yannickschutz.com/shop/gwidel-log-fest/). Il est disponible [avec](https://yannickschutz.com/shop/gwidel-log-fest-with-print/) ou [sans](https://yannickschutz.com/shop/gwidel-log-fest/) print. Foncez.
 

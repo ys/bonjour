@@ -20,4 +20,4 @@ Next, I tried the Fuji X-H2, which had a lot of appeal to me. My friend Greg off
 
 Then, it got clear, my heart was already set on a camera similar to my M6. I mean, Cloé knew it all along. Could it really be that simple? I've had the Leica M10-P for about a week now, and I think it might just be the solution. I needed a slower camera. Time will tell how it fares in the long term, but I'm enjoying using something that mimics the experience I have with film. Sure, it has a screen and a memory card, and it's not film. But goodness, it's a pleasure to use.
 
-![](cover.webp)
+![Hand holding a black Leica M camera, black and white](cover.webp)

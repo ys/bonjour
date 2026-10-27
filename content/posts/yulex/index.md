@@ -12,7 +12,7 @@ categories:
 - surf
 ---
 
-![](cover)
+![Combinaisons qui sèchent au soleil à côté d'un van](cover)
 
 J'ai commencé à surfer y'a moins de 3 ans. Dès le début, j'ai été sensibilisé au fait que le Néoprène était un produit chimique dangereux pour la santé et pas super sain, dérivé du pétrole. Dès ma première combi, j'ai cherché à ne pas polluer autant. Donc, oui je porte une combi [Patagonia](https://eu.patagonia.com), cela ne fait pas de moi un grand surfeur, loin de là.
 

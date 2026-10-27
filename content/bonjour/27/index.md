@@ -15,7 +15,7 @@ color: red
 title: "27 - Larmes, Cancer et changement climatique"
 slug: "27"
 ---
-![BC2631EA-5847-4B82-99DA-3AB524A20E3C.jpeg](BC2631EA-5847-4B82-99DA-3AB524A20E3C.webp)
+![Inscription au sol peinte en jaune, vue à l'envers](BC2631EA-5847-4B82-99DA-3AB524A20E3C.webp)
 
 -----
 

@@ -15,7 +15,7 @@ title: "38 - Des scripts, de la pensée magique et moins de liens"
 slug: "38"
 description: "J'avais envie de commencer en parlant un peu de moi. Je sais, je ne fais que ça. Moi, moi & moi. Un peu d'auto promo."
 ---
-![image.webp](image.webp)
+![Porte vitrée d'une maison en pierre avec un dessin sur la vitre, en noir et blanc](image.webp)
 
 *Hello, moi c'est* [*Yannick*](https://yannickschutz.com)*. J'ai oublié d'être régulier car au final je pensais à ce que j'allais lire. Je parle de mes lectures, mes pensées et parfois je vous montre que je code un peu. Merci d’être là. Si vous aimez, n’hésitez pas à la partager. Sinon, ne la partagez pas.*
 

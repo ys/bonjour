@@ -17,7 +17,7 @@ slug: "2"
 description: "Cette lettre me permet d'écrire et d'expérimenter plus que sur le blog. J'avais envie de partager avec vous différemment. "
 ---
 
-![](148a749b-bad5-4390-830c-9b6acb229114.webp)
+![Intérieur d'une serre maraîchère pleine de semis](148a749b-bad5-4390-830c-9b6acb229114.webp)
 
 👋
 

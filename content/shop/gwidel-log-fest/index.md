@@ -13,6 +13,14 @@ price: "9"
 soldout: true
 price_id:  "price_1MewJpFaA8Wpl3EpZ3NrCiLY"
 resources:
+  - src: "IMG_2533.webp"
+    title: "Gwidel Log Fest zine with prints and a wooden fin"
+  - src: "logfest_11.webp"
+    title: "Spread of photos from the Gwidel Log Fest: surfers and beach chairs"
+  - src: "logfest_18.webp"
+    title: "Spread of photos from the Gwidel Log Fest: boards on the sand"
+  - src: "logfest_3.webp"
+    title: "Spread of photos: a VW van parked in Guidel"
   - src: "*.webm"
   - src: "*.webp"
 ---

@@ -25,6 +25,8 @@ testing_shipping_rates:
   - name: "50€ • Rest of the world"
     value: "shr_1SxuvXFaA8Wpl3EpY0uXFatX"
 resources:
+  - src: "cover.webp"
+    title: "“Let it dry”: a van parked by the ocean after the session, in black and white, framed on a stone wall"
   - src: "*.webm"
   - src: "*.webp"
 ---

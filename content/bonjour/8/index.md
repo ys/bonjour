@@ -17,7 +17,7 @@ slug: "8"
 description: "Moi c'est Yannick, celui-là même qui était couché avant minuit le 31. J'écris ça plutôt avec de l'espoir car là, on est le 30. J'écris cette lettre à l'avance. Prévoyant le petit gars."
 ---
 
-![](d70e5488-12e6-480a-bce8-c2cacbca1d2c.webp)
+![Muret de plage avec un panneau Plage non surveillée](d70e5488-12e6-480a-bce8-c2cacbca1d2c.webp)
 
 👋🏻
 

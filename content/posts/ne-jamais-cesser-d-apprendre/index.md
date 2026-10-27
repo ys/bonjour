@@ -8,6 +8,10 @@ tags: [apprendre, photographie, workshop, microaventure, aventure, passion, inve
 categories:
 - journal
 resources:
+- src: "3.webp"
+  title: "Arbres nus dans la brume du matin"
+- src: "4.webp"
+  title: "Allée de campagne bordée d'arbres dans la lumière du matin"
 - src: "*.webp"
 summarry: "Depuis quelques années, j’ai décidé d’investir en moi-même. Avant, toutes mes passions étaient liées à mon métier. Tout l'apprentissage aussi. Il me faut apprendre constamment. La technologie d'une part et les « soft skills » qui traitent plus des relations humaines que de la technique d'autre part. J’ai donc appris à mieux communiquer, mieux comprendre les personnes et mieux gérer le stress. C’est effectivement utile au quotidien."
 ---
@@ -31,4 +35,4 @@ Et c’est ainsi que ce week-end, je me retrouverai à un [workshop en canoë](h
 
 D’ailleurs, rappelez moi de vous parler de pourquoi j'ai de plus en plus de coupures sur les mains. Mais ca sera pour plus tard.
 
-![5.webp](5.webp)
+![Outils à cuillère en bois et bocal de copeaux sur un set de table jaune](5.webp)

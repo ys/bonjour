@@ -10,7 +10,7 @@ canonical: https://bonjouryannick.substack.com/p/on-showing-up-failing-and-learn
 
 With Tom, we’ve been surfing together since our very first lesson. Every time he gets in the water, I try to join him. I love bringing him out on smaller waves where I don’t have to worry too much about what could happen to him. As a dad, I’ll always be thinking about his safety. One day, when he’s out there on his own, he’ll make his own choices. I’ll still worry, but those will be his choices to make. I truly cherish the moments we share. Watching him ride a wave all the way to shore, then paddle back to me with that huge smile on his face. Those are memories I’ll hold onto for the rest of my life. I hope we can keep sharing fun waves together forever.
 
-![](01.webp)
+![Hands above a surfboard on the grass, black and white](01.webp)
 
 Yesterday, the tide was low. Our usual spot for “dad & son” sessions works better at half tide, so we decided to try another one. It’s a favorite among many surfers, but it’s a spot I’ve always been nervous about. I’m a small wave surfer, and this break was more engaged than what we’re used to. The bigger sets were definitely too big for us, but we went anyway. Thankfully, we had friends with us who knew the spot well and were looking out for our safety. We planned to let the bigger sets pass and take the smaller ones. It wasn’t crazy big you know, but once it is too big for you, you just feel it.
 

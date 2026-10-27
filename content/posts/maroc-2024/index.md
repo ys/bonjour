@@ -9,6 +9,18 @@ emoji: "🇲🇦"
 categories:
   - journal
 resources:
+  - src: "YS294247.webp"
+    title: "Tentes berbères au coucher du soleil près de la mer"
+  - src: "YS294361.webp"
+    title: "Pieds dans un hamac sous les plantes d'un patio"
+  - src: "YS294386.webp"
+    title: "Chapeau de paille accroché à une façade rose aux volets bleus"
+  - src: "YS294396.webp"
+    title: "Marché couvert avec des étals d'oranges et de légumes"
+  - src: "YS294452.webp"
+    title: "Chien qui dort sur un muret devant les boutiques"
+  - src: "YS294624.webp"
+    title: "Enfants au balcon d'une maison blanche à la fenêtre arrondie"
   - src: "*.webp"
 description: "Entre tente berbère et Riad avec piscine. Les mois noirs sont meilleurs au soleil. Sauf quand tu paumes les clefs de la voiture de location"
 ---
@@ -24,7 +36,7 @@ C’était notre première fois à Imsouane. Je ne l’ai pas connue avant la de
 
 Je me rappelle m’être soulevé en entendant parler de cette destruction par le gouvernement Marocain. Là-bas, j’ai pu en parler un peu plus avec des locaux. Il faut vraiment se méfier des nouvelles qui forcent à la réaction émotionnelle. Je vous laisse lire [cette interview](https://climateandboardsports.substack.com/p/no-wanted-to-surf-when-the-bulldozers) d’un local. Comme toujours, rien n’est noir. Rien n’est blanc. Tout est gris. Surtout le ciel Breton. Je me demande quel visage Imsouane aura la prochaine fois que je la croiserai.
 
-![](YS294341.webp)
+![Baie de Tamraght et ses vagues vue depuis la falaise](YS294341.webp)
 
 On a redécouvert Tamraght. Cette fois, pour plus de deux jours. C’était notre camp de base. On avait un beau Riad avec une petite piscine pour fatiguer les enfants en fin de journée. On a pu rayonner un peu partout autour. Tellement de beaux lieux à découvrir et y vivre de superbes aventures. Je vais vous en raconter une qui mérite particulièrement votre attention et un rien de votre temps. 
 
@@ -36,11 +48,11 @@ Je repars donc faire la randonnée en mode accéléré. Je demande à tous les p
 
 J’étais, je vous l’avoue, un rien extatique à ne pas devoir appeler Hertz. Les restaurateurs partagent mon enthousiasme au retour. Un me dit même qu’il a eu un appel du gardien du parking. Ce dernier a mes clefs. J’arrive cuit au parking, les enfants sourient, Cloé aussi. Un mot écrit dans la poussière du pare-brise arrière nous dit que le gardien a bien les clefs. Quelle aventure. D’ailleurs, si jamais vous connaissez un couple qui était à Agadir qui vous a parlé de cette histoire, envoyez les moi.
 
-![](YS294898.webp)
+![Troupeau de chèvres qui traverse la route](YS294898.webp)
 
 Au retour de cette mésaventure, on se retrouve bloqué face à un troupeau de chameaux. *Venez avec vos bosses, tout est chameau pour moi.* J’arrête la voiture et laisse la magie s’opérer. Ils nous passent autour avec leurs bébés, dresseurs et ânes. Un moment magique qui n’aurait pas eu lieu si je n’avais pas perdu ces clés de voiture. Parfois, on dépense une heure pour retrouver ses clés pendant que les enfants jouent à la plaine de jeux. Et au final, tout le monde est gagnant. Sauf les gens pressés peut-être. Le Maroc nous apprend vraiment que ralentir est la clé. 
 
-![](YS295064.webp)
+![Chien devant un dépôt de bouteilles de gaz bleues dans les collines](YS295064.webp)
 
 Je pourrais passer des heures à vous en dire plus sur ce voyage. Parler des autres mésaventures que l'on a eues. Mais en vrai, l'important c'est de comprendre que les mésaventures sont aussi des aventures. On en rit déjà, on les a bien vécues et surtout, ce n'était pas la majeure partie du séjour, en fait. Sur les jours restants, on flânera dans des souks, on mangera de bons petits plats, on profitera de la plage, on admirera une Punto passer une piste de sable. Des tonnes de vieilles Peugeots, de vieux vans et de vieilles 4L peupleront mes photos. On partagera des iced latte. Tom prendra un kids latte. On s'est laissé porter par le soleil, on a pris notre temps pour s'imprégner de la façon de vivre locale. Je ne peux que conseiller le Maroc aux familles. Les gens sont tellement accueillants et bienveillants. On est rentré depuis une semaine et Louise demande encore si ce qu'elle entend c'est l'appel à la prière. Ce pays l'a marquée. Et nous aussi. 
 

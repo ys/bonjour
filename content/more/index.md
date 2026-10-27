@@ -21,7 +21,7 @@ This is where you can get the extra bang for your bucks. BTW, if you want to sup
 - [Bonjour](/bonjour) ⭢ Juste des petits mots dans votre boîte mail
 - [Now](/now) ⭢ What I am doing?
 
-![](more.webp)
+![Wall with a skateboard deck, prints and an SFO sign above a bench](more.webp)
 
 ## Blogroll
 

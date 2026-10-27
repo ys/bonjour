@@ -11,6 +11,14 @@ pricetag: "~~18€~~ SOLD OUT"
 emoji: 🌊
 price_id: "price_1KhdAaFaA8Wpl3EpuCoGpElU"
 resources:
+  - src: "1000tides2.webp"
+    title: "The A Thousand Tides zine open on a wooden deck with a pebble"
+  - src: "1000tides3.webp"
+    title: "Hands holding the A Thousand Tides zine open"
+  - src: "1000tides4.webp"
+    title: "Hand turning the pages of A Thousand Tides"
+  - src: "1000tides6.webp"
+    title: "The A Thousand Tides zine next to a camera on a wooden table"
   - src: "*.webm"
   - src: "*.webp"
 ---

@@ -22,6 +22,15 @@ price_ids:
     value: "price_1QqLJMFaA8Wpl3EpyvknwpUO"
   - name: "25€ • Large (A4)"
     value: "price_1QqLJhFaA8Wpl3Epu7eMxIcj"
+resources:
+  - src: "cover.webp"
+    title: "Cyanotype prints of California scattered on a wooden table"
+  - src: "large.webp"
+    title: "Large cyanotype prints of palm trees and a national park sign"
+  - src: "medium.webp"
+    title: "Medium cyanotype prints of surfboards and palm trees"
+  - src: "small.webp"
+    title: "Small cyanotype prints of surfboards and a beach hut"
 ---
 
 Those cyanotypes are all unique. 

@@ -9,11 +9,15 @@ emoji: "🌵"
 categories:
   - journal
 resources:
+  - src: "19.webp"
+    title: "Carrefour de pistes dans le désert de Joshua Tree"
+  - src: "35.webp"
+    title: "Rangée de boîtes aux lettres au bord d'une piste du désert"
   - src: "*.webp"
 description: "La première fois que j'ai pris la Highway 62, je ne connaissais pas son nom. Elle était juste la route du désert pour moi."
 ---
 
-![](card)
+![Gros rocher de granit dans le parc de Joshua Tree](card)
 
 La première fois que j'ai pris la Highway 62, elle était juste la route du désert. Ce ne fut qu'en croisant Jason Lee dans son magasin et en parlant avec lui que j'appris son nom. J'allais la recroiser pour la seconde fois. Elle est le genre de route qui me fait rêver les road trips américains. Aux côtés de la highway 1, j'ai adoré les traverser.
 
@@ -26,4 +30,4 @@ Il fait plus chaud. On se retrouve à flâner entre midi et deux. Histoire d'év
 
 Le désert nous attire. On y reviendrait, je pense qu'on y reviendra. Il est vaste et on n'a pas tout vu. Une sorte d'ordre mystique attire et enchante.
 
-![](06)
+![Panneau de la Highway 62 à Twentynine Palms](06)

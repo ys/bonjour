@@ -9,6 +9,20 @@ emoji: "📸"
 categories:
   - surf
 resources:
+  - src: "1.webp"
+    title: "Surfeur en casquette qui installe la dérive de sa planche dans l'herbe"
+  - src: "2.webp"
+    title: "Surfeuse qui fart sa planche au pied de la dune"
+  - src: "3.webp"
+    title: "Surfeur qui porte sa planche, un chien à ses pieds"
+  - src: "5.webp"
+    title: "Appareil photo étanche accroché au cou d'un surfeur en combinaison"
+  - src: "6.webp"
+    title: "Portrait d'un surfeur avec son longboard blanc"
+  - src: "7.webp"
+    title: "Surfeur qui regarde la mer, planche sous le bras"
+  - src: "cover.webp"
+    title: "Surfeur qui marche sur la plage avec son longboard"
   - src: "*.webp"
 
 description: ""
@@ -35,4 +49,4 @@ Je me suis dit que j'allais plutôt les mettre eux à l'honneur. Merci à [Greg]
 
 Merci [JB de l'école de surf du Léon](https://www.ecole-surf-leon.com) pour ces quelques petites vidéos
 
-![](horrible)
+![Surfeur à lunettes qui rame à plat ventre sur sa planche](horrible)

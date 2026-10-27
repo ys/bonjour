@@ -17,7 +17,7 @@ description: "L'été est arrivé, il pleut le matin, fait beau l'après-midi. L
 
 *hello, moi c'est [Yannick](https://yannickschutz.com). je ne suis pas du tout régulier dans cette lettre et c'est peut-être tant mieux. je ne sais pas pourquoi je l'écris, souvent vous, lecteur, remplacez une séance chez un psy ou un appel à un ami je pense. donc merci merci d’être là. si vous aimez, n’hésitez pas à la partager. sinon, ne la partagez pas.*
 
- ![](cover.webp)
+ ![Route droite dans le désert vue à travers le pare-brise, en noir et blanc](cover.webp)
 
 ✌️
 

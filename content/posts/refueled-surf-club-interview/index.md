@@ -4,6 +4,13 @@ date: 2026-10-06
 title: "Refueled Surf Club Interview"
 subtitle: "If you're new here, I've been meaning to introduce myself. Turns out someone else asked the right questions."
 canonical: https://bonjouryannick.substack.com/p/refueled-surf-club-interview
+resources:
+  - src: "01.webp"
+    title: "Refueled Surf Club cover with Yannick Schutz holding a camera"
+  - src: "02.webp"
+    title: "Quote card with a surfboard in the sea: Glaz is a color that doesn't exist in English"
+  - src: "03.webp"
+    title: "An 11-foot Plume d'avion glider held upright in the garden"
 ---
 
 **First published on [Substack](https://bonjouryannick.substack.com/p/refueled-surf-club-interview)**
@@ -28,13 +35,13 @@ Thanks a lot, Chris.
 
 I love the whole ceremony of film. I love that even when you try to master everything, you still get surprises. It forces you to slow down. It forces you to notice. Then you have to wait and learn patience. It is the filter coffee of photography. To me, art is at its best when you have constraints. A prime lens, a roll of 36 exposures, manual focus. All of that makes you think more than a Swiss Army knife that does it all. Or to sum it up: I find it more fun.
 
-![](04.webp)
+![Cameras on a shelf above prints, black and white](04.webp)
 
 ### Explain Glaz to us.
 
 Glaz is a color that doesn’t exist in English. It’s the color of the ocean, or the sky. Glaz is teal if you lack imagination. It’s an old Breton word, and I love that Breton is still alive here. The word means much more than a color. It’s a feeling, the way the ocean makes me feel. I fell in love with glaz when I arrived in Bretagne. I eventually got it tattooed, with a sentence you could translate as ‘the glaz in your eyes.’ It’s also the name I give to all my Nikonos work and water photos. Even if I’m not as productive as I’d like.
 
-![](05.webp)
+![Surfboard fin close-up, black and white](05.webp)
 
 ### Describe the longboard you had shaped by Mimosa.
 

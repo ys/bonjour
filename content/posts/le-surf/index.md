@@ -58,4 +58,4 @@ C'est sentir la glisse.
 C'est comme un psy sans besoin de remboursement.
 C'est quelques aller-retours vers la côte pour peu de vagues mais pour une paix et un bien-être qui n'a pas de prix.
 
-![](surf.gif)
+![Animation d'une session de surf en argentique](surf.gif)

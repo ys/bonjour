@@ -15,7 +15,7 @@ color: red
 title: "30 - Dave Grohl, des magazines et un mont analogue"
 slug: "30"
 ---
-![3EA24835-0D5B-4E79-B72F-1D9C715726A5.jpg](3EA24835-0D5B-4E79-B72F-1D9C715726A5.webp)
+![Plage de Famara à Lanzarote, falaises et vagues](3EA24835-0D5B-4E79-B72F-1D9C715726A5.webp)
 
 ---
 

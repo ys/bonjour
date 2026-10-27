@@ -16,7 +16,7 @@ title: "35 - marche rapide, non sens et des essais"
 slug: "35"
 description: "On se rapproche doucement de mon âge (cfr le numéro de la lettre). Souvent, j'ai envie d'écrire puis j'oublie. Où alors, je pense n'avoir rien à dire"
 ---
-![Charrue](Charrue.webp)
+![Foule de festival en plein soleil devant la scène](Charrue.webp)
 
 ---
 *Cette newsletter est écrite par [Yannick](https://yannickschutz.com). Il va encore vous raconter sa vie et ce qu’il a vu/lu/entendu. Même si en fait il n'a pas grand chose à dire. Merci, d’être là. Si vous aimez, n’hésitez pas à la partager. Sinon, ne la partagez pas.*
@@ -33,7 +33,7 @@ Je suis désolé chers lecteurs. Je vous ai laissé sur votre faim. Je me suis d
 
 Je vous ai déjà dit que je gardait tous les liens qui me plaisaient et que je les archivais. Je fais ça pour moi, mais [en public](https://yannickschutz.com/bookmarks). Et là, paf un tweet qui me dit que c'est utile. Et là, je me sens non pas comme un coq. Mais juste heureux d'avoir partager. Heureux aussi que cela plaise. Cela flatte un rien mon égo.
 
- ![un tweet](un_tweet.webp)
+ ![Capture d'un tweet qui parle des bookmarks de Bonjour Yannick](un_tweet.webp)
 
 Ces derniers temps, je n'ai pas lu beaucoup de bouquins. Donc je ne vous en parlerai pas. Je viens quand même de commencer [le dernier livre de Sally Rooney](https://en.wikipedia.org/wiki/Beautiful_World,_Where_Are_You). Et j'aime toujours autant sa prose. Je ne vous le conseille pas encore, j'ai lu 10% selon mon Kindle qui tombe en ruine.
 

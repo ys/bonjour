@@ -16,7 +16,7 @@ title: "24 - Idées déco, surf et Gustave Eiffel"
 slug: "24"
 ---
 
-![17ACB8A7-F7AB-4096-A0EC-FDD13B33BE81.jpeg](17ACB8A7-F7AB-4096-A0EC-FDD13B33BE81.webp)
+![Entrée de port en noir et blanc, phare et petit bateau](17ACB8A7-F7AB-4096-A0EC-FDD13B33BE81.webp)
 
 _Cette newsletter est écrite par \[Yannick\](_[_https://yannickschutz.com/now_](https://yannickschutz.com/now)_). Il aime les listes, partager et découvrir. Il va encore vous raconter sa vie et ce qu'il a vu/lu/entendu. Soyez prêt! Et merci, d'être là._
 

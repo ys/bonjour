@@ -24,6 +24,10 @@ categories:
 slug: "astuces-rando-avec-enfants"
 emoji: "🧒"
 resources:
+  - src: "1.webp"
+    title: "Une mère et son fils en randonnée parmi les rochers, bâton de marche à la main"
+  - src: "3.webp"
+    title: "Une mère et son fils assis sur un rocher, face à la lande"
   - src: "*.webp"
   - src: "cover.webp"
     name: "cover"

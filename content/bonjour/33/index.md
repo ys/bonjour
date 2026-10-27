@@ -16,7 +16,7 @@ title: "33 - Super 8, wikilinks & du papier"
 slug: "33"
 description: "Aujourd'hui, je viens de poster une première vidéo sur instagram, je n'avais jamais fait cela. Je me sens un peu vieux parfois. Je dis une, car ce n'est pas moi qui l'ai filmée, ni éditée."
 ---
-![22x28-0501-11.jpeg](22x28-0501-11.webp)
+![Planche de surf posée dans le sable](22x28-0501-11.webp)
 
 *Cette newsletter est écrite par [Yannick](https://yannickschutz.com). Il va encore vous raconter sa vie et ce qu’il a vu/lu/entendu. Soyez prêt! Et merci, d’être là. Si vous aimez, n’hésitez pas à la partager. Sinon, ne la partagez pas.*
 

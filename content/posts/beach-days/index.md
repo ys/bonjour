@@ -13,7 +13,7 @@ It is part of my endless summer in California.
 I have documented our journeys from Santa Cruz to San Onofre and decided that part of that needed to be enjoyed as a printed thing.  
 This is it.
 
-![](01.webp)
+![Hands holding the Beach Days zine in front of a hedge](01.webp)
 
 Many rolls were sent to my favorite labs. And the results started to show some path and similitude every time I came back to some places. This led me to the selection for the exhibition. But of course, I had too many pictures. Some were fillers, other were amazing shots that didn’t make the cut. But I love to print stuff so I made a zine to share them all.
 
@@ -25,7 +25,7 @@ When some lights just hit surfboards perfectly and you hope you nailed the shot.
 
 Those are a few of the feelings I hope you will get while watching the pictures or turning the pages of the zine.
 
-![](02.webp)
+![Surfers sitting by a wall lined with colourful boards, California](02.webp)
 
 I am quite pleased with the result. I hope I will get many eyes on both the zine and the exhibition. I hope I will find other places to show this set later on. If you are interested or know a place, please tell me.
 
@@ -33,4 +33,4 @@ The pictures are visible at Chez Lucette in Brest. You can find more information
 
 On a technical note, I had the chance to play with [Matt Allen fonts](https://www.instagram.com/handdrawnfont/) for the zine. And I must say, those are amazing! The SVG fonts are amazing to use, I cannot wait for Affinity to support those.
 
-![](03.webp)
+![Cars and vans parked along the beach road at San Onofre, in black and white](03.webp)

@@ -15,7 +15,7 @@ color: red
 title: "25 - Baguette, opportunités et un brin de magie"
 slug: "25"
 ---
-![C549D205-087F-4E16-8A12-D1A7ECD51337.jpeg](C549D205-087F-4E16-8A12-D1A7ECD51337.webp)
+![Allée centrale d'une serre maraîchère](C549D205-087F-4E16-8A12-D1A7ECD51337.webp)
 
 _Cette newsletter est écrite par \[Yannick\](_[_https://yannickschutz.com/now_](https://yannickschutz.com/now)_). Dans un monde de sorciers, il aurait été heureux. Il va encore vous raconter sa vie et ce qu'il a vu/lu/entendu. Soyez prêt! Et merci, d'être là._
 

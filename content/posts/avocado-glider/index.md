@@ -4,6 +4,13 @@ date: 2026-08-28
 title: "A summer with an avocado glider"
 subtitle: "A gliding machine for the waves nobody wants"
 canonical: https://bonjouryannick.substack.com/p/avocado-glider
+resources:
+  - src: "01.webp"
+    title: "Longboard crème tenu debout dans l'herbe, devant les fougères"
+  - src: "02.webp"
+    title: "Longboard crème à liteau marron tenu debout devant une haie"
+  - src: "03.webp"
+    title: "Longboard crème tenu debout dans un jardin, ciel gris"
 ---
 
 **First published on [Substack](https://bonjouryannick.substack.com/p/avocado-glider)**
@@ -20,7 +27,7 @@ Laurent has been shaping under the Plume d’Avion name in Bretagne way before i
 
 Back to the board. I wanted something for really small waves, like less than knee high days. And this summer delivered that sometimes. Or nothing most of the time.
 
-![](04.webp)
+![A surfer carrying a cream longboard through the garden](04.webp)
 
 My first session with that avocado board was quite a disaster. Discovering new rails and how to position myself compared to the forgiving 9’6 I have. Also, finding where to lay on this one was a challenge depending on the waves. A lot of places are ok but some are better. Like any board I think, but once you have been surfing the same one for a long time, it takes a minute to adjust. But at some point, it clicked. Waves were tiny and I was gaining speed and trimming while foamies had a hard time even paddling in. Maybe this was due to the human operating the board and not the board itself.
 
@@ -28,4 +35,4 @@ Once you get it, you paddle easily and get into waves early. This is a great fee
 
 Sure, I still have no idea where to store this glider. But thank you for the fun summer waves I wouldn’t have caught or considered otherwise!
 
-![](05.webp)
+![Bare feet in the grass next to the nose of a cream surfboard](05.webp)

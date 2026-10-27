@@ -16,7 +16,7 @@ description: "Je me suis dit qu'il fallait que je finisse l'année sur un nombre
 ---
 *hello, moi c'est [Yannick](https://yannickschutz.com). je ne suis pas du tout régulier dans cette lettre et c'est peut-être tant mieux. je ne sais pas pourquoi je l'écris, souvent vous, lecteur, remplacez une séance chez un psy ou un appel à un ami je pense. donc merci merci d’être là. si vous aimez, n’hésitez pas à la partager. sinon, ne la partagez pas. Oops, deux en une semaine, il doit vraiment vouloir papoter.*
 
- ![cover](cover)
+ ![Porte bleue avec une couronne de verdure et une glycine](cover)
 
 ✌️
 

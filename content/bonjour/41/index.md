@@ -16,7 +16,7 @@ description: "Nouvelle année, meilleurs voeux. Je ne sais pas vous mais moi com
 ---
 *hello, moi c'est [Yannick](https://yannickschutz.com). je ne suis pas du tout régulier dans cette lettre et c'est peut-être tant mieux. je ne sais pas pourquoi je l'écris, souvent vous, lecteur, remplacez une séance chez un psy ou un appel à un ami je pense. donc merci merci d’être là. si vous aimez, n’hésitez pas à la partager. sinon, ne la partagez pas. Oops, deux en une semaine, il doit vraiment vouloir papoter.*
 
- ![22x36-0609-20.JPG](cover.webp)
+ ![Chien dans un garage ouvert à côté de planches de surf, en noir et blanc](cover.webp)
 
 Nouvelle année, meilleurs voeux. Je ne sais pas vous mais moi comme chaque année maintenant, je dormais quand les feux d'artifices ont sans doute explosé. D'ailleurs, ils explosent encore ou pas? On était au Maroc pour passer le nouvel an, ils le fêtent comme nous. Y'avait aussi des bouteilles cassées le lendemain matin. Mais mieux que les français en fait. Y'a pas eu de voitures incendiées etc.
 

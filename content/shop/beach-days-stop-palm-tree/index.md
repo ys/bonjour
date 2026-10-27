@@ -26,6 +26,8 @@ testing_shipping_rates:
   - name: "50€ • Rest of the world"
     value: "shr_1SxuvXFaA8Wpl3EpY0uXFatX"
 resources:
+  - src: "cover.webp"
+    title: "“Stop palm tree”: a red palm tree next to a stop sign, a playful frame of film from California, framed on a stone wall"
   - src: "*.webm"
   - src: "*.webp"
 ---

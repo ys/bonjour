@@ -10,6 +10,14 @@ slug: "2020"
 color: yellow
 emoji: "😷"
 resources:
+- src: "11.webp"
+  title: "Enfant de dos devant un potager au soleil du matin"
+- src: "13.webp"
+  title: "Jardin potager et haies sous un ciel bleu pâle"
+- src: "IMG_5006.webp"
+  title: "Silhouette debout sur les rochers face à la mer au coucher du soleil"
+- src: "IMG_5014.webp"
+  title: "Côte rocheuse et petite crique au coucher du soleil"
 - src: "*.webp"
 - src:  "cover.webp"
   name: "cover"
@@ -39,7 +47,7 @@ On profitera du déconfinement pour échanger le California pour un fourgon un p
 
 En juin, avec Tom [on commence le surf](https://yannickschutz.com/se-mettre-a-l-eau/). Finalement! On adore, un vrai moment père fils. Même si en fait, on ne se voit quasi pas durant les leçons. L'été passe trop vite, pas le temps de prendre une leçon. On reprendra à l'automne. On est pas encore reconfiné alors on en profite. Chaque week-end, à l'eau. On progresse, je tiens debout, je commence à tourner. JB et Jean-Phi de l'[école de surf du Léon](https://www.ecole-surf-leon.com) y sont pour beaucoup, merci les gars. Je m'entraîne à mieux me lever, je lis, je regarde. J'ai une planche en vue. Deux combis. Je craque pour un Nikonos. Je demande de l'aide à [Greg](https://gregorymignard.com) et [Yves](https://yvesquere.com) pour me sentir plus à l'aise dans l'eau. Hâte de reprendre tout cela où je l'ai laissé. La mer est vraiment ma révélation du Finistère et de l'année. Une amie plutôt salée que j'aime voir et revoir.
 
-![surf](surf.webp)
+![Parking en terre près de la plage, une planche de surf posée contre une voiture](surf.webp)
 
 ## Fin du numérique
 

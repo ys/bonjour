@@ -9,7 +9,7 @@ type: "about"
 resources:
   - src: "*.webp"
 ---
-![](cover.webp)
+![Customers at the counter of a coffee shop, black and white](cover.webp)
 # It is all about coffee anyway isn't it?
 
 - https://markus.is/photographing/little-nap-coffee-stand/

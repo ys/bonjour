@@ -8,13 +8,17 @@ emoji: "🏡"
 categories:
 - journal
 resources:
+- src: "hello-world-2.webp"
+  title: "Île et petit fort au large, rochers au premier plan"
+- src: "hello-world-3.webp"
+  title: "Cale de pierre qui s'avance dans la mer brumeuse"
 - name: "cover"
   src: "hello-world-4.webp"
 - src: "*.webp"
 description: "Aujourd'hui, je viens de manger notre première pomme. Ca vous fait un truc quand elle vient de chez vous. Votre production donne ses fruits. C'est assez fou, on les a pas planté. Merci les anciens propriétaires mais quand même. Enfin je mens, j'en ai déjà mangé mais c'était de la compote en fait. Ca fait quand même plus quelque chose quand tu croques dedans."
 ---
 
-![hello-world.webp](hello-world.webp)
+![Enfant en casquette au bord de la mer à Berrien](hello-world.webp)
 
 Aujourd'hui, je viens de manger notre première pomme. Ca vous fait un truc quand elle vient de chez vous. Votre production donne ses fruits. C'est assez fou, on les a pas planté. Merci les anciens propriétaires mais quand même. Enfin je mens, j'en ai déjà mangé mais c'était de la compote en fait. Ca fait quand même plus quelque chose quand tu croques dedans.
 
@@ -27,4 +31,4 @@ Les démarches avancent, on a fait de belles petites balades, on a découvert de
 
 Ah oui et aussi on a agrandi la famille. On a maintenant un petit ami à quatre pattes nommé Oggy, un bébé berger australien adorable. Il aime pas encore ni son collier ni sa laisse, mais nous il a l'air de bien nous apprécier. J'ai hâte de pouvoir faire de belles vadrouilles avec lui. Découvrir la Bretagne en automne à nous quatre ca promet de fantastiques photos et moments. Mais ca sera pour plus tard.
 
-  ![hello-world-5.webp](hello-world-5.webp)
+  ![Portrait d'un chien dans l'obscurité](hello-world-5.webp)

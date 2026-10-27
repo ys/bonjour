@@ -8,7 +8,7 @@ subtitle: "Me, myself and surf"
 
 **First published on [Substack](https://bonjouryannick.substack.com/p/on-becoming-a-kook)**
 
-![](24x26-0831-26.webp)
+![Wetsuit draped over a surfboard, black and white](24x26-0831-26.webp)
 
 One day, you wake up before dawn. You are 40. You load up the car; it's raining, mid-winter. And yet you are excited to get out in that cold morning. You drive an hour and get to the beach. Staring at the waves, you see friends arriving. You share a few words, a coffee, and then up you go. Time to wetsuit up.
 
@@ -24,6 +24,6 @@ I still have a lot to learn. I still am not that good. I guess starting when you
 
 It is not just a grateful passion; it is often infuriating. But there I go, I keep coming back to the ocean. I would never have thought I would want to organize my life around a sport. But in the end, it is way more than just a sport. I guess it is my life now.
 
-![](22x36-0609-08.webp)
+![Surfboard fin on a sandy path, black and white](22x36-0609-08.webp)
 
 

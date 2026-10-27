@@ -15,7 +15,7 @@ title: "37 - Fusion, Marketing et capitaines"
 slug: "37"
 description: "J'allais commencer à écrire cette lettre quand un petit bruit dans le salon m'a fait réalisé que j'avais oublié de couper la platine vinyle"
 ---
-![CEEBB51B-BF91-4666-9DB3-4BECA4690E76_1_105_c.jpeg](CEEBB51B-BF91-4666-9DB3-4BECA4690E76_1_105_c.webp)
+![Dunes au crépuscule](CEEBB51B-BF91-4666-9DB3-4BECA4690E76_1_105_c.webp)
 
 *Hello, moi c'est [Yannick](https://yannickschutz.com). Je ne suis pas du tout régulier dans cette lettre et c'est peut-être tant mieux. Je ne sais pas pourquoi je l'écris. Souvent vous remplacez une séance chez un psy ou un appel à un ami je pense. Donc merci merci d’être là. Si vous aimez, n’hésitez pas à la partager. Sinon, ne la partagez pas.*
 

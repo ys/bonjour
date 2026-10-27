@@ -22,6 +22,12 @@ gear: ["📷 Fuji X100T"]
 categories:
   - voyages
 resources:
+  - src: "DSCF8672.webp"
+    title: "Ruisseau entre les rochers dans la forêt d'automne"
+  - src: "DSCF8685.webp"
+    title: "Torrent dans une hêtraie en automne"
+  - src: "DSCF8753.webp"
+    title: "Rivière dans la forêt, berges aux feuilles rousses"
   - src: "DSCF8724.webp"
     name: "cover"
   - src: "*.webp"
@@ -30,7 +36,7 @@ description: "Suite à une invitation de Pascal, nous décidons d'aller nous bal
 
 Suite à une invitation de Pascal, nous décidons d'aller nous balader entre amis avec une ribambelle d'enfants à la maison Ternell. Nous avions découvert cet endroit dans une super [liste de balades dans les cantons de l'est](https://www.eastbelgium.com/fr/randonnee/excursions-d-une-journee/balades-de-reve) en Belgique. Nous avions fait une boucle de 8km la dernière fois. Ici étant plus nombreux, nous avons préféré faire la boucle de 4km.
 
-![DSCF8736.webp](DSCF8736.webp)
+![Forêt de sapins à contre-jour en automne](DSCF8736.webp)
 
 La balade commence le long d'un chemin forestier et une fois arrivé au niveau d'une cabane, nous la longeons et descendons en suivant un cours d'eau. Cette partie est définitivement déconseillée aux poussettes. On passe sur de petits ponts et de grosses racines. C'est vraiment un chouette début de parcours.
 
@@ -40,7 +46,7 @@ Après un moment, la signalisation que nous suivions (croix jaunes) vient à man
 
 C'était une belle journée d'un été indien très tardif. On s'assied en terrasse et profite d'une spécialité locale, une bière aromatisée au gingembre très agréable à déguster avec ce petit soleil de fin de journée.
 
-![DSCF8759.webp](DSCF8759.webp)
+![Panneau de direction dans le sous-bois](DSCF8759.webp)
 
 ### INFORMATION
 

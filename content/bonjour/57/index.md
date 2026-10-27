@@ -10,7 +10,7 @@ resources:
     name: card
 ---
 
-![](24x39-1030-31.webp)
+![Ruelle de Californie avec poteaux électriques, en noir et blanc](24x39-1030-31.webp)
 
 ✌🏻
 Bonjour,

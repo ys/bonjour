@@ -7,6 +7,10 @@ slug: "nettoyage-de-printemps"
 aliases:
   - "2020-03-24"
 resources:
+  - src: "1.webp"
+    title: "Vieux chariot de jardin en métal posé dans l'herbe"
+  - src: "2.webp"
+    title: "Chariot de jardin avec sa poignée, au pied d'un talus"
   - src: "*.webp"
 categories:
 - journal

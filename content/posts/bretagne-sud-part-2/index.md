@@ -25,6 +25,14 @@ tags:
   ]
 description: "Direction Crozon. Un crochet par la pointe du Raz. Pause au dernier supermarché avant l’Amérique. Vadrouilles autour de la Palue, du Cap de la Chèvre et de Pen'Hir."
 resources:
+  - src: "1.webp"
+    title: "Surfeur qui entre dans les vagues depuis une plage de galets"
+  - src: "2.webp"
+    title: "Vagues dans une crique au pied des falaises de la presqu'île de Crozon"
+  - src: "3.webp"
+    title: "Surfeur dans l'eau au coucher du soleil, un îlot à l'horizon"
+  - src: "4.webp"
+    title: "Deux surfeurs sur une plage de galets au pied des falaises"
   - name: "cover"
     src: "9.webp"
   - src: "*.webp"

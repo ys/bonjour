@@ -14,7 +14,7 @@ color: red
 title: "20 - hippie, petits mickeys et grimpe"
 slug: "20"
 ---
-![21x10-0416-13.jpeg](21x10-0416-13.webp)
+![Nichoir accroché à un arbre contre un mur de béton](21x10-0416-13.webp)
 
 _Cette newsletter est écrite par [Yannick](https://yannickschutz.com/now), il a reçu sa première planche de surf, a mangé une crêpe dans un restaurant et aime bien lire en seconde main. Il va encore vous raconter sa vie et ce qu'il a vu/lu/entendu. Soyez prêt! Et merci, d'être là._
 

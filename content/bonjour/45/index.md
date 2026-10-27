@@ -18,7 +18,7 @@ description: "C'est déjà le mois de juin, je me retrouve à peu écrire ces te
 
 *hello, moi c'est [Yannick](https://yannickschutz.com). je ne suis pas du tout régulier dans cette lettre et c'est peut-être tant mieux. je ne sais pas pourquoi je l'écris, souvent vous, lecteur, remplacez une séance chez un psy ou un appel à un ami je pense. donc merci merci d’être là. si vous aimez, n’hésitez pas à la partager. sinon, ne la partagez pas. Oops, deux en une semaine, il doit vraiment vouloir papoter.*
 
- ![](cover.webp)
+ ![Paroi d'El Capitan dans le parc de Yosemite](cover.webp)
 
 ✌️
 
@@ -30,7 +30,7 @@ Depuis la dernière lettre, on a fait un voyage incroyable en Californie. J'ai u
 
 Je n'avais au final que un Contax T3 et un Kodak Ektar H35 pour faire des photos et les diptyques étaient drôles à faire. Le Contax, bref, il est comme on s'y attend, facile et le rendu est fou. Je vais d'ailleurs déroger à mon habitude et vous glisser deux, trois photos. C'est ma lettre, je fais comme je le veux non? Le Contax, je n'avais pas vu son rendu avant le jour du vol... C'était hyper stressant, je ne savais même pas si il marchait bien ou pas... Parfois, on fait juste confiance aux gens et des miracles arrivent. Le jour du vol, je reçois le mail de [Mori](https://morifilmlab.com). J'ouvre, charge et regarde sur le Dropbox. Sauvé, il marche à mort et sort des bombes hors du quotidien. Limite trop facile. Après 35 films à l'autre bout du monde, je confirme, il est magique ce compact.
 
-![](3)
+![Diptyque de boîtes aux lettres et de cactus dans le désert](3)
 
 En parallèle au voyage, on a eu les premiers invités à [Douarenn](https://douarenn.fr). Du stress avant l'ouverture, comme prévu. Des retours magiques comme on l'espérait, l'endroit plait et ça nous plait que ca plaise. Enfin vous voyez le genre. On continue de peaufiner des détails dedans. Je pense à faire un kit café spécial pour le gîte que je mettrais à disposition des plus initiés au café. Je ne sais pas ce que vous en pensez, mais un bon moulin et un bon porte filtre, ça me change les vacances. C'est d'ailleurs le genre de kit que j'ai dans le van pour toutes nos sorties.
 
@@ -42,6 +42,6 @@ Yannick
 
 💌
 
-![](1)
-![](2)
-![](4)
+![Diptyque de Joshua trees au bord de la route](1)
+![Diptyque d'un motel coloré de Palm Springs et de sa piscine](2)
+![Diptyque du skatepark de Venice Beach entre les palmiers](4)

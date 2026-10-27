@@ -8,6 +8,14 @@ tags: ["retrospective", "changement de vie", "neoruraux", "exode rural", "france
 categories:
 - journal
 resources:
+- src: "living-outdoor.webp"
+  title: "Tas de bûches empilées"
+- src: "living-outdoor-2.webp"
+  title: "Bûches empilées devant les arbres"
+- src: "living-outdoor-4.webp"
+  title: "Enfant en bonnet qui tire la langue sur un chemin"
+- src: "living-outdoor-8.webp"
+  title: "Plage et vagues sous un ciel couvert"
 - name: "cover"
   src: "living-outdoor-3.webp"
 - src: ".webp"
@@ -30,7 +38,7 @@ Vivre aussi près de la mer nous permet de payer une visite à la déesse des me
 
 Nous avons cueilli de la nourriture dans les terres, mais la mer aussi peut donner. C'est vrai que cet été, elle a plutôt pris mes lunettes, mais c'était une offrande qui paie pour toutes les choses qu'elle donne. Nous devons encore nous améliorer pour la pêche à pied et les coquillages.
 
-![living-outdoor-5.webp](living-outdoor-5.webp)
+![Rocher au large et vagues sous un ciel gris](living-outdoor-5.webp)
 
 Quelques rêves pour cette année nouvelle incluent de faire un hike de plusieurs jours en Bretagne ainsi que fouler plus de sentiers du GR34, connu comme étant le sentier des douaniers. Cette randonnée suit la côte et traverse tous les lieux sauvages du bord de mer.
 

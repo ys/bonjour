@@ -11,13 +11,25 @@ categories:
 place: "Belgique"
 gear: ["📷 Fuji X100T", "📱 iPhone 6s"]
 resources:
+- src: "DSCF7829.webp"
+  title: "Lande et étang du parc national de la Haute Campine"
+- src: "DSCF7830.webp"
+  title: "Pinède et herbes hautes en Haute Campine"
+- src: "DSCF7832.webp"
+  title: "Étang au milieu de la lande sous un ciel nuageux"
+- src: "DSCF7837.webp"
+  title: "Rangées de pins dans la forêt"
+- src: "DSCF7846.webp"
+  title: "Talus de bruyère sous une rangée d'arbres"
+- src: "DSCF7849.webp"
+  title: "Lande de bruyère en fleurs et arbre isolé"
 - name: "cover"
   src: "DSCF7825.webp"
 - src: "*.webp"
 description: "Nous entendons toujours parler des parcs nationaux Américains. J’étais loin de me douter que mon plat pays accueillait lui aussi un parc avec ses rangers. Il se situe dans la province du Limbourg, du côté flamand. Le parc national de la Haute Campine s’étend sur plus de 5700 ha de forêts et de bruyères."
 ---
 
-![DSCF7831.webp](DSCF7831.webp)
+![Bruyère et petit champignon au sol](DSCF7831.webp)
 
 Nous entendons toujours parler des parcs nationaux Américains. J’étais loin de me douter que mon plat pays accueillait lui aussi un parc avec ses rangers. Il se situe dans la province du Limbourg, du côté flamand. Le parc national de la Haute Campine s’étend sur plus de 5700 ha de forêts et de bruyères. Il est accessible via 5 portes, nous décidons de nous rendre à celle de “Mechelse Heide”. Cette porte est proche de Maasmechelen plus connu pour son shopping que pour son entrée dans le parc national.
 
@@ -31,16 +43,16 @@ Nous commençons sur un sol sablonneux mais grimpons vite vers les bois. Avant d
 
 Fait étrange, des milliers de petites bêtes volantes sur les chemins de sable, on avance au milieu de celles-ci. Elles volent à une dizaine de centimètres du sol. Si vous savez ce que c’est n’hésitez pas à me le dire. Cela amusera Tom qui court au milieu, ça en devient un jeu.
 
-![DSCF7850.webp](DSCF7850.webp)
+![Enfant qui court sur un chemin de sable dans la bruyère](DSCF7850.webp)
 
 On arrive dans un paysage plus proche de nos Fagnes avec une importante couche de bruyères. Elle est violette et en fleur à notre passage. Cela fait un magnifique tapis violet.On replonge dans la forêt et finit la balade en longeant la route mais heureusement en n’étant pas trop proche de celle-ci.
 
 {{< grid images="DSCF7846.webp | DSCF7849.webp" >}}
-![DSCF7851.webp](DSCF7851.webp)
+![Plaine d'herbes sèches et quelques pins](DSCF7851.webp)
 
 C’est un parc vraiment surprenant. Un condensé de Belgique dans le Limbourg. Environ 300km de randonnées et de multiples parcours nous permettrons sans nul doute de revenir y passer une journée et pique niquer sur le trajet.
 
-![IMG_1029.webp](IMG_1029.webp)
+![Enfant caché derrière un pin dans la forêt](IMG_1029.webp)
 
 ### INFORMATION
 

@@ -25,6 +25,8 @@ testing_shipping_rates:
   - name: "50€ • Rest of the world"
     value: "shr_1SxuvXFaA8Wpl3EpY0uXFatX"
 resources:
+  - src: "cover.webp"
+    title: "“Wall contemplation”: surfers resting in the sun next to a row of colourful boards, hills behind, framed on a stone wall"
   - src: "*.webm"
   - src: "*.webp"
 ---

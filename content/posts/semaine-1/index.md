@@ -23,15 +23,62 @@ tags:
 categories:
   - journal
 resources:
+  - src: "IMG_1221.webp"
+    title: "Café filtre qui coule devant une fenêtre ouverte sur le jardin"
+  - src: "IMG_1231.webp"
+    title: "Herbes hautes sous un ciel d'orage"
+  - src: "IMG_1239.webp"
+    title: "Buste en pierre caché dans les feuilles du jardin"
+  - src: "IMG_1240.webp"
+    title: "Lanterne en fer rouillé sur le rebord d'une fenêtre en granit"
+  - src: "IMG_1241.webp"
+    title: "Oiseau en céramique sur le rebord d'une fenêtre en pierre"
+  - src: "IMG_1242.webp"
+    title: "Auge en pierre remplie de morceaux de vaisselle"
+  - src: "IMG_1254.webp"
+    title: "Pile de pierres dans un coin du jardin"
+  - src: "IMG_1255.webp"
+    title: "Allée de copeaux dans un jardin ombragé"
+  - src: "IMG_1257.webp"
+    title: "Poires sur une branche dans le jardin"
+  - src: "IMG_1263.webp"
+    title: "Ardoises dressées en bordure de massif"
+  - src: "IMG_1266.webp"
+    title: "Enfant souriant qui arrose le potager au tuyau"
+  - src: "IMG_1300.webp"
+    title: "Enfant qui porte un seau de cailloux"
+  - src: "IMG_1301.webp"
+    title: "Enfant qui sème dans un carré de potager"
+  - src: "IMG_1315.webp"
+    title: "Panneau Magnétiseur planté devant un mur de pierre"
+  - src: "IMG_1316.webp"
+    title: "Panneau Miel accroché à un mur de pierre"
+  - src: "IMG_1336.webp"
+    title: "Plants de haricots grimpants au soleil"
+  - src: "IMG_1338.webp"
+    title: "Pois de senteur en fleurs sous un ciel bleu"
+  - src: "IMG_1339.webp"
+    title: "Cabane en bois au fond du jardin"
+  - src: "IMG_1341.webp"
+    title: "Fenêtre ouverte sur des hortensias en fleurs"
+  - src: "IMG_1345.webp"
+    title: "Fougère dorée par le soleil"
+  - src: "semaine-1.webp"
+    title: "Lande et rochers sous un ciel bleu à Ty Lucie"
+  - src: "semaine-1-2.webp"
+    title: "Femme qui photographie un hôtel à insectes dans un pré"
+  - src: "semaine-1-3.webp"
+    title: "Hôtel à insectes en bois photographié au téléphone"
   - src: "semaine-1.webp"
     name: "cover"
+    title: "Lande et rochers sous un ciel bleu à Ty Lucie"
   - src: "*.webp"
 description: "Cela fait déjà une semaine que nous avons pris la route. On signe les papiers de la maison et on démarre cette nouvelle vie. À la moitié de la route, Cloé le sent bien, on le fera d'une traite. La nuit n’était pas tombée. Ils nous avaient laissé un matelas et un lit. "
 ---
 
 > Berrien, France. Hier, 998 habitants... Aujourd'hui, 1001.
 
-![tylucie.webp](tylucie.webp)
+![Plaque en céramique Ty Lucie sur un mur de pierre](tylucie.webp)
 
 Cela fait déjà une semaine que nous avons pris la route. On signe les papiers de la maison et on démarre cette nouvelle vie. À la moitié de la route, Cloé le sent bien, on le fera d'une traite. La nuit n’était pas tombée. Ils nous avaient laissé un matelas et un lit. Juste ce qu’il nous fallait en attendant les déménageurs qui viendraient deux jours plus tard. Les clés étaient prêtes et nous attendaient.
 
@@ -51,7 +98,7 @@ Troisième rencontre, des amis des anciens propriétaires. Anglais eux aussi. Il
 
 Je me sens bien. On dirait une petite communauté. C’est chouette. Le hameau est petit, vite fait le tour. On croise petit à petit les gens. Des belles rencontres que j’ai hâte de voir grandir.
 
-![cover](cover)
+![Lande et rochers sous un ciel bleu à Ty Lucie](cover)
 
 _Petit aparté, je viens de tuer deux moustiques. Désolé pour leurs familles._
 

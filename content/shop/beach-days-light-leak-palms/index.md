@@ -25,6 +25,8 @@ testing_shipping_rates:
   - name: "50€ • Rest of the world"
     value: "shr_1SxuvXFaA8Wpl3EpY0uXFatX"
 resources:
+  - src: "cover.webp"
+    title: "“Light leak palms”: two palm trees against a blue sky, warmed by a film light leak, framed on a stone wall"
   - src: "*.webm"
   - src: "*.webp"
 ---

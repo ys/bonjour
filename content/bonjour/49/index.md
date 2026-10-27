@@ -17,7 +17,7 @@ description: "J'accumule des liens, par centaines. Certains d'entre vous vont su
 
 *Hello, moi c'est [Yannick](https://yannickschutz.com). J'adore vous envoyer des lettres quand je ne sais pas trop quoi écrire. Vous êtes mon émulation et une sorte de cadavre exquis de l'écriture. Cela tourne souvent autour de mes passions. Parfois pas. Merci de continuer à me lire et merci de donner un sens à ces mots tapés sur un clavier. Si vous aimez ceci, partagez-le. Je ne fais pas trop de pub, vous êtes ma pub aussi. Capitalisme pyramidal, mon amour.*
 
- ![](cover.webp)
+ ![Coquillages posés sur le tableau de bord d'un van, en noir et blanc](cover.webp)
 
 ✌️
 Bonjour,

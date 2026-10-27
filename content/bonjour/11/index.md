@@ -16,7 +16,7 @@ title: "11 - Des livres, du CSV et Mowgli"
 slug: "11"
 ---
 
-![](0e594c3e-1cc0-46e5-8a53-ec3d5a5aebf7.webp)
+![Canards en plastique jaunes dans une vitrine de boutique](0e594c3e-1cc0-46e5-8a53-ec3d5a5aebf7.webp)
 
 👋
 

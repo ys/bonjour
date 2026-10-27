@@ -25,6 +25,8 @@ testing_shipping_rates:
   - name: "50€ • Rest of the world"
     value: "shr_1SxuvXFaA8Wpl3EpY0uXFatX"
 resources:
+  - src: "cover.webp"
+    title: "“Malibu Pier”: a wave peeling in front of Malibu Pier on a clear summer day, framed on a stone wall"
   - src: "*.webm"
   - src: "*.webp"
 ---

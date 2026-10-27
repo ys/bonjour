@@ -29,6 +29,34 @@ tags:
 description: "Un week-end d'anniversaire, une première expérience en van. Des découvertes en Bretagne Nord, des couchers de soleil, des repas entre amis et de la slowlife!"
 emoji: "🚐"
 resources:
+  - src: "17.webp"
+    title: "Plage et rochers de granit en Bretagne Nord"
+  - src: "1.webp"
+    title: "Enfant en doudoune orange qui tient une coquille Saint-Jacques"
+  - src: "1-2.webp"
+    title: "Promeneur sur une grande plage au coucher du soleil"
+  - src: "10.webp"
+    title: "Une mère et son fils blottis sous une couverture dans le van"
+  - src: "11.webp"
+    title: "Tasse en métal fumante dans le van"
+  - src: "12.webp"
+    title: "Femme en pull blanc qui boit dans une tasse en métal dans le van"
+  - src: "13.webp"
+    title: "Coucher de soleil rose sur la plage à marée basse"
+  - src: "14.webp"
+    title: "Van aménagé garé au bord d'une plage au crépuscule"
+  - src: "16.webp"
+    title: "Enfant à la porte coulissante du van"
+  - src: "18.webp"
+    title: "Plage dans le brouillard"
+  - src: "19.webp"
+    title: "Femme qui cuisine dans le van le soir"
+  - src: "21.webp"
+    title: "Silhouette qui photographie sur la plage au crépuscule"
+  - src: "23.webp"
+    title: "Ciel rose et plage à marée basse"
+  - src: "5.webp"
+    title: "Deux promeneurs sur la plage dans la brume"
   - src: "15.webp"
     name: "cover"
   - src: "*.webp"
@@ -75,5 +103,5 @@ Kerlouan et ses environs ne nous déçoit pas. On y reviendra. On pose le van su
 
 Les leçons de ce week-end, vivre lentement, profiter, improviser et prévoir l'imprévu.
 
-![plage](17.webp)
+![Plage et rochers de granit en Bretagne Nord](17.webp)
 ![Ruine en bord de plage](20.webp)

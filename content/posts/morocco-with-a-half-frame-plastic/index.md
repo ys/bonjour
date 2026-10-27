@@ -18,43 +18,43 @@ So without further ado, here is a set of pictures from Morocco last year.
 
 _This post is the starting point of more posts full of pictures, I love how it looks on Substack_
 
-![](01.webp)
+![Painted mural on a wall in a Moroccan village, black and white](01.webp)
 
 _Graffiti in Tamraght_
 
-![](02.webp)
+![Bay of Imsouane seen from the cliffs, black and white](02.webp)
 
 _The magical bay_
 
-![](03.webp)
+![Wooden surf camp sign next to a rack of surfboards, black and white](03.webp)
 
 _Surf shops everywhere_
 
-![](04.webp)
+![People on a bench above the beach, black and white](04.webp)
 
 _People watching people surf_
 
-![](05.webp)
+![Decorated door in a white wall, black and white](05.webp)
 
 _I love to capture their doors_
 
-![](06.webp)
+![Surfers walking on the beach towards a water tower, black and white](06.webp)
 
 _Surfers in Imsouane_
 
-![](07.webp)
+![Shadow of the photographer on a white wall, black and white](07.webp)
 
 _Berber tents in the desert. It was a fun experience_
 
-![](08.webp)
+![Skater in a seaside skatepark, black and white](08.webp)
 
 _Taghazout skatepark is a chill place to snap some pictures_
 
-![](09.webp)
+![Man in a cap taking a photo in the street, black and white](09.webp)
 
 _Portrait of me by Louise_
 
-![](10.webp)
+![Hand holding a half-frame Kodak Ektar plastic camera](10.webp)
 
 _Look how cute it looks in a waterproof case._
 

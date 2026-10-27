@@ -25,6 +25,8 @@ testing_shipping_rates:
   - name: "50€ • Rest of the world"
     value: "shr_1SxuvXFaA8Wpl3EpY0uXFatX"
 resources:
+  - src: "cover.webp"
+    title: "“Rainbow palm trees”: a row of palm trees turned rainbow by a light-leaked frame of film, framed on a stone wall"
   - src: "*.webm"
   - src: "*.webp"
 ---

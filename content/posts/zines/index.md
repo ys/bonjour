@@ -46,7 +46,7 @@ Un super petit zine design au look vraiment sympa, une mise en page fun et qui p
 
 [Insta](https://www.instagram.com/leftoverstogo/) 
 
-![leftovers](leftovers.webp)
+![Zine Leftovers rouge avec ses autocollants](leftovers.webp)
 
 ### [The summer report](https://summer.report/)
 
@@ -54,7 +54,7 @@ Une collaboration, des textes attrayants et une belle séries de photos, de la v
 
 [Midnowehere](https://www.midnowhere.co.uk/)
 
-![Summer report](summerreport.webp)
+![Couverture du zine The Summer Report](summerreport.webp)
 
 ### [Club Sandwich vol03](https://clubsandwichstudio.bigcartel.com/product/club-sandwich-vol03)
 
@@ -62,4 +62,4 @@ Bien plus qu'un zine, une collection de zines qui tournent autour du snowboard. 
 
 [Insta](https://www.instagram.com/clubsandwich.studio/)
 
-![club sandwich](clubsandwich.webp)
+![Coffret de cartes Club Sandwich volume 3](clubsandwich.webp)

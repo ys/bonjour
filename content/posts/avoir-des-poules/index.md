@@ -10,6 +10,18 @@ categories:
 slug: "avoir-des-poules"
 emoji: "🐓"
 resources:
+  - src: "2.webp"
+    title: "Enfant derrière la clôture en châtaignier du poulailler"
+  - src: "3.webp"
+    title: "Enfant accroupi dans les herbes près de la clôture des poules"
+  - src: "4.webp"
+    title: "Main d'enfant qui caresse une poule rousse"
+  - src: "5.webp"
+    title: "Poule rousse dans les feuilles"
+  - src: "6.webp"
+    title: "Poule grise mouchetée dans l'herbe devant la barrière"
+  - src: "7.webp"
+    title: "Poulailler en bois entouré de sa clôture en châtaignier"
   - src: "*.webp"
   - src: "8.webp"
     name: "cover"
@@ -68,4 +80,4 @@ Le matin, on va ouvrir le poulailler pour qu'elles puissent se balader dans l'en
 
 Si vous avez des questions n'hésitez pas, si vous avez des suggestions n'hésitez pas non plus.
 
-![1.webp](1.webp)
+![Enfant en casquette rouge qui regarde dans le poulailler en bois](1.webp)

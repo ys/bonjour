@@ -16,7 +16,7 @@ seotitle: "31 - Des ping, de la respiration et un magnifique zine"
 title: "31 - des ping, de la respiration et un magnifique zine que vous voulez absolument"
 slug: "31"
 ---
-![dither_it_1000tides2.jpeg](dither_it_1000tides2.webp)
+![Le zine A Thousand Tides ouvert sur un ponton en bois, un galet posé dessus](dither_it_1000tides2.webp)
 
 
 *Cette newsletter est écrite par [Yannick](https://yannickschutz.com). Il va encore vous raconter sa vie et ce qu’il a vu/lu/entendu. Il est celui qui vous raconte ses histoires et a [imprimé ce zine](https://yannickschutz.com/shop/a-thousand-tides). Soyez prêt! Et merci, d’être là. Si vous aimez, n’hésitez pas à la partager. Sinon, ne la partagez pas.*

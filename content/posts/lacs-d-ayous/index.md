@@ -19,6 +19,22 @@ slug: "lacs-d-ayous"
 emoji: "⛰"
 description: "Il est 6h30 du matin, on démarre pour le parking. Ce parking se remplit vite. Une garde nous a dit que pour avoir une chance d’y avoir une place, il fallait être là avant 8h. On a une bonne heure, ça va le faire."
 resources:
+- src: "10.webp"
+  title: "Lac de montagne au fond d'une vallée pyrénéenne"
+- src: "11.webp"
+  title: "Le pic du Midi d'Ossau au-dessus des lacs d'Ayous"
+- src: "12.webp"
+  title: "Deux randonneurs sur le sentier des lacs d'Ayous"
+- src: "3.webp"
+  title: "Randonneuse en chapeau et doudoune sur une route forestière"
+- src: "4.webp"
+  title: "Une mère et son fils sur le sentier, le pic d'Ossau derrière"
+- src: "5.webp"
+  title: "Enfant qui escalade un mur de pierres sèches"
+- src: "7.webp"
+  title: "Moutons et béliers aux cornes enroulées dans l'estive"
+- src: "8.webp"
+  title: "Mouton noir parmi le troupeau dans la prairie d'altitude"
 - src: "*.webp"
 - src:  "cover.webp"
   name: "cover"
@@ -40,7 +56,7 @@ La vue depuis Edgar est déjà un vrai plaisir. On se met calmement en route jus
 
 Une fois sorti de la forêt, la vue est fantastique et le restera jusqu’aux lacs. On grimpe pour atteindre le premier des lacs, le Lac Roumassot relié par une cascade au second, le Lac du Miey. Une fois celui-ci passé, il ne faut pas beaucoup de temps pour arriver au majestueux Lac Gentau et son refuge. On arrive en même temps qu’un troupeau de moutons guidé par son patou, le chien qui guide et surveille le troupeau. Il nous passera autour, c’est un souvenir plutôt magique et impressionant. Le patou vient jouer avec Oggy au passage. Une fois cette marée de laine passée, on se pose dans la plaine, face à Jean-Pierre, le pic du Midi d'Ossau, pour casser la croûte. Des chevaux courent pour s’abreuver au lac.
 
-![6.webp](6.webp)
+![Troupeau de moutons sur les rochers en montagne](6.webp)
 
 {{< grid images="7.webp | 8.webp" >}}
 

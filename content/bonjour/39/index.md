@@ -16,7 +16,7 @@ slug: "39"
 description: "Aujourd'hui, j'ai surfé. C'était sans doute ma plus courte session de toutes. Non pas à cause du froid . J'ai juste décidé de sortir sur une dernière vague que cette grande mer me donnait."
 
 ---
-![22x36-0609-09.webp](22x36-0609-09.webp)
+![Accès à la plage entre les dunes, surfeur au loin, en noir et blanc](22x36-0609-09.webp)
 
 *hello, moi c'est [Yannick](https://yannickschutz.com). je ne suis pas du tout régulier dans cette lettre et c'est peut-être tant mieux. je ne sais pas pourquoi je l'écris, souvent vous, lecteur, remplacez une séance chez un psy ou un appel à un ami je pense. donc merci merci d’être là. si vous aimez, n’hésitez pas à la partager. sinon, ne la partagez pas. Oops, deux en une semaine, il doit vraiment vouloir papoter.*
 

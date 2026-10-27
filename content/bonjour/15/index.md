@@ -15,7 +15,7 @@ color: red
 title: "15 - Capitaine, tatouages et SMS"
 slug: "15"
 ---
-![](61a70a89-f4bf-4bba-8689-e2ad722f7efb.webp)
+![Mains sur le volant d'une voiture, en noir et blanc](61a70a89-f4bf-4bba-8689-e2ad722f7efb.webp)
 
 _Cette newsletter est écrite par [Yannick](https://yannickschutz.com/now), il aime écrire de tout et n'importe quoi. Il va encore vous raconter sa vie et ce qu'il a vu/lu/entendu. Soyez prêt! Et merci, d'être là._
 

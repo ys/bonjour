@@ -15,7 +15,7 @@ color: red
 title: "14 - Haikus, barbecue et activisme"
 slug: "14"
 ---
-![](d2f59b1a-6cc4-45d2-81e8-36ccfcbb3423.webp)
+![Camping-car garé devant le Garage des Monts d'Arrée](d2f59b1a-6cc4-45d2-81e8-36ccfcbb3423.webp)
 
 _Cette newsletter est écrite par [Yannick](https://yannickschutz.com/now), il aime écrire de tout et n'importe quoi. Il aime plein d'autres choses comme vous l'avez sans doute déjà vu. Vous lisez ceci parce que vous avez signé de votre encre son formulaire ou parce que quelqu'un vous a transmis ce mail, merci à lui et à vous._
 

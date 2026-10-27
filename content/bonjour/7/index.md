@@ -17,7 +17,7 @@ slug: "7"
 description: "Si vous ne vous rappelez pas de lui, c'est le gars qui parle de photo, café et autres joyeusetés mais qui est surtout en train de consommer beaucoup trop de bûches de Noël en ce moment."
 ---
 
-![](8020395a-b777-429b-b51e-d440488412c1.webp)
+![Van aménagé ouvert sous les arbres, un chien à côté](8020395a-b777-429b-b51e-d440488412c1.webp)
 
 👋🏻
 

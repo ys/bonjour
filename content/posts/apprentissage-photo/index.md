@@ -36,7 +36,7 @@ Je suis en train de regarder le [workshop Storytelling de Joe Greer](https://mom
 
 ## Workshop de Willem Verbeeck
 
-![willem](willem.webp)
+![iPad avec le site du photographe Willem Verbeeck, un Leica et un livre de photo sur une table](willem.webp)
 
 Enfin, un workshop technique sur l'argentique. [Son workshop](https://moment.8ocm68.net/73eog) nous vient aussi de Moment et j'ai dévoré celui-ci. Il nous parle de tout pour parfaire nos photos argentiques. Cela va de la lecture de la lumière jusqu'aux tests de multiples pellicules en passant par son flow d'édition. Un workshop bien tassé avec des scènes magiques de nuit. Si vous ne suivez pas [Willem](https://www.instagram.com/willemverb/) je vous le conseille. Sa [chaîne Youtube](https://youtube.com/c/WillemVerbeeckFilms) est une vraie mine d'or pour les fans d'argentique. J'ai beaucoup aimé son comparatif de sur et sous exposition de ses films favoris. Vraiment un workshop à voir!
 

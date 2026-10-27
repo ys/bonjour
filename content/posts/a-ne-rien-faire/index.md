@@ -4,6 +4,10 @@ subtitle: Se poser, respirer, ralentir
 emoji: 🧘🏻‍♂️
 date: 2020-04-07 07:03:03 +0200
 resources:
+  - src: "2.webp"
+    title: "Enfant en bonnet devant la porte ouverte d'un abri de jardin bleu"
+  - src: "3.webp"
+    title: "Enfant qui sème des graines dans des godets, dans l'abri de jardin"
   - src: "*.webp"
 categories:
 - journal

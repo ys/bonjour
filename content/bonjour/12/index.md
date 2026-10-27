@@ -15,7 +15,7 @@ color: red
 title: "12 - Du web, des beaux mots et aussi des liens"
 slug: "12"
 ---
-![](e3ce87de-3122-4d38-8d68-f5424cce88f8.webp)
+![Bacs d'huîtres dans l'eau d'un parc ostréicole](e3ce87de-3122-4d38-8d68-f5424cce88f8.webp)
 👋
 Bonjour,
 
