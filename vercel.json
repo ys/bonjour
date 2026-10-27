@@ -6,12 +6,22 @@
       "permanent": true
     },
     {
-      "source": "/on-paper/?",
+      "source": "/on-paper",
       "destination": "https://www.are.na/bonjour-yannick/on-paper-yjfbcwrkly4",
       "permanent": true
     },
     {
-      "source": "/projects/?",
+      "source": "/on-paper/",
+      "destination": "https://www.are.na/bonjour-yannick/on-paper-yjfbcwrkly4",
+      "permanent": true
+    },
+    {
+      "source": "/projects",
+      "destination": "/work/",
+      "permanent": false
+    },
+    {
+      "source": "/projects/",
       "destination": "/work/",
       "permanent": false
     },
