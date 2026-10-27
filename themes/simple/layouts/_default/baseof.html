@@ -64,7 +64,7 @@
                       underline decoration-dotted underline-offset-[3px]
                       {{ with .Page.Params.color }}decoration-{{ . }}{{ else }}decoration-{{ $.Scratch.Get "color" }}{{ end }}
                     {{ else }}
-                      opacity-40 hover:opacity-100
+                      opacity-60 hover:opacity-100
                     {{ end }}
                     {{ with .Page.Params.color }}hover:text-{{ . }}{{ else }}hover:text-{{ $.Scratch.Get "color" }}{{ end }}"
                 >
