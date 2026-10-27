@@ -59,7 +59,7 @@
                 <a
                   href="{{ .URL }}"
                   title="{{ .Title }}"
-                  class="lowercase whitespace-nowrap transition-opacity duration-200
+                  class="inline-block py-2.5 md:py-0 lowercase whitespace-nowrap transition-opacity duration-200
                     {{ if $active }}
                       underline decoration-dotted underline-offset-[3px]
                       {{ with .Page.Params.color }}decoration-{{ . }}{{ else }}decoration-{{ $.Scratch.Get "color" }}{{ end }}

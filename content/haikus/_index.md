@@ -1,4 +1,5 @@
 ---
+locale: fr_FR
 cascade:
   - locale: fr_FR
     target:

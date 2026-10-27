@@ -6,6 +6,7 @@ letter: detail
 camera: "Leica M6"
 film: "Kodak Portra 400"
 description: "Une photo par semaine, dans ta boîte mail"
+alt: "Banc bleu écaillé dans le sable, maisons blanches derrière la dune"
 date: 2021-05-04T00:57:50+02:00
 color: purple
 resources:

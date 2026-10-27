@@ -1,6 +1,3 @@
-{{ if eq .Type "shop" }}
-  <script defer src="https://js.stripe.com/v3"></script>
-{{ end }}
 
 {{ $.Scratch.Set "jslibs" slice }}
 {{ $libs := slice "js/photoswipe.js" "js/photoswipe-ui-default.js" "js/photoswipe-simplify.js" "js/lazyload.min.js" "js/main.js" }}

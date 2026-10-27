@@ -9,6 +9,8 @@ linktitle: "Point & Shoot"
 year: "2025"
 skip: "cover.png"
 type: "photos"
+schemaType: WebPage
+description: "Daily pictures from a point-and-shoot: small details of family life, the sea and the Monts d'Arrée in Brittany, one frame at a time."
 hideSubmenu: true
 grid: rows-dense
 resources:
@@ -106,7 +108,6 @@ resources:
     title: "Spread of colour photo prints from a surf trip"
   - src: "card.webp"
     name: "card"
-description: "I love to document my life"
 ---
 
 I am telling small stories like they were big.  

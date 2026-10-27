@@ -1,6 +1,9 @@
 {{ $rowsslice := split (.Get "images") "/" }}
 {{ $desc := .Get "alt" }}
 {{ $rows := dict }}
+{{- /* The page's first image is likely the LCP element: load it eagerly. Shares the counter with render-image. */ -}}
+{{ $eager := not ($.Page.Store.Get "renderedImages") }}
+{{ if $eager }}{{ $.Page.Store.Add "renderedImages" 1 }}{{ end }}
 {{ range $rowIndex, $row := $rowsslice}}
   {{ $columnsslice := split $row "|" }}
   {{ $columns := dict }}
@@ -16,7 +19,8 @@
         {{ else }}
           {{ $src := $.Page.Resources.GetMatch (printf "*%s*" $name) }}
           {{ if $src }}
-            {{ $images = $images | append (dict "Image" $src "Description" $desc) }}
+            {{ $images = $images | append (dict "Image" $src "Description" $desc "Eager" $eager) }}
+            {{ $eager = false }}
           {{ end }}
         {{ end }}
     {{ end }}

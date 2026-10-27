@@ -4,6 +4,7 @@ slug: "041"
 emoji: 😃
 letter: detail
 description: "Une photo par semaine, dans ta boîte mail"
+alt: "Planches de surf et remorque à vélo sur une plage de sable"
 date: 2023-05-05T00:00:00+01:00
 color: magenta
 resources:

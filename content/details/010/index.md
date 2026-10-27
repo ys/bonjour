@@ -6,6 +6,7 @@ letter: detail
 camera: "Olympus XA"
 film: "Kodak Portra 400"
 description: "Une photo par semaine, dans ta boîte mail"
+alt: "Parasol vert et chien sur une plage au pied de la dune"
 date: 2021-05-25T00:57:50+02:00
 color: purple
 resources:

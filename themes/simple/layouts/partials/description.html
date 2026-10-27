@@ -1,0 +1,23 @@
+{{- /* Page description for meta, Open Graph, Twitter and JSON-LD.
+       Explicit description first; otherwise the first real paragraph (skipping
+       greetings and newsletter boilerplate), cut at a sentence end ≤ 160 chars. */ -}}
+{{- $d := .Description -}}
+{{- if not $d -}}
+  {{- range findRE `(?s)<p>.*?</p>` .Content 12 -}}
+    {{- $t := . | plainify | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace -}}
+    {{- if and (not $d) (gt (strings.RuneCount $t) 40) (not (findRE `^(👋\s*)?((Hello|Bonjour|Salut|Hey)\b[^.!?]{0,40}[.!?]|Cette newsletter est écrite|Je pensais pouvoir écrire)` $t)) -}}
+      {{- $d = $t -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- if not $d -}}{{- $d = .Summary | plainify | htmlUnescape | replaceRE `\s+` " " -}}{{- end -}}
+{{- if not $d -}}{{- $d = site.Params.description -}}{{- end -}}
+{{- $d = strings.TrimSpace $d -}}
+{{- if gt (strings.RuneCount $d) 160 -}}
+  {{- with findRE `^.{70,157}[.!?](\s|$)` $d 1 -}}
+    {{- $d = index . 0 | strings.TrimSpace -}}
+  {{- else -}}
+    {{- $d = $d | truncate 157 | htmlUnescape -}}
+  {{- end -}}
+{{- end -}}
+{{- $d -}}

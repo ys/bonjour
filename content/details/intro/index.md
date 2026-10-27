@@ -19,7 +19,7 @@ When was the last time that you took the time to look, really look? Observing a 
 Detail is a moment away from the likes and the comments from the social networks. Back to the simpler things. No infinite scroll, no ads, no interferences. An email, a picture, that's it.
 A slower web, more pull than push. The joy of doing less, the happiness of those daily moments. This is what I want.
 
-All will be archived here in high def. You will find them all on [the detail's page](/details). A little bit of Javascript to zoom and a simple personal grid. The picture is gonna be zoomable so you can observe all the small nitty details. You will also have the opportunity to email me back and chat about what you liked or not.
+All will be archived here in high def. You will find them all on [the detail's page](/details/). A little bit of Javascript to zoom and a simple personal grid. The picture is gonna be zoomable so you can observe all the small nitty details. You will also have the opportunity to email me back and chat about what you liked or not.
 
 Like the rest of this website, I didn't want to include comments. My email is enough. I like simple and slow conversations over vanity metrics like comments count. So please, feel free to email me back and chat.
 

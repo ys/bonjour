@@ -29,6 +29,6 @@ Glaz, c'est une couleur qui est changeante.
 Glaz, c'est un bleu canard, si tu n'as pas d'imagination.
 
 Glaz, c'est aussi la couleur de la nature.
-Glaz, c'est la couleur que la Kodak Portra [m'a donné ce matin là](/nikonos-v).
+Glaz, c'est la couleur que la Kodak Portra [m'a donné ce matin là](/nikonos-v/).
 Glaz, c'est aussi le début d'un projet perso.
-Glaz, c'est le nom de [mes photos à l'eau](/premier-janvier).
+Glaz, c'est le nom de [mes photos à l'eau](/premier-janvier/).

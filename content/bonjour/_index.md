@@ -5,7 +5,7 @@ cascade:
 seotitle: "Bonjour, une newsletter - Yannick Schutz"
 title: "Envoyer des mots doux et raconter n'importe quoi"
 emoji: 💌
-description: "Juste des petits mots dans votre boîte mail"
+description: "Bonjour, la newsletter de Yannick Schutz : des petits mots, des photos argentiques et des histoires de Bretagne, de surf et de café dans votre boîte mail."
 date: 2020-10-07T12:57:50+02:00
 draft: false
 color: yellow

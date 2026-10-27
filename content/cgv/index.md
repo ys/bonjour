@@ -6,7 +6,7 @@ schemaType: WebPage
 date: 2026-10-26
 ---
 
-Les présentes conditions s'appliquent aux ventes de zines, tirages et autres objets proposés dans la [boutique](/shop) de yannickschutz.com.
+Les présentes conditions s'appliquent aux ventes de zines, tirages et autres objets proposés dans la [boutique](/shop/) de yannickschutz.com.
 
 ## Vendeur
 

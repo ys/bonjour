@@ -1,0 +1,11 @@
+{{- $fr := hasPrefix (.Params.locale | default site.Params.locale) "fr" -}}
+{{- with first 3 (where (where (site.RegularPages.Related .) "Section" "posts") "Params.canonical" "eq" nil) }}
+<nav class="max-w-2xl mx-auto mb-12 font-sans" aria-label="{{ cond $fr "Articles liés" "Related posts" }}">
+  <h2 class="text-sm uppercase tracking-wide text-gray-600 dark:text-gray-400 mb-3">{{ cond $fr "À lire aussi" "Read also" }}</h2>
+  <ul class="flex flex-col gap-1">
+    {{- range . }}
+    <li><a class="inline-block py-2 underline decoration-gray-300 underline-offset-4 hover:decoration-current" href="{{ .RelPermalink }}">{{ with .Params.emoji }}{{ . }} {{ end }}{{ .Title }}</a></li>
+    {{- end }}
+  </ul>
+</nav>
+{{- end }}

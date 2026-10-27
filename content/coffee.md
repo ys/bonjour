@@ -1,6 +1,7 @@
 ---
 locale: fr_FR
 title: "Boire du café"
+seotitle: "Les cafés que j'ai bus - Yannick Schutz"
 emoji: "☕️"
 description: "Ce que j'ai bu."
 date: 2021-02-07T12:57:50+02:00

@@ -4,6 +4,7 @@ slug: "029"
 emoji: 😃
 letter: detail
 description: "Une photo par semaine, dans ta boîte mail"
+alt: "Cabane de pêcheur bleue en planches, sol de galets"
 date: 2023-02-10T00:00:00+01:00
 color: green
 resources:

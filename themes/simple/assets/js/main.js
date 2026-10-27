@@ -39,6 +39,12 @@ document.addEventListener("DOMContentLoaded", function () {
   form = document.querySelector("#stripe-form");
   if (form) {
     form.addEventListener("submit", handleFormSubmission);
+    var buy = document.getElementById("checkout-button");
+    if (buy) {
+      ["pointerenter", "focus", "touchstart"].forEach(function (ev) {
+        buy.addEventListener(ev, loadStripe, { once: true, passive: true });
+      });
+    }
   }
 
   // Check stock on single product page
@@ -160,6 +166,23 @@ function checkStock(priceId) {
     .catch(function () {});
 }
 
+// Stripe.js is heavy (~1 MB), so it is fetched on intent (hover/focus of the
+// buy button) or at checkout, not on every product page view.
+var stripeLoading = null;
+function loadStripe() {
+  if (window.Stripe) return Promise.resolve();
+  if (!stripeLoading) {
+    stripeLoading = new Promise(function (resolve, reject) {
+      var s = document.createElement("script");
+      s.src = "https://js.stripe.com/v3";
+      s.onload = resolve;
+      s.onerror = reject;
+      document.head.appendChild(s);
+    });
+  }
+  return stripeLoading;
+}
+
 function handleFormSubmission(event) {
   event.preventDefault();
 
@@ -198,6 +221,11 @@ function handleFormSubmission(event) {
         });
       }
       return res.json();
+    })
+    .then(function (response) {
+      return loadStripe().then(function () {
+        return response;
+      });
     })
     .then(function (response) {
       stripe = Stripe(response.publishableKey);

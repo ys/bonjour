@@ -4,6 +4,7 @@ slug: "016"
 emoji: 😃
 letter: detail
 description: "Une photo par semaine, dans ta boîte mail"
+alt: "Maisons blanches cubiques et palmiers, en noir et blanc"
 date: 2022-11-11T00:00:00+01:00
 color: red
 resources:

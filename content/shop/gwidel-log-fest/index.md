@@ -2,6 +2,7 @@
 archived: true
 color: blue
 title: "Gwidel Log Fest"
+seotitle: "Gwidel Log Fest zine, film photos - Yannick Schutz"
 description: "A film-only zine from the Gwidel Log Fest, a longboard festival in Guidel, Brittany, in May 2022. Shot on a Leica M6, all about the vibe and the smiles."
 subtitle: "Emgav longboard dre bedadenn"
 date: 2023-02-01

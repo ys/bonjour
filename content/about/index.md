@@ -2,7 +2,7 @@
 hideTitle: true
 seotitle: "About me - Yannick Schutz"
 title: "Bonjour, I am Yannick"
-description: "If you wanted to know more about me, this is the place."
+description: "Yannick Schutz, documentary and lifestyle photographer in the Monts d'Arrée, Brittany: film cameras, surf, zines, the Bonjour newsletter and life by the sea."
 date: 2026-02-06T12:57:50+02:00
 draft: false
 color: yellow
@@ -33,8 +33,8 @@ More about [working with me](/work/) ([en français](/travail/)).
 
 ---
 
-This website has so much [more](/more) in it than what you see in the menu.
-Feel free to browse and see what I am doing [now](/now)
+This website has so much [more](/more/) in it than what you see in the menu.
+Feel free to browse and see what I am doing [now](/now/)
 
 ## Photography
 
@@ -42,15 +42,15 @@ Current gear:
 
 - Leica M10-P
 - Leica SL2-S
-- [Leica M6](/leica-m6)
+- [Leica M6](/leica-m6/)
 - A small Contax T3
-- [Nikonos V](/nikonos-v) with a 35mm
+- [Nikonos V](/nikonos-v/) with a 35mm
 
 I send most of my films to [Malvarrosa Film Lab](https://malvarrosafilmlab.com/). They are great and have a really good service.
 
 ## Surf
 
-I started taking [pictures in the water](/nikonos-glaz) with some fins and a Nikonos. Salty water is my favorite kind of drug. I got my first longboard shaped by [Mimosa](https://mimosa-surfboards.com). It is a beauty. But I am still a kook. But at least a kook with a damn good looking board. I try to avoid Neoprene and prefer Yulex
+I started taking [pictures in the water](/glaz/) with some fins and a Nikonos. Salty water is my favorite kind of drug. I got my first longboard shaped by [Mimosa](https://mimosa-surfboards.com). It is a beauty. But I am still a kook. But at least a kook with a damn good looking board. I try to avoid Neoprene and prefer Yulex
 
 ![My feet](now2.webp "My feet by Grégory Mignard")
 
@@ -62,11 +62,11 @@ Most of my coffee beans comes from [Miche Coffee](https://michecoffee.com) & [Ho
 
 ## Writing
 
-I am writing a [small letter in french](/bonjour) about all and nothing every two weeks. It is quite delightful. It forces me to write on a regular basis. I don't have many readers but they respond to those letters. So that makes me happy.
+I am writing a [small letter in french](/bonjour/) about all and nothing every two weeks. It is quite delightful. It forces me to write on a regular basis. I don't have many readers but they respond to those letters. So that makes me happy.
 
 ## Prints
 
-Prints come from [Ooblik](https://ooblik.com) & [Négatif+](https://negatifplus.com). I soldout [my first zine](/shop/a-thousand-tides) with [Ex Why Zed](https://exwhyzed.co.uk) but you can find other fun stuff I printed on the [shop](/shop).
+Prints come from [Ooblik](https://ooblik.com) & [Négatif+](https://negatifplus.com). I soldout [my first zine](/shop/a-thousand-tides/) with [Ex Why Zed](https://exwhyzed.co.uk) but you can find other fun stuff I printed on the [shop](/shop/).
 
 ## Colophon
 

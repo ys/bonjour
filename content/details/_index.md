@@ -17,7 +17,7 @@ menu:
   more:
     weight: 4
 linktitle: "😃 Detail"
-description: "I used to email a picture per week"
+description: "Détail, a picture per week by email: the archive of every photo sent, film and digital, from Brittany, California and elsewhere."
 ---
 
 *Détail* is a picture and that's it.  

@@ -4,7 +4,7 @@
 <div id="thanksdiv"
     class="text-lg my-4 flex hidden justify-around w-full items-center border border-cascade-600 bg-cascade-100 relative text-cascade-600 py-3 px-3 rounded-xs shadow-lg">
     <div class="thanks center">
-      Merci pour cet achat, #SHIPPING_NAME#!
+
     </div>
 </div>
 <div data-pswp class="flex flex-col lg:grid lg:grid-cols-2 mb-10 gap-8 content-{{  $.Scratch.Get "color" }}">
@@ -27,7 +27,8 @@
               {{ else }}
                 {{ $src := $.Page.Resources.GetMatch (printf "*%s*" $name) }}
                 {{ if $src }}
-                  {{ $images = $images | append (dict "Image" $src) }}
+                  {{ $images = $images | append (dict "Image" $src "Eager" (not ($.Page.Store.Get "eagerDone"))) }}
+                  {{ $.Page.Store.Set "eagerDone" true }}
                 {{ end }}
               {{ end }}
           {{ end }}
@@ -96,6 +97,10 @@
       <p class="text-xs text-gray-500 dark:text-gray-400">Shipping, returns and 14-day withdrawal: see the <a href="/cgv/">terms of sale</a> (in French). VAT not applicable, art. 293 B du CGI.</p>
 
     {{ end }}
+    {{- /* Short product pages (the prints) share one text: show what is specific to this item */}}
+    {{- with .Description }}{{ if and (lt $.WordCount 150) (not (strings.Contains ($.Content | plainify) (substr . 0 40))) }}
+    <p class="text-lg font-serif italic">{{ . }}</p>
+    {{- end }}{{ end }}
     {{.Content}}
   </div>
 </div>

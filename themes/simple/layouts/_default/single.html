@@ -30,4 +30,5 @@
   </span>
   <!--{{ partial "article_navigation" . }}-->
 </article>
+{{ if eq .Section "posts" }}{{ partial "related" . }}{{ end }}
 {{ end }}

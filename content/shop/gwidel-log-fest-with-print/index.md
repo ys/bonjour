@@ -38,7 +38,7 @@ But you probably can have a special price if you wanna meet me instead.
 
 Those are limited prints, only 10 of each. First come, first serve. Tell me which one you want!
 
-For the zine only: [It's here](/shop/gwidel-log-fest)
+For the zine only: [It's here](/shop/gwidel-log-fest/)
 
 <div class="text-sm">
 Description: <br/>

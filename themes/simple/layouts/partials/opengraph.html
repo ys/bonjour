@@ -1,19 +1,4 @@
-{{- /* Use same description logic as seo.html */ -}}
-{{- $description := "" -}}
-{{- if .Description -}}
-  {{ $description = .Description }}
-{{- else if .Summary -}}
-  {{ $description = .Summary | plainify | htmlUnescape | replaceRE "\n" " " | replaceRE "\\s+" " " | strings.TrimSpace }}
-{{- else if .Content -}}
-  {{- $firstPara := findRE "(?s)^.*?[.!?]\\s" (.Content | plainify | htmlUnescape | replaceRE "\n" " " | replaceRE "\\s+" " ") 1 -}}
-  {{- if $firstPara -}}
-    {{ $description = index $firstPara 0 | strings.TrimSpace }}
-  {{- end -}}
-{{- end -}}
-{{- if not $description -}}
-  {{ $description = .Site.Params.description | default "" }}
-{{- end -}}
-{{- $description = $description | truncate 200 | htmlUnescape -}}
+{{- $description := partialCached "description.html" . .RelPermalink -}}
 {{- $images := $.Resources.ByType "image" -}}
 {{- $card := $images.GetMatch "card*" -}}
 {{- $cover := $images.GetMatch "cover*" -}}

@@ -1,7 +1,7 @@
 ---
 emoji: "🧰"
 favorite: true
-date: "2023-10-02T12:43:33+0002"
+date: "2023-10-02T12:43:33+02:00"
 slug: "/revision-leica"
 title: "J'ai fait réviser mon Leica M6"
 subtitle: "Et il en avait besoin"

@@ -15,26 +15,28 @@ I am Yannick Schutz, a **documentary and lifestyle photographer** based in the M
 
 I work in Brittany and wherever the job is. [Version française](/travail/).
 
+{{< portfolio "01-22x02-0101-33" "03-25x44-0826-21" "05-YS294400" "06-YS294472" "12-26x11-1219-32" "14-26x64-0925-29" "15-26x65-0925-24" "16-26x65-0925-28" "19-26x70-0927-33" >}}
+
 ## What I photograph
 
 **Brand campaigns and lookbooks.** Lifestyle images for brands that want honest pictures of people using their things: outdoors, by the sea, at home. Recently: a collab with [TWOTHIRDS](https://twothirds.com).
 
 **Editorial stories.** Documentary stories for magazines and publications, from a single portrait to a full reportage.
 
-**Surf and water.** I shoot in the water with a [Nikonos V](/nikonos-v) and I surf myself, so I am comfortable photographing surfers, shapers and the culture around them.
+**Surf and water.** I shoot in the water with a [Nikonos V](/nikonos-v/) and I surf myself, so I am comfortable photographing surfers, shapers and the culture around them.
 
-**Prints and zines.** I make zines and signed prints. My [first zine](/shop/a-thousand-tides) sold out with Ex Why Zed, and you can find the current ones in the [shop](/shop). Get in touch for custom prints or editions.
+**Prints and zines.** I make zines and signed prints. My [first zine](/shop/a-thousand-tides/) sold out with Ex Why Zed, and you can find the current ones in the [shop](/shop/). Get in touch for custom prints or editions.
 
 ## Selected work and exhibitions
 
 - Collab with [TWOTHIRDS](https://twothirds.com)
 - Exhibition at café Lucette
 - Exhibition at [Plume d'avion](https://www.instagram.com/plumedavion.surfboards/)
-- [A Thousand Tides](/shop/a-thousand-tides), zine published with [Ex Why Zed](https://exwhyzed.co.uk), sold out
-- [Beach Days](/shop/beach-days-zine), a zine and exhibition from California
+- [A Thousand Tides](/shop/a-thousand-tides/), zine published with [Ex Why Zed](https://exwhyzed.co.uk), sold out
+- [Beach Days](/shop/beach-days-zine/), a zine and exhibition from California
 - [Interview with Refueled Surf Club](/refueled-surf-club-interview/)
 
-The [homepage](/) is my portfolio. The [journal](/posts) has the stories behind the pictures.
+The [homepage](/) is my portfolio. The [journal](/posts/) has the stories behind the pictures.
 
 ## How I work
 

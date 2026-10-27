@@ -6,6 +6,7 @@ letter: detail
 camera: "Lubitel 166b"
 film: "Kodak Portra 400"
 description: "Une photo par semaine, dans ta boîte mail"
+alt: "Rochers de granit sur la côte bretonne à marée basse, ciel blanc"
 date: 2021-04-28T00:57:50+02:00
 color: purple
 resources:

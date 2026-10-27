@@ -1,7 +1,7 @@
 ---
 emoji: "⛽"
 favorite: true
-date: "2023-09-06T12:43:33+0002"
+date: "2023-09-06T12:43:33+02:00"
 slug: "/surfer-sans-petrole"
 title: "Surfer sans pétrole"
 subtitle: "Yulex & cie."

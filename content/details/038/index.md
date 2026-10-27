@@ -4,6 +4,7 @@ slug: "038"
 emoji: 😃
 letter: detail
 description: "Une photo par semaine, dans ta boîte mail"
+alt: "Longboards neufs posés dans l'herbe, pieds des surfeurs autour"
 date: 2023-04-14T00:00:00+01:00
 color: cyan
 resources:

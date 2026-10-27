@@ -1,0 +1,13 @@
+{{- /* A selection of homepage photos: {{< portfolio "01-22x02" "05-YS294400" >}} (name prefixes) */ -}}
+{{- $home := site.Home -}}
+<div class="my-8" data-pswp>
+  <div class="masonry-container">
+    {{- range .Params }}
+      {{- with $home.Resources.GetMatch (printf "%s*" .) }}
+        {{- partial "photo" (dict "Image" . "Name" .Name "Sizes" "(min-width: 768px) 50vw, 100vw") }}
+      {{- else }}
+        {{- warnf "portfolio: no homepage image matching %q" . }}
+      {{- end }}
+    {{- end }}
+  </div>
+</div>

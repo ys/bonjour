@@ -6,6 +6,7 @@ letter: detail
 camera: "Olympus XA"
 film: "Kodak Portra 400"
 description: "Une photo par semaine, dans ta boîte mail"
+alt: "Planche de surf rose posée sur le sable mouillé, ciel pommelé"
 date: 2021-06-01T00:57:50+02:00
 color: purple
 resources:

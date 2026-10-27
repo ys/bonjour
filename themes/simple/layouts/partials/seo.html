@@ -21,22 +21,7 @@
 {{ end }}
 {{ $flexokiHex := dict "red" "#D14D41" "orange" "#DA702C" "yellow" "#D0A215" "green" "#879A39" "cyan" "#3AA99F" "blue" "#4385BE" "purple" "#8B7EC8" "magenta" "#CE5D97" }}
 {{ $colorHex := index $flexokiHex ($.Scratch.Get "color") | default "#100F0F" }}
-{{- /* Generate description: use explicit description, then summary, then first paragraph, then site default */ -}}
-{{ $description := "" }}
-{{- if .Description -}}
-  {{ $description = .Description }}
-{{- else if .Summary -}}
-  {{ $description = .Summary | plainify | htmlUnescape | replaceRE "\n" " " | replaceRE "\\s+" " " | strings.TrimSpace }}
-{{- else if .Content -}}
-  {{- $firstPara := findRE "(?s)^.*?[.!?]\\s" (.Content | plainify | htmlUnescape | replaceRE "\n" " " | replaceRE "\\s+" " ") 1 -}}
-  {{- if $firstPara -}}
-    {{ $description = index $firstPara 0 | strings.TrimSpace }}
-  {{- end -}}
-{{- end -}}
-{{- if not $description -}}
-  {{ $description = .Site.Params.description | default "" }}
-{{- end -}}
-{{ $description = $description | truncate 160 | htmlUnescape }}
+{{ $description := partialCached "description.html" . .RelPermalink }}
 {{ $lang := .Param "locale" | default "en_US" | replaceRE "_" "-" }}
 
 <title>{{ $title }}</title>
@@ -66,6 +51,11 @@
 <link rel="alternate" hreflang="{{ index $parts 0 }}{{ with index $parts 1 }}-{{ upper . }}{{ end }}" href="{{ $path | absURL }}" />
   {{- end }}
 <link rel="alternate" hreflang="{{ $lang }}" href="{{ $.Permalink }}" />
+{{- $default := cond (hasPrefix $lang "en") $.Permalink "" -}}
+{{- range $locale, $path := . }}{{ if hasPrefix $locale "en" }}{{ $default = $path | absURL }}{{ end }}{{ end }}
+{{- with $default }}
+<link rel="alternate" hreflang="x-default" href="{{ . }}" />
+{{- end }}
 {{- end }}
 {{ if .IsTranslated }}
   {{ range .Translations }}
@@ -104,8 +94,10 @@
   "url" $home
   "jobTitle" "Photographer"
   "description" $.Site.Params.description
-  "address" (dict "@type" "PostalAddress" "addressRegion" "Finistère" "addressCountry" "FR")
+  "address" (dict "@type" "PostalAddress" "addressLocality" "Berrien" "postalCode" "29690" "addressRegion" "Bretagne" "addressCountry" "FR")
   "sameAs" $sameAs
+  "worksFor" (dict "@id" (printf "%s#business" $home))
+  "knowsAbout" (slice "Documentary photography" "Lifestyle photography" "Film photography" "Surf photography" "Zines")
 -}}
 {{- with $.Site.Params.social.email -}}{{- $person = merge $person (dict "email" .) -}}{{- end -}}
 {{- /* Avatar: the portrait on the about page */ -}}
@@ -119,7 +111,25 @@
   "inLanguage" ($.Site.Params.locale | default "en_US" | replaceRE "_" "-")
   "publisher" $personRef
 -}}
-{{- $graph := slice $person $website -}}
+{{- $business := dict
+  "@type" "ProfessionalService"
+  "@id" (printf "%s#business" $home)
+  "name" (printf "%s, photographer" $authorName)
+  "url" (absURL "/work/")
+  "description" $.Site.Params.description
+  "founder" $personRef
+  "image" (absURL "/card.webp")
+  "areaServed" (slice
+    (dict "@type" "AdministrativeArea" "name" "Finistère")
+    (dict "@type" "AdministrativeArea" "name" "Bretagne")
+    (dict "@type" "Country" "name" "France")
+  )
+  "address" (dict "@type" "PostalAddress" "addressLocality" "Berrien" "postalCode" "29690" "addressRegion" "Bretagne" "addressCountry" "FR")
+  "knowsAbout" (slice "Documentary photography" "Lifestyle photography" "Film photography" "Surf photography")
+  "sameAs" $sameAs
+-}}
+{{- with $.Site.Params.social.email -}}{{- $business = merge $business (dict "email" .) -}}{{- end -}}
+{{- $graph := slice $person $website $business -}}
 
 {{- /* Breadcrumb from the page's ancestors (nearest first), for regular pages only */ -}}
 {{- $crumbs := slice -}}
@@ -196,24 +206,7 @@
   {{- end -}}
   {{- $graph = $graph | append $product -}}
 {{- else if eq .Type "work" -}}
-  {{- $service := dict
-    "@type" "ProfessionalService"
-    "@id" (printf "%s#business" $home)
-    "name" (printf "%s, photographer" $authorName)
-    "url" .Permalink
-    "description" $description
-    "founder" $personRef
-    "areaServed" (slice
-      (dict "@type" "AdministrativeArea" "name" "Finistère")
-      (dict "@type" "AdministrativeArea" "name" "Bretagne")
-      (dict "@type" "Country" "name" "France")
-    )
-    "address" (dict "@type" "PostalAddress" "addressLocality" "Berrien" "postalCode" "29690" "addressRegion" "Bretagne" "addressCountry" "FR")
-    "knowsAbout" (slice "Documentary photography" "Lifestyle photography" "Film photography" "Surf photography")
-  -}}
-  {{- with $.Site.Params.social.email -}}{{- $service = merge $service (dict "email" .) -}}{{- end -}}
-  {{- with $imageURL -}}{{- $service = merge $service (dict "image" .) -}}{{- end -}}
-  {{- $graph = $graph | append $service (dict
+  {{- $graph = $graph | append (dict
     "@type" "WebPage"
     "@id" .Permalink
     "url" .Permalink
@@ -252,18 +245,17 @@
     "name" .Title
     "description" $description
     "inLanguage" $lang
-    "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")
-    "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00")
     "wordCount" .WordCount
     "author" $personRef
     "publisher" $personRef
     "copyrightHolder" $personRef
-    "copyrightYear" (.Date.Format "2006")
     "isPartOf" $websiteRef
   -}}
+  {{- if not .Date.IsZero -}}{{- $article = merge $article (dict "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00") "copyrightYear" (.Date.Format "2006")) -}}{{- end -}}
+  {{- if not .Lastmod.IsZero -}}{{- $article = merge $article (dict "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00")) -}}{{- end -}}
   {{- with .CurrentSection -}}{{- if not .IsHome -}}{{- $article = merge $article (dict "articleSection" (.LinkTitle | default .Title)) -}}{{- end -}}{{- end -}}
   {{- with $featured -}}
-    {{- $article = merge $article (dict "image" (dict "@type" "ImageObject" "url" .Permalink "width" .Width "height" .Height)) -}}
+    {{- $article = merge $article (dict "image" (dict "@type" "ImageObject" "url" .Permalink "width" (int .Width) "height" (int .Height))) -}}
   {{- else -}}
     {{- with $imageURL -}}{{- $article = merge $article (dict "image" .) -}}{{- end -}}
   {{- end -}}
@@ -308,8 +300,8 @@
       {{- $img := . -}}
       {{- if and (gt .Width 1600) (ne .MediaType.SubType "gif") -}}{{- $img = .Resize "1600x webp" -}}{{- end -}}
       {{- $item := dict "@type" "ImageObject" "contentUrl" $img.Permalink "url" $img.Permalink "creator" $personRef "creditText" $authorName "copyrightNotice" (printf "© %s" $authorName) -}}
-      {{- with $img.Width -}}{{- $item = merge $item (dict "width" .) -}}{{- end -}}
-      {{- with $img.Height -}}{{- $item = merge $item (dict "height" .) -}}{{- end -}}
+      {{- with $img.Width -}}{{- $item = merge $item (dict "width" (int .)) -}}{{- end -}}
+      {{- with $img.Height -}}{{- $item = merge $item (dict "height" (int .)) -}}{{- end -}}
       {{- /* Resource titles default to the file name; only use a real caption */ -}}
       {{- if ne $orig.Title $orig.Name -}}{{- $item = merge $item (dict "caption" $orig.Title) -}}{{- end -}}
       {{- $items = $items | append $item -}}
@@ -351,7 +343,15 @@
     {{- $graph = $graph | append (dict "@type" "FAQPage" "mainEntity" $questions) -}}
   {{- end -}}
 {{- else if not .IsHome -}}
-  {{- $graph = $graph | append (dict
+  {{- $collection := dict -}}
+  {{- if eq .Type "shop" -}}
+    {{- $items := slice -}}
+    {{- range $i, $p := where .RegularPages ".Params.archived" "!=" true -}}
+      {{- $items = $items | append (dict "@type" "ListItem" "position" (add $i 1) "url" $p.Permalink "name" $p.Title) -}}
+    {{- end -}}
+    {{- $collection = dict "mainEntity" (dict "@type" "ItemList" "numberOfItems" (len $items) "itemListElement" $items) -}}
+  {{- end -}}
+  {{- $graph = $graph | append (merge $collection (dict
     "@type" "CollectionPage"
     "@id" .Permalink
     "url" .Permalink
@@ -359,7 +359,7 @@
     "description" $description
     "inLanguage" $lang
     "isPartOf" $websiteRef
-  ) -}}
+  )) -}}
 {{- end -}}
 {{- with $crumbs -}}
   {{- $graph = $graph | append (dict "@type" "BreadcrumbList" "itemListElement" .) -}}

@@ -11,4 +11,15 @@
 
 {{ define "full" }}
   {{ partial "autogrid" . }}
+  {{- /* The short bio lives here, under the photos, rather than in every footer */ -}}
+  <section class="mx-auto px-6 max-w-xl mt-16 text-center font-serif text-gray-600 dark:text-gray-400 leading-relaxed">
+    <p class="italic">{{ .Site.Params.footerDescription }}</p>
+    <p class="mt-3 font-sans text-[13px] tracking-[.04em]">
+      <a href="/work/" class="underline decoration-dotted underline-offset-[3px] hover:text-ink dark:hover:text-white">Work with me</a>
+      <span class="px-2 text-gray-300 dark:text-gray-600">·</span>
+      <a href="/shop/" class="underline decoration-dotted underline-offset-[3px] hover:text-ink dark:hover:text-white">Zines &amp; prints</a>
+      <span class="px-2 text-gray-300 dark:text-gray-600">·</span>
+      <a href="/bonjour/" class="underline decoration-dotted underline-offset-[3px] hover:text-ink dark:hover:text-white">Bonjour, the newsletter</a>
+    </p>
+  </section>
 {{ end }}

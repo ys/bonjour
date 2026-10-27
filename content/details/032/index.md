@@ -4,6 +4,7 @@ slug: "032"
 emoji: 😃
 letter: detail
 description: "Une photo par semaine, dans ta boîte mail"
+alt: "Deux arrosoirs, vert et gris, et un tuyau rouge dans l'herbe"
 date: 2023-03-03T00:00:00+01:00
 color: red
 resources:

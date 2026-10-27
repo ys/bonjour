@@ -6,7 +6,7 @@ cascade:
 color: yellow
 seotitle: "Blog - Yannick Schutz"
 title: "Tiny stories, micro essays and some pictures"
-description: "Tiny stories, pictures, books and a cup of black coffee"
+description: "Tiny stories and micro essays, mostly in French: film photography, surf, books, coffee and life in Brittany, with pictures along the way."
 date: 2017-10-26T22:57:50+02:00
 draft: false
 show: 
