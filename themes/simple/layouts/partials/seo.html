@@ -154,6 +154,31 @@
     "url" .Permalink
     "seller" $personRef
   -}}
+  {{- /* Return policy from the CGV: 14-day withdrawal, return by mail, buyer pays return shipping */ -}}
+  {{- $offer = merge $offer (dict "hasMerchantReturnPolicy" (dict
+    "@type" "MerchantReturnPolicy"
+    "applicableCountry" "FR"
+    "returnPolicyCategory" "https://schema.org/MerchantReturnFiniteReturnWindow"
+    "merchantReturnDays" 14
+    "returnMethod" "https://schema.org/ReturnByMail"
+    "returnFees" "https://schema.org/ReturnFeesCustomerResponsibility"
+    "merchantReturnLink" (absURL "/cgv/")
+  )) -}}
+  {{- /* Shipping to France from the Stripe rates ("15€ • France", "Free • France"); other regions have no schema.org country */ -}}
+  {{- $shipping := slice -}}
+  {{- range .Params.shipping_rates -}}
+    {{- with findRESubmatch `^\s*(Free|(\d+(?:[.,]\d+)?)\s*€)\s*•\s*France\s*$` .name 1 -}}
+      {{- $row := index . 0 -}}
+      {{- $amount := "0.00" -}}
+      {{- if ne (index $row 1) "Free" -}}{{- $amount = printf "%.2f" (float (replace (index $row 2) "," ".")) -}}{{- end -}}
+      {{- $shipping = $shipping | append (dict
+        "@type" "OfferShippingDetails"
+        "shippingRate" (dict "@type" "MonetaryAmount" "value" $amount "currency" "EUR")
+        "shippingDestination" (dict "@type" "DefinedRegion" "addressCountry" "FR")
+      ) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- with $shipping -}}{{- $offer = merge $offer (dict "shippingDetails" .) -}}{{- end -}}
   {{- $product := dict
     "@type" "Product"
     "@id" (printf "%s#product" .Permalink)
