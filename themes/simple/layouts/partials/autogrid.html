@@ -34,8 +34,8 @@
   </div>
   {{ else }}
   <div class="masonry-container">
-    {{ range $allimages }}
-      {{ if .Video }}{{ partial "video" . }}{{ else }}{{ partial "photo" . }}{{ end }}
+    {{ range $i, $e := $allimages }}
+      {{ if .Video }}{{ partial "video" . }}{{ else }}{{ partial "photo" (merge . (dict "Eager" (eq $i 0))) }}{{ end }}
     {{ end }}
   </div>
   {{ end }}

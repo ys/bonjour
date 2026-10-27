@@ -12,15 +12,17 @@
 */ -}}
 {{- $page := . -}}
 <div data-pswp class="sequence">
-  {{- range .Params.sequence }}
+  {{- range $i, $item := .Params.sequence }}
+    {{- /* The opening image is the LCP element: load it eagerly */ -}}
+    {{- $eager := eq $i 0 }}
     {{- if not (reflect.IsMap .) }}
       <div class="sequence-break" aria-hidden="true"></div>
     {{- else if .row }}
       {{ partial "sequence-row" (dict "page" $page "images" .row "width" .width) }}
     {{- else if .single }}
-      <div class="sequence-single">{{ partial "media" (dict "page" $page "name" .single) }}</div>
+      <div class="sequence-single">{{ partial "media" (dict "page" $page "name" .single "eager" $eager) }}</div>
     {{- else if .spread }}
-      <div class="sequence-spread">{{ partial "media" (dict "page" $page "name" .spread) }}</div>
+      <div class="sequence-spread">{{ partial "media" (dict "page" $page "name" .spread "eager" $eager) }}</div>
     {{- end }}
   {{- end }}
 </div>

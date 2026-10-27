@@ -31,7 +31,7 @@
         {{ $altText = $src.Name | path.Base | replaceRE "\\.[^.]+$" "" | humanize | title }}
       {{- end -}}
       <img
-        loading="lazy"
+        {{ if .Eager }}fetchpriority="high"{{ else }}loading="lazy"{{ end }}
         style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover"
         alt="{{ $altText }}"
         class="{{if .Page }}group-hover:opacity-40 {{ end }} hover:shadow-{{ $.Scratch.Get "color" }}/20 shadow-md hover:shadow-xl   cursor-pointer object-cover lazy absolute top-0 left-0 w-full h-full"

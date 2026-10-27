@@ -12,7 +12,7 @@
   {{- end -}}
 {{- else -}}
   {{- with $page.Resources.GetMatch $name -}}
-    {{ partial "photo" (dict "Image" .) }}
+    {{ partial "photo" (dict "Image" . "Eager" $.eager) }}
   {{- else -}}
     {{- warnf "media: image %q not found in %s" $name $page.File.Path -}}
   {{- end -}}
