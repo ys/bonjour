@@ -14,4 +14,4 @@ gem "phantomjs"
 gem "arena"
 gem "dotenv"
 
-gem "excon", "~> 0.103.0"
+gem "excon", ">= 1.5"

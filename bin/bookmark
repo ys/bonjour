@@ -199,7 +199,7 @@ end
 
 class MercuryPreview < Preview
   def fetch
-    mercury = JSON.parse(`yarn run -s mercury-parser --header.User-Agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" --format markdown "#{url}"`)
+    mercury = JSON.parse(`npx -y @postlight/parser@2.2.3 --header.User-Agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" --format markdown "#{url}"`)
     raise NoWebPage if mercury["error"].present?
     @image = mercury["lead_image_url"]
     @description = mercury["excerpt"]

@@ -17,21 +17,17 @@
   },
   "author": "Yannick Schutz",
   "license": "MIT",
-  "resolutions": {
-    "re2": "1.24.0",
-    "nan": "2.26.2",
-    "difflib": "https://github.com/postlight/difflib.js.git#32e8e38c7fcd935241b9baab71bb432fd9b166ed",
-    "browser-request": "https://github.com/postlight/browser-request.git#feat-add-headers-to-response"
-  },
   "dependencies": {
     "@catppuccin/tailwindcss": "^1.0.0",
-    "@postlight/mercury-parser": "^2.2.1",
     "@tailwindcss/forms": "^0.5.11",
-    "@tailwindcss/typography": "^0.5.19",
+    "@tailwindcss/typography": "^0.5.20",
     "stripe": "^8.145.0",
     "tailwindcss": "^4.2.2"
   },
   "devDependencies": {
     "@tailwindcss/cli": "^4.3.3"
+  },
+  "resolutions": {
+    "postcss-selector-parser": "^6.1.5"
   }
 }
