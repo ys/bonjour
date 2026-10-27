@@ -19,13 +19,13 @@ jobs:
       - name: Setup deno
         uses: denoland/setup-deno@main
         with:
-          deno-version: v1.x
+          deno-version: v2.x
       - name: Fetch Hardcover data
         env:
           HARDCOVER_TOKEN: ${{ secrets.HARDCOVER_TOKEN }}
         run: |
           # Script now automatically searches for missing covers using Amazon
-          deno run --allow-net --allow-read --allow-write --allow-env  flat/hardcover.ts
+          deno run --allow-net --allow-read --allow-write --allow-env --allow-import flat/hardcover.ts
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"

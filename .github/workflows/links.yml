@@ -1,7 +1,7 @@
 name: Links
 
+# Daily check of the links in the repo. One report issue, updated in place.
 on:
-  repository_dispatch:
   workflow_dispatch:
   schedule:
     - cron: "00 18 * * *"
@@ -9,17 +9,22 @@ on:
 jobs:
   linkChecker:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Link Checker
         id: lychee
-        uses: lycheeverse/lychee-action@v1.8.0
+        uses: lycheeverse/lychee-action@v2
+        with:
+          fail: false
         env:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Truncate report to fit issue body limit
-        if: env.lychee_exit_code != 0
+        if: steps.lychee.outputs.exit_code != 0
         run: |
           MAX=60000
           if [ "$(wc -c < ./lychee/out.md)" -gt "$MAX" ]; then
@@ -28,10 +33,18 @@ jobs:
             mv /tmp/out.md ./lychee/out.md
           fi
 
-      - name: Create Issue From File
-        if: env.lychee_exit_code != 0
-        uses: peter-evans/create-issue-from-file@v4
+      - name: Find the open report
+        id: report
+        if: steps.lychee.outputs.exit_code != 0
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: echo "number=$(gh issue list --repo ${{ github.repository }} --label 'automated issue' --state open --limit 1 --json number --jq '.[0].number // empty')" >> "$GITHUB_OUTPUT"
+
+      - name: Create or update the report
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
         with:
           title: Link Checker Report
           content-filepath: ./lychee/out.md
+          issue-number: ${{ steps.report.outputs.number }}
           labels: report, automated issue

@@ -31,7 +31,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
@@ -40,9 +40,9 @@ jobs:
           # runs 'bundle install' and caches installed gems automatically
           bundler-cache: true
       - name: Set up Node.js ⚙️
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v4
         with:
-          node-version: '16.x'
+          node-version: '20.x'
 
       - name: Install dependencies 📦
         run: yarn install --frozen-lockfile
@@ -64,7 +64,7 @@ jobs:
           git config --local user.name "github-actions"
           git add -A content/bookmarks
           git commit -m "imported sync"
-          echo "::set-output name=push::true"
+          echo "push=true" >> $GITHUB_OUTPUT
         shell: bash
       - name: Push changes
         if: steps.commit.outputs.push == 'true'

@@ -1,29 +1,19 @@
+name: Daily rebuild
+
+# Rebuilds the site every morning through a Vercel deploy hook, without a commit.
+# Needs the VERCEL_DEPLOY_HOOK secret (Vercel > Settings > Git > Deploy Hooks).
 on:
-  push:
-    paths:
-      - .github/workflows/rebuild.yml # Only run a new workflow every time this file (flat.yaml) file changes
-  workflow_dispatch: # Required even though this is currently empty
+  workflow_dispatch:
   schedule:
-    - cron: "0 6 * * *" # Daily at 6am
+    - cron: "0 6 * * *" # Daily at 6am UTC
 
 jobs:
   daily:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repo
-        uses: actions/checkout@v2
-      - name: Trigger build
-        id: commit
+      - name: Trigger the Vercel build
+        env:
+          HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "github-actions"
-          git commit --allow-empty -m "I am just a commit to trigger a build" || echo "nothing to do and it is fine"
-          git pull origin ${{ github.ref }}
-          echo "::set-output name=push::true"
-        shell: bash
-      - name: Push changes
-        if: steps.commit.outputs.push == 'true'
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+          if [ -z "$HOOK" ]; then echo "::error::VERCEL_DEPLOY_HOOK secret is missing"; exit 1; fi
+          curl -fsS -X POST "$HOOK"
