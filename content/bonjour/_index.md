@@ -19,7 +19,7 @@ linktitle: "💌 Bonjour"
 
 
 **Bonjour**, c'est une carte postale virtuelle.   
-Des choses que j'aime et de sourires sans doute.  
+Des choses que j'aime et des sourires sans doute.  
 Jamais que des mots, sur un piano, tout ça.
 
 

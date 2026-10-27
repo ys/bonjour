@@ -1,5 +1,20 @@
+{{ define "title" }}{{ "" }}{{ end }}
 {{ define "main" }}
 {{ $paginator := .Paginate (where (where .Site.RegularPages "Type" .Type) ".Params.archived" "!=" true) 2500 }}
+<section class="max-w-3xl mx-auto mb-14 flex flex-col gap-4">
+  <h1 class="font-serif text-[28px] font-normal leading-tight text-ink dark:text-white">{{ .Params.h1 | default .Title }}</h1>
+  <div class="prose dark:prose-invert">{{ .Content }}</div>
+  {{- with index $paginator.Pages 0 }}
+  {{- $parts := split .Title " - " }}
+  <a href="{{ .RelPermalink }}" class="mt-4 pt-6 border-t-2 border-current grid grid-cols-[auto_1fr] gap-x-6 md:gap-x-8 gap-y-2 no-underline text-inherit group">
+    <span class="col-span-2 font-sans text-xs font-semibold tracking-[.18em] uppercase text-gray-600 dark:text-gray-400">Dernière lettre · {{ .Date.Day }} {{ index hugo.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</span>
+    <span class="row-span-3 font-serif italic text-7xl md:text-8xl leading-none text-{{ $.Scratch.Get "color" }}-600">{{ cond (gt (len $parts) 1) (index $parts 0) "" }}</span>
+    <span class="font-serif text-2xl md:text-3xl">{{ cond (gt (len $parts) 1) (delimit (after 1 $parts) " - ") .Title }}</span>
+    <span class="font-serif text-lg text-gray-700 dark:text-gray-300">{{ partialCached "description.html" . .RelPermalink }}</span>
+    <span class="font-sans text-sm font-semibold underline underline-offset-4 group-hover:opacity-60">Lire la lettre →</span>
+  </a>
+  {{- end }}
+</section>
 <div class="max-w-3xl mx-auto pb-8">
 
   {{/* Mobile: year-grouped stacked list */}}
