@@ -1,9 +1,9 @@
 ---
 uuid: 654068608
-bookmarkOf: https://www.youtube.com/watch?v=oDnca_FRxSQ
+bookmarkOf: 'https://www.youtube.com/watch?v=oDnca_FRxSQ'
 category: video
 collection: SKATEBOARDING
-headImage: https://i.ytimg.com/vi/oDnca_FRxSQ/maxresdefault.jpg
+headImage: 'https://i.ytimg.com/vi/oDnca_FRxSQ/maxresdefault.jpg'
 title: '"Bubble" | Lakai Limited Footwear'
 domain: youtube.com
 description: |-
@@ -38,7 +38,7 @@ description: |-
   Robin Wilson
 tags: []
 date: '2023-09-29T18:44:37.094Z'
-highlights:
+highlights: null
 ---
 
 

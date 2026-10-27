@@ -1,15 +1,15 @@
 ---
 uuid: 645601663
-bookmarkOf: https://www.youtube.com/watch?v=bbUGVFEO9Yc
+bookmarkOf: 'https://www.youtube.com/watch?v=bbUGVFEO9Yc'
 category: video
 collection: SKATEBOARDING
-headImage: https://i.ytimg.com/vi/bbUGVFEO9Yc/maxresdefault.jpg
+headImage: 'https://i.ytimg.com/vi/bbUGVFEO9Yc/maxresdefault.jpg'
 title: How Wes Kremer Lives An Analog Life | SKATE TALES
 domain: youtube.com
-description:
+description: null
 tags: []
 date: '2023-06-28T11:31:40.770Z'
-highlights:
+highlights: null
 ---
 
 

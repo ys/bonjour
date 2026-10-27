@@ -1,15 +1,15 @@
 ---
 uuid: 645601659
-bookmarkOf: https://www.naro.tv/skateboarding
+bookmarkOf: 'https://www.naro.tv/skateboarding'
 category: link
 collection: SKATEBOARDING
-headImage: https://app-assets.naro.tv/og_images/hayakawa.png
+headImage: 'https://app-assets.naro.tv/og_images/hayakawa.png'
 title: Skateboarding by Daisuke Hayakawa
 domain: naro.tv
-description:
+description: null
 tags: []
 date: '2023-06-23T20:30:33.206Z'
-highlights:
+highlights: null
 ---
 
 

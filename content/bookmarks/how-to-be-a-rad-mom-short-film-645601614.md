@@ -1,15 +1,15 @@
 ---
 uuid: 645601614
-bookmarkOf: https://www.youtube.com/watch?v=CNvmJFIs8ZI
+bookmarkOf: 'https://www.youtube.com/watch?v=CNvmJFIs8ZI'
 category: video
 collection: PHOTOGRAPHY
-headImage: https://i.ytimg.com/vi/CNvmJFIs8ZI/maxresdefault.jpg
+headImage: 'https://i.ytimg.com/vi/CNvmJFIs8ZI/maxresdefault.jpg'
 title: How To Be A Rad Mom (Short Film)
 domain: youtube.com
-description:
+description: null
 tags: []
 date: '2023-05-23T12:27:44.609Z'
-highlights:
+highlights: null
 ---
 
 

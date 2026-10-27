@@ -1,9 +1,9 @@
 ---
 uuid: 896621950
-bookmarkOf: https://www.youtube.com/watch?app=desktop&v=UdzW7DBnZx0
+bookmarkOf: 'https://www.youtube.com/watch?app=desktop&v=UdzW7DBnZx0'
 category: video
 collection: SURF
-headImage: https://i.ytimg.com/vi/UdzW7DBnZx0/maxresdefault.jpg
+headImage: 'https://i.ytimg.com/vi/UdzW7DBnZx0/maxresdefault.jpg'
 title: ONE MORNING WITH LAURE MAYER
 domain: youtube.com
 description: |-
@@ -12,7 +12,7 @@ description: |-
   Music Billie Holiday, Solitude
 tags: []
 date: '2024-11-09T13:31:21.454Z'
-highlights:
+highlights: null
 ---
 
 Jazzy music, longboard and super 8

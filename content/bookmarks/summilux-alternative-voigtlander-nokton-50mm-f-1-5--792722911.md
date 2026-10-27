@@ -1,9 +1,9 @@
 ---
 uuid: 792722911
-bookmarkOf: https://www.youtube.com/watch?v=-eu9isLbeVU
+bookmarkOf: 'https://www.youtube.com/watch?v=-eu9isLbeVU'
 category: video
 collection: PHOTOGRAPHY
-headImage: https://i.ytimg.com/vi/-eu9isLbeVU/maxresdefault.jpg
+headImage: 'https://i.ytimg.com/vi/-eu9isLbeVU/maxresdefault.jpg'
 title: Summilux Alternative? Voigtlander Nokton 50mm f/1.5 II
 domain: youtube.com
 description: |-

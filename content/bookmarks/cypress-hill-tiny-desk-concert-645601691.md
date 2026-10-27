@@ -1,15 +1,15 @@
 ---
 uuid: 645601691
-bookmarkOf: https://www.youtube.com/watch?v=tUApO77uUUk
+bookmarkOf: 'https://www.youtube.com/watch?v=tUApO77uUUk'
 category: video
 collection: ART & CULTURE
-headImage: https://i.ytimg.com/vi/tUApO77uUUk/sddefault.jpg
+headImage: 'https://i.ytimg.com/vi/tUApO77uUUk/sddefault.jpg'
 title: 'Cypress Hill: Tiny Desk Concert'
 domain: youtube.com
-description:
+description: null
 tags: []
 date: '2023-07-22T21:31:26.772Z'
-highlights:
+highlights: null
 ---
 
 

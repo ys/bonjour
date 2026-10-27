@@ -1,15 +1,15 @@
 ---
 uuid: 842570322
-bookmarkOf: https://departuremono.com/
+bookmarkOf: 'https://departuremono.com/'
 category: link
 collection: TECH
-headImage: https://departuremono.com/assets/departure-og.png
+headImage: 'https://departuremono.com/assets/departure-og.png'
 title: Departure Mono
 domain: departuremono.com
-description: A monospaced pixel font with a lo-fi, techy vibe.
+description: 'A monospaced pixel font with a lo-fi, techy vibe.'
 tags: []
 date: '2024-08-28T06:17:44.288Z'
-highlights:
+highlights: null
 ---
 
 I do love mono fonts

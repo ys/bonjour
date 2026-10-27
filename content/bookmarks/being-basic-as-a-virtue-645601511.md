@@ -1,15 +1,15 @@
 ---
 uuid: 645601511
-bookmarkOf: https://nadia.xyz/basic
+bookmarkOf: 'https://nadia.xyz/basic'
 category: article
 collection: A BETTER LIFE
-headImage: https://rdl.ink/render/https%3A%2F%2Fnadia.xyz%2Fbasic
+headImage: 'https://rdl.ink/render/https%3A%2F%2Fnadia.xyz%2Fbasic'
 title: Being basic as a virtue
 domain: nadia.xyz
-description:
+description: null
 tags: []
 date: '2023-01-31T21:47:07.954Z'
-highlights:
+highlights: null
 ---
 
 

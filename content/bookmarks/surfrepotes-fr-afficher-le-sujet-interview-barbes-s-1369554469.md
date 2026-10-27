@@ -1,15 +1,16 @@
 ---
 uuid: 1369554469
-bookmarkOf: https://surfrepotes.fr/forum/articles-interviews-surf/interview-barbes-surf-club-t10212.html
+bookmarkOf: >-
+  https://surfrepotes.fr/forum/articles-interviews-surf/interview-barbes-surf-club-t10212.html
 category: link
 collection: SURF
-headImage: https://surfrepotes.fr/forum/styles/prosilver_se/imageset/banniere.png
+headImage: 'https://surfrepotes.fr/forum/styles/prosilver_se/imageset/banniere.png'
 title: surfrepotes.fr • Afficher le sujet - Interview - Barbes Surf Club
 domain: surfrepotes.fr
-description:
+description: null
 tags: []
 date: '2025-10-04T12:45:34.898Z'
-highlights:
+highlights: null
 ---
 
 

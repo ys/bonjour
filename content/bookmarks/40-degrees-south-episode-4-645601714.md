@@ -1,15 +1,15 @@
 ---
 uuid: 645601714
-bookmarkOf: https://www.youtube.com/watch?v=s-EKUGccLtM
+bookmarkOf: 'https://www.youtube.com/watch?v=s-EKUGccLtM'
 category: video
 collection: SURF
-headImage: https://i.ytimg.com/vi/s-EKUGccLtM/maxresdefault.jpg
+headImage: 'https://i.ytimg.com/vi/s-EKUGccLtM/maxresdefault.jpg'
 title: 40 Degrees South - Episode 4
 domain: youtube.com
-description:
+description: null
 tags: []
 date: '2023-09-01T08:23:22.632Z'
-highlights:
+highlights: null
 ---
 
 

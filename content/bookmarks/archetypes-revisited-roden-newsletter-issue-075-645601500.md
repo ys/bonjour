@@ -1,15 +1,15 @@
 ---
 uuid: 645601500
-bookmarkOf: https://craigmod.com/roden/075/
+bookmarkOf: 'https://craigmod.com/roden/075/'
 category: link
 collection: ART & CULTURE
-headImage: https://craigmod.com/roden/img/075/075.jpg
+headImage: 'https://craigmod.com/roden/img/075/075.jpg'
 title: Archetypes Revisited — Roden newsletter issue 075
 domain: craigmod.com
-description:
+description: null
 tags: []
 date: '2023-01-26T19:53:37.530Z'
-highlights:
+highlights: null
 ---
 
 

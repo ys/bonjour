@@ -1,15 +1,15 @@
 ---
 uuid: 645601667
-bookmarkOf: https://www.youtube.com/watch?v=_Olz6OJE8Ks
+bookmarkOf: 'https://www.youtube.com/watch?v=_Olz6OJE8Ks'
 category: video
 collection: SURF
-headImage: https://i.ytimg.com/vi/_Olz6OJE8Ks/maxresdefault.jpg
+headImage: 'https://i.ytimg.com/vi/_Olz6OJE8Ks/maxresdefault.jpg'
 title: Tem Caracois
 domain: youtube.com
-description:
+description: null
 tags: []
 date: '2023-07-04T07:12:09.461Z'
-highlights:
+highlights: null
 ---
 
 

@@ -1,15 +1,17 @@
 ---
 uuid: 645601676
-bookmarkOf: https://www.newyorker.com/culture/photo-booth/ed-templetons-unsparing-photographic-diary-of-skateboarding-life?fbclid=PAAaZgD3DEJqmpuwvZbIQGJRN15TuaGzdbyZ_ue9Gr34L8fnOelkV8RgTHYnQ
+bookmarkOf: >-
+  https://www.newyorker.com/culture/photo-booth/ed-templetons-unsparing-photographic-diary-of-skateboarding-life?fbclid=PAAaZgD3DEJqmpuwvZbIQGJRN15TuaGzdbyZ_ue9Gr34L8fnOelkV8RgTHYnQ
 category: article
 collection: SKATEBOARDING
-headImage: https://media.newyorker.com/photos/64653ad92baf0f71783102fe/16:9/w_1280,c_limit/p216.jpg
+headImage: >-
+  https://media.newyorker.com/photos/64653ad92baf0f71783102fe/16:9/w_1280,c_limit/p216.jpg
 title: Ed Templeton’s Unsparing Photographic Diary of Skateboarding Life
 domain: newyorker.com
-description:
+description: null
 tags: []
 date: '2023-07-11T20:18:06.704Z'
-highlights:
+highlights: null
 ---
 
 

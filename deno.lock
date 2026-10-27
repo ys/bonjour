@@ -1,11 +1,24 @@
 {
   "version": "5",
   "specifiers": {
-    "jsr:@b-fuze/deno-dom@0.1.48": "0.1.48"
+    "jsr:@b-fuze/deno-dom@0.1.48": "0.1.48",
+    "jsr:@std/cli@1.0.23": "1.0.23",
+    "jsr:@std/dotenv@0.225": "0.225.8",
+    "jsr:@std/yaml@1": "1.0.9",
+    "jsr:@std/yaml@1.0.9": "1.0.9"
   },
   "jsr": {
     "@b-fuze/deno-dom@0.1.48": {
       "integrity": "bf5b591aef2e9e9c59adfcbb93a9ecd45bab5b7c8263625beafa5c8f1662e7da"
+    },
+    "@std/cli@1.0.23": {
+      "integrity": "bf95b7a9425ba2af1ae5a6359daf58c508f2decf711a76ed2993cd352498ccca"
+    },
+    "@std/dotenv@0.225.8": {
+      "integrity": "27b8c1a9d00cbf938345a5924487c04d9b27bdd7e7bd1983f54bcf76d0a0174a"
+    },
+    "@std/yaml@1.0.9": {
+      "integrity": "6bad3dc766dd85b4b37eabcba81b6aa4eac7a392792ae29abcfb0f90602d55bb"
     }
   },
   "redirects": {
@@ -75,52 +88,12 @@
   "workspace": {
     "packageJson": {
       "dependencies": [
-        "npm:@babel/cli@^7.17.6",
-        "npm:@babel/core@^7.17.9",
-        "npm:@babel/preset-env@^7.16.11",
-        "npm:@babel/register@^7.17.7",
         "npm:@catppuccin/tailwindcss@1",
-        "npm:@downwindcss/text-decoration@^1.1.1",
-        "npm:@fullhuman/postcss-purgecss@4",
-        "npm:@postlight/mercury-parser@^2.2.1",
-        "npm:@postlight/parser@^2.2.3",
         "npm:@tailwindcss/cli@^4.3.3",
         "npm:@tailwindcss/forms@~0.5.11",
-        "npm:@tailwindcss/postcss@^4.2.2",
-        "npm:@tailwindcss/typography@~0.5.19",
-        "npm:babel-plugin-syntax-object-rest-spread@^6.13.0",
-        "npm:babel-plugin-transform-object-rest-spread@^6.26.0",
-        "npm:babel-preset-env@^1.7.0",
-        "npm:browserless@^10.2.6",
-        "npm:difflib@~0.2.4",
-        "npm:gulp-babel@8",
-        "npm:gulp-imagemin@^5.0.3",
-        "npm:gulp@^4.0.2",
-        "npm:html-get@^2.16.0",
-        "npm:imagemin-jpeg-recompress@6",
-        "npm:imagemin-mozjpeg@8",
-        "npm:js-yaml@^3.14.1",
-        "npm:lightningcss@^1.32.0",
-        "npm:metascraper-author@^5.44.0",
-        "npm:metascraper-clearbit@^5.44.0",
-        "npm:metascraper-date@^5.44.0",
-        "npm:metascraper-description@^5.44.0",
-        "npm:metascraper-image@^5.44.0",
-        "npm:metascraper-instagram@^5.44.0",
-        "npm:metascraper-logo@^5.44.0",
-        "npm:metascraper-publisher@^5.44.0",
-        "npm:metascraper-title@^5.44.0",
-        "npm:metascraper-url@^5.44.0",
-        "npm:metascraper@^5.44.0",
-        "npm:npx@^10.2.2",
-        "npm:postcss-cli@^8.3.1",
-        "npm:postcss@^8.4.31",
-        "npm:pupeteer@^0.0.1",
-        "npm:puppeteer@^22.2.0",
-        "npm:sharp@~0.33.2",
+        "npm:@tailwindcss/typography@~0.5.20",
         "npm:stripe@^8.145.0",
-        "npm:tailwindcss@^4.2.2",
-        "npm:yarn@^1.22.22"
+        "npm:tailwindcss@^4.2.2"
       ]
     }
   }

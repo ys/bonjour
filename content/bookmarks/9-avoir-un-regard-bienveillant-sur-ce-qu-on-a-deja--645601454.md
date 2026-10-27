@@ -1,16 +1,17 @@
 ---
 uuid: 645601454
-bookmarkOf: https://overcast.fm/+8Txwwva7M
+bookmarkOf: 'https://overcast.fm/+8Txwwva7M'
 category: audio
 collection: A BETTER LIFE
-headImage: https://public.overcast-cdn.com/art/3952412?v1
-title: "#9 - Avoir un regard bienveillant sur ce qu’on a déjà accompli — Petit journal
-  d’un créatif"
+headImage: 'https://public.overcast-cdn.com/art/3952412?v1'
+title: >-
+  #9 - Avoir un regard bienveillant sur ce qu’on a déjà accompli — Petit journal
+  d’un créatif
 domain: overcast.fm
-description:
+description: null
 tags: []
 date: '2023-01-26T19:51:44.572Z'
-highlights:
+highlights: null
 ---
 
 

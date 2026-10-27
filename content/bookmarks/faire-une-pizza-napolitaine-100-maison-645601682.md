@@ -1,15 +1,15 @@
 ---
 uuid: 645601682
-bookmarkOf: https://www.youtube.com/watch?v=Xm8PH-utNrM
+bookmarkOf: 'https://www.youtube.com/watch?v=Xm8PH-utNrM'
 category: video
 collection: COFFEE & FOOD
-headImage: https://i.ytimg.com/vi/Xm8PH-utNrM/maxresdefault.jpg
-title: "Faire une pizza napolitaine 100% maison ! \U0001F355\U0001F525"
+headImage: 'https://i.ytimg.com/vi/Xm8PH-utNrM/maxresdefault.jpg'
+title: Faire une pizza napolitaine 100% maison ! 🍕🔥
 domain: youtube.com
-description:
+description: null
 tags: []
 date: '2023-07-13T20:11:11.580Z'
-highlights:
+highlights: null
 ---
 
 

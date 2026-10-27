@@ -1,15 +1,15 @@
 ---
 uuid: 645601142
-bookmarkOf: https://craigmod.com/ridgeline/116/
+bookmarkOf: 'https://craigmod.com/ridgeline/116/'
 category: article
 collection: A BETTER LIFE
-headImage: https://craigmod.com/ridgeline/images/116/116.jpg
+headImage: 'https://craigmod.com/ridgeline/images/116/116.jpg'
 title: A Walk is a Platform for Creative Work
 domain: craigmod.com
-description:
+description: null
 tags: []
 date: '2023-01-26T19:45:52.385Z'
-highlights:
+highlights: null
 ---
 
 

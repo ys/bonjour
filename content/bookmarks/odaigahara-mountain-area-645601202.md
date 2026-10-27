@@ -1,15 +1,15 @@
 ---
 uuid: 645601202
-bookmarkOf: https://craigmod.com/ridgeline/129/
+bookmarkOf: 'https://craigmod.com/ridgeline/129/'
 category: article
 collection: TRAVEL
-headImage: https://craigmod.com/ridgeline/images/129/129.jpg
+headImage: 'https://craigmod.com/ridgeline/images/129/129.jpg'
 title: Ōdaigahara Mountain Area
 domain: craigmod.com
-description:
+description: null
 tags: []
 date: '2023-01-26T19:46:38.207Z'
-highlights:
+highlights: null
 ---
 
 

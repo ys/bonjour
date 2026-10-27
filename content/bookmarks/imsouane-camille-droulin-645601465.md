@@ -1,15 +1,15 @@
 ---
 uuid: 645601465
-bookmarkOf: https://www.youtube.com/watch?v=zWj5Sk0o2_c
+bookmarkOf: 'https://www.youtube.com/watch?v=zWj5Sk0o2_c'
 category: video
 collection: SURF
-headImage: https://i.ytimg.com/vi/zWj5Sk0o2_c/sddefault.jpg
+headImage: 'https://i.ytimg.com/vi/zWj5Sk0o2_c/sddefault.jpg'
 title: Imsouane- Camille DROULIN
 domain: youtube.com
-description:
+description: null
 tags: []
 date: '2023-01-26T19:52:05.252Z'
-highlights:
+highlights: null
 ---
 
 

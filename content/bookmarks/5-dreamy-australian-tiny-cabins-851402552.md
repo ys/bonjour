@@ -1,15 +1,15 @@
 ---
 uuid: 851402552
-bookmarkOf: https://www.youtube.com/watch?v=a2iTdQmM7sI
+bookmarkOf: 'https://www.youtube.com/watch?v=a2iTdQmM7sI'
 category: link
 collection: HOME
-headImage: https://rdl.ink/render/https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Da2iTdQmM7sI
+headImage: 'https://rdl.ink/render/https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Da2iTdQmM7sI'
 title: 5 Dreamy Australian Tiny Cabins
 domain: youtube.com
-description:
+description: null
 tags: []
 date: '2024-09-10T11:35:55.769Z'
-highlights:
+highlights: null
 ---
 
 creative use of every space in this is crazy

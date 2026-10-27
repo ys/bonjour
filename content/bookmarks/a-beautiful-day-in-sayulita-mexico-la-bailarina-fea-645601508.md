@@ -1,15 +1,15 @@
 ---
 uuid: 645601508
-bookmarkOf: https://www.youtube.com/watch?v=YO_J2f3pzCI
+bookmarkOf: 'https://www.youtube.com/watch?v=YO_J2f3pzCI'
 category: video
 collection: SURF
-headImage: https://i.ytimg.com/vi/YO_J2f3pzCI/maxresdefault.jpg
-title: A beautiful day in Sayulita, Mexico "LA BAILARINA" feat. Lola Mignot
+headImage: 'https://i.ytimg.com/vi/YO_J2f3pzCI/maxresdefault.jpg'
+title: 'A beautiful day in Sayulita, Mexico "LA BAILARINA" feat. Lola Mignot'
 domain: youtube.com
-description:
+description: null
 tags: []
 date: '2023-01-28T21:34:09.369Z'
-highlights:
+highlights: null
 ---
 
 

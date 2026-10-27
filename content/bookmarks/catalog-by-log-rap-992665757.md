@@ -1,15 +1,15 @@
 ---
 uuid: 992665757
-bookmarkOf: https://www.youtube.com/watch?v=JAv5ChlwJ68&list=WL&index=12
+bookmarkOf: 'https://www.youtube.com/watch?v=JAv5ChlwJ68&list=WL&index=12'
 category: video
 collection: SURF
-headImage: https://i.ytimg.com/vi/JAv5ChlwJ68/hqdefault.jpg
+headImage: 'https://i.ytimg.com/vi/JAv5ChlwJ68/hqdefault.jpg'
 title: CATALOG by Log Rap
 domain: youtube.com
-description:
+description: null
 tags: []
 date: '2025-03-14T18:39:36.990Z'
-highlights:
+highlights: null
 ---
 
 Hip-hop and Log

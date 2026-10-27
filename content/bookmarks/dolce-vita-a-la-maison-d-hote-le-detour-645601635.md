@@ -1,15 +1,15 @@
 ---
 uuid: 645601635
-bookmarkOf: https://jeremyjanin.com/maison-le-detour/
+bookmarkOf: 'https://jeremyjanin.com/maison-le-detour/'
 category: article
 collection: HOME
-headImage: https://jeremyjanin.com/maison-le-detour/cover.jpg
+headImage: 'https://jeremyjanin.com/maison-le-detour/cover.jpg'
 title: Dolce vita à la maison d'hôte Le Détour
 domain: jeremyjanin.com
-description:
+description: null
 tags: []
 date: '2023-06-04T18:45:03.719Z'
-highlights:
+highlights: null
 ---
 
 

@@ -1,15 +1,16 @@
 ---
 uuid: 645601568
-bookmarkOf: https://longboardermagazine.com/2023/03/island-flow-a-tale-of-two-generations/
+bookmarkOf: 'https://longboardermagazine.com/2023/03/island-flow-a-tale-of-two-generations/'
 category: article
 collection: SURF
-headImage: https://longboardermagazine.com/wp-content/uploads/2022/08/Enzo-at-the-Bay-scaled.jpg
+headImage: >-
+  https://longboardermagazine.com/wp-content/uploads/2022/08/Enzo-at-the-Bay-scaled.jpg
 title: Island Flow - A Tale of Two Generations - Longboarder Magazine
 domain: longboardermagazine.com
-description:
+description: null
 tags: []
 date: '2023-03-12T12:24:04.247Z'
-highlights:
+highlights: null
 ---
 
 

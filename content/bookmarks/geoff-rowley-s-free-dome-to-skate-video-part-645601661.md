@@ -1,15 +1,15 @@
 ---
 uuid: 645601661
-bookmarkOf: https://www.youtube.com/watch?v=71bNp8cMFAc
+bookmarkOf: 'https://www.youtube.com/watch?v=71bNp8cMFAc'
 category: video
 collection: SKATEBOARDING
-headImage: https://i.ytimg.com/vi/71bNp8cMFAc/maxresdefault.jpg
+headImage: 'https://i.ytimg.com/vi/71bNp8cMFAc/maxresdefault.jpg'
 title: Geoff Rowley’s "FREE DOME TO SKATE" Video Part
 domain: youtube.com
-description:
+description: null
 tags: []
 date: '2023-06-23T21:20:28.438Z'
-highlights:
+highlights: null
 ---
 
 

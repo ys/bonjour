@@ -1,16 +1,17 @@
 ---
 uuid: 875126884
-bookmarkOf: https://www.fantasticacid.com/sollers-surfing
+bookmarkOf: 'https://www.fantasticacid.com/sollers-surfing'
 category: link
 collection: SURF
-headImage: https://rdl.ink/render/https%3A%2F%2Fwww.fantasticacid.com%2Fsollers-surfing
+headImage: 'https://rdl.ink/render/https%3A%2F%2Fwww.fantasticacid.com%2Fsollers-surfing'
 title: SOLLERS/SURFING
 domain: fantasticacid.com
-description: Sollers/Surfing is a critical, constructive and literary thought opening
-  a parallel between the stylistic research present in the literature of...
+description: >-
+  Sollers/Surfing is a critical, constructive and literary thought opening a
+  parallel between the stylistic research present in the literature of...
 tags: []
 date: '2024-10-14T07:39:15.003Z'
-highlights:
+highlights: null
 ---
 
 Poetry and surfing. Thanks Tristan!

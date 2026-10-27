@@ -1,15 +1,15 @@
 ---
 uuid: 645601116
-bookmarkOf: https://craigmod.com/essays/looking_closely/
+bookmarkOf: 'https://craigmod.com/essays/looking_closely/'
 category: article
 collection: A BETTER LIFE
-headImage: https://craigmod.com/essays/images/looking_closely/looking_closely-hero.jpg
+headImage: 'https://craigmod.com/essays/images/looking_closely/looking_closely-hero.jpg'
 title: Looking Closely is Everything
 domain: craigmod.com
-description:
+description: null
 tags: []
 date: '2023-01-26T19:45:35.811Z'
-highlights:
+highlights: null
 ---
 
 

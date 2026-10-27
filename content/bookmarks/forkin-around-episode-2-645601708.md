@@ -1,15 +1,15 @@
 ---
 uuid: 645601708
-bookmarkOf: https://www.youtube.com/watch?v=Ul4nqKb-tys
+bookmarkOf: 'https://www.youtube.com/watch?v=Ul4nqKb-tys'
 category: video
 collection: SURF
-headImage: https://i.ytimg.com/vi/Ul4nqKb-tys/maxresdefault.jpg
+headImage: 'https://i.ytimg.com/vi/Ul4nqKb-tys/maxresdefault.jpg'
 title: Forkin’ Around - Episode 2
 domain: youtube.com
-description:
+description: null
 tags: []
 date: '2023-08-23T10:37:10.622Z'
-highlights:
+highlights: null
 ---
 
 

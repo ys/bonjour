@@ -1,15 +1,15 @@
 ---
 uuid: 645601295
-bookmarkOf: https://craigmod.com/essays/memberships_work/
+bookmarkOf: 'https://craigmod.com/essays/memberships_work/'
 category: article
 collection: A BETTER LIFE
-headImage: https://craigmod.com/essays/images/memberships_work/2022cover4.jpg
+headImage: 'https://craigmod.com/essays/images/memberships_work/2022cover4.jpg'
 title: Memberships Work
 domain: craigmod.com
-description:
+description: null
 tags: []
 date: '2023-01-26T19:47:49.123Z'
-highlights:
+highlights: null
 ---
 
 

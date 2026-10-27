@@ -1,15 +1,15 @@
 ---
 uuid: 645601482
-bookmarkOf: https://www.youtube.com/watch?v=7japD9WS7NI
+bookmarkOf: 'https://www.youtube.com/watch?v=7japD9WS7NI'
 category: video
 collection: SURF
-headImage: https://i.ytimg.com/vi/7japD9WS7NI/maxresdefault.jpg
+headImage: 'https://i.ytimg.com/vi/7japD9WS7NI/maxresdefault.jpg'
 title: 'Full Moon Surf Club: OTORO'
 domain: youtube.com
-description:
+description: null
 tags: []
 date: '2023-01-26T19:52:43.619Z'
-highlights:
+highlights: null
 ---
 
 

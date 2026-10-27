@@ -14,19 +14,17 @@ jobs:
     steps:
       - name: Check out repo
         uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
-      - uses: ruby/setup-ruby@7f797815d8adceb1c412e7abefdd1ab4abc47a5f # v1
+      - name: Setup deno
+        uses: denoland/setup-deno@22d081ff2d3a40755e97629de92e3bcbfa7cf2ed # v2
         with:
-          ruby-version: '3.2.3' # Not needed with a .ruby-version file
-          bundler-cache: true
+          deno-version: v2.x
       - name: Fetch liked
-        run: |
-          bundle exec ruby bin/raindrop-to-liked.rb
+        run: deno run --allow-net=api.raindrop.io --allow-read=.env,data,content/bookmarks --allow-write=data/liked.yml,content/bookmarks --allow-env flat/raindrop-to-liked.ts
         env:
           RAINDROP_TOKEN: ${{ secrets.RAINDROP_TOKEN }}
           RAINDROP_FORCE: true
       - name: Sync to Arena
-        run: |
-          bundle exec ruby bin/export-to-arena
+        run: deno run --allow-net=api.are.na --allow-read=.env,data --allow-write=data/synced_to_arena.yml --allow-env flat/export-to-arena.ts
         env:
           ARENA_TOKEN: ${{ secrets.ARENA_TOKEN }}
       - name: Commit files

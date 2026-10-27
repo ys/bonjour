@@ -1,16 +1,18 @@
 ---
 uuid: 1468260128
-bookmarkOf: https://www.youtube.com/watch?v=GimHXc3zlEE
+bookmarkOf: 'https://www.youtube.com/watch?v=GimHXc3zlEE'
 category: video
 collection: SURF
-headImage: https://i.ytimg.com/vi/GimHXc3zlEE/maxresdefault.jpg
+headImage: 'https://i.ytimg.com/vi/GimHXc3zlEE/maxresdefault.jpg'
 title: Reverie 16mm Surf Short by Sam Nassar
 domain: youtube.com
-description: Reverie is a state of being pleasantly lost in one's thoughts; a daydream.
-  Sam Nassar's 16mm film features surfing in boardshorts and skateboarding in bowls....
+description: >-
+  Reverie is a state of being pleasantly lost in one's thoughts; a daydream. Sam
+  Nassar's 16mm film features surfing in boardshorts and skateboarding in
+  bowls....
 tags: []
 date: '2025-12-02T09:16:59.223Z'
-highlights:
+highlights: null
 ---
 
 16mm, surf and rock music. My kind of summer day

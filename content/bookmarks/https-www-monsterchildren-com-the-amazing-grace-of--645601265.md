@@ -1,15 +1,15 @@
 ---
 uuid: 645601265
-bookmarkOf: https://www.monsterchildren.com/the-amazing-grace-of-beatrice-domond/
+bookmarkOf: 'https://www.monsterchildren.com/the-amazing-grace-of-beatrice-domond/'
 category: link
 collection: SURF
 headImage: ''
-title: https://www.monsterchildren.com/the-amazing-grace-of-beatrice-domond/
+title: 'https://www.monsterchildren.com/the-amazing-grace-of-beatrice-domond/'
 domain: monsterchildren.com
-description:
+description: null
 tags: []
 date: '2023-01-26T19:47:23.174Z'
-highlights:
+highlights: null
 ---
 
 

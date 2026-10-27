@@ -1,15 +1,15 @@
 ---
 uuid: 645601729
-bookmarkOf: https://stephango.com/in-good-hands
+bookmarkOf: 'https://stephango.com/in-good-hands'
 category: article
 collection: A BETTER LIFE
-headImage: https://stephango.com/assets/card.png
+headImage: 'https://stephango.com/assets/card.png'
 title: In good hands
 domain: stephango.com
-description:
+description: null
 tags: []
 date: '2023-09-07T19:02:59.478Z'
-highlights:
+highlights: null
 ---
 
 

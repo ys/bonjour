@@ -1,15 +1,15 @@
 ---
 uuid: 645601523
-bookmarkOf: https://www.lostnotfoundmag.com/blogs/news/royal-motel-room
+bookmarkOf: 'https://www.lostnotfoundmag.com/blogs/news/royal-motel-room'
 category: article
 collection: ART & CULTURE
-headImage: https://www.lostnotfoundmag.com/cdn/shop/articles/6721_9.jpg?v=1594852367
+headImage: 'https://www.lostnotfoundmag.com/cdn/shop/articles/6721_9.jpg?v=1594852367'
 title: Royal Motel Room
 domain: lostnotfoundmag.com
-description:
+description: null
 tags: []
 date: '2023-02-08T21:03:39.386Z'
-highlights:
+highlights: null
 ---
 
 
