@@ -15,7 +15,7 @@ Je suis Yannick Schutz, **photographe documentaire et lifestyle** installé dans
 
 Je travaille en Bretagne et partout où le projet m'emmène. [English version](/work/).
 
-{{< portfolio "01-22x02-0101-33" "03-25x44-0826-21" "05-YS294400" "06-YS294472" "12-26x11-1219-32" "14-26x64-0925-29" "15-26x65-0925-24" "16-26x65-0925-28" "19-26x70-0927-33" >}}
+{{< portfolio "01-22x02-0101-33" "05-YS294400" "06-YS294472" "03-25x44-0826-21" "14-26x64-0925-29" "15-26x65-0925-24" "16-26x65-0925-28" "12-26x11-1219-32" >}}
 
 ## Ce que je photographie
 

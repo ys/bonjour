@@ -1,13 +1,15 @@
-{{- /* A selection of homepage photos: {{< portfolio "01-22x02" "05-YS294400" >}} (name prefixes) */ -}}
+{{- /* A selection of homepage photos: {{< portfolio "01-22x02" "05-YS294400" >}} (name prefixes).
+     Portraits sit three to a row, landscapes take a full row: order the names P P P L P P P L. */ -}}
 {{- $home := site.Home -}}
-<div class="my-8" data-pswp>
-  <div class="masonry-container">
-    {{- range .Params }}
-      {{- with $home.Resources.GetMatch (printf "%s*" .) }}
-        {{- partial "photo" (dict "Image" . "Name" .Name "Sizes" "(min-width: 768px) 50vw, 100vw") }}
-      {{- else }}
-        {{- warnf "portfolio: no homepage image matching %q" . }}
-      {{- end }}
+<div class="portfolio-grid my-8" data-pswp>
+  {{- range .Params }}
+    {{- with $home.Resources.GetMatch (printf "%s*" .) }}
+      {{- $wide := gt .Width .Height }}
+      <div class="{{ if $wide }}portfolio-wide{{ else }}portfolio-tall{{ end }}">
+        {{- partial "photo" (dict "Image" . "Name" .Name "Sizes" (cond $wide "(min-width: 1024px) 72rem, 100vw" "(min-width: 768px) 33vw, 100vw")) }}
+      </div>
+    {{- else }}
+      {{- warnf "portfolio: no homepage image matching %q" . }}
     {{- end }}
-  </div>
+  {{- end }}
 </div>

@@ -371,6 +371,34 @@ footer ul li:not(:last-child):after {
   }
 }
 
+/* /work/ portfolio: portraits three to a row, landscapes a full row */
+.portfolio-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.75rem;
+  width: calc(100vw - 2rem);
+  margin-left: calc(50% - 50vw + 1rem);
+
+  @media (min-width: 76rem) {
+    width: 72rem;
+    margin-left: calc(50% - 36rem);
+  }
+
+  @media (min-width: 768px) {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+  }
+}
+
+.portfolio-wide {
+  grid-column: 1 / -1;
+}
+
+/* Portraits vary a hair (2:3 to 0.66): one ratio keeps each row's bottom edge straight */
+.portfolio-tall picture {
+  aspect-ratio: 2 / 3 !important;
+}
+
 .masonry-container img {
   width: 100%;
   height: auto;
