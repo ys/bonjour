@@ -141,8 +141,9 @@ disableKinds = ["taxonomy", "term"]
   quality = 85
 [imaging.webp]
   quality = 85
+# AVIF 65 keeps the film grain (compared side by side with WebP 85 on 2026-10-27)
 [imaging.avif]
-  quality = 85
+  quality = 65
 
 
 # Only publish bundle files that templates actually use (resized images, videos, share cards)

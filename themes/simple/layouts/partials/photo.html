@@ -30,6 +30,7 @@
       {{- else -}}
         {{ $altText = $src.Name | path.Base | replaceRE "\\.[^.]+$" "" | humanize | title }}
       {{- end -}}
+      {{ with partialCached "srcset-avif.html" $src (printf "avif-%s" $src.RelPermalink) }}<source type="image/avif" srcset="{{ . }}" sizes="{{ $.Sizes | default "(min-width: 1024px) 50vw, 100vw" }}">{{ end }}
       <img
         {{ if .Eager }}fetchpriority="high"{{ else }}loading="lazy"{{ end }}
         style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode  }}); background-size: cover"

@@ -45,6 +45,7 @@
                   <div class="absolute inset-0 bg-black/40 z-10"></div>
                   <span class="absolute top-2 left-2 bg-black/80 text-white text-xs font-bold px-2 py-1 z-20 font-sans uppercase tracking-wide">Sold out</span>
                 {{ end }}
+                {{ with partialCached "srcset-avif.html" $src (printf "avif-%s" $src.RelPermalink) }}<source type="image/avif" srcset="{{ . }}" sizes="(min-width: 768px) 33vw, 50vw">{{ end }}
                 <img
                   loading="lazy"
                   style="background: url(data:image/webp;base64,{{ $lqip.Content | base64Encode }}); background-size: cover"

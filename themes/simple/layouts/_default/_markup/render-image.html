@@ -82,6 +82,7 @@
       {{- /* The first image on a page is usually the LCP element: load it eagerly */ -}}
       {{- $.Page.Store.Add "renderedImages" 1 -}}
       {{- $first := eq ($.Page.Store.Get "renderedImages") 1 -}}
+      {{ with partialCached "srcset-avif.html" $src (printf "avif-%s" $src.RelPermalink) }}<source type="image/avif" srcset="{{ . }}" sizes="(min-width: 768px) 768px, 100vw">{{ end }}
       <img {{ if $first }}fetchpriority="high"{{ else }}loading="lazy"{{ end }} alt="{{ $altText }}"
         class="cursor-pointer m-0 h-auto w-full lazyload" data-action="zoom"
         data-zoom-src="{{ partialCached "zoomsrc.html" $src $src.RelPermalink }}" src="{{ $small.RelPermalink }}"

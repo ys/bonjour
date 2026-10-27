@@ -47,6 +47,7 @@
           {{ $altText = $filename }}
         {{- end -}}
       {{- end -}}
+      {{ with partialCached "srcset-avif.html" $src (printf "avif-%s" $src.RelPermalink) }}<source type="image/avif" srcset="{{ . }}" sizes="(min-width: 768px) 768px, 100vw">{{ end }}
       <img
         loading="lazy"
         alt="{{ $altText }}"

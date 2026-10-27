@@ -1,0 +1,12 @@
+{{- /* AVIF srcset at the same widths as srcset.html (quality from [imaging.avif]). Empty for GIFs. */ -}}
+{{- $src := . -}}
+{{- $set := slice -}}
+{{- if ne $src.MediaType.SubType "gif" -}}
+  {{- range slice 480 800 1200 1600 -}}
+    {{- if le . $src.Width -}}
+      {{- $r := $src.Resize (printf "%dx avif" .) -}}
+      {{- $set = $set | append (printf "%s %dw" $r.RelPermalink $r.Width) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- delimit $set ", " -}}
