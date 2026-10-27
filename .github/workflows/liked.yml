@@ -23,10 +23,6 @@ jobs:
         env:
           RAINDROP_TOKEN: ${{ secrets.RAINDROP_TOKEN }}
           RAINDROP_FORCE: true
-      - name: Sync to Arena
-        run: deno run --allow-net=api.are.na --allow-read=.env,data --allow-write=data/synced_to_arena.yml --allow-env flat/export-to-arena.ts
-        env:
-          ARENA_TOKEN: ${{ secrets.ARENA_TOKEN }}
       - name: Commit files
         id: commit
         run: |
