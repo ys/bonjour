@@ -6,15 +6,15 @@ on:
       - .github/workflows/liked.yml # Only run a new workflow every time this file (flat.yaml) file changes
   workflow_dispatch: # Required even though this is currently empty
   schedule:
-    - cron: "0 * * * *" # Every hour
+    - cron: "0 5 * * *" # Daily at 5am UTC
 
 jobs:
   liked:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repo
-        uses: actions/checkout@v4
-      - uses: ruby/setup-ruby@v1
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - uses: ruby/setup-ruby@7f797815d8adceb1c412e7abefdd1ab4abc47a5f # v1
         with:
           ruby-version: '3.2.3' # Not needed with a .ruby-version file
           bundler-cache: true
@@ -42,7 +42,7 @@ jobs:
         shell: bash
       - name: Push changes
         if: steps.commit.outputs.push == 'true'
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@d91a481090679876dfc4178fef17f286781251df # v0.8.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}

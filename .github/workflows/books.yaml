@@ -6,7 +6,7 @@ on:
       - .github/workflows/books.yaml # Only run a new workflow every time this file changes
   workflow_dispatch: # Manual trigger
   schedule:
-    - cron: "0 */6 * * *" # Run this workflow every 6 hours
+    - cron: "30 5 * * *" # Daily at 5:30am UTC, before the 6am rebuild
 
 jobs:
   scheduled:
@@ -15,9 +15,9 @@ jobs:
       contents: write
     steps:
       - name: Check out repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
       - name: Setup deno
-        uses: denoland/setup-deno@main
+        uses: denoland/setup-deno@22d081ff2d3a40755e97629de92e3bcbfa7cf2ed # v2
         with:
           deno-version: v2.x
       - name: Fetch Hardcover data
