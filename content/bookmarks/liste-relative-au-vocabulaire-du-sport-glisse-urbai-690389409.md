@@ -6,9 +6,7 @@ category: article
 collection: SKATEBOARDING
 headImage: >-
   https://ma-veille-juridique.com/wp-content/uploads/2020/11/gavel-2492011_1920-600x400.jpg
-title: >-
-  🟧 Liste relative au vocabulaire du sport : glisse urbaine (termes,
-  expressions et définitions adoptés)
+title: "\U0001F7E7 Liste relative au vocabulaire du sport : glisse urbaine (termes, expressions et définitions adoptés)"
 domain: ma-veille-juridique.com
 description: >-
   Références NOR : CTNR2332317K Source : JORF n°0281 du 5 décembre 2023, texte

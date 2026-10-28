@@ -5,7 +5,7 @@ category: article
 collection: TECH
 headImage: >-
   https://joelhooks-opengraph-images.netlify.app/opengraph?title=%F0%9F%8C%B1%20My%20blog%20is%20a%20digital%20garden%2C%20not%20a%20blog&author=https%3A%2F%2Ftwitter.com%2Fjhooks&v=420
-title: '🌱 My blog is a digital garden, not a blog'
+title: "\U0001F331 My blog is a digital garden, not a blog"
 domain: joelhooks.com
 description: null
 tags: []

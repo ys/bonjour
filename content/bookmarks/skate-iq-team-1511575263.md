@@ -8,7 +8,7 @@ headImage: >-
   https://assets.skool.com/f/810b9a3d536344cdac57f7c6ff2b35af/ce33a27c7d6140c4b5e4bcb7669e3ee757b79e9d181b41008c2bb1825d232a1a.jpg
 title: Skate IQ Team
 domain: skool.com
-description: Elite coaching for everyday skateboarders 📈
+description: "Elite coaching for everyday skateboarders \U0001F4C8"
 tags: []
 date: '2025-12-27T07:59:05.013Z'
 highlights: null
