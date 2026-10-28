@@ -171,8 +171,7 @@ books:
     pages: 272
     isbn: "0143037838"
     isbn13: "9780143037835"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/59364474/f2a715b0911fa8d3544dbd7ec6c495ba5dfe15ef.jpeg
+    cover_url: https://covers.openlibrary.org/b/id/6875301-L.jpg
     reading: false
     url: https://hardcover.app/books/let-my-people-go-surfing
   - title: Paper Girls, Vol. 2
@@ -276,7 +275,7 @@ books:
     pages: 0
     isbn: ""
     isbn13: ""
-    cover_url: ""
+    cover_url: https://covers.openlibrary.org/b/id/5540868-L.jpg
     reading: false
     url: >-
       https://hardcover.app/books/saltwater-buddha-a-surfers-quest-to-find-zen-on-the-sea

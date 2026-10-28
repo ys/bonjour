@@ -110,18 +110,67 @@ const MIN_COVER_SIZE = 10000; // 10KB – anything smaller is likely a placehold
 async function checkCoverSize(url: string): Promise<boolean> {
   try {
     const response = await fetch(url, { method: "HEAD" });
-    const contentLength = parseInt(
-      response.headers.get("content-length") || "0",
-    );
     const contentType = response.headers.get("content-type") || "";
-    return (
-      response.ok &&
-      contentType.includes("image") &&
-      contentLength > MIN_COVER_SIZE
-    );
+    if (!response.ok || !contentType.includes("image")) return false;
+    const contentLength = response.headers.get("content-length");
+    if (contentLength) return parseInt(contentLength) > MIN_COVER_SIZE;
+    // Redirected images (Open Library) come without a length: download to measure
+    const body = await fetch(url).then((r) => r.arrayBuffer());
+    return body.byteLength > MIN_COVER_SIZE;
   } catch {
     return false;
   }
+}
+
+// Covers that Hardcover lacks, keyed by exact title: found ones are saved here so the
+// next run skips the search, and hand-added ones win over everything.
+const COVERS_FILE = "./data/books/covers.yaml";
+const COVERS: Record<string, string> = (() => {
+  try {
+    return yaml.load(Deno.readTextFileSync(COVERS_FILE)) ?? {};
+  } catch {
+    return {};
+  }
+})();
+const OPEN_LIBRARY_HEADERS = { "User-Agent": "bonjour-books (hello@yannickschutz.com)" };
+
+function normalizeTitle(title: string): string {
+  return title
+    .split(":")[0]
+    .normalize("NFKD")
+    .replace(/\p{M}/gu, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
+}
+
+async function findOpenLibraryTitleCover(
+  title: string,
+  author: string,
+): Promise<string> {
+  // Last resort for books without a usable ISBN. Only an exact title match counts:
+  // a looser one hands volume 1's cover to volumes 2 and 3.
+  try {
+    const query = new URLSearchParams({
+      title: title.split(":")[0],
+      author,
+      limit: "10",
+      fields: "title,cover_i",
+    });
+    const response = await fetch(`https://openlibrary.org/search.json?${query}`, {
+      headers: OPEN_LIBRARY_HEADERS,
+    });
+    if (!response.ok) return "";
+    const { docs = [] } = await response.json();
+    for (const doc of docs) {
+      if (!doc.cover_i || normalizeTitle(doc.title) !== normalizeTitle(title)) continue;
+      const url = `https://covers.openlibrary.org/b/id/${doc.cover_i}-L.jpg`;
+      if (await checkCoverSize(url)) return url;
+    }
+  } catch {
+    // ignore
+  }
+  return "";
 }
 
 async function findOpenLibraryCover(isbn: string): Promise<string> {
@@ -210,14 +259,21 @@ async function findAmazonSearchCover(isbn: string): Promise<string> {
   return "";
 }
 
-async function findCoverUrl(isbn: string, isbn13: string): Promise<string> {
+async function findCoverUrl(
+  isbn: string,
+  isbn13: string,
+  title: string,
+  author: string,
+): Promise<string> {
   const id = isbn13 || isbn;
 
   // 1. Amazon direct image URLs
-  const amazonEndpoints = [
-    `https://images-na.ssl-images-amazon.com/images/P/${id}.01.LZZZZZZZ.jpg`,
-    `https://m.media-amazon.com/images/P/${id}.01._SCLZZZZZZZ_SX500_.jpg`,
-  ];
+  const amazonEndpoints = id
+    ? [
+      `https://images-na.ssl-images-amazon.com/images/P/${id}.01.LZZZZZZZ.jpg`,
+      `https://m.media-amazon.com/images/P/${id}.01._SCLZZZZZZZ_SX500_.jpg`,
+    ]
+    : [];
   for (const url of amazonEndpoints) {
     if (await checkCoverSize(url)) {
       console.log(`  ✅ Found cover via Amazon: ${url.substring(0, 60)}...`);
@@ -258,7 +314,12 @@ async function findCoverUrl(isbn: string, isbn13: string): Promise<string> {
     }
   }
 
-  return "";
+  // 5. Open Library by title and author
+  const url = await findOpenLibraryTitleCover(title, author);
+  if (url) {
+    console.log(`  ✅ Found cover via Open Library title: ${url.substring(0, 60)}...`);
+  }
+  return url;
 }
 
 async function mapUserBook(ub: any): Promise<Book | null> {
@@ -287,21 +348,22 @@ async function mapUserBook(ub: any): Promise<Book | null> {
   const isbn = edition.isbn_10 ?? "";
   const isbn13 = edition.isbn_13 ?? "";
 
-  // Check if the existing cover is missing or too small, and try Amazon fallback
-  if (isbn || isbn13) {
+  // Check if the existing cover is missing or too small, and try the fallbacks
+  if (COVERS[title]) {
+    coverUrl = COVERS[title];
+  } else {
     if (!coverUrl) {
       console.log(`  🔍 No cover for "${title}", searching...`);
-      coverUrl = await findCoverUrl(isbn, isbn13);
-      if (!coverUrl) {
-        console.log(`  ❌ No cover found for "${title}"`);
-      }
+      coverUrl = await findCoverUrl(isbn, isbn13, title, author);
+      if (coverUrl) COVERS[title] = coverUrl;
+      else console.log(`  ❌ No cover found for "${title}"`);
     } else if (!(await checkCoverSize(coverUrl))) {
       console.log(
         `  🔍 Cover too small for "${title}", searching for a better one...`,
       );
-      const betterUrl = await findCoverUrl(isbn, isbn13);
+      const betterUrl = await findCoverUrl(isbn, isbn13, title, author);
       if (betterUrl) {
-        coverUrl = betterUrl;
+        coverUrl = COVERS[title] = betterUrl;
       } else {
         console.log(
           `  ⚠️ Keeping small cover for "${title}" (no better one found)`,
@@ -367,11 +429,18 @@ async function main() {
 
   const userBooks = data?.me?.[0]?.user_books ?? [];
 
-  // Map books sequentially to allow cover searching
+  // One at a time: in parallel, the cover searches get us blocked by Open Library
   console.log("Processing books and searching for missing covers...");
-  const bookPromises = userBooks.map((ub) => mapUserBook(ub));
-  const booksWithNull = await Promise.all(bookPromises);
-  const books: Book[] = booksWithNull.filter((b): b is Book => b != null);
+  const books: Book[] = [];
+  for (const ub of userBooks) {
+    const book = await mapUserBook(ub);
+    if (book) books.push(book);
+  }
+  await Deno.writeTextFile(
+    COVERS_FILE,
+    "# Covers Hardcover lacks, by exact title. Found ones are added by the sync; add any by hand.\n" +
+      yaml.dump(Object.fromEntries(Object.entries(COVERS).sort()), { lineWidth: -1 }),
+  );
 
   console.log(
     `Fetched ${userBooks.length} user_books, ${books.length} after excluding want-to-read`,
