@@ -23,7 +23,7 @@ Je travaille en Bretagne et partout où le projet m'emmène. [English version](/
 
 **Reportages éditoriaux.** Des histoires documentaires pour les magazines et publications, du simple portrait au reportage complet.
 
-**Surf et photo dans l'eau.** Je photographie dans l'eau avec un [Nikonos V](/nikonos-v/) et je surfe moi-même. Je suis à l'aise pour photographier les surfeurs, les shapers et toute la culture autour.
+**Surf.** Je surfe moi-même, alors je suis à l'aise pour photographier les surfeurs, les shapers et toute la culture autour : depuis la plage, le parking ou l'atelier de shape, et dans l'eau avec un [Nikonos V](/nikonos-v/) quand les vagues sont petites.
 
 **Tirages et zines.** Je fabrique des zines et des tirages signés. Mon [premier zine](/shop/a-thousand-tides/) est épuisé chez Ex Why Zed, et les suivants sont dans la [boutique](/shop/). Écrivez-moi pour des tirages ou des éditions sur mesure.
 

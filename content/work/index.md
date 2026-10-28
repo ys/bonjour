@@ -23,7 +23,7 @@ I work in Brittany and wherever the job is. [Version française](/travail/).
 
 **Editorial stories.** Documentary stories for magazines and publications, from a single portrait to a full reportage.
 
-**Surf and water.** I shoot in the water with a [Nikonos V](/nikonos-v/) and I surf myself, so I am comfortable photographing surfers, shapers and the culture around them.
+**Surf.** I surf myself, so I am at home photographing surfers, shapers and the culture around them, from the beach, the parking lot and the shaping bay, and in the water with a [Nikonos V](/nikonos-v/) when the surf is small.
 
 **Prints and zines.** I make zines and signed prints. My [first zine](/shop/a-thousand-tides/) sold out with Ex Why Zed, and you can find the current ones in the [shop](/shop/). Get in touch for custom prints or editions.
 
