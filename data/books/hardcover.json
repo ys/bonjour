@@ -11403,6 +11403,40 @@
           }
         },
         {
+          "book_id": 446722,
+          "rating": null,
+          "date_added": "2026-10-27",
+          "user_book_status": {
+            "slug": "currently-reading"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": null
+            }
+          ],
+          "edition": {
+            "isbn_10": "0593955978",
+            "isbn_13": "9780593955970",
+            "pages": 589,
+            "release_date": "2025-03-11"
+          },
+          "book": {
+            "title": "The Gate of the Feral Gods",
+            "subtitle": "Dungeon Crawler Carl, Book 4",
+            "slug": "the-gate-of-the-feral-gods",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Matt Dinniman"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/edition/31943704/04d5cb18-1725-4b03-9303-b6e9ee14942d.jpg"
+            }
+          }
+        },
+        {
           "book_id": 2376151,
           "rating": null,
           "date_added": "2026-02-17",
@@ -12956,6 +12990,113 @@
             ],
             "image": {
               "url": "https://assets.hardcover.app/external_data/59959933/2f25c841364281728ab84ff14cc1bf61d4f3f8e0.jpeg"
+            }
+          }
+        },
+        {
+          "book_id": 446680,
+          "rating": 4.5,
+          "date_added": "2026-10-27",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2026-10-20"
+            }
+          ],
+          "edition": {
+            "isbn_10": "0593820274",
+            "isbn_13": "9780593820278",
+            "pages": 351,
+            "release_date": "2021-01-02"
+          },
+          "book": {
+            "title": "Carl's Doomsday Scenario",
+            "subtitle": "Dungeon Crawler Carl Book 2",
+            "slug": "carls-doomsday-scenario",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Matt Dinniman"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/editions/31544885/72ed6606-0392-4666-a23e-a331365814a2.jpg"
+            }
+          }
+        },
+        {
+          "book_id": 446730,
+          "rating": 5,
+          "date_added": "2026-10-27",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2026-10-27"
+            }
+          ],
+          "edition": {
+            "isbn_10": null,
+            "isbn_13": null,
+            "pages": 532,
+            "release_date": "2024-10-22"
+          },
+          "book": {
+            "title": "The Dungeon Anarchist's Cookbook",
+            "subtitle": "Dungeon Crawler Carl, Book 3",
+            "slug": "the-dungeon-anarchists-cookbook",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Matt Dinniman"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/edition/30407849/4b70ed0d-fb89-4d2c-9e33-23def79d50a4.jpg"
+            }
+          }
+        },
+        {
+          "book_id": 446681,
+          "rating": 4.5,
+          "date_added": "2026-10-27",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2026-10-17"
+            }
+          ],
+          "edition": {
+            "isbn_10": null,
+            "isbn_13": "9798217287161",
+            "pages": 622,
+            "release_date": "2025-07-15"
+          },
+          "book": {
+            "title": "Dungeon Crawler Carl",
+            "subtitle": "A LitRPG/Gamelit Adventure",
+            "slug": "dungeon-crawler-carl",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Matt Dinniman"
+                }
+              },
+              {
+                "author": {
+                  "name": "Will Staehle"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/edition/31601422/3a01ea07-01f4-45a2-9940-6fc7e00e0d08.jpeg"
             }
           }
         }

@@ -1,2 +1,15 @@
 current: true
-books: []
+books:
+  - title: The Gate of the Feral Gods
+    author: Matt Dinniman
+    subtitle: Dungeon Crawler Carl, Book 4
+    date: 2026-10-27
+    read: null
+    rating: 0
+    pages: 589
+    isbn: "0593955978"
+    isbn13: "9780593955970"
+    cover_url: >-
+      https://assets.hardcover.app/edition/31943704/04d5cb18-1725-4b03-9303-b6e9ee14942d.jpg
+    reading: true
+    url: https://hardcover.app/books/the-gate-of-the-feral-gods
