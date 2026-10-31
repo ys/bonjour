@@ -152,7 +152,7 @@ books:
     pages: 0
     isbn: "1917523599"
     isbn13: "9781917523592"
-    cover_url: ""
+    cover_url: https://m.media-amazon.com/images/I/71tqdrnvxBL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/a-year-of-nothing-as-heard-on-bbc-woman-s-hour
   - title: Famous
@@ -372,7 +372,7 @@ books:
     pages: 297
     isbn: "2226503943"
     isbn13: "9782226503947"
-    cover_url: ""
+    cover_url: https://m.media-amazon.com/images/I/714LxmLszfL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/ma-vie-sans-moustache
   - title: La Baie
