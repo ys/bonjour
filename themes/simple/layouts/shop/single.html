@@ -39,7 +39,7 @@
       {{ partial "grid" $rows }}
     </div>
   {{ end }}
-  <div  class="font-sans prose dark:prose-invert order-first lg:order-none lg:mt-8">
+  <div  class="font-sans prose dark:prose-invert lg:mt-8">
     <h1 class="font-serif font-normal text-[28px] leading-tight mb-1">{{ .Title }}</h1>
     {{ with .Params.subtitle }}<p class="font-serif italic text-base text-gray-500 dark:text-gray-400 mt-0">{{ . }}</p>{{ end }}
     {{ if .Params.price }}

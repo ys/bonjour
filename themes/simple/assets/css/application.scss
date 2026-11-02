@@ -138,6 +138,51 @@ footer ul li:not(:last-child):after {
   top: calc(var(--gap, 0px) * 0.5);
 }
 
+// Shop product gallery: swipeable strip on mobile so the buy button stays close
+@media (max-width: 767.98px) {
+  .photogrid .mgrid {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    // photos sit flush in their slides, spaced by the flex gap instead
+    --gap: 0px;
+    gap: 0.75rem;
+    // room for the photo shadows, which the scroll container would otherwise clip
+    margin: -0.5rem -0.75rem 0;
+    padding: 0.5rem 0.75rem 0.75rem;
+    scroll-padding-inline: 0.75rem;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+
+    > * {
+      flex: 0 0 85% !important;
+      min-height: 0;
+      scroll-snap-align: start;
+    }
+
+    > :only-child {
+      flex-basis: 100% !important;
+    }
+  }
+}
+
+// Shop product: keep the title close to the gallery while it's stacked above
+@media (max-width: 1023.98px) {
+  .photogrid + .prose {
+    margin-top: -1rem;
+
+    h1 {
+      margin-top: 0;
+    }
+  }
+}
+
 // Masonry layout styles using CSS columns
 .masonry-container {
   width: 100vw;
