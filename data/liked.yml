@@ -4698,7 +4698,7 @@
     status: ready
     created: '2026-03-18T11:30:31.427Z'
     size: 12052914
-  broken: false
+  broken: true
   collectionId: 37459360
   collection_name: SKATEBOARDING
   parsed: {}
@@ -4794,7 +4794,7 @@
   sort: 988988199
   cache:
     status: invalid-origin
-  broken: true
+  broken: false
   collectionId: 37603939
   collection_name: A BETTER LIFE
   parsed: {}
@@ -9121,7 +9121,7 @@
     status: ready
     created: '2026-03-18T11:30:31.558Z'
     size: 4409372
-  broken: false
+  broken: true
   collectionId: 37603939
   collection_name: A BETTER LIFE
   parsed: {}
@@ -11002,7 +11002,7 @@
     status: ready
     created: '2026-03-18T11:30:22.344Z'
     size: 11586136
-  broken: false
+  broken: true
   collectionId: 37136914
   collection_name: HOME
   parsed: {}
@@ -13673,7 +13673,7 @@
     status: ready
     created: '2026-03-18T11:30:23.573Z'
     size: 3519103
-  broken: false
+  broken: true
   collectionId: 37603939
   collection_name: A BETTER LIFE
   parsed: {}
@@ -16869,7 +16869,7 @@
   sort: 686365442
   cache:
     status: invalid-timeout
-  broken: false
+  broken: true
   collectionId: 37459360
   collection_name: SKATEBOARDING
   parsed: {}
@@ -18211,7 +18211,7 @@
     status: ready
     created: '2026-03-18T11:30:32.355Z'
     size: 2735586
-  broken: false
+  broken: true
   collectionId: 38035089
   collection_name: TECH
   parsed: {}
@@ -19112,7 +19112,7 @@
     status: ready
     created: '2026-03-18T11:30:45.659Z'
     size: 680505
-  broken: false
+  broken: true
   collectionId: 37459371
   collection_name: PHOTOGRAPHY
   parsed: {}
@@ -20087,7 +20087,7 @@
   sort: 1556774219
   cache:
     status: invalid-origin
-  broken: true
+  broken: false
   collectionId: 37136905
   collection_name: SURF
   parsed: {}
@@ -23023,7 +23023,7 @@
     status: ready
     created: '2026-03-18T11:30:52.730Z'
     size: 651378
-  broken: true
+  broken: false
   collectionId: 37136905
   collection_name: SURF
   parsed: {}
@@ -23100,7 +23100,7 @@
     status: ready
     created: '2026-03-18T11:30:35.102Z'
     size: 3433124
-  broken: false
+  broken: true
   collectionId: 37136905
   collection_name: SURF
   parsed: {}
@@ -23331,7 +23331,7 @@
     status: ready
     created: '2026-03-18T11:30:52.343Z'
     size: 387907
-  broken: false
+  broken: true
   collectionId: 37459360
   collection_name: SKATEBOARDING
   parsed: {}
@@ -25338,7 +25338,7 @@
     status: ready
     created: '2026-03-18T11:30:50.716Z'
     size: 5034341
-  broken: true
+  broken: false
   collectionId: 37603939
   collection_name: A BETTER LIFE
   parsed: {}
@@ -26189,7 +26189,7 @@
     status: ready
     created: '2026-03-18T11:30:36.896Z'
     size: 1423902
-  broken: false
+  broken: true
   collectionId: 37136905
   collection_name: SURF
   parsed: {}
@@ -28542,7 +28542,7 @@
     status: ready
     created: '2026-03-18T11:30:42.884Z'
     size: 15639141
-  broken: false
+  broken: true
   collectionId: 37679987
   collection_name: ART & CULTURE
   parsed: {}
@@ -29019,7 +29019,7 @@
     status: ready
     created: '2026-03-18T11:30:48.917Z'
     size: 7086758
-  broken: true
+  broken: false
   collectionId: 37603939
   collection_name: A BETTER LIFE
   parsed: {}
@@ -29343,7 +29343,7 @@
     status: ready
     created: '2026-03-18T11:30:49.734Z'
     size: 523093
-  broken: false
+  broken: true
   collectionId: 37603939
   collection_name: A BETTER LIFE
   parsed: {}
@@ -29467,7 +29467,7 @@
     status: ready
     created: '2026-03-18T11:31:11.869Z'
     size: 220793
-  broken: true
+  broken: false
   collectionId: 37603939
   collection_name: A BETTER LIFE
   parsed: {}
@@ -29903,7 +29903,7 @@
   important: true
   cache:
     status: invalid-origin
-  broken: true
+  broken: false
   collectionId: 37136905
   collection_name: SURF
   parsed: {}
@@ -30674,7 +30674,7 @@
     status: ready
     created: '2026-03-18T11:31:02.628Z'
     size: 6168760
-  broken: true
+  broken: false
   collectionId: 37679987
   collection_name: ART & CULTURE
   parsed: {}
@@ -30955,7 +30955,7 @@
     status: ready
     created: '2026-03-18T11:30:55.209Z'
     size: 3220760
-  broken: true
+  broken: false
   collectionId: 37603939
   collection_name: A BETTER LIFE
   parsed: {}
@@ -32376,7 +32376,7 @@
     status: ready
     created: '2026-03-18T11:31:00.047Z'
     size: 1436040
-  broken: true
+  broken: false
   collectionId: 37679925
   collection_name: TRAVEL
   parsed: {}
@@ -32759,7 +32759,7 @@
     status: ready
     created: '2026-03-18T11:30:49.293Z'
     size: 98702
-  broken: false
+  broken: true
   collectionId: 37679987
   collection_name: ART & CULTURE
   parsed: {}
@@ -33262,7 +33262,7 @@
     status: ready
     created: '2026-03-18T11:31:03.105Z'
     size: 3674379
-  broken: true
+  broken: false
   collectionId: 37603939
   collection_name: A BETTER LIFE
   parsed: {}
@@ -33736,7 +33736,7 @@
     status: ready
     created: '2026-03-18T11:31:05.796Z'
     size: 1378459
-  broken: true
+  broken: false
   collectionId: 37679987
   collection_name: ART & CULTURE
   parsed: {}
@@ -33779,7 +33779,7 @@
     status: ready
     created: '2026-03-18T11:31:16.848Z'
     size: 5329745
-  broken: true
+  broken: false
   collectionId: 37603939
   collection_name: A BETTER LIFE
   parsed: {}
