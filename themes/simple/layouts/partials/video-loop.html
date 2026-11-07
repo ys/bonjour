@@ -1,4 +1,4 @@
-{{- /* Plays muted loops (video[data-loop]) only while on screen; controls instead for reduced motion. */ -}}
+{{- /* Plays muted loops (video[data-loop]) only while on screen, so they only download when near; controls instead for reduced motion. */ -}}
 <script>
 (() => {
   const videos = document.querySelectorAll("video[data-loop]");
@@ -7,7 +7,7 @@
     videos.forEach((v) => { v.removeAttribute("autoplay"); v.pause(); v.controls = true; });
     return;
   }
-  if (!("IntersectionObserver" in window)) return;
+  if (!("IntersectionObserver" in window)) { videos.forEach((v) => v.play().catch(() => {})); return; }
   const io = new IntersectionObserver((entries) => entries.forEach((e) => {
     if (e.isIntersecting) e.target.play().catch(() => {});
     else e.target.pause();

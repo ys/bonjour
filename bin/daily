@@ -5,7 +5,7 @@
 #   DAILY_ALBUM="Daily" bin/daily
 #
 # Each photo becomes content/daily/<capture date>-<time>-ph.webp, each video
-# <date>-<time>-ph.mp4 (muted, max 15 s) plus its poster -ph.poster.webp, so the
+# <date>-<time>-ph.mp4 (muted, max 15 s, 960 px) plus its poster -ph.poster.webp, so the
 # gallery sorts itself newest first. Only *-ph.* files are managed here:
 # a photo removed from the album disappears from the site, and any other
 # file in content/daily/ (2025-*.webp, lr-*.webp...) is left alone.
@@ -19,7 +19,7 @@ ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 DEST="$ROOT/content/daily"
 SIZE=1500
 QUALITY=80
-VIDEO_SIZE=1280
+VIDEO_SIZE=960
 VIDEO_MAX_SECONDS=15
 
 command -v osxphotos >/dev/null || { echo "osxphotos is missing: uv tool install osxphotos (or pipx install osxphotos)"; exit 1; }
@@ -33,6 +33,7 @@ mkdir -p "$TMP/export" "$TMP/webp"
 echo "Exporting album \"$ALBUM\" from Photos..."
 osxphotos export "$TMP/export" \
   --album "$ALBUM" \
+  --download-missing \
   --skip-original-if-edited \
   --edited-suffix "" \
   --skip-live \
@@ -61,7 +62,7 @@ if [ ${#videos[@]} -gt 0 ]; then
     name="$(basename "${f%.*}")"
     ffmpeg -nostdin -loglevel error -y -i "$f" -t "$VIDEO_MAX_SECONDS" -an \
       -vf "scale=w=${VIDEO_SIZE}:h=${VIDEO_SIZE}:force_original_aspect_ratio=decrease:force_divisible_by=2,format=yuv420p" \
-      -c:v libx264 -preset veryfast -crf 26 -movflags +faststart -map_metadata -1 \
+      -c:v libx264 -preset slow -crf 28 -movflags +faststart -map_metadata -1 \
       "$TMP/webp/$name.mp4"
     ffmpeg -nostdin -loglevel error -y -ss 0.5 -i "$TMP/webp/$name.mp4" -frames:v 1 "$TMP/poster.png" \
       || ffmpeg -nostdin -loglevel error -y -i "$TMP/webp/$name.mp4" -frames:v 1 "$TMP/poster.png"
