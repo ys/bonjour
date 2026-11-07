@@ -2,7 +2,7 @@
 {{- $poster := .Image.Resize "800x webp" -}}
 <div class="masonry-item relative">
   <video class="block w-full h-auto shadow-md" style="aspect-ratio: {{ .Image.Width }} / {{ .Image.Height }};"
-    muted loop playsinline autoplay preload="metadata" data-loop
+    muted loop playsinline preload="none" data-loop
     poster="{{ $poster.RelPermalink }}" width="{{ $poster.Width }}" height="{{ $poster.Height }}"
     aria-label="Video from {{ .Video.Name | path.Base | replaceRE "-ph\\.mp4$" "" }}">
     <source src="{{ .Video.RelPermalink }}" type="video/mp4">
