@@ -1,5 +1,6 @@
 ---
 title: "Penn-Al-Lann"
+seotitle: "Plage de Penn-Al-Lann (plage de Tahiti), Carantec"
 date: 2018-09-11T21:07:44+01:00
 draft: false
 slug: "penn-al-lann"
@@ -20,7 +21,7 @@ tags:
 place: "France"
 categories:
   - voyages
-description: "Une petite plage à l’abris des gens et du vent, plus connue sous le nom de plage de Tahiti."
+description: "Penn-Al-Lann, la plage de Tahiti près de Carantec : accès par le GR34, îlot à rejoindre à pied à marée basse, pêche à pied et vue sur le château du Taureau."
 resources:
   - src: "penn-al-lann-10.webp"
     title: "Fougères et pins au-dessus d'une plage dans la brume"

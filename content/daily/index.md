@@ -106,6 +106,12 @@ resources:
     title: "Framed photo prints packed in boxes"
   - src: "2026-10-23-080412-ph.webp"
     title: "Spread of colour photo prints from a surf trip"
+  - src: "2026-10-29-065720-ph.webp"
+    title: "Hand-drawn smiley logo on a wet surfboard deck"
+  - src: "2026-10-31-020356-ph.webp"
+    title: "Red letters of a signed print in late sun and leaf shadows"
+  - src: "2026-11-01-131954-ph.webp"
+    title: "Cream longboard and its fin on gravel beside hydrangeas"
   - src: "card.webp"
     name: "card"
 ---

@@ -1,7 +1,9 @@
 ---
 date: 2025-01-22
 title: "Leica M10-P"
+seotitle: "Leica M10-P : test et avis après un an d'utilisation"
 subtitle: "Le plaisir d'un argentique avec un écran"
+description: "Mon avis sur le Leica M10-P après un an : rendu et bruit en basse lumière, focus peaking, écran tactile, bugs de freeze, fichiers DNG et combo avec le M6."
 slug: "leica-m10p"
 tags: ["Leica", "Leica M10-P", "Leica M10", "Leica M11", "Numérique", "digital"]
 emoji: "📸"
