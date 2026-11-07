@@ -2,9 +2,10 @@
 locale: en_US
 color: magenta
 title: Arena, the little tool that could
+seotitle: "Are.na vs Pinterest: a calmer place to collect ideas"
 subtitle: Serendipity and blocks
 date: 2023-12-01
-description: 
+description: "Are.na looks like Pinterest, but its blocks, channels and open collections make it something else: a calm, ad-free place for serendipitous discovery."
 category:
   - journal
 slug: "/arena"

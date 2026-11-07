@@ -1,6 +1,7 @@
 {{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   {{- $seen := dict -}}
   {{ range where .Pages "Type" "not in" .Site.Params.doNotIndex  }}
     {{- /* Skip pages canonicalised elsewhere, the 404 page, and URLs already listed */ -}}
@@ -21,6 +22,11 @@
                 hreflang="{{ .Language.Locale }}"
                 href="{{ .Permalink }}"
                 />{{ end }}
+    {{- /* Photos of the page, at the size the zoom already publishes, for Google Images */ -}}
+    {{- range .Resources.ByType "image" }}{{ if and (reflect.IsImageResourceProcessable .) (ne .Name "card") (not (in .Name ".poster.")) }}
+    <image:image>
+      <image:loc>{{ partialCached "zoomsrc.html" . .RelPermalink | absURL }}</image:loc>
+    </image:image>{{ end }}{{ end }}
   </url>
     {{- end -}}
   {{ end }}
