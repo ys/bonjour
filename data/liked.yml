@@ -1,3 +1,60 @@
+- _id: 1916782018
+  link: 'https://www.youtube.com/watch?v=eKdkTFrJV38'
+  title: CVRRENT // Ep. 61 // Rachel Lord
+  excerpt: |-
+    Surfer: Rachel Lord with cameos by Claire Hodson & Lara Marcantonio
+    Board: 11'0 Anthopometrie by Lord Bords
+    Music: "A Child of a Few Hours" by West Coast Experimental Pop Band
+    Land Videography: Will Simons
+    Water Videography & Editing: TJ Thran
+  note: ''
+  type: video
+  user:
+    $ref: users
+    $id: 1617030
+  cover: 'https://i.ytimg.com/vi/eKdkTFrJV38/maxresdefault.jpg'
+  media:
+    - link: 'https://i.ytimg.com/vi/eKdkTFrJV38/maxresdefault.jpg'
+      type: image
+    - link: >-
+        https://i.ytimg.com/vi/IoIFOjP2dpM/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYciBGKDowDw==&rs=AOn4CLCp_qaasQld1L-rrgVwHIUIKcWbxg
+      type: image
+    - link: >-
+        https://i.ytimg.com/vi/0LbwXTZ4iJg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAcwYmpVSZZv48RVvwXlMBoW9tqmg
+      type: image
+    - link: >-
+        https://i.ytimg.com/vi/mWgTCpbEiX4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAlK_qZR9hPRw2g9fjKuU5jJqvY4A
+      type: image
+    - link: >-
+        https://i.ytimg.com/vi/yxzt7vqTN4Y/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAzHEqkaqcjjV0w6krsHTCZR6l9ig
+      type: image
+  tags: []
+  important: true
+  reminder:
+    date: null
+  removed: false
+  created: '2026-11-07T08:56:38.473Z'
+  collection:
+    $ref: collections
+    $id: 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2026-11-07T08:56:40.466Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1916782018
+  broken: false
+  cache:
+    status: ready
+    created: '2026-11-07T09:18:13.758Z'
+    size: 1282
+  collectionId: 37136905
+  collection_name: SURF
+  parsed: {}
 - _id: 1873763916
   link: 'https://www.youtube.com/watch?v=EIp9nW8zDkE'
   title: JULY WETSUITS - Clovis Donizetti
