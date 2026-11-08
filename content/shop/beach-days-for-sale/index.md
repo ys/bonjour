@@ -1,4 +1,5 @@
 ---
+archived: true
 color: "yellow"
 title: "Beach Days - For sale"
 description: "“For sale”: a white van parked facing the Pacific, in black and white. Signed, framed 20x30cm Beach Days print."

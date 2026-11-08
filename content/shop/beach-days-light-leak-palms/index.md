@@ -1,4 +1,5 @@
 ---
+archived: true
 color: "yellow"
 title: "Beach Days - Light leak palms"
 description: "“Light leak palms”: two palm trees against a blue sky, warmed by a film light leak. Signed, framed 24x30cm Beach Days print."

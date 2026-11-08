@@ -1,4 +1,5 @@
 ---
+archived: true
 color: "yellow"
 title: "Beach Days - San O"
 description: "“San O”: the beach at San Onofre in black and white: bluffs, palm trees and old cars on the sand. Signed, framed 40x60cm Beach Days print."

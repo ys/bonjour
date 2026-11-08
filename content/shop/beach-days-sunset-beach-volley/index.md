@@ -1,4 +1,5 @@
 ---
+archived: true
 color: "yellow"
 title: "Beach Days - Sunset beach volley"
 description: "“Sunset beach volley”: golden sunset light over a beach volleyball court lined with palm trees. Signed, framed 24x30cm Beach Days print."

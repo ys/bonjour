@@ -1,4 +1,5 @@
 ---
+archived: true
 color: "yellow"
 title: "Beach Days - Knee paddle"
 description: "“Knee paddle”: a surfer knee-paddling out through the whitewater into a turquoise Pacific. Signed, framed 40x60cm Beach Days print."

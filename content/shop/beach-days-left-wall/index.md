@@ -1,4 +1,5 @@
 ---
+archived: true
 color: "yellow"
 title: "Beach Days - Left wall"
 description: "“Left wall”: surfboards leaning against a sunlit wall on the sand, under a deep blue sky. Signed, framed 20x30cm Beach Days print."
