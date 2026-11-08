@@ -1,4 +1,5 @@
 ---
+archived: true
 color: "yellow"
 title: "Beach Days - Stop palm tree"
 description: "“Stop palm tree”: a red palm tree next to a stop sign, a playful frame of film from California. Signed, framed 24x30cm Beach Days print."

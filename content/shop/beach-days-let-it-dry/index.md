@@ -1,4 +1,5 @@
 ---
+archived: true
 color: "yellow"
 title: "Beach Days - Let it dry"
 description: "“Let it dry”: a van parked by the ocean after the session, in black and white. Signed, framed 20x30cm Beach Days print."

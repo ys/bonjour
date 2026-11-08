@@ -1,4 +1,5 @@
 ---
+archived: true
 color: "yellow"
 title: "Beach Days - Old man's path"
 description: "“Old man's path”: cars lined along the dirt road to Old Man's at San Onofre, in black and white. Signed, framed 20x30cm Beach Days print."

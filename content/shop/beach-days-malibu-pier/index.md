@@ -1,4 +1,5 @@
 ---
+archived: true
 color: "yellow"
 title: "Beach Days - Malibu Pier"
 description: "“Malibu Pier”: a wave peeling in front of Malibu Pier on a clear summer day. Signed, framed 20x30cm Beach Days print."

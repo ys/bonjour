@@ -1,4 +1,5 @@
 ---
+archived: true
 color: "yellow"
 title: "Beach Days - Right wall"
 description: "“Right wall”: colourful surfboards lined up on the sand below the California hills. Signed, framed 20x30cm Beach Days print."

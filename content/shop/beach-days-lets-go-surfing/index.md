@@ -1,4 +1,5 @@
 ---
+archived: true
 color: "yellow"
 title: "Beach Days - Let's go surfing"
 description: "“Let's go surfing”: a surfer walks down the beach, board under the arm, between umbrellas, hills and a pier. Signed, framed 30x45cm Beach Days print."

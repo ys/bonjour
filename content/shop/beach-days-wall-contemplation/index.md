@@ -1,4 +1,5 @@
 ---
+archived: true
 color: "yellow"
 title: "Beach Days - Wall contemplation"
 description: "“Wall contemplation”: surfers resting in the sun next to a row of colourful boards, hills behind. Signed, framed 30x45cm Beach Days print."

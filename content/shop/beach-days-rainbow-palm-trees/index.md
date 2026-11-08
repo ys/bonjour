@@ -1,4 +1,5 @@
 ---
+archived: true
 color: "yellow"
 title: "Beach Days - Rainbow palm trees"
 description: "“Rainbow palm trees”: a row of palm trees turned rainbow by a light-leaked frame of film. Signed, framed 24x30cm Beach Days print."

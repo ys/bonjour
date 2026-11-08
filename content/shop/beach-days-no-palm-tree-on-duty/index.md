@@ -1,4 +1,5 @@
 ---
+archived: true
 color: "yellow"
 title: "Beach Days - No palm tree on duty"
 description: "“No palm tree on duty”: a turquoise lifeguard tower under a lone palm tree and a pale sky. Signed, framed 30x45cm Beach Days print."
