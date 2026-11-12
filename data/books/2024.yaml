@@ -1,146 +1,5 @@
 year: 2024
 books:
-  - title: Norwegian Wood
-    author: Haruki Murakami
-    subtitle: ""
-    date: 2024-08-07
-    read: 2024-08-07
-    rating: 4
-    pages: 329
-    isbn: "2714498906"
-    isbn13: "9782714498908"
-    cover_url: >-
-      https://assets.hardcover.app/edition/11016885/93eb5a84-c963-4cd6-8599-593c6c792f5c.jpg
-    reading: false
-    url: https://hardcover.app/books/norwegian-wood
-  - title: Wayward
-    author: Blake Crouch
-    subtitle: Salaisuus
-    date: 2024-03-31
-    read: 2024-03-31
-    rating: 5
-    pages: 351
-    isbn: 240402339X
-    isbn13: "9782404023397"
-    cover_url: https://assets.hardcover.app/editions/4327569/9896909177226764.jpg
-    reading: false
-    url: https://hardcover.app/books/wayward-salaisuus-2013
-  - title: Le Sommet des Dieux - Tome 1
-    author: Jirō Taniguchi
-    subtitle: ""
-    date: 2024-11-23
-    read: 2024-11-23
-    rating: 4
-    pages: 321
-    isbn: "2505049521"
-    isbn13: "9782505049524"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/2458291/4daaee5f6287a23c56c0fef54719262131399cb7.jpeg
-    reading: false
-    url: https://hardcover.app/books/le-sommet-des-dieux-tome-1-2000
-  - title: Le Sommet des Dieux - Tome 2
-    author: Jirō Taniguchi
-    subtitle: ""
-    date: 2024-11-26
-    read: 2024-11-26
-    rating: 4
-    pages: 336
-    isbn: 250504953X
-    isbn13: "9782505049531"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/2458316/813f0991d5a8a6383dd0d40f1409047654a0f249.jpeg
-    reading: false
-    url: https://hardcover.app/books/le-sommet-des-dieux-tome-2-2001
-  - title: Welcome to the Hyunam-Dong Bookshop
-    author: Shanna Tan
-    subtitle: The heart-warming Korean sensation
-    date: 2024-05-02
-    read: 2024-05-02
-    rating: 4
-    pages: 321
-    isbn: "1526662302"
-    isbn13: "9781526662309"
-    cover_url: >-
-      https://assets.hardcover.app/edition/31051027/d7be3395b54aa3899984308ff383f11574def202.jpeg
-    reading: false
-    url: https://hardcover.app/books/welcome-to-the-hyunam-dong-bookshop
-  - title: Intermezzo
-    author: Sally Rooney
-    subtitle: A Novel
-    date: 2024-10-22
-    read: 2024-10-22
-    rating: 4
-    pages: 449
-    isbn: "0735281823"
-    isbn13: "9780735281820"
-    cover_url: >-
-      https://assets.hardcover.app/edition/31538598/d625279bd52b64a8256798c91f67a45adec382f6.jpeg
-    reading: false
-    url: https://hardcover.app/books/intermezzo
-  - title: Tokyo Alien Bros, Tome 1
-    author: Keigo Shinzō
-    subtitle: ""
-    date: 2024-03-24
-    read: 2024-03-24
-    rating: 4
-    pages: 224
-    isbn: "2353481051"
-    isbn13: "9782353481057"
-    cover_url: >-
-      https://assets.hardcover.app/edition/31512381/0c2a3d87a36222d118b0d4ccdba9c2082b915387.jpeg
-    reading: false
-    url: https://hardcover.app/books/tokyo-alien-bros-tome-1-2016
-  - title: Tokyo Alien Bros, Tome 2
-    author: Keigo Shinzō
-    subtitle: ""
-    date: 2024-03-26
-    read: 2024-03-26
-    rating: 4
-    pages: 208
-    isbn: 235348106X
-    isbn13: "9782353481064"
-    cover_url: >-
-      https://assets.hardcover.app/edition/31968007/703bcbcd25fb63874ed53ddc33012c57a090dabf.jpeg
-    reading: false
-    url: https://hardcover.app/books/tokyo-alien-bros-tome-2-2016
-  - title: Tokyo Alien Bros, Tome 3
-    author: Keigo Shinzō
-    subtitle: ""
-    date: 2024-03-26
-    read: 2024-03-26
-    rating: 4
-    pages: 200
-    isbn: "2353481078"
-    isbn13: "9782353481071"
-    cover_url: >-
-      https://assets.hardcover.app/edition/31968005/92dc1e10639730816cc03219f37aac1d70c31f67.jpeg
-    reading: false
-    url: https://hardcover.app/books/tokyo-alien-bros-tome-3-2017
-  - title: Mauvaise Herbe, Tome 1
-    author: Keigo Shinzō
-    subtitle: ""
-    date: 2024-05-03
-    read: 2024-05-03
-    rating: 5
-    pages: 202
-    isbn: "2353481647"
-    isbn13: "9782353481644"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32370154/21120e8599d1936c66ebac8b0832423d3cef41a7.jpeg
-    reading: false
-    url: https://hardcover.app/books/mauvaise-herbe-tome-1
-  - title: Kafka on the Shore
-    author: Haruki Murakami
-    subtitle: ""
-    date: 2024-03-17
-    read: 2024-03-17
-    rating: 5
-    pages: 548
-    isbn: "2714498884"
-    isbn13: "9782714498885"
-    cover_url: https://assets.hardcover.app/editions/31645214/7751038927873328.jpg
-    reading: false
-    url: https://hardcover.app/books/kafka-on-the-shore
   - title: The War
     author: Michael McDowell
     subtitle: The War
@@ -193,19 +52,96 @@ books:
       https://assets.hardcover.app/edition/31909747/a3deb2aad66029e8b30b15d7ae76b781c26241fd.jpeg
     reading: false
     url: https://hardcover.app/books/rain-1983
-  - title: The House
-    author: Yoko Lacour
-    subtitle: La maison
-    date: 2024-01-17
-    read: 2024-01-17
+  - title: Intermezzo
+    author: Sally Rooney
+    subtitle: A Novel
+    date: 2024-10-22
+    read: 2024-10-22
     rating: 4
-    pages: 158
-    isbn: "2381960538"
-    isbn13: "9782381960531"
+    pages: 449
+    isbn: "0735281823"
+    isbn13: "9780735281820"
     cover_url: >-
-      https://assets.hardcover.app/edition/32061110/70199ffb3e9b05d8c982c560c22af0eca8721ad9.jpeg
+      https://assets.hardcover.app/edition/31538598/d625279bd52b64a8256798c91f67a45adec382f6.jpeg
     reading: false
-    url: https://hardcover.app/books/the-house-1983
+    url: https://hardcover.app/books/intermezzo
+  - title: Welcome to the Hyunam-Dong Bookshop
+    author: Shanna Tan
+    subtitle: The heart-warming Korean sensation
+    date: 2024-05-02
+    read: 2024-05-02
+    rating: 4
+    pages: 321
+    isbn: "1526662302"
+    isbn13: "9781526662309"
+    cover_url: >-
+      https://assets.hardcover.app/edition/31051027/d7be3395b54aa3899984308ff383f11574def202.jpeg
+    reading: false
+    url: https://hardcover.app/books/welcome-to-the-hyunam-dong-bookshop
+  - title: Tokyo Alien Bros, Tome 3
+    author: Keigo Shinzō
+    subtitle: ""
+    date: 2024-03-26
+    read: 2024-03-26
+    rating: 4
+    pages: 200
+    isbn: "2353481078"
+    isbn13: "9782353481071"
+    cover_url: >-
+      https://assets.hardcover.app/edition/31968005/92dc1e10639730816cc03219f37aac1d70c31f67.jpeg
+    reading: false
+    url: https://hardcover.app/books/tokyo-alien-bros-tome-3-2017
+  - title: Tokyo Alien Bros, Tome 1
+    author: Keigo Shinzō
+    subtitle: ""
+    date: 2024-03-24
+    read: 2024-03-24
+    rating: 4
+    pages: 224
+    isbn: "2353481051"
+    isbn13: "9782353481057"
+    cover_url: >-
+      https://assets.hardcover.app/edition/31512381/0c2a3d87a36222d118b0d4ccdba9c2082b915387.jpeg
+    reading: false
+    url: https://hardcover.app/books/tokyo-alien-bros-tome-1-2016
+  - title: Tokyo Alien Bros, Tome 2
+    author: Keigo Shinzō
+    subtitle: ""
+    date: 2024-03-26
+    read: 2024-03-26
+    rating: 4
+    pages: 208
+    isbn: 235348106X
+    isbn13: "9782353481064"
+    cover_url: >-
+      https://assets.hardcover.app/edition/31968007/703bcbcd25fb63874ed53ddc33012c57a090dabf.jpeg
+    reading: false
+    url: https://hardcover.app/books/tokyo-alien-bros-tome-2-2016
+  - title: Mauvaise Herbe, Tome 1
+    author: Keigo Shinzō
+    subtitle: ""
+    date: 2024-05-03
+    read: 2024-05-03
+    rating: 5
+    pages: 202
+    isbn: "2353481647"
+    isbn13: "9782353481644"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32370154/21120e8599d1936c66ebac8b0832423d3cef41a7.jpeg
+    reading: false
+    url: https://hardcover.app/books/mauvaise-herbe-tome-1
+  - title: Kafka on the Shore
+    author: Haruki Murakami
+    subtitle: ""
+    date: 2024-03-17
+    read: 2024-03-17
+    rating: 5
+    pages: 548
+    isbn: "2714498884"
+    isbn13: "9782714498885"
+    cover_url: https://assets.hardcover.app/editions/31645214/7751038927873328.jpg
+    reading: false
+    url: https://hardcover.app/books/kafka-on-the-shore
   - title: >-
       Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the
       American Dream
@@ -221,6 +157,19 @@ books:
       https://assets.hardcover.app/edition/3052562/8ee88616-2541-4a25-8d95-46421ea4980b.jpg
     reading: false
     url: https://hardcover.app/books/fear-and-loathing-in-las-vegas
+  - title: O livro dos Baltimore
+    author: Joël Dicker
+    subtitle: ""
+    date: 2024-09-15
+    read: 2024-09-15
+    rating: 3
+    pages: 614
+    isbn: "2889730107"
+    isbn13: "9782889730100"
+    cover_url: >-
+      https://assets.hardcover.app/book_mappings/7364244/67f215161dacbf515dcbdaf9039c7b363dd5a784.jpeg
+    reading: false
+    url: https://hardcover.app/books/o-livro-dos-baltimore
   - title: The Alaska Sanders Affair
     author: Joël Dicker
     subtitle: From the master of the plot twist
@@ -248,19 +197,6 @@ books:
     reading: false
     url: >-
       https://hardcover.app/books/les-soeurs-hiver-5d99ce4f-7c5b-4a5b-986c-97d551c2e40b
-  - title: O livro dos Baltimore
-    author: Joël Dicker
-    subtitle: ""
-    date: 2024-09-15
-    read: 2024-09-15
-    rating: 3
-    pages: 614
-    isbn: "2889730107"
-    isbn13: "9782889730100"
-    cover_url: >-
-      https://assets.hardcover.app/book_mappings/7364244/67f215161dacbf515dcbdaf9039c7b363dd5a784.jpeg
-    reading: false
-    url: https://hardcover.app/books/o-livro-dos-baltimore
   - title: Stella et l'Amérique
     author: Joseph Incardona
     subtitle: ""
@@ -274,19 +210,6 @@ books:
       https://assets.hardcover.app/edition/32675941/ddbc62d903a2d2570cbc218ee29b2c86fc414e2d.jpeg
     reading: false
     url: https://hardcover.app/books/stella-et-lamerique-2024
-  - title: Hirayasumi, tome 2
-    author: Keigo Shinzō
-    subtitle: ""
-    date: 2024-03-27
-    read: 2024-03-27
-    rating: 4
-    pages: 0
-    isbn: "2353482791"
-    isbn13: "9782353482795"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32675946/05fbd54029e7fa2fd17baca5c8aba2be62a7b792.jpeg
-    reading: false
-    url: https://hardcover.app/books/hirayasumi-tome-2-2021
   - title: Elephant Crunch
     author: Julien Guérif
     subtitle: ""
@@ -300,6 +223,19 @@ books:
       https://assets.hardcover.app/edition/32675928/f5853b4273a41ac4b8094a445ac6ea12d20be433.jpeg
     reading: false
     url: https://hardcover.app/books/elephant-crunch-2010
+  - title: Hirayasumi, tome 2
+    author: Keigo Shinzō
+    subtitle: ""
+    date: 2024-03-27
+    read: 2024-03-27
+    rating: 4
+    pages: 0
+    isbn: "2353482791"
+    isbn13: "9782353482795"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675946/05fbd54029e7fa2fd17baca5c8aba2be62a7b792.jpeg
+    reading: false
+    url: https://hardcover.app/books/hirayasumi-tome-2-2021
   - title: Légendes d'automne-Edition speciale 2009
     author: Collectif
     subtitle: ""
@@ -325,6 +261,19 @@ books:
       https://assets.hardcover.app/external_data/31519473/b4b15bb80b75f6c933eeda60e67207f7605398d2.jpeg
     reading: false
     url: https://hardcover.app/books/the-truth-about-the-harry-quebert-affair
+  - title: HIRAYASUMI VOL.4
+    author: Keigo Shinzō
+    subtitle: ""
+    date: 2024-04-19
+    read: 2024-04-19
+    rating: 4
+    pages: 0
+    isbn: "2353483526"
+    isbn13: "9782353483525"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675947/62e78f0d60c7a67cc6140565c0e48669bc424c77.jpeg
+    reading: false
+    url: https://hardcover.app/books/hirayasumi-vol4
   - title: Bivouac
     author: Gabrielle Filteau-Chiba
     subtitle: ""
@@ -364,19 +313,19 @@ books:
       https://assets.hardcover.app/external_data/2458323/b639f8b53ccfcb96352ab4885e04bc2d28715e4f.jpeg
     reading: false
     url: https://hardcover.app/books/ranma-edition-originale-vol-1
-  - title: HIRAYASUMI VOL.4
-    author: Keigo Shinzō
-    subtitle: ""
-    date: 2024-04-19
-    read: 2024-04-19
-    rating: 4
-    pages: 0
-    isbn: "2353483526"
-    isbn13: "9782353483525"
+  - title: "1Q84, Book 3: October-December"
+    author: Haruki Murakami
+    subtitle: Book 3
+    date: 2024-12-18
+    read: 2024-12-18
+    rating: 3
+    pages: 441
+    isbn: "2714496016"
+    isbn13: "9782714496010"
     cover_url: >-
-      https://assets.hardcover.app/edition/32675947/62e78f0d60c7a67cc6140565c0e48669bc424c77.jpeg
+      https://assets.hardcover.app/edition/30957118/5a25a2034d7329d4e8ed5e2cb2ef2fc6e5b77fdc.jpeg
     reading: false
-    url: https://hardcover.app/books/hirayasumi-vol4
+    url: https://hardcover.app/books/1q84-book-3
   - title: Hirayasumi, tome 3
     author: Keigo Shinzō
     subtitle: ""
@@ -390,19 +339,70 @@ books:
       https://assets.hardcover.app/edition/32675932/90fb2ec2ef767ef206560dcaa1eb652e7fea8f3d.jpeg
     reading: false
     url: https://hardcover.app/books/hirayasumi-tome-3-2022
-  - title: Bénis soient les enfants et les bêtes
-    author: Glendon Swarthout
+  - title: The Guest
+    author: Emma Cline
     subtitle: ""
-    date: 2024-02-17
-    read: 2024-02-17
-    rating: 4
-    pages: 171
-    isbn: "2404006347"
-    isbn13: "9782404006345"
+    date: 2024-07-17
+    read: 2024-07-17
+    rating: 2
+    pages: 242
+    isbn: "2710376520"
+    isbn13: "9782710376521"
     cover_url: >-
-      https://assets.hardcover.app/external_data/2458342/adad56e13572bbd965a3a3cfa611eba4eaea6e28.jpeg
+      https://assets.hardcover.app/edition/30720906/f5264a03-bd67-4377-bf38-681daa0b0ec1.jpg
     reading: false
-    url: https://hardcover.app/books/benis-soient-les-enfants-et-les-betes-1970
+    url: https://hardcover.app/books/the-guest-2023
+  - title: Norwegian Wood
+    author: Haruki Murakami
+    subtitle: ""
+    date: 2024-08-07
+    read: 2024-08-07
+    rating: 4
+    pages: 329
+    isbn: "2714498906"
+    isbn13: "9782714498908"
+    cover_url: >-
+      https://assets.hardcover.app/edition/11016885/93eb5a84-c963-4cd6-8599-593c6c792f5c.jpg
+    reading: false
+    url: https://hardcover.app/books/norwegian-wood
+  - title: Wayward
+    author: Blake Crouch
+    subtitle: Salaisuus
+    date: 2024-03-31
+    read: 2024-03-31
+    rating: 5
+    pages: 351
+    isbn: 240402339X
+    isbn13: "9782404023397"
+    cover_url: https://assets.hardcover.app/editions/4327569/9896909177226764.jpg
+    reading: false
+    url: https://hardcover.app/books/wayward-salaisuus-2013
+  - title: Le Sommet des Dieux - Tome 1
+    author: Jirō Taniguchi
+    subtitle: ""
+    date: 2024-11-23
+    read: 2024-11-23
+    rating: 4
+    pages: 321
+    isbn: "2505049521"
+    isbn13: "9782505049524"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458291/4daaee5f6287a23c56c0fef54719262131399cb7.jpeg
+    reading: false
+    url: https://hardcover.app/books/le-sommet-des-dieux-tome-1-2000
+  - title: Le Sommet des Dieux - Tome 2
+    author: Jirō Taniguchi
+    subtitle: ""
+    date: 2024-11-26
+    read: 2024-11-26
+    rating: 4
+    pages: 336
+    isbn: 250504953X
+    isbn13: "9782505049531"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458316/813f0991d5a8a6383dd0d40f1409047654a0f249.jpeg
+    reading: false
+    url: https://hardcover.app/books/le-sommet-des-dieux-tome-2-2001
   - title: "1Q84, Book 1: April-June"
     author: Haruki Murakami
     subtitle: april-juni
@@ -442,29 +442,29 @@ books:
     reading: false
     url: >-
       https://hardcover.app/books/lincroyable-mademoiselle-bang-f274b640-a54d-4117-9922-1ee61150ae99
-  - title: The Guest
-    author: Emma Cline
+  - title: The House
+    author: Yoko Lacour
+    subtitle: La maison
+    date: 2024-01-17
+    read: 2024-01-17
+    rating: 4
+    pages: 158
+    isbn: "2381960538"
+    isbn13: "9782381960531"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32061110/70199ffb3e9b05d8c982c560c22af0eca8721ad9.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-house-1983
+  - title: Bénis soient les enfants et les bêtes
+    author: Glendon Swarthout
     subtitle: ""
-    date: 2024-07-17
-    read: 2024-07-17
-    rating: 2
-    pages: 242
-    isbn: "2710376520"
-    isbn13: "9782710376521"
+    date: 2024-02-17
+    read: 2024-02-17
+    rating: 4
+    pages: 171
+    isbn: "2404006347"
+    isbn13: "9782404006345"
     cover_url: >-
-      https://assets.hardcover.app/edition/30720906/f5264a03-bd67-4377-bf38-681daa0b0ec1.jpg
+      https://assets.hardcover.app/external_data/2458342/adad56e13572bbd965a3a3cfa611eba4eaea6e28.jpeg
     reading: false
-    url: https://hardcover.app/books/the-guest-2023
-  - title: "1Q84, Book 3: October-December"
-    author: Haruki Murakami
-    subtitle: Book 3
-    date: 2024-12-18
-    read: 2024-12-18
-    rating: 3
-    pages: 441
-    isbn: "2714496016"
-    isbn13: "9782714496010"
-    cover_url: >-
-      https://assets.hardcover.app/edition/30957118/5a25a2034d7329d4e8ed5e2cb2ef2fc6e5b77fdc.jpeg
-    reading: false
-    url: https://hardcover.app/books/1q84-book-3
+    url: https://hardcover.app/books/benis-soient-les-enfants-et-les-betes-1970

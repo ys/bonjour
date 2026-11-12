@@ -1,18 +1,5 @@
 year: 2025
 books:
-  - title: Du même bois
-    author: Marion Fayolle
-    subtitle: ""
-    date: 2025-07-05
-    read: 2025-07-05
-    rating: 3
-    pages: 128
-    isbn: "2073025811"
-    isbn13: "9782073025814"
-    cover_url: >-
-      https://assets.hardcover.app/edition/31984880/388403f7e51e37ab021cb6a7b9c5770dc948f650.jpeg
-    reading: false
-    url: https://hardcover.app/books/du-meme-bois-2024
   - title: Hexa
     author: Gabrielle Filteau-Chiba
     subtitle: ""
@@ -39,6 +26,19 @@ books:
       https://assets.hardcover.app/edition/31721165/6d72836c2d74b4aaf196185215dca7022c418bdd.jpeg
     reading: false
     url: https://hardcover.app/books/jacaranda-2024
+  - title: Du même bois
+    author: Marion Fayolle
+    subtitle: ""
+    date: 2025-07-05
+    read: 2025-07-05
+    rating: 3
+    pages: 128
+    isbn: "2073025811"
+    isbn13: "9782073025814"
+    cover_url: >-
+      https://assets.hardcover.app/edition/31984880/388403f7e51e37ab021cb6a7b9c5770dc948f650.jpeg
+    reading: false
+    url: https://hardcover.app/books/du-meme-bois-2024
   - title: Dark Matter
     author: Blake Crouch
     subtitle: A Novel
@@ -77,19 +77,6 @@ books:
     cover_url: https://assets.hardcover.app/edition/7995432/8957691-L.jpg
     reading: false
     url: https://hardcover.app/books/deep
-  - title: Les Éphémères
-    author: Céline Schwaller
-    subtitle: ""
-    date: 2025-12-24
-    read: 2025-12-24
-    rating: 4
-    pages: 0
-    isbn: ""
-    isbn13: "9791041423804"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32675970/83f3ca48bfa050e39a5bebbd5a013564b49605e6.jpeg
-    reading: false
-    url: https://hardcover.app/books/les-ephemeres
   - title: >-
       La méthode WIM HOF - La thérapie par le froid pour devenir fort, heureux
       et en bonne santé
@@ -106,19 +93,19 @@ books:
     reading: false
     url: >-
       https://hardcover.app/books/la-methode-wim-hof-la-therapie-par-le-froid-pour-devenir-fort-heureux-et-en-bonne-sante
-  - title: Seuls sont les indomptés
-    author: Edward Abbey
+  - title: Les Éphémères
+    author: Céline Schwaller
     subtitle: ""
-    date: 2025-01-24
-    read: 2025-01-24
-    rating: 3
-    pages: 497
-    isbn: "2846669929"
-    isbn13: "9782846669924"
+    date: 2025-12-24
+    read: 2025-12-24
+    rating: 4
+    pages: 0
+    isbn: ""
+    isbn13: "9791041423804"
     cover_url: >-
-      https://assets.hardcover.app/edition/32675981/867fe340443641ac838928c4aee5e7ab362e12dd.jpeg
+      https://assets.hardcover.app/edition/32675970/83f3ca48bfa050e39a5bebbd5a013564b49605e6.jpeg
     reading: false
-    url: https://hardcover.app/books/seuls-sont-les-indomptes
+    url: https://hardcover.app/books/les-ephemeres
   - title: "Respire: A nova ciência de uma arte perdida - Nova edição"
     author: Petê Rissatti
     subtitle: A nova ciência de uma arte perdida - Nova edição
@@ -132,6 +119,19 @@ books:
     reading: false
     url: >-
       https://hardcover.app/books/respire-a-nova-ciencia-de-uma-arte-perdida-nova-edicao
+  - title: Seuls sont les indomptés
+    author: Edward Abbey
+    subtitle: ""
+    date: 2025-01-24
+    read: 2025-01-24
+    rating: 3
+    pages: 497
+    isbn: "2846669929"
+    isbn13: "9782846669924"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675981/867fe340443641ac838928c4aee5e7ab362e12dd.jpeg
+    reading: false
+    url: https://hardcover.app/books/seuls-sont-les-indomptes
   - title: À l'ombre des choses
     author: Anatole Edouard Nicolo
     subtitle: ""

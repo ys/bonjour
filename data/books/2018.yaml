@@ -1,17 +1,5 @@
 year: 2018
 books:
-  - title: "Dungeon: Parade -, Vol. 2"
-    author: Joann Sfar
-    subtitle: Parade -
-    date: 2018-09-03
-    read: 2018-09-03
-    rating: 5
-    pages: 0
-    isbn: "1561635073"
-    isbn13: "9781561635078"
-    cover_url: https://covers.openlibrary.org/b/id/793734-L.jpg
-    reading: false
-    url: https://hardcover.app/books/dungeon-parade-vol-2
   - title: "Norwegian Wood: Chopping, Stacking, and Drying Wood the Scandinavian Way"
     author: Lars Mytting
     subtitle: Chopping, Stacking, and Drying Wood the Scandinavian Way
@@ -25,6 +13,31 @@ books:
       https://assets.hardcover.app/edition/14498752/809b657136487af16c0f9dae4ac0ef9a8d7dba60.jpeg
     reading: false
     url: https://hardcover.app/books/norwegian-wood-lars-mytting
+  - title: Paper Girls, Vol. 4
+    author: Jared K. Fletcher
+    subtitle: ""
+    date: 2018-05-30
+    read: 2018-05-30
+    rating: 5
+    pages: 128
+    isbn: "0606411844"
+    isbn13: "9780606411844"
+    cover_url: >-
+      https://assets.hardcover.app/edition/16273563/a2b321154f35781ec9f8c08dbaca256827d663c7.jpeg
+    reading: false
+    url: https://hardcover.app/books/paper-girls-vol-4
+  - title: "Dungeon: Parade -, Vol. 2"
+    author: Joann Sfar
+    subtitle: Parade -
+    date: 2018-09-03
+    read: 2018-09-03
+    rating: 5
+    pages: 0
+    isbn: "1561635073"
+    isbn13: "9781561635078"
+    cover_url: https://covers.openlibrary.org/b/id/793734-L.jpg
+    reading: false
+    url: https://hardcover.app/books/dungeon-parade-vol-2
   - title: Read This if You Want to Take Great Photographs
     author: Henry Carroll
     subtitle: ""
@@ -39,6 +52,18 @@ books:
     reading: false
     url: >-
       https://hardcover.app/books/read-this-if-you-want-to-take-great-photographs
+  - title: "Sex Criminals, Vol. 4: Fourgy!"
+    author: Matt Fraction
+    subtitle: Fourgy!
+    date: 2018-01-02
+    read: 2018-01-02
+    rating: 4
+    pages: 136
+    isbn: 153430231X
+    isbn13: "9781534302310"
+    cover_url: https://m.media-amazon.com/images/I/61gXVhnjdSL._AC_UY654_QL65_.jpg
+    reading: false
+    url: https://hardcover.app/books/sex-criminals-vol-4
   - title: "Barbarian Days: A Surfing Life"
     author: William Finnegan
     subtitle: A Surfing Life
@@ -90,6 +115,19 @@ books:
     cover_url: https://m.media-amazon.com/images/I/71oWps4m0iL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/floating-a-life-regained
+  - title: Ego Is the Enemy
+    author: Ryan Holiday
+    subtitle: The Fight to Master Our Greatest Opponent
+    date: 2018-01-02
+    read: 2018-01-02
+    rating: 4
+    pages: 258
+    isbn: 069819215X
+    isbn13: "9780698192157"
+    cover_url: >-
+      https://assets.hardcover.app/edition/6693242/cb1682b62b207e49d4475236d402038bdda1324a.jpeg
+    reading: false
+    url: https://hardcover.app/books/ego-is-the-enemy
   - title: "How to Break Up with Your Phone: The 30-Day Plan to Take Back Your Life"
     author: Catherine Price
     subtitle: The 30-Day Plan to Take Back Your Life
@@ -116,31 +154,6 @@ books:
       https://assets.hardcover.app/edition/30403373/dcc5fbc2ad133a0b8469867a0166e859498fd1f5.jpeg
     reading: false
     url: https://hardcover.app/books/vacationland
-  - title: Paper Girls, Vol. 4
-    author: Jared K. Fletcher
-    subtitle: ""
-    date: 2018-05-30
-    read: 2018-05-30
-    rating: 5
-    pages: 128
-    isbn: "0606411844"
-    isbn13: "9780606411844"
-    cover_url: >-
-      https://assets.hardcover.app/edition/16273563/a2b321154f35781ec9f8c08dbaca256827d663c7.jpeg
-    reading: false
-    url: https://hardcover.app/books/paper-girls-vol-4
-  - title: "Sex Criminals, Vol. 4: Fourgy!"
-    author: Matt Fraction
-    subtitle: Fourgy!
-    date: 2018-01-02
-    read: 2018-01-02
-    rating: 4
-    pages: 136
-    isbn: 153430231X
-    isbn13: "9781534302310"
-    cover_url: https://m.media-amazon.com/images/I/61gXVhnjdSL._AC_UY654_QL65_.jpg
-    reading: false
-    url: https://hardcover.app/books/sex-criminals-vol-4
   - title: "The Pull of the River: A Journey into the Wild and Watery Heart of Britain"
     author: Matt Gaw
     subtitle: A Journey into the Wild and Watery Heart of Britain
@@ -166,19 +179,6 @@ books:
       https://assets.hardcover.app/edition/32160428/0fab2171-fef5-4b63-9b67-1a3c77bd7ed1.jpg
     reading: false
     url: https://hardcover.app/books/on-the-road
-  - title: Butcher's Crossing
-    author: John Williams
-    subtitle: ""
-    date: 2018-04-08
-    read: 2018-04-08
-    rating: 4
-    pages: 297
-    isbn: "1590171985"
-    isbn13: "9781590171981"
-    cover_url: >-
-      https://assets.hardcover.app/edition/30421879/50873b6d9e94306c8b91413a8664c350941ada7a.jpeg
-    reading: false
-    url: https://hardcover.app/books/butchers-crossing
   - title: Where Rivers Change Direction
     author: Mark Spragg
     subtitle: ""
@@ -271,16 +271,16 @@ books:
       https://assets.hardcover.app/edition/31661776/62ef5255d2d55c429924b5b1c86311828d70d9ad.jpeg
     reading: false
     url: https://hardcover.app/books/une-vie-a-coucher-dehors
-  - title: Ego Is the Enemy
-    author: Ryan Holiday
-    subtitle: The Fight to Master Our Greatest Opponent
-    date: 2018-01-02
-    read: 2018-01-02
+  - title: Butcher's Crossing
+    author: John Williams
+    subtitle: ""
+    date: 2018-04-08
+    read: 2018-04-08
     rating: 4
-    pages: 258
-    isbn: 069819215X
-    isbn13: "9780698192157"
+    pages: 297
+    isbn: "1590171985"
+    isbn13: "9781590171981"
     cover_url: >-
-      https://assets.hardcover.app/edition/6693242/cb1682b62b207e49d4475236d402038bdda1324a.jpeg
+      https://assets.hardcover.app/edition/30421879/50873b6d9e94306c8b91413a8664c350941ada7a.jpeg
     reading: false
-    url: https://hardcover.app/books/ego-is-the-enemy
+    url: https://hardcover.app/books/butchers-crossing

@@ -1,31 +1,5 @@
 year: 2022
 books:
-  - title: Patagonie route 203
-    author: François Gaudry
-    subtitle: ""
-    date: 2022-08-27
-    read: 2022-08-27
-    rating: 4
-    pages: 260
-    isbn: ""
-    isbn13: "9791022610766"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/2458140/cc81871899b5fc1d82d7599f04c8a93821166a56.jpeg
-    reading: false
-    url: https://hardcover.app/books/patagonie-route-203-2019
-  - title: Olympia Kyklos
-    author: Ryoko Sekiguchi
-    subtitle: ""
-    date: 2022-09-29
-    read: 2022-09-29
-    rating: 4
-    pages: 201
-    isbn: "2203244860"
-    isbn13: "9782203244863"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/2458256/d52a23a10ab1c2cbb9eba19e0d1c7c1d7c30a7f6.jpeg
-    reading: false
-    url: https://hardcover.app/books/olympia-kyklos-2018
   - title: Mount Analogue
     author: René Daumal
     subtitle: A Novel
@@ -89,19 +63,6 @@ books:
     cover_url: https://m.media-amazon.com/images/I/71S17ynqlfL._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/five-rules-for-rebellion
-  - title: "The Storyteller: Tales of Life and Music"
-    author: Dave Grohl
-    subtitle: Tales of Life and Music
-    date: 2022-03-07
-    read: 2022-03-07
-    rating: 4
-    pages: 384
-    isbn: 006307611X
-    isbn13: "9780063076112"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/61495138/1ef69ae46debe8855af335adaac4d0bb20fc6995.jpeg
-    reading: false
-    url: https://hardcover.app/books/the-storyteller-tales-of-life-and-music
   - title: Before the Coffee Gets Cold
     author: Geoffrey Trousselot
     subtitle: ""
@@ -115,6 +76,33 @@ books:
       https://assets.hardcover.app/editions/24086923/8822767016251445-81GoE0na35L._AC_UF1000,1000_QL80_.jpg
     reading: false
     url: https://hardcover.app/books/before-the-coffee-gets-cold
+  - title: "The Storyteller: Tales of Life and Music"
+    author: Dave Grohl
+    subtitle: Tales of Life and Music
+    date: 2022-03-07
+    read: 2022-03-07
+    rating: 4
+    pages: 384
+    isbn: 006307611X
+    isbn13: "9780063076112"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/61495138/1ef69ae46debe8855af335adaac4d0bb20fc6995.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-storyteller-tales-of-life-and-music
+  - title: How to Read Water Clues and Patterns from Puddles to the Sea
+    author: Tristan Gooley
+    subtitle: Clues & Patterns from Puddles to the Sea
+    date: 2022-01-05
+    read: 2022-01-05
+    rating: 3
+    pages: 393
+    isbn: "1615193588"
+    isbn13: "9781615193585"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/45075095/6064e49477412030198a8aca423fe4d1a86df72b.jpeg
+    reading: false
+    url: >-
+      https://hardcover.app/books/how-to-read-water-clues-and-patterns-from-puddles-to-the-sea-2016
   - title: Beautiful World, Where Are You
     author: Sally Rooney
     subtitle: Chapter Sampler
@@ -192,20 +180,6 @@ books:
       https://assets.hardcover.app/external_data/61651494/6063205a9718e217462c572b0cc4e8aabb5fac2c.jpeg
     reading: false
     url: https://hardcover.app/books/le-droit-du-sol-journal-dun-vertige
-  - title: How to Read Water Clues and Patterns from Puddles to the Sea
-    author: Tristan Gooley
-    subtitle: Clues & Patterns from Puddles to the Sea
-    date: 2022-01-05
-    read: 2022-01-05
-    rating: 3
-    pages: 393
-    isbn: "1615193588"
-    isbn13: "9781615193585"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/45075095/6064e49477412030198a8aca423fe4d1a86df72b.jpeg
-    reading: false
-    url: >-
-      https://hardcover.app/books/how-to-read-water-clues-and-patterns-from-puddles-to-the-sea-2016
   - title: Waves and Beaches
     author: Willard Bascom
     subtitle: The Dynamics of the Ocean Surface
@@ -231,6 +205,19 @@ books:
       https://assets.hardcover.app/edition/31569967/a0b402f4c010901b68a0f3876355dd4ab1c8fd7f.jpeg
     reading: false
     url: https://hardcover.app/books/mindfulness-and-surfing
+  - title: "Lightfall: The Girl & the Galdurian"
+    author: Tim Probert
+    subtitle: The Girl & the Galdurian
+    date: 2022-09-12
+    read: 2022-09-12
+    rating: 5
+    pages: 260
+    isbn: "2075152624"
+    isbn13: "9782075152624"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/61818195/7cad26bcddc6ae821afa897e88ec8c6c49ce5adc.jpeg
+    reading: false
+    url: https://hardcover.app/books/lightfall-the-girl-the-galdurian
   - title: "Mindful Thoughts for Surfers: Balance and salt water flow"
     author: Sam Bleakley
     subtitle: Balance and salt water flow
@@ -245,19 +232,6 @@ books:
     reading: false
     url: >-
       https://hardcover.app/books/mindful-thoughts-for-surfers-balance-and-salt-water-flow
-  - title: "Lightfall: The Girl & the Galdurian"
-    author: Tim Probert
-    subtitle: The Girl & the Galdurian
-    date: 2022-09-12
-    read: 2022-09-12
-    rating: 5
-    pages: 260
-    isbn: "2075152624"
-    isbn13: "9782075152624"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/61818195/7cad26bcddc6ae821afa897e88ec8c6c49ce5adc.jpeg
-    reading: false
-    url: https://hardcover.app/books/lightfall-the-girl-the-galdurian
   - title: Une odyssée américaine
     author: Jim Harrison
     subtitle: ""
@@ -322,19 +296,32 @@ books:
       https://assets.hardcover.app/external_data/2458322/e1043fd91faa78a4de71f9d98e93c905e2d50c33.jpeg
     reading: false
     url: https://hardcover.app/books/les-spectres-de-la-terre-brisee-2013
-  - title: The Nickel Boys
-    author: Colson Whitehead
+  - title: Patagonie route 203
+    author: François Gaudry
     subtitle: ""
-    date: 2022-01-19
-    read: 2022-01-19
-    rating: 5
-    pages: 197
-    isbn: "2226449787"
-    isbn13: "9782226449788"
+    date: 2022-08-27
+    read: 2022-08-27
+    rating: 4
+    pages: 260
+    isbn: ""
+    isbn13: "9791022610766"
     cover_url: >-
-      https://assets.hardcover.app/external_data/22653371/7521d17c0457188b18004dfe55f88689baf5491d.jpeg
+      https://assets.hardcover.app/external_data/2458140/cc81871899b5fc1d82d7599f04c8a93821166a56.jpeg
     reading: false
-    url: https://hardcover.app/books/the-nickel-boys
+    url: https://hardcover.app/books/patagonie-route-203-2019
+  - title: Olympia Kyklos
+    author: Ryoko Sekiguchi
+    subtitle: ""
+    date: 2022-09-29
+    read: 2022-09-29
+    rating: 4
+    pages: 201
+    isbn: "2203244860"
+    isbn13: "9782203244863"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458256/d52a23a10ab1c2cbb9eba19e0d1c7c1d7c30a7f6.jpeg
+    reading: false
+    url: https://hardcover.app/books/olympia-kyklos-2018
   - title: Sauvagines
     author: Gabrielle Filteau-Chiba
     subtitle: ""
@@ -348,6 +335,32 @@ books:
       https://assets.hardcover.app/edition/31990245/e82bc5a1a5a1086b662c821387e2176eaba56ff0.jpeg
     reading: false
     url: https://hardcover.app/books/sauvagines-2019
+  - title: The Nickel Boys
+    author: Colson Whitehead
+    subtitle: ""
+    date: 2022-01-19
+    read: 2022-01-19
+    rating: 5
+    pages: 197
+    isbn: "2226449787"
+    isbn13: "9782226449788"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/22653371/7521d17c0457188b18004dfe55f88689baf5491d.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-nickel-boys
+  - title: The Year of Magical Thinking
+    author: Joan Didion
+    subtitle: The Play
+    date: 2022-11-29
+    read: 2022-11-29
+    rating: 5
+    pages: 137
+    isbn: "2246804922"
+    isbn13: "9782246804925"
+    cover_url: >-
+      https://assets.hardcover.app/edition/21940103/797214fc04e9b0a6e55daaf940e6c1aa5e26f32b.jpeg
+    reading: false
+    url: https://hardcover.app/books/the-year-of-magical-thinking
   - title: L'Amérique
     author: Joan Didion
     subtitle: ""
@@ -373,16 +386,3 @@ books:
     cover_url: https://m.media-amazon.com/images/I/51LcPHAk-9L._AC_UY654_QL65_.jpg
     reading: false
     url: https://hardcover.app/books/name
-  - title: The Year of Magical Thinking
-    author: Joan Didion
-    subtitle: The Play
-    date: 2022-11-29
-    read: 2022-11-29
-    rating: 5
-    pages: 137
-    isbn: "2246804922"
-    isbn13: "9782246804925"
-    cover_url: >-
-      https://assets.hardcover.app/edition/21940103/797214fc04e9b0a6e55daaf940e6c1aa5e26f32b.jpeg
-    reading: false
-    url: https://hardcover.app/books/the-year-of-magical-thinking

@@ -1,17 +1,5 @@
 year: 2023
 books:
-  - title: Jours barbares
-    author: William Finnegan
-    subtitle: ""
-    date: 2023-03-13
-    read: 2023-03-13
-    rating: 5
-    pages: 464
-    isbn: "2364681820"
-    isbn13: "9782364681828"
-    cover_url: https://m.media-amazon.com/images/I/717xTUCIXAL._AC_UY654_QL65_.jpg
-    reading: false
-    url: https://hardcover.app/books/jours-barbares-2015
   - title: Last Exit to Brooklyn
     author: Hubert Selby, Jr.
     subtitle: ""
@@ -38,18 +26,6 @@ books:
       https://assets.hardcover.app/external_data/61545506/884a4acf02c661e81e9888b0d12ea5f300142bb2.jpeg
     reading: false
     url: https://hardcover.app/books/the-flood-1983
-  - title: The Stranger
-    author: Albert Camus
-    subtitle: The Original Unabridged and Complete Edition
-    date: 2023-10-13
-    read: 2023-10-13
-    rating: 3
-    pages: 206
-    isbn: 207030602X
-    isbn13: "9782070306022"
-    cover_url: https://assets.hardcover.app/edition/15655608/419742-L.jpg
-    reading: false
-    url: https://hardcover.app/books/the-stranger
   - title: L'homme qui marche
     author: Jirō Taniguchi
     subtitle: ""
@@ -90,32 +66,18 @@ books:
     cover_url: https://covers.openlibrary.org/b/id/14788677-L.jpg
     reading: false
     url: https://hardcover.app/books/where-the-waves-turn-back
-  - title: "Right, Down + Circle: Tony Hawk’s Pro Skater"
-    author: Cole Nowicki
-    subtitle: Tony Hawk’s Pro Skater
-    date: 2023-10-22
-    read: 2023-10-22
-    rating: 4
-    pages: 124
-    isbn: "1778521975"
-    isbn13: "9781778521973"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/2458233/05119916c5a08b1c5c29bf749a67c6e16bb16296.jpeg
+  - title: The Stranger
+    author: Albert Camus
+    subtitle: The Original Unabridged and Complete Edition
+    date: 2023-10-13
+    read: 2023-10-13
+    rating: 3
+    pages: 206
+    isbn: 207030602X
+    isbn13: "9782070306022"
+    cover_url: https://assets.hardcover.app/edition/15655608/419742-L.jpg
     reading: false
-    url: https://hardcover.app/books/right-down-circle-tony-hawk-s-pro-skater
-  - title: Et au milieu coule une rivière
-    author: Norman Maclean
-    subtitle: ""
-    date: 2023-05-25
-    read: 2023-05-25
-    rating: 4
-    pages: 0
-    isbn: "2743658525"
-    isbn13: "9782743658526"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32675949/fbbce7d269b3b43b8ee1e1c5d614599291ab5d6e.jpeg
-    reading: false
-    url: https://hardcover.app/books/et-au-milieu-coule-une-riviere-1976
+    url: https://hardcover.app/books/the-stranger
   - title: La Vie de Bouddha, Intégrale, Vol. 3
     author: Osamu Tezuka
     subtitle: ""
@@ -142,19 +104,6 @@ books:
       https://assets.hardcover.app/edition/30882965/91d356db7faa81d497f2d2183182e0fca0e2361d.jpeg
     reading: false
     url: https://hardcover.app/books/satori-in-paris
-  - title: Tomorrow, and Tomorrow, and Tomorrow
-    author: Gabrielle Zevin
-    subtitle: A novel
-    date: 2023-11-28
-    read: 2023-11-28
-    rating: 4
-    pages: 448
-    isbn: 226515654X
-    isbn13: "9782265156548"
-    cover_url: >-
-      https://assets.hardcover.app/edition/30535150/2efdfd508a803c89913fd6e987f69048a17c89c6.jpeg
-    reading: false
-    url: https://hardcover.app/books/tomorrow-and-tomorrow-and-tomorrow
   - title: La Vie de Bouddha, Intégrale, Vol. 4
     author: Jacques Lalloz
     subtitle: ""
@@ -181,6 +130,45 @@ books:
       https://assets.hardcover.app/external_data/2458363/f3466c7a26cef314517a5131dd73ee2d641b02fb.jpeg
     reading: false
     url: https://hardcover.app/books/carnets-de-new-york-2015
+  - title: "Right, Down + Circle: Tony Hawk’s Pro Skater"
+    author: Cole Nowicki
+    subtitle: Tony Hawk’s Pro Skater
+    date: 2023-10-22
+    read: 2023-10-22
+    rating: 4
+    pages: 124
+    isbn: "1778521975"
+    isbn13: "9781778521973"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/2458233/05119916c5a08b1c5c29bf749a67c6e16bb16296.jpeg
+    reading: false
+    url: https://hardcover.app/books/right-down-circle-tony-hawk-s-pro-skater
+  - title: Et au milieu coule une rivière
+    author: Norman Maclean
+    subtitle: ""
+    date: 2023-05-25
+    read: 2023-05-25
+    rating: 4
+    pages: 0
+    isbn: "2743658525"
+    isbn13: "9782743658526"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675949/fbbce7d269b3b43b8ee1e1c5d614599291ab5d6e.jpeg
+    reading: false
+    url: https://hardcover.app/books/et-au-milieu-coule-une-riviere-1976
+  - title: Tomorrow, and Tomorrow, and Tomorrow
+    author: Gabrielle Zevin
+    subtitle: A novel
+    date: 2023-11-28
+    read: 2023-11-28
+    rating: 4
+    pages: 448
+    isbn: 226515654X
+    isbn13: "9782265156548"
+    cover_url: >-
+      https://assets.hardcover.app/edition/30535150/2efdfd508a803c89913fd6e987f69048a17c89c6.jpeg
+    reading: false
+    url: https://hardcover.app/books/tomorrow-and-tomorrow-and-tomorrow
   - title: >-
       Thomas Campbell: Seeing Fatima's Eyes: Surf, Life, Stuff, Morocco, North
       Africa
@@ -238,6 +226,18 @@ books:
       https://assets.hardcover.app/edition/32675957/edcf21fde9660b7bf9fd5530a90e79901364dd21.jpeg
     reading: false
     url: https://hardcover.app/books/la-vie-de-bouddha-integrale-vol-1
+  - title: Jours barbares
+    author: William Finnegan
+    subtitle: ""
+    date: 2023-03-13
+    read: 2023-03-13
+    rating: 5
+    pages: 464
+    isbn: "2364681820"
+    isbn13: "9782364681828"
+    cover_url: https://m.media-amazon.com/images/I/717xTUCIXAL._AC_UY654_QL65_.jpg
+    reading: false
+    url: https://hardcover.app/books/jours-barbares-2015
   - title: What You Are Looking for Is in the Library
     author: Rohan Eason
     subtitle: ""

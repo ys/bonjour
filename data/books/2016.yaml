@@ -1,5 +1,17 @@
 year: 2016
 books:
+  - title: Lazarus, Vol. 5
+    author: Michael Lark
+    subtitle: ""
+    date: 2016-08-01
+    read: 2016-08-01
+    rating: 5
+    pages: 0
+    isbn: "1607068710"
+    isbn13: "9781607068716"
+    cover_url: https://assets.hardcover.app/edition/26680518/7626151-L.jpg
+    reading: false
+    url: https://hardcover.app/books/lazarus-vol-5-2017
   - title: Release It!
     author: Michael T. Nygard
     subtitle: Design and Deploy Production-Ready Software
@@ -25,6 +37,19 @@ books:
       https://assets.hardcover.app/edition/30647316/a9eeaebe3684bb2dc411ee8dd9da2411da1a36a5.jpeg
     reading: false
     url: https://hardcover.app/books/the-house-of-silk
+  - title: "Crucial Conversations: Tools for Talking When Stakes Are High"
+    author: Kerry Patterson
+    subtitle: Tools for Talking When Stakes Are High
+    date: 2016-03-21
+    read: 2016-03-21
+    rating: 4
+    pages: 260
+    isbn: "0071415831"
+    isbn13: "9780071415835"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/4089500/51b5fcca3d5af6d4db1948b3233a3664d2d2afeb.jpeg
+    reading: false
+    url: https://hardcover.app/books/crucial-conversations
   - title: The Effective Engineer
     author: Edmond Lau
     subtitle: >-
@@ -52,44 +77,6 @@ books:
       https://assets.hardcover.app/edition/16392784/413b7971536aa34cbd7e76fe834e7f2ed1ed01ee.jpeg
     reading: false
     url: https://hardcover.app/books/descender-vol-1
-  - title: "Sex Criminals, Vol. 1: One Weird Trick"
-    author: Chip Zdarsky
-    subtitle: One weird trick
-    date: 2016-02-28
-    read: 2016-02-28
-    rating: 5
-    pages: 128
-    isbn: "1607069466"
-    isbn13: "9781607069461"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/24096501/572775123a84472dd7d04c0ca4c2908d6623af8a.jpeg
-    reading: false
-    url: https://hardcover.app/books/sex-criminals-vol-1
-  - title: Lazarus, Vol. 5
-    author: Michael Lark
-    subtitle: ""
-    date: 2016-08-01
-    read: 2016-08-01
-    rating: 5
-    pages: 0
-    isbn: "1607068710"
-    isbn13: "9781607068716"
-    cover_url: https://assets.hardcover.app/edition/26680518/7626151-L.jpg
-    reading: false
-    url: https://hardcover.app/books/lazarus-vol-5-2017
-  - title: Southern Bastards
-    author: Jason Latour
-    subtitle: ""
-    date: 2016-07-14
-    read: 2016-07-14
-    rating: 4
-    pages: 128
-    isbn: "1632150166"
-    isbn13: "9781632150165"
-    cover_url: >-
-      https://assets.hardcover.app/edition/8939278/d6585790a20c843b32dc046c1a788b65295f1d0b.jpeg
-    reading: false
-    url: https://hardcover.app/books/southern-bastards-vol-1-here-was-a-man
   - title: Moriarty
     author: Anthony Horowitz
     subtitle: ""
@@ -103,6 +90,32 @@ books:
       https://assets.hardcover.app/edition/6929463/3ff681937f87adccad2c196b2204f36a75611b00.jpeg
     reading: false
     url: https://hardcover.app/books/moriarty
+  - title: "Lazarus, Vol. 1: Family"
+    author: Greg Rucka
+    subtitle: Family
+    date: 2016-07-13
+    read: 2016-07-13
+    rating: 5
+    pages: 106
+    isbn: "1607068095"
+    isbn13: "9781607068099"
+    cover_url: >-
+      https://assets.hardcover.app/edition/16983125/1bce83b3dda387241fb5fdfad334ed20b90bb718.jpeg
+    reading: false
+    url: https://hardcover.app/books/lazarus-vol-1-family
+  - title: Southern Bastards
+    author: Jason Latour
+    subtitle: ""
+    date: 2016-07-14
+    read: 2016-07-14
+    rating: 4
+    pages: 128
+    isbn: "1632150166"
+    isbn13: "9781632150165"
+    cover_url: >-
+      https://assets.hardcover.app/edition/8939278/d6585790a20c843b32dc046c1a788b65295f1d0b.jpeg
+    reading: false
+    url: https://hardcover.app/books/southern-bastards-vol-1-here-was-a-man
   - title: "Southern Bastards, Tome 2 : Sang et sueur"
     author: Jason Latour
     subtitle: Sang et Sueur
@@ -152,19 +165,6 @@ books:
     cover_url: https://covers.openlibrary.org/b/id/10030486-L.jpg
     reading: false
     url: https://hardcover.app/books/calm-calm-the-mind-change-the-world
-  - title: "Lazarus, Vol. 1: Family"
-    author: Greg Rucka
-    subtitle: Family
-    date: 2016-07-13
-    read: 2016-07-13
-    rating: 5
-    pages: 106
-    isbn: "1607068095"
-    isbn13: "9781607068099"
-    cover_url: >-
-      https://assets.hardcover.app/edition/16983125/1bce83b3dda387241fb5fdfad334ed20b90bb718.jpeg
-    reading: false
-    url: https://hardcover.app/books/lazarus-vol-1-family
   - title: "Sex Criminals, Vol. 6: Six Criminals"
     author: Chip Zdarsky
     subtitle: Six Criminals
@@ -273,16 +273,16 @@ books:
       https://assets.hardcover.app/edition/32675883/833cca2c74b4a7bb8ea80d361437e59584ef1847.jpeg
     reading: false
     url: https://hardcover.app/books/minimalismo-para-una-vida-con-sentido-2011
-  - title: "Crucial Conversations: Tools for Talking When Stakes Are High"
-    author: Kerry Patterson
-    subtitle: Tools for Talking When Stakes Are High
-    date: 2016-03-21
-    read: 2016-03-21
-    rating: 4
-    pages: 260
-    isbn: "0071415831"
-    isbn13: "9780071415835"
+  - title: "Sex Criminals, Vol. 1: One Weird Trick"
+    author: Chip Zdarsky
+    subtitle: One weird trick
+    date: 2016-02-28
+    read: 2016-02-28
+    rating: 5
+    pages: 128
+    isbn: "1607069466"
+    isbn13: "9781607069461"
     cover_url: >-
-      https://assets.hardcover.app/external_data/4089500/51b5fcca3d5af6d4db1948b3233a3664d2d2afeb.jpeg
+      https://assets.hardcover.app/external_data/24096501/572775123a84472dd7d04c0ca4c2908d6623af8a.jpeg
     reading: false
-    url: https://hardcover.app/books/crucial-conversations
+    url: https://hardcover.app/books/sex-criminals-vol-1

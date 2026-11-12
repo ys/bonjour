@@ -1,43 +1,29 @@
 year: 2021
 books:
-  - title: Thermae Romae (Compilation), Vol. 1
-    author: Mari Yamazaki
+  - title: Au prochain arrêt
+    author: Sophie Refle
     subtitle: ""
-    date: 2021-12-08
-    read: 2021-12-08
+    date: 2021-07-30
+    read: 2021-07-30
     rating: 3
-    pages: 374
-    isbn: 031623222X
-    isbn13: "9780316232227"
-    cover_url: https://m.media-amazon.com/images/I/815N3UhFptL._AC_UY654_QL65_.jpg
+    pages: 184
+    isbn: "2330150121"
+    isbn13: "9782330150129"
+    cover_url: https://covers.openlibrary.org/b/id/10942655-L.jpg
     reading: false
-    url: https://hardcover.app/books/thermae-romae-compilation-vol-1
-  - title: Breath
-    author: Tim Winton
-    subtitle: ""
-    date: 2021-01-06
-    read: 2021-01-06
-    rating: 5
-    pages: 285
-    isbn: "0374116342"
-    isbn13: "9780374116347"
-    cover_url: >-
-      https://assets.hardcover.app/edition/14337995/4cfe4cfecb916ba5f4cf506b601585e10f3dd5b9.jpeg
-    reading: false
-    url: https://hardcover.app/books/breath-2008
-  - title: Les Garçons de l'été
-    author: Rebecca Lighieri
-    subtitle: ""
-    date: 2021-07-22
-    read: 2021-07-22
-    rating: 4
+    url: https://hardcover.app/books/au-prochain-arret
+  - title: "Path: A short story about reciprocity"
+    author: Louisa Thomsen Brits
+    subtitle: A short story about reciprocity
+    date: 2021-06-07
+    read: 2021-06-07
+    rating: 3
     pages: 0
-    isbn: "2072755204"
-    isbn13: "9782072755200"
-    cover_url: >-
-      https://assets.hardcover.app/edition/30825676/1c2538291ffec188fb9d2e2f3f85424ce0a1ea1e.jpeg
+    isbn: 190797458X
+    isbn13: "9781907974588"
+    cover_url: https://m.media-amazon.com/images/I/711zFs9mTlL._AC_UY654_QL65_.jpg
     reading: false
-    url: https://hardcover.app/books/les-garcons-de-lete
+    url: https://hardcover.app/books/path
   - title: The Travelling Cat Chronicles
     author: Hiro Arikawa
     subtitle: ""
@@ -64,18 +50,6 @@ books:
       https://assets.hardcover.app/edition/16747394/ae9a87a188556432139f631ef38f9531cb3adebf.jpeg
     reading: false
     url: https://hardcover.app/books/make-time
-  - title: "Path: A short story about reciprocity"
-    author: Louisa Thomsen Brits
-    subtitle: A short story about reciprocity
-    date: 2021-06-07
-    read: 2021-06-07
-    rating: 3
-    pages: 0
-    isbn: 190797458X
-    isbn13: "9781907974588"
-    cover_url: https://m.media-amazon.com/images/I/711zFs9mTlL._AC_UY654_QL65_.jpg
-    reading: false
-    url: https://hardcover.app/books/path
   - title: Rusty Brown
     author: Chris Ware
     subtitle: ""
@@ -89,6 +63,44 @@ books:
       https://assets.hardcover.app/edition/5162406/116228c0d6cb51dad1ab5272b06930727777ce53.jpeg
     reading: false
     url: https://hardcover.app/books/rusty-brown
+  - title: Breath
+    author: Tim Winton
+    subtitle: ""
+    date: 2021-01-06
+    read: 2021-01-06
+    rating: 5
+    pages: 285
+    isbn: "0374116342"
+    isbn13: "9780374116347"
+    cover_url: >-
+      https://assets.hardcover.app/edition/14337995/4cfe4cfecb916ba5f4cf506b601585e10f3dd5b9.jpeg
+    reading: false
+    url: https://hardcover.app/books/breath-2008
+  - title: Les Garçons de l'été
+    author: Rebecca Lighieri
+    subtitle: ""
+    date: 2021-07-22
+    read: 2021-07-22
+    rating: 4
+    pages: 0
+    isbn: "2072755204"
+    isbn13: "9782072755200"
+    cover_url: >-
+      https://assets.hardcover.app/edition/30825676/1c2538291ffec188fb9d2e2f3f85424ce0a1ea1e.jpeg
+    reading: false
+    url: https://hardcover.app/books/les-garcons-de-lete
+  - title: Saltwater in the Blood
+    author: Easkey Britton
+    subtitle: Surfing, Natural Cycles and the Sea's Power to Heal
+    date: 2021-12-26
+    read: 2021-12-26
+    rating: 4
+    pages: 256
+    isbn: "1786785552"
+    isbn13: "9781786785558"
+    cover_url: https://covers.openlibrary.org/b/id/13874886-L.jpg
+    reading: false
+    url: https://hardcover.app/books/saltwater-in-the-blood
   - title: "Humankind: A Hopeful History"
     author: Rutger Bregman
     subtitle: A Hopeful History
@@ -102,6 +114,19 @@ books:
       https://assets.hardcover.app/external_data/39440706/a086a399255ae908aaeb8b825028240a1cbeb3d6.jpeg
     reading: false
     url: https://hardcover.app/books/humankind
+  - title: Miss Iceland
+    author: Auður Ava Ólafsdóttir
+    subtitle: roman
+    date: 2021-03-26
+    read: 2021-03-26
+    rating: 3
+    pages: 261
+    isbn: "2843048699"
+    isbn13: "9782843048692"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/4253232/dc4c1e451ec72e09743cf9f34ae0a57ac82fa449.jpeg
+    reading: false
+    url: https://hardcover.app/books/miss-iceland
   - title: Sans alcool
     author: Claire Touzard
     subtitle: ""
@@ -139,30 +164,6 @@ books:
     cover_url: https://assets.hardcover.app/editions/30402559/2802629647590855.jpeg
     reading: false
     url: https://hardcover.app/books/normal-people
-  - title: Au prochain arrêt
-    author: Sophie Refle
-    subtitle: ""
-    date: 2021-07-30
-    read: 2021-07-30
-    rating: 3
-    pages: 184
-    isbn: "2330150121"
-    isbn13: "9782330150129"
-    cover_url: https://covers.openlibrary.org/b/id/10942655-L.jpg
-    reading: false
-    url: https://hardcover.app/books/au-prochain-arret
-  - title: Saltwater in the Blood
-    author: Easkey Britton
-    subtitle: Surfing, Natural Cycles and the Sea's Power to Heal
-    date: 2021-12-26
-    read: 2021-12-26
-    rating: 4
-    pages: 256
-    isbn: "1786785552"
-    isbn13: "9781786785558"
-    cover_url: https://covers.openlibrary.org/b/id/13874886-L.jpg
-    reading: false
-    url: https://hardcover.app/books/saltwater-in-the-blood
   - title: "Do Walk: Navigate earth, mind and body. Step by step."
     author: Libby DeLana
     subtitle: Navigate earth, mind and body. Step by step.
@@ -190,6 +191,45 @@ books:
     reading: false
     url: >-
       https://hardcover.app/books/lincroyable-histoire-du-homard-qui-sauva-sa-carapace
+  - title: En mer
+    author: Toine Heijmans
+    subtitle: ""
+    date: 2021-05-16
+    read: 2021-05-16
+    rating: 4
+    pages: 155
+    isbn: "2267025280"
+    isbn13: "9782267025286"
+    cover_url: >-
+      https://assets.hardcover.app/edition/31298882/69fa97d961715d7fd04dcdb02c7c2d10a18ae938.jpeg
+    reading: false
+    url: https://hardcover.app/books/en-mer
+  - title: "Le Syndrome de Palo Alto: roman"
+    author: Loïc Hecht
+    subtitle: roman
+    date: 2021-06-22
+    read: 2021-06-22
+    rating: 4
+    pages: 0
+    isbn: "2756113069"
+    isbn13: "9782756113067"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675891/786e4f9b-6fe9-4d3d-993a-1071ac36fa3a.jpeg
+    reading: false
+    url: https://hardcover.app/books/le-syndrome-de-palo-alto-roman
+  - title: Surf - Une histoire de la glisse
+    author: Jérémy Lemarie
+    subtitle: ""
+    date: 2021-08-17
+    read: 2021-08-17
+    rating: 3
+    pages: 235
+    isbn: "2918682446"
+    isbn13: "9782918682448"
+    cover_url: >-
+      https://assets.hardcover.app/edition/32675893/c51f615a87e8ad7d8f97ecf3cdd6e63d110298d8.jpeg
+    reading: false
+    url: https://hardcover.app/books/surf-une-histoire-de-la-glisse
   - title: Surf City
     author: Kem Nunn
     subtitle: ""
@@ -229,19 +269,6 @@ books:
       https://assets.hardcover.app/external_data/2056823/672a2301ab83b1396cf848a0ffc54539ce9a0fc4.jpeg
     reading: false
     url: https://hardcover.app/books/the-lovers-2021
-  - title: "Le Syndrome de Palo Alto: roman"
-    author: Loïc Hecht
-    subtitle: roman
-    date: 2021-06-22
-    read: 2021-06-22
-    rating: 4
-    pages: 0
-    isbn: "2756113069"
-    isbn13: "9782756113067"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32675891/786e4f9b-6fe9-4d3d-993a-1071ac36fa3a.jpeg
-    reading: false
-    url: https://hardcover.app/books/le-syndrome-de-palo-alto-roman
   - title: That Oceanic Feeling
     author: Fiona Capp
     subtitle: ""
@@ -269,44 +296,6 @@ books:
     reading: false
     url: >-
       https://hardcover.app/books/petite-philosophie-illustree-de-la-vague-5eb47fe8-8863-404e-a193-e6160b4e4e04
-  - title: Surf - Une histoire de la glisse
-    author: Jérémy Lemarie
-    subtitle: ""
-    date: 2021-08-17
-    read: 2021-08-17
-    rating: 3
-    pages: 235
-    isbn: "2918682446"
-    isbn13: "9782918682448"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32675893/c51f615a87e8ad7d8f97ecf3cdd6e63d110298d8.jpeg
-    reading: false
-    url: https://hardcover.app/books/surf-une-histoire-de-la-glisse
-  - title: Besoin de mer
-    author: Hervé Hamon
-    subtitle: ""
-    date: 2021-05-10
-    read: 2021-05-10
-    rating: 3
-    pages: 208
-    isbn: "2021339025"
-    isbn13: "9782021339024"
-    cover_url: https://covers.openlibrary.org/b/id/2134308-L.jpg
-    reading: false
-    url: https://hardcover.app/books/besoin-de-mer-1999
-  - title: Tu m'avais dit Ouessant
-    author: Gwenaëlle ABOLIVIER
-    subtitle: ""
-    date: 2021-08-07
-    read: 2021-08-07
-    rating: 4
-    pages: 130
-    isbn: "2361390892"
-    isbn13: "9782361390891"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/2458120/7198f4f318ab688801922886b518fb9966bbec4d.jpeg
-    reading: false
-    url: https://hardcover.app/books/tu-mavais-dit-ouessant-2019
   - title: Le Retour
     author: Anna Enquist
     subtitle: ""
@@ -333,6 +322,18 @@ books:
       https://assets.hardcover.app/edition/31653158/b3cc9cdf6f3af7af9c62d0e8fed39a59e8784ae3.jpeg
     reading: false
     url: https://hardcover.app/books/chroniques-de-jeunesse
+  - title: Besoin de mer
+    author: Hervé Hamon
+    subtitle: ""
+    date: 2021-05-10
+    read: 2021-05-10
+    rating: 3
+    pages: 208
+    isbn: "2021339025"
+    isbn13: "9782021339024"
+    cover_url: https://covers.openlibrary.org/b/id/2134308-L.jpg
+    reading: false
+    url: https://hardcover.app/books/besoin-de-mer-1999
   - title: Encabanée
     author: Gabrielle Filteau-Chiba
     subtitle: ""
@@ -422,6 +423,30 @@ books:
       https://assets.hardcover.app/external_data/2458225/8116077313bbb94b55da05e61828089a4b5d016b.jpeg
     reading: false
     url: https://hardcover.app/books/printemps-silencieux-1962
+  - title: Thermae Romae (Compilation), Vol. 1
+    author: Mari Yamazaki
+    subtitle: ""
+    date: 2021-12-08
+    read: 2021-12-08
+    rating: 3
+    pages: 374
+    isbn: 031623222X
+    isbn13: "9780316232227"
+    cover_url: https://m.media-amazon.com/images/I/815N3UhFptL._AC_UY654_QL65_.jpg
+    reading: false
+    url: https://hardcover.app/books/thermae-romae-compilation-vol-1
+  - title: Thermae Romae (Compilation), Vol. 2
+    author: Mari Yamazaki
+    subtitle: ""
+    date: 2021-12-08
+    read: 2021-12-08
+    rating: 4
+    pages: 384
+    isbn: "0316232238"
+    isbn13: "9780316232234"
+    cover_url: https://m.media-amazon.com/images/I/81VvQXmuMqL._AC_UY654_QL65_.jpg
+    reading: false
+    url: https://hardcover.app/books/thermae-romae-compilation-vol-2
   - title: Jamais la même vague
     author: Frédéric Schiffter
     subtitle: ""
@@ -447,41 +472,16 @@ books:
       https://assets.hardcover.app/edition/32589759/9fb19094d9d194c460cb79bc0797c4f72805c73e.jpeg
     reading: false
     url: https://hardcover.app/books/soudain-seuls-2015
-  - title: En mer
-    author: Toine Heijmans
+  - title: Tu m'avais dit Ouessant
+    author: Gwenaëlle ABOLIVIER
     subtitle: ""
-    date: 2021-05-16
-    read: 2021-05-16
+    date: 2021-08-07
+    read: 2021-08-07
     rating: 4
-    pages: 155
-    isbn: "2267025280"
-    isbn13: "9782267025286"
+    pages: 130
+    isbn: "2361390892"
+    isbn13: "9782361390891"
     cover_url: >-
-      https://assets.hardcover.app/edition/31298882/69fa97d961715d7fd04dcdb02c7c2d10a18ae938.jpeg
+      https://assets.hardcover.app/external_data/2458120/7198f4f318ab688801922886b518fb9966bbec4d.jpeg
     reading: false
-    url: https://hardcover.app/books/en-mer
-  - title: Miss Iceland
-    author: Auður Ava Ólafsdóttir
-    subtitle: roman
-    date: 2021-03-26
-    read: 2021-03-26
-    rating: 3
-    pages: 261
-    isbn: "2843048699"
-    isbn13: "9782843048692"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/4253232/dc4c1e451ec72e09743cf9f34ae0a57ac82fa449.jpeg
-    reading: false
-    url: https://hardcover.app/books/miss-iceland
-  - title: Thermae Romae (Compilation), Vol. 2
-    author: Mari Yamazaki
-    subtitle: ""
-    date: 2021-12-08
-    read: 2021-12-08
-    rating: 4
-    pages: 384
-    isbn: "0316232238"
-    isbn13: "9780316232234"
-    cover_url: https://m.media-amazon.com/images/I/81VvQXmuMqL._AC_UY654_QL65_.jpg
-    reading: false
-    url: https://hardcover.app/books/thermae-romae-compilation-vol-2
+    url: https://hardcover.app/books/tu-mavais-dit-ouessant-2019

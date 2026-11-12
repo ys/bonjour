@@ -1,18 +1,5 @@
 year: 2014
 books:
-  - title: "Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency"
-    author: Tom DeMarco
-    subtitle: Getting Past Burnout, Busywork, and the Myth of Total Efficiency
-    date: 2014-05-22
-    read: 2014-05-22
-    rating: 5
-    pages: 227
-    isbn: "0767907698"
-    isbn13: "9780767907699"
-    cover_url: >-
-      https://assets.hardcover.app/edition/30381101/de4317fb3789d8bf328c1a5b0151cae84fd6fd99.jpeg
-    reading: false
-    url: https://hardcover.app/books/slack
   - title: "Effective Monitoring and Alerting: For Web Operations"
     author: Slawek Ligus
     subtitle: For Web Operations
@@ -53,6 +40,18 @@ books:
       https://assets.hardcover.app/external_data/3396637/46b833febcb76e5b484d0f513dfb2b9e5877b660.jpeg
     reading: false
     url: https://hardcover.app/books/the-passionate-programmer
+  - title: The Blue Bottle Craft of Coffee
+    author: James Freeman
+    subtitle: ""
+    date: 2014-09-27
+    read: 2014-09-27
+    rating: 4
+    pages: 0
+    isbn: "1607741180"
+    isbn13: "9781607741183"
+    cover_url: https://assets.hardcover.app/books/379353/7268761-L.jpg
+    reading: false
+    url: https://hardcover.app/books/the-blue-bottle-craft-of-coffee
   - title: Becoming a Technical Leader
     author: Gerald M. Weinberg
     subtitle: An Organic Problem-Solving Approach
@@ -79,15 +78,16 @@ books:
     reading: false
     url: >-
       https://hardcover.app/books/une-creativite-sans-limite-nayez-plus-de-manque-didees
-  - title: The Blue Bottle Craft of Coffee
-    author: James Freeman
-    subtitle: ""
-    date: 2014-09-27
-    read: 2014-09-27
-    rating: 4
-    pages: 0
-    isbn: "1607741180"
-    isbn13: "9781607741183"
-    cover_url: https://assets.hardcover.app/books/379353/7268761-L.jpg
+  - title: "Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency"
+    author: Tom DeMarco
+    subtitle: Getting Past Burnout, Busywork, and the Myth of Total Efficiency
+    date: 2014-05-22
+    read: 2014-05-22
+    rating: 5
+    pages: 227
+    isbn: "0767907698"
+    isbn13: "9780767907699"
+    cover_url: >-
+      https://assets.hardcover.app/edition/30381101/de4317fb3789d8bf328c1a5b0151cae84fd6fd99.jpeg
     reading: false
-    url: https://hardcover.app/books/the-blue-bottle-craft-of-coffee
+    url: https://hardcover.app/books/slack
