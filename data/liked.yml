@@ -1,3 +1,46 @@
+- _id: 1925796529
+  link: 'https://www.youtube.com/watch?v=E25vGFWK40E&list=WL&index=3'
+  title: Pie in the Sky | Karina Rozunko Surfing
+  excerpt: >-
+    Pie in the Sky—a surf film by Karina Rozunko.Featuring Kassia Meador.Filmed
+    by Inigo Grasset and Tony AccostaEdited by Karina RozunkoNarration by Ozzy
+    WrongM...
+  note: ''
+  type: video
+  user:
+    $ref: users
+    $id: 1617030
+  cover: 'https://i.ytimg.com/vi/E25vGFWK40E/maxresdefault.jpg'
+  media:
+    - link: 'https://i.ytimg.com/vi/E25vGFWK40E/maxresdefault.jpg'
+      type: image
+  tags: []
+  important: true
+  reminder:
+    date: null
+  removed: false
+  created: '2026-11-12T12:31:56.450Z'
+  collection:
+    $ref: collections
+    $id: 37136905
+    oid: 37136905
+  highlights: []
+  lastUpdate: '2026-11-12T12:31:58.553Z'
+  domain: youtube.com
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1925796529
+  broken: false
+  cache:
+    status: ready
+    created: '2026-11-12T13:01:41.783Z'
+    size: 1892
+  collectionId: 37136905
+  collection_name: SURF
+  parsed: {}
 - _id: 1916782018
   link: 'https://www.youtube.com/watch?v=eKdkTFrJV38'
   title: CVRRENT // Ep. 61 // Rachel Lord
