@@ -1,5 +1,18 @@
 year: 2026
 books:
+  - title: Carl's Doomsday Scenario
+    author: Matt Dinniman
+    subtitle: Dungeon Crawler Carl Book 2
+    date: 2026-10-20
+    read: 2026-10-20
+    rating: 5
+    pages: 351
+    isbn: "0593820274"
+    isbn13: "9780593820278"
+    cover_url: >-
+      https://assets.hardcover.app/editions/31544885/72ed6606-0392-4666-a23e-a331365814a2.jpg
+    reading: false
+    url: https://hardcover.app/books/carls-doomsday-scenario
   - title: American Tiger
     author: Adam Skolnick
     subtitle: ""
@@ -428,19 +441,6 @@ books:
       https://assets.hardcover.app/edition/32685267/2118438f96f72f941e99d434e0dfc2bede6d0f79.jpeg
     reading: false
     url: https://hardcover.app/books/summer-of-lave
-  - title: Carl's Doomsday Scenario
-    author: Matt Dinniman
-    subtitle: Dungeon Crawler Carl Book 2
-    date: 2026-10-20
-    read: 2026-10-20
-    rating: 5
-    pages: 351
-    isbn: "0593820274"
-    isbn13: "9780593820278"
-    cover_url: >-
-      https://assets.hardcover.app/editions/31544885/72ed6606-0392-4666-a23e-a331365814a2.jpg
-    reading: false
-    url: https://hardcover.app/books/carls-doomsday-scenario
   - title: The Dungeon Anarchist's Cookbook
     author: Matt Dinniman
     subtitle: Dungeon Crawler Carl, Book 3

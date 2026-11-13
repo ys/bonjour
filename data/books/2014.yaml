@@ -40,16 +40,19 @@ books:
       https://assets.hardcover.app/external_data/3396637/46b833febcb76e5b484d0f513dfb2b9e5877b660.jpeg
     reading: false
     url: https://hardcover.app/books/the-passionate-programmer
-  - title: The Blue Bottle Craft of Coffee
+  - title: >-
+      The Blue Bottle Craft of Coffee: Growing, Roasting, and Drinking, with
+      Recipes
     author: James Freeman
-    subtitle: ""
+    subtitle: Growing, Roasting, and Drinking, with Recipes
     date: 2014-09-27
     read: 2014-09-27
     rating: 4
-    pages: 0
+    pages: 242
     isbn: "1607741180"
     isbn13: "9781607741183"
-    cover_url: https://assets.hardcover.app/books/379353/7268761-L.jpg
+    cover_url: >-
+      https://assets.hardcover.app/external_data/4594490/2f5387c381b2f2b13f5009c1f3617b81e809e928.jpeg
     reading: false
     url: https://hardcover.app/books/the-blue-bottle-craft-of-coffee
   - title: Becoming a Technical Leader
