@@ -27,6 +27,7 @@
 @source inline("{hover:,}bg-{red,orange,yellow,green,cyan,blue,purple,magenta,accent}/70");
 @source inline("{hover:,}bg-{red,orange,yellow,green,cyan,blue,purple,magenta,accent}-600");
 @source inline("text-{red,orange,yellow,green,cyan,blue,purple,magenta,accent}");
+@source inline("text-{red,orange,yellow,green,cyan,blue,purple,magenta,accent}/40");
 @source inline("{hover:,}text-{red,orange,yellow,green,cyan,blue,purple,magenta,accent}");
 @source inline("border-{red,orange,yellow,green,cyan,blue,purple,magenta,accent}");
 @source inline("border-{red,orange,yellow,green,cyan,blue,purple,magenta,accent}/20");

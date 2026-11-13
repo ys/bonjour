@@ -16,9 +16,9 @@
       <span class="whitespace-nowrap"><span class="px-2">·</span><a href="/cgv/" class="inline-block py-2 hover:text-ink dark:hover:text-white transition-colors">cgv</a></span>
       <span><span class="px-2">·</span>{{ .Site.Params.copyright }}</span>
     </div>
-    <a href="#" aria-label="Back to top" class="mt-2 w-11 p-2 block text-gray-300 dark:text-gray-700 hover:text-gray-400 hover:rotate-180 transition-all duration-500">
-      {{ if fileExists "/static/negative-logo.svg" }}
-        {{ readFile "/static/negative-logo.svg" | safeHTML }}
+    <a href="#" aria-label="Back to top" class="mt-2 w-11 p-2 block text-{{ $.Scratch.Get "color" }}/40 hover:text-{{ $.Scratch.Get "color" }} hover:rotate-180 transition-all duration-500">
+      {{ if fileExists "/static/logo.svg" }}
+        {{ readFile "/static/logo.svg" | safeHTML }}
       {{ end }}
     </a>
   </footer>
