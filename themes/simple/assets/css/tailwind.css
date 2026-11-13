@@ -46,9 +46,8 @@
 @theme {
   --font-mono: "iA Writer Quattro", "SFMono-Regular", ui-monospace, monospace;
   --font-sans: -apple-system, "BlinkMacSystemFont", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  --font-serif: -apple-system-ui-serif, "Iowan Old Style", "Apple Garamond", Baskerville,
-    "Times New Roman", "Droid Serif", Times, "Source Serif Pro", serif, "Apple Color Emoji",
-    "Segoe UI Emoji", "Segoe UI Symbol";
+  --font-serif: -apple-system-ui-serif, "Iowan Old Style", "Palatino Linotype", "URW Palladio L",
+    P052, serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 
   /* Flexoki neutrals */
   --color-paper:        #F1EBDC;
