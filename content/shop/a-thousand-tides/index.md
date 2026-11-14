@@ -10,6 +10,7 @@ currency: "EUR"
 pricetag: "~~18€~~ SOLD OUT"
 emoji: 🌊
 price_id: "price_1KhdAaFaA8Wpl3EpuCoGpElU"
+product_id: "prod_LOMz9epjP9ecaH"
 resources:
   - src: "1000tides2.webp"
     title: "The A Thousand Tides zine open on a wooden deck with a pebble"

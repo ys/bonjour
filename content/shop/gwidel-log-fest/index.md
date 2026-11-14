@@ -13,6 +13,7 @@ pricetag: "~~9.00€~~ SOLD OUT"
 price: "9"
 soldout: true
 price_id:  "price_1MewJpFaA8Wpl3EpZ3NrCiLY"
+product_id: "prod_N8Lh62PsefKUWb"
 resources:
   - src: "IMG_2533.webp"
     title: "Gwidel Log Fest zine with prints and a wooden fin"

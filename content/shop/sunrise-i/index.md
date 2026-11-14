@@ -10,6 +10,7 @@ emoji: 🌄
 currency: "EUR"
 date: "2021-01-01"
 price_id: "price_1IlKKMFaA8Wpl3EpzXxc7fza"
+product_id: "prod_JO6X0tNC908Zhn"
 resources:
   - src: "cover.webp"
     title: "Sunrise I print of a wave at dawn, next to a camera"

@@ -12,6 +12,7 @@ soldout: false
 total_stock: 50
 pricetag: "€15,00 EUR"
 price_id:  "price_1Rnem5FaA8Wpl3Ep9NfgxMra"
+product_id: "prod_Sj70VfhRswAL9N"
 testing_price_id: "price_1SxprsFaA8Wpl3EpaqIMbLhQ"
 shipping_rates:
   - name: "Free • We have to meet"
