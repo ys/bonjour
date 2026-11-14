@@ -8196,45 +8196,6 @@
           }
         },
         {
-          "book_id": 2406613,
-          "rating": 4,
-          "date_added": "2025-12-24",
-          "user_book_status": {
-            "slug": "read"
-          },
-          "user_book_reads": [
-            {
-              "finished_at": "2025-12-24"
-            }
-          ],
-          "edition": {
-            "isbn_10": null,
-            "isbn_13": "9791041423804",
-            "pages": null,
-            "release_date": "2025-08-22"
-          },
-          "book": {
-            "title": "Les Éphémères",
-            "subtitle": null,
-            "slug": "les-ephemeres",
-            "contributions": [
-              {
-                "author": {
-                  "name": "Céline Schwaller"
-                }
-              },
-              {
-                "author": {
-                  "name": "Andrew O'Hagan"
-                }
-              }
-            ],
-            "image": {
-              "url": "https://assets.hardcover.app/edition/32675970/83f3ca48bfa050e39a5bebbd5a013564b49605e6.jpeg"
-            }
-          }
-        },
-        {
           "book_id": 2406611,
           "rating": 4,
           "date_added": "2025-08-13",
@@ -12784,6 +12745,40 @@
             ],
             "image": {
               "url": "https://assets.hardcover.app/external_data/4212146/10771c319c48afe41ee8291d412fb56d1d2ce266.jpeg"
+            }
+          }
+        },
+        {
+          "book_id": 445337,
+          "rating": 4,
+          "date_added": "2025-12-24",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2025-12-24"
+            }
+          ],
+          "edition": {
+            "isbn_10": null,
+            "isbn_13": "9791041423804",
+            "pages": null,
+            "release_date": "2025-08-22"
+          },
+          "book": {
+            "title": "Mayflies",
+            "subtitle": "A Novel",
+            "slug": "mayflies",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Andrew O'Hagan"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/edition/14270276/b3797bbd8efc4ddcc83c7743c0036849d09a5411.jpeg"
             }
           }
         },

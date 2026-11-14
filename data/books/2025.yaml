@@ -93,19 +93,6 @@ books:
     reading: false
     url: >-
       https://hardcover.app/books/la-methode-wim-hof-la-therapie-par-le-froid-pour-devenir-fort-heureux-et-en-bonne-sante
-  - title: Les Éphémères
-    author: Céline Schwaller
-    subtitle: ""
-    date: 2025-12-24
-    read: 2025-12-24
-    rating: 4
-    pages: 0
-    isbn: ""
-    isbn13: "9791041423804"
-    cover_url: >-
-      https://assets.hardcover.app/edition/32675970/83f3ca48bfa050e39a5bebbd5a013564b49605e6.jpeg
-    reading: false
-    url: https://hardcover.app/books/les-ephemeres
   - title: "Respire: A nova ciência de uma arte perdida - Nova edição"
     author: Petê Rissatti
     subtitle: A nova ciência de uma arte perdida - Nova edição
@@ -221,3 +208,16 @@ books:
       https://assets.hardcover.app/external_data/2458326/7c509c0ef360d0494f9d46cf2f180e79c7069fb9.jpeg
     reading: false
     url: https://hardcover.app/books/la-disparition-de-stephanie-mailer-2018
+  - title: Mayflies
+    author: Andrew O'Hagan
+    subtitle: A Novel
+    date: 2025-12-24
+    read: 2025-12-24
+    rating: 4
+    pages: 0
+    isbn: ""
+    isbn13: "9791041423804"
+    cover_url: >-
+      https://assets.hardcover.app/edition/14270276/b3797bbd8efc4ddcc83c7743c0036849d09a5411.jpeg
+    reading: false
+    url: https://hardcover.app/books/mayflies
