@@ -1,0 +1,2 @@
+{{- /* Current price of the page, from Stripe when available: {{< price >}} */ -}}
+{{- with (partialCached "shop/offer.html" .Page .Page.RelPermalink).pricetag }}{{ . | markdownify }}{{ end -}}

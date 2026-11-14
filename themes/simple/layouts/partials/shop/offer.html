@@ -1,0 +1,82 @@
+{{- /*
+  Price, stock and price id of a page, from Stripe when available.
+
+  data/prices.json is written at build by bin/sync-prices.js. When it has
+  the page's price_id, Stripe wins. Otherwise (local dev, no key, test mode)
+  the front matter values are used, as before.
+
+  Returns a dict:
+    price_id   price to send to checkout (may be newer than the front matter one)
+    price      amount as a number, for structured data
+    currency   "EUR"
+    pricetag   text to display, markdown ("18€", "~~18€~~ SOLD OUT", "From 7€")
+    soldout    bool
+    stock_total
+    options    for price_ids pages: slice of (dict "name" "value")
+    stripe     true when the values come from Stripe
+
+  Usage: {{ $offer := partialCached "shop/offer.html" . .RelPermalink }}
+*/ -}}
+{{- $p := . -}}
+{{- $prices := slice -}}
+{{- with hugo.Data.prices }}{{ with .prices }}{{ $prices = . }}{{ end }}{{ end -}}
+{{- $testing := and (ne hugo.Environment "production") $p.Params.testing_price_id -}}
+
+{{- $priceId := $p.Params.price_id -}}
+{{- if and (ne hugo.Environment "production") $p.Params.testing_price_id -}}
+  {{- $priceId = $p.Params.testing_price_id -}}
+{{- end -}}
+{{- $price := $p.Params.price -}}
+{{- $currency := $p.Params.currency | default "EUR" -}}
+{{- $pricetag := $p.Params.pricetag -}}
+{{- $soldout := $p.Params.soldout | default false -}}
+{{- $stockTotal := $p.Params.stock_total -}}
+{{- $fromStripe := false -}}
+
+{{- /* Single price */ -}}
+{{- if and $p.Params.price_id (not $testing) -}}
+  {{- range first 1 (where $prices "source" $p.Params.price_id) -}}
+    {{- $fromStripe = true -}}
+    {{- $priceId = .id -}}
+    {{- $price = .amount -}}
+    {{- $currency = .currency -}}
+    {{- $soldout = .soldout | default false -}}
+    {{- with .stock_total }}{{ $stockTotal = . }}{{ end -}}
+    {{- $pricetag = cond $soldout (printf "~~%s~~ SOLD OUT" .pricetag) .pricetag -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Several prices (sizes, formats): price_ids with name/value, optional label */ -}}
+{{- $options := slice -}}
+{{- with $p.Params.price_ids -}}
+  {{- $min := 0 -}}
+  {{- $minTag := "" -}}
+  {{- range . -}}
+    {{- $opt := dict "name" .name "value" .value -}}
+    {{- $label := .label -}}
+    {{- if not $testing -}}
+      {{- range first 1 (where $prices "source" .value) -}}
+        {{- $fromStripe = true -}}
+        {{- $opt = merge $opt (dict "value" .id) -}}
+        {{- if or (eq $min 0) (lt .amount $min) }}{{ $min = .amount }}{{ $minTag = .pricetag }}{{ $currency = .currency }}{{ end -}}
+        {{- if $label }}{{ $opt = merge $opt (dict "name" (printf "%s • %s" .pricetag $label)) }}{{ end -}}
+      {{- end -}}
+    {{- end -}}
+    {{- $options = $options | append $opt -}}
+  {{- end -}}
+  {{- if $minTag -}}
+    {{- $price = $min -}}
+    {{- $pricetag = printf "From %s" $minTag -}}
+  {{- end -}}
+{{- end -}}
+
+{{- return dict
+  "price_id" $priceId
+  "price" $price
+  "currency" $currency
+  "pricetag" $pricetag
+  "soldout" $soldout
+  "stock_total" $stockTotal
+  "options" $options
+  "stripe" $fromStripe
+-}}

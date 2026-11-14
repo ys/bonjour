@@ -36,7 +36,8 @@ const handler = async (req, res) => {
     );
     const priceId = paymentIntent.metadata.price_id;
 
-    if (priceId) {
+    // Stripe can deliver the same event more than once: count each sale once.
+    if (priceId && paymentIntent.metadata.stock_counted !== "true") {
       const price = await stripe.prices.retrieve(priceId);
 
       if (price.metadata && "stock" in price.metadata) {
@@ -45,6 +46,9 @@ const handler = async (req, res) => {
           metadata: { stock: String(Math.max(currentStock - 1, 0)) },
         });
       }
+      await stripe.paymentIntents.update(paymentIntent.id, {
+        metadata: { stock_counted: "true" },
+      });
     }
   }
 

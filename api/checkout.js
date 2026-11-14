@@ -1,10 +1,14 @@
 const stripe = require("stripe")(process.env.STRIPE_SECRET_KEY);
 
 module.exports = async (req, res) => {
-  const { price_id, slug, shipping_rate } = req.body;
-  url = `https://${process.env.VERCEL_URL}`;
-  if (process.env.BASE_URL) {
-    url = `https://${process.env.BASE_URL}`;
+  const { price_id, slug, shipping_rate } = req.body || {};
+  const url = `https://${process.env.BASE_URL || process.env.VERCEL_URL}`;
+
+  if (!price_id || !shipping_rate || typeof slug !== "string" || !slug.startsWith("/")) {
+    res.statusCode = 400;
+    res.setHeader("Content-Type", "application/json");
+    res.end(JSON.stringify({ error: "bad_request" }));
+    return;
   }
 
   // Check stock: metadata.stock represents remaining inventory
@@ -286,7 +290,6 @@ module.exports = async (req, res) => {
 
   res.statusCode = 200;
   res.setHeader("Content-Type", "application/json");
-  console.log(session);
   res.end(
     JSON.stringify({
       sessionId: session.id,

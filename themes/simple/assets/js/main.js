@@ -24,14 +24,15 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   if (params.has("session_id")) {
-    fetch("/api/success?session_id=" + params.get("session_id"), {
+    fetch("/api/success?session_id=" + encodeURIComponent(params.get("session_id")), {
       method: "GET",
       headers: { "Content-Type": "application/json" },
     })
       .then((res) => res.json())
       .then((res) => {
+        if (!res.paid) return;
         document.querySelector(".thanks").innerText =
-          "🎉 Merci pour cet achat, " + res.shipping.name;
+          "🎉 Merci pour cet achat" + (res.name ? ", " + res.name : "");
         document.querySelector("#thanksdiv").classList.toggle("hidden");
       });
   }
