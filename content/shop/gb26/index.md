@@ -7,8 +7,6 @@ date: 2026-11-14
 grid: "cover / DO01020911 | YS296098 | DO01020900 | DO01020901 | DO01020904"
 currency: "EUR"
 soldout: false
-archived: true
-hidden: "true"
 product_id: "prod_Vd0OvxfdAguXE6"
 price_id: "price_1UbkNGFaA8Wpl3EpaC45mtR8"
 resources:
