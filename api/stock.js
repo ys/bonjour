@@ -1,4 +1,5 @@
 const stripe = require("stripe")(process.env.STRIPE_SECRET_KEY);
+const currentPrice = require("./_price");
 
 function stockFromPrice(price) {
   const remaining =
@@ -21,7 +22,7 @@ module.exports = async (req, res) => {
   // Batch mode: ?price_ids=id1,id2,id3
   if (price_ids) {
     const ids = price_ids.split(",").filter(Boolean);
-    const prices = await Promise.all(ids.map((id) => stripe.prices.retrieve(id)));
+    const prices = await Promise.all(ids.map((id) => currentPrice(stripe, id)));
     const results = {};
     prices.forEach((price, i) => {
       results[ids[i]] = stockFromPrice(price);
@@ -31,6 +32,6 @@ module.exports = async (req, res) => {
   }
 
   // Single mode: ?price_id=id (used by product page)
-  const price = await stripe.prices.retrieve(price_id);
+  const price = await currentPrice(stripe, price_id);
   res.end(JSON.stringify(stockFromPrice(price)));
 };

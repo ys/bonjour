@@ -1,4 +1,5 @@
 const stripe = require("stripe")(process.env.STRIPE_SECRET_KEY);
+const currentPrice = require("./_price");
 
 module.exports = async (req, res) => {
   const { price_id, slug, shipping_rate } = req.body || {};
@@ -13,7 +14,7 @@ module.exports = async (req, res) => {
 
   // Check stock: metadata.stock represents remaining inventory
   // Defaults to 1 if not set. Set metadata.stock = "0" to mark as sold out.
-  const price = await stripe.prices.retrieve(price_id);
+  const price = await currentPrice(stripe, price_id);
   const remaining =
     price.metadata && "stock" in price.metadata
       ? parseInt(price.metadata.stock, 10)
@@ -31,7 +32,7 @@ module.exports = async (req, res) => {
   const session = await stripe.checkout.sessions.create({
     line_items: [
       {
-        price: price_id,
+        price: price.id,
         quantity: 1,
       },
     ],
@@ -282,7 +283,7 @@ module.exports = async (req, res) => {
     },
     payment_method_types: ["card"],
     payment_intent_data: {
-      metadata: { price_id: price_id },
+      metadata: { price_id: price.id },
     },
     cancel_url: `${url}${slug}`,
     success_url: `${url}${slug}?session_id={CHECKOUT_SESSION_ID}`,
