@@ -1,6 +1,7 @@
 {{ define "title" }}{{ "" }}{{ end }}
 
 {{ define "main" }}
+{{ $offer := partialCached "shop/offer.html" . .RelPermalink }}
 <div id="thanksdiv"
     class="text-lg my-4 flex hidden justify-around w-full items-center border border-cascade-600 bg-cascade-100 relative text-cascade-600 py-3 px-3 rounded-xs shadow-lg">
     <div class="thanks center">
@@ -42,24 +43,20 @@
   <div  class="font-sans prose dark:prose-invert lg:mt-8">
     <h1 class="font-serif font-normal text-[28px] leading-tight mb-1">{{ .Title }}</h1>
     {{ with .Params.subtitle }}<p class="font-serif italic text-base text-gray-500 dark:text-gray-400 mt-0">{{ . }}</p>{{ end }}
-    {{ if .Params.price }}
-      <span class="font-bold text-lg font-sans" id="price-label" data-pricetag="{{ .Params.pricetag }}">{{ if .Params.soldout}}Sold out{{ else }}{{ .Params.pricetag }}{{ end }}</span>
+    {{ if $offer.price }}
+      <span class="font-bold text-lg font-sans" id="price-label" data-pricetag="{{ $offer.pricetag }}">{{ if $offer.soldout }}Sold out{{ else }}{{ $offer.pricetag }}{{ end }}</span>
       <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
-      <form action="" class="mt-4 dark:prose" method="post" id="stripe-form{{ if .Params.soldout }}-nope{{ end }}">
+      <form action="" class="mt-4 dark:prose" method="post" id="stripe-form{{ if $offer.soldout }}-nope{{ end }}">
         <div class="flex justify-between">
-        {{ if .Params.price_ids }}
+        {{ with $offer.options }}
         <select required name="price_id" aria-label="Option">
           <option selected="selected" disabled="disabled" value="">Select an option</option>
-        {{ range .Params.price_ids }}
+        {{ range . }}
           <option value="{{.value}}" >{{.name}}</option>
         {{ end }}
         </select>
         {{ else }}
-          {{ $priceId := .Params.price_id }}
-          {{ if and (ne hugo.Environment "production") .Params.testing_price_id }}
-            {{ $priceId = .Params.testing_price_id }}
-          {{ end }}
-          <input type="hidden" name="price_id" value="{{ $priceId }}" />
+          <input type="hidden" name="price_id" value="{{ $offer.price_id }}" />
         {{ end }}
         {{ $shippingRates := .Params.shipping_rates }}
         {{ if and (ne hugo.Environment "production") .Params.testing_shipping_rates }}
@@ -74,22 +71,22 @@
               <option value="{{.value}}" >{{.name}}</option>
             {{ end }}
             </select>
-            {{ else }}
-              <input type="hidden" name="price_id" value="{{.Site.Params.shop.default_shipping_rate}}" />
-            {{ end }}
           </div>
+        {{ else }}
+          <input type="hidden" name="shipping_rate" value="{{ .Site.Params.shop.default_shipping_rate }}" />
+        {{ end }}
         </div>
         <button
-          class="font-sans w-full mt-4 {{ if .Params.soldout }} bg-gray-300 line-through{{ else}}bg-{{$.Scratch.Get "color"}}{{ end}} hover:drop-shadow-xl rounded-xs transition duration-500 ease-in-out text-white font-bold py-2 m-0 appearance-none px-4 cursor-pointer"
+          class="font-sans w-full mt-4 {{ if $offer.soldout }} bg-gray-300 line-through{{ else}}bg-{{$.Scratch.Get "color"}}{{ end}} hover:drop-shadow-xl rounded-xs transition duration-500 ease-in-out text-white font-bold py-2 m-0 appearance-none px-4 cursor-pointer"
           id="checkout-button"
           type="submit"
-          {{ if .Params.soldout}}disabled{{end}}
+          {{ if $offer.soldout }}disabled{{ end }}
         >
 					<svg class="hidden animate-spin -ml-1 mr-3 h-5 w-5 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
 						<circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
 						<path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
 					</svg>
-                                        <span class="">{{ if .Params.soldout}}Sold out{{ else }}Buy now{{ end }}</span><span id="stock-button-label" class="hidden"></span>
+                                        <span class="">{{ if $offer.soldout }}Sold out{{ else }}Buy now{{ end }}</span><span id="stock-button-label" class="hidden"></span>
         </button>
       </form>
 

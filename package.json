@@ -6,7 +6,8 @@
   },
   "description": "https://yannickschutz.com",
   "scripts": {
-    "prebuild": "mkdir -p resources/_gen node_modules/.cache/hugo_resources && cp -a node_modules/.cache/hugo_resources/. resources/_gen/ 2>/dev/null || true",
+    "prebuild": "mkdir -p resources/_gen node_modules/.cache/hugo_resources && cp -a node_modules/.cache/hugo_resources/. resources/_gen/ 2>/dev/null || true; node bin/sync-prices.js",
+    "sync-prices": "node bin/sync-prices.js",
     "build": "hugo --gc --minify -b https://${BASE_URL:-$VERCEL_BRANCH_URL}",
     "postbuild": "rm -rf node_modules/.cache/hugo_resources && mkdir -p node_modules/.cache && cp -a resources/_gen node_modules/.cache/hugo_resources",
     "build-preview": "hugo --environment preview --minify -F -D -b https://${BASE_URL:-$VERCEL_BRANCH_URL}",

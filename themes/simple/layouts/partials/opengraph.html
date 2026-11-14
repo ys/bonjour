@@ -48,9 +48,10 @@
 {{- range . }}
 <meta property="og:video" content="{{ . | absURL }}" />
 {{ end }}{{ end }}
-{{- if .Params.price }}
-<meta property="product:price:amount" content="{{ .Params.price }}" />
-<meta property="product:price:currency" content="{{ .Params.currency }}" />
+{{- $offer := partialCached "shop/offer.html" . .RelPermalink }}
+{{- if $offer.price }}
+<meta property="product:price:amount" content="{{ $offer.price }}" />
+<meta property="product:price:currency" content="{{ $offer.currency }}" />
 {{ end }}
 
 {{- /* If it is part of a series, link to related articles */}}

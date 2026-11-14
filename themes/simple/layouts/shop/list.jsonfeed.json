@@ -16,7 +16,8 @@
 					{{- $featured := $images.GetMatch "*feature*" -}}
 					{{- $featured := cond (ne $featured nil) $featured ($images.GetMatch "{*cover*,*thumbnail*}") -}}
 					{{- $featured := cond (ne $featured nil) $featured (index $images 0) -}}
-			  {{ (dict "id" .Permalink "title" .Title "summary" .Summary "tags" .Params.tags "date_published" (.Date.Format "2006-01-02T15:04:05Z0700" ) "content_html" .Content "content_text" .Plain "url" .Permalink "link" .Permalink "image" $featured.Permalink "image_link" $featured.Permalink "availability" (cond (or (eq .Params.soldout nil) (not .Params.soldout)) "in stock" "out of stock") "condition" "new" "price" (printf "%s %s" .Params.price .Params.currency) "brand" .Site.Title)  | jsonify  }}
+					{{- $offer := partialCached "shop/offer.html" . .RelPermalink -}}
+			  {{ (dict "id" .Permalink "title" .Title "summary" .Summary "tags" .Params.tags "date_published" (.Date.Format "2006-01-02T15:04:05Z0700" ) "content_html" .Content "content_text" .Plain "url" .Permalink "link" .Permalink "image" $featured.Permalink "image_link" $featured.Permalink "availability" (cond $offer.soldout "out of stock" "in stock") "condition" "new" "price" (printf "%v %s" $offer.price $offer.currency) "brand" .Site.Title)  | jsonify  }}
 			{{ end }}
     ]
 }

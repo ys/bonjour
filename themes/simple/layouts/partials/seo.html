@@ -155,11 +155,12 @@
     {{- if not (in $productImages $img.Permalink) -}}{{- $productImages = $productImages | append $img.Permalink -}}{{- end -}}
   {{- end -}}
   {{- if and (not $productImages) $imageURL -}}{{- $productImages = slice $imageURL -}}{{- end -}}
+  {{- $shop := partialCached "shop/offer.html" . .RelPermalink -}}
   {{- $offer := dict
     "@type" "Offer"
-    "priceCurrency" (.Params.currency | default "EUR")
-    "price" (printf "%.2f" (float (trim (string (.Params.price | default 0)) " €")))
-    "availability" (cond (.Params.soldout | default false) "https://schema.org/OutOfStock" "https://schema.org/InStock")
+    "priceCurrency" $shop.currency
+    "price" (printf "%.2f" (float (trim (string ($shop.price | default 0)) " €")))
+    "availability" (cond $shop.soldout "https://schema.org/OutOfStock" "https://schema.org/InStock")
     "itemCondition" "https://schema.org/NewCondition"
     "url" .Permalink
     "seller" $personRef

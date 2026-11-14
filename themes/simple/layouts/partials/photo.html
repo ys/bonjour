@@ -48,7 +48,7 @@
       <div class=" pl-4 pb-8 lg:pb-0 lg:absolute top-0 left-0 h-full w-full group-hover:backdrop-blur-sm group- group-hover:block  group-hover:flex flex-col mdenter justify-center  lace-items-center lg:hidden group-hover:block">
           <header class="">
             <span class="font-sans tracking-tight text-xs transition ease-in-out duration-200 ">
-              {{ with .Params.pricetag }}
+              {{ with (partialCached "shop/offer.html" . .RelPermalink).pricetag }}
                 {{ . | markdownify }}
               {{ else }}
                 {{ .Date.Day }} {{ index hugo.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}

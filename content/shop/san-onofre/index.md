@@ -54,4 +54,4 @@ Each one printed and assembled at home, so no two are exactly the same.
 - Stitch bound
 - Signed and numbered
 
-*Price 18€ — shipping on top*
+*Price {{< price >}} — shipping on top*
