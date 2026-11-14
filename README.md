@@ -56,7 +56,7 @@ write products).
 
 In page text, write `{{</* price */>}}` instead of the amount.
 
-Run it locally with `STRIPE_SECRET_KEY=rk_live_... yarn sync-prices`. A restricted key with read
+Run it locally with `yarn sync-prices`. The `bin/` scripts load `.env` (see `.env.example`) with dotenv; variables already set in the environment win. A restricted key with read
 access to prices and products is enough.
 
 ### Configuration

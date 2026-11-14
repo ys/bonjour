@@ -22,6 +22,7 @@
     "@catppuccin/tailwindcss": "^1.0.0",
     "@tailwindcss/forms": "^0.5.11",
     "@tailwindcss/typography": "^0.5.20",
+    "dotenv": "^18.0.10",
     "stripe": "^8.145.0",
     "tailwindcss": "^4.2.2"
   },
