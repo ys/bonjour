@@ -56,6 +56,7 @@
         {{ end }}
         </select>
         {{ else }}
+          {{ with $offer.product_id }}<input type="hidden" name="product_id" value="{{ . }}" />{{ end }}
           <input type="hidden" name="price_id" value="{{ $offer.price_id }}" />
         {{ end }}
         {{ $shippingRates := .Params.shipping_rates }}

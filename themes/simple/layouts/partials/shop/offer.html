@@ -2,11 +2,12 @@
   Price, stock and price id of a page, from Stripe when available.
 
   data/prices.json is written at build by bin/sync-prices.js. When it has
-  the page's price_id, Stripe wins. Otherwise (local dev, no key, test mode)
+  the page's product_id (or older price_id), Stripe wins. Otherwise (local dev, no key, test mode)
   the front matter values are used, as before.
 
   Returns a dict:
-    price_id   price to send to checkout (may be newer than the front matter one)
+    item_id    what the buy form and stock check send: product_id, else price_id
+    price_id   current price id
     price      amount as a number, for structured data
     currency   "EUR"
     pricetag   text to display, markdown ("18€", "~~18€~~ SOLD OUT", "From 7€")
@@ -22,6 +23,7 @@
 {{- with hugo.Data.prices }}{{ with .prices }}{{ $prices = . }}{{ end }}{{ end -}}
 {{- $testing := and (ne hugo.Environment "production") $p.Params.testing_price_id -}}
 
+{{- $productId := cond $testing "" ($p.Params.product_id | default "") -}}
 {{- $priceId := $p.Params.price_id -}}
 {{- if and (ne hugo.Environment "production") $p.Params.testing_price_id -}}
   {{- $priceId = $p.Params.testing_price_id -}}
@@ -34,10 +36,12 @@
 {{- $fromStripe := false -}}
 
 {{- /* Single price */ -}}
-{{- if and $p.Params.price_id (not $testing) -}}
-  {{- range first 1 (where $prices "source" $p.Params.price_id) -}}
+{{- $source := $productId | default $p.Params.price_id -}}
+{{- if and $source (not $testing) -}}
+  {{- range first 1 (where $prices "source" $source) -}}
     {{- $fromStripe = true -}}
     {{- $priceId = .id -}}
+    {{- with .product_id }}{{ $productId = . }}{{ end -}}
     {{- $price = .amount -}}
     {{- $currency = .currency -}}
     {{- $soldout = .soldout | default false -}}
@@ -71,6 +75,8 @@
 {{- end -}}
 
 {{- return dict
+  "item_id" ($productId | default $priceId)
+  "product_id" $productId
   "price_id" $priceId
   "price" $price
   "currency" $currency

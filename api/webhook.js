@@ -1,4 +1,5 @@
 const stripe = require("stripe")(process.env.STRIPE_SECRET_KEY);
+const { resolveItem, stockOwner } = require("./_price");
 
 function buffer(req) {
   return new Promise((resolve, reject) => {
@@ -34,17 +35,17 @@ const handler = async (req, res) => {
     const paymentIntent = await stripe.paymentIntents.retrieve(
       session.payment_intent,
     );
-    const priceId = paymentIntent.metadata.price_id;
+    const { price_id: priceId, product_id: productId, stock_counted } = paymentIntent.metadata;
 
     // Stripe can deliver the same event more than once: count each sale once.
-    if (priceId && paymentIntent.metadata.stock_counted !== "true") {
-      const price = await stripe.prices.retrieve(priceId);
-
-      if (price.metadata && "stock" in price.metadata) {
-        const currentStock = parseInt(price.metadata.stock, 10);
-        await stripe.prices.update(priceId, {
-          metadata: { stock: String(Math.max(currentStock - 1, 0)) },
-        });
+    if ((priceId || productId) && stock_counted !== "true") {
+      const item = await resolveItem(stripe, productId || priceId);
+      const owner = stockOwner(item);
+      if (owner) {
+        const current = parseInt(item[owner].metadata.stock, 10);
+        const metadata = { stock: String(Math.max(current - 1, 0)) };
+        if (owner === "product") await stripe.products.update(item.product.id, { metadata });
+        else await stripe.prices.update(item.price.id, { metadata });
       }
       await stripe.paymentIntents.update(paymentIntent.id, {
         metadata: { stock_counted: "true" },

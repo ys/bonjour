@@ -1,37 +1,41 @@
 const stripe = require("stripe")(process.env.STRIPE_SECRET_KEY);
-const currentPrice = require("./_price");
+const { resolveItem, stockOf } = require("./_price");
 
-function stockFromPrice(price) {
-  const remaining =
-    price.metadata && "stock" in price.metadata
-      ? parseInt(price.metadata.stock, 10)
-      : 1;
-  const result = { remaining: Math.max(remaining, 0), soldout: remaining <= 0 };
-  if (price.metadata && "stock_total" in price.metadata) {
-    result.stock_total = parseInt(price.metadata.stock_total, 10);
-  }
-  return result;
-}
-
+// ?id=prod_... or price_... (product page)
+// ?ids=id1,id2 (shop list). price_id / price_ids still work.
 module.exports = async (req, res) => {
-  const { price_id, price_ids } = req.query;
-
-  res.statusCode = 200;
+  const { id, ids, price_id, price_ids } = req.query;
   res.setHeader("Content-Type", "application/json");
 
-  // Batch mode: ?price_ids=id1,id2,id3
-  if (price_ids) {
-    const ids = price_ids.split(",").filter(Boolean);
-    const prices = await Promise.all(ids.map((id) => currentPrice(stripe, id)));
+  const batch = ids || price_ids;
+  if (batch) {
+    const list = batch.split(",").filter(Boolean).slice(0, 50);
     const results = {};
-    prices.forEach((price, i) => {
-      results[ids[i]] = stockFromPrice(price);
-    });
+    await Promise.all(
+      list.map(async (one) => {
+        try {
+          results[one] = stockOf(await resolveItem(stripe, one));
+        } catch (err) {
+          // Unknown id: leave it out, the page keeps its built state.
+        }
+      }),
+    );
+    res.statusCode = 200;
     res.end(JSON.stringify(results));
     return;
   }
 
-  // Single mode: ?price_id=id (used by product page)
-  const price = await currentPrice(stripe, price_id);
-  res.end(JSON.stringify(stockFromPrice(price)));
+  const single = id || price_id;
+  if (!single) {
+    res.statusCode = 400;
+    res.end(JSON.stringify({ error: "bad_request" }));
+    return;
+  }
+  try {
+    res.statusCode = 200;
+    res.end(JSON.stringify(stockOf(await resolveItem(stripe, single))));
+  } catch (err) {
+    res.statusCode = 404;
+    res.end(JSON.stringify({ error: "not_found" }));
+  }
 };
