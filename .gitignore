@@ -14,3 +14,8 @@ data/books/.hardcover-token
 
 # Generated at build from Stripe (bin/sync-prices.js)
 data/prices.json
+
+# Local secrets (loaded by bin/ scripts via dotenv)
+.env
+.env.*
+!.env.example

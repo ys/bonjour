@@ -18,6 +18,9 @@
 
 const fs = require("fs");
 const path = require("path");
+
+// Local .env if there is one. Never overrides variables already set (Vercel).
+require("dotenv").config({ path: path.join(__dirname, "../.env"), quiet: true });
 const { resolveItem, stockOf, stockOwner } = require("../api/_price");
 
 const ROOT = path.join(__dirname, "..");
