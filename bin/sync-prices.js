@@ -3,13 +3,11 @@
  * Pull current prices and stock from Stripe into data/prices.json,
  * so Stripe is the only place where a price is set.
  *
- * Reads every price_id (and price_ids[].value) from content/shop/ front
- * matter, asks Stripe for it and writes what the templates need.
- *
- * If a price was archived and its product now has another default price,
- * the new default is used. So changing a price in Stripe is:
- *   add a new price on the product, make it the default, archive the old one.
- * The front matter can keep the old price_id.
+ * Reads every product_id (and older price_id / price_ids[].value) from
+ * content/shop/ front matter, asks Stripe for it and writes what the
+ * templates need. A product gives its default price and the stock from its
+ * metadata. So changing a price in Stripe is: add a new price on the
+ * product and make it the default.
  *
  * Runs before every build (see "prebuild" in package.json). With no live key,
  * or if Stripe can't be reached, it keeps the existing file and the
@@ -20,6 +18,7 @@
 
 const fs = require("fs");
 const path = require("path");
+const { resolveItem, stockOf, stockOwner } = require("../api/_price");
 
 const ROOT = path.join(__dirname, "..");
 const SHOP = path.join(ROOT, "content/shop");
@@ -31,7 +30,8 @@ function log(msg) {
   console.log(`[sync-prices] ${msg}`);
 }
 
-// Front matter price ids. testing_price_id is test mode, a live key can't read it.
+// Front matter product_id / price_id / price_ids values.
+// testing_* ids are test mode, a live key can't read them.
 function collectPriceIds() {
   const ids = new Set();
   const walk = (dir) => {
@@ -44,7 +44,7 @@ function collectPriceIds() {
         if (!fm) continue;
         for (const line of fm[1].split("\n")) {
           if (/^\s*testing_/.test(line)) continue;
-          for (const id of line.match(/\bprice_[A-Za-z0-9]{14,}/g) || []) ids.add(id);
+          for (const id of line.match(/\b(prod|price)_[A-Za-z0-9]{10,}/g) || []) ids.add(id);
         }
       }
     }
@@ -63,50 +63,30 @@ function formatPrice(amount, currency) {
   return c in symbols ? `${n}${symbols[c]}` : `${n} ${c}`;
 }
 
-function stock(price) {
-  const m = price.metadata || {};
-  const out = {};
-  if ("stock" in m) {
-    out.stock = parseInt(m.stock, 10);
-    out.soldout = out.stock <= 0;
-  }
-  if ("stock_total" in m) out.stock_total = parseInt(m.stock_total, 10);
-  return out;
-}
-
 async function resolve(stripe, id) {
-  let price = await stripe.prices.retrieve(id, { expand: ["product"] });
-  const product = price.product;
-  const defaultId =
-    product && typeof product.default_price === "string"
-      ? product.default_price
-      : product && product.default_price && product.default_price.id;
-
-  if (!price.active && defaultId && defaultId !== id) {
-    const replaced = await stripe.prices.retrieve(defaultId);
-    log(`${id} is archived, using ${defaultId} (default price of "${product.name}")`);
-    if ("stock" in (price.metadata || {}) && !("stock" in (replaced.metadata || {}))) {
-      log(`  warning: ${defaultId} has no stock metadata, copy it from ${id}`);
-    }
-    price = Object.assign(replaced, { product });
+  const item = await resolveItem(stripe, id);
+  const { price, product } = item;
+  if (price.id !== id && id.startsWith("price_")) {
+    log(`${id} is archived, using ${price.id} (default price of "${product.name}")`);
   }
-
   if (price.unit_amount == null) {
     log(`${id}: no fixed amount, skipped`);
     return null;
   }
-
   const amount = price.unit_amount / 100;
-  return {
+  const stock = stockOf(item);
+  const out = {
     source: id,
     id: price.id,
+    product_id: product && product.id,
     amount,
     currency: price.currency.toUpperCase(),
     pricetag: formatPrice(amount, price.currency),
-    active: price.active,
     product: product && product.name,
-    ...stock(price),
   };
+  if (stockOwner(item)) Object.assign(out, { stock: stock.remaining, soldout: stock.soldout });
+  if (stock.stock_total) out.stock_total = stock.stock_total;
+  return out;
 }
 
 async function main() {

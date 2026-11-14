@@ -34,7 +34,7 @@
         {{ end }}
 
         {{ $offer := partialCached "shop/offer.html" . .RelPermalink }}
-        <article class="group" {{ with $offer.price_id }}data-price-id="{{ . }}"{{ end }}>
+        <article class="group" {{ with $offer.item_id }}data-item-id="{{ . }}"{{ end }}>
           <a href="{{ .RelPermalink }}" class="block">
             <div class="transition-all duration-300 group-hover:-translate-y-1">
               <picture class="aspect-square relative block overflow-hidden bg-gray-100 dark:bg-gray-800">

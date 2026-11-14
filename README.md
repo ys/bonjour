@@ -34,15 +34,25 @@ The frontmatter of a shop item requires `price_id` which is the price code of a 
 
 ### Prices and stock come from Stripe
 
-Prices are set in Stripe only. Before each build, [`bin/sync-prices.js`](bin/sync-prices.js)
-reads every `price_id` in `content/shop/`, fetches it from Stripe and writes `data/prices.json`
+A shop page points at a Stripe product with `product_id`. Its price is the product's default
+price, its stock is the `stock` / `stock_total` metadata of the product.
+
+Before each build, [`bin/sync-prices.js`](bin/sync-prices.js) reads every `product_id` (and
+older `price_id`) in `content/shop/`, fetches it from Stripe and writes `data/prices.json`
 (not committed). The [`shop/offer.html`](themes/simple/layouts/partials/shop/offer.html) partial
 uses it for the price tag, sold out state, structured data, Open Graph and the feed. Without a
 live key (local dev, previews) it falls back to `price`, `pricetag` and `soldout` in the front matter.
 
-To change a price: in Stripe, add a new price on the product, set it as default, archive the old
-one, copy the `stock` / `stock_total` metadata over, then redeploy. The front matter can keep the
-old `price_id`, the build follows the product's default price.
+Checkout and the stock check resolve the product's default price live, so a new price applies to
+purchases right away. The redeploy only refreshes what the pages display.
+
+To change a price: in Stripe, add a new price on the product and set it as default. Redeploy.
+
+Pages that only have a `price_id` still work: the product's default price is used once that
+price is archived, and the stock is read from the price when the product has none.
+[`bin/migrate-to-products.js`](bin/migrate-to-products.js) adds `product_id` to those pages and
+moves their stock to the product (dry run by default, `--write` to apply, needs a key that can
+write products).
 
 In page text, write `{{</* price */>}}` instead of the amount.
 

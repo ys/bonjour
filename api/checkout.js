@@ -1,26 +1,32 @@
 const stripe = require("stripe")(process.env.STRIPE_SECRET_KEY);
-const currentPrice = require("./_price");
+const { resolveItem, stockOf } = require("./_price");
 
 module.exports = async (req, res) => {
-  const { price_id, slug, shipping_rate } = req.body || {};
+  const { product_id, price_id, slug, shipping_rate } = req.body || {};
+  const itemId = product_id || price_id;
   const url = `https://${process.env.BASE_URL || process.env.VERCEL_URL}`;
 
-  if (!price_id || !shipping_rate || typeof slug !== "string" || !slug.startsWith("/")) {
+  if (!itemId || !shipping_rate || typeof slug !== "string" || !slug.startsWith("/")) {
     res.statusCode = 400;
     res.setHeader("Content-Type", "application/json");
     res.end(JSON.stringify({ error: "bad_request" }));
     return;
   }
 
-  // Check stock: metadata.stock represents remaining inventory
-  // Defaults to 1 if not set. Set metadata.stock = "0" to mark as sold out.
-  const price = await currentPrice(stripe, price_id);
-  const remaining =
-    price.metadata && "stock" in price.metadata
-      ? parseInt(price.metadata.stock, 10)
-      : 1;
+  // Stock: metadata.stock on the product (or on the price for older items).
+  // No stock metadata means one left. Set stock = "0" to mark as sold out.
+  let item;
+  try {
+    item = await resolveItem(stripe, itemId);
+  } catch (err) {
+    res.statusCode = 400;
+    res.setHeader("Content-Type", "application/json");
+    res.end(JSON.stringify({ error: "unknown_item" }));
+    return;
+  }
+  const { price, product } = item;
 
-  if (remaining <= 0) {
+  if (stockOf(item).soldout) {
     res.statusCode = 400;
     res.setHeader("Content-Type", "application/json");
     res.end(
@@ -283,7 +289,7 @@ module.exports = async (req, res) => {
     },
     payment_method_types: ["card"],
     payment_intent_data: {
-      metadata: { price_id: price.id },
+      metadata: { price_id: price.id, product_id: product && product.id },
     },
     cancel_url: `${url}${slug}`,
     success_url: `${url}${slug}?session_id={CHECKOUT_SESSION_ID}`,

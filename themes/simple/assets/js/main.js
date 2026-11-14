@@ -51,23 +51,25 @@ document.addEventListener("DOMContentLoaded", function () {
   // Check stock on single product page
   var stockForm = form || document.querySelector("#stripe-form-nope");
   if (stockForm) {
-    var priceInput = stockForm.querySelector('input[name="price_id"]');
-    if (priceInput && priceInput.value) {
-      checkStock(priceInput.value);
+    var itemInput =
+      stockForm.querySelector('input[name="product_id"]') ||
+      stockForm.querySelector('input[name="price_id"]');
+    if (itemInput && itemInput.value) {
+      checkStock(itemInput.value);
     }
   }
 
   // Check stock on shop list page (single batch call)
-  var articles = document.querySelectorAll("article[data-price-id]");
+  var articles = document.querySelectorAll("article[data-item-id]");
   if (articles.length > 0) {
     var articlesByPriceId = {};
     articles.forEach(function (article) {
-      var priceId = article.getAttribute("data-price-id");
+      var priceId = article.getAttribute("data-item-id");
       if (!articlesByPriceId[priceId]) articlesByPriceId[priceId] = [];
       articlesByPriceId[priceId].push(article);
     });
     var priceIds = Object.keys(articlesByPriceId);
-    fetch("/api/stock?price_ids=" + priceIds.map(encodeURIComponent).join(","))
+    fetch("/api/stock?ids=" + priceIds.map(encodeURIComponent).join(","))
       .then(function (res) { return res.json(); })
       .then(function (results) {
         priceIds.forEach(function (priceId) {
@@ -113,8 +115,8 @@ function updateStockLabel(el, remaining, stockTotal) {
   }
 }
 
-function checkStock(priceId) {
-  fetch("/api/stock?price_id=" + encodeURIComponent(priceId))
+function checkStock(itemId) {
+  fetch("/api/stock?id=" + encodeURIComponent(itemId))
     .then(function (res) {
       return res.json();
     })
@@ -205,6 +207,7 @@ function handleFormSubmission(event) {
   form = new FormData(event.target);
 
   data = {
+    product_id: form.get("product_id"),
     price_id: form.get("price_id"),
     shipping_rate: form.get("shipping_rate"),
     slug: window.location.pathname,
