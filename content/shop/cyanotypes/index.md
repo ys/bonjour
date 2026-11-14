@@ -7,13 +7,7 @@ grid: "cover / small | medium | large"
 date: 2025-02-08
 price: "7.00"
 currency: "EUR"
-shipping_rates:
-  - name: "Free • France"
-    value: "shr_1QqLLpFaA8Wpl3EpTYC2CeEX"
-  - name: "5€ • Europe"
-    value: "shr_1QqLMCFaA8Wpl3EphoEPg60w"
-  - name: "10€ • Rest of the world"
-    value: "shr_1QqLLWFaA8Wpl3EpPPTIAW1F"
+shipping: "cyanotype"
 
 price_ids:
   - name: "7€ • Small (A6)"

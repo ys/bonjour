@@ -177,7 +177,7 @@
   )) -}}
   {{- /* Shipping to France from the Stripe rates ("15€ • France", "Free • France"); other regions have no schema.org country */ -}}
   {{- $shipping := slice -}}
-  {{- range .Params.shipping_rates -}}
+  {{- range partialCached "shop/shipping.html" . .RelPermalink -}}
     {{- with findRESubmatch `^\s*(Free|(\d+(?:[.,]\d+)?)\s*€)\s*•\s*France\s*$` .name 1 -}}
       {{- $row := index . 0 -}}
       {{- $amount := "0.00" -}}

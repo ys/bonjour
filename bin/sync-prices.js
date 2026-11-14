@@ -13,7 +13,7 @@
  * or if Stripe can't be reached, it keeps the existing file and the
  * templates fall back to the front matter values.
  *
- *   STRIPE_SECRET_KEY=rk_live_... node bin/sync-prices.js
+ *   STRIPE_PRICES_KEY=rk_live_... node bin/sync-prices.js   (or STRIPE_SECRET_KEY)
  */
 
 const fs = require("fs");
@@ -27,7 +27,9 @@ const ROOT = path.join(__dirname, "..");
 const SHOP = path.join(ROOT, "content/shop");
 const OUT = path.join(ROOT, "data/prices.json");
 
-const key = process.env.STRIPE_SECRET_KEY;
+// STRIPE_PRICES_KEY lets local dev keep a test STRIPE_SECRET_KEY for checkout
+// while reading live prices with a read-only live key.
+const key = process.env.STRIPE_PRICES_KEY || process.env.STRIPE_SECRET_KEY;
 
 function log(msg) {
   console.log(`[sync-prices] ${msg}`);
@@ -93,8 +95,8 @@ async function resolve(stripe, id) {
 }
 
 async function main() {
-  if (!key) return log("no STRIPE_SECRET_KEY, keeping data/prices.json as is");
-  if (/^(sk|rk)_test_/.test(key)) return log("test key, keeping data/prices.json as is");
+  if (!key) return log("no STRIPE_PRICES_KEY or STRIPE_SECRET_KEY, keeping data/prices.json as is");
+  if (/^(sk|rk)_test_/.test(key)) return log("test key, keeping data/prices.json as is (set STRIPE_PRICES_KEY to a live read-only key)");
 
   const stripe = require("stripe")(key);
   const ids = collectPriceIds();

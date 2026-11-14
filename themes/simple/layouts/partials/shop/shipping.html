@@ -1,0 +1,31 @@
+{{- /*
+  Shipping rates of a shop page, as a slice of (dict "name" "value").
+
+  Sets live in data/shipping.json. A page picks one with `shipping: print`,
+  otherwise it gets the default set. Outside production the set's testing
+  rates are used when it has some.
+
+  A page can still list its own `shipping_rates` (and `testing_shipping_rates`)
+  in front matter, those win. Note that checkout only accepts rates that are
+  in data/shipping.json.
+
+  Usage: {{ $rates := partialCached "shop/shipping.html" . .RelPermalink }}
+*/ -}}
+{{- $p := . -}}
+{{- $testing := ne hugo.Environment "production" -}}
+{{- $rates := slice -}}
+{{- with $p.Params.shipping_rates -}}
+  {{- $rates = . -}}
+  {{- if and $testing $p.Params.testing_shipping_rates }}{{ $rates = $p.Params.testing_shipping_rates }}{{ end -}}
+{{- else -}}
+  {{- with hugo.Data.shipping -}}
+    {{- $name := $p.Params.shipping | default .default -}}
+    {{- with index .sets $name -}}
+      {{- $rates = .live -}}
+      {{- if and $testing .testing }}{{ $rates = .testing }}{{ end -}}
+    {{- else -}}
+      {{- warnf "shop: unknown shipping set %q in %s" $name $p.File.Path -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $rates -}}

@@ -59,10 +59,7 @@
           {{ with $offer.product_id }}<input type="hidden" name="product_id" value="{{ . }}" />{{ end }}
           <input type="hidden" name="price_id" value="{{ $offer.price_id }}" />
         {{ end }}
-        {{ $shippingRates := .Params.shipping_rates }}
-        {{ if and (ne hugo.Environment "production") .Params.testing_shipping_rates }}
-          {{ $shippingRates = .Params.testing_shipping_rates }}
-        {{ end }}
+        {{ $shippingRates := partialCached "shop/shipping.html" . .RelPermalink }}
         {{ if $shippingRates }}
           <div>
             <label class="prose dark:prose-invert" for="shipping_rate">Shipping:</label>
@@ -95,10 +92,6 @@
       <p class="text-xs text-gray-500 dark:text-gray-400">Shipping, returns and 14-day withdrawal: see the <a href="/cgv/">terms of sale</a> (in French). VAT not applicable, art. 293 B du CGI.</p>
 
     {{ end }}
-    {{- /* Short product pages (the prints) share one text: show what is specific to this item */}}
-    {{- with .Description }}{{ if and (lt $.WordCount 150) (not (strings.Contains ($.Content | plainify) (substr . 0 40))) }}
-    <p class="text-lg font-serif italic">{{ . }}</p>
-    {{- end }}{{ end }}
     {{.Content}}
   </div>
 </div>

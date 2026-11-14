@@ -56,8 +56,16 @@ write products).
 
 In page text, write `{{</* price */>}}` instead of the amount.
 
-Run it locally with `yarn sync-prices`. The `bin/` scripts load `.env` (see `.env.example`) with dotenv; variables already set in the environment win. A restricted key with read
+Run it locally with `yarn sync-prices`. A test `STRIPE_SECRET_KEY` (for local checkout) is skipped by the sync: set `STRIPE_PRICES_KEY` to a live restricted read-only key to get live prices locally. The `bin/` scripts load `.env` (see `.env.example`) with dotenv; variables already set in the environment win. A restricted key with read
 access to prices and products is enough.
+
+### Shipping
+
+Shipping rates live in [`data/shipping.json`](data/shipping.json), as named sets (`zine`, `print`,
+`cyanotype`), each with its `live` rates and optional `testing` ones (used outside production).
+A page gets the `default` set, or picks one with `shipping: print` in its front matter.
+A page can still list its own `shipping_rates`, but checkout only accepts rates that are in the
+data file, so add new Stripe rates there.
 
 ### Configuration
 

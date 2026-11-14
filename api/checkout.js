@@ -1,12 +1,26 @@
 const stripe = require("stripe")(process.env.STRIPE_SECRET_KEY);
 const { resolveItem, stockOf } = require("./_price");
+const shipping = require("../data/shipping.json");
+
+// Every rate from data/shipping.json (live and testing). Anything else is refused,
+// so the browser can't pick a rate the shop doesn't offer.
+const ALLOWED_RATES = new Set(
+  Object.values(shipping.sets).flatMap((set) =>
+    [...(set.live || []), ...(set.testing || [])].map((rate) => rate.value),
+  ),
+);
 
 module.exports = async (req, res) => {
   const { product_id, price_id, slug, shipping_rate } = req.body || {};
   const itemId = product_id || price_id;
   const url = `https://${process.env.BASE_URL || process.env.VERCEL_URL}`;
 
-  if (!itemId || !shipping_rate || typeof slug !== "string" || !slug.startsWith("/")) {
+  if (
+    !itemId ||
+    !ALLOWED_RATES.has(shipping_rate) ||
+    typeof slug !== "string" ||
+    !slug.startsWith("/")
+  ) {
     res.statusCode = 400;
     res.setHeader("Content-Type", "application/json");
     res.end(JSON.stringify({ error: "bad_request" }));
