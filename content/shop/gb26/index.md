@@ -41,5 +41,6 @@ Printed and sewn by hand at home in Finistère, so no two are exactly the same. 
 - A5 size, 44 pages inside
 - Singer-style binding, sewn by hand
 - 102gsm inside pages, 220gsm cover
+- Translucent vellum first and last pages for the text
 - Signed and numbered print included
 - Shot on Leica M6 & Contax T3
