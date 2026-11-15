@@ -40,16 +40,43 @@
       {{ partial "grid" $rows }}
     </div>
   {{ end }}
-  <div  class="font-sans prose dark:prose-invert lg:mt-8">
-    <h1 class="font-serif font-normal text-[28px] leading-tight mb-1">{{ .Title }}</h1>
-    {{ with .Params.subtitle }}<p class="font-serif italic text-base text-gray-500 dark:text-gray-400 mt-0">{{ . }}</p>{{ end }}
+  {{/* Kept out of .prose: the theme's unlayered .prose h1/p margins beat utilities */}}
+  <div class="shop-info font-sans lg:mt-8">
+    <div class="flex flex-col gap-5 mb-10">
+      <div class="flex flex-col gap-1">
+        <h1 class="font-serif font-normal text-[30px] leading-tight text-balance">{{ .Title }}</h1>
+        {{ with .Params.subtitle }}<p class="font-serif italic text-lg text-gray-600 dark:text-gray-400">{{ . }}</p>{{ end }}
+      </div>
     {{ if $offer.price }}
-      <span class="font-bold text-lg font-sans" id="price-label" data-pricetag="{{ $offer.pricetag }}">{{ if $offer.soldout }}Sold out{{ else }}{{ $offer.pricetag }}{{ end }}</span>
-      <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
-      <form action="" class="mt-4 dark:prose" method="post" id="stripe-form{{ if $offer.soldout }}-nope{{ end }}">
-        <div class="flex justify-between">
+      {{ $so := $offer.soldout }}
+      {{ $cleanPrice := $offer.pricetag | replaceRE `~~` "" | replaceRE `(?i)\s*sold\s*out\s*` "" | strings.TrimSpace }}
+      <div class="flex items-baseline gap-3">
+        <span class="font-bold text-2xl{{ if $so }} line-through text-gray-500 dark:text-gray-400{{ end }}" id="price-label">{{ $cleanPrice }}</span>
+        <span id="soldout-tag" class="text-xs font-semibold uppercase tracking-widest{{ if not $so }} hidden{{ end }}">Sold out</span>
+      </div>
+
+      <div id="soldout-block" class="flex flex-col gap-2{{ if not $so }} hidden{{ end }}">
+        <p class="font-serif italic text-lg text-gray-700 dark:text-gray-300">{{ with $offer.stock_total }}All {{ . }} copies have found a home.{{ else }}This one has found a home.{{ end }}</p>
+        <a class="text-sm underline decoration-dotted decoration-{{ $.Scratch.Get "color" }} underline-offset-4 w-fit" href="/shop/">See what's still in the shop →</a>
+      </div>
+
+      <div id="buy-block" class="flex flex-col gap-5{{ if $so }} hidden{{ end }}">
+      {{ with $offer.stock_total }}
+        {{ $left := cond (eq (printf "%v" $offer.stock) "") . (int $offer.stock) }}
+        <div id="stock-meter" class="flex flex-col gap-2{{ if $offer.soldout }} hidden{{ end }}" data-stock-total="{{ . }}">
+          <div class="flex justify-between text-sm">
+            <span id="stock-label" class="font-semibold">{{ $left }}/{{ . }} left</span>
+            <span class="text-gray-600 dark:text-gray-400">Edition of {{ . }}</span>
+          </div>
+          <div id="stock-bar" role="img" aria-label="{{ $left }} of {{ . }} copies left" class="h-1 rounded-full overflow-hidden bg-ink/10 dark:bg-white/15">
+            <div class="h-full bg-ink dark:bg-gray-200" style="width: {{ div (mul $left 100.0) . }}%"></div>
+          </div>
+        </div>
+      {{ end }}
+
+      <form action="" class="flex flex-col gap-3" method="post" id="stripe-form{{ if $offer.soldout }}-nope{{ end }}">
         {{ with $offer.options }}
-        <select required name="price_id" aria-label="Option">
+        <select required name="price_id" aria-label="Option" class="h-12 px-3 border border-gray-400 bg-transparent">
           <option selected="selected" disabled="disabled" value="">Select an option</option>
         {{ range . }}
           <option value="{{.value}}" >{{.name}}</option>
@@ -59,40 +86,43 @@
           {{ with $offer.product_id }}<input type="hidden" name="product_id" value="{{ . }}" />{{ end }}
           <input type="hidden" name="price_id" value="{{ $offer.price_id }}" />
         {{ end }}
-        {{ $shippingRates := partialCached "shop/shipping.html" . .RelPermalink }}
-        {{ if $shippingRates }}
-          <div>
-            <label class="prose dark:prose-invert" for="shipping_rate">Shipping:</label>
-            <select required name="shipping_rate" id="shipping_rate" aria-label="Shipping destination">
-              <option selected="selected" disabled="disabled" value="">Pick your location</option>
-            {{ range $shippingRates }}
-              <option value="{{.value}}" >{{.name}}</option>
-            {{ end }}
-            </select>
-          </div>
-        {{ else }}
-          <input type="hidden" name="shipping_rate" value="{{ .Site.Params.shop.default_shipping_rate }}" />
-        {{ end }}
-        </div>
+        {{/* The server sends this set's rates to Stripe; the buyer picks one at checkout. */}}
+        <input type="hidden" name="shipping" value="{{ .Params.shipping | default hugo.Data.shipping.default }}" />
+        {{ $c := $.Scratch.Get "color" }}
         <button
-          class="font-sans w-full mt-4 {{ if $offer.soldout }} bg-gray-300 line-through{{ else}}bg-{{$.Scratch.Get "color"}}{{ end}} hover:drop-shadow-xl rounded-xs transition duration-500 ease-in-out text-white font-bold py-2 m-0 appearance-none px-4 cursor-pointer"
+          class="buy-button font-sans w-full h-13 {{ if $offer.soldout }}bg-gray-300 line-through{{ end }} rounded-xs text-ink font-bold text-lg px-4 cursor-pointer flex items-center justify-center"
+          style="--buy: var(--color-{{ $c }});"
           id="checkout-button"
           type="submit"
           {{ if $offer.soldout }}disabled{{ end }}
         >
-					<svg class="hidden animate-spin -ml-1 mr-3 h-5 w-5 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
-						<circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
-						<path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
-					</svg>
-                                        <span class="">{{ if $offer.soldout }}Sold out{{ else }}Buy now{{ end }}</span><span id="stock-button-label" class="hidden"></span>
+          <svg class="hidden animate-spin -ml-1 mr-3 h-5 w-5" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+            <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+            <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+          </svg>
+          <span>{{ if $offer.soldout }}Sold out{{ else }}Buy now{{ end }}</span>
         </button>
+        <div id="error-message"></div>
+        {{/* Cheapest paid rate from names like "5€ • France"; the full list is on Stripe */}}
+        {{ $from := 0 }}
+        {{ $free := "" }}
+        {{ range partialCached "shop/shipping.html" . .RelPermalink }}
+          {{ $parts := split .name " • " }}
+          {{ $amount := index $parts 0 | strings.TrimSuffix "€" }}
+          {{ if findRE `^\d+$` $amount }}{{ $n := int $amount }}{{ if or (eq $from 0) (lt $n $from) }}{{ $from = $n }}{{ end }}{{ end }}
+          {{ if and (eq $amount "Free") (eq (len $parts) 2) }}{{ $place := index $parts 1 }}{{ $free = cond (eq $place "In person") "in person" (printf "in %s" $place) }}{{ end }}
+        {{ end }}
+        <p class="text-xs text-gray-600 dark:text-gray-400">
+          {{- with $from }}+ shipping from {{ . }}€{{ with $free }} (free {{ . }}){{ end }}, chosen at checkout<br>{{ end -}}
+          <span class="whitespace-nowrap"><a class="underline" href="/cgv/">Terms of sale</a> (FR)</span> · <span class="whitespace-nowrap">14-day returns</span> · <span class="whitespace-nowrap">No VAT, art. 293 B CGI</span>
+        </p>
       </form>
-
-      <div id="error-message"></div>
-      <p class="text-xs text-gray-500 dark:text-gray-400">Shipping, returns and 14-day withdrawal: see the <a href="/cgv/">terms of sale</a> (in French). VAT not applicable, art. 293 B du CGI.</p>
-
+      </div>
     {{ end }}
+    </div>
+    <div class="prose dark:prose-invert">
     {{.Content}}
+    </div>
   </div>
 </div>
 

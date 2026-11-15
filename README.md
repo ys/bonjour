@@ -62,17 +62,18 @@ access to prices and products is enough.
 ### Shipping
 
 Shipping rates live in [`data/shipping.json`](data/shipping.json), as named sets (`zine`, `print`,
-`cyanotype`), each with its `live` rates and optional `testing` ones (used outside production).
+`cyanotype`), each with its `live` rates and optional `testing` ones (used with a test Stripe key).
 A page gets the `default` set, or picks one with `shipping: print` in its front matter.
-A page can still list its own `shipping_rates`, but checkout only accepts rates that are in the
-data file, so add new Stripe rates there.
+The page sends the set's name, the checkout function sends its rates to Stripe (the `testing` ones
+with a test key) and the buyer picks one on the Checkout page. Stripe preselects the first rate, so
+keep the usual paid one first.
+Add new Stripe rates to a set in the data file: checkout only uses what is there.
 
 ### Configuration
 
 The Configuration keys needed by the functions are:
 - `STRIPE_SECRET_KEY`: Key used to interact with the API from the function
 - `STRIPE_PUBLISHABLE_KEY`: Key used by the frontend client to Stripe
-- `STRIPE_SHIPPING_RATE`: Shipping rate code to use at checkout
 
 The keys can be found at https://dashboard.stripe.com/apikeys
 

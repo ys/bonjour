@@ -115,56 +115,39 @@ function updateStockLabel(el, remaining, stockTotal) {
   }
 }
 
+// Swap the buy block for the sold-out note (stock checked live, or checkout refused)
+function markSoldOut() {
+  var buy = document.getElementById("buy-block");
+  if (buy) buy.classList.add("hidden");
+  ["soldout-block", "soldout-tag"].forEach(function (id) {
+    var el = document.getElementById(id);
+    if (el) el.classList.remove("hidden");
+  });
+  var label = document.getElementById("price-label");
+  if (label) label.classList.add("line-through", "text-gray-500", "dark:text-gray-400");
+  var form = document.getElementById("stripe-form");
+  if (form) form.removeEventListener("submit", handleFormSubmission);
+}
+
 function checkStock(itemId) {
   fetch("/api/stock?id=" + encodeURIComponent(itemId))
     .then(function (res) {
       return res.json();
     })
     .then(function (data) {
-      // Update stock in buy button
-      var total = data.stock_total;
-      if (total && !data.soldout) {
-        var btnLabel = document.getElementById("stock-button-label");
-        if (btnLabel) {
-          btnLabel.textContent = " \u2022 " + data.remaining + "/" + total + " left";
-          btnLabel.classList.remove("hidden");
-        }
+      // Update the stock meter above the buy button
+      var meter = document.getElementById("stock-meter");
+      var total = data.stock_total || (meter && parseInt(meter.getAttribute("data-stock-total"), 10));
+      if (meter && total) {
+        var left = Math.max(Math.min(data.remaining, total), 0);
+        document.getElementById("stock-label").textContent = left + "/" + total + " left";
+        var bar = document.getElementById("stock-bar");
+        bar.setAttribute("aria-label", left + " of " + total + " copies left");
+        bar.firstElementChild.style.width = (left / total) * 100 + "%";
+        meter.classList.toggle("hidden", !!data.soldout);
       }
 
-      if (data.soldout) {
-        var label = document.getElementById("price-label");
-        if (label) {
-          var pricetag = label.getAttribute("data-pricetag") || "";
-          // Strip markdown strikethrough (~~...~~) and "SOLD OUT" text to get clean price
-          var cleanPrice = pricetag.replace(/~~/g, "").replace(/\s*SOLD\s*OUT\s*/i, "").trim();
-          if (cleanPrice) {
-            label.innerHTML = "<del>" + cleanPrice + "</del> Sold out";
-          } else {
-            label.innerText = "Sold out";
-          }
-        }
-        var submit = document.getElementById("checkout-button");
-        if (submit) {
-          submit.disabled = true;
-          submit.classList.add("bg-gray-300", "line-through", "cursor-not-allowed");
-          submit.classList.remove("cursor-pointer", "hover:drop-shadow-xl");
-          // Remove any theme color classes (bg-{color})
-          submit.className.split(" ").forEach(function (cls) {
-            if (cls.match(/^bg-/) && cls !== "bg-gray-300") {
-              submit.classList.remove(cls);
-            }
-          });
-          var span = submit.querySelector("span");
-          if (span) {
-            span.innerText = "Sold out";
-          }
-        }
-        // Disable the form to prevent submission
-        var form = document.getElementById("stripe-form");
-        if (form) {
-          form.removeEventListener("submit", handleFormSubmission);
-        }
-      }
+      if (data.soldout) markSoldOut();
     })
     .catch(function () {});
 }
@@ -209,7 +192,7 @@ function handleFormSubmission(event) {
   data = {
     product_id: form.get("product_id"),
     price_id: form.get("price_id"),
-    shipping_rate: form.get("shipping_rate"),
+    shipping: form.get("shipping"),
     slug: window.location.pathname,
   };
 
@@ -241,19 +224,7 @@ function handleFormSubmission(event) {
         span.classList.remove("hidden");
       });
       if (err.error === "sold_out") {
-        document.getElementById("error-message").innerText =
-          "Sorry, this item is now sold out!";
-        submit.disabled = true;
-        submit.classList.add("bg-gray-300", "line-through", "cursor-not-allowed");
-        submit.classList.remove("cursor-pointer", "hover:drop-shadow-xl");
-        submit.className.split(" ").forEach(function (cls) {
-          if (cls.match(/^bg-/) && cls !== "bg-gray-300") {
-            submit.classList.remove(cls);
-          }
-        });
-        var stockLabel = submit.querySelector("#stock-button-label");
-        if (stockLabel) stockLabel.classList.add("hidden");
-        submit.querySelector("span").innerText = "Sold out";
+        markSoldOut();
       } else {
         document.getElementById("error-message").innerText =
           "Something went wrong. Please try again.";

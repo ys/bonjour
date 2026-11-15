@@ -2,22 +2,27 @@ const stripe = require("stripe")(process.env.STRIPE_SECRET_KEY);
 const { resolveItem, stockOf } = require("./_price");
 const shipping = require("../data/shipping.json");
 
-// Every rate from data/shipping.json (live and testing). Anything else is refused,
-// so the browser can't pick a rate the shop doesn't offer.
-const ALLOWED_RATES = new Set(
-  Object.values(shipping.sets).flatMap((set) =>
-    [...(set.live || []), ...(set.testing || [])].map((rate) => rate.value),
-  ),
-);
+// The page names a shipping set from data/shipping.json; the server picks its rates
+// (test rates with a test key) and the buyer chooses one on the Stripe Checkout page.
+const TEST_KEY = /^(sk|rk)_test_/.test(process.env.STRIPE_SECRET_KEY || "");
+
+function ratesFor(name) {
+  const set = shipping.sets[name || shipping.default];
+  if (!set) return null;
+  const rates = (TEST_KEY && set.testing) || set.live || [];
+  return rates.slice(0, 5).map((rate) => ({ shipping_rate: rate.value }));
+}
 
 module.exports = async (req, res) => {
-  const { product_id, price_id, slug, shipping_rate } = req.body || {};
+  const { product_id, price_id, slug, shipping: shippingSet } = req.body || {};
+  const shippingOptions = ratesFor(shippingSet);
   const itemId = product_id || price_id;
   const url = `https://${process.env.BASE_URL || process.env.VERCEL_URL}`;
 
   if (
     !itemId ||
-    !ALLOWED_RATES.has(shipping_rate) ||
+    !shippingOptions ||
+    shippingOptions.length === 0 ||
     typeof slug !== "string" ||
     !slug.startsWith("/")
   ) {
@@ -59,7 +64,7 @@ module.exports = async (req, res) => {
     mode: "payment",
     allow_promotion_codes: true,
     billing_address_collection: "auto",
-    shipping_rates: [shipping_rate],
+    shipping_options: shippingOptions,
     shipping_address_collection: {
       allowed_countries: [
         "AC",

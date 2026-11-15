@@ -33,6 +33,7 @@
 {{- $pricetag := $p.Params.pricetag -}}
 {{- $soldout := $p.Params.soldout | default false -}}
 {{- $stockTotal := $p.Params.stock_total -}}
+{{- $stock := "" -}}
 {{- $fromStripe := false -}}
 
 {{- /* Single price */ -}}
@@ -44,8 +45,9 @@
     {{- with .product_id }}{{ $productId = . }}{{ end -}}
     {{- $price = .amount -}}
     {{- $currency = .currency -}}
-    {{- $soldout = .soldout | default false -}}
+    {{- $soldout = or $soldout (.soldout | default false) -}}
     {{- with .stock_total }}{{ $stockTotal = . }}{{ end -}}
+    {{- if isset . "stock" }}{{ $stock = .stock }}{{ end -}}
     {{- $pricetag = cond $soldout (printf "~~%s~~ SOLD OUT" .pricetag) .pricetag -}}
   {{- end -}}
 {{- end -}}
@@ -83,6 +85,7 @@
   "pricetag" $pricetag
   "soldout" $soldout
   "stock_total" $stockTotal
+  "stock" $stock
   "options" $options
   "stripe" $fromStripe
 -}}

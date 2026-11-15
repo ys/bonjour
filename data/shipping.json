@@ -3,26 +3,26 @@
   "sets": {
     "zine": {
       "live": [
-        { "name": "Free • We have to meet", "value": "shr_1RnetBFaA8Wpl3EpY58Nk23f" },
         { "name": "5€ • France", "value": "shr_1IkUjnFaA8Wpl3EpVDYSu2a6" },
-        { "name": "15€ • Rest of the world", "value": "shr_1RnerqFaA8Wpl3EpaU1C93k9" }
+        { "name": "15€ • Rest of the world", "value": "shr_1RnerqFaA8Wpl3EpaU1C93k9" },
+        { "name": "Free • In person", "value": "shr_1RnetBFaA8Wpl3EpY58Nk23f" }
       ],
       "testing": [
-        { "name": "Free • We have to meet", "value": "shr_1SxuvIFaA8Wpl3Ep1gTSgJhn" },
         { "name": "5€ • France", "value": "shr_1SxuvNFaA8Wpl3EpG9qIODG3" },
-        { "name": "15€ • Rest of the world", "value": "shr_1SxuvUFaA8Wpl3Epx4naimqP" }
+        { "name": "15€ • Rest of the world", "value": "shr_1SxuvUFaA8Wpl3Epx4naimqP" },
+        { "name": "Free • In person", "value": "shr_1SxuvIFaA8Wpl3Ep1gTSgJhn" }
       ]
     },
     "print": {
       "live": [
-        { "name": "Free • We have to meet", "value": "shr_1RnetBFaA8Wpl3EpY58Nk23f" },
         { "name": "15€ • France", "value": "shr_1SJCm5FaA8Wpl3EpfNqONglC" },
-        { "name": "50€ • Rest of the world", "value": "shr_1SJCnLFaA8Wpl3Epirhls2X6" }
+        { "name": "50€ • Rest of the world", "value": "shr_1SJCnLFaA8Wpl3Epirhls2X6" },
+        { "name": "Free • In person", "value": "shr_1RnetBFaA8Wpl3EpY58Nk23f" }
       ],
       "testing": [
-        { "name": "Free • We have to meet", "value": "shr_1SxuvIFaA8Wpl3Ep1gTSgJhn" },
         { "name": "15€ • France", "value": "shr_1SxuvQFaA8Wpl3EpaQVBEKZe" },
-        { "name": "50€ • Rest of the world", "value": "shr_1SxuvXFaA8Wpl3EpY0uXFatX" }
+        { "name": "50€ • Rest of the world", "value": "shr_1SxuvXFaA8Wpl3EpY0uXFatX" },
+        { "name": "Free • In person", "value": "shr_1SxuvIFaA8Wpl3Ep1gTSgJhn" }
       ]
     },
     "cyanotype": {
