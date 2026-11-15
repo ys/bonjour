@@ -485,17 +485,21 @@ hr {
     @apply mt-8;
   }
   li {
-    @apply my-0;
+    @apply my-0 ps-0;
   }
   h3 {
     @apply font-semibold mt-8 py-1;
   }
+  // list-inside already indents the marker; drop the typography plugin's padding on top of it
   ul {
-   @apply list-inside my-4;
+   @apply list-inside my-4 ps-0;
   }
 
   ol {
-   @apply list-decimal list-inside my-4;
+   @apply list-decimal list-inside my-4 ps-0;
+  }
+  :is(h2, h3) + :is(ul, ol) {
+    @apply mt-2;
   }
   li p {
     @apply inline my-0;
