@@ -52,13 +52,24 @@
       {{ $cleanPrice := $offer.pricetag | replaceRE `~~` "" | replaceRE `(?i)\s*sold\s*out\s*` "" | strings.TrimSpace }}
       <div class="flex items-baseline gap-3">
         <span class="font-bold text-2xl{{ if $so }} line-through text-gray-500 dark:text-gray-400{{ end }}" id="price-label">{{ $cleanPrice }}</span>
-        <span id="soldout-tag" class="text-xs font-semibold uppercase tracking-widest{{ if not $so }} hidden{{ end }}">Sold out</span>
+        {{ if $so }}<span id="soldout-tag" class="text-xs font-semibold uppercase tracking-widest">Sold out</span>{{ end }}
       </div>
 
-      <div id="soldout-block" class="flex flex-col gap-2{{ if not $so }} hidden{{ end }}">
+      {{/* Not in the page unless sold out, so crawlers don't read "Sold out" on an item in stock; JS stamps the template if stock runs out live */}}
+      {{ if $so }}
+      <div id="soldout-block" class="flex flex-col gap-2">
         <p class="font-serif italic text-lg text-gray-700 dark:text-gray-300">{{ with $offer.stock_total }}All {{ . }} copies have found a home.{{ else }}This one has found a home.{{ end }}</p>
         <a class="text-sm underline decoration-dotted decoration-{{ $.Scratch.Get "color" }} underline-offset-4 w-fit" href="/shop/">See what's still in the shop →</a>
       </div>
+      {{ else }}
+      <template id="soldout-template">
+        <span id="soldout-tag" class="text-xs font-semibold uppercase tracking-widest">Sold out</span>
+        <div id="soldout-block" class="flex flex-col gap-2">
+        <p class="font-serif italic text-lg text-gray-700 dark:text-gray-300">{{ with $offer.stock_total }}All {{ . }} copies have found a home.{{ else }}This one has found a home.{{ end }}</p>
+        <a class="text-sm underline decoration-dotted decoration-{{ $.Scratch.Get "color" }} underline-offset-4 w-fit" href="/shop/">See what's still in the shop →</a>
+      </div>
+      </template>
+      {{ end }}
 
       <div id="buy-block" class="flex flex-col gap-5{{ if $so }} hidden{{ end }}">
       {{ with $offer.stock_total }}

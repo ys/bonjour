@@ -118,12 +118,16 @@ function updateStockLabel(el, remaining, stockTotal) {
 // Swap the buy block for the sold-out note (stock checked live, or checkout refused)
 function markSoldOut() {
   var buy = document.getElementById("buy-block");
-  if (buy) buy.classList.add("hidden");
-  ["soldout-block", "soldout-tag"].forEach(function (id) {
-    var el = document.getElementById(id);
-    if (el) el.classList.remove("hidden");
-  });
+  var tpl = document.getElementById("soldout-template");
   var label = document.getElementById("price-label");
+  if (tpl && buy) {
+    var parts = tpl.content.cloneNode(true);
+    var tag = parts.getElementById("soldout-tag");
+    if (tag && label) label.after(tag);
+    buy.before(parts);
+    tpl.remove();
+  }
+  if (buy) buy.classList.add("hidden");
   if (label) label.classList.add("line-through", "text-gray-500", "dark:text-gray-400");
   var form = document.getElementById("stripe-form");
   if (form) form.removeEventListener("submit", handleFormSubmission);

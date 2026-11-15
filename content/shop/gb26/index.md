@@ -28,12 +28,12 @@ resources:
   - src: "*.webp"
 ---
 
-Gliding Barnacles is definitely not about Praia do Cabedelo and its right wave machine. It is not about the surf, the art, the music or even the food. It is not about the hundreds of couches. It is about the people and the culture of all of that.
+Gliding Barnacles is definitely not about Praia do Cabedelo and its right-hand wave machine. It is not about the surf, the art, the music or even the food. It is not about the hundreds of couches. It is about the people and the culture of all of that.
 
 *Shot on film in September 2026, in Figueira da Foz, Portugal.*
 
 
-**Hand-made to order, signed limited edition of 50 copies.**
+**Hand-made to order, signed.**
 
 Printed and sewn by hand at home in Finistère, so no two are exactly the same. Comes with a print, numbered to match your copy. Ships within a week.
 
@@ -43,5 +43,3 @@ Printed and sewn by hand at home in Finistère, so no two are exactly the same. 
 - 102gsm inside pages, 220gsm cover
 - Signed and numbered print included
 - Shot on Leica M6 & Contax T3
-
-*Price {{< price >}}, shipping on top*
