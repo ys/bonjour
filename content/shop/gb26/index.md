@@ -30,7 +30,7 @@ resources:
 
 Gliding Barnacles is definitely not about Praia do Cabedelo and its right wave machine. It is not about the surf, the art, the music or even the food. It is not about the hundreds of couches. It is about the people and the culture of all of that.
 
-*Shot it on film in September 2026, in Figueira da Foz, Portugal.*
+*Shot on film in September 2026, in Figueira da Foz, Portugal.*
 
 **Hand-made, signed limited edition of 50 copies.**  
 Printed and sewn by hand at home in Finistère, so no two are exactly the same.
