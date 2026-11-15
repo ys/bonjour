@@ -33,11 +33,10 @@ Gliding Barnacles is definitely not about Praia do Cabedelo and its right wave m
 *Shot on film in September 2026, in Figueira da Foz, Portugal.*
 
 
-## Hand-made to order, signed limited edition of 50 copies.
+**Hand-made to order, signed limited edition of 50 copies.**
 
 Printed and sewn by hand at home in Finistère, so no two are exactly the same. Comes with a print, numbered to match your copy. Ships within a week.
 
-## Information
 
 - A5 size, 44 pages inside
 - Singer-style binding, sewn by hand

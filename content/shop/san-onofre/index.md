@@ -7,10 +7,10 @@ date: 2026-06-23
 emoji: "🌞"
 grid: "front /  pages-1.webp | pages-2 | print | back"
 currency: "EUR"
-price: 20
+price: 25
 soldout: false
 stock_total: 15
-pricetag: "€20,00 EUR"
+pricetag: "€25,00 EUR"
 price_id: "price_1Ubk7hFaA8Wpl3EpxvL7Bp7T"
 product_id: "prod_Ul0HAxk8mZ7fCO"
 testing_price_id: "price_1TlU60FaA8Wpl3Ep8GeFrpha"
