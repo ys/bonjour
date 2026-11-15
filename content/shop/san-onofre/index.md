@@ -1,6 +1,6 @@
 ---
 color: "yellow"
-title: "San Onofre — Zine"
+title: "San Onofre - Zine"
 slug: "/san-onofre-zine"
 subtitle: "A5 photo zine, home printed"
 date: 2026-06-23
