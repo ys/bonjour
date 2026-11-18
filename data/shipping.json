@@ -3,8 +3,10 @@
   "sets": {
     "zine": {
       "live": [
-        { "name": "5€ • France", "value": "shr_1IkUjnFaA8Wpl3EpVDYSu2a6" },
-        { "name": "10€ • Worldwide", "value": "shr_1UciLjFaA8Wpl3Ep3w8vvGrw" },
+        { "name": "4.50€ • France", "value": "shr_1Ud7pNFaA8Wpl3Ep9ZxxoNLL" },
+        { "name": "7€ • Belgium, Luxembourg, Netherlands, Spain, Portugal", "value": "shr_1Ud7pOFaA8Wpl3EpLmzzfBqm" },
+        { "name": "12€ • Worldwide", "value": "shr_1Ud7pOFaA8Wpl3EpCpQhbIQA" },
+        { "name": "15€ • Worldwide, tracked", "value": "shr_1Ud7pOFaA8Wpl3EpXm3eM7XF" },
         { "name": "Free • In person", "value": "shr_1Uc51SFaA8Wpl3EpMoSTMEuT" }
       ],
       "testing": [

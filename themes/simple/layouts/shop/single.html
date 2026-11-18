@@ -120,11 +120,11 @@
         {{ range partialCached "shop/shipping.html" . .RelPermalink }}
           {{ $parts := split .name " • " }}
           {{ $amount := index $parts 0 | strings.TrimSuffix "€" }}
-          {{ if findRE `^\d+$` $amount }}{{ $n := int $amount }}{{ if or (eq $from 0) (lt $n $from) }}{{ $from = $n }}{{ end }}{{ end }}
+          {{ if findRE `^\d+([.,]\d+)?$` $amount }}{{ $n := float (replace $amount "," ".") }}{{ if or (eq $from 0) (lt $n $from) }}{{ $from = $n }}{{ end }}{{ end }}
           {{ if and (eq $amount "Free") (eq (len $parts) 2) }}{{ $place := index $parts 1 }}{{ $free = cond (eq $place "In person") "in person" (printf "in %s" $place) }}{{ end }}
         {{ end }}
         <p class="text-xs text-gray-600 dark:text-gray-400">
-          {{- with $from }}+ shipping from {{ . }}€{{ with $free }} (free {{ . }}){{ end }}, chosen at checkout<br>{{ end -}}
+          {{- with $from }}+ shipping from {{ if eq . (math.Floor .) }}{{ int . }}{{ else }}{{ printf "%.2f" . }}{{ end }}€{{ with $free }} (free {{ . }}){{ end }}, chosen at checkout<br>{{ end -}}
           <span class="whitespace-nowrap"><a class="underline" href="/cgv/">Terms of sale</a> (FR)</span> · <span class="whitespace-nowrap">14-day returns</span> · <span class="whitespace-nowrap">No VAT, art. 293 B CGI</span>
         </p>
       </form>
