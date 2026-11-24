@@ -1,3 +1,60 @@
+- _id: 1941208554
+  link: >-
+    https://thedesignfiles.net/2026/11/architecture-flooded-gums-marker?ref=DenseDiscovery-416
+  title: This Cabin Proves Flood-Proof Homes Can Still Be Beautiful
+  excerpt: >-
+    Drawing inspiration from surrounding trees, this elevated cabin feels as if
+    it were ‘planted’ within its rural landscape.
+  note: 'When you think about renovating, this comes to mind'
+  type: article
+  user:
+    $ref: users
+    $id: 1617030
+  cover: >-
+    https://thedesignfiles.wpenginepowered.com/wp-content/uploads/2026/11/archi-flooded-gums-tdf-05-2200x2860.jpg
+  media:
+    - link: >-
+        https://thedesignfiles.wpenginepowered.com/wp-content/uploads/2026/11/archi-flooded-gums-tdf-05-2200x2860.jpg
+      type: image
+    - link: >-
+        https://wsrv.nl/?url=https://thedesignfiles.wpenginepowered.com/wp-content/uploads/2026/11/archi-flooded-gums-tdf-02.jpg&w=2560&q=75&output=webp
+      type: image
+    - link: >-
+        https://wsrv.nl/?url=https://thedesignfiles.wpenginepowered.com/wp-content/uploads/2026/11/archi-flooded-gums-tdf-03.jpg&w=2560&q=75&output=webp
+      type: image
+    - link: >-
+        https://wsrv.nl/?url=https://thedesignfiles.wpenginepowered.com/wp-content/uploads/2026/11/archi-flooded-gums-tdf-04.jpg&w=1440&q=75&output=webp
+      type: image
+    - link: >-
+        https://wsrv.nl/?url=https://thedesignfiles.wpenginepowered.com/wp-content/uploads/2026/11/archi-flooded-gums-tdf-05.jpg&w=1440&q=75&output=webp
+      type: image
+  tags: []
+  important: true
+  reminder:
+    date: null
+  removed: false
+  created: '2026-11-24T09:13:21.089Z'
+  collection:
+    $ref: collections
+    $id: 37136914
+    oid: 37136914
+  highlights: []
+  lastUpdate: '2026-11-24T09:13:45.895Z'
+  domain: thedesignfiles.net
+  creatorRef:
+    _id: 1617030
+    avatar: ''
+    name: bonjouryannick
+    email: ''
+  sort: 1941208554
+  cache:
+    status: ready
+    created: '2026-11-24T09:14:41.927Z'
+    size: 12161034
+  broken: false
+  collectionId: 37136914
+  collection_name: HOME
+  parsed: {}
 - _id: 1925796529
   link: 'https://www.youtube.com/watch?v=E25vGFWK40E&list=WL&index=3'
   title: Pie in the Sky | Karina Rozunko Surfing
