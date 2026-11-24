@@ -9183,45 +9183,6 @@
           }
         },
         {
-          "book_id": 2406558,
-          "rating": 4,
-          "date_added": "2021-03-26",
-          "user_book_status": {
-            "slug": "read"
-          },
-          "user_book_reads": [
-            {
-              "finished_at": "2021-03-26"
-            }
-          ],
-          "edition": {
-            "isbn_10": "2918490997",
-            "isbn_13": "9782918490999",
-            "pages": 343,
-            "release_date": "1962-09-27"
-          },
-          "book": {
-            "title": "Printemps silencieux",
-            "subtitle": null,
-            "slug": "printemps-silencieux-1962",
-            "contributions": [
-              {
-                "author": {
-                  "name": "Al Gore"
-                }
-              },
-              {
-                "author": {
-                  "name": "Rachel Carson"
-                }
-              }
-            ],
-            "image": {
-              "url": "https://assets.hardcover.app/external_data/2458225/8116077313bbb94b55da05e61828089a4b5d016b.jpeg"
-            }
-          }
-        },
-        {
           "book_id": 931981,
           "rating": 3,
           "date_added": "2024-11-26",
@@ -12320,6 +12281,40 @@
             ],
             "image": {
               "url": "https://assets.hardcover.app/edition/32342014/0dc720ff644ea67fe6f39385e00c99ad5c121a6f.jpeg"
+            }
+          }
+        },
+        {
+          "book_id": 170652,
+          "rating": 4,
+          "date_added": "2021-03-26",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2021-03-26"
+            }
+          ],
+          "edition": {
+            "isbn_10": "2918490997",
+            "isbn_13": "9782918490999",
+            "pages": 343,
+            "release_date": "1962-09-27"
+          },
+          "book": {
+            "title": "Silent Spring",
+            "subtitle": null,
+            "slug": "silent-spring",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Rachel Carson"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/external_data/4087793/db46e22fbd1796675dc470e0be6e8c92bef09db9.jpeg"
             }
           }
         },

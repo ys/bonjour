@@ -409,19 +409,6 @@ books:
       https://assets.hardcover.app/edition/31744636/76c2f70a9b1e68a3de816ef94f4a03d0f7842bd5.jpeg
     reading: false
     url: https://hardcover.app/books/fuki-no-to-2017
-  - title: Printemps silencieux
-    author: Al Gore
-    subtitle: ""
-    date: 2021-03-26
-    read: 2021-03-26
-    rating: 4
-    pages: 343
-    isbn: "2918490997"
-    isbn13: "9782918490999"
-    cover_url: >-
-      https://assets.hardcover.app/external_data/2458225/8116077313bbb94b55da05e61828089a4b5d016b.jpeg
-    reading: false
-    url: https://hardcover.app/books/printemps-silencieux-1962
   - title: Thermae Romae (Compilation), Vol. 1
     author: Mari Yamazaki
     subtitle: ""
@@ -484,3 +471,16 @@ books:
       https://assets.hardcover.app/external_data/2458120/7198f4f318ab688801922886b518fb9966bbec4d.jpeg
     reading: false
     url: https://hardcover.app/books/tu-mavais-dit-ouessant-2019
+  - title: Silent Spring
+    author: Rachel Carson
+    subtitle: ""
+    date: 2021-03-26
+    read: 2021-03-26
+    rating: 4
+    pages: 343
+    isbn: "2918490997"
+    isbn13: "9782918490999"
+    cover_url: >-
+      https://assets.hardcover.app/external_data/4087793/db46e22fbd1796675dc470e0be6e8c92bef09db9.jpeg
+    reading: false
+    url: https://hardcover.app/books/silent-spring
