@@ -3,6 +3,45 @@
     {
       "user_books": [
         {
+          "book_id": 3130914,
+          "rating": 5,
+          "date_added": "2021-03-26",
+          "user_book_status": {
+            "slug": "read"
+          },
+          "user_book_reads": [
+            {
+              "finished_at": "2016-08-01"
+            }
+          ],
+          "edition": {
+            "isbn_10": "1607068710",
+            "isbn_13": "9781607068716",
+            "pages": 104,
+            "release_date": "2014-06-24"
+          },
+          "book": {
+            "title": "Lazarus, Vol. 2: Lift",
+            "subtitle": "Lift",
+            "slug": "lazarus-vol-2",
+            "contributions": [
+              {
+                "author": {
+                  "name": "Greg Rucka"
+                }
+              },
+              {
+                "author": {
+                  "name": "Michael Lark"
+                }
+              }
+            ],
+            "image": {
+              "url": "https://assets.hardcover.app/edition/26680518/b6738408adfd261dd74710942c5ccf8b791fddc0.jpeg"
+            }
+          }
+        },
+        {
           "book_id": 446680,
           "rating": 4.5,
           "date_added": "2026-10-27",
@@ -422,45 +461,6 @@
             ],
             "image": {
               "url": "https://assets.hardcover.app/editions/31938308/e475401e-9bce-4c28-aef9-d6055864d767.jpg"
-            }
-          }
-        },
-        {
-          "book_id": 452606,
-          "rating": 5,
-          "date_added": "2021-03-26",
-          "user_book_status": {
-            "slug": "read"
-          },
-          "user_book_reads": [
-            {
-              "finished_at": "2016-08-01"
-            }
-          ],
-          "edition": {
-            "isbn_10": "1607068710",
-            "isbn_13": "9781607068716",
-            "pages": null,
-            "release_date": "2014-06-24"
-          },
-          "book": {
-            "title": "Lazarus, Vol. 5",
-            "subtitle": null,
-            "slug": "lazarus-vol-5-2017",
-            "contributions": [
-              {
-                "author": {
-                  "name": "Michael Lark"
-                }
-              },
-              {
-                "author": {
-                  "name": "Greg Rucka"
-                }
-              }
-            ],
-            "image": {
-              "url": "https://assets.hardcover.app/edition/26680518/7626151-L.jpg"
             }
           }
         },
@@ -10793,7 +10793,7 @@
             "isbn_10": "1681987236",
             "isbn_13": "9781681987231",
             "pages": 328,
-            "release_date": "2021-01-01"
+            "release_date": "2021-08-07"
           },
           "book": {
             "title": "The Meaning in the Making: The Why and How Behind Our Human Need to Create",
@@ -12475,7 +12475,7 @@
               },
               {
                 "author": {
-                  "name": "Touco Shino"
+                  "name": "Touko Shino"
                 }
               }
             ],

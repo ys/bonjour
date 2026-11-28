@@ -1,17 +1,18 @@
 year: 2016
 books:
-  - title: Lazarus, Vol. 5
-    author: Michael Lark
-    subtitle: ""
+  - title: "Lazarus, Vol. 2: Lift"
+    author: Greg Rucka
+    subtitle: Lift
     date: 2016-08-01
     read: 2016-08-01
     rating: 5
-    pages: 0
+    pages: 104
     isbn: "1607068710"
     isbn13: "9781607068716"
-    cover_url: https://assets.hardcover.app/edition/26680518/7626151-L.jpg
+    cover_url: >-
+      https://assets.hardcover.app/edition/26680518/b6738408adfd261dd74710942c5ccf8b791fddc0.jpeg
     reading: false
-    url: https://hardcover.app/books/lazarus-vol-5-2017
+    url: https://hardcover.app/books/lazarus-vol-2
   - title: Release It!
     author: Michael T. Nygard
     subtitle: Design and Deploy Production-Ready Software
